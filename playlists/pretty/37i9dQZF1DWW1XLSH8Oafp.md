@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring zorza
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,419 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,603 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 39 | [Love Me](https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Love Me](https://open.spotify.com/album/4yBMmSErU2Qy5A9Pd54VVd) | 2:20 |
 | 40 | [Tell Me Your Fears](https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tell Me Your Fears](https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS) | 2:14 |
 | 41 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
-| 42 | [Lose Our Minds](https://open.spotify.com/track/5MnU9VEZQiVjynRKAqjpMK) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [outlines](https://open.spotify.com/album/3x0BXtaHzF9CE1UaKYZSCm) | 3:21 |
+| 42 | [Lose Our Minds](https://open.spotify.com/track/4C5dI7ps3TgYSijQZv95gF) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/7ajdIFTb0yueDF5X4IhYr9) | 3:21 |
 | 43 | [Pink Television](https://open.spotify.com/track/1rMWYlzlE8NWHyZj9DWhww) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Pink Television](https://open.spotify.com/album/1wI6CqM2bYIvPEnqOId4MV) | 5:07 |
 | 44 | [Always Got The Love \- jamesjamesjames Remix](https://open.spotify.com/track/3Tfu5sRgNUEYeTzfKKKZmR) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Always Got The Love \(jamesjamesjames Remix\)](https://open.spotify.com/album/6w4OvArsQ2zozG168lmxOe) | 4:04 |
 | 45 | [comfort me](https://open.spotify.com/track/4fcpi4jZjIA7Pk4PT0hxex) | [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0), [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [comfort me](https://open.spotify.com/album/3IXlytTt0SlxKw6DsE1Z6i) | 2:06 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 100 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 |
 | 101 | [Rollerboi](https://open.spotify.com/track/3yl3UzHAeL6NC4KNiHDS6Y) | [106MIDO](https://open.spotify.com/artist/4LLCE3XwjYx6AmCZhb3RDf) | [Tower Bridge Paranoia / Pyeongchang](https://open.spotify.com/album/6Y4xdlLCc8z6qhzsAH1di5) | 8:02 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGE0ZTZlMzRlZmVhOTA1N2IzMmUyYmVlODU0YjQ5M2I1`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDBlNThhNWYxMmYwZTA3MTNlNjk3NTc4M2U2NzBiOWU4`

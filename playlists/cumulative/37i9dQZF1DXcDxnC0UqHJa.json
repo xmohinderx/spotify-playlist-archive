@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 294142,
       "name": "After The Gold Rush",
       "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 199426,
       "name": "Don't You Want Me",
       "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 245315,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO"
@@ -1639,6 +1639,24 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413320,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1zbe9xUzzuFFgwEeqntTs5"
     },
     {
       "album": {
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 236546,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
@@ -3191,7 +3209,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 142153,
       "name": "Something",
       "url": "https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA"
@@ -3595,7 +3613,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
@@ -3889,7 +3907,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 206573,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: <b>Margo Cilker</b>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,486 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,493 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,13 +101,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 91 | [Paducah](https://open.spotify.com/track/0aHHSYmJEYhQzqMMTkJ6EG) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/5V1in7tAJUHIuZ5qVkPx5K) | 3:30 |
 | 92 | [Generation Blues](https://open.spotify.com/track/492j910IaKI0oMeZIbvxpa) | [Graham Sharp](https://open.spotify.com/artist/2VgjLUdJQfjmjy4qFSeftQ) | [Generation Blues](https://open.spotify.com/album/7nHTE11frwHTdD2D8oJIrO) | 2:57 |
 | 93 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 |
-| 94 | [The World: Alone](https://open.spotify.com/track/5ItmN0D2K2Db0C71TSmG2H) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children: Tilted Crown](https://open.spotify.com/album/4dtznENq1I2Km4Vn2V7DSV) | 3:50 |
+| 94 | [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 |
 | 95 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 |
 | 96 | [Silver Valley](https://open.spotify.com/track/2FbPOBRlg3s36jfEC2vAGj) | [David Miner](https://open.spotify.com/artist/6VumpqEj917mn0DCQMUbGJ) | [Silver Valley](https://open.spotify.com/album/6N8JvTIcevgsOAcwwfmJWo) | 4:35 |
 | 97 | [Roller Coaster](https://open.spotify.com/track/742x5JWzzPYXA60xM64xwE) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Roller Coaster](https://open.spotify.com/album/17gdWDwcZffnaZfjSptALP) | 4:29 |
-| 98 | [Jack of Fools](https://open.spotify.com/track/00uM0sUFwqzPQd3QA55xPM) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr), [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/1iCFOIlVgRXMe816f6Hzbz) | 4:48 |
+| 98 | [Jack of Fools](https://open.spotify.com/track/2K3tyFoVNYUwIjwHqmsB5W) | [Spencer Cullum](https://open.spotify.com/artist/1u2RgFiCSd9phVG5OB51jr) | [Spencer Cullum's Coin Collection](https://open.spotify.com/album/61RWLc1ytbWD3XRHbGWkIw) | 4:48 |
 | 99 | [Tanglin](https://open.spotify.com/track/1qqlDHmFTlh9ePezTHYROy) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Tanglin](https://open.spotify.com/album/01JWN1WAPqp7bPkMGDwRfs) | 3:45 |
 | 100 | [Further Away \- Acoustic](https://open.spotify.com/track/11nyQyvVojrSOutyVtaNF3) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5602llJ8wtfS1YSbwSNraO) | [Further Away \(Acoustic\)](https://open.spotify.com/album/51KArM9lLuMna0nFzWz2Wy) | 3:56 |
 | 101 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGI1M2E2MmViY2Y0ODM0NDAzY2NjZDc2ZmFmODE0N2Qz`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDBjNjQyYmRlNTAzZjYzOTQ1ZDUxMjA0ZTQ4YjM5Zjky`

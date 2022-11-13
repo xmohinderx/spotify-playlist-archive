@@ -504,6 +504,36 @@
     },
     {
       "album": {
+        "name": "Young, Wild & Free - Drip Hip-Hop",
+        "url": "https://open.spotify.com/album/2vxCUnOLz05EI3NnWZczZT"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231618,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/1KA2OABBYgvJjNFT3ZhYvE"
+    },
+    {
+      "album": {
         "name": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
         "url": "https://open.spotify.com/album/6FPhDUfQUECZVD8vnobxjM"
       },
@@ -827,7 +857,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 116256,
       "name": "GNF (OKOKOK)",
       "url": "https://open.spotify.com/track/1B9Su8GUJ7DETOKVLOOKWA"
@@ -845,7 +875,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 116256,
       "name": "GNF (OKOKOK)",
       "url": "https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN"
@@ -867,7 +897,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
@@ -889,7 +919,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E"
@@ -1231,7 +1261,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 177000,
       "name": "LOAD IT UP",
       "url": "https://open.spotify.com/track/0LE2H36uYuoBi9D9IcyiuO"
@@ -1597,7 +1627,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 154424,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/63yhVAhqcMO5JExOOGhNOc"
@@ -1615,7 +1645,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 154424,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"

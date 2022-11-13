@@ -1,18 +1,18 @@
 {
   "description": "Cl\u00e1sicos que son el curita perfecto para tu coraz\u00f3n. ",
-  "num_followers": 52255,
+  "num_followers": 52293,
   "original_name": "El Club de los Corazones Rotos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMDZlYjg1NDliZDY1YmY5NjQ1NmZlZDBlMGYwOTM0ZjFl",
+  "snapshot_id": "MTYxMjk4MjU5NywwMDAwMDAwMDI4MGEwNTRlMTgyODZjNGE1MTE2NGZmMjY1MWQ3M2Qy",
   "tracks": [
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "The Very Best of Gilbert O'Sullivan - A Singer and His Songs",
-        "url": "https://open.spotify.com/album/7v9QlxynicsCf6vf8kg6aW"
+        "name": "Back to Front",
+        "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 216840,
       "name": "Alone Again (Naturally)",
-      "url": "https://open.spotify.com/track/1pQsftaOLg3bjGzrgF9GtQ"
+      "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 334743,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Piano Man (Legacy Edition)",
-        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Piano Man (Legacy Edition)",
+        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 383502,
       "name": "How Can You Mend a Broken Heart",
       "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -347,6 +363,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Elvis (Fool)",
         "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
@@ -379,22 +411,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -423,6 +439,22 @@
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Love Will Tear Us Apart - 2020 Remaster",
+      "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -523,6 +555,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -551,6 +599,22 @@
       "duration_ms": 247640,
       "name": "I'd Love You to Want Me",
       "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "I Will Survive (Phil Kelsey Remix)",
+        "url": "https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "I Will Survive - Original 7\" Version",
+      "url": "https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -587,6 +651,38 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "Boys Don't Cry - Single Version",
+      "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Where Do Broken Hearts Go",
+      "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -619,6 +715,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I Won't Last A Day Without You",
+      "url": "https://open.spotify.com/track/42CX3VhPsCG75BFp07r9Vj"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Face the Music",
         "url": "https://open.spotify.com/album/1HSU8sXRI9HiEAHslHRFQ3"
       },
@@ -635,18 +747,34 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
       },
       "artists": [
         {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 232533,
-      "name": "I Won't Last A Day Without You",
-      "url": "https://open.spotify.com/track/42CX3VhPsCG75BFp07r9Vj"
+      "duration_ms": 228933,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "I Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -703,6 +831,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Lost Without Your Love",
         "url": "https://open.spotify.com/album/67VoVoP15uIXTKG7dqMlwW"
       },
@@ -715,54 +859,6 @@
       "duration_ms": 176893,
       "name": "Lost Without Your Love",
       "url": "https://open.spotify.com/track/1aRncYBtdizYoVKcSt8oaY"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of 10CC",
-        "url": "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 368226,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Ocean Rain",
-        "url": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 348293,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "If We Fall in Love Tonight",
-        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "I Don't Want to Talk About It - 1989 Version",
-      "url": "https://open.spotify.com/track/6OPi0rUWmRWJhe1BjeOlJb"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -795,6 +891,70 @@
       "duration_ms": 231506,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1Gv6f7m5ZNDcInxGA8PsLS"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of 10CC",
+        "url": "https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 368226,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Ocean Rain",
+        "url": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 348293,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "If We Fall in Love Tonight",
+        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "I Don't Want to Talk About It - 1989 Version",
+      "url": "https://open.spotify.com/track/6OPi0rUWmRWJhe1BjeOlJb"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -847,6 +1007,22 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
+        "name": "Lovin' Things",
+        "url": "https://open.spotify.com/album/0mpvBlu40FkpDutbwrBXrD"
+      },
+      "artists": [
+        {
+          "name": "Marmalade",
+          "url": "https://open.spotify.com/artist/1tttI1iC4FsS6BM5l38oe5"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Reflections Of My Life",
+      "url": "https://open.spotify.com/track/5vZtw6zhx8bd7Umsv2w35x"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5CVouzgQnK0xK3M3YC8ncs"
       },
@@ -895,22 +1071,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Saturday Night Fever (The Original Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Elliman",
-          "url": "https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "If I Can't Have You - From \"Saturday Night Fever\"",
-      "url": "https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW"
       },
@@ -923,6 +1083,22 @@
       "duration_ms": 295733,
       "name": "Somebody To Love - 2011 Remaster",
       "url": "https://open.spotify.com/track/3cMunJsyeFbyYm7X3LgW9T"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Saturday Night Fever (The Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Elliman",
+          "url": "https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "If I Can't Have You - From \"Saturday Night Fever\"",
+      "url": "https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -943,54 +1119,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "The Very Best of Todd Rundgren",
-        "url": "https://open.spotify.com/album/5vsHuXiqwQZYT6AD5NKYsd"
-      },
-      "artists": [
-        {
-          "name": "Todd Rundgren",
-          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Can We Still Be Friends?",
-      "url": "https://open.spotify.com/track/4Io9zVkAKSu7LBdUGVQFL7"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "70's Music - I Grandi Successi",
-        "url": "https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7JS7F316cTGvEeiRUzsBfJ"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Don't Stop - Soft 70's",
-        "url": "https://open.spotify.com/album/78iPKni6EbECQiX5Aco2r2"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/6KJdMPQ3e0QyXgg6J9WFhH"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Chill Rock",
         "url": "https://open.spotify.com/album/59FeguL6eopJ0hgCq1LX1K"
       },
@@ -1003,138 +1131,6 @@
       "duration_ms": 318800,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/15Abjl1DToLzh0fHap6gPK"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Pure McCartney (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ikljNZWFHqZP2M0kKvEWb"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Linda McCartney",
-          "url": "https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/46a67FkKJFmN7k3j28fOtD"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "THIS Is the 70's",
-        "url": "https://open.spotify.com/album/45vEfG6IwbZJfcbcwi3Rad"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1quuoJv1uxTRXl8dSO0XQS"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "\u897f\u6d0b\u6c38\u6046\u60c5\u6b4c Forever Love Songs",
-        "url": "https://open.spotify.com/album/6mFoYw0OZJ1JWKhzrBImIy"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/2ughUJ3d0vSXFMMiFSdSAp"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "Sorry Seems To Be The Hardest Word",
-      "url": "https://open.spotify.com/track/4LlcpTTVG45rrjqEP913UU"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "20 #1\u2019s: Disco",
-        "url": "https://open.spotify.com/album/516VlzUNettigNhOnhMY5w"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 196480,
-      "name": "I Will Survive - Single Version",
-      "url": "https://open.spotify.com/track/11mbgudZg9xtzd1NQUMQsh"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Early 80s",
-        "url": "https://open.spotify.com/album/7bb5Hu7BJAkkzM0bDH5Ro4"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 204621,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/3VvEhFK7YJFXho2Hwfx9Uk"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "I Will Always Love You: The Best Of Whitney Houston",
-        "url": "https://open.spotify.com/album/0IOYlkPLTNWcByZGPwf9gm"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 276680,
-      "name": "Where Do Broken Hearts Go",
-      "url": "https://open.spotify.com/track/5SHFEfK5Nh4AOQ9C0MI9Vu"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
-        "name": "Love Songs From the 70's",
-        "url": "https://open.spotify.com/album/2AA67dIlvP95NeUeFKuScR"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts - Single Version",
-      "url": "https://open.spotify.com/track/4DIkP9smuxiX4zKpF8Grtv"
     }
   ],
   "unique_name": "El Club de los Corazones Rotos",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMGJkMGNhYmZkOTI5ZDkyNmQ0NzlkZDZhMzM0NWQ3YTVk",
+  "snapshot_id": "MTU5NzMyOTU0MCwwMDAwMDAwMDYyNDkzZmJmZDk4ZjNlYzk1N2I3YmExZTQ5ZWQwOGRj",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 302780,
+      "name": "Counting Every Blessing",
+      "url": "https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Devil Is A Liar",
         "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
       },
@@ -55,6 +71,26 @@
       "duration_ms": 174438,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
+      },
+      "artists": [
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 203324,
+      "name": "Fight For Me",
+      "url": "https://open.spotify.com/track/0mfpBXjYkiYt4Qrr2aFQ6U"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -91,6 +127,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
@@ -107,18 +159,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+        "name": "What Love Looks Like",
+        "url": "https://open.spotify.com/album/07GzRFzXvA9vzG8tPHlLhb"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+      "duration_ms": 211493,
+      "name": "What Love Looks Like - Single Version",
+      "url": "https://open.spotify.com/track/3drzZQX3eoVHdAN4LUCHOp"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -159,22 +211,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "What Love Looks Like",
-        "url": "https://open.spotify.com/album/07GzRFzXvA9vzG8tPHlLhb"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "What Love Looks Like - Single Version",
-      "url": "https://open.spotify.com/track/3drzZQX3eoVHdAN4LUCHOp"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Restoration",
         "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
       },
@@ -211,6 +247,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Happy Dance",
+      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "QUIET",
         "url": "https://open.spotify.com/album/4QIY6fw4N0X4hg4r2R77ti"
       },
@@ -239,22 +291,6 @@
       "duration_ms": 255173,
       "name": "Hang On",
       "url": "https://open.spotify.com/track/7iUNwLdjPrcteXLNq1fBlZ"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Happy Dance",
-      "url": "https://open.spotify.com/track/7c1LZzDxrNCOJRe3A459S4"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -431,22 +467,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Pray It Up",
-      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Symphony",
         "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
@@ -459,6 +479,22 @@
       "duration_ms": 228960,
       "name": "Count Me In",
       "url": "https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Pray It Up",
+      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -543,6 +579,22 @@
       "duration_ms": 214866,
       "name": "Patient",
       "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Glorify",
+      "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -675,6 +727,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU"
+      },
+      "artists": [
+        {
+          "name": "Hawk Nelson",
+          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "He Still Does (Miracles)",
+      "url": "https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Wherever I Go",
         "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
@@ -759,6 +827,30 @@
       "duration_ms": 178619,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/3HWVZPGVnhERhZ8JTExslB"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Glorify (feat. Toby Mac & Terrian)",
+      "url": "https://open.spotify.com/track/0f246Mxb5UQWARc9smeRQu"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -899,6 +991,26 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Love (Remix)",
+        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 210084,
+      "name": "Love (Remix)",
+      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "The Second City",
         "url": "https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR"
       },
@@ -971,26 +1083,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Love (Remix)",
-        "url": "https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 210084,
-      "name": "Love (Remix)",
-      "url": "https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN"
       },
@@ -1023,22 +1115,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Perspectives",
-        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Perspectives",
-      "url": "https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b"
       },
@@ -1051,6 +1127,22 @@
       "duration_ms": 179413,
       "name": "Count That High",
       "url": "https://open.spotify.com/track/3yejM42cofDkyazZoQn8f0"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Perspectives",
+      "url": "https://open.spotify.com/track/5YUTIJlqgDFfgIrf74uT2p"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1235,6 +1327,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 231280,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Snapshot",
         "url": "https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s"
       },
@@ -1255,18 +1363,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1IzKxjCQN2dZYpUvTWTQBd"
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/2tRavvTisR46dR3HUnSREs"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 231280,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/0R8tMSvCvkHpiz7DjnBsAw"
+      "duration_ms": 194686,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/18g3j7p3KTtdypNrJ1fU2V"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1303,6 +1411,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Let It Be Love",
+        "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 177566,
+      "name": "Let It Be Love",
+      "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Not Too Far",
         "url": "https://open.spotify.com/album/0QlOVnfV5mMUYWughwqoP8"
       },
@@ -1315,6 +1439,22 @@
       "duration_ms": 181598,
       "name": "Not Too Far",
       "url": "https://open.spotify.com/track/6YvfFdBKpgYMuV1Q8beFax"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8"
+      },
+      "artists": [
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 311466,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/32QjsWVmD27U1NrVjcP7rj"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1339,38 +1479,6 @@
       "duration_ms": 217386,
       "name": "On My Way Back Home (feat. Seth Condrey & Desi Raines)",
       "url": "https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Let It Be Love",
-        "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 177566,
-      "name": "Let It Be Love",
-      "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/4Mw4r1cRUOBo4fREvBeBr8"
-      },
-      "artists": [
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 311466,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/32QjsWVmD27U1NrVjcP7rj"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1447,8 +1555,8 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Do or Die (feat. Kinn)",
-        "url": "https://open.spotify.com/album/0QDZHhQvQ9JmvPPm2vampA"
+        "name": "City Lights (feat. Mitch Wong)",
+        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
       },
       "artists": [
         {
@@ -1456,13 +1564,13 @@
           "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
         },
         {
-          "name": "Kinn",
-          "url": "https://open.spotify.com/artist/09qJ9dcanr8ZWQpnWdkViV"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 234789,
-      "name": "Do or Die (feat. Kinn)",
-      "url": "https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ"
+      "duration_ms": 238573,
+      "name": "City Lights (feat. Mitch Wong)",
+      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1499,6 +1607,46 @@
       "duration_ms": 199293,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/5Ce0rF44ZaRjGVCv49ARNG"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "The Divine Storm",
+        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        },
+        {
+          "name": "Brianna Catrice",
+          "url": "https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ"
+        }
+      ],
+      "duration_ms": 181446,
+      "name": "Paid For It",
+      "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1543,42 +1691,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "The Divine Storm",
-        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
+        "name": "Do or Die (feat. Kinn)",
+        "url": "https://open.spotify.com/album/0QDZHhQvQ9JmvPPm2vampA"
       },
       "artists": [
         {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
         },
         {
-          "name": "Jay-Way",
-          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
-        },
-        {
-          "name": "Brianna Catrice",
-          "url": "https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ"
+          "name": "Kinn",
+          "url": "https://open.spotify.com/artist/09qJ9dcanr8ZWQpnWdkViV"
         }
       ],
-      "duration_ms": 181446,
-      "name": "Paid For It",
-      "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/0kjySvgUUcHW64OxmHPSWj"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/1bJk8jsglnHtLvUMrOV6qR"
+      "duration_ms": 234789,
+      "name": "Do or Die (feat. Kinn)",
+      "url": "https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1635,134 +1763,6 @@
       "duration_ms": 206433,
       "name": "IWKY",
       "url": "https://open.spotify.com/track/1bGKjyrC5SKldCSLFp5AsJ"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "City Lights (feat. Mitch Wong)",
-        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
-      },
-      "artists": [
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "City Lights (feat. Mitch Wong)",
-      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Shattered",
-        "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Fight for Me",
-        "url": "https://open.spotify.com/album/4mZJEWPrDzsBZop9jv3cE6"
-      },
-      "artists": [
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 203057,
-      "name": "Fight for Me",
-      "url": "https://open.spotify.com/track/0l876Z7CBDs9hmscnaXg95"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/1EcTXccHNT4N652cXI3p9r"
-      },
-      "artists": [
-        {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Danielle Apicella",
-          "url": "https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/0yvCs4vcwnDyqV38SKTQgz"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Don't Feel Like Fighting",
-        "url": "https://open.spotify.com/album/2HKxfWkS6Yxk7RjcLWIHgx"
-      },
-      "artists": [
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 183383,
-      "name": "Don't Feel Like Fighting",
-      "url": "https://open.spotify.com/track/6NRGJserD825yXhwnnZ6ql"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU"
-      },
-      "artists": [
-        {
-          "name": "Hawk Nelson",
-          "url": "https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "No Such Thing",
-      "url": "https://open.spotify.com/track/0mCWJ0oX6wRVeIz5wLTJie"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Glasshouse",
-        "url": "https://open.spotify.com/album/0Te9CCKeQNk5RfuqFyvt5W"
-      },
-      "artists": [
-        {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/7jpwM6pHEzCa3AsrHROJtT"
     }
   ],
   "unique_name": "Rejoice for Summer",

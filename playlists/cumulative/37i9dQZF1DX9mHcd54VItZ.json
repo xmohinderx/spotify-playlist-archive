@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/3WzW1B4xGh1xTVJaAFvLsW"
+      },
+      "artists": [
+        {
+          "name": "Dangerfields",
+          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
+        }
+      ],
+      "date_added": "2022-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260945,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/25TN22SHRxXPlPlobiyXr6"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 260945,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k"
@@ -395,7 +413,7 @@
     {
       "album": {
         "name": "Cocoon",
-        "url": "https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE"
+        "url": "https://open.spotify.com/album/083Wk2aDbhui5sU7eDyjDi"
       },
       "artists": [
         {
@@ -406,6 +424,24 @@
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 304688,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/20e4Rxu9nsbEYKSZLM3Zjs"
+    },
+    {
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE"
+      },
+      "artists": [
+        {
+          "name": "Dangerfields",
+          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
       "duration_ms": 304688,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw"

@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 193077,
+  "num_followers": 193084,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDNkNzMyZmZjMjNiYmM5YTkzZDY5ZWNhZDIyZWI2ZDM2",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDFjMzgyMmFhNjEzYTc2ZGFlNTRhMTFjNjA1NzNjMTg0",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -63,18 +63,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "For The Good",
-        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
         }
       ],
-      "duration_ms": 206496,
-      "name": "For The Good",
-      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
+      "duration_ms": 161506,
+      "name": "Up Again",
+      "url": "https://open.spotify.com/track/5oEQFH35W5hoNwbYCf5anq"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -95,18 +95,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+        "name": "For The Good",
+        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
       },
       "artists": [
         {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 161506,
-      "name": "Up Again",
-      "url": "https://open.spotify.com/track/5oEQFH35W5hoNwbYCf5anq"
+      "duration_ms": 206496,
+      "name": "For The Good",
+      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -283,8 +283,8 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv"
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
         }
       ],
-      "duration_ms": 223402,
+      "duration_ms": 224693,
       "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2K9qREh8F90ScEekLq3c9i"
+      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "I'm Still Breathing",
-        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 210510,
-      "name": "I'm Still Breathing",
-      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Devil Is A Liar",
         "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 165895,
       "name": "Devil Is A Liar",
       "url": "https://open.spotify.com/track/0Q4fUM7mSeqVKD5qnqS2gO"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "I'm Still Breathing",
+        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 210510,
+      "name": "I'm Still Breathing",
+      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/3Dbx9fdmGd3QXaq8Lpukaw"
       },
@@ -495,26 +511,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "SIMPLE (feat. Joe L Barnes)",
-        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 152769,
-      "name": "SIMPLE (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Kingdom Come",
         "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
       },
@@ -535,34 +531,38 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+        "name": "SIMPLE (feat. Joe L Barnes)",
+        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
       },
       "artists": [
         {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+      "duration_ms": 152769,
+      "name": "SIMPLE (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
     },
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "High Low",
-        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 205328,
-      "name": "High Low",
-      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "High Low",
+        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+      "duration_ms": 205328,
+      "name": "High Low",
+      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -619,6 +619,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Patient",
+      "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Come Home",
         "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 182000,
       "name": "No Better Day",
       "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Perspectives",
-        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
       },
       "artists": [
         {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 179381,
-      "name": "Yes & No",
-      "url": "https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd"
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -703,18 +703,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Nothing is Ordinary. Everything is Beautiful.",
-        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
+        "name": "Perspectives",
+        "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
       },
       "artists": [
         {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
         }
       ],
-      "duration_ms": 182706,
-      "name": "Soldier On",
-      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
+      "duration_ms": 179381,
+      "name": "Yes & No",
+      "url": "https://open.spotify.com/track/0ERWUhOALE7HJWRyVKHVvd"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -751,18 +751,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+        "name": "Nothing is Ordinary. Everything is Beautiful.",
+        "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
       "artists": [
         {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+      "duration_ms": 182706,
+      "name": "Soldier On",
+      "url": "https://open.spotify.com/track/7dDP7XYJvV3hi87evYSwz9"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -779,6 +779,22 @@
       "duration_ms": 254717,
       "name": "You Are",
       "url": "https://open.spotify.com/track/31FbRIjh7s2pf3As8SSM9F"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -815,22 +831,6 @@
       "duration_ms": 161323,
       "name": "Fight My Fight For Me",
       "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Out Here On A Friday Where It Began (Live)",
-        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 162894,
-      "name": "Phenomena (DA DA) - Live",
-      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -971,8 +971,8 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "All Of My Best Friends (Acoustic)",
-        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+        "name": "Out Here On A Friday Where It Began (Live)",
+        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 293160,
-      "name": "Lord Send Revival - Acoustic",
-      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+      "duration_ms": 162894,
+      "name": "Phenomena (DA DA) - Live",
+      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1047,6 +1047,22 @@
       "duration_ms": 179173,
       "name": "When You Speak",
       "url": "https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1159,18 +1175,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Better View",
-        "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
+        "name": "III (Reimagined)",
+        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 168853,
-      "name": "Better View",
-      "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
+      "duration_ms": 202960,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1195,22 +1215,6 @@
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/7GE16Cn80c6fjePXMbq44z"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 194191,
-      "name": "Undeniable",
-      "url": "https://open.spotify.com/track/5lnAvxx2pxIM9MRZUIhkl0"
     }
   ],
   "unique_name": "Pop for Life",

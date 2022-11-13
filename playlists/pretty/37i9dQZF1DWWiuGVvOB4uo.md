@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,160 likes - 208 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,498 likes - 208 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Use Somebody](https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Use Somebody](https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC) | 3:08 |
 | 2 | [Nutshell](https://open.spotify.com/track/4ElGaXU3jJJI5HtRpli5Tv) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Nutshell](https://open.spotify.com/album/0GZduTtg1Dj4BRGTHzYlMS) | 3:05 |
 | 3 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 |
-| 4 | [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 |
+| 4 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 |
 | 5 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 |
 | 6 | [The Impression That I Get](https://open.spotify.com/track/4xU7ycvEAq6FuJFIgsVvpu) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [The Impression That I Get](https://open.spotify.com/album/6kK7PlbkI6DOK1PVZFeVpa) | 3:48 |
 | 7 | [Wouldn't It Be Nice](https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [Wouldn't It Be Nice](https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW) | 2:32 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 28 | [Say you won't let go](https://open.spotify.com/track/3jUhEX67qxI3SNbfk6kMSH) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Say you won't let go](https://open.spotify.com/album/0U4G71eZFGgeMSlOZ3qDYF) | 3:19 |
 | 29 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 |
 | 30 | [Forget Me](https://open.spotify.com/track/7GEV626sMh00yN7RRPMSa5) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Forget Me](https://open.spotify.com/album/2zcAZvavezu2TMxGFGd3OU) | 4:06 |
-| 31 | [Save Me from Myself](https://open.spotify.com/track/0nGDvPqbLFdAK6YSnup81H) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 2](https://open.spotify.com/album/1GcwB9rGjefLQTB99KuCyL) | 3:17 |
+| 31 | [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 |
 | 32 | [The One I Love](https://open.spotify.com/track/2hSxdCbXOIUMdCl6raQ1uX) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [The One I Love](https://open.spotify.com/album/4VOm59A2nywXEZlYF5ocBa) | 3:41 |
 | 33 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
 | 34 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 141 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 |
 | 142 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 |
 | 143 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 |
-| 144 | [She Doesn't Mind](https://open.spotify.com/track/2Zis5AikaFO9h8rM5e4Z1v) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/0evXINNrzDRfe18Y9qXR8D) | 3:29 |
+| 144 | [She Doesn't Mind](https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Covers By OSIS \(Pt\. 1\)](https://open.spotify.com/album/5TDrj1NmZ1JGtV837nf2iK) | 3:29 |
 | 145 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 |
 | 146 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 | 147 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 207 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 | 208 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy) | 3:47 |
 
-Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDljODAxZDI5MTczN2VlYWU1MDRkMjM5MzNkMTdlY2Jm`
+Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMGE3NjQxYjZiODk4ODc4MzMxYzJkY2RmNzI4ZmU4ODhl`

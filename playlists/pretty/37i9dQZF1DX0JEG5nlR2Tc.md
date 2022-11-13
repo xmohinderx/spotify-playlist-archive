@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JEG5nlR2Tc.md) - [plain]
 
 > Pack your backpack and get ready for school!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520 likes - 39 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,522 likes - 39 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Going Back to School Today](https://open.spotify.com/track/0XE0N7gd2jJknaXmYesi0b) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Going Back to School Today](https://open.spotify.com/album/0dcLCZe0wRIlRLj5v9gkwq) | 1:30 |
+| 1 | [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
 | 2 | [Clothes on, Eat Breakfast, Brush Teeth, Put on Shoes, and off to School!](https://open.spotify.com/track/1bn3Vl8uswXR23F8o19L1c) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Life's Little Lessons](https://open.spotify.com/album/0EXRR50ZF6em87fGK4ViUu) | 1:11 |
-| 3 | [First Day of School](https://open.spotify.com/track/6Sh2h8v1pwTbsFXx54HlQ8) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:39 |
+| 3 | [First Day of School](https://open.spotify.com/track/3haP3mk7a0lb2VJ5Psg2hU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 1](https://open.spotify.com/album/1wSJIPGezZDocP5T4DKUSs) | 2:39 |
 | 4 | [1, 2, It's Time for School](https://open.spotify.com/track/5OuGmi9abCq9KTPJ5Mjoev) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Back to School](https://open.spotify.com/album/0G4SQRSkrkHUq1IcWKmzZm) | 1:30 |
 | 5 | [Let’s Go!](https://open.spotify.com/track/4s2e30fGKP8pzjU9Tm2Jlh) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Let’s Go!](https://open.spotify.com/album/0z61UND9eDh45w40p50rWp) | 1:13 |
 | 6 | [Back To School](https://open.spotify.com/track/71we5LwSPzAvIu4BDXoTl6) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Back To School](https://open.spotify.com/album/4RrE1dmtIwYkysqgesSzC4) | 3:22 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JEG5nlR2Tc.md) - [plain]
 | 21 | [The New Kid in School](https://open.spotify.com/track/45cOKyJ8jjatVtxNCmqEiw) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Alphabet Rockers](https://open.spotify.com/album/1rlnpqydyDSjS4vffFUC9W) | 3:19 |
 | 22 | [Stop Bullying!](https://open.spotify.com/track/7H3UmQebWIp4BPiVWLd2EG) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:32 |
 | 23 | [Spelling Bee Battle](https://open.spotify.com/track/4V4nB1h2jnmoBZgr9B6ind) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Alphabet Rockers](https://open.spotify.com/album/1rlnpqydyDSjS4vffFUC9W) | 3:35 |
-| 24 | [Playground Sharing Song](https://open.spotify.com/track/1KTV5QhJzcX82bRLE1akS9) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Social Emotional Learning](https://open.spotify.com/album/6V5lv2YxGokgdUbem3ReYL) | 1:46 |
-| 25 | [Count & Move](https://open.spotify.com/track/6ReIRVkAsOLkSTTyOn2uo2) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Counting Songs for Kids](https://open.spotify.com/album/0dlw2wtrVmAo6plmmVLFcy) | 1:09 |
+| 24 | [Playground Sharing Song](https://open.spotify.com/track/0XIVlPpHZAiOL6QMQkRRq1) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Back to School](https://open.spotify.com/album/0G4SQRSkrkHUq1IcWKmzZm) | 1:46 |
+| 25 | [Count & Move](https://open.spotify.com/track/62DApnlLEbCxeIoZmx2Fkp) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 1:10 |
 | 26 | [Abc Is the Place to B](https://open.spotify.com/track/1VI4sG7Vp6VXhBfhnY0X57) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Oh Lucky Day!](https://open.spotify.com/album/7BSumVCs7CD287vUZ3IQ5C) | 3:00 |
 | 27 | [I Love Doing Math](https://open.spotify.com/track/59cch0CzeLOeecVR4NPflH) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 2](https://open.spotify.com/album/7ndGSRyfpUFnBtD1sFXQ4j) | 2:59 |
 | 28 | [Clean Up](https://open.spotify.com/track/65ov783J0qmUZkQqnjEb33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 33 Circle Time Songs](https://open.spotify.com/album/6NykWbuxKO6ivJajGYbOgW) | 0:56 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JEG5nlR2Tc.md) - [plain]
 | 38 | [Outside Inside](https://open.spotify.com/track/3zfuWX6OTeGwdedqZG6fIK) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Outside Voices](https://open.spotify.com/album/0Pesak1vor7VVB7IbKmcgY) | 2:55 |
 | 39 | [Sammy the School Bus](https://open.spotify.com/track/4CCeCykwGHmGQ9Lq2jF9BZ) | [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7), [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q) | [Cars, Trucks and Buses with Gecko!](https://open.spotify.com/album/7cEg5Mw6rZSYXuuikTixvH) | 2:06 |
 
-Snapshot ID: `MTYzMDAwNjEwOSwwMDAwMDAwMDAzNmFkNWNiZjQzODczODRmODUyMzU0NTY2YjA3Y2Jl`
+Snapshot ID: `MTYzMDAwNjEwOSwwMDAwMDAwMDRlNTA5MzdhODgwOWQ1ZTcyMGMxMjk5MmU0ZGEzMDcw`

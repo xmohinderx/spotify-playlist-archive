@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 
 > Celebrate Dad with these songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 34 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 34 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Father's Day! Father's Day!](https://open.spotify.com/track/2QhuyNYE0WBPNhsGC4chR3) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Father's Day](https://open.spotify.com/album/4pOfhxZCAqDEiRTpgJEG4O) | 1:33 |
-| 2 | [My Daddy Song](https://open.spotify.com/track/7k7cl3NNpxUgcLnUrNcXXP) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [I Love My Daddy](https://open.spotify.com/album/5kHnimhvYsAw8tIiH5lM5w) | 2:52 |
+| 2 | [My Daddy Song](https://open.spotify.com/track/1GIiqb0sl5AscLsypZYR0H) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon I Love My Family](https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU) | 2:52 |
 | 3 | [Dear Old Dad](https://open.spotify.com/track/1o4hp0Rm5xST4llL6xuXSM) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Rock\-O\-Matic](https://open.spotify.com/album/3xeaFPnwRzHEE7xQYs1P6w) | 2:30 |
 | 4 | [Dance to Your Daddy](https://open.spotify.com/track/3Q5Qi7wr74JGzcG7JRGpb4) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 1:18 |
 | 5 | [Cool Dad](https://open.spotify.com/track/6TKG8t6wMW7xwPz89IVDlF) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P), [Billy B](https://open.spotify.com/artist/6q22S1wbS1Eg7NbOQVA04o) | [Cool Dad](https://open.spotify.com/album/4Gn2D9bQMnETCm9SbQrX34) | 1:36 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHbM3c2ftZ.md) - [plain]
 | 33 | [That's What Dads Are For](https://open.spotify.com/track/6OGvN8SQuFS7tgEddBBA27) | [Madaline Garcia](https://open.spotify.com/artist/3TV0dL70cwRcE7VxCYCfdm), [Michael Farren](https://open.spotify.com/artist/0KL1tXshbivm72a4PAWUjF) | [That's What Dads Are For](https://open.spotify.com/album/5afeQKHZfZcRCvMcdiQles) | 4:11 |
 | 34 | [Daddy\-o](https://open.spotify.com/track/6ti6642d8YTQ7YNy7I9OD0) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Fascinating Creatures](https://open.spotify.com/album/0QNI8ietPOpLX0nrJPzrRi) | 2:03 |
 
-Snapshot ID: `MTY0OTQyNDIxOSwwMDAwMDAwMDRjYmMzZTlkN2NlNjQ0MzkxNTZhYWIyZThiZmM2ZTYz`
+Snapshot ID: `MTY0OTQyNDIxOSwwMDAwMDAwMGE3MjlkNDhmZDcyMjIwZWExNjFhOGEwZjU1OTYyMjkx`

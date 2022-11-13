@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,438 likes - 141 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,587 likes - 141 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 119 | [Søngleikur](https://open.spotify.com/track/5BvEzwZJeL2XIvoxT2zaOD) | [Elsa Selma](https://open.spotify.com/artist/6Xah5b0b62n9ozpTFFkvMo) | [Søngleikur](https://open.spotify.com/album/3PQYhV2ozQk3olZYqlFCQL) | 3:09 |
 | 120 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 |
 | 121 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 |
-| 122 | [Readers](https://open.spotify.com/track/4uNnr1XfaipIG9TBFsZTt2) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [The Cereal Killers: Bedtime Guitar](https://open.spotify.com/album/4R57k9bpcwczFvwrnfhskU) | 3:01 |
+| 122 | [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 |
 | 123 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 |
 | 124 | [If I Can Make It To The Hill](https://open.spotify.com/track/4CMxXvhCI8kVTsHqdmN2IZ) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [If I Can Make It To The Hill](https://open.spotify.com/album/7Cd8BWAq74gw22EGkK8HIu) | 4:04 |
 | 125 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 140 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 |
 | 141 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 |
 
-Snapshot ID: `MTY2Njk2NTAxNSwwMDAwMDAwMDU2ZWM2NDNiYjkzYWI5ZWVlNWIxZWE4NWYwZWJiOTFh`
+Snapshot ID: `MTY2Njk2NTAxNSwwMDAwMDAwMDBmMmRlMTE1ZTZiYTEzZDBmNjI0ZWIxN2I5ZjQ0NTQ5`

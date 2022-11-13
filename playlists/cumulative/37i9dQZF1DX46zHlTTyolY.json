@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 175413,
       "name": "(Wish I Didn't Have to) Lie [feat. JORDY]",
       "url": "https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 193466,
       "name": "25 in Barcelona",
       "url": "https://open.spotify.com/track/3T26BJ8XxWaxyxs8oGt8eR"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 218492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/5y0ET06ZzyxDzR4lB4JGhP"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 260285,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 258266,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 258133,
       "name": "I Don't Want to Talk About It",
       "url": "https://open.spotify.com/track/7cE35BjpKtOIMTqsKGL8z8"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 237020,
       "name": "I Lost a Friend",
       "url": "https://open.spotify.com/track/5v1sPD1lu2wiPzi07tW8zm"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 291400,
       "name": "I Will Remember You",
       "url": "https://open.spotify.com/track/0HWP0zWAUviRgsXdqCCOSc"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 226533,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe"
@@ -1641,7 +1641,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 346400,
       "name": "Musta Been Something",
       "url": "https://open.spotify.com/track/0Vr6vFlxGoAMs6RPA5vJZY"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
@@ -1947,7 +1947,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 224730,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK"
@@ -2304,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Calm for Kids",
+        "url": "https://open.spotify.com/album/2WfgzVuiRmJLTv9FpiunRu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2V60Yqudwxrmtp7wLxNkq6"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/2Jg7JZ0ZXOGje1bkq7CVgK"
       },
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 264773,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 298293,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/7vvIpJZye5cRR6De1LKM0m"
@@ -2705,7 +2723,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 178440,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
@@ -2795,7 +2813,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 197746,
       "name": "Why Don't You Touch Me",
       "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
@@ -2813,7 +2831,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 201053,
       "name": "Wild Hearts Can't Be Broken",
       "url": "https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"

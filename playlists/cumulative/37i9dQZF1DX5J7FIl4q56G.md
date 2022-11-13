@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: In Flames
 
-2,092 songs - 5 day 21 hr 14 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+2,093 songs - 5 day 21 hr 18 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,8 @@
 | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/track/3G5oOfICsWYVeONbtB7vRJ) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [False Providence \(feat\. Mick Gordon\)](https://open.spotify.com/album/7hMm40HVdj5nViNO7PruJf) | 5:01 | 2022-03-18 | 2022-03-25 |
 | [Falsewave](https://open.spotify.com/track/0nA9ESez1EaDCEwWqNOfV0) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Falsewave](https://open.spotify.com/album/48CH0YWygyRzPbUInyYlDt) | 8:19 | 2022-09-16 | 2022-09-24 |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-08 | 2022-04-15 |
-| [Faster Than the Flame \(feat\. Tribune\)](https://open.spotify.com/track/6HOmPvM5DhVqSXHXmjs5BL) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v), [Tribune](https://open.spotify.com/artist/4oB7TLibxO4oPGg8EM4fjL) | [Missa Cantorem II](https://open.spotify.com/album/1VVRLSJkxN94viXp3LY7ck) | 4:08 | 2022-11-11 |  |
+| [Faster Than the Flame](https://open.spotify.com/track/6GmC728IZoBU37lU1LW02M) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Call of the Wild \(Deluxe Version\)](https://open.spotify.com/album/6JhuNA7potIMg6r29IVULP) | 4:08 | 2022-11-11 |  |
+| [Faster Than the Flame \(feat\. Tribune\)](https://open.spotify.com/track/6HOmPvM5DhVqSXHXmjs5BL) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v), [Tribune](https://open.spotify.com/artist/4oB7TLibxO4oPGg8EM4fjL) | [Missa Cantorem II](https://open.spotify.com/album/1VVRLSJkxN94viXp3LY7ck) | 4:08 | 2022-11-11 | 2022-11-13 |
 | [Fata Morgana](https://open.spotify.com/track/16MMD0h6jrHaLu3C4PIRZs) | [Somehow Jo](https://open.spotify.com/artist/0czBYiBCOXAxu8x0kddWM2) | [Fata Morgana](https://open.spotify.com/album/48HItFMzynbbga5sk7LhZI) | 4:17 | 2022-07-08 | 2022-07-16 |
 | [Fata Morgana](https://open.spotify.com/track/24h3RnZnm3hUcWQ9AF52wt) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Fata Morgana](https://open.spotify.com/album/39VJJiyzmfThN6s8IJmSZ5) | 3:22 | 2022-06-10 | 2022-06-17 |
 | [Fatal Attraction](https://open.spotify.com/track/1FEz1LN0PjucQ4u4F8LuCn) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Fatal Attraction](https://open.spotify.com/album/46pve0XL3092Xxog7YUyrF) | 4:05 | 2022-05-13 | 2022-05-20 |
@@ -1059,6 +1060,7 @@
 | [Leeches](https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Leeches](https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7) | 3:32 | 2022-07-01 | 2022-07-08 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-17 | 2022-01-21 |
 | [Left Hand Path Symphony](https://open.spotify.com/track/7HJN0FdHBKkk8mHaBhUXAQ) | [King Satan](https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW) | [Occult Spiritual Anarchy](https://open.spotify.com/album/5UoKcl5APh4uG2gLxd5oj1) | 4:18 | 2022-04-08 | 2022-04-15 |
+| [Left In The Dark](https://open.spotify.com/track/5DRgqeHoGaW6NsAgPUmeex) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Left In The Dark](https://open.spotify.com/album/5YRCKKv0nOTgc7hG0ZwC5J) | 3:20 | 2022-11-11 |  |
 | [Legion](https://open.spotify.com/track/6Q7tXH6CsjLRFnry2es67r) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Rapture](https://open.spotify.com/album/3LK4RzSqoZwzZ6rtEbOj1G) | 3:30 | 2022-05-27 | 2022-06-07 |
 | [Leinen los](https://open.spotify.com/track/3LV2j8l4YEo7HHrwPjzuLh) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Wilde Kinder](https://open.spotify.com/album/1hMspoS89Nc4HVLu8bkE8z) | 4:16 | 2022-04-22 | 2022-04-29 |
 | [Les Racines Noires](https://open.spotify.com/track/0Ev010UCjZdUqiriGVnw4b) | [Hysterical Blindness](https://open.spotify.com/artist/0G70HHH9eYSyb3bur00DQL) | [Notre Héritage](https://open.spotify.com/album/7xTim5wa3HDoAHArOXMcJC) | 9:23 | 2022-07-01 | 2022-07-08 |
@@ -2047,7 +2049,6 @@
 | [Wilde Kinder](https://open.spotify.com/track/5j9LuICwwmUbts1A4rxmhu) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Wilde Kinder](https://open.spotify.com/album/1sdmnVWndpvGblDOcjbj1D) | 4:22 | 2022-01-28 | 2022-02-18 |
 | [Will](https://open.spotify.com/track/1McVG4zrAtMTRrZkYEjo15) | [Devil In Me](https://open.spotify.com/artist/4iJJYo1VWZPEvJzE8YxXqL) | [Will](https://open.spotify.com/album/3ysfhAWXBoxPtB8gMnNUK0) | 2:49 | 2021-12-17 | 2022-01-28 |
 | [Wind of Change](https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Wind of Change](https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG) | 5:22 | 2022-05-20 | 2022-05-27 |
-| [Windwaker](https://open.spotify.com/track/5DRgqeHoGaW6NsAgPUmeex) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Left In The Dark](https://open.spotify.com/album/5YRCKKv0nOTgc7hG0ZwC5J) | 3:20 | 2022-11-11 |  |
 | [Wings Of Judgement](https://open.spotify.com/track/69SeadjXbRQQxTSoJVBqzy) | [Heart Attack](https://open.spotify.com/artist/3ZNpC1P3jaqgAyx7bDWk6q) | [Wings Of Judgement](https://open.spotify.com/album/0wdBDkFKeSkEu09QxOn9zt) | 3:48 | 2022-03-03 | 2022-03-11 |
 | [Wings of Light](https://open.spotify.com/track/4RSD8tEpqf2DHF58yfwbq7) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus of Doom](https://open.spotify.com/album/6PpnrMZJP7HyoXEIzl0CET) | 4:06 | 2022-01-21 | 2022-02-18 |
 | [Wings of Mariposa](https://open.spotify.com/track/32UZPkMZrB0ZAyzLaVrMbY) | [Will Haven](https://open.spotify.com/artist/6oHhpIAHJlyqi70DdfWeJX) | [Wings of Mariposa](https://open.spotify.com/album/4xSONNw1z07iJq9P2IoB2G) | 2:46 | 2022-05-27 | 2022-06-07 |

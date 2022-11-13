@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:NATURE\(네이처\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,411 likes - 292 songs - 16 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,508 likes - 292 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Journey For Myself](https://open.spotify.com/track/4jYrL89ak1hTLAwXOr0zZe) | [Jeoung Eun Ji](https://open.spotify.com/artist/6LRbTUjRKZv74zfunwCzVt) | [log](https://open.spotify.com/album/7fTDNbnZz9cGu4hciG6Mw7) | 3:06 |
+| 1 | [Journey For Myself](https://open.spotify.com/track/4jYrL89ak1hTLAwXOr0zZe) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [log](https://open.spotify.com/album/7fTDNbnZz9cGu4hciG6Mw7) | 3:06 |
 | 2 | [Hair Cut](https://open.spotify.com/track/4ZYSJfjSuR1XqcUPaTxjuG) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Overload](https://open.spotify.com/album/76XckkqatimbtN2NspL4N5) | 3:25 |
 | 3 | [Words Unsaid](https://open.spotify.com/track/13IiS4KDlSGRJ6ONwzZDiO) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Words Unsaid](https://open.spotify.com/album/44s03d318lIEQwBi9CPpRR) | 4:15 |
 | 4 | [Spring Star Flower](https://open.spotify.com/track/4n0OkuZP4PuOMQKMTOerx6) | [Navi](https://open.spotify.com/artist/1snFqLpoCORfbKnafugg3v) | [Spring Star Flower](https://open.spotify.com/album/51x7H106xERU22vqCSxg9n) | 3:45 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 36 | [Apgujeong Rodeo](https://open.spotify.com/track/1USTYK6MxXVYHUfL0kGXTm) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Apgujeong Rodeo](https://open.spotify.com/album/6Igj82L5AafbqPtG8QdCy8) | 4:07 |
 | 37 | [Lights \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1srir2eS2n9AlI3v13cdDx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [The LIGHTS](https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U) | 3:47 |
 | 38 | [Sunny Shower \(feat\. Colde\)](https://open.spotify.com/track/1lkbr5SIokNTGFELm7BE9d) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Sunny Shower](https://open.spotify.com/album/2DSsJ3SnwV6H0cZLwxGZ8Z) | 3:33 |
-| 39 | [이대로 천천히](https://open.spotify.com/track/2Qx73j6OHx8Im6wMrmEG9j) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [얼어죽을 연애따위, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1f3HrC8d2uSztNpPyvaXDe) | 3:17 |
+| 39 | [Slowly](https://open.spotify.com/track/2Qx73j6OHx8Im6wMrmEG9j) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Love is for Suckers, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1f3HrC8d2uSztNpPyvaXDe) | 3:17 |
 | 40 | [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/0WT5o9HgcJJoyKUhiHaCMP) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 |
 | 41 | [TARANTULA](https://open.spotify.com/track/3MWiMRGVJLL2oqXddsuPA4) | [cwar](https://open.spotify.com/artist/3lJa5Qe2MABfNzwhxD7DqU), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [TARANTULA](https://open.spotify.com/album/0xTdu7zKEt3q3hXn8H6hXp) | 4:09 |
 | 42 | [Midnight Flight](https://open.spotify.com/track/1zhApSCq3mMWxNhXK22pUX) | [JOE CHO](https://open.spotify.com/artist/7cvx4BWUCi18EeMxvwc9aA) | [Suite](https://open.spotify.com/album/0jjVoSkr88MMZbiqNALjzt) | 3:07 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 75 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
 | 76 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
 | 77 | [Oh, It's Love](https://open.spotify.com/track/56r1aLiOnoTLrb7Aad50el) | [SONG YUVIN](https://open.spotify.com/artist/5bO0Iy0ozHhSelVBOttCyT) | [Oh, It's Love \(CURTAIN CALL OST Part.3\)](https://open.spotify.com/album/2S5Six49kseCjzb7oxfvr0) | 3:56 |
-| 78 | [연기처럼 \(Feat\. Mabinc, 럭셔리빌라, Huiii\)](https://open.spotify.com/track/0wMiTqCvOl8bmISgTzXft5) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z), [LUXURY VILLA](https://open.spotify.com/artist/6S5VXCpcXZBElEPXK6OZnm), [Huiii](https://open.spotify.com/artist/2YwO6LFXtZZ6gUIaVCWV35) | [Just Like Smoke](https://open.spotify.com/album/4UPjOBFxtrthOUY3TPOSWR) | 3:16 |
+| 78 | [Just Like Smoke \(Feat\. Mabinc, LUXURY VILLA, Huiii\)](https://open.spotify.com/track/0wMiTqCvOl8bmISgTzXft5) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z), [LUXURY VILLA](https://open.spotify.com/artist/6S5VXCpcXZBElEPXK6OZnm), [Huiii](https://open.spotify.com/artist/2YwO6LFXtZZ6gUIaVCWV35) | [Just Like Smoke](https://open.spotify.com/album/4UPjOBFxtrthOUY3TPOSWR) | 3:16 |
 | 79 | [Victory](https://open.spotify.com/track/02FwxHwQPZ23y1O2Uz5ZP9) | [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW) | [Victory](https://open.spotify.com/album/16bOYcJWIENMt86N9Z1Of7) | 3:03 |
 | 80 | [Little Forest](https://open.spotify.com/track/6PKVXcKCXctQ6fHIwn0Jlq) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [COLOR PROJECT, Pt\. 3](https://open.spotify.com/album/3k9qL7YHDBm9BxXHi4UpqF) | 3:15 |
 | 81 | [Wrong, Don′t, Side](https://open.spotify.com/track/5hgKovjArewfDSzvDnV6vy) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [Wrong, Don′t, Side](https://open.spotify.com/album/0iJIt7N4rk5CP7QiizFLId) | 2:29 |

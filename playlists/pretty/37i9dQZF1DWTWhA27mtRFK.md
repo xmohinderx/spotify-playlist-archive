@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,105 likes - 58 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,178 likes - 58 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 14 | [Ever New](https://open.spotify.com/track/6nXk3XcfNmwtig7acQxRbc) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:08 |
 | 15 | [Attaining Peace](https://open.spotify.com/track/4o6vJWuNT0w01fPMISWOVV) | [JD Emmanuel](https://open.spotify.com/artist/39eBp0j2hpQyucio2z0el6) | [Wizards](https://open.spotify.com/album/08Ak0ziV7ddHUu4gf91U9z) | 5:06 |
 | 16 | [The Way Home](https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m) | [Kevin Braheny](https://open.spotify.com/artist/1YcWvzUpcRBv85LisrnA0D) | [The Way Home](https://open.spotify.com/album/2QDMuThy1sVnQzLm7qffIM) | 24:53 |
-| 17 | [Equinox](https://open.spotify.com/track/1qffQn2iLImD2RVW7iknSi) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Lyghte](https://open.spotify.com/artist/7BM1CqDXHL4Yv65Q46Spen) | [Celestial Realms](https://open.spotify.com/album/6f6dlAEjzxDP5QBS6SLEyX) | 23:20 |
+| 17 | [Equinox](https://open.spotify.com/track/4Xfbsq2VWNYln8kR8nQGQ9) | [Jonathan Goldman](https://open.spotify.com/artist/5KnTqREHfCARDD8im3isVg), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Celestial Reiki](https://open.spotify.com/album/2n3hCih5TcYCYzbwq76bLT) | 23:20 |
 | 18 | [Music for Gymnastics](https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i) | [Jordan De La Sierra](https://open.spotify.com/artist/0C31G6WRrM2kEf5q8Yn2Pf) | [Gymnosphere: Song of the Rose](https://open.spotify.com/album/0CYveyLuXN4fPZuKS4ZdNS) | 24:17 |
-| 19 | [Crystallite](https://open.spotify.com/track/4qweydPdHM3ShcZ4ZSWXQe) | [Don Campbell](https://open.spotify.com/artist/0Bb6vF6PtIh30Xw5K2dGZq) | [Essence](https://open.spotify.com/album/06OojbB6tTCwP8n3NfHuGB) | 19:02 |
+| 19 | [Crystallite](https://open.spotify.com/track/6zcBbo9WY4p21vN7TMbrKO) | [Don Campbell](https://open.spotify.com/artist/0Bb6vF6PtIh30Xw5K2dGZq) | [Essence](https://open.spotify.com/album/6fjUjZZJ8E7ggW6ClhZ9y6) | 19:02 |
 | 20 | [Morning Splendor](https://open.spotify.com/track/5BfnCpWSG8cirVL9FNUDzz) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 6:02 |
 | 21 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 |
 | 22 | [Temple of Silence](https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 9:16 |
 | 23 | [Awakening](https://open.spotify.com/track/5SsZc9Uao0uXApCpLFycTm) | [Don Slepian](https://open.spotify.com/artist/6nDzanmucFbxVfDdE2EX3h) | [Sea of Bliss](https://open.spotify.com/album/1Ik3Zj4WkedKLSctd1foQZ) | 24:48 |
 | 24 | [Villages And Freeways](https://open.spotify.com/track/4ytzoQFoZB65pJkIK3xwZA) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Samsara](https://open.spotify.com/album/0CeRmOUkjPueI2q23j7zTv) | 5:47 |
-| 25 | [Seraphims](https://open.spotify.com/track/1DzQzk09Eb1OhNfdqfoqHR) | [Don Campbell](https://open.spotify.com/artist/0Bb6vF6PtIh30Xw5K2dGZq) | [Essence](https://open.spotify.com/album/06OojbB6tTCwP8n3NfHuGB) | 23:11 |
+| 25 | [Seraphims](https://open.spotify.com/track/4yamOTc0Hq9oOzPQ9wTFuk) | [Don Campbell](https://open.spotify.com/artist/0Bb6vF6PtIh30Xw5K2dGZq) | [Essence](https://open.spotify.com/album/6fjUjZZJ8E7ggW6ClhZ9y6) | 23:11 |
 | 26 | [El\-Hadra](https://open.spotify.com/track/57Xvgypj0JSo0E5IvnKGgP) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr), [Ted De Jong](https://open.spotify.com/artist/4UEGXaYpVtqbZkhFEt0SAJ) | [Sacred Planet \(From women & man to gods & godnesses\)](https://open.spotify.com/album/5CFRiMivWeZdmlTtrAfk1f) | 3:57 |
 | 27 | [Fergana](https://open.spotify.com/track/3BqqN5jhO7H41ziAUGdIyr) | [Klaus Wiese](https://open.spotify.com/artist/2uvdsw07VR5CuNk9NvQ1kr) | [Samarkand](https://open.spotify.com/album/4uqo1AjPmDQFnhB4rNfvkd) | 5:16 |
 | 28 | [Clouds 1](https://open.spotify.com/track/0sBHVlBysBkOZPFecBTxCX) | [Norman Beede](https://open.spotify.com/artist/1QjdtCSzyQLBmtnoHyWmxn), [Kenny Sawhill](https://open.spotify.com/artist/1pxfFDVoeSLkqnlRkiCbHl), [Rolan Tripp](https://open.spotify.com/artist/6JYREywwsHIzxmSZ2Ie52Z), [Robert Mehren](https://open.spotify.com/artist/09y79wa9KKdBw96jCfRPIW), [Craig Kupka](https://open.spotify.com/artist/10BujleeZpW0oZ3fDeBRRR) | [Clouds: Music for Relaxation](https://open.spotify.com/album/0jaAga0dbHYrVUjPFnVf0p) | 22:53 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 57 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 | 58 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
 
-Snapshot ID: `MTY2NDg4NjUyNCwwMDAwMDAwMGQ2OTUzOTJmNWJmMTIzMWYzOTk3YmZmYzNkMDdiODZj`
+Snapshot ID: `MTY2NDg4NjUyNCwwMDAwMDAwMGYwZmNhZThlN2JiMmM0YjA5NWI1ZTk4ZTFmNWIxMWMw`

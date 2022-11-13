@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,082 likes - 245 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,125 likes - 245 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 87 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 |
 | 88 | [無所謂](https://open.spotify.com/track/1dPtFcK3m7dTtIBe3AwurO) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [無所謂](https://open.spotify.com/album/5WXptJIuAu3IJ5RuOHRtxQ) | 2:52 |
 | 89 | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Dito, Sa Ilalim Ng Buwan](https://open.spotify.com/album/3fUtcIhaW5dA1hlpn4Wv2M) | 4:05 |
-| 90 | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/57RB0SQSyPwEeP4uxGU7CT) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/album/1ypA52K2vrTmtnBDvWuW4m) | 3:31 |
+| 90 | [Dream Ya Kutoka Kwa Block](https://open.spotify.com/track/0dk1HdfPDYPflddHXFKc8h) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:31 |
 | 91 | [Míralo](https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Míralo](https://open.spotify.com/album/6UIHKXjD19ZHRbkRE8BFtl) | 2:13 |
 | 92 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 |
 | 93 | [คนคนนึง](https://open.spotify.com/track/1uup0LxqqTU3uHrF7oqWux) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [คนคนนึง](https://open.spotify.com/album/4FnYMzU6ogFuuU5z9g5f5n) | 4:05 |
@@ -153,7 +153,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 143 | [kraksa](https://open.spotify.com/track/6umyUWnKTDcv6rdSdJ4uSo) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [kraksa](https://open.spotify.com/album/6jU4WJczefdv9viLHQxE6B) | 2:52 |
 | 144 | [三天之內暈了你](https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [三天之內暈了你](https://open.spotify.com/album/5DsNlpKAXLgQJUh2M8xcRP) | 3:08 |
 | 145 | [Dream](https://open.spotify.com/track/4nQvPAV3gGFsOMSfQPdOT8) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Dream](https://open.spotify.com/album/1JsToJpmZ9t5GTJcSladwB) | 2:38 |
-| 146 | [Angelica](https://open.spotify.com/track/5vp4cm13NJZr5qcQIngWyK) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:52 |
+| 146 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 147 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 |
 | 148 | [I Wish I Never Met You](https://open.spotify.com/track/12l2XM75QCGVCXM37Ktxzs) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/5ZII0xlYQqaeLrnsflv5DU) | 3:31 |
 | 149 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 |
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 244 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 |
 | 245 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 |
 
-Snapshot ID: `MTY2ODE1Njg1MSwwMDAwMDAwMDhlNjEzNmJmMzYwNzQ1ZGY4ZmFjYzA3OWM0MzE1ODk0`
+Snapshot ID: `MTY2ODE1Njg1MSwwMDAwMDAwMDUyYjlkZTMxMjEyZDY5ZjI3ZjhjZjRlMDg2ZWIwODg1`

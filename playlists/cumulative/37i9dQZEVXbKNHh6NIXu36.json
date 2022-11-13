@@ -462,6 +462,28 @@
     },
     {
       "album": {
+        "name": "6 Minuten",
+        "url": "https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "Alies",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174673,
+      "name": "6 Minuten",
+      "url": "https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI"
+    },
+    {
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/4em67szhwJxNjGDv0LDjUS"
       },
@@ -3239,7 +3261,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -3739,7 +3761,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -10857,7 +10879,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 171069,
       "name": "KISSENSCHLACHT",
       "url": "https://open.spotify.com/track/70Xfh3baxA4xusCiV5B5jg"
@@ -11313,7 +11335,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 185706,
       "name": "Layla",
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
@@ -11662,6 +11684,24 @@
     },
     {
       "album": {
+        "name": "Liebst du mich",
+        "url": "https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177123,
+      "name": "Liebst du mich",
+      "url": "https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY"
+    },
+    {
+      "album": {
         "name": "Liege wieder wach",
         "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
       },
@@ -11738,6 +11778,24 @@
     },
     {
       "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196520,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
+    },
+    {
+      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -11749,7 +11807,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
@@ -12511,7 +12569,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
@@ -13211,7 +13269,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
@@ -14820,6 +14878,24 @@
     },
     {
       "album": {
+        "name": "NO REPLY",
+        "url": "https://open.spotify.com/album/7zENMYKSNkmusqIKDblfIj"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "NO REPLY",
+      "url": "https://open.spotify.com/track/5d3qrWS3VLoxUcjS4fYJXG"
+    },
+    {
+      "album": {
         "name": "NOCH EINMAL",
         "url": "https://open.spotify.com/album/1O89zYUjoMc9QkMB9zSM4F"
       },
@@ -15895,7 +15971,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 137647,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/47gFO4wiq9rLJo9vz0DP3q"
@@ -16685,7 +16761,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
@@ -20681,6 +20757,28 @@
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl"
+    },
+    {
+      "album": {
+        "name": "Tracksuit (feat. Bonez MC)",
+        "url": "https://open.spotify.com/album/5fXkNE85RPtJTmkYOXuY7S"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118878,
+      "name": "Tracksuit (feat. Bonez MC)",
+      "url": "https://open.spotify.com/track/2thijD7RBpT6rUwR9ogFAa"
     },
     {
       "album": {

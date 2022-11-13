@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-87 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+88 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,9 @@
 | [Blue Earth](https://open.spotify.com/track/4JAIpmm35zsuwvJvqG2gD6) | [Bo Ramsey](https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd) | [How Many Miles](https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0) | 3:23 | 2022-04-15 |  |
 | [Blue Nights](https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Blue Nights](https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO) | 2:38 | 2022-10-10 |  |
 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 | 2022-04-15 |  |
-| [Blues After Hours](https://open.spotify.com/track/3leJdx93IHBZilIUu4ROEp) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Masters: Pee Wee Crayton](https://open.spotify.com/album/3fZa1iAXkV4fPH91EdBmTM) | 5:09 | 2022-10-14 |  |
+| [Blues After Hours](https://open.spotify.com/track/3leJdx93IHBZilIUu4ROEp) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Masters: Pee Wee Crayton](https://open.spotify.com/album/3fZa1iAXkV4fPH91EdBmTM) | 5:09 | 2022-10-14 | 2022-11-13 |
 | [Blues After Hours](https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [If I Ever Get Lucky](https://open.spotify.com/album/5ypZMTcLSmNU8Bya5ZXaqK) | 5:09 | 2022-04-15 | 2022-07-29 |
-| [Blues After Hours](https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Legend Vol\. 13](https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32) | 5:09 | 2022-07-08 | 2022-11-11 |
+| [Blues After Hours](https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Legend Vol\. 13](https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32) | 5:09 | 2022-07-08 |  |
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-04-15 |  |
 | [Blues for Magic Sam](https://open.spotify.com/track/2fZjnNYEvJO76sc6kqN24z) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/5bj6EpqoaEgKeaEH6Qivnh) | 5:24 | 2022-04-15 | 2022-07-29 |
 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 | 2022-07-08 |  |
@@ -34,7 +34,8 @@
 | [Cristo Redentor](https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 5:12 | 2022-04-15 |  |
 | [Dana's Song](https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP) | [Twelve Hours](https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL) | 6:20 | 2022-04-15 |  |
 | [Dodging The Blues](https://open.spotify.com/track/3I5wlSHXXMmVXTpPvN3wa5) | [Carl Verheyen](https://open.spotify.com/artist/3BpUUAvJhkvkpYI6nQ7OUf) | [Essential Blues](https://open.spotify.com/album/13I1hgOYUQTqPLpk0sGnO5) | 4:22 | 2022-04-15 |  |
-| [Donna](https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 7:23 | 2022-04-15 |  |
+| [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 | 2022-10-14 |  |
+| [Donna](https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 7:23 | 2022-04-15 | 2022-11-13 |
 | [Elegy for a Bluesman](https://open.spotify.com/track/51eO3uxag2ZhvnqWePYeVv) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/6QJ6h4nSqQgnCNVVVYPwly) | 5:40 | 2022-07-08 |  |
 | [Elegy for a Bluesman](https://open.spotify.com/track/6ezalWK2RCMwOoVPm6Yqj7) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/2YObpHVuuBJjCk9vaoZ9Nf) | 5:40 | 2022-04-15 | 2022-07-29 |
 | [Entertaining Moods for Studying](https://open.spotify.com/track/6R2i7JRkM7l4ez6J06TgEu) | [Instrumental Blues Retro](https://open.spotify.com/artist/6ynE2UtjVmR7Ljqr8hBbq0) | [Fabulous Backdrop for Reading](https://open.spotify.com/album/33VjsbAeDbX5naLPcOdU2P) | 2:24 | 2022-04-15 |  |

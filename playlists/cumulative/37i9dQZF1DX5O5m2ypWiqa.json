@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 172920,
       "name": "24 Horas del Dia",
       "url": "https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 201533,
       "name": "Adi\u00f3s Mi Amor",
       "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "Al Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 220616,
       "name": "Amor Limosnero",
       "url": "https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 202066,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/1VeZsmUCLkYJT55c2nqg9b"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 204200,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 216226,
       "name": "Broche de Oro",
       "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 209586,
       "name": "Cu\u00e1l Adi\u00f3s",
       "url": "https://open.spotify.com/track/5R9lPFnoJGppR1MsI7vHxy"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 186120,
       "name": "Derecho De Antig\u00fcedad",
       "url": "https://open.spotify.com/track/37MzlcXgRH5rzTJYcSX2RD"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 211906,
       "name": "El Amor En Carro",
       "url": "https://open.spotify.com/track/3nu6AW7uPt5oCMbhgqcQX0"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 234000,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/4FaGbBvwnR2cq3qTR73nyF"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 187186,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/25p1jEwtuplwNIbZkoW5Kv"
@@ -1592,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Ese Soy Yo",
+        "url": "https://open.spotify.com/album/0FTYEBALGZDLGgKzDFR5mk"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198733,
+      "name": "Lo Legal",
+      "url": "https://open.spotify.com/track/46o6fYLws9P1XH8kcVVtyo"
+    },
+    {
+      "album": {
         "name": "Mas Alla Del Sol",
         "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
       },
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 218346,
       "name": "Me Cans\u00e9 de Morir por Tu Amor",
       "url": "https://open.spotify.com/track/2OA5ilVM3BrvNntoVLnYSa"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 163654,
       "name": "M\u00e1s All\u00e1 Del Sol",
       "url": "https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm"
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 203946,
       "name": "N\u00famero Equivocado",
       "url": "https://open.spotify.com/track/3Z4wHTNI3bm8TCDrLOiEE1"
@@ -2371,6 +2389,24 @@
     {
       "album": {
         "name": "Hombre De Rancho",
+        "url": "https://open.spotify.com/album/37vmImrA5Kbl0kPbCN68y1"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Relaci\u00f3n Clandestina",
+      "url": "https://open.spotify.com/track/7jmc6mYF2HGjXNCoHx9KbF"
+    },
+    {
+      "album": {
+        "name": "Hombre De Rancho",
         "url": "https://open.spotify.com/album/1hU9hxmpX2g09yUFu0Q48L"
       },
       "artists": [
@@ -2399,7 +2435,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 236906,
       "name": "Se Va Muriendo Mi Alma",
       "url": "https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq"
@@ -2417,7 +2453,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 167514,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/3NLJWd1FgZlgBRukNXxEBd"
@@ -2471,7 +2507,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 221857,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
@@ -2561,7 +2597,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 192522,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ"

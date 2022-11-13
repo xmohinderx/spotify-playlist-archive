@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 
 > All about aespa: meeting another self and experiencing the new world
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,801 likes - 22 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,015 likes - 22 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Girls](https://open.spotify.com/track/2d8xiUGjUalhOp4t6M2i0w) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [iScreaM Vol.18 : Girls Remixes](https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS) | 4:00 |
+| 1 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 |
 | 2 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 |
 | 3 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 |
 | 4 | [Lingo](https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:36 |
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 | 21 | [Next Level \- Lionclad Remix](https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Lionclad](https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 |
 | 22 | [Dreams Come True \- Instrumental](https://open.spotify.com/track/7LOV1wyhrT7XjFgbz5sJ88) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 |
 
-Snapshot ID: `MTY1NzI1NzQ3MywwMDAwMDAwMGIwY2U3ZmFjMDk0ZDE4NTE4Yjc4YjU2MWEwNjQ0YjQ4`
+Snapshot ID: `MTY1NzI1NzQ3MywwMDAwMDAwMDAwNWNlODY4OGJlZGY0ODFhYWVlMGEwY2Y3NWYzNTg2`

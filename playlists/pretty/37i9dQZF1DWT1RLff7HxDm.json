@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 143234,
+  "num_followers": 143294,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDBiY2NmODI4ZGZhNWI1NDJmYThjOWYzOWNkN2Y0YjZm",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGNmN2I2ZDA1NTRmZTdhNTZiN2Y0NTc1NzY4MWFjODY0",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -373,6 +373,22 @@
       "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
     },
     {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live North America 2016",
+        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 338226,
+      "name": "The Healing - Live",
+      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
+    },
+    {
       "added_at": "2021-02-26 05:01:00",
       "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
@@ -395,22 +411,6 @@
       "duration_ms": 289800,
       "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live North America 2016",
-        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 338226,
-      "name": "The Healing - Live",
-      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Naturally Live",
-        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
-      },
-      "artists": [
-        {
-          "name": "Ten Years After",
-          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "One of These Days - Live",
-      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Gary Clark Jr. Live",
         "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 369800,
       "name": "Things Are Changin' - Live",
       "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Naturally Live",
+        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "One of These Days - Live",
+      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -743,18 +743,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I'm In The Mood (Live)",
-        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
+        "name": "Live In Tallahassee",
+        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Eugene Hideaway Bridges",
+          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
         }
       ],
-      "duration_ms": 248586,
-      "name": "I'm In The Mood - Live",
-      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
+      "duration_ms": 212732,
+      "name": "Step By Step - Live",
+      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
     },
     {
       "added_at": "2020-11-20 05:01:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Live In Tallahassee",
-        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
+        "name": "I'm In The Mood (Live)",
+        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
       },
       "artists": [
         {
-          "name": "Eugene Hideaway Bridges",
-          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 212732,
-      "name": "Step By Step - Live",
-      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
+      "duration_ms": 248586,
+      "name": "I'm In The Mood - Live",
+      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "I Didn't Know (Live)",
-        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "I Didn't Know - Live",
-      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Live In Europe",
         "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "Liquid Quartet Live",
+        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "duration_ms": 320618,
+      "name": "Can't Walk Away From It Now - Live",
+      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Straight To You: Live",
         "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
       },
@@ -943,34 +943,34 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Liquid Quartet Live",
-        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
+        "name": "I Didn't Know (Live)",
+        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
       },
       "artists": [
         {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 320618,
-      "name": "Can't Walk Away From It Now - Live",
-      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
+      "duration_ms": 198040,
+      "name": "I Didn't Know - Live",
+      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
+      "added_at": "2020-11-20 05:01:00",
       "album": {
-        "name": "Dyin' To Know (Live)",
-        "url": "https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx"
+        "name": "Ride On Josephine (Live In Boston / 1982)",
+        "url": "https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
         }
       ],
-      "duration_ms": 192638,
-      "name": "Dyin' To Know (Live)",
-      "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
+      "duration_ms": 501010,
+      "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
+      "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -989,20 +989,20 @@
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
     },
     {
-      "added_at": "2020-11-20 05:01:00",
+      "added_at": "2022-04-22 04:01:00",
       "album": {
-        "name": "Ride On Josephine (Live In Boston / 1982)",
-        "url": "https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP"
+        "name": "Dyin' To Know (Live)",
+        "url": "https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx"
       },
       "artists": [
         {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 501010,
-      "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
-      "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
+      "duration_ms": 192638,
+      "name": "Dyin' To Know (Live)",
+      "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
     }
   ],
   "unique_name": "Blues Live & Loud",

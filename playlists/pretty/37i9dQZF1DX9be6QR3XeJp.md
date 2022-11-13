@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Benny Atlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,300 likes - 132 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,289 likes - 132 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 18 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 |
 | 19 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
 | 20 | [Scrambled Tricks](https://open.spotify.com/track/1cHYDnLAxWViNcokpzxjMT) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Scrambled Tricks](https://open.spotify.com/album/6rf2cQjKufkdYacRQhDsfU) | 2:22 |
-| 21 | [Steamroller](https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:55 |
+| 21 | [Steamroller](https://open.spotify.com/track/3NUVEYZe8SoeyxPO8PjhMs) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/5IuuKf7yyYt1WSBvK1Txam) | 2:55 |
 | 22 | [I'm Insecure](https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [I’m Insecure](https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi) | 3:42 |
 | 23 | [All Night Long](https://open.spotify.com/track/3oYuIcMNiEgy3HMX2BPUb2) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [All Night Long](https://open.spotify.com/album/6OYva1symTcQGU5bPLtx5I) | 3:05 |
 | 24 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 |
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 26 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 |
 | 27 | [LOCK OFF](https://open.spotify.com/track/75a2Fusn6ySL6yVACqYmp9) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [LOCK OFF](https://open.spotify.com/album/6r7d0q8bj7YdOVp5ZgkteW) | 2:24 |
 | 28 | [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 |
-| 29 | [Things You Said](https://open.spotify.com/track/2v9jInzuHKsTcGzqPbFJOs) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Things You Said](https://open.spotify.com/album/6ojFzpyw4yHyOuKHG8Mt9l) | 3:23 |
+| 29 | [Things You Said](https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy) | 3:23 |
 | 30 | [Streetlights](https://open.spotify.com/track/1xvXkw437Ob7JE2L09KIjH) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Streetlights](https://open.spotify.com/album/6lEyQ7UXtPv3oipyWkDHzn) | 3:18 |
 | 31 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 |
 | 32 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 |
 | 33 | [Isolate](https://open.spotify.com/track/4kbB92kKusaCvb5Mw3HLnL) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/6o5P0rxdduLU4qpB1E71pJ) | 4:03 |
 | 34 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
-| 35 | [Nashville](https://open.spotify.com/track/6aQ4r8oKFAX6mJhhwPjgpf) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead](https://open.spotify.com/album/0jk8QfkoB9qeqPHxiWkLQR) | 5:16 |
-| 36 | [Angelica](https://open.spotify.com/track/5vp4cm13NJZr5qcQIngWyK) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:52 |
+| 35 | [Nashville](https://open.spotify.com/track/0GoptW8lwK7Y1iOAVaVxiA) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 5:16 |
+| 36 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 37 | [The Way I Do](https://open.spotify.com/track/4apnPdCj3uDuqMjGpqQcuc) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Rendezvous @ 7](https://open.spotify.com/album/783S0ZXyJ63o5txGFV5ej0) | 3:13 |
 | 38 | [Hate You, I Love You](https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Hate You, I Love You](https://open.spotify.com/album/3MEz34mMadTHxqUvEF1HFH) | 2:36 |
 | 39 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 43 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 |
 | 44 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
 | 45 | [18 & Over](https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [18 & Over](https://open.spotify.com/album/1sd55O8hXHGhK2qH2WvsLn) | 3:38 |
-| 46 | [Back In The Day](https://open.spotify.com/track/2RzuBCRT8HfBbG7YCjLcEP) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Autumn Playlist](https://open.spotify.com/album/2WkLSByy5oHXHTTR9HeeJB) | 3:35 |
+| 46 | [Back In The Day](https://open.spotify.com/track/4Ydl2Ov6AtHaCG2D3iS8Kv) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [Back In The Day](https://open.spotify.com/album/0kYwSyUR9NhGRsZFeid1Kv) | 3:35 |
 | 47 | [PBFF](https://open.spotify.com/track/6EyvkNx0su9PD8splN00kl) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/6MbOTpj7i8XQU6DDEyTgCH) | 2:45 |
 | 48 | [BERLIN](https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [BERLIN](https://open.spotify.com/album/1CpDsqIBSXH8WCwEb8j8Y6) | 3:02 |
 | 49 | [I must apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 72 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
 | 73 | [Convalesce \(feat\. REGALJASON\)](https://open.spotify.com/track/0mFflI3yK2y3SJybiAMgLr) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [A Shadow of My Former Self](https://open.spotify.com/artist/2zBz80goR5JIdfV6TDkjCl), [REGALJASON](https://open.spotify.com/artist/7xXVzcfLvLi79nRtcwTNP0) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 4:09 |
 | 74 | [Cherry Bomb](https://open.spotify.com/track/3MyuOZO9kWyvluRgxBoMus) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Cherry Bomb](https://open.spotify.com/album/78a6SHXF3uUFDqZ1FBCS7h) | 3:17 |
-| 75 | [Stuck](https://open.spotify.com/track/1MkOIf6TbyY5DKYltfXD9o) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/5A9kxjtm6IJQcqSnXlFom8) | 3:07 |
+| 75 | [Stuck](https://open.spotify.com/track/1JzKProcrUzCxImOP23hXb) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Stuck](https://open.spotify.com/album/2LugScLewUNGEC1CdfE2un) | 3:07 |
 | 76 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 |
 | 77 | [PDA](https://open.spotify.com/track/4R8M7LBaiGPR77dYRMJJlI) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PDA](https://open.spotify.com/album/1yyjVQNw4bUrVQgEzcE1A9) | 3:27 |
 | 78 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 131 | [Got It Good \- Radio Edit](https://open.spotify.com/track/4jhLUUDxEOYAicBx02QFPh) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Got It Good](https://open.spotify.com/album/6q1MJ8xThRR4WHVBRvH3OH) | 3:02 |
 | 132 | [Think That I Don't Need Your Love](https://open.spotify.com/track/1vFOdLRFuiz5K2pZ7UggOJ) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Think That I Don't Need Your Love](https://open.spotify.com/album/47T6CDeQtuDW8XvUomdeB2) | 3:43 |
 
-Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMGVkNTg1YmMyNzc1YmI5NTc5MDRmYTVlNzk2MjFkM2Zl`
+Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMGQ0YWI2MGIzMGM2NWFlMmUwNTJiODRhYjM3ZWE3OTA2`

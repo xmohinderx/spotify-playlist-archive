@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,098 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,571 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 64 | [Turn the Lights Off](https://open.spotify.com/track/3xpdefOloYCBXd3UR6MVyM) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:56 |
 | 65 | [Wine Red](https://open.spotify.com/track/7puGwAJbm1hhbSkKVrvrdT) | [The Hush Sound](https://open.spotify.com/artist/1RCoE2Dq19lePKhPzt9vM5) | [Like Vines](https://open.spotify.com/album/2ViqUaFAwiL0ILIr7eexgl) | 2:34 |
 | 66 | [Together We Go Down In The Dark](https://open.spotify.com/track/4NZwAKr8rYOa1lvFmvHacm) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Together We Go Down In The Dark](https://open.spotify.com/album/0WYi1XbWP4caFPfnqmm9Fy) | 2:49 |
-| 67 | [Goodbye](https://open.spotify.com/track/2JAEfa7DOZJ61TdTCc322N) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE \(DELUXE\)](https://open.spotify.com/album/2ZiKx3dsBYBGMypMTdPoKg) | 4:09 |
+| 67 | [Goodbye](https://open.spotify.com/track/2ySaltE2swk0QsimILPK05) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 4:09 |
 | 68 | [2econd 2ight 2eer \(that was fun, goodbye.\)](https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 3:26 |
 | 69 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 |
 | 70 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 |
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 96 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 |
 | 97 | [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 3:36 |
 | 98 | [Laputa](https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 2:43 |
-| 99 | [Viva Las Vengeance](https://open.spotify.com/track/2a5iijmK8wnmiwxiqsn8QL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pop Favourites](https://open.spotify.com/album/0loQ9cO8DNmHEH8SgeWkT8) | 3:26 |
+| 99 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 |
 
-Snapshot ID: `MTY2NjYxOTc0NiwwMDAwMDAwMDE4NGNkYzI1ZTA5ZDQ5NWEwZjM0MGZiYjIzYjZlODY0`
+Snapshot ID: `MTY2NjYxOTc0NiwwMDAwMDAwMDVlNzdjZDM1ODUyNmVlMjY2NmQyN2JlNDM0NmU0ZTA2`

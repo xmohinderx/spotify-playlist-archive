@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,590 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,638 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 13 | [Take It Back](https://open.spotify.com/track/5TbZ3iiuoIhLGFvq2IoIwD) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [Take It Back / Go for Joy](https://open.spotify.com/album/6ugxotUGjEP4GPucJYJNcA) | 4:33 |
 | 14 | [Stay With Me](https://open.spotify.com/track/0d4u84lrM6TxT7jv3Z8PEk) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Stay With Me](https://open.spotify.com/album/5IPdAqVvH4FPji2tEw9gu0) | 2:31 |
 | 15 | [CARNAGE](https://open.spotify.com/track/0FE3XDuJH4tnf1MCgsg3Ju) | [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [CARNAGE](https://open.spotify.com/album/2LkrL0QDmh272zbVFCvHNh) | 2:36 |
-| 16 | [DIMANCHE SOIR](https://open.spotify.com/track/0R7qTLkd6VR3QJeEmdG2by) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/3Njv7LsQ4QBCYrtAvexhdO) | 3:09 |
+| 16 | [DIMANCHE SOIR](https://open.spotify.com/track/0DRFO9deu2BA5HWhvMb2uc) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:09 |
 | 17 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
 | 18 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 19 | [‎mile ‎end](https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mile ‎end](https://open.spotify.com/album/1BzvJjxfU31LFay7pcJJsL) | 3:12 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 55 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 |
 | 56 | [Where I Belong](https://open.spotify.com/track/4xxcd6cnmFfj67AmnaF6tc) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [2000](https://open.spotify.com/album/261LWEVYViMXijB95mAty3) | 3:08 |
 | 57 | [Wish](https://open.spotify.com/track/545N3VnU7ZSBEUtdRGSUS9) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 3:01 |
-| 58 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 |
+| 58 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/3fTwZdX5X3BIsdEJvai7Be) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 4:44 |
 | 59 | [HEAT](https://open.spotify.com/track/5C2lBA8cceb0EwyCPDEsH8) | [Ramsay Almighty](https://open.spotify.com/artist/1wkmDig3ums4HIkGMfFwqE) | [HEAT](https://open.spotify.com/album/0nM49aJlprwlEfV674EPDv) | 2:58 |
 | 60 | [Harvest Moon – Vandelux Remix](https://open.spotify.com/track/3OcV9XXExOdsVHYXSjSGNd) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Harvest Moon \(Vandelux Remix\)](https://open.spotify.com/album/7JOnm7NqCfCxJ9LCdaZXqB) | 4:34 |
 | 61 | [Waiting Outside](https://open.spotify.com/track/0ImFkJEKGw1N1CTvQmnVSX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:40 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 75 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
 | 76 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 77 | [Easy v2](https://open.spotify.com/track/1ZNOwjcEAqka5feaa5dEko) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Easy v2](https://open.spotify.com/album/01c1TtxDepIhj3i14YiRzA) | 2:55 |
-| 78 | [Japanese Black Pine](https://open.spotify.com/track/6OfA9nmLdgMTWHCLh0dkfx) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Come and Love Me, Destroyer, Vol\. 1](https://open.spotify.com/album/3TaBIFpaiSjB2XWNlYY6JA) | 3:14 |
+| 78 | [Japanese Black Pine](https://open.spotify.com/track/1k1RnBXKfruZerrRtNq1qe) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Japanese Black Pine](https://open.spotify.com/album/4dPJhXTprt8iEqaZTDgJ81) | 3:14 |
 | 79 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 |
 | 80 | [The Local](https://open.spotify.com/track/3sWAonad48wm55cmQRjIZj) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [The Local](https://open.spotify.com/album/6hSxj7BtaD76EmD5CLPfEW) | 4:11 |
 | 81 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [The Hammer](https://open.spotify.com/track/0u1ihYKX1FxCeYTaHdhgPO) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [RED](https://open.spotify.com/artist/02CPoPvI4x9TuxCTFNwOv4) | [Nigh](https://open.spotify.com/album/2sHPkujZbHvkrxS5o37EwL) | 7:03 |
 | 100 | [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 |
 
-Snapshot ID: `MTY2ODE4MTc1NSwwMDAwMDAwMDAzOWJhNDlhYjJkZjFlNTk5MTZjNGIyNTk4MThkYWNh`
+Snapshot ID: `MTY2ODE4MTc1NSwwMDAwMDAwMGNiMWJiNGJlNTliMWE5NjdjZjY0YTZiMWFiYjBiNGQ4`

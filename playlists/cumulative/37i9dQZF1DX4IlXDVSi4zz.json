@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Sera El Sol (Mixed)",
+        "url": "https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187851,
+      "name": "Epico",
+      "url": "https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE"
+    },
+    {
+      "album": {
         "name": "Fight to Love (Radio Edit)",
         "url": "https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3"
       },
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 285596,
       "name": "I Got U",
       "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 219401,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 562239,
       "name": "Who Loves The Sun",
       "url": "https://open.spotify.com/track/2u2aognU8U2C3bPJO5pVmz"

@@ -1,15 +1,15 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Jukjae(\uc801\uc7ac)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 189760,
+  "num_followers": 189835,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk4NDQwMCwwMDAwMDAwMGM0NzBmZjUxNTFiZWNkMTNlMTc5NzA4NDcxMDRlMDBk",
+  "snapshot_id": "MTY2Nzk4NDQwMCwwMDAwMDAwMDM3ZThhMmFlNDcyNGE0MDMwZjNmNzQ4M2YxOTlhYjA3",
   "tracks": [
     {
-      "added_at": "2022-11-12 05:17:39",
+      "added_at": "2022-11-13 01:27:42",
       "album": {
         "name": "The LIGHTS",
         "url": "https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U"
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 205386,
       "name": "Don't (feat. RM)",
       "url": "https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "You Were Beautiful",
-      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -319,8 +319,8 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6D48tHXsa6LzoViDIACdkt"
       },
       "artists": [
         {
@@ -328,25 +328,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "Twenty-Five Twenty-One OST Part 5",
-        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
-      },
-      "artists": [
-        {
-          "name": "DOKYEOM",
-          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
-        }
-      ],
-      "duration_ms": 209711,
-      "name": "Go!",
-      "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
+      "duration_ms": 215476,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7zmrZMinkTMJ2kZgM9Kqgp"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -363,6 +347,22 @@
       "duration_ms": 175836,
       "name": "Shoot Me",
       "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 5",
+        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "duration_ms": 209711,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -399,8 +399,8 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN"
       },
       "artists": [
         {
@@ -408,9 +408,41 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 213217,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 238494,
+      "name": "FAKE LOVE - Rocking Vibe Mix",
+      "url": "https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -447,6 +479,38 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
+        "name": "1st Album [Dystopia : The Tree of Language]",
+        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 213217,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -475,38 +539,6 @@
       "duration_ms": 210652,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "1st Album [Dystopia : The Tree of Language]",
-        "url": "https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -543,6 +575,22 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
         "name": "Cape",
         "url": "https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu"
       },
@@ -575,34 +623,18 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
+      "duration_ms": 224760,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -619,22 +651,6 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "Raid of Dream",
-        "url": "https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -671,6 +687,22 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
       },
@@ -699,38 +731,6 @@
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "Right Through Me",
-        "url": "https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 217972,
-      "name": "Right Through Me",
-      "url": "https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
-        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
-      },
-      "artists": [
-        {
-          "name": "Say Sue Me",
-          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
-        }
-      ],
-      "duration_ms": 268453,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
     },
     {
       "added_at": "2022-11-09 08:09:23",
@@ -767,38 +767,6 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
-        "name": "Grey Suit - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
-      },
-      "artists": [
-        {
-          "name": "SUHO",
-          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Grey Suit",
-      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
-    },
-    {
-      "added_at": "2022-11-09 08:09:23",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
       },
@@ -815,18 +783,50 @@
     {
       "added_at": "2022-11-09 08:09:23",
       "album": {
-        "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
       },
       "artists": [
         {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
         }
       ],
-      "duration_ms": 206080,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8"
+      "duration_ms": 268453,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
+        "name": "Right Through Me",
+        "url": "https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 217972,
+      "name": "Right Through Me",
+      "url": "https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd"
+    },
+    {
+      "added_at": "2022-11-09 08:09:23",
+      "album": {
+        "name": "Grey Suit - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7tZyxlG9PNEBwrxMbIJdoB"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Grey Suit",
+      "url": "https://open.spotify.com/track/40wEuG76R9nFumrBp6PHwm"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

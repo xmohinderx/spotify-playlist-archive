@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Lady Gaga & Ariana Grande",
-  "num_followers": 627522,
+  "num_followers": 627502,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk0OTcxMywwMDAwMDAwMDA5MjFhYjk1Yzk0YTU4NGQ5YmViZDlmZDdjZDU1YzU1",
+  "snapshot_id": "MTY1ODk0OTcxMywwMDAwMDAwMGY3NzBkMTcyYTBlNjQzNDc2ZjUzNmM0ZDI2MjkyZDQ5",
   "tracks": [
     {
       "added_at": "2022-06-01 06:00:00",
@@ -31,8 +31,8 @@
     {
       "added_at": "2021-06-01 06:00:00",
       "album": {
-        "name": "Disco Funky Para Bailar",
-        "url": "https://open.spotify.com/album/46GEPH5eSaiGrhefPmPMdh"
+        "name": "Step II",
+        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
       },
       "artists": [
         {
@@ -40,15 +40,15 @@
           "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
         }
       ],
-      "duration_ms": 394306,
+      "duration_ms": 400115,
       "name": "You Make Me Feel (Mighty Real)",
-      "url": "https://open.spotify.com/track/4E4q2UYJc7PGNEBbhznYZW"
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ"
     },
     {
       "added_at": "2021-06-01 06:00:00",
       "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43"
+        "name": "The Works (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 199533,
-      "name": "I Want To Break Free",
-      "url": "https://open.spotify.com/track/1IVZX29ZuEXng3ChRnp3tL"
+      "duration_ms": 198773,
+      "name": "I Want To Break Free - Remastered 2011",
+      "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
     },
     {
       "added_at": "2022-06-01 06:00:00",
@@ -101,6 +101,22 @@
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
       "added_at": "2022-06-01 06:00:00",
       "album": {
         "name": "Whitney",
@@ -115,22 +131,6 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2021-06-01 06:00:00",
@@ -149,6 +149,38 @@
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
+      "added_at": "2022-06-01 06:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "added_at": "2022-06-01 06:00:00",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
       "added_at": "2021-06-01 06:00:00",
       "album": {
         "name": "Spice",
@@ -163,22 +195,6 @@
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "songs that lowkey slap",
-        "url": "https://open.spotify.com/album/5iy19BhOQpUmNGqTIgJYW4"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/1dzhHqVUv3rHQfaXoxDhq2"
     },
     {
       "added_at": "2022-06-01 06:00:00",
@@ -233,22 +249,6 @@
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
       "added_at": "2022-06-01 06:00:00",
       "album": {
         "name": "MONTERO (Call Me By Your Name)",
@@ -263,6 +263,42 @@
       "duration_ms": 137875,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2021-06-01 06:00:00",
@@ -349,6 +385,22 @@
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
       "added_at": "2022-06-01 06:00:00",
       "album": {
         "name": "Born to Be Alive (The Original)",
@@ -379,6 +431,26 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2022-06-01 06:00:00",
@@ -413,6 +485,38 @@
       "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
     },
     {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
       "added_at": "2022-06-01 06:00:00",
       "album": {
         "name": "777",
@@ -431,18 +535,18 @@
     {
       "added_at": "2021-06-01 06:00:00",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+        "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 275733,
-      "name": "Heart Of Glass - Special Mix",
-      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+      "duration_ms": 285906,
+      "name": "West End Girls - 2018 Remaster",
+      "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
     },
     {
       "added_at": "2021-06-01 06:00:00",
@@ -475,6 +579,22 @@
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2022-06-01 06:00:00",
@@ -513,20 +633,20 @@
       "url": "https://open.spotify.com/track/7cv28LXcjAC3GsXbUvXKbX"
     },
     {
-      "added_at": "2022-06-01 06:00:00",
+      "added_at": "2021-06-01 06:00:00",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
       },
       "artists": [
         {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
         }
       ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2021-06-01 06:00:00",
@@ -547,6 +667,22 @@
     {
       "added_at": "2022-06-01 06:00:00",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+    },
+    {
+      "added_at": "2022-06-01 06:00:00",
+      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -563,6 +699,22 @@
     {
       "added_at": "2022-06-01 06:00:00",
       "album": {
+        "name": "Actually: Further Listening 1987 - 1988 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 299253,
+      "name": "It's a Sin - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF"
+    },
+    {
+      "added_at": "2022-06-01 06:00:00",
+      "album": {
         "name": "Dance Love Pop (The Love Love Love Edition)",
         "url": "https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA"
       },
@@ -575,6 +727,22 @@
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "Le Freak - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
     },
     {
       "added_at": "2021-06-01 06:00:00",
@@ -645,6 +813,22 @@
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
     },
     {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 301200,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ"
+    },
+    {
       "added_at": "2022-06-01 06:00:00",
       "album": {
         "name": "Haus Party, Pt. 1",
@@ -659,6 +843,22 @@
       "duration_ms": 236190,
       "name": "Nails, Hair, Hips, Heels",
       "url": "https://open.spotify.com/track/60nXduun3ybrHhtDOUmGmV"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "I Feel Love",
+        "url": "https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t"
     },
     {
       "added_at": "2021-06-01 06:00:00",
@@ -691,6 +891,22 @@
       "duration_ms": 168559,
       "name": "Coconuts",
       "url": "https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh"
+    },
+    {
+      "added_at": "2021-06-01 06:00:00",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2021-06-01 06:00:00",
@@ -741,38 +957,6 @@
       "url": "https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn"
     },
     {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "I Feel Love",
-        "url": "https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
-    },
-    {
       "added_at": "2022-06-01 06:00:00",
       "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
@@ -809,212 +993,20 @@
       "url": "https://open.spotify.com/track/41z2bSbbtJ9wiIee4RXdi5"
     },
     {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "Born Naked",
-        "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Sissy That Walk",
-      "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227343,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "You Got the Love",
-        "url": "https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB"
-      },
-      "artists": [
-        {
-          "name": "The Source & Candi Staton",
-          "url": "https://open.spotify.com/artist/2xkmkfqXFQHMk0zhFXMUq6"
-        },
-        {
-          "name": "The Source",
-          "url": "https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR"
-        },
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "You Got The Love - New Voyager Radio Edit",
-      "url": "https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 222096,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0oTyoTKEKMdF3rXcOLyEfN"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "Heartthrob",
-        "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
-      },
-      "artists": [
-        {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
-    },
-    {
       "added_at": "2021-06-01 06:00:00",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "Tom's Album",
-        "url": "https://open.spotify.com/album/0eV4zOG2uMHbQoexXCkK4z"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        },
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
-        }
-      ],
-      "duration_ms": 228306,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/7f9sC9fvtjYSZYOLSmKJlq"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "SAWAYAMA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o"
-    },
-    {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 272813,
-      "name": "I Know A Place",
-      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
-    },
-    {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
-      },
-      "artists": [
-        {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Tell It to My Heart",
-      "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
-    },
-    {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "Greatest Hits II",
-        "url": "https://open.spotify.com/album/7rq68qYz66mNdPfidhIEFa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2aSFLiDPreOVP6KHiWk4lF"
-    },
-    {
-      "added_at": "2021-06-01 06:00:00",
-      "album": {
-        "name": "Love Shack (Edit) / Channel Z",
-        "url": "https://open.spotify.com/album/4ugIloQYMfDhN7lOtEWezy"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Love Shack - Edit",
-      "url": "https://open.spotify.com/track/64B4UbGRLtGRBtiN2m8OvF"
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     }
   ],
   "unique_name": "Pride Party",

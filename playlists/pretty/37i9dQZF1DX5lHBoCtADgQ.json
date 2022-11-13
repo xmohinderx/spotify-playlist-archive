@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Neha Bhasin",
-  "num_followers": 25384,
+  "num_followers": 25396,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk3NjI4MywwMDAwMDAwMDM1YmJjOGVlZjdjNjMwNjRhYTA4MDI5NWFjODk4MGRk",
+  "snapshot_id": "MTY2Nzk3NjI4MywwMDAwMDAwMDZiYWFhNjZkMThkMDNjNDdkNjRiYjE4ZDEwNTFhNzM4",
   "tracks": [
     {
       "added_at": "2022-11-09 06:44:43",
@@ -855,8 +855,8 @@
     {
       "added_at": "2022-11-09 06:44:43",
       "album": {
-        "name": "Greatest Old Skool Bhangra Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/4oluT9XHuyEP7eegMh4xTa"
+        "name": "Dupatta Tera Sat Rang Da",
+        "url": "https://open.spotify.com/album/39gcZ3A4gbOuCCuHYWXLFT"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX"
         }
       ],
-      "duration_ms": 268813,
+      "duration_ms": 276893,
       "name": "Dupatta Tera Sat Rang Da",
-      "url": "https://open.spotify.com/track/7GOVdCsVtKiVdyFjXJERDm"
+      "url": "https://open.spotify.com/track/4U5Bf9kil25BlZIKq9iBcs"
     },
     {
       "added_at": "2022-11-09 06:44:43",
@@ -907,18 +907,26 @@
     {
       "added_at": "2022-11-09 06:44:43",
       "album": {
-        "name": "Hits of Surinder Kaur, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/0u8nU0LaB5vUHuEZ8jG9gI"
+        "name": "Folk Music of Punjab, Vol. 1",
+        "url": "https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9"
       },
       "artists": [
         {
           "name": "Surinder Kaur",
           "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        },
+        {
+          "name": "Asa Singh Mastana",
+          "url": "https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA"
+        },
+        {
+          "name": "Hazara Singh Ramta",
+          "url": "https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b"
         }
       ],
-      "duration_ms": 206346,
-      "name": "Ek Meri Akh Kashni",
-      "url": "https://open.spotify.com/track/77B95qDRO4z5x4Rs1hYrO5"
+      "duration_ms": 202800,
+      "name": "Ek Meri Akk Kaashni",
+      "url": "https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM"
     }
   ],
   "unique_name": "Folk Punjabi",

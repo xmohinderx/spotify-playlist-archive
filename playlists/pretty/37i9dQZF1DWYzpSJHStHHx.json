@@ -1,12 +1,12 @@
 {
   "description": "Hang ten.",
-  "num_followers": 473884,
+  "num_followers": 473974,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMGUwODc3NmZmNzRiNjQwMmY3ZDVlMDZjNDJhYjc1NTE5",
+  "snapshot_id": "MTY2Mzg3MzkxMywwMDAwMDAwMDgxYzZmOWEzZjQ5NzFhMDlkMmUwM2VhZTUzZWNlNzU3",
   "tracks": [
     {
       "added_at": "2022-09-22 19:11:53",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "Chinese Fountain",
         "url": "https://open.spotify.com/album/6exFB8EKturdauvN5XV0ov"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 208613,
       "name": "Going Gets Tough",
       "url": "https://open.spotify.com/track/0dEhydwCE5Og4PLKyjfqMR"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Swim and Sleep (Like a Shark)",
+      "url": "https://open.spotify.com/track/1UcgqK04vVmW8aXV2OxGiZ"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "M.A.G.S.",
         "url": "https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg"
       },
@@ -343,6 +359,22 @@
       "duration_ms": 134899,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Great Big Blue",
+        "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
+      },
+      "artists": [
+        {
+          "name": "Geowulf",
+          "url": "https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ"
+        }
+      ],
+      "duration_ms": 247280,
+      "name": "Saltwater",
+      "url": "https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -379,8 +411,8 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "The Babe Rainbow",
-        "url": "https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2"
       },
       "artists": [
         {
@@ -388,9 +420,25 @@
           "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 194292,
-      "name": "Peace Blossom Boogy",
-      "url": "https://open.spotify.com/track/0Mfcw67Xb68PJJNsfxRi7L"
+      "duration_ms": 193251,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "City Club",
+        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
+      },
+      "artists": [
+        {
+          "name": "The Growlers",
+          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
+        }
+      ],
+      "duration_ms": 218352,
+      "name": "When You Were Made",
+      "url": "https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -443,22 +491,6 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "City Club",
-        "url": "https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl"
-      },
-      "artists": [
-        {
-          "name": "The Growlers",
-          "url": "https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe"
-        }
-      ],
-      "duration_ms": 218352,
-      "name": "When You Were Made",
-      "url": "https://open.spotify.com/track/47WtMNT8S9n3eqsCn076Bf"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -471,6 +503,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "The Babe Rainbow",
+        "url": "https://open.spotify.com/album/3kV1ahDexxqs8NZm4dZKJ2"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 194292,
+      "name": "Peace Blossom Boogy",
+      "url": "https://open.spotify.com/track/0Mfcw67Xb68PJJNsfxRi7L"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -523,18 +571,18 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
       "artists": [
         {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -555,6 +603,22 @@
     {
       "added_at": "2022-09-22 19:11:53",
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
         "name": "Drag",
         "url": "https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2"
       },
@@ -567,6 +631,22 @@
       "duration_ms": 189651,
       "name": "Drag",
       "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
+    },
+    {
+      "added_at": "2022-09-22 19:11:53",
+      "album": {
+        "name": "Raspberry Jam",
+        "url": "https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 228306,
+      "name": "Raspberry Jam",
+      "url": "https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57"
     },
     {
       "added_at": "2022-09-22 19:11:53",
@@ -727,86 +807,6 @@
       "duration_ms": 217600,
       "name": "Taking Up Space",
       "url": "https://open.spotify.com/track/7i28aaEucsoEeEfZLHZHb1"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "The Hex",
-        "url": "https://open.spotify.com/album/69OHkuXuh8djCi1LXdUCgr"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 260782,
-      "name": "Broken Finger Blues",
-      "url": "https://open.spotify.com/track/71FYSkmSyrEncuZDqBnPiS"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Spring EP",
-        "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Let the Sun In",
-      "url": "https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "I Follow You",
-      "url": "https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Real Estate",
-        "url": "https://open.spotify.com/album/0vEt6UkpYZOpKxVO7H7j9Y"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Beach Comber",
-      "url": "https://open.spotify.com/track/3tPh7vkXySn2lUEH1NEPyO"
-    },
-    {
-      "added_at": "2022-09-22 19:11:53",
-      "album": {
-        "name": "Was Dead",
-        "url": "https://open.spotify.com/album/2RD12eprsENYogP3H1Tp1c"
-      },
-      "artists": [
-        {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
-        }
-      ],
-      "duration_ms": 150713,
-      "name": "Sun Medallion",
-      "url": "https://open.spotify.com/track/0sSVTKSPiim06zGApr2NC1"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,372 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,411 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 9 | [Zeus in Chains](https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Zeus In Chains](https://open.spotify.com/album/0g71E3gzdQsWuO7wT3Z2dt) | 4:38 |
 | 10 | [Fantastic Corps](https://open.spotify.com/track/7oYcf6HhEAIkUT0sqITjo7) | [Kaleidobolt](https://open.spotify.com/artist/5UbTeitV10l7GIxsXglE9r) | [This One Simple Trick](https://open.spotify.com/album/2nHH8FJgi3ZiBWCgPHCAzK) | 5:25 |
 | 11 | [Alpha Howl](https://open.spotify.com/track/1IAOYhIuzz1O9dJqd2AtFu) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Alpha Howl](https://open.spotify.com/album/6PSB8BuGrQjgkNYy6ipToU) | 3:54 |
-| 12 | [Immunity](https://open.spotify.com/track/4vfOgcDgNfKJZZlDyQObPQ) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Immunity](https://open.spotify.com/album/12uUup39GCE3ZFTUvbp3ob) | 5:40 |
+| 12 | [Immunity](https://open.spotify.com/track/5RJGQbnDxqIf5FINlfK1Vq) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [How Do We Want to Live?](https://open.spotify.com/album/248Nx17GVrcWKjDH8JKqGm) | 5:40 |
 | 13 | [Eyes](https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 4:52 |
 | 14 | [Portrait](https://open.spotify.com/track/61OLiZOlb72LJCfl5zVMcG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Portrait](https://open.spotify.com/album/28dDtNxyObSHx2v0fP3SnO) | 4:03 |
 | 15 | [Deep Waters](https://open.spotify.com/track/4NY0pyyRKObg9S58koRXDz) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Deep Waters](https://open.spotify.com/album/1rleWJZprZvmlqv1fH8KLZ) | 3:29 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 49 | [Shiram](https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY) | [The Brandy Alexanders](https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0) | [Shiram](https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1) | 2:45 |
 | 50 | [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 4:55 |
 | 51 | [New Obsession](https://open.spotify.com/track/2m5ITPG4RR9A6fdxGw9sau) | [Pure Reason Revolution](https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3) | [Eupnea](https://open.spotify.com/album/4ZLPuhDGLqmycq9zSc8XKv) | 5:07 |
-| 52 | [KING GHOST](https://open.spotify.com/track/42c46DbtEW7AKJijbfhZmd) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES \(Deluxe Edition\)](https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx) | 4:06 |
+| 52 | [KING GHOST](https://open.spotify.com/track/1sNEW5TWdN1Et70SwaTi7o) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES](https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol) | 4:06 |
 | 53 | [The Way Out](https://open.spotify.com/track/1sgINNcxXjmv51Urc8Fgm3) | [Vinicius Cavalieri](https://open.spotify.com/artist/2GFH65OfEiNfR6TgZ8b3eL), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [The Way Out](https://open.spotify.com/album/3LG6v76h4WjsbtvgOVjb1g) | 3:53 |
 | 54 | [Punchin'](https://open.spotify.com/track/1VhH0ZimszA3aPx0JiBAvb) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Punchin'](https://open.spotify.com/album/1Mcvljl7BijHztqsa9xFHL) | 3:04 |
 | 55 | [Seed II](https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN) | 3:20 |
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 57 | [Unravel](https://open.spotify.com/track/0unnpj2MpDXOz55oupWYUX) | [The Anchoress](https://open.spotify.com/artist/2Z4qmyxotDkAbZ0TpXyZyw) | [Unravel](https://open.spotify.com/album/5tySygjYcKLgDRfcpiynrB) | 4:04 |
 | 58 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 |
 | 59 | [Suffering](https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Suffering](https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG) | 5:51 |
-| 60 | [Raining Hard in Heaven](https://open.spotify.com/track/1cWjXUH01GLNqv338A69Od) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Raining Hard in Heaven](https://open.spotify.com/album/58wt8eVfJX3Hr9B9HrlWHt) | 8:31 |
+| 60 | [Raining Hard in Heaven](https://open.spotify.com/track/5uNzKTuYIIumgD63UyHbkV) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Prehensile Tales](https://open.spotify.com/album/77hPi3aKn8PRfcyh7GUjqY) | 8:31 |
 | 61 | [Broken](https://open.spotify.com/track/54vAjEj8qRM4cwYCCQWb31) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/1xYzQiyuN22148NQClXDd0) | 6:47 |
 | 62 | [Keeping People as Pets](https://open.spotify.com/track/2Bs1pRSZh0imh8my3EczOC) | [Lonely Robot](https://open.spotify.com/artist/6QsBFBEWHLod7IqInyBOjJ) | [Keeping People as Pets](https://open.spotify.com/album/54tLhnUTtB5qX8w57Qmh8n) | 5:20 |
 | 63 | [In Dreams](https://open.spotify.com/track/4Wtd80eE4GyuzuwVMOxigs) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [In Dreams](https://open.spotify.com/album/6SySbe7lsj4wlbLjuv56pF) | 4:18 |
 | 64 | [Demons](https://open.spotify.com/track/5s51DrOIrHf7k8EtoqNUgN) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Demons](https://open.spotify.com/album/7bF7jvKnOsia2OcdNensBe) | 4:33 |
 | 65 | [Break It All](https://open.spotify.com/track/1SdxRh3a4qUs3HJcJvsHjr) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Break It All](https://open.spotify.com/album/4LpRz5IwhznG4gHWeLHcTU) | 4:21 |
 | 66 | [The Grey](https://open.spotify.com/track/2WLsXSExqgXLgh2ZKDahu9) | [Somehow Jo](https://open.spotify.com/artist/0czBYiBCOXAxu8x0kddWM2) | [The Grey](https://open.spotify.com/album/6CsWT8zcuEiZARblpuxZjW) | 3:55 |
-| 67 | [EMINENT SLEAZE](https://open.spotify.com/track/4S9n0DUrSZWzBL3fooRlDD) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES \(Deluxe Edition\)](https://open.spotify.com/album/0tHQTsZepeMpMqgtBdaFRx) | 3:52 |
+| 67 | [EMINENT SLEAZE](https://open.spotify.com/track/0eAdGn6Eltul066nbNPpua) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [THE FUTURE BITES](https://open.spotify.com/album/76hVw7WdMkDylaMlW0X8Ol) | 3:52 |
 | 68 | [The Heart's Whisper](https://open.spotify.com/track/2zoufCsixCSZ7G9uA0V03Y) | [Our Oceans](https://open.spotify.com/artist/4AEpHs6Dphr48rEfYytk07) | [While Time Disappears](https://open.spotify.com/album/0n3CI3qSwoRyKcKM2ADRwu) | 5:29 |
 | 69 | [In Procession](https://open.spotify.com/track/2VH9QXiavVZgnM9G1U8mvi) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Omens](https://open.spotify.com/album/5bsWvIa3jrWZtWtcn58UBl) | 9:21 |
 | 70 | [Becoming Human](https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH) | [Simon Collins](https://open.spotify.com/artist/7GXoTDCcMmarUIZtrdrTa9) | [Becoming Human](https://open.spotify.com/album/0oLJEU3ZuMqdzp09VdPdoP) | 4:17 |
 | 71 | [This Party's Over](https://open.spotify.com/track/0dDx5YWvL6WmlIOgdA3akc) | [Fish](https://open.spotify.com/artist/6bQfVk5fSJSp3JtGiQZGNI) | [This Party's Over](https://open.spotify.com/album/2xOcgXYuOsJvOIqHACNKtr) | 4:23 |
 | 72 | [Roulette Dares \(The Haunt Of\) \- Unfinished Original Recordings Of De\-Loused In The Comatorium](https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Landscape Tantrums \(Unfinished Original Recordings Of De\-Loused In The Comatorium\)](https://open.spotify.com/album/3X3xy01oWmdpRSJIttm4NT) | 6:37 |
-| 73 | [Right Way Back](https://open.spotify.com/track/6zbBYMUZHrURYziUfFVgJw) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Love Me & Love Me](https://open.spotify.com/album/7ELqN2yBpbH9ToLbmFVeXA) | 3:51 |
+| 73 | [Right Way Back](https://open.spotify.com/track/3ErQbRuLdafRrhIf8Ceefa) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Discover Crown Lands](https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq) | 3:51 |
 | 74 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 75 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 |
 
-Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDUwZjJkZGI5YjI1NWE1YmE4ZTUzMGY5Y2RjMWE0Y2Jh`
+Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDFhNzRlNTk2MzVjMDdhODRmZDk1MTE1NjdiNGNmZWRi`

@@ -1,13 +1,29 @@
 {
   "description": "\u00a1Baila con los mejores \u00e9xitos de los 90!",
-  "num_followers": 983319,
+  "num_followers": 983461,
   "original_name": "Fiesta 90era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyOTQzNSwwMDAwMDAwMGZiYmQ4NTQ5MzE0NjQ1MmI2ODM4NzFmNzYxZWRhMzlh",
+  "snapshot_id": "MTY2MTkyOTQzNSwwMDAwMDAwMDQ5YTYwNzI1Zjk3NmQ4NGY3N2Q5ZGIwZWY3OGE3Zjhi",
   "tracks": [
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "You Give Love A Bad Name",
+      "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 173026,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "A Little Bit of Mambo",
+        "url": "https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai"
+      },
+      "artists": [
+        {
+          "name": "Lou Bega",
+          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Mambo No. 5 (a Little Bit of...)",
+      "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2022-08-31 07:03:55",
@@ -43,22 +91,6 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado En Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -71,6 +103,22 @@
       "duration_ms": 243160,
       "name": "Livin' la Vida Loca",
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 202583,
+      "name": "Boom, Boom, Boom, Boom!!",
+      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
     },
     {
       "added_at": "2022-08-31 07:03:55",
@@ -123,6 +171,22 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado En Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -139,18 +203,54 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
+        "name": "Nina Sky",
+        "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
       "artists": [
         {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "Jabba",
+          "url": "https://open.spotify.com/artist/6TL5LD7Gqmo99xssJEbQpA"
         }
       ],
-      "duration_ms": 215386,
-      "name": "Dragostea din tei",
-      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
+      "duration_ms": 232000,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Ojos As\u00ed",
+      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
+      },
+      "artists": [
+        {
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "Formas De Amor",
+      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
     },
     {
       "added_at": "2022-08-31 07:03:55",
@@ -219,22 +319,6 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Ojos As\u00ed",
-      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
         "name": "20 Exitos Originales",
         "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
       },
@@ -247,6 +331,22 @@
       "duration_ms": 281173,
       "name": "Bella Se\u00f1ora",
       "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2022-08-31 07:03:55",
@@ -279,6 +379,38 @@
       "duration_ms": 265466,
       "name": "Vuela, Vuela (Voyage, Voyage)",
       "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "The Best Of Hanson 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "MMMBop - Single Version",
+      "url": "https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Mirala Miralo",
+      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
       "added_at": "2022-08-31 07:03:55",
@@ -379,6 +511,22 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6r62ZeOqHlT866I41gDQbA"
+      },
+      "artists": [
+        {
+          "name": "Ragazzi",
+          "url": "https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "TBC",
+      "url": "https://open.spotify.com/track/6HJpRs15t69hbKxIhlWwgC"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
         "name": "Estas Buena",
         "url": "https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI"
       },
@@ -475,6 +623,22 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Dragostea Din Tei",
+      "url": "https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
         "name": "The Summer Is Magic - Ep",
         "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
       },
@@ -503,6 +667,22 @@
       "duration_ms": 210520,
       "name": "No Puedo Olvidarme Ti",
       "url": "https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
     },
     {
       "added_at": "2022-08-31 07:03:55",
@@ -539,6 +719,22 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Livin' la Vida Loca - Spanish Version",
+      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
+    },
+    {
+      "added_at": "2022-08-31 07:03:55",
+      "album": {
         "name": "Me Siento Tan Sola",
         "url": "https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG"
       },
@@ -567,38 +763,6 @@
       "duration_ms": 210866,
       "name": "S\u00f3lo Se Vive una Vez",
       "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Bailando - Video Edit",
-      "url": "https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Livin' la Vida Loca - Spanish Version",
-      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
     },
     {
       "added_at": "2022-08-31 07:03:55",
@@ -639,178 +803,18 @@
     {
       "added_at": "2022-08-31 07:03:55",
       "album": {
-        "name": "Voc\u00ea \u00c9 Minha Religi\u00e3o: O Melhor Do Man\u00e1 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0T6xjJtpq2ZFsGb8WVBPfO"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5TA7wLBogohCKbyuCMHBKY"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "Rock Now",
-        "url": "https://open.spotify.com/album/5waAiscV686fUIfuNBadny"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "You Give Love A Bad Name",
-      "url": "https://open.spotify.com/track/5QC1X913h7LoLTvRvJNE2t"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "Grandes exitos 1997-2004",
-        "url": "https://open.spotify.com/album/2InFQlv0Qyb9z4zGe9P8iK"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 359173,
-      "name": "No es lo mismo",
-      "url": "https://open.spotify.com/track/6p7KLIvLhnACzXHuUi00zs"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/0X0BfLqYvgp8SHUlRPoWts"
-      },
-      "artists": [
-        {
-          "name": "Ilegales",
-          "url": "https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z"
-        }
-      ],
-      "duration_ms": 246266,
-      "name": "Como Un Trueno",
-      "url": "https://open.spotify.com/track/6HCUC1WENuTneci2DskHwR"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "Mambo No. 5 (A Little Bit Of...)",
-        "url": "https://open.spotify.com/album/7hRiVC8EIOLbtPRaAV1LnS"
-      },
-      "artists": [
-        {
-          "name": "Lou Bega",
-          "url": "https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Mambo No. 5 (A Little Bit Of...)",
-      "url": "https://open.spotify.com/track/3l8WwsQTLPysuRph7WIRYq"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/4C61EbxaKE4fX2qKSLsSFN"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "Greatest Hits!",
-        "url": "https://open.spotify.com/album/5FzqflLFyIksoejXt4drHL"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 202583,
-      "name": "Boom, Boom, Boom, Boom!!",
-      "url": "https://open.spotify.com/track/02j3YwlrHMbcHrRog2vlgD"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "ICONIC - Latin Pop Groups",
-        "url": "https://open.spotify.com/album/1tZwxNj00Ncv9N6aDWw6Or"
-      },
-      "artists": [
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "La Calle De Las Sirenas",
-      "url": "https://open.spotify.com/track/5sZpTiojY5snupqXOFIyeH"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/00BcAPNiGhDH0eei1VmbHX"
-      },
-      "artists": [
-        {
-          "name": "Mercurio",
-          "url": "https://open.spotify.com/artist/5A3jmdFMr6pd76VS5sblRV"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Explota Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6XSI2LYIPQMB9Aju5XslFG"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "The Rhythm of the Night: 90s Dance",
-        "url": "https://open.spotify.com/album/3AlC7BDKHPRXIURWgtMHjC"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/3bmQaBes9IQvPCEhKDqFXv"
-    },
-    {
-      "added_at": "2022-08-31 07:03:55",
-      "album": {
-        "name": "\ud83d\udc97 Pop y Amor \ud83d\udc97",
-        "url": "https://open.spotify.com/album/4CDUbBRUJz14GfK6KPnuq8"
-      },
-      "artists": [
-        {
-          "name": "Calo",
-          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Formas De Amor",
-      "url": "https://open.spotify.com/track/7tWxrM3TbM9VuXZtruKdky"
+      "duration_ms": 217160,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/57xIz4fw0sMzc2GRnc2Il7"
     }
   ],
   "unique_name": "Fiesta 90era",

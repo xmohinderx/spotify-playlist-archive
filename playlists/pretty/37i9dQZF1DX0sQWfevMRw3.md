@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Cheva på fredag och långburk i varje hand!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,383 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,587 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 92 | [RAGGA EPA](https://open.spotify.com/track/3tbpPTVJTgP3mpiaPi44nk) | [DVNK1](https://open.spotify.com/artist/2gWdRg5BQjgmf4Y6XDliQU) | [RAGGA EPA](https://open.spotify.com/album/60Le7eq3LYmPEonmTSzbni) | 2:24 |
 | 93 | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/track/1Gkb6eAZmdZdvZPd3VorQU) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Melocoton \(The Donka Donk Song\)](https://open.spotify.com/album/7eYzzr5h4LfeiZlrkBNTRi) | 2:22 |
 | 94 | [Rosa Helikopter](https://open.spotify.com/track/3gFZAe1VQ5GRApXr3xmGMN) | [bby](https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N), [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [Rosa Helikopter](https://open.spotify.com/album/38uIobGm6L71qAXqvL0AhM) | 2:35 |
-| 95 | [MDMA](https://open.spotify.com/track/491Qgm9XDVxUc6OQJHEIzh) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Party Hymnen 2021](https://open.spotify.com/album/468RhKPwuuYqJOCLo3ulWG) | 2:08 |
+| 95 | [MDMA](https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [MDMA](https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G) | 2:08 |
 | 96 | [SOMMARKÅT](https://open.spotify.com/track/3yZxrABRefj5Wp9iq6DeGl) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SOMMARKÅT](https://open.spotify.com/album/3nHqS01Sd7dd3KP57BCbNS) | 2:27 |
 | 97 | [På bygda](https://open.spotify.com/track/3FS7XR25pAvL370wQ0soAx) | [Discocrew](https://open.spotify.com/artist/2KegmlK6WXqdlAGklMnQeV) | [På bygda](https://open.spotify.com/album/4PqryGxQ8BA0KzL0AqwOxl) | 2:40 |
 | 98 | [FUCK DIG](https://open.spotify.com/track/6nwn5SVc86YQ7TSJbIHs1p) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [FUCK DIG](https://open.spotify.com/album/4ZMd4XfUzydl51FuhfVw4G) | 2:08 |
 | 99 | [Trombone](https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Trombone](https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT) | 2:46 |
 | 100 | [Uppe Hela Natten](https://open.spotify.com/track/6t1VM2Scy6n5911yELH3KT) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Uppe Hela Natten](https://open.spotify.com/album/6kwKhsvbUBtYLnoM4rio5t) | 2:30 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDRjYWZlZmQ3ZDhiOTdiMmZiYzM4ZDQzODNkZTNkMGQz`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGRhMDY2YzY1ZmM5MGY5MGYxNDY0MzlhNTk1ZTczOGY3`

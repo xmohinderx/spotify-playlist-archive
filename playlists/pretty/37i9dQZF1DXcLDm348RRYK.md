@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,312 likes - 63 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,304 likes - 63 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 41 | [You](https://open.spotify.com/track/26VOWQqmxwoAY7kTOyo5wx) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [You](https://open.spotify.com/album/4iubyhplcdpgDPLms7VNr5) | 4:17 |
 | 42 | [Soliloquy](https://open.spotify.com/track/1C9qXn3soPOZmiko6CZgXC) | [Peter Ciluzzi](https://open.spotify.com/artist/3BC3jPO6EpRTy6iySniyZH) | [Music Without Words](https://open.spotify.com/album/6KresnMXFOdggE4OYcD1tk) | 2:41 |
 | 43 | [Mutter](https://open.spotify.com/track/2bQAQZiFa15fLnEFUPLj02) | [Rob Scallon](https://open.spotify.com/artist/0A51LEnyTnXX33IyuwM0Ts) | [Anchor EP \(Tour Edition\)](https://open.spotify.com/album/2NRmQa5rsSqARapsAQJx9n) | 6:33 |
-| 44 | [Song for Lucas](https://open.spotify.com/track/55En8TlNLGkeG3gupDRW7a) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [String Poet Guitar Solos](https://open.spotify.com/album/0cN7QOj6dUMaOVyPEDG01Z) | 3:06 |
+| 44 | [Song for Lucas](https://open.spotify.com/track/0u6tOpKjCa02bbIJ2b8879) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [String Poet](https://open.spotify.com/album/4POyyZuIA30ZWPnwmz8N1w) | 3:06 |
 | 45 | [Affirmatiion](https://open.spotify.com/track/73QZsh1bq7REnerepGhMYu) | [Adam Rafferty](https://open.spotify.com/artist/4ew33GzqUUdGNpeaKC3ejt) | [Play Pretty for the People](https://open.spotify.com/album/5SJc0gJRBSeeqIQKhxSNk9) | 4:07 |
 | 46 | [Everybody Needs One](https://open.spotify.com/track/48Ct0cNzeN62EDJzwg7I5E) | [Craig D'Andrea](https://open.spotify.com/artist/46Y38RAhiOID5strXb6sDA) | [Crazy Is Catching](https://open.spotify.com/album/0lEpSVhkwpyHUkPjphNVc6) | 3:53 |
 | 47 | [Heat](https://open.spotify.com/track/3WgjuiahVh7As4w3IcQZEE) | [Ben Woolman](https://open.spotify.com/artist/5zGODupJdUmjZwGou0tQpI) | [Wisdom / Delusion](https://open.spotify.com/album/56BvupOSQ2zVIIdveRATqF) | 4:05 |
@@ -65,11 +65,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 55 | [Farewell \(feat\. Michael Manring\)](https://open.spotify.com/track/2wxkIxCjB5047xUG5njMQ2) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR) | [Tabula Rasa](https://open.spotify.com/album/30OgCzf2n8pLPvqW5ECtkR) | 4:32 |
 | 56 | [If You Say so Romance](https://open.spotify.com/track/6GeSiZbHwLpkSvG2zUhlyA) | [Jimmy Wahlsteen](https://open.spotify.com/artist/6WA8mlh44MksdUg7Prx2zE) | [No Strings Attached](https://open.spotify.com/album/5gNJTHSbG5yD8GZR0u7RnY) | 3:30 |
 | 57 | [Anchor](https://open.spotify.com/track/266OUcgyIExZvOMvMijQbk) | [Trace Bundy](https://open.spotify.com/artist/1OqASoosW3wOTZreze7i97) | [Elephant King](https://open.spotify.com/album/7j4s8Mw9lJaWl5F54Mrhs6) | 1:51 |
-| 58 | [Night After Sidewalk](https://open.spotify.com/track/09RowT9aDgyH1MCSkfZIDU) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Acoustic Heart 2: The Passion and Romance of Acoustic Guitar Masters](https://open.spotify.com/album/46tEiYMsAIBegtZ4AyYjIB) | 3:30 |
+| 58 | [Night After Sidewalk](https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Everybody Loves You](https://open.spotify.com/album/5CbsLK7qbFYtYsGrUTwy3L) | 3:30 |
 | 59 | [Star of the Country Down](https://open.spotify.com/track/2UbPd0NRDK4C0GydEDIQfk) | [Pat Kirtley](https://open.spotify.com/artist/4wQGu2sZibDxvZIPxEOCr3) | [Ramble to Cashel](https://open.spotify.com/album/14ouePxlOLsGjeptH8lIBC) | 3:21 |
 | 60 | [Movement I \- Awakening](https://open.spotify.com/track/63y9PsKjVQWxvx4yZ4QMdL) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [The Lamaj Movement](https://open.spotify.com/album/6zFlPueRXz2QG5HnfFvem1) | 3:55 |
 | 61 | [Altalenanze](https://open.spotify.com/track/5UpCLtzvTE8uNbDzTVSAnc) | [Stefano Barone](https://open.spotify.com/artist/3SkmDmTvx0USL6SaL8uDs6) | [Danze Altalenanze](https://open.spotify.com/album/60pGj9J2Z0vjn2d9kzZzsW) | 3:54 |
 | 62 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/0X73orYGQwzjF9lSYSE3Aj) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 |
 | 63 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 |
 
-Snapshot ID: `MTY0ODc4NTcyMCwwMDAwMDAwMDc3NDBlZGQzOTg3NGMwYmYwNzRmZWRiMWExYjY3MGUx`
+Snapshot ID: `MTY0ODc4NTcyMCwwMDAwMDAwMDExYjQ0YmZkOTBiMWYyZWZjYWM4NGU1OTk4MTJmNzA4`

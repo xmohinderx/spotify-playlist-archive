@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23547,
+  "num_followers": 23566,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMGE0ZmJlMzVhMGM0OTk3ZjI5MDAyYmJhYThkMDA0NDY4",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDZkM2U0M2ZkM2U5NjliZWIxMmQyNjUxODI5OGY4OTY1",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Una Vaina Loca",
+        "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Una Vaina Loca",
+      "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -179,6 +195,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 315293,
+      "name": "Sali\u00f3 El Sol",
+      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -199,18 +231,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 315293,
-      "name": "Sali\u00f3 El Sol",
-      "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -231,22 +267,34 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -479,6 +527,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -539,22 +607,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 626880,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -567,6 +619,22 @@
       "duration_ms": 184721,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 626880,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -723,6 +791,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "KESI",
+      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
       },
@@ -759,22 +843,6 @@
       "duration_ms": 280916,
       "name": "Dividimos (Bachata Version)",
       "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "KESI",
-      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -863,6 +931,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
       },
@@ -915,26 +1003,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 174297,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -955,22 +1023,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+      "duration_ms": 174297,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1123,26 +1191,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Libertad 548",
-        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Cantare",
-      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1235,22 +1283,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "C\u00e1ntalo",
         "url": "https://open.spotify.com/album/25a4WLnsIpQFbJ8d3SiF9y"
       },
@@ -1271,6 +1303,42 @@
       "duration_ms": 218996,
       "name": "C\u00e1ntalo",
       "url": "https://open.spotify.com/track/7MkFd0UDHlILDrhBjGZH5K"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Libertad 548",
+        "url": "https://open.spotify.com/album/6nCJAxRvXmPkPiZo8Vh5ZG"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Cantare",
+      "url": "https://open.spotify.com/track/3sLyTeDoFFgLYtaBeUAlgr"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1331,6 +1399,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Boogaloo Supreme",
+        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 208152,
+      "name": "Boogaloo Supreme",
+      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Arrebata",
         "url": "https://open.spotify.com/album/7kPO6PI7EMWHt88gZeUWE3"
       },
@@ -1367,26 +1455,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Boogaloo Supreme",
-        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 208152,
-      "name": "Boogaloo Supreme",
-      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Conga",
         "url": "https://open.spotify.com/album/1bIdSuFjTwqZLXI5BSGKGv"
       },
@@ -1411,6 +1479,30 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Nuestra Esquina",
+        "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
+      },
+      "artists": [
+        {
+          "name": "N'Klabe",
+          "url": "https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q"
+        },
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        },
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Pa'lante y Pa'tras - Remix",
+      "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Las Puertas del Cielo",
         "url": "https://open.spotify.com/album/7tn2Du0ZolY76WSl9aMwF7"
       },
@@ -1427,6 +1519,26 @@
       "duration_ms": 232803,
       "name": "Las Puertas del Cielo",
       "url": "https://open.spotify.com/track/02hyDMBvUTU0ATb7RS6dmg"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1475,26 +1587,6 @@
       "duration_ms": 219049,
       "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "25/7",
-        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
-      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1647,22 +1739,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Sanga Zoo (feat. Farruko)",
         "url": "https://open.spotify.com/album/5StbSlzS0COrqrPJDhQr9V"
       },
@@ -1687,6 +1763,22 @@
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "Hasta el Sol de Hoy",
+        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 236611,
+      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1731,6 +1823,38 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Cobarde",
+        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "No Drama (Cumbia Version)",
+        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 182229,
+      "name": "No Drama - Cumbia Version",
+      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Pa' Que Te Duela",
         "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
@@ -1767,54 +1891,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "No Drama (Cumbia Version)",
-        "url": "https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 182229,
-      "name": "No Drama - Cumbia Version",
-      "url": "https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Cobarde",
-        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Salsa Navide\u00f1a",
-        "url": "https://open.spotify.com/album/6jSxvCzrM1ejSVcph5llRk"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/5GHn9ZpgHRkuvEVoLihPVS"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Brindemos por Ellas",
         "url": "https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2"
       },
@@ -1831,22 +1907,6 @@
       "duration_ms": 219000,
       "name": "Brindemos por Ellas",
       "url": "https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Una Vaina Loca (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        }
-      ],
-      "duration_ms": 188894,
-      "name": "Una Vaina Loca - Original",
-      "url": "https://open.spotify.com/track/6HNAuECjNqIzYID3q1nqZl"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2127,22 +2187,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Arregla tu casa con salsa",
-        "url": "https://open.spotify.com/album/3UmqjdfsAZ1sffM1I1Qeiy"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 302093,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/6KoiYuwLQv5KpKwGNJj5d8"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "El Fen\u00f3meno del Mambo",
         "url": "https://open.spotify.com/album/25Vl33c9fDERhuJ7mSzEdJ"
       },
@@ -2155,38 +2199,6 @@
       "duration_ms": 179200,
       "name": "El Fen\u00f3meno del Mambo",
       "url": "https://open.spotify.com/track/2J6tJINnAI7Oqh0hYyQPLd"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Bachata Queen",
-        "url": "https://open.spotify.com/album/43RLdTuJFdB1AdlJQ9xI7m"
-      },
-      "artists": [
-        {
-          "name": "Alexandra",
-          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
-        }
-      ],
-      "duration_ms": 294864,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2bsqxGvy8NZUspOL9rRazN"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Cu-Cu-Cu Cumbia!",
-        "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Cosas",
-      "url": "https://open.spotify.com/track/5dFI94deOPExXpWJftrQ4B"
     }
   ],
   "unique_name": "Verano Tropical",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,825 likes - 83 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,874 likes - 83 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 10 | [再会 \(produced by Ayase\)](https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [再会 \(produced by Ayase\)](https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf) | 4:02 |
 | 11 | [unlasting](https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:56 |
 | 12 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 |
-| 13 | [Catch the Moment](https://open.spotify.com/track/7pSSCx0NsnJxXoIWJQddjh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 4:42 |
-| 14 | [Rising Hope](https://open.spotify.com/track/6cjLwn9Y6xm2laGb9BV3um) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rising Hope](https://open.spotify.com/album/2GMe4oDPk85ZVhF2aBhdkH) | 4:12 |
+| 13 | [Catch the Moment](https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:42 |
+| 14 | [Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:11 |
 | 15 | [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 |
-| 16 | [oath sign](https://open.spotify.com/track/1QgImCheZGHMqTsZ4kh09C) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 4:09 |
-| 17 | [だってアタシのヒーロー。](https://open.spotify.com/track/5u28x17ED7tP6pY327Bb2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:54 |
+| 16 | [oath sign](https://open.spotify.com/track/4WRoLfCYJ4sLMhXgQJnI2N) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LOVER"S"MiLE](https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG) | 4:10 |
+| 17 | [だってアタシのヒーロー。](https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [だってアタシのヒーロー。](https://open.spotify.com/album/6RIrlLnU6kxuBnYXQVg25m) | 3:54 |
 | 18 | [HADASHi NO STEP](https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:45 |
 | 19 | [Wake Me Up!](https://open.spotify.com/track/2AqHEeNCiY2Xq0E4YlCDWd) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Wake Me Up!](https://open.spotify.com/album/73Sxwha7hL9gcl4GXyXCyH) | 4:43 |
 | 20 | [rapid lady ハレーション](https://open.spotify.com/track/4bJoYXbL2tf8LkdOWBF1Uh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:20 |
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 29 | [Another Great Day!!](https://open.spotify.com/track/04wHEljnaPozbpkyoRPNkU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:58 |
 | 30 | [ROCK\-mode](https://open.spotify.com/track/3pvwavXxyhx7lIBdYY5Mjq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LOVER"S"MiLE](https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG) | 4:16 |
 | 31 | [Thrill, Risk, Heartless](https://open.spotify.com/track/5gf9xFlRXntw7hl3BBAeNp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 4:16 |
-| 32 | [ASH](https://open.spotify.com/track/4Mo3Gxku2a200qAjNsrPCO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 3:58 |
+| 32 | [ASH](https://open.spotify.com/track/6zxywTNOcgQ4jRWe1qDtSC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0TAZXk1bXxW0Da0mukfzE3) | 3:55 |
 | 33 | [BEAUTIFUL WORLD](https://open.spotify.com/track/4bKewsiRpYgAX7IV201coC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 5:12 |
 | 34 | [Believe in myself](https://open.spotify.com/track/1cls46C2JdaGNMO9wBs7dm) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Letters to U](https://open.spotify.com/album/4ATTPvYUUlWFj4f4UDfCXZ) | 4:34 |
 | 35 | [Empty MERMAiD](https://open.spotify.com/track/6CZvlmGcUhpmbP6yYq0PcL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:41 |
-| 36 | [ジェットロケット](https://open.spotify.com/track/1o1Vv2RYHeK2H35bIbvsHa) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ジェットロケット](https://open.spotify.com/album/0keV4717MldvLeZaYqny0b) | 4:51 |
-| 37 | [traumerei](https://open.spotify.com/track/672pe8mRW04SdGBoRoJGou) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [traumerei](https://open.spotify.com/album/7l00tNu8Kiuawuqwv3o4Kv) | 4:15 |
+| 36 | [ジェットロケット](https://open.spotify.com/track/7qhndu9caI7FUlfmKORIOD) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LOVER"S"MiLE](https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG) | 4:53 |
+| 37 | [traumerei](https://open.spotify.com/track/24GwFhh1ByRhPuCBrTQhlW) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:15 |
 | 38 | [罪人](https://open.spotify.com/track/6sX28h4bshzPlm6TBBAJT2) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0pSP1RWLlGZPFEeU6an064) | 4:11 |
-| 39 | [Brave Freak Out](https://open.spotify.com/track/64leWKgrhW8rrcjcTvp4ye) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Brave Freak Out \- EP](https://open.spotify.com/album/0pMfXpDq4OepuR1V85aell) | 4:15 |
+| 39 | [Brave Freak Out](https://open.spotify.com/track/42R9a3jhROy4sgZdKkc7WT) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 4:15 |
 | 40 | [ViVA LA MiDALA](https://open.spotify.com/track/2dDNJswbpRBIIN1LNf7nv7) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 4:04 |
 | 41 | [THIS ILLUSION](https://open.spotify.com/track/1OrzZdwIwqM7KSoks6Fqjp) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [THIS ILLUSION](https://open.spotify.com/album/4qeTC56RAFoYqlyLy5zSER) | 4:03 |
 | 42 | [play the world!](https://open.spotify.com/track/4M9x9R9Ar89CFatJwMbkrf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [PABLO](https://open.spotify.com/artist/395Le6nBY9v6viVKGYAIYw) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:18 |
 | 43 | [GL](https://open.spotify.com/track/6ehNNmlPGa1MlG1RyhT0I8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 3:00 |
-| 44 | [No More Time Machine](https://open.spotify.com/track/12ktBcosX2XZuaV6DQflVZ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シルシ](https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT) | 4:50 |
+| 44 | [No More Time Machine](https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:51 |
 | 45 | [Blue Moon](https://open.spotify.com/track/1wmnvhWsCExZlHsoDXmGQm) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiTTLE DEViL PARADE](https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P) | 5:10 |
 | 46 | [ONLY≠LONELY](https://open.spotify.com/track/3KcO2PEtLUuqkkENwr9cJi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0pSP1RWLlGZPFEeU6an064) | 5:44 |
 | 47 | [1/f](https://open.spotify.com/track/3OWvbjhox2ZWLoxnDYs6Pr) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [1/f](https://open.spotify.com/album/4iQU72ceAzBEXxxGqFs7Gg) | 4:37 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 82 | [愛錠](https://open.spotify.com/track/567GpcEdlzyrjzWh4vfRzX) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:05 |
 | 83 | [オレンジサイダー](https://open.spotify.com/track/55EbssrpWwFpfeB9xqG6PP) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rally Go Round](https://open.spotify.com/album/4n2lzLEgGWKrEkBUn0HGrn) | 4:29 |
 
-Snapshot ID: `MTY2Nzc4MjExOCwwMDAwMDAwMDU1YjkzZjM3MzEzNjAwYjY0OTVmMGQ0ZTkyOTYxNjQ0`
+Snapshot ID: `MTY2Nzc4MjExOCwwMDAwMDAwMGZkMzAwYWI2ODZiOWYzOWUyOTk1MzE3MjU4YjY3MDM0`

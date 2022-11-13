@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14588,
+  "num_followers": 14597,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDBhNDEzZDVhNzYzY2M3NTFmODg2M2JjZjk3OGNkNDYx",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGUwNzBmMDBjNjIyY2E1MTIzZGQ2ZWMwZWU1ZGExOWZi",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Bad Things (Remixes)",
-        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Kaidro",
-          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
-        }
-      ],
-      "duration_ms": 282162,
-      "name": "Bad Things - Kaidro Remix",
-      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Show Me Love (Sander van Doorn Remix)",
         "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 188437,
       "name": "Show Me Love - Sander van Doorn Remix",
       "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Bad Things (Remixes)",
+        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Kaidro",
+          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
+        }
+      ],
+      "duration_ms": 282162,
+      "name": "Bad Things - Kaidro Remix",
+      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2071,30 +2071,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "My Feelings",
-        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
-      },
-      "artists": [
-        {
-          "name": "Serhat Durmus",
-          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
-        },
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        },
-        {
-          "name": "Georgia Ku",
-          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
-        }
-      ],
-      "duration_ms": 181922,
-      "name": "My Feelings - Mokita Remix",
-      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Desire (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
       },
@@ -2119,6 +2095,30 @@
       "duration_ms": 225967,
       "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
       "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "My Feelings",
+        "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
+      },
+      "artists": [
+        {
+          "name": "Serhat Durmus",
+          "url": "https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD"
+        },
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 181922,
+      "name": "My Feelings - Mokita Remix",
+      "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2187,6 +2187,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Pomegranate (Jay Robinson Remix)",
+        "url": "https://open.spotify.com/album/4IyaI98lEWwR2RJTveVmHW"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "duration_ms": 332691,
+      "name": "Pomegranate - Jay Robinson Remix",
+      "url": "https://open.spotify.com/track/29i8kD96bdT1yjkdcuTawb"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -2231,30 +2255,6 @@
       "duration_ms": 338442,
       "name": "Thing Called Love - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/7BsRNfEsuGOr0cKo0GaQNN"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Pomegranate (Jay Robinson Remix)",
-        "url": "https://open.spotify.com/album/4IyaI98lEWwR2RJTveVmHW"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
-        }
-      ],
-      "duration_ms": 332691,
-      "name": "Pomegranate - Jay Robinson Remix",
-      "url": "https://open.spotify.com/track/29i8kD96bdT1yjkdcuTawb"
     },
     {
       "added_at": "2021-07-30 04:00:00",

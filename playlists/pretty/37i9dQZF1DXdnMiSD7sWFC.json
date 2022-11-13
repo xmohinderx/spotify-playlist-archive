@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 41247,
+  "num_followers": 41288,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDE2ZDlmNWJjODVhMzI3MGUxNzczOTYwNDlmNjc0ZDQ1",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDk0NzU4NTIwOWE0Nzc4NzBiY2VmYzIxODFmY2ZlYTZl",
   "tracks": [
     {
       "added_at": "2022-01-12 17:58:24",
@@ -135,6 +135,22 @@
       "duration_ms": 161026,
       "name": "Neon Stars",
       "url": "https://open.spotify.com/track/2hocBXb0VzbeX2ttM2Ngeg"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -323,6 +339,26 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "duration_ms": 210725,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -347,26 +383,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Julia Stone",
-          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
-        }
-      ],
-      "duration_ms": 210725,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -379,6 +395,26 @@
       "duration_ms": 162106,
       "name": "Grow into Love",
       "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+        }
+      ],
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -415,26 +451,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
-        }
-      ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Song For Our Daughter",
-        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 237228,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Santa Barbara",
         "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 194026,
       "name": "Santa Barbara",
       "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 237228,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -543,6 +559,22 @@
       "duration_ms": 213127,
       "name": "Love Is Everywhere (Beware)",
       "url": "https://open.spotify.com/track/7sxr5Pvovng4ECTiCqeSWm"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -755,6 +787,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -791,6 +839,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 249137,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -823,22 +887,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
@@ -851,6 +899,22 @@
       "duration_ms": 218740,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+      },
+      "artists": [
+        {
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -871,22 +935,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 251008,
-      "name": "Belly of the Beast",
-      "url": "https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -899,6 +947,22 @@
       "duration_ms": 200025,
       "name": "Montana",
       "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 251008,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -919,6 +983,22 @@
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -959,22 +1039,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Surprise, Surprise",
-        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 236276,
-      "name": "Surprise, Surprise",
-      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -987,6 +1051,22 @@
       "duration_ms": 234271,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Surprise, Surprise",
+        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 236276,
+      "name": "Surprise, Surprise",
+      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1103,6 +1183,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 211940,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5ouMWwTXJfgTOiCvz6fbFX"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Mint Condition",
         "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
@@ -1183,22 +1279,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Bed Head (Acoustic)",
         "url": "https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M"
       },
@@ -1231,26 +1311,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "If You Call",
-        "url": "https://open.spotify.com/album/0OY4ylUoapLz9T0UAy2t8K"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        },
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 347054,
-      "name": "If You Call",
-      "url": "https://open.spotify.com/track/7pzTko8DSWv5UfoxXQ7p93"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Count The Stairs",
         "url": "https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM"
       },
@@ -1263,74 +1323,6 @@
       "duration_ms": 214221,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Neil Young on High",
-        "url": "https://open.spotify.com/album/1S0sGRopjEF7cQ7HfTJF7P"
-      },
-      "artists": [
-        {
-          "name": "The Ophelias",
-          "url": "https://open.spotify.com/artist/0Kpf7PvEotzvndPhYwwZzb"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "Neil Young on High",
-      "url": "https://open.spotify.com/track/58q9HQ973MIbexDlnIsWQT"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "May Flowers",
-        "url": "https://open.spotify.com/album/6b6lr7abIADkzifUd8gNfE"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brennan",
-          "url": "https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8"
-        }
-      ],
-      "duration_ms": 210218,
-      "name": "May Flowers",
-      "url": "https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Featherweight - Acoustic Version",
-      "url": "https://open.spotify.com/track/79JR4YDBX2RHy0enKMvqe2"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "David",
-        "url": "https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 185105,
-      "name": "David",
-      "url": "https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU"
     }
   ],
   "unique_name": "night light ",

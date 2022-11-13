@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105736,
+  "num_followers": 105731,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGNhZmUyY2FkYTk3ZTUyODMwNDc0M2VjZjU3YTFiN2Uz",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDhlYTM2ZTY4YTE4NDcxY2FlNGRhYmQwOWUzNzYxNWQ1",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 207133,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -571,6 +571,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 212868,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Let's Fall in Love for the Night",
-      "url": "https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "The Dream Chapter: MAGIC",
         "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 211866,
       "name": "9 and Three Quarters (Run Away)",
       "url": "https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -859,6 +859,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+        "name": "Imploding The Mirage",
+        "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Happy Days",
-      "url": "https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif"
+      "duration_ms": 269533,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1007,6 +1023,38 @@
       "duration_ms": 161188,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "CALM",
+        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 220536,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Happy Days",
+      "url": "https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1163,6 +1211,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 264312,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "The Bigger Picture",
         "url": "https://open.spotify.com/album/7nUJ4h6X0vPXDPB8NYHuFr"
       },
@@ -1191,70 +1255,6 @@
       "duration_ms": 287321,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Can't Believe The Way We Flow",
-      "url": "https://open.spotify.com/track/6voR6zsWIn7vgZYGOFKYSZ"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Bigger Love",
-        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "Bigger Love",
-      "url": "https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Melhores M\u00fasicas Internacionais 2022",
-        "url": "https://open.spotify.com/album/44mM4AULWBACBm7CQnFi3R"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 208207,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/64hFA0izhdwZKH3SRUNGCr"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Songs From The Bitter Truth",
-        "url": "https://open.spotify.com/album/7sQN6pVY3NokHmFcdNA094"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 264312,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/6xP7wg1cz09H5mGnabltWY"
     }
   ],
   "unique_name": "MTV VMAs",

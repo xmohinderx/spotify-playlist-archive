@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 80782,
+  "num_followers": 80896,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM1NDUyZjA0YTIxZGViOTU5OGFkZGI0NTZiZTA1OGNi",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGViZGU2ZmQ0OGQzNDA5OWI5YzY0MGU4YmNkODJkYmVm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -87,6 +87,22 @@
       "duration_ms": 158446,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/3T9K3rHpNZrcXAnlMBIakW"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -607,22 +623,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 250836,
-      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Wouldn't It Be Nice",
         "url": "https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 250836,
+      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
-      },
-      "artists": [
-        {
-          "name": "Lisa Mitchell",
-          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
-        }
-      ],
-      "duration_ms": 167094,
-      "name": "California",
-      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 228693,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 210956,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 195920,
       "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/7hAhqGIOTDSlXq6R0wKqvw"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 210956,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7KV3NYtvmiK2ctNUmx6adR"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1128,6 +1144,22 @@
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -1143,22 +1175,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Boom Clap",
-        "url": "https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj"
-      },
-      "artists": [
-        {
-          "name": "Lennon & Maisy",
-          "url": "https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr"
-        }
-      ],
-      "duration_ms": 175615,
-      "name": "Boom Clap",
-      "url": "https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Judah & The Lion (Unplugged)",
         "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 251805,
       "name": "Soak up the Sun - Unplugged",
       "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Boom Clap",
+        "url": "https://open.spotify.com/album/2R7c2w7VihO8ouuNAjjOKj"
+      },
+      "artists": [
+        {
+          "name": "Lennon & Maisy",
+          "url": "https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr"
+        }
+      ],
+      "duration_ms": 175615,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/3j0oJtPonSYt9f5jHVLb91"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "A Thousand Miles",
-        "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
-      },
-      "artists": [
-        {
-          "name": "SADBOii",
-          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Semicolon & Parentheses (Deluxe)",
         "url": "https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 172782,
       "name": "You're the One That I Want",
       "url": "https://open.spotify.com/track/1oC2QTCvlBKfgzaPn2G4tC"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
+      },
+      "artists": [
+        {
+          "name": "SADBOii",
+          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1683,22 +1699,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "feel good inc. (feat. Mateus Asato)",
-        "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
       "artists": [
         {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        },
-        {
-          "name": "Mateus Asato",
-          "url": "https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 199239,
-      "name": "feel good inc. (feat. Mateus Asato)",
-      "url": "https://open.spotify.com/track/2GzlTbrFF2V6MwRDfBnYhf"
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1723,18 +1735,38 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+        "name": "feel good inc. (feat. Mateus Asato)",
+        "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
       },
       "artists": [
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        },
+        {
+          "name": "Mateus Asato",
+          "url": "https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc"
         }
       ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+      "duration_ms": 199239,
+      "name": "feel good inc. (feat. Mateus Asato)",
+      "url": "https://open.spotify.com/track/2GzlTbrFF2V6MwRDfBnYhf"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 206138,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1759,22 +1791,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 206138,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
       },
@@ -1787,6 +1803,22 @@
       "duration_ms": 169050,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2039,6 +2071,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "luckie",
+        "url": "https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU"
+      },
+      "artists": [
+        {
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
+        }
+      ],
+      "duration_ms": 174264,
+      "name": "luckie",
+      "url": "https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
@@ -2055,22 +2103,6 @@
       "duration_ms": 231308,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "luckie",
-        "url": "https://open.spotify.com/album/1XkHOCaHI4fqbB3tQ5nroU"
-      },
-      "artists": [
-        {
-          "name": "tiLLie",
-          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
-        }
-      ],
-      "duration_ms": 174264,
-      "name": "luckie",
-      "url": "https://open.spotify.com/track/6bgEBtFnH3qRY2Jprc8OSY"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2163,6 +2195,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
+        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "duration_ms": 243562,
+      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
+      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/1dh2pFzrKtkLeuQ8uoMX0U"
       },
@@ -2175,6 +2223,22 @@
       "duration_ms": 220975,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/1FT0UxEC9oRWUg18MfPEcj"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "How Long Will I Love You",
+        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
+      },
+      "artists": [
+        {
+          "name": "Kristina Train",
+          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
+        }
+      ],
+      "duration_ms": 140090,
+      "name": "How Long Will I Love You",
+      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2195,22 +2259,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
-        "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
-      },
-      "artists": [
-        {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        }
-      ],
-      "duration_ms": 243562,
-      "name": "I Feel It Coming (Recorded At Sound Stage Nashville)",
-      "url": "https://open.spotify.com/track/68sTjNvESuo7mQ37CfCJJj"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/3j2WcjsXEb4wMJqUFSfW95"
       },
@@ -2223,22 +2271,6 @@
       "duration_ms": 213706,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/4blEH2R5HZHTsZapNlvApV"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "How Long Will I Love You",
-        "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
-      },
-      "artists": [
-        {
-          "name": "Kristina Train",
-          "url": "https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK"
-        }
-      ],
-      "duration_ms": 140090,
-      "name": "How Long Will I Love You",
-      "url": "https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2407,6 +2439,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Cruel Summer (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 176789,
+      "name": "Cruel Summer (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Montero (Call Me By Your Name)",
         "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
       },
@@ -2435,22 +2483,6 @@
       "duration_ms": 225721,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "NOW That's What I Call Music, Vol. 77",
-        "url": "https://open.spotify.com/album/3P2f6BPhDskUbM5hnvzkLQ"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/4Wd48CF1H2DvhpETlcFrbN"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2523,6 +2555,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 248449,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Meet Me At Our Spot",
         "url": "https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu"
       },
@@ -2539,22 +2587,6 @@
       "duration_ms": 162666,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/5soh0KBoNInC6rSQ57vCvl"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248449,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2655,22 +2687,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "The One That Got Away (Acoustic)",
-        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
-      },
-      "artists": [
-        {
-          "name": "Landon Austin",
-          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
-        }
-      ],
-      "duration_ms": 217884,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Under the Bridge",
         "url": "https://open.spotify.com/album/1OpakNwTaeLg5kXV0a21Ab"
       },
@@ -2683,6 +2699,22 @@
       "duration_ms": 140645,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3CLyuBt19RhZ6phMIrpB8H"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "The One That Got Away (Acoustic)",
+        "url": "https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3"
+      },
+      "artists": [
+        {
+          "name": "Landon Austin",
+          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
+        }
+      ],
+      "duration_ms": 217884,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2887,22 +2919,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "positions",
-        "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
-      },
-      "artists": [
-        {
-          "name": "Chaz Mazzota",
-          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
-        }
-      ],
-      "duration_ms": 145961,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/5ESAbhn6KetEUOmf5VOkkh"
       },
@@ -2915,6 +2931,22 @@
       "duration_ms": 199874,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4EWfxnUb6TPQlaUjFgxnym"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "positions",
+        "url": "https://open.spotify.com/album/4looOoYgMmelHyFjiCzEFT"
+      },
+      "artists": [
+        {
+          "name": "Chaz Mazzota",
+          "url": "https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM"
+        }
+      ],
+      "duration_ms": 145961,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/4AzIX0rzbcTydZYFq3cmaz"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -3171,22 +3203,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Turn Her Up",
-        "url": "https://open.spotify.com/album/1ybaHdwIqpu3FRr4Lxk06Q"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/6NcL2bmAnqK6eo28y9UeYK"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "COVERS",
         "url": "https://open.spotify.com/album/3WS5vftB6hZY5YphrmMiWh"
       },
@@ -3199,22 +3215,6 @@
       "duration_ms": 182986,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/0ccN3wJBt8r5x6Mi4TOF5E"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Cruel Summer (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4cAhtcqdyshti4UotFGVqJ"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 176789,
-      "name": "Cruel Summer (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3jbYY3Bufg13nGMaTyE3By"
     }
   ],
   "unique_name": "Pop Covers",

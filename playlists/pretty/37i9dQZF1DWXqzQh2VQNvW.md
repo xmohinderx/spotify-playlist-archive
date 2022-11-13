@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,928 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,969 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 26 | [FAITHFUL \(feat\. NLE Choppa\)](https://open.spotify.com/track/0Ip7RFwZg9dg7vB8xoyo1z) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [FAITHFUL \(feat\. NLE Choppa\)](https://open.spotify.com/album/31WRXcJjUfZQiJE5calRZT) | 3:27 |
 | 27 | [Songs for The Weekend](https://open.spotify.com/track/7bLhDVopMpJfZuDm3aqCyo) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Songs for The Weekend](https://open.spotify.com/album/5seYeaPLAUlMpibLumx0Wb) | 3:26 |
 | 28 | [On The Weekend](https://open.spotify.com/track/0F9IVBckC6BjxmkSy8Jts9) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [On The Weekend](https://open.spotify.com/album/1rm0uC0uo87fuQuCfEgffH) | 2:52 |
-| 29 | [golden hour](https://open.spotify.com/track/34VhnIUNsHQFDyxhymwnZl) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/6LabIkq8jNU7azZGdkuC7G) | 3:29 |
+| 29 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
 | 30 | [SARA](https://open.spotify.com/track/7IlWwsL01c1dizJTHgD5rK) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SARA](https://open.spotify.com/album/2dXlLCZoS2qhel0sUTJrZ0) | 4:38 |
 | 31 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 32 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 69 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 | 70 | [I Wanted My Heart to Break](https://open.spotify.com/track/1XzBkGMqeenkz0x0ROXHZK) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Wanted My Heart to Break](https://open.spotify.com/album/4cbuvR3gH9Uc02ao0hzzpG) | 3:47 |
 | 71 | [Hold On](https://open.spotify.com/track/5KEhdsd6R49DlFWL43raBt) | [James Lanman](https://open.spotify.com/artist/1AdskP8cgmAIqfRQkDTJ36) | [Hold On](https://open.spotify.com/album/6JELjBe5Xm0WkgPSzwRobv) | 4:14 |
-| 72 | [Shivers](https://open.spotify.com/track/2vJw8oQzwDP9mHm2YCmVcj) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sunday Feelgood](https://open.spotify.com/album/6Ko420zIBuOY8iMJMrKPns) | 3:27 |
+| 72 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 73 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 |
 | 74 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
 | 75 | [Stitches](https://open.spotify.com/track/7tbzPLKvG08lwU6h33wSso) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stitches](https://open.spotify.com/album/3G3fVF6R5DEhQg19XZBzwl) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Cabo Wobble](https://open.spotify.com/track/5dScNtNEqGAXVvf20GOaP2) | [Tequila Mockingbrd](https://open.spotify.com/artist/1Fjwun3NqhzH0wuorC38SO) | [Cabo Wobble](https://open.spotify.com/album/6qcdYfnnoLLhqRVny9lwuB) | 2:08 |
 | 100 | [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGRiMGRhNzQ0ZWZiOTI5ODVlNTg3OTk4NGNjZWJkYmM1`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGQxN2I3OWM1MzgwMDhjYjQ4NmM3ODM2ZmEyOWU2ZmQx`

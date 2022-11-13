@@ -9272,7 +9272,7 @@
         },
         {
           "name": "Toshi",
-          "url": "https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63"
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
         }
       ],
       "date_added": "2022-11-03",
@@ -11272,6 +11272,28 @@
     },
     {
       "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307141,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b"
+    },
+    {
+      "album": {
         "name": "Mind Control EP",
         "url": "https://open.spotify.com/album/6U495DFK3BgcEvcKVs3ItH"
       },
@@ -11291,28 +11313,6 @@
       "duration_ms": 220460,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/3Arav7LTu2rZPtDLc4j70X"
-    },
-    {
-      "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "date_added": "2022-11-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 307141,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b"
     },
     {
       "album": {

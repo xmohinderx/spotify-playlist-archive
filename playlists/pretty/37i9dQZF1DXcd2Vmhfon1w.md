@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,718 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,840 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 50 | [Fumando Serio](https://open.spotify.com/track/0ECx1tOxvuJi9NYFwYazAl) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Fumando Serio](https://open.spotify.com/album/0e0hTChaBgxDVkGshiEEZ2) | 3:20 |
 | 51 | [A la tumba](https://open.spotify.com/track/5NwMiXLw1SnW4O7SgsaHeo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 3:50 |
 | 52 | [Freestyle Session \#13](https://open.spotify.com/track/2yGN0LzE0AL7Ev9chjp9Nh) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Freestyle Session \#13](https://open.spotify.com/album/1erD5sfzkSeBKykn8baBla) | 5:39 |
-| 53 | [Salgo pa la calle](https://open.spotify.com/track/7BG3AtRNrkv6L27kkeCaaN) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Salgo pa la calle](https://open.spotify.com/album/2JVR4R1BKK9H89b3jaDTI1) | 2:21 |
+| 53 | [Salgo pa la calle](https://open.spotify.com/track/2LG7Z8Izey6MTCmLIOWmqG) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Le cri de la Rue](https://open.spotify.com/album/5TnrJ9WC8HVWexiNoLVaFx) | 2:21 |
 | 54 | [La Mili](https://open.spotify.com/track/3JZQr9C0hQbhs0uV98KLMo) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [La Mili](https://open.spotify.com/album/5IpcI6X72fiNGb23A0208k) | 2:56 |
 | 55 | [Dime que sí](https://open.spotify.com/track/5WFukWVre2TgDKG6G4T5Wq) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [Hijos de la ruina, vol\. 3](https://open.spotify.com/album/5VaYKNDJhjfWtghV9UL1Bj) | 4:29 |
 
-Snapshot ID: `MTY2NzkyMTkzOSwwMDAwMDAwMDE4ZDM2MjZmMmIyNWMxYjM4OTQxYWUxNDRhMzI4NmY0`
+Snapshot ID: `MTY2NzkyMTkzOSwwMDAwMDAwMDliMjM1ZTdmOGM3NzE2MmMyOTEyMDc0MDk0NjQ0MWU4`

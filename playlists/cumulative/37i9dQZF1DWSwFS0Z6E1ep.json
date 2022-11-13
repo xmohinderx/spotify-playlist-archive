@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 144533,
       "name": "('Til) I Kissed You",
       "url": "https://open.spotify.com/track/4BMhwvrqMUSm65RRB0RAEa"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 135000,
       "name": "A Cat Called Domino",
       "url": "https://open.spotify.com/track/2VtNLGiAqJHzjxj645VCSg"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 154200,
       "name": "A Hard Day's Night - Remastered 2009",
       "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 152920,
       "name": "A Hard Day's Night - Remastered 2015",
       "url": "https://open.spotify.com/track/1pctwlBtIcKIjQMzsVcGHB"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 138776,
       "name": "Ain't Got No Home - Rerecorded",
       "url": "https://open.spotify.com/track/635WSqOORhDgO8sWWEoGen"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Best 50s Songs",
+        "url": "https://open.spotify.com/album/0USh1S5PHXqTJJ1VDw2aZX"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/1EmCm4UJHBdvDEYUGiJZR9"
+    },
+    {
+      "album": {
         "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
         "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
       },
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 165760,
       "name": "Baby (You've Got What It Takes)",
       "url": "https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV"
@@ -445,7 +463,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/15QrgzPNqq3hnY06GiMgjG"
@@ -463,7 +481,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 156306,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 156088,
       "name": "Bop With Me Baby",
       "url": "https://open.spotify.com/track/11RM5sMsQ5UZEtLIJa3m2w"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 167840,
       "name": "Boppin' The Blues",
       "url": "https://open.spotify.com/track/0wNnwLgq5N9lWYib8eUnu6"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 194000,
       "name": "Bring Your Love Back Home",
       "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 145266,
       "name": "Chantilly Lace",
       "url": "https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 174186,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/2LTytRZUDVcT82CQNuWyvS"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 168280,
       "name": "Drinkin' Wine Spodee-O-Dee",
       "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 132866,
       "name": "Everybody's Trying to Be My Baby - Remastered 2022",
       "url": "https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 194640,
       "name": "Get Down with It",
       "url": "https://open.spotify.com/track/2Dnsu9fl9UurKA3uHvgEjy"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 176066,
       "name": "Gimme Some Lovin'",
       "url": "https://open.spotify.com/track/3qIqO4MfNTGm6XF7wHq7tR"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 178840,
       "name": "Gimme Some Lovin' - Single Mix",
       "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 121414,
       "name": "Give Me some Love - Re-Recorded Version",
       "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 138374,
       "name": "Gonna Romp and Stomp",
       "url": "https://open.spotify.com/track/3G9gHR6XhdmWQYTRQR6Lpm"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 129132,
       "name": "Good Golly, Miss Molly",
       "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 126959,
       "name": "Got the Water Boiling",
       "url": "https://open.spotify.com/track/23CBE0comPIg8EHgCXZxrW"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 127560,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
@@ -2009,7 +2027,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 155066,
       "name": "I'm Walking the Dog",
       "url": "https://open.spotify.com/track/6vTpenq3JDMCjTVJjNMyOM"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 131426,
       "name": "I've Got The World On A String",
       "url": "https://open.spotify.com/track/7IUCPpANzL2yY7ippXe09f"
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 142117,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/0Zkuewgtp8XbeJ5xInG4p8"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 143600,
       "name": "Jambalaya (On The Bayou) - Remastered 2002",
       "url": "https://open.spotify.com/track/69S4GgVyV3Fs7kIz5gl3rv"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 159533,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/5py1PCd305Y7lKf55KCnnz"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 161560,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 143053,
       "name": "Little Bitty Pretty One",
       "url": "https://open.spotify.com/track/1ye9IP87nKYZ5YAGaEv9A1"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 153627,
       "name": "Little Fine Healthy Thing",
       "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 130533,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm"
@@ -2679,7 +2697,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 113200,
       "name": "Love Potion No. 9 - Remastered / Single Version",
       "url": "https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ"
@@ -2733,7 +2751,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 143826,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 122600,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 156186,
       "name": "Money (That's What I Want) - Single Version / Mono",
       "url": "https://open.spotify.com/track/1nuxlcT2IQOzzz8hPB1MZw"
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 158493,
       "name": "Money (That's What I Want) - Single Version / Mono",
       "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
@@ -3039,7 +3057,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 138520,
       "name": "My Bucket's Got a Hole in It",
       "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 135466,
       "name": "Oh! Carol",
       "url": "https://open.spotify.com/track/5zvOXJrzzUlvXwyuwZ0toZ"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 136200,
       "name": "Oh! Carol",
       "url": "https://open.spotify.com/track/1yWxDvpM1zZoT355bEjU8G"
@@ -3429,7 +3447,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 126680,
       "name": "Ready Teddy",
       "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
@@ -3465,7 +3483,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 149584,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
@@ -3559,7 +3577,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 138240,
       "name": "Red River Rock",
       "url": "https://open.spotify.com/track/643QHUvRNchbEDfcDvMILB"
@@ -3685,7 +3703,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 108774,
       "name": "Rock And Roll Party",
       "url": "https://open.spotify.com/track/7M6JdbqOGGVyD2arSIRwPl"
@@ -3721,7 +3739,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 169613,
       "name": "Rocket 88",
       "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
@@ -3757,7 +3775,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 119368,
       "name": "Rockin Daddy",
       "url": "https://open.spotify.com/track/7CyHhyn57wzUc9mCQBvMsh"
@@ -3793,7 +3811,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 140984,
       "name": "Rockin' with My Baby",
       "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
@@ -3829,7 +3847,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 144600,
       "name": "Roll Over Beethoven",
       "url": "https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W"
@@ -3921,7 +3939,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 165933,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/7I774iZM4QkJK6gFPEEmS0"
@@ -3939,7 +3957,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 168893,
       "name": "Sh-Boom",
       "url": "https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8"
@@ -4047,7 +4065,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 174003,
       "name": "Shoobie Oobie",
       "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
@@ -4087,7 +4105,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 137799,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
@@ -4267,7 +4285,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 119360,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
@@ -4285,7 +4303,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 119360,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/4X5DHNeVSJBUFwlfjFwDvK"
@@ -4357,7 +4375,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 180746,
       "name": "Sweet Little Sixteen",
       "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
@@ -4526,6 +4544,24 @@
     },
     {
       "album": {
+        "name": "The Best Of: 1963-1966",
+        "url": "https://open.spotify.com/album/2pgI4gKkWndjYtgb0iPvVL"
+      },
+      "artists": [
+        {
+          "name": "The Swinging Blue Jeans",
+          "url": "https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106066,
+      "name": "The Hippy Hippy Shake",
+      "url": "https://open.spotify.com/track/5M2Ti6Mgmr5kUk3mu17d6k"
+    },
+    {
+      "album": {
         "name": "Sun Records - The Rhythm and The Blues",
         "url": "https://open.spotify.com/album/1m0yihEeollqE6iTvH7caR"
       },
@@ -4537,7 +4573,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188673,
       "name": "The Hucklebuck",
       "url": "https://open.spotify.com/track/3Ma5W48ynycNlKFgWt3k3j"
@@ -4699,7 +4735,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 144840,
       "name": "Viva Las Vegas",
       "url": "https://open.spotify.com/track/5Q7ayTarb9Tpmkik5cVMug"
@@ -4789,7 +4825,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 132676,
       "name": "Walkin Shoes",
       "url": "https://open.spotify.com/track/2O75gc3TqLmrZgzQi3IPkq"
@@ -4861,7 +4897,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 124693,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/0MDSiYP6H57fNyIeTLlcpy"
@@ -4919,6 +4955,24 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "album": {
+        "name": "Doo Wop",
+        "url": "https://open.spotify.com/album/3leCteg5EcBzMy5AJ6RMqY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lyman",
+          "url": "https://open.spotify.com/artist/2R6miS8dVTl9U3ysRuY7sc"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141560,
+      "name": "Why Do Fools Fall In Love",
+      "url": "https://open.spotify.com/track/7J8kI3q6POUYbcktEUmrAd"
     },
     {
       "album": {

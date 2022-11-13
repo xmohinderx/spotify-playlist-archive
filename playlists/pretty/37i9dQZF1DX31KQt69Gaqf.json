@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182279,
+  "num_followers": 182291,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGEzMGVkZDY0YjMzZjA5MTQ0Njc1MDE2ZDA3OTI3ZGQw",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDg5ODUyYWM1ZTUzYjUyYWZmNGFjOTc1OTE0YTJlNGQ0",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -27,6 +27,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -43,6 +59,38 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 192621,
+      "name": "Solar Power",
+      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -259,6 +307,26 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "I Wonder Why",
+        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 228347,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
       },
@@ -271,6 +339,22 @@
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
+    },
+    {
+      "added_at": "2021-09-24 18:51:29",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -307,22 +391,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Wonder Why",
-        "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 228347,
-      "name": "I Wonder Why",
-      "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -347,18 +427,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
       "artists": [
         {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
+      "duration_ms": 275280,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -411,6 +491,26 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "Moving Men",
+      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Undecided (with Marie Dahlstrom)",
         "url": "https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG"
       },
@@ -443,6 +543,38 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -495,6 +627,22 @@
       "duration_ms": 204000,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -571,22 +719,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "cold water",
         "url": "https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe"
       },
@@ -659,6 +791,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -707,6 +855,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/6BBWLemGVJVtop45zlkLgY"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5rOXESESmE7NBhliRWmPUa"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Mrs Blue",
         "url": "https://open.spotify.com/album/6NXtAeqeXlzqnzLS0mX6FP"
       },
@@ -739,6 +903,38 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Freckle Season",
         "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
       },
@@ -755,6 +951,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 195954,
+      "name": "Tethered, Wrapped Around",
+      "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Baby It's You",
         "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
       },
@@ -767,6 +979,22 @@
       "duration_ms": 242239,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -875,6 +1103,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/4p6WCaxi2nrkO5i06iKWm5"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 198523,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5xYhT6DfdLNOk9VYzkv0z9"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
       },
@@ -887,6 +1131,22 @@
       "duration_ms": 190960,
       "name": "It Might Take a Woman",
       "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Something Good Will Happen",
+        "url": "https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK"
+      },
+      "artists": [
+        {
+          "name": "MarthaGunn",
+          "url": "https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Caught Up & Confused",
+      "url": "https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1043,34 +1303,34 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Pretty Lady",
-        "url": "https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz"
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 277908,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea"
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
     },
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/6BBWLemGVJVtop45zlkLgY"
+        "name": "Bel\u2022li",
+        "url": "https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
         }
       ],
-      "duration_ms": 251360,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/5rOXESESmE7NBhliRWmPUa"
+      "duration_ms": 172308,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1155,26 +1415,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Moving Men (Remixes)",
-        "url": "https://open.spotify.com/album/5A2w5utoGuiOXncW0DdnzB"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Moving Men",
-      "url": "https://open.spotify.com/track/3uTrO9684EkqTlRUJF8TkW"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/73sU1DlOXPgcp3Z3kFTXYo"
       },
@@ -1223,22 +1463,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/7IgYjX0xQMqWEBwIjF8vjM"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184534,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/41AlN934iycErjzCzwtO3C"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "JOY (journal.30.03.2020)",
         "url": "https://open.spotify.com/album/61RjvAdIxRfGijHvmVRgb7"
       },
@@ -1259,18 +1483,34 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Summer of Pop",
-        "url": "https://open.spotify.com/album/61Yr2m7MjZpj7RytYoLWj7"
+        "name": "Andy",
+        "url": "https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Raleigh Ritchie",
+          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
         }
       ],
-      "duration_ms": 192621,
-      "name": "Solar Power",
-      "url": "https://open.spotify.com/track/0QOcY5SGc1llRcKFNFDVSw"
+      "duration_ms": 212626,
+      "name": "Party Fear",
+      "url": "https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Spring Break 2022: Road Trip",
+        "url": "https://open.spotify.com/album/6r3o3nQWDax5ise25ApXVb"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 207003,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/7qoPkinWQ1JyP34Eo2URAr"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1291,18 +1531,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Alt-Pop 2021",
-        "url": "https://open.spotify.com/album/6xJ2KwdDK1enMLmo0fQsmS"
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/0y0Y7JWQXRyS3pqo1Piwjb"
+      "duration_ms": 194973,
+      "name": "Alapathy",
+      "url": "https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1339,6 +1579,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Summer Jams",
+        "url": "https://open.spotify.com/album/5suXtW25RKvzDxAt6zVHQ3"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3BLVjB3AAzLiQ34OTLQXQu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Wake UP!",
         "url": "https://open.spotify.com/album/2A2k0MgzDEiFjW3ejlpxxV"
       },
@@ -1367,22 +1623,6 @@
       "duration_ms": 201269,
       "name": "Uriah's Cry",
       "url": "https://open.spotify.com/track/2rtLK9Nj9PzMabMOYb4Tmd"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Faith Healer",
-        "url": "https://open.spotify.com/album/0KZ41Kat8EobCM31uRAjGi"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5KDqYTqobAjzb4XzwjHJ53"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1431,258 +1671,6 @@
       "duration_ms": 296500,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Four\u00b0 In Winter",
-        "url": "https://open.spotify.com/album/1CCZQvQ4cSUY9mXOlJYHC3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "SAM DOTIA",
-          "url": "https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD"
-        }
-      ],
-      "duration_ms": 138516,
-      "name": "Beautiful Disaster",
-      "url": "https://open.spotify.com/track/5TFS4aXfVOXxodj19Wq5AG"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/6QjhrqWuwXySFBnNovQGEp"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/1bWNUisC7ZCZrNKwx0zQvT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/5YR6mTNZvUqO4ex0HeIMdc"
-      },
-      "artists": [
-        {
-          "name": "Bryde",
-          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
-        }
-      ],
-      "duration_ms": 220138,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/7FNKGKwOPo0XrB602pXuBc"
-    },
-    {
-      "added_at": "2021-09-24 18:51:29",
-      "album": {
-        "name": "Moody",
-        "url": "https://open.spotify.com/album/2jL3IM42IlCMhxlwMbWZFz"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 200120,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/4U3S9YNxWWfMtcvz3UgDYD"
-    },
-    {
-      "added_at": "2021-09-24 18:51:29",
-      "album": {
-        "name": "U&ME (Baauer Remix)",
-        "url": "https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/23YxxyxIHbIj8zBf4ZfGSX"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Lonely Dancer",
-        "url": "https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ"
-      },
-      "artists": [
-        {
-          "name": "Tricky",
-          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
-        }
-      ],
-      "duration_ms": 187492,
-      "name": "Lonely Dancer",
-      "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Sept ~ Dec",
-        "url": "https://open.spotify.com/album/6tYUyBo0cIL8dCSBsBjKnx"
-      },
-      "artists": [
-        {
-          "name": "Eliza Shaddad",
-          "url": "https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E"
-        }
-      ],
-      "duration_ms": 150867,
-      "name": "Same as You",
-      "url": "https://open.spotify.com/track/7mwEqaU0jRjS3sGvIxFhps"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Shiver Shake / Future Failures",
-        "url": "https://open.spotify.com/album/3W4A66YyUwwbyZN4mWpOOO"
-      },
-      "artists": [
-        {
-          "name": "Yenkee",
-          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
-        }
-      ],
-      "duration_ms": 205960,
-      "name": "Shiver Shake",
-      "url": "https://open.spotify.com/track/5o5q6e0PWZgQSrWsZZlR4J"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Don't Let The Ink Dry",
-        "url": "https://open.spotify.com/album/7J1PTpRtEdcaUAlSFo4t7k"
-      },
-      "artists": [
-        {
-          "name": "Eve Owen",
-          "url": "https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/6e3l9iqTz3PtTz1jiKkEWS"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3iRd4ieKxth8D4o5ZtneoS"
-      },
-      "artists": [
-        {
-          "name": "Alice Ivy",
-          "url": "https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2"
-        },
-        {
-          "name": "Benjamin Joseph",
-          "url": "https://open.spotify.com/artist/00IBJsix9OYvxpmk8k0p86"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/0cYtxolwcyvayA94ifOXfL"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Something To Feel Good About",
-        "url": "https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV"
-      },
-      "artists": [
-        {
-          "name": "Will Joseph Cook",
-          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
-        }
-      ],
-      "duration_ms": 202431,
-      "name": "DOWNDOWNDOWN!",
-      "url": "https://open.spotify.com/track/1Uyyua4fiFSnW3LlHFQ1rz"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "For My Love",
-        "url": "https://open.spotify.com/album/2AGKJg8EmcnDV1ic84qecL"
-      },
-      "artists": [
-        {
-          "name": "Saint Saviour",
-          "url": "https://open.spotify.com/artist/613dNRsij8cjgiIS6lqSIy"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "For My Love",
-      "url": "https://open.spotify.com/track/6XxL31ZGY0t7GezOGtwCyT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/5NXmnM4kN5qROZety9V6vh"
-      },
-      "artists": [
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/0hb8YWjRThlc1mtiJLQQHu"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "The Butterfly Club",
-        "url": "https://open.spotify.com/album/0RIR5ufR003FyTIywzPMCB"
-      },
-      "artists": [
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 268069,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/0LdhrpQQXy9t2jwidxgOwL"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Forever (To Feel Like Tonight)",
-        "url": "https://open.spotify.com/album/01gnane06gQaifHF5U68dv"
-      },
-      "artists": [
-        {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Forever (To Feel Like Tonight)",
-      "url": "https://open.spotify.com/track/5t8nGUXKPnNkUJ3oJkQVIP"
     }
   ],
   "unique_name": "Your Office Stereo",

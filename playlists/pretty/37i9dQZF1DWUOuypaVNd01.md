@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk, LEALL, Major RD, Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,046 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,079 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 18 | [ESSE É MEU ESTILO \(feat\. Akira Presidente & BK\)](https://open.spotify.com/track/6TuFeSKT62xvhsrAeRMG0d) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [RUNNING](https://open.spotify.com/album/50T8RSK9OuebjbS4f5uqZV) | 3:58 |
 | 19 | [Sirenes](https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sirenes](https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo) | 3:50 |
 | 20 | [1.5.7](https://open.spotify.com/track/3dkXSYgqtNE3BlLendqGnU) | [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Favelado Chique](https://open.spotify.com/album/3LK4YpBTi5RpBm4GxVOmiV) | 2:43 |
-| 21 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
+| 21 | [Gorillaz](https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Gorillaz](https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF) | 3:38 |
 | 22 | [Mandrake](https://open.spotify.com/track/7eL0pC73XR5EF940YEk79k) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Mandrake](https://open.spotify.com/album/5VsdDBaIJUPr6Oz5tqc6Mg) | 1:52 |
-| 23 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
-| 24 | [Gorillaz](https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Gorillaz](https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF) | 3:38 |
+| 23 | [auri sacra fames](https://open.spotify.com/track/3BL8FClujPbdn3Qz2vZaLi) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 4:27 |
+| 24 | [Hip Hop Rare](https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB) | 2:03 |
 | 25 | [Infravermelho](https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW), [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Infravermelho](https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx) | 3:06 |
 | 26 | [CRIME](https://open.spotify.com/track/6VZ4iuA1y0utK4YR9dMfhu) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [JOVEM OG](https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ) | 3:08 |
 | 27 | [Propósitos](https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim) | [Propósitos](https://open.spotify.com/album/6JHOgi8SNSKbdDo2VFmd4l) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Coração Frio](https://open.spotify.com/track/6TVycrFApu732EWkGSBtZv) | [VN Vinte](https://open.spotify.com/artist/6sKmBVVRt06DUHZW0X732j) | [Coração Frio](https://open.spotify.com/album/7oRzNXTvAfZbQtDzUwlDiS) | 2:21 |
 | 50 | [Revolver](https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Revolver](https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb) | 3:40 |
 
-Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMGJjNmMzMjIzMGExYzYyZGE3OWUzOGVlZmFmNjQzNjdi`
+Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMDJlOTM1MmJmYTA0OGM3YWQxOWE0YTRkMGJkOGU3NmZi`

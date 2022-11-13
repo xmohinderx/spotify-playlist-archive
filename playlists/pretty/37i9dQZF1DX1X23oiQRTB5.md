@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > SCH au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,678 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,135 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 26 | [Mode AV \(feat\. Niska & Gazo\)](https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:12 |
 | 27 | [KOA](https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KOA](https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1) | 3:07 |
 | 28 | [Spéciale](https://open.spotify.com/track/6OxnhCRysP2WZwBBwaTttj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 2:57 |
-| 29 | [Redescends](https://open.spotify.com/track/28zg9v5FxWP2H6l7FPKVRX) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Hits France 2022 Vol.3](https://open.spotify.com/album/4YeDJ4JoEvnMzMYMpHpQh7) | 2:39 |
+| 29 | [Redescends \(feat Tiakola\)](https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends \(feat Tiakola\)](https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh) | 2:39 |
 | 30 | [44](https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2) | 2:47 |
 | 31 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO) | 2:59 |
 | 32 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 37 | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mozart Capitaine Jackson \(Episode 2\)](https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi) | 3:20 |
 | 38 | [Stars](https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F) | [Doums](https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Stars](https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx) | 3:09 |
 | 39 | [FRAUDE](https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [FRAUDE](https://open.spotify.com/album/1ds595bn2azH1sYiG38A66) | 3:08 |
-| 40 | [Laisse tomber](https://open.spotify.com/track/1qnEPb5kyJXaIq1xau0dRr) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [SUAVEMENTE](https://open.spotify.com/album/4VM0NDn0OQlz3odTKvnTJf) | 3:11 |
+| 40 | [Laisse tomber](https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Laisse tomber](https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn) | 3:11 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGNhNDczNGY2MWZjZTNmYWJlMDMwMGExNmJjODQ4ZGY1`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDRkOWU3YWZmMzAwODVkNThjNjFkYjU1ZjhlNzczOWQ2`

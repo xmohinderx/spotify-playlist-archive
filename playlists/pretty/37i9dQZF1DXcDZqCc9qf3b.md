@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Spirit Rangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,995 likes - 74 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,017 likes - 74 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 22 | [Home \(From The Netflix Series: “Ridley Jones” Vol\. 3\) \(feat\. Sutton Foster, Iara Nemirovsky\)](https://open.spotify.com/track/5LUcArrZoeWmcTjzA1okYW) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Iara Nemirovsky](https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l) | [Ridley Jones \(Soundtrack From The Netflix Series Vol\. 3\)](https://open.spotify.com/album/3cAOBR5wp4qiiTcrYeUmMR) | 1:14 |
 | 23 | [Head Shoulder Knees and Toes](https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Essentials](https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz) | 2:07 |
 | 24 | [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 |
-| 25 | [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 |
+| 25 | [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 |
 | 26 | [Say Hello to Your Friends](https://open.spotify.com/track/2MGc23qUgE1PiQ1dlGx9Eu) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Say Hello to Your Friends \(Music from the Netflix Series, The Baby\-Sitters Club\)](https://open.spotify.com/album/2vk3zcRubs7ORUgVgZQH4S) | 3:13 |
 | 27 | [Hansel & Gretel's Lullaby \(All Is Blind\) \[From The Netflix Series "A Tale Dark & Grimm"\]](https://open.spotify.com/track/3j5uSjiatPSFRyxcB7MZiJ) | [Michael Kramer](https://open.spotify.com/artist/4xAjNkXJV4MGhdtCZySeOp), [Allie Feder](https://open.spotify.com/artist/7zmbSYjFlZh3KAHnLtPpY2) | [Hansel & Gretel's Lullaby \(All Is Blind\) \[From The Netflix Series "A Tale Dark & Grimm"\]](https://open.spotify.com/album/3dtJ8XF0YBeEZvD4QpWhJk) | 2:17 |
 | 28 | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/track/2xkqOhP6nPUdYqZpiA9wO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Spirit Untamed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yvRvgLR5RJe3i8R7Cfve0) | 3:16 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 73 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 |
 | 74 | [Grand Finale](https://open.spotify.com/track/5Zzxc9vyybINvDQyIaDyNG) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Bryan Tyree Henry](https://open.spotify.com/artist/185kmdtr8oX8JDTIfqGv5K), [Aneesa Folds](https://open.spotify.com/artist/4eoV9V5qRu2Vp5ZWDjnm3P), [Bri Holland](https://open.spotify.com/artist/4ux7y9idLvpo7EfwtStqol), [Alana de Fonseca](https://open.spotify.com/artist/5Na8w4vE4aj9v8vAD9w77l), [Jada Banks\-Mace](https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R), [Zoe Saldana](https://open.spotify.com/artist/0DrYjsSE82Jm1zbmoUUosu), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:06 |
 
-Snapshot ID: `MTY2Njk4Mzc3OSwwMDAwMDAwMDJiMjgxYzY1Y2E1Zjg4NTg3MzNmODA5ZDJkNWQ3NjUx`
+Snapshot ID: `MTY2Njk4Mzc3OSwwMDAwMDAwMDkxMmEzNjcwOTk4NDg3MGU3MDRhOTQwZDdmYzJjMmIy`

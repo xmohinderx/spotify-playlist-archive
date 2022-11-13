@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,094 songs - 4 day 23 hr 47 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,095 songs - 4 day 23 hr 49 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1331,6 +1331,7 @@
 | [Jazzterfield](https://open.spotify.com/track/1VZQGEuEu2gIAHHJZdaBHS) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Jazzterfield](https://open.spotify.com/album/0hkvo4TkyxnUNN3sTOAYKf) | 2:08 | 2020-08-07 | 2020-10-23 |
 | [Jazzterfield 2](https://open.spotify.com/track/3q0uX8gVYWbeiU3XHqugUf) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Jazzterfield 2](https://open.spotify.com/album/35LMHzSkIM5Ua2bJxYrS5C) | 2:17 | 2022-03-24 | 2022-05-13 |
 | [Jazzy](https://open.spotify.com/track/7lI4TBcLfevzVzLpBjuloh) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Jazzy](https://open.spotify.com/album/5ClcYdNTl3QfNATJQWcJ1S) | 2:24 | 2022-06-30 | 2022-07-06 |
+| [Jazzy Pines](https://open.spotify.com/track/1eIaqlfuMuWd0rYYJhgDpH) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [Iamcloud](https://open.spotify.com/artist/6bzWspcEBMECSYiZ4ynQCK), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Jazzy Pines](https://open.spotify.com/album/4lnPEDRp3cM9qbFa8D2jST) | 2:21 | 2022-11-10 |  |
 | [Jean Baptiste Emanuel Suff](https://open.spotify.com/track/3uvzkqKyvoT3iQgYcI76aV) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0) | [Basically Sober](https://open.spotify.com/album/4JFDTd7IwFlJIPl5tPKu6i) | 2:30 | 2022-02-24 | 2022-03-13 |
 | [Jellyfish](https://open.spotify.com/track/43S5TrG3ZjOY6H1Rfs8CIr) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Jellyfish](https://open.spotify.com/album/6UgoxKi7PHu0OyzgsmvyCv) | 2:05 | 2020-12-01 | 2021-06-04 |
 | [Jenny](https://open.spotify.com/track/427rxtaHoEgfY7fSAZ4kv9) | [Jade](https://open.spotify.com/artist/2J3IMRzXJBBV2OrlGeGRvl) | [Jenny](https://open.spotify.com/album/1hqYfDDr80EHuNvrj381D3) | 1:30 | 2019-05-26\* | 2019-08-13 |
@@ -2665,7 +2666,7 @@
 | [Tangerine](https://open.spotify.com/track/3uFXG7lDpx5x5UHDFXgb4l) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [squeeda](https://open.spotify.com/artist/0rgPemi3mvhFTP6R5nQ2tt), [Kindbrew](https://open.spotify.com/artist/6b22WP1HSqDfgAymtdMfUb) | [Tangerine](https://open.spotify.com/album/4UVFTDPnU9iOjk241oE06o) | 2:21 | 2021-05-29 | 2021-07-05 |
 | [Tantuni Dürüm](https://open.spotify.com/track/7BcpRZwXWWRApDafgyFo49) | [Hulk Hodn](https://open.spotify.com/artist/3rCwiAT9oVk1TRcY8A5x9r) | [Tantuni Dürüm](https://open.spotify.com/album/2s2jI0PO6xy1z819nKcx7b) | 2:03 | 2020-10-09 | 2020-12-09 |
 | [Tapas Night](https://open.spotify.com/track/2DtXvPqkv9QDGeamfiq5s1) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Felty](https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG) | [Tons of Friends: Volume One](https://open.spotify.com/album/5Oe2yvGMTWK2JmIOtK4FcT) | 2:33 | 2021-09-03 | 2021-10-16 |
-| [Tapedeckmemories](https://open.spotify.com/track/0HEVO9z0jDLj1CbZft5xLh) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [I Wonder...](https://open.spotify.com/album/1fGfmAuUp1DE17N0qDkNAi) | 2:27 | 2022-10-13 |  |
+| [Tapedeckmemories](https://open.spotify.com/track/0HEVO9z0jDLj1CbZft5xLh) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [I Wonder...](https://open.spotify.com/album/1fGfmAuUp1DE17N0qDkNAi) | 2:27 | 2022-10-13 | 2022-11-13 |
 | [Taribo](https://open.spotify.com/track/0h55WRT1meR6qBHYgNGoH8) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Taribo](https://open.spotify.com/album/1lqU2ocXf4uMlP0eiFEL0f) | 2:29 | 2021-10-22 | 2022-06-03 |
 | [Tato](https://open.spotify.com/track/5V0f1iD7FIVKSyexZk3WcP) | [SP kOwi](https://open.spotify.com/artist/7gVcXipsVVlTpZ8mMjzsJL) | [Tokio EP Vol\. II](https://open.spotify.com/album/5CQvE9tYoGvpAYsYXR3qSK) | 1:49 | 2022-04-28 | 2022-06-01 |
 | [tautte.](https://open.spotify.com/track/56y8VbwDjaKZfnBZIZMR1y) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [tautte.](https://open.spotify.com/album/2gId9ow9rRjrs6n3JaRmeY) | 1:32 | 2019-06-08 | 2019-11-15 |

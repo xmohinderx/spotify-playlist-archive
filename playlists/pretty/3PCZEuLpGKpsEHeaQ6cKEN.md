@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Carola, GUI2IN, Jordan Grace
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,191 likes - 150 songs - 7 hr 46 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,184 likes - 150 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 46 | [Thousand Lives](https://open.spotify.com/track/0qLVLi1IS7TjVRXfVGWhVk) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [Thousand Lives](https://open.spotify.com/album/2RazOB5iAQrg2zourPwoJR) | 3:19 |
 | 47 | [Superman](https://open.spotify.com/track/0aeqKlSGQgi6Dwr87N3LNq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [24h](https://open.spotify.com/artist/0gySpejfRTyfba7i8uok3K) | [Feel Again, Pt\. 2](https://open.spotify.com/album/3dEp3i7jIlR5VtsOlMhi3Q) | 3:24 |
 | 48 | [Nothing On Earth](https://open.spotify.com/track/09k78uaXYQnotaFQMRA8Ee) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Allie Crystal](https://open.spotify.com/artist/5cUCYy2DOOdTsCNI2GnLnz) | [Nothing On Earth](https://open.spotify.com/album/3cQoVOlWTBDstqDH4hCekX) | 3:12 |
-| 49 | [Under The Night](https://open.spotify.com/track/14S1jiM3WdvPmGiDXKcaK1) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Under The Night](https://open.spotify.com/album/1mH8hpB8Esljgm9mq9CLZh) | 2:39 |
+| 49 | [Under The Night \(feat\. Katy Alex\)](https://open.spotify.com/track/14S1jiM3WdvPmGiDXKcaK1) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Katy Alex](https://open.spotify.com/artist/63wpGjuYtKMliedy9FjHMB) | [Under The Night \(feat\. Katy Alex\)](https://open.spotify.com/album/1mH8hpB8Esljgm9mq9CLZh) | 2:39 |
 | 50 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 |
 | 51 | [Shades](https://open.spotify.com/track/32K4G5jEHKSXpdvqtJyMqp) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Shades](https://open.spotify.com/album/2HIMHpEJFDTq8aMuvIuaxg) | 3:44 |
 | 52 | [All Mine](https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [All Mine](https://open.spotify.com/album/71dkC0kz5fl6b0rtjPPeBe) | 2:31 |

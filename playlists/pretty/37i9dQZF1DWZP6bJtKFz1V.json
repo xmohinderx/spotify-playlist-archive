@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Blu DeTiger",
-  "num_followers": 82473,
+  "num_followers": 82477,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDJiMWI1MjQwYTk2YjNhNjM3MjgzYzk0YWI2OWM3YTM2",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDMxNDQ2OThhZjNjNjQ3MzRjNDYyODUxNTk4YTY1Yzhh",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -511,6 +511,38 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Natural Born Killer/Pink Lullabye",
         "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
       },
@@ -543,6 +575,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -559,22 +607,6 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -659,6 +691,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 177641,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1yQkAv4xtapCBCzI8q1QGF"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "What, Me Worry?",
         "url": "https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA"
       },
@@ -695,6 +743,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Wet Cement",
+        "url": "https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 273299,
+      "name": "Wet Cement",
+      "url": "https://open.spotify.com/track/5RQcH5zJ6moLeBX3ZA2A0W"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -711,22 +775,6 @@
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Wet Cement",
-        "url": "https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 273299,
-      "name": "Wet Cement",
-      "url": "https://open.spotify.com/track/5RQcH5zJ6moLeBX3ZA2A0W"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -843,6 +891,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Girls Make Me Wanna Die",
+        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "ANTIFREEZE",
         "url": "https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY"
       },
@@ -859,22 +923,6 @@
       "duration_ms": 209310,
       "name": "ANTIFREEZE",
       "url": "https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Girls Make Me Wanna Die",
-        "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -927,6 +975,22 @@
       "duration_ms": 210027,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/5b7gKOgD33l2iGFgoiVF1I"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Colour Me Blue",
+      "url": "https://open.spotify.com/track/7kdUWeOvx77ryAireHCWgx"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1067,6 +1131,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -1179,6 +1259,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 196592,
+      "name": "Lucky - Edit",
+      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Lost Honor",
         "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
       },
@@ -1247,38 +1343,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 196592,
-      "name": "Lucky - Edit",
-      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "I Do You",
-        "url": "https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "I Do You",
-      "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "COMPLICATED (feat. aldn & 8485)",
         "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
@@ -1319,6 +1383,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "I Do You",
+        "url": "https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 224080,
+      "name": "I Do You",
+      "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
@@ -1331,6 +1411,38 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "29 Palms (Deluxe)",
+        "url": "https://open.spotify.com/album/5NTmiYnxmIBVKqKAR9Ql4x"
+      },
+      "artists": [
+        {
+          "name": "bennytheghost",
+          "url": "https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2"
+        }
+      ],
+      "duration_ms": 140954,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/1ftxpepwP6o3oEPTIlKK58"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "To Let Go",
+        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "duration_ms": 199263,
+      "name": "To Let Go",
+      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1355,18 +1467,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "To Let Go",
-        "url": "https://open.spotify.com/album/66Vkva6n6mO7oWJEUyEA4N"
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
       "artists": [
         {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 199263,
-      "name": "To Let Go",
-      "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
+      "duration_ms": 146769,
+      "name": "indieedgycool",
+      "url": "https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1419,18 +1531,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/3DfEBa3sKvV4tYg0oP8Lr2"
+        "name": "10 Tracks to Echo in the Dark",
+        "url": "https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv"
       },
       "artists": [
         {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        },
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 201355,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW"
+      "duration_ms": 183586,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3GxL646ciwj2Wtf0RwgOG3"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1447,6 +1563,22 @@
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/3DfEBa3sKvV4tYg0oP8Lr2"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 201355,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1503,22 +1635,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "High School",
-        "url": "https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh"
-      },
-      "artists": [
-        {
-          "name": "MASN",
-          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
-        }
-      ],
-      "duration_ms": 154280,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
       },
@@ -1551,134 +1667,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "When You\u2019re Sober",
-        "url": "https://open.spotify.com/album/1mcGX0oGxfYzIWINPFKytq"
+        "name": "High School",
+        "url": "https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh"
       },
       "artists": [
         {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH"
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
         }
       ],
-      "duration_ms": 142345,
-      "name": "When You\u2019re Sober",
-      "url": "https://open.spotify.com/track/0aJcuvNNJh9ncKBqqfLiIG"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Future Shine",
-        "url": "https://open.spotify.com/album/39Cn6MAkfo6qIKehVcZrdX"
-      },
-      "artists": [
-        {
-          "name": "flor",
-          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
-        }
-      ],
-      "duration_ms": 173363,
-      "name": "Skate",
-      "url": "https://open.spotify.com/track/0TMP3bNq86pf0wBS06GlAA"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "I Like to Hide in the Bathroom at Parties",
-        "url": "https://open.spotify.com/album/0E5jbLqzY4KozTUhavTbdT"
-      },
-      "artists": [
-        {
-          "name": "Winnetka Bowling League",
-          "url": "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 166910,
-      "name": "I Like to Hide in the Bathroom at Parties",
-      "url": "https://open.spotify.com/track/5AlbjaOF6CTcAOcuav3pv1"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Playin' Me Back",
-        "url": "https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 109662,
-      "name": "Playin' Me Back",
-      "url": "https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Grow Up Tomorrow",
-        "url": "https://open.spotify.com/album/3rm9AdtOaIPkWNfSQoIcvI"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 192451,
-      "name": "Grow Up Tomorrow",
-      "url": "https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/12uiCiql0IX6dT6yMXEwGq"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 165453,
-      "name": "Michael",
-      "url": "https://open.spotify.com/track/5niZJWbyibvP1huOd2XUde"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv"
-      },
-      "artists": [
-        {
-          "name": "HUNNY",
-          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "American Bollywood: Acts I & II",
-        "url": "https://open.spotify.com/album/19DppuPPGsQ5fBy0gT5aaz"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2VSTOiCySVABw6AzuIDK2F"
+      "duration_ms": 154280,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r"
     }
   ],
   "unique_name": "Et Alt",

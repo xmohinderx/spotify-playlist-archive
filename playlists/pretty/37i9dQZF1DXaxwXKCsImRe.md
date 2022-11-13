@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: DIKKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,392 likes - 42 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,394 likes - 42 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 39 | [45 Fahrenheit Girl \- Acoustic](https://open.spotify.com/track/4LNvWLzX0GFVaqNJP1cwsn) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore Redux](https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re) | 2:23 |
 | 40 | [You Were in My Dream Last Night](https://open.spotify.com/track/2ibQdYbPWdKbGq1Q0QrIXB) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were In My Dream Last Night](https://open.spotify.com/album/1lELKw9fX8yRiDNEAI7hTE) | 4:01 |
 | 41 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
-| 42 | [What Goes, Let Go](https://open.spotify.com/track/4iFIEGT8UYsRYDYwK8HSTS) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/50wSrf8RWs8yiJyHJY2KhA) | 4:34 |
+| 42 | [What Goes, Let Go](https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw) | 4:34 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDRmOTc2NTIxMzZkYWUzNGFiNzMwYmE0NGU3NmJkZTI1`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDVhNjhlNGEzNDdkMjAyNWYyMGQ4MDY3Y2ZjOTRjMTA1`

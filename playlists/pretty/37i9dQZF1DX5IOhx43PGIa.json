@@ -1,12 +1,12 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 248098,
+  "num_followers": 248137,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGZiM2QwZDhiNWQzYmJmNjZhZjllOWE1ZDg5YTZkNWM5",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGQwNWRiYzg1MWMyNzZkNzhlODhmZDdjY2ZmOTg5YjI5",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -327,8 +327,8 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "YUKON (INTERLUDE)",
-        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
       "artists": [
         {
@@ -338,7 +338,7 @@
       ],
       "duration_ms": 141093,
       "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
+      "url": "https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "beside you",
-        "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 166023,
-      "name": "beside you",
-      "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "double take",
         "url": "https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "beside you",
+        "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 166023,
+      "name": "beside you",
+      "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Xeno",
+        "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Thinking Bout You",
+      "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -959,22 +979,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "playing tricks",
-        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 184257,
-      "name": "playing tricks",
-      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Give Me Your Forever",
         "url": "https://open.spotify.com/album/38BPy1OGJ1aX8IYvveN3hv"
       },
@@ -991,6 +995,22 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever (ft. Billkin)",
       "url": "https://open.spotify.com/track/7g3ryXLtXExZ0OFCj17Ae1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "playing tricks",
+        "url": "https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 184257,
+      "name": "playing tricks",
+      "url": "https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1503,22 +1523,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Freaky (RGB)",
         "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
       },
@@ -1531,6 +1535,22 @@
       "duration_ms": 109296,
       "name": "Freaky (RGB)",
       "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1559,6 +1579,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Go Higher",
+        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "HiROQUEST: Genesis",
         "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
       },
@@ -1583,24 +1619,24 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Go Higher",
-        "url": "https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb"
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
         }
       ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4"
+      "duration_ms": 183941,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s"
     },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+        "name": "Y1",
+        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
       "artists": [
         {
@@ -1608,9 +1644,9 @@
           "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+      "duration_ms": 186818,
+      "name": "Pantone 17 13 30",
+      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1683,6 +1719,42 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Someday (feat. Sam Kim)",
+        "url": "https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 250016,
+      "name": "Someday (feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Y3",
+        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Color Me (Feat. CHUNG HA)",
         "url": "https://open.spotify.com/album/1SOyPMNJgR1RtmSJwJtT0b"
       },
@@ -1703,22 +1775,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Someday (feat. Sam Kim)",
-        "url": "https://open.spotify.com/album/4ItcJtnRE5VsN9jJVk9CRA"
+        "name": "Healing House",
+        "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
       },
       "artists": [
         {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
         }
       ],
-      "duration_ms": 250016,
-      "name": "Someday (feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/3qLB2wOemocrMXmjoL1QQw"
+      "duration_ms": 227442,
+      "name": "Healing House",
+      "url": "https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1743,38 +1811,6 @@
       "duration_ms": 160443,
       "name": "lie to me",
       "url": "https://open.spotify.com/track/2c5zEjSbSXt0j6r5I1dP15"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Y1",
-        "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Pantone 17 13 30",
-      "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Healing House",
-        "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 227442,
-      "name": "Healing House",
-      "url": "https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1887,22 +1923,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/1gIBYdEod4n4Z499kQTc2o"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/687uOfAM7hTY67aF32Pu7H"
       },
@@ -1923,6 +1943,22 @@
       "duration_ms": 186923,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2CG7zjTjZHHjkimuGGLiOP"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/1gIBYdEod4n4Z499kQTc2o"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/2t4olQUck1cDjsVQetHRRq"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2071,6 +2107,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Air Guitar",
+        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
+      },
+      "artists": [
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+        }
+      ],
+      "duration_ms": 183273,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "That XX - Spotify Singles",
         "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
       },
@@ -2087,18 +2139,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Air Guitar",
-        "url": "https://open.spotify.com/album/5jsp54tvHgC19kstd5Kp42"
+        "name": "THREE IN THE MORNING",
+        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
       },
       "artists": [
         {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/2gj35CRyiuvuJ5VzjkX52i"
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Cecilia Gault",
+          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
         }
       ],
-      "duration_ms": 183273,
-      "name": "Air Guitar",
-      "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
+      "duration_ms": 170476,
+      "name": "THREE IN THE MORNING",
+      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2151,26 +2207,6 @@
       "duration_ms": 230842,
       "name": "Me & Mrs. Wong",
       "url": "https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "THREE IN THE MORNING",
-        "url": "https://open.spotify.com/album/5MSbl628EwzcspxK0IthV8"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "THREE IN THE MORNING",
-      "url": "https://open.spotify.com/track/3huLyepH2dViuUYLhMK1Iy"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2347,6 +2383,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "do it right (feat. Amin\u00e9)",
         "url": "https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP"
       },
@@ -2367,18 +2419,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/3Ts0nEHoi39Pi10zgWpAV8"
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/00wD7fpI1sOZsaDGDng5U1"
+      "duration_ms": 140658,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2395,22 +2447,6 @@
       "duration_ms": 167131,
       "name": "Splinter",
       "url": "https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Almost",
-        "url": "https://open.spotify.com/album/0Qzxp5849s75hQ80V5puOq"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
-        }
-      ],
-      "duration_ms": 140658,
-      "name": "Almost",
-      "url": "https://open.spotify.com/track/68VL7UkUzq4AYwKrDFILDr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2495,6 +2531,42 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/6J5g8rg1KJag4xQ08F53AR"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        }
+      ],
+      "duration_ms": 129373,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "I Miss My Friends (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "I Miss My Friends (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "BLUSH!",
         "url": "https://open.spotify.com/album/2RCJtGEsBWrRxpDgeptGSF"
       },
@@ -2531,22 +2603,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Blow",
-        "url": "https://open.spotify.com/album/6J5g8rg1KJag4xQ08F53AR"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 129373,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "a liquid breakfast DELUXE",
         "url": "https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj"
       },
@@ -2559,22 +2615,6 @@
       "duration_ms": 124440,
       "name": "changes",
       "url": "https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Crush(ed)",
-        "url": "https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 183941,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -2599,46 +2639,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Introspection Reimagined",
-        "url": "https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 302973,
-      "name": "Introspection Reimagined",
-      "url": "https://open.spotify.com/track/1zQnPw58ITvKYIhk5lvlDV"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "what are we?",
-        "url": "https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj"
-      },
-      "artists": [
-        {
-          "name": "Soul Dot",
-          "url": "https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy"
-        },
-        {
-          "name": "Akeem Jahat",
-          "url": "https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl"
-        },
-        {
-          "name": "Marian Carmel",
-          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "what are we?",
-      "url": "https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Feels Like I'm Flying",
         "url": "https://open.spotify.com/album/7Kwkp5g082UgcpJtXVOEh7"
       },
@@ -2655,26 +2655,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "15th Dream",
-        "url": "https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS"
+        "name": "Introspection Reimagined",
+        "url": "https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr"
       },
       "artists": [
         {
-          "name": "edhiii boi",
-          "url": "https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf"
-        },
-        {
-          "name": "RUI",
-          "url": "https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2"
-        },
-        {
-          "name": "TAIKI",
-          "url": "https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 176546,
-      "name": "Anytime, Anywhere",
-      "url": "https://open.spotify.com/track/5HsMafas66Rt5mTidyhUtm"
+      "duration_ms": 302973,
+      "name": "Introspection Reimagined",
+      "url": "https://open.spotify.com/track/1zQnPw58ITvKYIhk5lvlDV"
     }
   ],
   "unique_name": "Jasmine",

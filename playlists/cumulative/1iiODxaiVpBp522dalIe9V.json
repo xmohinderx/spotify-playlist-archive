@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 193000,
       "name": "I Refuse",
       "url": "https://open.spotify.com/track/0dQR0ILJ1mAEkvUkduU7pr"
@@ -2276,6 +2276,24 @@
     },
     {
       "album": {
+        "name": "Sauce Beach Florida",
+        "url": "https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo"
+      },
+      "artists": [
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145850,
+      "name": "Sauce Body",
+      "url": "https://open.spotify.com/track/1CedJ4dCui4Gx2BzS3rbi6"
+    },
+    {
+      "album": {
         "name": "Sauce Body",
         "url": "https://open.spotify.com/album/4NbgQYK3taGjeS04mCKjg5"
       },
@@ -3025,7 +3043,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 185508,
       "name": "To The Rescue Flow",
       "url": "https://open.spotify.com/track/0OdqAHCFkmA3erTz3bmm4o"

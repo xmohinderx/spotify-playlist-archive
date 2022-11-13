@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,335 likes - 70 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,478 likes - 70 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 37 | [Fire](https://open.spotify.com/track/02xvpUN3o4BegUDrfqv5ao) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Fire](https://open.spotify.com/album/3Fe4a70NPiblcAadRnUXcv) | 4:25 |
 | 38 | [SEX](https://open.spotify.com/track/72BS1ZITFhGIuc2sglMwYs) | [Britta Arnold](https://open.spotify.com/artist/7JpBTUqubY86KynSJr28RN), [Tatyana](https://open.spotify.com/artist/6x14uYJLkzbmHhwewSkmz2) | [SEX](https://open.spotify.com/album/3MvKaCc5pZCi7PrNt1S2Zd) | 5:04 |
 | 39 | [Jupiter](https://open.spotify.com/track/57szAdxfyg37GXI3t4ECgr) | [Bucher](https://open.spotify.com/artist/4aKnbbm21oXzvP2LYvLvq7) | [Jupiter](https://open.spotify.com/album/2bNG8S7nPGtCWAYVLnDh6m) | 7:49 |
-| 40 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/1ALwn074NZpQ7LbEknYgJh) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/album/6ArJtCbmaktBNpkHsIeAw5) | 5:15 |
+| 40 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Day](https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn) | 5:15 |
 | 41 | [Woow One](https://open.spotify.com/track/2zQJxkF4ikrCpUIVAMDgsu) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj) | [WooW](https://open.spotify.com/album/4a7p2hB9yRUQHpyinOhVeV) | 5:49 |
 | 42 | [Jupiter \- Kollektiv Turmstrasse Remix](https://open.spotify.com/track/7lqdOVhUoKnjRyjipj4Z9k) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Watergate 27 EP \#1](https://open.spotify.com/album/0ZD1D7rbIEFtfkzyZouLtp) | 8:20 |
 | 43 | [Voices \(feat\. Dan Diamond\)](https://open.spotify.com/track/1rzg4NUtl1hbo08uqWtAO4) | [Carlo Reutz](https://open.spotify.com/artist/58zpCe706KHkMTIGCC4HSq), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Global Underground: Select \#6 \(Unmixed\)](https://open.spotify.com/album/73RcWGhmonTvHLdN5iuVwn) | 7:19 |
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 56 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 |
 | 57 | [6 A.M.](https://open.spotify.com/track/4oiMLvhZYMov0BjrTU2jyK) | [DJ HMC](https://open.spotify.com/artist/3LpUervcOFfZjMgeXIabZN) | [6 A.M\. / Maurader](https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d) | 5:19 |
 | 58 | [Ego Rave B](https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Ego Rave](https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw) | 6:42 |
-| 59 | [Philly](https://open.spotify.com/track/31pgniS2oEW6S2SNHCPnLV) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Present 10 Years Get Physical](https://open.spotify.com/album/3H7F4f1FFSov6xXVVpIpjZ) | 8:15 |
+| 59 | [Philly](https://open.spotify.com/track/1yjHf4kssDAt3AsJVzIx1w) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/1tNdETUVwKwr0Ur02zAEm4) | 8:15 |
 | 60 | [Liberation](https://open.spotify.com/track/4GqKpBcN60ozJc1r1rSkxT) | [Youen](https://open.spotify.com/artist/6Z530sfX5CGmUXV3VKRfHO) | [Plastic City Radio Show Season Eight \(Hosted by Youen & Patrick Podage\)](https://open.spotify.com/album/7zriMCKAlPVXZtZdTQgv9l) | 7:26 |
 | 61 | [Dominator \- Rebūke Remix](https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dominator \(Rebūke Remix\)](https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr) | 3:59 |
 | 62 | [Silence](https://open.spotify.com/track/0Zir3bjDg1G2GYI0ODkE6C) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Silence](https://open.spotify.com/album/0btwONgCRI9Hu05O2vXsrE) | 8:11 |
 | 63 | [Mad Hatter](https://open.spotify.com/track/1nDoesWvttKVaXzQqOEemh) | [John Monkman](https://open.spotify.com/artist/61wk5KcJO2a9mZFzkmOe0f) | [Make Noize](https://open.spotify.com/album/61HNZs91hJFkariSZTulnH) | 6:22 |
 | 64 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 |
-| 65 | [The House Of House \- Original Mix](https://open.spotify.com/track/4Dtv1NQTHSbzrja0fEVsX7) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The Ultimate Megamix](https://open.spotify.com/album/2NdTJ1aEFe0gCzFEsQwuxx) | 7:38 |
+| 65 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 |
 | 66 | [The 8th Fire](https://open.spotify.com/track/6sNki8IYe6xTErgHgYLI3K) | [Ida Engberg](https://open.spotify.com/artist/5psccYjSTbvey4GWul62EB) | [Return to Consciousness](https://open.spotify.com/album/0xSqwS47kEg7mkD9b3k25S) | 6:20 |
 | 67 | [Last Song](https://open.spotify.com/track/0FH3BmyADV6h7UzaVx2I4k) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/2uMcxU5GmZR8D9Fg0O324C) | 7:42 |
 | 68 | [Sinner \- Edit](https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/4AG9M2nwdpNWi365BGaGu8) | 4:15 |
 | 69 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 |
 | 70 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `MTY2ODE3MTUxOSwwMDAwMDAwMDY3ZjA4MTcwNzcxYzQwMTU1MDlkMGFjOWU0NmRhMTVk`
+Snapshot ID: `MTY2ODE3MTUxOSwwMDAwMDAwMDQwYWQxZmQzYzg5YjRhYmU0ZTRjM2YxN2Y4M2Q3NDc1`

@@ -1,13 +1,385 @@
 {
   "description": "Pop style reggae for a sunny vibe!",
-  "num_followers": 672390,
+  "num_followers": 672582,
   "original_name": "Sunshine Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDI1ZDMxOTNlNjQ0MTY3OWMzM2ViMGI3NzhiYWIyZmRm",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDZlNjdhOTZmNTAyMDJjOTg5NjE5NDgxMTNjYWYyNmU1",
   "tracks": [
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Justice (Get Up, Stand Up) (ft. Wiz Khalifa, Bob Marley & The Wailers)",
+        "url": "https://open.spotify.com/album/0zZhdEIwCXO6hQqIZWxWuC"
+      },
+      "artists": [
+        {
+          "name": "Nakkia Gold",
+          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 198772,
+      "name": "Justice (Get Up, Stand Up)",
+      "url": "https://open.spotify.com/track/0vSNrXPYNh0o7HdSLgsdIY"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Scorcha",
+        "url": "https://open.spotify.com/album/2HTnUx5HD826xh4kbaSNvL"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Light My Fire (feat. Gwen Stefani and Shenseea)",
+      "url": "https://open.spotify.com/track/78wmhxOkwTOTPHaKaU8LHu"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "When She Loves",
+        "url": "https://open.spotify.com/album/2VtfSz5SWUFElw171LLCpC"
+      },
+      "artists": [
+        {
+          "name": "Ziggi Recado",
+          "url": "https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8"
+        }
+      ],
+      "duration_ms": 232051,
+      "name": "When She Loves",
+      "url": "https://open.spotify.com/track/3D0l2V3pDLXoHV9Xmdoku1"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "duration_ms": 289973,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/05PBmybm2MvHvcb7n3Vn3r"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 278536,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1tuhxHYZTrfefeO5zqfFSm"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/1UfPkbVCpMAxKSit7jXvbh"
+      },
+      "artists": [
+        {
+          "name": "Irie Love",
+          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
+        },
+        {
+          "name": "Nyle Banks",
+          "url": "https://open.spotify.com/artist/0gA0qBobEelLCWc7c1raJB"
+        },
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        }
+      ],
+      "duration_ms": 193352,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/24tzZeY1hzccRdH4twuwXM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Celebrating Nina: A Reggae Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/23Bxv0YiYXpv3OPkv3Jbmx"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "44/876 (Deluxe)",
+        "url": "https://open.spotify.com/album/1CoVw7saic0ozYSDTeQ26l"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Morning Is Coming (with Shaggy)",
+      "url": "https://open.spotify.com/track/1MIoqrkFISWV3q3JvifC4S"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/2tCPIp83mRXvVTytTAf1W4"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Sounds Of Summer (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 221621,
+      "name": "Sounds of Summer (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "L.A.B V",
+        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 184120,
+      "name": "Mr Reggae",
+      "url": "https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 238810,
+      "name": "World on Fire (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Eiffel Tower",
+        "url": "https://open.spotify.com/album/4l3pEOsxVk3IgxuyRG3Io2"
+      },
+      "artists": [
+        {
+          "name": "Ziggi Recado",
+          "url": "https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Eiffel Tower",
+      "url": "https://open.spotify.com/track/4CdAL878c5nQDM3htsy96Y"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3vfu6Fg7uXZdfEEV2uDOgt"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 204548,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/6zj0UbuOOigThu9Wmt99ox"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Cupid - Deluxe Edition Version",
+      "url": "https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Caribbean Plans (Remix)",
+        "url": "https://open.spotify.com/album/5S9lXPU2C7qiQt23Bf2J6V"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Poupie",
+          "url": "https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv"
+        }
+      ],
+      "duration_ms": 230115,
+      "name": "Caribbean Plans (Remix)",
+      "url": "https://open.spotify.com/track/2NwpY1CMi4LJBNJNEGGd1A"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/5LoZVNyZUOPKxDFQdsosb2"
+      },
+      "artists": [
+        {
+          "name": "Dukes Of Roots",
+          "url": "https://open.spotify.com/artist/7I7JNmHKqu8TLYxfEwaBIA"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "duration_ms": 217508,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/7G66lsaWrdRqJ4Kt3aZ6as"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Sense of Purpose",
+        "url": "https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 262452,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "J-Status",
+          "url": "https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx"
+        }
+      ],
+      "duration_ms": 251133,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B"
+    },
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
@@ -631,8 +1003,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Let Me Live",
-        "url": "https://open.spotify.com/album/7vZRLzYlY7Y82oWBmA1Vps"
+        "name": "Toast to Our Differences (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1cujDxjZaAtJXnvyW7sl3U"
       },
       "artists": [
         {
@@ -653,8 +1025,8 @@
         }
       ],
       "duration_ms": 205760,
-      "name": "Let Me Live",
-      "url": "https://open.spotify.com/track/3RtG4ReXHEhIPkxPHCF4jp"
+      "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
+      "url": "https://open.spotify.com/track/3NURF3IznpXjSnfSHySTmM"
     },
     {
       "added_at": "2022-11-10 23:00:00",

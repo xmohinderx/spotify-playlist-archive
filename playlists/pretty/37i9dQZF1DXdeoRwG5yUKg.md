@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,877 likes - 92 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,918 likes - 92 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 26 | [What's the Matter with You](https://open.spotify.com/track/4hWYkaP4BEZPROMXnF1Vc2) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Wild Wild West / What's the Matter with You](https://open.spotify.com/album/0jotRZwh5y6BZkMYIr8rN8) | 3:52 |
 | 27 | [Nearer to You](https://open.spotify.com/track/4r27op6qF2c6aOvVwiaNrI) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Chills & Fever](https://open.spotify.com/album/23zeW7minvQQfP2XifkF17) | 3:24 |
 | 28 | [All My Hope](https://open.spotify.com/track/0SQ06dpK6ev9sxhDh2fKh1) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 4:14 |
-| 29 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/0GpNbGsPTQbVapnsC2fwji) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [My Jazz Music Café \- Americano](https://open.spotify.com/album/0ap8lA7TvwErYHZFfvI2n0) | 4:43 |
+| 29 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 |
 | 30 | [I'm Only Lonely](https://open.spotify.com/track/4bkjWF12Zz5Ri60OiHbNFV) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 5:28 |
 | 31 | [Take Me Home](https://open.spotify.com/track/5Ilym2G41PI6qjYTshJD8f) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/1dwWH4m6TIepflnji3hVsG) | 4:11 |
 | 32 | [\(I Heard That\) Lonesome Whistle](https://open.spotify.com/track/181U4xxmR8BvLd0UpwWSBd) | [Darrell Scott](https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0) | [Darrell Scott Sings the Blues of Hank Williams](https://open.spotify.com/album/5hgYYzIFXu2v4gex0PY4Cy) | 3:40 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 58 | [For Better or Worse](https://open.spotify.com/track/1wDDhcsJzOzICXpjLLaxX4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Bluesamericana](https://open.spotify.com/album/1jeDlHBm4psoSmaphaCZeF) | 3:25 |
 | 59 | [Fall Apart](https://open.spotify.com/track/1QCxnFbOnDiR1Ynd3cME4k) | [Jeff Jensen](https://open.spotify.com/artist/0GJFspOyGpSZJfFyH9EY3A) | [Morose Elephant](https://open.spotify.com/album/2x2Ot46HRi9VT9i5q9l5ZQ) | 4:27 |
 | 60 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 |
-| 61 | [They Never Pay Me](https://open.spotify.com/track/0P8bwaiduhHPn872Afg1jf) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Sunset Avenue](https://open.spotify.com/album/58CjcMpyfhzxuAFwDoZEyz) | 3:33 |
+| 61 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
 | 62 | [Johnnie Ray](https://open.spotify.com/track/5v6dtKoPkH8wJVqfOROJqD) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 2](https://open.spotify.com/album/6wfjOYh05Xg6xCxAdxRrN8) | 3:44 |
 | 63 | [Tell Me](https://open.spotify.com/track/6VLqNoGxbJZd3mKa4cCSXS) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 4:55 |
 | 64 | [Get It While You Can \(feat\. Zkye Blue\)](https://open.spotify.com/track/33NwpQXKSjh8RDHWMvA4r2) | [The Lachy Doley Group](https://open.spotify.com/artist/1UFmab3kufN4YYyyFv7ajR), [Zkye Blue](https://open.spotify.com/artist/5g2FSHwgQFwNpbxPxWSKgT) | [Lovelight](https://open.spotify.com/album/2sldY4bgYk12oQO3PnAyrs) | 4:29 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 87 | [Pressure Makes Diamonds](https://open.spotify.com/track/2w8RAtIGT6Ba1TydglCWW9) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 3:29 |
 | 88 | [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 |
 | 89 | [If There Was a Way](https://open.spotify.com/track/7h4hCfrO02xSxQs6NgBXY4) | [Rosie Flores](https://open.spotify.com/artist/112VrRSCpsoUkVgnxZvD1w) | [Simple Case of the Blues](https://open.spotify.com/album/13la0jdzx3vrRcbwf6PBXU) | 4:25 |
-| 90 | [You Were Mine](https://open.spotify.com/track/6RAfGW0UE6DS1tysl71axP) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [You Were Mine](https://open.spotify.com/album/73FfFoBNTaiRsKEOH0Mxpk) | 3:43 |
+| 90 | [You Were Mine](https://open.spotify.com/track/4njmTrh1kqxmPql07KKnlT) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [CHICKABOOM!](https://open.spotify.com/album/1Gke51utVy7IagtyciRGMA) | 3:43 |
 | 91 | [Last Goodbye](https://open.spotify.com/track/0VnXemLs18D2jcH7wXaySJ) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Turn Around](https://open.spotify.com/album/2A7jWbq8sH2XFwXc9oCxWy) | 3:56 |
 | 92 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGNhOGRmZGFkM2RiZGQ1NzkzYjE4ZTNkZjBhYTk2YjI3`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGQxMjE0YjU3NTIxZWZkMWYwMDVhNDk3Zjc3YmI5M2Ni`

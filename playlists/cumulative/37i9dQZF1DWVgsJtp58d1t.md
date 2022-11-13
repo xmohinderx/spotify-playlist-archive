@@ -4,7 +4,7 @@
 
 > New music from GloRilla, Drake, 21 Savage, NLE Choppa, Masego, and many more.
 
-1,272 songs - 2 day 15 hr 8 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+1,275 songs - 2 day 15 hr 16 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2022-09-03 |
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-04-08 | 2022-05-28 |
 | [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 | 2022-03-25 | 2022-04-09 |
-| [Crazy For Me](https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u) | 2:14 | 2022-11-04 |  |
+| [Crazy For Me](https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u) | 2:14 | 2022-11-04 | 2022-11-13 |
+| [Crazy For Me](https://open.spotify.com/track/4OqgkBBSULrKnIeQQAxU9i) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:14 | 2022-11-04 |  |
 | [Cream Soda](https://open.spotify.com/track/4mVkJEBoEpI3fQ4QOyIjwO) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Cream Soda](https://open.spotify.com/album/0mPMMU9rPpd6u9yeAu9jer) | 3:36 | 2022-10-28 |  |
 | [Creme Brulee](https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Creme Brulee](https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG) | 1:52 | 2022-11-11 |  |
 | [Crooks & Castles](https://open.spotify.com/track/6FPR87S0g92cCImxUrGvYP) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Crooks & Castles](https://open.spotify.com/album/7hxBFX5tUuwYNmxbQPhyoJ) | 2:04 | 2022-02-25 | 2022-03-26 |
@@ -551,7 +552,8 @@
 | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/track/1BsZW3NH0aTEc7KMmglYWU) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Ice Cream Dream \(feat\. French Montana\)](https://open.spotify.com/album/3UkdUEC0ih1F7F6tXMlXbT) | 2:32 | 2022-04-22 | 2022-05-21 |
 | [Ice Spice](https://open.spotify.com/track/4cAPBai2AcHU3dFp7tGt3X) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Ice Spice](https://open.spotify.com/album/2unmBPzkmQNJQcTjRXmfzN) | 3:48 | 2022-11-04 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-18 | 2022-04-09 |
-| [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 |  |
+| [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2022-10-21 |  |
+| [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 | 2022-11-13 |
 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 | 2022-10-07 | 2022-10-29 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-02-25 | 2022-03-26 |
 | [IDK](https://open.spotify.com/track/0pJ3IQeSBuX85bikKFnTnH) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [IDK](https://open.spotify.com/album/3scanW1YpXbmbcsQxqPgTn) | 2:42 | 2022-05-20 | 2022-06-11 |
@@ -1113,7 +1115,8 @@
 | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90) | [Dot Da Genius](https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Talk About Me \(feat\. Kid Cudi, Denzel Curry & JID\)](https://open.spotify.com/album/1PzjrzWkqJHdLjJ6SH4Gae) | 3:05 | 2022-06-24 | 2022-07-23 |
 | [TALK2ME](https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TALK2ME](https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt) | 2:20 | 2022-06-10 | 2022-06-25 |
 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-10-08 |
-| [Team Teen](https://open.spotify.com/track/4UMfVVcBr9gPIFhMHcHRTS) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Outsiders](https://open.spotify.com/album/2kAsq4FAOms6921BVXIAIx) | 2:13 | 2022-11-04 |  |
+| [Team Teen](https://open.spotify.com/track/3SSJ7lWFkeg2Q2hi8LNkO5) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Outsiders](https://open.spotify.com/album/4jB5FuS7nGavFwYu23XNTk) | 2:13 | 2022-11-04 |  |
+| [Team Teen](https://open.spotify.com/track/4UMfVVcBr9gPIFhMHcHRTS) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Outsiders](https://open.spotify.com/album/2kAsq4FAOms6921BVXIAIx) | 2:13 | 2022-11-04 | 2022-11-13 |
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |
 | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz) | 3:22 | 2022-05-06 | 2022-06-08 |
 | [Terror](https://open.spotify.com/track/2ApXw32ByI4lUPvz3BRgbm) | [Tianna Esperanza](https://open.spotify.com/artist/22iCId5VM0WBe0B2CUA1ql) | [Terror](https://open.spotify.com/album/5NkDIt8CMdNlTVcozwSJtG) | 4:01 | 2022-04-29 | 2022-05-28 |

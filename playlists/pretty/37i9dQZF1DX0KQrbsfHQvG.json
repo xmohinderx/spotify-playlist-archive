@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 164886,
+  "num_followers": 164934,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDA1NmE5M2RmOWYyZjZlMmM5NDRjOTQ1MTgxY2Q5MzYy",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGI0ZTEyOTg0YWY0ZmVlZWUyYTFmNTcxMzIxOWFmZTQ2",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Evil Empire",
-        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
       },
       "artists": [
         {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 229466,
-      "name": "Bulls On Parade",
-      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -139,24 +139,24 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
       "artists": [
         {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
         }
       ],
-      "duration_ms": 229933,
-      "name": "Feel Invincible",
-      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
     },
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Longest Snowboarding Album, Ever.",
-        "url": "https://open.spotify.com/album/6xsJD9qRk9jocBNn1OAb82"
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 182226,
+      "duration_ms": 181493,
       "name": "Bleed American",
-      "url": "https://open.spotify.com/track/4zTPyKq6Llk5i5XvxXus6A"
+      "url": "https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Feel Invincible",
+      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 189440,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/6oO7WMjD6kEvCITLbVj0mu"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Icky Thump",
-      "url": "https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -267,6 +267,22 @@
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Icky Thump",
+      "url": "https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -415,6 +431,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Bury Me Face Down",
         "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
@@ -443,6 +479,38 @@
       "duration_ms": 124880,
       "name": "I Don't Wanna Be Blind",
       "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Massacre, The New American Dream",
+      "url": "https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -479,74 +547,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Massacre, The New American Dream",
-        "url": "https://open.spotify.com/album/25zMc5oRzmZRPodKWe5F8A"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Massacre, The New American Dream",
-      "url": "https://open.spotify.com/track/3wj9Op8Vn3M2OBniS0FuFT"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "RTJ4",
         "url": "https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd"
       },
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Eat The Elephant",
         "url": "https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op"
       },
@@ -591,6 +607,22 @@
       "duration_ms": 281626,
       "name": "The Doomed",
       "url": "https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -695,22 +727,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/2O6i9surGnW91oOcoucyNI"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 208296,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
@@ -743,6 +759,38 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/2O6i9surGnW91oOcoucyNI"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 208296,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "Bullet",
         "url": "https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h"
       },
@@ -755,22 +803,6 @@
       "duration_ms": 173733,
       "name": "Bullet - Single Version",
       "url": "https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Prayers for the Damned",
-        "url": "https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7"
-      },
-      "artists": [
-        {
-          "name": "Sixx:A.M.",
-          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -791,6 +823,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Prayers for the Damned",
+        "url": "https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7"
+      },
+      "artists": [
+        {
+          "name": "Sixx:A.M.",
+          "url": "https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "The Peace And The Panic",
         "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
       },
@@ -803,22 +851,6 @@
       "duration_ms": 196849,
       "name": "Don't Wait (ft. Sam Carter)",
       "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -987,22 +1019,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "1990s Mix-Tape",
-        "url": "https://open.spotify.com/album/1pjdiSeAmHA1WvKJvJ4qai"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/0afY9n0phK2vvkwxywrECH"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Hate Conquers All",
         "url": "https://open.spotify.com/album/4g9gjhN0ifqJkq1ZMMidX0"
       },
@@ -1047,6 +1063,22 @@
       "duration_ms": 236282,
       "name": "This Land - Single Version",
       "url": "https://open.spotify.com/track/3lCfyDeaEYxEvJSnhv1ek3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Whitey Ford's House of Pain",
+        "url": "https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7"
+      },
+      "artists": [
+        {
+          "name": "Everlast",
+          "url": "https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn"
+        }
+      ],
+      "duration_ms": 194160,
+      "name": "The Culling",
+      "url": "https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1131,6 +1163,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "The Disease",
+        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "We Won\u2019t Go Back",
         "url": "https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm"
       },
@@ -1159,18 +1207,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "The Disease",
-        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
+        "name": "STAINS",
+        "url": "https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
         }
       ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
+      "duration_ms": 164706,
+      "name": "I Know Something",
+      "url": "https://open.spotify.com/track/4khGFwJ3AIERwtOyJTwWUU"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1187,22 +1235,6 @@
       "duration_ms": 223043,
       "name": "Polygraph Eyes",
       "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "STAINS",
-        "url": "https://open.spotify.com/album/3VyIB05d6njAVbisgNWvCG"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 164706,
-      "name": "I Know Something",
-      "url": "https://open.spotify.com/track/4khGFwJ3AIERwtOyJTwWUU"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1227,54 +1259,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Onyx (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hOwvlbWvMxSg7qJgu31pb"
+        "name": "American Attraction",
+        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
       },
       "artists": [
         {
-          "name": "Pop Evil",
-          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 257372,
-      "name": "Divide",
-      "url": "https://open.spotify.com/track/5nMKcCg8iL9syTYM3p63lS"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Powerflo",
-        "url": "https://open.spotify.com/album/5k4RJf18UyFQDsXaYsD1Cv"
-      },
-      "artists": [
-        {
-          "name": "Powerflo",
-          "url": "https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/0pu3lMc2n982gfrBOy5880"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Weather Strike",
-        "url": "https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Weather Strike",
-      "url": "https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc"
+      "duration_ms": 176373,
+      "name": "American Attraction",
+      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
     }
   ],
   "unique_name": "Rise Up",

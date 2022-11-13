@@ -4,7 +4,7 @@
 
 > Viral hits in Africa
 
-51 songs - 2 hr 57 min - not published yet
+52 songs - 3 hr 0 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-11-01 |  |
 | [ANGEL](https://open.spotify.com/track/1R8L1y43o7PkIhNiOf9BRL) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [ANGEL](https://open.spotify.com/album/0ECrQg5xAi6xVZ9YFxL1Ti) | 2:30 | 2022-11-01 |  |
 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 | 2022-11-01 |  |
-| [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-11-08 |  |
+| [BACK IN UNI](https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [BACK IN UNI](https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I) | 2:30 | 2022-11-08 | 2022-11-13 |
 | [BACK IN UNI](https://open.spotify.com/track/5p65yMfQ4HFGX9hsWyxMg3) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 2:30 | 2022-11-08 | 2022-11-12 |
+| [BACK IN UNI](https://open.spotify.com/track/69wfr7vTgYSqSC3zO63uZ2) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 2:30 | 2022-11-08 |  |
 | [Bullion Van](https://open.spotify.com/track/7GJ2kXjIEPVky5mKR9ueB7) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:35 | 2022-11-08 |  |
 | [Casper](https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:17 | 2022-11-08 |  |
 | [Caution \- Speed Up](https://open.spotify.com/track/2F0TMaqmfOM0zxtKiDR4Df) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Caution](https://open.spotify.com/album/6hSEhTuyFGiGa0N1ElIPe9) | 1:59 | 2022-11-08 |  |

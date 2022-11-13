@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest '70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,879 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,939 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 2 | [Why Did You Do It \- Remastered](https://open.spotify.com/track/38DAUnVJ0zqOdRuW7RG3sl) | [Stretch](https://open.spotify.com/artist/61oNrjLV0SUliHTOXUgCXg) | [Elastique \(Remastered\)](https://open.spotify.com/album/3tzMsfGTrNMJ7h1SRYQUs4) | 3:31 |
 | 3 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 |
 | 4 | [A Real Mother For Ya](https://open.spotify.com/track/27QTVCKEfq41PjPKQVa7vW) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [A Real Mother For Ya](https://open.spotify.com/album/6VXm9FkSL27WhRo8pyc8hr) | 5:04 |
-| 5 | [Pick up the Pieces](https://open.spotify.com/track/6ReBcoRUNvLFmcIsGVOoqS) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Oldies \- Number 1's](https://open.spotify.com/album/2AntdeFgrQxudAWIBnRIj4) | 3:58 |
+| 5 | [Pick Up the Pieces](https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [AWB](https://open.spotify.com/album/5qZVqBEJSq2HkDMh2VCOQ6) | 3:59 |
 | 6 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
 | 7 | [Galaxy](https://open.spotify.com/track/1SbA3jg6wqrUcmvSk4Fw7x) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Galaxy](https://open.spotify.com/album/2xdXcf10v4Y9mZfoHpOOsz) | 8:14 |
 | 8 | [Get Up I Feel Like Being A Sex Machine \- Pt\. 1 / Single Version](https://open.spotify.com/track/3udSPEU7YavOTRlYqOTvEz) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Singles Vol\. 7: 1970\-1972](https://open.spotify.com/album/4BbrCN77JWFYdtx0OYKAcJ) | 2:49 |
-| 9 | [Pass The Peas](https://open.spotify.com/track/6H4RLsUbUcNsEnelTcCtVm) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/7IRjn4x7FRNkv5ezdFbr1Y) | 3:12 |
+| 9 | [Pass The Peas](https://open.spotify.com/track/62rSpnxXl2lXDevp1z583x) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/5ytMVOR2Moy8hu7Tx1hee2) | 3:11 |
 | 10 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 11 | [Do It Any Way You Wanna](https://open.spotify.com/track/2Ede3F4IK319I9ZDpXmv8K) | [People's Choice](https://open.spotify.com/artist/5OPSpcX9nVVWCIOKcoM4ot) | [Boogie Down U.S.A.](https://open.spotify.com/album/7eo0EGtff3h3DVIk6x57U0) | 3:18 |
 | 12 | [Fire](https://open.spotify.com/track/01kmJXmeQaNlSZFRyFlSmz) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Gold](https://open.spotify.com/album/4v80iarAuD237H08zEhDkP) | 4:24 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 17 | [Soul Travelin', Pt\. I \(The G.B.E.\)](https://open.spotify.com/track/2xHP35CnfAfAyxZLKQZ1XC) | [Gary Byrd](https://open.spotify.com/artist/1Vgtu7BALtYOj4IwD52hIY) | [Presenting The Gary Byrd Experience](https://open.spotify.com/album/7aDRFdxFNleFywyEDELWV0) | 3:21 |
 | 18 | [I Know You Got Soul \- Extended Version](https://open.spotify.com/track/2Wv0Tblv8PjQWMyaDdZAkE) | [Bobby Byrd](https://open.spotify.com/artist/6WXpplxbfcLvaAlhDbfEyO) | [Bobby Byrd Got Soul: The Best Of Bobby Byrd](https://open.spotify.com/album/1kkHnZPvg7XUNCtEyZTIUA) | 4:43 |
 | 19 | [Engine Number 9 \- Single Version](https://open.spotify.com/track/0Q0E6Xe8OvefYLYfVPfRhs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In Philadelphia](https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase) | 2:51 |
-| 20 | [I Like Funky Music](https://open.spotify.com/track/7KiR8t7vnlIWIHS7LXYxMc) | [Uncle Louie](https://open.spotify.com/artist/2xwBBWaOe9tXTOxcfFWkJ5), [Walter Murphy](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) | [Give Me the Funk! \(The Best Funky\-Flavored Music\) Vol\. 2](https://open.spotify.com/album/6NQHlqSolcYwfu029dCHi6) | 4:00 |
+| 20 | [I Like Funky Music](https://open.spotify.com/track/6uUjQKZ7v1X6HQk6A9GtgE) | [Uncle Louie](https://open.spotify.com/artist/2xwBBWaOe9tXTOxcfFWkJ5), [Walter Murphy](https://open.spotify.com/artist/73JBR5s2PVvUjGu6tIqjqx) | [Uncle Louie's Here](https://open.spotify.com/album/7CG8lauMEe4VYWajCZ3lwH) | 4:00 |
 | 21 | [Soul Brother Party](https://open.spotify.com/track/7fVbyAquosAFrYAz8fj4dB) | [Bobby Williams](https://open.spotify.com/artist/6JkMj7SxN7t0HHseKZdDgt) | [Funky Superfly](https://open.spotify.com/album/3eyyjfmfVM0N8Yhvaigx1h) | 6:32 |
 | 22 | [I Wanna Be Your Lover](https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC) | 5:47 |
 | 23 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 57 | [Mighty Mighty](https://open.spotify.com/track/3wBQZHjzqHBW5pamM09tyX) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5cXtmT9ap3avo2lz9kEYbg) | 3:02 |
 | 58 | [Freedom Road](https://open.spotify.com/track/3e216tlft4wkIvYphoE2vm) | [The Pharaohs](https://open.spotify.com/artist/6rfmM7dZAV1O2loXczWgo1) | [Awakening](https://open.spotify.com/album/1B4yhjadIa3RH5d1TuLOWp) | 5:56 |
 | 59 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 |
-| 60 | [A Chance for Peace](https://open.spotify.com/track/3FPrzPbfu7A9pe9oBEtnZt) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Cosmic Funk & Spiritual Sounds: The Flying Dutchman Masters](https://open.spotify.com/album/1CUwa0UkrTa7wye8qHXVkt) | 5:20 |
+| 60 | [A Chance for Peace](https://open.spotify.com/track/5Nt5jH0oX4qktPE6kxEPx3) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Visions of a New World](https://open.spotify.com/album/5VAwd5IGltpuBUlCgLBngP) | 5:22 |
 | 61 | [2000 Black](https://open.spotify.com/track/7hEy4aJVsYKpowcYSRKhhF) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Electric Jazz](https://open.spotify.com/album/6RKgh8R3ZoKEqP4IOutI4J) | 5:24 |
 | 62 | [The Old One, Two](https://open.spotify.com/track/4cNxF2MBn9pYLBzcBDXQXl) | [RAMP](https://open.spotify.com/artist/3KAulMlhjlTfIZD8yhMJPb) | [Ramp: The Old One, Two](https://open.spotify.com/album/74bV8EHp51Lr9e3LkD9QsT) | 3:17 |
 | 63 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
 | 64 | [Givin' Up Food For Funk \- Pt\. 1 / Single Version](https://open.spotify.com/track/0eeZjP3Kl0IxH176xR8LRG) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [The Singles Vol\. 8: 1972\-1973](https://open.spotify.com/album/7btMZv2H6S9xuTYkGIlgVE) | 3:07 |
-| 65 | [We've Had Enough](https://open.spotify.com/track/6hdjjY74iDskTAZFHrEONt) | [Arnie Love & the Lovettes](https://open.spotify.com/artist/0ZKdwL9rZMe52AdjRSf3oX) | [Recording Tap](https://open.spotify.com/album/2duYlLfIuBwXv9d7MxzpH6) | 5:36 |
+| 65 | [We Had Enough](https://open.spotify.com/track/4w7w2DDr2lyEvIVzM3htRe) | [Arnie Love & The Lovelettes](https://open.spotify.com/artist/4ubOhiRBHOA2UDsdGY5Eg6) | [Invisible Wind](https://open.spotify.com/album/6ccFGTUo2fBGJiRo7usQvJ) | 5:36 |
 | 66 | [Search for Tomorrow](https://open.spotify.com/track/0zWuabD297eTl19t98U9Yc) | [Chain Reaction](https://open.spotify.com/artist/349Y2AaURre456I0bt60lq) | [Say Yeah / Search for Tomorrow](https://open.spotify.com/album/5IpaHknbsejyYKyxBoONKv) | 3:26 |
 | 67 | [Mr\. Big Stuff](https://open.spotify.com/track/1Fh4bECYVDfkB3K7N6PTxw) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Check Me Out If You Don't Know Me By Now](https://open.spotify.com/album/4xOLYBVbQ4auwndunGsaDa) | 4:01 |
 | 68 | [Games](https://open.spotify.com/track/2sdPpBbWeKAayilBiM7nOe) | [94 East](https://open.spotify.com/artist/0Vl8HhdQAUi6sJfNQuZHQL) | [If You See Me / Games](https://open.spotify.com/album/7IZ6KKSUHdzBAii2YRkwh7) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 99 | [Patience](https://open.spotify.com/track/4pMG2a3r1AeVbV4FOJwuRn) | [Rokk](https://open.spotify.com/artist/7bLOOtxBWLOpBmhGX3cp0S) | [Eccentric Soul: Omnibus](https://open.spotify.com/album/35IxeM8FWncBSFRH9soSTa) | 4:39 |
 | 100 | [Music Has the Power](https://open.spotify.com/track/2xcxqTg21JxE6zPjT6xswd) | [Ingram](https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw) | [That's All!](https://open.spotify.com/album/5MRu2NKaMYjIvi7K2RMRGF) | 3:57 |
 
-Snapshot ID: `MTY2NDUzMzQ5OSwwMDAwMDAwMGJmZjgyMWI2MzRhNmQwMjY2MDFmYThhNWJmNTM4Y2U0`
+Snapshot ID: `MTY2NDUzMzQ5OSwwMDAwMDAwMDg3ZGU3YjA1MWEwNzgxMWE2ZjJjMjU2ZWFjMDEwYTkw`

@@ -1,12 +1,12 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 66067,
+  "num_followers": 66117,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMDhjZmY4MzhmMjExZWM1ODAxN2FmMTEyZmIwMTI1MWM0",
+  "snapshot_id": "MTY1MDE3NTMxNSwwMDAwMDAwMDYxYTYzZjIyNzNhMDcyMDY4ZDVhMmVlZjVjN2FkN2Vl",
   "tracks": [
     {
       "added_at": "2022-04-17 06:01:52",
@@ -351,6 +351,26 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "No Other Name (Deluxe Edition/Live)",
         "url": "https://open.spotify.com/album/2eWEMqzTy0UbJzzdHel5qP"
       },
@@ -367,22 +387,6 @@
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -419,18 +423,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Battle Belongs",
-        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 287532,
-      "name": "Battle Belongs",
-      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+      "duration_ms": 486944,
+      "name": "Peace Be Still - Live",
+      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -495,6 +503,38 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Battle Belongs",
+        "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 287532,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -511,38 +551,6 @@
       "duration_ms": 393360,
       "name": "Another In The Fire - Live",
       "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "You Deliver Me",
-        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
-      },
-      "artists": [
-        {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "How Deep The Father's Love For Us",
-      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -579,6 +587,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "You Deliver Me",
+        "url": "https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "How Deep The Father's Love For Us",
+      "url": "https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Better Word",
         "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
       },
@@ -591,22 +615,6 @@
       "duration_ms": 202624,
       "name": "Better Word - Single Version",
       "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -631,22 +639,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Live From New York",
-        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 489453,
-      "name": "Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -727,6 +731,42 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Live From New York",
+        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 489453,
+      "name": "Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -743,22 +783,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Live From New York",
-        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
+        "name": "Land Of The Living (Live)",
+        "url": "https://open.spotify.com/album/18Zm6kFysUFl9qHLdgIjLa"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         },
         {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
         }
       ],
-      "duration_ms": 315253,
-      "name": "Set A Fire - Live",
-      "url": "https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ"
+      "duration_ms": 325701,
+      "name": "Rest On Us - Live",
+      "url": "https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -795,6 +835,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Good News (Live)",
+        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 266632,
+      "name": "Good News - Live",
+      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -823,50 +879,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+        "name": "Live From New York",
+        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Good News (Live)",
-        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
-      },
-      "artists": [
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 266632,
-      "name": "Good News - Live",
-      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
+      "duration_ms": 315253,
+      "name": "Set A Fire - Live",
+      "url": "https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -891,6 +919,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Awaken: The Surrounded Experience",
         "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
       },
@@ -911,6 +955,22 @@
       "duration_ms": 437131,
       "name": "Waymaker",
       "url": "https://open.spotify.com/track/0hLsDRLsfvwExXMBeDS53k"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1019,6 +1079,26 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Passion Collection",
+        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "One Thing Remains - Radio Version",
+      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
       },
@@ -1051,26 +1131,6 @@
       "duration_ms": 485396,
       "name": "Be Enthroned - Live",
       "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Passion Collection",
-        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239628,
-      "name": "One Thing Remains - Radio Version",
-      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1235,6 +1295,26 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Henry Seeley",
+          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
+        }
+      ],
+      "duration_ms": 242913,
+      "name": "Zeal - Live",
+      "url": "https://open.spotify.com/track/4JXSzNLxnP1xuvHtzuYUN9"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
@@ -1263,26 +1343,6 @@
       "duration_ms": 324280,
       "name": "Already Done",
       "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "All The Earth (Live)",
-        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Henry Seeley",
-          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
-        }
-      ],
-      "duration_ms": 242913,
-      "name": "Zeal - Live",
-      "url": "https://open.spotify.com/track/4JXSzNLxnP1xuvHtzuYUN9"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1455,22 +1515,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Hope Is Awake",
-        "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 318473,
-      "name": "Hope Is Awake",
-      "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -1491,22 +1535,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+        "name": "Hope Is Awake",
+        "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
         }
       ],
-      "duration_ms": 427389,
-      "name": "God So Loved - Live",
-      "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
+      "duration_ms": 318473,
+      "name": "Hope Is Awake",
+      "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1523,6 +1563,26 @@
       "duration_ms": 232560,
       "name": "Faithful Now",
       "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 427389,
+      "name": "God So Loved - Live",
+      "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1583,6 +1643,38 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 350386,
+      "name": "Come Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
+        "name": "Love Came Down - Live Acoustic Worship In The Studio",
+        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
+      },
+      "artists": [
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 333626,
+      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
+      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "The Darker The Night / The Brighter The Morning",
         "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
@@ -1615,22 +1707,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "The Cup Was Not Removed",
-        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
-      },
-      "artists": [
-        {
-          "name": "Justin Tweito",
-          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
-        }
-      ],
-      "duration_ms": 236958,
-      "name": "The Cup Was Not Removed",
-      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
@@ -1647,6 +1723,22 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
+        "name": "The Cup Was Not Removed",
+        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
+      },
+      "artists": [
+        {
+          "name": "Justin Tweito",
+          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
+        }
+      ],
+      "duration_ms": 236958,
+      "name": "The Cup Was Not Removed",
+      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
+    },
+    {
+      "added_at": "2022-04-17 06:01:52",
+      "album": {
         "name": "Upon Him",
         "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
       },
@@ -1659,22 +1751,6 @@
       "duration_ms": 241901,
       "name": "Upon Him",
       "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 350386,
-      "name": "Come Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
     },
     {
       "added_at": "2022-04-17 06:01:52",
@@ -1711,22 +1787,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Breakthrough Miracle Power / You Are The Lord",
         "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
@@ -1751,58 +1811,6 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "This Is Jesus",
-        "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
-      },
-      "artists": [
-        {
-          "name": "Highlands Worship",
-          "url": "https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In"
-        }
-      ],
-      "duration_ms": 317415,
-      "name": "Calvary's Cross",
-      "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "This Is Jesus Culture (Live)",
-        "url": "https://open.spotify.com/album/2i50gSLJe9ehuabaBwxd0R"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 531653,
-      "name": "How He Loves - Live",
-      "url": "https://open.spotify.com/track/7siTF7GpWKpG0iGpYxgAfS"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
-        "name": "Faith And Wonder (Live)",
-        "url": "https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 359374,
-      "name": "Who Could (Live)",
-      "url": "https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA"
-    },
-    {
-      "added_at": "2022-04-17 06:01:52",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
@@ -1819,18 +1827,18 @@
     {
       "added_at": "2022-04-17 06:01:52",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
       "artists": [
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 275253,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/3JrygX9aQ8rAHoQ0Tsm3cq"
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     }
   ],
   "unique_name": "Easter Worship",

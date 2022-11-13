@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,264 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,293 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 100 | [On My Way Home](https://open.spotify.com/track/44y71LA72zHm2SgMjfMN5v) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/68RHIhL5cv1myJdVaGQZhr) | 3:50 |
 | 101 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 102 | [Lose My Faith](https://open.spotify.com/track/0mvEuS5eEEvIcpb5lu20Ef) | [Gold Brother](https://open.spotify.com/artist/6O7D1lQ7wlhy0s7QYh620s) | [Lose My Faith](https://open.spotify.com/album/3kIxIaYi8ZOqcncwLcNHKK) | 3:21 |
-| 103 | [World Spins Madly On](https://open.spotify.com/track/2r07lezrHUPEuhhBYW9JnC) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:44 |
+| 103 | [World Spins Madly On](https://open.spotify.com/track/6NSlOEEtWlqvEFrjQsry77) | [The Weepies](https://open.spotify.com/artist/6pwHWKweuoCyx3OoFaD0Q5), [Deb Talan](https://open.spotify.com/artist/7tFFagB7kjwoCTP3QMlzJD), [Steve Tannen](https://open.spotify.com/artist/6vvDymlJBME7J2SPsyY3td) | [Say I Am You](https://open.spotify.com/album/17YOU9hgAgAOmjAFEimg1w) | 2:45 |
 | 104 | [Infinite Space](https://open.spotify.com/track/2JnjqjmpctEcU7QRviEUTh) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Infinite Space](https://open.spotify.com/album/0DDFQDEKlvJO7ALrVE8AxA) | 3:24 |
 | 105 | [Landslide](https://open.spotify.com/track/0AXEEq4Xz92zcyXzeihFlh) | [Haley Klinkhammer](https://open.spotify.com/artist/71q9UXgQxHbDBZxx6gX1cO) | [Landslide](https://open.spotify.com/album/24kVGWWvOTPfPFAmFSLToV) | 3:29 |
 | 106 | [comatose](https://open.spotify.com/track/5ivNQNApxeZA9Vp37KwjXU) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [comatose](https://open.spotify.com/album/1eN3zVpTTBFcowHlRH2iIc) | 3:36 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 122 | [Bring on the Rain](https://open.spotify.com/track/5vhIJeG6kiI1foK7xg5k7A) | [Hudson Moore](https://open.spotify.com/artist/26iVzd80yAXJjZlsrshRjQ) | [Getaway](https://open.spotify.com/album/6YYt3XISMrkoP1Y2db5NJT) | 4:50 |
 | 123 | [Make You Feel My Love](https://open.spotify.com/track/7d0bJhpp0mCYyMXaMgWyMS) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CALM](https://open.spotify.com/album/0fEtEBVYKRlVAUjjFxvM12) | 2:51 |
 | 124 | [Afternoon Takeoff](https://open.spotify.com/track/0Yv7ZC1o3l21qfba3cxVOp) | [Small Forward](https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh) | [The Moon You Stand On: Demos](https://open.spotify.com/album/4zV49AbvS71ebGU5QWtdWa) | 3:31 |
-| 125 | [Nothing's Alright](https://open.spotify.com/track/7EodxTVCwwkiVHYfhC9rQa) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/2UCj1Nck6LUXkd9ixFbhHi) | 3:24 |
+| 125 | [Nothing's Alright](https://open.spotify.com/track/5JqqoMrMOHkFWfeKKCsoDq) | [Hannah Miller](https://open.spotify.com/artist/4cmbcY03AMf9h2krGBuucg) | [More](https://open.spotify.com/album/2KjdkaGCd0OnLUxCLoViMh) | 3:24 |
 | 126 | [Already Down](https://open.spotify.com/track/242AUqYphBSGrXXWUVsOMJ) | [Allie Moss](https://open.spotify.com/artist/2IfLIO3nsSn1CqNUeJ8sWE) | [Already Down](https://open.spotify.com/album/0xdh7pb5ycIR39gwfbe7mP) | 3:26 |
 | 127 | [Better Days](https://open.spotify.com/track/778plcK6s2CpcKn2318Tbl) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [Felix Culpa](https://open.spotify.com/album/2KnYuDVPTaveLUsw3LU7g5) | 4:54 |
 | 128 | [Wish I Had the Why](https://open.spotify.com/track/68DIBWxKHHMqyzNFXR7Tkt) | [Shelly Fraley](https://open.spotify.com/artist/4qvh2HOvMUhnP7CeoJv9ND) | [Tides](https://open.spotify.com/album/1Ma6rv23MCDawBayO531dk) | 4:26 |
@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 148 | [November](https://open.spotify.com/track/3mM9vRlgBSZGyTLzJ4je5m) | [Keith Skooglund](https://open.spotify.com/artist/6UxzEMXInwnATIwEbDxkr0) | [November](https://open.spotify.com/album/1cEsGPDHBbS4Ik7eNQwRuF) | 2:59 |
 | 149 | [Better Man](https://open.spotify.com/track/1EHYOYhRaU3dXEPAhEsqDT) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/0OGhpkvxYC9KUUTCeMblqA) | 3:08 |
 | 150 | [Just Like You](https://open.spotify.com/track/3I960WIrkms9OFGUoYHPvG) | [The Dahls](https://open.spotify.com/artist/5e6QJGOFBAFPoOPIFDKaWt) | [Just Like You](https://open.spotify.com/album/6qyqKi1AztjSruNzsVwiWt) | 3:51 |
-| 151 | [Meant to Stay Hid](https://open.spotify.com/track/3uDisYVXlEiC1SQZlqz2Tu) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Lost](https://open.spotify.com/album/59imk8rR95T1ggfKDKsELD) | 3:43 |
-| 152 | [Howl](https://open.spotify.com/track/5Kdw1n50m2d6XG95H3jttK) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6ARw255Jfy9jWjkruP4j2L) | 3:38 |
+| 151 | [Meant to Stay Hid](https://open.spotify.com/track/5XaEiteF9A84F3ESpBg7jV) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Meant to Stay Hid](https://open.spotify.com/album/0U7yUdZYoCA3yp33ydpPHm) | 3:43 |
+| 152 | [Howl](https://open.spotify.com/track/3q0osq156ES7MHz4PjMOBp) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ) | 3:38 |
 | 153 | [Grow Old With You](https://open.spotify.com/track/27eqleJFBew95lK2OLWKun) | [Bobby Watson](https://open.spotify.com/artist/3vJcThDRTiLEhLwNzJewSD) | [I Can't Quit](https://open.spotify.com/album/5zOTkQoMQPvp5ufdCjatYB) | 3:19 |
 | 154 | [Thread](https://open.spotify.com/track/0jtCa3XLLrofXAuh3dQzy7) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Cause And Effect \(Deluxe\)](https://open.spotify.com/album/2V3ebysBMSaKfYUcsCWmKX) | 4:52 |
 | 155 | [As You Fly](https://open.spotify.com/track/3i0KgvRayczTveHLqQlsMs) | [Regina Price](https://open.spotify.com/artist/5Y9TDm2y5jVFkUUjhbQfdC) | [As You Fly](https://open.spotify.com/album/4zh5GKOYRano5iLLVlpfch) | 3:27 |
@@ -172,17 +172,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 162 | [Troubled Roads](https://open.spotify.com/track/2zqMo4kHxWmmJwtYKCIVVz) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/5cq1i2qocdtAG0hAyWneju) | 3:26 |
 | 163 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 | 164 | [catacombs](https://open.spotify.com/track/4r91oYlL2FwIAqWW0VCebC) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [petrichor](https://open.spotify.com/album/6pfWucHFIt3I6LFRVBwh1l) | 3:27 |
-| 165 | [fever dream](https://open.spotify.com/track/6tBezEEJZvJqWR8CSbynwT) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [fever dream](https://open.spotify.com/album/15BqX80MalgCmW5anvDzcZ) | 3:16 |
+| 165 | [fever dream](https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:16 |
 | 166 | [Symmetry](https://open.spotify.com/track/0xujAq2OtDCpGYO2A5n2pf) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Symmetry](https://open.spotify.com/album/6DoYDzc4MDhhGYycrLo7r6) | 3:38 |
 | 167 | [Sweet End](https://open.spotify.com/track/5neux3Gz5ESJDleVirL1ty) | [Five2](https://open.spotify.com/artist/5A2U6dOsmXhurD2wpZbq1y) | [Sweet End](https://open.spotify.com/album/2z4s4RbhI3h2JUiMdi0XOW) | 3:59 |
 | 168 | [Universe](https://open.spotify.com/track/0E9dqD4PX6NyFjRm6qy67F) | [Sounding Arrow](https://open.spotify.com/artist/1NsbPxBRY1cYkn0cqcxkqv) | [Loving Is Breathing](https://open.spotify.com/album/3Oi2YStTUttHxi5ms89xCm) | 4:36 |
 | 169 | [Someone Someday](https://open.spotify.com/track/05Bd4QYgCLBbEq8BFn1YkF) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Someone Someday](https://open.spotify.com/album/1j1ytVFYpziu8soc3Aicmu) | 3:17 |
 | 170 | [Ode to LBC](https://open.spotify.com/track/0QgPqgtkywb0VNkaQFHAle) | [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [dear april, ily \(deluxe\)](https://open.spotify.com/album/32qamHYrNoKgBjrzzjK68u) | 3:03 |
 | 171 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 3:16 |
-| 172 | [Take Me Apart](https://open.spotify.com/track/2egdJ4zR45FMD4X75DBps9) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Chill](https://open.spotify.com/album/5MFWk9bIGj16LbhAiE02gy) | 4:00 |
+| 172 | [Take Me Apart](https://open.spotify.com/track/5Vklvoh0PmgKfekJyVadFs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Take Me Apart](https://open.spotify.com/album/0AKeQGFy4FxMEaE6yS65bY) | 4:00 |
 | 173 | [Straight from the Bottle](https://open.spotify.com/track/071AeB0CZLEwgZlRN1ORsP) | [Cree Rider Family Band](https://open.spotify.com/artist/3XRXBKYzi8ShXOANoYJb1p) | [One Night Stand](https://open.spotify.com/album/0Sd1LEIYbTtnXQKrq68GEk) | 3:43 |
 | 174 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 |
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDdlYWIwNTg4NGQ0YmNlMzczYjk2YmIwMzVjNGQ3MzBh`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDdkYjcxOTJjYWY1NTljNzU0MTliMWJjYzAwOGJhOWY0`

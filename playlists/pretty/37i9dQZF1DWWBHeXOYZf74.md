@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: NATHY PELUSO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,083 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,095 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 34 | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/track/4AYjxKVZaR3iyQ7YAUFWiu) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/76xi8yJFqCFBa7O9mixYbm) | 5:15 |
 | 35 | [Yellow Brick Road](https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:37 |
 | 36 | [Make Ya Mind Up](https://open.spotify.com/track/6v2LmtEzPmlGofueeHu1z1) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Make Ya Mind Up](https://open.spotify.com/album/3apyOKlT8A854vAtcEYlGC) | 5:31 |
-| 37 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 |
+| 37 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 38 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 |
 | 39 | [Keep It Lo](https://open.spotify.com/track/3RBtnsOmltWgeRge3lQDjG) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Keep It Lo](https://open.spotify.com/album/0hDyuoQRlGBEHKUk8HpWMQ) | 2:33 |
 | 40 | [Stressed](https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed](https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8) | 3:03 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 50 | [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 |
 | 51 | [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 |
 | 52 | [Surfing in Iceland](https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Surfing in Iceland](https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q) | 4:32 |
-| 53 | [M1](https://open.spotify.com/track/3XhLn2Ed0UrCvkwjcKghxB) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [M1](https://open.spotify.com/album/7jS4q5FI3ZWqbHd8MR491t) | 3:01 |
+| 53 | [M1](https://open.spotify.com/track/47WiZ1kbkYGhmKNKjy6cuv) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:01 |
 | 54 | [Boundaries](https://open.spotify.com/track/1x8Y6qmIS378NB720asCAm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Boundaries](https://open.spotify.com/album/11HvsZeFnziylX9EaMzVaK) | 3:15 |
 | 55 | [Lovetap](https://open.spotify.com/track/0nWiDgx8LrFDxTF1dKNGhp) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Another PawPaw Rod EP](https://open.spotify.com/album/4gzZJeOmBXWsc0hVUSvBvF) | 3:21 |
 | 56 | [IDC](https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [IDC](https://open.spotify.com/album/6uIzsp3chN2DLPSA6IW0fI) | 1:52 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 67 | [rest](https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rest](https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV) | 2:26 |
 | 68 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 |
 | 69 | [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 |
-| 70 | [Vertigo](https://open.spotify.com/track/6XD1yarbMj454t9D4NldlG) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [M1](https://open.spotify.com/album/7jS4q5FI3ZWqbHd8MR491t) | 3:38 |
+| 70 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 |
 | 71 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 |
 | 72 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
 | 73 | [Self Care](https://open.spotify.com/track/4Ds6xHWHN5tU8Rxg7na56i) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Self Care](https://open.spotify.com/album/6o2MTShQYYTNBJj4LAK9xf) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 100 | [Lullaby](https://open.spotify.com/track/1fTvkU6kdBi5PIvljWboKt) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Lullaby](https://open.spotify.com/album/0HFd1xKLpmy4Lk6H9YdBdc) | 3:06 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDViYmJjYmQ4ZmVjOWU2NGE5OTVkMGIzYTY0OGIxNGQz`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDlhZjUzNTEwZTQ5NzMyYTgyOWI2OTgwMTFjMjIzMGEw`

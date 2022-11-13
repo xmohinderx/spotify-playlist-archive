@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Melvoni
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,674 likes - 108 songs - 5 hr 17 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,675 likes - 108 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 47 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 |
 | 48 | [No Face](https://open.spotify.com/track/1jcBUsiQik3PxgtGG0tfnb) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Face](https://open.spotify.com/album/7xcVwFxP43b548OelDTjBv) | 3:09 |
 | 49 | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/album/7oiCF1Nw8pNFHkA8TS2bwV) | 2:41 |
-| 50 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 |
+| 50 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:17 |
 | 51 | [\(N\) INE](https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [RELAPSED](https://open.spotify.com/album/05CtRgycYQtDaDo80zxeQF) | 2:46 |
 | 52 | [Warzone \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/1vehZ3FrmhbxX5oh9ZdO0c) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Warzone \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/3pnZdrOF3JXq5ZTXsT09AW) | 3:44 |
 | 53 | [Demons](https://open.spotify.com/track/7ai0VlJiTZXqIKRlgrx7zi) | [Lil 1 DTE](https://open.spotify.com/artist/32phULWb5DHJZbHEUrtSpn) | [Demons](https://open.spotify.com/album/7uVVW3UQWcHg3o5X2vqd5R) | 2:11 |

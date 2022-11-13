@@ -1,12 +1,12 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 90492,
+  "num_followers": 90543,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2NTUzNywwMDAwMDAwMDRmZGYxMTNhZTAwZDE3NzY2MmY1NmJjMjIzMTBiMGE0",
+  "snapshot_id": "MTY2MDA2NTUzNywwMDAwMDAwMDExYjkyZmM4NDkyZjVlZmI2OWUxY2I2ZTcwNzEyY2Iy",
   "tracks": [
     {
       "added_at": "2022-08-09 17:18:57",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-08-09 17:18:57",
       "album": {
+        "name": "GIT, El Album",
+        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
+      },
+      "artists": [
+        {
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
+    },
+    {
+      "added_at": "2022-08-09 17:18:57",
+      "album": {
         "name": "Commercial",
         "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 227796,
       "name": "El Oasis",
       "url": "https://open.spotify.com/track/0QnqvWRqa5SGHBw1F8EFgM"
-    },
-    {
-      "added_at": "2022-08-09 17:18:57",
-      "album": {
-        "name": "Rock En Espanol - Lo Mejor De La Casta\u00f1eda",
-        "url": "https://open.spotify.com/album/4TC8pE18FdImaDP8ql30QA"
-      },
-      "artists": [
-        {
-          "name": "La Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/7fFzUTQmuK6dcxov1opn5Q"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Noches de Tu Piel",
-      "url": "https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP"
     },
     {
       "added_at": "2022-08-09 17:18:57",

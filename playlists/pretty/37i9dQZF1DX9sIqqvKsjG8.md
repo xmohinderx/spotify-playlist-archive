@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,680,214 likes - 302 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680,335 likes - 302 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 110 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 |
 | 111 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 |
 | 112 | [The Old Windmill](https://open.spotify.com/track/5YINZsov3qBPWjCEsWDDWX) | [Henri Bentley](https://open.spotify.com/artist/5laMomQR4uO3PR7cNNkWQy) | [The Old Windmill](https://open.spotify.com/album/441C9NGHHXjvEre4uFxUfn) | 2:02 |
-| 113 | [Salon musique](https://open.spotify.com/track/51xoSbJvMA83GVglthhPqL) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Cooling Down](https://open.spotify.com/album/7vuY4vwcjMQIDcG4OcgOmc) | 2:00 |
+| 113 | [Salon musique](https://open.spotify.com/track/3Hv2XS0W9g4FAGzXCOYEnn) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island](https://open.spotify.com/album/1yF5Hz1HEBepidnXeqMZIW) | 2:00 |
 | 114 | [Makeshift Dream](https://open.spotify.com/track/43DUAcgzPr2kbp2fWRt568) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 3:35 |
 | 115 | [Hard to say goodbye](https://open.spotify.com/track/0ZU1CweQ9ineKlc9fOrakS) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Hard to say goodbye](https://open.spotify.com/album/75pHmigwsMSjUX1etl9gHh) | 2:14 |
 | 116 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 |
@@ -308,7 +308,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 298 | [Impact](https://open.spotify.com/track/5TWGzcdRlJzdY93R7ydCYv) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Triple](https://open.spotify.com/album/29ArlRng14CcEZvAP7MqCh) | 2:47 |
 | 299 | [Un mazzolino di rose](https://open.spotify.com/track/0Z9EGceqg3e1PlatNVcb6n) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Un mazzolino di rose](https://open.spotify.com/album/3sgL5k7GHsCOUNkG5pvt2n) | 3:18 |
 | 300 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 |
-| 301 | [Hidcote Garden](https://open.spotify.com/track/0sh3udsRO3AesM270ctQZR) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Bathtub Chill](https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ) | 2:42 |
+| 301 | [Hidcote Garden](https://open.spotify.com/track/3eKpha3kgGpAhzZ9vtXBnK) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/0N7UrdCKbkJeGJyDGSV8fc) | 2:42 |
 | 302 | [Searching](https://open.spotify.com/track/0GZkEa0jm8l2lVvPpkE0fO) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Searching](https://open.spotify.com/album/4ZlIyEvfcba4GQCGb3G1uJ) | 2:02 |
 
-Snapshot ID: `MTY2ODE2MzI5NiwwMDAwMDAwMGQ1NmRmYjk2YmVmNTU5NDNkZmRhNTQ2NDRhNWNkY2Y1`
+Snapshot ID: `MTY2ODE2MzI5NiwwMDAwMDAwMDM0MjViODBiYTc5Yzk2ZDAwYmQzMzdjZTg4NDZmYTI0`

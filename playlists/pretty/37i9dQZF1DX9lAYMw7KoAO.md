@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,113 likes - 70 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,183 likes - 70 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 38 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
 | 39 | [Most High \- African Worship Medley/Live](https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 4:58 |
 | 40 | [One on One \(Live\)](https://open.spotify.com/track/5Vw55KLsNKIxcAznPUhxzh) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [One on One \(Live\)](https://open.spotify.com/album/1xDKfCWAviCVKuk7hjaUeH) | 13:14 |
-| 41 | [Obinigwe](https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/71H5Wwi06SnNDDJG2XnVoF) | 9:12 |
+| 41 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 |
 | 42 | [Ascend](https://open.spotify.com/track/1rhgCARqlp1XCrnTz66y6Z) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Ascend](https://open.spotify.com/album/5FlHPCYzDDLhHsNTwmT3nm) | 9:59 |
 | 43 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 |
 | 44 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 |
 | 45 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
-| 46 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/3av8ohYTDb9NM614MQ0Lo3) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Gospel by Africa: Vol.5](https://open.spotify.com/album/6tQVdacqjmtZlhv4fsOTAL) | 7:50 |
+| 46 | [Nothing Without You \- Live At The Barnyard Theatre](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 |
 | 47 | [With My Hands](https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [With My Hands](https://open.spotify.com/album/3f4uAnNYCz9xizRrqhjvDZ) | 5:50 |
 | 48 | [Be Still and Know](https://open.spotify.com/track/6hbFRzEtSwMyNm6wwYyD73) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Be Still \(He is God\)](https://open.spotify.com/album/0cSgKbP6SYCKNzxuPIQ60g) | 9:12 |
 | 49 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 |
 | 50 | [You Make Us Whole \- The Gathering Of Worshippers / Live At Loftus Stadium](https://open.spotify.com/track/3xeFcJt2THRyLTsk5uJLeH) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [You Make Us Whole \(The Gathering Of Worshippers / Live At Loftus Stadium\)](https://open.spotify.com/album/6oy0EXRb3vpMDfonoCY2yz) | 8:20 |
-| 51 | [Make a Way \- Live](https://open.spotify.com/track/1LFNi5RqhKR63C14W4vZRm) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema Moremi](https://open.spotify.com/artist/23L7MPBHP4Bnc1oQJQSCvE) | [Spirit of Praise New Voices \(Live\)](https://open.spotify.com/album/1ma43lJjgLa1zQryHyabA9) | 4:38 |
+| 51 | [Make a Way \- Live](https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 4:38 |
 | 52 | [The Lord Is My Sheperd](https://open.spotify.com/track/1a4rMlkfKsKxIgtJkeXI99) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [The Lord Is My Sheperd](https://open.spotify.com/album/4Q325PCLn40PKPLMQzgSS0) | 4:56 |
 | 53 | [Awesome God](https://open.spotify.com/track/2tiRGU9qYi04MjQVHUI4qq) | [Tembalami](https://open.spotify.com/artist/4xKkR6aTDm0Qc9m9iXjMoZ) | [Faith Aid Kit](https://open.spotify.com/album/0IpkJUzNR2N5uyKzn88PyH) | 4:38 |
 | 54 | [The Lord Reigneth](https://open.spotify.com/track/5cPxj6vTdXjzbjQwe56VGw) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Sanctioned](https://open.spotify.com/album/5S0tW85A3qZzHIx2VFUJgp) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 69 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
 | 70 | [Mighty God \- Remix](https://open.spotify.com/track/3wJ7y9A3d6Nx8dgzWYvwMR) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Mighty God \(Remix\)](https://open.spotify.com/album/0FEwRFVRGygc77wGe6gUOX) | 5:23 |
 
-Snapshot ID: `MTY2MjcxNTg1NywwMDAwMDAwMDRjNWI5MzI0Y2MyYTI1NmFkMDAwNTdmY2VlNTY4NTUx`
+Snapshot ID: `MTY2MjcxNTg1NywwMDAwMDAwMGY2NGY5NjA4M2NmMmY4NjI4YmQ1YTdkOTFjMGIzOGFl`

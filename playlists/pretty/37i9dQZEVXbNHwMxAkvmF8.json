@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 68411,
+  "num_followers": 68429,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIxNDg2MDgwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIxNTczOTA0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3XKdJfbBwnxUnn5tdaJoYL"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Topshit",
         "url": "https://open.spotify.com/album/01JynwSYkEtKdbcdY9zJDS"
@@ -69,7 +69,23 @@
       "url": "https://open.spotify.com/track/6w9aIT3TyqClXIcKyw6W1a"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 203529,
+      "name": "four moods",
+      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -89,23 +105,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 203529,
-      "name": "four moods",
-      "url": "https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Csinibaba",
         "url": "https://open.spotify.com/album/21YFZ4eoDDoj1KPnhhFaY7"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -141,27 +141,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "V\u00e1rn\u00e9k",
-        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "V\u00e1rn\u00e9k",
-      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -181,7 +161,43 @@
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "V\u00e1rn\u00e9k",
+        "url": "https://open.spotify.com/album/6uN19L2UQe36sMy9jI0VC1"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "V\u00e1rn\u00e9k",
+      "url": "https://open.spotify.com/track/0nQuoTxzDIVoWzaTgF5xtW"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Diferen\u00e7a Mara",
+      "url": "https://open.spotify.com/track/0dLkZwE2Xt4ETtUt5cED2l"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/7cU3vDXfkH4bAemYBxuoJT"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Oszt\u00e1lyk\u00e9p",
         "url": "https://open.spotify.com/album/3DqB5AWtqU8GE6xmwrrPv9"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/1o1jU5NJW5lTAllW6udk6Y"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/4Os68ICIOhJVOPfl53TjBP"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Palvin",
         "url": "https://open.spotify.com/album/69Zm96qdaLpLpb660vTfrb"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/5hAuDDOTUaspvHJSm2AltF"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Costa Rica",
         "url": "https://open.spotify.com/album/4ywSu0JCtzQD1IpXZn2eQf"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/3q8b8Rn1UB0bG9QG2yBgIQ"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -297,55 +313,7 @@
       "url": "https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 164290,
-      "name": "figyelj",
-      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "SZ\u00cdNVAK",
-        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        }
-      ],
-      "duration_ms": 198278,
-      "name": "SZ\u00cdNVAK",
-      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Aha-Aha",
         "url": "https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U"
@@ -361,27 +329,55 @@
       "url": "https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
-        "name": "voltm\u00e1rkicsi",
-        "url": "https://open.spotify.com/album/3QQwB99anYJvVbJIxe6uGR"
+        "name": "SZ\u00cdNVAK",
+        "url": "https://open.spotify.com/album/03V4AihEmcTPRnJefzcBFl"
       },
       "artists": [
         {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
         }
       ],
-      "duration_ms": 154500,
-      "name": "voltm\u00e1rkicsi",
-      "url": "https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb"
+      "duration_ms": 198278,
+      "name": "SZ\u00cdNVAK",
+      "url": "https://open.spotify.com/track/3uAoUHEPlLa5pWKpOrmIxo"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 164290,
+      "name": "figyelj",
+      "url": "https://open.spotify.com/track/1tAyEL10PQDcIvEL2o75wt"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Pak Pak",
         "url": "https://open.spotify.com/album/1W60C1OiaFVp9gjbMmCVyd"
@@ -397,39 +393,7 @@
       "url": "https://open.spotify.com/track/5RIVjLrjv7mw8LUihkuoLC"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -449,23 +413,43 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "voltm\u00e1rkicsi",
+        "url": "https://open.spotify.com/album/3QQwB99anYJvVbJIxe6uGR"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "voltm\u00e1rkicsi",
+      "url": "https://open.spotify.com/track/0faYxc8g09uniud0ToGDRb"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Fotof\u00f3bia",
         "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
@@ -485,7 +469,43 @@
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "Sajn\u00e1lom",
+        "url": "https://open.spotify.com/album/2z8YdJt3Q5hFYhPN8zHsTq"
+      },
+      "artists": [
+        {
+          "name": "LUCA",
+          "url": "https://open.spotify.com/artist/7JJvnCP92EaNcAr6ql0zIa"
+        },
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Sajn\u00e1lom",
+      "url": "https://open.spotify.com/track/1CyfvrQKRmkky5LzBemnPD"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -505,7 +525,23 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "VAKMELEG",
         "url": "https://open.spotify.com/album/1EMSC0Mx6dukvWdXIuYoV5"
@@ -521,7 +557,7 @@
       "url": "https://open.spotify.com/track/5hrqYOAOfilrvKT5Et0agg"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/38U5WKJpBQncqAss18dLrO"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -561,27 +597,7 @@
       "url": "https://open.spotify.com/track/1K17dNOOtcoC1gLcAbccPp"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "PLAYB\u00c1NIA",
-        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 184944,
-      "name": "PLAYB\u00c1NIA",
-      "url": "https://open.spotify.com/track/7A9EcBrwTG6bwswUy7beWW"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -601,23 +617,7 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Hajnalokig",
         "url": "https://open.spotify.com/album/2w8bawy6PfS6SuGv7WXuvX"
@@ -637,23 +637,23 @@
       "url": "https://open.spotify.com/track/2CilsBtWk8gwrTAYUmO7Xt"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Gett\u00f3 csirke",
+        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 136286,
+      "name": "Gett\u00f3 csirke",
+      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -681,23 +681,59 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
-        "name": "Gett\u00f3 csirke",
-        "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 136286,
-      "name": "Gett\u00f3 csirke",
-      "url": "https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G"
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "PLAYB\u00c1NIA",
+        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "Hundred Sins",
+          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
+        }
+      ],
+      "duration_ms": 184944,
+      "name": "PLAYB\u00c1NIA",
+      "url": "https://open.spotify.com/track/7A9EcBrwTG6bwswUy7beWW"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
@@ -713,7 +749,27 @@
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "Yoga",
+        "url": "https://open.spotify.com/album/4raWZxHHQyxz0mdcrRt2Yp"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Yoga",
+      "url": "https://open.spotify.com/track/7i2VQnO1s9hlLZyDBkMBsE"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Indigo (Extended)",
         "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
@@ -729,7 +785,47 @@
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "24 kar\u00e1t",
+        "url": "https://open.spotify.com/album/4ozjvpme21Vi5afFYaibBB"
+      },
+      "artists": [
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 128580,
+      "name": "24 kar\u00e1t",
+      "url": "https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "\u00daristen",
+        "url": "https://open.spotify.com/album/46mziAX3Fo8VOYp7YRW5OU"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "Szikora R\u00f3bert",
+          "url": "https://open.spotify.com/artist/2ikl2m7BATuFm44VMPLeaE"
+        }
+      ],
+      "duration_ms": 194629,
+      "name": "\u00daristen",
+      "url": "https://open.spotify.com/track/2ECeeSi1ImwowkGOdAVI6w"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "PP2",
         "url": "https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT"
@@ -753,23 +849,7 @@
       "url": "https://open.spotify.com/track/02NQsdQD0bz7N8DBp7lOwE"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "silbak",
-        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "t\u00e9veszm\u00e9k",
-      "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "PP2",
         "url": "https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT"
@@ -793,47 +873,7 @@
       "url": "https://open.spotify.com/track/4zDGLxfJmJQNxc1GaebOts"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "Yoga",
-        "url": "https://open.spotify.com/album/4raWZxHHQyxz0mdcrRt2Yp"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Yoga",
-      "url": "https://open.spotify.com/track/7i2VQnO1s9hlLZyDBkMBsE"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "24 kar\u00e1t",
-        "url": "https://open.spotify.com/album/4ozjvpme21Vi5afFYaibBB"
-      },
-      "artists": [
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 128580,
-      "name": "24 kar\u00e1t",
-      "url": "https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Pezsg\u0151 Kavi\u00e1r Kurv\u00e1k",
         "url": "https://open.spotify.com/album/52ib9wG7umi5TYHL3i4qj0"
@@ -849,7 +889,7 @@
       "url": "https://open.spotify.com/track/6DPh0sUSj2Ml4CL3iJJSn1"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
@@ -865,7 +905,23 @@
       "url": "https://open.spotify.com/track/6QYjKsbB4QVVAQ4E28PBjy"
     },
     {
-      "added_at": "2022-11-11 12:48:00",
+      "added_at": "2022-11-12 13:11:44",
+      "album": {
+        "name": "silbak",
+        "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "t\u00e9veszm\u00e9k",
+      "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"
+    },
+    {
+      "added_at": "2022-11-12 13:11:44",
       "album": {
         "name": "Fotof\u00f3bia",
         "url": "https://open.spotify.com/album/3lKnPe0akux4j2uthibT7i"
@@ -879,62 +935,6 @@
       "duration_ms": 211022,
       "name": "Spanom",
       "url": "https://open.spotify.com/track/2iikrNErUXVZ9dgWzNHGsQ"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "\u00daristen",
-        "url": "https://open.spotify.com/album/46mziAX3Fo8VOYp7YRW5OU"
-      },
-      "artists": [
-        {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "Szikora R\u00f3bert",
-          "url": "https://open.spotify.com/artist/2ikl2m7BATuFm44VMPLeaE"
-        }
-      ],
-      "duration_ms": 194629,
-      "name": "\u00daristen",
-      "url": "https://open.spotify.com/track/2ECeeSi1ImwowkGOdAVI6w"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "PLAYB\u00c1NIA",
-        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 176541,
-      "name": "DOH\u00c1NYBOLT",
-      "url": "https://open.spotify.com/track/31876LYPTkqUlFWQAEBxd6"
-    },
-    {
-      "added_at": "2022-11-11 12:48:00",
-      "album": {
-        "name": "Sajn\u00e1lom",
-        "url": "https://open.spotify.com/album/2z8YdJt3Q5hFYhPN8zHsTq"
-      },
-      "artists": [
-        {
-          "name": "LUCA",
-          "url": "https://open.spotify.com/artist/7JJvnCP92EaNcAr6ql0zIa"
-        },
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Sajn\u00e1lom",
-      "url": "https://open.spotify.com/track/1CyfvrQKRmkky5LzBemnPD"
     }
   ],
   "unique_name": "Top 50 - Hungary",

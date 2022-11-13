@@ -1,13 +1,29 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 46179,
+  "num_followers": 46207,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGM5NmE1Nzk1NmIwZmJlOWRhNzdlMDhmNzM0ZjNkOGU5",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGI4YjFmZDdjZjZlNzdjOWJhM2I1ZTc1NGVkMjkxN2Zi",
   "tracks": [
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Isles",
+        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
+    },
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 304825,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/78iVPIyFgGjQ0g0TmDWYtQ"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Isles",
-        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -95,6 +95,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Mind Doodles",
         "url": "https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI"
       },
@@ -111,6 +131,22 @@
       "duration_ms": 401409,
       "name": "Mind Doodles",
       "url": "https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Aviator",
+        "url": "https://open.spotify.com/album/0ZASLQCInYYMLkoK0VcHtL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 402392,
+      "name": "Apolune",
+      "url": "https://open.spotify.com/track/1M3ldz0gop7cJeEWUuJCfe"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -155,26 +191,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Anatolia",
-        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
-      },
-      "artists": [
-        {
-          "name": "Thylacine",
-          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Anatolia",
-      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 138371,
       "name": "Poly",
       "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Anatolia",
+        "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
+      },
+      "artists": [
+        {
+          "name": "Thylacine",
+          "url": "https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "Anatolia",
+      "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
-      },
-      "artists": [
-        {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
-        }
-      ],
-      "duration_ms": 439160,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
@@ -347,22 +347,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "What Have You Done To Me?",
-        "url": "https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x"
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y"
         }
       ],
-      "duration_ms": 286186,
-      "name": "What Have You Done To Me?",
-      "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
+      "duration_ms": 439160,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4appx9msZbhhFpSrKOlVz1"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -383,18 +379,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+        "name": "What Have You Done To Me?",
+        "url": "https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
         }
       ],
-      "duration_ms": 95973,
-      "name": "Bocuma",
-      "url": "https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ"
+      "duration_ms": 286186,
+      "name": "What Have You Done To Me?",
+      "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -411,6 +411,22 @@
       "duration_ms": 389325,
       "name": "Interloper",
       "url": "https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 95973,
+      "name": "Bocuma",
+      "url": "https://open.spotify.com/track/4Hmc81ZS9s2WlTvOsuoiTQ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -699,6 +715,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Patterns & Light",
+        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+      },
+      "artists": [
+        {
+          "name": "Kodomo",
+          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "Red Giant",
+      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Hold Me To The Light",
         "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
       },
@@ -715,18 +747,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Patterns & Light",
-        "url": "https://open.spotify.com/album/77W2sLDuzAH07zhYpx0AQ5"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
       },
       "artists": [
         {
-          "name": "Kodomo",
-          "url": "https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU"
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
         }
       ],
-      "duration_ms": 295049,
-      "name": "Red Giant",
-      "url": "https://open.spotify.com/track/66qXeOxetftqPPJSOznljQ"
+      "duration_ms": 416652,
+      "name": "Timid Dancer",
+      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -751,22 +783,6 @@
       "duration_ms": 420433,
       "name": "Toxic Temptation - Undercatt Remix",
       "url": "https://open.spotify.com/track/0VKIilt1Z8oJQ7isTytBDc"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
-      },
-      "artists": [
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
-        }
-      ],
-      "duration_ms": 416652,
-      "name": "Timid Dancer",
-      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Miracle Of The Rose EP",
-        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
-      },
-      "artists": [
-        {
-          "name": "Denis Horvat",
-          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
-        }
-      ],
-      "duration_ms": 331486,
-      "name": "Miracle Of The Rose",
-      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Ibb & Obb (Original Soundtrack)",
         "url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 154781,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Miracle Of The Rose EP",
+        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
+      },
+      "artists": [
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        }
+      ],
+      "duration_ms": 331486,
+      "name": "Miracle Of The Rose",
+      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -887,6 +903,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "The Ring EP",
+        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
+      },
+      "artists": [
+        {
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+        }
+      ],
+      "duration_ms": 391680,
+      "name": "Take Your Place",
+      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Moons",
         "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
       },
@@ -899,22 +931,6 @@
       "duration_ms": 217411,
       "name": "Moons",
       "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 407317,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -935,18 +951,34 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Ring EP",
-        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
       "artists": [
         {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
         }
       ],
-      "duration_ms": 391680,
-      "name": "Take Your Place",
-      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
+      "duration_ms": 407317,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Haunted House of House",
+        "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Cow Palace",
+      "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -971,50 +1003,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
       "artists": [
         {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
         }
       ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Breathing Underwater",
-        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
-      },
-      "artists": [
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 313079,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "like me",
-        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
-      },
-      "artists": [
-        {
-          "name": "paleboi",
-          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
-        }
-      ],
-      "duration_ms": 311186,
-      "name": "like me",
-      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1035,6 +1035,54 @@
       "duration_ms": 417246,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "like me",
+        "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
+      },
+      "artists": [
+        {
+          "name": "paleboi",
+          "url": "https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe"
+        }
+      ],
+      "duration_ms": 311186,
+      "name": "like me",
+      "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Breathing Underwater",
+        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
+      },
+      "artists": [
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 313079,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1083,6 +1131,22 @@
       "duration_ms": 276115,
       "name": "Witness",
       "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Two of Us",
+        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 344978,
+      "name": "Trivia",
+      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1151,6 +1215,22 @@
       "duration_ms": 432047,
       "name": "Excess",
       "url": "https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Vasudeva",
+        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 376720,
+      "name": "Vasudeva",
+      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1287,90 +1367,6 @@
       "duration_ms": 381406,
       "name": "Ars Vivendi",
       "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Endless Sacrifice",
-        "url": "https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Flu",
-          "url": "https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi"
-        }
-      ],
-      "duration_ms": 437653,
-      "name": "Heading North",
-      "url": "https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Deep Blues",
-        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 381453,
-      "name": "Deep Blues - Session Victim Remix",
-      "url": "https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Shift I - II",
-        "url": "https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX"
-      },
-      "artists": [
-        {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
-        }
-      ],
-      "duration_ms": 356571,
-      "name": "Shift II - Original Mix",
-      "url": "https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "In search of Moksha... Or something of the kind",
-        "url": "https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S"
-      },
-      "artists": [
-        {
-          "name": "Aron Estocolmo",
-          "url": "https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra"
-        }
-      ],
-      "duration_ms": 397894,
-      "name": "The Ganga river unpolluted once more",
-      "url": "https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
-        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
-      },
-      "artists": [
-        {
-          "name": "Da Vosk Docta",
-          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
-        }
-      ],
-      "duration_ms": 308576,
-      "name": "VIEW FROM MY BALCONY AT NIGHT",
-      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
     }
   ],
   "unique_name": "Deep Study",

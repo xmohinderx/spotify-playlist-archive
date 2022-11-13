@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 
 > The finest quality of Bollywood music handpicked for you\. Cover\- Alia and Ranbir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,817 likes - 56 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,607 likes - 56 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 10 | [Kalank \(Title Track\)](https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 5:11 |
 | 11 | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Nain Ta Heere \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP) | 3:36 |
 | 12 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ghungroo \(From "War"\)](https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ) | 5:02 |
-| 13 | [Meri Jaan](https://open.spotify.com/track/5u6OYth22u9NM4tYGcr97I) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6W3CcM7fj236axX7Vp7Txu) | 3:58 |
+| 13 | [Meri Jaan](https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Gangubai Kathiawadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3kT50JTcaeVQMIh0NUNjyM) | 3:58 |
 | 14 | [Duniyaa \(From "Luka Chuppi"\)](https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Bob](https://open.spotify.com/artist/69TcMkhvenAeokIhBGIUCQ) | [Duniyaa \(From "Luka Chuppi"\)](https://open.spotify.com/album/5hzAIEMlQpsEGIQFvnFOQx) | 3:42 |
 | 15 | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 |
 | 16 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtlo6ENS92N.md) - [plain]
 | 55 | [Kalank \(Duet\)](https://open.spotify.com/track/1jSSWmTvgdHcXEStuyl0kB) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 5:11 |
 | 56 | [Nazm Nazm](https://open.spotify.com/track/1We89SAonMk70QBbfXERxa) | [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [Bareilly Ki Barfi](https://open.spotify.com/album/1P8eifMN4WiKEXtptCBwJQ) | 3:46 |
 
-Snapshot ID: `MTY2NjY4NjcxOCwwMDAwMDAwMDczOTY2ODg2MjExMzhiZDAwODYzM2ZjNTIzNDc0MTQ4`
+Snapshot ID: `MTY2NjY4NjcxOCwwMDAwMDAwMDlhNDI1OWU4MmM1Zjg2ZDBkMGY2YzEwMTM4OGRmZjMx`

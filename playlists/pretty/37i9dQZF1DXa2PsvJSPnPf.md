@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,908 likes - 121 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,937 likes - 121 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 56 | [Whippoorwill](https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:38 |
 | 57 | [Road to Avalon](https://open.spotify.com/track/0iQMKwNdYXGWRW9bS7yoKf) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 4:36 |
 | 58 | [The Ship](https://open.spotify.com/track/0LXXiQatpwbFI6JBc0xLOH) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [The Ship](https://open.spotify.com/album/2T7uDGO2JZGk4Ts6Kya78U) | 4:14 |
-| 59 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/5pet1oAtPaMCmrx3uDxkzv) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/album/64Kt98Z8gUihw85TgI5gHd) | 5:11 |
+| 59 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/7s5oiz0hI98X6FQ5cmvPlf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 5:11 |
 | 60 | [Dyin Day](https://open.spotify.com/track/2VNrqHrmeQ3NeOOopjKOwq) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 3:06 |
 | 61 | [Where is the Heart of My Country](https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Where is the Heart of My Country](https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5) | 5:13 |
 | 62 | [Sammi's Song](https://open.spotify.com/track/5yxGc3FatVpON8FM0lpIJU) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 1:59 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 66 | [What I'm Looking For](https://open.spotify.com/track/2jL42I4QAeQKEkJhbLbR21) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [On My Own](https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H) | 3:19 |
 | 67 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 68 | [Perfect Imperfections](https://open.spotify.com/track/7g5xq6q4oQBE6P3NjD0jRB) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 4:02 |
-| 69 | [Poor Lost Souls](https://open.spotify.com/track/4E7j3KHM7hCLrgEa1UF6MW) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Poor Lost Souls](https://open.spotify.com/album/3ZFe34ht2OPadmjKbAVT1v) | 4:16 |
+| 69 | [Poor Lost Souls](https://open.spotify.com/track/5saHD81HEsU6vCO07JJyVB) | [Jimbo Mathus](https://open.spotify.com/artist/4KGeE0Un8kmgFiF2cxZ0xR), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [These 13](https://open.spotify.com/album/5e7me68eSPsVkbQoGdpEkh) | 4:16 |
 | 70 | [Georgia Drumbeat](https://open.spotify.com/track/4y5qy3U22W30TUX4hutV5d) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/5616zmHV1bAxmnpM9v2bsU) | 2:50 |
 | 71 | [The Time for Flowers](https://open.spotify.com/track/2dzZaRN9Uqp1JEic2lQ4k5) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [The Time for Flowers](https://open.spotify.com/album/3xhTmtzpGjC8IjT84xhaRg) | 3:59 |
 | 72 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 83 | [The Cure](https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj) | [Brother Sister](https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL) | 3:57 |
 | 84 | [War With My Mind](https://open.spotify.com/track/6dV5ohVw7jYD7ZeMsSz15j) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [War With My Mind](https://open.spotify.com/album/3Gf11NuU7KYiVZJ2Cn7UcQ) | 4:04 |
 | 85 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 5:15 |
-| 86 | [Time We Made Time](https://open.spotify.com/track/5SlDLaAPEs7tm5TiHtbU72) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Time We Made Time](https://open.spotify.com/album/6tioLHErPLmjw9t3B24PKf) | 4:55 |
+| 86 | [Time We Made Time](https://open.spotify.com/track/18tdZq3CmktV6HIAGSiJ0B) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:55 |
 | 87 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
 | 88 | [Nearing Home](https://open.spotify.com/track/2boSnGZWqD6efIo0e1rx1v) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 3:38 |
 | 89 | [We're All In This Together Now \(feat\. Rosanne Cash\)](https://open.spotify.com/track/4ncV3yQ55Kw7Gi4C4xxhMX) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [We're All In This Together Now](https://open.spotify.com/album/0eZAwdZNdsuniGk7hkyFEB) | 4:02 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 120 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 |
 | 121 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGNmMTY1ZWNhMWVhNjE1ZGM0NDZkZjc4Y2UyNzU4Mzdh`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDQ1ZDE4Zjg3NzA5ZDI3MDI2N2YyYjY1Nzc5ZTE5ZjY1`

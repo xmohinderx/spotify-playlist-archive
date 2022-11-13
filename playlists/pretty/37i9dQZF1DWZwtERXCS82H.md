@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Quiet music for reading, curl up with a good book and a calm piano playlist in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 967,798 likes - 352 songs - 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 967,936 likes - 352 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,7 +235,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 225 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 |
 | 226 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 |
 | 227 | [Amihan](https://open.spotify.com/track/4Si7JHUD6XLygvGzNFyBMa) | [Grace Valiery](https://open.spotify.com/artist/2GllnATolaqI8jwDZzpwCz) | [Amihan](https://open.spotify.com/album/7aYBkUQL3hOvkOgLlENYD3) | 3:10 |
-| 228 | [Old Flame](https://open.spotify.com/track/5wfZrIFYtl93BOMeS464rB) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [EP.1](https://open.spotify.com/album/3BbHU0suLHeL0a56KaCIsK) | 2:08 |
+| 228 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 |
 | 229 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 |
 | 230 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 |
 | 231 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 351 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 |
 | 352 | [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 |
 
-Snapshot ID: `MTY2NTc0NTEzOSwwMDAwMDAwMDBlNmJlMGU2NGE4YzBjMzkxMzFhMWQ3ZmZmMzdiNWM0`
+Snapshot ID: `MTY2NTc0NTEzOSwwMDAwMDAwMDg4MWQxNjcyNTE2MGY0OTgwMzVmYWVlMDJjMTZiYjgw`

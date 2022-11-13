@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 235160,
       "name": "Do You See",
       "url": "https://open.spotify.com/track/5YRQDSlUCBFcevXm3CMpr8"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 273792,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/1wslSV8ppr83jS3fWHHYQT"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 232413,
       "name": "If You Know",
       "url": "https://open.spotify.com/track/2PMXhooCONyFAJCcepLCph"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 193586,
       "name": "Iron Lion Zion",
       "url": "https://open.spotify.com/track/4rQlB3oZ2YsUe976wCAPlD"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 202432,
       "name": "Iron Lion Zion - 7\" Mix",
       "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 212640,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/0NDJeqkaT4a7WlC3Uj2ig5"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 172813,
       "name": "One Love - Medley",
       "url": "https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 172933,
       "name": "One Love / People Get Ready - Medley",
       "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 180800,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/7G50pcN2iGxpJGVY34otOK"
@@ -1265,6 +1265,24 @@
       "duration_ms": 175285,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/57r0b2RzN5wsslQygPQSpQ"
+    },
+    {
+      "album": {
+        "name": "Peace in a Time of War",
+        "url": "https://open.spotify.com/album/7aDfcYyGqvQ9eW5rzJfrML"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1IzmnrmW5mYDLXs30RddwN"
     },
     {
       "album": {
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Well Excellent",
       "url": "https://open.spotify.com/track/2Hx9cYkT5WGVEwx0CgZluk"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 170906,
       "name": "What I Got",
       "url": "https://open.spotify.com/track/4m2jLCVMFoz9s2aig2w8mm"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 158893,
       "name": "You Can Get It If You Really Want",
       "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"

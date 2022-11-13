@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life.<br/>Cover: Bimini
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,422 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,436 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 57 | [I Got You](https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Billy Cullum](https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k) | [Part 1: The Damage](https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL) | 2:53 |
 | 58 | [Empty](https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ) | [Blair St\. Clair](https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd) | [Empty](https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd) | 3:24 |
 | 59 | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK) | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS) | 3:49 |
-| 60 | [Rubber Doll](https://open.spotify.com/track/0XKXBFAZU2rm7RkXUlBxEI) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Rubber Doll](https://open.spotify.com/album/0jb9DdTXNHZZ2LeJMYWADM) | 3:20 |
+| 60 | [Rubber Doll](https://open.spotify.com/track/7M8D29CF8b5ciYCJ8xcv8X) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/2Ua71F5wgrNqEIteTXIZjU) | 3:20 |
 | 61 | [Finish Her!](https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [WNNR](https://open.spotify.com/artist/1QQDgJqgSf4OCy7zM2tgyf), [DJ Accident Report](https://open.spotify.com/artist/2sIY8jk1jkuxNsy1A9s7Pk) | [In My Feelings](https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F) | 3:45 |
 | 62 | [Low](https://open.spotify.com/track/72O7RzL3rL255Ma4FLLKUX) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/4cUeNiykyP1omwNWxlvyYA) | 3:21 |
 | 63 | [Hot Couture](https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Hot Couture](https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA) | 3:20 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 80 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 |
 | 81 | [AAA \(feat\. Alaska Thunderfuck, Courtney Act & Willam \)](https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [Access All Areas](https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9) | 3:13 |
 | 82 | [Pray for Love \- Formation Remix](https://open.spotify.com/track/3sOd6DeqHC1wkKBqyZbfE4) | [Love Ssega](https://open.spotify.com/artist/5NxG91O2LcOKUktBYVWiWd) | [Pray for Love](https://open.spotify.com/album/66CHixhq5wWkHHhsGJ3wpl) | 3:55 |
-| 83 | [Come to Brazil](https://open.spotify.com/track/54XWyyc1drVkWbutLQz0E1) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Come to Brazil](https://open.spotify.com/album/5EgTY77zKOhEBEU5E35oSB) | 3:40 |
+| 83 | [Come to Brazil](https://open.spotify.com/track/6G8QdI1lsjJMmkSool0b6f) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Poundcake](https://open.spotify.com/album/4VNYGvaBPvx024om7sg8x2) | 3:40 |
 | 84 | [To the Moon \- Cast Version](https://open.spotify.com/track/5xzSubIQvRSH5ryDk6EhU1) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc) | [To the Moon \(Cast Version\)](https://open.spotify.com/album/7fMIVWlRIrPSe1H8ceFcaG) | 3:02 |
 | 85 | [Jungle Kitty](https://open.spotify.com/track/6aoIbBF71WGdWJhifeoi5V) | [Bebe Zahara Benet](https://open.spotify.com/artist/4d5CbyJTqjfFvn9ZgU5bEa) | [Jungle Kitty](https://open.spotify.com/album/6dgRWADx9TcH1osLAXWV90) | 3:05 |
 
-Snapshot ID: `MTY2Mzg3MTA0NiwwMDAwMDAwMGJjYWVmOTg0M2QxN2Y5MGFhMTVkZDU5YmJjOGJlZGVm`
+Snapshot ID: `MTY2Mzg3MTA0NiwwMDAwMDAwMGM4YzM3MjExMzM1ZDk1NGZiYTUzYzkzYjJkNzU0YjRj`

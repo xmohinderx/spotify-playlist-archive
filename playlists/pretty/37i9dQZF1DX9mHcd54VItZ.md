@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=iRBNl1GmTFSUQQjaHnjWFA">Hugo Pooe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,266 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,267 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 29 | [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 |
 | 30 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 |
 | 31 | [Adorn](https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw) | [Constellatia](https://open.spotify.com/artist/1r8tzQXEPrte5GZ06LppsS) | [Adorn](https://open.spotify.com/album/31T0ESmfCXIWrd2kHQILbP) | 10:06 |
-| 32 | [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 |
+| 32 | [Awake](https://open.spotify.com/track/25TN22SHRxXPlPlobiyXr6) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/3WzW1B4xGh1xTVJaAFvLsW) | 4:20 |
 | 33 | [Woman of My Own Damn Mind](https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Woman of My Own Damn Mind](https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp) | 3:13 |
 | 34 | [Risk](https://open.spotify.com/track/1lXXDSVn8fZ32AxIEvM6oX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Teen Tapes \(For Performing Your Own Stunts\)](https://open.spotify.com/album/22tHTROvyyl2EsO5iUodJj) | 2:49 |
 | 35 | [Momentum](https://open.spotify.com/track/1PLdMFrVv6cCT9MrQneTMN) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:27 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 41 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 |
 | 42 | [Sick & Tired](https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF) | [Dyluded](https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW) | [Sick & Tired](https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE) | 2:32 |
 | 43 | [Summer Sunshine](https://open.spotify.com/track/3P7P02UIJbX4tAHn999Db8) | [Howie Combrink](https://open.spotify.com/artist/4lGRkSUk4yUwS2qd5inP4J) | [Summer Sunshine](https://open.spotify.com/album/7baEJf3STZnHaHSyUkGp4y) | 4:00 |
-| 44 | [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 |
+| 44 | [Cocoon](https://open.spotify.com/track/20e4Rxu9nsbEYKSZLM3Zjs) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/083Wk2aDbhui5sU7eDyjDi) | 5:04 |
 | 45 | [Believer](https://open.spotify.com/track/0XTC98wV7l5xnGOMIsUsv5) | [FUZIGISH](https://open.spotify.com/artist/5NOfiSV5NL7MVz8JO0oE1v) | [Believer](https://open.spotify.com/album/0MX2naV6uywiYfLqPEYyvK) | 4:20 |
 | 46 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 |
 | 47 | [Down \- Remastered](https://open.spotify.com/track/50lAUbTwVsGu97tj3j6cGi) | [Naranjo](https://open.spotify.com/artist/1St8wuhPvlGxHp49tsZH2R) | [Saints and Sinners \(Remastered\)](https://open.spotify.com/album/4kopPPmW09PGMnh85jojya) | 3:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 69 | [She's Got Soul](https://open.spotify.com/track/4NAUucEzZCxoZqSlX5mrXg) | [Painted Flowers](https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX) | [She's got Soul](https://open.spotify.com/album/6ensgFJIR7fQOtYDnKzUAq) | 3:09 |
 | 70 | [Save Me](https://open.spotify.com/track/0WkLcfV73UlxOlM8roFFK6) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [Save Me](https://open.spotify.com/album/5tLjTbclIzPE4t7QFqfEue) | 2:48 |
 
-Snapshot ID: `MTY2NTA5MzU0MCwwMDAwMDAwMDdlNWUzMWE5MzBhMmY1ODQ2NTRjZDgzZmJiM2UyZDBm`
+Snapshot ID: `MTY2NTA5MzU0MCwwMDAwMDAwMGNjNTg0NmU1Y2JkYjQ2MDEzMzhiZTA0MWNhOGQ4MGNh`

@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 218800,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 278691,
       "name": "Forget - Live from Spotify, NYC",
       "url": "https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 186813,
       "name": "I Got What I Wanted",
       "url": "https://open.spotify.com/track/4uqJNpkCMUqnwhce5QD5MI"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 331266,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 277653,
       "name": "It Will Come Back",
       "url": "https://open.spotify.com/track/13CyXxYgWD9N5KwWqRYU1U"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 277653,
       "name": "It Will Come Back",
       "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 266999,
       "name": "letting go",
       "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 285066,
       "name": "Move Together - The Dark Of The Morning Version",
       "url": "https://open.spotify.com/track/3K2YwQn30cfQBWM39XcrXV"
@@ -981,6 +981,24 @@
       "duration_ms": 216405,
       "name": "Revelry",
       "url": "https://open.spotify.com/track/0MqjKvmJPGJ6t0EQ83jcd2"
+    },
+    {
+      "album": {
+        "name": "Badass Females",
+        "url": "https://open.spotify.com/album/21YGYYto3r09ftcws57EdL"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "River",
+      "url": "https://open.spotify.com/track/27DA5qcRz7oH54OVNuhuUr"
     },
     {
       "album": {
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 190093,
       "name": "Slow Mover",
       "url": "https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 144400,
       "name": "Song for lovers",
       "url": "https://open.spotify.com/track/6MS1VErb239jImgEbtIMgs"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 211693,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6QaZxL2jD5dzo58Q4tJuFz"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 226320,
       "name": "Uncuff Me",
       "url": "https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 257780,
       "name": "Wretched Body",
       "url": "https://open.spotify.com/track/4QOpXfJt9UsMCiHM7WVyrj"

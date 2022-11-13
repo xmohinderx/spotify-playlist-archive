@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap luso em 2021\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,270 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,268 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 9 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
 | 10 | [Tequila \- A COLORS SHOW](https://open.spotify.com/track/0rUVc7nyw4qXytvodDAlle) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \- A COLORS SHOW](https://open.spotify.com/album/40HvcpWRmkzHzLdveModKu) | 3:19 |
 | 11 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 |
-| 12 | [Nós Pimba](https://open.spotify.com/track/41vGMNuSiFf7K8ZDPzix6z) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Nós Pimba](https://open.spotify.com/album/2KJzKh3Po3vQbxIV0nB1V0) | 3:28 |
+| 12 | [Nós Pimba](https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [E Agora Como É Que É](https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ) | 3:28 |
 | 13 | [Louco](https://open.spotify.com/track/3fExatgv3vCcNT0CuU8mqM) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Coroa](https://open.spotify.com/album/4YgZaF5JQGTOqxes8h5s40) | 4:04 |
 | 14 | [Influencer](https://open.spotify.com/track/5wksDhHGiGwmqSGcozBFu1) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [D'ay](https://open.spotify.com/artist/65pBw5z7QlvhAGZvlzjmWA) | [Mudanças](https://open.spotify.com/album/7pHhSh21J3IqdYdxjCqecZ) | 3:47 |
 | 15 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [Amor Ou Segredo](https://open.spotify.com/track/0NAIF6FSjiH0jECUSy2xtU) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [Amor Ou Segredo](https://open.spotify.com/album/2fY2MEmSGaDqmHFJxj9Eql) | 4:04 |
 | 50 | [Casaco da Moncler](https://open.spotify.com/track/3NwXNPRWsMerVlL0RfkbBA) | [Guizzy](https://open.spotify.com/artist/00inQ4w5hP4mYdKHcykVdP) | [Casaco da Moncler](https://open.spotify.com/album/6bjebOg4jFhmBKKkzxXzXd) | 3:19 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDAwYzFjM2FlM2YzMDU1ZGM1OWMzZDQ5Y2M4M2UwM2Y5`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDg1ZmRhYzNlZTFjY2Y4OWNmNDFkZTFjZDU4MjEyZTg5`

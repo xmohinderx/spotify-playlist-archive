@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,756 likes - 212 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,920 likes - 212 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 122 | [Mellow Apricot](https://open.spotify.com/track/3oaQCIkZDZ63S1XDRMS1M4) | [Mixtus](https://open.spotify.com/artist/2iAb3BfKnswIVev8Z9BpR3) | [Mellow Apricot](https://open.spotify.com/album/0wJERxcVbXD01mgOQgswuy) | 2:07 |
 | 123 | [Turn Around](https://open.spotify.com/track/5Ve1NjjsG20hqnxfPzzyP0) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Turn Around](https://open.spotify.com/album/3uJwBAA2N0m67HsWPMQVIS) | 2:36 |
 | 124 | [Somewhere](https://open.spotify.com/track/1CYrpAj5Gdnv1zNBoEhJj4) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Somewhere](https://open.spotify.com/album/559m1quyOHDPpwenShOIp6) | 2:48 |
-| 125 | [Views from Yamashita Park](https://open.spotify.com/track/1A6cccEj6qKdj4O0qbYSL9) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 1:40 |
+| 125 | [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 |
 | 126 | [Lost In Translation, The Saga](https://open.spotify.com/track/6A5bkBm5kT35mubo9TUk0Y) | [Pausa Psi](https://open.spotify.com/artist/43Ojd4Mv19doUZziYeCs2S) | [Lost In Translation, The Saga](https://open.spotify.com/album/5x9pmUiSJ1opkM2aom3egS) | 2:35 |
 | 127 | [Kissing on the Dance Floor](https://open.spotify.com/track/3LHZHqkVQRfUbxWli3717M) | [Tyler Greyson](https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o) | [Kissing on the Dance Floor](https://open.spotify.com/album/6uSeYFPvoMv0DZxsrZyIS2) | 2:42 |
 | 128 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 211 | [Mad Trippin’](https://open.spotify.com/track/7AE1n5dKg90RSCegKcfFf9) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Baptastic](https://open.spotify.com/album/4WMQeCtlpbZvBSFWoDcp83) | 1:47 |
 | 212 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `MTY2Njk2MjAyOCwwMDAwMDAwMDQ2MDljMmJjZTYyNDVjZTZkYTdlNTlhNmUwZjJlYjVi`
+Snapshot ID: `MTY2Njk2MjAyOCwwMDAwMDAwMDg1NTc4MzU4MzRiYzYzMmVmMGYwNzgxNTgxODEwYzQw`

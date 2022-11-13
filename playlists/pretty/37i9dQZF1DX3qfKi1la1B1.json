@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 103045,
+  "num_followers": 103099,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5MjQwMCwwMDAwMDAwMGI4ZmM0NmI4NDFmNWY4Zjg0NzVlODk2MGM2NTc4OGNk",
+  "snapshot_id": "MTY2ODA5MjQwMCwwMDAwMDAwMGIxNTI4M2EwMjkxYmQxZmNmZDQzMzU0MWY1ZDYyYTFj",
   "tracks": [
     {
       "added_at": "2022-11-10 15:00:00",
@@ -159,8 +159,8 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "Apple Pie",
-        "url": "https://open.spotify.com/album/0f02wMNqFZiSplA2H8C6kf"
+        "name": "Panic Attacks",
+        "url": "https://open.spotify.com/album/60DFfJcPBoiWwzGS65DiAj"
       },
       "artists": [
         {
@@ -170,7 +170,7 @@
       ],
       "duration_ms": 226160,
       "name": "Panic Attacks",
-      "url": "https://open.spotify.com/track/0Y2DVH8AJKYRUxwmI0VfYd"
+      "url": "https://open.spotify.com/track/0hFxiaVUZTEpsAdrV595Xn"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -519,8 +519,8 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs"
+        "name": "Todai",
+        "url": "https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 174680,
+      "duration_ms": 177662,
       "name": "Todai",
-      "url": "https://open.spotify.com/track/7M7R9d2XP1EfqpIq4D0Zlv"
+      "url": "https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -551,6 +551,38 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
+        "name": "summer,",
+        "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "comethru",
+      "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "YUKON (INTERLUDE)",
+      "url": "https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB"
       },
@@ -563,38 +595,6 @@
       "duration_ms": 177609,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "YUKON (INTERLUDE)",
-        "url": "https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+      "duration_ms": 220866,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -735,6 +735,22 @@
       "duration_ms": 201413,
       "name": "Voiceless",
       "url": "https://open.spotify.com/track/7nN1LUAJUDuGJyDawcok6v"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -815,6 +831,22 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+      },
+      "artists": [
+        {
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
         "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
       },
@@ -875,6 +907,22 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
@@ -895,6 +943,42 @@
       "duration_ms": 268667,
       "name": "Pro Freak (with Doechii, Fatman Scoop)",
       "url": "https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        },
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "better off",
+      "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -987,114 +1071,18 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "Fix It to Break It",
-        "url": "https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8"
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
       },
       "artists": [
         {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 198798,
-      "name": "Fix It to Break It",
-      "url": "https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "LET THE GRASS GROW",
-        "url": "https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 175534,
-      "name": "LET THE GRASS GROW",
-      "url": "https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 264372,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-        "url": "https://open.spotify.com/album/0rFjAGsF5UhG8hPeirWaHV"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249946,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
+      "duration_ms": 181210,
+      "name": "What They'll Say About Us",
+      "url": "https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR"
     }
   ],
   "unique_name": "Midnight Chill",

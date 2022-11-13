@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Special Interest
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,822 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,918 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 14 | [Hot Penny Day](https://open.spotify.com/track/6JVyuSLNyFW0Cbq91Bq3bg) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Stumpwork](https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO) | 3:37 |
 | 15 | [Come On Down \(feat\. Joe Talbot\)](https://open.spotify.com/track/7j8wuFNfwgRuGJvi1vY5qI) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Come On Down](https://open.spotify.com/album/2vTfTn3WEjwoNHLpA1bumO) | 3:24 |
 | 16 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
-| 17 | [Lava Lamp Pisco](https://open.spotify.com/track/0IUCAG77pftJPK8AHtgleA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Bob Holiday](https://open.spotify.com/album/3LuNmpwpxJYX8WGS1yNOPd) | 4:01 |
+| 17 | [Lava Lamp Pisco](https://open.spotify.com/track/23TrkSJOvl2mnka8F6POxd) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Night Gnomes](https://open.spotify.com/album/03v97YHEAK4SfVd4QuIuOt) | 4:01 |
 | 18 | [Groundhog Day](https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Groundhog Day](https://open.spotify.com/album/415iY0uDENvjox5USnF9uC) | 3:37 |
 | 19 | [One Stop Shop \(For A Fading Revolution\)](https://open.spotify.com/track/5aa6n3VZmDediYoN2x9ayw) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/1r5vgUrqdgK4kYvddjEap9) | 3:31 |
 | 20 | [Over & Out](https://open.spotify.com/track/76M5por1Z1EIqZQ3K0fA1X) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Over & Out](https://open.spotify.com/album/1sikjvOUTHaQYcoPUjC3me) | 2:44 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 100 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 |
 | 101 | [Tidal River](https://open.spotify.com/track/2IAWpK4ez7m987Xxy5hGMl) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Endless Rooms](https://open.spotify.com/album/2inG3MxvNhZYd808mnhbOW) | 4:26 |
 | 102 | [Bunny Man](https://open.spotify.com/track/7Mhs6TsXacUO1wJP67r3yp) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/6bKrlySqeQntAp4PtX46oW) | 2:58 |
-| 103 | [Head On](https://open.spotify.com/track/32vtFZsZz3Pf5Mlcs6V5yD) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [In Between Days](https://open.spotify.com/album/6Crpa9aM0TnbjDU4WLkhwX) | 2:38 |
+| 103 | [Head On](https://open.spotify.com/track/42vq2Ww3BMk7HE8iL6yWF4) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Head On](https://open.spotify.com/album/4spRalyH6f1l2kRMxUbU19) | 2:38 |
 | 104 | [Honest Living](https://open.spotify.com/track/3YTusZlExW8QCdrlDR1HTR) | [Meat Wave](https://open.spotify.com/artist/1BFVh82YuUOyM8XKZIRaBL) | [Honest Living](https://open.spotify.com/album/5EkpUpnQL3kgBH904GNHXH) | 2:06 |
 | 105 | [DAEMON](https://open.spotify.com/track/6z2vZ2TyVT2jeCm7sxuDPU) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [DAEMON](https://open.spotify.com/album/1ZzmlC1ZtshIf4OgTmuEwY) | 2:46 |
 | 106 | [Dreamsickle](https://open.spotify.com/track/5hhYYTvx7PkLMCABivfYVS) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Dreamsickle](https://open.spotify.com/album/54uFsfnaWKjg2r4ZjyGx1O) | 2:27 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 109 | [Bone Blossom Green](https://open.spotify.com/track/4mQmReGlJftOqZLwYAI9vH) | [The Mary Veils](https://open.spotify.com/artist/64bSGonWU3cJ5JFgZx52zz) | [Eyes](https://open.spotify.com/album/6d5v4120CpZzetL9nJqFsE) | 3:57 |
 | 110 | [Tell The Papers](https://open.spotify.com/track/0UashtBXvXLey63GLMJI7S) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Future Forecast](https://open.spotify.com/album/4ufRetq7F81HXrqjId1vq1) | 3:25 |
 | 111 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 |
-| 112 | [The Overload](https://open.spotify.com/track/6g1hc5F1l9B7O20xllCIzo) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Land Of The Blind](https://open.spotify.com/album/60aNfo1JsJW888pvWVGX9s) | 3:16 |
-| 113 | [Ain't Nice](https://open.spotify.com/track/1nJkBHZ77uhBVm8x3eONOo) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [In Spite of Ourselves](https://open.spotify.com/album/0vdmzIVWn78dcphczGZbxq) | 3:32 |
+| 112 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
+| 113 | [Ain't Nice](https://open.spotify.com/track/3hxUQ6HX7p4dY8qQVInVoY) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 |
 | 114 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 |
 | 115 | [Shelter Song](https://open.spotify.com/track/5nqZ6H4AzpXn7qkcf3qfWh) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Seek Shelter \(Special Edition\)](https://open.spotify.com/album/1Nv0SP4KDUsvn2nwZZhvTP) | 5:28 |
 | 116 | [Lighthouse](https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs) | [Mattiel](https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q) | [Lighthouse](https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk) | 3:43 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 |
 | 125 | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/track/6RKznMItfF3tAMBP2vyYiI) | [Jools](https://open.spotify.com/artist/7J6YlxY8MiF5ZwfVBzMpPc) | [How Can Some Experience What Pride Is Without Liberation for All?](https://open.spotify.com/album/642k2mjhDGqE7wfwKrDrjU) | 3:32 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDI1ZTU3ODlhZDUzYzE1MDM5ZWU5NTU3ZmRiZTE2MmJi`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGZjYjAyZGI2NTNmZmFhOTA2YTg3NGM4NTNlZmRmMDZm`

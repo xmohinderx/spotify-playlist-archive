@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,439 likes - 70 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,494 likes - 70 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 21 | [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 |
 | 22 | [Begin Again](https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Begin Again](https://open.spotify.com/album/0wCy9QkfGL19XEYnW4NU8k) | 3:50 |
 | 23 | [Berceuse](https://open.spotify.com/track/0q3aPiWc44Virg0YgBv55A) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:13 |
-| 24 | [Donna](https://open.spotify.com/track/2pypgWd8ZbLYwyMsPXPai1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/3U9o8VvSeoHjydNyvoJF9K) | 7:23 |
+| 24 | [Donna](https://open.spotify.com/track/23ozU0cVhWspGJpd84NQHi) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Feel Like Goin' On](https://open.spotify.com/album/1bL29VZ8p2Q7ZYG0QTJAQL) | 7:23 |
 | 25 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 |
 | 26 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 |
 | 27 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 57 | [Linda](https://open.spotify.com/track/12psIyrsp6DXHqzkkweac1) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [I Like It When It Rains](https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD) | 4:53 |
 | 58 | [Planet Caravan](https://open.spotify.com/track/0CMXruCTkGen9gLpsTH8xH) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 7:48 |
 | 59 | [Wayfaring Pilgrim](https://open.spotify.com/track/6yJ6VtC0IQ4BC47Aj6MkZ3) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [In The Beginning](https://open.spotify.com/album/4s8yNqAy1MyFXtLp8HlWUM) | 5:08 |
-| 60 | [Blues After Hours](https://open.spotify.com/track/3leJdx93IHBZilIUu4ROEp) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Masters: Pee Wee Crayton](https://open.spotify.com/album/3fZa1iAXkV4fPH91EdBmTM) | 5:09 |
+| 60 | [Blues After Hours](https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Blues Legend Vol\. 13](https://open.spotify.com/album/3UeiL4Lg24S67ztbaBeL32) | 5:09 |
 | 61 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 |
 | 62 | [Bill's Blues](https://open.spotify.com/track/0pI9XMjwp3Y7IIvFCXpFcr) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Language Of The Soul](https://open.spotify.com/album/4MJvRWtQK30Xs4vjJGlpAg) | 2:32 |
 | 63 | [Pete's Blue](https://open.spotify.com/track/6u4NXJuuZDVQ8QXE8UJ45R) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 7:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 69 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 | 70 | [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 |
 
-Snapshot ID: `MTY2NTc2MjkwMywwMDAwMDAwMGNkZjg2ZWFiYTJiOGI3ZDM0NGIyNWE3YWIxMjJmM2Iy`
+Snapshot ID: `MTY2NTc2MjkwMywwMDAwMDAwMGI2ZWY2MTgzNmQ3NzQ4NGRkY2FkZjUxZmYxNDY2Nzkx`

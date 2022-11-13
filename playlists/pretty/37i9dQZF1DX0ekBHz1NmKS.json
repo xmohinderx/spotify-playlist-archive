@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 118099,
+  "num_followers": 118128,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGZkOWY0OTE2ZjJhMGRiODY1YjJlNzlmNGI0NTQ3YmM2",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDFjYzg3ZjJmMDllMDZjMTljNzA5OWQ5YmQ0YjNlMjJi",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
+        "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 183764,
+      "name": "Heaven med dig",
+      "url": "https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Tusen g\u00e5nger om (feat. Newkid)",
         "url": "https://open.spotify.com/album/6MW4cZxYvBtl4ptt5cODZ2"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Turning Onto You",
-        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Turning Onto You",
-      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Karlavagnen",
         "url": "https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 173000,
       "name": "Rymden och tillbaks",
       "url": "https://open.spotify.com/track/3T66ZaObDiVo0XJxLqXoyY"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Turning Onto You",
+        "url": "https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Turning Onto You",
+      "url": "https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -535,6 +551,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
         "url": "https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm"
       },
@@ -551,38 +583,6 @@
       "duration_ms": 212432,
       "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
       "url": "https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Du f\u00f6rtj\u00e4nar det",
-        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 199657,
-      "name": "Du f\u00f6rtj\u00e4nar det",
-      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "S\u00e4g N\u00e5t",
+        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "S\u00e4g N\u00e5t",
+      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "V\u00e4ntar p\u00e5 en solig dag",
         "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
       },
@@ -623,6 +639,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Du f\u00f6rtj\u00e4nar det",
+        "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 199657,
+      "name": "Du f\u00f6rtj\u00e4nar det",
+      "url": "https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "V\u00e5gar",
         "url": "https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3"
       },
@@ -635,22 +667,6 @@
       "duration_ms": 158644,
       "name": "V\u00e5gar",
       "url": "https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "S\u00e4g N\u00e5t",
-        "url": "https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "S\u00e4g N\u00e5t",
-      "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -707,6 +723,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Can\u2019t Stay Away",
+        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 179761,
+      "name": "Can\u2019t Stay Away",
+      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Jag forts\u00e4tter gl\u00f6mma",
         "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
       },
@@ -719,22 +751,6 @@
       "duration_ms": 233413,
       "name": "Barn av v\u00e5r tid",
       "url": "https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "N\u00e4r jag blundar",
-        "url": "https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj"
-      },
-      "artists": [
-        {
-          "name": "Daniel Adams-Ray",
-          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "N\u00e4r jag blundar",
-      "url": "https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -755,6 +771,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "N\u00e4r jag blundar",
+        "url": "https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Adams-Ray",
+          "url": "https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "N\u00e4r jag blundar",
+      "url": "https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "P\u00e5 En L\u00f6rdag",
         "url": "https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS"
       },
@@ -767,22 +799,6 @@
       "duration_ms": 152701,
       "name": "P\u00e5 En L\u00f6rdag",
       "url": "https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Can\u2019t Stay Away",
-        "url": "https://open.spotify.com/album/4M1qP6IoZn7tOh0NWrllT5"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 179761,
-      "name": "Can\u2019t Stay Away",
-      "url": "https://open.spotify.com/track/4X1od7Ce9ofu0jSAPaI260"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "EYEYE",
-        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "5D",
-      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 210264,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "EYEYE",
+        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "5D",
+      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Bara bby",
-        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Hon har dig",
-      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Jag forts\u00e4tter gl\u00f6mma",
         "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Vatten",
-        "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
+        "name": "Bara bby",
+        "url": "https://open.spotify.com/album/3plhQIEFllsYNv708OaENV"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/229RQG4IQ1BFiS1FJvww5N"
         }
       ],
-      "duration_ms": 198986,
-      "name": "Socker Och Vatten",
-      "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
+      "duration_ms": 155026,
+      "name": "Hon har dig",
+      "url": "https://open.spotify.com/track/02twVAfoDG1podz5ns885c"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
-        "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
+        "name": "Vatten",
+        "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
       },
       "artists": [
         {
-          "name": "Clara Klingenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
         }
       ],
-      "duration_ms": 180787,
-      "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
-      "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
+      "duration_ms": 198986,
+      "name": "Socker Och Vatten",
+      "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -947,6 +947,22 @@
       "duration_ms": 184482,
       "name": "\u00c4nnu mer",
       "url": "https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
+        "url": "https://open.spotify.com/album/6nk2QNkHLSyL8JsmqpgbHo"
+      },
+      "artists": [
+        {
+          "name": "Clara Klingenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg"
+        }
+      ],
+      "duration_ms": 180787,
+      "name": "Nu kan du f\u00e5 mig s\u00e5 l\u00e4tt - Spotify Singles",
+      "url": "https://open.spotify.com/track/2yRw3fTBnpJKaa6AGHonZ9"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Bleeding",
-        "url": "https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO"
-      },
-      "artists": [
-        {
-          "name": "Johanna Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3"
-        }
-      ],
-      "duration_ms": 206661,
-      "name": "Bleeding",
-      "url": "https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Policeman",
         "url": "https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 213061,
       "name": "Policeman",
       "url": "https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO"
+      },
+      "artists": [
+        {
+          "name": "Johanna Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3"
+        }
+      ],
+      "duration_ms": 206661,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1243,6 +1259,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Barnsben",
+        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 214190,
+      "name": "Barnsben",
+      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Midnatt",
         "url": "https://open.spotify.com/album/3suLV5WJS3L9v7kG3IKAbM"
       },
@@ -1259,34 +1291,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Solen i G\u00f6teborg",
-        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
+        "name": "OMR",
+        "url": "https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH"
       },
       "artists": [
         {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Solen i G\u00f6teborg",
-      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Barnsben",
-        "url": "https://open.spotify.com/album/55zicpqlSBKKt4fBSPfAH1"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 214190,
-      "name": "Barnsben",
-      "url": "https://open.spotify.com/track/1e7NXnNHkQcJ4XHtE50qTe"
+      "duration_ms": 140613,
+      "name": "In The Sunrise",
+      "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "OMR",
-        "url": "https://open.spotify.com/album/5U3yzxL13Rvj8uydja4ncH"
+        "name": "Solen i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
       },
       "artists": [
         {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
         }
       ],
-      "duration_ms": 140613,
-      "name": "In The Sunrise",
-      "url": "https://open.spotify.com/track/23fsXHpRPkozkePmm8h3vG"
+      "duration_ms": 171600,
+      "name": "Solen i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Once in a While [smile]",
-        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "Once in a While [smile]",
-      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Hold Out",
         "url": "https://open.spotify.com/album/1AjiPJEfUG1MMI28cxqics"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 191186,
       "name": "Hold Out",
       "url": "https://open.spotify.com/track/23CuzFQM5TFmWBcMFVVKOd"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Once in a While [smile]",
+        "url": "https://open.spotify.com/album/42htWiHQEafnwwNsiQev0s"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 179954,
+      "name": "Once in a While [smile]",
+      "url": "https://open.spotify.com/track/0KfZG5q5Dwzfkb1DItAczm"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Night at Ezeh's",
-        "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
-      },
-      "artists": [
-        {
-          "name": "Sam Ezeh",
-          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "CRISIS",
-      "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "\u00c4lskling EP",
         "url": "https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 176640,
       "name": "Aldrig mer tillbaka",
       "url": "https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Night at Ezeh's",
+        "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1623,26 +1639,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Ansvar (feat. Eye N'I)",
-        "url": "https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        },
-        {
-          "name": "Eye N'I",
-          "url": "https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y"
-        }
-      ],
-      "duration_ms": 175535,
-      "name": "Ansvar (feat. Eye N'I)",
-      "url": "https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "MER",
         "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
       },
@@ -1675,18 +1671,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
-        "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
+        "name": "Ansvar (feat. Eye N'I)",
+        "url": "https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc"
       },
       "artists": [
         {
-          "name": "BELL",
-          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        },
+        {
+          "name": "Eye N'I",
+          "url": "https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y"
         }
       ],
-      "duration_ms": 179268,
-      "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
-      "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
+      "duration_ms": 175535,
+      "name": "Ansvar (feat. Eye N'I)",
+      "url": "https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Stor p\u00e5 jorden/Sn\u00e4ll med John",
-        "url": "https://open.spotify.com/album/6HHh3OPNMzr7EwuA46fpm6"
+        "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
+        "url": "https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI"
       },
       "artists": [
         {
-          "name": "Junior Brielle",
-          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
+          "name": "BELL",
+          "url": "https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4"
         }
       ],
-      "duration_ms": 343426,
-      "name": "Stor p\u00e5 jorden",
-      "url": "https://open.spotify.com/track/4EHdsE2k1WiTJ4z7eCEUjB"
+      "duration_ms": 179268,
+      "name": "\u00c4R DU INTE TR\u00d6TT P\u00c5 ATT VARA DU?",
+      "url": "https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg"
     }
   ],
   "unique_name": "Made in Sweden",

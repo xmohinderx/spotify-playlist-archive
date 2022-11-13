@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,471 likes - 143 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,557 likes - 143 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 54 | [Armónico](https://open.spotify.com/track/4fMkra3CJ5mTAc6DWbFLqT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Armónico](https://open.spotify.com/album/7gM87esW35sDdevEejH70f) | 1:48 |
 | 55 | [Moonlight and Grace Reimagined](https://open.spotify.com/track/6YLhil5rBjNBGQ5wCIsIgH) | [Phil Klein](https://open.spotify.com/artist/7D4v9W10LK3ftu5UBRuNow) | [Moonlight and Grace Reimagined](https://open.spotify.com/album/5VypWMT7ShaGTFMhDjrUge) | 3:01 |
 | 56 | [Una Vida Prospera](https://open.spotify.com/track/65sHNlUnVH9M0dzNcGEn0Y) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Una Vida Prospera](https://open.spotify.com/album/5liLr3r2atOTzyGDuugGsB) | 2:06 |
-| 57 | [Preludio del valle](https://open.spotify.com/track/0wzQxAGzGl09uxJHQVWP8Z) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Preludio del valle](https://open.spotify.com/album/3bymqGhrl8dwY9BlSWU5Sw) | 2:31 |
+| 57 | [Preludio del valle](https://open.spotify.com/track/4zvQKekRAM8gUYBmkCPuTP) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Trazos](https://open.spotify.com/album/6uuhDerUvpdUD4giKbSRjs) | 2:31 |
 | 58 | [Montevideo](https://open.spotify.com/track/275koCzLil06PwQOAuRGvI) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Montevideo](https://open.spotify.com/album/2bYa90u46gvqghDV3MHQzs) | 3:27 |
 | 59 | [Quite Comfy](https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Quite Comfy](https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw) | 3:34 |
 | 60 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 142 | [Barefoot Again](https://open.spotify.com/track/6bd8i923aA2lavpzd7YbIu) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Barefoot Again](https://open.spotify.com/album/7bxvPmLbLvLwArNY4bJz3J) | 3:30 |
 | 143 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
 
-Snapshot ID: `MTY2Njk2NDk4NCwwMDAwMDAwMGQ5ZGVjYjc5ZjdhZDcxNWQ1NzE0OWM5ODI5ODgyZTdj`
+Snapshot ID: `MTY2Njk2NDk4NCwwMDAwMDAwMDc4MTk0YWE2NmI0ZGQ5MGE1NjVkOGQ5YmFlZjFhOTg0`

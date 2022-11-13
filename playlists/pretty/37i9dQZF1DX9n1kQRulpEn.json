@@ -1,12 +1,12 @@
 {
   "description": "A swinging Jazz soundtrack for your drive time.",
-  "num_followers": 30886,
+  "num_followers": 30923,
   "original_name": "Jazz in the Car",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MjA4MiwwMDAwMDAwMGExZmE4N2EzNjdlMmYxNzQ4YjNkZTIwZmQ5ZDQ4ZTky",
+  "snapshot_id": "MTY2ODE3MjA4MiwwMDAwMDAwMDAyMGM0YzI0Njg1MGZiNDk2YmE3YmE1ODM3MWYxN2M3",
   "tracks": [
     {
       "added_at": "2022-11-11 13:08:02",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Rollin' With Leo (Remastered)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
       },
       "artists": [
         {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 294906,
-      "name": "The Lion's Roar - Remastered",
-      "url": "https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg"
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+      "duration_ms": 294906,
+      "name": "The Lion's Roar - Remastered",
+      "url": "https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -231,6 +231,22 @@
       "duration_ms": 128040,
       "name": "Toki's Theme",
       "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -431,22 +447,6 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Cool Struttin\u2019",
-        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 617487,
-      "name": "Blue Minor - Remastered",
-      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
         "name": "The Art of the Trio, Vol. 1",
         "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 391426,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Cool Struttin\u2019",
+        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 617487,
+      "name": "Blue Minor - Remastered",
+      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -507,22 +523,6 @@
       "duration_ms": 331600,
       "name": "Sweet 'n' Sour",
       "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
-        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 401560,
-      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+        "name": "Ready For Freddie (Rudy Van Gelder Remaster Edition)",
+        "url": "https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 295680,
-      "name": "Split Feelin's - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s"
+      "duration_ms": 401560,
+      "name": "Arietis - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2rvlhyiUa082VRTa3OFgmh"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Split Feelin's - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 332266,
       "name": "If This Isn't Love",
       "url": "https://open.spotify.com/track/4WrFf0DMuq3LbpOf20wkVP"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 400840,
-      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 400840,
+      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
         "name": "'S Make It",
         "url": "https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 223493,
       "name": "Faith",
       "url": "https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Black Is the Color of My True Love's Hair",
+        "url": "https://open.spotify.com/album/0Ldhw4V8gj0OKJAjfnYA2f"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 334786,
+      "name": "63rd Street Theme",
+      "url": "https://open.spotify.com/track/0kFEFWOd5bNB1PuHYaXooo"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -711,22 +743,6 @@
       "duration_ms": 299293,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/0aKBKF73MKWmIbaCdEjf8t"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "Black Is the Color of My True Love's Hair",
-        "url": "https://open.spotify.com/album/0Ldhw4V8gj0OKJAjfnYA2f"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 334786,
-      "name": "63rd Street Theme",
-      "url": "https://open.spotify.com/track/0kFEFWOd5bNB1PuHYaXooo"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -831,22 +847,6 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
         "name": "It's All Right!",
         "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 168013,
       "name": "Escapade",
       "url": "https://open.spotify.com/track/3Cdi6dbEiH09TW4rJFAb4Z"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "African Waltz",
-        "url": "https://open.spotify.com/album/5sl60zyjldirYBI1kKxN9f"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "This Here",
-      "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
         "name": "Light-Foot",
         "url": "https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "The Turnaround",
-        "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
+        "name": "African Waltz",
+        "url": "https://open.spotify.com/album/5sl60zyjldirYBI1kKxN9f"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 404213,
-      "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
+      "duration_ms": 180266,
+      "name": "This Here",
+      "url": "https://open.spotify.com/track/73ywxvRTfXvgj2WP33Ud3Y"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Hootin' 'N Tootin'",
-        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
-      },
-      "artists": [
-        {
-          "name": "Fred Jackson",
-          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
-        }
-      ],
-      "duration_ms": 239733,
-      "name": "Dippin' In The Bag",
-      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
         "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
         "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
       },
@@ -1039,6 +1023,38 @@
       "duration_ms": 304453,
       "name": "The Joker - Remastered",
       "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Workout",
+        "url": "https://open.spotify.com/album/2prCz4HRmedo4uyhAtXX9Q"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 647946,
+      "name": "Uh Huh - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Hootin' 'N Tootin'",
+        "url": "https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV"
+      },
+      "artists": [
+        {
+          "name": "Fred Jackson",
+          "url": "https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS"
+        }
+      ],
+      "duration_ms": 239733,
+      "name": "Dippin' In The Bag",
+      "url": "https://open.spotify.com/track/5Te1FEt3917pIOu651aLQj"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Ralph Bowen",
-        "url": "https://open.spotify.com/album/6Y1nWQufs1kJQknyOV3sQu"
-      },
-      "artists": [
-        {
-          "name": "Ralph Bowen",
-          "url": "https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX"
-        }
-      ],
-      "duration_ms": 416342,
-      "name": "A Pademonium of Parrots",
-      "url": "https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
         "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
+        "name": "Ralph Bowen",
+        "url": "https://open.spotify.com/album/6Y1nWQufs1kJQknyOV3sQu"
+      },
+      "artists": [
+        {
+          "name": "Ralph Bowen",
+          "url": "https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX"
+        }
+      ],
+      "duration_ms": 416342,
+      "name": "A Pademonium of Parrots",
+      "url": "https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -1119,6 +1135,22 @@
       "duration_ms": 265893,
       "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Mumbo Jumbo",
+      "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -1151,22 +1183,6 @@
       "duration_ms": 402013,
       "name": "Bee Blues",
       "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Mumbo Jumbo",
-      "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -1367,6 +1383,34 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
+        "name": "Greatest Jazz Albums",
+        "url": "https://open.spotify.com/album/3OIqcFsBLX94He7aqkhd4J"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 406373,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/207fJxGo6WmK3rFsCmvpN2"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
         "name": "Mondeo",
         "url": "https://open.spotify.com/album/3m4i9zRFmSutgZN78llWPt"
       },
@@ -1411,6 +1455,22 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
+        "name": "53",
+        "url": "https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "duration_ms": 182677,
+      "name": "Jump !",
+      "url": "https://open.spotify.com/track/5ZfjTUMHcnvRKy0FBxd6gs"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
         "name": "Lost in Translation",
         "url": "https://open.spotify.com/album/5ztmAaoF2ikqtGJJJ8KWcn"
       },
@@ -1427,22 +1487,6 @@
       "duration_ms": 168564,
       "name": "Broken Conversations",
       "url": "https://open.spotify.com/track/6RGjEDKAVrGpnKtLXcq9ta"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "53",
-        "url": "https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9"
-      },
-      "artists": [
-        {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
-        }
-      ],
-      "duration_ms": 182677,
-      "name": "Jump !",
-      "url": "https://open.spotify.com/track/5ZfjTUMHcnvRKy0FBxd6gs"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -1543,66 +1587,6 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
-        "name": "Flyger",
-        "url": "https://open.spotify.com/album/2cu6eKTA5JvJiE9wOroGhn"
-      },
-      "artists": [
-        {
-          "name": "Per Lindberg",
-          "url": "https://open.spotify.com/artist/1d6qfNgSpuYns0S6smGMrw"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "900",
-      "url": "https://open.spotify.com/track/0KoDN3WUZdpYRGnaH4vXwm"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "The New Boss Guitar",
-        "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "The Sweet Alice Blues",
-      "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "Third Set",
-        "url": "https://open.spotify.com/album/0Wv7KPJsuYJggFVul2CzNi"
-      },
-      "artists": [
-        {
-          "name": "Cedar Walton",
-          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
-        },
-        {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
-        },
-        {
-          "name": "Sam Jones",
-          "url": "https://open.spotify.com/artist/1kAv08slEx0DSJkSOrKlsY"
-        },
-        {
-          "name": "Billy Higgins",
-          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
-        }
-      ],
-      "duration_ms": 759960,
-      "name": "Bolivia",
-      "url": "https://open.spotify.com/track/3znm5SwKU1R0Pin9qkaweZ"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
         "name": "1963",
         "url": "https://open.spotify.com/album/5cAJIzjpg8LOLe7tHGeIKN"
       },
@@ -1635,6 +1619,66 @@
     {
       "added_at": "2022-11-11 13:08:02",
       "album": {
+        "name": "Flyger",
+        "url": "https://open.spotify.com/album/2cu6eKTA5JvJiE9wOroGhn"
+      },
+      "artists": [
+        {
+          "name": "Per Lindberg",
+          "url": "https://open.spotify.com/artist/1d6qfNgSpuYns0S6smGMrw"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "900",
+      "url": "https://open.spotify.com/track/0KoDN3WUZdpYRGnaH4vXwm"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "Third Set",
+        "url": "https://open.spotify.com/album/0Wv7KPJsuYJggFVul2CzNi"
+      },
+      "artists": [
+        {
+          "name": "Cedar Walton",
+          "url": "https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT"
+        },
+        {
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+        },
+        {
+          "name": "Sam Jones",
+          "url": "https://open.spotify.com/artist/1kAv08slEx0DSJkSOrKlsY"
+        },
+        {
+          "name": "Billy Higgins",
+          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
+        }
+      ],
+      "duration_ms": 759960,
+      "name": "Bolivia",
+      "url": "https://open.spotify.com/track/3znm5SwKU1R0Pin9qkaweZ"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
+        "name": "The New Boss Guitar",
+        "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 277173,
+      "name": "The Sweet Alice Blues",
+      "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
+    },
+    {
+      "added_at": "2022-11-11 13:08:02",
+      "album": {
         "name": "Warna",
         "url": "https://open.spotify.com/album/1AxMJlX259UQmCRRsD5jl5"
       },
@@ -1647,22 +1691,6 @@
       "duration_ms": 435986,
       "name": "Inner Urge",
       "url": "https://open.spotify.com/track/35DNc0UGHEBHXGFoNBpioc"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "The Natural Soul",
-        "url": "https://open.spotify.com/album/4L5BnNOFyRefwj2BO0uoTY"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 327026,
-      "name": "Nice 'N Greasy - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/33ozrtFTW9KSaujWpdALaR"
     },
     {
       "added_at": "2022-11-11 13:08:02",
@@ -1687,22 +1715,6 @@
       "duration_ms": 282762,
       "name": "Little Jump",
       "url": "https://open.spotify.com/track/5e1PSFh6Qrcr8K89Iy2vCm"
-    },
-    {
-      "added_at": "2022-11-11 13:08:02",
-      "album": {
-        "name": "Swedish Jazz Masters: Alla Mina Kompisar",
-        "url": "https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV"
-      },
-      "artists": [
-        {
-          "name": "Per 'Texas' Johansson",
-          "url": "https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T"
-        }
-      ],
-      "duration_ms": 391026,
-      "name": "Blues i oktaver",
-      "url": "https://open.spotify.com/track/2NoRSgmUgRS0Q9lnOQXT1k"
     }
   ],
   "unique_name": "Jazz in the Car",

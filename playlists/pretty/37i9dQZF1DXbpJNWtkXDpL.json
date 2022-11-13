@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a La Santa Grifa, nuestro artista Radar!",
-  "num_followers": 61288,
+  "num_followers": 61319,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk0MDkxNiwwMDAwMDAwMDFkZGYxNDg0ZWVhYzQyZWRmNDMwZDJlZDc1OWJlOTEz",
+  "snapshot_id": "MTY2ODI3MjQyMSwwMDAwMDAwMGViMjE1MWJiNDg2ZmExYTUzODNkYzQ1ODFkYThmOGJl",
   "tracks": [
     {
       "added_at": "2022-09-09 02:13:33",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
-      "added_at": "2022-11-12 05:32:42",
+      "added_at": "2022-11-08 20:55:16",
       "album": {
         "name": "Prenda del Alma - Spotify Singles",
         "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
@@ -125,6 +125,38 @@
       "url": "https://open.spotify.com/track/2hFYvGaFDdcv6tNPFtbBPi"
     },
     {
+      "added_at": "2022-11-12 17:00:21",
+      "album": {
+        "name": "El Fantasma",
+        "url": "https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I"
+      },
+      "artists": [
+        {
+          "name": "LOS MUCHACHOS",
+          "url": "https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi"
+        },
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "El Fantasma",
+      "url": "https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd"
+    },
+    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Morena",
@@ -139,22 +171,6 @@
       "duration_ms": 220273,
       "name": "Morena",
       "url": "https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -179,6 +195,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "K\u00f3digos",
         "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
       },
@@ -199,22 +231,6 @@
       "duration_ms": 227368,
       "name": "K\u00f3digos",
       "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
-    },
-    {
-      "added_at": "2022-06-20 16:54:02",
-      "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-08-01 05:00:00",
@@ -249,6 +265,22 @@
       "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
+      "added_at": "2022-06-20 16:54:02",
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
+    },
+    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Soy de Sinaloa",
@@ -263,38 +295,6 @@
       "duration_ms": 161690,
       "name": "Soy de Sinaloa",
       "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Mientras Duermes",
-        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 187447,
-      "name": "Mientras Duermes",
-      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -323,6 +323,22 @@
       "duration_ms": 222275,
       "name": "Lluvia De Micheladas",
       "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -381,22 +397,6 @@
       "url": "https://open.spotify.com/track/39Yj12OXiBmQf7JmNh6gnI"
     },
     {
-      "added_at": "2022-08-26 05:00:00",
-      "album": {
-        "name": "Dinero, Fama y Poder",
-        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 154115,
-      "name": "Dinero, Fama y Poder",
-      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
-    },
-    {
       "added_at": "2022-06-07 05:00:00",
       "album": {
         "name": "Y Te Lo Digo Yo",
@@ -451,22 +451,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "t\u00fa vales la pena",
-        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
+        "name": "Mientras Duermes",
+        "url": "https://open.spotify.com/album/3MZAzqL04CpxMuymwFdA8j"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        },
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 147180,
-      "name": "t\u00fa vales la pena",
-      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
+      "duration_ms": 187447,
+      "name": "Mientras Duermes",
+      "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -483,6 +479,26 @@
       "duration_ms": 173408,
       "name": "Fabulosa de Paris",
       "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "t\u00fa vales la pena",
+        "url": "https://open.spotify.com/album/5WjmPd7foWYVCiyxpJnk4r"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        },
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 147180,
+      "name": "t\u00fa vales la pena",
+      "url": "https://open.spotify.com/track/1ewVg7ZtI4rliY9kAaNQWt"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "H\u00edbrido",
-        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 174286,
-      "name": "Hoy Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
         "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
       },
@@ -565,6 +565,22 @@
       "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
     },
     {
+      "added_at": "2022-08-26 05:00:00",
+      "album": {
+        "name": "Dinero, Fama y Poder",
+        "url": "https://open.spotify.com/album/0trMnLMQ6UW9XiOkwqLrhL"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 154115,
+      "name": "Dinero, Fama y Poder",
+      "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
+    },
+    {
       "added_at": "2022-06-03 15:10:16",
       "album": {
         "name": "Salud Por Eso",
@@ -591,26 +607,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
       },
@@ -627,6 +623,26 @@
       "duration_ms": 166173,
       "name": "R9 Aleteo",
       "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 213658,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -685,6 +701,22 @@
       "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "H\u00edbrido",
+        "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 174286,
+      "name": "Hoy Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7jKegvohKUhAEh0PxoKnxG"
+    },
+    {
       "added_at": "2022-08-08 18:21:16",
       "album": {
         "name": "Morena",
@@ -723,26 +755,6 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2022-06-03 15:10:16",
-      "album": {
-        "name": "El Tony",
-        "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Daniel Vazquez",
-          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
-        }
-      ],
-      "duration_ms": 165442,
-      "name": "El Tony",
-      "url": "https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i"
     },
     {
       "added_at": "2022-05-13 21:33:14",

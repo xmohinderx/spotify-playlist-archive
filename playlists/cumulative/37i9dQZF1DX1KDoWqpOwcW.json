@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188661,
       "name": "A Trav\u00e9s del Vaso",
       "url": "https://open.spotify.com/track/2VVMspxwwDll5T082VPg13"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 236693,
       "name": "All The Way - Live In Chicago",
       "url": "https://open.spotify.com/track/6wmZ8nqB6WKL8sOqFoaqk9"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 143733,
       "name": "Bule bule",
       "url": "https://open.spotify.com/track/69nXXaMQ9MkyOFAkI4iqtw"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 206986,
       "name": "Dile",
       "url": "https://open.spotify.com/track/2H76zGXt2hHBeWWzbcgH1i"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "El Baile del Gorila",
       "url": "https://open.spotify.com/track/23oUr08MMdYcn9jRz39wYV"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 203226,
       "name": "El Toro Mambo",
       "url": "https://open.spotify.com/track/22QnPXq4oafjo6HjqU24bv"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 172546,
       "name": "El Toro Viejo - Huapango",
       "url": "https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 292800,
       "name": "El Venao",
       "url": "https://open.spotify.com/track/12Jg89d9Cz2qwTnxIbX03g"
@@ -900,6 +900,24 @@
     },
     {
       "album": {
+        "name": "4 ALL AGES: Fun Sing-a-Long Music",
+        "url": "https://open.spotify.com/album/6jvRW9TMq36Pa91hBINOLq"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "date_added": "2022-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "I'm A Believer - From \"Shrek\" Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/51vENLJkBCO5Rw3pc2SqW7"
+    },
+    {
+      "album": {
         "name": "Smash Mouth",
         "url": "https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH"
       },
@@ -947,7 +965,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 219666,
       "name": "Jump Around",
       "url": "https://open.spotify.com/track/3DjB1HJod8AA35UBqrC95A"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 218546,
       "name": "Jump Around - 30 Years Remaster",
       "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 192440,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 246733,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 176702,
       "name": "Scooby Doo Pa Pa (Remix)",
       "url": "https://open.spotify.com/track/3Jz2hF1Y0EnSJrrj61fSmg"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 232626,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/03OGe1S2a7i35BmuKbWaHk"
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 225720,
       "name": "Suavecito Suavecito",
       "url": "https://open.spotify.com/track/6cKWDVak6o362TElLvwtmU"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 91816,
       "name": "Take Me Out To The Ball Game",
       "url": "https://open.spotify.com/track/4o0k0mY8nrOrVz88thqP7R"
@@ -2295,7 +2313,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 308160,
       "name": "That's the Way (I Like It)",
       "url": "https://open.spotify.com/track/0RQTbMBgSq7xgdZSHFZg4R"
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 264306,
       "name": "The Rhythm of the Night",
       "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"

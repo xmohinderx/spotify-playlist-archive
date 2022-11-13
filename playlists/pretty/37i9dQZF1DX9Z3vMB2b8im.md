@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,291,498 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,491 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 12 | [Drive You Home](https://open.spotify.com/track/1xUTQQKrTrGc7JPUi5gWPg) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq), [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [Drive You Home](https://open.spotify.com/album/3uu5fit1E8Oa6Vv2bVwz8c) | 2:49 |
 | 13 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 |
 | 14 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
-| 15 | [For All You Give](https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give](https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR) | 3:11 |
+| 15 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 |
 | 16 | [Powders](https://open.spotify.com/track/42PXe38ikfPn8fsMmnMbpm) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 4:41 |
 | 17 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton Palm](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 |
 | 18 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 25 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
 | 26 | [Fake Moon](https://open.spotify.com/track/5CNRQl4e0b2mMF7Zz3f34U) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Fake Moon](https://open.spotify.com/album/0kfLXfbPt4wGJ8BmBXcPjx) | 2:14 |
 | 27 | [Peeling / Heaven](https://open.spotify.com/track/3FAB4VjDknhDzNNzOzdLTH) | [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Grace After a Party](https://open.spotify.com/album/6WJ22PCOzQ79tmQnI7sCKl) | 3:20 |
-| 28 | [El Invento](https://open.spotify.com/track/3MwFB6vQEDsOnK8pMF9SFi) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento EP](https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w) | 2:33 |
+| 28 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 |
 | 29 | [Pale Damp Cheeks](https://open.spotify.com/track/5RwjsoPluDen5DPyPdv32Q) | [Etaoin](https://open.spotify.com/artist/5V9BcFYORnSqjFtBgrpx01) | [Bedroom Walls](https://open.spotify.com/album/0cdwwrdKjoW1g9p4BdEKuy) | 3:33 |
 | 30 | [The Lucky One](https://open.spotify.com/track/7ykG7DK3hJB9RlznPZ9HNC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [The Lucky One](https://open.spotify.com/album/1HYyg1fjpUPVk1Tm9VRN1h) | 3:36 |
 | 31 | [Medication \(demo\)](https://open.spotify.com/track/6JQXhEiM8CuOUghiDmFRm3) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Medication \(demo\)](https://open.spotify.com/album/0CiScWsTD9BO0B7dtjU5sk) | 3:21 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 36 | [Smoke](https://open.spotify.com/track/24Avnz5JAgVmH0xNBsXUvH) | [Rona Mac](https://open.spotify.com/artist/0FMzSeL7vGgUfFqkBk9FaF) | [Smoke](https://open.spotify.com/album/6bbFvcKFbe4xqSxGzyIegJ) | 3:38 |
 | 37 | [Control Freak](https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Control Freak](https://open.spotify.com/album/0BO0643aYpi1fi3eRP0wn0) | 3:27 |
 | 38 | [nobody but me \- postcards version](https://open.spotify.com/track/2vreSdaWBoscTQeeVi4YnP) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV), [Sammy Copley](https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN) | [nobody but me \(postcards version\)](https://open.spotify.com/album/2VAfLuYhx74BFVcH68X3f9) | 3:15 |
-| 39 | [I Wanna See You Smile](https://open.spotify.com/track/4Y5VLhWBJxx2Z2kDSCP1Vr) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [I Wanna See You Smile](https://open.spotify.com/album/6JVHWSIdvnjTzdgGlX8312) | 3:19 |
+| 39 | [I Wanna See You Smile](https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq) | 3:19 |
 | 40 | [JOY \(Not Sure What I'm Going Through\)](https://open.spotify.com/track/1uy6RVUC2Qb70rlrmr9ZFh) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [Human Again](https://open.spotify.com/album/2aiablb9OlYooQGVNylgid) | 3:17 |
-| 41 | [Heavy](https://open.spotify.com/track/3p3uYUc79q8dAiVnduMCoc) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 4:04 |
+| 41 | [Heavy](https://open.spotify.com/track/7y7Wd6SDy39DHRfRU20GNU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Heavy](https://open.spotify.com/album/1JvNzY5bVTLty67NvTW4CT) | 4:04 |
 | 42 | [peace](https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:54 |
 | 43 | [If I Met Your Shadow](https://open.spotify.com/track/4O5utxzrwef2IxmUzp5JaN) | [Tom Bright](https://open.spotify.com/artist/5FeiISr6o8mHNSTNtwKceS) | [Legacy](https://open.spotify.com/album/3OHunaAZMGNjh7oOzL5Oum) | 2:14 |
 | 44 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 47 | [Bygone](https://open.spotify.com/track/3HIKGBx8u4F8o5kLyPmnez) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu), [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [Bygone](https://open.spotify.com/album/4VQ6zTBdeimyD77EmvnsrM) | 2:51 |
 | 48 | [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 |
 | 49 | [Losing You](https://open.spotify.com/track/0YXxshSez93ufAdxbfQfRd) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Before The Dawn](https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX) | 2:58 |
-| 50 | [I Don't Know Why](https://open.spotify.com/track/4QbhVyTI7X8tXUjt1De4fa) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [Lichtenberg Figures](https://open.spotify.com/album/0uR6QYGmCHT2l0osmTyLrS) | 3:24 |
+| 50 | [I Don't Know Why](https://open.spotify.com/track/6qm17pxCWOfHIkKOdnLaoQ) | [Sunflower Thieves](https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW) | [I Don't Know Why](https://open.spotify.com/album/4uQKSajaSAXIcf9RzvbHa9) | 3:24 |
 | 51 | [Remember Fall In Montreal](https://open.spotify.com/track/7hhxzsZse96VD6lr4tullS) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 5:01 |
 | 52 | [Lava Lamps](https://open.spotify.com/track/1AchSbi84VCxQSbBH9q6MJ) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Sign of Growth](https://open.spotify.com/album/4QXoXt2nNZ53cAM9lGB6Oj) | 2:53 |
 | 53 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Lonely Star](https://open.spotify.com/track/7Amz41doI0DKoXLrF0KvYK) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:57 |
 | 80 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 
-Snapshot ID: `MTY2NTc3MzE0MywwMDAwMDAwMGYyZGQ2MjFhYTI5MmY3ZTkxNjJkNzBiMWZlNGIwODk0`
+Snapshot ID: `MTY2NTc3MzE0MywwMDAwMDAwMGUwYjhjMGNkYTJmZDBjMzM5MmUzODkxMmUyM2Y4NTE3`

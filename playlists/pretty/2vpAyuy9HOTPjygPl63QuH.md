@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,391 likes - 20 songs - 1 hr 11 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,397 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [In The Yuma \(feat\. Aatig\)](https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF) | 2:36 |
 | 2 | [Main Ingredients](https://open.spotify.com/track/3ZD0OYOs25acO3EcZZqXhB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Jack The House 3](https://open.spotify.com/album/2JLEygazGNxcACvaFLNRmC) | 3:12 |
 | 3 | [Back Once Again \- Original Mix](https://open.spotify.com/track/1RuDzBhdUKTWxy3rtDySi4) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Back Once Again](https://open.spotify.com/album/5NAxUaUf8fLUOSK56DsY9E) | 4:00 |
-| 4 | [Talk To Me](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 |
+| 4 | [Talk To Me \(with BRUX\)](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me \(with BRUX\)](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 |
 | 5 | [Release Your Mind](https://open.spotify.com/track/2oJK43l5liz2oUAON7jqUN) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Release Your Mind](https://open.spotify.com/album/6WqhYTfrCoDYjzabqiGKvJ) | 6:40 |
 | 6 | [Jack On The Line](https://open.spotify.com/track/3am9Xqm1H9bEpcl6g4m7tI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Jack On The Line](https://open.spotify.com/album/4IGGQibQn3uUOhCQOLtwFS) | 4:23 |
 | 7 | [euphoric.](https://open.spotify.com/track/3eZ4Nxq8E44AayXQ7Ph5t1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '22](https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q) | 6:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,877 likes - 132 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,159 likes - 132 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 73 | [Suspire](https://open.spotify.com/track/2zKqrmNdj8oIgzBnLWBumi) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Suspire](https://open.spotify.com/album/6nhSCmmNv2XicER2xdJlv9) | 2:13 |
 | 74 | [Lost](https://open.spotify.com/track/7nC2EOpMnpDT2DkvniimSm) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Lost](https://open.spotify.com/album/2RnNYYYXt2ZYpBmR645OWT) | 2:41 |
 | 75 | [Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, "Mélodie" \(arr\. I\. Friedman for piano\)](https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8) | [Ignaz Friedman](https://open.spotify.com/artist/5AKZimIhSv9dORIVH1MChg), [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Friedman: Piano Transcriptions](https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b) | 4:11 |
-| 76 | [Look Inside Yourself](https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs) | 3:38 |
+| 76 | [Look Inside Yourself](https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 3:38 |
 | 77 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 |
 | 78 | [æfre](https://open.spotify.com/track/2irbT1BSYaIEF44PlyKaoM) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP) | [æfre](https://open.spotify.com/album/4qvfeDEPDNmJFIJdOjGoaW) | 3:06 |
-| 79 | [I wanted you to know](https://open.spotify.com/track/2p5TmYuHF3SfGTuyXdcjcE) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Piano for Studying](https://open.spotify.com/album/5hCVxneKK97yVdfGHL4wpv) | 4:33 |
+| 79 | [I wanted you to know \(on Yamaha Upright, 1981\)](https://open.spotify.com/track/3VhKqW9j29B7IloNSeyHCB) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations \(on 11 pianos\)](https://open.spotify.com/album/27ghrrRiIzYGcnuP86MTdO) | 4:33 |
 | 80 | [Inventing Light](https://open.spotify.com/track/0yquufspHuwdG9o7hVNv26) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Inventing Light](https://open.spotify.com/album/0hoJC8NU80jLnsw8l5iZq0) | 3:02 |
 | 81 | [Pssst!](https://open.spotify.com/track/3A7x2fHEeuaNWDgoSgNsd8) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Schlafen](https://open.spotify.com/album/3oXSYZ0SMvcgvhTuWrgxEw) | 4:08 |
 | 82 | [As Wind Echoes Over Snow](https://open.spotify.com/track/31sFVhpsghiYz85q6pdxao) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Winter Poetry](https://open.spotify.com/album/3UAMIANsQQemUfXOyTe5TU) | 3:41 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 131 | [An Ending, a Beginning](https://open.spotify.com/track/2t6aXckrRWNnKb0ysc1vBc) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:08 |
 | 132 | [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDA5NzVlNGViZTFkMzU2Yjk3OWFiZGM2YWRhMWRlNGRj`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDA3NWE0ZWNiNzBhMDNiYjg2NmUyY2E3NDM0YWZjNzUz`

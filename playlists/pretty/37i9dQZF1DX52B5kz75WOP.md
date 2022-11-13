@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 
 > Curated by <a href="spotify:artist:6ZLTlhejhndI4Rh53vYhrY>Ozzy Osbourne</a> for his beloved Pomeranian, Rocky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744 likes - 17 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 745 likes - 17 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,6 +24,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 | 14 | [Dogs](https://open.spotify.com/track/1QQAWClyLkehpu1QHIMH1t) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C) | 3:47 |
 | 15 | [Rocky Mountain Way](https://open.spotify.com/track/5sGCvSlXLmbZACj2cQwUY5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under Cover](https://open.spotify.com/album/5yIXVMM70ay1mQ5kCWpidF) | 4:32 |
 | 16 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
-| 17 | [Crazy Train \- 2002 Version](https://open.spotify.com/track/09nx3UW8Mufo0Nq0iTKt5x) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Osbourne Family Album \(Clean Version\)](https://open.spotify.com/album/24nhPPOmRDre6oBvhKKRQA) | 4:49 |
+| 17 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 
-Snapshot ID: `MTU3OTAyOTQ1NiwwMDAwMDAwMGU0NzI5MmU0OWYyNjFjMjljNzI2NjRlYjEyY2YxMjU1`
+Snapshot ID: `MTU3OTAyOTQ1NiwwMDAwMDAwMGFjMmI4YTU0ZGJlODJjOTYwNDBiYzY5OGVlMDA4ZDhk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi hits with Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,997 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,481 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 46 | [Love Sick](https://open.spotify.com/track/1skGwRjc7wYY70PJCAkKMr) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:52 |
 | 47 | [Kina Chir](https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [The Lifestyle](https://open.spotify.com/album/1zIvQYNdDnl4f7iF2s6HHj) | 3:36 |
 | 48 | [Parshawan](https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Parshawan](https://open.spotify.com/album/6w6MwWpj1oR3lKpQPc8caY) | 2:48 |
-| 49 | [Wait & Watch](https://open.spotify.com/track/5wVrIJK7M324F7iaNGFVrI) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [End and Other Hits](https://open.spotify.com/album/16UX1fEBG5TKRCoZ8i4azk) | 2:32 |
+| 49 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/0NMM1rVmULQqE38GOz6e1t) | 2:32 |
 | 50 | [Shadow](https://open.spotify.com/track/0NWWEG9qTxDKNARVQf6eDS) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:45 |
 | 51 | [Black Effect](https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Black Effect](https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj) | 2:55 |
 | 52 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Navi Navi Yaari](https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:35 |
 | 101 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 
-Snapshot ID: `MTY2Nzg5MjU4MSwwMDAwMDAwMDQ5NThmNTU3ZmNjNGI3N2NlZWRkNDJkZTk3MDQ0ZTRl`
+Snapshot ID: `MTY2Nzg5MjU4MSwwMDAwMDAwMDViYTE5YjYzNTBmZWFkNzcwOGRlZDZhOWVhYjRlZDYy`

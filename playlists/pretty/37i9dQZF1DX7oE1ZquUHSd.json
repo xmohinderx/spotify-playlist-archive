@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 92976,
+  "num_followers": 93164,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMDBlMGVkM2E1YjdmODVjZDliODY4MzE1ZmUzN2ZhOGMw",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGI0MGViOTFmMmQ5MzNiYTVmYjI3YjgwN2VhMGQxNTI5",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -103,6 +103,26 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Loca Remix",
         "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 346460,
       "name": "Loca - Remix",
       "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
-      },
-      "artists": [
-        {
-          "name": "Millonario & W. Corona",
-          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -275,38 +275,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Grandes Ligas",
-        "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "B-Real",
-          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Grandes Ligas",
-      "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -335,6 +303,38 @@
       "duration_ms": 246382,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Grandes Ligas",
+        "url": "https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "B-Real",
+          "url": "https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Grandes Ligas",
+      "url": "https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Millonario Sin Corona",
+        "url": "https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Chingo de Cheve",
+      "url": "https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Techymuv",
         "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
       },
@@ -1107,34 +1123,6 @@
       "duration_ms": 196105,
       "name": "Mextasis",
       "url": "https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "TATOOL",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        }
-      ],
-      "duration_ms": 228097,
-      "name": "G.P.S. - con Aleman",
-      "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1179,6 +1167,34 @@
       "duration_ms": 255693,
       "name": "Tres Delinquentes - Radio Version",
       "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "duration_ms": 228097,
+      "name": "G.P.S. - con Aleman",
+      "url": "https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "For Life",
         "url": "https://open.spotify.com/album/1IfdGBB0FWhM38z7s5DuAH"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 187277,
       "name": "Estilo Libre",
       "url": "https://open.spotify.com/track/2KxvTs9bHxy96HXROF23g2"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1319,6 +1335,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te"
       },
@@ -1351,22 +1383,6 @@
       "duration_ms": 176773,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Buena Suerte",
         "url": "https://open.spotify.com/album/5Vy1jcdgMP8JJYglINGPga"
       },
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Todo Bien",
-        "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
       },
       "artists": [
         {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
+      "duration_ms": 245333,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1487,22 +1487,6 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Yo Tengo Un Angel",
-        "url": "https://open.spotify.com/album/52ySQBMA0jzIySLWZr1hye"
-      },
-      "artists": [
-        {
-          "name": "Gallego",
-          "url": "https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC"
-        }
-      ],
-      "duration_ms": 248110,
-      "name": "Yo Tengo Un Angel",
-      "url": "https://open.spotify.com/track/2Dh2aaBFY53sJQQ3kFVjU1"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "No Copio",
+        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 205255,
+      "name": "No Copio",
+      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Poesia Difusa",
         "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 309606,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "No Copio",
-        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 205255,
-      "name": "No Copio",
-      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1679,22 +1663,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Henceforth",
-        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Fue un Placer",
-      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Mi Vicio",
         "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
       },
@@ -1707,6 +1675,54 @@
       "duration_ms": 222066,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
+      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 269160,
+      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
+      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Henceforth",
+        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fue un Placer",
+      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1743,6 +1759,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Un D\u00eda En Suburbia",
+        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 276120,
+      "name": "Efectos Vocales",
+      "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "C\u00edrculo Vicioso",
         "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
       },
@@ -1755,6 +1787,22 @@
       "duration_ms": 263023,
       "name": "De Pe a Pa",
       "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Teatro Del Barrio",
+        "url": "https://open.spotify.com/album/1jAZUMOLC4V5NdoB2HTj9u"
+      },
+      "artists": [
+        {
+          "name": "Gallego",
+          "url": "https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6iqDsVcJghyQ1DdQcUR5ic"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1775,6 +1823,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Unidad 9",
         "url": "https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ"
       },
@@ -1787,70 +1851,6 @@
       "duration_ms": 160470,
       "name": "Unidad 9",
       "url": "https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
-      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Serio",
-        "url": "https://open.spotify.com/album/1rSmB2J6FBTsH9NOCV24xW"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "\u5149 Luz",
-      "url": "https://open.spotify.com/track/5aF2hoUHaU9GainPXIZDMV"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Malamarismo",
-        "url": "https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Por La Noche",
-      "url": "https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Aquel Que Habia Muerto",
-        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 371000,
-      "name": "Tony Presidio",
-      "url": "https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

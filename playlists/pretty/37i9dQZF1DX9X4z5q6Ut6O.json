@@ -1,12 +1,12 @@
 {
   "description": "Caminando de la mano... eres mi raz\u00f3n de ser.",
-  "num_followers": 90174,
+  "num_followers": 90221,
   "original_name": "Mi Raz\u00f3n de Ser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzM0MjgwNCwwMDAwMDAwMDVhMTgwNzM2MDI0YjdlNTNmMzMxOWMxZjJiMzVmNWFl",
+  "snapshot_id": "MTY1MzM0MjgwNCwwMDAwMDAwMDQwM2UxYjBmMmQxZjJmZjY3ODc1MjE4Mzc5ZTdiMDc3",
   "tracks": [
     {
       "added_at": "2021-12-03 19:11:51",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
-        "name": "Un Cantautor Con Alma de Triunfador",
-        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 272920,
-      "name": "Aliado Del Tiempo",
-      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
         "name": "Acurrucar",
         "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Un Cantautor Con Alma de Triunfador",
+        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
+      },
+      "artists": [
+        {
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+        }
+      ],
+      "duration_ms": 272920,
+      "name": "Aliado Del Tiempo",
+      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -523,6 +523,38 @@
       "duration_ms": 234360,
       "name": "Siempre Te Voy A Querer",
       "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "La Banda Grande de la Sultana del Norte",
+        "url": "https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 216226,
+      "name": "Broche de Oro",
+      "url": "https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -699,22 +731,6 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
-        "name": "Lo S\u00e9",
-        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 143081,
-      "name": "Voy a Amarte",
-      "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -727,6 +743,22 @@
       "duration_ms": 145560,
       "name": "Ma\u00f1ana Voy A Conquistarla",
       "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 143081,
+      "name": "Voy a Amarte",
+      "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -759,6 +791,22 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "A Mi Me Interesa",
+      "url": "https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -875,22 +923,6 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
-        "name": "En Peligro De Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/0ry0G7C5xL0zOukvP0yPjt"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 272226,
-      "name": "Te Amo (Para Siempre)",
-      "url": "https://open.spotify.com/track/05E5g4x7VLGiQlFN2drYHW"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
         "name": "Me Est\u00e1 Gustando",
         "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
       },
@@ -903,6 +935,22 @@
       "duration_ms": 180146,
       "name": "Me Est\u00e1 Gustando",
       "url": "https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "En Peligro De Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/0ry0G7C5xL0zOukvP0yPjt"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 272226,
+      "name": "Te Amo (Para Siempre)",
+      "url": "https://open.spotify.com/track/05E5g4x7VLGiQlFN2drYHW"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -1071,6 +1119,38 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 232413,
+      "name": "Lo Mejor Que Me Paso\u0301",
+      "url": "https://open.spotify.com/track/2q6Yn01lr8bZK1hVVKFvat"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/1Hwa4ULKX8lrKMgFpgS5Ph"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
         "name": "Un Viaje Diferente",
         "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
       },
@@ -1099,54 +1179,6 @@
       "duration_ms": 209777,
       "name": "Volv\u00ed A Nacer - Live",
       "url": "https://open.spotify.com/track/5m2yKkMDJgCL5yAY1BVkoV"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 232413,
-      "name": "Lo Mejor Que Me Paso\u0301",
-      "url": "https://open.spotify.com/track/2q6Yn01lr8bZK1hVVKFvat"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
-        "name": "Tusa y Tequila",
-        "url": "https://open.spotify.com/album/76pxa9SGCrMFTgJE4r4ESx"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo - Balada",
-      "url": "https://open.spotify.com/track/19lD7swUHH4kgdnzlwsawp"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
-        "name": "Broche de Oro",
-        "url": "https://open.spotify.com/album/2jiSvUa6vOsuEk3OXG2VYY"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Broche de Oro",
-      "url": "https://open.spotify.com/track/4WB9JuTaMwjQH11rQ1Y64D"
     },
     {
       "added_at": "2021-12-03 19:11:51",
@@ -1183,38 +1215,6 @@
       "duration_ms": 184973,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/5m6szBmTaELvhSmq41oAaf"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
-        "name": "Happy Hour Romantic",
-        "url": "https://open.spotify.com/album/24ipFl2Z5DGtYBtK2kkZUe"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 250213,
-      "name": "Sobre Mis Pies",
-      "url": "https://open.spotify.com/track/72AvgE2AiYtr3x61TIqs7U"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
-        "name": "Me Interesa",
-        "url": "https://open.spotify.com/album/0DBgEMfzVpQMmoUTvbLkmC"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 188316,
-      "name": "Me Interesa",
-      "url": "https://open.spotify.com/track/02CewGNR8uzOw1YUqtfsLk"
     },
     {
       "added_at": "2021-12-03 19:11:51",

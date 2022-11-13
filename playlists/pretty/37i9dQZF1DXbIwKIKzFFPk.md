@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,213 likes - 88 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,466 likes - 88 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 27 | [diago 45 degrees tango](https://open.spotify.com/track/3l9FlLDSjF5MvIeszmuLnh) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 1:46 |
 | 28 | [サンキュー!!](https://open.spotify.com/track/1gfuwVIBY117gPgpmsLUiy) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [サンキュー!!](https://open.spotify.com/album/0Koe1vDstYuSZXtI8yDlPy) | 4:13 |
 | 29 | [ほうき星](https://open.spotify.com/track/3nfZrNSXZfonDEA9RuzTOq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [ほうき星 / タッチ BESTタッグ](https://open.spotify.com/album/5lBe0TGgWsuJlM9eOYNOcD) | 3:17 |
-| 30 | [happypeople](https://open.spotify.com/track/6pXikUvuUL4V1RXiS5EH8a) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [Happy People](https://open.spotify.com/album/4Y6iNUjEXLMeoKinDhEzDP) | 3:47 |
+| 30 | [happypeople](https://open.spotify.com/track/4K8eSyKrx3KyS4GltSZkyT) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [Singles 2002\-2006](https://open.spotify.com/album/4EAib6okgPvzlgs3kCLrTo) | 3:43 |
 | 31 | [LIFE](https://open.spotify.com/track/1BFTK2ODlocCHKGKGwcJNr) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [LIFE](https://open.spotify.com/album/1zvQbIQuOKyAe6wxJM7TjA) | 4:03 |
 | 32 | [マイペース](https://open.spotify.com/track/6CpWkr7H0bnpAUexThcRey) | [SunSet Swish](https://open.spotify.com/artist/6BP2pX1i8U6yZHXRvStQ74) | [マイペース](https://open.spotify.com/album/5WqPeHtrQ7S54vcKQkQ1ph) | 4:25 |
 | 33 | [HANABI](https://open.spotify.com/track/42NuI6ghNzx6dctpMIuptn) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [HANABI](https://open.spotify.com/album/3ylqm2z6GrWFhPIqQIIPbk) | 4:27 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 87 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 |
 | 88 | [La distancia para un duelo](https://open.spotify.com/track/3c391J2d1gnfL0qbjqbPA6) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:57 |
 
-Snapshot ID: `MTY2NjMzODM1NSwwMDAwMDAwMDA2MDUwYTc1NDM4YmE0ZGVlM2Q2Y2YxNDAwNWU2OWQ5`
+Snapshot ID: `MTY2NjMzODM1NSwwMDAwMDAwMGY5Yjk4ZjkxMGY1ZjczZjFkYzU2ZjhkM2RlODhmYmI1`

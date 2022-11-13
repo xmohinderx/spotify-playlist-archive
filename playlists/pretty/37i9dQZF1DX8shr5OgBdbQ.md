@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,441 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,618 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 45 | [Haul Away the Whale](https://open.spotify.com/track/4LA7dTvssOGgLMthwbkTGX) | [Jimmy Rankin](https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU) | [Moving East](https://open.spotify.com/album/0JoCnLJNYqqClS0WDm32Qt) | 4:22 |
 | 46 | [Dead Horse](https://open.spotify.com/track/7MSpEzjmxk6cTyd2Wl06IM) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:07 |
 | 47 | [The Forester](https://open.spotify.com/track/5umBVyJjhaz4ECIyFhUFsq) | [Ellen Cohn](https://open.spotify.com/artist/35WtfEvSZ2J9LXBE7WnVcu) | [Sea Chanties and Forecastle Songs at Mystic Seaport](https://open.spotify.com/album/5xf3FzJxt39U0zqGuPmIgP) | 0:43 |
-| 48 | [Wellerman](https://open.spotify.com/track/2mSJqOCHxWfVkXYUXja92I) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Seemannslieder / Sea Shanty](https://open.spotify.com/album/3nagOcNnsjwAseelaXXKcW) | 2:16 |
+| 48 | [Wellerman](https://open.spotify.com/track/6ZblDQM0Gq0daaPAwuHOmD) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind And Water](https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR) | 2:16 |
 | 49 | [BULLY IN THE ALLEY](https://open.spotify.com/track/14YMhhz4OzzkjUVJqSVHkX) | [Kimber's Men](https://open.spotify.com/artist/1cwHLCOp0xUtjZjSMycdNa) | [KIMBER'S MEN](https://open.spotify.com/album/701xmuIZjTLozTRMKvPq79) | 3:41 |
 | 50 | [All For Me Grog](https://open.spotify.com/track/3qLrwfaXYmMj1k3qD8CRFN) | [The X\-Seamen's Institute](https://open.spotify.com/artist/749MWOmKbd9KMbVuLZztYX) | [Sing at the South Street Seaport](https://open.spotify.com/album/2vD7zxJHiATVa9aGBKL3b0) | 2:58 |
 | 51 | [Randy Dandy Oh](https://open.spotify.com/track/6Fv0O8eHNcWO1DmF0EMrRc) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:35 |
-| 52 | [The Voyage of the James Caird](https://open.spotify.com/track/1fbZTkb59Ak6iRxMGaMhn4) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [The Weight of Many Winters](https://open.spotify.com/album/3lF1DEsmnHVH3smDy61ZM5) | 4:50 |
+| 52 | [The Voyage of the James Caird](https://open.spotify.com/track/0SYC9Cmjty5bKDQ6mqj3nw) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Seasons](https://open.spotify.com/album/1M6FxxDFYxCn1DYwOXqnjs) | 4:50 |
 | 53 | [Pump Shanty](https://open.spotify.com/track/7EJGWpYxtTOrJSEA09ihGZ) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [Songs For Seafarers](https://open.spotify.com/album/4PEk6CidXOxiJOPrKPOuEg) | 3:02 |
 | 54 | [Yo Ho \(A Pirate's Life for Me\)](https://open.spotify.com/track/35zjgo7EZJ84SgBSKD7TQT) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Disney's Ultimate Swashbuckler Collection](https://open.spotify.com/album/7AARXLsjtDsT3TloDKsuau) | 3:21 |
 | 55 | [Roll, Boys, Roll!](https://open.spotify.com/track/78oB43ccLvINGO48J6E7j7) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Clayton Kennedy](https://open.spotify.com/artist/3ZBJsOEjp8s1b3aQn4sE4U), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition, Vol\. 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB) | 1:55 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 65 | [Bring 'Em Down](https://open.spotify.com/track/21tewDzoqmfJ1jRK4MkJA5) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [White Horses](https://open.spotify.com/album/4xSV4Rj2wMQq31PUTXfvG0) | 1:55 |
 | 66 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 |
 
-Snapshot ID: `MTY2MDc2MzMyOCwwMDAwMDAwMGQ0ZjBhMGZiYTg5ZjAxNDhlNDFjNDBjYjE0ZDBlYjgz`
+Snapshot ID: `MTY2MDc2MzMyOCwwMDAwMDAwMDdiZDdhMDYxNTkwNDU5Y2NhMWRiMjdiMTMwNDA1NjEw`

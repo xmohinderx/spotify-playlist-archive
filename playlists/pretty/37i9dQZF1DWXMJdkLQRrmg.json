@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. Cover: Wolf Alice",
-  "num_followers": 290076,
+  "num_followers": 290150,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMGQ3Yjg4MjJlNDExMGY0ODJlOTJhOGFlNjk3ZDA2NWM5",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDdhNDQ1MmVkYzk5MWYwOGVlZmExMGZkMzcwNDFjOWYy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -91,8 +91,8 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Sticky Fingers (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0ucOpNNckY0op5B1yfW6pv"
+        "name": "Sticky Fingers (Deluxe)",
+        "url": "https://open.spotify.com/album/5t59EkgjG0CEwuiCCQRkOj"
       },
       "artists": [
         {
@@ -102,7 +102,7 @@
       ],
       "duration_ms": 347493,
       "name": "Wild Horses - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PNiuskxaIowPmVDAKr8mU"
+      "url": "https://open.spotify.com/track/6iMqdc7qFspNW9Y5wnQP8d"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -151,6 +151,22 @@
       "duration_ms": 255066,
       "name": "One More Light",
       "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -219,22 +235,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "Impossible (Orchestral Version) [Live at Abbey Road]",
         "url": "https://open.spotify.com/album/6fZ0N6R2LBIIeUYlz5uQjJ"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 179541,
       "name": "If I Die Tomorrow",
       "url": "https://open.spotify.com/track/0VKpmchcyKYQ1ZalAKnfhT"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 200066,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -335,6 +351,22 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -351,22 +383,6 @@
       "duration_ms": 174991,
       "name": "maybe (feat. Bring Me The Horizon) - acoustic version",
       "url": "https://open.spotify.com/track/42zvj6KEuxB5ZSa5ea0Lyh"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -419,22 +435,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "abcdefu (chill)",
         "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 176765,
       "name": "abcdefu (chill)",
       "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Same Kind Of Different",
-        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 241292,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -483,6 +467,22 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/24QtdNLprYc0U57zdMcQoc"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 277733,
       "name": "Black Hole Sun - Recorded Live At Red Robinson Show Theatre, Vancouver, Canada on April 30, 2011",
       "url": "https://open.spotify.com/track/5p0s4na5wJHnaNw9azmiQm"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Same Kind Of Different",
+        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 241292,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 99226,
-      "name": "Seaside",
-      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
         "name": "Bite Me (Acoustic)",
         "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 189003,
       "name": "Bite Me - Acoustic",
       "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 99226,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -803,26 +819,6 @@
       "duration_ms": 201186,
       "name": "Behind Your Walls - Acoustic",
       "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 259188,
-      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     }
   ],
   "unique_name": "Stripped Down",

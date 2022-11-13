@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 15189,
+  "num_followers": 15303,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMDYyNiwwMDAwMDAwMDhiNjc4NDYyODcyNWI1OWY3ZmVjM2M1MDU4MDZmMGFm",
+  "snapshot_id": "MTY2ODExMDYyNiwwMDAwMDAwMGE3M2RhNjRkOWViMDZhMWVkMmY2YWMyODFlYzAyMTk3",
   "tracks": [
     {
       "added_at": "2022-11-10 20:03:46",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 157144,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/5W2YdxPUqmzYFELNQF95Dt"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -907,22 +907,22 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "clueless",
-        "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
+        "name": "bad idea (feat. blackwinterwells)",
+        "url": "https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10"
       },
       "artists": [
         {
-          "name": "kuru",
-          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         },
         {
-          "name": "kurtains",
-          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+          "name": "blackwinterwells",
+          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
         }
       ],
-      "duration_ms": 127634,
-      "name": "clueless",
-      "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
+      "duration_ms": 69041,
+      "name": "bad idea (feat. blackwinterwells)",
+      "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -959,18 +959,22 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+        "name": "clueless",
+        "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
       },
       "artists": [
         {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+          "name": "kuru",
+          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
         }
       ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
+      "duration_ms": 127634,
+      "name": "clueless",
+      "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -995,22 +999,18 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "bad idea (feat. blackwinterwells)",
-        "url": "https://open.spotify.com/album/7AHNBk7kZBFAwZH1UNtf10"
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
       },
       "artists": [
         {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
         }
       ],
-      "duration_ms": 69041,
-      "name": "bad idea (feat. blackwinterwells)",
-      "url": "https://open.spotify.com/track/21dQoUNcNgkFe52pGmuXRB"
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
-        "name": "Drive-By Lullabies",
-        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "from paris, with love",
-      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
         "name": "Kyoto (Glitch Gum Remix)",
         "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
+        "name": "Drive-By Lullabies",
+        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "from paris, with love",
+      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
     },
     {
       "added_at": "2022-11-10 20:03:46",
@@ -1315,6 +1315,30 @@
     {
       "added_at": "2022-11-10 20:03:46",
       "album": {
+        "name": "Good Luck (Deluxe)",
+        "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
+    },
+    {
+      "added_at": "2022-11-10 20:03:46",
+      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -1343,34 +1367,6 @@
       "duration_ms": 137142,
       "name": "Second hand embarrassment",
       "url": "https://open.spotify.com/track/7tVMsJriHeO3DoPV1d7L1j"
-    },
-    {
-      "added_at": "2022-11-10 20:03:46",
-      "album": {
-        "name": "Imgonnagetmyrevenge",
-        "url": "https://open.spotify.com/album/3hz9NaG7XUIY5QfRQVEPbY"
-      },
-      "artists": [
-        {
-          "name": "d0llywood1",
-          "url": "https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc"
-        },
-        {
-          "name": "Alice Gas",
-          "url": "https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
-        }
-      ],
-      "duration_ms": 195657,
-      "name": "Imgonnagetmyrevenge",
-      "url": "https://open.spotify.com/track/5X3NLqODCmjLmsGTzB3gks"
     }
   ],
   "unique_name": "Hyperpop Classics",

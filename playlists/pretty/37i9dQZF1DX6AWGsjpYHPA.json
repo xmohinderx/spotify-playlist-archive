@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 89467,
+  "num_followers": 89530,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDA1ZWEwOGQxYTQ3ODhiMDgwMzZiZjdkMDU2Y2YxOTRh",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMGM2MzVlNzZmODcyYjY2YjI4MDljZjM4NDQ3ZDg0ZmQ1",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Nova / Moth",
-        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Nova / Moth",
+        "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -523,6 +523,26 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -691,6 +711,22 @@
       "duration_ms": 166200,
       "name": "Romeo (feat. Bas)",
       "url": "https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/1SCoPxlKCVvW2DqWI2Ddfu"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/3nXapkwJPBvHDG5u3PLRGp"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -923,26 +959,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "A Moment Of Mystery (feat. Toro y Moi)",
-      "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -975,6 +991,26 @@
       "duration_ms": 273546,
       "name": "Constant Surprises",
       "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "A Moment Of Mystery (feat. Toro y Moi)",
+      "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1279,38 +1315,6 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "La Perla",
-        "url": "https://open.spotify.com/album/4N2nM5QZXYNbWPtxOADiAw"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 327096,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Remix",
-        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 384986,
-      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
-      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     }
   ],
   "unique_name": "Turntable",

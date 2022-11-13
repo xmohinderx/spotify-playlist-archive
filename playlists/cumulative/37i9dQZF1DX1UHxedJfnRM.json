@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 229945,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 229945,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/1B9w6cYYuegB9HlZ0ORQZN"
@@ -727,6 +727,28 @@
       "duration_ms": 225914,
       "name": "Esc\u00fachame Mi Amor - (Versi\u00f3n Salsa)",
       "url": "https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN"
+    },
+    {
+      "album": {
+        "name": "Ese Hombre",
+        "url": "https://open.spotify.com/album/7sBMGYMGE2bJLQwjoc2o0c"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        },
+        {
+          "name": "Los Barraza",
+          "url": "https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw"
     },
     {
       "album": {
@@ -1489,7 +1511,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 277524,
       "name": "Por Ese Hombre",
       "url": "https://open.spotify.com/track/4lc937nnV8vRbIF7oJznNU"
@@ -1587,7 +1609,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 295960,
       "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
       "url": "https://open.spotify.com/track/1TXd3ke6yYLzk0ukD2BX9b"
@@ -1609,7 +1631,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 296373,
       "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
       "url": "https://open.spotify.com/track/3kf8OfRNZwY9edRpKJD4gT"

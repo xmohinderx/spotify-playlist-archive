@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu, Domiziana
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,390 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,026 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 23 | [MOODSWINGS](https://open.spotify.com/track/2J579Mufs2FmfvqbOmICLw) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [MOODSWINGS](https://open.spotify.com/album/4ishdLV5WUZwD57FAYTZJE) | 3:04 |
 | 24 | [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 |
 | 25 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 |
-| 26 | [Miss You](https://open.spotify.com/track/6vAUQntCAzBg6kYern6LQM) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT) | 3:26 |
+| 26 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |
 | 27 | [Baby Blizzard](https://open.spotify.com/track/3y0j1dKTB0XXJQPRNIEXgN) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard](https://open.spotify.com/album/3PXQif0FmYLPi2LptqvWyv) | 2:05 |
 | 28 | [Trouble](https://open.spotify.com/track/3zMK5gFf92gp8w7SxW2PrZ) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [Trouble](https://open.spotify.com/album/176bXuYcmQYZTbhnQA0p56) | 2:14 |
 | 29 | [No Wind Resistance SPED UP!](https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [No Wind Resistance SPED UP!](https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1) | 2:45 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 41 | [regen༺♡✧+++](https://open.spotify.com/track/2rTcYdfnjs8nAQjlvrgxpy) | [DANZINGER 99](https://open.spotify.com/artist/2PBBBcDggmGWyvOY9HXmKZ), [DJ<3](https://open.spotify.com/artist/53Sn33Pag8qzwOsIol2a4q) | [regen༺♡✧+++](https://open.spotify.com/album/4WW9UNrTYnjBwabayBkxuW) | 1:27 |
 | 42 | [about u](https://open.spotify.com/track/5zLGJENQMphktQdZ1qipP4) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1YHRqOs5yxMvHVX69bJuxv) | 3:14 |
 | 43 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
-| 44 | [Crazy Phonk \- Remix \- Slowed](https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 2:10 |
+| 44 | [Crazy Phonk \- Remix](https://open.spotify.com/track/6LuUTRudM2Q4dgk71PF8Ou) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 1:57 |
 | 45 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 |
 | 46 | [Genug von dir](https://open.spotify.com/track/7EMAXqufsn0uZIS91TuEDM) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/5MKU4q5E3TwE4H80qmktii) | 2:29 |
-| 47 | [Stan](https://open.spotify.com/track/0zIckkQ6ZRos7IdoNPakAw) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Curtain Call: The Hits](https://open.spotify.com/album/1zUY4PAFrNUOCeaEBrEHzh) | 6:44 |
+| 47 | [Stan](https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 6:44 |
 | 48 | [Nicht das was du suchst 2](https://open.spotify.com/track/0RVHHrxnG999eu706TrtG5) | [Feo Night](https://open.spotify.com/artist/4w4DiUDjrVnwUBMtey8L5U) | [Nicht das was du suchst 2](https://open.spotify.com/album/2rF9NQJrd3kK0ZiM2lEuhw) | 3:04 |
 | 49 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 50 | [Ich hass dich](https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ich hass dich](https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Keine Zeit](https://open.spotify.com/track/6iefKfSK9HhdlmWYmlDYxd) | [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [Ophelia](https://open.spotify.com/album/4GdlYdLbHGvNh48GvwqHdr) | 2:15 |
 | 100 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDc1MzRjMzViMGVmNmQzNGE4NjNmMDgyZmIyYzY4NGRj`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGNkZWZiYjMwYzI3NDdhM2U0Njg5Y2FiNDYzYzBiOWE4`

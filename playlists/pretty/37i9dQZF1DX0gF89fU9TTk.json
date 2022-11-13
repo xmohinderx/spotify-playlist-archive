@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 105987,
+  "num_followers": 106027,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMGIwZGE2YzgwMTM4MjIzNzNlYTQ4ZjY2Y2QzODg5NjI3",
+  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMDllZDk1ZDdiOTFjNzNmNDY4YTJmMDNmZDJmYjQ4MzM3",
   "tracks": [
     {
       "added_at": "2021-12-31 06:28:29",
@@ -43,6 +43,26 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        },
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -59,22 +79,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "For The Good",
-        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 206496,
-      "name": "For The Good",
-      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Better View, Part I - EP",
         "url": "https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb"
       },
@@ -87,6 +91,22 @@
       "duration_ms": 213373,
       "name": "perfection",
       "url": "https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "For The Good",
+        "url": "https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "For The Good",
+      "url": "https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -151,22 +171,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Choose to Praise (Reinvented)",
         "url": "https://open.spotify.com/album/0eyqPa96JLeqNSbjejlfcL"
       },
@@ -179,6 +183,22 @@
       "duration_ms": 150213,
       "name": "Choose To Praise - Reinvented",
       "url": "https://open.spotify.com/track/7EkvI5wcwayleQvmpd4ZfI"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -243,22 +263,6 @@
       "duration_ms": 199573,
       "name": "Pray It Up",
       "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "NEVER WALK AWAY",
-        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200017,
-      "name": "NEVER WALK AWAY",
-      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -347,6 +351,22 @@
       "duration_ms": 249402,
       "name": "There For You",
       "url": "https://open.spotify.com/track/6pW1zSKjttBlcZ8mcogTZk"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "NEVER WALK AWAY",
+        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200017,
+      "name": "NEVER WALK AWAY",
+      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -575,6 +595,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -591,22 +627,6 @@
       "duration_ms": 439714,
       "name": "Just Want You - Live",
       "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -675,6 +695,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Ages",
+        "url": "https://open.spotify.com/album/4qPBNwSJFVnWJj7Z8fmj7k"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Won't Look Back",
         "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
       },
@@ -687,6 +723,62 @@
       "duration_ms": 214000,
       "name": "Won't Look Back",
       "url": "https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "III (Reimagined)",
+        "url": "https://open.spotify.com/album/6hvucidMqtNpsFbZGVxTuO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/6TpAtw9uhllI7pxl4gmGih"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Eyes On You (Live)",
+        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        }
+      ],
+      "duration_ms": 233947,
+      "name": "Eyes On You - Live",
+      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -743,26 +835,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Eyes On You (Live)",
-        "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Sarah Reeves",
-          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
-        }
-      ],
-      "duration_ms": 233947,
-      "name": "Eyes On You - Live",
-      "url": "https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "I've Got A Fire",
         "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
       },
@@ -799,6 +871,38 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 222551,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy"
       },
@@ -811,22 +915,6 @@
       "duration_ms": 197675,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -879,6 +967,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Majesty",
+        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 500000,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "As I Am (with Peter CottonTale)",
         "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
       },
@@ -899,22 +1003,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Majesty",
-        "url": "https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 500000,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Hills & Horizons",
         "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
       },
@@ -931,18 +1019,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 184264,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -967,18 +1055,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
         }
       ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
+      "duration_ms": 184264,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1103,22 +1191,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa"
       },
@@ -1151,22 +1223,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "I Remember (Studio Version)",
-        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "I Remember - Studio Version",
-      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Hunger",
         "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
       },
@@ -1179,6 +1235,22 @@
       "duration_ms": 230220,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "I Remember (Studio Version)",
+        "url": "https://open.spotify.com/album/3BPEVfCSdbGmAE6HMK731o"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "I Remember - Studio Version",
+      "url": "https://open.spotify.com/track/42u1rtRxJAvX9Kzz4DGWhP"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1211,74 +1283,6 @@
       "duration_ms": 180600,
       "name": "You Tell Me",
       "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Grace That Changes Everything",
-        "url": "https://open.spotify.com/album/1Q9VA5LKDn2Il5Q23nqDsS"
-      },
-      "artists": [
-        {
-          "name": "All Things New",
-          "url": "https://open.spotify.com/artist/6kttKGl3kQ86W1gnPBUUyG"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sound of Freedom",
-      "url": "https://open.spotify.com/track/2Ih9DwZ7JwBziNH2U3N0l2"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Till the Earth",
-        "url": "https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q"
-      },
-      "artists": [
-        {
-          "name": "Southview Worship",
-          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
-        },
-        {
-          "name": "B. Cooper",
-          "url": "https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq"
-        }
-      ],
-      "duration_ms": 208411,
-      "name": "Till the Earth",
-      "url": "https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Jesus Is The Key",
-        "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 389187,
-      "name": "Jesus Is The Key",
-      "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Crown (Deluxe)",
-        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Turn This Ship Around - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
     }
   ],
   "unique_name": "Hits UP",

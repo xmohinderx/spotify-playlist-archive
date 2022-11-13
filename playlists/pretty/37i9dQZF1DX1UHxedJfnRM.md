@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa, Carlos Vives
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,324 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,402 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FOR SALE](https://open.spotify.com/track/0ZQuLDHTb6xo5y8UQb2T9X) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Debut y Segunda Tanda \(Deluxe\)](https://open.spotify.com/album/4uBIS6rAEZQX8NCDgoLKq2) | 4:18 |
-| 2 | [Por Ese Hombre](https://open.spotify.com/track/4lc937nnV8vRbIF7oJznNU) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 4:37 |
+| 2 | [Ese Hombre](https://open.spotify.com/track/0j91VTv3PrBm4qtHSnzjqw) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Ese Hombre](https://open.spotify.com/album/7sBMGYMGE2bJLQwjoc2o0c) | 4:36 |
 | 3 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
 | 4 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 |
 | 5 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 27 | [Ya para Que](https://open.spotify.com/track/3dzX3gSpIkQPFID4CcdrGN) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo) | [Rendido Ante Ti](https://open.spotify.com/album/6YQbz2amnceEATuoen42u0) | 4:03 |
 | 28 | [Porque un Hombre No Llora](https://open.spotify.com/track/4VBehv3X5yJwEDunLEuoEk) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Porque un Hombre No Llora](https://open.spotify.com/album/3CGIkVoYPGoN4Lp5YMGt4I) | 4:55 |
 | 29 | [En Barranquilla Me Quedo](https://open.spotify.com/track/7C3Czet53d8yHPg6S97L29) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/6OjhfiVCYhYx1Qne6IfChP) | 4:44 |
-| 30 | [Que Locura Enamorarme De Ti \(feat\. Eddie Santiago\)](https://open.spotify.com/track/3kf8OfRNZwY9edRpKJD4gT) | [Huey Dunbar](https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft), [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lo Esencial](https://open.spotify.com/album/60IcnJNtwZVqhvuzf9mGcz) | 4:56 |
+| 30 | [Que Locura Enamorarme De Ti \(feat\. Eddie Santiago\)](https://open.spotify.com/track/1TXd3ke6yYLzk0ukD2BX9b) | [Huey Dunbar](https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft), [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Mis Favoritas](https://open.spotify.com/album/4z2eam73qndorvsxxWWVaO) | 4:55 |
 | 31 | [Corazón Embusteros](https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:53 |
 | 32 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 |
 | 33 | [El Color de Tus Ojos](https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/008Ys7V09mrkoKkKaxI7G0) | 4:03 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 52 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 |
 | 53 | [Amaneciendo Con Zaperoko](https://open.spotify.com/track/2RLpgwLVfI5duKhbE2H04d) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Amaneciendo Con Zaperoko](https://open.spotify.com/album/0PH2f6w39bBN4dPH0TkB3E) | 5:08 |
 | 54 | [Sin Ti](https://open.spotify.com/track/60Lkn19mTVKexNrbIvqgos) | [La Perú Salsa All Star](https://open.spotify.com/artist/6LraR5S4VeqSQ5NflpY0GI) | [Juntos en Lo Mejor](https://open.spotify.com/album/4QYksnq4JOQhxeOCQCiffK) | 5:27 |
-| 55 | [Con Mi Amiga](https://open.spotify.com/track/1B9w6cYYuegB9HlZ0ORQZN) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Con Mi Amiga](https://open.spotify.com/album/2natmL0PmLf5A8Hvqmn0yI) | 3:49 |
+| 55 | [Con Mi Amiga](https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 3:49 |
 | 56 | [Lo Que Tengo Yo](https://open.spotify.com/track/3Af6NLEVmK2mKyLyGEavu2) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Así Somos](https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF) | 4:49 |
 | 57 | [Tu Falta de Querer](https://open.spotify.com/track/5EUDROV3ETbVvnafg0OhRf) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/6RhQ9HgfpUi5U0mzeCzosW) | 5:02 |
 | 58 | [No Sé](https://open.spotify.com/track/2v11X4UanY2QwADCbwFnPv) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [No Sé](https://open.spotify.com/album/1OR5KmIE6s5SzzCe9XYETZ) | 4:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 |
 | 80 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 |
 
-Snapshot ID: `MTY2ODEyNDk4MSwwMDAwMDAwMDVkOTAxZTQ5M2NhZWI0ODQ2MWQzMTQ5YjBjMTFmNWU0`
+Snapshot ID: `MTY2ODEyNDk4MSwwMDAwMDAwMDczN2YzOTAyMzM1Yzg1YzhlNjJjZjE5Yzg5MDExZjFi`

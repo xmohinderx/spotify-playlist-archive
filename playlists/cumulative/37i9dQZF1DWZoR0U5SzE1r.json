@@ -419,7 +419,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 360935,
       "name": "Breathe - Live",
       "url": "https://open.spotify.com/track/5OfIpf1OOrbWYBBAMZpO5N"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 418199,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0ZYr1O3P2cvpcj8lCTPnte"
@@ -920,6 +920,28 @@
     },
     {
       "album": {
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
+    },
+    {
+      "album": {
         "name": "Fill This Place (Studio Version)",
         "url": "https://open.spotify.com/album/0TOI6K9V6PcAGj3cqs1wLS"
       },
@@ -1029,7 +1051,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 409986,
       "name": "Forever - Live",
       "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 224026,
       "name": "I Stand Here",
       "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
@@ -1989,7 +2011,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 312773,
       "name": "Liberator - Live",
       "url": "https://open.spotify.com/track/6AOHOfoyvCA0tTshLFhCFM"
@@ -2085,7 +2107,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 493706,
       "name": "Maker",
       "url": "https://open.spotify.com/track/2KE7Gi8dYbflFHLf0cxaqp"
@@ -2573,7 +2595,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
@@ -2609,7 +2631,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 547251,
       "name": "Rain Your Glory Down - Live",
       "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
@@ -2711,7 +2733,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 325701,
       "name": "Rest On Us - Live",
       "url": "https://open.spotify.com/track/6TYAbOGCUk4jvJhc8W9QZv"
@@ -2733,7 +2755,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 444174,
       "name": "Revival\u2019s In The Air - Live",
       "url": "https://open.spotify.com/track/1VNP6bgTcqE6cxkU8Zpy21"
@@ -3097,7 +3119,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 315476,
       "name": "The More of You I See",
       "url": "https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0"
@@ -3325,7 +3347,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 503240,
       "name": "Way Maker - Live",
       "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
@@ -3431,7 +3453,7 @@
       ],
       "date_added": "2020-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 373760,
       "name": "Why Not Now? - Live",
       "url": "https://open.spotify.com/track/450tZVFaiWW6AWBVPdSjty"

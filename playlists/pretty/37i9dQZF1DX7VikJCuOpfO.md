@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,337 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,349 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 73 | [Camino de Guanajuato](https://open.spotify.com/track/3EmuCJLsfucbTDGHGLKAob) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [12 Exitos De Oro](https://open.spotify.com/album/3Vw9kRLM5ahVvR1jj34INt) | 3:13 |
 | 74 | [Quiero \- Mariachi](https://open.spotify.com/track/7hIwQgldC4w99nPtZyScgN) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:00 |
 | 75 | [Ven Porque Te Necesito](https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Ven Porque Te Necesito](https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX) | 3:05 |
-| 76 | [Mala Racha](https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mala Racha](https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv) | 2:46 |
-| 77 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
+| 76 | [No Mereces Que Te Quiera](https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [No Mereces Que Te Quiera](https://open.spotify.com/album/0CVsGdZD4eXqiONcjibWBg) | 3:18 |
+| 77 | [Mala Racha](https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mala Racha](https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv) | 2:46 |
 | 78 | [El Mejor Regalo](https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Mejor Regalo](https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd) | 2:43 |
 | 79 | [Olvídalo](https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Olvídalo](https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt) | 3:16 |
 | 80 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
@@ -98,17 +98,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 88 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
 | 89 | [Con Todo y Mi Tristeza \- Live](https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Con Todo y Mi Tristeza \(Live\)](https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL) | 4:18 |
 | 90 | [Antes](https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Antes](https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx) | 3:28 |
-| 91 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
-| 92 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
+| 91 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
+| 92 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
 | 93 | [Te Seguiré Queriendo \- Versión Mariachi](https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Te Seguiré Queriendo \(Versión Mariachi\)](https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX) | 3:12 |
 | 94 | [Nadie Me Cree](https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Nadie Me Cree](https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO) | 3:28 |
 | 95 | [Por Siempre Serás Mía](https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [La Historia](https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0) | 3:31 |
 | 96 | [Se Te Olvidó](https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Invasión De Éxitos](https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe) | 2:56 |
 | 97 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 |
 | 98 | [Viento](https://open.spotify.com/track/5RnXVDdILr94evzMVEtFuH) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Viento](https://open.spotify.com/album/2A7c33rJO2tYtXUxjUB9rr) | 3:20 |
-| 99 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 |
-| 100 | [Porqué Como Tú](https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Porqué Como Tú](https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU) | 3:59 |
-| 101 | [El Diluvio](https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Diluvio](https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP) | 2:28 |
+| 99 | [Porqué Como Tú](https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Porqué Como Tú](https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU) | 3:59 |
+| 100 | [El Diluvio](https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Diluvio](https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP) | 2:28 |
+| 101 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 |
 | 102 | [Si Es Feliz](https://open.spotify.com/track/2U9JrW474b8IOcmwk9Hj7X) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Hasta el Cielo](https://open.spotify.com/album/7fDSPyDbQQbHT47Spts4YV) | 3:10 |
 | 103 | [Siempre Te Voy A Recordar](https://open.spotify.com/track/2QW4BERfECAthx967SSNy5) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siempre Te Voy A Recordar](https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh) | 3:07 |
 | 104 | [No Mereces Tanto](https://open.spotify.com/track/3JyUkAAwKKAwlE7QW94e4c) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [4 Sueños 1 Realidad](https://open.spotify.com/album/097uRa0DMJZanpTP0INZGy) | 3:26 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGI5NzZkZDlhNjUzZWQ4Y2I5MjcyMjc2MGI2MTM2NWRh`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGY1YjMzYWUyNmNjNjg4Yzc4YmRjMjViY2ViNjc0YzBj`

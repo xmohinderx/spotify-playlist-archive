@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Gusi
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,269 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,340 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 | 6 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 |
 | 7 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 |
 | 8 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 |
-| 9 | [Vale la Pena](https://open.spotify.com/track/1gnkKuNpKnOvXMftw747lu) | [Grupo Merenguisimo](https://open.spotify.com/artist/4KcGb6w8lBbsV0tErkz3fW) | [100 % Latino Vol\. 1](https://open.spotify.com/album/6M7YGALzaiR2xPezIz73FA) | 3:26 |
+| 9 | [Vale la Pena](https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 3:27 |
 | 10 | [Prohibido](https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Prohibido](https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ) | 3:08 |
 | 11 | [Por Un Perro](https://open.spotify.com/track/3OBIkfgxatom7uCRNZxEa3) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Por Un Perro](https://open.spotify.com/album/1S7umwRqsNaYeoSWe0UjLw) | 3:50 |
 | 12 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 | 59 | [Me Tienes Mal](https://open.spotify.com/track/2atJaPb759uwrX8Z2tVeNA) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Al Son del Amor](https://open.spotify.com/album/6goR8Q0XST04Tef97Gy1aB) | 4:31 |
 | 60 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 |
 
-Snapshot ID: `MTY2ODE0MjgwNCwwMDAwMDAwMDkzM2U3YzM1NzA2NTZiOWU3Nzg2NGFjNWRhYmI2NTBi`
+Snapshot ID: `MTY2ODE0MjgwNCwwMDAwMDAwMGJlNWNlMTU5YWFiMzc2ZDYwMDNmOTMzMDk5YmEwYTA0`

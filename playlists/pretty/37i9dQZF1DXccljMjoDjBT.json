@@ -1,18 +1,18 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 186940,
+  "num_followers": 187188,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMDIwOTJiMGMzNDhiMDM3MzViZGU2ZTg1NTFhNzA2NDRk",
+  "snapshot_id": "MTY1NzAzNjAyNSwwMDAwMDAwMGZhOTE0MDY0ZGY0NzdlMzk5NWUxMjI4ZGRkNDExNDFh",
   "tracks": [
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/4EQfda4ivSDFyb2m8sSnYQ"
+        "name": "Crowded House",
+        "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
         }
       ],
-      "duration_ms": 236800,
+      "duration_ms": 236933,
       "name": "Don't Dream It's Over",
-      "url": "https://open.spotify.com/track/1WexlWtwTn0upcDccYlJUM"
+      "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
-    },
-    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Voices",
@@ -151,6 +135,22 @@
       "duration_ms": 190626,
       "name": "You Make My Dreams (Come True)",
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 273173,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 273173,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
         }
       ],
-      "duration_ms": 322600,
-      "name": "The Heart Of The Matter",
-      "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2021-05-06 11:08:15",
@@ -995,22 +995,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 335840,
-      "name": "Back In The High Life Again",
-      "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 335840,
+      "name": "Back In The High Life Again",
+      "url": "https://open.spotify.com/track/1Bj6YgjjPbEb4jhQ50T8tJ"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Richard Marx",
         "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 270693,
       "name": "Endless Summer Nights",
       "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "The Heart Of The Matter",
+      "url": "https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1107,6 +1123,38 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Angelia",
+      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Paradise Theatre",
         "url": "https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF"
       },
@@ -1135,22 +1183,6 @@
       "duration_ms": 330266,
       "name": "The Living Years",
       "url": "https://open.spotify.com/track/7tJnjRY2js0yXtNUWE4fgF"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Angelia",
-      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1239,6 +1271,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Chicago 18 (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
       },
@@ -1271,22 +1319,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Give My Regards To Broad Street",
         "url": "https://open.spotify.com/album/2AtvtW3U8dv9C61S88M2w8"
       },
@@ -1315,22 +1347,6 @@
       "duration_ms": 252426,
       "name": "All I Need Is a Miracle",
       "url": "https://open.spotify.com/track/1VKXBgsRK7lWDSVbfANlf3"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Like A Rock",
-        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 355798,
-      "name": "Like A Rock",
-      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1381,6 +1397,22 @@
       "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
     },
     {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Like A Rock",
+        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 355798,
+      "name": "Like A Rock",
+      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
+    },
+    {
       "added_at": "2021-05-06 11:12:08",
       "album": {
         "name": "The Principle of Moments",
@@ -1395,6 +1427,22 @@
       "duration_ms": 322960,
       "name": "In the Mood - 2006 Remaster",
       "url": "https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 419400,
+      "name": "Brothers in Arms",
+      "url": "https://open.spotify.com/track/26tWBbtjvgi0tipRL2VQ2X"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1431,6 +1479,22 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "In Too Deep - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q"
+    },
+    {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -1461,6 +1525,22 @@
       "url": "https://open.spotify.com/track/4dhPbGPssNpV6pSEtgTmO7"
     },
     {
+      "added_at": "2020-12-08 17:52:17",
+      "album": {
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 393866,
+      "name": "Your Latest Trick",
+      "url": "https://open.spotify.com/track/4UK1g9Z1lWedkmIQuSyCe5"
+    },
+    {
       "added_at": "2022-03-28 14:29:51",
       "album": {
         "name": "Mike + The Mechanics",
@@ -1479,22 +1559,6 @@
     {
       "added_at": "2020-12-08 17:52:17",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 379000,
-      "name": "Sunset Grill",
-      "url": "https://open.spotify.com/track/4I9AA9H57ySNSv1ZPinL4D"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
         "name": "Tug Of War",
         "url": "https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n"
       },
@@ -1507,38 +1571,6 @@
       "duration_ms": 148853,
       "name": "Here Today - Remixed 2015",
       "url": "https://open.spotify.com/track/0QtnwXDziZN1K55fXuLN6q"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 511293,
-      "name": "Why Worry",
-      "url": "https://open.spotify.com/track/4Yy5d21CJvXQ8cOuaTiCRD"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 296920,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/6sawhOATOEe0cGzXJfMJQE"
     },
     {
       "added_at": "2020-12-08 17:52:17",
@@ -1587,38 +1619,6 @@
       "duration_ms": 402173,
       "name": "Belfast Child - Remastered 2002",
       "url": "https://open.spotify.com/track/0guW4g1Z0gJjkKxkIy7VR7"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "The Best 80s Love Songs Album In The World...Ever!",
-        "url": "https://open.spotify.com/album/7zNZ7yIrl8riW5m4FXiedC"
-      },
-      "artists": [
-        {
-          "name": "Jim Diamond",
-          "url": "https://open.spotify.com/artist/4MC3knlcFjcW7nt2hdn4Dk"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "I Should Have Known Better",
-      "url": "https://open.spotify.com/track/06Q8OSgrnDx0NNDf0oeOtd"
-    },
-    {
-      "added_at": "2020-12-08 17:52:17",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/6oqBRt8j0VSYtGdUsceSq7"
     }
   ],
   "unique_name": "80s Soft Rock",

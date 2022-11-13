@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 1981,
+  "num_followers": 2033,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDQyMDM2YTk3ZDczNGM4NDA3MzE1NTAzOGZhMzgzODFh",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDM4OGI2NDAwOGQ5ZGMyYWYxMzI4ZjNkMmVjYjVjMDI2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "BAD BOY CELEBRATES DIDDY: The Executive",
+        "url": "https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 251200,
       "name": "Lions, Tigers & Bears",
       "url": "https://open.spotify.com/track/7zqM7Wm2xJLZ50qAnTLoHD"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Nakamarra (feat. Q-Tip)",
-      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -275,6 +275,26 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Nakamarra (feat. Q-Tip)",
+      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -331,26 +351,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "The Waters (feat. BJ the Chicago Kid)",
-      "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -371,6 +371,26 @@
       "duration_ms": 448000,
       "name": "We Major",
       "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "The Waters (feat. BJ the Chicago Kid)",
+      "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -479,22 +499,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "I'm Illy",
-      "url": "https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -507,6 +511,22 @@
       "duration_ms": 245866,
       "name": "Roses",
       "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "I'm Illy",
+      "url": "https://open.spotify.com/track/3iNYQG2B6aBRnaCEOdNGbc"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -747,26 +767,6 @@
       "duration_ms": 342000,
       "name": "Serve This Royalty",
       "url": "https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Rap Chill Songs",
-        "url": "https://open.spotify.com/album/0zFvEh7cTGW2UtsLXTjIUW"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/5u6SDt3iK2D5hKs1yMvHzA"
     },
     {
       "added_at": "2022-10-01 16:00:00",

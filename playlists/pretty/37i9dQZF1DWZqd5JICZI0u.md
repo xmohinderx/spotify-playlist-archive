@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,518,455 likes - 236 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,022 likes - 236 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,6 +243,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 233 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 |
 | 234 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 |
 | 235 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
-| 236 | [Coast](https://open.spotify.com/track/5cW7L5MwCeSetCmQT0G0kX) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/5alLzgrt637yiLkGiBBhLc) | 6:13 |
+| 236 | [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 |
 
-Snapshot ID: `MTY2ODE3MTYwMCwwMDAwMDAwMGIzZDhkODJmNDI2NzY5NDk1NDA5MmQ3ODZhYTUwYzlj`
+Snapshot ID: `MTY2ODE3MTYwMCwwMDAwMDAwMGQ0ODU5NmQzZTI3MmY5NjhlMmE3MGJhYzEyM2U0ODhj`

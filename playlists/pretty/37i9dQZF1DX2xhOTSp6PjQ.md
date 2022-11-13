@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,832 likes - 55 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,852 likes - 55 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 19 | [Emkhathini](https://open.spotify.com/track/0VaIf3loFYGRl9pVlnsYRL) | [Shwi noMtekhala](https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6), [Maphungula](https://open.spotify.com/artist/7bbXvPy5gAzivkwv5oRJI8) | [Emkhathini](https://open.spotify.com/album/43GsmX58ZoBRLv1R4UZiCd) | 5:34 |
 | 20 | [Kungani](https://open.spotify.com/track/7gVgTzmxTcczfnCfvuOfkF) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Isihlahla Samavukani](https://open.spotify.com/album/0vbPOtCjPKQUPqHu6TIw60) | 4:17 |
 | 21 | [Awusho Dali](https://open.spotify.com/track/3lJZPHew6QpHxZLutX6mc6) | [Abafana bakaMgqumeni](https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6), [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP), [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Bawucisha ngo paraffin](https://open.spotify.com/album/1H8zQWxYDBlljpLr5Z3W5J) | 3:39 |
-| 22 | [Imbizo](https://open.spotify.com/track/2UZruglT1zTqdfT1RffTjZ) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Grand Masters Collection: African Roots](https://open.spotify.com/album/3TZZsyFNPwYd6U7HngzQ0R) | 3:58 |
+| 22 | [Imbizo](https://open.spotify.com/track/5rd1OgQZU0TcRndLFOYECO) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/33HOA4xP6hyXlm1CcUy5Ce) | 3:58 |
 | 23 | [Thuma Mina Baba](https://open.spotify.com/track/1fbiyYNG1LfWyTksDcgEEH) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi Ubaba](https://open.spotify.com/album/497oVjt1dseOC4GOzEtHiK) | 4:10 |
-| 24 | [Usale Kanjani](https://open.spotify.com/track/6owkaZSiybyT7eEN9BUSmZ) | [Thokozani Langa](https://open.spotify.com/artist/27f92EUPQigI8IqwB00286) | [Grand Masters Collection: Sound Offerings from South Africa](https://open.spotify.com/album/1spoGR5KDLCuNZY6FM7RNE) | 5:17 |
+| 24 | [Usale Kanjani](https://open.spotify.com/track/1Na1tKjOtgF6Wzu1JlFSgj) | [Thokozani Langa](https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S) | [Inganekwane](https://open.spotify.com/album/4dgnNUTAl7mXAEDye2IooD) | 5:18 |
 | 25 | [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 |
 | 26 | [Ishende](https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo](https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry) | 4:29 |
 | 27 | [Msholozi](https://open.spotify.com/track/7i9OftJwfxt4R20jDRnLqi) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:48 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 35 | [Imali Yesoso](https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR) | [Ichwane Lebhaca](https://open.spotify.com/artist/6dUPVcKOAhdgjkmgDwy6uh) | [Imali Yesoso](https://open.spotify.com/album/1Vvgd9KgV5hQZKXLDLfGBc) | 5:07 |
 | 36 | [Izihlwele](https://open.spotify.com/track/6iFCyBOk9UTRNgb7Oz2oKg) | [Bahubhe](https://open.spotify.com/artist/2pisTvrJlAr0NTxvXOuLOv) | [Izihlwele](https://open.spotify.com/album/5LAxoXLEgCyptZpryTXcSs) | 5:00 |
 | 37 | [Ingezo Emahostela \(feat\. Sgwebo Sentambo\)](https://open.spotify.com/track/05kQlUT2mMwkvjRX8bkzba) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt), [Sgwebo Sentambo](https://open.spotify.com/artist/5p55hGi2rq290OvBwMpLps) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 4:55 |
-| 38 | [Endumisweni](https://open.spotify.com/track/4uFD0tUSdPcG4XsHic6tCY) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Igazi Lami](https://open.spotify.com/album/5x72PkBa1vuzcaOj03qE4y) | 4:25 |
+| 38 | [Endumisweni](https://open.spotify.com/track/3IPrZBtgOikNvhiUGQ8K4x) | [Bhekumuzi Luthuli](https://open.spotify.com/artist/2olZnrkMJFY0BnGZM7vWMV) | [Gospel Hits](https://open.spotify.com/album/2ABlTWUAfKDPnUThVIM614) | 4:25 |
 | 39 | [Ekhenana](https://open.spotify.com/track/4VqeQHfo2ubS5tqq5wmaOE) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl) | [Umaqondana](https://open.spotify.com/album/5CSphfloiCWOA2s35VsNwp) | 4:49 |
 | 40 | [Ukuthanda Izinto](https://open.spotify.com/track/2DqL1bQTQVvVDnT16iQq7z) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 5:40 |
 | 41 | [Isingqazu Sami](https://open.spotify.com/track/0wg9dKX6zfOVy3A53osxIS) | [Inxakanxaka](https://open.spotify.com/artist/43DNa0M6aCPjeWTVIL7x80) | [Isingqazu Sami](https://open.spotify.com/album/4pGIADaXRBnuRRWBs7QAdG) | 5:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 44 | [Thenjiwe](https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9) | [Mfiliseni Magubane](https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs) | [Izwe Lihle Ngabantu](https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i) | 4:45 |
 | 45 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 |
 | 46 | [Ama Waza Waza](https://open.spotify.com/track/0pMQpMdOKYX5IW60f8xlKO) | [Ihhashi Elimhlophe](https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21) | [Ama Waza Waza](https://open.spotify.com/album/4Zk0C73QlrRFq7hLjJIXtS) | 4:37 |
-| 47 | [Ukuganwa](https://open.spotify.com/track/65tm6Jze8PbRRIwUgJt5HF) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Tshath' Ugodo, Vol\. 1](https://open.spotify.com/album/7u3878BCzhCvrWLHtmSvYF) | 4:54 |
+| 47 | [Ukuganwa](https://open.spotify.com/track/4xrwao2zgAaG45VdsfpGBW) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/2XndIgHBdfGrQbU8qdBsdT) | 4:54 |
 | 48 | [Isifebe Sendoda](https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:20 |
-| 49 | [Imikhuba](https://open.spotify.com/track/4SlVGHwa8dQDr8hAa8ZiDf) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [The Ultimate Collection: Phuzekhemisi](https://open.spotify.com/album/4abzxM3Cy35Dg5Mmjwg8ud) | 4:11 |
+| 49 | [Imikhuba](https://open.spotify.com/track/5z4GRjPgqAm9ZtPjcaqZPi) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Bayede Zulu](https://open.spotify.com/album/4uFTqak3z6hgboKo0aNwcr) | 4:11 |
 | 50 | [Sikhokha Njalo](https://open.spotify.com/track/3C2Tft3NEV550RHHG7UqFS) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Sikhokha Njalo](https://open.spotify.com/album/2qwRr5I8KMzkiPDuc2eLYU) | 4:17 |
 | 51 | [Inhliziyo Yami](https://open.spotify.com/track/4KvEHj46FVO6DFBjPoCULj) | [Abafana Baka Mahawukela](https://open.spotify.com/artist/6WiOCqFw2OVO8d9SfMUeYp) | [Ungubani Wena](https://open.spotify.com/album/169DuGTXvmZm4D1Abiqvt1) | 4:08 |
 | 52 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k) | 4:47 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 54 | [Palamente e kgopela merapelo](https://open.spotify.com/track/3PzDhMFbGUSpVWWcBTRJWW) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Palamente e Kgopela Merapelo](https://open.spotify.com/album/6H2nsddvfVyGIagH72T4RF) | 5:08 |
 | 55 | [Inzondo](https://open.spotify.com/track/66grkST08OIuorHMGsGwR6) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Isidina Sikamahlalela](https://open.spotify.com/album/7M3Zi8eUaeFxhC5JzGMfRX) | 3:25 |
 
-Snapshot ID: `MTY2MjA2OTU0MCwwMDAwMDAwMDgxZDc5MTNlMWM1Y2RlN2I3ZjAxZWMxNDYzZWFiZDhk`
+Snapshot ID: `MTY2MjA2OTU0MCwwMDAwMDAwMDFlNDk2YTJkNWFiOThmZjhmMDM1OTg3NWMwNjFlZmU5`

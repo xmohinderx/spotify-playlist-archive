@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,917 likes - 58 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,915 likes - 58 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 40 | [1 Times Tables \(TI Style\)](https://open.spotify.com/track/4UAdHXcCnQFmdqaRUsnA2a) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 3:22 |
 | 41 | [2 Times Tables \(Biggie Style\)](https://open.spotify.com/track/6pFoYMv2aU4aBORxa4UrIz) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 4:49 |
 | 42 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 |
-| 43 | [One Love \- Medley](https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 2:52 |
+| 43 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 |
 | 44 | [I Like Fruit](https://open.spotify.com/track/1FgVgbqZG3tZ9vNgymPOVe) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:20 |
 | 45 | [Panini](https://open.spotify.com/track/6fTt0CH2t0mdeB2N9XFG5r) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 1:54 |
 | 46 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 57 | [Joy to the World](https://open.spotify.com/track/63myJHXOKprgF5Kdze08XA) | [Roots Radics](https://open.spotify.com/artist/2tm55XgrmiuDC0RBTE9AQT) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 2:37 |
 | 58 | [Hey Ya](https://open.spotify.com/track/7qEaSln7DzqWAxVWPJG8hz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Party Hits](https://open.spotify.com/album/7dtTU6GpOYFNwF5hE1o4zE) | 3:55 |
 
-Snapshot ID: `MTY0Mzk5MzA3MiwwMDAwMDAwMDJlOWNlMmFiOGE1NjFjY2ExNmFiMjkyZTkxZDc2MTc5`
+Snapshot ID: `MTY0Mzk5MzA3MiwwMDAwMDAwMDRiYTUxZGVkZTE2YzU2OTZlMDczZTZkYzczNjc3YzBk`

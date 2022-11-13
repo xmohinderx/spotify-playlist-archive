@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,432 likes - 123 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,462 likes - 123 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Time To Smoke](https://open.spotify.com/track/0nXIRF7CP1a6pQocggvnDu) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [The Reset](https://open.spotify.com/album/4CYp809RvpYL1gVuOvpfiV) | 8:46 |
+| 1 | [Time To Smoke](https://open.spotify.com/track/2UwqX2RbyolszDlJnyqfWG) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Time To Smoke](https://open.spotify.com/album/7Fmb71wkVvWzNToQpklYu4) | 8:46 |
 | 2 | [You \- Edit](https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/1g0z09fYWlrT1oekKW0jnY) | 3:58 |
 | 3 | [Let Go](https://open.spotify.com/track/67OC6FNZ7gfQ0FsXUr5gnI) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [Let Go](https://open.spotify.com/album/0Z1WHrjtdt8oCjEQrgIf1e) | 3:44 |
 | 4 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 122 | [Mothercity \- Tom Jarmey Remix](https://open.spotify.com/track/1ju2P3fI1P0a41wLwjcBPn) | [Penner+Muder](https://open.spotify.com/artist/4fpAs40OBZoto9ZtoEdOuE), [Tom Jarmey](https://open.spotify.com/artist/005aNwS2ayjqoZxwakSyt4) | [Mothercity \(Tom Jarmey Remix\)](https://open.spotify.com/album/6VgrSHW2dVbP77n5I4rGHe) | 5:55 |
 | 123 | [Harlem Hustle](https://open.spotify.com/track/2wYjswgI757Tpq6N5Ee8a4) | [Tony Lionni](https://open.spotify.com/artist/0g3ijCFCQjtkCsJh7sPoBG) | [Harlem Hustle](https://open.spotify.com/album/3DtDxzORqwKZOqHjwvK6mx) | 6:02 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDEwZmE4Y2NmM2RiODQzNzQzY2M4ZjJkYmYzZTliMjJi`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDA5YzM2ZGE1MjZhY2M5YTE3NTg3YmVmYTUzZDk0MTdi`

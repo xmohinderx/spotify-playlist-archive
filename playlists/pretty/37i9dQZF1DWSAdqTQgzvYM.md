@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 
 > Because everyone else is already taken!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,276 likes - 88 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,282 likes - 88 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 19 | [Marvelous Me](https://open.spotify.com/track/4JHaXSiuALVZYJUnNv4xvS) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:30 |
 | 20 | [Dark Skin Boy](https://open.spotify.com/track/6Xp1m82UqUsaIpSl3YUXhJ) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Dark Skin Boy](https://open.spotify.com/album/06pPkVzfy4O3t153okMQs7) | 1:48 |
 | 21 | [It's Cool to Be Different](https://open.spotify.com/track/3jhpViY77j75H3wKuZ8n6b) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 2](https://open.spotify.com/album/7ndGSRyfpUFnBtD1sFXQ4j) | 2:10 |
-| 22 | [The Man](https://open.spotify.com/track/4eNFkKTi7dfbV4wcG17uFB) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Salon Music](https://open.spotify.com/album/5IDlk0aG41EzVL9Jn1bncR) | 4:15 |
+| 22 | [The Man](https://open.spotify.com/track/2stPxcgjdSImK7Gizl8ZUN) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv) | 4:14 |
 | 23 | [Independent Women, Pt\. 1](https://open.spotify.com/track/5EDUIiDf1Sp6nVnmCMRxa2) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 3:41 |
 | 24 | [Resilient](https://open.spotify.com/track/3By64Pmpn0LkwPKSjqSTBp) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:07 |
 | 25 | [Wings](https://open.spotify.com/track/3180WDzph4WrS4sLSNcGfa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:41 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 42 | [Square Root of Possible](https://open.spotify.com/track/3CtWaE1HvafkhAdau5Nuez) | [Madalen Mills](https://open.spotify.com/artist/2WZwUfbQPLXMSKy71YcTsh) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 4:04 |
 | 43 | [Things I Can Say](https://open.spotify.com/track/2RzZrBcTjnukMFw1m9m33T) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Thoughtful Songs for Little People](https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA) | 3:28 |
 | 44 | [BROWN SKIN GIRL](https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP) | [Blue Ivy](https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:08 |
-| 45 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/7yWxYfYiF3ekQpCyHQW0kS) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Single and Loving It](https://open.spotify.com/album/2PUAa4925N18G0R9RrhuPA) | 3:41 |
+| 45 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 |
 | 46 | [Video](https://open.spotify.com/track/5OvtHC1axvrFvtAV2H2KG7) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Chilled Summer](https://open.spotify.com/album/2i2K253TAzT22nTWpJKFZs) | 4:11 |
 | 47 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 |
 | 48 | [Girl Can't Be Herself](https://open.spotify.com/track/3ztWLUKTd7WnrZZc1nZHo6) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/66RQAPD5x5nQgQzOa0X3sz) | 2:39 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 77 | [Superwoman](https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:34 |
 | 78 | [Most Girls](https://open.spotify.com/track/10GJQkjRJcZhGTLagFOC62) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls](https://open.spotify.com/album/4w5LxfyoOPHkGJZrco1UT5) | 3:24 |
 | 79 | [Damn It Feels Good To Be Me](https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Damn It Feels Good To Be Me](https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs) | 2:18 |
-| 80 | [Scars To Your Beautiful](https://open.spotify.com/track/4WBqOCDRZBUxaZRR1eVFoE) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [傷心情歌](https://open.spotify.com/album/5cVZSXnHawZaLo3vZUHwMF) | 3:50 |
+| 80 | [Scars To Your Beautiful](https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:50 |
 | 81 | [I Have A Voice](https://open.spotify.com/track/6cgrUxPkDZbcPcfbRUkK4x) | [The BeatBuds](https://open.spotify.com/artist/7p1Lnq4QqQko93rJbaerql) | [I Have A Voice](https://open.spotify.com/album/5xqJz03fZ1GKQOvBqQ9IBU) | 3:23 |
 | 82 | [No Such Thing as Good or Bad Hair](https://open.spotify.com/track/2cMPeVWydk52ED84lGlDAF) | [Uncle Devin](https://open.spotify.com/artist/1qr8l7v727Gt0PLXMuVnpN) | [Be Yourself!](https://open.spotify.com/album/2DtCuiy2JgDmH2ys9X4P0Y) | 3:50 |
 | 83 | [Shake It Off](https://open.spotify.com/track/5pJvzBpE1KSMxEgMg5Ft31) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Big Machine's Women Of Country](https://open.spotify.com/album/0QLRhFhMtWxiiyu36tzGn6) | 3:39 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAdqTQgzvYM.md) - [plain]
 | 87 | [Fight Song](https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Wildfire](https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT) | 3:24 |
 | 88 | [Sing Your Song](https://open.spotify.com/track/0fjty03g806qqdJtz38ebJ) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Family Photo Album](https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD) | 2:11 |
 
-Snapshot ID: `MTY1MDAzMTYxMSwwMDAwMDAwMGQ3ODJhMGFiZTVjZWMwZmM0MDc0MzlmNDFkYjExZjgx`
+Snapshot ID: `MTY1MDAzMTYxMSwwMDAwMDAwMDA1ZTUxZjcwODFmZmMzY2YwYjJhZDVkNzMyYzc2ZTZk`

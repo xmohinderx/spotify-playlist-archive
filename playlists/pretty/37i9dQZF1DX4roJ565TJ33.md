@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,018 likes - 101 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,025 likes - 101 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 67 | [Blinded by the Night](https://open.spotify.com/track/2XOZ0xW1TB3R0lrETZXtUH) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Everybody Digs](https://open.spotify.com/album/3rcp6HZfqgBfFHLmStvEXl) | 6:16 |
 | 68 | [Canción Contra La Indecisión](https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 4:12 |
 | 69 | [L'Est](https://open.spotify.com/track/7fHj5Y3RjtXZGZdN2Q3yqz) | [Oddjob](https://open.spotify.com/artist/47E6nlZGPwspT7lokggm4n) | [Kong](https://open.spotify.com/album/3oidkAVyOYKYEMkOgJHgWg) | 4:44 |
-| 70 | [Believe, Beleft, Below](https://open.spotify.com/track/2PIuRdfLbshh1Kzcbe0m3w) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Retrospective \- The Very Best of E.S.T.](https://open.spotify.com/album/0puHoJ7qNSdoNQe2ByqJmg) | 4:45 |
+| 70 | [Believe, Beleft, Below](https://open.spotify.com/track/1HKZo7knu3IuCJo9JVGz1i) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 4:51 |
 | 71 | [Royals](https://open.spotify.com/track/2Gdl1QTR1u2ZeedUmqjbBe) | [The Splendor](https://open.spotify.com/artist/5R3LiKlR8HtU49kzH9uWGA) | [Royals](https://open.spotify.com/album/6usfJmg0od00cQsFxWzyiK) | 7:46 |
 | 72 | [Old Country](https://open.spotify.com/track/5o8OVGf5YpHyHIghJx5vAT) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 5:59 |
 | 73 | [I'll Remember April](https://open.spotify.com/track/35vyrfyDjMA5Ru6p69tV3y) | [Robert Edman Quartet](https://open.spotify.com/artist/4JQsLyK2wpqlOpkznEM4uB) | [My Inspiration \- Swedish Jazz Legends](https://open.spotify.com/album/6w7jZACnaozB1KCqtpTAEf) | 2:51 |
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 95 | [Jag kan se dig när](https://open.spotify.com/track/0IGyv2Zt8gTxMWTcj9PDjP) | [Carin Lundin](https://open.spotify.com/artist/4IMhnUPdhWUd6LkgL4GgV3), [Johan Setterlind](https://open.spotify.com/artist/1nDRkqtVQVGIKNJ53IppRp), [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Mattias Welin](https://open.spotify.com/artist/2FadNpVetw7adOruTqDuZ2), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Smulor och parafraser](https://open.spotify.com/album/6Dk2rnIv3koxtcUWaLM6fN) | 4:11 |
 | 96 | [Brudmarsch från Boda](https://open.spotify.com/track/4kwKxWe4FR5K8aoKvJiRwY) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/4zE9QIiX8Vdrqx155CIlfx) | 2:09 |
 | 97 | [Sakta vi gå genom stan](https://open.spotify.com/track/6xICxwT5E3BSiCLpbStVeP) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 3:22 |
-| 98 | [Visa från Utanmyra](https://open.spotify.com/track/5DpUTzuGKVVxIkiqRAF5RV) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 2:41 |
+| 98 | [Visa från Utanmyra](https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Ohh! Monica!](https://open.spotify.com/album/67oyumtZk7JqH5onehTByo) | 2:42 |
 | 99 | [Kvällar i Moskvas förstäder](https://open.spotify.com/track/3w92SOIcwdz5uICUUM79gK) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på ryska](https://open.spotify.com/album/6Lo0aL2Yq8NnRPVulAI0Hw) | 4:17 |
 | 100 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 101 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDc4Zjk5M2M2MWYzOGM0ZDdiYzNhZGRlYzc5M2ZmMjFi`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMGVmYzA1NGQ2ODVmMzE4NzcxZjViNjJhZjFiYWJjMGJl`

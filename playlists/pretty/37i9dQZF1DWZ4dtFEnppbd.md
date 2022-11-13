@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 
 > Sounds of spiritual comfort and cultural traditions of triumph.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,114 likes - 27 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,115 likes - 27 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4dtFEnppbd.md) - [plain]
 | 22 | [How Great Thou Art](https://open.spotify.com/track/6irtSIChqibVEqf6DNfV3Q) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Precious Lord](https://open.spotify.com/album/07su16Rgh6gRQlJ65bgThM) | 3:34 |
 | 23 | [Heavenly Choir](https://open.spotify.com/track/4esEKIxsmfIJX7x6TWWyBM) | [The Canton Spirituals](https://open.spotify.com/artist/1EPpCbbQoN5loEfqOeuvFs) | [Live in Memphis](https://open.spotify.com/album/6r9Qb40H8qmnNjaZFjgI9p) | 8:59 |
 | 24 | [Medley: Precious Lord, Take My Hand / You've Got a Friend \- Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72](https://open.spotify.com/track/0xmbZP4ZwecZcVRxOaWuKE) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Amazing Grace \(Live at New Temple Missionary Baptist Church, Los Angeles, CA, 01/13/72\)](https://open.spotify.com/album/5pIUimaQ6XePPXbMUi3te0) | 5:44 |
-| 25 | [Goin' Up Yonder](https://open.spotify.com/track/1l1xhtNsfCFhyK3HraaiNQ) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Gospel Heritage Christmas, Vol\. 3](https://open.spotify.com/album/3qslBgw2OwfSJ0eSzgSTXe) | 5:10 |
+| 25 | [Going Up Yonder](https://open.spotify.com/track/477kgQbTTs9CSEJAZL9e9j) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [The Light Years](https://open.spotify.com/album/4pYsME51r7rDRZcdEv9DGB) | 5:10 |
 | 26 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 |
-| 27 | [The Center of My Joy](https://open.spotify.com/track/7vaPBsS0kw9AypFXeUukpr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Iconic Artists of Gospel Music](https://open.spotify.com/album/3WVOkxBtWd7vmuapji6UHL) | 5:16 |
+| 27 | [The Center of My Joy](https://open.spotify.com/track/01uA4LkBFfp2xEeIojihtC) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Textures](https://open.spotify.com/album/11vPXkDqXaKM84D1ggfpHl) | 5:17 |
 
-Snapshot ID: `MTU0OTQ4NDExOCwwMDAwMDAwMDg3OGI4OGViNWU1YjdhOWQzZTkyYzA2YzE1ZjFjYmYy`
+Snapshot ID: `MTU0OTQ4NDExOCwwMDAwMDAwMDg5NDRjYjhkZjNmZmUwMDM0ZThkMTJiZWFlMTIzMmRk`

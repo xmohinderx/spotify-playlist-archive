@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 28673,
+  "num_followers": 28710,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMDk4ZmFhMmFhNTlhYjE2Yjg0ZjI0NTg4MTgyNmUwZmUw",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGE3MTJiNDU5OTEwZjRkNzQ4YzZlMmFmZDg3OGZkM2Q5",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -111,6 +111,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 249242,
-      "name": "Hills and Valleys (The Valleys Version)",
-      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 211600,
       "name": "Trust in You",
       "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 249242,
+      "name": "Hills and Valleys (The Valleys Version)",
+      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -319,6 +335,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "The God Who Stays",
+      "url": "https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -351,6 +383,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "No Impossible with You",
+      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -371,22 +419,6 @@
       "duration_ms": 296343,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "No Impossible with You",
-      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -423,22 +455,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "The Elements",
-        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "I just need U.",
-      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Mmhmm",
         "url": "https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV"
       },
@@ -451,6 +467,22 @@
       "duration_ms": 232266,
       "name": "Who I Am Hates Who I've Been",
       "url": "https://open.spotify.com/track/36EXQbkUL5PpT0zS9Tr7UT"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "The Elements",
+        "url": "https://open.spotify.com/album/7th3D4IFJFSGajVlS4DheM"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "I just need U.",
+      "url": "https://open.spotify.com/track/1L7HnGxcNdScMVnjc3XRK0"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -515,6 +547,22 @@
       "duration_ms": 251714,
       "name": "Love Theory",
       "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 199531,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -595,6 +643,26 @@
       "duration_ms": 175213,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        },
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -743,22 +811,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "Prize Worth Fighting For",
-        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
-      },
-      "artists": [
-        {
-          "name": "Jamie Kimmett",
-          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
-        }
-      ],
-      "duration_ms": 200520,
-      "name": "Prize Worth Fighting For",
-      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Royal Tailor",
         "url": "https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa"
       },
@@ -775,6 +827,22 @@
       "duration_ms": 209440,
       "name": "Ready Set Go (feat. Capital Kings) (feat. Capital Kings)",
       "url": "https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Prize Worth Fighting For",
+        "url": "https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo"
+      },
+      "artists": [
+        {
+          "name": "Jamie Kimmett",
+          "url": "https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG"
+        }
+      ],
+      "duration_ms": 200520,
+      "name": "Prize Worth Fighting For",
+      "url": "https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -891,22 +959,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "The God Who Stays",
-        "url": "https://open.spotify.com/album/3Fh8ppnoZ6ToZXePDKAq1l"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "The God Who Stays",
-      "url": "https://open.spotify.com/track/5Xl34OQj59DQ8n5qgtTKiC"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "God Only Knows (Timbaland Remix)",
         "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
       },
@@ -951,22 +1003,6 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
-        "name": "At Midnight - EP",
-        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/0wtFB7vmIRecZhXQbDQ9Z1"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
         "name": "Dark Is The Way, Light Is A Place",
         "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
       },
@@ -979,6 +1015,22 @@
       "duration_ms": 243573,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "The Only Name (Yours Will Be)",
+      "url": "https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF"
     },
     {
       "added_at": "2019-11-20 07:28:20",
@@ -1199,6 +1251,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Hundred More Years",
+        "url": "https://open.spotify.com/album/1s6NqofRkHJN1eThDu948E"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "This Is the Stuff",
+      "url": "https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "Perspectives",
         "url": "https://open.spotify.com/album/7JacApKikA6YgXD2zq785n"
       },
@@ -1211,70 +1279,6 @@
       "duration_ms": 208325,
       "name": "Spend a Life",
       "url": "https://open.spotify.com/track/0YrLt5LEmJ8SqGnEmXzll7"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Today Is the Day",
-        "url": "https://open.spotify.com/album/3LeRWUi22WTeXmu1rvfUFc"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Brewster",
-          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
-        }
-      ],
-      "duration_ms": 276746,
-      "name": "Today Is The Day",
-      "url": "https://open.spotify.com/track/1AMCroLHu9Tho2lXzKaUWj"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "The Same Jesus",
-        "url": "https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 225996,
-      "name": "The Same Jesus",
-      "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Punk Goes Classic Rock",
-        "url": "https://open.spotify.com/album/64RLAKcWXgTpahzJbgEqZz"
-      },
-      "artists": [
-        {
-          "name": "The Almost",
-          "url": "https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/396oLs4Mt8k45Lv5aD6EF3"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Won't Be Moved",
-      "url": "https://open.spotify.com/track/5qhtdHmxEtZSEM1H7rn8Mj"
     }
   ],
   "unique_name": "Christian Road Trip",

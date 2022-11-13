@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,620 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,631 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 8 | [Julia's Song \(feat\. Elena Satine\)](https://open.spotify.com/track/3ADTWncwDSDT5TvbRgI6vt) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [Elena Satine](https://open.spotify.com/artist/1sj1fhz7j55cuyqrlYu2uP) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 2:37 |
 | 9 | [Lord of The Empty \(feat\. Leo Imai\)](https://open.spotify.com/track/13w2CsQQVMD4UAPbHRa1uV) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [Leo Imai](https://open.spotify.com/artist/5OXkwhleverYxFVIJERQFw) | [COWBOY BEBOP \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX) | 3:26 |
 | 10 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
-| 11 | [坂道のメロディ](https://open.spotify.com/track/2LHxO6kg6LJrnqcEgaCbkf) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [プレイボール/坂道のメロディ](https://open.spotify.com/album/58aZzjcq1YjDcwTbjHTEii) | 4:43 |
+| 11 | [坂道のメロディ](https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [すてきな15才](https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca) | 4:44 |
 | 12 | [replica](https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:23 |
 | 13 | [VOICES](https://open.spotify.com/track/22K07bNegW1ExvIrjiF3Mh) | [新居昭乃](https://open.spotify.com/artist/6Pp5qIsQ8kTUlFkK8dy2Ff) | [20th Anniversary Album sora no uta](https://open.spotify.com/album/2dD5v1XI0k8gUvK9G7TJyF) | 3:54 |
 | 14 | [player](https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [Heartsdales](https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT) | [攻殻機動隊 S.A.C\. Solid State Society O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:42 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 37 | [月の繭](https://open.spotify.com/track/6msxucVD54HLGHBjJX7o5z) | [Aki Okui](https://open.spotify.com/artist/5V9gHCDTCN8JXJo0g9FXjy) | [月の繭](https://open.spotify.com/album/6n0IhlU2aXm6dyaFk3HgIs) | 5:38 |
 | 38 | [Shine \-未来へかざす火のように\-](https://open.spotify.com/track/4yTLOJVd24fgt20yt0GyX3) | [Ayaka Hirahara](https://open.spotify.com/artist/0AzJGufY9eXWy5wHZWQ71H) | [What I am](https://open.spotify.com/album/4IGFw3TSI042ngF2gIZpuR) | 4:15 |
 | 39 | [愛してるのに Piano version](https://open.spotify.com/track/61SOOWxYCc8WHiFOhBU7Tl) | [Kome Kome Club](https://open.spotify.com/artist/5lTGqFmlTng9jPrs7c2dRA) | [ICTL no.2](https://open.spotify.com/album/61ynUPJZ4xCmxWPiNf7wNn) | 3:23 |
-| 40 | [恵みの雨](https://open.spotify.com/track/1UHkJn4tz1MbYXHXoxu7nZ) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [語り継ぐこと](https://open.spotify.com/album/7MGd8PzdrptHnTFz0hG3qj) | 5:45 |
-| 41 | [約束はいらない](https://open.spotify.com/track/2aMq7JJTMsFqxBORGjnY1c) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [約束はいらない](https://open.spotify.com/album/0UXM1HwBhBraeQl2okP8Db) | 3:32 |
-| 42 | [Flying Dragon](https://open.spotify.com/track/7voPXjubQFKfRrRv5psSWJ) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [The Vision of Escaflowne \- Lovers Only](https://open.spotify.com/album/2v3idQTfuVOSyuC7meKSMO) | 2:39 |
+| 40 | [恵みの雨](https://open.spotify.com/track/4OeAsBUmDCMwmLxG5fD1LJ) | [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [カッシーニ](https://open.spotify.com/album/6tquAUs8bW10pP2xLggb5f) | 5:43 |
+| 41 | [Yakusoku wa Iranai](https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 3:35 |
+| 42 | [Flying Dragon](https://open.spotify.com/track/7J5E5BotnQlI6K2rxUQ4tJ) | [Warsaw Philharmonic Orchestra](https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 1\)](https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR) | 2:39 |
 | 43 | [What Planet Is This.](https://open.spotify.com/track/5kGuWgZTWqroIArQQqttqV) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 2:44 |
 | 44 | [Moon](https://open.spotify.com/track/38vVfkW5EfyLM0BlvYKald) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [TURN A GUNDAM the Movie Original Motion Picture Soundtrack \- Wakusei No Gogo,Bokuraha Kiss Wo Shita](https://open.spotify.com/album/6yB5cU0jmTsDM5rjQWRjI1) | 5:13 |
 | 45 | [覚醒](https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 7:57 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 47 | [THUNDERBIRD](https://open.spotify.com/track/0oGzQ0shm38oCt5MinOXI9) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [UNDER:COVER](https://open.spotify.com/album/1kZXjOezJA0yFIz4lkFlMb) | 5:18 |
 | 48 | [Petitsavon](https://open.spotify.com/track/0SR4s4FT0LkCMNgIoTuDau) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Frida](https://open.spotify.com/artist/5uOVb4hLSQVbHbVVt27tV1) | [Petitsavon](https://open.spotify.com/album/6qfsLcM8V6nMaGAIItOfOG) | 1:05 |
 | 49 | [Eternal Memories](https://open.spotify.com/track/594TLPkEKLpd1qxts6aC9R) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [BEST of CRYSTAL KAY](https://open.spotify.com/album/7I8VJFB0SMwdrYiPpL44xh) | 5:08 |
-| 50 | [時には昔の話を](https://open.spotify.com/track/1h56zZbXHkjpO16H5jLgXV) | [Tokiko Kato](https://open.spotify.com/artist/7mRR1ujyKMatcj5CjqGYAW) | [加藤 登紀子 GOLDEN SELECTION](https://open.spotify.com/album/4XoE9edII3keSmLf5jfj7Q) | 3:58 |
+| 50 | [時には昔の話を](https://open.spotify.com/track/6doYuv4YLRc5ip4GqMUMnb) | [Tokiko Kato](https://open.spotify.com/artist/7mRR1ujyKMatcj5CjqGYAW) | [さくらんぼの実る頃](https://open.spotify.com/album/3p4X3ywzqgqzlCUZZMIXeh) | 3:57 |
 | 51 | [von](https://open.spotify.com/track/3oUgh8bLNkEF0ul6cdMW46) | [菅野 よう子 feat\. Arnor Dan](https://open.spotify.com/artist/0iUhLWdoD8Sy0TxeeAellF) | [残響のテロル オリジナル・サウンドトラック](https://open.spotify.com/album/5FzuQABR0MQBC4X60iEzSF) | 6:14 |
 | 52 | [流し目プレイ☆](https://open.spotify.com/track/0jdhf4ASJPQVB2lF6av0yq) | [Kei Kobayashi](https://open.spotify.com/artist/79kDeWonZGfPMKoubNNBx4) | [Keiスタンダード\~the best of Kei Kobayashi](https://open.spotify.com/album/5vp8PSLSp9R6qIMVccaY52) | 3:31 |
 | 53 | [奇跡の海](https://open.spotify.com/track/3SvHpNm2zWsogFk9IVJdNQ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 4:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 | 69 | [Ranka to Bobby no SMS Shoutai no Uta](https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X) | [Ranka Lee with Bobby Margo](https://open.spotify.com/artist/3zxmHKGd8fsi8XXYDaYgaK) | [MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.](https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3) | 1:00 |
 | 70 | [おてもやん](https://open.spotify.com/track/19kZmy3DQQxLbsHdAot5I6) | [Sayuri Ishikawa](https://open.spotify.com/artist/1tYbvS6Nkq4Rxvx8ZRTzJP) | [民 \~Tami\~](https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK) | 3:36 |
 
-Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMGQ0ZTQ4YzYxM2E1MTk1NDQ3YjYxYjQ4ZGRhM2QzMDMx`
+Snapshot ID: `MTY0NjA2MDQwMCwwMDAwMDAwMDQ1ZWU2MzcxMThhMjY1M2IyODE1OWUwMTc0YTY5YmU3`

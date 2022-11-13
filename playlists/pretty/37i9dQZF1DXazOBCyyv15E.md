@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Rae Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,467 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,517 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 93 | [Everything I'm Not](https://open.spotify.com/track/6zJKS2ThHSC5kcQ9uXDcnU) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Superficial Stains](https://open.spotify.com/album/6Qhq8Uz0MzaoywuchU3QoE) | 2:42 |
 | 94 | [eight hours \- James Vincent McMorrow remix](https://open.spotify.com/track/7fMKmmv3M2Ljde9V0FX4WP) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [eight hours \(James Vincent McMorrow remix\)](https://open.spotify.com/album/4ayZOgt1UGrdzRt8OtQ9nR) | 4:07 |
 | 95 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 |
-| 96 | [Divebomb](https://open.spotify.com/track/3OXpFoS8OktEEB8FSiO3xU) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Look Away, Look Away](https://open.spotify.com/album/0i4Zt5ln9MvSGkCeZvrqLM) | 3:22 |
+| 96 | [Divebomb](https://open.spotify.com/track/4yDT02dRXXMIZEEYxBiSkE) | [The Go! Team](https://open.spotify.com/artist/6veTV9sF06FBf2KN0xAdvo) | [Divebomb](https://open.spotify.com/album/1YXKiRHBrBczUqXo7cWEC6) | 3:22 |
 | 97 | [ALL KINGS](https://open.spotify.com/track/6u1ryrJKceTp06JEMsciCI) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [3034](https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx) | 3:33 |
 | 98 | [Say It Now](https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Say It Now](https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V) | 3:40 |
 | 99 | [Second Nature](https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 5:47 |
 | 100 | [up all week \(with slowthai\)](https://open.spotify.com/track/1l73bwJECQdHrcep2LNwLG) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:02 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDA2YzU4MzUwOTljNDlmOTYyN2JkNWI3N2RmMTJkNzFj`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMGM5Y2Y1NWJkOTg5NWZlZDQ5MDllZGRmMjg3NDc4MWEz`

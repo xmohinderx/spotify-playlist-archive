@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > In honor of our beloved friend and Kuya Dj Efechto\. This a collection of songs he loved, that influenced him, and tracks he produced or scratched on\. Turn your system to the Red for Efechto\.  Guest curated by Propaganda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,800 likes - 23 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,802 likes - 23 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 13 | [The Comeback \(Madlib\)](https://open.spotify.com/track/65I8SFvK8rurlVkl6UPZhA) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Beat Konducta Vol\. 1\-2: Movie Scenes](https://open.spotify.com/album/7wKrftuMRji6JskeRGEoHz) | 1:13 |
 | 14 | [Champion Sound](https://open.spotify.com/track/4yrqHxAUBDU6Uwrcn3oVo9) | [Jaylib](https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Champion Sound](https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa) | 2:23 |
 | 15 | [Speed Racer](https://open.spotify.com/track/1rY5OtQ8yOdh4SixnIOPFI) | [The Bridge](https://open.spotify.com/artist/74e9bWJx8AXx8MJy6wWvbE), [D\. Steele](https://open.spotify.com/artist/3v7GYILYt8orXKbs86JwIj), [Efechto](https://open.spotify.com/artist/5x69RJMXwFDWpDAsmdJScW) | [The Bridge](https://open.spotify.com/album/0K7EywH4ha7JWgjcwi4xTE) | 1:40 |
-| 16 | [Let's Take It Back \(Instrumental\)](https://open.spotify.com/track/42ntbDo7vKUaT1sB5K9bWE) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Ruff Draft](https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm) | 2:06 |
+| 16 | [Let's Take It Back](https://open.spotify.com/track/3C3DIE5j3J53S9jXo9Btcl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Ruff Draft](https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm) | 2:10 |
 | 17 | [Love](https://open.spotify.com/track/11ESYBYIiBt1Z2MKwfW9Bv) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining Instrumental](https://open.spotify.com/album/2ZcZ21vMvMSt1JFhCe1SME) | 3:14 |
 | 18 | [Stuck To You](https://open.spotify.com/track/7uOYN99KG67r2hxiqx2fz7) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Rapper's Best Friend](https://open.spotify.com/album/3U6uass3FUMZKMx2VFku4T) | 4:21 |
 | 19 | [B\-Boy Theme](https://open.spotify.com/track/4m7V6cSn3opOkpmdQWhjEw) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 0:52 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 22 | [Slow Cook](https://open.spotify.com/track/6OMuYzjJwxY12osD8QAXU1) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 3:58 |
 | 23 | [So Far To Go \- Instrumental](https://open.spotify.com/track/4b6Vfi3nqr6B3BJKkwLmJr) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining Instrumentals](https://open.spotify.com/album/4CjZRdriTNh1CyIEwjzoTB) | 5:36 |
 
-Snapshot ID: `MTU0MjgyODQ2MCwwMDAwMDAwMDEyZWY1ZmViODQ4YjMzYzNlODZkMDE2MzU2NGQ2NWJj`
+Snapshot ID: `MTU0MjgyODQ2MCwwMDAwMDAwMDNjYWFlYmU1ZjRiNThmYTA5MTExNDVkZDdmMWUzMjE5`

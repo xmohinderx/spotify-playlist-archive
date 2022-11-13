@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6thHZc9sy7P.md) - [plain]
 
 > Guess who's back? Get into the Inner Circle with us!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,289 likes - 59 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,295 likes - 59 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6thHZc9sy7P.md) - [plain]
 | 36 | [FIRST LOVE \(2019\)](https://open.spotify.com/track/6PiaO92uPOPDWg6RlSQxcg) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/35kSd7Y6cojcwxuW10dOuU) | 3:34 |
 | 37 | [REALLY REALLY](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:23 |
 | 38 | [EVERYDAY](https://open.spotify.com/track/7nSbcCwzzF7WUjNU9h9uGE) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EVERYD4Y](https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU) | 3:26 |
-| 39 | [ISLAND](https://open.spotify.com/track/6xZbRSkdowxgRj6U8qQF1b) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [OUR TWENTY FOR](https://open.spotify.com/album/6lkXJykDmEjdCWX4auOIjE) | 3:27 |
+| 39 | [ISLAND \- JP Ver.](https://open.spotify.com/track/2LBIZOuS8wD1g0TUMzH3Fq) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WINNER THE BEST "SONG 4 U"](https://open.spotify.com/album/1OOoxLYJtQry4GGDQ4P95n) | 3:29 |
 | 40 | [MILLIONS](https://open.spotify.com/track/4ayr28xOK5Jp5Ag1vNMopT) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [MILLIONS](https://open.spotify.com/album/4DfTjPhhTGnJJLSouxFrd1) | 3:28 |
 | 41 | [공허해 empty](https://open.spotify.com/track/2ENZ9lWpoLAGFDJsDb2Cbt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 3:40 |
 | 42 | [FOOL](https://open.spotify.com/track/1mTlfqaoh3piVp3Uhdv7jB) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:41 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6thHZc9sy7P.md) - [plain]
 | 58 | [고백하는 거야 Confession](https://open.spotify.com/track/2HpYrrrf4mA84To3PCsvSR) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 4:07 |
 | 59 | [IMMATURE](https://open.spotify.com/track/4MKADX60Z5h7WAfaDVbTAS) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [EXIT MOVEMENT:E \(JAPAN EDITION\)](https://open.spotify.com/album/6DOmD0SufB8lZ2fQFRV08b) | 3:12 |
 
-Snapshot ID: `MTY1NzAxMTg0NywwMDAwMDAwMDBhMzU4N2NkZWZhYmVkY2UwNmFiMzFiMzk0MTAwMTcw`
+Snapshot ID: `MTY1NzAxMTg0NywwMDAwMDAwMDBhZjFhM2EzNDc2ZTJkMjgzODUyZWU0ODkyMzU3OWEz`

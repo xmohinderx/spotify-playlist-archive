@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 304440,
       "name": "Blinded By The Light",
       "url": "https://open.spotify.com/track/1VyDQtfhX6gqhWTGU7Oe8X"
@@ -737,6 +737,24 @@
       "duration_ms": 261826,
       "name": "One Step Up",
       "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179506,
+      "name": "Only the Strong Survive",
+      "url": "https://open.spotify.com/track/6at33NMZgSJIp7jNoCuTd7"
     },
     {
       "album": {

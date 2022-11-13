@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,756 likes - 213 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,063 likes - 213 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 101 | [Saturn](https://open.spotify.com/track/2tZLbIeexd0Wpoa4f9YVEi) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Saturn](https://open.spotify.com/album/0GMOnke7dfEEwJjeER3FL3) | 1:51 |
 | 102 | [Mo' Better Soul](https://open.spotify.com/track/22meHhwZXjre3IRkPBmYqD) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Mo' Better Soul](https://open.spotify.com/album/1ArYCq3OCYI3b1EYuP5Z8K) | 2:31 |
 | 103 | [PALMTREES](https://open.spotify.com/track/68LpjjFHicK5YIM5I5KMex) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [PALMTREES](https://open.spotify.com/album/19TpbK79ZyrZUzgv2dwdfK) | 2:10 |
-| 104 | [Walking to Adachi](https://open.spotify.com/track/0zHKDPdhYYuRsZP6UPYu0x) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:21 |
+| 104 | [Walking to Adachi](https://open.spotify.com/track/5pFain5KYhtQ7PoZFp5u7l) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:21 |
 | 105 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 |
 | 106 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 |
 | 107 | [Train Ride](https://open.spotify.com/track/4mHEsCjfyA1vKlIIgsMDrU) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 2:31 |
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 185 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 |
 | 186 | [keyless](https://open.spotify.com/track/4b7vbNg9x0cgHjquvvhhZC) | [artoban](https://open.spotify.com/artist/3sQE7gxylG2AydTX4UutZT) | [dry&high](https://open.spotify.com/album/1mVUu7fnWB58ld4PTUd8dQ) | 1:41 |
 | 187 | [meeting the dawn](https://open.spotify.com/track/0bnRhmmGCWZAqwGHvjL5TA) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT) | [Meeting the Dawn](https://open.spotify.com/album/6mc6HieAYfKA1ybnAnqGog) | 1:44 |
-| 188 | [A New Life](https://open.spotify.com/track/7tiQMMskXb7tdF2zsC81Qb) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [Like A Dream EP](https://open.spotify.com/album/1Q6YbaxWS6aDUs7XfsP90y) | 2:54 |
+| 188 | [A New Life](https://open.spotify.com/track/11MUQKaRB8LwM5kB5SPGjT) | [Taloha Beats](https://open.spotify.com/artist/18QVRutrl0pcjLKv6yYleC) | [A New Life](https://open.spotify.com/album/7K7sAzmHrPeHNdeklNTCA2) | 2:54 |
 | 189 | [Faith Basket](https://open.spotify.com/track/7bjJRSF3xts6D99aJ5DN1X) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Faith Basket](https://open.spotify.com/album/2kSlxWw2YAZqwp69iSHy9s) | 1:15 |
 | 190 | [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 |
 | 191 | [The Love Pool](https://open.spotify.com/track/0S4I0Y3T6DiQFbF7Mh9TZl) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7) | [The Love Pool](https://open.spotify.com/album/4Y8QUPvEtBLx6nJ2R0aU7z) | 3:12 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 212 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 213 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMDJkMGY3M2NlM2UxZDFiYTY2M2ZjNDI5NDYyNjc1MjU1`
+Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMDhhZDU2NjQwODZlZDExNzFmMGRjOTcwN2JiNTAxYTFl`

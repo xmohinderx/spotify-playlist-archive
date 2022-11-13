@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 
 > All E.L.F's go to playlist! A brand new album is here! Listen to The Renaissance!
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,542 likes - 133 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,565 likes - 133 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 | 92 | [너라고 It's You](https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [너라고 It's You](https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J) | 3:51 |
 | 93 | [SPY](https://open.spotify.com/track/4SxuFEgctsMqfiKBYJPNa5) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [SPY \- The 6th Album Repackage](https://open.spotify.com/album/5qlpNPHBw11axwSZzVKM3C) | 3:15 |
 | 94 | [Magic](https://open.spotify.com/track/7Mn9begcwfZ7utquTWUmjV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2) | 3:35 |
-| 95 | [촉이 와 \(Can You Feel It?\)](https://open.spotify.com/track/14b5qBilNJNANSFoBZVFer) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | ['The Beat Goes On' Special Edition](https://open.spotify.com/album/7aiTKZR31CqfAfy2mQJZas) | 3:28 |
+| 95 | [촉이 와 \(Can You Feel It?\)](https://open.spotify.com/track/20mJzqIz7hsoCfGMozs4af) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [The Beat Goes On](https://open.spotify.com/album/1zlu7G1v4XhLHndlXYvW6m) | 3:28 |
 | 96 | [백일몽 \(Evanesce\)](https://open.spotify.com/track/3Cfr2LapTw15PQljS7wxLs) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:44 |
 | 97 | [U](https://open.spotify.com/track/7HKkudjI7pofH9oDqt3Y1T) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [U](https://open.spotify.com/album/6II4FpwMXm5tQRhaXDxjo2) | 3:46 |
 | 98 | [This Is Love](https://open.spotify.com/track/6frJDLf3X7gd7YYDTpfQMb) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:49 |
@@ -113,20 +113,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 | 103 | [Good Day for a Good Day](https://open.spotify.com/track/3y022UysBG5fpRZDgiaJFY) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [PLAY \- The 8th Album](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) | 3:05 |
 | 104 | [Marry U](https://open.spotify.com/track/5gy62OiW2cri7dyir11hsL) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [돈돈! Don't Don](https://open.spotify.com/album/31q68enr8bT14QjoC04BsZ) | 3:19 |
 | 105 | [Shirt](https://open.spotify.com/track/4Es8ZcU76088PMTIrF4XDV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:28 |
-| 106 | [너로부터 \(From U\)](https://open.spotify.com/track/2kUBQuXvsB9OHpcjcANQuk) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [SPY \- The 6th Album Repackage](https://open.spotify.com/album/5qlpNPHBw11axwSZzVKM3C) | 3:12 |
+| 106 | [너로부터 From U](https://open.spotify.com/track/0x1VfHxGlzWDGpsQ0JqNbQ) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Sexy, Free & Single \- The 6th Album](https://open.spotify.com/album/1A8GN5ALgg4TznPJ2LVzmn) | 3:10 |
 | 107 | [니가 좋은 이유 Why I Like You](https://open.spotify.com/track/0ZVAUR4AaS9qSRL8Qs5XaS) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:45 |
 | 108 | [The Lucky Ones](https://open.spotify.com/track/7jHMvMIRLzMnEz1poJeKPo) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [PLAY \- The 8th Album](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) | 3:38 |
-| 109 | [Alright](https://open.spotify.com/track/1ZNowa5CYVyfH3G4zrBx0V) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2) | 3:55 |
+| 109 | [Alright](https://open.spotify.com/track/6wBfDGYfGIFgIsi1PnG6vN) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:55 |
 | 110 | [Miracle](https://open.spotify.com/track/50mJUXTFaqSTpqppyPPnvp) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 2:56 |
 | 111 | [Islands](https://open.spotify.com/track/1TNHoFpfP3ajQYtSwMhKOb) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 4:27 |
 | 112 | [Super Duper](https://open.spotify.com/track/1fxrwpwKOFGDBCxyHUFH5a) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Duper \- SM STATION](https://open.spotify.com/album/1ljrFa4UcJw9gUGqIWEvHG) | 3:14 |
 | 113 | [돈 돈! Don't Don](https://open.spotify.com/track/4K5OvEAa35FTORioqjTHPz) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [돈돈! Don't Don](https://open.spotify.com/album/31q68enr8bT14QjoC04BsZ) | 4:12 |
 | 114 | [I do 두 번째 고백](https://open.spotify.com/track/1BYifTbikas6Q9oCmrpdlL) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [PLAY \- The 8th Album](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) | 3:31 |
-| 115 | [Don’t Wake Me Up \- sung by SUPER JUNIOR–D&E](https://open.spotify.com/track/41y2jZ0QJFl5Jk13soaOfs) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAGIC \- SUPER JUNIOR SPECIAL ALBUM PART.2](https://open.spotify.com/album/2YFurqloMyEncsFHOjIbm2) | 3:08 |
+| 115 | [Don’t Wake Me Up \- sung by SUPER JUNIOR\-D&E](https://open.spotify.com/track/4OOLB4Av78RNc98neW2AOE) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [DEVIL \- SUPER JUNIOR SPECIAL ALBUM](https://open.spotify.com/album/4YdR3Qy3eZXsLGIXaEAw8o) | 3:08 |
 | 116 | [Scene Stealer](https://open.spotify.com/track/32TcXGY4h0Lluw6G6UvWn7) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [PLAY \- The 8th Album](https://open.spotify.com/album/1F7DAPXJpLVKfyZFSFsrCw) | 3:25 |
 | 117 | [로꾸거!!!](https://open.spotify.com/track/77Z6XdUHDsbvsLd61vVbQU) | [SUPER JUNIOR\-T](https://open.spotify.com/artist/5Z595Kh9tlzZuyneUHI111) | [로꾸거!!!](https://open.spotify.com/album/4jKdrKP3d7a6fR9nJBQMAv) | 2:59 |
 | 118 | [춤을 춘다 \(Midnight Blues\)](https://open.spotify.com/track/1sKpXv77roC3zU957aqYBK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 4:21 |
-| 119 | [Twins \- Live](https://open.spotify.com/track/3YNOOvEt49Kr8mymKGg6Hs) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Show \(The 1st Asia Tour Concert Album\)](https://open.spotify.com/album/7iLEumOEyYFsprOdFb2jHT) | 3:20 |
+| 119 | [Twins \(Knock Out\)](https://open.spotify.com/track/0C4NNrGcJJ21Kc5FwrFCY3) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 3:21 |
 | 120 | [태완미 \(太完美 Perfection\)](https://open.spotify.com/track/1gmR5AoPKkn9Er0w66jDLX) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Mr\. Simple \- The 5th Album](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) | 3:24 |
 | 121 | [Happy Together](https://open.spotify.com/track/1nfrvid2rx2IplCmiQKiPF) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:34 |
 | 122 | [Only U](https://open.spotify.com/track/0ElyviAmPCWaumxyMeVIgl) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [SPY \- The 6th Album Repackage](https://open.spotify.com/album/5qlpNPHBw11axwSZzVKM3C) | 3:37 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h06zz0VktL.md) - [plain]
 | 132 | [Believe](https://open.spotify.com/track/0Il83cLuIAYa4ghaxwLM4F) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior 05](https://open.spotify.com/album/5qP97X9XW3BqpGrqtbcm4C) | 4:54 |
 | 133 | [I'm not over you](https://open.spotify.com/track/0tdMBJmUaobBXpttiycchZ) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Drunk on love \- The 2nd Mini Album](https://open.spotify.com/album/2UUx4fVD3UtiSSvZ4DN119) | 4:37 |
 
-Snapshot ID: `MTY1NzYzNzMyNCwwMDAwMDAwMDIzNGU4YjBjMzgyYjdjMTRlZmQzYTEyN2MxODU5Njcx`
+Snapshot ID: `MTY1NzYzNzMyNCwwMDAwMDAwMGVlZDk0NzUxZjdjNzA2NWFmNzI0ODQ1ODM1YmM2OWZm`

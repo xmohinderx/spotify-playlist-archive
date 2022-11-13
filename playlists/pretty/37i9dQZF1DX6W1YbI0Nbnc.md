@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > 一起感受香港製造的女聲力量！\(cover: Ivana王菀之\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,005 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,008 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 6 | [勇者鬥惡言](https://open.spotify.com/track/36cK81VNERJWGRaomcUkFv) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [勇者鬥惡言](https://open.spotify.com/album/5EVVIPWt3rKmLnE42iYqQg) | 3:28 |
 | 7 | [u owe me $$](https://open.spotify.com/track/1suYIEpjPMDs8b8ouSWfV7) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [u owe me $$](https://open.spotify.com/album/45ws2OGii3pGImgyhePhBC) | 2:37 |
 | 8 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 |
-| 9 | [我真的受傷了](https://open.spotify.com/track/1s28J2sYq5opmDzanJHK1E) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | ["1" \(壹\)](https://open.spotify.com/album/4QpN1uUfHM5o23UZ2HULPc) | 3:35 |
+| 9 | [我真的受傷了](https://open.spotify.com/track/5mNanSqILS25aPhiiN1fxy) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [國語情歌集](https://open.spotify.com/album/1t1Q05AtGJ7aOTjl9XerWx) | 3:33 |
 | 10 | [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 |
 | 11 | [OFF/ON](https://open.spotify.com/track/1k4epQqpbGkyIm3O6bRALu) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [OFF/ON](https://open.spotify.com/album/2rbid0M6p0FaDplPh5ey6P) | 3:28 |
 | 12 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [無常家](https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [無常家](https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h) | 3:59 |
 | 50 | [8SEC](https://open.spotify.com/track/5iUu6TerlD7QGVeJyXRd3r) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [8SEC](https://open.spotify.com/album/4Rej6saAxyu8MQD21E8QeN) | 3:37 |
 
-Snapshot ID: `MTY2NzMyMjAwMCwwMDAwMDAwMDE5ODQyZDMzYWExN2VhZTU4ZjUzNzNjODZkY2M1MzM0`
+Snapshot ID: `MTY2NzMyMjAwMCwwMDAwMDAwMGVlMGYwY2IxMzA2NWFkMTIyNzBiY2MwMWYyZjcwZGVm`

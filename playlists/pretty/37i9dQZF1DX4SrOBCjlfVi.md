@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rod Wave, Lil Tjay and more\. Cover: SleazyWorld Go
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,755 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,896 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 2 | [Break My Heart](https://open.spotify.com/track/13VvjrXWYzG9lWViL8Y9vM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Break My Heart](https://open.spotify.com/album/73wpA6cBZPGR7MFFLet4xz) | 2:49 |
 | 3 | [Give You What You Want](https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Give You What You Want](https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep) | 2:39 |
 | 4 | [Michael & Quincy](https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:47 |
-| 5 | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/track/0tLfChoWmx3RK1hoBuImpC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne), [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg) | 3:35 |
+| 5 | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/track/0tLfChoWmx3RK1hoBuImpC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg) | 3:35 |
 | 6 | [Vanish Mode](https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 1:57 |
 | 7 | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [1 On 3 \(feat\. Rvssian\)](https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ) | 1:36 |
 | 8 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |

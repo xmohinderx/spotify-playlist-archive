@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,840 likes - 19 songs - 49 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,852 likes - 19 songs - 49 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 | 7 | [Do It On The Tip \(feat\. City Girls & Hot Girl Meg\)](https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Hot Girl Meg](https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:47 |
 | 8 | [Drinks](https://open.spotify.com/track/7c2ag2Q4vhJyjDANataJj2) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Drinks](https://open.spotify.com/album/6JOAYeMZPAV5liS4RlUA0b) | 2:30 |
 | 9 | [Faster Please](https://open.spotify.com/track/1E8WiCruTiJgwFUTCuhSIh) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [Faster Please](https://open.spotify.com/album/5CEefcfGyvum65f2J73YRM) | 3:03 |
-| 10 | [Talk About It](https://open.spotify.com/track/66f1ikubGWohX1J5t4BKi9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/5d12zoUFyvETmqljhPEyDC) | 3:24 |
+| 10 | [Talk About It](https://open.spotify.com/track/4MLcutHNxBO4PuO2Rgw12Y) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 3:24 |
 | 11 | [UNSTATUS QUO](https://open.spotify.com/track/5JrGf6LaoUgx94PamvZ4eI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [UNSTATUS QUO](https://open.spotify.com/album/6TLLBBll0rVoCjHxnGiybO) | 2:57 |
 | 12 | [New York, New York \- Cover](https://open.spotify.com/track/4PKBnHyHqXGjVXFuiGK0Jp) | [Bermuda Kills](https://open.spotify.com/artist/77xksHBmH0nrQ8kTUZmwH6) | [New York, New York \(Cover\)](https://open.spotify.com/album/64Gy446NyhC2CmbVMac8v4) | 3:23 |
 | 13 | [No Sweat](https://open.spotify.com/track/2p1FYe6RRNm7xl3xy6j1gv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [No Sweat](https://open.spotify.com/album/7uMPr1RFVVffsjyQ2j3zWZ) | 2:17 |
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 | 18 | [The Pines](https://open.spotify.com/track/0uTw7TNnYn64XmCAo5jr0c) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 19 | [I'm Good](https://open.spotify.com/track/2JHnZr94NIAJ2Klv8LyeeU) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/7J0ZIqCXonETepPyPf1Eka) | 2:28 |
 
-Snapshot ID: `MTY0NzYzMDAwNywwMDAwMDAwMGI4NGNhNmY5MGJiMTEwZmIzZDg1ZDE3Mjg2OTc0OWZi`
+Snapshot ID: `MTY0NzYzMDAwNywwMDAwMDAwMDMyYjAwNzRhYTI1MjBlOTA2Mjg0ZGQyNjljMzA1YTIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,621 likes - 300 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,682 likes - 300 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 131 | [Lucy Goosey](https://open.spotify.com/track/5Qnot7dFk2OguRXGOzG3rN) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Pink Lemonade](https://open.spotify.com/album/2Hl7QyBwj65cFqpWBhgcSm) | 1:30 |
 | 132 | [Royal Highness](https://open.spotify.com/track/7uJKZCjiHRAde6xQm2Kx0Q) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Kid Tested & Mother Approved](https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc) | 2:08 |
 | 133 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 |
-| 134 | [Walking to Adachi](https://open.spotify.com/track/0zHKDPdhYYuRsZP6UPYu0x) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:21 |
+| 134 | [Walking to Adachi](https://open.spotify.com/track/5pFain5KYhtQ7PoZFp5u7l) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:21 |
 | 135 | [Sweet Morning](https://open.spotify.com/track/3sDROMtJXbaBbFag9akZLY) | [Ouska](https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV) | [Sweet Morning](https://open.spotify.com/album/4SzuMKqwnXnCuORNhqWuGO) | 2:40 |
 | 136 | [dreams](https://open.spotify.com/track/3zwzd8lU5jBKn7cc6KySnC) | [tawnbei](https://open.spotify.com/artist/2Np0o8All4XesC4ZMGufqI), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Tomorrow](https://open.spotify.com/album/4V64FySutmmfz5MZQTSVnN) | 1:15 |
 | 137 | [Summer](https://open.spotify.com/track/2qTZ6o9q4vxxVlGbsJCFTA) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Summer](https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz) | 1:56 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 299 | [Cream Sunset](https://open.spotify.com/track/0cCzWMEaRgqnbOpNrnKoPD) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo), [Kind Puppy](https://open.spotify.com/artist/6UugiEEysCLia9Ge04UN1j) | [Cream Sunset](https://open.spotify.com/album/2LfvL0bCxhob1tQmg2UBMj) | 2:26 |
 | 300 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMDM3YmE4MzJhZmM0YzExZWNlMWY4ZjYwM2E0NWM2ZGNk`
+Snapshot ID: `MTY2ODE2Nzc4OCwwMDAwMDAwMGQ4ZmY4MDU3Yjk5MWJjOWY5N2RkNjJhNzdkNjQxZmM5`

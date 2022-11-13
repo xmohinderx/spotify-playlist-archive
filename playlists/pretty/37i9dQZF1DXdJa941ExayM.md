@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,551 likes - 82 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,608 likes - 82 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 35 | [Car Crash](https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Car Crash](https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB) | 3:53 |
 | 36 | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/track/6jlelDSfxfbXHcvecHirda) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Go Get A Tattoo \(feat\. Lynks\)](https://open.spotify.com/album/20Jc5OznITldQ6pJPjxO5m) | 2:38 |
 | 37 | [Bet My Blood](https://open.spotify.com/track/3k148B0XDmtKhGjC2fBgND) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:59 |
-| 38 | [Flux](https://open.spotify.com/track/5ET2CeFXzBbNmR9omHIcOF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/6psazhJGTEJpXZQl4rCxY8) | 5:00 |
+| 38 | [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 |
 | 39 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 |
 | 40 | [A$$A$$IN](https://open.spotify.com/track/3sA3QDurusOs0paKSUZ4I6) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [We Made Plans & God Laughed](https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd) | 3:09 |
 | 41 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 45 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 |
 | 46 | [antifreeze\*](https://open.spotify.com/track/4kUxJuInSVt8lNtcTGbjKD) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [antifreeze\*](https://open.spotify.com/album/0KcvKrAuuPIdpQmZpYx57o) | 2:02 |
 | 47 | [SOBER](https://open.spotify.com/track/4b15dejUsgkM2UqDpMOoUc) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [SOBER](https://open.spotify.com/album/4qjXIB3RXqHXgMlRpuSGtn) | 2:33 |
-| 48 | [Monkey Mind](https://open.spotify.com/track/7HOoBiQPV0GU6Qw6n6xrJT) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Ma Likes to Drink](https://open.spotify.com/album/1Q5GTbJdgsGyTM7fMes8mB) | 2:18 |
+| 48 | [Monkey Mind](https://open.spotify.com/track/7qvwnde6QuoYGd0xUcevIQ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Bellevue](https://open.spotify.com/album/7nGrRTsbZWCSCOmziwf5Sy) | 2:18 |
 | 49 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
 | 50 | [Payday](https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Payday](https://open.spotify.com/album/01Lj7qVMPDFq1ojfn32yjw) | 2:54 |
 | 51 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 54 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 |
 | 55 | [walking around with no hands](https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 2:01 |
 | 56 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
-| 57 | [Drive in Mind](https://open.spotify.com/track/7jmBGAkRdGX16PFfePK2LP) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Have It Your Way](https://open.spotify.com/album/6FcepCfjwFWY6y2ckGT2F1) | 4:03 |
+| 57 | [Drive in Mind](https://open.spotify.com/track/5VhkquQD3tsUvWGWYD80yf) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Drive in Mind](https://open.spotify.com/album/2yCxWTAQ6QhykPHyVshDhG) | 4:03 |
 | 58 | [storyboard for a pessimist](https://open.spotify.com/track/6UObhqa3DmniQ0YTWg2AqW) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 2:38 |
 | 59 | [Multitudes](https://open.spotify.com/track/3rue5FCOZVURcIONrQ9YJQ) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Time Bend and Break The Bower](https://open.spotify.com/album/7c6SzIehKQl4m37Saqo3NS) | 4:35 |
 | 60 | [So You Don't Get In Trouble](https://open.spotify.com/track/2ZlMCcLZaxgF1DLF6pFsJu) | [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [So You Don't Get In Trouble](https://open.spotify.com/album/6lFhQlG8PC9byMDPccFNW6) | 3:06 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 81 | [Date With Death](https://open.spotify.com/track/51JGjj0xewUWWCLKr152nU) | [Paris Shadows](https://open.spotify.com/artist/2mxplErmRMbGaSiAsDONkT), [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Date With Death](https://open.spotify.com/album/53APyRUyeCXI7jislWMpRA) | 1:59 |
 | 82 | [you can't blame me](https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:05 |
 
-Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDMxYWJhZjFhOGEwMWNlMDFhMjVmMWFkMDY4MTVlZDNj`
+Snapshot ID: `MTY2NDQ5MjQwMCwwMDAwMDAwMDIyZWM1NTVlMWY4ZjUwNzg1Y2U2MDM0Zjc2Nzc3ZWU1`

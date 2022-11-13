@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,622 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,808 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 9 | [Prélude en ré mineur](https://open.spotify.com/track/0fw41LXX7qiXgeMi6GSGCX) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Rolf Lislevand](https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh) | [La Mascarade \- Music For Solo Baroque Guitar And Theorbo](https://open.spotify.com/album/1vWEJTnxqM5uVcOmvB69Rp) | 1:15 |
 | 10 | [Gloriana: Courtly Dances: Galliard](https://open.spotify.com/track/0qaw30WDhtinR04AeHpe2x) | [Benjamin Britten](https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn), [The Julian Bream Consort](https://open.spotify.com/artist/0Tq7RIzkJrCoFwolOKMxSM), [Julian Bream](https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6) | [Rodrigo: Concierto de Aranjuez \- Britten: The Courtly Dances from Gloriana \- Vivaldi: Concerto for Lute in D Major, RV 93](https://open.spotify.com/album/1cFkk7HDMgK099aukr6GRv) | 2:36 |
 | 11 | [Ciaccona \(I\)](https://open.spotify.com/track/7jOnhe335cbTJyTiZoPkxg) | [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [All' Improvviso: Ciaccone, Bergamasche, & un po' di Follie...](https://open.spotify.com/album/1djXV7bpisc7lSeZWK9Y8e) | 3:52 |
-| 12 | [Frogg galliard](https://open.spotify.com/track/6xNHV1MLHrlRPlPx7UDA3x) | [Hopkinson Smith](https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy), [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk) | [A Portrait](https://open.spotify.com/album/32noSvMP3rjFYhOvazJoHQ) | 2:44 |
+| 12 | [Frogg Galliard](https://open.spotify.com/track/4uswqnBI5LjRIcTr3LgFcF) | [Hopkinson Smith](https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy), [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk) | [Dowland \- A Dream](https://open.spotify.com/album/03DIodWT7tCGMsNEUsTi5M) | 2:44 |
 | 13 | [Codex Calixtinus \(Jacobus\) Polyphony, plainchant and instrumental collection\. \(12/13th c\): Dum pater familias](https://open.spotify.com/track/2x9KrrpRjrCGIco8oQ3yJg) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [New London Consort](https://open.spotify.com/artist/1aqZE6rtaBWlipoD3Cj8HB), [Philip Pickett](https://open.spotify.com/artist/28exjH55NHlMdsQFf64Zrt) | [Sinners & Saints: The Ultimate Medieval & Renaissance Music Collection](https://open.spotify.com/album/2wKoQ2Nc9BUos73FII4B7o) | 5:29 |
 | 14 | [Fantasia \- Instrumental](https://open.spotify.com/track/3hYHCMkZG7ImrgChQi5PwU) | [Alonso Mudarra](https://open.spotify.com/artist/7vAEvCZlKOLpLqHzfAPdej), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [NPR Milestones of the Millennium: The Renaissance in Music](https://open.spotify.com/album/3Q8GxkzDXMIBtynAbYnqdO) | 1:34 |
 | 15 | [The Noble man \- Instrumental](https://open.spotify.com/track/7BPdMDvu7Tx1PEHC3AslcI) | [Robert Johnson](https://open.spotify.com/artist/2aCgahfhJEknpgwtVWAs7c), [Nigel North](https://open.spotify.com/artist/3bXYTyOxtKi2xyij1LDCnQ) | [The Rags of Time \- 17th Century English Lute Songs & Dances](https://open.spotify.com/album/4MZmhEIgJu0FUOSJAQtMuZ) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 49 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 | 50 | [England \(The Medieval Era\)](https://open.spotify.com/track/4Jt5UkcyYL261tokw058x0) | [Geoff Knorr](https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI) | [Sid Meier's Civilization VI \(Original Game Soundtrack\)](https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd) | 4:09 |
 
-Snapshot ID: `MTY2NDc5MzE0NywwMDAwMDAwMGQ4NTkyY2MzMDI4N2YzODIwNzU3ZTg2Y2Y2ZDZmYzlj`
+Snapshot ID: `MTY2NDc5MzE0NywwMDAwMDAwMGNhN2UzOTg1MjY0MGFjNGViZjIzYWZjYTZlZTA2MDUy`

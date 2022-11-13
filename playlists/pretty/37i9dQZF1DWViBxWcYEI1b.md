@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,119 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,127 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 34 | [Perfectly Broken](https://open.spotify.com/track/3Xx9gfUF7fd9tlffUrhxNi) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Perfectly Broken](https://open.spotify.com/album/5DGzH5tTCp8qWkR0trpPSZ) | 3:08 |
 | 35 | [I Hate Goodbyes](https://open.spotify.com/track/3zIJmKDQxhL2MRfOoEkN1Q) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [I Hate Goodbyes](https://open.spotify.com/album/5liseJHDeD9xTkq2g1VwW2) | 3:02 |
 | 36 | [ONLY ONE](https://open.spotify.com/track/3eOdplB2tlEsEfWd8WKf0e) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [ONLY ONE](https://open.spotify.com/album/6wDeULI9weCchekIbT3FKO) | 3:03 |
-| 37 | [Run Away to Mars](https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [HELGMYS](https://open.spotify.com/album/3T6WfgQ7b6evh5m2cHm81h) | 3:33 |
+| 37 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 | 38 | [21 Days](https://open.spotify.com/track/0KChbh9zPLQNOxkG20cWTN) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [21 Days](https://open.spotify.com/album/2nfbP4RNeTZQNfcD6qgqa2) | 3:06 |
 | 39 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 |
 | 40 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 59 | [Heavy](https://open.spotify.com/track/7q0MPwF6ORiKJWXLYGAhsH) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:07 |
 | 60 | [Kiss Me](https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:49 |
 | 61 | [4045](https://open.spotify.com/track/0dDXbcBI2DJW12FSWpSjgq) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [4045](https://open.spotify.com/album/2McpGRmdq0KRfDOfASZf2F) | 4:01 |
-| 62 | [SNAP](https://open.spotify.com/track/4Qd8lWWPRLv4x6ZZVJykRB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 2:59 |
+| 62 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 63 | [Ain't Got Nothin' Figured Out](https://open.spotify.com/track/7K8Rw4AUsIVPGSBdzII44L) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Ain't Got Nothin' Figured Out](https://open.spotify.com/album/0oTaygkYZPGj8dOvRqW6IB) | 3:25 |
 | 64 | [What Does Sorry Mean](https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [What Does Sorry Mean](https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf) | 3:01 |
 | 65 | [ITS ALL GOOD](https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [ITS ALL GOOD](https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn) | 3:07 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 100 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 101 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDQ2NDY3NTFlZGYwMDE2NjYzNTQxMmI3ODAyMDEwNTdm`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGFlZWMyZGM1NGEzNmJiM2FlYTBiZWM3MzVkZWQ0MjE2`

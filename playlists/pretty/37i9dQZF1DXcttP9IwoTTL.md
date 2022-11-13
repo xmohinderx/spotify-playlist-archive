@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,348 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,360 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 53 | [Fly](https://open.spotify.com/track/0hdEJVWLtUcd1KgQNi3H5r) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3) | [Alma EP](https://open.spotify.com/album/0pfh5nzB0v1JYYL3dZyT9B) | 3:52 |
 | 54 | [Dream Ritual](https://open.spotify.com/track/0gvvZlRPwWkcPtrMNgY5N4) | [Paramida](https://open.spotify.com/artist/3bFxfwnZ1vmvzoNYz8z2vh) | [Dream Ritual](https://open.spotify.com/album/0MQJ6H8BRzGyEDx0RrCTCY) | 7:10 |
 | 55 | [Gigi Groove](https://open.spotify.com/track/5oXinMI7zvRUu9HQRWZaP1) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [In The Mood](https://open.spotify.com/album/3ZYzZUCtlSHTMaRO5RjRXu) | 3:28 |
-| 56 | [Tell Me Why \- M&M Full Vocal Mix](https://open.spotify.com/track/64uUwYABwplNS7wgsVkiOS) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 4:43 |
+| 56 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 |
 | 57 | [Your Last Everything \(Soft Crash Angel\)](https://open.spotify.com/track/0RohHX8cD3VexxFoinBr3p) | [Soft Crash](https://open.spotify.com/artist/5Bn023TbDEhuYVvib0B2Dy), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Your Last Everything \(Soft Crash Angel\)](https://open.spotify.com/album/6YySvMgDdhJEGFF1hzOtG3) | 5:14 |
 | 58 | [Feelings](https://open.spotify.com/track/45NI7zJYwbY7iEvkgRl1y6) | [N&W](https://open.spotify.com/artist/5TFFHlKvP8IUtum3TB4ZmR) | [Feelings](https://open.spotify.com/album/3yCPWKHja3fYgXAV2MNYfB) | 4:35 |
 | 59 | [Lush Life](https://open.spotify.com/track/4XkuBnhvrRLJg3TvHay3W8) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Lush Life](https://open.spotify.com/album/7wAG08EkVojJORs48iThNm) | 9:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 70 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 |
 
-Snapshot ID: `MTY2NzgzNDAyMywwMDAwMDAwMDRjY2YwZTRjZmNkZGJhN2JjNzQ1NWZlMzcwYTc4ZTZi`
+Snapshot ID: `MTY2NzgzNDAyMywwMDAwMDAwMDJlODdlMTEwYTRmZmExZjdhZGExMzY1MDA3ODVkNzM0`

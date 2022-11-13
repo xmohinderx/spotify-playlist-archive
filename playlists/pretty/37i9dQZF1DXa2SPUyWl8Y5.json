@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 422977,
+  "num_followers": 423175,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU2MTA5OCwwMDAwMDAwMDg1NWZmZmMyYzIxYTA1ODY5NzAzOGUwYmUwMjVjZDlh",
+  "snapshot_id": "MTY2NDU2MTA5OCwwMDAwMDAwMDgwZjg4MGQwNmM0MzhjODBjNmRhZTZmMzQ0M2M1Yjc1",
   "tracks": [
     {
       "added_at": "2022-09-30 18:04:57",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
+        "name": "We're Back Chilling",
+        "url": "https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O"
+      },
+      "artists": [
+        {
+          "name": "Cook & Stans",
+          "url": "https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick"
+        }
+      ],
+      "duration_ms": 267096,
+      "name": "Finding Atlantis",
+      "url": "https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
       },
@@ -319,6 +335,22 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
+        "name": "Hegn",
+        "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "duration_ms": 386130,
+      "name": "Hegn",
+      "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
         "name": "Purple Days & Purple Nights",
         "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
@@ -335,22 +367,6 @@
       "duration_ms": 269531,
       "name": "Purple Days",
       "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Hegn",
-        "url": "https://open.spotify.com/album/6wPs3Hbq9TfnW8mTS6u6zI"
-      },
-      "artists": [
-        {
-          "name": "Janus Rasmussen",
-          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
-        }
-      ],
-      "duration_ms": 386130,
-      "name": "Hegn",
-      "url": "https://open.spotify.com/track/2xSajF5EIKkiyQqO5whSlK"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -387,22 +403,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
-        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
-      },
-      "artists": [
-        {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 528959,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Bird EP",
         "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 350047,
       "name": "Bird",
       "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "\ud63c\ub3c8 \uacfc \uc9c8\uc11c",
+        "url": "https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 528959,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -483,22 +499,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Pure Love EP",
-        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        }
-      ],
-      "duration_ms": 393495,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Owls (Edit)",
         "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 226014,
       "name": "Owls - Edit",
       "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Pure Love EP",
+        "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        }
+      ],
+      "duration_ms": 393495,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -551,26 +567,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Cliff (Einmusik Remix)",
-        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
-      },
-      "artists": [
-        {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        },
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 444816,
-      "name": "Cliff - Einmusik Remix",
-      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "June (Mees Salom\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
       },
@@ -587,6 +583,26 @@
       "duration_ms": 448770,
       "name": "June - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Cliff (Einmusik Remix)",
+        "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        },
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 444816,
+      "name": "Cliff - Einmusik Remix",
+      "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -755,22 +771,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Piano & Electronic Ensemble Op. 1",
-        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
-      },
-      "artists": [
-        {
-          "name": "Schlindwein",
-          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
-        }
-      ],
-      "duration_ms": 375483,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Boavista",
         "url": "https://open.spotify.com/album/2v2BidodVf5z07M6Pofhx3"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 408003,
       "name": "Boavista - Innellea Remix",
       "url": "https://open.spotify.com/track/2H66zNHEqwFckqVfxeFxIa"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Piano & Electronic Ensemble Op. 1",
+        "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
+      },
+      "artists": [
+        {
+          "name": "Schlindwein",
+          "url": "https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6"
+        }
+      ],
+      "duration_ms": 375483,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -843,22 +859,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "The Elder",
-        "url": "https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD"
-      },
-      "artists": [
-        {
-          "name": "Light Below",
-          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "The Elder",
-      "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 414053,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "The Elder",
+        "url": "https://open.spotify.com/album/7jZ3BxxElBum1tFM8n5dBD"
+      },
+      "artists": [
+        {
+          "name": "Light Below",
+          "url": "https://open.spotify.com/artist/5TsDGbWsz9OsNW1o020TbF"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "The Elder",
+      "url": "https://open.spotify.com/track/2hljmwTikUmulScZB7Eivb"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -995,6 +1011,22 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
         "name": "Loss/Bow To The Rain",
         "url": "https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV"
       },
@@ -1015,22 +1047,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        }
-      ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp"
       },
@@ -1043,6 +1059,22 @@
       "duration_ms": 377419,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
+        }
+      ],
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1067,22 +1099,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Sora",
         "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+        "name": "Landing in Halifax",
+        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
       "artists": [
         {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
         }
       ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+      "duration_ms": 249120,
+      "name": "Landing in Halifax",
+      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Landing in Halifax",
-        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
       "artists": [
         {
-          "name": "Passenger 10",
-          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
         }
       ],
-      "duration_ms": 249120,
-      "name": "Landing in Halifax",
-      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Breaking The Clouds",
-        "url": "https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R"
-      },
-      "artists": [
-        {
-          "name": "Dapayk solo",
-          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
-        }
-      ],
-      "duration_ms": 521097,
-      "name": "Breaking The Clouds",
-      "url": "https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -1231,6 +1231,22 @@
       "duration_ms": 358144,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2022-09-30 18:04:57",
+      "album": {
+        "name": "Breaking The Clouds",
+        "url": "https://open.spotify.com/album/1nlhSNR420AabaXSCI2j5R"
+      },
+      "artists": [
+        {
+          "name": "Dapayk solo",
+          "url": "https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp"
+        }
+      ],
+      "duration_ms": 521097,
+      "name": "Breaking The Clouds",
+      "url": "https://open.spotify.com/track/5dLkoocLN0wZPeV9NDMwlC"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
+        "name": "Flight Into the Void EP",
+        "url": "https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "Remcord",
+          "url": "https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB"
         }
       ],
-      "duration_ms": 192476,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+      "duration_ms": 406000,
+      "name": "Flight Into the Void",
+      "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1299,22 +1315,6 @@
       "duration_ms": 210731,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
-    },
-    {
-      "added_at": "2022-09-30 18:04:57",
-      "album": {
-        "name": "Flight Into the Void EP",
-        "url": "https://open.spotify.com/album/01sw5D44GctddF1Q7aIHwU"
-      },
-      "artists": [
-        {
-          "name": "Remcord",
-          "url": "https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Flight Into the Void",
-      "url": "https://open.spotify.com/track/2Lj3VzdR8WP6TqsTS3J7Mz"
     },
     {
       "added_at": "2022-09-30 18:04:57",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2022-09-30 18:04:57",
       "album": {
-        "name": "Mistral",
-        "url": "https://open.spotify.com/album/4O9MXpdCBXrKms0EXgEPSj"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
       "artists": [
         {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 422079,
-      "name": "Mistral",
-      "url": "https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm"
+      "duration_ms": 192476,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
     }
   ],
   "unique_name": "Beats to think to",

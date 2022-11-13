@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Destin Conrad
 
-366 songs - 19 hr 46 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+367 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/track/6DTJgb33ibZl2pElkWqUfm) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Fix Me \(Acoustic Sketch\)](https://open.spotify.com/album/2ECyJoQ4tFw87gsjmQMoOq) | 4:47 | 2021-12-15 | 2022-04-19 |
 | [Fool 4 U](https://open.spotify.com/track/18GeUA2TkZDUOsRqbNj36C) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Fool 4 U](https://open.spotify.com/album/3sEhpdjBGFAq5BYPThKgH3) | 3:16 | 2021-12-15 | 2022-01-21 |
 | [FOOL AROUND](https://open.spotify.com/track/4V39issmn4UBsvWqXzxvFz) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY), [taylor from earth](https://open.spotify.com/artist/0gcyyvKQYCxV3Xv7UknCJQ) | [PURPLE.](https://open.spotify.com/album/18ZRlsRqYnGm74QAX9k05N) | 2:03 | 2021-12-15 | 2022-06-24 |
-| [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-08-05 |  |
+| [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-08-05 | 2022-11-13 |
 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 | 2022-09-16 |  |
 | [Forfeit\. \(ft\. Lucky Daye\)](https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 4:02 | 2021-12-15 |  |
 | [Frank For You](https://open.spotify.com/track/6ionsmjjnodm4pynvQxrgv) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Frank For You](https://open.spotify.com/album/1NxJyMpFWsTT1vaHEXC3uW) | 4:09 | 2022-02-25 | 2022-07-28 |
@@ -209,7 +209,7 @@
 | [Let You Go](https://open.spotify.com/track/4EMi40PsBg8uwJcEyNhdPJ) | [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [Let You Go](https://open.spotify.com/album/76hyS0MpstCRbSqt46w7Th) | 2:53 | 2021-12-15 | 2022-05-10 |
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-04-15 | 2022-04-19 |
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-02-18 |  |
-| [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-20 |  |
+| [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 | 2022-05-20 | 2022-11-13 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-29 | 2022-08-06 |
 | [Lie to Me](https://open.spotify.com/track/7uO1XDd18BoIWNWd873Qn7) | [Michael from the East](https://open.spotify.com/artist/55nF1IVzx7JDsELhSQiPu4) | [Lie to Me](https://open.spotify.com/album/0D5aDxNLuP56No2g6kZ0yf) | 3:28 | 2021-12-15 | 2022-03-13 |
 | [Lie To Me](https://open.spotify.com/track/4tGGaI4N2KDjmAwXxF1e7P) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lie To Me](https://open.spotify.com/album/2rJoBiht61YjK4VZVe98kH) | 3:12 | 2021-12-15 | 2022-07-27 |
@@ -220,7 +220,7 @@
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-24 |  |
 | [Lost One](https://open.spotify.com/track/3HY9qrtAKtobL2nCQ535h0) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Lost One](https://open.spotify.com/album/53JvgHHILTK9VsqNsL6lXf) | 3:00 | 2021-12-15 | 2022-07-21 |
 | [LOST YOU](https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [LOST YOU](https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF) | 2:57 | 2021-12-15 | 2022-07-29 |
-| [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 | 2022-07-15 | 2022-11-11 |
+| [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 | 2022-07-15 |  |
 | [LOST YOU \(screwed not chopped\)](https://open.spotify.com/track/2kJijusZZbCWGbjTe5afS1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 4:25 | 2021-12-15 | 2022-07-28 |
 | [LOVE FOR YAH](https://open.spotify.com/track/04LlU1JuheF9ROhxK9VG3u) | [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs) | [LOVE FOR YAH](https://open.spotify.com/album/5KTFId5ARTzs1o9Rg0z1fc) | 2:30 | 2021-12-15 | 2022-07-08 |
 | [Love Jones \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Love Jones \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I) | 3:03 | 2022-10-14 |  |
@@ -340,6 +340,7 @@
 | [Tragic](https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Tragic](https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz) | 3:27 | 2021-12-15 | 2022-07-28 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-10 |  |
 | [Triggered \(freestyle\)](https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:29 | 2021-12-15 | 2022-08-06 |
+| [Triggers](https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Triggers](https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu) | 2:35 | 2022-10-28 |  |
 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 | 2022-09-09 |  |
 | [True Love](https://open.spotify.com/track/0d4TkP8GGllCacAzwcXtDj) | [Maya Hirasedo](https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8) | [True Love](https://open.spotify.com/album/6Y9YF7ZYb1Deh0v6oTSBlf) | 2:45 | 2022-04-04 | 2022-04-20 |
 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2022-08-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,598 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,757 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [En Busca Del Amor](https://open.spotify.com/track/71j7pKCwVoXQX2U2addBn8) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Busca Del Amor](https://open.spotify.com/album/6OyuwCArxeXhjquo17WHhH) | 2:43 |
 | 50 | [Catarino Y Los Rurales](https://open.spotify.com/track/1YLIdBkPxQwklrVk9RlzJP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:30 |
 
-Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA5NGQ4OTFlNWIyOWI0M2NkNDBmZWU4MWUzODA4ZTBjNw==`
+Snapshot ID: `Mjc4MDQ0NjYsMDAwMDAwMDA0MGM2M2QxMTdmZTIwMmEzOTUzY2RhZTgxYTY4MTAxOQ==`

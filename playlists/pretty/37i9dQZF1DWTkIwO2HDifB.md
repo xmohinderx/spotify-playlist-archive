@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Evoque Prata e os funks mais 🔑 do Brasil\. Foto: Mc Menor HR, Mc Menor SG, DJ Escobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,002,121 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,005,627 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 46 | [Privilégio](https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [Mc Vitin do LJ](https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny), [MC Marley](https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m) | [Privilégio](https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb) | 2:31 |
 | 47 | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/track/78g5lnALTioTYBjkyxmvlJ) | [JC NO BEAT](https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U), [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ F7](https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd) | [Eu Vou Machucar Só um Pouquinho X Catucando Gostosinho](https://open.spotify.com/album/1KfEJhSwMWfx4QpQLuK3IA) | 2:53 |
 | 48 | [Cai de vagarinho até embaixo](https://open.spotify.com/track/2p04GXqx4j9sggMTFJpEBa) | [Mc Rennan](https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS), [DJ Braga Oficial](https://open.spotify.com/artist/5icwIVKIEdJwzeHjQ6XYJG) | [Cai de vagarinho até embaixo](https://open.spotify.com/album/0HximOntVcjaDrMQcPxUXq) | 2:13 |
-| 49 | [Ei Tudo Bem](https://open.spotify.com/track/1FK1caMxr2C9C6CfiL96LY) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Funk 2022](https://open.spotify.com/album/103nkFewd2uLSuZXMEYHq1) | 1:57 |
+| 49 | [Ei Tudo Bem](https://open.spotify.com/track/3W2aK80vK0AA7EwZeiUcwH) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4), [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Ei Tudo Bem](https://open.spotify.com/album/1R63bFaP7cin66MVUWurLQ) | 1:57 |
 | 50 | [Gonzaga Deu Fuga Com Uma Loira Cabulosa Em Cima Da 66](https://open.spotify.com/track/6mUNR2pJOxKRCVo97YVlHE) | [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [Mc Vitin Lc](https://open.spotify.com/artist/6xKZzLqIevrBxolUsY72ve) | [Gonzaga Deu Fuga Com Uma Loira Cabulosa Em Cima Da 66](https://open.spotify.com/album/15Y6a9S8nmrUePQrWLtH3I) | 2:07 |
 
-Snapshot ID: `MTY2ODEzNTc4MCwwMDAwMDAwMGNlMWFkNDc5MmI1ZmFiOWQ3OTk0ZDRmOTJiMTE4YzJl`
+Snapshot ID: `MTY2ODEzNTc4MCwwMDAwMDAwMDRjOWI5MDk2NmIwYWIxZWUxNjg3OTk4ZTQ2NmZlMjE5`

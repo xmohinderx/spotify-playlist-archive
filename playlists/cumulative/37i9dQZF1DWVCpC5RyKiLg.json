@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 165360,
       "name": "Anti Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 204700,
       "name": "Caf\u00e9 e Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/6zeo9bcZWGlHi2VqjUSmaR"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 203739,
       "name": "Cem Mil - Ao Vivo",
       "url": "https://open.spotify.com/track/5pCyG634N2cC2aPgO5Oepf"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 201856,
       "name": "Com ou Sem Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 158865,
       "name": "De Copo Em Copo - Ao Vivo",
       "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 163089,
       "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
       "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 176155,
       "name": "Deixa a Gente Quieto - Ao Vivo",
       "url": "https://open.spotify.com/track/4PNi30UilK0CZi2z9wegMQ"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 179100,
       "name": "Espa\u00e7osa Demais - Ao Vivo",
       "url": "https://open.spotify.com/track/4frNT1Vw4MbKbS1ngKodkv"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 211173,
       "name": "Eu Era",
       "url": "https://open.spotify.com/track/5hkjlU7sUcZb9wOYd1eRBE"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 168080,
       "name": "Libera Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
@@ -1831,6 +1831,24 @@
     {
       "album": {
         "name": "Novas Hist\u00f3rias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174117,
+      "name": "Na Hora Da Raiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/1W3ohWNGNobBwSrOuVSxel"
+    },
+    {
+      "album": {
+        "name": "Novas Hist\u00f3rias (Ao Vivo)",
         "url": "https://open.spotify.com/album/5YjNBYjn6M7joIjBP8LzI0"
       },
       "artists": [
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 173503,
       "name": "Nem Doeu - Ao Vivo",
       "url": "https://open.spotify.com/track/260n4ECk9j4IEvTAVBYojl"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 174178,
       "name": "Para, Pensa e Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 177564,
       "name": "Pode Sumir",
       "url": "https://open.spotify.com/track/5OzvtpasMB3aPWpfVr0PsA"
@@ -3115,7 +3133,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 164407,
       "name": "Viva Voz - Ao Vivo Em S\u00e3o Paulo / 2019",
       "url": "https://open.spotify.com/track/1jomN1tLiPE5eGd9siFJYE"

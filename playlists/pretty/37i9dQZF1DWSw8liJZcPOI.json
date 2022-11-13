@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 400190,
+  "num_followers": 400385,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDU5ODRiYTI1MWQyZDdkOGUwNDYzYjQwZDVkNGQ4MTkw",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDQ2N2M1MGNhZDY0YjdkN2U3ODJkZDAzMjMzNDViOGFm",
   "tracks": [
     {
       "added_at": "2022-11-11 04:00:00",
@@ -43,6 +43,22 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
+        "name": "Eyes Closed And Traveling",
+        "url": "https://open.spotify.com/album/5Lc2PFEqSXXRAL3swmftRb"
+      },
+      "artists": [
+        {
+          "name": "Peter Broderick",
+          "url": "https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv"
+        }
+      ],
+      "duration_ms": 219549,
+      "name": "Eyes Closed And Traveling",
+      "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -175,6 +191,22 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
+        "name": "Cloud Memory",
+        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        }
+      ],
+      "duration_ms": 117585,
+      "name": "Cloud Memory",
+      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
         "name": "Triptych 1 for Piano",
         "url": "https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6"
       },
@@ -203,22 +235,6 @@
       "duration_ms": 166000,
       "name": "Blund",
       "url": "https://open.spotify.com/track/0duYOyKFVmUrJpDhmKaIyW"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
-        "name": "Cloud Memory",
-        "url": "https://open.spotify.com/album/1uu3zbo7cvj4NM2U15fCOU"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        }
-      ],
-      "duration_ms": 117585,
-      "name": "Cloud Memory",
-      "url": "https://open.spotify.com/track/2dUIvQRy9wfxNVcm0JLwNm"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -307,26 +323,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "The Turning Year",
-        "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
-      },
-      "artists": [
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        },
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        }
-      ],
-      "duration_ms": 160089,
-      "name": "The Turning Year",
-      "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "Beginnings",
         "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
       },
@@ -343,18 +339,22 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Bylur",
-        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+        "name": "The Turning Year",
+        "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
         }
       ],
-      "duration_ms": 251173,
-      "name": "Bylur",
-      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
+      "duration_ms": 160089,
+      "name": "The Turning Year",
+      "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -379,6 +379,38 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
+        "name": "Bylur",
+        "url": "https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 251173,
+      "name": "Bylur",
+      "url": "https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 125437,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
         "name": "Like Glass",
         "url": "https://open.spotify.com/album/62UcpKhYUlXBueS6YJ8TOR"
       },
@@ -391,22 +423,6 @@
       "duration_ms": 150792,
       "name": "Like Glass",
       "url": "https://open.spotify.com/track/71rfSw8kdWU28fZV3oBNFN"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
-        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 182836,
-      "name": "Chasing the Present",
-      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -427,6 +443,22 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
+        "name": "Chasing the Present (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 182836,
+      "name": "Chasing the Present",
+      "url": "https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
         "name": "Le Jardin de Monsieur Monet",
         "url": "https://open.spotify.com/album/6Pjv5GVH24zabVfeIMOetI"
       },
@@ -439,22 +471,6 @@
       "duration_ms": 313973,
       "name": "Le Jardin de Monsieur Monet",
       "url": "https://open.spotify.com/track/4xqay5NL9jPHSCP2mo3U67"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 125437,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -491,6 +507,22 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
         "name": "Humming Bird Rework",
         "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
       },
@@ -507,22 +539,6 @@
       "duration_ms": 201774,
       "name": "Humming Bird Rework",
       "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -611,30 +627,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
-      },
-      "artists": [
-        {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
-        },
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
-        }
-      ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "Triptych III for Piano",
         "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
       },
@@ -671,6 +663,30 @@
       "duration_ms": 211000,
       "name": "Longhope - Edit",
       "url": "https://open.spotify.com/track/3KewUrX9nBSs6KMtFvw6wq"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
+        "name": "Delicately",
+        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+      },
+      "artists": [
+        {
+          "name": "Jim Perkins",
+          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+        },
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Anna De Bruin",
+          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+        }
+      ],
+      "duration_ms": 123251,
+      "name": "Delicately",
+      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -815,6 +831,22 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
         "name": "The Invisible EP",
         "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
       },
@@ -919,26 +951,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Niemand bringt Marten um",
-        "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Niemand bringt Marten um - Lambert Rework",
-      "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "The North Wind (Daigo Hanada Re-work)",
         "url": "https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5"
       },
@@ -959,6 +971,26 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
+        "name": "Niemand bringt Marten um",
+        "url": "https://open.spotify.com/album/1tbwLCRm0rqBHEqVrZAxam"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "Niemand bringt Marten um - Lambert Rework",
+      "url": "https://open.spotify.com/track/4Rqn3zPlPqbpKmK1naWcQ2"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
         "name": "Everything Has Its Echo",
         "url": "https://open.spotify.com/album/1nn06r5BqRTpe1cKpmofzC"
       },
@@ -975,22 +1007,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Partisans",
-        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Partisans",
-      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "Modulations: EP2",
         "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
       },
@@ -1003,6 +1019,22 @@
       "duration_ms": 201335,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
+        "name": "Partisans",
+        "url": "https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Partisans",
+      "url": "https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -1103,22 +1135,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "October",
         "url": "https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db"
       },
@@ -1131,6 +1147,22 @@
       "duration_ms": 177186,
       "name": "October",
       "url": "https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -1155,22 +1187,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
-        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
-      },
-      "artists": [
-        {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
-      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "The Time It Takes",
         "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
       },
@@ -1183,6 +1199,22 @@
       "duration_ms": 181106,
       "name": "Respite",
       "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
+        "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
+        "url": "https://open.spotify.com/album/1rQqmLBvReLC8JrogQpdkc"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "How to Fall in Love in a Pandemic - Music for a Short Film",
+      "url": "https://open.spotify.com/track/4kVj1YdDUx8HPfhOeDs7Ec"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -1275,22 +1307,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Black Dog",
-        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
-      },
-      "artists": [
-        {
-          "name": "Autonomy",
-          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
-        }
-      ],
-      "duration_ms": 127995,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "No Home of the Mind",
         "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
       },
@@ -1303,6 +1319,22 @@
       "duration_ms": 376956,
       "name": "Starwood Choker",
       "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
+    },
+    {
+      "added_at": "2022-11-11 04:00:00",
+      "album": {
+        "name": "Black Dog",
+        "url": "https://open.spotify.com/album/61soUfxZ8U8PpWVjmRr3Oz"
+      },
+      "artists": [
+        {
+          "name": "Autonomy",
+          "url": "https://open.spotify.com/artist/3te2CxCHnKfBm3SmApvB98"
+        }
+      ],
+      "duration_ms": 127995,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/4YBjc5fCZrFzpYYfzKI2Vv"
     },
     {
       "added_at": "2022-11-11 04:00:00",
@@ -1339,46 +1371,6 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
-        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Bill Ryder-Jones",
-          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
-      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
-        "name": "Still Blue",
-        "url": "https://open.spotify.com/album/5oGorJ69YAgPT4PtECGLpR"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Enrico Belli",
-          "url": "https://open.spotify.com/artist/1AFiIuKX5f27Pmlpa2KHYB"
-        }
-      ],
-      "duration_ms": 374662,
-      "name": "Still Blue",
-      "url": "https://open.spotify.com/track/6qrRrLT4NGgnhjF0Ur4JnD"
-    },
-    {
-      "added_at": "2022-11-11 04:00:00",
-      "album": {
         "name": "Surface (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
       },
@@ -1395,18 +1387,22 @@
     {
       "added_at": "2022-11-11 04:00:00",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/6JLS96rMyyFzQTlpNuRV51"
+        "name": "Haar over Hamnavoe (Bill Ryder-Jones Rework)",
+        "url": "https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "Bill Ryder-Jones",
+          "url": "https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4"
         }
       ],
-      "duration_ms": 247600,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/1uIjVysHAMBXEr8Arx7tfT"
+      "duration_ms": 233253,
+      "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
+      "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
     }
   ],
   "unique_name": "Not Quite Classical",

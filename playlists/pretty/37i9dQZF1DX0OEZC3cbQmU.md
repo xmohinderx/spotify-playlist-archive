@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz dos grandes adoradores do Brasil\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,715,563 likes - 75 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,716,405 likes - 75 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 35 | [Eu Só Quero Tua Presença \(feat\. Léo Brandão\) \- Ao Vivo](https://open.spotify.com/track/5tXC0UDcn30Up1OqrlU1g2) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/1fLVegrXjjxyZywzrxu7Gp) | [Eu Só Quero Tua Presença \(feat\. Léo Brandão\) \[Ao Vivo\]](https://open.spotify.com/album/6g4lFluZQ5kzwyu6lnHZlD) | 9:58 |
 | 36 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 |
 | 37 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
-| 38 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [É Tudo Sobre Você \(Ao Vivo\)](https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok) | 6:12 |
+| 38 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:12 |
 | 39 | [Eu Te Vejo Em Tudo](https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [A Casa É Sua](https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR) | 5:46 |
 | 40 | [Eu Sei](https://open.spotify.com/track/0IQPqr6gEgoG5Oe6c5vYDI) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ) | [Eu Sei](https://open.spotify.com/album/6fPFKEvTXKwlFcf8x2JbWB) | 9:05 |
 | 41 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 55 | [Tua Graça Me Basta](https://open.spotify.com/track/22qTwnv9sDRqauI3txYUSf) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Tua Graça Me Basta](https://open.spotify.com/album/4TfEJhEc8zjkdkp6HHEuhB) | 7:19 |
 | 56 | [Espírito, Enche A Minha Vida / Ao Único](https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:36 |
 | 57 | [Minha Vez](https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Minha Vez](https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j) | 3:51 |
-| 58 | [Ousado Amor](https://open.spotify.com/track/1Pf1iSsQ7fpSQa7hG3IwQd) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Ousado Amor](https://open.spotify.com/album/5OJWqVSt6IRFzXO6wmLEY7) | 5:33 |
+| 58 | [Ousado Amor](https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Isaias Saad](https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc) | 5:33 |
 | 59 | [Ninguém Explica Deus \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:30 |
 | 60 | [Restitui \- Ao Vivo](https://open.spotify.com/track/0NJuAF3mbH1EL3d8WAJ7Ra) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Restitui \(ao Vivo\)](https://open.spotify.com/album/3jKdDH1635WQtIUD52qCvp) | 4:17 |
 | 61 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Que Amor É Esse](https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Que Amor É Esse](https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd) | 7:00 |
 | 75 | [Deus Proverá](https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN) | 5:58 |
 
-Snapshot ID: `MTY2NTEyMDg1NiwwMDAwMDAwMDI3NGM4YTMzYmY4NjEwYTJkNjMyOWFkNTVkMzQwYzBh`
+Snapshot ID: `MTY2NTEyMDg1NiwwMDAwMDAwMDFlYWYyZDViY2E0MjVjMjE0ZDRkYWYwODAzYTU5Njk1`

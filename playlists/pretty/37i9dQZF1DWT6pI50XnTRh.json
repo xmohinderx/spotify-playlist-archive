@@ -1,13 +1,29 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 146380,
+  "num_followers": 146469,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMzcwMiwwMDAwMDAwMDUxMmVkNzZkNTkxYzE3MWY1ZDcwZTQ5MzIxNDQxOTg2",
+  "snapshot_id": "MTY2NDIwMzcwMiwwMDAwMDAwMDdkZTYxYjgxODZkYzgxYzc3YjE5YWMyNzY0ZTJhNGY5",
   "tracks": [
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "September",
+      "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
@@ -75,6 +91,54 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "Le Freak - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
         "name": "Ring My Bell",
         "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
       },
@@ -123,6 +187,22 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
+        "name": "Shaft (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Theme From Shaft - Remastered",
+      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
         "name": "The Best Of Philadelphia International Records",
         "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
       },
@@ -139,8 +219,8 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "The Essential Michael Jackson",
-        "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
+        "name": "Destiny (Expanded Version)",
+        "url": "https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy"
       },
       "artists": [
         {
@@ -148,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
         }
       ],
-      "duration_ms": 224893,
-      "name": "Shake Your Body (Down to the Ground) - Single Edit",
-      "url": "https://open.spotify.com/track/6lSVidZXCnOnYAWcgIqVDF"
+      "duration_ms": 227261,
+      "name": "Shake Your Body (Down to the Ground) - 7\" Version",
+      "url": "https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn"
     },
     {
       "added_at": "2022-09-26 14:48:22",
@@ -239,22 +319,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Clive Davis: The Soundtrack of Our Lives",
-        "url": "https://open.spotify.com/album/13VY4UMIBiyl1IHbodEDYE"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "September",
-      "url": "https://open.spotify.com/track/2fckeyAojYpJ9xGSrGa94g"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "Horizon Unlimted",
         "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
       },
@@ -291,6 +355,26 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
+        "name": "All the Hits",
+        "url": "https://open.spotify.com/album/694z31mMGJZ5pdK9cdBzYI"
+      },
+      "artists": [
+        {
+          "name": "Phil Fearon",
+          "url": "https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF"
+        },
+        {
+          "name": "Galaxy",
+          "url": "https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "What Do I Do",
+      "url": "https://open.spotify.com/track/6E9uCbwEGkY4AXDFCiSfSH"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
       },
@@ -303,6 +387,22 @@
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "Good Feeling?",
+        "url": "https://open.spotify.com/album/5BFfuGnAX9JLIgMFHBXMIc"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "That's the Way (I Like It)",
+      "url": "https://open.spotify.com/track/1mtlNz8CZvflIoWcsO6PIe"
     },
     {
       "added_at": "2022-09-26 14:48:22",
@@ -327,38 +427,18 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Capodanno 2020 Party Time",
-        "url": "https://open.spotify.com/album/2LwWmLGcvLZF8fh2XOMqcV"
+        "name": "The Best Of Roy Ayers",
+        "url": "https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 212906,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/6N40q9p8ydUdHpYwSuoXId"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "A Woman Needs Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        },
-        {
-          "name": "Raydio",
-          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
-        }
-      ],
-      "duration_ms": 381733,
-      "name": "Still in the Groove",
-      "url": "https://open.spotify.com/track/4AaB8loejHKcwAQN0MT72B"
+      "duration_ms": 240306,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694"
     },
     {
       "added_at": "2022-09-26 14:48:22",
@@ -383,6 +463,26 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
+        "name": "A Woman Needs Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        },
+        {
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
+        }
+      ],
+      "duration_ms": 381733,
+      "name": "Still in the Groove",
+      "url": "https://open.spotify.com/track/4AaB8loejHKcwAQN0MT72B"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
       },
@@ -399,18 +499,18 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Good Feeling?",
-        "url": "https://open.spotify.com/album/5BFfuGnAX9JLIgMFHBXMIc"
+        "name": "Funky Jamz Mix",
+        "url": "https://open.spotify.com/album/6wK3NEvoVuGfs6Nsa6V7XP"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
         }
       ],
-      "duration_ms": 185466,
-      "name": "That's the Way (I Like It)",
-      "url": "https://open.spotify.com/track/1mtlNz8CZvflIoWcsO6PIe"
+      "duration_ms": 248626,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/6z7KCBBUfjf55XqW9ExhW4"
     },
     {
       "added_at": "2022-09-26 14:48:22",
@@ -531,6 +631,22 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -611,70 +727,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "The Warrior",
-      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Disco Funky Para Bailar",
-        "url": "https://open.spotify.com/album/46GEPH5eSaiGrhefPmPMdh"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
-        }
-      ],
-      "duration_ms": 276198,
-      "name": "Theme From \"Shaft\"",
-      "url": "https://open.spotify.com/track/05p7iaHeIZIkMU05xkwe1Z"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Funky Jamz Mix",
-        "url": "https://open.spotify.com/album/6wK3NEvoVuGfs6Nsa6V7XP"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Give It To Me Baby",
-      "url": "https://open.spotify.com/track/6z7KCBBUfjf55XqW9ExhW4"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Grease - 70s Party Songs",
-        "url": "https://open.spotify.com/album/0DhuO4oG0pCXjzZvmweny8"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 329973,
-      "name": "Le Freak",
-      "url": "https://open.spotify.com/track/5L6bUnOoGJ0t0Pb9UVWaGa"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "Fill The Dance Floor",
         "url": "https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED"
       },
@@ -687,58 +739,6 @@
       "duration_ms": 281693,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/5lygRO7XrugRMJCwwaJ7Qj"
-      },
-      "artists": [
-        {
-          "name": "Phil Fearon",
-          "url": "https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF"
-        },
-        {
-          "name": "Galaxy",
-          "url": "https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "What Do I Do",
-      "url": "https://open.spotify.com/track/4ZvObq9XNo342rXAwjZZNk"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Throwback Summer Hits",
-        "url": "https://open.spotify.com/album/087jVCsvpH25w3QGaHqA3z"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/1cW6LQZCkPlYbt5fIN22q7"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Disco, r\u00edtmo y buena onda",
-        "url": "https://open.spotify.com/album/04Epa1yRt7GZbFmVWC1yt4"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/2trLMQT5JG5EESVEOrgUzJ"
     },
     {
       "added_at": "2022-09-26 14:48:22",

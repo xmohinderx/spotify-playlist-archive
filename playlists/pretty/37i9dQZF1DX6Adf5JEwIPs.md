@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,486 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,522 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 29 | [Qué Voy a Hacer](https://open.spotify.com/track/7nMHvoHKt2vhEnm4v673Yb) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n) | [Qué Voy a Hacer](https://open.spotify.com/album/4kbnAs4gumMypDm1O54AwR) | 2:49 |
 | 30 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/0U9jgLQYqwh2J2MDDRrFB0) | [Alfonzin García "Dj Alfonzin"](https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf) | [Si Yo Fuera Ladrón](https://open.spotify.com/album/30b9K0YCYnNWiGCsi2qT9X) | 3:14 |
 | 31 | [Decirte Te Quiero \- En Vivo](https://open.spotify.com/track/64xDXhG0U9kO7q2L1v6K1R) | [Siggno](https://open.spotify.com/artist/6RTlv2UCWtRggV0rIo5TrN) | [Decirte Te Quiero \(En Vivo\)](https://open.spotify.com/album/6onBzoZsxIWDFeP5hPsfAi) | 3:56 |
-| 32 | [Yo Tambien Vengo De Abjao](https://open.spotify.com/track/1uPGFClb6cxeRaugrTKVUM) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [Yo Tambien Vengo De Abajo](https://open.spotify.com/album/4N1okfW9VLb2gFwUKgWEnR) | 2:40 |
+| 32 | [Yo Tambien Vengo De Abajo](https://open.spotify.com/track/1uPGFClb6cxeRaugrTKVUM) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [Yo Tambien Vengo De Abajo](https://open.spotify.com/album/4N1okfW9VLb2gFwUKgWEnR) | 2:40 |
 | 33 | [A Toda Prueba](https://open.spotify.com/track/00S34t0AnZU55CSt4Gfm8W) | [Zona Blindada](https://open.spotify.com/artist/2bUDjUfFxBZQi8F0tRqdcT) | [A Toda Prueba](https://open.spotify.com/album/0gJnzQsbGzvu0WnmjuXxAc) | 3:54 |
 | 34 | [El Chino Bernal](https://open.spotify.com/track/44egDaZYKe6EiMtjTg6zja) | [Miguel Gonzalez](https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT) | [El Chino Bernal](https://open.spotify.com/album/0Nk76OLTQV4ACzyuCEZK7C) | 2:34 |
 | 35 | [Causa Perdida](https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Causa Perdida](https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2) | 3:14 |

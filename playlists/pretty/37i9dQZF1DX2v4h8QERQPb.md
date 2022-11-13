@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Bardero$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,783 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,849 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 40 | [Detrás Del Dólar](https://open.spotify.com/track/5EslUzaxGTmgaoYGXkbhLa) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Detrás Del Dólar](https://open.spotify.com/album/796DOnaZS8M46WOdyiPeVO) | 2:53 |
 | 41 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 |
 | 42 | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V) | 3:39 |
-| 43 | [Tardes Grises](https://open.spotify.com/track/1CzN58609yKsgo4Z9ba4cl) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 3:26 |
+| 43 | [Tardes Grises](https://open.spotify.com/track/1EmehmbURkCcxpHcxcXgDP) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tardes Grises](https://open.spotify.com/album/1U4x0z1gk3pho14X7PFwRB) | 3:26 |
 | 44 | [Me Inspiré](https://open.spotify.com/track/0H2sIpkNJRshjFZubiJ5lY) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [3000](https://open.spotify.com/album/21ahQhM0f44r2sUnf7saMD) | 3:22 |
 | 45 | [Lo Importante](https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [No Name](https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Lo Importante](https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg) | 3:05 |
 | 46 | [El Camino](https://open.spotify.com/track/6tKHO7Y06ZmJmYbcc1YS6q) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [El Gordo S aka Sony](https://open.spotify.com/artist/7DRN60ZXkjx3xn8rxOEvLU) | [El Camino](https://open.spotify.com/album/5m2bgCZPJoriDgvMZ4EWdn) | 5:15 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 62 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 |
 | 63 | [Vueltas en el barrio](https://open.spotify.com/track/1mVSPOifn1tlbmRpjcTpzs) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Vueltas en el barrio](https://open.spotify.com/album/1BrVfD9HJ9HFyHCccK4BmP) | 2:34 |
 | 64 | [REQUIEM](https://open.spotify.com/track/1SKytz4jM5DELEFWSo7yoi) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [REQUIEM](https://open.spotify.com/album/3rzin0QPEuq4EZXmSQd4nK) | 3:35 |
-| 65 | [Fruto Rojo](https://open.spotify.com/track/3D0AqjaNwys5tVrzlkAtii) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Fruto Rojo](https://open.spotify.com/album/2AtPMbtlkpJeb8kLvRODIR) | 3:09 |
+| 65 | [Fruto Rojo](https://open.spotify.com/track/62UrQDHFgz4FXRtVzNAyp0) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:09 |
 | 66 | [KIEN?](https://open.spotify.com/track/5N3M8SHDVp7UHArixHePYG) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [KIEN?](https://open.spotify.com/album/0L3ol5Eb22yOnObpbAmGrF) | 2:33 |
 | 67 | [FRAWA](https://open.spotify.com/track/2HkWX0LPuRAyHO3o7q4pZq) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R), [ÑERO](https://open.spotify.com/artist/22ExohHmyt51cObHLDBnyO) | [FRAWA](https://open.spotify.com/album/4ZYoANZBG4nKwRIOghMpug) | 4:09 |
 | 68 | [VIAIPI](https://open.spotify.com/track/0CYagVsyiywAsIncn4J32M) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/6rTohz8oiz7KMskyYQiv68) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Fuck Competi](https://open.spotify.com/track/10j7AJYks6t19IxS00jqr5) | [Marcianos Crew](https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I), [Barderos](https://open.spotify.com/artist/3H57AwuKV3100IAiRjtD5c) | [Fuck Competi](https://open.spotify.com/album/0TnHmR2j2TnAQCRtiGxt8s) | 3:11 |
 | 100 | [Doble Ipa](https://open.spotify.com/track/79R83OrWPJhzOhyjcfQAwN) | [Kamada](https://open.spotify.com/artist/5p3CzYVyNJ3qvuS6aXxo9R) | [Leal](https://open.spotify.com/album/78mCf8tXP7zoxxUmiTDF1P) | 3:45 |
 
-Snapshot ID: `MTY2ODE2OTc1NSwwMDAwMDAwMDlmOTUyNmY3OGFiNGViNWZiNzc4MGVlNDEyZGQ3ODFj`
+Snapshot ID: `MTY2ODE2OTc1NSwwMDAwMDAwMDY4ZTk0ZDIzYmUzMWRhODk2MTI1ZDI0NzI1ZWI4NWY1`

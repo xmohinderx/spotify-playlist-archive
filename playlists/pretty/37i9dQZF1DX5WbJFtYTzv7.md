@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,548 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,586 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 23 | [Pure Water](https://open.spotify.com/track/1ATVSVN4kc8S2XE7FdyJi8) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Pure Water](https://open.spotify.com/album/04MjqJpLKAJR9MmJlXtRDm) | 3:07 |
 | 24 | [Konnichiwa](https://open.spotify.com/track/0Yo9iPwWq7sLuFgoglnTb4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:16 |
 | 25 | [Same Shit Different Day](https://open.spotify.com/track/4Snl7mdnpfrnWaw07wJB79) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Blacklisted](https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO) | 2:34 |
-| 26 | [Lyrics](https://open.spotify.com/track/78ZuWOhSr5ZirG2Jk5tp31) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Grime 2016](https://open.spotify.com/album/5PABUQID3hpBnJPF6FJGPH) | 2:36 |
+| 26 | [Lyrics](https://open.spotify.com/track/5kzHkRmphRbt6ZwEmgd7RQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 2:36 |
 | 27 | [Hypocrisy](https://open.spotify.com/track/1hcA9GJvVb1ThNtJJDlu9U) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Hypocrisy](https://open.spotify.com/album/3Bi5rwKoosCqbLh0PW5V1g) | 3:12 |
 | 28 | [Wish You Were Here](https://open.spotify.com/track/2nHa4cHT0pEeZz5NDjXG9B) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Wish You Were Here](https://open.spotify.com/album/1GuUfJXa7gUsNdjZoS8Mja) | 3:15 |
 | 29 | [Stay with It](https://open.spotify.com/track/7FhT2XEZNrCZiNeHt1vfDZ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE), [Shailan](https://open.spotify.com/artist/0jaDz9uj9edaYktNX1sgQb) | [Stay with It](https://open.spotify.com/album/7uBG7N2HrRToiENJjOGq1L) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 46 | [Way Too Much](https://open.spotify.com/track/5QTi5RGn46YFOx4v5s2IEX) | [Fekky](https://open.spotify.com/artist/0lVH4ReyYkoPMxFDzCQSgO), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [El Clasico](https://open.spotify.com/album/4C3jf89EnhxLDGcUG8V05H) | 3:38 |
 | 47 | [Overseas](https://open.spotify.com/track/5cVdrtWoXNFT2Lm8vAnEzX) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Overseas](https://open.spotify.com/album/5BFSJY7MZsHhMfJuJ5kg8e) | 3:05 |
 | 48 | [Numbers](https://open.spotify.com/track/1BHquBolJN628btHI6X0vq) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Konnichiwa](https://open.spotify.com/album/6s4vWWWxNrGcKhrOFYRZzk) | 3:18 |
-| 49 | [Doin It Again](https://open.spotify.com/track/2bYObLbaQMA2rW22GF8QsR) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [I Love Grime](https://open.spotify.com/album/513UafOnlE2RUe7TAsZWJ3) | 3:43 |
+| 49 | [Doin' It Again](https://open.spotify.com/track/3PdX0E7WTju71Y9Jpinvw4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Greatest Hits](https://open.spotify.com/album/0AyaZjU2ofiBtPlJXk0Epv) | 3:49 |
 | 50 | [Bad Boy](https://open.spotify.com/track/2Mx5P3F1d0y1GA3ysNfdm6) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Bad Boy](https://open.spotify.com/album/1VAkmI2ADbl8e85MOtaMcg) | 2:51 |
 | 51 | [Might As Well](https://open.spotify.com/track/6mIlDvfn3OwEi4mQfpGwyK) | [C\. Biz](https://open.spotify.com/artist/6LAhIgGsYJAEwmpQ8EEywM), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Free H](https://open.spotify.com/album/78Vu11gTgQynGdw4LjCqMQ) | 2:34 |
 | 52 | [Sunglasses at Night \- Radio Edit](https://open.spotify.com/track/1emn8uOfuaO6a8jXhUJnkj) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Sunglasses at Night](https://open.spotify.com/album/2wnlIWUAKPifsJChIR6II2) | 2:21 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 61 | [Coming Soon](https://open.spotify.com/track/7F52tArntesgjZT9t8rp6L) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Makonnen & Ceon](https://open.spotify.com/artist/0r7BTt9apQmeFMiFM10CYn) | [Coming Soon](https://open.spotify.com/album/5SRuNtAVE7SZ0GgUHvbIQC) | 3:40 |
 | 62 | [Make Peace Not War](https://open.spotify.com/track/1YHC7vYpLhkUMftjYJFUat) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Make Peace Not War](https://open.spotify.com/album/1TMGC0h58KA11cE9yZfq9b) | 3:14 |
 
-Snapshot ID: `MTU1OTI1NzI2MCwwMDAwMDAwMDc2ZDNjZDU1YzhhNjA4MTIyMzQwMDY0ZmY0NzY1ODRm`
+Snapshot ID: `MTU1OTI1NzI2MCwwMDAwMDAwMGE0NTZlNDc1N2YzZTdkMDRhMjBjY2E2YTI4MTk2N2Vl`

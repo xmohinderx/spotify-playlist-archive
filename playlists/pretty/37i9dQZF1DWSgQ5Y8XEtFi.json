@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 128605,
+  "num_followers": 128924,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGFkY2ZiZWU2OWQ0NDM4N2RmNzQ1MTkyOTQ2NjA1MzM5",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDMzZTVjMzgzODMxZDlmYzY4Y2M2YmNjY2Q1YzU5NzZm",
   "tracks": [
     {
       "added_at": "2022-11-04 22:24:27",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "DiCaprio 2",
+        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 156780,
+      "name": "151 Rum",
+      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Punk Tactics",
         "url": "https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH"
       },
@@ -403,42 +419,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 106340,
-      "name": "What the Fuck is Happening",
-      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Tanaka 2",
-        "url": "https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq"
-      },
-      "artists": [
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        },
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 188724,
-      "name": "Tanaka 2",
-      "url": "https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "Chaxsthexry",
         "url": "https://open.spotify.com/album/3KqA7GS5ruZN70yBP2jFMJ"
       },
@@ -473,6 +453,22 @@
       "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
     },
     {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
+    },
+    {
       "added_at": "2022-10-25 15:20:00",
       "album": {
         "name": "bag or die",
@@ -491,6 +487,26 @@
       "duration_ms": 178520,
       "name": "deadman (feat. Lil Toe)",
       "url": "https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Tanaka 2",
+        "url": "https://open.spotify.com/album/3pzpHnan9j9FmWPNMScxvq"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 188724,
+      "name": "Tanaka 2",
+      "url": "https://open.spotify.com/track/6dEN1q3YD7mvmGZGqqUE06"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -515,22 +531,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "Sogno",
-        "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
-      },
-      "artists": [
-        {
-          "name": "Bearded Legend",
-          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
-        }
-      ],
-      "duration_ms": 106877,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "Sogno",
+        "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
+      },
+      "artists": [
+        {
+          "name": "Bearded Legend",
+          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
+        }
+      ],
+      "duration_ms": 106877,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -599,6 +615,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "BACKROOM",
+      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "SIMP",
         "url": "https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa"
       },
@@ -619,22 +651,6 @@
       "duration_ms": 180000,
       "name": "SIMP",
       "url": "https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "BACKROOM",
-      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -787,22 +803,6 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
-        "name": "MAMBO",
-        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
-      },
-      "artists": [
-        {
-          "name": "DIRTYXAN",
-          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "MAMBO",
-      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
         "name": "TOXIC BOOGALOO",
         "url": "https://open.spotify.com/album/2EadUtQ3hpx3Xt0HKAfOF9"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 121277,
       "name": "YELLOW PISS",
       "url": "https://open.spotify.com/track/0NFCrBf6tnaDTZ5xOWjHCI"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
+        "name": "MAMBO",
+        "url": "https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7"
+      },
+      "artists": [
+        {
+          "name": "DIRTYXAN",
+          "url": "https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "MAMBO",
+      "url": "https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG"
     },
     {
       "added_at": "2022-10-07 11:48:00",
@@ -895,22 +911,6 @@
       "duration_ms": 181088,
       "name": "DICTATOR",
       "url": "https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "TA13OO",
-        "url": "https://open.spotify.com/album/6idVoBWP2mt1qoMtASm3gc"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "SUMO | ZUMO",
-      "url": "https://open.spotify.com/track/7EHAXZenBzmGCpccWCyg8z"
     }
   ],
   "unique_name": "LOCKJAW",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,858 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,932 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 13 | [Mascaram Setaba \- Stereo Master](https://open.spotify.com/track/4hVZKH4EVNP3iLyaDLA3Eq) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Of Ethiopia](https://open.spotify.com/album/2FBK03r5TaxQmWMqLuOdF7) | 2:47 |
 | 14 | [Dodo \- Ruben Valdez Remix](https://open.spotify.com/track/721bKx5o8JahKkO82chr4J) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Rubén Valdez](https://open.spotify.com/artist/2Qt3EuL2Mmf9nnIPzOCMiC) | [Akalé Wubé Remixed](https://open.spotify.com/album/46oc6ABDJ3LCB7QVIL9kv0) | 4:06 |
 | 15 | [Anbessa](https://open.spotify.com/track/4Ic3yQiH5UmyyevTsp08tY) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Sost](https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI) | 3:41 |
-| 16 | [Yèkèrmo Sèw \(A Man of Experience and Wisdom\)](https://open.spotify.com/track/6eNOgE9gdpOx8Tztf4tbCF) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 4:15 |
+| 16 | [Yèkèrmo Sèw](https://open.spotify.com/track/4CwAgkBoKAGT6UMas89F0v) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 4:13 |
 | 17 | [Erè mèla mèla](https://open.spotify.com/track/4nXo0xfR51S9wmad3izbgh) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 4:39 |
-| 18 | [Yèkèrmo Sèw \(A Man of Experience and Wisdom\)](https://open.spotify.com/track/6eNOgE9gdpOx8Tztf4tbCF) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 4:15 |
+| 18 | [Yèkèrmo Sèw](https://open.spotify.com/track/4CwAgkBoKAGT6UMas89F0v) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 4:13 |
 | 19 | [Yèkatit](https://open.spotify.com/track/1WfCKZAsNM5Tyk7THmf6pp) | [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Akalé Wubé](https://open.spotify.com/album/4XxXVnUEQHHLFj0X4rK4gg) | 5:12 |
 | 20 | [Antchi Bizu](https://open.spotify.com/track/507h2G7X237qJmY84Rmdac) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3), [Selamnesh Zemene](https://open.spotify.com/artist/2i33wwpYJI5VHZTzdkSuU0) | [Ale Gena \- Ethiopa](https://open.spotify.com/album/6H4TP1OrZGTCNlgnJ53Wp0) | 3:30 |
 | 21 | [Addis Black Widow](https://open.spotify.com/track/1YEVpaDDxCaELPzugWCfrr) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 49 | [Suur Tõll](https://open.spotify.com/track/7CrA3Zt9he26Dea8pFCYeD) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [The Sorcerers](https://open.spotify.com/album/5qpYtUeBDnzSttzGNgg1Je) | 4:45 |
 | 50 | [Addis Abèba bété](https://open.spotify.com/track/4G9tOUZe3bAg7IMm810hEb) | [Ukandanz](https://open.spotify.com/artist/6eid2mbg2XPVDyqdRmNIqb) | [Yetchalal \(EthioSonic\)](https://open.spotify.com/album/08isD5fKxI0WcEklKMni4k) | 5:21 |
 
-Snapshot ID: `MTY2NDIwMzgwMiwwMDAwMDAwMDhmNWUwZWMzMTVhZDU5MmFlNDNhNTE0MmZmNTYxOWI0`
+Snapshot ID: `MTY2NDIwMzgwMiwwMDAwMDAwMGVhNzllYTExOWEwNjM1ZDc4NzMxOGJhZjNlZDdjOGE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,019 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,017 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 25 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
 | 26 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
 | 27 | [Tomorrow's Song](https://open.spotify.com/track/0YPagAr3GhXlRX06E4nUcw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ) | 3:07 |
-| 28 | [Truly, Madly, Deeply](https://open.spotify.com/track/6vsa5Um8K7OgW8LhSeYJ8H) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Make It Last](https://open.spotify.com/album/2VPJh4cZrGLhadUXM2s7wS) | 1:52 |
+| 28 | [Truly, Madly, Deeply](https://open.spotify.com/track/3df2e434goqmSUp46nCUrL) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Till The Sun Turns Black](https://open.spotify.com/album/6teArUjXEHY8nEbWiOf1Hq) | 1:52 |
 | 29 | [Alexander](https://open.spotify.com/track/7IqTgS5JmEvcikB01hVst7) | [Andreas Söderström](https://open.spotify.com/artist/5Z6TEAkzMC3QQj32jkdkAo), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [Hotell](https://open.spotify.com/album/4efyDnXUkaxPNFSSZDRoqC) | 2:54 |
 | 30 | [Cabezon](https://open.spotify.com/track/0BIfjMKCMAcuqPDzbXXNG0) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Ocean Beach](https://open.spotify.com/album/7j4C67U6Aj4odzbHRrpeiq) | 3:11 |
 | 31 | [Flametop Green](https://open.spotify.com/track/3jl34exVXaxO2T0XpBkBZl) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 2:27 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 44 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
 | 45 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 |
 
-Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMGI0NzRmNTU3YTRkYWI1Y2I2MDI2NDk3ZjYwMGUwZDEy`
+Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMGFiN2JiZmY0MDQ3ZmU1MTc3ZjI1N2M3ZDU0MjYwYjJk`

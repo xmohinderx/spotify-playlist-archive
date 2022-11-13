@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 8782,
+  "num_followers": 8819,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjAyNSwwMDAwMDAwMDIxNGM1MDRiNzc0NDhkNzUzYWJkNTU0Y2JiMzFkNWNl",
+  "snapshot_id": "MTY2NDUwNjAyNSwwMDAwMDAwMDIzOTIyODVlOTMxZGJmODUyN2EzYWI1ODQ0N2M2Y2Jk",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Music for Nine Post Cards",
         "url": "https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 354693,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -515,18 +515,26 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tumblers from the Vault",
-        "url": "https://open.spotify.com/album/0FLZUvSQsrqysS3QQIJ3Zb"
+        "name": "FRKWYS Vol. 15: serenitatem",
+        "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
       "artists": [
         {
-          "name": "Syrinx",
-          "url": "https://open.spotify.com/artist/4NHEvHYVfLQjiwXVQnyhxW"
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Yoshio Ojima",
+          "url": "https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa"
+        },
+        {
+          "name": "Satsuki Shibano",
+          "url": "https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c"
         }
       ],
-      "duration_ms": 313746,
-      "name": "Hollywood Dream Trip",
-      "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
+      "duration_ms": 431502,
+      "name": "Stratum",
+      "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
     },
     {
       "added_at": "2022-04-07 05:02:08",
@@ -543,6 +551,22 @@
       "duration_ms": 222511,
       "name": "Forest Dreams",
       "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Tumblers from the Vault",
+        "url": "https://open.spotify.com/album/0FLZUvSQsrqysS3QQIJ3Zb"
+      },
+      "artists": [
+        {
+          "name": "Syrinx",
+          "url": "https://open.spotify.com/artist/4NHEvHYVfLQjiwXVQnyhxW"
+        }
+      ],
+      "duration_ms": 313746,
+      "name": "Hollywood Dream Trip",
+      "url": "https://open.spotify.com/track/4Yz4rj3kcByr4j1f5e6SAt"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -627,22 +651,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 316214,
-      "name": "Agua Azul",
-      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Talk from Home",
         "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
       },
@@ -655,6 +663,22 @@
       "duration_ms": 249704,
       "name": "Renee Sleeping",
       "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 316214,
+      "name": "Agua Azul",
+      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -703,22 +727,6 @@
       "duration_ms": 245927,
       "name": "Palace Posy",
       "url": "https://open.spotify.com/track/3OtXrdgyepq7uDp96ewVqF"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 230309,
-      "name": "Two Halves Touching",
-      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
       "added_at": "2022-03-16 01:06:51",
@@ -787,6 +795,22 @@
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 230309,
+      "name": "Two Halves Touching",
+      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -891,22 +915,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
-      },
-      "artists": [
-        {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
-        }
-      ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Children of the Sun",
         "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
       },
@@ -935,6 +943,22 @@
       "duration_ms": 229861,
       "name": "Toucan Ocean",
       "url": "https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+      },
+      "artists": [
+        {
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+        }
+      ],
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2021-11-12 02:58:17",
@@ -969,6 +993,22 @@
       "url": "https://open.spotify.com/track/2oqXgGtnE6ze9Hqib8sm2U"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "The Crucible",
+        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
+      },
+      "artists": [
+        {
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
+        }
+      ],
+      "duration_ms": 207407,
+      "name": "Green Phase, Part One",
+      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
+    },
+    {
       "added_at": "2022-01-11 00:30:53",
       "album": {
         "name": "The Loss of Wilderness",
@@ -983,6 +1023,22 @@
       "duration_ms": 357509,
       "name": "The Loss of Wilderness",
       "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 127040,
+      "name": "Caracas Night September 11, 1975",
+      "url": "https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1023,22 +1079,6 @@
       "duration_ms": 346586,
       "name": "For Marmish",
       "url": "https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 127040,
-      "name": "Caracas Night September 11, 1975",
-      "url": "https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp"
     },
     {
       "added_at": "2022-03-17 01:20:50",
@@ -1097,22 +1137,6 @@
       "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
     },
     {
-      "added_at": "2022-02-18 05:44:07",
-      "album": {
-        "name": "Starburst",
-        "url": "https://open.spotify.com/album/0lBv6vqeXWUSt8WKyIhv8j"
-      },
-      "artists": [
-        {
-          "name": "Muffler",
-          "url": "https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/5UjMb1mO2VQ3Kv1KB2G4oI"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Noodles",
@@ -1127,22 +1151,6 @@
       "duration_ms": 326500,
       "name": "The Brook",
       "url": "https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "The Goddess Is Dancing",
-        "url": "https://open.spotify.com/album/45Gxh7xqUU4ouDREPoSgKN"
-      },
-      "artists": [
-        {
-          "name": "D.K.",
-          "url": "https://open.spotify.com/artist/6JGGS3JOcMIxa0QF6pFnzN"
-        }
-      ],
-      "duration_ms": 371612,
-      "name": "The Three Realms",
-      "url": "https://open.spotify.com/track/4RktobAj8s4udPtUsEcWZY"
     },
     {
       "added_at": "2021-10-20 18:30:26",

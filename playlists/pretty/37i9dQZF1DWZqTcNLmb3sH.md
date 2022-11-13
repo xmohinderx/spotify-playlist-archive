@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Triple Riding
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,437 likes - 179 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,461 likes - 179 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

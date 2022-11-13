@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,689 likes - 94 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,794 likes - 94 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 34 | [You Are My Sunshine](https://open.spotify.com/track/41mxRygR9Via1XiQwNCZbh) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 2:13 |
 | 35 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/1qeKntoqzWCSYvPOujhn5E) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Everybody's Got To Learn Sometime](https://open.spotify.com/album/4qAcqCEeAmy2xIrAqpjXs8) | 2:40 |
 | 36 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 |
-| 37 | [Time After Time](https://open.spotify.com/track/6Pm1tdfNQdNuWOG0mDXImu) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/11IHpdLzDHfHbwgZCxWyoa) | 3:32 |
+| 37 | [Time after Time](https://open.spotify.com/track/7cuNUdSbrrFIiqejH4tbsI) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 2](https://open.spotify.com/album/3vOxhVB13qQHb2IVv2wq6j) | 3:32 |
 | 38 | [I Just Called To Say I Love You](https://open.spotify.com/track/6dUP73tiRW1NyyFAbVqLkM) | [Ronald Simel](https://open.spotify.com/artist/3WAGPIS1MuIRLDN32soc71) | [Willow](https://open.spotify.com/album/3pnS4OYR8fWJkp5UUTWSB2) | 4:16 |
 | 39 | [Someone Like You](https://open.spotify.com/track/6YKzJ4tyzRds7YXPo2F0qC) | [MAX Space](https://open.spotify.com/artist/7qg2pbKUVUesXTnAIzt2kJ) | [MAX Space](https://open.spotify.com/album/7jNlVPdSvOYn0GnJPEQgtN) | 4:09 |
 | 40 | [Once I Was 7 years Old](https://open.spotify.com/track/1rU3j7FTsJY6TFU8dkoR3d) | [Ela Hills](https://open.spotify.com/artist/4rPETLWsKT01K13kePkC0r) | [Once I Was 7 years Old](https://open.spotify.com/album/6iaQfBdiUrwwlJqTFcB7nY) | 2:05 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 93 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 |
 | 94 | [Isn't She Lovely](https://open.spotify.com/track/7eI6DqHynamtKvtUWOk1Gn) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 1:54 |
 
-Snapshot ID: `MTY2NDU0MzcxMSwwMDAwMDAwMGE0MTU1YjU2NzI1ZTZiNTU2MTc3M2RmNTFiMzI4YTNm`
+Snapshot ID: `MTY2NDU0MzcxMSwwMDAwMDAwMGE0YzFmZjM2NzkwMzgzYjJhNDMyMGVhYzZlZDIwZGNm`

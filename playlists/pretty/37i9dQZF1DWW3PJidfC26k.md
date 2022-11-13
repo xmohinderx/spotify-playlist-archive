@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,585 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,612 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 5 | [Wheels Up \(feat\. Sierra Hull & Molly Tuttle\)](https://open.spotify.com/track/5O28STkWTWdbMBmwJszXPI) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [My Bluegrass Heart](https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR) | 4:15 |
 | 6 | [Moonlight Midnight](https://open.spotify.com/track/181jjYqRXdu8XAWhO4vPKS) | [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Quartet](https://open.spotify.com/album/6JwbY64hw8V8SSBJ89zwNW) | 7:40 |
 | 7 | [Stay](https://open.spotify.com/track/0sxik8HSqCPADJ3Z9d4khp) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Stay \(Little Dragon Remix\)](https://open.spotify.com/album/58CBjhuHtiy2PEhEgVQxS7) | 3:01 |
-| 8 | [Both Hands](https://open.spotify.com/track/2euBsj5xnafuZMJAP7LJdb) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [iTunes Original Session](https://open.spotify.com/album/3IXuAt2cfriD3hTnCK5GdE) | 3:33 |
+| 8 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
 | 9 | [Fall](https://open.spotify.com/track/6WuUfl87iDScV1IqD5TT57) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [The E\-Collective](https://open.spotify.com/artist/3mLYbLsEXzIgdvikrVRK46), [Turtle Island String Quartet](https://open.spotify.com/artist/5ofemHoNWTjeADvzFTAhy2) | [Absence](https://open.spotify.com/album/1fzoq1zIpM4L6KOpjpfLdp) | 5:37 |
 | 10 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 |
 | 11 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/4VL4eRCCfus08MjUiYFB7x) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/39frvhj8AzWzM5UfduyeDH) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 10:02 |
 
-Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwMGFiNmNjOTBhOTY2NDU5MTlmZmFlNjhkZmEzOGFhNDY4`
+Snapshot ID: `MTYzMjkzNDIwNSwwMDAwMDAwMGJhYTU0NzgxYjhmMjMyZTMwNmE0OTY5OTc0OGVhYTFi`

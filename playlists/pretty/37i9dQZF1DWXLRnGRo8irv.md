@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: \(여자\)아이들\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,769 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,768 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 4 | [Rolex](https://open.spotify.com/track/4g12dvo4AVBauxNdJDCZnU) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 3:12 |
 | 5 | [CHECKLIST](https://open.spotify.com/track/4Qs0LHbUWwhHFQ7iflUfht) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [CHECKLIST](https://open.spotify.com/album/6tZwL5giROuqK4YZnl185Y) | 3:09 |
 | 6 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
-| 7 | [이대로 천천히](https://open.spotify.com/track/2Qx73j6OHx8Im6wMrmEG9j) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [얼어죽을 연애따위, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1f3HrC8d2uSztNpPyvaXDe) | 3:17 |
+| 7 | [Slowly](https://open.spotify.com/track/2Qx73j6OHx8Im6wMrmEG9j) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Love is for Suckers, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1f3HrC8d2uSztNpPyvaXDe) | 3:17 |
 | 8 | [Painful, Angry and Sorry](https://open.spotify.com/track/5nYbI8sOHwRGBEGsSLh9bM) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Painful, Angry and Sorry](https://open.spotify.com/album/6qPARj3DqxMNepmW1cnMLO) | 2:57 |
 | 9 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 |
 | 10 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 |

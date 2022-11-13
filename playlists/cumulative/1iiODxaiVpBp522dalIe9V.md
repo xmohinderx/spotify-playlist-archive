@@ -4,7 +4,7 @@
 
 > Hip hop heat from the Lone Star State for when you're feeling unstoppable.
 
-164 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
+165 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Hit](https://open.spotify.com/track/27UwYehz35a6GSi7xWd2Th) | [Kblast](https://open.spotify.com/artist/3WyzXUbSj6GlWl379WjHOU) | [Blast from The Past](https://open.spotify.com/album/4LwbmDH8srglysGJtgg4YT) | 1:37 | 2022-07-01 |  |
 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 | 2022-06-02 | 2022-09-02 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/116IS04a18L5lKQADerNeb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/3FYzzktY8TFWNCXVGfJZL6) | 3:13 | 2022-06-02 | 2022-09-02 |
-| [I Refuse](https://open.spotify.com/track/0dQR0ILJ1mAEkvUkduU7pr) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce Beach Florida](https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo) | 3:13 | 2022-10-13 |  |
+| [I Refuse](https://open.spotify.com/track/0dQR0ILJ1mAEkvUkduU7pr) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce Beach Florida](https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo) | 3:13 | 2022-10-13 | 2022-11-13 |
 | [I Sip Lines](https://open.spotify.com/track/3qjJhb3I1OMQrJGwCQ5gR7) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce Beach Florida](https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo) | 1:58 | 2022-09-09 | 2022-10-14 |
 | [I'm Petty](https://open.spotify.com/track/5z60a2DC3pP0yqBxrde8sS) | [Rizzoo Rizzoo](https://open.spotify.com/artist/2zaB41HXDxNghkA6X0fgXT) | [I'm Petty](https://open.spotify.com/album/76KogM8Lr7osWvEeOghL4M) | 2:18 | 2022-10-13 |  |
 | [In My Blood](https://open.spotify.com/track/4hwMIdB0srOKoCqclPHVLU) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [In My Blood](https://open.spotify.com/album/734djBeY2I4FYSQ0zjTcMg) | 2:31 | 2022-07-01 | 2022-09-02 |
@@ -118,6 +118,7 @@
 | [Roll Ya Boat](https://open.spotify.com/track/7HJPsOW4bdm5IQaUmJr36s) | [Voochie P](https://open.spotify.com/artist/4XxIlRzfz6UtWj0uYTlEy3), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Roll Ya Boat](https://open.spotify.com/album/79Uhig3lsJnBvjSxCU4OQ6) | 1:49 | 2022-07-01 | 2022-09-02 |
 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 | 2022-10-13 |  |
 | [Same Time](https://open.spotify.com/track/4ps9e46YmROGmpzePmPTnB) | [Guero 10k](https://open.spotify.com/artist/4L2hh6znwtTZtkmX0TmiUJ), [TrapboyDre10k](https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9) | [Same Time](https://open.spotify.com/album/2UnTrTuizE45aQqkFtaxiZ) | 3:00 | 2022-06-02 | 2022-10-14 |
+| [Sauce Body](https://open.spotify.com/track/1CedJ4dCui4Gx2BzS3rbi6) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce Beach Florida](https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo) | 2:25 | 2022-11-12 |  |
 | [Sauce Body](https://open.spotify.com/track/01q8fSPaqOHmxFfmGSPxuf) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Sauce Body](https://open.spotify.com/album/4NbgQYK3taGjeS04mCKjg5) | 2:25 | 2022-08-02 | 2022-09-02 |
 | [SAUCE ME UP](https://open.spotify.com/track/6yjvYzFGeFRx7eH1AfBg9i) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [SAUCE ME UP](https://open.spotify.com/album/1tnKlEOJmVZfdI6KtGj3g9) | 3:13 | 2022-07-01 | 2022-09-02 |
 | [Sauce Side da Realest](https://open.spotify.com/track/5YKou23BytPcfoBljTfqmR) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [44 Mike Deezy](https://open.spotify.com/artist/3vdNjxIPV7xFfVvscKhOuG) | [Sauce Beach Florida](https://open.spotify.com/album/3MKC3KePgYR2Et6PvtHNfo) | 2:23 | 2022-09-01 | 2022-11-02 |
@@ -155,7 +156,7 @@
 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/4iTkqrEual8nNjBW7kZxpi) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 2:05 | 2022-08-02 | 2022-09-02 |
 | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/track/68Smyg3JQ1msbItYvplaXD) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Throw a Lil Mo \(Do It\)](https://open.spotify.com/album/1TFnaUsUuZ35fNYguyU0Qo) | 2:05 | 2022-07-01 | 2022-08-03 |
 | [Time](https://open.spotify.com/track/0PscXfGNoKV05i02lyejwK) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Time](https://open.spotify.com/album/7jl1EFPELcDEtfy03Xv2Gk) | 2:49 | 2022-09-01 |  |
-| [To The Rescue Flow](https://open.spotify.com/track/0OdqAHCFkmA3erTz3bmm4o) | [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Superhero Sos](https://open.spotify.com/album/6ndKtEAg2SLWAhGd1GOZYo) | 3:05 | 2022-10-13 |  |
+| [To The Rescue Flow](https://open.spotify.com/track/0OdqAHCFkmA3erTz3bmm4o) | [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Superhero Sos](https://open.spotify.com/album/6ndKtEAg2SLWAhGd1GOZYo) | 3:05 | 2022-10-13 | 2022-11-13 |
 | [Too Late](https://open.spotify.com/track/7qeLgN61bBOdBUEEleUVN7) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq) | [Too Late](https://open.spotify.com/album/1KnrbTqOq3GgMjf8fjlCwu) | 2:33 | 2022-06-02 | 2022-07-02 |
 | [Top Down](https://open.spotify.com/track/4LRJ4BjwtO6bSa6uOMgC5z) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Top Down](https://open.spotify.com/album/3mnsoQEOO0Fa1gQtQ9XvwJ) | 2:53 | 2022-07-01 | 2022-08-03 |
 | [Trust Nun \(feat\. EST Gee\)](https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Gas God](https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj) | 2:22 | 2022-11-01 | 2022-11-12 |

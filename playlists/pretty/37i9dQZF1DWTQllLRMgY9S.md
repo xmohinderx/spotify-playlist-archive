@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 
 > Listen to brand new music as it arrives and all the classics from the true blue Queen of Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,945 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,015 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 10 | [4 Minutes \(feat\. Justin Timberlake & Timbaland\)](https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:09 |
 | 11 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
 | 12 | [Girl Gone Wild](https://open.spotify.com/track/6HlB4heRq3dA1pt38gmuqk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6JlKrwy7tJKFBum4i9vxW2) | 3:43 |
-| 13 | [Music](https://open.spotify.com/track/017KA33K4b49R1XUAyh2Nw) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [GHV2](https://open.spotify.com/album/5frQh0uqxnIQBam99WigU4) | 3:45 |
+| 13 | [Music](https://open.spotify.com/track/2BcOZ4vOeu2qZowIHrvTYy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 3:45 |
 | 14 | [Give It 2 Me](https://open.spotify.com/track/6G7d2cbkZSaAOE0H6K1ohb) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk) | 4:47 |
 | 15 | [Sorry](https://open.spotify.com/track/3YqJlngd0Bx4zsqWkkaGSa) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Sorry](https://open.spotify.com/album/1zFk0TzM4oAuvvON5NGuK5) | 3:58 |
 | 16 | [Medellín \(with Maluma\)](https://open.spotify.com/track/6mfu6jyFgvnXeTPQrYNs8d) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:58 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQllLRMgY9S.md) - [plain]
 | 51 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 |
 | 52 | [Future \(with Quavo\)](https://open.spotify.com/track/5IQgTY3f8ZeRW8o7cyFMX5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 3:53 |
 | 53 | [Bitch I’m Loca \(feat\. Maluma\)](https://open.spotify.com/track/4EoMHVpNZTLVfAIgYzfufZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 2:50 |
-| 54 | [Crave](https://open.spotify.com/track/04IwmKAt38EldXFedLRPw6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [LOUD & PROUD: The New Pride Classics](https://open.spotify.com/album/10aEAltOqnfavek54Blruq) | 3:21 |
+| 54 | [Crave \(with Swae Lee\)](https://open.spotify.com/track/3DTq6oxUWv20TEKQO9IVF3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 3:21 |
 | 55 | [Batuka](https://open.spotify.com/track/35skCNkwwEQIgJCSncfbBe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:57 |
 | 56 | [I Don’t Search I Find](https://open.spotify.com/track/6RwkmsgTmxUK2TziYWqlqL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:08 |
 | 57 | [Killers Who Are Partying](https://open.spotify.com/track/68vWLW3xY35CHvYS2Sn55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 5:28 |
 | 58 | [Come Alive](https://open.spotify.com/track/6hHPBnTvgBjmJoUowLa23S) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:02 |
 | 59 | [Looking For Mercy](https://open.spotify.com/track/1MyVadO3ei1DGHVbDowQGv) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:50 |
 
-Snapshot ID: `MTY2MzA3NTg2MCwwMDAwMDAwMGE3YjZjNzQzMzNkNGJhMzgwMzU2N2EwOWU1NzFlZjFl`
+Snapshot ID: `MTY2MzA3NTg2MCwwMDAwMDAwMGM0ZTgxZDZiZTQ5ZmIyNmQ0ZTU0NjZmZWVmZTI3Mzhm`

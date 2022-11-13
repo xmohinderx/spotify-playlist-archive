@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 4 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 |
 | 5 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 6 | [Animal Families](https://open.spotify.com/track/5JLOoJsu28Z9HT3vh2u4ec) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong 50 Best Hits: Baby Shark and More](https://open.spotify.com/album/2GkjtrCWy2aAY9R0XG7Haq) | 1:17 |
-| 7 | [Where Do The Children Play?](https://open.spotify.com/track/2tDCxk1CwgwdpLRHA0PJfH) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [This Is Us \- Season 2 \(Music From The Series\)](https://open.spotify.com/album/5tj7T18XPCZOvArkrxASfI) | 3:53 |
+| 7 | [Where Do The Children Play?](https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:51 |
 | 8 | [There's a Hole in the Bottom of the Sea](https://open.spotify.com/track/3o0pKNC0dg21BYcPHUUFgb) | [Grover](https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [The Sesame Street Cast](https://open.spotify.com/artist/5x7XfWbvbfarIFWWzMa4rM), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [F Is for Fun!](https://open.spotify.com/album/4eidzkVj7dlmhgam1t6Nq3) | 3:56 |
 | 9 | [Green Green Leaves](https://open.spotify.com/track/2WeO5sKxyDtjkLIZzp2Mjy) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Green Green Leaves](https://open.spotify.com/album/65sdwlaWZwkl5t5N2Af8QQ) | 1:52 |
 | 10 | [The 3 R's](https://open.spotify.com/track/6MvbWjCoGy0IBHi5xqWPJB) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sing\-A\-Longs & Lullabies For The Film Curious George](https://open.spotify.com/album/0kYv61g7n6ZPe2TVaIBeeJ) | 2:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 39 | [I Love Nature \- Original Demo](https://open.spotify.com/track/7BVmOq6ejw9IH0PSYtVGAl) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 2:43 |
 | 40 | [Rule of thumb](https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd) | 2:44 |
 
-Snapshot ID: `MTY1MDAwOTYwMCwwMDAwMDAwMGMzZDZlZTMzY2QyODRhMzFjYTI2MTI3M2RjYjMzMThj`
+Snapshot ID: `MTY1MDAwOTYwMCwwMDAwMDAwMDE4ZGUyY2NmY2U3NDRiMTJhNTI4NzI1NmUyMjk0MDIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,757 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,792 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 20 | [Shake off Your Flesh](https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI) | [The Huntress and Holder of Hands](https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX) | [Avalon](https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg) | 5:31 |
 | 21 | [The Railroad](https://open.spotify.com/track/7mkemk33kdLQvrkIpRkWWd) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/1e7YbwFtvVBUpWMTojqeCg) | 4:10 |
 | 22 | [Dyin Day](https://open.spotify.com/track/2VNrqHrmeQ3NeOOopjKOwq) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 3:06 |
-| 23 | [Where Did You Sleep Last Night](https://open.spotify.com/track/7ucwcsXOmwwgrcMB3YeaKA) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Ultimate Country Blues Collection](https://open.spotify.com/album/736y5c0LSTTQ7FxkBq23p0) | 3:04 |
+| 23 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 24 | [Mean\-Hearted Woman](https://open.spotify.com/track/6LeQGBg3QO2lLb2OWD96O2) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:43 |
 | 25 | [Six Foot Under](https://open.spotify.com/track/5TKC5tx1jIVhsoaof1qMx4) | [Rosie Tucker](https://open.spotify.com/artist/21IgTzfAyrn8DJpEY7F4DM) | [Six Foot Under](https://open.spotify.com/album/6w8nQIzwYbqLSbIr9fG2yt) | 2:22 |
 | 26 | [Diggin A Grave](https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [Micah P\. Hinson and the Opera Circuit](https://open.spotify.com/album/1CIVVV6GUgNfS5nmDh0V5z) | 2:05 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 38 | [Afraid](https://open.spotify.com/track/5RqzmyZZTB35lb4Rc1FKAA) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:57 |
 | 39 | [Feast Of The Dead](https://open.spotify.com/track/4TrVfDJGf5mHvWGT2Lch7B) | [Buddy & Julie Miller](https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV) | [Breakdown On 20th Ave\. South](https://open.spotify.com/album/3VqWUojroBnrQV1DGL346Z) | 3:59 |
 | 40 | [Graveyard](https://open.spotify.com/track/5fuON606j1hkPGJhFMwerY) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [The Devil Makes Three](https://open.spotify.com/album/18VR3tbMXiPOEj4rQfSp1k) | 3:25 |
-| 41 | [Ghosts That We Knew](https://open.spotify.com/track/0ZZ22x24tcXRPvEnZLpt2m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel](https://open.spotify.com/album/3keXhA98WpXzqn5e3oQkx6) | 5:39 |
+| 41 | [Ghosts That We Knew](https://open.spotify.com/track/4OwUzSEXxSZXpCfdjKGzpD) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:39 |
 | 42 | [Long Black Veil](https://open.spotify.com/track/4Cl4CwxNKrMjq2OHeujr9E) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 4:38 |
 | 43 | [Little Sadie](https://open.spotify.com/track/0hx1VYrHlfA0ZgVHHbcXX9) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Transmigration Blues \(Deluxe Edition\)](https://open.spotify.com/album/7DNc0CovWdm5G4jPWQQiMN) | 3:34 |
 | 44 | [Death Came A\-Knockin \(Travelin' Shoes\)](https://open.spotify.com/track/2glS4lKTAoEnIL8QSJS6eL) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Runaway Soul](https://open.spotify.com/album/3hUx1DJss4pUin43QNvjQ1) | 3:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 69 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 70 | [Bad Magic](https://open.spotify.com/track/7bxuX0YTV3lhUFi2qdEnbN) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/4iyQ6mS7JUElDGGq2Ix09P) | 5:54 |
 
-Snapshot ID: `MTY2Njg4NzkwNSwwMDAwMDAwMDZhNjE1YzBkZTBlMmNkYTY2YjU1OTU2NWQ2MWNiNTYx`
+Snapshot ID: `MTY2Njg4NzkwNSwwMDAwMDAwMDcwYWQzZTNiMTZiZmRhMzFlN2Q1NjQ1OTMxNTM4Nzkx`

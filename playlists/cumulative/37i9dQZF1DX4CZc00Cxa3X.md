@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-155 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+156 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Miocene](https://open.spotify.com/track/0aPnmWMriv7aORMdc0PQQI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Kasper Bjørke Quartet: Miocene](https://open.spotify.com/album/5vwrG91MohIuhJGNgU3EUk) | 11:44 | 2022-09-12 |  |
 | [Moon Road](https://open.spotify.com/track/6HIXHWmCdv0ZBLE0vmeh7P) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:19 | 2022-03-17 |  |
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2022-03-17 | 2022-09-13 |
-| [Morning](https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Sun//Rain](https://open.spotify.com/album/79FXd9aIqWS5jy4kOT2owa) | 4:27 | 2022-05-18 |  |
+| [Morning](https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Sun//Rain](https://open.spotify.com/album/79FXd9aIqWS5jy4kOT2owa) | 4:27 | 2022-05-18 | 2022-11-13 |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2022-03-17 |  |
 | [Music for Six Rooms](https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Music for Six Rooms](https://open.spotify.com/album/2W2lrobX2NN1GODgYQGVAH) | 10:06 | 2022-03-17 | 2022-10-16 |
 | [New Love](https://open.spotify.com/track/2KN4qcDC3YYl5ihUx5qRQC) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Antidawn EP](https://open.spotify.com/album/46Tzqoo34KEb0G2hYDp5Ry) | 7:13 | 2022-03-17 | 2022-04-29 |
@@ -110,6 +110,7 @@
 | [Phase 10](https://open.spotify.com/track/6sDe8RA7VqWfBUYg3fiBwD) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Meditation: You Are Relaxed](https://open.spotify.com/album/4QL5klSQaSxjr5ahXU4Mex) | 3:00 | 2022-08-19 |  |
 | [Prue Lewarne](https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB) | [Aix Em Klemm](https://open.spotify.com/artist/42DUzz9SdjV6ih3rbUaHma) | [Aix Em Klemm](https://open.spotify.com/album/5tiWSutt09Cqi6ty1dYzXJ) | 7:19 | 2022-03-30 | 2022-10-21 |
 | [Relax 6 \(Awakening\)](https://open.spotify.com/track/0ml9Z7ZLrMmZqfjuzVpu8X) | [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Sleep Better](https://open.spotify.com/album/1jsheoosVBExRYKbZmnISG) | 9:59 | 2022-09-20 |  |
+| [Requiem](https://open.spotify.com/track/1NFDuSokDMAiE4iRuac5sl) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 12:27 | 2022-11-11 |  |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2022-07-27 |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 |  |

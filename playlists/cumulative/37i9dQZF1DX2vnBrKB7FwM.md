@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-86 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
+87 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/3zmU4gkPj0G6pq0uLvvBh3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 | 2022-02-25 |  |
 | [Inefable](https://open.spotify.com/track/6S0d8VN3nUDChfmqsKs8Ve) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo) | [Inefable](https://open.spotify.com/album/1h4TnMOV1XJOmP2xUfMCbC) | 3:03 | 2022-02-25 |  |
 | [Inmortal](https://open.spotify.com/track/0SuDASVJre5ibvn7FWhr2f) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Ónix](https://open.spotify.com/album/2VNQz46SGDNQVRxGa0zY0J) | 2:58 | 2022-02-25 | 2022-07-16 |
-| [Inmune](https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF) | 4:32 | 2022-02-25 |  |
+| [Inmune](https://open.spotify.com/track/2xrv8ar2mYYwmXPoCZY9se) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/3y6yqzgtEBTRShhEC7mRTN) | 4:32 | 2022-07-15 |  |
+| [Inmune](https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF) | 4:32 | 2022-02-25 | 2022-11-13 |
 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 | 2022-02-25 |  |
 | [La Nada](https://open.spotify.com/track/1RqeXjIirY9nD9rypTvU2G) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/5ziIa95wsIA1lUiDEpm2ad) | 3:06 | 2022-07-15 |  |
 | [La Nada](https://open.spotify.com/track/3EXRgZtRcCgcjpCBj5Qi5Z) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/4sLgEndvHbNyqRL0B6YB84) | 3:06 | 2022-02-25 | 2022-07-29 |

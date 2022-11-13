@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,330 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,361 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 41 | [Leila](https://open.spotify.com/track/1LW5BwY4nUGJdS0z4UcjuJ) | [Mira \(Berlin\)](https://open.spotify.com/artist/6p31dmLI4jnatyEQmrVPDc), [Christopher Schwarzwälder](https://open.spotify.com/artist/11i3tISGuOUmWFuXTRNrtD) | [Leila](https://open.spotify.com/album/0MlmMtzsS4mmM81Z33nOEZ) | 7:45 |
 | 42 | [Jamileh](https://open.spotify.com/track/0wegArF0QhIeFAq6RYCeEm) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3) | [Miniature 1](https://open.spotify.com/album/1Nm08hXrpfAWxAMhkuflH4) | 5:42 |
 | 43 | [Ayonha](https://open.spotify.com/track/4ivH1TtQELnn9KEtszWfYI) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 3:41 |
-| 44 | [Dance of Maria](https://open.spotify.com/track/5nbdbkTYpRuYvbw6JkVD6X) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mr Bongo Record Club, Vol\. 3 \(Compiled by Mr Bongo\)](https://open.spotify.com/album/63aD58MKgM5SxlRKG8axcT) | 2:43 |
+| 44 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 |
 | 45 | [Imarhan](https://open.spotify.com/track/1Ye2lpUppaahUYUyFiI9vW) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 4:04 |
 | 46 | [Ihna Inhabasna](https://open.spotify.com/track/5RdHevEQB8n8gB2ONYZH3y) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Autostrad](https://open.spotify.com/album/3IOSrN1mWyCxjGVMPy1UEa) | 3:44 |
 | 47 | [Lmchi w Rjou3](https://open.spotify.com/track/25NuCWQ4cIxmwxRHMZ0C4L) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Lmchi w Rjou3](https://open.spotify.com/album/6T5BcuQisJcN2E4O6BmRDk) | 6:25 |
@@ -69,6 +69,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 59 | [Dabkeh](https://open.spotify.com/track/6ogljt3oVKSkZ6y2EaIQw1) | [Bedouin Burger](https://open.spotify.com/artist/0dOAYwm9ZFUqHLczUorSxh) | [Dabkeh](https://open.spotify.com/album/6C3STlwLtgkLBsJ9ewLy2D) | 4:28 |
 | 60 | [Embembelelah \- Jade's DiscoSpaceDrumBuka Remix](https://open.spotify.com/track/3EF49wVK8jbE8GajPYLExm) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m), [Jade](https://open.spotify.com/artist/40fRpgJArQvrzJaaWdRCxt) | [Beirut Remixed](https://open.spotify.com/album/6FpwepbGYV3lvb1r2vvexd) | 6:56 |
 | 61 | [Leave](https://open.spotify.com/track/2KaMBqn9UBbWkl4Ky7ORVp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl), [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Leave](https://open.spotify.com/album/692P5jdZFc1S27zguBg5dd) | 4:30 |
-| 62 | [Herzan](https://open.spotify.com/track/1mDppvp7awCG1IOGjRZgKQ) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [The Best Of Soapkills](https://open.spotify.com/album/61X01E3XzgYB49RLQcYWXA) | 3:21 |
+| 62 | [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 |
 
-Snapshot ID: `MTY2NDg4ODEyMCwwMDAwMDAwMDVmZDQ1ODRhMTRmZWFmNGFiNmVhMGMwNTE1Y2RmMDcx`
+Snapshot ID: `MTY2NDg4ODEyMCwwMDAwMDAwMGNhMjlmM2FiZDllMDUyMmQ2MGQyODliODdjZDY0NDYw`

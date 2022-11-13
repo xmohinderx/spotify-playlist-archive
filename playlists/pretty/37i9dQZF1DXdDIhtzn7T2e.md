@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,859 likes - 71 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,899 likes - 71 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 42 | [Sitting In Limbo](https://open.spotify.com/track/5kkT3J5trC533eXfZRxcaI) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Countryman](https://open.spotify.com/album/77pIdRuNu9xRYk6BB6l9nI) | 2:41 |
 | 43 | [They Call Me Cadillac](https://open.spotify.com/track/7FtLb4VBIBVDslXESrCOQP) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [They Call Me Cadillac](https://open.spotify.com/album/6j9RPVwV4Ca1mmq6FtSBKw) | 2:59 |
 | 44 | [Stoned In Traffic](https://open.spotify.com/track/1kQfN9SZbv6jvgfAV4LjVD) | [Porter and The Bluebonnet Rattlesnakes](https://open.spotify.com/artist/2E99cSqPWtmAFiuzWTE5HQ) | [Don't Go Baby It's Gonna Get Weird Without You](https://open.spotify.com/album/2TIA1N6WhgzAY3eRWpfmCF) | 2:48 |
-| 45 | [Toes](https://open.spotify.com/track/1bcaC0Uup0m4snqBVpbzB9) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Happy: 100 Songs](https://open.spotify.com/album/34flUZLzE6Mj5wq0DK1qEX) | 4:22 |
+| 45 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 |
 | 46 | [Worry B Gone](https://open.spotify.com/track/4dl52Y5P5jYbD6M8TsVTVK) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Workbench Songs](https://open.spotify.com/album/4aULeiRDpqIxV3sP9jwqO5) | 3:14 |
 | 47 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
 | 48 | [When I'm Stoned](https://open.spotify.com/track/32xpxaQUNHLvVn887yhnNK) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Somewhere in the Middle](https://open.spotify.com/album/3eZP4gJUgSQVwoJMi4S2Xb) | 3:21 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 70 | [Willin'](https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Sailin' Shoes](https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt) | 2:54 |
 | 71 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 |
 
-Snapshot ID: `MTY2MzkwNjQ1OSwwMDAwMDAwMGE1NWY1MTRhYjE3N2ZjZDNmNWU4OGNjM2VjZTE1MTEx`
+Snapshot ID: `MTY2MzkwNjQ1OSwwMDAwMDAwMGFmZmFiYjhkNTIxMmM5ZmY5ZWM4NTY2N2U3OWZlYzdm`

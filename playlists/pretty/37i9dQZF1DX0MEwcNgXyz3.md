@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,918 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,887 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 27 | [Revolution](https://open.spotify.com/track/7iceFyXQeIaDuIxIlJZrGB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:20 |
 | 28 | [Wannabe Ghetto](https://open.spotify.com/track/612n5mfSOqNxM4WuNtJJ9j) | [FATA BOOM](https://open.spotify.com/artist/4GioeqLGgBkn9rRB12bor4) | [Constricted](https://open.spotify.com/album/35LbJWourhMwBwiHjDDxii) | 3:35 |
 | 29 | [Impatient](https://open.spotify.com/track/1OJHLAz9ryVZDryqbp4ofc) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [Impatient](https://open.spotify.com/album/3xMxG92CAAqLurqVZC8TeD) | 3:39 |
-| 30 | [Blah Blah Blah](https://open.spotify.com/track/1PzPstFTSyOXHhCYoKZCcG) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Trance Top 1000 \(Mini Mix 009\) \- Armada Music](https://open.spotify.com/album/50VJh8k4sYPXl8zu5SDfF6) | 3:03 |
+| 30 | [Blah Blah Blah](https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 3:03 |
 | 31 | [Bad](https://open.spotify.com/track/0f5W28eFordHQEp0GSaePF) | [Farveblind](https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g), [KillASon](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY) | [Boxes](https://open.spotify.com/album/46z2rjRxnhFPSmd30RJt1f) | 2:58 |
 | 32 | [I See You](https://open.spotify.com/track/5sdFre038gmuQIh8RovPZC) | [Nadia Tehran](https://open.spotify.com/artist/09ESvFEyyX1aDdRg5kmsvu) | [Life Is Cheap, Death Is Free](https://open.spotify.com/album/1QCBbMQEDhiasv1yIgbUDs) | 3:00 |
 | 33 | [ALPHA](https://open.spotify.com/track/1gerU6xf4IsgfUX8dUbjbS) | [Yung Titties](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [ALPHA](https://open.spotify.com/album/1NOSSl2tx6r4HzFkJiePks) | 2:37 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 52 | [I Heard That Beat Before](https://open.spotify.com/track/60ajhZmRPuzmH9jnayGu5Z) | [Marc Ferrari](https://open.spotify.com/artist/7FYH7enU7w5FUO1uxI9Gmp), [Michael McGregor](https://open.spotify.com/artist/6BndouHJESYwXzhP6y7BkO) | [Dance 5](https://open.spotify.com/album/1ziixXqMWbg91tA9pvL0dA) | 3:02 |
 | 53 | [Sad Love](https://open.spotify.com/track/4x3pKqllzC0MfvCODPK5hS) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:25 |
 | 54 | [Revenge](https://open.spotify.com/track/6R2GToDZxJtArxQDwr4YK8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:27 |
-| 55 | [Live And Die](https://open.spotify.com/track/3768ZJKEyYp65B04dPi0mQ) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Sunday/Live And Die](https://open.spotify.com/album/1AqHmizPRDAn3NUSdlv8p1) | 5:46 |
+| 55 | [Live And Die](https://open.spotify.com/track/48eeeQJmaA6PTs3hVPJbIE) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 5:46 |
 | 56 | [Sankta Lucia](https://open.spotify.com/track/68JHQul9BJoRgsQL24uQUQ) | [Stella \- Solvieg Ågrens Kammarkör](https://open.spotify.com/artist/3BxHMhtalYAEU7Wt1QQr8K) | [Julens stjärna \- Christmas in Sweden](https://open.spotify.com/album/5Mv9u5upMxRPjxd1Zlz5ND) | 3:59 |
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
 | 58 | [Drama End](https://open.spotify.com/track/7tdukkbRcObCy8nqHXRbgM) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:44 |
 
-Snapshot ID: `MTY2Nzk5NzU0OCwwMDAwMDAwMGMxOGE1YWVkNTFkZDg4YjZmY2JkMGRmN2I5Y2U4ODI3`
+Snapshot ID: `MTY2Nzk5NzU0OCwwMDAwMDAwMGE4NGQ3MWQ0M2Y4NjdmNGM0OGE3NzgyODFiNDMzNGJl`

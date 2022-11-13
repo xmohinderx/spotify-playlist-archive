@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKBGX7pVGFC.md) - [plain]
 
 > Shout\. Strut\. Unite\. Riot Grrrl classics and other feminist staples.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,603 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,605 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKBGX7pVGFC.md) - [plain]
 | 41 | [Eating Toothpaste](https://open.spotify.com/track/7E5dZVJ6UPlzYi5RyTlxhH) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/7J5Dh22aIS2NeMGXQ3LPN4) | 2:26 |
 | 42 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
 | 43 | [Feels Blind](https://open.spotify.com/track/3VKly1IGagrEfPAAyw96M4) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars](https://open.spotify.com/album/5TZM8FoHBlbqXBKCllJH8i) | 3:36 |
-| 44 | [Fuck the Pain Away](https://open.spotify.com/track/0AAjPLcJQAiEtrdkxA9kHE) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 4:10 |
+| 44 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 |
 | 45 | [Glass House](https://open.spotify.com/track/65MAh0uBZ9PNlWM1Oay7hA) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL) | 3:44 |
 | 46 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 |
 | 47 | [Cute Boy Discount](https://open.spotify.com/track/1hNqecstqRcSEvyXQIJvlF) | [Cold Cold Hearts](https://open.spotify.com/artist/1LdA2Q0GE08HyoCdjbBbxa) | [Cold Cold Hearts](https://open.spotify.com/album/5Kfqgd3ajEPe1ZcTSoPw37) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKBGX7pVGFC.md) - [plain]
 | 49 | [Fairytale in the Supermarket](https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:00 |
 | 50 | [No One's Little Girl](https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
 
-Snapshot ID: `MTU2NjQxNjE1NywwMDAwMDAwMGE2MDY3NjNmYjJkNDQ1OThiNDllNTg2MGExOTVkZjA3`
+Snapshot ID: `MTU2NjQxNjE1NywwMDAwMDAwMGEzMjQzMDAzOGMwNGM1YzEzMjJiMjY2NWMzZTYyZmJj`

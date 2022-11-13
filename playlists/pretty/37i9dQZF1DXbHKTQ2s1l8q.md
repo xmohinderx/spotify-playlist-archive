@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,410 likes - 104 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,409 likes - 104 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 59 | [Audrey Horne](https://open.spotify.com/track/1cNNPJSTu1ZQALIijHvwqV) | [Golden Retriever](https://open.spotify.com/artist/71TknewZmcMQGt4R313xoo) | [Capablanca](https://open.spotify.com/album/5mENq4ZwKjrjofLKzmyvG7) | 2:56 |
 | 60 | [Afrodite](https://open.spotify.com/track/6skzlMw87XL85eM9YhMAxR) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:46 |
 | 61 | [Chacharerita Mia](https://open.spotify.com/track/535hSZOoxufWFeB3sstnep) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Chacharerita Mia](https://open.spotify.com/album/5FWVfIerIXzDqEOB3LKeei) | 3:31 |
-| 62 | [Kalena Kai](https://open.spotify.com/track/60kmRexBGemg7K5vrBJHFR) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY), [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 4:21 |
+| 62 | [Kalena Kai](https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku) | 4:22 |
 | 63 | [Dancing In The Moonlight](https://open.spotify.com/track/6KeHsd0q92Sm9nMpXw7kbp) | [Miles Stevens](https://open.spotify.com/artist/4iFBTDdERv7dXIDdtJ70Rd) | [Dancing In The Moonlight](https://open.spotify.com/album/1WiRcfUayPpf5PiDIb3NhI) | 2:49 |
 | 64 | [Mele Kalikimaka](https://open.spotify.com/track/5ywBVtgTmr89IJi19mGCxK) | [Maya Santono](https://open.spotify.com/artist/142wK2DZxaNn0aruAi6K50) | [Mele Kalikimaka](https://open.spotify.com/album/6tAMBNCN8zKuxr8A3JTBTp) | 1:53 |
 | 65 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 79 | [Pohai Ke Aloha](https://open.spotify.com/track/05jS1nFGqVQ6QFQlLVYw3m) | [Eco Friendly](https://open.spotify.com/artist/4EKiXQ8sC11kEoiz18VBmQ) | [Pohai Ke Aloha](https://open.spotify.com/album/190yIgaoivhzltuOLMzszR) | 2:58 |
 | 80 | [Nostalgia](https://open.spotify.com/track/0qHJd9jqgclHWGouSXRcOz) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Nostalgia](https://open.spotify.com/album/38o8v1HxQz6vrJd0yPn1Ep) | 3:15 |
 | 81 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 |
-| 82 | [Radio Hula](https://open.spotify.com/track/6xyNinAi6Bx44z7e95VZDT) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 3:32 |
+| 82 | [Radio Hula](https://open.spotify.com/track/0ucKNafOslGlsuxPB0H6Ck) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Waltz of the Wind](https://open.spotify.com/album/4TF9XpVgoymaVHAXD7eTw0) | 3:33 |
 | 83 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
 | 84 | [Unchained Melody](https://open.spotify.com/track/2qjBshXhqSVt5zYN0mXbgH) | [Bluetones](https://open.spotify.com/artist/19iDNndStvcWZ9squJXTQH) | [Unchained Melody](https://open.spotify.com/album/3nAn6vR2DDVo61rwaX9L5G) | 2:18 |
 | 85 | [Viajero Nocturno](https://open.spotify.com/track/1nmKXLM6SMQv4GDyhwsMwz) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Viajero Nocturno](https://open.spotify.com/album/4yRqSzWG3u4PuE2UNpauc3) | 2:47 |
@@ -111,6 +111,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 101 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 |
 | 102 | [Hawai](https://open.spotify.com/track/6SyZj0IIhWRZp02tVHv53n) | [ANDRIEU](https://open.spotify.com/artist/32H3Drf443gMaVe3XskfEs) | [ANDRIEU](https://open.spotify.com/album/0WI5qLuEsip8NmYR2YlZlL) | 1:32 |
 | 103 | [Ku'u Pua I Paoakalani](https://open.spotify.com/track/5SgbhhOYg3NSGPHSTTAuEf) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Nahenahe](https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW) | 3:17 |
-| 104 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/10sYxXLdFfPn93JPVBUBfL) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K), [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/5qXmNWu8kCLrce2EkbkPrr) | 4:38 |
+| 104 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid) | 4:39 |
 
-Snapshot ID: `MTY2MjY0MDQwMSwwMDAwMDAwMDBhZTJmZWMwYTQ5ZmVkMmIzNDIzYTY3NDE5MTQwMjgw`
+Snapshot ID: `MTY2MjY0MDQwMSwwMDAwMDAwMGFhMDg2ZTRhNDk5MjBmMWI0MjAxZjYwOWE1MGM1YzNm`

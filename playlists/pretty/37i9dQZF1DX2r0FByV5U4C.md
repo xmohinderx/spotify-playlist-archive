@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 
 > Saluting the songs and artists that have filled us with pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,694 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,692 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,6 +33,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 | 23 | [We Have Been Believers](https://open.spotify.com/track/1F953129iN4gBeGvfeYE5K) | [Margaret Walker](https://open.spotify.com/artist/4H2657mM3Y4j6ITcmHOf21) | [The Poetry of Margaret Walker](https://open.spotify.com/album/5lUuig2p8Yuc539idomNGT) | 3:30 |
 | 24 | [I Too](https://open.spotify.com/track/0CQVLxSfVPz3kXH6ZUfleL) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Langston Hughes Recordings](https://open.spotify.com/album/7Ek0QRGNy92Zcfv53edFET) | 0:34 |
 | 25 | [Dreams](https://open.spotify.com/track/6A7bVdaeKLeHCutvJovQrn) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Langston Hughes Recordings](https://open.spotify.com/album/7Ek0QRGNy92Zcfv53edFET) | 0:57 |
-| 26 | [Africa](https://open.spotify.com/track/0ubXZ4MkT71sCkGMssg90b) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Caged Bird Songs \(Deluxe Edition\)](https://open.spotify.com/album/3uOosas8GVTyqJIDc5mOER) | 3:28 |
+| 26 | [Africa](https://open.spotify.com/track/2J8yVtzNqgO40QDKhuNeQm) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Caged Bird Songs](https://open.spotify.com/album/4PF18WekUteo4wMepPE8rv) | 3:28 |
 
-Snapshot ID: `MTY0NDUyNzYzOSwwMDAwMDAwMDdiMThlZjNkMmM3NDM1OWE2YzcxMDEzMGE0ZDE1N2Yx`
+Snapshot ID: `MTY0NDUyNzYzOSwwMDAwMDAwMDJhYTliMDM2MjgxYjY2ZDkxMGIyNzYwNzNiMDQyYzJm`

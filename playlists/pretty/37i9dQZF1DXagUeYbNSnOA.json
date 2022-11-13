@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Estevie on cover.",
-  "num_followers": 167617,
+  "num_followers": 167637,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDI4ODU1M2YzOTFmMmM1NzZlMTg4MjU3OGEyNmQ3YzE5",
+  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMGI5NzhhNDZlOTg4MWY1ZjNmZTBkMjFmZDg2YmNmMTlj",
   "tracks": [
     {
       "added_at": "2022-11-10 00:19:53",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "La Cumbia Del Cucuy",
-        "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 135370,
-      "name": "La Cumbia Del Cucuy",
-      "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/6QsBDIZ6CRltVA7wTpjdoU"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 151741,
       "name": "Break",
       "url": "https://open.spotify.com/track/4xPb3jN1lrnKE5ivMlNubW"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "La Cumbia Del Cucuy",
+        "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 135370,
+      "name": "La Cumbia Del Cucuy",
+      "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "bend&break",
-        "url": "https://open.spotify.com/album/56vYzeAz55MHDICS5jAbwm"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 183909,
-      "name": "bend&break",
-      "url": "https://open.spotify.com/track/2fzLS5sl9eFH5XT4oZn0nU"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Te Doy Igual",
         "url": "https://open.spotify.com/album/2Zx8OgxGlLq3FRYcFKvdhl"
       },
@@ -319,18 +303,18 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Palmeras",
-        "url": "https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm"
+        "name": "bend&break",
+        "url": "https://open.spotify.com/album/56vYzeAz55MHDICS5jAbwm"
       },
       "artists": [
         {
-          "name": "Para\u00edsos",
-          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 201504,
-      "name": "Palmeras",
-      "url": "https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU"
+      "duration_ms": 183909,
+      "name": "bend&break",
+      "url": "https://open.spotify.com/track/2fzLS5sl9eFH5XT4oZn0nU"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -347,6 +331,22 @@
       "duration_ms": 178200,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Palmeras",
+        "url": "https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edsos",
+          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
+        }
+      ],
+      "duration_ms": 201504,
+      "name": "Palmeras",
+      "url": "https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Fighting Ghosts",
-        "url": "https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1"
-      },
-      "artists": [
-        {
-          "name": "No Stories",
-          "url": "https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc"
-        }
-      ],
-      "duration_ms": 193953,
-      "name": "Fighting Ghosts",
-      "url": "https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "No Me Ves",
         "url": "https://open.spotify.com/album/6tStrz2JlKWcpcMSuc39gt"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 134466,
       "name": "No Me Ves",
       "url": "https://open.spotify.com/track/2LyiWca1jIqGUD0GGro600"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Fighting Ghosts",
+        "url": "https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1"
+      },
+      "artists": [
+        {
+          "name": "No Stories",
+          "url": "https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc"
+        }
+      ],
+      "duration_ms": 193953,
+      "name": "Fighting Ghosts",
+      "url": "https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Alegr\u00eda",
-        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
-      },
-      "artists": [
-        {
-          "name": "Matiu Colin",
-          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "El Juego",
         "url": "https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 168774,
       "name": "El Juego",
       "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f"
+      },
+      "artists": [
+        {
+          "name": "Matiu Colin",
+          "url": "https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Entretiempo",
-        "url": "https://open.spotify.com/album/1b2Y6POFznPEn8svXszWNS"
-      },
-      "artists": [
-        {
-          "name": "Rosero",
-          "url": "https://open.spotify.com/artist/5YhzMroM1y0BHeHqXGMIQu"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Entretiempo",
-      "url": "https://open.spotify.com/track/2zLmQmPcRX1OZzlDrNyBDR"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "1 AM: NE\u00d3N",
         "url": "https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 176686,
       "name": "1 AM: NE\u00d3N",
       "url": "https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Entretiempo",
+        "url": "https://open.spotify.com/album/1b2Y6POFznPEn8svXszWNS"
+      },
+      "artists": [
+        {
+          "name": "Rosero",
+          "url": "https://open.spotify.com/artist/5YhzMroM1y0BHeHqXGMIQu"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Entretiempo",
+      "url": "https://open.spotify.com/track/2zLmQmPcRX1OZzlDrNyBDR"
     },
     {
       "added_at": "2022-11-10 00:19:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: KILLBOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,814 likes - 95 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,857 likes - 95 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 32 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 |
 | 33 | [Caravan](https://open.spotify.com/track/41D6o74AzOBpD4jQwRZ2ZF) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Caravan](https://open.spotify.com/album/2CxyxiA6HrYIz3T0wdNfrb) | 3:04 |
 | 34 | [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 |
-| 35 | [I Don't Care](https://open.spotify.com/track/1citIkNWmi2MJIFss9Tqso) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 3:03 |
+| 35 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 |
 | 36 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 |
 | 37 | [I'm Good](https://open.spotify.com/track/0d0lVRztdBmdkL04WORCPP) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [how to get through a breakup](https://open.spotify.com/album/0d4s3UnuE7jVxpxJErAehX) | 3:20 |
 | 38 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 61 | [On The Drive Home](https://open.spotify.com/track/5HXQI1AJwzmnxLVm7BW1kV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 4:16 |
 | 62 | [break my heart](https://open.spotify.com/track/5nlKcuzD8Pd79njhGXt1vT) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [break my heart](https://open.spotify.com/album/3Bx72slNcFS4gRjmtiBl7b) | 2:58 |
 | 63 | [Butterfly](https://open.spotify.com/track/28h1mlM9GI9BPDwqm2plTI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Butterfly](https://open.spotify.com/album/7gc956PnIlEBzEqKRzT66f) | 2:46 |
-| 64 | [god has a sense of humor](https://open.spotify.com/track/7pmV5S5LWax4FbTQpUGloD) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Autumn Leaves \- Fall Hits](https://open.spotify.com/album/4qtRqYPUttVN8x8MTRiwHh) | 2:50 |
+| 64 | [god has a sense of humor](https://open.spotify.com/track/6HCAaG7XT5DUvrzXHbGnqs) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:50 |
 | 65 | [this town is a little less mine](https://open.spotify.com/track/4NtxiZ0LM2IWZecXKhY4MK) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [this town is a little less mine](https://open.spotify.com/album/7Gr5p3X05a1cnlX5UI8oIT) | 2:07 |
 | 66 | [Mad Hoes](https://open.spotify.com/track/0xI2ngnUf6iG5LgotBmmEd) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:44 |
 | 67 | [Before I Go](https://open.spotify.com/track/3IcTA0EbqrgXbhAoY0b98r) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Before I Go](https://open.spotify.com/album/1GDfKTurt5heggkwUFwRbj) | 3:24 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
 | 75 | [Love Me Back](https://open.spotify.com/track/6p95Fy7WYNpxeAaId7WLGk) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3CIxFuXTFzzoFk6BRqbcs5) | 2:28 |
 | 76 | [Ordinary Love](https://open.spotify.com/track/4dmBhkfzO0LNyTpniMNEIX) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/1M5loxljwC0wulbEqMODp4) | 3:15 |
-| 77 | [Inevitable](https://open.spotify.com/track/4jFWWwXkW037NJvLuZs9Kj) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/6WnoRdx3QhZkaImW71OLon) | 3:22 |
+| 77 | [Inevitable](https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4) | 3:22 |
 | 78 | [How Do I Not.](https://open.spotify.com/track/2HQDOhUcS51VcBem0jmYjJ) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [How Do I Not.](https://open.spotify.com/album/5P2C1iE7qzQkMKHgzsNwo6) | 2:43 |
 | 79 | [More Of You](https://open.spotify.com/track/06kYozo6Am3njAuYXy7XJw) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [More Of You](https://open.spotify.com/album/6BPN1ae8Yj3YBjA4smeT6p) | 3:33 |
 | 80 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 91 | [sausalito](https://open.spotify.com/track/0vC9FoWDvGGguQj8csTwnQ) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [sausalito](https://open.spotify.com/album/3VoZjgGkRjR1aPA0jUeuaX) | 2:50 |
 | 92 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 93 | [Past Life](https://open.spotify.com/track/5Y5GCQcDkcndKKiKel6tK8) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Past Life](https://open.spotify.com/album/1dTTM2vQpUbvmEYaMAS0rm) | 3:38 |
-| 94 | [Love of My Life](https://open.spotify.com/track/3swoC2pDa2pQsGFJIvyd4g) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Love of My Life](https://open.spotify.com/album/0coJ1KcqSFSsC1OJM5gQ7C) | 3:52 |
+| 94 | [Love of My Life](https://open.spotify.com/track/1KiJFIMQrRH14WF5ntkZbf) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [The Kids Table](https://open.spotify.com/album/6BUjnH6B8ZQH1CGhPT4UGJ) | 3:52 |
 | 95 | [Dream Girl](https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Dream Girl](https://open.spotify.com/album/1d3os2x0L52pyezqlC0lpj) | 3:27 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDU1YzUzODAwMTNmMzdjNGU5ZDRkZDdhYTA2NmFhYTM0`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDc3MGJkYWFjMmY2NWQzNDhlYmM5YzE3NDVlOTlhM2Y3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 
 > Classic drinking singalongs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,312 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,339 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 30 | [Rambling Irishman](https://open.spotify.com/track/1AUDL7ApnjcteAIxE3vXJ6) | [John McCutcheon](https://open.spotify.com/artist/0TzlaraGqiaAfTjqTh96dc) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 5:22 |
 | 31 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
 | 32 | [The Rocky Road To Dublin](https://open.spotify.com/track/2AMHDHBuhSvcEhbv5IVSB1) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [The High Kings](https://open.spotify.com/album/4EDaQ3qQ8vglXgSi5sQm2A) | 3:16 |
-| 33 | [The Pub With No Beer](https://open.spotify.com/track/0KHI8o4IdAZCfEgNJnH1ww) | [International Pub Ensemble](https://open.spotify.com/artist/0APsDUwiXpvuLHrBvmjJZi) | [50 Irish & British Pub Songs](https://open.spotify.com/album/2ESkvL97UBS5eHTpZACgPT) | 2:35 |
+| 33 | [The Pub with No Beer](https://open.spotify.com/track/5zZthzbOkBkz2gfwxoTpSP) | [Drinking Songs](https://open.spotify.com/artist/4qcIdXhkdYXAaybMaVjpvU) | [Original Irish Drinking Songs](https://open.spotify.com/album/5r8OT9nU29Yx4jHkecubAk) | 2:35 |
 | 34 | [The Big Strong Man](https://open.spotify.com/track/2LDt5lclWiStgzcN2ckBUL) | [The Wolfe Tones](https://open.spotify.com/artist/1IxQVSOg5GFGdGfL7zjpau) | [25th Anniversary](https://open.spotify.com/album/7fTHb1SDietYPoesmOnDNh) | 2:09 |
 | 35 | [If You're Irish, Come Into The Parlour](https://open.spotify.com/track/79IbAhRoFA8wbUhHWcDjv3) | [Barnbrack](https://open.spotify.com/artist/26arTXI1Jz3lUeDQ2IQjCe) | [101 Beautiful Irish Ballads](https://open.spotify.com/album/6MfSQtS9WRNQTUl7jHcXQh) | 1:42 |
 | 36 | [Muirsheen Durkin](https://open.spotify.com/track/7DkDrVprJzciRxztQ7UG1I) | [The Blarney Lads](https://open.spotify.com/artist/0NVUu7IN9htn2Ak7CY8mCL) | [Molly Malone: 20 Traditional Irish Favorites for St\. Patrick's Day](https://open.spotify.com/album/1NrHPStocUvzCEV4lTJCRr) | 2:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrmUI5ur5GK.md) - [plain]
 | 54 | [Weile Waila](https://open.spotify.com/track/64z9LKRYWUSO8JSrVDyyLY) | [Ronnie Drew](https://open.spotify.com/artist/06Iyp8QTMuoS38jjgMYFx2) | [Definitivo Canzoni da Pub](https://open.spotify.com/album/3t2hKKngI5tbpFmO17h7ty) | 2:24 |
 | 55 | [Seven Old Ladies](https://open.spotify.com/track/1cd92x1tprkEPp1bxaLuCq) | [Foster & Allen](https://open.spotify.com/artist/53UCUopHRBowldiFYqYdzA) | [Irish Drinking Songs \- 50 Pub Favorites from Ireland](https://open.spotify.com/album/4Fvg4bfehK0QOsnHRkSMVQ) | 4:34 |
 
-Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwMGU4NGRjODVjZjk5YzIxY2ZjZjhiMTg1YzdkM2RlNWE0`
+Snapshot ID: `MTY0NzQ0MzI4NCwwMDAwMDAwMDY2YzcwMGIxY2FlZDJhZjI2YjQxNDE2ZTM4MzE0NWUz`

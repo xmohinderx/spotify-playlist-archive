@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,984 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,119 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 50 | [No Stoppin ft\. Blxst](https://open.spotify.com/track/3Jo34FHsqVDp7QLP9Ahw2n) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Stoppin ft\. Blxst](https://open.spotify.com/album/0BCSnOx8yJpY9TPeRILEUz) | 2:57 |
 | 51 | [Hello \(feat\. Chlöe & KayCyy\)](https://open.spotify.com/track/0GrygSHJw7Hkc7Ih5X1wkX) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:24 |
 | 52 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 |
-| 53 | [First Class](https://open.spotify.com/track/7d5gg4vfo0K1oa0Y40Pz5b) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Best of July: Summer Hits](https://open.spotify.com/album/736983PPxG6IITwNUqttou) | 2:53 |
+| 53 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
 | 54 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
-| 55 | [BILLIE EILISH.](https://open.spotify.com/track/5eMsJ357tcd0mrGsgBnfSI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Release Round Up Vol.4](https://open.spotify.com/album/5Ke5G7lbi2BCgDc5VLn8Xh) | 1:39 |
+| 55 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 | 56 | [Booty Dancer](https://open.spotify.com/track/4qdHoLbbIDaaWytfsBK62p) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Booty Dancer](https://open.spotify.com/album/5fG5ECAPTouiAMqHiIjHrP) | 2:20 |
 | 57 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
 | 58 | [Toxic](https://open.spotify.com/track/1lKdmaqbv7d4U8e1Rkf9dt) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Baby Goat 2](https://open.spotify.com/album/77KBd69KrqhbtxT5VKe6bC) | 2:53 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 98 | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/track/1w4zc04CreWVxEmljzeykK) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq) | 2:07 |
 | 99 | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/track/0Mg5cbRrpU5VF3tV90hmvk) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Whap Whap \(feat\. Fivio Foreign & French Montana\)](https://open.spotify.com/album/7oiCF1Nw8pNFHkA8TS2bwV) | 2:41 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGRmZjE5OWFjMjk4ZmEzM2VkOTdjYTM0MjlhZjNiZTM2`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGQ5ZmY2ZGZlMjg5ZjQwYTUxZjkwM2Y1YzA4MDlmM2U0`

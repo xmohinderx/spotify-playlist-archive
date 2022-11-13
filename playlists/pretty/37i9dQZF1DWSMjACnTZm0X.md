@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG?si=4hPgcoMARkObvNDG0CJSsQ">Costa Titch</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,363 likes - 47 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,373 likes - 47 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 30 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 |
 | 31 | [Lay It Down \- Freeze](https://open.spotify.com/track/4XUhN77UBA4i0uNa3u0Icz) | [Jean Feier](https://open.spotify.com/artist/6WrdVzyxBFJDRB3EZhqh4G) | [Lay It Down \(Freeze\)](https://open.spotify.com/album/12vCcwi0rhDDbOhVGVHpuM) | 5:28 |
 | 32 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 |
-| 33 | [Woman](https://open.spotify.com/track/1fxspkjz7rBZKTtVa8dwgg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/0FWlT1szHKSCPkIkXAJFKL) | 3:58 |
+| 33 | [Woman](https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Woman](https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v) | 3:58 |
 | 34 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 |
 | 35 | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/1ZQ99HHidfORTcxmZDVF0o) | 3:05 |
 | 36 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 46 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
 | 47 | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/album/7LhPDGHwqdinqFXBQxAwcI) | 6:52 |
 
-Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMGRiMWE0MDlhZTY1OWMzMzdlOTliMjA0NjIwZDUzZmQ3`
+Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMDU5ZWUyZDY2MmU2YzY4YTU4NjVmNDNjOWEzMzQyNWVj`

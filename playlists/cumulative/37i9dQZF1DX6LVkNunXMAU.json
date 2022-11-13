@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "album": {
         "name": "A Donde Quiero Estar",
         "url": "https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc"
       },
@@ -399,7 +417,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 261808,
       "name": "Canci\u00f3n de oto\u00f1o",
       "url": "https://open.spotify.com/track/5mxCXwFixheHBlsW8nEmVF"
@@ -533,6 +551,24 @@
       "duration_ms": 251199,
       "name": "Como una Flecha",
       "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
+    },
+    {
+      "album": {
+        "name": "complikado",
+        "url": "https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp"
+      },
+      "artists": [
+        {
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178076,
+      "name": "complikado",
+      "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
     },
     {
       "album": {
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 232906,
       "name": "i only want you when i'm fucked up",
       "url": "https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n"
@@ -1252,6 +1288,28 @@
     },
     {
       "album": {
+        "name": "Los Viernes",
+        "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Los Viernes",
+      "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
+    },
+    {
+      "album": {
         "name": "Marinero",
         "url": "https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd"
       },
@@ -1343,7 +1401,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 197391,
       "name": "Meteorito",
       "url": "https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ"
@@ -1743,7 +1801,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 213227,
       "name": "Ojos de Camello",
       "url": "https://open.spotify.com/track/6fSsdyxsmvfQjH7tXY9SAa"
@@ -1845,7 +1903,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 165205,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation\.  Guest curation by <a href="https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP?si=nPq5VuyRTCuzlRDkRcl7kg/">Rhett Walker</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,301 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,324 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 10 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 11 | [Adam's Son](https://open.spotify.com/track/3RmyTJK1VAx7hm7UDPxDWw) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Here's To The Ones](https://open.spotify.com/album/70T14v4ekIUqg9fuxaLUgM) | 3:04 |
 | 12 | [Mercy Now](https://open.spotify.com/track/4aSdp6vPtZcSQ0oMraE7Vd) | [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [Shine For All The People](https://open.spotify.com/album/299R8MIIIzRp68WPf2z3xg) | 4:50 |
-| 13 | [Ain't No Grave](https://open.spotify.com/track/4H4B97UMURWsNybgJWhQBo) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:21 |
+| 13 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 |
 | 14 | [No Glory](https://open.spotify.com/track/36eeEbMZhP6obQX060f0J7) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 5:14 |
 | 15 | [Doubting Thomas](https://open.spotify.com/track/5Y5mqKOWd1wzqSqBeYaeO9) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 3:19 |
 | 16 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
 | 17 | [This Life](https://open.spotify.com/track/6wNuaMA96DLSwVd2PABe06) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu), [The Forest Rangers](https://open.spotify.com/artist/46xMgypLHP8GNsYME3vRnV) | [Songs of Anarchy: Music from Sons of Anarchy Seasons 1\-4](https://open.spotify.com/album/3M18rHXLz7eFOQXRMJcBk9) | 2:20 |
-| 18 | [Beat the Devil's Tattoo](https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:45 |
+| 18 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 |
 | 19 | [Say Hello](https://open.spotify.com/track/3B72eiR3nw9aFISuAHc6MT) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Say Hello](https://open.spotify.com/album/7AE2cf1lunlKFeVJsilram) | 3:06 |
 | 20 | [Brother, Do You Know the Road?](https://open.spotify.com/track/0J37PvXDuYgnTjpuMli03s) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Brother, Do You Know the Road?](https://open.spotify.com/album/1NTRLhDozTGthCY7JyBc54) | 6:09 |
 | 21 | [Too Old To Die Young](https://open.spotify.com/track/6uBETSZKESX7UziMYjQ2jH) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/2qwPVMQzybhS2jopA0wMy7) | 3:43 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 28 | [Make Me No King](https://open.spotify.com/track/51VlHF8o4GlnZTNwUJvcXQ) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Make Me No King](https://open.spotify.com/album/0ggCg1U7w5k7j7fyoKzJM8) | 3:51 |
 | 29 | [Monsters](https://open.spotify.com/track/4ZQAlNuSk4bEnRvq2rNGSO) | [Heidi Mays](https://open.spotify.com/artist/6z8Uva3jdHUeS4J56jXVPO) | [Monsters](https://open.spotify.com/album/7t6XBMyawfnwxPPxjjv1Ae) | 3:13 |
 | 30 | [Danger and Dread](https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou) | 3:46 |
-| 31 | [Ain't No Grave](https://open.spotify.com/track/4H4B97UMURWsNybgJWhQBo) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:21 |
+| 31 | [Ain't No Grave](https://open.spotify.com/track/0ymhUnNSuTEdKCRYEVpWOS) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 3:21 |
 | 32 | [Wilderlove](https://open.spotify.com/track/1XvyPvEPUdyMi4K3beNfOE) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Mercury & Lightning](https://open.spotify.com/album/7IFEn26t34FyQpcSHNdF7P) | 4:41 |
 | 33 | [Hot Blood](https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:38 |
 | 34 | [Trampled Rose](https://open.spotify.com/track/4hZ3EvDUlqrh2lno4d82ZM) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 5:33 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3akpXniJCe.md) - [plain]
 | 40 | [Haunted](https://open.spotify.com/track/6i8lkIyU8XiCIzfPwRtMPE) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [No Glory](https://open.spotify.com/album/4YaWyI6imvYaPnrd96kemb) | 3:33 |
 | 41 | [O Children Come](https://open.spotify.com/track/5UlOGXhDP4qXbSKHyLnQoM) | [JJ Weeks Band](https://open.spotify.com/artist/6fXIdyfCq00oaElvH64eri) | [O Children Come](https://open.spotify.com/album/1MlHJSY1EH0AQaYYUnTNga) | 3:41 |
 
-Snapshot ID: `MTUyMzg4NzQxMCwwMDAwMDAwMDRjZjkzZTFiOWMxZjk4MGVhZDQyMTE2MGM2NjI5ZDFk`
+Snapshot ID: `MTUyMzg4NzQxMCwwMDAwMDAwMDU3MWRmZmFkNjUxN2QyNDVkYTlmMzNmZTdiYWNkM2Zj`

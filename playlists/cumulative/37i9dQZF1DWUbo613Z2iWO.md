@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Khamari
 
-420 songs - 21 hr 34 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+422 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,9 @@
 | [battlefield](https://open.spotify.com/track/0ercS4onJVqWW26YQamPiP) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [battlefield](https://open.spotify.com/album/17CQ0EGQXXsELKDs4dna7n) | 3:12 | 2022-11-11 |  |
 | [Be Without You](https://open.spotify.com/track/5vdSk60SVmxr2ISu17KHB5) | [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [Natasha Mosley](https://open.spotify.com/album/2ljiL5OmK8EXW21ROuggvz) | 3:25 | 2022-05-27 | 2022-07-16 |
 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 | 2022-08-05 |  |
-| [bend you](https://open.spotify.com/track/2Eh66WrkqVpTjKHZDGSoBM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:39 | 2022-07-15 |  |
+| [bend you](https://open.spotify.com/track/2Eh66WrkqVpTjKHZDGSoBM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:39 | 2022-07-15 | 2022-11-13 |
 | [bend you](https://open.spotify.com/track/3G2MG6jQJ1tC42NwAjRsxy) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:39 | 2022-07-15 | 2022-07-29 |
-| [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-15 | 2022-11-11 |
+| [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-15 |  |
 | [Birthday Girl](https://open.spotify.com/track/4AmxBBozDJDeNcsPMcLrTq) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Birthday Girl](https://open.spotify.com/album/1KfH7Htcq4ck6JNVZrozUa) | 2:23 | 2022-11-11 |  |
 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 | 2022-11-04 |  |
 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 | 2022-04-08 | 2022-05-21 |
@@ -106,7 +106,8 @@
 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2022-10-28 |  |
 | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/7lTp8ScQlND1bNaO0ejh3r) | [Autumn Marini](https://open.spotify.com/artist/0Afau9cQ62igjVSDkkkG19), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/2D8PhtJcBp4rJx6l5BTRjZ) | 3:02 | 2022-07-29 | 2022-08-06 |
 | [Dopamine \(with NBDY\)](https://open.spotify.com/track/2OR6sDdibyxWVQaYlbk7k1) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Dopamine \(with NBDY\)](https://open.spotify.com/album/29lqXMJ4ZefBTjPbao7mYe) | 3:42 | 2022-09-30 |  |
-| [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 | 2022-11-04 |  |
+| [Double Back](https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 2:39 | 2022-11-04 |  |
+| [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 | 2022-11-04 | 2022-11-13 |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 |  |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 | 2022-03-11 | 2022-04-02 |
 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 | 2022-10-07 |  |
@@ -195,7 +196,8 @@
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2022-07-15 | 2022-10-08 |
 | [I.O.U.](https://open.spotify.com/track/39UemJN9cUuOLZE4nVDnYD) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [I.O.U.](https://open.spotify.com/album/6IiJEA5jKiufcTeqIJ9Irn) | 2:46 | 2022-08-12 | 2022-10-29 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-18 | 2022-04-29 |
-| [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 |  |
+| [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2022-10-21 |  |
+| [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 | 2022-11-13 |
 | [If You Let Me](https://open.spotify.com/track/4gEQcoKNoLFLyhory3Y5Zr) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/0bfXZQxSJElGATQnCvFSMc) | 2:15 | 2021-12-15 | 2022-03-12 |
 | [Immature](https://open.spotify.com/track/2AB3ZBErbY5P9PXIrTFAb9) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:53 | 2022-08-12 | 2022-09-24 |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-09 | 2022-08-13 |

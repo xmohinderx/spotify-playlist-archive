@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M?si=DqsiTcXFSpaLRstMz7kqfQ">Xhanthi Nokwali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109 likes - 83 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119 likes - 83 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 76 | [No Hope After 1](https://open.spotify.com/track/3sXTg8HJL6TdpNtADdlDIW) | [Fernando Damon](https://open.spotify.com/artist/33NVhommONkAqw8HnexI5K), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Surrender](https://open.spotify.com/album/4BB8QBZatr1sYCBeiXLzVg) | 3:25 |
 | 77 | [Goema Dance](https://open.spotify.com/track/0Yw4vqTnjsW19ImLrDCWvt) | [Claude Cozens](https://open.spotify.com/artist/10YNEqs1dAwhEFzRn9rmo6) | [Love Finds You](https://open.spotify.com/album/51BRidwfSYvuwphZn0sNbv) | 5:12 |
 | 78 | [Amazing Grace](https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:06 |
-| 79 | [Joyous](https://open.spotify.com/track/4eZg8lxVThElRnwl6ZHqBX) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [The Ancestors](https://open.spotify.com/artist/7ePHKxo2J01bxBoXF3ikyy) | [Brownswood 10](https://open.spotify.com/album/0VyTXdyXEsKzrvI6h566GY) | 6:38 |
+| 79 | [Joyous](https://open.spotify.com/track/1II6naZsvJLrtjXQgGjztZ) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [Wisdom of Elders](https://open.spotify.com/album/7bOWCR37vGgWis6Nwi7aMC) | 6:43 |
 | 80 | [Indawu](https://open.spotify.com/track/1nKWE1I0RRz5RgykyKPEDB) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Modes Of Communication: Letters From The Underworlds](https://open.spotify.com/album/6D5gR5dxP0iUeueQlwRQDe) | 8:34 |
 | 81 | [Falling Apart](https://open.spotify.com/track/3tgyFGshU5wxP4pEvlPCDv) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Falling Apart](https://open.spotify.com/album/0Bcxklu4BFgRY812BZfNEX) | 4:16 |
 | 82 | [The Panther](https://open.spotify.com/track/5duF6755ZRQ90ga0HUlirm) | [Simeon Davis Group](https://open.spotify.com/artist/4VpuhyxGT6WgAwOfI6OLqT), [Alex Hand](https://open.spotify.com/artist/1JHDHQilgJSwnEvwRmsFpL) | [Of Narratives & Nocturnes](https://open.spotify.com/album/52UFxrxnZAHFnzYmCLGoIE) | 12:26 |
 | 83 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 |
 
-Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMGMxMzFhZjExNDg3NzUwNGFkMWY0MGI4ZGQxNjk1ZGE0`
+Snapshot ID: `MTY2NjMwMzE0MCwwMDAwMDAwMDFiYzVhYTYxMTUxZjQ2MDQ5ZThkNzA5ZTNiNGQ2MDQz`

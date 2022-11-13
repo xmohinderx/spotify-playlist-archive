@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 38290,
+  "num_followers": 38382,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDI2NmE1MDMzNTc1ZGQxM2E2ZDdhMzRlYzA2OTc0MDRh",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDhlNmI0NDIzN2MyZTljNmI4MWMxODRkYzk0N2M5MDlh",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -27,8 +27,8 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "First Collection 2006-2009",
-        "url": "https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud"
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 147026,
       "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1"
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -239,8 +239,8 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -328,25 +328,25 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+      "duration_ms": 219000,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
     },
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+        "name": "The Flying Club Cup",
+        "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
         }
       ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+      "duration_ms": 230200,
+      "name": "Nantes",
+      "url": "https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Flying Club Cup",
-        "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 230200,
-      "name": "Nantes",
-      "url": "https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC"
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -527,18 +543,34 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
+        "name": "Ongiara",
+        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
       },
       "artists": [
         {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
         }
       ],
-      "duration_ms": 247515,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+      "duration_ms": 216453,
+      "name": "Your Rocky Spine",
+      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -559,18 +591,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
         }
       ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -703,6 +735,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Each Coming Night",
+      "url": "https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "The Second Gleam",
         "url": "https://open.spotify.com/album/4qnTzXaGBJnb11UMPAILO0"
       },
@@ -715,22 +763,6 @@
       "duration_ms": 192426,
       "name": "Murder in the City",
       "url": "https://open.spotify.com/track/3h5AZDf5z7D18plaLtHTfi"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -763,6 +795,22 @@
       "duration_ms": 272440,
       "name": "This Is The Thing",
       "url": "https://open.spotify.com/track/4brqHrnr9ym8db3o5n70Qg"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -959,6 +1007,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Our Way to Fall",
+      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Chutes Too Narrow",
         "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
       },
@@ -1103,22 +1167,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 418200,
-      "name": "I Am Trying to Break Your Heart",
-      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1131,6 +1179,22 @@
       "duration_ms": 156960,
       "name": "The Best Ever Death Metal Band in Denton",
       "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 418200,
+      "name": "I Am Trying to Break Your Heart",
+      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1263,6 +1327,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Music For A French Elevator And Other Oddities",
+        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
+      },
+      "artists": [
+        {
+          "name": "The Books",
+          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Cello Song Feat. Jose Gonzales",
+      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Hello Starling",
         "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
       },
@@ -1275,6 +1355,22 @@
       "duration_ms": 248453,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Midnight Organ Fight",
+        "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "The Modern Leper",
+      "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1423,22 +1519,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Strictly Rule",
-      "url": "https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "In Our Nature",
         "url": "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
       },
@@ -1451,6 +1531,22 @@
       "duration_ms": 200853,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Tight Knit",
+        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Strictly Rule",
+      "url": "https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1487,22 +1583,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Destroyer's Rubies",
-        "url": "https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii"
-      },
-      "artists": [
-        {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
-        }
-      ],
-      "duration_ms": 250013,
-      "name": "Painter in Your Pocket",
-      "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Picaresque",
         "url": "https://open.spotify.com/album/1ofGOFzgt22AGMi9yQIOMq"
       },
@@ -1519,98 +1599,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Dongs Of Sevotion",
-        "url": "https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27"
+        "name": "Destroyer's Rubies",
+        "url": "https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii"
       },
       "artists": [
         {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
         }
       ],
-      "duration_ms": 330133,
-      "name": "Dress Sexy At My Funeral",
-      "url": "https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "At The Cut",
-        "url": "https://open.spotify.com/album/4KlCnvatrjbTDV03ENHW4S"
-      },
-      "artists": [
-        {
-          "name": "Vic Chesnutt",
-          "url": "https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H"
-        }
-      ],
-      "duration_ms": 281720,
-      "name": "Flirted With You All My Life",
-      "url": "https://open.spotify.com/track/68eFHzVBOEnG3r8mWiZIuP"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "What Comes After The Blues",
-        "url": "https://open.spotify.com/album/0D9FANbUo4R1eyn9MZQBOa"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Electric Co.",
-          "url": "https://open.spotify.com/artist/2k07pWgpJiFIbb9q1yJ36B"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "The Dark Don't Hide It",
-      "url": "https://open.spotify.com/track/4FnOromo9r7kx6o6uMPl30"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Woman King",
-        "url": "https://open.spotify.com/album/5bD1I8I6SMNoysShNdTJa3"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 307013,
-      "name": "Jezebel",
-      "url": "https://open.spotify.com/track/66uRb1ytl0l3PHAAAjqySU"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Unmap",
-        "url": "https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3"
-      },
-      "artists": [
-        {
-          "name": "Volcano Choir",
-          "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Island, IS",
-      "url": "https://open.spotify.com/track/0UG45r1E8VGzjzbB5BjnTW"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Hymns For a Dark Horse",
-        "url": "https://open.spotify.com/album/1bmDSG41Kr8RQBcP9qCM0e"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "In Our Talons",
-      "url": "https://open.spotify.com/track/32MfLc3XuxExc5XOgim5LB"
+      "duration_ms": 250013,
+      "name": "Painter in Your Pocket",
+      "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
     }
   ],
   "unique_name": "00s Indie Folk",

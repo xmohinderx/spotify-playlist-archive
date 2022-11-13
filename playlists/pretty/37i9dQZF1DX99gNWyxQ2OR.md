@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 
 > A complete collection of Chopin's Nocturnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,756 likes - 21 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,799 likes - 21 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 | 14 | [Nocturne in C Minor, Op\. 48 No\. 1](https://open.spotify.com/track/5ODw6izhdCUXePU8P8nAz6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ingrid Fliter](https://open.spotify.com/artist/7iUbgcO0RSM8jJHbXNnrdq) | [Chopin: Nocturnes](https://open.spotify.com/album/0LrAzPzajLZ4Zmit30UILX) | 6:09 |
 | 15 | [Nocturne No\. 14 in F\-Sharp Minor, Op\. 48 No\. 2](https://open.spotify.com/track/2QD0F6WGobTHPgqDQZTtcP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Chopin: Nocturnes](https://open.spotify.com/album/3zHkuOkUqIgRwCcVnbX9qf) | 7:12 |
 | 16 | [Nocturne No\. 1 in B flat minor, Op\. 9 No\. 1](https://open.spotify.com/track/4LvznnwnusIRjRmbCpKboR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Chopin The Complete Nocturnes](https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t) | 7:15 |
-| 17 | [Nocturne No\. 2 in E flat, Op\. 9 No\. 2](https://open.spotify.com/track/0bN0UjQPOtrzPBVA0E2Bw1) | [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Working from Home Classical](https://open.spotify.com/album/1Ot45u8vTs7z6QH7emCCGp) | 4:19 |
-| 18 | [Nocturne No\. 5 in F\-Sharp Major, Op\. 15, No\. 2](https://open.spotify.com/track/1Xpk5AoYnSfUWYrQHzLezk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Become an Instant Expert: Chopin](https://open.spotify.com/album/6bEOIlQ9qaGFXzUPiLLVKT) | 3:49 |
+| 17 | [Nocturne No\. 2 in E flat, Op\. 9 No\. 2](https://open.spotify.com/track/7FgdNdHsetCQXksQpeGabM) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Chopin: The Nocturnes](https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD) | 4:19 |
+| 18 | [Nocturne No\. 5 in F\-Sharp Major, Op\. 15, No\. 2](https://open.spotify.com/track/6nnGjPFUxesSjLCyATfpdD) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes, Vol\. 1](https://open.spotify.com/album/6pEZZ6wqZYxvjtE9IEO6xX) | 3:49 |
 | 19 | [Nocturne in C Minor, Op\. Posthumous](https://open.spotify.com/track/266pahK31Y6cZd4BMzTcAj) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bruno Rigutto](https://open.spotify.com/artist/0yPINB4V6U9g9i9iLRRJjx) | [Chopin: Nocturnes](https://open.spotify.com/album/3H71tUq3RndNDXUCBSEl2N) | 3:04 |
 | 20 | [Nocturne No\. 6 in G Minor, Op\. 15, No\. 3](https://open.spotify.com/track/7Fs8VvfKUBq9QULOmXDvJ3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:26 |
-| 21 | [Nocturne No\. 12 in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/5afaoMCUH7eNssI6PJgPGC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes](https://open.spotify.com/album/62MhxWgysS1Dbe4fCIMHUw) | 5:44 |
+| 21 | [Nocturne No\. 12 in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/6EriOgK7cLzYsnNEHTnY36) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes, Vol\. 2](https://open.spotify.com/album/3WnONXHPKROuUtLFKvtPQT) | 5:43 |
 
-Snapshot ID: `MTY2MDkwNDk4NiwwMDAwMDAwMDA1MDI4ZTBkZTIzNDgxMDRmMTkzNTIzNDFmNjlmOTI4`
+Snapshot ID: `MTY2MDkwNDk4NiwwMDAwMDAwMGRhZDRiYTI5ZGRlZjJjYTJiZjA2YzgxZDA3NjAzYzA0`

@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 391026,
       "name": "Blues i oktaver",
       "url": "https://open.spotify.com/track/2NoRSgmUgRS0Q9lnOQXT1k"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 404213,
       "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
@@ -2157,7 +2157,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 327026,
       "name": "Nice 'N Greasy - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/33ozrtFTW9KSaujWpdALaR"
@@ -2932,6 +2932,36 @@
     },
     {
       "album": {
+        "name": "Greatest Jazz Albums",
+        "url": "https://open.spotify.com/album/3OIqcFsBLX94He7aqkhd4J"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406373,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/207fJxGo6WmK3rFsCmvpN2"
+    },
+    {
+      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
       },
@@ -3171,7 +3201,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 144840,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
@@ -3721,7 +3751,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 647946,
       "name": "Uh Huh - Remastered 2005",
       "url": "https://open.spotify.com/track/1ifrzoPqpThdTHnktdPTyu"

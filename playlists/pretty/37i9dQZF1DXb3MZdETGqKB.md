@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,195 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,243 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 37 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 |
 | 38 | [Tell It Like It Is](https://open.spotify.com/track/78E7JIkQwkUjjX8nWN1pga) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Neither Here Nor There](https://open.spotify.com/album/71RpBQJxPUyMXJETnpDFiy) | 2:55 |
 | 39 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 |
-| 40 | [Workin' Man](https://open.spotify.com/track/4VQNKAaoBo8yHt7GwpJS7H) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Workin' Man](https://open.spotify.com/album/14cTydPBoD3SnypzbSpkRA) | 3:52 |
+| 40 | [Workin' Man](https://open.spotify.com/track/2n0RCFuqdqkrVIJqajqysX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Closure](https://open.spotify.com/album/4ePGSAKLrV7EyA2WIZUd8J) | 3:52 |
 | 41 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 |
 | 42 | [Sunshine Blue](https://open.spotify.com/track/0BkwABV25tQHoh5s2C8rAw) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5), [Bardo](https://open.spotify.com/artist/3oLUvU7PEhrBC6cieTRbYv) | [Sunshine Blue](https://open.spotify.com/album/3hGa85ef9Eo14ihzTHLEOC) | 2:40 |
 | 43 | [Forest Of My Soul](https://open.spotify.com/track/32QGqKxHi22ivxrPl4LK3n) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Forest Of My Soul](https://open.spotify.com/album/0tUiu2DeNVINqcAZNxXFz5) | 3:40 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 70 | [Bring on the Pain](https://open.spotify.com/track/5S5uBzMAWzzqwpqxoNnGqq) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 3:54 |
 | 71 | [Mermentau Bridge](https://open.spotify.com/track/0fYkNpOMsXzSARMvUN2QdC) | [Rod Gator](https://open.spotify.com/artist/2ujFQDji7S3dy974xmgQoM) | [For Louisiana](https://open.spotify.com/album/3U5PnRc797Sof0LD6NgWkC) | 3:36 |
 | 72 | [The City Streets \(Ps.23\)](https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 4:32 |
-| 73 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 |
+| 73 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 |
 | 74 | [In The Water](https://open.spotify.com/track/0RiY8zC9nRkLJmjyWL90Or) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN) | [In The Water](https://open.spotify.com/album/5KYbUkIW8rj1anUazzefDx) | 3:38 |
 | 75 | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/track/3aUbp8mH1JiPU1ces1S68Q) | [Joanna Cooke](https://open.spotify.com/artist/7EyKy53TsVFLJFZFyYzBZQ) | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/album/5ppDYA1ypWs96XBhPq9tXx) | 4:25 |
 | 76 | [Better Be Lonely](https://open.spotify.com/track/70EjHDvkFck4j5LZvVzt1Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Better Be Lonely](https://open.spotify.com/album/2k4PfJnRc2kv6o0V7i4J6P) | 3:40 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 78 | [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 |
 | 79 | [Until the Heat Leaves Town](https://open.spotify.com/track/1QjOBgzl45AYVVa4yWpZjA) | [Colin Linden](https://open.spotify.com/artist/6bFn0wonviH3NJmY1FSNkZ) | [Until the Heat Leaves Town](https://open.spotify.com/album/2X1aR4wJFLvQP495uh62ag) | 3:33 |
 
-Snapshot ID: `MTY2NjM2NTc2MywwMDAwMDAwMDQxYzI4MWE0ZGI3NTliNzBiNTUyN2Y2NDdjMWE3NTkw`
+Snapshot ID: `MTY2NjM2NTc2MywwMDAwMDAwMDhhODI4YTk5ZGMwYmE2YmZhYTQxMzQxZTcxZjk4YmJi`

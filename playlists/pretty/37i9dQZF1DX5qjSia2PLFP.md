@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,166 likes - 49 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,173 likes - 49 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 35 | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/track/27r0boXgMC64byb513mJNu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg) | 2:33 |
 | 36 | [Elevate](https://open.spotify.com/track/7j2k5JHS33pKmDMIGEmfuU) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Elevate](https://open.spotify.com/album/5n3FPfLJXtdDTYplGuj7JO) | 2:40 |
 | 37 | [COINCIDENCE](https://open.spotify.com/track/6MFk8Dw2VnvweH2E46cjEv) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [COINCIDENCE](https://open.spotify.com/album/6yhxvEpEU3smpzc3RrWJa6) | 2:03 |
-| 38 | [Neva Goin Broke](https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Codeine Files](https://open.spotify.com/album/7tgZb9ATpg16l6wcSnOBtT) | 1:20 |
+| 38 | [Neva Goin Broke](https://open.spotify.com/track/25n2o2iXsML4I0xIAFOINj) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Neva Goin Broke](https://open.spotify.com/album/4rUicHcb8xZS9zuyVlPZrd) | 1:20 |
 | 39 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 |
 | 40 | [Closure](https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Closure](https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19) | 2:57 |
 | 41 | [WILD WILD WEST](https://open.spotify.com/track/0XorGtwWuDhvbjbqNVxQXY) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [803MAYJOR VOL\. 1](https://open.spotify.com/album/1dlNnLmFEu4gzUpT2ob5qp) | 1:20 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 48 | [Till The World's Awake](https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Till The World's Awake](https://open.spotify.com/album/0uR7oNjEFBRJPhvRbzufJP) | 3:28 |
 | 49 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGY2MGUzM2ViZjE3NmIzN2RmZmQ2ZGI3ODM2Mzg5NTky`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDVlYWViZWY4ZWRiYTY1ODE2MzM1OGMyOTAxZmI1MmJh`

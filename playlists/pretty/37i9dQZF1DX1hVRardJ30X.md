@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sofia Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,554 likes - 66 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,652 likes - 66 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

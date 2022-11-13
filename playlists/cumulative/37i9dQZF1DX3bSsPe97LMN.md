@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Beto Vega en portada.
 
-159 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
+160 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Chingas A Tu Madre](https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Chingas A Tu Madre](https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257) | 3:25 | 2022-05-13 | 2022-09-24 |
 | [Comprobado](https://open.spotify.com/track/7yMS2TnLiddORCCkKHjeo7) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Comprobado](https://open.spotify.com/album/0ZfhiBRqDauFAXcmjClsR1) | 2:36 | 2022-04-01 | 2022-08-06 |
 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 | 2022-10-14 |  |
-| [Cosmos](https://open.spotify.com/track/1Txo3IXtfQa8okVkZU3okI) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT) | [Cosmos](https://open.spotify.com/album/3bxVu4ZHFt1LYoLyCrT4dW) | 3:48 | 2022-10-07 |  |
+| [Cosmos](https://open.spotify.com/track/1Txo3IXtfQa8okVkZU3okI) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT) | [Cosmos](https://open.spotify.com/album/3bxVu4ZHFt1LYoLyCrT4dW) | 3:48 | 2022-10-07 | 2022-11-13 |
 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 | 2022-04-01 | 2022-09-03 |
 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 | 2022-07-08 |  |
 | [De 0 A 100 Checo Pérez](https://open.spotify.com/track/6XtrbXtnk5GdxPENChXqYH) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [De 0 A 100 Checo Pérez](https://open.spotify.com/album/3s73StArPDrvWgF5rn6spA) | 2:42 | 2022-11-11 |  |
@@ -133,6 +133,7 @@
 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 | 2022-11-11 |  |
 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 | 2022-05-13 | 2022-08-06 |
 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 | 2021-12-27 | 2022-09-24 |
+| [Sigo De Pie \(En Vivo\)](https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sigo De Pie \(En Vivo\)](https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ) | 3:20 | 2022-11-11 |  |
 | [Sin Tus Besos](https://open.spotify.com/track/5cwNVUuCDliHKLXfD12i7z) | [Baby Kintero](https://open.spotify.com/artist/1DTvd5Qjpee91lOAtK1e73) | [Cuando Los Niños Crecen](https://open.spotify.com/album/7xceZZYnHyuob02BsmnA3s) | 3:17 | 2022-09-23 | 2022-11-12 |
 | [SOLO DE TI](https://open.spotify.com/track/6IOxy7kHT9pYmOIYcRgnoM) | [Infinito](https://open.spotify.com/artist/4UHgsEv6qlnUZz6ecKlwzE) | [No Creo En Amor](https://open.spotify.com/album/7wZ9VT6wHzUCRvL9eSNFm0) | 2:57 | 2022-07-08 | 2022-08-06 |
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2022-07-08 | 2022-10-01 |

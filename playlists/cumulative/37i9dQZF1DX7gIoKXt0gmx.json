@@ -455,7 +455,7 @@
       ],
       "date_added": "2020-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 223397,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 214054,
       "name": "How Could I Forget You",
       "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
@@ -2227,7 +2227,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 189651,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV"
@@ -2245,7 +2245,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 219080,
       "name": "Location",
       "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
@@ -2927,7 +2927,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 238320,
       "name": "oui",
       "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
@@ -3489,6 +3489,24 @@
     {
       "album": {
         "name": "Kauai",
+        "url": "https://open.spotify.com/album/6pARE4D96LSb7HbXp2xjfY"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252026,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/2btSEZQYeD2NSiK6JXvFEr"
+    },
+    {
+      "album": {
+        "name": "Kauai",
         "url": "https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy"
       },
       "artists": [
@@ -3557,7 +3575,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 211034,
       "name": "Stole My Love",
       "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
@@ -4423,7 +4441,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 143830,
       "name": "Yo Love - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"

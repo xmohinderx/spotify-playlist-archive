@@ -1,12 +1,12 @@
 {
   "description": "The latest and greatest metal tracks. Cover: In Flames",
-  "num_followers": 658305,
+  "num_followers": 658402,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDJjZWU4Y2IzZjM5MzFmMzA0ZWUxMDkwZDVhY2UwZGZm",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDFiNTU5NjdkYTZhNzFhZjJiODc0Njg0ZGViMTMxNDEz",
   "tracks": [
     {
       "added_at": "2022-11-11 05:01:00",
@@ -27,22 +27,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Missa Cantorem II",
-        "url": "https://open.spotify.com/album/1VVRLSJkxN94viXp3LY7ck"
+        "name": "Call of the Wild (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6JhuNA7potIMg6r29IVULP"
       },
       "artists": [
         {
           "name": "Powerwolf",
           "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        },
-        {
-          "name": "Tribune",
-          "url": "https://open.spotify.com/artist/4oB7TLibxO4oPGg8EM4fjL"
         }
       ],
       "duration_ms": 248960,
-      "name": "Faster Than the Flame (feat. Tribune)",
-      "url": "https://open.spotify.com/track/6HOmPvM5DhVqSXHXmjs5BL"
+      "name": "Faster Than the Flame",
+      "url": "https://open.spotify.com/track/6GmC728IZoBU37lU1LW02M"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -333,7 +329,7 @@
         }
       ],
       "duration_ms": 200275,
-      "name": "Windwaker",
+      "name": "Left In The Dark",
       "url": "https://open.spotify.com/track/5DRgqeHoGaW6NsAgPUmeex"
     },
     {

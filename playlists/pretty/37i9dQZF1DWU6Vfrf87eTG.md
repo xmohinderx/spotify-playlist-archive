@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,645 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,640 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 52 | [Neanderthal](https://open.spotify.com/track/6dLkbgtwhk5vzSLhbRlW8A) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:28 |
 | 53 | [Barragán](https://open.spotify.com/track/2EbnbSeiXnyXfGdf17OoGa) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4UhYqrNKcEiRHdVIxI7vso) | 2:13 |
 | 54 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
-| 55 | [Those Days Are Now](https://open.spotify.com/track/1xsTx7R8SQS97hXIWNbbGa) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Those Days Are Now](https://open.spotify.com/album/04GFpI8sIRhiYSggoAsnEe) | 5:43 |
+| 55 | [Those Days Are Now](https://open.spotify.com/track/4wTb3hb5WrqseQ35KxwIvp) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:43 |
 | 56 | [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 |
 | 57 | [Eventual Surrender](https://open.spotify.com/track/5Zlaa2clhbuXhaZhlUtng9) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 3:03 |
 | 58 | [Bewley In Grey](https://open.spotify.com/track/4UgfhLbk4GAPMK1bHAD4z1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6rsTsSiOWeARQtqMAVOvQR) | 1:41 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 88 | [Green Arrow](https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:43 |
 | 89 | [Steady Proof](https://open.spotify.com/track/7tKNwkWyhRUalXj9K8Q0Zv) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 2:59 |
 | 90 | [Sonata No\. 2 in A minor, BWV 1003: I\. Grave](https://open.spotify.com/track/1aoUb50Wbn7Fk7jhwgCTrT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Bach: Sonatas and Partitas, Vol\. 1](https://open.spotify.com/album/1uKnB6lenFCpzRK04cIa80) | 4:46 |
-| 91 | [Less Is Moi](https://open.spotify.com/track/0ApXNW3Y24czCz7WevtqzH) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Yo\-Yo Ma \- The Classic Albums Collection](https://open.spotify.com/album/2ZyfAh7pKXUKgEZr6DhCdx) | 7:27 |
+| 91 | [Less Is Moi](https://open.spotify.com/track/0hBEFuRbCZQxaVgbnIeMqU) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [The Goat Rodeo Sessions](https://open.spotify.com/album/3P7xbl4YB4T73vWRHgcHMa) | 7:27 |
 | 92 | [Her Smoke Rose Up Forever](https://open.spotify.com/track/7Ko4so8MIU5HBwrCMcOI1c) | [James Blackshaw](https://open.spotify.com/artist/0v3A74qYtkL8Wjj1rzLe9Z) | [Love Is the Plan, The Plan Is Death](https://open.spotify.com/album/0Hs9ZPAGmekggdUCj4g6e9) | 7:06 |
 | 93 | [Rickover's Dream](https://open.spotify.com/track/3rbanyAxECNBbFFi2IM0S2) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Aerial Boundaries](https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH) | 4:50 |
 | 94 | [California Traveler](https://open.spotify.com/track/0FMkEykWCe2vpzv6H3Dsx5) | [California](https://open.spotify.com/artist/0UBBCi1bn7VkMnNPh3NEfi) | [United States Bluegrass Songs](https://open.spotify.com/album/4hfc6HPyUgo3AwevUahukM) | 5:08 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 114 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 115 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMDA4M2Y5MThhMGJlNTg3Nzc0ZGZjYTI1MjJjYmUwMjFh`
+Snapshot ID: `MTYxNTMxNzY2NiwwMDAwMDAwMDA2MWE3NjdjNzFhN2RiYTQ5NGJkOTljNjEzNDZkNjI1`

@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Vanessa Zamora.
 
-473 songs - 1 day 2 hr 18 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+474 songs - 1 day 2 hr 21 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,9 @@
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2022-03-28 | 2022-07-09 |
 | [Che sera](https://open.spotify.com/track/41JsNduRhAuFLEU7gy9ckf) | [I Coccodrilli](https://open.spotify.com/artist/5I5o3vDgR1eCtGcyW2IYZR) | [Che sera](https://open.spotify.com/album/4VdWz9znOuVApJnqBcBcbl) | 4:11 | 2022-07-22 | 2022-11-12 |
 | [cheerios](https://open.spotify.com/track/3TAvhqb2YtfR4J7ejniBg2) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [postcard from Milan](https://open.spotify.com/album/6m86vj4gewDwcEL95tm2j2) | 3:38 | 2022-01-14 | 2022-02-19 |
-| [Cherry Wine](https://open.spotify.com/track/1AB7asrPCQVH8azO61fnRo) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Conversations with the Moon](https://open.spotify.com/album/7HfLh4wPYNG2T4IrJhfciW) | 2:53 | 2022-10-28 |  |
+| [Cherry Wine](https://open.spotify.com/track/1AB7asrPCQVH8azO61fnRo) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Conversations with the Moon](https://open.spotify.com/album/7HfLh4wPYNG2T4IrJhfciW) | 2:53 | 2022-10-28 | 2022-11-13 |
 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 | 2022-01-14 | 2022-10-13 |
-| [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-10-07 | 2022-11-11 |
+| [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 | 2022-10-07 |  |
 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 | 2022-09-09 | 2022-10-08 |
 | [Chiro](https://open.spotify.com/track/5Kzd1sHqx6iWuteThnMLlO) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:00 | 2022-04-01 | 2022-07-02 |
 | [Chocolat](https://open.spotify.com/track/6Are8wJXglZ9q9QX00xoLV) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ EXTEND'EAU](https://open.spotify.com/album/5fvffbbz0BfUuo42slpV9A) | 3:09 | 2022-06-10 | 2022-07-09 |
@@ -416,7 +416,8 @@
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-22 | 2022-06-18 |
 | [to the moon](https://open.spotify.com/track/4OgStHICGrhcZi4EG41cws) | [Chaleeda](https://open.spotify.com/artist/5Kmvlg4fSgle8RJU9LVbn4) | [to the moon](https://open.spotify.com/album/0eQQrn0jDNvUCXKVkrl32R) | 3:37 | 2022-01-14 | 2022-03-30 |
 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 | 2022-06-17 | 2022-10-22 |
-| [Todai](https://open.spotify.com/track/7M7R9d2XP1EfqpIq4D0Zlv) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 2:54 | 2022-11-11 |  |
+| [Todai](https://open.spotify.com/track/7M7R9d2XP1EfqpIq4D0Zlv) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 2:54 | 2022-11-11 | 2022-11-13 |
+| [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 | 2022-11-11 |  |
 | [Todas Menos Tú](https://open.spotify.com/track/7f1BZ7o9IWCnWh9yu71nMu) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Todas Menos Tú](https://open.spotify.com/album/1jTXyzIrFa8FCBhTsKcjwI) | 3:11 | 2022-01-14 | 2022-02-26 |
 | [Tomber sur toi](https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tomber sur toi](https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv) | 4:14 | 2022-03-28 | 2022-05-21 |
 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 | 2022-09-30 |  |

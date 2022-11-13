@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 125714,
       "name": "112",
       "url": "https://open.spotify.com/track/62oHVZYgTX6DqaHQPWVIuU"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -1473,6 +1473,24 @@
       "duration_ms": 148800,
       "name": "BALI",
       "url": "https://open.spotify.com/track/3hoCtPKGTfEtVnQfpsBEUz"
+    },
+    {
+      "album": {
+        "name": "Bam Bam Bam",
+        "url": "https://open.spotify.com/album/7uRlKQOkTL8BjvL8NwEt9s"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119877,
+      "name": "Bam Bam Bam",
+      "url": "https://open.spotify.com/track/5NqkejuzfUFg1cGF1YBv90"
     },
     {
       "album": {
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 202478,
       "name": "Buzele Cu Rosu Inchis",
       "url": "https://open.spotify.com/track/2daDEsJ0IztRdLzUSLss6f"
@@ -3831,7 +3849,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/62pL0bFEaRUwN5hU2JGFrZ"
@@ -6379,7 +6397,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 169156,
       "name": "Giulesti Crangasi",
       "url": "https://open.spotify.com/track/6EIBhgEms3hJczZMzB7iTX"
@@ -13173,7 +13191,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
@@ -14101,7 +14119,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 178823,
       "name": "Sangele Frate Nu Te Face",
       "url": "https://open.spotify.com/track/3DBLUk2LjwjBak3dN3qvRz"

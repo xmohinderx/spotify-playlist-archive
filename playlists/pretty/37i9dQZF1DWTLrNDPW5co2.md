@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,093 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,112 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 3 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 |
 | 4 | [Come For Me](https://open.spotify.com/track/1XUdEmAQ1AaFEeocgUEYmU) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Come For Me](https://open.spotify.com/album/71IsFudXm4rDy0Q2rrqhUC) | 3:44 |
 | 5 | [Prada](https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:43 |
-| 6 | [Human Sound](https://open.spotify.com/track/1BpcVnAhL6LuS8q3l03ONd) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg) | 5:26 |
+| 6 | [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 |
 | 7 | [Express Yourself](https://open.spotify.com/track/1eyLFH7hE2nekDclVJTUuE) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Express Yourself / Radiator](https://open.spotify.com/album/56PFS6rrDqyg7c23TcZXsR) | 3:46 |
 | 8 | [Night Creature](https://open.spotify.com/track/3qEel6r284fp9ti2CYuO12) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:31 |
 | 9 | [Company](https://open.spotify.com/track/2d6YYtRjKgAlO1xBubTjMM) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/3T3gVP98ZNhdVBoYJP1LPT) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 59 | [No Idol \- Remix](https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/6ODJBf2C5LXJGIcB9QHU7p) | 2:36 |
 | 60 | [Uyang'khumbula](https://open.spotify.com/track/06RtgiZpMOkPpVevTWdKFh) | [Faka](https://open.spotify.com/artist/7qnN27UrAjCwesCsBHeadM) | [Amaqhawe](https://open.spotify.com/album/6cA5w26FmQnhw9i9YH8vOq) | 5:54 |
 
-Snapshot ID: `MTY2MDQ0MDcxMSwwMDAwMDAwMGYzNTRkNTY1Njk2NzBhY2MxMDM0OWE2MWZmZjkxYmNl`
+Snapshot ID: `MTY2MDQ0MDcxMSwwMDAwMDAwMDUzMjFhMjg0Mzk0YzkzZmE4NjBlYTZlMjEyZGNmOGUz`

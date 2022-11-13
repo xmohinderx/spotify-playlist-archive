@@ -1,28 +1,36 @@
 {
   "description": "Take it easy with these laid-back classical tunes.",
-  "num_followers": 378886,
+  "num_followers": 378992,
   "original_name": "Easy Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDYzZTFlYjliMWM2YjMxMzNlODFmNGI4Y2U1YmU1YzRk",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGUwYjkxY2YyNTRlMTgzM2ZiOTRiOWFlNDkzNjkzMmQy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Rough Guide: Mozart",
-        "url": "https://open.spotify.com/album/71DtUOetgyyKaFpJ4Pru2q"
+        "name": "Mozart: Piano Concertos, Vol. 6",
+        "url": "https://open.spotify.com/album/4hDQVX7aQ4SIIyCm06fmyP"
       },
       "artists": [
         {
-          "name": "Howard Shelley & London Mozart Players",
-          "url": "https://open.spotify.com/artist/1VfkB9kSnN6rf45OpMuWkt"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "London Mozart Players",
+          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
+        },
+        {
+          "name": "Howard Shelley",
+          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
         }
       ],
-      "duration_ms": 432666,
-      "name": "Piano Concerto No. 21 in C major, KV467: II. Andante",
-      "url": "https://open.spotify.com/track/4tsOiEUx7dOxFtOxJjSjPU"
+      "duration_ms": 433666,
+      "name": "Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+      "url": "https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -71,8 +79,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Work From Home With Opera Hits",
-        "url": "https://open.spotify.com/album/7zIOUUiBbu7IExp0Zn0gBj"
+        "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/0MkD4EFygmHlaZKjUBeOom"
       },
       "artists": [
         {
@@ -92,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
         }
       ],
-      "duration_ms": 194533,
+      "duration_ms": 190226,
       "name": "Cavalleria rusticana: Intermezzo",
-      "url": "https://open.spotify.com/track/6MuZLphvZnBwW6WjDDUePJ"
+      "url": "https://open.spotify.com/track/2ejVc73K8orfIk9W2uZKlg"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -195,8 +203,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Rachmaninoff - A Classical Morning",
-        "url": "https://open.spotify.com/album/3vlnaDtNDh4hXCBlzp3iJe"
+        "name": "Rachmaninov Variations",
+        "url": "https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf"
       },
       "artists": [
         {
@@ -218,7 +226,7 @@
       ],
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
-      "url": "https://open.spotify.com/track/4su816grplNlQc1OVHYntn"
+      "url": "https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -427,8 +435,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Full Focus",
-        "url": "https://open.spotify.com/album/4E7rG83GDh32JwCzOtwCiV"
+        "name": "I Giorni",
+        "url": "https://open.spotify.com/album/5P6Z5FDdLweX6oXp38nFHl"
       },
       "artists": [
         {
@@ -438,7 +446,7 @@
       ],
       "duration_ms": 359213,
       "name": "I Giorni",
-      "url": "https://open.spotify.com/track/458N7JAAH5o2T99fqIovCk"
+      "url": "https://open.spotify.com/track/6TCX42krn2Hq8vqCuEIkrh"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -731,8 +739,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "The Sea in Music",
-        "url": "https://open.spotify.com/album/20ebGSWoN3s5zr334ebcdQ"
+        "name": "Debussy: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/2PSLGmdwrMnLIJuYxfYuQ0"
       },
       "artists": [
         {
@@ -753,8 +761,8 @@
         }
       ],
       "duration_ms": 227973,
-      "name": "Petite suite: I. En bateau (arr. H. Busser for orchestra)",
-      "url": "https://open.spotify.com/track/3VmwyP84cYuq1Ha8vh9VpL"
+      "name": "Petite suite: I. En bateau (arr. H. Busser for orchestra): I. En bateau",
+      "url": "https://open.spotify.com/track/3rL2blyeOBnUBq3yYA1KcE"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -936,7 +944,7 @@
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Holst: The Planets, Op. 32",
-        "url": "https://open.spotify.com/album/4OuvdjzO1R1EGDgpZFwoGE"
+        "url": "https://open.spotify.com/album/0V1QCzzE0FtuYsStSaYNFc"
       },
       "artists": [
         {
@@ -954,7 +962,7 @@
       ],
       "duration_ms": 500646,
       "name": "The Planets, Op. 32: II. Venus, the Bringer of Peace",
-      "url": "https://open.spotify.com/track/6iaL0u6RBmYDhNj3RTM1vr"
+      "url": "https://open.spotify.com/track/0zt43yJ8LPzXOdRKh6lshZ"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -991,8 +999,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Primavera Classica",
-        "url": "https://open.spotify.com/album/0R03RenbcyR4lchx7TbZYv"
+        "name": "Chopin - Music from the 1800s",
+        "url": "https://open.spotify.com/album/5VHeuyuGesCOyUeIykxP4q"
       },
       "artists": [
         {
@@ -1010,7 +1018,7 @@
       ],
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
-      "url": "https://open.spotify.com/track/3GlxtuGLRO0bwk2SltGNCa"
+      "url": "https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1151,10 +1159,14 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Christmas Dinner",
-        "url": "https://open.spotify.com/album/2cTgvLaNKDgRcoQIookWN9"
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/5n2aAsMFp4NhWn64pCGCtK"
       },
       "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
         {
           "name": "Sheku Kanneh-Mason",
           "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
@@ -1166,7 +1178,7 @@
       ],
       "duration_ms": 173908,
       "name": "Song of the Birds (Arr. Casals)",
-      "url": "https://open.spotify.com/track/131JOBPzeOFhqUEh5VCU5m"
+      "url": "https://open.spotify.com/track/13QGSSFZuH00wqgfHdyUag"
     },
     {
       "added_at": "2022-09-30 04:01:00",

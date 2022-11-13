@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35250,
+  "num_followers": 35261,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDA2NTUyODFhNmYwYjc4OGZmNWZhYTc2ZDg2MzkzMDVh",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGJmNjgyNGZlZTM3NDA2NmY5ZmI0OGM4ZmFjMDc5YjY4",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "dancing in the kitchen",
+        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 208599,
+      "name": "dancing in the kitchen",
+      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -215,18 +231,18 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "dancing in the kitchen",
-        "url": "https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez"
+        "name": "Welcome To The Madhouse",
+        "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 208599,
-      "name": "dancing in the kitchen",
-      "url": "https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX"
+      "duration_ms": 178156,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -315,6 +331,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 172232,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -327,22 +359,6 @@
       "duration_ms": 146654,
       "name": "people pleaser",
       "url": "https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Cloudy Day",
-        "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 185303,
-      "name": "Cloudy Day",
-      "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -383,6 +399,22 @@
       "duration_ms": 193733,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Cloudy Day",
+        "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 185303,
+      "name": "Cloudy Day",
+      "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -659,22 +691,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 169700,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Joe",
         "url": "https://open.spotify.com/album/1Emg2Es3fZHl7hJ9vETrpI"
       },
@@ -687,6 +703,22 @@
       "duration_ms": 187660,
       "name": "Joe",
       "url": "https://open.spotify.com/track/5qFNMFwY9KkgfKdU1SW7Zl"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 169700,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -835,26 +867,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "1,000,000 X Better",
-        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 191739,
-      "name": "1,000,000 X Better",
-      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "East End Coast",
         "url": "https://open.spotify.com/album/6L2bXv5LEsU33rYX2LKbtU"
       },
@@ -899,6 +911,26 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "1,000,000 X Better",
+        "url": "https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 191739,
+      "name": "1,000,000 X Better",
+      "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1039,6 +1071,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "DEACON",
+        "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Green Grass",
         "url": "https://open.spotify.com/album/7aCF5YOCtZYyiJOnrK4ESH"
       },
@@ -1099,6 +1147,22 @@
       "duration_ms": 208197,
       "name": "The Sun\u2019s Gonna Rise",
       "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Favourite Song",
+        "url": "https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh"
+      },
+      "artists": [
+        {
+          "name": "Tim Chadwick",
+          "url": "https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL"
+        }
+      ],
+      "duration_ms": 219455,
+      "name": "Favourite Song",
+      "url": "https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1275,70 +1339,6 @@
       "duration_ms": 185139,
       "name": "Cloudy Day - Acoustic",
       "url": "https://open.spotify.com/track/1mo5Z6Pmyj2MqCDAZPyah4"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "One Of Those Days",
-        "url": "https://open.spotify.com/album/7LvYLEwoGiAJfb6vvq90Py"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 208563,
-      "name": "One of Those Days",
-      "url": "https://open.spotify.com/track/1Ircz8F9jlgC59clzg28Tu"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "You Got",
-        "url": "https://open.spotify.com/album/5UABExKvBESU6jrqQ6zB4r"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 206435,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4vUrdybdDNrJN15IjJcwhK"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Bottled Up",
-        "url": "https://open.spotify.com/album/3sSwZcy3p5NVyKT28C1AnT"
-      },
-      "artists": [
-        {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
-        }
-      ],
-      "duration_ms": 189269,
-      "name": "Bottled Up",
-      "url": "https://open.spotify.com/track/62OhbVFaFnxYDhz07TdTnV"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Sleepover",
-        "url": "https://open.spotify.com/album/7EN5v9KXPXjQXVWuUlpiXx"
-      },
-      "artists": [
-        {
-          "name": "Litany",
-          "url": "https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc"
-        }
-      ],
-      "duration_ms": 168199,
-      "name": "Sleepover",
-      "url": "https://open.spotify.com/track/1X0oGnw7yE9fZUeKUdrYFg"
     }
   ],
   "unique_name": "Wholesome",

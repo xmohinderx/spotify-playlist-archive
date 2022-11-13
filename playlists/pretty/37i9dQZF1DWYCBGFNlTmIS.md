@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 14 | [團圓說](https://open.spotify.com/track/1hSO2gFy57hFzDzQzDDiei) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [團圓說](https://open.spotify.com/album/1x04K2Hc3MLci681Q6XTws) | 4:21 |
 | 15 | [塵世美](https://open.spotify.com/track/4cenGIbbIWlcryBPsgtQXy) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [塵世美](https://open.spotify.com/album/0yBWVChnY7Yp8QSdasyyAh) | 4:44 |
 | 16 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 |
-| 17 | [逐個逐個](https://open.spotify.com/track/33X11EPiUsM8qXGtpx5BhY) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [逐個逐個](https://open.spotify.com/album/6f3Rg4bUm5Nn8uxJwPDqEh) | 3:19 |
+| 17 | [逐個逐個](https://open.spotify.com/track/2m1oTvhKULLdLHKNRCKp3J) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [亞水](https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145) | 3:17 |
 | 18 | [Wish You Were Ok](https://open.spotify.com/track/2w69Skv6oxKvFJNmPzdYzb) | [Regen C.](https://open.spotify.com/artist/4KInUUpPn9iBZgkSKTo4vv) | [Wish You Were Ok](https://open.spotify.com/album/3IjSBZBsyps4wwdD4f2x9G) | 4:27 |
 | 19 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 |
 | 20 | [Ciao](https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Ciao](https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69) | 4:33 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 67 | [夜機](https://open.spotify.com/track/6vm9hk35YBDhdJ14x29glO) | [Priscilla Chan](https://open.spotify.com/artist/5SLOTZhruJRRGgIRtTSPc5) | [永遠是你的朋友](https://open.spotify.com/album/5nlHzn91AzD35tIroeTt01) | 4:31 |
 | 68 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 |
 | 69 | [我們一起離開吧](https://open.spotify.com/track/5HtnfNpC6FoeKIswjbML92) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [寂寞的星期五](https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g) | 2:38 |
-| 70 | [每當變幻時](https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮的好歌集](https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB) | 2:57 |
+| 70 | [每當變幻時](https://open.spotify.com/track/78C752I4sPRnHFtbjJtOAe) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮镭射大碟](https://open.spotify.com/album/2jd6r5f3gFI3EJV1tXeJ3W) | 2:57 |
 | 71 | [Will \(not\) see you soon.](https://open.spotify.com/track/0fZEGAFZXnDpTJI7Cf6GdC) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [Will \(not\) see you soon.](https://open.spotify.com/album/3IEdkG0LYjYoQKbNF7dbUy) | 2:31 |
 | 72 | [Goodbye](https://open.spotify.com/track/0uH29nIii18yullPms1KE6) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Goodbye](https://open.spotify.com/album/0YGoXtO72F2UwLw5oLQJGm) | 4:46 |
 | 73 | [皇后大道東](https://open.spotify.com/track/5X0ZFdwP8acfuyMoxSJ6pf) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8), [蔣志光](https://open.spotify.com/artist/0xww7UDomE27mzi2gYnQsl) | [皇后大道東](https://open.spotify.com/album/3cPKZnvp9Wam5VnR4okGwJ) | 4:10 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 83 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
 | 84 | [鐵塔凌雲](https://open.spotify.com/track/4uoXk5wvUcL9TOZVDxWTnq) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [難忘許冠傑Sam Hui 30年](https://open.spotify.com/album/1nG8714ZVyfUjNJYBdAZ79) | 3:00 |
 
-Snapshot ID: `MTY2NzU1MTA3NiwwMDAwMDAwMDMzNmJjM2ZiMWVjZmE5OWM1ZDg3ZDE5ZGYzMGMxYjZm`
+Snapshot ID: `MTY2NzU1MTA3NiwwMDAwMDAwMGRlZTM1YTE5NTUyMmI0NzIxY2IzMzY0ZjcyODdjYzk3`

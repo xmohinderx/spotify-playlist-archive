@@ -111,7 +111,7 @@
       ],
       "date_added": "2019-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 148520,
       "name": "Clean - Live",
       "url": "https://open.spotify.com/track/1y3YnoKuvO1IUaYz42PA80"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2019-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 148520,
       "name": "Clean - Live",
       "url": "https://open.spotify.com/track/2jc4zuz6OZJTjaYjOjTXyM"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2019-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 353546,
       "name": "Good Grace - Live",
       "url": "https://open.spotify.com/track/1NjomtDtj3fsbZ6rHLO0KJ"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2019-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 353546,
       "name": "Good Grace - Live",
       "url": "https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn"
@@ -321,10 +321,28 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 486200,
       "name": "He Keeps on Doing",
       "url": "https://open.spotify.com/track/6bJ8juJI2o3zC85hDvbvc4"
+    },
+    {
+      "album": {
+        "name": "Victorious in His Presence",
+        "url": "https://open.spotify.com/album/3f4jEnTgYErjDKNdmYtBWP"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "date_added": "2018-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486186,
+      "name": "He Keeps on Doing - Live",
+      "url": "https://open.spotify.com/track/3W4cz3OHnncxrl0Oyl1eq1"
     },
     {
       "album": {
@@ -721,7 +739,7 @@
       ],
       "date_added": "2020-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2020-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/6ax2Ggo7GekdiKS8rnaQFP"
@@ -947,7 +965,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 534013,
       "name": "Speak A Word - Live At The Ticketpro Dome",
       "url": "https://open.spotify.com/track/5VvFX25rgjN3TU41KsiQNc"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 534013,
       "name": "Speak A Word - Live At The Ticketpro Dome",
       "url": "https://open.spotify.com/track/5hbkEA5dWKNO866NGdUJ0W"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 238200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2020-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5ik6z85V2f1cBco9za2GFh"
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 449253,
       "name": "Whole Heart (Hold Me Now) - Live",
       "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 449253,
       "name": "Whole Heart (Hold Me Now) - Live",
       "url": "https://open.spotify.com/track/5X1UuCoUPxUKL2w81YGN6l"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 273213,
       "name": "You Say",
       "url": "https://open.spotify.com/track/7vcpXdAmmWEhGdCzoC55Vq"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"

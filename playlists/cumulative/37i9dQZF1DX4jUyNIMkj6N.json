@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 232960,
       "name": "Grey",
       "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 263080,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/2PixfzvK60AWzXRDLeElhb"
@@ -2063,7 +2063,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 149491,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/0oabsZs7Z8lsKGpaKyyjG2"
@@ -2099,7 +2099,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 241400,
       "name": "Signals",
       "url": "https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt"
@@ -2247,6 +2247,24 @@
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+    },
+    {
+      "album": {
+        "name": "N\u00e6rmere",
+        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288678,
+      "name": "Stilla",
+      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
     },
     {
       "album": {
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 219413,
       "name": "The Sweetest Tune",
       "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 229533,
       "name": "Was There Nothing?",
       "url": "https://open.spotify.com/track/1IwlH20GMbWBZoXOddGxe1"

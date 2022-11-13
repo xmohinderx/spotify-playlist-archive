@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Richard Marx
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,064 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,073 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 37 | [Show Them The Way](https://open.spotify.com/track/39K8KN3Jl5uLz2ykGsNflf) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Show Them The Way](https://open.spotify.com/album/2o90fgeg8x1NNc6TxhduLq) | 6:31 |
 | 38 | [Thank You For Waiting \(For Me\)](https://open.spotify.com/track/5Rrv0TThpkqB2U4UskRnt2) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 4:53 |
 | 39 | [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 |
-| 40 | [Rushing Water](https://open.spotify.com/track/46FlEsH8J7IwPgY2guQqef) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Super Deluxe\)](https://open.spotify.com/album/3ZCIcCsU3wAG2o8p8WfNjk) | 3:17 |
+| 40 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 |
 | 41 | [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 |
 | 42 | [Just A Notion](https://open.spotify.com/track/1vzLCOukxhUA26QnqACxVL) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Just A Notion](https://open.spotify.com/album/2GaJEBV9MsxCsAInGtMRJ6) | 3:31 |
 | 43 | [We Gotta Find Love](https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [One World](https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 | 50 | [Me Not Loving You](https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [The Body Remembers](https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY) | 4:27 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGMxMzQ5OTU0ODMzZThkOTEzNTcwMGVkMTc2YzE4Y2Rj`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGMwZWI0ZjJmMjA0MDIyNzhhZjM0NzJlMWI1YTQyY2Fk`

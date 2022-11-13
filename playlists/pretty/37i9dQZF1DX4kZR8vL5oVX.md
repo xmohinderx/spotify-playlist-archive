@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Chilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,032 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,025 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 4 | [À quoi tu joues ?](https://open.spotify.com/track/0kNmrNDkohPkspb6hqgZzt) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:59 |
 | 5 | [Génération désenchantée](https://open.spotify.com/track/5yeCYJzFykj421kaSz6htN) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Caméo](https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp) | 2:58 |
 | 6 | [Regrets](https://open.spotify.com/track/7vVr5S1IiJAnNr1DQ1Pzcx) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Regrets](https://open.spotify.com/album/6gQjMSxtHKyYPc38PSNbJv) | 3:15 |
-| 7 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 |
+| 7 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 |
 | 8 | [Amour Impur](https://open.spotify.com/track/1T1WSQmKGz4YBUyEPJIrVs) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Amour Impur](https://open.spotify.com/album/7JG5zurCpn1gZP8pkygG9O) | 2:39 |
 | 9 | [Nous](https://open.spotify.com/track/2zHTKPHqtAxOnp7xumMjx9) | [Anne Sila](https://open.spotify.com/artist/0GejADUuCXsh3pOsfTqHv5) | [Nous](https://open.spotify.com/album/0L86XWocBu0m2YNPRHcO6c) | 3:40 |
 | 10 | [Tant que tu me tiens](https://open.spotify.com/track/3gI7ilOBQvN4jvN7gpLr0D) | [Jenifer](https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv) | [n°9](https://open.spotify.com/album/51K9i8FXf6WkGZG1hNhxNO) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Lune](https://open.spotify.com/track/6AcK1wmmArIh5P8egMegAN) | [Gina](https://open.spotify.com/artist/46UUjj9c7Qx8SxLogphyzH) | [Lune](https://open.spotify.com/album/3WEGs20Pwd7r4QD5CmhaG9) | 3:24 |
 | 50 | [Malin](https://open.spotify.com/track/6peDnVUHhP7TbQQnIrMMUn) | [Agathe](https://open.spotify.com/artist/3bD7zFIrQAzLtqlFMSjfjH) | [Malin](https://open.spotify.com/album/6S9fMh8EuyJswjtbzz1qKE) | 2:19 |
 
-Snapshot ID: `MTY2Nzk0ODQwMCwwMDAwMDAwMDE0YmZiOTkwNWU1YTVmMTQyMzE3OGIyZGJiODU1MTRj`
+Snapshot ID: `MTY2Nzk0ODQwMCwwMDAwMDAwMGJiOWIxNTdhOTIzMGVkZWNlMzY1N2M3NTMxZmNjNjlk`

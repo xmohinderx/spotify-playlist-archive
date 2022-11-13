@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: blink-182",
-  "num_followers": 705201,
+  "num_followers": 705194,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMGIxMGIzZGY5NWIwOGIxNjEwYjE3NDFmZGM4NGZjYzFj",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDA0Zjc1NDllYjU5Njg0YTUxMThlYzhjNGU0ZWFlNWNk",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 222738,
+      "name": "Planet Zero",
+      "url": "https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Kill The Noise",
         "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 222738,
-      "name": "Planet Zero",
-      "url": "https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq"
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -419,6 +435,22 @@
       "duration_ms": 232933,
       "name": "Nowhere Generation",
       "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "Foregone, Pt. 2",
+        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 270454,
+      "name": "Foregone, Pt. 2",
+      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -603,22 +635,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Foregone, Pt. 2",
-        "url": "https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 270454,
-      "name": "Foregone, Pt. 2",
-      "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
@@ -699,6 +715,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
       },
@@ -731,18 +763,18 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+        "name": "Walk The Sky",
+        "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+      "duration_ms": 229940,
+      "name": "Wouldn't You Rather",
+      "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -763,6 +795,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Feast Of Fire",
+        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 258837,
+      "name": "Feast Of Fire",
+      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Chaos In Bloom",
         "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
       },
@@ -779,18 +827,34 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+        "name": "Boilermaker",
+        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+      "duration_ms": 209480,
+      "name": "Boilermaker",
+      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -859,6 +923,26 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "It's good to be back",
+        "url": "https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Panic Shack",
+          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+        }
+      ],
+      "duration_ms": 195542,
+      "name": "It's good to be back - Metronomy x Panic Shack",
+      "url": "https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "4 (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ"
       },
@@ -875,22 +959,6 @@
       "duration_ms": 241954,
       "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Boilermaker",
-        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Boilermaker",
-      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -999,6 +1067,22 @@
       "duration_ms": 184941,
       "name": "Maquiagem",
       "url": "https://open.spotify.com/track/5MCWDrTtqhQQL2tIE2prde"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "High on Me",
+        "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "High on Me",
+      "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -1171,26 +1255,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "It's good to be back",
-        "url": "https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Panic Shack",
-          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
-        }
-      ],
-      "duration_ms": 195542,
-      "name": "It's good to be back - Metronomy x Panic Shack",
-      "url": "https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Keep It Away",
         "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
       },
@@ -1223,70 +1287,6 @@
       "duration_ms": 342306,
       "name": "The People That We Love - Golden Dub Remix",
       "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Emergency Contact",
-        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Pay No Mind",
-        "url": "https://open.spotify.com/album/2nOOKY1qgkWxXObn4A2oc9"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 229940,
-      "name": "Wouldn't You Rather",
-      "url": "https://open.spotify.com/track/570CjgCnP7q0E9YSEJYXzY"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 316979,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "High on Me",
-        "url": "https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv"
-      },
-      "artists": [
-        {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "High on Me",
-      "url": "https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

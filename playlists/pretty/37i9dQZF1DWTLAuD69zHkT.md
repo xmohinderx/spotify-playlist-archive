@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,697 likes - 76 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,717 likes - 76 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fine Little Angel \(Take 2\)](https://open.spotify.com/track/5EP7cCsnijchK08uL6lINe) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 4:15 |
 | 2 | [3 O'Clock In The Morning Blues](https://open.spotify.com/track/7HbnGDwIxqv4AQ64QuLljx) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Bold Soul Sister: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/3o9NHT9ox7Is7ZzQXm2OE9) | 2:39 |
 | 3 | [Bittersweet](https://open.spotify.com/track/553LsHPF7vTYKDejaMl63F) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:30 |
-| 4 | [The Thrill Is Gone](https://open.spotify.com/track/0cfwfMpxXwA36einrkgRcD) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Grandes Temazos: Blues](https://open.spotify.com/album/4gXvc3NifLO9FboTiRyf0b) | 5:01 |
+| 4 | [The Thrill Is Gone](https://open.spotify.com/track/3cg0dJfrQB66Qf2YthPb6G) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 5:01 |
 | 5 | [Black Night](https://open.spotify.com/track/2P9BHr3KXDDCQ2eq17VHud) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 7:43 |
 | 6 | [Blue And Lonesome](https://open.spotify.com/track/2mGIN7Wttje8xPUVyhIwZg) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Blues, Ballads](https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx) | 4:05 |
 | 7 | [Another Night to Cry](https://open.spotify.com/track/3nSk8UWlcrnI6mRKwPtAzk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Down Hearted Blues](https://open.spotify.com/album/1fgrMWdgcvpS0MNEa7I4FU) | 2:53 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 35 | [I Don't Live Any Where](https://open.spotify.com/track/1xFua1EOtJ7Xgtfl3HtDxI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:41 |
 | 36 | [Cold Rain](https://open.spotify.com/track/4RWrnsz4DQIyqRLOmpBHuj) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Vintage](https://open.spotify.com/album/7mB5LokobCWApqV3zoJYI8) | 5:46 |
 | 37 | [Bring on the Blues](https://open.spotify.com/track/3i4WJaPerBXW1Up1ZVGU5t) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [So Long](https://open.spotify.com/album/2LQC92IPJ9amNY40rdKj5E) | 4:53 |
-| 38 | [Katie Mae](https://open.spotify.com/track/64zOIsc1VEx7im8HCGkYeH) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\): The Fire Sessions](https://open.spotify.com/album/7bT0QutRnszA4cbLffNQ4K) | 2:51 |
+| 38 | [Katie Mae](https://open.spotify.com/track/1in4BmFVbXmKCRs9IYbdD1) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:52 |
 | 39 | [Trouble In Mind](https://open.spotify.com/track/7173kTEVvoggnlkfzK04V5) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 3:38 |
 | 40 | [Blues For Rampart Street](https://open.spotify.com/track/2kcUYFKefPRK1IeNwkdJUo) | [Ida Cox](https://open.spotify.com/artist/62G2r7t9N2Ad9ILHbg4Eqh), [Coleman Hawkins Quintet](https://open.spotify.com/artist/3cHhST0d3TtYLxayFBLk6L) | [Blues For Rampart Street](https://open.spotify.com/album/54uhSWG25HjFSFEUOAmhuW) | 2:57 |
 | 41 | [Dirty Pool](https://open.spotify.com/track/66mtQ5mRlw7ys2NJCkdJhz) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 5:00 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 48 | [Make It Rain](https://open.spotify.com/track/6eoilldRAmDz7IOEvFizIW) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [From Muscle Shoals](https://open.spotify.com/album/7Llh51MCW3JF6e7A56E5qq) | 4:51 |
 | 49 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 |
 | 50 | [New Stranger Blues \- Bonus Track](https://open.spotify.com/track/3c0a8SEFFik5s3OUTn1KXP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 5:39 |
-| 51 | [Ain't No Sunshine](https://open.spotify.com/track/474v7dAYMQ922017Y8ZgZ9) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Blues for Breakfast](https://open.spotify.com/album/53U7Q4ep8kXfTcwOISAKah) | 3:20 |
+| 51 | [Ain't No Sunshine](https://open.spotify.com/track/1ebftgRZcnctL8GpBu0nu8) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:20 |
 | 52 | [Walking The Backstreets And Crying](https://open.spotify.com/track/5YU67a01EqyrZGlxqmVuCV) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Walkin' The Back Streets](https://open.spotify.com/album/2eePvHHhgO81Wqf19eyhC9) | 6:18 |
 | 53 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
 | 54 | [Shine on, Moon!](https://open.spotify.com/track/0tWyaHqwejz2haPAvAtnao) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:23 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 75 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 76 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
 
-Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMGJhNGI0YTljNGE1YTMzOGQwOTE2MTY1YmUzMjA2NjZh`
+Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMDcyMTllNmUwNWI5MjAzNzFjMWZjY2YyNTFlMzY0MmUx`

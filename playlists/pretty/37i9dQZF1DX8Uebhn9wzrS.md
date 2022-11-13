@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats, twenty four seven.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,279 likes - 500 songs - 18 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,260 likes - 500 songs - 18 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,7 +205,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 195 | [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 |
 | 196 | [Blue Moon Boys](https://open.spotify.com/track/0OkPqjJ4mJNZZbcwW1pzzv) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Blue Moon Boys](https://open.spotify.com/album/6fTZl1fGfyGQx88rUCWOaJ) | 2:54 |
 | 197 | [Court Mix](https://open.spotify.com/track/57etJd3yibZ0b7F7igfNKz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Court Mix](https://open.spotify.com/album/1FKVxpuffdBOe2vzCpTGO0) | 1:39 |
-| 198 | [Colours](https://open.spotify.com/track/5c7VHzyLs8DBOHKh4uFQzZ) | [Astrocats](https://open.spotify.com/artist/3PgPf9y7UgS92KIMYuEmL5) | [Colours](https://open.spotify.com/album/1up2Giz6vkrDrAIBUfNnZ3) | 2:13 |
+| 198 | [Colours](https://open.spotify.com/track/5c7VHzyLs8DBOHKh4uFQzZ) | [Astrocats](https://open.spotify.com/artist/0dUcMmfiS0evuaD6VrmRoL) | [Colours](https://open.spotify.com/album/1up2Giz6vkrDrAIBUfNnZ3) | 2:13 |
 | 199 | [Crossroads](https://open.spotify.com/track/5hKohHmiAfJtSXgTnntRAn) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [Crossroads](https://open.spotify.com/album/0Z7lmDdRSPJNeBgzoNgDme) | 2:07 |
 | 200 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 |
 | 201 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 |

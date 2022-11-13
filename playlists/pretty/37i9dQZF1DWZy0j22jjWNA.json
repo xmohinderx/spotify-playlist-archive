@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 73194,
+  "num_followers": 73189,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGM1NWJiOTkxZjc4MDY5ODdiZGM4OWIzMDQ4MzhjYTky",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMDc1MDNhM2YxNTFjMjc0NDYzZWE1YTcwN2MzYTgxZjhj",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -23,6 +23,22 @@
       "duration_ms": 172866,
       "name": "Stella",
       "url": "https://open.spotify.com/track/0xMap5BgUlVMGJLa1d7x5P"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -175,6 +191,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "The Lemonade Stand",
+        "url": "https://open.spotify.com/album/6LBK0pyzqO0W4ZzZz2KznI"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 245813,
+      "name": "Jersey on the Wall - I'm Just Asking",
+      "url": "https://open.spotify.com/track/4Ii1EFQX6EZXkojk4CO9pm"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Souls",
         "url": "https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m"
       },
@@ -223,6 +255,22 @@
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -299,22 +347,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Carrollton",
         "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
       },
@@ -359,22 +391,6 @@
       "duration_ms": 323076,
       "name": "Spark My Heart",
       "url": "https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Road to the Lemonade Stand - EP",
-        "url": "https://open.spotify.com/album/3BmVXY7sEPUYMaGfPCAO6M"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 245813,
-      "name": "Jersey on the Wall - I'm Just Asking",
-      "url": "https://open.spotify.com/track/1JqcuWreCl5cNVsX7TKGss"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -579,6 +595,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "THRESHOLDS",
+        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Go with You",
+      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw"
       },
@@ -591,6 +623,22 @@
       "duration_ms": 288624,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "Harmony Hall",
+      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -619,22 +667,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 297506,
-      "name": "Harmony Hall",
-      "url": "https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd"
       },
@@ -647,6 +679,26 @@
       "duration_ms": 201487,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Grateful (feat. Poo Bear)",
+        "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
+      },
+      "artists": [
+        {
+          "name": "13 Crowns",
+          "url": "https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "duration_ms": 246081,
+      "name": "Grateful (feat. Poo Bear)",
+      "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -927,22 +979,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The Mountain (Live from 25in24)",
-        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "The Mountain (Live from 25in24)",
-      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Beautiful Anyway",
         "url": "https://open.spotify.com/album/7nBneg4Rg24xh4awr2PJye"
       },
@@ -959,6 +995,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "The Mountain (Live from 25in24)",
+        "url": "https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "The Mountain (Live from 25in24)",
+      "url": "https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Good As Gone",
         "url": "https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ"
       },
@@ -971,22 +1023,6 @@
       "duration_ms": 239400,
       "name": "Good As Gone",
       "url": "https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Who Am I (feat. Elle King)",
-        "url": "https://open.spotify.com/album/6eZ5PLrRC9TiEUZXPFDvsn"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/7onxJa5Fj3nCciU5TCICwh"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1071,38 +1107,6 @@
       "duration_ms": 172088,
       "name": "Power Over Me",
       "url": "https://open.spotify.com/track/6jK0bHxlTSwPT1XkAtT57h"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "This Is No Burial",
-        "url": "https://open.spotify.com/album/0elstO4HWsES7meWd8Y019"
-      },
-      "artists": [
-        {
-          "name": "Andie Elise",
-          "url": "https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2"
-        }
-      ],
-      "duration_ms": 234632,
-      "name": "This Is No Burial",
-      "url": "https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Heartbreak Magic",
-        "url": "https://open.spotify.com/album/3EHwhZfwyVZqCgtthoYbfE"
-      },
-      "artists": [
-        {
-          "name": "Riah",
-          "url": "https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Heartbreak Magic",
-      "url": "https://open.spotify.com/track/2xDF7yuo284KTe5yZEsuE9"
     }
   ],
   "unique_name": "Good People Good Music",

@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 193656,
       "name": "Barely Miss",
       "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 227555,
       "name": "Dance Now (feat. Kenny Mason)",
       "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
@@ -2413,6 +2413,24 @@
       "duration_ms": 193756,
       "name": "Ghetto Praise",
       "url": "https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6"
+    },
+    {
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156972,
+      "name": "Ghetto Reporter",
+      "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
     },
     {
       "album": {
@@ -3371,7 +3389,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 296982,
       "name": "Isis - Remix",
       "url": "https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp"
@@ -3963,7 +3981,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"

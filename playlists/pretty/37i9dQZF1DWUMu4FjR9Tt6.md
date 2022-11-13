@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,608 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,604 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 11 | [House of the Rising Sun](https://open.spotify.com/track/1yl50J4YBtHXaeN7pb1X0s) | [Jeremy Renner](https://open.spotify.com/artist/3XlASyLS4HSUX3inS3tIc1) | [House of the Rising Sun](https://open.spotify.com/album/2yqAv3OXPeeScqZeukManV) | 3:00 |
 | 12 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
 | 13 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
-| 14 | [Into My Soul](https://open.spotify.com/track/6y0UQTlXOOSHnocto9B1J9) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [The First Ten Years](https://open.spotify.com/album/41BJuhhMf3Bjj3ojgxaCaR) | 4:35 |
+| 14 | [Into My Soul](https://open.spotify.com/track/40shQVO7gSn2eVy9aekLAI) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI) | [Mr\. Freedom](https://open.spotify.com/album/0ecg61A1QhVtz50WJ100cq) | 4:35 |
 | 15 | [Hot Damn](https://open.spotify.com/track/7LrFX1E1GkwkLs5XrkD7Y2) | [Baby Strange](https://open.spotify.com/artist/6tvTqe2dTu8jVV5pcyfAGc) | [Put Out](https://open.spotify.com/album/4xySq6HlK90WlkHYzZ7ZWj) | 3:38 |
 | 16 | [We'll Get Through](https://open.spotify.com/track/7qzWNwTdiodHlOMgC1MC5A) | [The Slugs](https://open.spotify.com/artist/2uVd7a7CGDZKUYP4yK7aer) | [Fort Fun](https://open.spotify.com/album/1LSJiyGSX7F27HwJj5bpVq) | 3:16 |
 | 17 | [Bruttosozialprodukt](https://open.spotify.com/track/2jWCLuhLinumCeHiCGONu3) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/55KUCRFnvEUxWyogeidPex) | 3:02 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 31 | [Right Back Where We Started From](https://open.spotify.com/track/00s8dO3RWrFkBqC9JIy6ag) | [Maxine Nightingale](https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi) | [Right Back Where We Started From](https://open.spotify.com/album/3YXcrd6u44J13at4UmDKEX) | 3:12 |
 | 32 | [My Way](https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Way \(Expanded Edition\)](https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn) | 4:36 |
 | 33 | [I Wonder What the Future Holds for Me](https://open.spotify.com/track/039hICkPRwlX01bWilEZBm) | [Glenn Snow](https://open.spotify.com/artist/0Hu4kHEu6FCfA5jUX8XhYa) | [Les Kangas Presents: Somewhere Down the Line](https://open.spotify.com/album/2Jeth2RGa0ijZSZfJ1RKGN) | 2:28 |
-| 34 | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/track/0ScobGnds79HdEA3mZKw9o) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/album/1znqULQJTSfwzA9bwTowuO) | 3:13 |
+| 34 | [Rocket Fuel \(feat\. De La Soul\)](https://open.spotify.com/track/5YRIDSxRVa1ErAVmjJARcR) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Our Pathetic Age](https://open.spotify.com/album/3hquc6tMlycPwkyqKTX0Xa) | 3:15 |
 | 35 | [Be Thankful You're You](https://open.spotify.com/track/1sNTVkZ5Q99plACJ33Y8Aw) | [Fern Jones](https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu) | [The Glory Road](https://open.spotify.com/album/2vVQL7mgHu2Kxyk2u2z7fa) | 2:26 |
 | 36 | [Crazy](https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy](https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs) | 4:02 |
 | 37 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 76 | [\(Feels Like\) Heaven](https://open.spotify.com/track/3bkcq1VrFlcoqa04VBs4J8) | [Fiction Factory](https://open.spotify.com/artist/6T6T5RCps6bHzTSDq8pyFj) | [Throw the Warped Wheel Out](https://open.spotify.com/album/345hZBqG7vIgLMHJcMZSZM) | 3:34 |
 | 77 | [Dancing in the Moonlight \- 2001 Remix](https://open.spotify.com/track/1OzY7RRZh3EcIKn7VKZUTx) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/4uTSmNGMP2FrM5D3NMeI6P) | 3:53 |
 | 78 | [Mad About You](https://open.spotify.com/track/5drK2kTE2mrUdV33iHWyrx) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [The Magnificent Tree](https://open.spotify.com/album/10QqxagLfdvXvVL9CpdHeE) | 3:43 |
-| 79 | [Something on Your Mind](https://open.spotify.com/track/1yVIf4C7SD5VORxYZ3llM9) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [Something on Your Mind](https://open.spotify.com/album/6BN8tJLdplkqC3MjiRQCuU) | 3:25 |
+| 79 | [Something on Your Mind](https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time \(50th Anniversary Edition\)](https://open.spotify.com/album/36WryGURqME9Y2URzzzmio) | 3:23 |
 | 80 | [All Die Young](https://open.spotify.com/track/4XjXXK9GhDdMVR8xMKZLih) | [Smith Westerns](https://open.spotify.com/artist/3yEqgEvatASNm30zZR3ZHl) | [Dye It Blonde](https://open.spotify.com/album/5pez3ZFdESESBL9M5KElgt) | 3:46 |
 | 81 | [Mary](https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 5:30 |
 | 82 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
 | 83 | [This Year's Love \- 2020 Remaster](https://open.spotify.com/track/5LAAykvFusHpsTd03OgqPw) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(20th Anniversary Edition\)](https://open.spotify.com/album/3ng5VSbmPioTrHajoJgr4X) | 4:05 |
-| 84 | [Exit Music \(For A Film\) \- Remastered](https://open.spotify.com/track/7IjGG1fEIbM6EjlyfYwqni) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 4:25 |
+| 84 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MTY1NjA3OTQ0NywwMDAwMDAwMDY5Y2VmY2FlZGNjNDlhOTYwMzNhOGEyMDMyMjMyNzAz`
+Snapshot ID: `MTY1NjA3OTQ0NywwMDAwMDAwMDJiYTRiMjM2MWQ4ZjgwZjEwNjI5MWE3OTc4NGU2ZTU3`

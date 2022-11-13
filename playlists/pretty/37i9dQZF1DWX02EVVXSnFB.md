@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 
 > <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco's </a> favourite tracks\.  Updated regularly\. Curated by Young Franco\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,574 likes - 51 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,594 likes - 51 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 20 | [I need my music!](https://open.spotify.com/track/73wlhFwM7B5Kzg1sI0euhg) | [DJU DJU](https://open.spotify.com/artist/3hoRYeKnynsSd1M5p3weO8) | [I need my music!](https://open.spotify.com/album/028udeD78py5rENSMHupq1) | 2:28 |
 | 21 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 22 | [1\-800\-HITMYLINE](https://open.spotify.com/track/0DkpnbiHYv3tbhzL6HHxZQ) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [1\-800\-HITMYLINE](https://open.spotify.com/album/0H3latnKNjE2Q1CWC6zy5U) | 3:34 |
-| 23 | [Shine On](https://open.spotify.com/track/7anTdHy8B3QSnxmldi6H2u) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Dream On](https://open.spotify.com/album/2uuDPTEvQCzMyvmAVsbqk7) | 5:12 |
+| 23 | [Shine On](https://open.spotify.com/track/7BOAXgaGfRDWwYbUqE5tuQ) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Dream On \(Bonus Track Version\)](https://open.spotify.com/album/4aCdchywqaGFfH2kIK4blx) | 5:12 |
 | 24 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 25 | [The Sweetest Meditation](https://open.spotify.com/track/02wV5Rj4zxYI6xp9SLb58e) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Mara TK](https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN) | [Sweetest Meditation](https://open.spotify.com/album/3e6wUvHZ2zV5FCPpzFjTQ7) | 5:54 |
 | 26 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 28 | [Got 2 Be Loved](https://open.spotify.com/track/2Rsn3b2wzflcjX0pXcZFdj) | [Soul Reductions](https://open.spotify.com/artist/1z0WDGqbharsGI6n33mwhj) | [Got 2 Be Loved](https://open.spotify.com/album/2jeNULyvELdIrhrQsCOVmq) | 3:32 |
 | 29 | [I Want Cha Back](https://open.spotify.com/track/4M0RRVGRM7ci5TzcSUzHxt) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [BA3](https://open.spotify.com/album/53XrUgJ4XzrQ9zBMRthuOF) | 3:34 |
 | 30 | [Weekend Love](https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Weekend Love](https://open.spotify.com/album/1JkJernn4xd0y6AeJM9N07) | 3:39 |
-| 31 | [Controversy](https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Ultimate](https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW) | 7:15 |
+| 31 | [Controversy](https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 7:15 |
 | 32 | [Give It To Me Baby](https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 4:08 |
 | 33 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 |
 | 34 | [Same Thing](https://open.spotify.com/track/159BmqROYMC0HvyxDmoUT9) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Missing Molars \(Swnt Deluxe\)](https://open.spotify.com/album/39wVqebhXLGYGz9ry6xLPe) | 3:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX02EVVXSnFB.md) - [plain]
 | 50 | [Watch Your Step \(Harvey Sutherland Remix\)](https://open.spotify.com/track/7G24eVWGQFcDP5DxXGgCSj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [ENERGY \(Special Edition\)](https://open.spotify.com/album/7zkGnjPwwQvjW7RCMnmPEz) | 3:50 |
 | 51 | [On and On](https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [M.V.P\. \(Expanded Edition\)](https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia) | 5:00 |
 
-Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMDY1NzJmOTBkYTRlNzU4NjAzOGRmZjQ3MzhkZDBkZDhm`
+Snapshot ID: `MTY0ODAxNTk3MCwwMDAwMDAwMDllMzcwNGYxYTdmMWRiMjQxYmIxNTFiYThlOWQ1MmMy`

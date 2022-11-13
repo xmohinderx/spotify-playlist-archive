@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Choclair
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,116 likes - 90 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,132 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 12 | [Top Of The World \(feat\. Barrington Levy & k\-os\)](https://open.spotify.com/track/3wQ5GjgkmtHacx00hJiU8q) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u), [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Global Warning](https://open.spotify.com/album/0Iy2vD1FWExzywkHNSeYO4) | 4:48 |
 | 13 | [Old Skool Love](https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ) | [Divine Brown](https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa) | [Divine Brown](https://open.spotify.com/album/3K24bok5VUzwODkd6MzqNC) | 3:24 |
 | 14 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 |
-| 15 | [Smile For Me](https://open.spotify.com/track/6diekKLoLFrDavNOdNmUez) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/6hA9k65u8PpAM3iLBKfbYz) | 4:22 |
+| 15 | [Smile For Me](https://open.spotify.com/track/525X9t8doCdiFVpsAIScX7) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT) | [Massari](https://open.spotify.com/album/25X7WTyOdq1j7PMjq86zPK) | 4:22 |
 | 16 | [You Will Never Find](https://open.spotify.com/track/4WqNcDXCWtBVQoCmlsntAz) | [In Essance](https://open.spotify.com/artist/4fxbLUdJwF6riqvaU6dlbU) | [You Will Never Find](https://open.spotify.com/album/6L1r3fintR0iVEkzanYhy5) | 3:30 |
 | 17 | [Easy To Slip](https://open.spotify.com/track/6rBSBmvVnY3uMIbEMJC3tr) | [Solitair](https://open.spotify.com/artist/7bCQj0gFuYAroOiMArR4Dm) | [Easy To Slip](https://open.spotify.com/album/5aZ1tbINF1bJOt1FZj1M2U) | 3:54 |
 | 18 | [Friendamine \- Remix Featuring Nelly Furtado](https://open.spotify.com/track/2uJH9wXUWtW4MvtYw66NNn) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [The Hood Is Here](https://open.spotify.com/album/3EUVm9ZCOvhUU6mgrY2kH8) | 3:56 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 22 | [5th Element](https://open.spotify.com/track/1psWNavjGJ4HIOt7wxLD0J) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Boy\-Cott\-In The Industry](https://open.spotify.com/album/2LxEMmirbPZ2FjAFpW7CF8) | 3:47 |
 | 23 | [Been Gone](https://open.spotify.com/track/0MoFEIqW3QFpI4GjRx5FaW) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Been Gone](https://open.spotify.com/album/7vcQYMWiFizYmCDWmdIGZ7) | 3:35 |
 | 24 | [Nice 2 Meet U \(Original\)](https://open.spotify.com/track/3BfVW09wYHVKbUqT0tvq6D) | [Frank N Dank](https://open.spotify.com/artist/2ZTaLRGGGwQKyO9spJbthl) | [Nice 2 Meet U \('06 Version\) 12"](https://open.spotify.com/album/18hpvcziLJHrKT3vJJclBB) | 3:37 |
-| 25 | [Sunday Morning](https://open.spotify.com/track/2KkXmo1V83sHTfLGTvbzmR) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Best Drinking Songs Ever](https://open.spotify.com/album/0oUqqKL6tROmngZlEysoF3) | 3:51 |
+| 25 | [Sunday Morning](https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis \- Hymns For Disco](https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs) | 3:47 |
 | 26 | [Anything for You \(feat\. Nadine Sutherland\)](https://open.spotify.com/track/25gL12i7OhqwAalksRruiY) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1), [Nadine Sutherland](https://open.spotify.com/artist/6SaSgAC8GbmzRyCuhPtWdd) | [Murder Love](https://open.spotify.com/album/0qoktMXIiOXT6ZNpSzLMlI) | 4:31 |
 | 27 | [Back For More \(featuring Kardinal Offishall\)](https://open.spotify.com/track/2UBTQWYASPvWU1FAJ5pUjx) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Back For More](https://open.spotify.com/album/6sG9BpyHGpCC3xZgU1JNZz) | 3:54 |
 | 28 | [Everyday \(Rudebwoy\)](https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Ray Robinson](https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr) | [Everyday \(Rudebwoy\)](https://open.spotify.com/album/2ZDasdZAS2qpAyqr3Vetk3) | 4:17 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 78 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Black History Month: Funk + Hip\-Hop](https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2) | 3:38 |
 | 79 | [Nowhere No More ft\. Ms\. Davis](https://open.spotify.com/track/6ku8DzJtvqqaL6YKHvMKVL) | [Eternia](https://open.spotify.com/artist/5rBu1wBWucwQGQzH3kLBQu), [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Ms\. Davis](https://open.spotify.com/artist/03Okh7DvZge09NxjwtXQzi), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [The Setup](https://open.spotify.com/album/0S19dfiZXP940cK4L4RiRZ) | 3:59 |
 | 80 | [More Soup](https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Desired Effect](https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1) | 2:13 |
-| 81 | [California Dreamin'](https://open.spotify.com/track/5B3YiEvNhNPGG5O0dSiev1) | [Dream Warriors](https://open.spotify.com/artist/0Hh2eQ8oBmRR5iL5NVO1Fk) | [Forgotten 90's Alternative](https://open.spotify.com/album/29GT9SJbhWcq4FFSalkwRT) | 5:04 |
+| 81 | [California Dreamin'](https://open.spotify.com/track/1xIADUASoF8HEnvH0r37Fj) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [The Great Canadian Soundtrack: Summer songs](https://open.spotify.com/album/5aqvbg8RKJWc5HMYIPxFed) | 5:04 |
 | 82 | [Big](https://open.spotify.com/track/6iu1itsoivbwdTvqOARpVi) | [Brassmunk](https://open.spotify.com/artist/0mkac0FVvXY3uiOvQlcmtj) | [Lyrics of Fury III](https://open.spotify.com/album/2gwIsI7l0bZgUSL8rqKYJu) | 3:54 |
 | 83 | [Dear Hip Hop](https://open.spotify.com/track/3qeao3PpYJ2YzRbXta4iE9) | [Dan\-e\-o](https://open.spotify.com/artist/5odWxeNvjPNRoL07Rv9wk6) | [Dear Hip Hop: 20 Years Later](https://open.spotify.com/album/5C9b0q9aIDmsXjk5jHXzun) | 3:27 |
 | 84 | [Formation](https://open.spotify.com/track/5esKOdkdkkD51sT7S9YiOY) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [Ecology](https://open.spotify.com/album/3SmCf0tlQgpr3QPoZOaTGo) | 4:02 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 89 | [Superstar](https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR) | [Ivana Santilli](https://open.spotify.com/artist/73yYSgzrqoynMAdhF2cEOr) | [Corduroy Boogie](https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB) | 5:36 |
 | 90 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGFlMTgzOGQ4ZDdmZDg1ZmQ1YjQyZjc0YjI5NjcxNTRj`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGM4MWQ0MTVmZWQ3OGU4YjUzZDIzNGYyNTE4YjViZGNi`

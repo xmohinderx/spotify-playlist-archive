@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Celebrating the release of Live Forever: A Tribute to Billy Joe Shaver\. Cover: Billy Joe Shaver
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,018 likes - 93 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,112 likes - 93 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 20 | [Geraldene](https://open.spotify.com/track/2eANCHzv43vCHbLwwYY3og) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Geraldene](https://open.spotify.com/album/2QURNoIhMz7ccSdVWshiG5) | 3:08 |
 | 21 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
 | 22 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
-| 23 | [Sunrise Tells The Story](https://open.spotify.com/track/2aMoypBlGDP7uVRLFFTCNf) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Soundtrack To Summer 2022 \(Deluxe Edition\)](https://open.spotify.com/album/73LCw8JcSH3lhN1up371Ry) | 3:27 |
+| 23 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
 | 24 | [I Been to Georgia on a Fast Train](https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [Billy Joe Shaver](https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9) | 2:56 |
 | 25 | [Willy The Wandering Gypsy And Me](https://open.spotify.com/track/4lJJrRisImnmJSEiL2C4z0) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Willy The Wandering Gypsy And Me](https://open.spotify.com/album/2tvuMHKGqdenkE2IhOZjYg) | 3:52 |
 | 26 | [Kiss Me In The Dark](https://open.spotify.com/track/3bZKIfJVpW8HktEafRnRP2) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 3:48 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 92 | [If I Had A Boat](https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Pontiac](https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw) | 3:10 |
 | 93 | [Highwayman](https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 3:02 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDAzODBjMDA0ZDU0MjY3ZTNhNjk3OGY5N2FhMmQ2NDEz`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGY4OTNjZDhmYzFlYzViNDdjNjA0NGM4YTllYTIzYzQz`

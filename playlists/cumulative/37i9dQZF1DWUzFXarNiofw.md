@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: RAAHiiM
 
-588 songs - 1 day 7 hr 58 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+590 songs - 1 day 8 hr 5 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Don’t Care](https://open.spotify.com/track/3Bw5aVedzczifLB0KltMU1) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Don’t Care](https://open.spotify.com/album/357Hn4FjCTrrhwY0rohrol) | 3:06 | 2022-02-04 | 2022-03-18 |
 | [Dopamine \(with NBDY\)](https://open.spotify.com/track/2OR6sDdibyxWVQaYlbk7k1) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Dopamine \(with NBDY\)](https://open.spotify.com/album/29lqXMJ4ZefBTjPbao7mYe) | 3:42 | 2022-09-30 | 2022-11-05 |
 | [Dope \(with JID\)](https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Dope](https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O) | 2:38 | 2022-05-20 | 2022-07-02 |
-| [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 | 2022-11-04 |  |
+| [Double Back](https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 2:39 | 2022-11-04 |  |
+| [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 | 2022-11-04 | 2022-11-13 |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 | 2022-04-29 |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 |  |
 | [Down](https://open.spotify.com/track/0RL5ZDytG4aZ3IeS711Cfm) | [Tyler Royale](https://open.spotify.com/artist/2BuWUjcrVmPvsObJKb3nzR), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Down](https://open.spotify.com/album/32fQhU6FdfYH4rYf5Vdzze) | 3:07 | 2022-04-29 | 2022-06-11 |
@@ -178,8 +179,8 @@
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2022-10-28 |  |
 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 | 2022-09-09 | 2022-10-08 |
 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 | 2022-02-04 | 2022-03-12 |
-| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 |  |
-| [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 | 2022-11-12 |
+| [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 | 2022-10-21 | 2022-11-13 |
+| [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 | 2022-10-21 |  |
 | [Feelings](https://open.spotify.com/track/1IoUc7el8qPFVFOC5jSfl7) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Feelings](https://open.spotify.com/album/2I0VwAeClbtch0ErYJbsDL) | 3:31 | 2022-08-26 | 2022-10-01 |
 | [Feelings 4 You](https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Feelings 4 You](https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx) | 4:16 | 2022-05-20 | 2022-06-25 |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-03-11 | 2022-04-09 |
@@ -264,7 +265,8 @@
 | [I.O.U.](https://open.spotify.com/track/39UemJN9cUuOLZE4nVDnYD) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [I.O.U.](https://open.spotify.com/album/6IiJEA5jKiufcTeqIJ9Irn) | 2:46 | 2022-08-12 | 2022-10-01 |
 | [ICED OUT SUMMER](https://open.spotify.com/track/1PpsJPjSge3JHkNYJImD08) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [MINIKINGZ](https://open.spotify.com/artist/6C3nOkdYuYvX3xXy4lJCa9) | [ICED OUT SUMMER](https://open.spotify.com/album/6xOEoNnvwiGdOX6Kr7WM5P) | 2:40 | 2022-07-08 | 2022-08-20 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-18 | 2022-04-09 |
-| [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 |  |
+| [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 | 2022-10-21 |  |
+| [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 | 2022-10-21 | 2022-11-13 |
 | [If I Don't](https://open.spotify.com/track/7BmAglakDUbREyCrbm9sFK) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [If I Don't](https://open.spotify.com/album/6xwHSZPhUEcocekQFoRiqq) | 4:05 | 2022-04-29 | 2022-05-21 |
 | [If I Get Caught](https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [If I Get Caught](https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS) | 3:06 | 2022-07-22 | 2022-08-20 |
 | [If You Want My Love](https://open.spotify.com/track/6muk6XM856ryXVRyv1m8yj) | [Jordan Occasionally](https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX) | [If You Want My Love](https://open.spotify.com/album/7qUwQ0bUDNJnyZb8IWpglN) | 3:42 | 2022-07-09 | 2022-08-20 |

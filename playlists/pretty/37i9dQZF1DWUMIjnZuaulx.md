@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Maverick City Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,309 likes - 101 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,430 likes - 101 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 63 | [So Good to Me](https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Nothing Else Matters \(Instead of Complaining, Praise Him\)](https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE) | 4:00 |
 | 64 | [Divine Time](https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b) | [Divine Time](https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb) | 2:32 |
 | 65 | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/track/67t6GzdwhJ0e99MoH9NjjK) | [Ruth La'Ontra](https://open.spotify.com/artist/6isNHmZDAF2RaxkVlxHmNq), [Thomas & The Situation](https://open.spotify.com/artist/3TV5i0jWmSSroHENVrPLiJ) | [Did It Again \(feat\. Thomas & The Situation\)](https://open.spotify.com/album/3tEcRHRF9ZopnnkloV29mM) | 4:17 |
-| 66 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/6neaivVn7OSS2N1KF3j37f) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Tasha Cobbs Leonard Collection](https://open.spotify.com/album/66TZOGnvzfPNKtE50WN99p) | 6:37 |
+| 66 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 6:37 |
 | 67 | [Wait for You](https://open.spotify.com/track/6MBhjChN7UI05WgwAZ8weA) | [G.E.T\. LEGACY](https://open.spotify.com/artist/1fM29iSxyAL5Q7DbHstjMY), [Chavonne Stewart](https://open.spotify.com/artist/2EKAaDXlUGFAqNzBxiIX6H), [Aaron Sledge](https://open.spotify.com/artist/0CEz3mmGL98Lk35wsqGpf2), [Nisan Stewart](https://open.spotify.com/artist/60CkiHIYlQAVZDNNXskIoI) | [Wait for You](https://open.spotify.com/album/0skRNr1OS6neubeDUJFO5A) | 4:43 |
 | 68 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
 | 69 | [Run](https://open.spotify.com/track/0txsCUPrDpQ0E4Aldhd0fb) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [Die To Live](https://open.spotify.com/album/0vIgAd7zKtJwQDUHXb9QhA) | 4:12 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 100 | [Made A Way](https://open.spotify.com/track/2Ksw9oPrXQbcemCq4t4oew) | [Keyondra Lockett](https://open.spotify.com/artist/3adyeKexNPZGZ2wNvqqmw7), [Q Parker](https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4) | [Made A Way](https://open.spotify.com/album/3kENXjs8dh7VkOSdEHPWCK) | 3:57 |
 | 101 | [IDKY Jesus Loves Me](https://open.spotify.com/track/2nlnSs2D9bbeZrsSaQ8Khl) | [D\. Morton and Gifted](https://open.spotify.com/artist/1JSFym2oYDUCqvOHwHfnvP) | [IDKY Jesus Loves Me](https://open.spotify.com/album/5hd2C4jqTd1gvIWasmAlMl) | 3:48 |
 
-Snapshot ID: `MTY2ODE2MTQ0MywwMDAwMDAwMGI0YThhMzc3MmQyOWI4YmQxZjU0OGI5ODcxYmFmMzlm`
+Snapshot ID: `MTY2ODE2MTQ0MywwMDAwMDAwMGY0NGFiMjI2MDVkYTlhNGI4OTdlNzM5MzM4MDBjZGQy`

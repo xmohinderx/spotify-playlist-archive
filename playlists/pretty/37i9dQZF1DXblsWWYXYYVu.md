@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,897 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,912 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 23 | [Turbulence](https://open.spotify.com/track/2Xc7OQIxS4Hn9p0DnLpUb2) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Turbulence](https://open.spotify.com/album/2A6b9NvbSmfPVDm6iEbCbJ) | 2:52 |
 | 24 | [Loved To Be Loved By You](https://open.spotify.com/track/7JoHYBVrBg6A0Rerbnxwlp) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Loved To Be Loved By You](https://open.spotify.com/album/3QKRUJjjnaY28Ap7idOEll) | 2:59 |
 | 25 | [Loretta](https://open.spotify.com/track/3yOxX5lkU785X327fhMWdk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/1PJmolhLIF5L2krvACKHO6) | 2:56 |
-| 26 | [To Be Alone](https://open.spotify.com/track/3LLC6zTTtVHf5tuHN2VtSw) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Nothing, Something, Everything](https://open.spotify.com/album/2nP5mY1dKbzBwQ2sXYEYFT) | 3:36 |
+| 26 | [To Be Alone](https://open.spotify.com/track/2rMRJx6otE8fMl5hXQn91g) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [I'm With You](https://open.spotify.com/album/5aUd0ggP3UhS9irzEqy6J7) | 3:36 |
 | 27 | [Revvin' My Cj7 \- Juniper Version](https://open.spotify.com/track/7hxIicKl9uy1IRHhthOCnt) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [The Juniper Songbook](https://open.spotify.com/album/6HmJiODv0iTye63TG2g4h0) | 3:20 |
 | 28 | [Won't Let Go](https://open.spotify.com/track/7J2PKevNeTneR2gPdc5EBg) | [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Won't Let Go](https://open.spotify.com/album/4s2LOOskqLO04nW8j4FLW4) | 2:22 |
 | 29 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 50 | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/track/5dPc0lDy55q0GCyL66Uudy) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/album/074bfoI8tp9Kpj4alfarw3) | 3:16 |
 | 51 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 52 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 |
-| 53 | [Stupid Heart](https://open.spotify.com/track/2D7lpPTMZIiUjzdVbcfbiE) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Side A](https://open.spotify.com/album/34bb5VRuc8xCORxsIXSCyw) | 3:02 |
+| 53 | [Stupid Heart](https://open.spotify.com/track/6flMnPKgGGP9YDM6CmlLBc) | [Kira Isabella](https://open.spotify.com/artist/67Dpp3kDh6tqv9TcIzOi38) | [Sides](https://open.spotify.com/album/5ZvsZpIUyeslcbkaICxJP5) | 3:02 |
 | 54 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 |
 | 55 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
 | 56 | [Safe](https://open.spotify.com/track/4pXP1x8noxi1sNU6s70QCJ) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 4:04 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 74 | [Stand Like An Oak](https://open.spotify.com/track/7m7D0k9Whqisn2eDyVrPNO) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Stand Like An Oak](https://open.spotify.com/album/2HcVT6N62n55L2TAMDgqid) | 3:01 |
 | 75 | [True Love](https://open.spotify.com/track/7sigUoQGHreBIG14Rn7LGp) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [Break Your Crowns](https://open.spotify.com/album/3GFaakqzHGqLPB2er6noUD) | 3:23 |
 | 76 | [Put You Back Together](https://open.spotify.com/track/1mWEc9hJrK5JFRj6NlAPoX) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/6JpQ684RhKhJJK9ZDIDT88) | 3:37 |
-| 77 | [One Man Band](https://open.spotify.com/track/1mNMmPobO6XpjBXksJeuWU) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [NOW That's What I Call Music Country 13](https://open.spotify.com/album/2EnolYl5KYSn7uKm29szyE) | 3:03 |
+| 77 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
 | 78 | [Take The Chance](https://open.spotify.com/track/6noKDeExEd4bYp9qtSg6f5) | [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4) | [Behind This Guitar](https://open.spotify.com/album/4eu52uZltxOTS0ec73kDpu) | 3:37 |
-| 79 | [More Hearts Than Mine](https://open.spotify.com/track/3TRlhYlnRVlQQMQbh3m2Tv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [TikTok Sounds](https://open.spotify.com/album/49FLPP6KDpXKwldgjkoCUR) | 3:34 |
+| 79 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
 | 80 | [My Old Man](https://open.spotify.com/track/0jyYstiiibkN6xlS7INejg) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Welcome Home](https://open.spotify.com/album/5LRfS1XH7dItLBnRfzcXtH) | 3:47 |
 | 81 | [Next Year](https://open.spotify.com/track/5nnIvP82ykJuI60Bov5n3f) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L) | 4:17 |
 | 82 | [I'm Here](https://open.spotify.com/track/7Gj9uY2bWQOSl6ubnM7WZk) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [I'm Here](https://open.spotify.com/album/3f3VCQQtms7Ns87vTJfvvU) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/track/0uhnVe3CgAhOI4NnSeWxTm) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Wrong Side of Goodbye \(Reimagined\)](https://open.spotify.com/album/7lbcv8zWEcRjWd6XJs2ueK) | 2:17 |
 | 100 | [Run on Ahead](https://open.spotify.com/track/6HQSHdS5IPOU3jme7TlsHs) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Run on Ahead](https://open.spotify.com/album/2drOB2NKBpXv5PU00Rhhc8) | 4:41 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDYwY2QzZDc2MzU3M2Y2NjJmYjczY2Y4MTEwNWYxZGIy`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDNlZjVhM2I5NjQ5Yzk2YmRiZGNmYzgxNmQ2N2JmNjBm`

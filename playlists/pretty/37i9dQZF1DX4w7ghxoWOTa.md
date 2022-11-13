@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,057 likes - 48 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,065 likes - 48 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 42 | [翼はPleasure Line](https://open.spotify.com/track/6akQfuvvdRFAM54GwSHUwv) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [翼はPleasure Line](https://open.spotify.com/album/5cAH0SfvvAOJhTn02rmBWB) | 4:36 |
 | 43 | [STAR☆ットしちゃうぜ春だしね](https://open.spotify.com/track/0dc0AQEmAY35RKUiV11a9M) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [STAR☆ットしちゃうぜ春だしね](https://open.spotify.com/album/6RTT2jqMmGfzKK9j6f6gsz) | 4:35 |
 | 44 | [恋?で愛?で暴君です!](https://open.spotify.com/track/0kFmdj4wjarVHE8dZUizxz) | [Wake Up, Girls!](https://open.spotify.com/artist/7JL9zaGsB5OqMA0FgwF6lP) | [恋?で愛?で暴君です!](https://open.spotify.com/album/6qY34HgQVIKXnPxGEUEFsO) | 3:58 |
-| 45 | [Super Noisy Nova](https://open.spotify.com/track/5yKwqdG5eJdVATR2bfPl6C) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [A.T.M.O.S.P.H.E.R.E](https://open.spotify.com/album/5Iqv5Vn2Aox5YKTpKHlqEh) | 4:26 |
+| 45 | [Super Noisy Nova](https://open.spotify.com/track/07LDwVVQNX4pkwrnC01zL9) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [sphere](https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU) | 4:26 |
 | 46 | [君にルムウム](https://open.spotify.com/track/1Ed3Or8b2EYNzW07i8pZL8) | [燦鳥ノム](https://open.spotify.com/artist/47dWUegQfMWoEuh9lLfIhi) | [君にルムウム](https://open.spotify.com/album/3cJMk0NmanyEf2bFn5bHxq) | 3:21 |
 | 47 | [秘密の扉から会いにきて](https://open.spotify.com/track/6MDuCmSdP00j47oEavVBwR) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [秘密の扉から会いにきて](https://open.spotify.com/album/2NfnOSntG6tB7nuFbfDksB) | 3:36 |
 | 48 | [Eternal Tragedy](https://open.spotify.com/track/3pDJKWyX0dCRnbv1wktSqu) | [Aki Hata](https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7), [SHIROU\-TSUKIHIKO](https://open.spotify.com/artist/4n1KlS8mTIqsBCFImc5fvb) | [Eternal Tragedy](https://open.spotify.com/album/19OBmkcKc23HOAsFlFEXfP) | 5:33 |
 
-Snapshot ID: `MTY0OTM4NjE2MSwwMDAwMDAwMGIyYmM0N2IyMTVmZWU2Y2U5ZDg1MTIwZDExZTk2YjAz`
+Snapshot ID: `MTY0OTM4NjE2MSwwMDAwMDAwMDlkOWFkM2VlOTdlMjlhOTIzN2VjNjA1MTRiOGM0Mjc3`

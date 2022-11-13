@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,752 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,768 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 5 | [Le matin](https://open.spotify.com/track/5EOzaKdYpIBMOQS16iben7) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le matin](https://open.spotify.com/album/1KBxSKZYkIDt7eIyXpLpHM) | 2:48 |
 | 6 | [Amazone \(feat\. Laurence Camille\)](https://open.spotify.com/track/1XtDKWKoIN7U5NBKXZWiBM) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Laurence Camille](https://open.spotify.com/artist/2fEGbkGz3QjsKC65fL0vJF) | [Électro\-Vacances](https://open.spotify.com/album/6b4K1Y42MS7uzbgBQvd8c5) | 3:06 |
 | 7 | [+ La vie](https://open.spotify.com/track/6UWcp6ASpVIvUWX5eZMtp2) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [+ La vie](https://open.spotify.com/album/0apX9070waecOi5Fp1YWIo) | 3:49 |
-| 8 | [SECRET](https://open.spotify.com/track/3YKlVrY90ttlrdXWTLToj4) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Nova Tunes 4.3](https://open.spotify.com/album/6E5PvuAL7G9eBBni9pqfaX) | 3:57 |
+| 8 | [SECRET](https://open.spotify.com/track/6dTPAtFHU6GSDisnMu9C90) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:57 |
 | 9 | [La valse des trottoirs](https://open.spotify.com/track/0wHKODm4BO1ZXPpnxRXUY0) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages](https://open.spotify.com/album/6O36buq4umPbJswlhgsKRp) | 2:37 |
 | 10 | [LEAVE ME ALONE](https://open.spotify.com/track/4yYJUgayu4jKB258dukWaF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:37 |
 | 11 | [Dans la foule](https://open.spotify.com/track/4aHcCqmJMCpoak538zShNa) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 2:34 |
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 55 | [Amour toujours](https://open.spotify.com/track/5HxAqfOufN3d1T5fThrIi5) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Amour toujours](https://open.spotify.com/album/1R8sdVJQG4WYemanpkJHdN) | 3:27 |
 | 56 | [Une métaphore pour l'amour](https://open.spotify.com/track/5cAqHLEWZnfUXfzCsCez9J) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Zoo Baby](https://open.spotify.com/album/0Pq1sFQdyRea7Avv570y7T) | 4:06 |
 | 57 | [Nuit américaine](https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Nuit américaine](https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo) | 4:01 |
-| 58 | [No Mission](https://open.spotify.com/track/78oyfpAOdzHzbbVx5SG7Dc) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [The Anjunadeep Edition 360 with James Grant](https://open.spotify.com/album/6I2fHGlEQtvEZ9AElRIyAW) | 5:17 |
+| 58 | [No Mission](https://open.spotify.com/track/2qiKn7sxsU5ZW9Dca4uweM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/1gRkKQh0F7fC2cDLDEY8G0) | 5:17 |
 | 59 | [37°2 Le Matin](https://open.spotify.com/track/42D3APQYY0jZN7bO70oFsP) | [Malory](https://open.spotify.com/artist/4fWYaICAtJA5qKvfqOm1LZ), [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC) | [Métropole Blues](https://open.spotify.com/album/4mxmu0AwWUtVYmXyoExha6) | 3:14 |
 | 60 | [Bon Ami](https://open.spotify.com/track/6pEYLzi93TnYLa32J6chXA) | [Franky Fade](https://open.spotify.com/artist/7dzjLatIXL9tEJINuAk1pE) | [CONTRADICTIONS](https://open.spotify.com/album/54DM3A0nrfTNoR1HJqywrJ) | 3:12 |
 | 61 | [Samba do Boncy](https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Samba do Boncy](https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg) | 3:24 |
 | 62 | [Bahia](https://open.spotify.com/track/3URszLxGSmpX2dHXyLG0eD) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Tropi\-cléa 2](https://open.spotify.com/album/5Md5sV8vltZmZYT6AQtL0c) | 3:20 |
-| 63 | [Mezcal](https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Fièvre](https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl) | 3:52 |
+| 63 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 |
 | 64 | [Jeanne\-Mance](https://open.spotify.com/track/0kE9iw4bjbli8ViwVboNc5) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Summer Pack!](https://open.spotify.com/album/05Y8cMVteSJRy1kLNRXQGy) | 3:02 |
 | 65 | [C'EST BEAU](https://open.spotify.com/track/1wMFt4BeA4ItpowAsOzO8S) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:50 |
 | 66 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 101 | [Stand Tall](https://open.spotify.com/track/5gTx28WqW30fEN1rEZFcDV) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Stand Tall](https://open.spotify.com/album/4aHhefASnscousZOaHk1OH) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMGUzOWQ0ZDE2OTE2ZmFhMGMxMmE5MTI4MDNmY2RiMDAz`
+Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMDliODhiMWFiODliOTI1NzBlMzk3YTZkNzQxNDA3OGY2`

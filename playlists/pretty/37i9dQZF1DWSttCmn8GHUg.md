@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,308 likes - 105 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,382 likes - 105 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
-| 2 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/5FuRFQ9pP3ftNZT4hgSqyw) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks \(Big Machine Radio Release Special\)](https://open.spotify.com/album/7zWRRC8wHbEVsFYEfQVqR8) | 3:11 |
+| 2 | [The Ones That Didn’t Make It Back Home](https://open.spotify.com/track/6Vmb8Ru0BvjWGozOVGApRd) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:11 |
 | 3 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
 | 4 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 |
 | 5 | [American Spirit](https://open.spotify.com/track/7IavhGuLKMXs5bl4bgIJKM) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [American Spirit](https://open.spotify.com/album/0LsvUfzHnLTeuyK4OmhvRv) | 2:59 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 44 | [Heart Of A Small Town](https://open.spotify.com/track/60pLGEx3J9wCqgFA3vrw5y) | [Tim Dugger](https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj) | [Heart Of A Small Town](https://open.spotify.com/album/4KVtANgNjZNcudrOea5YM5) | 3:17 |
 | 45 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 |
 | 46 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
-| 47 | [Where I Find God](https://open.spotify.com/track/1kczRjh9aT7N82jtCYbkqF) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [4th of July](https://open.spotify.com/album/78gK94dhgh6ol8WkfX0L6f) | 4:09 |
+| 47 | [Where I Find God](https://open.spotify.com/track/6jhLdxpo93lXFaJwX7znaa) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 4:09 |
 | 48 | [Where Were You \(When the World Stopped Turning\)](https://open.spotify.com/track/3eSwvMfSA0Fyku6Ak5JEw0) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 5:05 |
 | 49 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
 | 50 | [Red Dirt Road](https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Red Dirt Road](https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf) | 4:20 |
-| 51 | [Where The Green Grass Grows](https://open.spotify.com/track/6ppz9qjSVcrkZgPr1jtF6Y) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McGRAW \(The Ultimate Collection\)](https://open.spotify.com/album/3ytKtBtqdHsj6XzNu0sMCT) | 3:22 |
+| 51 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
 | 52 | [The Dash](https://open.spotify.com/track/4F9pqprfOvnv4r2B1LjG9l) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [See You Tonight](https://open.spotify.com/album/4WzDgE5rtzgdklKFoDvUcw) | 3:44 |
 | 53 | [She Goes to Work](https://open.spotify.com/track/1sMLcj9cFRwSFurIOcgDGM) | [Jake Dodds](https://open.spotify.com/artist/52YZB2e6Zr1V7Vwr2oEmrN), [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [She Goes to Work](https://open.spotify.com/album/1JYyllDH3ipVkMlMXfykCD) | 3:29 |
 | 54 | [American Heartbreaker](https://open.spotify.com/track/2pHwPZhKl75eC8JVfbT7de) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts) | 2:48 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 74 | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/track/1FSYsYrfOKa6nBHVEBWUQC) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/album/1v3UJ3V5ChGeHPoKzhcyy3) | 3:41 |
 | 75 | [Two Soldiers Coming Home](https://open.spotify.com/track/1izEIegmClpoKR5fYvjWJL) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Act Of Valor](https://open.spotify.com/album/4DYnaZCZ0vvnBG67E8zTJn) | 3:26 |
 | 76 | [Courtesy Of The Red, White And Blue \(The Angry American\)](https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:15 |
-| 77 | [Free](https://open.spotify.com/track/5t3aFNzwIEl8mxiR5abgJG) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I Love Rock 'N' Roll: Anthems for Hard Times](https://open.spotify.com/album/3tnfZZT3fglzc62rC4R0zv) | 3:48 |
+| 77 | [Free](https://open.spotify.com/track/4BaAxwS4VoeCYk9TuXQs7f) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:48 |
 | 78 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
 | 79 | [God, Family and Country](https://open.spotify.com/track/23hqpwQMJC75TVEO9Mo9rM) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [I Love It](https://open.spotify.com/album/5cPoNiy9Cwu5Dxd2CUQwVO) | 3:26 |
 | 80 | [God Bless America](https://open.spotify.com/track/63Od9t6xI8CiIkr7T3XZfr) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [God Bless America](https://open.spotify.com/album/0MFRDEEOBK2OW0Ij5mN5XY) | 3:05 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSttCmn8GHUg.md) - [plain]
 | 104 | [Some Gave All](https://open.spotify.com/track/3wKfQaOgFxZ0qhXjo4iqlI) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 4:05 |
 | 105 | [I'm Already There](https://open.spotify.com/track/34Vn9nKfztyLco9lJazy4j) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [I'm Already There](https://open.spotify.com/album/4aC1f4gcfN1lGRG1W9OuMJ) | 4:13 |
 
-Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMGQ5YmQ1ZjgzZDJiMjQwZmZhN2QxNWMxYmUyNjU0ZTMx`
+Snapshot ID: `MTY1NjY0ODA2MCwwMDAwMDAwMGVmZmNmY2FmZWI0ODBjMjQ3Y2JlNTVkODNhZjgxNzli`

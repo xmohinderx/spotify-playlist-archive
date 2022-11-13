@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Chiiild
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,441 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,433 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 21 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
 | 22 | [Object of Fun](https://open.spotify.com/track/0cqzZKc1UXaTJix5yKpQhG) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Object of Fun](https://open.spotify.com/album/6ZIuuL02NpszQgKbvwKDNN) | 3:10 |
 | 23 | [Wild Grey Ocean](https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Grey Ocean](https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v) | 3:54 |
-| 24 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Ain't Quite Where I Think I Am](https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On) | 3:11 |
+| 24 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 |
 | 25 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 |
 | 26 | [Easy](https://open.spotify.com/track/4Db3Xcq70L7Zcdb8sFqGVL) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Being Somewhere](https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR) | 3:53 |
 | 27 | [Shades of Blue](https://open.spotify.com/track/5UZFZffbAQQGTHVFk7NO5a) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Shades of Blue](https://open.spotify.com/album/64xacrF8hzbntXHidaScmN) | 3:28 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 47 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 |
 | 48 | [Grapevine](https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Grapevine](https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v) | 5:25 |
 | 49 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
-| 50 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 |
+| 50 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
 | 51 | [Wolf](https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:13 |
 | 52 | [Pull](https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Pull](https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv) | 3:16 |
 | 53 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 63 | [Good Stuff](https://open.spotify.com/track/4Tfvz7BRWnLYqlja4jUAsy) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [Good Stuff](https://open.spotify.com/album/1Rgpj3IAACl9M48bmefYqC) | 3:43 |
 | 64 | [Go Write It In The Stars](https://open.spotify.com/track/4I7ly7eSt1raF0ZSOAlWKP) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Go Write It In The Stars](https://open.spotify.com/album/6SAJNqTw4P8uVV8qeApNbJ) | 3:35 |
 | 65 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
-| 66 | [Fossora](https://open.spotify.com/track/36xiucrIrEd6kiTfvwUqWC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6pK5iO6z0HZ917NucdOvny) | 4:19 |
+| 66 | [Fossora](https://open.spotify.com/track/2urZy4XZCrD2cow5fieB9Y) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 4:19 |
 | 67 | [HotMom.com](https://open.spotify.com/track/6leIMUV6IC5hQEvwPPdsrK) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [HotMom.com](https://open.spotify.com/album/7m4p607UjRClyEYBjPr2GN) | 2:24 |
 | 68 | [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 |
 | 69 | [F.O.O.F.](https://open.spotify.com/track/6Xr3s1NTck8lLiLF7VGReD) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 2:08 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 92 | [Fade into You](https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Fade into You](https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg) | 4:12 |
 | 93 | [Diamond Violence](https://open.spotify.com/track/5txRJup3ndKlzrapHKQyAp) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if) | [Diamond Violence](https://open.spotify.com/album/4HNPUulBgryvb3GMgfSHrl) | 5:03 |
 | 94 | [Can We Take The Night Off?](https://open.spotify.com/track/7uOvb1oTvrCGiU42h4rzE5) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Can We Take The Night Off?](https://open.spotify.com/album/4wgjdiDDwSiSkL4QwUZKlG) | 3:30 |
-| 95 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 |
+| 95 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/0oUBTMblmGqB5fBibdslTw) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/11R59ESDiW114ngszKUkyH) | 5:11 |
 | 96 | [First Time Caller](https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [First Time Caller](https://open.spotify.com/album/2mxrENnX1AxQO4iyLxUvA6) | 5:17 |
 | 97 | [Chemical Emotion](https://open.spotify.com/track/57KXGxtYYTZB0bLwrHHvTD) | [Jeen](https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz) | [Chemical Emotion](https://open.spotify.com/album/4VzLUZMDRGHN5vpyYbLBPd) | 3:10 |
 | 98 | [Fall First](https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 4:09 |
 | 99 | [Double Dare](https://open.spotify.com/track/2QzRJ7DmEIddRe94ISBB4B) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Double Dare](https://open.spotify.com/album/4oZDwsQ6FKgt0ayXjvJOEn) | 1:59 |
 | 100 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDNiOTQ4MmY3OWNhOGU4ZTk4MWEwNzcxZWEwYjhmNTA3`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGE1MjE1MGE1ZTAwODAyN2IzM2U1M2MzMjQwMTZhOGM2`

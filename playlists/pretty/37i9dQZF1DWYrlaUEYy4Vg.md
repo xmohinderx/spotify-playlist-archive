@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrlaUEYy4Vg.md) - [plain]
 
 > John Mayer's new album Sob Rock and his greatest songs all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,145 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,274 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 |
-| 2 | [New Light](https://open.spotify.com/track/41f8HyuxASzuEcEs01x10O) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Treino Pop 2022](https://open.spotify.com/album/1NeZ6oYVALUuygJwW5zvve) | 3:37 |
+| 2 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
 | 3 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
 | 4 | [Shouldn't Matter but It Does](https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:56 |
 | 5 | [Wild Blue](https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrlaUEYy4Vg.md) - [plain]
 | 59 | [Split Screen Sadness](https://open.spotify.com/track/2eMVogxm08LgfgnWpahooV) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 5:06 |
 | 60 | [Magnolia \(feat\. John Mayer\)](https://open.spotify.com/track/0VzLAYIns618H651sG09Gp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Eric Clapton & Friends \- The Breeze \(An Appreciation of JJ Cale\)](https://open.spotify.com/album/21swqoPE6wszY0IC8sJEYs) | 3:41 |
 
-Snapshot ID: `MTY0NzYxNTkyOSwwMDAwMDAwMGI4YTM2YjBjMzNhMGZiNGQzYTQxMmY4NThmODgwMDQ0`
+Snapshot ID: `MTY0NzYxNTkyOSwwMDAwMDAwMGNjZTk0OGZlMzUzMDFmOWQxODIwZmQ5MjEwMTY1YmQ4`

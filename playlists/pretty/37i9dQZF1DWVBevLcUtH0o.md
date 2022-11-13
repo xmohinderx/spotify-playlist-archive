@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 
 > When the music and the message is honest, songs can be both personal and universal\.   Here is a list that pushes and reflects the culture at large.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,670 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,676 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 7 | [White Jesus](https://open.spotify.com/track/3gXLxItxg25UHVfVvRKeqt) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Augustine's Legacy](https://open.spotify.com/album/5Fr8CO5IgNqD8LajlS4Y9f) | 3:24 |
 | 8 | [Be The Voice](https://open.spotify.com/track/087xQ6piKEdmyA5u0B7SPH) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ) | [Be The Voice](https://open.spotify.com/album/53sIiLuvKFYvE7rkJwGqy3) | 3:07 |
 | 9 | [Broke](https://open.spotify.com/track/0PksYRJt7yJRQOWRnNjYqr) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Broke](https://open.spotify.com/album/6YBqD9Ryy1vWTB4JDQmuMM) | 2:59 |
-| 10 | [The Hold](https://open.spotify.com/track/4EaCU73q0uEhSLWYNe994D) | [Armond Wakeup](https://open.spotify.com/artist/5e8WZ20kXHGdDe6iNlogGx), [Wes Pendleton](https://open.spotify.com/artist/0Z7jo4oR0rsAf7CHuGSpbx) | [The Hold](https://open.spotify.com/album/0jqDPOIq8PUkeOox1zyFIM) | 3:31 |
+| 10 | [The Hold](https://open.spotify.com/track/3ysatBDUlwvMQP5pXGKxEC) | [Armond Wakeup](https://open.spotify.com/artist/5e8WZ20kXHGdDe6iNlogGx) | [40 Days](https://open.spotify.com/album/2pUaUBTx4AfURNqth8wtax) | 3:31 |
 | 11 | [Messenger](https://open.spotify.com/track/2afTNGJTvmD5o1xmHjZuV0) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Messenger](https://open.spotify.com/album/6Fv3wkRGclwurAJPjEnMla) | 3:20 |
 | 12 | [Black Boy](https://open.spotify.com/track/1nWKhkB9ZfhZnRvM4rBQ1l) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 4:38 |
 | 13 | [All the Time](https://open.spotify.com/track/0vHhhXkGGV2zF1NsN2EfIr) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 3:43 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 29 | [New Flow \(Bonus Track\)](https://open.spotify.com/track/055mDxLJSHPNcra8NKYby5) | [Vic Sage](https://open.spotify.com/artist/1Vb5xFUr9KlF32On6L2WPQ) | [Long Days Longer Nights](https://open.spotify.com/album/1K0aGF5vwjqlWGwcLE7W8M) | 2:49 |
 | 30 | [I Am Not the One](https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:29 |
 | 31 | [Where They Won't Go](https://open.spotify.com/track/2iEXJSyFABQbbkfOuajAem) | [Antwoine Hill](https://open.spotify.com/artist/4PRV9kKsAtyGXUdIsXNvvk) | [Line in the Sand](https://open.spotify.com/album/1DnJWkx4her5JMn7vMt7Mh) | 3:43 |
-| 32 | [Darkie](https://open.spotify.com/track/36pXJwXgT49AnEYNwCeYco) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Micah Bournes](https://open.spotify.com/artist/0x7xqL4Noaw3mYcOgOCq03) | [Darkie](https://open.spotify.com/album/6Y3OohyhR1NQBoE3Zbtz7c) | 4:33 |
+| 32 | [Darkie](https://open.spotify.com/track/4xbmnXp0E5dUVdTy8MTXgN) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [Micah Bournes](https://open.spotify.com/artist/0x7xqL4Noaw3mYcOgOCq03) | [Crooked](https://open.spotify.com/album/0DzwXN6eBlVAU3qCslDgv4) | 4:33 |
 | 33 | [Oz](https://open.spotify.com/track/1ckL9nONVA2JL9f12WrnYy) | [Davis Absolute](https://open.spotify.com/artist/3ky8U0naf7LBnhlA1VC5IW), [Mike Brand](https://open.spotify.com/artist/0YQ3EIrK3vWZHEpg57EFVZ) | [EDEN](https://open.spotify.com/album/10fkeKt7eeR2m2TKaNVSjF) | 3:52 |
 | 34 | [Stay True](https://open.spotify.com/track/0KBaiSc0218RRst1HztFaH) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Stay True](https://open.spotify.com/album/5XqqJYyTGwtp6IulyQWPJ0) | 2:48 |
 | 35 | [Be Me](https://open.spotify.com/track/3TDvKI2Jt5nccrjO5D3vGO) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [This Time Around](https://open.spotify.com/album/1HM6fFTgPaxFxMdokn95HH) | 3:30 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBevLcUtH0o.md) - [plain]
 | 51 | [One Day](https://open.spotify.com/track/6oH5sjilDhOF7cZpkocOJc) | [Lawren](https://open.spotify.com/artist/2g6ZseL9bJT7cB4T0BdiXj), [Beleaf](https://open.spotify.com/artist/7N204QRVuZ3LCoVkKRPf1T) | [Pieces](https://open.spotify.com/album/6ricKbHwORwyebGUNEKkw7) | 2:18 |
 | 52 | [No Hate \(feat\. Bumps Inf\)](https://open.spotify.com/track/4JFHumqDdqiJ8hzazjZT23) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Bumps Inf](https://open.spotify.com/artist/0kbnFIVENMVtl0VBSwdysP) | [Surrender](https://open.spotify.com/album/4lMRz04k2wnJmf2Yr3F15E) | 3:51 |
 
-Snapshot ID: `MTYxNjgwODY0NSwwMDAwMDAwMDdjYzQwODJmNTc5MmI2ZjY5OTY1ZDViMWQwMDkyMmUx`
+Snapshot ID: `MTYxNjgwODY0NSwwMDAwMDAwMGY3MjkwNjE3NjMxZjVjZmZmNmQ3NjQ2NWQ0ZDQ2MTY4`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 72079,
+  "num_followers": 72107,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTkyNzQ4NCwwMDAwMDAwMDIxYzg5ZDRiZjc5NzUwZWNmMTg1MTIxMWRmYjZiNzNk",
+  "snapshot_id": "MTY2NTkyNzQ4NCwwMDAwMDAwMGY0ZmI1MTE3N2RjN2M5ZWQyYmVhMzZkNjU2MGM2ZmUz",
   "tracks": [
     {
       "added_at": "2022-10-16 13:38:04",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/49sOQL7iLZeJj1ibp2ooIN"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 133835,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/0YLZrWyAqDBpuvSs7UxFX8"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Apre bal la",
         "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
@@ -803,6 +823,26 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Kelly Krow",
+        "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        },
+        {
+          "name": "Mozart Louis",
+          "url": "https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul"
+        }
+      ],
+      "duration_ms": 270315,
+      "name": "Sal Vle",
+      "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Ha\u00eftian Troubadours, Vol. 1",
         "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
       },
@@ -919,6 +959,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Tap (Remix)",
         "url": "https://open.spotify.com/album/49dfWPAP2WdYwYC6xIyViU"
       },
@@ -939,38 +995,6 @@
       "duration_ms": 173195,
       "name": "Tap - Remix",
       "url": "https://open.spotify.com/track/1Z9eh56VkEjGSccQLIK4E8"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
-      },
-      "artists": [
-        {
-          "name": "Beken",
-          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Kote'w Te Ye",
-      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -999,6 +1023,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Troubadour",
+        "url": "https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z"
+      },
+      "artists": [
+        {
+          "name": "Beken",
+          "url": "https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Kote'w Te Ye",
+      "url": "https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
       },
@@ -1011,6 +1051,22 @@
       "duration_ms": 102466,
       "name": "Imamou Lele",
       "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1039,6 +1095,30 @@
       "duration_ms": 194545,
       "name": "Eskize Mwen - Raboday Mix",
       "url": "https://open.spotify.com/track/3hxvNj80lN6XeQzoHZKnkg"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Akouna",
+        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
+      },
+      "artists": [
+        {
+          "name": "Manno Beats",
+          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
+        },
+        {
+          "name": "Afrotronix",
+          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
+        },
+        {
+          "name": "Vox Sambou",
+          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
+        }
+      ],
+      "duration_ms": 230679,
+      "name": "Akouna",
+      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1099,46 +1179,6 @@
       "duration_ms": 187658,
       "name": "Baby Who",
       "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Akouna",
-        "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
-      },
-      "artists": [
-        {
-          "name": "Manno Beats",
-          "url": "https://open.spotify.com/artist/7AUl5v36auGEwBGydE56uj"
-        },
-        {
-          "name": "Afrotronix",
-          "url": "https://open.spotify.com/artist/1QVg0x2DyGzhhDmBqXFtYr"
-        },
-        {
-          "name": "Vox Sambou",
-          "url": "https://open.spotify.com/artist/3XvwnMgNMLHbL5C6UBFy1b"
-        }
-      ],
-      "duration_ms": 230679,
-      "name": "Akouna",
-      "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1219,26 +1259,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Ba L on Bye (Remix)",
-        "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
-      },
-      "artists": [
-        {
-          "name": "Enposib",
-          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
-        },
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 216412,
-      "name": "Ba L on Bye (Remix)",
-      "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Trap King",
         "url": "https://open.spotify.com/album/5P5jwxaRvA0i64gOJoNpvK"
       },
@@ -1255,6 +1275,26 @@
       "duration_ms": 186857,
       "name": "Fanm Ch\u00e8",
       "url": "https://open.spotify.com/track/5TzWub3nCAAcVZxLSELohS"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Ba L on Bye (Remix)",
+        "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
+      },
+      "artists": [
+        {
+          "name": "Enposib",
+          "url": "https://open.spotify.com/artist/6r1agdwSRKU5d5oFX4C5Mn"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 216412,
+      "name": "Ba L on Bye (Remix)",
+      "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1339,26 +1379,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Touche'm",
-        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        },
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        }
-      ],
-      "duration_ms": 212783,
-      "name": "Touche'm",
-      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Designa",
         "url": "https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0"
       },
@@ -1375,6 +1395,26 @@
       "duration_ms": 155294,
       "name": "Designa",
       "url": "https://open.spotify.com/track/7d3wIcVooCbZ02cUlhNrZR"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Touche'm",
+        "url": "https://open.spotify.com/album/1V40nMnOeYmzAbbBCzq82H"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        }
+      ],
+      "duration_ms": 212783,
+      "name": "Touche'm",
+      "url": "https://open.spotify.com/track/5jn2LHOt68Ke5pQkP8m7Wv"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1823,22 +1863,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Zeptima",
-        "url": "https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a"
-      },
-      "artists": [
-        {
-          "name": "Ayiiti",
-          "url": "https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz"
-        }
-      ],
-      "duration_ms": 241104,
-      "name": "Zeptima",
-      "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Bade Zile",
         "url": "https://open.spotify.com/album/1UjE3qnxksHjs7nJIY2kSW"
       },
@@ -1855,6 +1879,22 @@
       "duration_ms": 225727,
       "name": "Bade Zile",
       "url": "https://open.spotify.com/track/37EoU9KaaOMKhFdECTArsN"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Zeptima",
+        "url": "https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a"
+      },
+      "artists": [
+        {
+          "name": "Ayiiti",
+          "url": "https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz"
+        }
+      ],
+      "duration_ms": 241104,
+      "name": "Zeptima",
+      "url": "https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1895,38 +1935,6 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "REFLEXION",
-        "url": "https://open.spotify.com/album/6i72auNGChVZB8lwCC0pTM"
-      },
-      "artists": [
-        {
-          "name": "KANIS",
-          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Hallyday",
-      "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     }
   ],
   "unique_name": "Haitian Heat",

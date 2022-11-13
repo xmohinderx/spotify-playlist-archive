@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Instrumental, ambient music to awaken your imagination.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,762 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,819 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 44 | [Lichtspiel III: Symphonie Diagonale](https://open.spotify.com/track/07zPNPfmvyzo5kS5jUUoSl) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Lichtspiel III: Symphonie Diagonale](https://open.spotify.com/album/3fFIE42yygMv0goOLgnTsb) | 3:56 |
 | 45 | [To Ourselves](https://open.spotify.com/track/4K1LYV02moMXdlsp63IxI8) | [Jon Notar](https://open.spotify.com/artist/2aSK4r8PyFKBM5a5zwZ2qX) | [To Ourselves](https://open.spotify.com/album/4etqTS2Mu9WRjjaWvWJBFA) | 4:28 |
 | 46 | [Nocturne 4 \- Alva Noto Remodel](https://open.spotify.com/track/6FaTmzirRRd7OAJ6RyZeeK) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Nocturne 4 \(Alva Noto Remodel\)](https://open.spotify.com/album/25cK5Tq2V5hM6SegYu9YGO) | 6:40 |
-| 47 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0dj9xrtRk4fNSwq9qpmLJj) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt) | 5:34 |
+| 47 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 5:34 |
 | 48 | [Nearer \- solo piano](https://open.spotify.com/track/0W7s30iwtHTCrD7IYbJR9s) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Nearer \(solo piano\)](https://open.spotify.com/album/68diijFo2l26OU6v5lKtD5) | 4:13 |
 | 49 | [Søndermarken \(Video Edit\)](https://open.spotify.com/track/6nr8pvjY7kvf0dVclOzNuj) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/4Fhv8iZsFv6ZRFNjbmOeSC) | 4:10 |
 | 50 | [Agape](https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML) | 5:06 |
 
-Snapshot ID: `MTY2Njk0NzA5MiwwMDAwMDAwMDFkZjdjOGUwNDE3MGQzOWMyZDNjMDA1ZWIzMDZmZDE3`
+Snapshot ID: `MTY2Njk0NzA5MiwwMDAwMDAwMDI5OWQzNTQwNmZlMmEzZWVkNmY3NDg4MDY0MjY0YzMy`

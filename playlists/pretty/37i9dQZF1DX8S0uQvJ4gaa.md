@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Brantley Gilbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,195 likes - 113 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,001 likes - 113 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 8 | [A Special Place](https://open.spotify.com/track/1xk2TQgJNtH3FErgICPgmb) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [A Special Place](https://open.spotify.com/album/1C8SRnPi8Fs6Bhdceyiheb) | 2:54 |
 | 9 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
 | 10 | [YOU'RE DRUNK, GO HOME](https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:55 |
-| 11 | [Wastin' Whiskey](https://open.spotify.com/track/5xxopu5i7Rca8eVZEOgUGR) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Beer Me](https://open.spotify.com/album/7CzW0FNRT15dnPl7IWYtVc) | 3:10 |
+| 11 | [Wastin' Whiskey](https://open.spotify.com/track/3h10bRUpzMu0Umm2iXleYb) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2l6aTa5socmv2iQZzF514T) | 3:10 |
 | 12 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 |
 | 13 | [I Found You](https://open.spotify.com/track/5XSwZlJnAceZ0Gb057vbol) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Found You](https://open.spotify.com/album/1Jjv7LOTu05PDBTWufIi81) | 3:26 |
 | 14 | [Make A Little Room](https://open.spotify.com/track/62yXckrKNy9Sylka6oifst) | [Steve Moakler](https://open.spotify.com/artist/63t3EqMeymxd4CM85RqsCd) | [Make A Little Room](https://open.spotify.com/album/457Ok9pnF5fAfG7lNUFqHS) | 3:00 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 47 | [Buy A Girl A Drink](https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Buy A Girl A Drink](https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8) | 3:16 |
 | 48 | [Where Did All The Cowboys Go](https://open.spotify.com/track/2P5yyV1EA4CCqRhjXKro5p) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Be That Girl](https://open.spotify.com/album/7inCR1hQvn6iWSEbDsAXvR) | 3:15 |
 | 49 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 |
-| 50 | [First Taste of Gone](https://open.spotify.com/track/59OjYMzswJJ5uv9GfxYEK5) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Country Hits: June 2022](https://open.spotify.com/album/1NL8MOv7WaIg71wEd2ERRE) | 2:52 |
+| 50 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 |
 | 51 | [Country Can](https://open.spotify.com/track/23h3c9x2ApofnkxHteQJDU) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Country Can](https://open.spotify.com/album/1gDtUrRMMsnPoBNHygmep7) | 2:53 |
 | 52 | [here lies country music](https://open.spotify.com/track/4I3OejPxtFzZK7HGCXhVSu) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [here lies country music](https://open.spotify.com/album/6Aaucmki90w8VEv70Fbc3g) | 3:40 |
 | 53 | [Before You](https://open.spotify.com/track/5nPt2lxfI2Q3IIU6Fry25R) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Before You](https://open.spotify.com/album/2Xz8ZyFxGzRTepW9ph2RiB) | 2:52 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 112 | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1) | [Monarch Cast](https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX), [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [The Card You Gamble \(Main Theme From Monarch\)](https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o) | 2:56 |
 | 113 | [Jealous of Myself](https://open.spotify.com/track/75rvf9Hbx1R5NikWybJl9e) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Jealous of Myself](https://open.spotify.com/album/4qTbDUZJukcxWaf120N5i2) | 3:26 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGNlNDAyNGUyMzFkNzgwYWU1N2U5NzMyOGQyYzk2NjUy`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDBiNWI0MDMzNDYwMGY5YTkxMGQwMzViYzMwZjdhY2Rl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 
 > Above the city of Los Angeles, here are a few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,396 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,467 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 17 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
 | 18 | [You're No Good](https://open.spotify.com/track/23DZLSxCK6kM8FF2RlzKDl) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 3:44 |
 | 19 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 |
-| 20 | [No Other \- 2019 Remaster](https://open.spotify.com/track/0wmJ4RC5Cw0hCrc1HJfgIJ) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other \(Deluxe Edition\)](https://open.spotify.com/album/7DNPQByO5bZDo8Kdph5KOC) | 5:08 |
+| 20 | [No Other](https://open.spotify.com/track/6gzhmgjSvFuwTLc6XyRv2Q) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 5:08 |
 | 21 | [Crayon Angels](https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 2:45 |
 | 22 | [Mama Told Me Not to Come](https://open.spotify.com/track/6uYrDQX0lNmeM9di1B5rAI) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [12 Songs](https://open.spotify.com/album/3HhJGNadZnFCkAYrPgSuVR) | 2:10 |
 | 23 | [Love the One You're With](https://open.spotify.com/track/3NNkJwiHucP5QyUEAIMXra) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Stephen Stills](https://open.spotify.com/album/2nkFniR6DseqFJLhxXV01T) | 3:04 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 32 | [Dixie Chicken](https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Dixie Chicken](https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF) | 3:59 |
 | 33 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 |
 | 34 | [You're so Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
-| 35 | [Peaches En Regalia](https://open.spotify.com/track/2OHgHf7E58OPmRk1vtvqSW) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Autumn Jazz](https://open.spotify.com/album/6ueI6AlonRqr37d90fwYss) | 3:38 |
+| 35 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 | 36 | [Fire and Rain](https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Calming Ballads](https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0) | 3:20 |
 | 37 | [2401](https://open.spotify.com/track/5lDoRJ2vW6G4YXeUciQd3R) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues From Laurel Canyon](https://open.spotify.com/album/3NpLHWshxHfxbhdYdgtmPL) | 3:47 |
 | 38 | [Helplessly Hoping](https://open.spotify.com/track/40WeJU3odsbq1fXNbub4nh) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [So Far](https://open.spotify.com/album/5C1NUv7hNWS6n0GBtLetKM) | 2:39 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 41 | [Kite Woman](https://open.spotify.com/track/3OLcz4dQuohRRsJqLS2iXw) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [John David Souther](https://open.spotify.com/album/5pw5GDqCQjkfc6LctnfQKX) | 3:06 |
 | 42 | [The Door Into Summer \- 2007 Remastered Version](https://open.spotify.com/track/2gzY74wkSgo1ts1IZbjxfT) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Pisces, Aquarius, Capricorn & Jones Ltd\. \(Deluxe Edition\)](https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF) | 2:50 |
 | 43 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
-| 44 | [California Dreamin' \- Single Version](https://open.spotify.com/track/5Ic5sCfnqBwazsdRpvihju) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Road Trip Hits](https://open.spotify.com/album/4INtVvtW2OSy4FsYislcw3) | 2:39 |
+| 44 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
 | 45 | [Down by the River \- 2009 Remaster](https://open.spotify.com/track/2EFtUP7BmsjHzhQqI6A4rp) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Everybody Knows This Is Nowhere](https://open.spotify.com/album/70Yl2w1p00whfnC7fj94ox) | 9:18 |
 | 46 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
 | 47 | [I Just Wasn't Made For These Times \- Mono / Remastered](https://open.spotify.com/track/4CuO8TINNqM3D7aUdNQ3zG) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix Versions\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 59 | [Desperados Under the Eaves](https://open.spotify.com/track/6PAGJfVrbxdIhIJmbsDLim) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Warren Zevon](https://open.spotify.com/album/5wY8fZoi9eFh3WMjLcHFps) | 4:47 |
 | 60 | [The Bells of Rhymney](https://open.spotify.com/track/1mpv6hIbfG75txI9zJGcf4) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 3:30 |
 
-Snapshot ID: `MTU5MDExMDI1NSwwMDAwMDAwMDEwN2M0YzQ0ZDRhNTc5M2E1YzRjNDJmY2QxYmU3YThl`
+Snapshot ID: `MTU5MDExMDI1NSwwMDAwMDAwMGEwNmYzZWI3OWFjZmE4MGFmYTk5MjI3YmMwNzM1ZWRi`

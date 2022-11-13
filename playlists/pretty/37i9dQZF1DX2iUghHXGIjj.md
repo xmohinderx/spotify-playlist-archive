@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,427 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,446 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 13 | [Death Letter](https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Forever On My Mind](https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9) | 5:51 |
 | 14 | [Letter from Bluewater Man](https://open.spotify.com/track/0vsJuXrbsAhoLmvpfb1T44) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Letter from Bluewater Man](https://open.spotify.com/album/1SwZd4wIIN6tAMs0vPEMJK) | 2:24 |
 | 15 | [Walking My Troubles Away](https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:54 |
-| 16 | [Heavy Load](https://open.spotify.com/track/0QLhmYdldYoRRSn5qQbwTZ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 7:18 |
-| 17 | [The World Can Be So Cold](https://open.spotify.com/track/5N03Df9IsmsWtHNZbrmTjb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/4WA7Zxne8GkMDjnkkZEW1s) | 3:26 |
+| 16 | [Heavy Load](https://open.spotify.com/track/4ZgLOQB66wNk4VNB9H98E2) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 7:18 |
+| 17 | [The World Can Be So Cold](https://open.spotify.com/track/0U1M0MLvbw0ZZQDR2BXELd) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 3:26 |
 | 18 | [All True Man](https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc) | 4:04 |
 | 19 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 |
 | 20 | [Don't Fish in My Sea](https://open.spotify.com/track/02wAtZaUqHt147UtEBR4LO) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Don't Fish in My Sea](https://open.spotify.com/album/4p4TdPZ6H8k7fp8ozuS6M4) | 4:10 |
 | 21 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 |
 | 22 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
-| 23 | [I'm Ready](https://open.spotify.com/track/308iMDZL6Y2OsJceqn6Uly) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/33kr65x9D148InPeYYIloG) | 2:17 |
+| 23 | [I'm Ready](https://open.spotify.com/track/4wk6CwXYGbwN5ueOhd6twG) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/3ppJZy5wj282RpH5M3ld1a) | 2:17 |
 | 24 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
 | 25 | [Push The Blues Away](https://open.spotify.com/track/6U1c5I3iixRjilhhMzzx2m) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:29 |
 | 26 | [Dust My Broom](https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Dust My Broom](https://open.spotify.com/album/4wvZ1QR3tMnLNDzzxxn1pj) | 3:35 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 69 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 |
 | 70 | [Apple Picker \(Acoustic\)](https://open.spotify.com/track/3y3cL6EO4ZwSUAFqSMF1Ec) | [Little G Weevil](https://open.spotify.com/artist/4hkwwRsMaMnDGor4KRup2m) | [Three Chords Too Many](https://open.spotify.com/album/5ncj1ATQJG0z62v5zvowKt) | 5:36 |
 | 71 | [Prisoner](https://open.spotify.com/track/17fAhKyok3ZImAd3mcqtGx) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Together](https://open.spotify.com/album/0i7k4eoj7BaJTEckmsismQ) | 4:09 |
-| 72 | [Play With Your Poodle](https://open.spotify.com/track/0yqFqZtH96Z8WPd9Q6AvJU) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Harmonica Blues](https://open.spotify.com/album/3CcEEK5lIRYkBfObfCEmSj) | 3:39 |
+| 72 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
 | 73 | [Calling Out To You](https://open.spotify.com/track/4NbmBhEdThmGYpiVakws47) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 3:46 |
 | 74 | [Pray For Rain](https://open.spotify.com/track/1lE2aVjpBPUcDO1XlmD0yu) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Blues for the Modern Daze](https://open.spotify.com/album/7F73Pr637O5lVlXUsPgUFJ) | 3:14 |
 | 75 | [Death Row](https://open.spotify.com/track/4gFPqVg2MRvQGkSo7PhkOd) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Gone to Texas](https://open.spotify.com/album/5XaNKUWehrwuVY6lGsLFkQ) | 4:07 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 95 | [Talkin' To Jehova](https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS) | 4:36 |
 | 96 | [Slowly Slipping Away](https://open.spotify.com/track/0IdWFitNfPCkUKSRfufc6C) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 3:27 |
 | 97 | [Searching Blues](https://open.spotify.com/track/1RWAsPQhpizSGmO8YWmS8M) | [Manuel Galvin](https://open.spotify.com/artist/5OiXz8xSD4YGtm7vYDZ0Gs), [Michael Robinson](https://open.spotify.com/artist/4rmqOj8syPDp0g3MpWxCus) | [American Heritage](https://open.spotify.com/album/28mwkzzBRA3v9SwWzzqKIL) | 3:50 |
-| 98 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/08CShCm5L8jopYYkpF6bVY) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Alligator Records 35th Anniversary Collection](https://open.spotify.com/album/5oNBMrK7Upa0tbWsmlDQAt) | 2:55 |
+| 98 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 |
 | 99 | [What They Say](https://open.spotify.com/track/24NvptbNKGs6sPy1Vh1O0v) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/1OsaTxNg63FgnAqMVvIcC7) | 2:46 |
 | 100 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 |
 
-Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMDI2MDI5ODU1MjgxMDFiNGI0NWZhNzFiZDBmOTVjMTQy`
+Snapshot ID: `MTY2MTQ4NjUyMCwwMDAwMDAwMGM0ZWI0NzdjM2E5NDRmMzBjNmI3MWI3MzM2OWYzNTlh`

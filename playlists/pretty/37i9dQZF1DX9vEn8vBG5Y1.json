@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 116660,
+  "num_followers": 116770,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjEzNywwMDAwMDAwMDQxZjEyYjc1NTU3NWFiOTIwMDZjNDk3MjcxYTM2MDI1",
+  "snapshot_id": "MTY1MzQyMjEzNywwMDAwMDAwMGIxYjcxOGIzMDRjZTkyZjRhMzA4NmM1MWMxNTE0Mzgx",
   "tracks": [
     {
       "added_at": "2020-10-28 09:50:29",
@@ -43,8 +43,8 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "2000s Songs",
-        "url": "https://open.spotify.com/album/0HvKpKZAJYcvfdKoD8UIoE"
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
       "artists": [
         {
@@ -54,7 +54,7 @@
       ],
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/7jxu1xilREQM8KAZlvr2iG"
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Day & Age (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -455,6 +439,22 @@
       "duration_ms": 226680,
       "name": "In My Place",
       "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
     },
     {
       "added_at": "2022-03-23 15:16:45",
@@ -519,6 +519,22 @@
       "duration_ms": 241853,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -683,22 +699,6 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "When The World Comes Down",
-        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gives You Hell",
-      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
         "name": "The Long Road",
         "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 207466,
       "name": "Someday",
       "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "When The World Comes Down",
+        "url": "https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gives You Hell",
+      "url": "https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -779,6 +795,22 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Real Gone",
+      "url": "https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -791,54 +823,6 @@
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Never Say Never",
-      "url": "https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308933,
-      "name": "Thank You For Loving Me",
-      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
-      },
-      "artists": [
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -863,6 +847,22 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308933,
+      "name": "Thank You For Loving Me",
+      "url": "https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -879,6 +879,38 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Never Say Never",
+      "url": "https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
         "name": "More Than You Think You Are",
         "url": "https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8"
       },
@@ -891,6 +923,22 @@
       "duration_ms": 228706,
       "name": "Unwell",
       "url": "https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -925,6 +973,22 @@
       "url": "https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO"
     },
     {
+      "added_at": "2021-12-22 06:29:20",
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka"
+    },
+    {
       "added_at": "2020-10-28 09:50:29",
       "album": {
         "name": "Just Enough Education To Perform",
@@ -939,22 +1003,6 @@
       "duration_ms": 205066,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "Under The Iron Sea",
-        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 240386,
-      "name": "Nothing In My Way",
-      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -987,6 +1035,22 @@
       "duration_ms": 284373,
       "name": "Hear You Me",
       "url": "https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Under The Iron Sea",
+        "url": "https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 240386,
+      "name": "Nothing In My Way",
+      "url": "https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1059,6 +1123,38 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
+        "name": "C'Mon C'Mon",
+        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
         "name": "Spirit: Stallion Of The Cimarron (Music From The Original Motion Picture)",
         "url": "https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8"
       },
@@ -1071,6 +1167,22 @@
       "duration_ms": 284066,
       "name": "Here I Am - End Title",
       "url": "https://open.spotify.com/track/0gJBPDy458wPeWGHei3TvO"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 223853,
+      "name": "Stop And Stare",
+      "url": "https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1155,22 +1267,6 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Songs From An American Movie: Learning How To Smile",
-        "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -1187,6 +1283,22 @@
       "duration_ms": 222440,
       "name": "Into the Night (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/5Hv1QAbRWrUSUHaT0CmnMS"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Songs From An American Movie: Learning How To Smile",
+        "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
+      },
+      "artists": [
+        {
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1335,22 +1447,6 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Welcome Interstate Managers",
-        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
-      },
-      "artists": [
-        {
-          "name": "Fountains Of Wayne",
-          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Hey Julie",
-      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
         "name": "Something to Be",
         "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
       },
@@ -1363,6 +1459,22 @@
       "duration_ms": 256600,
       "name": "Ever the Same",
       "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Hey Julie",
+      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1397,10 +1509,10 @@
       "url": "https://open.spotify.com/track/08kTO4EW0jb07zNsCNM83w"
     },
     {
-      "added_at": "2021-12-22 06:29:20",
+      "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g"
       },
       "artists": [
         {
@@ -1408,25 +1520,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/5t514bZ4eZPtKJbKfuZJCA"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "evan and jaron",
-        "url": "https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy"
-      },
-      "artists": [
-        {
-          "name": "Evan And Jaron",
-          "url": "https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Crazy for This Girl",
-      "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
+      "duration_ms": 271800,
+      "name": "Stuck In A Moment You Can't Get Out Of",
+      "url": "https://open.spotify.com/track/3xjTuTBaihydhSC7ByNoSb"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1447,18 +1543,18 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
-        "name": "Cradlesong",
-        "url": "https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX"
+        "name": "evan and jaron",
+        "url": "https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy"
       },
       "artists": [
         {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+          "name": "Evan And Jaron",
+          "url": "https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Her Diamonds",
-      "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
+      "duration_ms": 202026,
+      "name": "Crazy for This Girl",
+      "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1475,6 +1571,22 @@
       "duration_ms": 181613,
       "name": "So Long Goodbye",
       "url": "https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
+        "name": "Cradlesong",
+        "url": "https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Her Diamonds",
+      "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
     },
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1507,118 +1619,6 @@
       "duration_ms": 347373,
       "name": "Make This Go On Forever",
       "url": "https://open.spotify.com/track/33Hgpos7EfwgEQOLrF8U30"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "How To Dismantle An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 274120,
-      "name": "Original Of The Species",
-      "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "Twelve Stops And Home (Deluxe)",
-        "url": "https://open.spotify.com/album/5Ai60Vctzaepu3zjS0NDaE"
-      },
-      "artists": [
-        {
-          "name": "The Feeling",
-          "url": "https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Never Be Lonely",
-      "url": "https://open.spotify.com/track/6EU03ZqHP5PQnyGsDYLOYJ"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "The Blessed Hellride",
-        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 272360,
-      "name": "The Blessed Hellride",
-      "url": "https://open.spotify.com/track/3SwUqAno7BWDUVov8ae8Vb"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "All About Chemistry",
-        "url": "https://open.spotify.com/album/76cYzaSTDXhd0UTipRCVZF"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 248826,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/6JZYxCV6Fu5edOZYeptlck"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "I'll Keep Your Memory Vague",
-      "url": "https://open.spotify.com/track/1RYy00jUPPA8Dr8nTuRb05"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "It's Not Over....The Hits So Far",
-        "url": "https://open.spotify.com/album/6hn4a3mFIw3FTUIVQWGSEE"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 255253,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7KPTwEENcZ5r4KJ6FHmhLP"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "Day & Age (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "I Can't Stay",
-      "url": "https://open.spotify.com/track/2zdpz8sk3rkh0fLYabLjmj"
     }
   ],
   "unique_name": "00s Pop Rock",

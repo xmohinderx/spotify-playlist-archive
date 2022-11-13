@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMGExMDliMDA5MDZjMmY4NDJiMzVmMjZhMzIyNDdhZGMy",
+  "snapshot_id": "MTU5ODU0NDYyNSwwMDAwMDAwMDhkMDcxZDQ5ZDdiZDUzYTFlZjA5MDYzZGZkMTRhNTVi",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -83,8 +83,8 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "summer songs we can all scream",
-        "url": "https://open.spotify.com/album/5W8VeZlcDbng3hSwqj3NMN"
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
       "artists": [
         {
@@ -92,9 +92,25 @@
           "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
         }
       ],
-      "duration_ms": 212160,
+      "duration_ms": 212973,
       "name": "Lovin' Each Day",
-      "url": "https://open.spotify.com/track/5We8U1rJ1goAhxPRasZtK4"
+      "url": "https://open.spotify.com/track/61fUmn6wYvU7qS62wNvQFN"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -115,6 +131,26 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Timber (feat. Ke$ha)",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -127,6 +163,26 @@
       "duration_ms": 303373,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "So Sick - Trending 2022",
+        "url": "https://open.spotify.com/album/2F8IYHbkXSfseWu87SZSon"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart",
+      "url": "https://open.spotify.com/track/29BZPPHOPkAUnc8Fvb6VUI"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -167,26 +223,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "So Sick - Trending 2022",
-        "url": "https://open.spotify.com/album/2F8IYHbkXSfseWu87SZSon"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart",
-      "url": "https://open.spotify.com/track/29BZPPHOPkAUnc8Fvb6VUI"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -215,6 +251,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -251,6 +303,26 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Lighter (feat. KSI)",
+        "url": "https://open.spotify.com/album/4Fhgi0Jr4OpapEwNNSHhdK"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        }
+      ],
+      "duration_ms": 182439,
+      "name": "Lighter (feat. KSI)",
+      "url": "https://open.spotify.com/track/5lWUeSYO61UYgNlFlqcwYl"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -283,6 +355,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Onka's Big Moka",
         "url": "https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z"
       },
@@ -299,22 +387,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Lighter (feat. KSI)",
-        "url": "https://open.spotify.com/album/4Fhgi0Jr4OpapEwNNSHhdK"
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 182439,
-      "name": "Lighter (feat. KSI)",
-      "url": "https://open.spotify.com/track/5lWUeSYO61UYgNlFlqcwYl"
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -331,22 +415,6 @@
       "duration_ms": 245493,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -387,6 +455,46 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "7/27 (Deluxe)",
+        "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
+      },
+      "artists": [
+        {
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Work from Home (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -407,6 +515,26 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Douha (Mali Mali)",
+        "url": "https://open.spotify.com/album/7MnQlAenFwY2m2TAgni2py"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 171586,
+      "name": "Douha (Mali Mali) (Edit)",
+      "url": "https://open.spotify.com/track/1supkf9D4Obm2yTHqug3m8"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Come and Get Your Love",
         "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
       },
@@ -423,6 +551,70 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "No Judgement",
+        "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "No Judgement",
+      "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -435,6 +627,74 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 223078,
+      "name": "Send My Love (To Your New Lover)",
+      "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Kiss (Deluxe)",
+        "url": "https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -487,6 +747,46 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Flowers (feat. Jaykae and MALIKA)",
+        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Flowers (feat. Jaykae and MALIKA)",
+      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -499,26 +799,6 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Douha (Mali Mali)",
-        "url": "https://open.spotify.com/album/7MnQlAenFwY2m2TAgni2py"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 171586,
-      "name": "Douha (Mali Mali) (Edit)",
-      "url": "https://open.spotify.com/track/1supkf9D4Obm2yTHqug3m8"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -587,22 +867,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "No Judgement",
-        "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "No Judgement",
-      "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
       },
@@ -635,22 +899,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -667,22 +915,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+      "duration_ms": 203653,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -751,26 +995,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Flowers (feat. Jaykae and MALIKA)",
-        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 197209,
-      "name": "Flowers (feat. Jaykae and MALIKA)",
-      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
+      "duration_ms": 390861,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -791,22 +1027,6 @@
       "duration_ms": 289000,
       "name": "Superstar (feat. Matthew Santos)",
       "url": "https://open.spotify.com/track/7dltD9eEX7X1zk8JJ9BS0e"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 390861,
-      "name": "Freedom! '90 - Remastered",
-      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -863,22 +1083,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Diamonds (Deluxe)",
-        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Are You Ready For Love? - Remastered",
-      "url": "https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -891,6 +1095,22 @@
       "duration_ms": 212446,
       "name": "Pretty Shining People",
       "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Are You Ready For Love? - Remastered",
+      "url": "https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -927,6 +1147,38 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Alexis Jordan",
+        "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/0NP65tx92g74w3VMwcTodj"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/7zTbBG1yo6VUHbcqT2pAke"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "The Soul Sessions",
         "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
       },
@@ -939,6 +1191,22 @@
       "duration_ms": 260013,
       "name": "Super Duper Love",
       "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -979,6 +1247,22 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 169866,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1099,6 +1383,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 323240,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "I Wanna Feel",
         "url": "https://open.spotify.com/album/18hwLKK9KK28ceLoxjPCG3"
       },
@@ -1111,6 +1411,22 @@
       "duration_ms": 186066,
       "name": "I Wanna Feel",
       "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1171,6 +1487,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Some Pop Music",
+        "url": "https://open.spotify.com/album/7ofkglCgOvjdJxdribErq5"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7j7DXq9CXWjMqCK13ShuPR"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Sax",
         "url": "https://open.spotify.com/album/5rywm2MmNo44XiEXaVyMJ8"
       },
@@ -1187,50 +1519,50 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Send My Love (To Your New Lover)",
-        "url": "https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU"
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 223078,
-      "name": "Send My Love (To Your New Lover)",
-      "url": "https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l"
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Kids Dance Party Music",
-        "url": "https://open.spotify.com/album/3IJxyZ07BQS9q5oCZScKV2"
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
         }
       ],
-      "duration_ms": 289493,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/1K93JM7sOGRDKab1I7fPRd"
+      "duration_ms": 245120,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
     },
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Big Machine's Women Of Country",
-        "url": "https://open.spotify.com/album/0QLRhFhMtWxiiyu36tzGn6"
+        "name": "Show Your Pride 2021",
+        "url": "https://open.spotify.com/album/2hXkN4hk2lHAJZQc7QRuqE"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5pJvzBpE1KSMxEgMg5Ft31"
+      "duration_ms": 325266,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/7fH2OYpXWSEzlbQwiKx7Gi"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1255,8 +1587,24 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5jSAkaiC1BBKZQSZ7wFYOY"
+        "name": "Pop Royalty",
+        "url": "https://open.spotify.com/album/15WQObBzFWbMEeoUjSjHYl"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/5P7doOWGZOnz0tFvlQwcNA"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA"
       },
       "artists": [
         {
@@ -1268,73 +1616,9 @@
           "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
         }
       ],
-      "duration_ms": 197333,
+      "duration_ms": 198066,
       "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/3bDpEvIfU5lk8Hd066WSuN"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Paper Planes - Homeland Security Remixes",
-        "url": "https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1lKrkGoVEsc1a4xcllm7S2"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Some Pop Music",
-        "url": "https://open.spotify.com/album/7ofkglCgOvjdJxdribErq5"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7j7DXq9CXWjMqCK13ShuPR"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "\u041e\u0442\u043d\u043e\u0432\u043e \u043d\u0430 \u0443\u0447\u0438\u043b\u0438\u0449\u0435",
-        "url": "https://open.spotify.com/album/3Zg0yN1OnJDk2l92pwJ9yA"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/4PTDjIzld7QGs6oLMMnDQ6"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Happy Pop Hits",
-        "url": "https://open.spotify.com/album/76wKct7lPoAwqWpsK0udJt"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/0SzzPmWCx2jmTBxxRxeHe0"
+      "url": "https://open.spotify.com/track/2fHruzatznikGKFeL9Gujm"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1355,102 +1639,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "NOW That's What I Call Music, Vol. 59",
-        "url": "https://open.spotify.com/album/7Dt2L4GbuzNlvCJ09M6McQ"
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
         }
       ],
-      "duration_ms": 233946,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/0j12Gr44QXICpHG970RbR7"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Lunchtime",
-        "url": "https://open.spotify.com/album/5fUSu7UJxB5jvs2NgjNFxP"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "Best Day Of My Life - Single Version",
-      "url": "https://open.spotify.com/track/7kC61aMy8hJQpOPiCY4WVM"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Summer Hits of the 10s",
-        "url": "https://open.spotify.com/album/3Cc3sTKGBCesLQcpNS3f3e"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Timber (feat. Ke$ha)",
-      "url": "https://open.spotify.com/track/2oE4qb8ivlZ22iNV1d4ExE"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Show Your Pride 2021",
-        "url": "https://open.spotify.com/album/2hXkN4hk2lHAJZQc7QRuqE"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 325266,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/7fH2OYpXWSEzlbQwiKx7Gi"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",
-        "url": "https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm"
-      },
-      "artists": [
-        {
-          "name": "Alexis Jordan",
-          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/6tt4efR3UZTHVc7jqFTjDw"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Pop Royalty",
-        "url": "https://open.spotify.com/album/15WQObBzFWbMEeoUjSjHYl"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/5P7doOWGZOnz0tFvlQwcNA"
+      "duration_ms": 235850,
+      "name": "Sunchyme",
+      "url": "https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax"
     },
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1471,178 +1671,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Pop para Trabalhar",
-        "url": "https://open.spotify.com/album/4tY8vHR2QnJ5UcrUmJmzcG"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/2zSj1qCEpRPfmxvg27AOBd"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Feel Good Friday",
-        "url": "https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0zXG0Iyr3kCQzdAcaIGeVs"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Latino #1\u00b4s 2014",
-        "url": "https://open.spotify.com/album/3otejlOBV8y1P2FAcWZVfw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/6reeYMdka9BetPRvgOgUEK"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "10s Hits",
-        "url": "https://open.spotify.com/album/03JMmwbub1R9mGvxnGnOVX"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 169866,
-      "name": "Boom Clap",
-      "url": "https://open.spotify.com/track/5CPthiLc7Ui1fLEqTGikdr"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Bright Idea",
-        "url": "https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG"
-      },
-      "artists": [
-        {
-          "name": "Orson",
-          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
-        }
-      ],
-      "duration_ms": 254786,
-      "name": "Bright Idea",
-      "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "7/27 (Deluxe)",
-        "url": "https://open.spotify.com/album/0pCPQnnke1GVs5KVmGX3Wq"
-      },
-      "artists": [
-        {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Work from Home (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/46eqQnyvItTxMsLXcCLg4Q"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Busy Earnin'",
-        "url": "https://open.spotify.com/album/3yGjfDm1H2UdqTh15y96UI"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 179635,
-      "name": "Busy Earnin'",
-      "url": "https://open.spotify.com/track/43tncrOBxBVimilLyZQAtF"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "You've Come A Long Way Baby",
-        "url": "https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 323240,
-      "name": "Praise You",
-      "url": "https://open.spotify.com/track/395MOXgcUtrIDu6hfDpqvG"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Alternative Rock Hits",
-        "url": "https://open.spotify.com/album/1fjR2m5ekIQyuV4tbxH06s"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/1hQ27dZufEZdQyS73d2iWa"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Crowd Pleasers",
-        "url": "https://open.spotify.com/album/3BqbDAKBHbtZCaJkXLxdco"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Inner Smile",
-      "url": "https://open.spotify.com/track/2vbT6Z2ba7cqk4U2CGtOV9"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "Pop Hits 2015",
         "url": "https://open.spotify.com/album/3ZagUWHI0FtnJ4PJflqUGR"
       },
@@ -1659,50 +1687,18 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Songs for Smiling",
-        "url": "https://open.spotify.com/album/42B34LRfKk5xXlcrFx1W10"
+        "name": "Bright Idea",
+        "url": "https://open.spotify.com/album/1hkpfGagWyjViaKQlkwrnG"
       },
       "artists": [
         {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+          "name": "Orson",
+          "url": "https://open.spotify.com/artist/5zgc8pooHxd4un0F49YaCJ"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/0DYTsIJg2SsTWbV6YGBqEa"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "90s Party",
-        "url": "https://open.spotify.com/album/4TnC3CrRmzlULobxl4M3SU"
-      },
-      "artists": [
-        {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
-        }
-      ],
-      "duration_ms": 235850,
-      "name": "Sunchyme",
-      "url": "https://open.spotify.com/track/7okVXMtqISm1MlIn0wTRHR"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "We Love the 90s",
-        "url": "https://open.spotify.com/album/4vgQHB2rOCnCi3Ii6aDIZZ"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' On Up",
-      "url": "https://open.spotify.com/track/6SfqfTcvlNDOMRe8N6FxOT"
+      "duration_ms": 254786,
+      "name": "Bright Idea",
+      "url": "https://open.spotify.com/track/1zy1Rc0OFMaLOXjQkp14Ae"
     }
   ],
   "unique_name": "Feel Good Friday",

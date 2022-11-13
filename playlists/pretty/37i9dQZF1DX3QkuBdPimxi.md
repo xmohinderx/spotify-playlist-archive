@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 
 > Gather 'round and enjoy these far out songs about outer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 82 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 211 likes - 82 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Why Does the Sun Shine?](https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:36 |
 | 2 | [See You On The Moon](https://open.spotify.com/track/1yr5hO90Bn3fZ8SL3dZnIq) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [For The Kids Three](https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A) | 4:08 |
-| 3 | [Down To Earth \- From "WALL\-E"](https://open.spotify.com/track/0QW4f576qW87zABAstv43j) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 5:58 |
+| 3 | [Down to Earth \(feat\. Soweto Gospel Choir\)](https://open.spotify.com/track/6QGWsMkxSv2l3Ae3jlsENi) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Rated PG](https://open.spotify.com/album/2r2ARjGkLgHq9FaZW1ytzO) | 5:58 |
 | 4 | [Spaceship Adventure](https://open.spotify.com/track/2iq4lWFcgzzAie7b6X52CM) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:46 |
 | 5 | [The Planets, Op\. 32: IV\. Jupiter, the Bringer of Jollity](https://open.spotify.com/track/3a0f1P42ynxsfOsMEAg05b) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Stuttgart Radio Symphony Orchestra](https://open.spotify.com/artist/4vEzvgseeeyXbDCBomJOCR), [Sir Roger Norrington](https://open.spotify.com/artist/2nXNvTKpp7LSEXNUMFOd1t) | [Holst: The Planets, Op\. 32 \- Elgar: Serenade for Strings in E Minor, Op\. 20](https://open.spotify.com/album/0RlLLYNV9yQHBpWQDuelFw) | 7:47 |
 | 6 | [Big Bang Theory Theme](https://open.spotify.com/track/5FCPN8g30PRH7lLgxDh9LQ) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Hits from Yesterday & the Day Before](https://open.spotify.com/album/1688ZIcsPfE49MucDVRCyU) | 1:45 |
 | 7 | [The Ballad of Davy Crockett \(in Outer Space\)](https://open.spotify.com/track/55EQ8G6yRRK23iPHRL6g7A) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 2:17 |
-| 8 | [Rocketship Run](https://open.spotify.com/track/3zD7tSEQsz9of8VuD9bwWv) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6DL5ZTWLrApqcpOXN2ljj9) | 2:29 |
+| 8 | [Rocketship Run](https://open.spotify.com/track/1IqMA5kXJmSHQFp1pmwONM) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Rocketship Run](https://open.spotify.com/album/1NjU58M2PnHO49md3QinoM) | 2:24 |
 | 9 | [Space Mountain \- From "Space Mountain"](https://open.spotify.com/track/3ORWL1CHflFhOVxd7FJoi1) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Walt Disney Records The Legacy Collection: Disneyland](https://open.spotify.com/album/6Tl4sqA4gMSbqAAs2T0C41) | 3:10 |
 | 10 | [Time To Shine \(Moon\)](https://open.spotify.com/track/09U5srVCG0hdZefpsM1Jr0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:38 |
-| 11 | [A Spaceman Came Travelling](https://open.spotify.com/track/4d5r3aYp7Jjb61wiPuMoDR) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Classic Christmas 2020](https://open.spotify.com/album/3aZDxDuk98IVkRVCawPElH) | 5:02 |
+| 11 | [A Spaceman Came Travelling](https://open.spotify.com/track/5hO2SJYP4vsO6h7ms8Rvyg) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Spanish Train And Other Stories](https://open.spotify.com/album/2VKCa7HezfKgbB51cAEyW7) | 5:11 |
 | 12 | [End Credits \- Soundtrack Reissue \(2002\)](https://open.spotify.com/track/5NHDsqd1YrYqTJxaLddelw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [E.T\. The Extra Terrestrial](https://open.spotify.com/album/3Pood3AEXTNuRqXlEvLLUf) | 3:49 |
 | 13 | [Mr\. Spaceman](https://open.spotify.com/track/4RwKHW0RildivYQPsHIXIK) | [Randy Kaplan](https://open.spotify.com/artist/03kKiot9h8in4294vr5FUm) | [Trippin' Round the Mitten](https://open.spotify.com/album/0eYISwHoDkDuZjugV63c1E) | 4:36 |
 | 14 | [Space Doggie](https://open.spotify.com/track/2KG08g6GvZiXVL5OMN3JKo) | [Amy Liz](https://open.spotify.com/artist/1bguJ0c7PghwoaLvBIVU3A) | [Kid Hits](https://open.spotify.com/album/3eEFhktny6sy2XXwxp1pZJ) | 2:17 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 71 | [Moon Song](https://open.spotify.com/track/7oMRN5SmuyBVo5yH6liMh2) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 3:49 |
 | 72 | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/album/4vdEa3KgM0G1paD9aMhLh2) | 3:49 |
 | 73 | [Rock It Ship](https://open.spotify.com/track/3Nmz8V8ZSXRbCPyLoDdl56) | [Will's Jams](https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm) | [Wordplay](https://open.spotify.com/album/54tyzspMcGt2KpidXNtBK9) | 3:01 |
-| 74 | [Like an Astronaut](https://open.spotify.com/track/34sYzTy9q7ouoM2scDVRQY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Like an Astronaut](https://open.spotify.com/album/3v8sX3q4ZcldPstroObwXz) | 3:18 |
+| 74 | [Like An Astronaut](https://open.spotify.com/track/5tSp0Z398lThGSk3pCd3ZY) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Little Wild Universe](https://open.spotify.com/album/5YloE8LbD6eVwtyzKTGRAp) | 3:18 |
 | 75 | [Our Solar System](https://open.spotify.com/track/79XvorCRGVZKHh0On5dUbu) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 2:27 |
 | 76 | [Rocketship](https://open.spotify.com/track/4pdHSqozv29veF69S3LLEi) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [The Mik Maks](https://open.spotify.com/album/4b6GbQQXuAGsmsgpjuMQI0) | 3:00 |
 | 77 | [Rocketship](https://open.spotify.com/track/210qL7sxTZPsEyhOzeQwz3) | [Stacey Peasley](https://open.spotify.com/artist/1liqgCbpEcVHazfOTQuzB5) | [RSVP](https://open.spotify.com/album/732lslRRMJ1bJ92sh9x2fg) | 2:31 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3QkuBdPimxi.md) - [plain]
 | 81 | [Mikey the Marsian](https://open.spotify.com/track/4EyzNFEd8U2fKUyEYOB45N) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:28 |
 | 82 | [I Want to Be an Astronanut](https://open.spotify.com/track/3hCzvS4eN5VyZUtzwQEYjR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [A Rocket to the Moon](https://open.spotify.com/album/7usbIPqIwsVe91YvmJbwpK) | 1:42 |
 
-Snapshot ID: `MTYzODgwNjA2OCwwMDAwMDAwMDk3YmI5NGQzODdhZTM2ZjRiNDFmODU4ZjlmMDI3YjBk`
+Snapshot ID: `MTYzODgwNjA2OCwwMDAwMDAwMDQ0NjZjNmZjNjYxMWE1ZjNlY2ZkNGE4OGMzMWRlMjNi`

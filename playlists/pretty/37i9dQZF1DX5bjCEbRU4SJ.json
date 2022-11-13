@@ -1,13 +1,29 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
-  "num_followers": 562389,
+  "num_followers": 562407,
   "original_name": "Calm Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMDFiYTgxNTliNjIwMDE2YjNhMzRkYWIwYzJmODNlZjFi",
+  "snapshot_id": "MTU0NDU2NDk1MSwwMDAwMDAwMDU4ZjYwOTQ4YWRmMDQ1ZWQ1ZWU1N2QxOWFlNDU0ZDUx",
   "tracks": [
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Music From Big Pink (Remastered)",
+        "url": "https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 274493,
+      "name": "The Weight - Remastered 2000",
+      "url": "https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -43,6 +75,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -55,6 +103,42 @@
       "duration_ms": 215011,
       "name": "Mad Sounds",
       "url": "https://open.spotify.com/track/75n7mraeMycQOl2sDGYaTe"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -91,22 +175,6 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Diamonds (Deluxe)",
-        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Your Song - Remastered",
-      "url": "https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -159,6 +227,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "The Velvet Underground (45th Anniversary)",
+        "url": "https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 339533,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -171,6 +255,38 @@
       "duration_ms": 150546,
       "name": "This Old Dog",
       "url": "https://open.spotify.com/track/2RwOqicYzwMSuzKzHx78jm"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Closing Time (Remastered)",
+        "url": "https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb"
+      },
+      "artists": [
+        {
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "I Hope That I Don't Fall In Love With You",
+      "url": "https://open.spotify.com/track/23Uv9xqLumDqEBNIdHhCcO"
+    },
+    {
+      "added_at": "2018-12-11 21:49:11",
+      "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -221,20 +337,20 @@
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
-      "added_at": "2018-12-11 21:49:11",
+      "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+      "duration_ms": 174172,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -335,18 +451,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Blake Mills",
-        "url": "https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu"
+        "name": "Sing Into My Mouth",
+        "url": "https://open.spotify.com/album/0jMBAo2pk2cEE0aJ3WseMl"
       },
       "artists": [
         {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
         }
       ],
-      "duration_ms": 256442,
-      "name": "Wintersong",
-      "url": "https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP"
+      "duration_ms": 212486,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/7dP4k5nDDwI1qMDoz5m0f6"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -367,22 +487,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Time Without Consequence",
         "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
@@ -395,6 +499,38 @@
       "duration_ms": 297120,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Blake Mills",
+        "url": "https://open.spotify.com/album/5DGnrJSx7nuDC8WrD2EOyu"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 256442,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/4yXl4ddCMdM7TTDcylRzLP"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -703,6 +839,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Calming Ballads",
+        "url": "https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Sometimes I Wish We Were An Eagle",
         "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
       },
@@ -767,6 +919,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Oliver James",
+      "url": "https://open.spotify.com/track/0ksHQqgNvM8IBmOfXOh5qt"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Good Grief (Expanded Edition)",
         "url": "https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj"
       },
@@ -811,6 +979,22 @@
       "duration_ms": 208773,
       "name": "Middle Names",
       "url": "https://open.spotify.com/track/4ewGoo3c885Ipyn57KlPV3"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Can't Take You With Me",
+      "url": "https://open.spotify.com/track/0sWuU0uDypaZ5rwUGqSKtS"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -931,6 +1115,22 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "L'\u00e9t\u00e9 au calme : Chill 2022 hits",
+        "url": "https://open.spotify.com/album/0HCbRJGrvEyYxMTbqJFQOG"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 253960,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/0rhtHBFuEfAJ6s35Dk7aCA"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "City Music",
         "url": "https://open.spotify.com/album/5wrVAAdcCRz1MaL5J7LIyk"
       },
@@ -943,198 +1143,6 @@
       "duration_ms": 252800,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/2xwwhTueFfnCVRLXvja1Gu"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Things Are Really Great Here, Sort Of...",
-        "url": "https://open.spotify.com/album/0f5OVYWoq5Rts3V1EnJ5Fa"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 211364,
-      "name": "Giant of Illinois",
-      "url": "https://open.spotify.com/track/3ma4G9BfQ3iUrrCu4i00nQ"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Calming Ballads",
-        "url": "https://open.spotify.com/album/4nGVLxjxJZcgw5f6I4hqi0"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/6zgeog6feHU0gpFeG8UbGa"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Good Mood Fool",
-        "url": "https://open.spotify.com/album/2IzDjQKBPexTK0BZsAHhxk"
-      },
-      "artists": [
-        {
-          "name": "Luke Temple",
-          "url": "https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/7Gp9a203CEybAAeHfegOFX"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "A Treasury",
-        "url": "https://open.spotify.com/album/1D5FYlYISuZXWBeVut4879"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "Northern Sky",
-      "url": "https://open.spotify.com/track/185WVQvIuyv2FF0mAFbRvI"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Monsters Of Folk",
-        "url": "https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL"
-      },
-      "artists": [
-        {
-          "name": "Monsters Of Folk",
-          "url": "https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Dear God (Sincerely M.O.F.)",
-      "url": "https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Live at St. Ann's Warehouse",
-        "url": "https://open.spotify.com/album/5bNYT2lytZ65zLGHUkB8Hu"
-      },
-      "artists": [
-        {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "Wise Up",
-      "url": "https://open.spotify.com/track/5hUWvHrxArc3IbbF2UIpjg"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "North Americana",
-        "url": "https://open.spotify.com/album/4s9YcRjOOV0m22xeSGIRGl"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 224892,
-      "name": "Off the Main Drag",
-      "url": "https://open.spotify.com/track/3jdlFiVKRNpLQboArLidxn"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "70s Rock Essentials",
-        "url": "https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 274493,
-      "name": "The Weight - Remastered 2000",
-      "url": "https://open.spotify.com/track/1ctcjestGXW13ej3kJjvou"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Harlem River",
-        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 340934,
-      "name": "Wild Side (Oh the Places You'll Go)",
-      "url": "https://open.spotify.com/track/1mxXTUlRQQnjjFT9h0Dt0p"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "The Rebirth of Venus",
-        "url": "https://open.spotify.com/album/5zWYVGdrBJWJ5tQeJLRIB3"
-      },
-      "artists": [
-        {
-          "name": "Ben Lee",
-          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
-        }
-      ],
-      "duration_ms": 265186,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/624ognXflulQ7rLPurMM2v"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Wit's End",
-        "url": "https://open.spotify.com/album/4yVsTp41xK16NMHyNQYuyy"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 337226,
-      "name": "County Line",
-      "url": "https://open.spotify.com/track/4RIneS2VuDIzSaN4WRbFLD"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Fires In Distant Buildings",
-        "url": "https://open.spotify.com/album/1erl73PdaM7Liy07kBZZmN"
-      },
-      "artists": [
-        {
-          "name": "Gravenhurst",
-          "url": "https://open.spotify.com/artist/1nqfBsX1oJ0jTDTyA18xH9"
-        }
-      ],
-      "duration_ms": 313826,
-      "name": "Nicole",
-      "url": "https://open.spotify.com/track/4N9OaYVfmzxcOOPNFyAUjV"
     }
   ],
   "unique_name": "Calm Down",

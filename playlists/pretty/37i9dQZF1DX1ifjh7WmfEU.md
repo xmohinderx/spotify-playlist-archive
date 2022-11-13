@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Piano music for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,339 likes - 141 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,359 likes - 141 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 71 | [Insouciance](https://open.spotify.com/track/5iXYIu04vkN1pT11qqKBM9) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Insouciance](https://open.spotify.com/album/2a50JLyn7zSyXwUVWI5Mrl) | 2:03 |
 | 72 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 |
 | 73 | [Resplendence](https://open.spotify.com/track/5k9AFzNbx9ODY0VRgz3uWw) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Resplendence](https://open.spotify.com/album/4Bz9JY3wKoFL6zAAIL5uat) | 2:54 |
-| 74 | [Ichi](https://open.spotify.com/track/73HaoXa8YdZlfAmcbMl8oI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Sayuru](https://open.spotify.com/album/4mghw6f4bbNJDMqpBPimGb) | 3:00 |
+| 74 | [Ichi](https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/2iN6rDyhD5EDMx8gWJkZXP) | 3:00 |
 | 75 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 |
 | 76 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 |
 | 77 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 140 | [Epenthesis](https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav) | [Lauren Hawley](https://open.spotify.com/artist/5UDWPRjs2Qvdp65nqY3f2r) | [Epenthesis](https://open.spotify.com/album/0aH8bPdKkSPIAyTGi7mM3D) | 2:51 |
 | 141 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 |
 
-Snapshot ID: `MTY2Mzk0MjQzNywwMDAwMDAwMGE2NWE5NWQwMTllMmMzZjBjOTA3MGU5NjhlOGU3YjI2`
+Snapshot ID: `MTY2Mzk0MjQzNywwMDAwMDAwMDNjNmNjZDhiOGViZGRkYjgyZjliN2NlY2YxOGM1Y2M5`

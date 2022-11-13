@@ -1,12 +1,12 @@
 {
   "description": "pretending to be Lana Del Rey in pigtail buns, chokers, knee socks, and chunky platforms\n",
-  "num_followers": 29369,
+  "num_followers": 29406,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4NzIzMiwwMDAwMDAwMGVlOGI0Mjg0MmUzNGNkM2FmOGRkYzBlNDUyM2Q1MmRj",
+  "snapshot_id": "MTY2NDQ4NzIzMiwwMDAwMDAwMGEyOWQyZWI5YjYyNTAxMDA0MmRjNDI5NDQyYzAxZWQz",
   "tracks": [
     {
       "added_at": "2022-09-29 21:33:52",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
+    },
+    {
+      "added_at": "2022-09-29 21:33:52",
+      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Bubblegum Bitch",
-      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2022-09-29 21:33:52",
@@ -367,22 +383,6 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb"
-    },
-    {
-      "added_at": "2022-09-29 21:33:52",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -395,6 +395,38 @@
       "duration_ms": 193030,
       "name": "Snap Out Of It",
       "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+    },
+    {
+      "added_at": "2022-09-29 21:33:52",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
+    },
+    {
+      "added_at": "2022-09-29 21:33:52",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 251186,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/7brQHA2CgQpcMBiOlfiXYb"
     },
     {
       "added_at": "2022-09-29 21:33:52",
@@ -495,6 +527,22 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 257563,
+      "name": "Knee Socks",
+      "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
+    },
+    {
+      "added_at": "2022-09-29 21:33:52",
+      "album": {
         "name": "deadroses",
         "url": "https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q"
       },
@@ -507,6 +555,22 @@
       "duration_ms": 245172,
       "name": "idfc",
       "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
+    },
+    {
+      "added_at": "2022-09-29 21:33:52",
+      "album": {
+        "name": "Hey Hey",
+        "url": "https://open.spotify.com/album/2kBhmJtzqR7y1An4GIi3TB"
+      },
+      "artists": [
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "duration_ms": 215648,
+      "name": "Don\u2019t Wait",
+      "url": "https://open.spotify.com/track/11yN6oWrPPJXafJCUkSz2e"
     },
     {
       "added_at": "2022-09-29 21:33:52",
@@ -527,22 +591,6 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 257563,
-      "name": "Knee Socks",
-      "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
-    },
-    {
-      "added_at": "2022-09-29 21:33:52",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -555,22 +603,6 @@
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
-    },
-    {
-      "added_at": "2022-09-29 21:33:52",
-      "album": {
-        "name": "Don't Wait",
-        "url": "https://open.spotify.com/album/1JHhLtK2R7tb9YmDxWF1qD"
-      },
-      "artists": [
-        {
-          "name": "Mapei",
-          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
-        }
-      ],
-      "duration_ms": 215771,
-      "name": "Don\u2019t Wait",
-      "url": "https://open.spotify.com/track/5YGkuGGtMAlHe6CKCQPtOP"
     },
     {
       "added_at": "2022-09-29 21:33:52",
@@ -763,38 +795,6 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "Breezeblocks",
-      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
-    },
-    {
-      "added_at": "2022-09-29 21:33:52",
-      "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 199593,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
-    },
-    {
-      "added_at": "2022-09-29 21:33:52",
-      "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-09-29 21:33:52",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM"
+      "duration_ms": 227080,
+      "name": "Breezeblocks",
+      "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
     }
   ],
   "unique_name": "reblog",

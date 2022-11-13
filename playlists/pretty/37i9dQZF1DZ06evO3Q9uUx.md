@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,345 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,361 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 30 | [PLATE](https://open.spotify.com/track/7qkmotkXzezx5iJmU7xxfB) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 |
 | 31 | [YAKWTFGO \(feat\. Kali Uchis\)](https://open.spotify.com/track/6rrP1mBTbBkJCP7FsBe0SM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:42 |
 | 32 | [MOTIONLESS](https://open.spotify.com/track/4Oa6lFMvD8fCb3ciPJGe3D) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:27 |
-| 33 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 |
-| 34 | [AUTOMATIC \(feat\. Doe Boy & 42 Dugg\)](https://open.spotify.com/track/0PDno6z7Wn9gPYLn75QEMZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:09 |
-| 35 | [Whip It](https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Whip It](https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t) | 3:33 |
+| 33 | [Whip It](https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Whip It](https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t) | 3:33 |
+| 34 | [FREE BIA \(1ST DAY OUT\)](https://open.spotify.com/track/7g3hyRYCjM27HBHgYRp8MI) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 1:54 |
+| 35 | [HOLLYWOOD](https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [HOLLYWOOD](https://open.spotify.com/album/5NOk5HClnVQvho2fB1p3eN) | 3:33 |
 | 36 | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/track/1K2xnKlPqXhLuTwPkQxmrJ) | [Vice](https://open.spotify.com/artist/0q4NrXqJnc367PieejuROJ), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Piñata \(feat\. BIA, Kap G & Justin Quiles\)](https://open.spotify.com/album/6rYMjTdVEaCgI25ZVNwVca) | 3:18 |
 | 37 | [Perfect](https://open.spotify.com/track/7v5fIXqgB0nd5KgekRDe4M) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Mc Pikachu](https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5) | [Perfect](https://open.spotify.com/album/3cPb7WoJvMKZdJNL9nU2UT) | 3:27 |
 | 38 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [FUNGSHWAY](https://open.spotify.com/track/1FPKkqAxaTAxLsercL5u4g) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FUNGSHWAY](https://open.spotify.com/album/42wFEFxRYzwQiDyKIYn5pO) | 2:59 |
 | 50 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 
-Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDAyMjFlZTdkZmE3MTAzNDNhNTY0ZjRjYWVlNDNjYmFiZQ==`
+Snapshot ID: `Mjc4MDQ0NjYsMDAwMDAwMDBmMjBiODc2Y2I4OGU3YjE5M2Y4MzEzMzBhZTgzZmRlMw==`

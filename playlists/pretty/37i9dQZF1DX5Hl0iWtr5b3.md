@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > All your favorite tracks from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,666 likes - 63 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,941 likes - 63 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

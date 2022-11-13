@@ -4,7 +4,7 @@
 
 > ¡Presentamos a La Santa Grifa, nuestro artista Radar!
 
-204 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
+205 songs - 11 hr 5 min - [published](https://open.spotify.com/playlist/0fKCWW6MspqU4I86JKzsYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,9 +56,10 @@
 | [Dm](https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Dm](https://open.spotify.com/album/1ZFsAQSEvEv7eczKu7kaSA) | 3:03 | 2022-05-13 |  |
 | [Dualidad](https://open.spotify.com/track/73fEAatuIG7pWfTUHC8Ood) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Dualidad](https://open.spotify.com/album/7B2B1gWf8uxlM75gnxCXtO) | 3:29 | 2022-05-12 | 2022-07-22 |
 | [Dueles Tan Bien](https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Dueles Tan Bien](https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq) | 2:54 | 2021-10-01 | 2022-05-12 |
+| [El Fantasma](https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Fantasma](https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I) | 3:02 | 2022-11-12 |  |
 | [El Joven De San Luis](https://open.spotify.com/track/2Wm28MbiEKH6vPiaEEWn6i) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [El Joven De San Luis](https://open.spotify.com/album/3c7EsCogS6DYbRd2ivJun3) | 3:24 | 2022-05-09 | 2022-07-25 |
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2021-10-01 | 2022-05-12 |
-| [El Tony](https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Tony](https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu) | 2:45 | 2022-06-03 |  |
+| [El Tony](https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Tony](https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu) | 2:45 | 2022-06-03 | 2022-11-13 |
 | [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2021-10-01 | 2022-05-11 |
 | [Elektro](https://open.spotify.com/track/7dFgscXqE9tIXVYrbHQX7t) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:25 | 2022-05-11 | 2022-07-24 |
 | [Ella En Mi Cama](https://open.spotify.com/track/7xFTTeiNmK0vxRk4m0w1Tx) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Tiempos \(Re\-Issue\)](https://open.spotify.com/album/2gSgn4VsIQzuoXC6b27GNH) | 2:51 | 2021-10-01 | 2022-04-29 |
@@ -137,7 +138,7 @@
 | [Ponte las Pilas](https://open.spotify.com/track/0Ol6QpL6m1l3SaVzJfjcJw) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Buscando Rebeldía](https://open.spotify.com/album/6a2378NiZoEA3wy8CGEuFE) | 2:27 | 2022-05-11 | 2022-07-07 |
 | [Por Eso Tú](https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Por Eso Tú](https://open.spotify.com/album/47ozRi9t0GGajhkEFFeuDv) | 3:12 | 2022-05-09 | 2022-08-30 |
 | [Por Unos Centavos](https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Por Unos Centavos](https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm) | 3:12 | 2022-05-13 |  |
-| [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-11-09 |  |
+| [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-11-08 |  |
 | [Pueblo Chico](https://open.spotify.com/track/1trHf08KWk0D6JaY53ogIy) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC) | [Pueblo Chico](https://open.spotify.com/album/3u0Lrsim4vXAW8kkW4nX90) | 3:02 | 2022-05-13 | 2022-07-23 |
 | [Que Si Fumo Tanto](https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL) | 3:40 | 2022-05-13 |  |
 | [Que Si Fumo Tanto](https://open.spotify.com/track/7AZH7Vn8THaOuaCmrKlMAk) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/1UsVwNTkhyn85UWR6RBbam) | 3:40 | 2022-05-13 | 2022-07-28 |

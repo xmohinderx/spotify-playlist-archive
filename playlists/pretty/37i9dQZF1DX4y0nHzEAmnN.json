@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1240,
+  "num_followers": 1241,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDIzNWY5YjRjYjk3MzA2NmM3NTIwOWQxYTBlZjJmZmFj",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGUzMjY0ZWI3NDc1YmZjODRmZTlhODM0NTQ0OGE0OTYz",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -539,6 +539,22 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
+        "name": "Life Lessons for Children from LittleBabyBum",
+        "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 90900,
+      "name": "Going Back to School Today",
+      "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
         "name": "Bailar\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 101040,
       "name": "Aguita Y Jabon",
       "url": "https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -579,18 +611,18 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
         }
       ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -611,22 +643,6 @@
       "duration_ms": 171800,
       "name": "Kids Just Love to Brush",
       "url": "https://open.spotify.com/track/6mb6WxUM7Fxh7GeCQalkW9"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -819,34 +835,18 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Las Mejores Canciones para Ni\u00f1os",
-        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
+        "name": "Musi",
+        "url": "https://open.spotify.com/album/3hQg3lG0o4lk7cs931Lfby"
       },
       "artists": [
         {
-          "name": "HooplaKidz En Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 129536,
-      "name": "La Canci\u00f3n del Ba\u00f1o",
-      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
-        "name": "Social Emotional Learning",
-        "url": "https://open.spotify.com/album/6V5lv2YxGokgdUbem3ReYL"
-      },
-      "artists": [
-        {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
-        }
-      ],
-      "duration_ms": 91874,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4NlTNo92Y3Uvked8mVmKNw"
+      "duration_ms": 64208,
+      "name": "Del plato a la boca",
+      "url": "https://open.spotify.com/track/6azaeRET8nonPwKhlOjS8D"
     }
   ],
   "unique_name": "Daily Rutina",

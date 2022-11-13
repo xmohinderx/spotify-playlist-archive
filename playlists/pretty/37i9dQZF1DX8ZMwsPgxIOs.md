@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Prospa
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,044 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,110 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 60 | [Heavy](https://open.spotify.com/track/7sPerpuqSL5EfHNQ7QuQPd) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Heavy](https://open.spotify.com/album/5wBnyoQ8ADse95YJtdxiox) | 6:22 |
 | 61 | [Convergence](https://open.spotify.com/track/43yGlgA7sSLMHyXeu6suv9) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Convergence](https://open.spotify.com/album/02Pkx2GKuvKuPs4wOKq2Zk) | 4:23 |
 | 62 | [Bring The Noise](https://open.spotify.com/track/5f5yWTulFlrBE0DhPtVnEd) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:27 |
-| 63 | [Bodies Of Water](https://open.spotify.com/track/3b8b4TaeU6eRbWPhMKWold) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Bodies Of Water](https://open.spotify.com/album/6alqpbqcg6wlWbgV9uloU3) | 5:04 |
+| 63 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 |
 | 64 | [Ignite](https://open.spotify.com/track/4DTIk73G5Eur9dGeIoZPPv) | [Ramu](https://open.spotify.com/artist/1UUitgHAhWlBTcwXTIQeYl) | [Ignite](https://open.spotify.com/album/3LIFa2bkZNXW5aQjIcae3U) | 6:08 |
 | 65 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
-| 66 | [Metaphysical](https://open.spotify.com/track/6E33IvQYP6gvjwEVLNNcCv) | [KetaMyk](https://open.spotify.com/artist/0CsWDiY6VeJf5Zbsd6b7Lp) | [Better Days](https://open.spotify.com/album/29X0F2UY0U5C09Id4orzp3) | 5:00 |
+| 66 | [Metaphysical](https://open.spotify.com/track/7yzrZU9VSpyb7WY8hfiCAc) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 5:03 |
 | 67 | [Mare's Nest](https://open.spotify.com/track/0irFHzbR7gMo1WpAp9FKRh) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Mare's Nest](https://open.spotify.com/album/1dwa6pWl6Lv51tYEO1fCOe) | 6:37 |
 | 68 | [Lizard Den](https://open.spotify.com/track/0gdS1Bf65Q9Rm8Ps92uWpv) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Lizard Den](https://open.spotify.com/album/5SNEHRYenRSwt6a0dsJNxB) | 5:07 |
 | 69 | [BOYZ](https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 99 | [Maladaptive Daydreamer](https://open.spotify.com/track/1OMzDNa8XPcc7ry1lHY0JB) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [Maladaptive Daydreamer](https://open.spotify.com/album/0Zdz4k1rSM83jjR4CKflrl) | 7:17 |
 | 100 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDYzMDE4NmNiNjdiNmViZjE5NmM1YjA0NmQ5YzUwZjEw`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDVjZjdlOTQ0MTY3YjgzZmMxYWFmN2E5OWNjOWVjNzM1`

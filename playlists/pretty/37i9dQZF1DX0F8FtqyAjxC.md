@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 
 > <a href="spotify:artist:3NKVm2Jedcf6ibJr6pMUVx">Jayda G</a>'s favorite tracks\. Updated regularly\. Curated by Jayda G\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,934 likes - 60 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,972 likes - 60 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 16 | [Groove Me](https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [Choice Cuts](https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY) | 3:04 |
 | 17 | [It's You Girl](https://open.spotify.com/track/4JOGkiA8bpmpv9Xy0NWNbA) | [Universal Love](https://open.spotify.com/artist/3VBt6nOfrVaEr3iRDXI6rP), [Dennis Rodgers](https://open.spotify.com/artist/2P7t08MLrKQN9zeCSuDyk6) | [Philadelphia Soul \- Rarities](https://open.spotify.com/album/77j7xefFvOKQuSLeR80Uii) | 3:45 |
 | 18 | [Free Your Mind](https://open.spotify.com/track/0NnskZoHyK1fgK4wy3DQ7E) | [Record Player](https://open.spotify.com/artist/4UfgH6qo2MpDAkkrTWcULS) | [Soul Cal](https://open.spotify.com/album/31Cu3f8Ao0OyhcIVmSJZmV) | 3:50 |
-| 19 | [When Love Calls](https://open.spotify.com/track/4VDmyTwRKj6go51r15DCGu) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [Winning Combinations](https://open.spotify.com/album/5EOSeQnJ1yAvgKy5igt3m2) | 4:32 |
+| 19 | [When Love Calls](https://open.spotify.com/track/490n3MPr9AL7oiDXIJrIiB) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [The Best Of Atlantic Starr](https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D) | 4:33 |
 | 20 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 |
 | 21 | [Sing Sing](https://open.spotify.com/track/3XVArphWCaPIQlk9uYtvXn) | [Gaz](https://open.spotify.com/artist/2sOcDFja2Y0QVXhlNkQlDO) | [Gaz](https://open.spotify.com/album/3VmR7Xu3yZ0qXqkl9E6vct) | 7:15 |
 | 22 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 43 | [Lovin' Is Really My Game](https://open.spotify.com/track/3Ua5tojEvJ2YzibMzlrs6t) | [Brainstorm](https://open.spotify.com/artist/6JPBUFrfF5w5whOPk2w0kp) | [Stormin'](https://open.spotify.com/album/72kfJfNjTjoghbTJ0WoHPs) | 4:59 |
 | 44 | [We Gonna Rock This Place](https://open.spotify.com/track/4TxZdik0UxuIKvwLsfNx7U) | [Universal Love](https://open.spotify.com/artist/3VBt6nOfrVaEr3iRDXI6rP) | [Philadelphia Soul \- Rarities](https://open.spotify.com/album/77j7xefFvOKQuSLeR80Uii) | 4:53 |
 | 45 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 |
-| 46 | [I Don't Want to Be a Freak \(But I Can't Help Myself\)](https://open.spotify.com/track/2N5t1DbVS69NKnLxqvSUiL) | [Dynasty](https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7) | [Dynasty: The Best of...](https://open.spotify.com/album/5HjQlUnDRs1nhP4dv7XA4m) | 7:27 |
+| 46 | [I Don't Want to Be a Freak \(But I Can't Help Myself\)](https://open.spotify.com/track/0T6oYSJ8kLPN7a02xpDRZ3) | [Dynasty](https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7) | [Your Piece of the Rock](https://open.spotify.com/album/5lXVx3OhHsMNYdru5x0ANY) | 7:23 |
 | 47 | [Do It To The Music \- Club Mix 2012 \- Remaster](https://open.spotify.com/track/22vOG4kQWxsMqOcmor7Or8) | [Raw Silk](https://open.spotify.com/artist/0Wx7o6CB4c1cNwAIer3KNJ) | [Do It To the Music](https://open.spotify.com/album/2Pv5LkSkXQgJeCGjHrUOjq) | 6:39 |
 | 48 | [Glued To The Spot \(Club Mix\)](https://open.spotify.com/track/64HiEsxEDGWADdETM1yPLl) | [Cheryl Glasgow](https://open.spotify.com/artist/4BCHbFPr7Wxkqu4MVuJFyH) | [Glued To The Spot](https://open.spotify.com/album/1Q8daCRGBygXRLigsxWi6I) | 4:56 |
 | 49 | [Music Trance](https://open.spotify.com/track/3iLXg9PLuHxFNGQrNv2vlZ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Music Trance](https://open.spotify.com/album/7gr9gLflbW5DrgGQB9kcen) | 5:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0F8FtqyAjxC.md) - [plain]
 | 59 | [Outta Sight / Dark Lavender Interlude](https://open.spotify.com/track/3WsSVBM9oPmHlXjxKIKV59) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Big Baby DRAM](https://open.spotify.com/album/7CHEC1kVstFUDPTxB3Hz2V) | 5:53 |
 | 60 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
 
-Snapshot ID: `MTY2NTc1NTE1OCwwMDAwMDAwMDNiMzIyZGMzMTZmYjc3NTAzOWQyOTgxYzVmNjA4YjQ3`
+Snapshot ID: `MTY2NTc1NTE1OCwwMDAwMDAwMDIxMzhjMTIxMjkzMmY2NTJmMmU1YTUwNTQ1NjRhZWFk`

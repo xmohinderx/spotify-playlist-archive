@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Leith Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,086 likes - 160 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,324 likes - 160 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 70 | [Spirit Finds Yours](https://open.spotify.com/track/5a784jrAMlhuqpp46yXIPd) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Eagle, Idaho](https://open.spotify.com/album/1NKTNi0HMBHs4KH1QPrO2l) | 3:21 |
 | 71 | [Miles Are Wide](https://open.spotify.com/track/7CGfeNaZoVLJRBKB15B1jK) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [What Remains](https://open.spotify.com/album/69vVun5LtcOyTDYJEp5UEb) | 3:54 |
 | 72 | [all in good Time,](https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [all in good Time,](https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh) | 5:01 |
-| 73 | [Night Moves](https://open.spotify.com/track/3Nr8caV6QzUWyXEL6VlDYY) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Night Moves \(Morgan Page Throwback Mix\)](https://open.spotify.com/album/0GMglKRMxCRLuoGIHiPNjt) | 3:08 |
+| 73 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 |
 | 74 | [Time Can Prove You Wrong](https://open.spotify.com/track/21k5ZKcSxFK52Nk0pBa75t) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong](https://open.spotify.com/album/11ba8kyyWANbRHO7v1BtYN) | 4:20 |
 | 75 | [Thank You Very Much](https://open.spotify.com/track/1dImzi5IhVREgUQYl8kW35) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Thank You Very Much](https://open.spotify.com/album/4hjgLe9m4EOUo17Ors1BQv) | 5:27 |
 | 76 | [Coyotes](https://open.spotify.com/track/0Ap3RZ5lv127IZZxUpcBku) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Coyotes](https://open.spotify.com/album/1VunM6vUqbKR0ASBarnSOi) | 6:27 |
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 134 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 |
 | 135 | [Years](https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Years](https://open.spotify.com/album/7EQCaA5lc3mMuOm22sam4G) | 2:59 |
 | 136 | [Miracles](https://open.spotify.com/track/2gZ6nr4rWkXfvSrjXQPqVw) | [Peter Matthew Bauer](https://open.spotify.com/artist/4ZMQlzOFrvOftjt1rjl8YR) | [Miracles](https://open.spotify.com/album/08lVhGcNnx8ewWYeZdfaWM) | 4:57 |
-| 137 | [When We Believed](https://open.spotify.com/track/2M96CvONxv50KSBXmk8y7P) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [When We Believed](https://open.spotify.com/album/4B0rlS0ZJibT9OaywaCuRv) | 4:01 |
+| 137 | [When We Believed](https://open.spotify.com/track/3Qw58rdnA6mmmhrg8C3Bv7) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Looking Glass](https://open.spotify.com/album/00hzdJCM7mCbwkDRgN7r5n) | 4:01 |
 | 138 | [the 1](https://open.spotify.com/track/3mipsRC26uYJ3oHCiVbJtu) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [the 1](https://open.spotify.com/album/1a850BtWWf4Z3Id0O9i7s4) | 3:10 |
 | 139 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 140 | [Don't Go, Don't Leave](https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Don’t Go, Don’t Leave](https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey) | 3:15 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 159 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 |
 | 160 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGNkZGUzNTk0ZjQxMzdhZWYxMjE1NDRkYmY4ZjYwYWRk`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDQyZjI1Mzg1NDM0YTI2NjAwYWQ1NTQzNmI1NDRhY2Yx`

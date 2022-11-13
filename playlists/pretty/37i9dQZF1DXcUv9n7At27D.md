@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の秋に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,169 likes - 42 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,200 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 11 | [コルドバの午後](https://open.spotify.com/track/6BRJqVR4Ss91JApYNKYtUo) | [Mine Kawakami](https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb) | [Nostalghia\~Kiyomizu\~](https://open.spotify.com/album/6kmGx5WxG7VQugcjdozNVL) | 4:18 |
 | 12 | [夜想曲 第20番 嬰ハ短調「レント・コン・グラン・エスプレッシオーネ」\(遺作\)](https://open.spotify.com/track/1CDk88Mxf5tsjky4H8zzeR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hisako Kawamura](https://open.spotify.com/artist/49AcsFEdqWxwuQnTKA2pbq) | [夜想\(ノットゥルノ\)\~ショパンの世界](https://open.spotify.com/album/7BXkqS0HYTo1Oc9JwJlHrh) | 4:50 |
 | 13 | [スカボロー・フェア](https://open.spotify.com/track/4arOaA68Hn65jpwWd5iQcu) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [角田隆太](https://open.spotify.com/artist/4dkZxyYDjevC6xNGRmrUyQ), [広田智之](https://open.spotify.com/artist/4GH4AR07jWn8wTGEvBkFxs), [Yasuji Ohagi](https://open.spotify.com/artist/1VMxb6VCRfw7GNnlIGRlnN) | [ケルト・スピリッツ](https://open.spotify.com/album/7cnkTkfziyo6NKtwHvs9OL) | 3:29 |
-| 14 | [エリーゼのために, WoO.59](https://open.spotify.com/track/3eDDzGTY4YiQpZZTKGdzCM) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Rika Miyatani](https://open.spotify.com/artist/5EA6C7SnqfKFFAimI60cq1) | [クラシック・ピアノ名曲20選](https://open.spotify.com/album/2u4bkkvgtv3FCZ6DWdWDCE) | 3:14 |
+| 14 | [エリーゼのために, WoO.59](https://open.spotify.com/track/7w2WJmfMigMYyQMe2xJ9LH) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Rika Miyatani](https://open.spotify.com/artist/5EA6C7SnqfKFFAimI60cq1) | [音楽の玉手箱 Vol\. 1 \- カンタービレ \-](https://open.spotify.com/album/5xChfBf6JMus8YKm0rbioS) | 3:14 |
 | 15 | [Sky](https://open.spotify.com/track/7i0brgKvOuMHlYK6yvSmA8) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 2:33 |
 | 16 | [Songs My Mother Taught Me, Op\. 55 No\. 4, B\. 104 No\. 4 \(Arr\. Y\. Bandoh\)](https://open.spotify.com/track/7mR8mlsXniL9kAYhzfdhul) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [尾池亜美](https://open.spotify.com/artist/3cS5HS2INEMFnSOXCqcZrq), [Rino Kageyama](https://open.spotify.com/artist/7LW78dwND9q20GsutrLDwX) | [ZINGARO!!!](https://open.spotify.com/album/5OXK3sZG2btbOBCfnceWuz) | 3:16 |
 | 17 | [Voyage](https://open.spotify.com/track/6ayNdgQ7ISIGQW6TBelkKl) | [Ichiro Takamoto](https://open.spotify.com/artist/0e6KRrsS9hkrOFoj5fFvFa) | [シャコンヌ・オリエンターレ2](https://open.spotify.com/album/4nuVKjPj8d7HqX8VhOgJsh) | 5:14 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 41 | [トロイメライ](https://open.spotify.com/track/5YH6qLexMGY9pUNLrq3WBq) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Suguru Matsutani](https://open.spotify.com/artist/0cGtHLKfga7uvnXld79LK7) | [WORKS](https://open.spotify.com/album/0Ou5yZUCihKLoiy6zfwk2I) | 3:15 |
 | 42 | [Liszt: 献呈\(シューマンの歌曲による\) S.566](https://open.spotify.com/track/2BcoxFxJYKgNJ04OvcjIHa) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト・リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 3:56 |
 
-Snapshot ID: `MTY2Mzc1MTc1MiwwMDAwMDAwMDczNDNkY2YxZGVhZDBkNTYwN2E2NzM4ZDI4Zjc0Nzc4`
+Snapshot ID: `MTY2Mzc1MTc1MiwwMDAwMDAwMDBmMWYzNDUzNGQ2ZWIxMjAzMTE3NDlkMjFiOTM4ODc3`

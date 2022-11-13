@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,155 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,258 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Askim](https://open.spotify.com/track/6Y7SslHFxMnUTAXqbQkAAN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Askim](https://open.spotify.com/album/4gxcNezXVxIb0PXUQq3alZ) | 2:53 |
-| 2 | [Mood](https://open.spotify.com/track/0qqbNTj8OkWlNTJEEgzJQf) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Workout Music 2022](https://open.spotify.com/album/4aegtSjryhnuq0Kz5IUaZh) | 2:31 |
+| 2 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 |
 | 3 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 |
 | 4 | [J'ai tout su](https://open.spotify.com/track/3fgEIHsl6ecyAK1rpAxBIY) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:09 |
 | 5 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 11 | [SEVILLA](https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SEVILLA](https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN) | 2:55 |
 | 12 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
 | 13 | [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 |
-| 14 | [D O D O](https://open.spotify.com/track/0rePoIzqYJuHidvvOxYJmu) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/2JMSc4BycSB8lkaZQyT3Bm) | 2:59 |
+| 14 | [D O D O](https://open.spotify.com/track/4DhGbk8afMpvkU1f9Cqwyf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:59 |
 | 15 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 |
 | 16 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 |
 | 17 | [West Connect \(feat\. Central Cee\)](https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 3:32 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 23 | [Next Up \- S4\-E2, Pt\. 1](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S4\-E2](https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE) | 2:00 |
 | 24 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 |
 | 25 | [Keșke](https://open.spotify.com/track/457tUZZugWzzX60RDE55pt) | [\#SS](https://open.spotify.com/artist/3jNqYOJqmN6uQxwG9bRcsU), [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Keșke](https://open.spotify.com/album/0PNe8ruEaoLVDGIXDyZzA7) | 2:36 |
-| 26 | [emiliana](https://open.spotify.com/track/58ZvQ7RAd8PPLUU6lmNy7X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Pop Hits Now](https://open.spotify.com/album/1YDU8JDHG7xdWimuRRdAaf) | 2:44 |
+| 26 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 |
 | 27 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 |
 | 28 | [Suavemente](https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Suavemente](https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA) | 2:39 |
 | 29 | [Non Stop](https://open.spotify.com/track/27jrtXnXRFZEAH1sQavMTJ) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Loyaal](https://open.spotify.com/album/0WkK3Bx6NqOyQe7JSU0Vkz) | 2:22 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 56 | [Luna](https://open.spotify.com/track/4zNQMKy3jLlWvAah2s1WGl) | [Ladron](https://open.spotify.com/artist/4ukBIpYtjftGdlgAnc1E5V), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Moeman](https://open.spotify.com/artist/0wCD0zZxxhHU91kYZolMnu) | [Luna](https://open.spotify.com/album/6UBnhnwPBXn96Nc7B58csV) | 3:22 |
 | 57 | [Falling For U](https://open.spotify.com/track/0V6UyAGvtcfNOEslahu96d) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Falling For U](https://open.spotify.com/album/3eIM4SbuUYGBrmlyvBfgbi) | 3:01 |
 | 58 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
-| 59 | [4am](https://open.spotify.com/track/1yWQYwTDGsn93JGCjPXEbO) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/0AcMKNScocSogFjaZ41LRy) | 3:13 |
+| 59 | [4am](https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT) | 3:13 |
 | 60 | [Le temps](https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \(Donum Novae\)](https://open.spotify.com/album/1wfBteislDojq5pAYJufME) | 3:17 |
 | 61 | [BERIZ](https://open.spotify.com/track/1MpuM9oqDtjMZ2tVImMG23) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [BERIZ](https://open.spotify.com/album/4jsWNnuGu4LnaYAQ4wWfQA) | 2:55 |
 | 62 | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 84 | [Mango \- Extrait de la BO de « En Passant Pécho »](https://open.spotify.com/track/2xFfjs4zBBmwX9nsZPkcat) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Mango \(Extrait de la BO de « En Passant Pécho »\)](https://open.spotify.com/album/0qod7rru7wX4DgxE0oZoN1) | 3:04 |
 | 85 | [Souhila](https://open.spotify.com/track/6RdwpQ01MVtJ10tyJDaxkE) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Souhila](https://open.spotify.com/album/6cS3kHSrmFMJFcisWs2lHR) | 2:44 |
 
-Snapshot ID: `MTY2ODA2MzMwMywwMDAwMDAwMDg2NTg1YTc3ODkzYjg5NWEwYzMwOWQwYjU1ODRhOTY3`
+Snapshot ID: `MTY2ODA2MzMwMywwMDAwMDAwMGI2ZjFlNTg5YjZlZDVlZjQzOWIwMTAzY2Y2MTM0NzEz`

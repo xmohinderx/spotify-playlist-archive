@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 237165,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 234410,
       "name": "Everything I\u2019ve Ever Learned",
       "url": "https://open.spotify.com/track/4AwMdsbhwjEdi2RBHTG3ip"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 219320,
       "name": "Fellowship",
       "url": "https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 219320,
       "name": "Fellowship",
       "url": "https://open.spotify.com/track/6F0KpWbx4b06dnCCmgLEzx"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 151223,
       "name": "if we lived on the moon",
       "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
@@ -1099,6 +1099,24 @@
       "duration_ms": 184524,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    {
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/7IgYjX0xQMqWEBwIjF8vjM"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184534,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/41AlN934iycErjzCzwtO3C"
     },
     {
       "album": {
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 185600,
       "name": "No Love (feat. Clara Nowhere & Joseph Schiano di Lombo)",
       "url": "https://open.spotify.com/track/74YSDKKb2dsI78UbFx3ZeH"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 196301,
       "name": "Queen",
       "url": "https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "religion (u can lay your hands on me)",
       "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/115g7lVvFUEtJoOTCCGVnh"
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 182426,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 162170,
       "name": "sims",
       "url": "https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y"

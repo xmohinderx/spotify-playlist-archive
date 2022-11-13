@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Druhh e Drehh
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,509 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,627 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 35 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 36 | [Cash](https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Cash](https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT) | 3:34 |
 | 37 | [Gestão Inteligente](https://open.spotify.com/track/7hqoLCS3rhWYoWUBOgakaU) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Gestão Inteligente](https://open.spotify.com/album/0vVSwwO55in8qT3PimHJtJ) | 1:58 |
-| 38 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
-| 39 | [Dolce & Gabbana](https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Dolce & Gabbana](https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw) | 2:25 |
+| 38 | [Dolce & Gabbana](https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Dolce & Gabbana](https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw) | 2:25 |
+| 39 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
 | 40 | [Royal Salute](https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Royal Salute](https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH) | 4:39 |
 | 41 | [Contando Dinheiro](https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh) | [Intocável](https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw) | 2:54 |
 | 42 | [REALENGO FREESTYLE](https://open.spotify.com/track/697CJ1elAb3P9w3vFitdk9) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Rare G](https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH), [Lotta](https://open.spotify.com/artist/4fpd51wyl42OhrUPK7R5aJ) | [REALENGO FREESTYLE](https://open.spotify.com/album/5al1p5r83PShBKtSgLWicv) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Luz, Jóias e Mulheres](https://open.spotify.com/track/3aRSIp03rHzCFlDswnV28s) | [Gão Dubroonks](https://open.spotify.com/artist/4Lfajgf4mlwi2BNRzOWOGD), [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Fabulouz Fabz](https://open.spotify.com/artist/4UnhXK8jTPU0ginUIQyTHH) | [Luz, Jóias e Mulheres](https://open.spotify.com/album/5fkWWjA0VChNs4hqpqJoUq) | 3:25 |
 | 50 | [Tukikis](https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Tukikis](https://open.spotify.com/album/0NarRuAKpqlB8Aet14O24n) | 2:54 |
 
-Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMDhjY2I0MWM5YzU0ZTU3OTdhZDgwZGE5MzQxODBkNGNi`
+Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMGU3ZTFmMTkwMTY3MjAzYjQ1ODlkYmMzYjdiZGY5NmYx`

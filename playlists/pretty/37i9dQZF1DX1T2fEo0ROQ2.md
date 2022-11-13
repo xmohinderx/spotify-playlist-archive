@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,852 likes - 300 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,911 likes - 300 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,7 +264,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 254 | [Sylarna](https://open.spotify.com/track/3qbZGh0o76ZCq2dI32cF9o) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 4:04 |
 | 255 | [Supine](https://open.spotify.com/track/1jobGkripmhfeTzWOiZ1sZ) | [Clifford Solum](https://open.spotify.com/artist/7fU4kMtmQKYqCJoJGEEjnu) | [Supine](https://open.spotify.com/album/46XPmCP5AoDWKY8ljH9bkk) | 3:50 |
 | 256 | [Orbit](https://open.spotify.com/track/0k2baNK3JldkN4gBfIJUOo) | [Epic Centre](https://open.spotify.com/artist/1LKqgLACkIlBWmt3nbm7iX) | [Orbit](https://open.spotify.com/album/3l95szTHiJot7IHB5luSS8) | 2:04 |
-| 257 | [Cross My Heart](https://open.spotify.com/track/4bSnRystHv5Th9z3TlcYHF) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 2:28 |
+| 257 | [Cross My Heart](https://open.spotify.com/track/50BBDsisFzJGiFbg6FDRAV) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI) | 2:28 |
 | 258 | [Strength From Inside](https://open.spotify.com/track/3MC9nswECDn5zuqkFQG1sB) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:20 |
 | 259 | [Mandala](https://open.spotify.com/track/1aeKotbZ2wBYuOspDawtwo) | [Lhokanda](https://open.spotify.com/artist/1264capaf0mZntpqmhyXA9) | [Mandala](https://open.spotify.com/album/0l4Q81jBgK9xsxQ8iJFtZx) | 2:17 |
 | 260 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 |
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 295 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 |
 | 296 | [Sun Gazer](https://open.spotify.com/track/1EXOPJwnGEJfBnScmeaESH) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Yet Undiscovered](https://open.spotify.com/album/5DKtUx5YIWfeT0LKsrCY2R) | 4:30 |
 | 297 | [Flower](https://open.spotify.com/track/3aGgKoB5mIx7L00cPwBHSN) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Analogue Nature](https://open.spotify.com/album/5nw0R73IOsPK4ihhJzYvbV) | 4:38 |
-| 298 | [Fragments Café](https://open.spotify.com/track/5oZOOcYruL6mi0EhdxGXrb) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Music For Brainwash, Vol\. 1](https://open.spotify.com/album/3dNga5PFlIBbjQhBdV0kYl) | 3:54 |
+| 298 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 |
 | 299 | [Sangre](https://open.spotify.com/track/6eck4C7AFDsmv8AAwozNa1) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 3:46 |
 | 300 | [Savasana](https://open.spotify.com/track/5OWitBhgqlcQK3xUwibEya) | [Sintrano](https://open.spotify.com/artist/1gecfxcUlZxftgxVjiDMZI) | [Savasana](https://open.spotify.com/album/5tzxDCv7u9ZC2wMuM0cT41) | 2:11 |
 
-Snapshot ID: `MTY2ODE2ODE5NywwMDAwMDAwMGZlNDIwMzgxODYyZWViOWFiMjNmMTllODcxZGEwZDFm`
+Snapshot ID: `MTY2ODE2ODE5NywwMDAwMDAwMGNlMzRlNTZkMWFjZDVkMTM3OWRlODZiZWRkM2U0OTY0`

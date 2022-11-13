@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 
 > Dedicated to all the programmers out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,719 likes - 113 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,189 likes - 113 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 27 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 |
 | 28 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 |
 | 29 | [Red Gold Yesterday](https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ) | 2:18 |
-| 30 | [Above It All](https://open.spotify.com/track/4qAzoVYQQHDM4e4wDaMyt0) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [KEEN: Complete Concentration Vol\. 2](https://open.spotify.com/album/5TkBqGSUW9amp8A72oLyyz) | 2:11 |
+| 30 | [Above It All](https://open.spotify.com/track/4BPjphA5WmmKaJk66jF3oB) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 2:11 |
 | 31 | [Forces of Attraction](https://open.spotify.com/track/4NpX4g7sdnZtgteu1m2m3S) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:03 |
 | 32 | [Nothing It Can](https://open.spotify.com/track/4ecwrnFDSJLlLyZlEH7YGK) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/2ep9D35aw04xUbb8crArYg) | 4:47 |
 | 33 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 37 | [Riverline](https://open.spotify.com/track/4LgL0LKDAVGylgyab5hZWn) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 4:41 |
 | 38 | [Dreamer](https://open.spotify.com/track/1Alcws0xXs4eQDchjn3RGh) | [Abakus](https://open.spotify.com/artist/5EEbMGQOwrTuy51Vin8bL1) | [Departure](https://open.spotify.com/album/63kvEHiTLB6bneB34fM9jJ) | 6:52 |
 | 39 | [Void](https://open.spotify.com/track/2bcXFEJxYaQ1D3GRI4OM3Z) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:42 |
-| 40 | [Finding Atlantis](https://open.spotify.com/track/14RTLH0UikguWPnTUt7kpu) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Finding Atlantis](https://open.spotify.com/album/5Y9r1FIDpDvWvjrgMhuFO2) | 4:27 |
+| 40 | [Finding Atlantis](https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 4:27 |
 | 41 | [chilling by your bedside.](https://open.spotify.com/track/7LKRv9zrKDrLOO8jcFPQxA) | [beeno](https://open.spotify.com/artist/0fbM0EawHro8s9Aee7TDeo) | [decades.](https://open.spotify.com/album/5PbvbQUEdxOhehgtq63wJ9) | 2:46 |
 | 42 | [Second Sun](https://open.spotify.com/track/0vgIkHFK8wpogVc1XCi18F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Second Sun](https://open.spotify.com/album/4J8Pj9kUO58eoafjZlHiLf) | 3:44 |
 | 43 | [India](https://open.spotify.com/track/2j4JVlAbCfUsg0EozCGzkW) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Modeplex Presents Authentic Steyoyoke \#015](https://open.spotify.com/album/4GRRnlEMq09F3kZtDIb2iC) | 8:55 |
@@ -58,22 +58,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 48 | [The Dream](https://open.spotify.com/track/7wlNWkXeVgJZNCVy0EXh7j) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/3eCwJk6D1j7ViqMItXa10G) | 2:33 |
 | 49 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 |
 | 50 | [Angel's Flight](https://open.spotify.com/track/0G0I9cOJjQmKZxIbbqrLiV) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/44YJTNTfQ2PEIBNewBgt0b) | 5:52 |
-| 51 | [So We Won't Forget](https://open.spotify.com/track/6awrjWBzdHqDC3VonsQXzK) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pelota](https://open.spotify.com/album/6geGd2knOKZtFquPpxizBm) | 4:58 |
+| 51 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 |
 | 52 | [\#1](https://open.spotify.com/track/35NyjYJFaJxqbUF2y0jWl1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:27 |
 | 53 | [Our Distance](https://open.spotify.com/track/4FEcEOyyGbPR1cnYMBTRfO) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Domicile](https://open.spotify.com/album/3WU8Qb7Biyfi8BOeK0M3JG) | 5:23 |
 | 54 | [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 |
 | 55 | [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 |
-| 56 | [Dust](https://open.spotify.com/track/090k8UpQw34yVp7h89TNHm) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [iterations \(demos and releases 2016\-2020\)](https://open.spotify.com/album/76rqdANANWeYIBmtl8eGh6) | 3:32 |
+| 56 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 |
 | 57 | [Sunday Glide](https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Kermesse](https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub) | 5:47 |
 | 58 | [Homecoming](https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme) | [Sahamanyu](https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C) | [Homecoming](https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A) | 5:21 |
 | 59 | [Sibyl](https://open.spotify.com/track/5YmjFHheTqiMyhVtBM04lo) | [Hushed](https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn) | [Pillars](https://open.spotify.com/album/5aSe7EH7yhtFGvyQPsVcgF) | 4:03 |
 | 60 | [Smile](https://open.spotify.com/track/2m0TUPv1FW6LoQpxV5l6Lf) | [Dixxy](https://open.spotify.com/artist/3tzNFZuGKTcNypBltcMf4a) | [Smile](https://open.spotify.com/album/1F2N2TDZBfge0Q03ypNo5k) | 3:34 |
 | 61 | [My Funny Valentine](https://open.spotify.com/track/1UWlVOM5NZdkFZobaYeAv5) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Midnight Thoughts](https://open.spotify.com/album/6u1pNJvksMfMkHaZAVOL3a) | 2:41 |
-| 62 | [Bacall](https://open.spotify.com/track/1GQoqhCp0hF85eK4IV0wLv) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/7e1njN30eJ5iKxl9e96XOK) | 4:06 |
+| 62 | [Bacall](https://open.spotify.com/track/1bhSnPeBGo1cSPgjDZXujj) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Noir](https://open.spotify.com/album/74H4kh761bl6UDTOWfYC8G) | 4:06 |
 | 63 | [Bloom](https://open.spotify.com/track/1ajC1DxUxfRTyzhpOcrHd4) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Bloom](https://open.spotify.com/album/3TLh6c8432sO36wuKhtrFM) | 4:36 |
 | 64 | [Iridescence](https://open.spotify.com/track/3RvJhKWy33BYK1aHgJ6NlO) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Chillhop Daydreams 2](https://open.spotify.com/album/3bh5l0g7pcX9eKNywTuIvd) | 2:51 |
 | 65 | [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 |
-| 66 | [L](https://open.spotify.com/track/3odLNZuj6OBuvQJ6PByH2H) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Hohokum \(Original Game Soundtrack\)](https://open.spotify.com/album/1tw5RIi23yCOWlyPKRx8zx) | 4:37 |
+| 66 | [L](https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:37 |
 | 67 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 68 | [Machines Are People Too](https://open.spotify.com/track/4Y7I8njISED3da52cbdbKf) | [B 3 N B i](https://open.spotify.com/artist/1lER5N3Qx6dOfkDkseDeeg) | [IWYMI Volume Four](https://open.spotify.com/album/5bCxD19JPbHXGTe9mzLaaV) | 2:28 |
 | 69 | [Mind](https://open.spotify.com/track/77jK2QjSXOGX3eFxT9Opuk) | [chrms](https://open.spotify.com/artist/4ysxE5dwRvjnXcd5IGCZiB), [Sabu](https://open.spotify.com/artist/7x83EC0xUwygcVSbS6Rwou) | [Lover Boy](https://open.spotify.com/album/7d8Lt4YEN9P6DkaT7FwPd1) | 4:04 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 71 | [Beau](https://open.spotify.com/track/4HlyP1UN4PSkGowgNeYWep) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Flourishing Views](https://open.spotify.com/album/3EwiPwpIygpD2BwEzqbUsw) | 2:17 |
 | 72 | [Stay Near](https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF) | [Luwaks](https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr) | [Sjangeli](https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb) | 2:48 |
 | 73 | [Chasing the Calm](https://open.spotify.com/track/2V9jgt9hxaJjXTfy15DQ9T) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu) | [Ambient Introspection](https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd) | 1:44 |
-| 74 | [Happy Man](https://open.spotify.com/track/50pEmS593x4xb305XdICSP) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Happy Man](https://open.spotify.com/album/5bpn5e1mna0zSiSwPB4g8n) | 3:11 |
+| 74 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
 | 75 | [Kauko](https://open.spotify.com/track/4I0ddznWdICBWy5RHRzsqE) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Kauko](https://open.spotify.com/album/0jjCPuzHwwjvrInsE6p4r5) | 4:27 |
 | 76 | [capable](https://open.spotify.com/track/1ZqVHQlXm0vBzazX60mgcb) | [Jai Gourgaud](https://open.spotify.com/artist/2u47nFG0ezqztjpaTg6Vjd) | [capable](https://open.spotify.com/album/15aolnX64r6fKjDQ9IHsYT) | 2:52 |
 | 77 | [For every man saved a victim will be found](https://open.spotify.com/track/23GeR1VGo3QHeS5UWQ5riO) | [Seasonal Affected Beats](https://open.spotify.com/artist/1fpm7q8YoBTXIiS4jJLPbs) | [In Song](https://open.spotify.com/album/5mqKifgMH0rmB37d1ty7vh) | 4:51 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5trt9i14X7j.md) - [plain]
 | 112 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 |
 | 113 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
 
-Snapshot ID: `MTY2NzgwMjg3MSwwMDAwMDAwMDQ0YTNiNWI2ZTg3ZDQ0NjBjY2QwNDE3ZjE5OWYyZjk1`
+Snapshot ID: `MTY2NzgwMjg3MSwwMDAwMDAwMDE1NzVhNGQ4YWY4NDYyMDc0ZTljNjA4ZWYwZTAwNGU3`

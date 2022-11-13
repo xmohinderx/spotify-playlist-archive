@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,042 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,081 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 54 | [Water Music \(1952\)](https://open.spotify.com/track/1QLUWQvVjAgCTndEJUFfjr) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Tim Ovens](https://open.spotify.com/artist/3DLKeOx3nYj7218ZwWCQew) | [John Cage \- Piano Music](https://open.spotify.com/album/7AT6jZLxRvi4FDFLT3SPVB) | 6:48 |
 | 55 | [Etude aux sons tendus](https://open.spotify.com/track/7GEJ3i3bln9DJ2UabHTaTz) | [Luc Ferrari](https://open.spotify.com/artist/6zaiVGhHTJtQfEUUDd9ORu), [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl), [Iannis Xenakis](https://open.spotify.com/artist/399s62PfwKlLnrLvBjWFYB) | [Musique Concrete 1959 No\. 2](https://open.spotify.com/album/2lQBN5ly6zNXZGcGXAXz42) | 2:48 |
 | 56 | [Postlude from Music for a Sacred Service](https://open.spotify.com/track/145BSsZ7UiS66DQP3paXqY) | [Bülent Arel](https://open.spotify.com/artist/4KnXMlHb6c0xiwsmFMv1Pw) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 4:01 |
-| 57 | [Whirling \(US title: Sonik Re\-Entry\)](https://open.spotify.com/track/2hP3jMgj03EBbanxXXy4Kl) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw) | [Popular Electronics: Early Dutch Electronic Music 1956\-1963](https://open.spotify.com/album/5wBmjxiEWjEByDbTlUMijc) | 2:37 |
+| 57 | [Whirling](https://open.spotify.com/track/2mWkAjNIpkqyblLWVstIV3) | [Tom Dissevelt](https://open.spotify.com/artist/4ItPco4yWLkMWjnYRaqDgw) | [Syncopation](https://open.spotify.com/album/6HhrLi2vVnFL14ld8sOYZM) | 2:34 |
 | 58 | [The Transformation Of Ani](https://open.spotify.com/track/7phdkG6fxDpjY4h874I2j1) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Pioneers Of Electronic Music](https://open.spotify.com/album/63ee2BYCQVmebj0ZgxhxL0) | 9:04 |
 | 59 | [Glissandi \(1957\) \- Remastered](https://open.spotify.com/track/4AhTCNJCZXElqcq2Cf7MnE) | [György Ligeti](https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg), [Florian Bogner](https://open.spotify.com/artist/13HWzYCWCXeJ3pQTswU2Ro), [Carlos Hidalgo](https://open.spotify.com/artist/17kH7SmdDnzTX775K6J0zA), [Germán Toro Pérez](https://open.spotify.com/artist/736qLxb9dAwYNffyVsv3uJ), [Institute for Computer Music and Sound Technology](https://open.spotify.com/artist/1sbBaXpM9zfRXvC8E9W77H) | [Les Espaces Électroacoustiques](https://open.spotify.com/album/1XNAGIqsoZcSDwqjWuCpyn) | 7:39 |
 | 60 | [Elektronische Komposition 1](https://open.spotify.com/track/30tfl3L1CD4JwXhKM8ojfo) | [Herman Heiss](https://open.spotify.com/artist/3EFCInLBLKQH42A4AMmNz0) | [Roots of Electronica Vol\. 1, European Avant\-Garde, Noise and Experimental Music](https://open.spotify.com/album/2KjvA0Bp63Ab4iMDUOTQ1e) | 5:09 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 62 | [The 4 Beasts' Amen: Communion: Scala angelica](https://open.spotify.com/track/1ui3g44yhB54q49SJew7dT) | [Hans\-Ola Ericsson](https://open.spotify.com/artist/7hyDap4bASASc6FEB4AwGE), [Susanne Rydén](https://open.spotify.com/artist/0nOPGVvHRYzJW76c3OiWaX), [Tommy Bjork](https://open.spotify.com/artist/5J58YZbJGx52On04YhsyEo), [Anders Hannus](https://open.spotify.com/artist/73RsH4cR30T8nmEsxgLa3d) | [Ericsson: the Four Beasts' Amen / Melody To the Memory of Lost Friend Xiii](https://open.spotify.com/album/6b6VzFCC4rpMkkTaBMr9iZ) | 8:04 |
 | 63 | [Synchronisms No\. 6](https://open.spotify.com/track/3I0gtCsE6xQtyp0jgCPouV) | [Mario Davidovsky](https://open.spotify.com/artist/0RkeeCvii56vYCER2jY5IH), [Aleck Karis](https://open.spotify.com/artist/5infXBnDBbGBPoWNBslhRH) | [Secret Geometry](https://open.spotify.com/album/5ATviy3QWhI6OuzJiN9tr3) | 7:06 |
 
-Snapshot ID: `MTY2NDg5NDM2MSwwMDAwMDAwMDEyMWUyMTEwNDc2MDM2YjBjY2UzMDViNzQzODVlMGFj`
+Snapshot ID: `MTY2NDg5NDM2MSwwMDAwMDAwMGM1MzNiY2VhODJmZmIxNmU4ZDVmZDllZjhmMWY4MmY0`

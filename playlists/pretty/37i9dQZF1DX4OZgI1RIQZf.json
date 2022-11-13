@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 13222,
+  "num_followers": 13218,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQyNTQ1MSwwMDAwMDAwMDQzYzBhNjJiM2NjMzEwZmIxYThhZWNiYmFmMGNjMjY0",
+  "snapshot_id": "MTY2NzQyNTQ1MSwwMDAwMDAwMGFjZDVlNmRhYmYzMzUwODlmOGNhNjg1ODhiYzc3YjRj",
   "tracks": [
     {
       "added_at": "2022-11-02 21:44:11",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -155,18 +171,34 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "So Jealous",
-        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+        "name": "Carry On The Grudge",
+        "url": "https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC"
       },
       "artists": [
         {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Walking with a Ghost",
-      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+      "duration_ms": 246186,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Right Thoughts, Right Words, Right Action (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5W7631WJASasWPAFFzDpzi"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 167253,
+      "name": "Evil Eye",
+      "url": "https://open.spotify.com/track/6NlE71TbUglmKQVLhE1H8R"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -183,6 +215,38 @@
       "duration_ms": 191040,
       "name": "To Lose My Life",
       "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "So Jealous",
+        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Walking with a Ghost",
+      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Brain Drain",
+        "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2PN0JeaGtkHrlcmwZFWzBM"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -411,22 +475,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "The Physical World",
         "url": "https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs"
       },
@@ -439,6 +487,22 @@
       "duration_ms": 185386,
       "name": "Right On, Frankenstein!",
       "url": "https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -507,6 +571,22 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
+        "name": "Blood Red Moon",
+        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 271546,
+      "name": "Blood Red Moon",
+      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
         "name": "One Thousand Pictures",
         "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
@@ -523,18 +603,18 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Blood Red Moon",
-        "url": "https://open.spotify.com/album/7x67tt2IeXCju0IjT3jCCJ"
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
       },
       "artists": [
         {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
         }
       ],
-      "duration_ms": 271546,
-      "name": "Blood Red Moon",
-      "url": "https://open.spotify.com/track/6LOBCrIpUtcw54KXHWCY70"
+      "duration_ms": 307453,
+      "name": "Skeleton Song",
+      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -587,22 +667,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "I Feel Better",
-        "url": "https://open.spotify.com/album/2vtPjaPz2trtyDsz7ZBpYc"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3FdejSKJNVZaLIr0VcYrTK"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Come Of Age",
         "url": "https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4"
       },
@@ -631,6 +695,22 @@
       "duration_ms": 213640,
       "name": "Skeleton Boy",
       "url": "https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "I Feel Better",
+        "url": "https://open.spotify.com/album/2vtPjaPz2trtyDsz7ZBpYc"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3FdejSKJNVZaLIr0VcYrTK"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -875,6 +955,22 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
+        "name": "Screen Violence: Director\u2019s Cut",
+        "url": "https://open.spotify.com/album/4CGcdvmIwYXn7c65tOKQ4e"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/0ED4kuByM2OBcERl32FgxC"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
         "name": "Skeleton Song",
         "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
       },
@@ -907,66 +1003,18 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Screen Violence: Director\u2019s Cut",
-        "url": "https://open.spotify.com/album/4CGcdvmIwYXn7c65tOKQ4e"
+        "name": "MORBID FASCINATIONS",
+        "url": "https://open.spotify.com/album/0oAwfpXxKIa7CUDZiz2IOu"
       },
       "artists": [
         {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
         }
       ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/0ED4kuByM2OBcERl32FgxC"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Evil Eye Remixes",
-        "url": "https://open.spotify.com/album/3jY0cRA71NmPZCn1I3R2Xg"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 167253,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/5GnHgtA5PUQo9Ifzj53gEM"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Night Songs",
-        "url": "https://open.spotify.com/album/6jWGTM4Zlg2RDD4QkupsQu"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/0oHsGitHEZ9OB6AzAqARuq"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Hardhitting Halloween Hits",
-        "url": "https://open.spotify.com/album/2CHgEwkjnMNavROAqTA77Y"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Pet Sematary (Single Version)",
-      "url": "https://open.spotify.com/track/4R0hIlQuvdDGoXBb8uo1nb"
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/67SU4NdxJNBPikdeTP0Ydc"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -987,38 +1035,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "MORBID FASCINATIONS",
-        "url": "https://open.spotify.com/album/0oAwfpXxKIa7CUDZiz2IOu"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/67SU4NdxJNBPikdeTP0Ydc"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "2000s Halloween",
-        "url": "https://open.spotify.com/album/1LOaZzDyslJNdSnSn1ygRW"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 307453,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/7IOUeLzg5UL627qnywJjBL"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "So Haunted",
         "url": "https://open.spotify.com/album/3WXYeDDrhsJjniE1cKaKeR"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 263773,
       "name": "So Haunted",
       "url": "https://open.spotify.com/track/3aerZL2vEJYNK7Zex54vO7"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
-        "name": "Alternative Hits",
-        "url": "https://open.spotify.com/album/08Vvv6mW4DvU1Q3m8JdbNk"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 246186,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/6CTIg4upL3l8dfpDol9Wai"
     }
   ],
   "unique_name": "Indie Halloween",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > Me and bae = love
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,655 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,660 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 82 | [Love Songs](https://open.spotify.com/track/2zO7frDqm0ut8oY58EqgEz) | [ADORAH](https://open.spotify.com/artist/5ftK3lzR9iapCysM5XBCj2) | [20 Feet Tall](https://open.spotify.com/album/6T8DlBJ7z7q9dc7rzBauUQ) | 2:48 |
 | 83 | [—˚✦ ඔබ + මම ♬ !!! ❀˚](https://open.spotify.com/track/3JxC5UZmAOsmQuyFR0ZMlr) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [closure](https://open.spotify.com/album/17JyDBTfjqukxO3VViUy89) | 2:33 |
 | 84 | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/track/0slVzyDCYPANhtDTpzBgLZ) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Dream No More \(feat\. Ruel & Genesis Owusu\)](https://open.spotify.com/album/4ezUp3Uu9WBPK0DsbQvgGO) | 3:27 |
-| 85 | [i do](https://open.spotify.com/track/3f9GVs49uKIp48LPm51PX7) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [god's work](https://open.spotify.com/album/03Y0AUSO0y4o22FL1732Yi) | 3:10 |
+| 85 | [I Do](https://open.spotify.com/track/5MarIZklriKZNvAzfKdMHj) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:10 |
 | 86 | [Paradise](https://open.spotify.com/track/3axMZtPeAAd2rwgADC6e8r) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Settled in Motion \(Silent Minds, Pt\. 3\)](https://open.spotify.com/album/1imsfIDHUzROdivcxm2uaJ) | 3:10 |
 | 87 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 |
 | 88 | [Bobbie's Song](https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj) | [Bobbie's Song](https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP) | 2:25 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 96 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 |
 | 97 | [Preach](https://open.spotify.com/track/6wAFJrqup7D88zL1bB4QS4) | [Camo Columbo](https://open.spotify.com/artist/4PEjxQciyHLViBRsOmbrYm) | [Preach](https://open.spotify.com/album/4vMuWB97ayjrzYVwDog2wp) | 2:55 |
 | 98 | [Same Mistakes](https://open.spotify.com/track/6tlFgxxlLY6ZbDTxD0u7nP) | [Hoger](https://open.spotify.com/artist/2O5fbNlRegXVPNL1r0x8Iy) | [Same Mistakes](https://open.spotify.com/album/1LdCuw6cLwuMzPOCLBsojB) | 2:43 |
-| 99 | [Motelroom](https://open.spotify.com/track/78s4uG5j61x2BdoTRUvSA3) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Motelroom](https://open.spotify.com/album/52zmUGUnlOc7HYG9vZrzkC) | 3:41 |
+| 99 | [Motelroom](https://open.spotify.com/track/6LVHn4DZxdd3G8RspektRm) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [All That We Are](https://open.spotify.com/album/6O8TYTxtP9MWYGNwTd7MyX) | 3:41 |
 | 100 | [Say Yes \(Turquoise\) \(feat\. Joshua J\)](https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:41 |
 | 101 | [Take Mine](https://open.spotify.com/track/1aE7IyH98sfj1GjpzitNfE) | [Peter Katz](https://open.spotify.com/artist/6O5zKwY8kFFYhBwZdJ7VKI) | [City Of Our Lives](https://open.spotify.com/album/3vWGsppgWED2VQZxBSh56t) | 3:05 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMDViNjlmNTYxMjBiN2NmNjliNWFkY2M3MjI5NmUxZGNm`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGQyYzljOTcxODg4ZDIyNzlhZjMyZjg2ZDQ1ZjQwMTQx`

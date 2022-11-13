@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > NATIVE mag and Ghana National football team's Kofi Kyereh bring us their favorite pregame tracks ahead of the Ghana Vs Nigeria World Cup qualifiers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,824 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 25 | [Life \(Walaahi\)](https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [R2Bees, Vol\. 2](https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf) | 3:40 |
 | 26 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 |
 | 27 | [Time \(feat\. Meek Mill\)](https://open.spotify.com/track/1Szfm2XAx3Kgl55dyl8sTU) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:02 |
-| 28 | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/track/4E57gt5EDgniqrpYO6TQy2) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/album/2CeB1aRIEKmnAU5LPRyYsd) | 3:18 |
+| 28 | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/track/0pMt7yNoZTu1gQByxkXaMu) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Flu Game](https://open.spotify.com/album/2mgAD4bdEfvmwG0iq8K0h7) | 3:18 |
 | 29 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 30 | [Our Own](https://open.spotify.com/track/7zaGjkqAuc7hQylizzplqN) | [Ref gee](https://open.spotify.com/artist/2Zy4JtfgBIERFExPgSXGQn) | [Our Own](https://open.spotify.com/album/2DXEDhCgRRCqaDJuvQotUo) | 5:01 |
 | 31 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 42 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
 | 43 | [SAD GIRLZ LUV MONEY \(feat\. Moliy & Kali Uchis\) \- Vigro Deep Amapiano Remix](https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [SAD GIRLZ LUV MONEY \(feat\. Moliy & Kali Uchis\) \[Vigro Deep Amapiano Remix\]](https://open.spotify.com/album/2EOWRhAyOt6UmBprRs7Ye1) | 5:36 |
 
-Snapshot ID: `MTY0ODMzOTIwMCwwMDAwMDAwMDc0MThiOWJlOGY2NzAxNzgyNTU1NGJlMTYyNzE2NmQw`
+Snapshot ID: `MTY0ODMzOTIwMCwwMDAwMDAwMGQyMDBlMzNiMTVlODQyZjBkNGM4NjI1MDA5YzM5OWRl`

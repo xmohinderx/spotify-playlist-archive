@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1648629,
+  "num_followers": 1649006,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDFkYjlmNTJmNDA3MmRlYWM3NDc1NDEzMTA3NmQ3NmM1",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDY4YzRjODZkY2RmMzI5NzcxNTdhMDI2MjcyYjk1MTZm",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -263,8 +263,8 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Spoon & Bang",
-        "url": "https://open.spotify.com/album/27wmufyQeEqEBKik9A4USF"
+        "name": "SASSY (Deluxe)",
+        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
       },
       "artists": [
         {
@@ -274,7 +274,7 @@
       ],
       "duration_ms": 129666,
       "name": "Spoon & Bang",
-      "url": "https://open.spotify.com/track/2CQtm3HiUKwjKJ1pMnpnre"
+      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Drunken Wordz Sober Thoughtz",
         "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
       },
@@ -759,8 +775,8 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/4gAx4phF5UbsW6ai6x1q08"
       },
       "artists": [
         {
@@ -768,29 +784,9 @@
           "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 152175,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Last One",
-        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        },
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "Last One",
-      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3YdF3DYFE0NekzcjnUIfqc"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -811,6 +807,26 @@
       "duration_ms": 199533,
       "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -851,6 +867,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
       },
@@ -879,38 +911,6 @@
       "duration_ms": 189226,
       "name": "Bl\u00fc Moon",
       "url": "https://open.spotify.com/track/5fMURyUIFKXqvGM89YPcaA"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 182738,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "moonlit room",
-        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 250679,
-      "name": "moonlit room",
-      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     }
   ],
   "unique_name": "Bedroom Jams",

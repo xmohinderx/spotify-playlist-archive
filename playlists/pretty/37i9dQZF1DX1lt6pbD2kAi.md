@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Luísa Sonza e os hits do pop nacional em 2021!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,264 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,299 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 5 | [MODO TURBO](https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:30 |
 | 6 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 |
 | 7 | [Gueto](https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Gueto](https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB) | 2:48 |
-| 8 | [Triste com T](https://open.spotify.com/track/7iTpnFZWdEEgpU6QHvrsvS) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Triste com T](https://open.spotify.com/album/6Zb7J5sbItur7GcEBcNzEs) | 2:12 |
+| 8 | [Triste com T](https://open.spotify.com/track/34mhUL0A8oPJbg1DWe1HMK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:12 |
 | 9 | [Coringa](https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:07 |
 | 10 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 |
 | 11 | [nada contra \(ciúme\)](https://open.spotify.com/track/1unDZmI0EXHaZ7FWugXSqC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/4eQOYhDped8j3q2tZHVdM0) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [aff...](https://open.spotify.com/track/1WIGGd7w3ecJWvNnaXgm1B) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [aff...](https://open.spotify.com/album/1RgHtIFOdynYGzZy1Klmfo) | 2:44 |
 | 50 | [MUSA DO INVERNO](https://open.spotify.com/track/71MHV4g7904iDwR17cmoNo) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [MEMÓRIAS \(de onde eu nunca fui\)](https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr) | 2:31 |
 
-Snapshot ID: `MTYzOTEwNTIwMCwwMDAwMDAwMGQxNTU5ZWMyOGNiNDNjOTE2NWMzZmEzNTUxZDU0NGNk`
+Snapshot ID: `MTYzOTEwNTIwMCwwMDAwMDAwMGUwZDg3NzYyNzdjM2YzNDdiNzZmZjcwNWJjMjAxOGEz`

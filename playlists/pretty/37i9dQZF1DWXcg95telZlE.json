@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 242796,
+  "num_followers": 243093,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMDk2YmUwNGI1NDhkZGExM2MyMDg1M2ExMTFmYWI5NWY0",
+  "snapshot_id": "MTY1MzkxNTU0MCwwMDAwMDAwMDYyN2JjMTBjNGU1MzFlNmVjNDAwODg4NGIzMzU5NmUw",
   "tracks": [
     {
       "added_at": "2022-05-30 12:59:00",
@@ -47,8 +47,8 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Back To The 50s",
-        "url": "https://open.spotify.com/album/3SIvFkmDVUnXQCx2mtQl67"
+        "name": "Remember When?",
+        "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
       },
       "artists": [
         {
@@ -58,7 +58,7 @@
       ],
       "duration_ms": 160933,
       "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5gQWYpz3IarkQ8bJPBTjqK"
+      "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -79,22 +79,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 129120,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+      "duration_ms": 206333,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -115,22 +111,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         },
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
         }
       ],
-      "duration_ms": 298133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+      "duration_ms": 129120,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -235,6 +231,26 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Complete Ella And Louis On Verve",
         "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Best Of The Everly Brothers - Rare Solo Classics",
-        "url": "https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Flying Platters Around The World",
         "url": "https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH"
       },
@@ -347,6 +347,54 @@
       "duration_ms": 180933,
       "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
       "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Best Of The Everly Brothers - Rare Solo Classics",
+        "url": "https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "True Love Ways",
+      "url": "https://open.spotify.com/track/2Aq3BiLhITGHe6YSzkzOvi"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "It\u2019s All In The Game: The Best Of Tommy Edwards",
+        "url": "https://open.spotify.com/album/1r5eluEOlo6G5UW3Pf3ZZR"
+      },
+      "artists": [
+        {
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+        }
+      ],
+      "duration_ms": 159040,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/2lmPUdIdzlFH64PWJrw6Zb"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -399,6 +447,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 142693,
+      "name": "The Theme from \"A Summer Place\"",
+      "url": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -431,22 +495,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -463,6 +511,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P"
+      },
+      "artists": [
+        {
+          "name": "Patti Page",
+          "url": "https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Songs For Young Lovers",
         "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
@@ -475,6 +539,38 @@
       "duration_ms": 150666,
       "name": "My Funny Valentine - Remastered",
       "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
+        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+      },
+      "artists": [
+        {
+          "name": "The Fleetwoods",
+          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Come Softly To Me",
+      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Tears on My Pillow",
+      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -511,22 +607,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Who's Sorry Now",
-      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -543,18 +623,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Come Softly To Me: The Very Best Of The Fleetwoods",
-        "url": "https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
       "artists": [
         {
-          "name": "The Fleetwoods",
-          "url": "https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX"
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
         }
       ],
-      "duration_ms": 144933,
-      "name": "Come Softly To Me",
-      "url": "https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs"
+      "duration_ms": 136626,
+      "name": "Who's Sorry Now",
+      "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -623,6 +703,58 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Born Too Late",
+        "url": "https://open.spotify.com/album/3TnMW3EicWwdyFAze9Y0og"
+      },
+      "artists": [
+        {
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+        }
+      ],
+      "duration_ms": 139013,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3ZyJfbh2Y9y15f45qY1pDJ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Presenting the Spaniels",
+        "url": "https://open.spotify.com/album/3FXBB39hDogIg4qUjEmVn2"
+      },
+      "artists": [
+        {
+          "name": "The Spaniels",
+          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Goodnight, Sweetheart, Goodnight",
+      "url": "https://open.spotify.com/track/5VLKQp1YTubqXJ02HnViz5"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "Chances Are (with Ray Conniff & His Orchestra)",
+      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
       },
@@ -671,6 +803,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "He's So Fine",
         "url": "https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w"
       },
@@ -683,6 +831,22 @@
       "duration_ms": 154173,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -735,6 +899,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/2Gd007dAbihobxsTG9m7cZ"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "Golden Hits Collection",
         "url": "https://open.spotify.com/album/7L6wZe1QGwXnOFci9jnJs7"
       },
@@ -771,6 +951,38 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 181693,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Sugar Moon - Single Version",
+      "url": "https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "It's Impossible",
         "url": "https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV"
       },
@@ -791,22 +1003,6 @@
       "duration_ms": 148493,
       "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/4wnFpRgQu2gLN8d76dYOGr"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -843,34 +1039,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Essential Johnny Mathis",
-        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+        "name": "Frankie Avalon",
+        "url": "https://open.spotify.com/album/3nDCuyCQqcqVbXprUy61CF"
       },
       "artists": [
         {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Chances Are - Single Version",
-      "url": "https://open.spotify.com/track/2eg3CoqVGI21N8115BgdQA"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Sugar Moon - Single Version",
-      "url": "https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv"
+      "duration_ms": 144483,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5kqXQHIgQ6UfFP9LfqPNgG"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -887,6 +1067,22 @@
       "duration_ms": 184373,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "The Essential Johnny Mathis",
+        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
+      "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -935,22 +1131,6 @@
       "duration_ms": 169200,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Essential Johnny Mathis",
-        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "A Certain Smile - From the 20th Century Fox Film \"A Certain Smile\"",
-      "url": "https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1019,6 +1199,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/3k5ycyXX5qsCjLd7R2vphp"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "50's Love Songs",
         "url": "https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q"
       },
@@ -1035,18 +1231,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "The Very Best Of Norman Wisdom",
+        "url": "https://open.spotify.com/album/2TvMq7hUfWsLsn6ID24LPz"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Norman Wisdom",
+          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
         }
       ],
-      "duration_ms": 207573,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/3k5ycyXX5qsCjLd7R2vphp"
+      "duration_ms": 216400,
+      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
+      "url": "https://open.spotify.com/track/1TeU7rqSW9Qc2iWNioCAXA"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1067,18 +1263,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Welsh Tenor",
-        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
         }
       ],
-      "duration_ms": 166266,
-      "name": "My Special Angel",
-      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
+      "duration_ms": 179373,
+      "name": "The Black Hills of Dakota",
+      "url": "https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1099,134 +1295,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Born Too Late",
-        "url": "https://open.spotify.com/album/7n5E7VarKsMuu9bke5LAfB"
+        "name": "The Welsh Tenor",
+        "url": "https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU"
       },
       "artists": [
         {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/2CHOpIcLOGyx4jJdX88ImV"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "French Cafe",
-        "url": "https://open.spotify.com/album/4Nhg2RiTf4USiTqAKsGL3z"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 205213,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/541kGNeBBWilXUDjIagIYO"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Buddy Holly",
-        "url": "https://open.spotify.com/album/0LVeqO2aiMXWpfzAbWR3OV"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "True Love Ways",
-      "url": "https://open.spotify.com/track/5fcAjlxOOCJgBraw4QKiro"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The World Of Nat King Cole (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "When I Fall In Love - Remastered 2004",
-      "url": "https://open.spotify.com/track/1TUy1TUNg3pvsCp5ZWmJhm"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Love Songs Of The 50's",
-        "url": "https://open.spotify.com/album/19EI1NMrvy4Il88NHqPex6"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "Since I Dont Have You",
-      "url": "https://open.spotify.com/track/5fejU6RLfBJymV8HHbGm94"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Doo Wop Pops (Volume One)",
-        "url": "https://open.spotify.com/album/4wfRpsosy07okdHKP4gddi"
-      },
-      "artists": [
-        {
-          "name": "The Spaniels",
-          "url": "https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P"
-        }
-      ],
-      "duration_ms": 160501,
-      "name": "Goodnite Sweetheart, Goodnite",
-      "url": "https://open.spotify.com/track/7yb15rQiMlaiGbrKfECOEI"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Venus",
-        "url": "https://open.spotify.com/album/0L9fcF64pw3EHZxunoonNI"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        },
-        {
-          "name": "Philip John Mogg",
-          "url": "https://open.spotify.com/artist/4vroheN81RDtsKwnYyvwGi"
-        }
-      ],
-      "duration_ms": 142734,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/0fMxaa0MogS8xXbYMCbesP"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Burlesque Best Hits Compilation",
-        "url": "https://open.spotify.com/album/3mcjuJJtnoC8z3MBST1mQU"
-      },
-      "artists": [
-        {
-          "name": "High School Music Band",
-          "url": "https://open.spotify.com/artist/1Nwv44M9CeIOtb7FECPtut"
-        }
-      ],
-      "duration_ms": 147160,
-      "name": "A Summer Place",
-      "url": "https://open.spotify.com/track/68aCa58sT0rCMWs5eoTPxE"
+      "duration_ms": 166266,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1247,86 +1327,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Patti Page",
-        "url": "https://open.spotify.com/album/1RNK8lyGBaq1PS5EIxK4vJ"
-      },
-      "artists": [
-        {
-          "name": "Patti Page",
-          "url": "https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/79IQQOy0OsMf2XjFu50gGL"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "50s Nostalgia",
-        "url": "https://open.spotify.com/album/1cSO2NyIj1DPyMJE86YCc7"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/11COx3sEyCmYqBqaZQqHR2"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "The Best Of Tommy Edwards",
-        "url": "https://open.spotify.com/album/0Uct4fnVFPdZHGBTYzZCLU"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/0aPKcAtj8cMRMyRkV46Pw4"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Rare Fifties",
-        "url": "https://open.spotify.com/album/1j7lV8v1CuarL1svc4jjk0"
-      },
-      "artists": [
-        {
-          "name": "Norman Wisdom",
-          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
-      "url": "https://open.spotify.com/track/2D2YNoqBbuKh1diHfV5Uxt"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Grandes Musicales: Calamity Jane",
-        "url": "https://open.spotify.com/album/2VHgBieaimaPblrEfBS3jo"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Alhambra",
-          "url": "https://open.spotify.com/artist/6QWLGmhvl8ojUQqe610UkT"
-        }
-      ],
-      "duration_ms": 179792,
-      "name": "The Black Hills of Dakota",
-      "url": "https://open.spotify.com/track/7mgCPn8i1wclG7eb0CPGzi"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Remember When?",
         "url": "https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ"
       },
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Nat King Cole",
-        "url": "https://open.spotify.com/album/6peux13A86JXULcbwytL6u"
+        "name": "The World Of Nat King Cole (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP"
       },
       "artists": [
         {
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 164506,
-      "name": "Pretend - Remastered 1992",
-      "url": "https://open.spotify.com/track/2UpYrFutmtNnbOaNiyHKPe"
+      "duration_ms": 190746,
+      "name": "When I Fall In Love - Remastered 2004",
+      "url": "https://open.spotify.com/track/1TUy1TUNg3pvsCp5ZWmJhm"
     },
     {
       "added_at": "2022-05-30 12:59:00",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,210 likes - 130 songs - 7 hr 22 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,211 likes - 130 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take Me Higher \- Devault Remix](https://open.spotify.com/track/1m5pkerekraxuRFtanKSZm) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Take Me Higher \(Devault Remix\)](https://open.spotify.com/album/7JSUCMBmWf9drqsvLPU44h) | 4:00 |
+| 1 | [Take Me Higher \- Devault Remix](https://open.spotify.com/track/1m5pkerekraxuRFtanKSZm) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Take Me Higher \(Devault Remix\)](https://open.spotify.com/album/7JSUCMBmWf9drqsvLPU44h) | 4:02 |
 | 2 | [END\-LE77](https://open.spotify.com/track/5FbY1gyzhiSoBBD0ynX5AT) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [END\-LE77](https://open.spotify.com/album/57lDSqe8Xwxrc2jTfVuOdQ) | 4:43 |
 | 3 | [Dark Places \- Shadient Remix](https://open.spotify.com/track/2HFNl3R6uuV20q6BTCnELY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV), [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [Dark Places \(Shadient Remix\)](https://open.spotify.com/album/4TrORdXsvq6MLrKfI6e4e0) | 4:25 |
 | 4 | [Let Go](https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Let Go](https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG) | 2:06 |

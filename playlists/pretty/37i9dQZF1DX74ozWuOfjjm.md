@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of AU & NZ at full volume\. Cover: Pania
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,228 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,233 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 28 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 |
 | 29 | [Failure](https://open.spotify.com/track/7AJBAVu3otbF7CuPOvGW7c) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Slow Burn](https://open.spotify.com/album/7J6Zg9f19sUhiJsiIIQX1N) | 4:14 |
 | 30 | [Evidence](https://open.spotify.com/track/0mdVIWcUl8Q34R8xPgpfHZ) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Evidence](https://open.spotify.com/album/3vjfI5MI9Y1EqwQbfAncwU) | 4:18 |
-| 31 | [Hey](https://open.spotify.com/track/5MzllEBNIrtgFbBdMS3s7C) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 3:08 |
+| 31 | [Hey](https://open.spotify.com/track/7oHpeKNritBgbBMm93Dx62) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/17mr7GvqLCWjERFbKt765D) | 3:08 |
 | 32 | [Only Child](https://open.spotify.com/track/3thXAvW7mxlgJ7W37U2yBT) | [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [izzi](https://open.spotify.com/album/4zkYIURRPc2a0h1EONEtYs) | 3:32 |
 | 33 | [Teenage Renegade](https://open.spotify.com/track/12UFOhdwV1STPKzAI39hUu) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Teenage Renegade](https://open.spotify.com/album/1MbxlBgw83NZbqcJuoAVnd) | 3:04 |
 | 34 | [Tō Aroha](https://open.spotify.com/track/6cppVm5dbOngC7VSHJJy28) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Tō Aroha](https://open.spotify.com/album/0Xcyt3tSHSZ536Hnzb0r3Q) | 2:48 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 47 | [Slow Down Girl](https://open.spotify.com/track/1vY84RjMLrximsaUSuUVgJ) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Slow Down Girl](https://open.spotify.com/album/0h0scsiujwR3ZDmdaE6ia8) | 3:06 |
 | 48 | [Stained Glass Love](https://open.spotify.com/track/5d8HnEi996KfVq0svmeeb0) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Stained Glass Love](https://open.spotify.com/album/3pqjmCTohneJF9XiI9b0RF) | 5:54 |
 | 49 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 |
-| 50 | [Expert In A Dying Field](https://open.spotify.com/track/7FxEMjLh4toXn1fVZAvT1O) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6NxZFLWv5D3rr5Wom4HUvU) | 4:11 |
+| 50 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 |
 | 51 | [is forever off the table?](https://open.spotify.com/track/1po8cEXRIOGcmDt2Ag8IU4) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [is forever off the table?](https://open.spotify.com/album/0zyKAMlAh2zpnWtIk3A5ft) | 3:29 |
 | 52 | [Closer](https://open.spotify.com/track/3OBpUFjf9F2fLtYkHg7T3w) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [Pressure On My Heart](https://open.spotify.com/album/6WZmNEImJwmXCbQGuvuHj5) | 3:05 |
 | 53 | [Flood](https://open.spotify.com/track/6WstYKyrp8qkVBNtpcvaO1) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/3un2FDbZwuK5JidL4OFaTW) | 3:43 |
@@ -65,22 +65,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 55 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 |
 | 56 | [Teenage Dirtbag – Spotify Singles](https://open.spotify.com/track/2Ay91YgsEdMNV8eTzTT5sU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Spotify Singles](https://open.spotify.com/album/0z8PfudkG3FoO5LrWW4akU) | 3:06 |
 | 57 | [Haunted](https://open.spotify.com/track/5iazYkEr6zbeZYjoUGwEBn) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Haunted](https://open.spotify.com/album/1U7TrNXieHR1rMTjs7R2jj) | 3:23 |
-| 58 | [Black Cloud](https://open.spotify.com/track/6XnSBGNn90Lsoo2v6AUPco) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Into You](https://open.spotify.com/album/1AWhTuxn0iTkGqWy6F3jQs) | 3:14 |
+| 58 | [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 |
 | 59 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 60 | [Gravity](https://open.spotify.com/track/0HmX9AOxfCcFSHpNLcRrHi) | [Ahlei](https://open.spotify.com/artist/5QyAbE7iRKVzJ5PXa3WpHq) | [Gravity](https://open.spotify.com/album/4JNFIuyUgQhnZyS7RCvWzP) | 3:02 |
 | 61 | [sleep in](https://open.spotify.com/track/6x25b9ZpImUz4pniORsgvA) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [sleep in](https://open.spotify.com/album/5DsgOv6IVWT98bHh3zl7F8) | 2:37 |
 | 62 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 |
-| 63 | [Something Real](https://open.spotify.com/track/47PUjVVbmfKrJ6St1yjShN) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Mega Hits Sommer 2022](https://open.spotify.com/album/3ITs3pleuLG2AD2L9TwCvD) | 3:49 |
+| 63 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
 | 64 | [Take Me Away](https://open.spotify.com/track/3qAicMUkpMamUQhgMAS3sc) | [Sophie\-Maude](https://open.spotify.com/artist/6UqpAADXa90AcrsczMmq0G) | [Take Me Away](https://open.spotify.com/album/45k6gUHqGNX505MDzMz48G) | 3:26 |
 | 65 | [Tantrum in Duet](https://open.spotify.com/track/65vCQzEiKYIU9Uox7RwS4E) | [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Soft Spot](https://open.spotify.com/album/6A1RyV1mKJszJbk0WfZOrX) | 3:01 |
 | 66 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
 | 67 | [Now and Then](https://open.spotify.com/track/33uqt8Kapz6TtPLZOFATbr) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now and Then](https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I) | 4:31 |
 | 68 | [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 |
 | 69 | [So We Remain](https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [So We Remain](https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR) | 2:39 |
-| 70 | [On the low \(shh!\)](https://open.spotify.com/track/5MPNdkwJqA3RIFpZ14I4fX) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [LIFE IS BETTER NOW](https://open.spotify.com/album/4GluTrpGzdJWo0XcMYt84X) | 2:49 |
+| 70 | [On the low \(shh!\)](https://open.spotify.com/track/4tF47KCmrr7Abl25YvX8Ur) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [On the low \(shh!\)](https://open.spotify.com/album/4gMqWwrSqiPcbrtSgBHrHZ) | 2:49 |
 | 71 | [By The Sea](https://open.spotify.com/track/0MT743d5eAbybSc1Sl0stR) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:16 |
 | 72 | [Fuchsia](https://open.spotify.com/track/7ajZkDJdNaSW1sUfKw5eqs) | [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Fuchsia](https://open.spotify.com/album/2onOvDQi5KfgLHGMsxtd5f) | 3:24 |
-| 73 | [Way I Go](https://open.spotify.com/track/6Uen8nByGumr2Bjrm89yzd) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Inhuman](https://open.spotify.com/album/6TiXS3ESOjoZWt3ZwhqbF6) | 4:07 |
+| 73 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 |
 | 74 | [Ambulance](https://open.spotify.com/track/6aLP2L4Y8BJRx5AJ9Z8Xj2) | [LAIIKA](https://open.spotify.com/artist/3LhehWn3j3rM6IO5FTrJe6) | [LAIIKA](https://open.spotify.com/album/5GeHjWwfQwUfFmWqMrtE9N) | 4:11 |
 | 75 | [dice & checkers](https://open.spotify.com/track/7e3fwnnyaHLIjmskaI5Dzi) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [odd one out](https://open.spotify.com/album/3NXwp1ggaU3khlPqC9ZmVO) | 2:57 |
 | 76 | [Fall Hard, Land Gently](https://open.spotify.com/track/7xD5j7CSHxAMXhzn1DSvYm) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Golden Hours](https://open.spotify.com/album/4Ui2AUwUW9N4a1QfZrhtZJ) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 |
 | 100 | [Exile](https://open.spotify.com/track/70icLfzhRlRTW5is736O3j) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Exile](https://open.spotify.com/album/5EUFuGYhoaO2vImrZnxYG6) | 3:35 |
 
-Snapshot ID: `MTY2NzIyMTIwMCwwMDAwMDAwMGY5MjQxYWZiNDM2NGRlNTkzZjg5MjM4MjJiYzhlMjU5`
+Snapshot ID: `MTY2NzIyMTIwMCwwMDAwMDAwMGUwNzAwYWIyOTQ5MGViMzI3MDY2MWIwNDU5ZGZkOTA2`

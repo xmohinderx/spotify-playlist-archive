@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 8021,
+  "num_followers": 8079,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDJmYWI2NTU2NDVmNmQ0Mzc4NTM1ZjFjMzYzYjUzNTAx",
+  "snapshot_id": "MTY2NzI3NTM2OCwwMDAwMDAwMDVkMDRmZGM0OGUyNDZmYTA2ZjQ2MjNiZWI1N2Y1ZWVl",
   "tracks": [
     {
       "added_at": "2022-11-01 04:02:48",
@@ -47,8 +47,8 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "MOMMAE",
-        "url": "https://open.spotify.com/album/1kgzGqeJbY7gwiheabVk1L"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
         {
@@ -61,8 +61,8 @@
         }
       ],
       "duration_ms": 204991,
-      "name": "MOMMAE (Feat. Ugly Duck)",
-      "url": "https://open.spotify.com/track/3MuGoW19i72vekvJoeAIxl"
+      "name": "MOMMAE",
+      "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -663,6 +663,30 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "B.A.R.S, Vol. 1",
+        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
+      },
+      "artists": [
+        {
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Sho Nuff",
+      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
@@ -711,30 +735,6 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "SignHere episode1",
-        "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
-      },
-      "artists": [
-        {
-          "name": "Choi Seo Hyun",
-          "url": "https://open.spotify.com/artist/45MYCJEVTetzK6k2UeuHv0"
-        },
-        {
-          "name": "Maddox",
-          "url": "https://open.spotify.com/artist/7KieZTca53gfdVzwdODV2L"
-        },
-        {
-          "name": "Seungrae",
-          "url": "https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh"
-        }
-      ],
-      "duration_ms": 239813,
-      "name": "Juice (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/3Xgttn2kqwZE4smkIlnmhE"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
         "name": "Westcoast",
         "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
       },
@@ -755,22 +755,26 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+        "name": "SignHere episode1",
+        "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
       "artists": [
         {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+          "name": "Choi Seo Hyun",
+          "url": "https://open.spotify.com/artist/45MYCJEVTetzK6k2UeuHv0"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Maddox",
+          "url": "https://open.spotify.com/artist/7KieZTca53gfdVzwdODV2L"
+        },
+        {
+          "name": "Seungrae",
+          "url": "https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh"
         }
       ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+      "duration_ms": 239813,
+      "name": "Juice (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/3Xgttn2kqwZE4smkIlnmhE"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -839,6 +843,26 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "Drip",
         "url": "https://open.spotify.com/album/2MPmc2iZfO9j8dT1TVqOIy"
       },
@@ -879,26 +903,6 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Dior Socks",
-        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
-      },
-      "artists": [
-        {
-          "name": "Jay Loud",
-          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Dior Socks",
-      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
         "name": "Thuggin 4 My Baby",
         "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
       },
@@ -919,6 +923,26 @@
       "duration_ms": 204800,
       "name": "Thuggin 4 My Baby",
       "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
+        "name": "Dior Socks",
+        "url": "https://open.spotify.com/album/7aX9l4mQYa1lOGH9UXwjOw"
+      },
+      "artists": [
+        {
+          "name": "Jay Loud",
+          "url": "https://open.spotify.com/artist/2zlYZjumfIxajIKfk41H9A"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Dior Socks",
+      "url": "https://open.spotify.com/track/7qVIWLqMGF2XFNXW1kXXuy"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1063,30 +1087,6 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Sho Nuff",
-        "url": "https://open.spotify.com/album/5NY2638LH2UiHtlioanv0B"
-      },
-      "artists": [
-        {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Sho Nuff",
-      "url": "https://open.spotify.com/track/5LsVveuFAPkELzgsowO63m"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
         "name": "Everybody Sucks",
         "url": "https://open.spotify.com/album/2Z9wsmEj3cKZIpYbxumE4l"
       },
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 219488,
+      "name": "SOLO (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/6j3i8yVetAyxX8vUIfoz70"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo"
       },
@@ -1311,6 +1331,26 @@
       "duration_ms": 218026,
       "name": "SUMMERIDE",
       "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Remastered",
+          "url": "https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE"
+        }
+      ],
+      "duration_ms": 230087,
+      "name": "JOAH - Remastered",
+      "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -1556,15 +1596,15 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 209633,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
-      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
+      "duration_ms": 252367,
+      "name": "AQUAMAN",
+      "url": "https://open.spotify.com/track/39L0cwuHe0RIgOehPJuQu0"
     },
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
-        "name": "Joah",
-        "url": "https://open.spotify.com/album/0cCge5MT23HTVlPi7bEAKU"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
@@ -1572,9 +1612,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 228102,
-      "name": "Joah",
-      "url": "https://open.spotify.com/track/2occELokWRfqLIlQJhJLZ6"
+      "duration_ms": 209633,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\uc8fc\uae38",
+      "url": "https://open.spotify.com/track/0nHB8bNZtg3BuAkWr7uJNc"
     },
     {
       "added_at": "2022-11-01 04:02:48",
@@ -2003,6 +2043,26 @@
     {
       "added_at": "2022-11-01 04:02:48",
       "album": {
+        "name": "Scene Stealers",
+        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "duration_ms": 277509,
+      "name": "Ain\u2019t No Party Like an AOMG Party",
+      "url": "https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA"
+    },
+    {
+      "added_at": "2022-11-01 04:02:48",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -2155,82 +2215,6 @@
       "duration_ms": 219088,
       "name": "All Day (Flex) [Prod. by OkayJJack]",
       "url": "https://open.spotify.com/track/5FbiD78OtBrsaX8KP5DmDP"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        }
-      ],
-      "duration_ms": 286188,
-      "name": "F*CKBOY",
-      "url": "https://open.spotify.com/track/1ArM8xRbVUdcgvvYyVltGi"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        }
-      ],
-      "duration_ms": 264521,
-      "name": "BO$$",
-      "url": "https://open.spotify.com/track/0yec4sLxW29JUAt84HMang"
-    },
-    {
-      "added_at": "2022-11-01 04:02:48",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Common Ground",
-          "url": "https://open.spotify.com/artist/3izDhSZzdOLssnzXtXkewv"
-        }
-      ],
-      "duration_ms": 195392,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/5xv7er3pGCd8ZDco5H8SPN"
     }
   ],
   "unique_name": "This Is Jay Park",

@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 205786,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/76hkxEpwPDjCuYj0GrOTqG"
@@ -367,6 +367,28 @@
     {
       "album": {
         "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/6r1K4pY3QjCpQsiznP1nWO"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229623,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/1KOcD6gU6G3aI8bj3mDmgl"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/1OisVeVPeV7p3DVVMW4ZAA"
       },
       "artists": [
@@ -565,7 +587,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 217941,
       "name": "Christmas Cheers",
       "url": "https://open.spotify.com/track/2i9F4Tl8AH8NnXld2QjtLY"
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 142493,
       "name": "Home for the Holidays",
       "url": "https://open.spotify.com/track/0uvywHmSjlt2F2Bg9jvMzq"
@@ -1969,7 +1991,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 289786,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
@@ -2005,7 +2027,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 172146,
       "name": "Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing - Medley / Alternate Version",
       "url": "https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L"
@@ -2153,7 +2175,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Last Xmas",
       "url": "https://open.spotify.com/track/5Iylu9FEarJW7j3VXJO7UN"
@@ -2381,7 +2403,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
@@ -3369,7 +3391,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 207619,
       "name": "Steal Your Heart",
       "url": "https://open.spotify.com/track/7kousDSHeHfE6TTbioVW26"
@@ -3515,7 +3537,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 196254,
       "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
       "url": "https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Néza, Nabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,806 likes - 56 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,865 likes - 56 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 36 | [Strade Unite \(feat\. Helmi sa7bi, emanuelino\)](https://open.spotify.com/track/6PYMcSZlBqCgFOojTLMJgD) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Strade Unite \(feat\. Helmi sa7bi, emanuelino\)](https://open.spotify.com/album/4pqW2BaSQ7qOdg8KMSxId3) | 3:30 |
 | 37 | [Wroom Wroom](https://open.spotify.com/track/4xtSgGX5CQgVXTCRhagLf1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Wroom Wroom](https://open.spotify.com/album/1jVXH8SRRkuLIgLXn9JsD1) | 2:28 |
 | 38 | [Dejavu](https://open.spotify.com/track/6bcT7alWnBZmk5Ke0wsAIj) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Dejavu](https://open.spotify.com/album/5qEPyzaTjIr9HRisws1uFm) | 2:47 |
-| 39 | [Sono tristi anche le star](https://open.spotify.com/track/35Q73z3c9Jn9EEVh58Ihjh) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/36H4jXrI54WGWALMp7nyIa) | 2:50 |
+| 39 | [Sono tristi anche le star](https://open.spotify.com/track/5AhoYuhVuAl3fqpIhe46qE) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Dark Days](https://open.spotify.com/album/41Tkn4XnbcB7bwFf5lSBR3) | 2:50 |
 | 40 | [Birthday Song](https://open.spotify.com/track/6eYI2bdb4wbw60hYQsFAYg) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [Birthday Song](https://open.spotify.com/album/4hTjDk6RK1rFxF1QS4Nk5l) | 2:07 |
 | 41 | [Walkie Talkie](https://open.spotify.com/track/34PkzeCZ8fZj9jBMMV1gqa) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Walkie Talkie](https://open.spotify.com/album/02sDUCaTdnQXVqsTwlFA9B) | 2:20 |
 | 42 | [Turn Up \#4](https://open.spotify.com/track/3gONZ1bwG2xJFOr8TI0Sz1) | [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI) | [Turn Up \#4](https://open.spotify.com/album/2SUjwyPhhmrqYsCTKPwDya) | 2:38 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 55 | [NON MI BASTERÀ](https://open.spotify.com/track/6n2Kf18yFkWTbOANDeFJ69) | [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [NON MI BASTERÀ](https://open.spotify.com/album/34Xcpmvk5Hnoc3PI5Yl7u7) | 2:23 |
 | 56 | [HANNIBAL](https://open.spotify.com/track/4goiLHnCVjXQUThiwMGOax) | [Fiore](https://open.spotify.com/artist/4GOWLNptHmjfpDP4HN21Im), [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [Scien](https://open.spotify.com/artist/6sJBjn9GZbhu93KnaVlwCR) | [HANNIBAL](https://open.spotify.com/album/6djlLJmHozqyLytbQlrAS0) | 2:36 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMGRhMDViYTUwY2QzYzBiMWZmMDk3M2E3NDNkYjMzYjEy`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDFlMTIzMmQyMDM2NDJhMjA4NGExMTI1MGExNzhhMDIz`

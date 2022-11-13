@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 
 > This Is YoungBoy Never Broke Again\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,728 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,938 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 | 5 | [Need It](https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Need It](https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk) | 3:15 |
 | 6 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
 | 7 | [Make No Sense](https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:28 |
-| 8 | [Kacey Talk](https://open.spotify.com/track/4q4Gj2qYt7E2LSHhiCuP8q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Rap Beats & Rhymes](https://open.spotify.com/album/5jQPZIsDJhoCCE2C6rLDU8) | 2:31 |
+| 8 | [Kacey Talk](https://open.spotify.com/track/1SF8piqsZWn86DajVKih8F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:31 |
 | 9 | [Kamikaze](https://open.spotify.com/track/1p0BcIePXAd65ouic9XrLT) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 3:20 |
 | 10 | [Callin \(feat\. Snoop Dogg\)](https://open.spotify.com/track/0IUW6b1taJKyKt6hyagmTG) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:23 |
 | 11 | [Lil Top](https://open.spotify.com/track/1aMokXl3uKDvCh4BBcjFOA) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Still Flexin, Still Steppin](https://open.spotify.com/album/6mhlquPOu46v4c7nXS35mX) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 | 49 | [Untouchable](https://open.spotify.com/track/6xL9MJ2yt39HPPZPyGkRy8) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 3:00 |
 | 50 | [Ain't Easy](https://open.spotify.com/track/485RHcQUM5qotAlfutUhwT) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:25 |
 
-Snapshot ID: `MTY2NDExMTc3OCwwMDAwMDAwMDVhNzk5ZjMwMmViOTFhYTY0MjMwNmNlNGExNWRmYTc0`
+Snapshot ID: `MTY2NDExMTc3OCwwMDAwMDAwMDdjMjk0MjU1MGE2NmQzZjFjNDQ2NzVjODgxYmM2ZmI1`

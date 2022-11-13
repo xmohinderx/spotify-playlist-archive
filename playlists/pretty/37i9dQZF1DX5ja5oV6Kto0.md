@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=rOqqDWfMQSOIkZiMVxQlAw"> Dami Oniru </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,511 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,537 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 52 | [Toe Touch](https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 2:57 |
 | 53 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:24 |
 | 54 | [alright, ok](https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [alright, ok](https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7) | 2:53 |
-| 55 | [Gone Girl](https://open.spotify.com/track/1rbHfInkbi8ZLQtds5nfd6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf) | 4:13 |
+| 55 | [Gone Girl](https://open.spotify.com/track/4SVjVLpHngzqTzGfQe0hGz) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Gone Girl](https://open.spotify.com/album/7askKzi7oR1VpOswKLtMAN) | 4:13 |
 | 56 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 |
 | 57 | [Serpent](https://open.spotify.com/track/75sj0jvAGespYP7lcm4iQR) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7) | [Toxic Sweet](https://open.spotify.com/album/6XZEdNXjaagyQVpbi5aioZ) | 1:42 |
 | 58 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [NIGHTS WITHOUT YOU](https://open.spotify.com/track/0NCrt951A09LYmxbGdqW8N) | [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [NIGHTS WITHOUT YOU](https://open.spotify.com/album/6uqyYLRgrlKjlIIfz3Hoid) | 2:58 |
 | 80 | [Detonate](https://open.spotify.com/track/6ufuzc7b2zgkpK22dPcmti) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 2:06 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDllNzJhZjU2NjI4ZjcwNmEzOTExYzhjNzUxZDRlMWE4`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDkxMDg5ZTdmZThiNmFlNjMxODc0ZDEzM2UwMDU4MzE0`

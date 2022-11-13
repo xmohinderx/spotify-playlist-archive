@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Roots and acoustic tunes, for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,044 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,040 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Be Slow](https://open.spotify.com/track/5nv9uoyzSlZ0pieUt40dBN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sea and Fire](https://open.spotify.com/album/5sn8uFlvnZatE9cN9mzunS) | 3:25 |
+| 1 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 |
 | 2 | [Hold You](https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:46 |
 | 3 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 |
 | 4 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 |
 | 5 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
 | 6 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 |
-| 7 | [Disappearing Light](https://open.spotify.com/track/6entwzBU8kqPEPOM3oYvaP) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Rearview Mirror](https://open.spotify.com/album/7IyVmlk3jhuRMh520pYBdz) | 3:42 |
+| 7 | [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 |
 | 8 | [Bottle It Up](https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Bottle It Up](https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg) | 3:05 |
 | 9 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
 | 10 | [Daily Meditation](https://open.spotify.com/track/4wGmgCIQk4jBfbDXvH4LNE) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Daily Meditation](https://open.spotify.com/album/3ZFPHrwqnnOEgUU1JlqVha) | 3:16 |
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 36 | [The Race](https://open.spotify.com/track/2qhnDybSlDXwynRtTY2zfi) | [Make The Moon](https://open.spotify.com/artist/76i6rj2RihHAsdPAjURx1M) | [The Race](https://open.spotify.com/album/460LhAQP66yaem9mxq6yhW) | 3:25 |
 | 37 | [Hunger](https://open.spotify.com/track/0ADe9aTzgOVhEMAY80kUbp) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [Hunger](https://open.spotify.com/album/6wXOGyDnQXfxv0v8PZfM0q) | 4:08 |
 | 38 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
-| 39 | [After the Sun](https://open.spotify.com/track/3sbdt45nDSx8qZDsyKW9YZ) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [After the Sun](https://open.spotify.com/album/6BAEKQpZRpSaIsWLBzwqCm) | 3:33 |
-| 40 | [Catch Me](https://open.spotify.com/track/4DaES19AzphjDNOj96Y2jp) | [Robbie Miller](https://open.spotify.com/artist/0lkWoQLsP4QWkqefjR9IH1) | [Catch Me](https://open.spotify.com/album/1OAFrEWhzjooxhpZifm5UD) | 2:57 |
+| 39 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
+| 40 | [Catch Me](https://open.spotify.com/track/69iZHDveavg2RvuhevpsjW) | [Robbie Miller](https://open.spotify.com/artist/0lkWoQLsP4QWkqefjR9IH1) | [Little Love](https://open.spotify.com/album/0Fm7qXRFQORyiAXCMOecjs) | 2:57 |
 | 41 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
 | 42 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 |
 | 43 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 |
 | 44 | [By Way of the Sea](https://open.spotify.com/track/2EjmXBw49KJqZXjH2dKTZC) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [By Way of the Sea](https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg) | 4:19 |
 | 45 | [rains](https://open.spotify.com/track/4GNk8J7ApnCVax7dKvLRnE) | [Solomon Crook](https://open.spotify.com/artist/5B5cUiibtKjZKaXgQdV3G1) | [rains](https://open.spotify.com/album/26iiPtEXta6wX8yBQ0O7OZ) | 2:23 |
-| 46 | [Mexico](https://open.spotify.com/track/2KVhZTH1uQhxWBK80B0qlh) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Hangin’ Out with Cowboys](https://open.spotify.com/album/4JvtnKd24pcj1ZLBBgcwzY) | 4:06 |
+| 46 | [Mexico](https://open.spotify.com/track/47aHDHL31kg3h1qZvz2LX9) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K) | [Mexico](https://open.spotify.com/album/3zQdAvd7yphzVjGx23Ghrs) | 4:06 |
 | 47 | [Little Fires](https://open.spotify.com/track/2qTjq34Q45ROxC4bMGQ2D5) | [Dan Sharp](https://open.spotify.com/artist/3i2HzXnpemXZ7oWrSEijD3) | [Little Fires](https://open.spotify.com/album/4rh7iRMkF73Et2tNTM5H4a) | 3:21 |
-| 48 | [Journey Home](https://open.spotify.com/track/4Hi4jgmaou9tqN1qGmANzS) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [The Songwriting Prize 2020](https://open.spotify.com/album/2tGmEFUAJ6A2Hkkf7UNoQ6) | 4:31 |
+| 48 | [Journey Home](https://open.spotify.com/track/5Lo2hiUPj7z32oB3XSHb29) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Journey Home](https://open.spotify.com/album/0eHppmZysZlFDqXqdzr9cM) | 4:31 |
 | 49 | [Brisbane](https://open.spotify.com/track/5dM2L19MdawMyQw3nSUsFQ) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brisbane](https://open.spotify.com/album/5gpHY3opXOnjD074pF2JKR) | 3:17 |
 | 50 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 51 | [Stuck On You](https://open.spotify.com/track/5DkxnItpcG9oqpdwORiZzN) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Paradise Down the Road](https://open.spotify.com/album/2a0TNEB0ljsokVLeCqWONF) | 3:57 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 54 | [Morning Light](https://open.spotify.com/track/4WTshd9xB6Y3HHd8snMMQ1) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Morning Light](https://open.spotify.com/album/78DnLLGhKsf0jgegmqSja9) | 3:11 |
 | 55 | [Midsummer](https://open.spotify.com/track/0WuXqVDS9LLN41RGSAXuVe) | [Paper Cranes 折り鶴](https://open.spotify.com/artist/5YZSzTjciJAaAek3ujVhpc) | [Voices](https://open.spotify.com/album/4MR4vc3bWQwAaZdbAmH7t9) | 2:45 |
 
-Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMDNkMWFkZTFlNjc3MTVlOGYwNjA0YTk4Mjg2Y2VkZDg4`
+Snapshot ID: `MTYzODI1MzkyNiwwMDAwMDAwMDMwMjY0MmE4ZWQwZDI0ZWNmZmRkNTVhYWM1ODc1NDg0`

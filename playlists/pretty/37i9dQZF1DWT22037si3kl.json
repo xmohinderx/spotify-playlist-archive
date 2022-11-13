@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Druhh e Drehh",
-  "num_followers": 66509,
+  "num_followers": 66627,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDhjY2I0MWM5YzU0ZTU3OTdhZDgwZGE5MzQxODBkNGNi",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMGU3ZTFmMTkwMTY3MjAzYjQ1ODlkYmMzYjdiZGY5NmYx",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -883,30 +883,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "O Justo N\u00e3o Treme",
-        "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 169057,
-      "name": "O Justo N\u00e3o Treme",
-      "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Dolce & Gabbana",
         "url": "https://open.spotify.com/album/2JhwjvmOEdWLGx78QladVw"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 145307,
       "name": "Dolce & Gabbana",
       "url": "https://open.spotify.com/track/3M132kZMsHNU0KaBwn85HY"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "O Justo N\u00e3o Treme",
+        "url": "https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 169057,
+      "name": "O Justo N\u00e3o Treme",
+      "url": "https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD"
     },
     {
       "added_at": "2022-11-11 03:01:00",

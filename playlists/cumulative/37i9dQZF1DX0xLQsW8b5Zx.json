@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 150866,
       "name": "At The Hop",
       "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 201667,
       "name": "Baby Come Back",
       "url": "https://open.spotify.com/track/0giw3w1nkwpF7isclQaUy0"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 175679,
       "name": "Chevy 55",
       "url": "https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu"
@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "Presenting Janis Martin",
+        "url": "https://open.spotify.com/album/5abkpFt631EzDivxIIzm7E"
+      },
+      "artists": [
+        {
+          "name": "Janis Martin",
+          "url": "https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129052,
+      "name": "Drugstore Rock'n'roll",
+      "url": "https://open.spotify.com/track/2CSc9piC2paA385jhFIXcR"
+    },
+    {
+      "album": {
         "name": "Evelina",
         "url": "https://open.spotify.com/album/6ch1WDU2LlmHlCsZx5Iy4i"
       },
@@ -941,7 +959,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 149053,
       "name": "Favourite Song",
       "url": "https://open.spotify.com/track/1R5aCMXj3rYVL1tAaKF9Ra"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 137813,
       "name": "Fire Bug",
       "url": "https://open.spotify.com/track/7r5V7GyOhmcHWAv5D9YYPn"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 161508,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 126500,
       "name": "Go Go Go",
       "url": "https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 159146,
       "name": "Hit Me Up",
       "url": "https://open.spotify.com/track/5KqiNRi6S6QCpBZNrctsB3"
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 183373,
       "name": "Honky Tonk Train",
       "url": "https://open.spotify.com/track/5Hiig8bBkvu3OmtY2ozHCQ"
@@ -1385,6 +1403,24 @@
       "duration_ms": 190240,
       "name": "How You Want It Done",
       "url": "https://open.spotify.com/track/3y2I4D8IrJNuZoUFC7cKNF"
+    },
+    {
+      "album": {
+        "name": "Today, Tomorrow And Forever - 20 Classics (Original Gusto Recordings)",
+        "url": "https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141893,
+      "name": "I Got A Lot Of Rhythm In My Soul - Original Gusto Recordings",
+      "url": "https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ"
     },
     {
       "album": {
@@ -1453,7 +1489,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 172140,
       "name": "I Need a Man",
       "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 125840,
       "name": "Lip Lickin' Lou",
       "url": "https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u"
@@ -1651,7 +1687,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 167132,
       "name": "Little Ol\u00b4 You",
       "url": "https://open.spotify.com/track/1zphxbVR8JcBLx9uufxd5F"
@@ -1813,7 +1849,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 146728,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/6bhTvzvIPjOLtsGAhyaHfH"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 138986,
       "name": "New Rock The Joint",
       "url": "https://open.spotify.com/track/2msqQpB7YcypMKIx6W5qG5"
@@ -1907,7 +1943,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/5WLS5Fz6pW8AUwio6BGJJ2"
@@ -2005,7 +2041,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 160286,
       "name": "Oh Baby",
       "url": "https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq"
@@ -2185,7 +2221,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 149584,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/31ajddT1F78QGsGLWonOaq"
@@ -2491,7 +2527,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 152026,
       "name": "Rockabilly Guy",
       "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"
@@ -2527,7 +2563,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 116426,
       "name": "Rockabilly Music",
       "url": "https://open.spotify.com/track/4xYBy6RwEKICh1uOF4btL1"
@@ -2545,7 +2581,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 149293,
       "name": "Rockabilly Rebel",
       "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
@@ -2787,7 +2823,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 119360,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/3oAWTk92mZBxKBOKf8mR5v"
@@ -2877,7 +2913,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 207568,
       "name": "Tempo Tantrum",
       "url": "https://open.spotify.com/track/6iEk06fyAxeR7YKu2D2AV2"
@@ -2989,7 +3025,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 144226,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
@@ -3007,7 +3043,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 186906,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/6evNakVewSYjoUmEIEEHLi"
@@ -3025,7 +3061,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 187533,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/0BGFXKfJ8Dpjxfn86HLhYz"
@@ -3169,7 +3205,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"

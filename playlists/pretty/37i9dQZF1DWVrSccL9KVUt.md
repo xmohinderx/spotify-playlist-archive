@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,057 likes - 80 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,105 likes - 80 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 20 | [For Your Glory](https://open.spotify.com/track/6AQWVm4CSPxd8xNmgWjwmA) | [Claire Odogbo](https://open.spotify.com/artist/0aYZZ1xnZxsz4YwxJ0f5xu) | [For Your Glory](https://open.spotify.com/album/6IAvSdF3pVGPueVGcWtazv) | 3:59 |
 | 21 | [Come, O Lord \(Maranatha\)](https://open.spotify.com/track/1g1XJ6h4AjmyfLyVQW87nN) | [Lindsay McCaul](https://open.spotify.com/artist/5Uv2TI0hmA1bOTAh71Hgl1) | [Come, O Lord \(Maranatha\)](https://open.spotify.com/album/0V0zpqXH7BsRG0xGfCOjzL) | 4:40 |
 | 22 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/7JEDvPv2Sikct7pyTyb2fx) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:42 |
-| 23 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/6neaivVn7OSS2N1KF3j37f) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Tasha Cobbs Leonard Collection](https://open.spotify.com/album/66TZOGnvzfPNKtE50WN99p) | 6:37 |
+| 23 | [What He's Done \- Live From Passion 2022](https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 6:37 |
 | 24 | [The Detour \- Live](https://open.spotify.com/track/7MXheyD5Stj50XiDpzzxmE) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb), [Tamar Chipp](https://open.spotify.com/artist/0aTfN6w6p8VWNWDyDVuCBu) | [The Detour \(Live\)](https://open.spotify.com/album/162gBk3kJC26sMRB8SBZh5) | 6:41 |
 | 25 | [Resurrender \- Live](https://open.spotify.com/track/2yYsMsc5Ic7HZoOS3DbGMZ) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [These Same Skies \(Live\)](https://open.spotify.com/album/08skyG33WqHITgFg6S09LR) | 7:02 |
 | 26 | [Fountain \(I Am Good\) \- Live](https://open.spotify.com/track/0rrDGNRps64Pgz1Gw6AYBi) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [HUMAN \(Live\)](https://open.spotify.com/album/7HmAM0U9QhlkQiIYZU4lYm) | 5:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 79 | [Spirit Break Out \- Live](https://open.spotify.com/track/573mudwDhftRSSbvLHC8xS) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Still Believe \(Live\)](https://open.spotify.com/album/5SjDZwjks6vfJxdXbGnLal) | 6:22 |
 | 80 | [Know You \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/38Oqk3geeK0GAYA7dxxUZ9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [I AM](https://open.spotify.com/album/7sp7t59cny1pmM0JImzODg) | 4:49 |
 
-Snapshot ID: `MTY0Njc5NzMxNSwwMDAwMDAwMDVhNGE3NzBhMjE2ODMwYzQ5ZGVjM2Q0M2M2ZTQ1YTc3`
+Snapshot ID: `MTY0Njc5NzMxNSwwMDAwMDAwMDM4MDdlNjUwNWFhMDA4MDY3ZWQ2MjE0NTJhNWM0M2Zh`

@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 210424,
       "name": "Corno",
       "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
@@ -1162,6 +1162,28 @@
     },
     {
       "album": {
+        "name": "Dando Love",
+        "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Dando Love",
+      "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
+    },
+    {
+      "album": {
         "name": "Viagens",
         "url": "https://open.spotify.com/album/7qHXg8jRGHCITWSrhKYa2Q"
       },
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 182173,
       "name": "Dando Love",
       "url": "https://open.spotify.com/track/1np3KRvBS7DJzUBEPP9mGB"
@@ -4249,7 +4271,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 196567,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
@@ -4821,7 +4843,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 210971,
       "name": "Tempo Sabi",
       "url": "https://open.spotify.com/track/3FqWcsHQVo5aFBVUBJ465y"
@@ -5285,7 +5307,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 256444,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/4AIPloJ5LE4UvuNfZN4SPS"

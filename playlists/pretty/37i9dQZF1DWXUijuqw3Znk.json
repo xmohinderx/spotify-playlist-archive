@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2399,
+  "num_followers": 2405,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMDIzMTRkYTgxNmY5MmI1YWNiYTMxZTJiMzM4YjE3NmNl",
+  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMGRjNjQ2MDU5NzRiMzQyZDA1YWY3Y2Q5MGJmOWZhYTlh",
   "tracks": [
     {
       "added_at": "2022-11-03 09:17:29",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Unwanted Life",
-        "url": "https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r"
-      },
-      "artists": [
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
-        }
-      ],
-      "duration_ms": 129896,
-      "name": "last day",
-      "url": "https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "TELEVISION",
         "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 192827,
       "name": "Artist",
       "url": "https://open.spotify.com/track/12GJcC8SdDYpkbHvFrgp1w"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "Unwanted Life",
+        "url": "https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 129896,
+      "name": "last day",
+      "url": "https://open.spotify.com/track/0ICkuRd0qNZDZY82kGhs89"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -955,34 +955,30 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
+        "name": "Show Me The Money 9 Semi Final",
+        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
       "artists": [
         {
-          "name": "HD BL4CK",
-          "url": "https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd"
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
         },
         {
-          "name": "oceanfromtheblue",
-          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         },
         {
-          "name": "BRADYSTREET",
-          "url": "https://open.spotify.com/artist/5VWEpJSb8drkormu61Yb5j"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 242970,
-      "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
-      "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
+      "duration_ms": 250986,
+      "name": "Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1011,30 +1007,34 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
+        "name": "4",
+        "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
       "artists": [
         {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+          "name": "HD BL4CK",
+          "url": "https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd"
         },
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
         },
         {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         },
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "BRADYSTREET",
+          "url": "https://open.spotify.com/artist/5VWEpJSb8drkormu61Yb5j"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 250986,
-      "name": "Hero (Feat. JUSTHIS, Golden) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/18KL3cwcbZ5bOlfo9y94h0"
+      "duration_ms": 242970,
+      "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
+      "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 186644,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 162901,
       "name": "24 Hours (Feat. Chin, SC4F & MADII)",
       "url": "https://open.spotify.com/track/1qucwOrgFKSZPFWbqTZZOe"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 161191,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 263123,
       "name": "Brrr Get$",
       "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 161191,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1699,30 +1699,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "RESPECT (feat.GRAY & DJ Pumkin)",
-      "url": "https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
         "url": "https://open.spotify.com/album/7B9Hkeo69vV37dRqgcUUap"
       },
@@ -1747,6 +1723,30 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "RESPECT (feat.GRAY & DJ Pumkin)",
+      "url": "https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
-      },
-      "artists": [
-        {
-          "name": "Rohann",
-          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Long Live",
-      "url": "https://open.spotify.com/track/0NNIZbiOB8KzYWPMAS3kaT"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "natural high",
         "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 140411,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2pk89iEVjniYqNAZNxWDx5"
+      },
+      "artists": [
+        {
+          "name": "Rohann",
+          "url": "https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Long Live",
+      "url": "https://open.spotify.com/track/0NNIZbiOB8KzYWPMAS3kaT"
     },
     {
       "added_at": "2022-11-03 09:17:29",

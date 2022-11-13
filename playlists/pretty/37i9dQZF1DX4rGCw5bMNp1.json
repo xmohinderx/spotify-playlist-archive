@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 117253,
+  "num_followers": 117306,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGYwMzdjYmU3NDZkNGYyNzlkYTliYWQ2Y2YzOGUyNzFk",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGYyODQzYzg5ZjcxZjlhM2VjNTAyMGRjOGE1YjZkNzYx",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -23,6 +23,22 @@
       "duration_ms": 321133,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "My Babe",
+      "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -107,6 +123,38 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Chicago Bound",
+        "url": "https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rogers",
+          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "That's All Right - 1950 Single Version",
+      "url": "https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/59KEdgFnT3QYxd3GYoGJQY"
       },
@@ -123,18 +171,34 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "Masters Of Modern Blues",
+        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Floyd Jones",
+          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
         }
       ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+      "duration_ms": 217120,
+      "name": "Dark Road",
+      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+      },
+      "artists": [
+        {
+          "name": "A.C. Reed",
+          "url": "https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "She's Fine",
+      "url": "https://open.spotify.com/track/1GUvbwCftGCU9HTeg1DPAW"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -151,6 +215,22 @@
       "duration_ms": 337600,
       "name": "They call me the snake",
       "url": "https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -183,22 +263,6 @@
       "duration_ms": 400760,
       "name": "I Can't Quit You, Baby",
       "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -251,6 +315,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Living Chicago Blues, Vol. 1",
+        "url": "https://open.spotify.com/album/1LC281g3aunPGKC9KroFHu"
+      },
+      "artists": [
+        {
+          "name": "Eddie Shaw",
+          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/1RhjxMin24HN2YfzJJAu1k"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Blues Burnin' In My Soul",
         "url": "https://open.spotify.com/album/65fpiNjOIr5N05igzAf2UY"
       },
@@ -281,6 +361,38 @@
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
     },
     {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
+      },
+      "artists": [
+        {
+          "name": "Luther \"Guitar Junior\" Johnson",
+          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Somebody Have Mercy",
+      "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
+    },
+    {
       "added_at": "2018-02-27 18:08:29",
       "album": {
         "name": "Heartaches And Pain",
@@ -297,6 +409,22 @@
       "url": "https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ"
     },
     {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
+    },
+    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "I Am The Blues",
@@ -311,6 +439,22 @@
       "duration_ms": 216373,
       "name": "The Little Red Rooster",
       "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "Living Chicago Blues, Vol. 3",
+        "url": "https://open.spotify.com/album/6l9iPFb3IBKZxrCwphkvH4"
+      },
+      "artists": [
+        {
+          "name": "Lacy Gibson",
+          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
+        }
+      ],
+      "duration_ms": 280573,
+      "name": "Drown In My Own Tears",
+      "url": "https://open.spotify.com/track/4bdbkXLaoccDNp6lLsZWRG"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -343,6 +487,38 @@
       "duration_ms": 378493,
       "name": "Little Red Rooster",
       "url": "https://open.spotify.com/track/3dwWMDLZlZxtkvTjVA5J1Z"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
+    },
+    {
+      "added_at": "2016-03-21 20:31:35",
+      "album": {
+        "name": "Electric Blues",
+        "url": "https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "I'm A Man - Single Version",
+      "url": "https://open.spotify.com/track/0zN29YHQSZz1WbyA3DAOrq"
     },
     {
       "added_at": "2018-02-27 18:08:29",
@@ -419,6 +595,22 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
+        "name": "Living Chicago Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/43C63zjLcEuvFP1XTaT87R"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Big Moose\" Walker",
+          "url": "https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Worry, Worry",
+      "url": "https://open.spotify.com/track/5wBx2WLtOOeWl56AVWABM3"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
         "name": "Change My Blues",
         "url": "https://open.spotify.com/album/6U3s4tNpNDKygphGvQnmye"
       },
@@ -487,18 +679,18 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Electric Blues",
-        "url": "https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay"
+        "name": "Blues For Breakfast",
+        "url": "https://open.spotify.com/album/4ClzhSfF7NRSAupzyrDVVS"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 182440,
-      "name": "I'm A Man - Single Version",
-      "url": "https://open.spotify.com/track/0zN29YHQSZz1WbyA3DAOrq"
+      "duration_ms": 188400,
+      "name": "Smokestack Lightnin'",
+      "url": "https://open.spotify.com/track/4krobbTjiq5DVDRgzqnL6C"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -567,38 +759,6 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "Blues For Breakfast",
-        "url": "https://open.spotify.com/album/4ClzhSfF7NRSAupzyrDVVS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Smokestack Lightnin'",
-      "url": "https://open.spotify.com/track/4krobbTjiq5DVDRgzqnL6C"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Electric Blues",
-        "url": "https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 164373,
-      "name": "My Babe",
-      "url": "https://open.spotify.com/track/6gQ1g15FR2MKXAgcYuy5RN"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
         "name": "Blues Legends",
         "url": "https://open.spotify.com/album/37iC7WU0Iv7a6N06zmllad"
       },
@@ -629,94 +789,6 @@
       "url": "https://open.spotify.com/track/00Cpv4Wr77I2kboxSUEt59"
     },
     {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/0ooBYskd0qLIY9pIFwbmnn"
-      },
-      "artists": [
-        {
-          "name": "A.C. Reed",
-          "url": "https://open.spotify.com/artist/1i31XKLddtEeOIr0nPcxdj"
-        },
-        {
-          "name": "Corthen",
-          "url": "https://open.spotify.com/artist/1RcA27CtoyAoLEkz2QGyBz"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "She's Fine",
-      "url": "https://open.spotify.com/track/4Szy8S9I8qfoVpXwpVKUlU"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Chicago Blues Hits",
-        "url": "https://open.spotify.com/album/5Yzku2Zgi5y2jbXExeTkYN"
-      },
-      "artists": [
-        {
-          "name": "Floyd Jones",
-          "url": "https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Dark Road",
-      "url": "https://open.spotify.com/track/4PUQ70vxaLgH5pF3WVPLyb"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Chillin' in the Name of...Blues",
-        "url": "https://open.spotify.com/album/7nOCAqSc14mLbGNAIl1SC8"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move on",
-      "url": "https://open.spotify.com/track/1w3XLSo35gK7ia8M5Nhnwg"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Ramblin' Blues",
-        "url": "https://open.spotify.com/album/4hA78LbrLoiFpKGtTOS3u8"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "That's All Right - 1950 Single Version",
-      "url": "https://open.spotify.com/track/3OoKt42ZGT3GlTilJy1MmC"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Twelve Bar Blues",
-        "url": "https://open.spotify.com/album/1uLhkp0USoYUlpcteVDKzY"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Big Moose\" Walker",
-          "url": "https://open.spotify.com/artist/0a4xVWpLoNjWN8NbMqE6tU"
-        },
-        {
-          "name": "Walker",
-          "url": "https://open.spotify.com/artist/6JfwyLIkNQkzBwDFKia7xm"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Worry, Worry",
-      "url": "https://open.spotify.com/track/3fSIkaS23kGVy0zuLzeal9"
-    },
-    {
       "added_at": "2016-03-21 20:31:35",
       "album": {
         "name": "The Chess Story 1957-1964",
@@ -735,88 +807,8 @@
     {
       "added_at": "2016-03-21 20:31:35",
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 162813,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/69irdws83XvpNSSMnpHZr7"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Blues Ballads",
-        "url": "https://open.spotify.com/album/0w9dUoFQIdEZpilkUmBaWA"
-      },
-      "artists": [
-        {
-          "name": "Lacy Gibson",
-          "url": "https://open.spotify.com/artist/54sySc5ynnkqxkG2dEMLQe"
-        }
-      ],
-      "duration_ms": 280573,
-      "name": "Drown In My Own Tears",
-      "url": "https://open.spotify.com/track/3V287clpKXwj3hpcvHJRao"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Dark Night Blues",
-        "url": "https://open.spotify.com/album/6B0ZEve2A9lyXSVRpytTK0"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6F5mSD6fbhRYdbji7CecRf"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Electric Blues",
-        "url": "https://open.spotify.com/album/0sSdzGeeI6vmhm2Q8oPqpS"
-      },
-      "artists": [
-        {
-          "name": "Luther \"Guitar Junior\" Johnson",
-          "url": "https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Somebody Have Mercy",
-      "url": "https://open.spotify.com/track/0LijF4KTjEA2eTRxGd613X"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
-        "name": "Blues That Never Grow Old - 25 Classic Songs",
-        "url": "https://open.spotify.com/album/4hI19cmFQxYxNq0yIPCADV"
-      },
-      "artists": [
-        {
-          "name": "Eddie Shaw",
-          "url": "https://open.spotify.com/artist/62Cl3kOtJGWR09eIHhkUgO"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Sittin' on Top of the World",
-      "url": "https://open.spotify.com/track/0UlNU2hxAnQ9hoJiflLTCb"
-    },
-    {
-      "added_at": "2016-03-21 20:31:35",
-      "album": {
-        "name": "Chicago Blues Hits",
-        "url": "https://open.spotify.com/album/5Yzku2Zgi5y2jbXExeTkYN"
+        "name": "Masters Of Modern Blues",
+        "url": "https://open.spotify.com/album/4Yc96v0yuxGRebLw9iDY0O"
       },
       "artists": [
         {
@@ -826,7 +818,7 @@
       ],
       "duration_ms": 217120,
       "name": "Dark Road",
-      "url": "https://open.spotify.com/track/4PUQ70vxaLgH5pF3WVPLyb"
+      "url": "https://open.spotify.com/track/4v9Q6IItjISJFNXvFYtSWo"
     }
   ],
   "unique_name": "Chicago Blues",

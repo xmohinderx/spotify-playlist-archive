@@ -1,12 +1,12 @@
 {
   "description": "El t\u00edtulo lo dice todo! Work it out with the OG's of Reggaeton!",
-  "num_followers": 1601563,
+  "num_followers": 1601555,
   "original_name": "Perreo Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NTc5OCwwMDAwMDAwMDNiZWIzYmJmZmEwMGRhZDYyYmM4ZGM4MDViNGVkZTk0",
+  "snapshot_id": "MTY1ODg1NTc5OCwwMDAwMDAwMGVhODA5ODgyM2JhNzU3MTkwYWY0NjE2OTM0Yjk3Y2Qw",
   "tracks": [
     {
       "added_at": "2022-07-26 17:16:38",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 172680,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 212413,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -547,6 +547,42 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Biograf\u00eda",
+        "url": "https://open.spotify.com/album/3wLLsfcFRMs0FkvI0LU3jE"
+      },
+      "artists": [
+        {
+          "name": "The Noise",
+          "url": "https://open.spotify.com/artist/0xbdsXms9xTAtNmROodyy8"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Me Pones en Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/5WVZfMIrS6hbvwG8hpRHCR"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "The Perfect Melody",
         "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
       },
@@ -563,6 +599,38 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
+        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Ahora Es",
+      "url": "https://open.spotify.com/track/15wPtgg6jsyMLhIkjcSpl4"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Noche de Travesura",
+      "url": "https://open.spotify.com/track/1DdrejuwM8C3ExsXaPAgF8"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "La Familia B Sides",
         "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
       },
@@ -575,22 +643,6 @@
       "duration_ms": 226413,
       "name": "Ay Vamos",
       "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "La Revolucion (Deluxe)",
-        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -635,6 +687,54 @@
       "duration_ms": 257864,
       "name": "Bellacoso",
       "url": "https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "La Revolucion (Deluxe)",
+        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/6Zdjh0uRQPt22BPckJgvEj"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Hector",
+          "url": "https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2"
+        },
+        {
+          "name": "Tonny Tun Tun",
+          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
+        }
+      ],
+      "duration_ms": 263293,
+      "name": "Noche De Entierro",
+      "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -731,38 +831,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Hector",
-          "url": "https://open.spotify.com/artist/46EVasHDUzMdhBXeQ7r0W2"
-        },
-        {
-          "name": "Tonny Tun Tun",
-          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
-        }
-      ],
-      "duration_ms": 263293,
-      "name": "Noche De Entierro",
-      "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
@@ -779,6 +847,22 @@
       "duration_ms": 243226,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "Wisin Y Yandel Presentan: Los Vaqueros",
+        "url": "https://open.spotify.com/album/5gHKtewt6CtuGLiAj2m3XC"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Quizas",
+      "url": "https://open.spotify.com/track/1jj80muEnrqByfH2omBOcZ"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -927,42 +1011,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "LEYENDAS",
-      "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -1003,6 +1051,42 @@
       "duration_ms": 187080,
       "name": "Baila Morena (with Luny Tunes, Noriega) - Remix",
       "url": "https://open.spotify.com/track/4qbi9JDziBh3cxi9SFUbeu"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "LEYENDAS",
+      "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1075,6 +1159,22 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "Diva Platinum Edition",
         "url": "https://open.spotify.com/album/5n1pmoNSuLWs9bSGXzUY7e"
       },
@@ -1131,6 +1231,26 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "El Sobreviviente",
+        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Saoco",
+      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "Enoc",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1147,18 +1267,26 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Reggaeton",
-        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+        "name": "Mas Flow, Vol. 1",
+        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Reggaeton",
-      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+      "duration_ms": 242573,
+      "name": "M\u00e9tele Saz\u00f3n",
+      "url": "https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1183,46 +1311,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Mas Flow, Vol. 1",
-        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
-      },
-      "artists": [
-        {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
-        },
-        {
-          "name": "Noriega",
-          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/2TBu0mCd9swbPWIzpSZgvf"
       },
@@ -1243,6 +1331,22 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 123253,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "It's My Time",
         "url": "https://open.spotify.com/album/1xAIagWtSmzXVaVL6DZDIe"
       },
@@ -1255,6 +1359,22 @@
       "duration_ms": 188320,
       "name": "Sol, Playa Y Arena",
       "url": "https://open.spotify.com/track/2OikDCslmF1Y04Szgbc8Hl"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1283,22 +1403,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "La Historia De El D\u00fao (Vol.1)",
-        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "Duro y Suave",
         "url": "https://open.spotify.com/album/7as9B0RBSX3cxUIs1MlZ4V"
       },
@@ -1319,6 +1423,46 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Pa'l Mundo",
+        "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "Llam\u00e9 Pa' Verte (Bailando Sexy)",
+      "url": "https://open.spotify.com/track/5SgN4mSGVEZ8TZQ5YSsKKb"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "Mas Flow, Vol. 1",
+        "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
+      },
+      "artists": [
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Noriega",
+          "url": "https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "The Perfect Melody",
         "url": "https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v"
       },
@@ -1331,6 +1475,26 @@
       "duration_ms": 235311,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1363,26 +1527,6 @@
       "duration_ms": 208840,
       "name": "Bata Bata 2",
       "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1443,22 +1587,6 @@
       "duration_ms": 282133,
       "name": "Pegaito a la Pared (feat. Plan B) - Remix",
       "url": "https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "Pa'l Mundo",
-        "url": "https://open.spotify.com/album/3TheioK614VC2aRMhfKS6h"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/0mHrQV5Tu8cjioNpNGG7N1"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1571,26 +1699,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "The Underdog - El Subestimado",
-        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "Cuando Baila Reggaeton",
-      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "Los Reyes del Perreo",
         "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
       },
@@ -1675,26 +1783,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "La Revolucion",
-        "url": "https://open.spotify.com/album/3Sr7T1yqfT64fTNdJxFWKy"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "Mujeres In The Club",
-      "url": "https://open.spotify.com/track/0N3pBL7paIxuOsyFVf6kyk"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "Latin Party",
         "url": "https://open.spotify.com/album/5IXBIo7E8V2JR9lILcAIaL"
       },
@@ -1715,18 +1803,22 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Regaetton Hits",
-        "url": "https://open.spotify.com/album/17zIDSCD7jEwW4afb8P7IU"
+        "name": "The Underdog - El Subestimado",
+        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
       },
       "artists": [
         {
           "name": "Tego Calder\u00f3n",
           "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 242520,
-      "name": "Metele Saz\u00f3n",
-      "url": "https://open.spotify.com/track/0TGXhbsTJ1LohY8HvmxSvT"
+      "duration_ms": 184480,
+      "name": "Cuando Baila Reggaeton",
+      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1755,6 +1847,22 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
+        "name": "Una Vaina Loca (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Una Vaina Loca - Original",
+      "url": "https://open.spotify.com/track/6HNAuECjNqIzYID3q1nqZl"
+    },
+    {
+      "added_at": "2022-07-26 17:16:38",
+      "album": {
         "name": "BRB Be Right Back",
         "url": "https://open.spotify.com/album/4UH0KVGha7Ni3ZHIACGPCH"
       },
@@ -1767,22 +1875,6 @@
       "duration_ms": 199400,
       "name": "Mera",
       "url": "https://open.spotify.com/track/4etu1vf1o3YYNUN0z4HiPs"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "N U Records Vol 1",
-        "url": "https://open.spotify.com/album/67w3YdUVyuKepZiojNMDDy"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Me Pones en Tencion",
-      "url": "https://open.spotify.com/track/4AVo5r5o4no7jc6iddpLez"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1807,22 +1899,6 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Mi Trayectoria",
-        "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 247880,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2I5t51Owfi75ax50m6koNT"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
         "name": "La Escuela",
         "url": "https://open.spotify.com/album/7jcuqVDIb9BYElfLRxjy3h"
       },
@@ -1843,86 +1919,18 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "Una Vaina Loca (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS"
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         }
       ],
-      "duration_ms": 188894,
-      "name": "Una Vaina Loca - Original",
-      "url": "https://open.spotify.com/track/6HNAuECjNqIzYID3q1nqZl"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "Flow La Discoteca Special Edition",
-        "url": "https://open.spotify.com/album/6Wleak7A98DpzviDaqYrEX"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        }
-      ],
-      "duration_ms": 212739,
-      "name": "Noche de Travesura",
-      "url": "https://open.spotify.com/track/4BLIFDDhS6zByPJrjIK3jR"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "Wisin & Yandel y Amigos",
-        "url": "https://open.spotify.com/album/6hi0iodw6kzqb5nXaEAmIm"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Saoco",
-      "url": "https://open.spotify.com/track/3spYXzQKHXwGabld9m54SY"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "Bichota Summer",
-        "url": "https://open.spotify.com/album/5UQzyTtwvMfM6yuMH91y3I"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 123680,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/2fkCahe2uAqfK7awICDTFK"
-    },
-    {
-      "added_at": "2022-07-26 17:16:38",
-      "album": {
-        "name": "Reggaeton Radiactivo",
-        "url": "https://open.spotify.com/album/6u8VhjMBKseY7aDE8kRGfI"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Quizas",
-      "url": "https://open.spotify.com/track/42vvjqjeEKUknlrG6x3jpj"
+      "duration_ms": 247880,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2I5t51Owfi75ax50m6koNT"
     },
     {
       "added_at": "2022-07-26 17:16:38",
@@ -1943,18 +1951,34 @@
     {
       "added_at": "2022-07-26 17:16:38",
       "album": {
-        "name": "La Misi\u00f3n 3",
-        "url": "https://open.spotify.com/album/6UcSbQqlzVI0kRv2YFEmSJ"
+        "name": "Mas Flow 2",
+        "url": "https://open.spotify.com/album/10bXI84d97WceZe9A41gaM"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Tonny Tun Tun",
+          "url": "https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         }
       ],
-      "duration_ms": 179173,
-      "name": "Dembow",
-      "url": "https://open.spotify.com/track/02rB4aVuOsus0R1ZngotiS"
+      "duration_ms": 248013,
+      "name": "Mayor Que Yo",
+      "url": "https://open.spotify.com/track/0H26e1PgtkQ2aTRZEKWOOO"
     },
     {
       "added_at": "2022-07-26 17:16:38",

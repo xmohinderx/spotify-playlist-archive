@@ -1250,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "Feel The Panic EP",
+        "url": "https://open.spotify.com/album/0cqklN2AwGsjJpKwBAvfmZ"
+      },
+      "artists": [
+        {
+          "name": "Barely Alive",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Drew Seeley",
+          "url": "https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/3nwiXEeuhYGWszEWPOzvK4"
+    },
+    {
+      "album": {
         "name": "Crush (VIP)",
         "url": "https://open.spotify.com/album/2IdrcmtQZbqPqdNDS4uwpi"
       },
@@ -2223,7 +2245,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 252800,
       "name": "Haxo -Sharks Remix",
       "url": "https://open.spotify.com/track/1HIj9nk8ceUK7o87SgXv8o"
@@ -2381,7 +2403,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 176000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/6Zm9SrQT7fzlI7HGOx0ARg"
@@ -3068,6 +3090,28 @@
     },
     {
       "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/0WRIGptzXtdFiqKtjK93jU"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259150,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/6647nIIdCk4bIhgAowggN3"
+    },
+    {
+      "album": {
         "name": "Bangers[7].Zip",
         "url": "https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV"
       },
@@ -3079,6 +3123,10 @@
         {
           "name": "ProbCause",
           "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        },
+        {
+          "name": "Chrishira Perrier",
+          "url": "https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2"
         }
       ],
       "date_added": "2022-11-11",

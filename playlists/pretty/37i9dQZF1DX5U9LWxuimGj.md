@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,195 likes - 92 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,207 likes - 92 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 3 | [Como Las Cinco Un Viernes \- 5 on a Friday \- Spanish Version](https://open.spotify.com/track/3ndv8kUmluaGkfrHMeYfmo) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Kat & Alex Lado B](https://open.spotify.com/album/2q3MgdvSHJ2MbldHccxoC2) | 2:41 |
 | 4 | [Chero en la Gran Ciudad](https://open.spotify.com/track/6Xc7SksAQwy2sbX1dAbT45) | [Los Vikingos Del Norte](https://open.spotify.com/artist/1M4xkleBO7JywHJ9oPw3qM), [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Chero en la Gran Ciudad](https://open.spotify.com/album/5lhxb1lo9wPEKi0CdCNehw) | 2:32 |
 | 5 | [506](https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [506](https://open.spotify.com/album/38coX6excq4obQR4Z7sww7) | 3:00 |
-| 6 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/7MT3csTkm4yhkmNOlsbwn5) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/4Uty8PTjWY2INcCub7h40P) | 3:01 |
+| 6 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/6RJH2nSmmxFOynFDzNfik8) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:01 |
 | 7 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 |
 | 8 | [Se Va A Arrepentir](https://open.spotify.com/track/3tV7TCBFRB4dZ03gYwZ7Ax) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 3:18 |
 | 9 | [Crying \(Bilingual Version\)](https://open.spotify.com/track/0CYzZDqEq4O7ArwvMqzQ7B) | [Veronique Medrano](https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h) | [Crying](https://open.spotify.com/album/4vkqPJ5odJpdDKBOPV338B) | 3:17 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 91 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 92 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGU2NDY5MTQ0ZjZhYzA5ZWUxZGJhZTk4ODg5ZDgzM2Jm`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMGRkNjExYmNiOTE5ZWFkNDhlZGIzMjNkOWYwYjc5Y2Zi`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: In Flames
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,305 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,402 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |
-| 2 | [Faster Than the Flame \(feat\. Tribune\)](https://open.spotify.com/track/6HOmPvM5DhVqSXHXmjs5BL) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v), [Tribune](https://open.spotify.com/artist/4oB7TLibxO4oPGg8EM4fjL) | [Missa Cantorem II](https://open.spotify.com/album/1VVRLSJkxN94viXp3LY7ck) | 4:08 |
+| 2 | [Faster Than the Flame](https://open.spotify.com/track/6GmC728IZoBU37lU1LW02M) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Call of the Wild \(Deluxe Version\)](https://open.spotify.com/album/6JhuNA7potIMg6r29IVULP) | 4:08 |
 | 3 | [Puppet](https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Puppet](https://open.spotify.com/album/5KqCYl5glzwAcnF0Gg9LJD) | 3:37 |
 | 4 | [Sirens \- Of Blood And Water \(feat\. Charlotte Wessels & Myrkur\)](https://open.spotify.com/track/5bTxkjZHb0F3rm38IODQSP) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI), [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [The Alchemy Project](https://open.spotify.com/album/5So2cOEFCkkxZ7o5DAvpPH) | 4:17 |
 | 5 | [Echo Chamber \- Instrumental](https://open.spotify.com/track/36YQspA6jtaf0oLEFr17xP) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Obsidian \- Deluxe Edition](https://open.spotify.com/album/5CISWq73PwPl4oKtHRMJ85) | 3:47 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 16 | [Impervious](https://open.spotify.com/track/7x6FUv2LJm4YFbyiMuWhtn) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Rumination](https://open.spotify.com/album/2lJ7fbaF6uMci8ClV3rmdZ) | 4:22 |
 | 17 | [Hellfire](https://open.spotify.com/track/3Dmc9BXegSOFtIamWtxEWL) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [Morgana le Fay](https://open.spotify.com/artist/2A8LeO68UBKqfB9fJbzEFA) | [Hellfire](https://open.spotify.com/album/0iVJ4t5Odb9DMHJvA6BrqG) | 4:47 |
 | 18 | [HELL HELL HELL](https://open.spotify.com/track/70MYImV7MVQRNaBYO20Uu8) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [HELL HELL HELL](https://open.spotify.com/album/3CAhhDoYn6nRzE5fkw9vNK) | 3:26 |
-| 19 | [Windwaker](https://open.spotify.com/track/5DRgqeHoGaW6NsAgPUmeex) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Left In The Dark](https://open.spotify.com/album/5YRCKKv0nOTgc7hG0ZwC5J) | 3:20 |
+| 19 | [Left In The Dark](https://open.spotify.com/track/5DRgqeHoGaW6NsAgPUmeex) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Left In The Dark](https://open.spotify.com/album/5YRCKKv0nOTgc7hG0ZwC5J) | 3:20 |
 | 20 | [Abandon Ship](https://open.spotify.com/track/0zZd1LoEfMjvtkGFItBv1s) | [Designer Disguise](https://open.spotify.com/artist/6CIDG937dHbankZzK4IlYu) | [Abandon Ship](https://open.spotify.com/album/0e7dX2YzTluwSbxGHbVQyG) | 3:13 |
 | 21 | [Don't Bite](https://open.spotify.com/track/00i4GBlWaDeQeZ5DSimomr) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [New Lows](https://open.spotify.com/album/1MVkPSk8Ns6ImzFgwRr7sT) | 3:10 |
 | 22 | [From the Beginning to the End](https://open.spotify.com/track/6ZAXehxcLXCGNQ8k6bOMKv) | [Faustus](https://open.spotify.com/artist/5DBSjSUebxUX0uBiMK63kR) | [Memoriam](https://open.spotify.com/album/1riakHjT73Kskg1beLwwGC) | 5:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 49 | [Exhumed From Flaming Stars](https://open.spotify.com/track/6fEjArjWtHYFyj6O2nVPH6) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Exhumed From Flaming Stars](https://open.spotify.com/album/3D3IhciCDCrmKbsUeSx6GP) | 4:49 |
 | 50 | [EyesHornsMouth](https://open.spotify.com/track/7eGWesq2qELWqNPAZmYZPv) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [EyesHornsMouth](https://open.spotify.com/album/64AGOx4vfAeAZJbclzHA9B) | 4:04 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDJjZWU4Y2IzZjM5MzFmMzA0ZWUxMDkwZDVhY2UwZGZm`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDFiNTU5NjdkYTZhNzFhZjJiODc0Njg0ZGViMTMxNDEz`

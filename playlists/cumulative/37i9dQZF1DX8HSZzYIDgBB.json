@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 179817,
       "name": "Futurista",
       "url": "https://open.spotify.com/track/4r3Y9SJaBaf4DQesuSciA7"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 179817,
       "name": "Futurista",
       "url": "https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 252040,
       "name": "Hoy Como Siempre",
       "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 252040,
       "name": "Hoy Como Siempre",
       "url": "https://open.spotify.com/track/6eIHV4J24fRfxOufyavUbw"
@@ -2493,7 +2493,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 205114,
       "name": "No la Controles",
       "url": "https://open.spotify.com/track/3h8lcSa7U2hB5c57LOliqE"
@@ -2893,6 +2893,28 @@
       "duration_ms": 154440,
       "name": "Perdida En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
+    },
+    {
+      "album": {
+        "name": "Piedras del Sol",
+        "url": "https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222426,
+      "name": "Piedras del Sol",
+      "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
     },
     {
       "album": {

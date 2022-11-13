@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,859 likes - 128 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,938 likes - 128 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 65 | [믿어줄래](https://open.spotify.com/track/3t9aeFQEtd2dhuTeNCtZ6Z) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 3:05 |
 | 66 | [PAGE](https://open.spotify.com/track/3BTaItolEPypIOZd8pxKoM) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 3:44 |
 | 67 | [Oxygen](https://open.spotify.com/track/1L3l7GXxByDSriYTwbwuZm) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Oxygen](https://open.spotify.com/album/4u7xwZruQeBV8hNcJVf3Xw) | 2:38 |
-| 68 | [TAKE](https://open.spotify.com/track/4KeRCk1CaMCFH9ekISSgZo) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [HE IS PSYCHOMETRIC \(Original Television Soundtrack\)](https://open.spotify.com/album/3rqvJoshIPePxrNH6Oj3Iv) | 3:12 |
+| 68 | [TAKE](https://open.spotify.com/track/6A5zIuNYZ2IlgqZoTFcjE1) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [HE IS PSYCHOMETRIC \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6NjWRY4d4XN0CNELA9Qn0T) | 3:12 |
 | 69 | [Never Ever](https://open.spotify.com/track/4tzkSoh450XnimhNWVmBhg) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : ARRIVAL](https://open.spotify.com/album/4jMq9hcatjFMJlPb4IpoI5) | 3:14 |
 | 70 | [FOCUS ON ME](https://open.spotify.com/track/1JQPZKIXKU3wdOSjk2ILgM) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:36 |
-| 71 | [Lullaby](https://open.spotify.com/track/0n92ByvQ6uLY7nUG0G9xmO) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:37 |
+| 71 | [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 |
 | 72 | [Look](https://open.spotify.com/track/1ZFQugO7BqYJjw8FVQHcze) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:14 |
 | 73 | [하드캐리 Hard Carry](https://open.spotify.com/track/1xzCUpXSMnAbckUXDwBTlW) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) | 3:13 |
 | 74 | [Teenager](https://open.spotify.com/track/7fiiia7w18MLmPBcjmxeFJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:09 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 82 | [내일, 오늘 Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 |
 | 83 | [안 보여 Come On](https://open.spotify.com/track/7owtO9ZBTqTggJojaTKEkE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:14 |
 | 84 | [Miracle](https://open.spotify.com/track/1yG6zmlUw5Zxxje3nBIjlu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 4:10 |
-| 85 | [Girls Girls Girls](https://open.spotify.com/track/4CF7kR9MIRiuYG2pqr1IOh) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Got It?](https://open.spotify.com/album/7E3W9C5Ac3RKnFpKErEgGD) | 3:33 |
+| 85 | [Girls Girls Girls](https://open.spotify.com/track/2dETpDlDJxEGqDzDMBEksb) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Identify](https://open.spotify.com/album/02dvCQbuBKdU1QHHGtrCHy) | 3:33 |
 | 86 | [Thank You](https://open.spotify.com/track/4zqhiObNLChqnBSEzR9Jla) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:46 |
 | 87 | [Paradise](https://open.spotify.com/track/5J7LpvVQDhSErvu6GVX5yg) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : ARRIVAL](https://open.spotify.com/album/4jMq9hcatjFMJlPb4IpoI5) | 3:31 |
 | 88 | [I Am Me](https://open.spotify.com/track/0sTfJY7Ij9idnH7plzxkkS) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:31 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 95 | [고백송 Confession Song](https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4) | 3:32 |
 | 96 | [난 니가 좋아 I Like You](https://open.spotify.com/track/4w5xK5HwkJyqzlnK9kqaIB) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Got It?](https://open.spotify.com/album/7E3W9C5Ac3RKnFpKErEgGD) | 3:23 |
 | 97 | [My Home](https://open.spotify.com/track/0M0hPIskg4OVC11rkp4Xnp) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) | 3:27 |
-| 98 | [Sunrise](https://open.spotify.com/track/5HfUlXzNYON1VJc4FpEs7N) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:31 |
+| 98 | [Sunrise](https://open.spotify.com/track/74pFS2LJmnYm7GckBLSVOJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:31 |
 | 99 | [TOUCH](https://open.spotify.com/track/5nOofjl5oaTWGeivGfNzDs) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:19 |
 | 100 | [DRUNK ON YOU](https://open.spotify.com/track/3py7jF8h0hJ0QiYoyqUBz5) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:46 |
 | 101 | [SENSES](https://open.spotify.com/track/3C7hRslMCduBjjDyfEYors) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:15 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 127 | [이젠 From Now](https://open.spotify.com/track/1ZM75OgbDpCxACUufAKVvE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:19 |
 | 128 | [No One Else](https://open.spotify.com/track/4QHs3gzvQ0vOMRH5cBxBWY) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:22 |
 
-Snapshot ID: `MTY1NTgwMzU5MCwwMDAwMDAwMDZiZjEzMWE0ZDY5MjAxNjMxNzc5YzUxMTI0NGEwM2Q1`
+Snapshot ID: `MTY1NTgwMzU5MCwwMDAwMDAwMDI0MzEwMGZjYTE0MDM2MGY4NmYyZGJkODE3MDBlNzEy`

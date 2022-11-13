@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,431 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,458 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84lm9VKJ19V.md) - [plain]
 | 51 | [HOME \- Special Request Remix](https://open.spotify.com/track/394z8B6HlnaabwLLKk6Y8A) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [HOME \(Special Request Remix\)](https://open.spotify.com/album/2oskSoxS7OSkoQr0tpuIlq) | 5:22 |
 | 52 | [GO FAST BABY \- Mura Masa Remix](https://open.spotify.com/track/77kwUrhZW5cdteY1tKKXju) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [GO FAST BABY \(Mura Masa Remix\)](https://open.spotify.com/album/4zFWw19tRbQPVrjnWJkZbF) | 2:57 |
 | 53 | [Silk](https://open.spotify.com/track/0wxxDoAQOJHQ4iIx600ptL) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f) | [Sequence](https://open.spotify.com/album/3qRhZ63sgziYOCeWRbITLs) | 4:08 |
-| 54 | [Note To Self](https://open.spotify.com/track/72KsNIxvoOKMGpFSe55PCO) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Note To Self](https://open.spotify.com/album/41LVhTarQ3tlu9fKaprxoq) | 2:17 |
+| 54 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 |
 | 55 | [Pretty](https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/6zzEQ9WSwPleia1tlnNZpe) | 2:46 |
 
-Snapshot ID: `MTY1MzM1NDY4OCwwMDAwMDAwMDlmOTNhZmYyMWYzNjFiMzUwZmU2MzIxM2FmMDI0ZDg5`
+Snapshot ID: `MTY1MzM1NDY4OCwwMDAwMDAwMDY4NWI5YmYxODdmYTc3YjMxNThjYTgwNDQxMGI2MmNj`

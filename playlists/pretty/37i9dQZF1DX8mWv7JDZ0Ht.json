@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lagum (Pedro Calais), Anavit\u00f3ria (Ana Caetano)",
-  "num_followers": 411160,
+  "num_followers": 411295,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3NTg2MCwwMDAwMDAwMDA1YzA3N2YwZDM2OGQ5N2E0YTU4NWJhNzkwYzIyNTM5",
+  "snapshot_id": "MTY2ODE3NTg2MCwwMDAwMDAwMDg2MWQ4Yjg4NTYyMzBiOTY4NDlmZTk4OWU3NjEyNGIw",
   "tracks": [
     {
       "added_at": "2022-11-11 14:11:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
-        "name": "Mundo Novo",
-        "url": "https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 179031,
-      "name": "Porta Do Teu Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX"
-    },
-    {
-      "added_at": "2022-11-11 14:11:00",
-      "album": {
         "name": "Melhor Agora",
         "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 152376,
       "name": "TE AMO (em caixa alta)",
       "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
+    },
+    {
+      "added_at": "2022-11-11 14:11:00",
+      "album": {
+        "name": "Mundo Novo",
+        "url": "https://open.spotify.com/album/3iykO5tq0Q0jEtTgrmpip7"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Porta Do Teu Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/5YWW66ptUmdgUNBKU72sgX"
     },
     {
       "added_at": "2022-11-11 14:11:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
+        "name": "FICA PRO CAF\u00c9",
+        "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "FICA PRO CAF\u00c9",
+      "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
+    },
+    {
+      "added_at": "2022-11-11 14:11:00",
+      "album": {
         "name": "Adoro Amar Voc\u00ea",
         "url": "https://open.spotify.com/album/0dMtLl7Qgizyv3ry7MaZVl"
       },
@@ -975,34 +991,18 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
-        "name": "gostosa",
-        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
+        "name": "Onda Forte",
+        "url": "https://open.spotify.com/album/3TvpZ96xrxz1u5qHNs76Um"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 154820,
-      "name": "gostosa",
-      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
-    },
-    {
-      "added_at": "2022-11-11 14:11:00",
-      "album": {
-        "name": "Que Fase",
-        "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
-      },
-      "artists": [
-        {
-          "name": "Ceci Reis",
-          "url": "https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Qual Fita",
-      "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
+      "duration_ms": 104237,
+      "name": "Onda Forte",
+      "url": "https://open.spotify.com/track/6tLsgc4dTkdEja9eZhaHEt"
     },
     {
       "added_at": "2022-11-11 14:11:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
-        "name": "Onda Forte",
-        "url": "https://open.spotify.com/album/3TvpZ96xrxz1u5qHNs76Um"
+        "name": "Que Fase",
+        "url": "https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "Ceci Reis",
+          "url": "https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf"
         }
       ],
-      "duration_ms": 104237,
-      "name": "Onda Forte",
-      "url": "https://open.spotify.com/track/6tLsgc4dTkdEja9eZhaHEt"
+      "duration_ms": 139058,
+      "name": "Qual Fita",
+      "url": "https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V"
     },
     {
       "added_at": "2022-11-11 14:11:00",
@@ -1051,6 +1051,22 @@
       "duration_ms": 146782,
       "name": "Defeito De F\u00e1brica",
       "url": "https://open.spotify.com/track/5056Bz31L4FjX468aNTpbi"
+    },
+    {
+      "added_at": "2022-11-11 14:11:00",
+      "album": {
+        "name": "gostosa",
+        "url": "https://open.spotify.com/album/3snaKVq0ImC43u1ZYxxSYK"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 154820,
+      "name": "gostosa",
+      "url": "https://open.spotify.com/track/438nqz8kEIvExTC1vtX8Wb"
     },
     {
       "added_at": "2022-11-11 14:11:00",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
-        "name": "Mais Uma Hist\u00f3ria de Amor",
-        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "N\u00e3o Sou Boa Com Palavras",
-      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
-    },
-    {
-      "added_at": "2022-11-11 14:11:00",
-      "album": {
         "name": "ELA \u00c9 UM 10",
         "url": "https://open.spotify.com/album/6zFcmzYKrpJT9rTs9FAovf"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 111949,
       "name": "ELA \u00c9 UM 10",
       "url": "https://open.spotify.com/track/0ZzaOfISh45LGsb3NLz8Yy"
+    },
+    {
+      "added_at": "2022-11-11 14:11:00",
+      "album": {
+        "name": "Mais Uma Hist\u00f3ria de Amor",
+        "url": "https://open.spotify.com/album/1Xxelq9chLN2uaKfECfVEJ"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "N\u00e3o Sou Boa Com Palavras",
+      "url": "https://open.spotify.com/track/2INmeHxU8r6tJubFJrpTHF"
     },
     {
       "added_at": "2022-11-11 14:11:00",
@@ -1323,50 +1339,6 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "VNegreen",
-          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
-        },
-        {
-          "name": "TK",
-          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
-        }
-      ],
-      "duration_ms": 168346,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
-    },
-    {
-      "added_at": "2022-11-11 14:11:00",
-      "album": {
-        "name": "Unilateral",
-        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Fica l\u00e1 Com Ela",
-      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
-    },
-    {
-      "added_at": "2022-11-11 14:11:00",
-      "album": {
         "name": "NJDDAMC",
         "url": "https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89"
       },
@@ -1399,6 +1371,34 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "VNegreen",
+          "url": "https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
+        }
+      ],
+      "duration_ms": 168346,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"
+    },
+    {
+      "added_at": "2022-11-11 14:11:00",
+      "album": {
         "name": "Fica um Pouco Mais",
         "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
       },
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-11-11 14:11:00",
       "album": {
+        "name": "Unilateral",
+        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Fica l\u00e1 Com Ela",
+      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
+    },
+    {
+      "added_at": "2022-11-11 14:11:00",
+      "album": {
         "name": "Desajeito",
         "url": "https://open.spotify.com/album/5Q6Owiw3e0533g0fmhZIBm"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 151384,
       "name": "Eu Gosto de Voc\u00ea",
       "url": "https://open.spotify.com/track/6YSRQs68P9ojKJm8YZuw2e"
-    },
-    {
-      "added_at": "2022-11-11 14:11:00",
-      "album": {
-        "name": "FICA PRO CAF\u00c9",
-        "url": "https://open.spotify.com/album/6eGxhWr9uSAKEUZawIQjId"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "FICA PRO CAF\u00c9",
-      "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
     }
   ],
   "unique_name": "Pop Leve",

@@ -1,12 +1,12 @@
 {
   "description": "Gentle instrumental tunes.",
-  "num_followers": 153002,
+  "num_followers": 153121,
   "original_name": "Soft Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzU4OTgxMCwwMDAwMDAwMGI4MjYwM2RkMzM5OGZkNzUxODhmZTRiMzEzMWVhZjZl",
+  "snapshot_id": "MTY2MzU4OTgxMCwwMDAwMDAwMGVmMzhkOGRjMGRiY2ViYjlmNWYwYTY5Y2M4Y2ZiN2Zh",
   "tracks": [
     {
       "added_at": "2022-09-19 12:16:50",
@@ -243,8 +243,8 @@
     {
       "added_at": "2022-09-19 12:16:50",
       "album": {
-        "name": "Relaxing Classical",
-        "url": "https://open.spotify.com/album/1IgpoX287uoldZN4gRe9ne"
+        "name": "Le Onde",
+        "url": "https://open.spotify.com/album/3noVhEOyuTVo9ajhELUq8V"
       },
       "artists": [
         {
@@ -254,7 +254,7 @@
       ],
       "duration_ms": 324015,
       "name": "Le Onde",
-      "url": "https://open.spotify.com/track/6v2KksnZsSPNkwWuYVb6Cn"
+      "url": "https://open.spotify.com/track/1ULzttQgU3Q9EaIpdoxF1T"
     },
     {
       "added_at": "2022-09-19 12:16:50",
@@ -275,22 +275,18 @@
     {
       "added_at": "2022-09-19 12:16:50",
       "album": {
-        "name": "Neoclassical Essentials",
-        "url": "https://open.spotify.com/album/1K9xfQszoXfGcoTckJZzpR"
+        "name": "re:member",
+        "url": "https://open.spotify.com/album/6JpQGIi2he6iskzR4aLwPG"
       },
       "artists": [
         {
           "name": "\u00d3lafur Arnalds",
           "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "London Recording Orchestra",
-          "url": "https://open.spotify.com/artist/0Uiss6Wjtadn5gitFaNaVH"
         }
       ],
       "duration_ms": 364648,
       "name": "re:member",
-      "url": "https://open.spotify.com/track/2uizZ3OHcCNjJiqAoN8TgK"
+      "url": "https://open.spotify.com/track/6wUU6ff7O1jlE4NOrv01gI"
     },
     {
       "added_at": "2022-09-19 12:16:50",
@@ -595,10 +591,14 @@
     {
       "added_at": "2022-09-19 12:16:50",
       "album": {
-        "name": "ZEN - Sunrise Meditation",
-        "url": "https://open.spotify.com/album/2Rr3PpBQCZYFiMHCTqparE"
+        "name": "Sleep (Remixes)",
+        "url": "https://open.spotify.com/album/6pBq7xlUDUChkJZmy4jqD0"
       },
       "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
         {
           "name": "Clarice Jensen",
           "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
@@ -610,15 +610,11 @@
         {
           "name": "Yuki Numata Resnick",
           "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
-        },
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         }
       ],
       "duration_ms": 202724,
       "name": "Dream 13 - Short Edit",
-      "url": "https://open.spotify.com/track/5UUsWPxBoRGs3EakiDjwwO"
+      "url": "https://open.spotify.com/track/7GwO8RkgIDNEVov1qgZ04S"
     },
     {
       "added_at": "2022-09-19 12:16:50",
@@ -823,8 +819,8 @@
     {
       "added_at": "2022-09-19 12:16:50",
       "album": {
-        "name": "Rachmaninoff - A Classical Morning",
-        "url": "https://open.spotify.com/album/3vlnaDtNDh4hXCBlzp3iJe"
+        "name": "Rachmaninov Variations",
+        "url": "https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf"
       },
       "artists": [
         {
@@ -846,7 +842,7 @@
       ],
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
-      "url": "https://open.spotify.com/track/4su816grplNlQc1OVHYntn"
+      "url": "https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz"
     },
     {
       "added_at": "2022-09-19 12:16:50",
@@ -1635,8 +1631,8 @@
     {
       "added_at": "2022-09-19 12:16:50",
       "album": {
-        "name": "Classically Opera",
-        "url": "https://open.spotify.com/album/5C7l9QMUAqZRlwBAzofEG1"
+        "name": "Piano Fantasy: Music For Two Pianos",
+        "url": "https://open.spotify.com/album/7kpU3pdejLKSjMDaNgJsJv"
       },
       "artists": [
         {
@@ -1652,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
         }
       ],
-      "duration_ms": 142000,
+      "duration_ms": 141786,
       "name": "Jeux d'enfants, Op. 22 WD 56: 3. La poup\u00e9e",
-      "url": "https://open.spotify.com/track/6e0ioWeLv2ezDGvqrprqlP"
+      "url": "https://open.spotify.com/track/39bzKYAYfHRtK32nEnQilM"
     },
     {
       "added_at": "2022-09-19 12:16:50",
@@ -1775,8 +1771,8 @@
     {
       "added_at": "2022-09-19 12:16:50",
       "album": {
-        "name": "Immortal Beethoven",
-        "url": "https://open.spotify.com/album/16KdTJohpfErxyKRMFPbyz"
+        "name": "Beethoven: Piano Sonatas Nos. 8, 14 and 23",
+        "url": "https://open.spotify.com/album/6gPBMSpe6fgRr34Z60g0LS"
       },
       "artists": [
         {
@@ -1788,15 +1784,15 @@
           "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Piano Sonata No. 8 in C Minor, Op. 13, \"Pathetique\": II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/4Vj1KFHLNtUujc5yn6viN6"
+      "duration_ms": 282400,
+      "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2MA6EUDm6EYmeRbT9QP8cX"
     },
     {
       "added_at": "2022-09-19 12:16:50",
       "album": {
-        "name": "Swells",
-        "url": "https://open.spotify.com/album/6pwKde66tj0TBuV3gfnSRy"
+        "name": "The Wooden Box",
+        "url": "https://open.spotify.com/album/0MPJQnKCaRK3UPvoDhBwIs"
       },
       "artists": [
         {
@@ -1806,7 +1802,7 @@
       ],
       "duration_ms": 165611,
       "name": "Swells",
-      "url": "https://open.spotify.com/track/2BiZEq6h6RSm6TRiykKQh2"
+      "url": "https://open.spotify.com/track/6OAmwif2egghTp0U2YOE6t"
     },
     {
       "added_at": "2022-09-19 12:16:50",

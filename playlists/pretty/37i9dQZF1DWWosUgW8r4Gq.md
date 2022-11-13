@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 
 > Music from "Laid\-Back Camp"! /音楽で辿る「ゆるキャン△」の世界。©あfろ・芳文社／野外活動委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,644 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,643 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 | 2 | [Mimosa](https://open.spotify.com/track/3oWzRxN7qFqjeoMgfZkgRE) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [Mimosa](https://open.spotify.com/album/5M0BERj5L8qIRfxU4Emjdg) | 4:19 |
 | 3 | [SHINY DAYS](https://open.spotify.com/track/3V7mWY7bwabSRPOOuJ7rcN) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [SHINY DAYS\(TVアニメ「ゆるキャン△」OPテーマ\)](https://open.spotify.com/album/799UkSmpzMBG2Ni6PO3zDc) | 4:21 |
 | 4 | [ふゆびより](https://open.spotify.com/track/08atpBEogaRGz58N7yVi0J) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [ふゆびより\(TVアニメ「ゆるキャン△」EDテーマ\)](https://open.spotify.com/album/4M5mceOoTiPvE9bPXSy1iN) | 4:37 |
-| 5 | [Seize The Day](https://open.spotify.com/track/5GEzwiv2acSw73nEVR3WHz) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Seize The Day](https://open.spotify.com/album/5Cy9bBWrqR2rbabTiYsFoH) | 4:04 |
+| 5 | [Seize The Day](https://open.spotify.com/track/6YbbRVO81tTxFObgdSJa2N) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Pontoon](https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD) | 4:04 |
 | 6 | [Harunotonari](https://open.spotify.com/track/1ofuW1sPpPGsWu4LTOeeBV) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [Colon](https://open.spotify.com/album/0YB96tShohEzQ7YQYdrnwJ) | 3:39 |
 | 7 | [Konobasyode](https://open.spotify.com/track/6ZfGaKBm2qGaVPc3qLxCAd) | [屋内活動サークル\(立山秋航、佐々木恵梨、亜咲花\)](https://open.spotify.com/artist/0khjN6aAVJszju1hovxoB5) | [TV Animation ”Laid\-back Camp Season2” Original Soundtrack](https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0) | 4:07 |
-| 8 | [The Sunshower](https://open.spotify.com/track/0Av7Z4aPWBbxsaZ6Ddh3Dc) | [Asaka](https://open.spotify.com/artist/6salj1HNtQW4jfRxuiaPmK) | [The Sunshower](https://open.spotify.com/album/56MlsQ9Ae6tePRnUAw8fEK) | 4:30 |
+| 8 | [The Sunshower](https://open.spotify.com/track/7JdPXD5GFX7Q09gB7mAE9e) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Pontoon](https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD) | 4:30 |
 | 9 | [Isn‘t It Fun?](https://open.spotify.com/track/1BxH5nn4iV7l6nqHDYyf5O) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Pontoon](https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD) | 4:43 |
 | 10 | [Yurukyan no theme](https://open.spotify.com/track/4XhqkGQe00L6zCkaWxldr2) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV anime “Yurukyan△”original sound track](https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg) | 2:13 |
 | 11 | [Oshaberi to mug cup](https://open.spotify.com/track/5U2IpOZgfkaEFXByYUIjaM) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [TV anime “Yurukyan△”original sound track](https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg) | 1:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWosUgW8r4Gq.md) - [plain]
 | 39 | [Suite ”Matsubokkuri” \-Funki saichousen!\-](https://open.spotify.com/track/4VSE6IQVNCSaA7ZJgghMFY) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:14 |
 | 40 | [Suite ”Matsubokkuri” \-Natsuzora to daikeikaku\-](https://open.spotify.com/track/1VLABP6DxPB7CbWqYDLiLC) | [Akiyuki Tateyama](https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA) | [Laid\-Back Camp the Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH) | 2:37 |
 
-Snapshot ID: `MTY1NzAzMzIwMCwwMDAwMDAwMDNjNTNkNmMxZTQzYWRjOTVmZGU2ZDY3NDFlMGU1Y2U2`
+Snapshot ID: `MTY1NzAzMzIwMCwwMDAwMDAwMGQzM2I0OGQ3MWQ2M2E0ZTA0ZGVmZTgzM2VhMDNlNzlk`

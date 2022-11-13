@@ -1,13 +1,33 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: TOBi",
-  "num_followers": 895204,
+  "num_followers": 895344,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGQwOGNmZWJjNThjZTlmNzQ5OGFlNmEwM2RiMGE3OTRk",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDRiOTg3Mjc0ZjJkZThhODMwNDg1MWI2Yjc4NmYzZWI5",
   "tracks": [
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/6wj7wjtegmkziorQ2tt5Pz"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -47,26 +67,6 @@
       "duration_ms": 215679,
       "name": "killstreaks (with Don Toliver & PinkPantheress)",
       "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 235423,
-      "name": "Bruddanem (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -131,6 +131,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 235423,
+      "name": "Bruddanem (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "The Highs & The Lows",
         "url": "https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a"
       },
@@ -147,22 +167,6 @@
       "duration_ms": 255609,
       "name": "The Highs & The Lows",
       "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Persuasive",
-        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 216707,
-      "name": "Persuasive",
-      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -215,6 +219,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Persuasive",
+        "url": "https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 216707,
+      "name": "Persuasive",
+      "url": "https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "pg baby (Remix)",
         "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
       },
@@ -251,6 +271,46 @@
       "duration_ms": 282053,
       "name": "Willing To Trust (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "The Ending",
+        "url": "https://open.spotify.com/album/6U97jLY4aY4LCM3WQ17fIv"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 108226,
+      "name": "The Ending",
+      "url": "https://open.spotify.com/track/40Q1XFqWsI7JxaPLeaMpnT"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -299,46 +359,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Ending",
-        "url": "https://open.spotify.com/album/6U97jLY4aY4LCM3WQ17fIv"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 108226,
-      "name": "The Ending",
-      "url": "https://open.spotify.com/track/40Q1XFqWsI7JxaPLeaMpnT"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Walkin (Key Glock remix)",
         "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
       },
@@ -375,22 +395,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 144807,
-      "name": "Snake",
-      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "More Than Never",
         "url": "https://open.spotify.com/album/4Q5CpGqyRV6kmAbyhl66pa"
       },
@@ -403,6 +407,22 @@
       "duration_ms": 185463,
       "name": "More Than Never",
       "url": "https://open.spotify.com/track/18yFLx5rzjdciOIl1hJA9r"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 144807,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -443,6 +463,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 180076,
+      "name": "Swamp Bitches (with Rico Nasty)",
+      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Suicide",
         "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
       },
@@ -475,26 +515,6 @@
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 180076,
-      "name": "Swamp Bitches (with Rico Nasty)",
-      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -547,6 +567,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "She Loves Me",
+        "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "duration_ms": 205986,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Ce Soir",
         "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
       },
@@ -563,22 +599,6 @@
       "duration_ms": 162222,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "She Loves Me",
-        "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        }
-      ],
-      "duration_ms": 205986,
-      "name": "She Loves Me",
-      "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -643,22 +663,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Sex Symbol",
-        "url": "https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        }
-      ],
-      "duration_ms": 130813,
-      "name": "Sex Symbol",
-      "url": "https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Marlowe 3",
         "url": "https://open.spotify.com/album/0tmnvC5ue44iAfQfL1LBFd"
       },
@@ -683,18 +687,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "A Bar About a Bar",
-        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
+        "name": "Sex Symbol",
+        "url": "https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
         }
       ],
-      "duration_ms": 65480,
-      "name": "A Bar About a Bar",
-      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
+      "duration_ms": 130813,
+      "name": "Sex Symbol",
+      "url": "https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -731,18 +735,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "29 (Freestyle)",
-        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+        "name": "A Bar About a Bar",
+        "url": "https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 142282,
-      "name": "29 (Freestyle)",
-      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
+      "duration_ms": 65480,
+      "name": "A Bar About a Bar",
+      "url": "https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -767,22 +771,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "MEMO",
-        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+        "name": "29 (Freestyle)",
+        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 268151,
-      "name": "SOHO HOUSE (feat. Hello O'shay)",
-      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+      "duration_ms": 142282,
+      "name": "29 (Freestyle)",
+      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -803,6 +803,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "MEMO",
+        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 268151,
+      "name": "SOHO HOUSE (feat. Hello O'shay)",
+      "url": "https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
       },
@@ -819,22 +839,6 @@
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "RUFFS",
-        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "MINUTE FOREVER",
-      "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -867,6 +871,22 @@
       "duration_ms": 178677,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "RUFFS",
+        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "MINUTE FOREVER",
+      "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -919,26 +939,6 @@
       "duration_ms": 188000,
       "name": "Power Power (feat. Shaun Ross)",
       "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "High Beams (JPEGMAFIA Remix)",
-        "url": "https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 157150,
-      "name": "High Beams - JPEGMAFIA Remix",
-      "url": "https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy"
     }
   ],
   "unique_name": "Alternative Hip-Hop",

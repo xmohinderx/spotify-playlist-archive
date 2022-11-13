@@ -4,7 +4,7 @@
 
 > Where R&B from around the world comes to play with hip\-hop & pop!   Cover: Mahalia
 
-225 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
+226 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/5s7fhvbutNcZHU1nvTcDIN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Confujawn \(feat\. Nija\)](https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Confujawn \(feat\. Nija\)](https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA) | 2:55 | 2022-03-18 | 2022-06-18 |
 | [Consistency \(feat\. Jhene Aiko\)](https://open.spotify.com/track/0pA1KdUSZEDAL0swN18Mh8) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:40 | 2022-08-12 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-13 | 2022-08-06 |
-| [Crazy For Me](https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u) | 2:14 | 2022-11-04 |  |
+| [Crazy For Me](https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u) | 2:14 | 2022-11-04 | 2022-11-13 |
+| [Crazy For Me](https://open.spotify.com/track/4OqgkBBSULrKnIeQQAxU9i) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:14 | 2022-11-04 |  |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-12-17 | 2022-04-16 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-07-29 |  |
 | [Cutlass \(ft\. ScHoolboy Q\)](https://open.spotify.com/track/6vBczVPPas3vqNDFX9u7q0) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Towards The Sun](https://open.spotify.com/album/57XXE3V0P60nJkG68roJiH) | 3:20 | 2022-05-20 | 2022-06-25 |

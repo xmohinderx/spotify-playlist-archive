@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Adana Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,791 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,899 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 |
 | 6 | [Fire](https://open.spotify.com/track/636w7RO2RDp4VkGVRLzVRs) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Speicher 123](https://open.spotify.com/album/1rhB8ov07nsNUjhM7xd4ru) | 6:58 |
 | 7 | [Freefall \(feat\. Moxie Knox\) \- Edit](https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Freefall \(feat\. Moxie Knox\)](https://open.spotify.com/album/1yiyLSoz0FdiTDCUCwhd69) | 3:07 |
-| 8 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 |
+| 8 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 |
 | 9 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 10 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 |
 | 11 | [Somnia](https://open.spotify.com/track/1bahTOTB0QovvsqnWYJYqm) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Somnia](https://open.spotify.com/album/6LNIOYA9aaIQEkFbeWnDaz) | 7:13 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 52 | [Interstellar Ark](https://open.spotify.com/track/11kccD8CltzzyBQlf7H3kT) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Interstellar Ark](https://open.spotify.com/album/1NDoWTQ9ZW4QyvDFgrFC5I) | 8:16 |
 | 53 | [To the Dreamland](https://open.spotify.com/track/7uArdqK4fPseMj5umZunuH) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [To the Dreamland](https://open.spotify.com/album/35VdwovnocBzzRJk5vprE6) | 4:20 |
 | 54 | [Nothing Left](https://open.spotify.com/track/1BVn0DR08B5wbyTyFTMNSp) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Nothing Left](https://open.spotify.com/album/0x33Xftylseix2qv7nAZAx) | 7:28 |
-| 55 | [Izinto](https://open.spotify.com/track/1LlwsPj31pfx68XXW96vBu) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Izinto](https://open.spotify.com/album/2ux1S2Nz5C0MoJhfgKIbQ0) | 4:35 |
+| 55 | [Izinto](https://open.spotify.com/track/1LlwsPj31pfx68XXW96vBu) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Izinto](https://open.spotify.com/album/2ux1S2Nz5C0MoJhfgKIbQ0) | 4:35 |
 | 56 | [Poison \- Miane Remix](https://open.spotify.com/track/1d3Eb4PWk24woAfg2YaDsd) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Poison](https://open.spotify.com/album/51TtzHlZRMD7Vxky2YUOPW) | 2:32 |
 | 57 | [Sample Minds](https://open.spotify.com/track/4RywHmfGP2yzzYTxsCNQH1) | [Elisa Bee](https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX) | [Sample Minds](https://open.spotify.com/album/0Ki1ujx7omMHN0Mah2Mn3t) | 4:57 |
 | 58 | [Trigger \- Edit](https://open.spotify.com/track/6Vf7Vg5We3Eja5CUBqBzyf) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Trigger](https://open.spotify.com/album/2ZytBBQF1Vc9gW0ovC42Ic) | 2:22 |

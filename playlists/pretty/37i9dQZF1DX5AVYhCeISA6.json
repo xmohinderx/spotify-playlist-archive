@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 597886,
+  "num_followers": 597965,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMDgzYjg5NThjYzFmMWMyZjNkMTk5NjI1YzhmZmY5ZWE2",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGRmNWM5NDVjM2RiYzAwN2VjMDU2YjIyZmQ5MDg5M2Vi",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 123253,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
       },
@@ -835,6 +851,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Las Nenas (feat. La Duraca)",
         "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
       },
@@ -863,38 +895,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Bella Ciao",
         "url": "https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 190580,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Todas las mujeres que habitan en m\u00ed",
-        "url": "https://open.spotify.com/album/2McQoPHfRjo0Ol6E3thbEM"
-      },
-      "artists": [
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Inventas",
-      "url": "https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1011,6 +1011,22 @@
       "duration_ms": 233906,
       "name": "Hoy Ya Me Voy (feat. Franco de Vita)",
       "url": "https://open.spotify.com/track/7vw2L7CJS7uXSX5gOty4Nt"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Todas las mujeres que habitan en m\u00ed",
+        "url": "https://open.spotify.com/album/2McQoPHfRjo0Ol6E3thbEM"
+      },
+      "artists": [
+        {
+          "name": "Vanesa Mart\u00edn",
+          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Inventas",
+      "url": "https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1071,6 +1087,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Los Consejos",
+        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -1087,18 +1119,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Los Consejos",
-        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/02Nw3ZrfnzNK9Auu7LNuI6"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 176440,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
+      "duration_ms": 182333,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/5Ci3Ru41bcPDdFO9NGzF8t"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1119,22 +1151,6 @@
       "duration_ms": 197053,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/4C1opPFRPafp6yj4AJPBRB"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/02Nw3ZrfnzNK9Auu7LNuI6"
-      },
-      "artists": [
-        {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/5Ci3Ru41bcPDdFO9NGzF8t"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1331,6 +1347,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2uhahE2iatcHyMUHDHX6TS"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4wTuLXjSiiWxHO0e1Pwf1X"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -1359,6 +1391,22 @@
       "duration_ms": 180965,
       "name": "lovin kind",
       "url": "https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 267973,
+      "name": "Como Me Duele Perderte",
+      "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1567,22 +1615,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2uhahE2iatcHyMUHDHX6TS"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4wTuLXjSiiWxHO0e1Pwf1X"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Visceral",
         "url": "https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep"
       },
@@ -1611,22 +1643,6 @@
       "duration_ms": 197815,
       "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Quiero Que Me Quieras",
-      "url": "https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1679,34 +1695,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Bichota Summer",
-        "url": "https://open.spotify.com/album/5UQzyTtwvMfM6yuMH91y3I"
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
         }
       ],
-      "duration_ms": 123680,
-      "name": "Perreito",
-      "url": "https://open.spotify.com/track/2fkCahe2uAqfK7awICDTFK"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Amor Y Suerte",
-        "url": "https://open.spotify.com/album/6uSc9Dc9BamGr6GCrwEty3"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Como Me Duele Perderte",
-      "url": "https://open.spotify.com/track/0RRWONb7j4qT3V9c0Q7NRB"
+      "duration_ms": 191106,
+      "name": "Quiero Que Me Quieras",
+      "url": "https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9"
     },
     {
       "added_at": "2022-08-31 07:13:59",

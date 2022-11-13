@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 90340,
+  "num_followers": 90389,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDE2ZDNkZmNiZTMzMTgxMmExODY2OTQwOTA4ZDEzOTVi",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGUyMjYxNTg3ZjRlZTAwZWEzMGUwNTE0MjE1NTQwYTI0",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Stavangerkameratene",
+        "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Bare s\u00e5 du vett det",
+      "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "B\u00f8gda",
         "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "R\u00f6d Chevrolet",
-        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Det regnar och regnar",
-      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Ligga low",
         "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 151411,
       "name": "Ligga low",
       "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "R\u00f6d Chevrolet",
+        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Det regnar och regnar",
+      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -463,30 +479,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Ha Mer",
-        "url": "https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to"
-      },
-      "artists": [
-        {
-          "name": "Oskar Westerlin",
-          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        },
-        {
-          "name": "ZL-Project",
-          "url": "https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Ha Mer",
-      "url": "https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -511,6 +503,46 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Ha Mer",
+        "url": "https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "ZL-Project",
+          "url": "https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Ha Mer",
+      "url": "https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "REDL\u00d6S",
         "url": "https://open.spotify.com/album/66r5D0woGoI1UjKmnvY4BB"
       },
@@ -531,18 +563,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+        "name": "Jeg f\u00e5r aldri nok",
+        "url": "https://open.spotify.com/album/3XILoFwlPMTHIHGEze0d88"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Heux",
+          "url": "https://open.spotify.com/artist/7IuE8jJQzeifyrcFYdrIWt"
         }
       ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+      "duration_ms": 140933,
+      "name": "Jeg f\u00e5r aldri nok",
+      "url": "https://open.spotify.com/track/3vh9UBBCeVokVAlq5ybhKr"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -563,26 +599,6 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Jeg f\u00e5r aldri nok",
-        "url": "https://open.spotify.com/album/3XILoFwlPMTHIHGEze0d88"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Heux",
-          "url": "https://open.spotify.com/artist/7IuE8jJQzeifyrcFYdrIWt"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "Jeg f\u00e5r aldri nok",
-      "url": "https://open.spotify.com/track/3vh9UBBCeVokVAlq5ybhKr"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -679,6 +695,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "\u00c6rmen i k\u00e6rmen",
+        "url": "https://open.spotify.com/album/1USwG4JXrWi6NYZoiskH4S"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 136243,
+      "name": "\u00c6rmen i k\u00e6rmen",
+      "url": "https://open.spotify.com/track/6KYDEP132TspYEaEvobbuQ"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -695,22 +727,6 @@
       "duration_ms": 167543,
       "name": "Jag Vill Vara Din Margareta",
       "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "\u00c6rmen i k\u00e6rmen",
-        "url": "https://open.spotify.com/album/1USwG4JXrWi6NYZoiskH4S"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 136243,
-      "name": "\u00c6rmen i k\u00e6rmen",
-      "url": "https://open.spotify.com/track/6KYDEP132TspYEaEvobbuQ"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Kjerring i fra by\u2019n",
         "url": "https://open.spotify.com/album/26nEvQ8cazBeoTIO3dzu5G"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "RUN IT BACK",
-        "url": "https://open.spotify.com/album/2ZSJAqMW1IWJFU3nFHfsJW"
-      },
-      "artists": [
-        {
-          "name": "Beathoven",
-          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "RUN IT BACK",
-      "url": "https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Vakker og vill",
         "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
       },
@@ -839,18 +823,34 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "RUN IT BACK",
+        "url": "https://open.spotify.com/album/2ZSJAqMW1IWJFU3nFHfsJW"
+      },
+      "artists": [
+        {
+          "name": "Beathoven",
+          "url": "https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "RUN IT BACK",
+      "url": "https://open.spotify.com/track/6L0OxFD3iEAiveGUZ6KNAw"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -875,6 +875,22 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -935,22 +951,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Aldri tilbake",
-        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Aldri tilbake",
-      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Levva Livet!",
         "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 153843,
       "name": "Livet p\u00e5 b\u00f8gda",
       "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Aldri tilbake",
+        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Aldri tilbake",
+      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Splitter Pine (Remastered 2015)",
-        "url": "https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee"
-      },
-      "artists": [
-        {
-          "name": "Dumdum Boys",
-          "url": "https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Splitter Pine",
-      "url": "https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Alt du vil ha",
         "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
       },
@@ -1067,6 +1067,38 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Splitter Pine (Remastered 2015)",
+        "url": "https://open.spotify.com/album/4VdqkutDQsMtV4S4Jvliee"
+      },
+      "artists": [
+        {
+          "name": "Dumdum Boys",
+          "url": "https://open.spotify.com/artist/4Eqk6wvSaia7pwOzPaqEQv"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Splitter Pine",
+      "url": "https://open.spotify.com/track/1JLdVHnYAGqr2tUD3LVN2c"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Ole Ivars i 2000",
+        "url": "https://open.spotify.com/album/4rz3lOFwmGVZuaX7yvOm0s"
+      },
+      "artists": [
+        {
+          "name": "Ole Ivars",
+          "url": "https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Jag trodde \u00e4nglarna fanns",
+      "url": "https://open.spotify.com/track/64oHVnVsMxtKyhJ8zpj4QU"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Che Casino",
         "url": "https://open.spotify.com/album/76X2ccF8LGeRfkxUwXPNLH"
       },
@@ -1079,6 +1111,26 @@
       "duration_ms": 175285,
       "name": "Che Casino",
       "url": "https://open.spotify.com/track/4PSC9tidDrwwtb9nMVM0Hv"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "V\u00c4RMLAND",
+        "url": "https://open.spotify.com/album/0ekx3OiXJ0DZ68xa5eM0XR"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 146268,
+      "name": "V\u00c4RMLAND",
+      "url": "https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1103,26 +1155,6 @@
       "duration_ms": 132613,
       "name": "Ba Chill",
       "url": "https://open.spotify.com/track/0CjLBFXEzaBRL6Uos9OPPs"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "V\u00c4RMLAND",
-        "url": "https://open.spotify.com/album/0ekx3OiXJ0DZ68xa5eM0XR"
-      },
-      "artists": [
-        {
-          "name": "Louise Andersson Bodin",
-          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        }
-      ],
-      "duration_ms": 146268,
-      "name": "V\u00c4RMLAND",
-      "url": "https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1171,22 +1203,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Er det lov \u00e5 leva",
         "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
       },
@@ -1199,6 +1215,22 @@
       "duration_ms": 131835,
       "name": "Er det lov \u00e5 leva",
       "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1259,38 +1291,6 @@
       "duration_ms": 179760,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Vagabond 2",
-        "url": "https://open.spotify.com/album/5qWBU6SAuGqXvjy7gvH2Q7"
-      },
-      "artists": [
-        {
-          "name": "Vagabond",
-          "url": "https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s"
-        }
-      ],
-      "duration_ms": 154280,
-      "name": "Sj\u00f8mann Per",
-      "url": "https://open.spotify.com/track/6cyIrcpZHSk6HnPa8NKW4W"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "N\u00e5 er det helg",
-        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "N\u00e5 er det helg",
-      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: The Year We Turned 29\(아홉수 우리들\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,939 likes - 92 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,998 likes - 92 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,6 +99,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 89 | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/track/77HhbrrRrEJzBcgaaUx3cZ) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/album/0425VpxacGwIfKNdxvR4rj) | 3:14 |
 | 90 | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG) | 3:27 |
 | 91 | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g) | 3:32 |
-| 92 | [Cry Baby](https://open.spotify.com/track/3IDF7N86lrcWaJEt9C1gbS) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/5gvtuOuBl0BECmw76yifnW) | 4:00 |
+| 92 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 |
 
-Snapshot ID: `MTY2ODA2NDQ0MywwMDAwMDAwMDk2MzVhOGM3MzA2NDQ5MDNiZmZiZjJlZDgyYmI1MjVm`
+Snapshot ID: `MTY2ODA2NDQ0MywwMDAwMDAwMGQwYTI3Y2MwMTY5YmYwZjgxZjQ5YjdlNDZmMmVmM2Ji`

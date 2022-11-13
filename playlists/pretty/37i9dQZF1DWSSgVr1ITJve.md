@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,889 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,937 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 47 | [Choukran](https://open.spotify.com/track/1enHUv9ixGD38Tw2lmPxZU) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Choukran](https://open.spotify.com/album/5AjLG2qjqLjgv7UsLqRRXc) | 2:31 |
 | 48 | [Bent Bledi](https://open.spotify.com/track/6pmfgLXdjDGh7yZNJm9UzE) | [JahMxli](https://open.spotify.com/artist/7M7zf29Oe6dQh3xmAk2DlN) | [Bent Bledi](https://open.spotify.com/album/7fGghF4qh710J4MH17PkdD) | 3:25 |
 | 49 | [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 |
-| 50 | [Wouli Liya](https://open.spotify.com/track/0mk5S6toceisTSa1C4SUZ5) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison ou Antidote \(Miel Book Edition\)](https://open.spotify.com/album/4g6eMqiCEFlivpJgII43rc) | 4:01 |
+| 50 | [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 |
 | 51 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY2NTA0NzA0MywwMDAwMDAwMGI3ZjkxMTNjYjg0NjlmZDc3MTc1YmE5YjI5NWM0ODZl`
+Snapshot ID: `MTY2NTA0NzA0MywwMDAwMDAwMDRhNzU2NGEwNGJlMjg2ODFhNzBjYzViMjA5NzQ3YWYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Walker Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,660 likes - 168 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,800 likes - 168 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 38 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 |
 | 39 | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/album/3nD5gS9oxfsp4JjpmcO41B) | 2:58 |
 | 40 | [I Like You Better](https://open.spotify.com/track/6O2U3KEpMJusHQ6m3IR2vg) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [I Like You Better](https://open.spotify.com/album/79MV4Y5B13sz8nlhEJh4bG) | 2:51 |
-| 41 | [Dark Night \(717 Tapes\)](https://open.spotify.com/track/5TolSHtc9clDctIr8XsuXM) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up to No Good \- Country Now](https://open.spotify.com/album/2OnhurcjZK4SkiUbocgbD4) | 2:37 |
+| 41 | [Dark Night \- 717 Tapes](https://open.spotify.com/track/2mTwhPI0EKjXmqRd1SEjjy) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:37 |
 | 42 | [Closer To Over You](https://open.spotify.com/track/00N5SEfWH4b3aQhVDGVv7M) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Closer To Over You](https://open.spotify.com/album/4fwr9LJHJXugyFeFVxzwVB) | 3:23 |
 | 43 | [Actin' Up](https://open.spotify.com/track/6GWfFBDsbGHOSAex90tfXI) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Actin' Up](https://open.spotify.com/album/04yCexTvMFC47BOGeV1qyt) | 3:25 |
 | 44 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 |
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 107 | [Better On Me](https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Better On Me](https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf) | 2:29 |
 | 108 | [What You Waiting On](https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO) | 2:38 |
 | 109 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 |
-| 110 | [Wild Frontier](https://open.spotify.com/track/7wSqcgvYMXyy8r2Lx49PLD) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/0sapxQX0SyPrNUMT1N9Qi5) | 3:36 |
+| 110 | [Wild Frontier](https://open.spotify.com/track/22B9J6s9aow7JYeECKXqUI) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Stephanie Quayle](https://open.spotify.com/album/1aEYhs7G0H42T0t36lzu4W) | 3:36 |
 | 111 | [Something I'll Never Get Back](https://open.spotify.com/track/7JhkoQ5QEhOTrx7Gedt7id) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:08 |
 | 112 | [Love Makes You Blind](https://open.spotify.com/track/4pjzP2acWZRUvRgZljRirH) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind](https://open.spotify.com/album/7jFq5B9Ui0oDe0m6Mi7Qu6) | 2:38 |
 | 113 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 167 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
 | 168 | [Clap Yo Hands](https://open.spotify.com/track/6WlHPRxpne0cErVCU25HzX) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Nitty Gritty GR](https://open.spotify.com/artist/2Tu8PgOyqyGH8gZOv0Ad6N), [Pa Pa Fresh](https://open.spotify.com/artist/7dTFs3fSoiqGplr38RXRHY) | [Clap Yo Hands](https://open.spotify.com/album/3KPy05qSIUBKoo7Rcs7e8S) | 2:41 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDE1ZGNiMjBhMWU4NWIwYjI1ZDk3NDEzZjQ2MmZiOTc0`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGVhYTgyZmNmOGMwNTMzZTA5MTBkYjQ0YTRmN2VlMzFi`

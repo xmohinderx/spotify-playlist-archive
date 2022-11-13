@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,667 likes - 56 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,704 likes - 56 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 22 | [Want U There](https://open.spotify.com/track/6bgUfXTnC8XCnsTkiucJtD) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Want U There](https://open.spotify.com/album/4nbLoYqrWa7FZ6v0Cvp6Jq) | 2:56 |
 | 23 | [Drift \- Acid Mix](https://open.spotify.com/track/5LiYW1rG67exQ0a3ECB4su) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Tangential Zones](https://open.spotify.com/album/1AL6GsdQ5SI97EpMGouJmS) | 3:31 |
 | 24 | [Fresh Static Snow](https://open.spotify.com/track/1LikBIcmCec6zE64SHFcMK) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:58 |
-| 25 | [Kimiga iine kuretara](https://open.spotify.com/track/1gBn1DsjOMllcU0LYQFGEm) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Kimiga iine kuretara](https://open.spotify.com/album/6x1dAhEcVp22ScAsfoEcCQ) | 3:43 |
+| 25 | [Kimigaiinekuretara](https://open.spotify.com/track/3KCkxinjGuVsVO0doiPOV6) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 3:43 |
 | 26 | [Core](https://open.spotify.com/track/6Knx4Tp8hE7IlYtde2dCYI) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [VOID](https://open.spotify.com/album/5UWAfUBImV6jcswkXkXZOs) | 3:56 |
 | 27 | [Dark Artifact](https://open.spotify.com/track/3Sf6ijn5pjxt7Pasrnycn5) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Tangential Zones](https://open.spotify.com/album/1AL6GsdQ5SI97EpMGouJmS) | 2:49 |
 | 28 | [EON BREAK](https://open.spotify.com/track/2aGn7X6ixuE9P3zaykgoWM) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 3:40 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 42 | [HAHAH](https://open.spotify.com/track/4esa3tKLyvysJpj70fUCyK) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Spiderr](https://open.spotify.com/album/59VjMEiXIOpzLAMAHrLlfj) | 2:16 |
 | 43 | [Silo \(feat\. fknsyd\)](https://open.spotify.com/track/49Z1VQivkHoY5KGdUwMv5i) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Sable Valley Summer Vol\. 3](https://open.spotify.com/album/2TklWyQdmNHg7d2Xmam8G8) | 4:07 |
 | 44 | [Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Trash Island](https://open.spotify.com/album/30zy3JHuDxZbBWGf8rGZGX) | 2:00 |
-| 45 | [God](https://open.spotify.com/track/5bu9xqqqsLxuAf8b6vMsSZ) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 2:25 |
+| 45 | [God](https://open.spotify.com/track/2lW7HEUtOcNQZxDv71Cq05) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Good Luck](https://open.spotify.com/album/7cTvVOSXLgMm0RtT7uXWGY) | 2:25 |
 | 46 | [ファッションモンスター](https://open.spotify.com/track/0jChFzdDkm7Dlb6jZW7GnN) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [なんだこれくしょん](https://open.spotify.com/album/284CrOYQvoB5GQAcmx5Xkx) | 4:37 |
 | 47 | [Ultra Pool](https://open.spotify.com/track/5ImmZZSkWdwqXDElBjUsdE) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Ultra Pool](https://open.spotify.com/album/1Ao4MJ2GKDgYs6XYgv1aBq) | 4:21 |
 | 48 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 55 | [Furnace Loop](https://open.spotify.com/track/2Afn9DVEGZdNToKzo1HD4I) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Airborne Lard](https://open.spotify.com/album/3d8kb3eoguY0W0rL1Fh9Dy) | 2:51 |
 | 56 | [Pressure](https://open.spotify.com/track/11AZJufpf0EdlyGes9Jgrh) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:29 |
 
-Snapshot ID: `MTY2NjM2NDQwMCwwMDAwMDAwMDYyYTYwMzdlMDkxNjZkYjVjMGRkZjQ4MTY2YTVlMGYx`
+Snapshot ID: `MTY2NjM2NDQwMCwwMDAwMDAwMDU0Y2U3MTYyNzk1NzA0ODA5MDEzYmIwZDJlYzk3ZGVl`

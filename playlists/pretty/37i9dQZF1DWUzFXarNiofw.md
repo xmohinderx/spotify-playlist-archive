@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: RAAHiiM
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,280 likes - 104 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,518 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 16 | [Head Rush \(feat\. Trinidad Jame$\)](https://open.spotify.com/track/4fjFcapaQFLdUghyyjXkN1) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Last Call](https://open.spotify.com/album/1UFTWoydZvElLrrkLheaL4) | 3:41 |
 | 17 | [On My Mind](https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer \(Deluxe\)](https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj) | 3:54 |
 | 18 | [Say You Want Me](https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Say You Want Me](https://open.spotify.com/album/0jKDicrmgUCTSNGRYXffXm) | 3:16 |
-| 19 | [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 |
+| 19 | [Double Back](https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 2:39 |
 | 20 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
 | 21 | [Never](https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [No Longer in the Suburbs \(Deluxe\)](https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi) | 3:54 |
 | 22 | [dialtone.](https://open.spotify.com/track/6QSDAKIZetBwAyfrjVhuSo) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [dialtone.](https://open.spotify.com/album/51xVyHmgajtEEMJ8vt0jy9) | 3:12 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 56 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
 | 57 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 |
 | 58 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
-| 59 | [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 |
+| 59 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 |
 | 60 | [With You](https://open.spotify.com/track/37XgGE1f2l9j5NWHNyzTfs) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 3:10 |
-| 61 | [Feeling Myself](https://open.spotify.com/track/4W6hJu2CzYKe4DyPqcMHvg) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Feeling Myself](https://open.spotify.com/album/2HI1XZZN2BWdiaXekEhwGd) | 3:34 |
+| 61 | [Feeling Myself](https://open.spotify.com/track/7paZMzxa2sC04AfkPmyCBx) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:34 |
 | 62 | [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 |
 | 63 | [Slowly](https://open.spotify.com/track/6ghBp3GVUIorWj6fMQSie6) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:48 |
 | 64 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 103 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
 | 104 | [Goofy \(feat\. Tempest, Aj Claire\)](https://open.spotify.com/track/2np39YpyeoSyygoB694VNx) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 2:05 |
 
-Snapshot ID: `MTY2ODE4MTg5MCwwMDAwMDAwMDUzZmVlOTI5MDYwMGE1ZjA4YmQ5MDViYjk0M2EyYzZk`
+Snapshot ID: `MTY2ODE4MTg5MCwwMDAwMDAwMDhiZGQxNjcwNjM3NTUyODM5NjlkYWFmZWEwZDBmZTE3`

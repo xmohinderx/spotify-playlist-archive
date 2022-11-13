@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to chilled ambient with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,890 likes - 115 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,912 likes - 115 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 108 | [Dream Dust](https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA) | [Horizon Lights](https://open.spotify.com/artist/0vAwD3TFaQCotThnaYmnFJ) | [Gentle Night](https://open.spotify.com/album/2Ab3cmAWhFZ2XqOIHytNPD) | 3:22 |
 | 109 | [Sapphire Destiny](https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41) | [Real'ax Melody](https://open.spotify.com/artist/0PJmEawyjX5GHTMYmOZSif) | [A Relaxed Sleep](https://open.spotify.com/album/6tK8199QPE2y52zzGjxvkO) | 4:20 |
 | 110 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 |
-| 111 | [Equilibrio Chakra](https://open.spotify.com/track/6dKCIy6fyTBMpwmEFT22D1) | [Best Harmony](https://open.spotify.com/artist/1DDYlvXBDsH6Js1b4fEaTM) | [Musica Relajante y Sonidos Naturales para Aliviar el Estres](https://open.spotify.com/album/6jxGBEYYWB4Zj4oaJ5mdrg) | 4:59 |
+| 111 | [Equilibrio Chakra](https://open.spotify.com/track/7cF8QHf8cg5FTsLfBpP9GC) | [Estudio Hermoso](https://open.spotify.com/artist/0LMY7yPx2Zd0re2pemRckc) | [Estudio Fácil y Rápido: Sonidos de la Naturaleza para Concentrarse, Aprendizaje Pacífico](https://open.spotify.com/album/2emD2J6rVK0PearatKIG19) | 4:59 |
 | 112 | [Creations](https://open.spotify.com/track/39je7LHAiJ7AEZZgU0wPVR) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Waters](https://open.spotify.com/album/4F5nRLj5pQ49lDZD654Zq4) | 2:44 |
 | 113 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 |
 | 114 | [Dream Maps](https://open.spotify.com/track/0NoCoOtd8LFywZnH9KIKGo) | [Oneironautics](https://open.spotify.com/artist/6VYV0dDe760s66s9973L1Q) | [Floating Mind](https://open.spotify.com/album/2cAj2jNdLgh4pUwcfwiKyM) | 2:16 |
 | 115 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
 
-Snapshot ID: `MTY2ODE2ODAzNiwwMDAwMDAwMDhmMjJlNWYxYTNiYjdhZmQ5OTIxYmUwZmNhM2E2NzFi`
+Snapshot ID: `MTY2ODE2ODAzNiwwMDAwMDAwMDE3MWVhZGVhY2ExMDZjZjYzMGJjM2EwZTMzNzA4Yzg4`

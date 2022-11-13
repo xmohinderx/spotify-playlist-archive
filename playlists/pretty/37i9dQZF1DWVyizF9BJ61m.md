@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,950 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,121 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Never \(Lagos Never Gonna Be the Same\)](https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Rejoice](https://open.spotify.com/album/061q5E43gIp25oJxVxvAav) | 3:53 |
 | 2 | [Free My People](https://open.spotify.com/track/49qxdrRnO6980P99Ujl1Wz) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!](https://open.spotify.com/album/4d3MEgvIZKX9J5oZmIDp9G) | 4:52 |
-| 3 | [Akula Owu Onyeara](https://open.spotify.com/track/3DSebryZoyKDegPI7RV4QX) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Afrobeat par Mondomix avec Tony Allen, Femi Kuti, Manu Dibango, KonKoma…](https://open.spotify.com/album/3G9vTcy2aN6A5qn1Yb8DJj) | 7:28 |
+| 3 | [Akula Owu Onyeara](https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT) | [The Funkees](https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J) | [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973\-77](https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3) | 7:28 |
 | 4 | [Khala My Friend](https://open.spotify.com/track/17WvocrxbKL2t7HyoSpSCK) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 1 \(1972\-1977\)](https://open.spotify.com/album/4910t2DpHO9RQd2XctS8wT) | 3:20 |
 | 5 | [Message in a Hammer](https://open.spotify.com/track/4wTRV5h17Bo5cGJoTjq57y) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Message in a Hammer](https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv) | 3:36 |
 | 6 | [Wanna Do My Thing](https://open.spotify.com/track/5PHMByfnN7hGWSnZsUoomX) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 3:07 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 34 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 |
 | 35 | [Akwa Kayi Ji Bia Nuwa](https://open.spotify.com/track/6iNLRaWoB35tb4l7SKLqB5) | [The Identicals](https://open.spotify.com/artist/73dUfpnfNDAjzecrKjL415) | [Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria](https://open.spotify.com/album/1Jmb92xUTgRmGQPJBVrArI) | 5:29 |
 | 36 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 |
-| 37 | [Keleya](https://open.spotify.com/track/7w6ecCTPqvBRbyzQYvxJPq) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [Twenty First Century Twenty First Year](https://open.spotify.com/album/2m8xqBck8zwqI5rP3NokD4) | 6:39 |
-| 38 | [Secret Agent](https://open.spotify.com/track/3cEmHXnOZ25VECvzWTBjVg) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent](https://open.spotify.com/album/5C5xiAht5p8l8Z7oSJFebW) | 5:20 |
+| 37 | [Keleya](https://open.spotify.com/track/22wOMwqWNjm49RCPyX8H5c) | [Moussa Doumbia](https://open.spotify.com/artist/2yRG7OVkS0IXvJfntYxHfV) | [World Psychedelic Classics 3: Love's a Real Thing](https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6) | 6:42 |
+| 38 | [Secret Agent \- 2022 \- Remaster](https://open.spotify.com/track/2AjmSwDI5PqOUeAM32kBo3) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi) | [Secret Agent \(2022 Remaster\)](https://open.spotify.com/album/7IShXowFqPNYwLaNIvmsph) | 5:18 |
 | 39 | [Heavy Heavy Heavy](https://open.spotify.com/track/5PD8YhpV4a0BhMjwo0QVsx) | [Geraldo Pino](https://open.spotify.com/artist/6aUmoNP3dS6an1wvsfK7vg), [The Heartbeats](https://open.spotify.com/artist/4MxxWlqPodeCP8CqrT6Jps) | [Afro\-Rock Vol\. 1](https://open.spotify.com/album/46ZQZkK27RoM56LLt8xkSY) | 6:33 |
 | 40 | [Blacky Joe](https://open.spotify.com/track/0V9B1YARzvYkmnS3U5RuQk) | [P.R.O.](https://open.spotify.com/artist/20A2kG12udlX84wHGop79J) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 4:59 |
 | 41 | [Somebody's Gonna Lose or Win](https://open.spotify.com/track/6YnhY4SuFyx3gMgeyTlVdI) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [The World Ends: Afro Rock & Psychedelia in 1970s Nigeria](https://open.spotify.com/album/34D88uX2koESycju2ROiAV) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 49 | [Watch Your Life](https://open.spotify.com/track/2vbRZMSsenMBhpF6am4uRc) | [Itadi](https://open.spotify.com/artist/4VJPktEOBTcv5oRRXrPhne) | [Itadi](https://open.spotify.com/album/0FPxNka2LFpFgHTT5zCtRj) | 6:10 |
 | 50 | [Toumast Tincha](https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar \(Deluxe Edition\)](https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH) | 4:19 |
 
-Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDAwMDdlNmJkN2JhMjQzZTcxZDRiMTE3NWE3NzIwODc4YTFk`
+Snapshot ID: `MTY1MjM5NjQwMCwwMDAwMDAwMGFlNTdkY2NmMzdkMDA3M2E4MTdlYzAzODk1Njg1M2Zk`

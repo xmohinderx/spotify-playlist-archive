@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,710,808 likes - 201 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,710,964 likes - 201 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 129 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
 | 130 | [Driver's License \(Acoustic\)](https://open.spotify.com/track/6kiyZthBkF9VkkVh9Cc4jY) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Aubrey Toone](https://open.spotify.com/artist/61R2K577GF9XaGmrzJIebF) | [Driver's License \(Acoustic\)](https://open.spotify.com/album/3zzWc3okIhygb6p6ai6RO9) | 3:53 |
 | 131 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
-| 132 | [Don't You Want Me](https://open.spotify.com/track/6KUqD4ARwYd4HKBge53mla) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Acustic Hits 2020](https://open.spotify.com/album/0TE1Oc5OANq645xPnBrm64) | 3:19 |
+| 132 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
 | 133 | [Hold Me While You Wait \- Acoustic](https://open.spotify.com/track/2NL3mpVXdEJD6RqKZxYWl3) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Hold Me While You Wait \(Acoustic\)](https://open.spotify.com/album/2FFG9G1WjcnEvhdM31xXGX) | 3:12 |
 | 134 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 135 | [Drag Me Down / As Long As You Love Me](https://open.spotify.com/track/2YIQa8910IbEuqkUHmUoua) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 3:26 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 200 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 |
 | 201 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGNiNjU0OGQ3NmY5N2NmZTg4ZjVjNzU1ZmI2ZmQ4NzNl`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGNlMWE5ZjU4NDBhYWUyODEyNGQzYWUzYTJkNmE0MDVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3zm4DUSYTc.md) - [plain]
 
 > Peaceful tracks for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 195 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 572 likes - 195 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,6 +202,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3zm4DUSYTc.md) - [plain]
 | 192 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 |
 | 193 | [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 |
 | 194 | [Insomniac](https://open.spotify.com/track/1CgE3BgULa6UIBk5R3fa7t) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Insomniac](https://open.spotify.com/album/2D97fLRbV4XVzCIWxKAObW) | 4:21 |
-| 195 | [Coast](https://open.spotify.com/track/5cW7L5MwCeSetCmQT0G0kX) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/5alLzgrt637yiLkGiBBhLc) | 6:13 |
+| 195 | [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 |
 
-Snapshot ID: `MTYzOTc3NzAwNSwwMDAwMDAwMDlhMjU5NTgyZGQxYTdiZjllMGNlMWI3NzVlNDMyMDZj`
+Snapshot ID: `MTYzOTc3NzAwNSwwMDAwMDAwMGRiNjY0ZmMzZWI0YjhjYTY5ZDY0ZmVjNzI0YzNmNGE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,393 likes - 59 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,418 likes - 59 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 53 | [Brazil \(feat\. Lily McKenzie\)](https://open.spotify.com/track/47u5MX4xCrTfvK63PV2lvm) | [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [Lily Mckenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [You Stand Uncertain](https://open.spotify.com/album/4RAYGIbYUHeSVVjdziCmNd) | 3:23 |
 | 54 | [Corner](https://open.spotify.com/track/0A0igEVrmwHhDocCu2NFHs) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Enjoy Your Life](https://open.spotify.com/album/4ApwOkW9QSC5B0O4UyuVUS) | 2:50 |
 | 55 | [I Won't Forget](https://open.spotify.com/track/37lk3qgO3DYCoSpeJpp3KR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:33 |
-| 56 | [Rock Your Baby](https://open.spotify.com/track/2RjGcQcwjK8vaEDYG5X1hN) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [70s Power Hits](https://open.spotify.com/album/0DttnmmvDLLg4068gJdIMo) | 3:20 |
+| 56 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 |
 | 57 | [The Way](https://open.spotify.com/track/319WGqfBViMHQZx8IS5bmv) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [The Way](https://open.spotify.com/album/2ZKbkTT2jeH8zvMapy8sTT) | 4:19 |
 | 58 | [J&W Beat](https://open.spotify.com/track/3ulYmElxqeXxo8TaezKciy) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [J&W Beat](https://open.spotify.com/album/2DFU3nz0jrhjY0Vj2aJA37) | 6:03 |
 | 59 | [Unravel in the Designated Zone](https://open.spotify.com/track/10IxtRq6xz3ABo8E9aDROE) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [OTMI001](https://open.spotify.com/album/12w3hePulByvTE7fOF0r6W) | 4:48 |
 
-Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMGY5ZjA2ODZhZDY5NzE2MDc5NGFkZWZlMzEwZGY0MjJk`
+Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMDg5ZWNhMGE4NzYwNzdlM2M4MjNmNTgyNDg5NWRhN2Q4`

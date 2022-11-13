@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,470 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,497 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 43 | [GROWN UP](https://open.spotify.com/track/5QwLklxCtdCBnSMBXt1Vmz) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [GROWN UP](https://open.spotify.com/album/1PAJFnuUntrH4qzJpLI33s) | 3:15 |
 | 44 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
 | 45 | [drugs are for fun](https://open.spotify.com/track/3EAPXckxzS63OgxbDgaAZz) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [drugs are for fun](https://open.spotify.com/album/7IhqRJzrwITx7QCXzYitzT) | 2:22 |
-| 46 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/7fMflu8v00rdJAv05WmYKa) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎left 2 ‎right](https://open.spotify.com/album/4AncOIe72qehRNZY5kbzT7) | 2:38 |
+| 46 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 |
 | 47 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 |
 | 48 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 |
 | 49 | [dancing in the dark](https://open.spotify.com/track/0GWGdtHDEWTmt7iCc1A9DM) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT), [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E) | [a happy medium](https://open.spotify.com/album/7kibZ3ebsdQwbKNEJ0q3xP) | 3:09 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 53 | [Camp Anonymous](https://open.spotify.com/track/0BVNjqMhsxCioq76mhDUez) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Camp Anonymous](https://open.spotify.com/album/4YScZstfkp3TeCPnNOVhlg) | 2:49 |
 | 54 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 |
 | 55 | [Trying to Be Nice](https://open.spotify.com/track/3O3kGmka7Gqpl6qLOtBXeQ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 3:37 |
-| 56 | [low down](https://open.spotify.com/track/6ZSVGlfIRyFC3faVcXEzlT) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down \(Ben Rainey remix\)](https://open.spotify.com/album/2RuHMxejZiKj2TR0RRNrP7) | 3:02 |
+| 56 | [low down](https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl) | 3:02 |
 | 57 | [Droves](https://open.spotify.com/track/0u9qsoepu46b6aHi3fr6gW) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi) | [Droves](https://open.spotify.com/album/6lR1ihhd03xEjXgCRO8Icj) | 3:50 |
 | 58 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 |
 | 59 | [Don't Know How to Girlfriend](https://open.spotify.com/track/3V85ifdF1As9rpzJl0m916) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0ShzMz3SLy1V9gwSVHXqT8) | 3:01 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 109 | [COLORS](https://open.spotify.com/track/7vtw03hfTf7tTYwjvjYC5h) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [COLORS](https://open.spotify.com/album/22t7uvZWa4PoPT2lD0DSmG) | 3:18 |
 | 110 | [Uncall It](https://open.spotify.com/track/2Tc7PJ7DpTL7zWE6hgvGB2) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/0syrwMCuSIKaBxQMjOB4oj) | 2:36 |
 | 111 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
-| 112 | [Make Believe](https://open.spotify.com/track/1Pfk03tf9z8b5MPeK9uNVR) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Make Believe](https://open.spotify.com/album/4VwrrAYg9D88tV0cGKZg0B) | 3:28 |
+| 112 | [Make Believe](https://open.spotify.com/track/2Fz9Mfjo3GTENXxoZ6YVku) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [What Tomorrow Brings](https://open.spotify.com/album/1w64Qy4uueDC8hItAkBV8Z) | 3:28 |
 | 113 | [Satellite](https://open.spotify.com/track/7GB1amheHeYKw6Kqeatn9Q) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/2kpybYnysuEAN1cOgoU9os) | 3:04 |
 | 114 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 |
 | 115 | [Waste My Time](https://open.spotify.com/track/2qDMEgMtjFbsQnnRigRBuu) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Waste My Time](https://open.spotify.com/album/6x5ktAlJxev8IvJhWDuMZn) | 3:13 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 |
 | 125 | [Palm Springs](https://open.spotify.com/track/453UcrZCt2q2yXDprKPNq0) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite \(Side B\)](https://open.spotify.com/album/1ELgF7Skl8sroKP17YMW5X) | 3:00 |
 
-Snapshot ID: `MTY2ODE4MjA2MiwwMDAwMDAwMDMzMmZlNjczZGE5ZjdjMTc0ZDM5Zjg4MWUzZTdkZjE3`
+Snapshot ID: `MTY2ODE4MjA2MiwwMDAwMDAwMDVkNzljNDkxMGJkZTRhZDQwNGU1Yzc1Yjc2ZjIzZWQ0`

@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: TOKIODK
 
-121 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
+122 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/1fuxTN1KVeY4FHPmGcQzOK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [DUJEITO Q DA](https://open.spotify.com/track/4OW2bMqaWGqH83ojBaHeYt) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [DUJEITO Q DA](https://open.spotify.com/album/2geHCPma65x6DlqQnYir1V) | 1:53 | 2022-05-27 | 2022-07-23 |
 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 | 2022-03-18 |  |
 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 | 2022-03-18 |  |
-| [Família de Raça](https://open.spotify.com/track/1QGRyTHSk3KhiC7J6FZC5R) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/3hPQKI8AbrcFoyEMpAdmRZ) | 2:59 | 2022-04-15 |  |
+| [Família de Raça](https://open.spotify.com/track/1QGRyTHSk3KhiC7J6FZC5R) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/3hPQKI8AbrcFoyEMpAdmRZ) | 2:59 | 2022-04-15 | 2022-11-13 |
+| [Família de Raça](https://open.spotify.com/track/5Ho4B8wcznNcNKE6s31RIJ) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/0BFDHJKqQQ04fh5P9v2o8q) | 2:59 | 2022-11-11 |  |
 | [Fazendo o Sinal](https://open.spotify.com/track/0azZcZsS8POiuYJQMM8b7Q) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Fazendo o Sinal](https://open.spotify.com/album/6CBy7iii9xKJJr7C4lCnQe) | 2:41 | 2022-03-18 |  |
 | [Faço Chover no Deserto](https://open.spotify.com/track/6vcI2k4SQhia609lygeJrf) | [DJ Zala](https://open.spotify.com/artist/6kOoJ7EadslKcZRUqvuqxa), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Souto MC](https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4) | [Faço Chover no Deserto](https://open.spotify.com/album/5dFQf66hJyHekULcgA8UQ3) | 4:01 | 2022-09-17 | 2022-10-01 |
 | [Final da Liberta](https://open.spotify.com/track/5QVwTAwVPZxaXnWwK8CJPi) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Frugi](https://open.spotify.com/artist/6pnILCpyHaqMnMASeLtpd8) | [Antiherói](https://open.spotify.com/album/1qXU9PGYsVT6hhwl1vVGlC) | 2:42 | 2022-09-23 |  |

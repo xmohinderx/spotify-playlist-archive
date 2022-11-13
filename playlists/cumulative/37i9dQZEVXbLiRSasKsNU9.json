@@ -6350,6 +6350,24 @@
     },
     {
       "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152004,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL"
+    },
+    {
+      "album": {
         "name": "Gehraiyaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1n3IiQK8urUhPw8wsfWluX"
       },
@@ -9191,7 +9209,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 285306,
       "name": "La Melod\u00eda de Dios",
       "url": "https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR"
@@ -11633,6 +11651,24 @@
     {
       "album": {
         "name": "My Love",
+        "url": "https://open.spotify.com/album/3DAVZPvMCcH69mSciEbjWG"
+      },
+      "artists": [
+        {
+          "name": "Still",
+          "url": "https://open.spotify.com/artist/4dJxXNwpOnZxDCuZN4MFqo"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71041,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5rzOU3m5mKceWKakPX7asL"
+    },
+    {
+      "album": {
+        "name": "My Love",
         "url": "https://open.spotify.com/album/18zxs5BJDd4q59cxUnXs2H"
       },
       "artists": [
@@ -11643,7 +11679,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 71122,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5CqGUEYDnCrUxqqk5siUpX"
@@ -13881,6 +13917,24 @@
     {
       "album": {
         "name": "Hustle 2.0",
+        "url": "https://open.spotify.com/album/2ie6XFf6FiiQGQeDPonPlv"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Ram Ram",
+      "url": "https://open.spotify.com/track/49TNlAQZXmFBteKZBF9rj0"
+    },
+    {
+      "album": {
+        "name": "Hustle 2.0",
         "url": "https://open.spotify.com/album/0hf3YfPgRE0WfJ2CM7FvBD"
       },
       "artists": [
@@ -13891,7 +13945,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 213600,
       "name": "Ram Ram",
       "url": "https://open.spotify.com/track/74dYOYy441TqKUwQ5VQPpO"
@@ -17709,10 +17763,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 276416,
       "name": "Varaha Roopam Daiva Va Rishtam",
       "url": "https://open.spotify.com/track/10XG8WGYgiQRBmbEaffnfi"
+    },
+    {
+      "album": {
+        "name": "Kantara (Original Motion Picture Soundtrack) - Hindi",
+        "url": "https://open.spotify.com/album/3i7pX6eDw9trPAXjGuGfg8"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276416,
+      "name": "Varaha Roopam Daiva Va Rishtam",
+      "url": "https://open.spotify.com/track/1EsgJ0sDCvdtWEho9Br0WT"
     },
     {
       "album": {

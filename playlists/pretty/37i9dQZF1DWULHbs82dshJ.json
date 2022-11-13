@@ -1,29 +1,13 @@
 {
   "description": "A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.",
-  "num_followers": 46990,
+  "num_followers": 47002,
   "original_name": "Dia de Chuva",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMGJmZGYwYzcyOWE3ZTI4YjEyYTJmZmM1MDJhZDcyNzZh",
+  "snapshot_id": "MTYzOTU4MjkzOSwwMDAwMDAwMDhiZGY5ZjRiMzFmZTJlMzYwYjcwZTRhOTg1MGM1NzRk",
   "tracks": [
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
-    },
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -111,22 +111,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Mind Body & Soul",
         "url": "https://open.spotify.com/album/6O0QKBENHPmifQwLZZGnqM"
       },
@@ -683,6 +699,26 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
         "name": "Um amor puro",
         "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
@@ -699,6 +735,38 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+    },
+    {
+      "added_at": "2021-12-15 15:42:19",
+      "album": {
+        "name": "\u5c08\u6ce8\u7235\u9078 Jazz for Work & Study",
+        "url": "https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 186160,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/7umEMqK5YuVk9mJ9fLzdUJ"
     },
     {
       "added_at": "2021-12-15 15:42:19",
@@ -755,22 +823,6 @@
     {
       "added_at": "2021-12-15 15:42:19",
       "album": {
-        "name": "\u5c08\u6ce8\u7235\u9078 Jazz for Work & Study",
-        "url": "https://open.spotify.com/album/1gdOZL2MqhUTdiIfzoZ262"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7umEMqK5YuVk9mJ9fLzdUJ"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
         "name": "KEYS",
         "url": "https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX"
       },
@@ -783,54 +835,6 @@
       "duration_ms": 179373,
       "name": "Old Memories (Originals)",
       "url": "https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "The Motown Anthology",
-        "url": "https://open.spotify.com/album/7Jkbnv3tTMR2UHznXOPPt8"
-      },
-      "artists": [
-        {
-          "name": "Brenda Holloway",
-          "url": "https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg"
-        }
-      ],
-      "duration_ms": 170960,
-      "name": "Every Little Bit Hurts",
-      "url": "https://open.spotify.com/track/3sHGi1Ldr0JfoeZMoV9sNO"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/7iH4GsgBQHWwl8pz4nsnTM"
-      },
-      "artists": [
-        {
-          "name": "We Are KING",
-          "url": "https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O"
-        }
-      ],
-      "duration_ms": 267680,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/5HkW47BxKNgkW2bSNghlNa"
-    },
-    {
-      "added_at": "2021-12-15 15:42:19",
-      "album": {
-        "name": "I Put a Spell on You",
-        "url": "https://open.spotify.com/album/1vurjQl33mKXSnF7gKRlZd"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/5N8ttZslGXlcNGMP2ACivh"
     }
   ],
   "unique_name": "Dia de Chuva",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,834 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,857 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 5 | [Garrafa](https://open.spotify.com/track/2kcpfQD1eAENcjPdnnTWMw) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB), [Primo Profit](https://open.spotify.com/artist/22Z9RXSVitsBB1pHoADHCB) | [Garrafa](https://open.spotify.com/album/7jABk4M5FCrLBAFDzYXDOx) | 3:11 |
 | 6 | [Uno](https://open.spotify.com/track/0KS5pkZsWwnJdQJtwFE1UE) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Uno](https://open.spotify.com/album/1wg1rRJToAGEXNRS6r24Ma) | 3:21 |
 | 7 | [frutiño](https://open.spotify.com/track/4QP4LwWOI0ZptrJv0oG8xB) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [frutiño](https://open.spotify.com/album/3UfT1lFbmSdWQzMB8kLY9G) | 3:15 |
-| 8 | [Inmune](https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF) | 4:32 |
+| 8 | [Inmune](https://open.spotify.com/track/2xrv8ar2mYYwmXPoCZY9se) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Verdor](https://open.spotify.com/album/3y6yqzgtEBTRShhEC7mRTN) | 4:32 |
 | 9 | [Retrato & Son](https://open.spotify.com/track/4XQhhsiPQsnxLFHAWOXbZY) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Retrato & Son](https://open.spotify.com/album/6CqdWdsbdpe3Gba32qH9YM) | 3:01 |
 | 10 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
 | 11 | [Tú Lo Vales](https://open.spotify.com/track/5agos0Wcgkg8w7EnUcfdTm) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Tú Lo Vales](https://open.spotify.com/album/7EJWvQDJnrfmeHwfCK6Sc3) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 69 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 70 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MTY1Nzg2MTA2NCwwMDAwMDAwMGQ2MWNlZGJiMGRmYzExYTk5MzAwOTQ4NzRjN2I2NWNm`
+Snapshot ID: `MTY1Nzg2MTA2NCwwMDAwMDAwMGJkOGVkYjhmNzUxNzliZDVlOThhMWMwNzYzYTg3N2Qz`

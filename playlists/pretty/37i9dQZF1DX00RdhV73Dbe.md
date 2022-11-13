@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,512 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,540 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 13 | [Camberwell Beauty](https://open.spotify.com/track/1rKwWSyirsAW20lb30v0Ji) | [Franc Spangler](https://open.spotify.com/artist/5KviV2PTQYQFriUyMnHKjL) | [Painted Lady](https://open.spotify.com/album/2bF8KCfcVhLYFKD5pZrqvb) | 6:12 |
 | 14 | [Meadows \- Original](https://open.spotify.com/track/4eP88gKj64WSvxcG3xxIWk) | [Smallpeople](https://open.spotify.com/artist/1yrqDFnKpbYCPSa6ZwgHOV), [RAU](https://open.spotify.com/artist/0s1dGxIS5ZVaO6RDvOsyPO) | [Meadows EP](https://open.spotify.com/album/2mSxKkIscujytuvurDyosT) | 8:00 |
 | 15 | [Almost Invisible \(Kink Live Dub\)](https://open.spotify.com/track/6QSvMrG4SZsJdODFzwPwLP) | [Leif](https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D) | [Lost & Found Ep](https://open.spotify.com/album/2Ra96jVs1ifLrsnBjIHwWe) | 7:33 |
-| 16 | [Memories Fade](https://open.spotify.com/track/1Qr9NCPskdaN394Oxt0eAA) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \(Deluxe Edition\)](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 5:05 |
+| 16 | [Memories Fade](https://open.spotify.com/track/4sYvvnzal0yQJ8qGEJeR3M) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 5:03 |
 | 17 | [Junglist](https://open.spotify.com/track/1sap7FwEuCQqFv3bOpnh6A) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Peter Bouncer](https://open.spotify.com/artist/1Bbk2KnbOQycR2QCUoNhp1) | [This Is Jungle](https://open.spotify.com/album/7pLhXTs8TacjaFIdh9XJct) | 6:08 |
 | 18 | [Corneria](https://open.spotify.com/track/25SPCKaeYHknIpXn6yflRe) | [Lucky Charmz](https://open.spotify.com/artist/2PIUHVPbVwoZ09wNBrOYMd) | [Follow Me To Flottbek Falls](https://open.spotify.com/album/4jx6zIJDb6lziCd6IOLPja) | 7:01 |
 | 19 | [Baby, We're Ascending](https://open.spotify.com/track/614NfZjf8rMY2bErgwhzR5) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 69 | [Rayna \- Shanti Celeste Remix](https://open.spotify.com/track/4hmKziZXTpDbqBqW7hZW7V) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE), [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Rayna \(Shanti Celeste Remix\)](https://open.spotify.com/album/5aC4FfAUuHAIqtYmuu1Ki4) | 6:52 |
 | 70 | [Gasoline, Pt\. 2](https://open.spotify.com/track/76rWWUIdZ3QonRhUOzLjvS) | [Darcy Baylis](https://open.spotify.com/artist/3blRQedtHHIGK76BFF1n1P) | [Days After Breaking](https://open.spotify.com/album/30UnTsr4oe3T2QzpKYt7OB) | 6:30 |
 
-Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMDAxYWM3ODM1MzBjMjhlYWVmZjhiYTQ0MjBhNjJkOTRk`
+Snapshot ID: `MTY1OTEwNzM4MSwwMDAwMDAwMGY2ZWY5YTNlZGJiOGUyYjE1ZTY2YmFiYzFmZjdhMzUz`

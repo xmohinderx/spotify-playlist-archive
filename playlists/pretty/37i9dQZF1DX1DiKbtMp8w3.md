@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,711 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,726 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 93 | [MINSU\(민수\) \- Stage Comment 5](https://open.spotify.com/track/70co5wX0kLuHshucmLYXLk) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:30 |
 | 94 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
 | 95 | [MINSU\(민수\) \- Stage Comment 6](https://open.spotify.com/track/35tTCKVGjzTfUjYUyRIa81) | [MINSU](https://open.spotify.com/artist/6bZ2pW1vt2NJ1XfP3Jwb29) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:29 |
-| 96 | [I Like Me](https://open.spotify.com/track/7xBoByDMOziVVLsXDJzimH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [minsu X innisfree I Like Me](https://open.spotify.com/album/39ZMi8KIbJ4tFBAaXkcXHW) | 3:12 |
+| 96 | [I Like Me \- Instrumental](https://open.spotify.com/track/0Oh2AkCB68jE8I0d3FS0b3) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [minsu X innisfree I Like Me](https://open.spotify.com/album/39ZMi8KIbJ4tFBAaXkcXHW) | 3:12 |
 | 97 | [Sister](https://open.spotify.com/track/7b0138EzonYCs1Ytsk6SvQ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 5:21 |
 | 98 | [Everybody Does](https://open.spotify.com/track/7s5Ow4bsVkU0eUlp71o8yn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Silica Gel](https://open.spotify.com/album/4BzGxha8bh9u2I2nEyUeE9) | 4:54 |
 | 99 | [실리카겔\(Silica Gel\) \- Stage Comment 1](https://open.spotify.com/track/4DdrNOYcdjRI7J8naGp99n) | [실리카겔](https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 2:16 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 224 | [In My Mind](https://open.spotify.com/track/0lXhyCQBqlEbperz8Ot6aZ) | [828](https://open.spotify.com/artist/0TWjYNZU7pTssEBPuMiyXA) | [Suffering Repetition, But Tomorrow](https://open.spotify.com/album/6tlEfSXtuiRUXjzAcpzlSe) | 4:57 |
 | 225 | [Taxi](https://open.spotify.com/track/0ahGmXLKdNeji12zTQYp0T) | [Hwanho](https://open.spotify.com/artist/3PIsLQ22l4FXjkpyua0L3n) | [Taxi](https://open.spotify.com/album/0NcUqsLQjkVQfIQGOXbyjB) | 3:50 |
 
-Snapshot ID: `MTY2NjEwMTQ4MywwMDAwMDAwMDA5MzQyOWY4NzA0N2UxMzQ5ZWE1ODFmNGUxYTQ4ZjFh`
+Snapshot ID: `MTY2NjEwMTQ4MywwMDAwMDAwMDM0NjJmNDFlZTQ2ZTBkN2ZlZjUxMTExMGNkOTM2YTFl`

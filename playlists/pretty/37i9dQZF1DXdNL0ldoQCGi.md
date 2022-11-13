@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > sabe aquela música que cê ouve pelas redes mas não sabe o nome? pois então
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,341 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,553 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 27 | [Bombonzinho \- Ao Vivo](https://open.spotify.com/track/4o6v3Oooyt7HF20idztRD4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Bombonzinho \(Ao Vivo\)](https://open.spotify.com/album/2VXbLDxcWq4K4gsAEtLbBs) | 2:34 |
 | 28 | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/track/37aYm4KlP3ZG78NrFFAT9O) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [Bernax](https://open.spotify.com/artist/71VXdKWeovwJtO5nzDQ7mt), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb), [Flow Key](https://open.spotify.com/artist/1qObxOBQWYkdfJhMGdMwmU) | [Bota Em Você Machuca \(feat\. Flow Key, Bernax e DJ RD\)](https://open.spotify.com/album/1YpMz1WLeqmMr51EpGOczq) | 2:09 |
 | 29 | [Miss You \- Sped Up Version](https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q) | 2:51 |
-| 30 | [Depois do Universo](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [Depois do Universo](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 |
+| 30 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 |
 | 31 | [Sentadinha](https://open.spotify.com/track/1DRoj20FnT4p38W23joaz2) | [Patrulha Do Samba](https://open.spotify.com/artist/0mik3PxmT3hByFDHOz9cHY) | [Sentadinha](https://open.spotify.com/album/1GJoUl8C3KeZy6wj9jSXga) | 3:02 |
 | 32 | [Ela Sempre Fura a Lupa](https://open.spotify.com/track/1rIMjVDjZVmMORH8ps84L4) | [DJ GH](https://open.spotify.com/artist/4n9OUWLTEaARtbhwoH7IUw), [MC Lemos](https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa) | [Ela Sempre Fura a Lupa](https://open.spotify.com/album/0U4mXbOacJ5SAXBpBgNBE3) | 2:54 |
 | 33 | [Peças De Griffe](https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 3:26 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 65 | [Metflix](https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Metflix](https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj) | 2:13 |
 | 66 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 |
 | 67 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 |
-| 68 | [SNAP](https://open.spotify.com/track/4Qd8lWWPRLv4x6ZZVJykRB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 2:59 |
+| 68 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 |
 | 69 | [Rave e Bagaceira](https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl), [Marquinhos Lima](https://open.spotify.com/artist/57mkZiyi1RbNRp58F3RACm) | [Embaixador do Piseiro em Casa \- Ao Vivo](https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX) | 2:55 |
 | 70 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/73u22uLsakf8W12suab1QO) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pro Nosso Bem \(Ao Vivo\)](https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg) | 3:14 |
 
-Snapshot ID: `MTY2ODA4ODIyOCwwMDAwMDAwMGQ2MTI0ZWQ2YWFjYjFiNTNkMDY0YjZkNjJiY2FhZWZj`
+Snapshot ID: `MTY2ODA4ODIyOCwwMDAwMDAwMGMzMzYwZWQ5ZGY1N2QzMDhiZDc3NWJlMjNmNDI3ZTU4`

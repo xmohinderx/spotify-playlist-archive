@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,857 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,911 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 4 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 5 | [Promises](https://open.spotify.com/track/7AVRMxljXWpqmL9NlzeCJw) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:21 |
 | 6 | [Turn off the Lights](https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn off the Lights](https://open.spotify.com/album/132voEBLKSWmTV959PQuiC) | 3:30 |
-| 7 | [Middle](https://open.spotify.com/track/6V0EZDzaIOBLDgahOq3Bcb) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [EDC Las Vegas 2021](https://open.spotify.com/album/5IBne83Up06sVwVAacqzTc) | 3:01 |
+| 7 | [Middle](https://open.spotify.com/track/7cb1au0v5kAw8fPdCio8Zi) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Middle](https://open.spotify.com/album/7txkpjhga7aWZKbyI7BlRd) | 3:01 |
 | 8 | [In My Head](https://open.spotify.com/track/69uxus0d23ZnTHXi1dVldS) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [In My Head](https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu) | 2:51 |
 | 9 | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [HIT IT \(feat\. Saweetie & Lele Pons\)](https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3) | 3:55 |
 | 10 | [Zombie Nation](https://open.spotify.com/track/0lebUsllgpJQBjZrfIuooK) | [Konig Pry](https://open.spotify.com/artist/62mc7565AIVwculibZaNOZ) | [Zombie Nation](https://open.spotify.com/album/7977P08hWMjZ7blQe2lKy7) | 3:03 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 44 | [Colombia \- Bootleg](https://open.spotify.com/track/0xIS1ttmdlsu6Dhw4wyXmE) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Elee Bermudez](https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW) | [The King Of Guaracha](https://open.spotify.com/album/70kQUkBcjrztqhpnbSfi5m) | 3:45 |
 | 45 | [Siento](https://open.spotify.com/track/3YKPuIxSWF3wwBXpyezDW7) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Siento](https://open.spotify.com/album/2buLINyvSP9CBHWvkpHusG) | 3:18 |
 | 46 | [Me Provocas](https://open.spotify.com/track/4LjqHtfkcDdO2o3i0Z7AxJ) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw) | [Me Provocas](https://open.spotify.com/album/6owodcApPCsG2Vg2dzQwfP) | 4:53 |
-| 47 | [Fiesta En La Arena](https://open.spotify.com/track/5TePkf81a8qlrEs7JCTeE4) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Felicia](https://open.spotify.com/artist/5iZjTlgCuw1wjmkRyjFvvP) | [Fiesta En La Arena](https://open.spotify.com/album/4PWiOCnQBd69wr9e4L1L6B) | 3:13 |
+| 47 | [Fiesta En La Arena](https://open.spotify.com/track/7hRWhr6JZCWS0CtYQsz6p9) | [Dj Dasten](https://open.spotify.com/artist/2jqJc0ovzss12ajvoeyZu0), [Felicia](https://open.spotify.com/artist/5iZjTlgCuw1wjmkRyjFvvP) | [This Is Guaracha](https://open.spotify.com/album/2NAipWQFzhI39i7UQnn3qe) | 3:13 |
 | 48 | [Noches de Soledad](https://open.spotify.com/track/5WZ3BKEXk7EB86m6MdEpn6) | [Santiago Cardona](https://open.spotify.com/artist/20PbAAZBxVnVsNlOJbYdXk) | [Noches de Soledad](https://open.spotify.com/album/6tdpKYdRS2OJy3bQWE9q6q) | 3:34 |
 | 49 | [Calling](https://open.spotify.com/track/4LApxjrPhbmSXdTXaHrqA1) | [Exotic](https://open.spotify.com/artist/14ASSasIb42tG16ym4kVfh) | [Elite Guarach](https://open.spotify.com/album/2ISwlwDSZNJFwWEB99DBfh) | 3:37 |
 | 50 | [Ella Ya Me Olvido \- Radio Edit](https://open.spotify.com/track/5hU55DdOI7czxGFufcsrS4) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM) | [Ella Ya Me Olvido \(Radio Edit\)](https://open.spotify.com/album/5ECD0CGqwDeEFo6l7UvEkq) | 4:09 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MTY1NjYwMDI0OCwwMDAwMDAwMGQyMDRiNWVmYzc1YjYzZTljYzdjMzAyNTJjNjllMTNm`
+Snapshot ID: `MTY1NjYwMDI0OCwwMDAwMDAwMGE1ZGFmMTcwNThlYTY2NTQwZWQ3OTQzMzQxYzA5NmUx`

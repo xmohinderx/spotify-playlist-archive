@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Doechii is our newest RADAR artist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,577 likes - 56 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,588 likes - 56 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 10 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 | 11 | [KLK](https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [KLK](https://open.spotify.com/album/1LnL349QHolcO0vHZxgKLt) | 3:01 |
 | 12 | [Hospital](https://open.spotify.com/track/7yELjeC1XSdso8N8EBrVib) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:33 |
-| 13 | [B.O.T.A\. \(Baddest of Them All\) \[Edit\] \- Radio Edit](https://open.spotify.com/track/0MUVKM0uQXXMtN09oxj9pB) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [BEST WORKOUT BEATS](https://open.spotify.com/album/095gE2jde1eeiAV1fn2Mdd) | 3:46 |
-| 14 | [Neva Goin Broke](https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Codeine Files](https://open.spotify.com/album/7tgZb9ATpg16l6wcSnOBtT) | 1:20 |
+| 13 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
+| 14 | [Neva Goin Broke](https://open.spotify.com/track/25n2o2iXsML4I0xIAFOINj) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Neva Goin Broke](https://open.spotify.com/album/4rUicHcb8xZS9zuyVlPZrd) | 1:20 |
 | 15 | [I’m Tight](https://open.spotify.com/track/6kbWgnfjUrDPmuwiROaNVB) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [I’m Tight](https://open.spotify.com/album/3BRjhB1XOxBPM5AGzJZLmi) | 7:00 |
 | 16 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 |
 | 17 | [Entice Me](https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Entice Me](https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT) | 2:36 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 55 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 |
 | 56 | [bodies](https://open.spotify.com/track/4kXdLQaiCpqSdM9OTpvfZe) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c) | [bodies](https://open.spotify.com/album/6nJVoyXol3qPhMdBS4VaFh) | 3:02 |
 
-Snapshot ID: `MTY2NTYzMzYwMCwwMDAwMDAwMDUxNDQ2N2U1YjZiYzM0OTRlZDkzNjAzMWQzZjk3OWI5`
+Snapshot ID: `MTY2NTYzMzYwMCwwMDAwMDAwMGFjM2UzYTQyYTAyMDRmZjE5ZDhkNjNlYzJjZWYxOTU4`

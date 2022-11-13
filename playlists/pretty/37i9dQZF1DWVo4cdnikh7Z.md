@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,269 likes - 72 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,336 likes - 72 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 6 | [Soraka Poove](https://open.spotify.com/track/4BBDFDQp2mZpGv6vNM80Bp) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn) | [Sardar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IHFkqhwCsmByxnhs94vAE) | 3:52 |
 | 7 | [Who Am I ?](https://open.spotify.com/track/1zPlQih67ZvC3Xp6c2dxUI) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Prince \(Tamil\)](https://open.spotify.com/album/768hQJ2fKFv4Lq4TE0J1Hj) | 4:03 |
 | 8 | [Saachitale \(From "Love Today"\)](https://open.spotify.com/track/1GtGDEADkaqavjo23YaSLl) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Saachitale \(From "Love Today"\)](https://open.spotify.com/album/30U9nwOMtDwQWY3I6cwR0H) | 3:58 |
-| 9 | [Veera soora](https://open.spotify.com/track/12pySxhhHrOhg414EamJxa) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Selvaraghavan](https://open.spotify.com/artist/0e2qa5GKTSaX0Q0tYVg62n) | [Naane Varuvean \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ioIYURjdJk0oioMJdit9l) | 3:25 |
+| 9 | [Veera Soora \(From "Naane Varuvean"\)](https://open.spotify.com/track/6mPQ3rmFeyjlYUXTnegt9w) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Selvaraghavan](https://open.spotify.com/artist/0e2qa5GKTSaX0Q0tYVg62n) | [Veera Soora \(From "Naane Varuvean"\) \- Single](https://open.spotify.com/album/64Ig11EPAFAESz5lwKiusl) | 3:27 |
 | 10 | [Mallipoo](https://open.spotify.com/track/3i7qScF9Oyp31O9bAutJez) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Vendhu Thanindhathu Kaadu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4) | 4:05 |
 | 11 | [Ennai Vittu \- Yuvanshankar Raja Version](https://open.spotify.com/track/1iAtPaOSqv78DP4pvJWxTs) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Love Today \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0) | 3:51 |
 | 12 | [Hey Puyale \(From "Kalagathalaivan"\)](https://open.spotify.com/track/3QNbrlDhMCVC4Sqm7e6ruz) | [Arrol Corelli](https://open.spotify.com/artist/0vOmOWhCwishGqWUpiiv5o), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Hey Puyale \(From "Kalagathalaivan"\)](https://open.spotify.com/album/1bXnEFj9HlYHEqEoeiTk3c) | 5:00 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 71 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 |
 | 72 | [Jalabulajangu](https://open.spotify.com/track/4lS1ldfypKYEwKqbu3a04x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:22 |
 
-Snapshot ID: `MTY2ODE1MDgyMiwwMDAwMDAwMGYyMDhmOTIxZmI1NjI3MDlmZjA2ZWU3YzA1NDhlNDc4`
+Snapshot ID: `MTY2ODE1MDgyMiwwMDAwMDAwMGUxMDY3YzdiNDliNjAwZmMwODg3NzYyYjRkYWQwNDFm`

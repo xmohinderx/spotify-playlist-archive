@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-159 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+160 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Fool](https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [My First June](https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7) | 3:50 | 2022-05-11 |  |
 | [For Her \(feat\. Kim Dae Hyeok\)](https://open.spotify.com/track/1JeyvQnYfR7otuxrWKkhEC) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Kim Dae Hyeok 김대혁](https://open.spotify.com/artist/5Idmwqf7qWP3IBo3ayAgmG) | [For Her](https://open.spotify.com/album/1nSHlzM1eHfjBKzYn5jC3R) | 3:03 | 2022-05-11 | 2022-07-27 |
 | [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 | 2022-07-04 |  |
+| [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 | 2022-11-03 |  |
 | [From The Heart](https://open.spotify.com/track/0qdxUN4EevIeK1KuKT0JWa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [From The Heart](https://open.spotify.com/album/5lBFCPfdF95rRFLWMbrs3N) | 3:32 | 2022-06-20 | 2022-06-25 |
 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 | 2022-05-11 |  |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-05-11 |  |
@@ -112,7 +113,7 @@
 | [Secret](https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Secret \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.2](https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2) | 3:11 | 2022-05-11 | 2022-08-15 |
 | [see you](https://open.spotify.com/track/5qwogqCsf0RDUVzywwlfzI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:15 | 2022-05-11 | 2022-07-26 |
 | [See You Again](https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:44 | 2022-05-11 |  |
-| [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 |  |
+| [Should Not Love You](https://open.spotify.com/track/0Er9o2H59VVOmgMB4VG4fk) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [A New Decade](https://open.spotify.com/album/4mYVg4U1xnQyBA3hbH1DB4) | 3:39 | 2022-05-11 | 2022-11-13 |
 | [Should not love you \(Part.2\)](https://open.spotify.com/track/49EViTtQ88ssFquryh5e9C) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Should not love you \(Part.2\)](https://open.spotify.com/album/7kvX7N3RNIJlBbuUvP92n2) | 2:42 | 2022-06-18 | 2022-07-29 |
 | [Shutter \(feat\. Kinn\)](https://open.spotify.com/track/1hisjif3DM0ITkDTdrRrao) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Kinn](https://open.spotify.com/artist/1xjybRUDl1NlkiSFXatruo) | [Shutter](https://open.spotify.com/album/1WdDr0SPN5osJNzKJB6RKl) | 3:03 | 2022-06-09 | 2022-07-22 |
 | [So Sweet](https://open.spotify.com/track/0i2ph7eYTjreLPe3VAd6N4) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [Forever yours](https://open.spotify.com/album/0SmS3QKxpiblknw3DYP3a5) | 3:59 | 2022-05-11 | 2022-06-07 |

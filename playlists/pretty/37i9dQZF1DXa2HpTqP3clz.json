@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Trampled by Turtles",
-  "num_followers": 114300,
+  "num_followers": 114352,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDljNGZiY2ZhNGFlNWI1ZjA4MjI5MTJmZjk1NDZmZGJj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDRiZjBjYWY0MDA2Nzc0ZjI2ZjhiNTFiM2E2ZmUwZDIy",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Brother Sister",
-        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
       },
       "artists": [
         {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 237186,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
+      "duration_ms": 295773,
+      "name": "Time We Made Time",
+      "url": "https://open.spotify.com/track/18tdZq3CmktV6HIAGSiJ0B"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
       "artists": [
         {
-          "name": "Tejon Street Corner Thieves",
-          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
         }
       ],
-      "duration_ms": 241013,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
+      "duration_ms": 237186,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -651,6 +651,22 @@
       "duration_ms": 124013,
       "name": "Buck Creek Girls",
       "url": "https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
+      },
+      "artists": [
+        {
+          "name": "Tejon Street Corner Thieves",
+          "url": "https://open.spotify.com/artist/3k9kCfMqAsrd90TMsYzzmo"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/4uj4owY793HdrUdMJeH8Gc"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "When I'm Free",
-        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
-      },
-      "artists": [
-        {
-          "name": "Hot Rize",
-          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "You Were on My Mind This Morning",
-      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Lyin' Low",
         "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "When I'm Free",
+        "url": "https://open.spotify.com/album/5kTB8j3fW3o4eFoZLR8bza"
+      },
+      "artists": [
+        {
+          "name": "Hot Rize",
+          "url": "https://open.spotify.com/artist/40iD7Eehimq75Ow4VUxk3r"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "You Were on My Mind This Morning",
+      "url": "https://open.spotify.com/track/6XN8ygVU7ltNbEgKLPUrKy"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -911,6 +927,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Echo In The Valley",
+        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "If I Could Talk To A Younger Me",
+      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Mount Royal",
         "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
       },
@@ -923,22 +959,6 @@
       "duration_ms": 182293,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "In The Morning Light",
-        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "In The Morning Light",
-      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -959,6 +979,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "In The Morning Light",
+        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 282480,
+      "name": "In The Morning Light",
+      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "All Ashore",
         "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
       },
@@ -971,26 +1007,6 @@
       "duration_ms": 425360,
       "name": "All Ashore",
       "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "B\u00e9la Fleck & Abigail Washburn",
-        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Railroad",
-      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1075,8 +1091,24 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Echo In The Valley",
-        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "B\u00e9la Fleck & Abigail Washburn",
+        "url": "https://open.spotify.com/album/18Kf1ocHyxnqJ2VCuS6Utm"
       },
       "artists": [
         {
@@ -1088,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
         }
       ],
-      "duration_ms": 202053,
-      "name": "If I Could Talk To A Younger Me",
-      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
+      "duration_ms": 216306,
+      "name": "Railroad",
+      "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1143,22 +1175,6 @@
       "duration_ms": 249000,
       "name": "Harder Than Steel",
       "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1359,6 +1375,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Paint This Town",
+        "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "Gloryland",
+      "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "North of Despair",
         "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
       },
@@ -1375,18 +1407,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Run, Rose, Run",
-        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+        "name": "Laws Of Gravity",
+        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
+      "duration_ms": 275973,
+      "name": "1901: A Canyon Odyssey",
+      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1407,6 +1439,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/7C8gwN0JX7Df8Rfepg8nMi"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2tKc36Hzn3cfE6beWfIZe6"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Mile",
+          "url": "https://open.spotify.com/artist/7ax4yYo9LU1BlwOIama074"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5L8F0sOnXfydj7ok9JWf7Y"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -1423,6 +1487,22 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Forlorn Strangers",
+        "url": "https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe"
+      },
+      "artists": [
+        {
+          "name": "Forlorn Strangers",
+          "url": "https://open.spotify.com/artist/7rlb4ZH6RO0juVpvZXWqif"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Bottom Of The Barrel",
+      "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1467,50 +1547,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2tKc36Hzn3cfE6beWfIZe6"
+        "name": "Turning Up The Ground",
+        "url": "https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5"
       },
       "artists": [
         {
-          "name": "Moonlight Mile",
-          "url": "https://open.spotify.com/artist/7ax4yYo9LU1BlwOIama074"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 268500,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5L8F0sOnXfydj7ok9JWf7Y"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Laws Of Gravity",
-        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "1901: A Canyon Odyssey",
-      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Forlorn Strangers",
-        "url": "https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe"
-      },
-      "artists": [
-        {
-          "name": "Forlorn Strangers",
-          "url": "https://open.spotify.com/artist/7rlb4ZH6RO0juVpvZXWqif"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Bottom Of The Barrel",
-      "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
+      "duration_ms": 264842,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1539,6 +1587,22 @@
       "duration_ms": 248712,
       "name": "Squirrel Hunters",
       "url": "https://open.spotify.com/track/5Tu8iwoMgiz3MQJui9OFt9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1679,22 +1743,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Message From Heaven",
         "url": "https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf"
       },
@@ -1731,74 +1779,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "My Bluegrass Heart",
-        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
       },
       "artists": [
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         },
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 369571,
-      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
-      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Spirit to the Sea",
-        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Maybelle",
-      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+      "duration_ms": 190634,
+      "name": "Run To Heaven",
+      "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
     }
   ],
   "unique_name": "Grass Roots",

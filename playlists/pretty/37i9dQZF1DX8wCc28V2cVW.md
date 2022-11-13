@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > FFVII REMAKE O.S.Tから楽曲追加！ 緻密な映像美と豊かな物語性で世界中から愛されている最高峰RPGシリーズ、ファイナルファンタジーの珠玉の名曲集。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,663 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,681 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 27 | [A Fleeting Dream](https://open.spotify.com/track/51REyltyZa0nyob7Vpqomd) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:24 |
 | 28 | [Zanarkand](https://open.spotify.com/track/5NP9bhvIp2XGY3Xl0ICAub) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:04 |
 | 29 | [Aerith's Theme](https://open.spotify.com/track/18sDWMHFfgDOh1zMrFJt1C) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII Original Soundtrack](https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK) | 4:18 |
-| 30 | [Somnus \- Instrumental Version](https://open.spotify.com/track/6b1n2ORIYdDD5zrbUS0z1H) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 2:32 |
+| 30 | [Somnus \- Instrumental Version](https://open.spotify.com/track/7fxzqLLTXObxIoTfI3FA0l) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:29 |
 | 31 | [Julia](https://open.spotify.com/track/7xpzXnbxwFIIm9Fd2yg6Ce) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 1:23 |
 | 32 | [ゼロ](https://open.spotify.com/track/6O1P8CN7tzPix5jv5HxscJ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ゼロ](https://open.spotify.com/album/7ybuAuPzYxmrKloxVt7NgU) | 6:55 |
 | 33 | [Melodies Of Life \~Final Fantasy](https://open.spotify.com/track/5wx8XfI5Qq2OkDW5EHrZxm) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 7:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 79 | [Final Fantasy](https://open.spotify.com/track/5CkooXsljzvOXWdgLWP3i8) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 3:56 |
 | 80 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 |
 
-Snapshot ID: `MTYyMTYwNTUyMiwwMDAwMDAwMGZiNGM4NGQyMjNkYjQzNmI3NmI4NmVkZDcwZTAwNDFh`
+Snapshot ID: `MTYyMTYwNTUyMiwwMDAwMDAwMDI4MjlkZWQ2ZWE1NTFlYjMzZTZmNGMxMjFhMmZiMjkz`

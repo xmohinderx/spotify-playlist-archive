@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 145522,
+  "num_followers": 145562,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA3NDYyMiwwMDAwMDAwMGE3NDA3MTFjNzM1Zjc2MWY3OWJmZmU1ZTJjOWNjYWY0",
+  "snapshot_id": "MTY2ODA3NDYyMiwwMDAwMDAwMDBiNWY3ZDY3Yjg3MzBlMWViMGYxNGE2YWYxMzdlNzhi",
   "tracks": [
     {
       "added_at": "2022-11-07 15:51:38",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "Wild Love (Acoustic)",
+        "url": "https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Wild Love - Acoustic",
+      "url": "https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -231,6 +247,22 @@
       "duration_ms": 253227,
       "name": "Bad Liar \u2013 Stripped",
       "url": "https://open.spotify.com/track/6hFi0gXP8KItwMqfBgf44b"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Darling Arithmetic",
+        "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Everything I Am Is Yours",
+      "url": "https://open.spotify.com/track/281ioxkZbJ3p9hCvjD2bon"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -343,6 +375,30 @@
       "duration_ms": 379520,
       "name": "Orange Sky",
       "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Starving (Acoustic)",
+        "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Starving - Acoustic",
+      "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -475,22 +531,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Fill Me Up",
         "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
       },
@@ -503,6 +543,22 @@
       "duration_ms": 154560,
       "name": "Fill Me Up",
       "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -523,22 +579,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Dancing On My Own (Acoustic)",
-        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 253482,
-      "name": "Dancing On My Own - Acoustic",
-      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
       },
@@ -551,6 +591,22 @@
       "duration_ms": 212400,
       "name": "OK",
       "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Dancing On My Own (Acoustic)",
+        "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 253482,
+      "name": "Dancing On My Own - Acoustic",
+      "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -655,22 +711,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
-      },
-      "artists": [
-        {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
-        }
-      ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Here With Me (Acoustic)",
         "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
       },
@@ -683,6 +723,22 @@
       "duration_ms": 164478,
       "name": "Here With Me - Acoustic",
       "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+      },
+      "artists": [
+        {
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -827,6 +883,38 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/43LWPJSO1sg36MdqOZ0PcO"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "No Right To Love You - Acoustic",
+      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "Most of Us Are Strangers",
         "url": "https://open.spotify.com/album/5ufRr4lWvGLNQsd6caY2bE"
       },
@@ -859,22 +947,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Two People",
-      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Hailey (EMBERS Remix)",
         "url": "https://open.spotify.com/album/2RuyhhGVvpQZH2L4zPWo43"
       },
@@ -887,22 +959,6 @@
       "duration_ms": 208723,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Chasing Cars (Acoustic)",
-        "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
-      },
-      "artists": [
-        {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        }
-      ],
-      "duration_ms": 236298,
-      "name": "Chasing Cars - Acoustic",
-      "url": "https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -923,6 +979,38 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Two People",
+      "url": "https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Chasing Cars (Acoustic)",
+        "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "duration_ms": 236298,
+      "name": "Chasing Cars - Acoustic",
+      "url": "https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "When the Party's Over",
         "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
       },
@@ -939,22 +1027,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "sadHAPPY",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -967,6 +1039,22 @@
       "duration_ms": 181897,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1051,6 +1139,22 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "Clean Eyes",
         "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
       },
@@ -1095,6 +1199,22 @@
       "duration_ms": 193756,
       "name": "First Time",
       "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Island Life Coffee House (Vol. 1)",
+        "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Be As You Are - Acoustic",
+      "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1151,22 +1271,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Walk Me Home",
-        "url": "https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 277374,
-      "name": "Walk Me Home",
-      "url": "https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "~how i'm feeling~ (the extras)",
         "url": "https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7"
       },
@@ -1179,6 +1283,22 @@
       "duration_ms": 252681,
       "name": "Modern Loneliness - acoustic",
       "url": "https://open.spotify.com/track/21OihIGdTCAL856FOjcs3j"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Walk Me Home",
+        "url": "https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 277374,
+      "name": "Walk Me Home",
+      "url": "https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1211,6 +1331,22 @@
       "duration_ms": 138220,
       "name": "I don't mind if you don't mind (draft)",
       "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Mirou",
+        "url": "https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA"
+      },
+      "artists": [
+        {
+          "name": "Sumie",
+          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Mirou",
+      "url": "https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1279,6 +1415,22 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "I'll Buy A House (Acoustic)",
+        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
+      },
+      "artists": [
+        {
+          "name": "Violet Skies",
+          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
+        }
+      ],
+      "duration_ms": 186187,
+      "name": "I'll Buy A House - Acoustic",
+      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "Without Me (Acoustic)",
         "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
       },
@@ -1295,22 +1447,6 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "Me Without You",
-        "url": "https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Me Without You - Acoustic",
-      "url": "https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
         "name": "Sending Light (For Lucas)",
         "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
       },
@@ -1323,6 +1459,22 @@
       "duration_ms": 194094,
       "name": "Sending Light (For Lucas)",
       "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
+        "name": "Me Without You",
+        "url": "https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Me Without You - Acoustic",
+      "url": "https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1391,6 +1543,22 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "No Place Like You",
+        "url": "https://open.spotify.com/album/5RFamNorVM8vDpnyTTEoOr"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/21tFgyx6DR8YmfqNQ7cwSP"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "Used To Be Friends",
         "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
       },
@@ -1423,6 +1591,26 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
+        "name": "Breathe (Acoustic)",
+        "url": "https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Neev",
+          "url": "https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC"
+        }
+      ],
+      "duration_ms": 245555,
+      "name": "Breathe - Acoustic",
+      "url": "https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX"
+    },
+    {
+      "added_at": "2022-11-07 15:51:38",
+      "album": {
         "name": "The Book Of Love (Acoustic)",
         "url": "https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX"
       },
@@ -1435,26 +1623,6 @@
       "duration_ms": 216176,
       "name": "The Book Of Love (Acoustic)",
       "url": "https://open.spotify.com/track/0PDcChQq3nr8MQ9tQV7jib"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Planets",
-        "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
-      },
-      "artists": [
-        {
-          "name": "Nicklas Sahl",
-          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        },
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 195737,
-      "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
-      "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
     },
     {
       "added_at": "2022-11-07 15:51:38",
@@ -1475,190 +1643,22 @@
     {
       "added_at": "2022-11-07 15:51:38",
       "album": {
-        "name": "With Or Without You (Acoustic)",
-        "url": "https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC"
-      },
-      "artists": [
-        {
-          "name": "Landon Austin",
-          "url": "https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52"
-        },
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "With Or Without You (Acoustic)",
-      "url": "https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Find You (Acoustic)",
-        "url": "https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Find You - Acoustic",
-      "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Paradise (with Olivia Holt) [Acoustic]",
-        "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
-      },
-      "artists": [
-        {
-          "name": "Brandon Beal",
-          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
-        },
-        {
-          "name": "Olivia Holt",
-          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
-        }
-      ],
-      "duration_ms": 229267,
-      "name": "Paradise (with Olivia Holt) - Acoustic",
-      "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/6SrXwW6kvlEruIztRYRE1p"
-      },
-      "artists": [
-        {
-          "name": "Keith McInally",
-          "url": "https://open.spotify.com/artist/5ZJI40RFLH8wwxWMSKQhL1"
-        }
-      ],
-      "duration_ms": 224020,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/7CJdCs4Rus5mzNHPGRP5Uy"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Leave a Light On",
-        "url": "https://open.spotify.com/album/3pr3n0FMxhgOBQE3JycU3E"
-      },
-      "artists": [
-        {
-          "name": "Conor Byrne",
-          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
-        },
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "Leave a Light On",
-      "url": "https://open.spotify.com/track/1oMUzCv0tKfrm2CK3DmMTi"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Should I Stay Or Should I Go",
-        "url": "https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz"
-      },
-      "artists": [
-        {
-          "name": "Ofelia",
-          "url": "https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "Should I Stay Or Should I Go",
-      "url": "https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Luck Pusher",
-        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 163410,
-      "name": "Luck Pusher",
-      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0xie7ofeyXxvtFqPgvnSIv"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 186101,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/6T5h25GMtJWOhGcObvjlHq"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Fine On Your Own",
-        "url": "https://open.spotify.com/album/7Ip0syd58UqHIO4i74FHUl"
+        "name": "Planets",
+        "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
       },
       "artists": [
         {
           "name": "Nicklas Sahl",
           "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        }
-      ],
-      "duration_ms": 222473,
-      "name": "Fine On Your Own",
-      "url": "https://open.spotify.com/track/5AVInbrIxdDksDyAqjvE7l"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
-      },
-      "artists": [
+        },
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
         }
       ],
-      "duration_ms": 272680,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
-    },
-    {
-      "added_at": "2022-11-07 15:51:38",
-      "album": {
-        "name": "Cursed",
-        "url": "https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri"
-      },
-      "artists": [
-        {
-          "name": "Chachi",
-          "url": "https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Cursed II",
-      "url": "https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG"
+      "duration_ms": 195737,
+      "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
+      "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
     }
   ],
   "unique_name": "Soft Morning",

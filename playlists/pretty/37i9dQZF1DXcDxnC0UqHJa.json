@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
-  "num_followers": 466920,
+  "num_followers": 466955,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDJhYTVjODYwNTUwNTU4MGJhZDAwYWY2NWEwMTE5YWY1",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGZhYTQ1M2YxYWZjNzAyMzI5NGQ2NTUyMGViNDdlNTJi",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -255,18 +255,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -283,6 +291,22 @@
       "duration_ms": 254820,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -323,22 +347,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Saint Cloud +3",
         "url": "https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw"
       },
@@ -371,6 +379,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "brightside bonus tracks",
         "url": "https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0"
       },
@@ -399,6 +427,22 @@
       "duration_ms": 185421,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -455,6 +499,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Singing Other People's Love Songs",
         "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
@@ -487,22 +547,6 @@
       "duration_ms": 251057,
       "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -671,22 +715,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -711,6 +739,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Dust Cain't Kill Me",
+        "url": "https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Dust Cain't Kill Me",
+      "url": "https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Come Give Me Love",
         "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
@@ -727,18 +771,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Dust Cain't Kill Me",
-        "url": "https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA"
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
       },
       "artists": [
         {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Dust Cain't Kill Me",
-      "url": "https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w"
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -799,38 +843,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Free Fallin'",
-        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 291930,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -851,6 +863,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Free Fallin'",
+        "url": "https://open.spotify.com/album/6izw8aWCkKVWemZ2DEbulX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 291930,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/38mx2KPRmnbNvxEF0cP1md"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "In the Magic Hour Solo Sessions",
         "url": "https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4"
       },
@@ -867,6 +895,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "To Emmylou",
         "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
@@ -879,6 +923,22 @@
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -915,22 +975,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
       },
@@ -963,6 +1007,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Other People's Songs Volume One",
         "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
       },
@@ -979,22 +1039,6 @@
       "duration_ms": 184693,
       "name": "Hello Sunshine",
       "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1195,6 +1239,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Talk to Me of Mendocino",
+        "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Talk to Me of Mendocino",
+      "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "That's How You Know",
         "url": "https://open.spotify.com/album/3L2xXFvMayei3lV4JLqLTU"
       },
@@ -1215,26 +1279,6 @@
       "duration_ms": 225151,
       "name": "That's How You Know",
       "url": "https://open.spotify.com/track/3Vnpr2sEVngZQgAZYmAgl3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Talk to Me of Mendocino",
-        "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        },
-        {
-          "name": "Katherine Priddy",
-          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Talk to Me of Mendocino",
-      "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1299,6 +1343,22 @@
       "duration_ms": 185917,
       "name": "These Days",
       "url": "https://open.spotify.com/track/2yABEsi6QYFkSFWQTIdGrg"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "duration_ms": 413320,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1zbe9xUzzuFFgwEeqntTs5"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1419,6 +1479,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 198205,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Look At Miss Ohio",
         "url": "https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE"
       },
@@ -1451,18 +1527,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/2rv7WyO5KUv5FIgmn7VEji"
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
       },
       "artists": [
         {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+          "name": "Korey Dane",
+          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
         }
       ],
-      "duration_ms": 198205,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/4PqdXYgtBtoCCYx7QcKhHL"
+      "duration_ms": 274185,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1483,22 +1559,6 @@
       "duration_ms": 395120,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
-      },
-      "artists": [
-        {
-          "name": "Korey Dane",
-          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
-        }
-      ],
-      "duration_ms": 274185,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1559,6 +1619,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Covers, Ch. 1",
+        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
+      },
+      "artists": [
+        {
+          "name": "The Sweeplings",
+          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/7GhS7SesozkzNAu4KUCOmX"
       },
@@ -1579,18 +1655,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Covers, Ch. 1",
-        "url": "https://open.spotify.com/album/7sKb0I6hIM3A6DcrKc4uW8"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
       "artists": [
         {
-          "name": "The Sweeplings",
-          "url": "https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 159920,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/2zOyeXAqrckffpUT7qTMcc"
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1611,18 +1687,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+        "name": "Gentle On My Mind",
+        "url": "https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+      "duration_ms": 245315,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1691,22 +1767,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Green Rocky Road",
-        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
-      },
-      "artists": [
-        {
-          "name": "Bria",
-          "url": "https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3"
-        }
-      ],
-      "duration_ms": 201985,
-      "name": "Green Rocky Road",
-      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1719,6 +1779,22 @@
       "duration_ms": 240080,
       "name": "Girl From The North Country",
       "url": "https://open.spotify.com/track/6WFN2f7IptgrM2QA9LPtaE"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Green Rocky Road",
+        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
+      },
+      "artists": [
+        {
+          "name": "Bria",
+          "url": "https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3"
+        }
+      ],
+      "duration_ms": 201985,
+      "name": "Green Rocky Road",
+      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1863,38 +1939,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Circle Game [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
-      },
-      "artists": [
-        {
-          "name": "Tom Rush",
-          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
-        }
-      ],
-      "duration_ms": 317133,
-      "name": "The Circle Game - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4orDzkPsSJkrAilIccQasl"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "This Land Is Your Land",
         "url": "https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9"
       },
@@ -1911,50 +1955,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Ohio / After The Gold Rush",
-        "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
+        "name": "The Circle Game [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/0Adpd728rlzyY0I3WPMOVm"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Tom Rush",
+          "url": "https://open.spotify.com/artist/6vI5AwXkw8IFD7zsw6NkTp"
         }
       ],
-      "duration_ms": 294142,
-      "name": "After The Gold Rush",
-      "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "The Music Is You: A Tribute to John Denver",
-        "url": "https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN"
+      "duration_ms": 317133,
+      "name": "The Circle Game - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0TTg0rW47heYyrLO7fA2ey"
     }
   ],
   "unique_name": "Folksy Covers",

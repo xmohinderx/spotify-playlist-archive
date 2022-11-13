@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 115427,
+  "num_followers": 115524,
   "original_name": "EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE4OTU5MCwwMDAwMDAwMGQ2ZDdmMTM5OGE0ZGRiOGYxYTM2ZTViNTc3MDYyODE2",
+  "snapshot_id": "MTY2ODE4OTU5MCwwMDAwMDAwMGZiZDhlYTVjODgzZWFkZTg4N2FmZGY5NmNmYTdmNjk2",
   "tracks": [
     {
       "added_at": "2022-04-15 04:01:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
       },
@@ -629,6 +649,26 @@
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 221220,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "Heaven",
@@ -653,48 +693,28 @@
       "url": "https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+        "name": "I'm Good (Blue) [Remixes]",
+        "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
       },
       "artists": [
         {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         },
         {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 221220,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+      "duration_ms": 178124,
+      "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -733,6 +753,30 @@
       "url": "https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
       "added_at": "2022-03-18 05:00:00",
       "album": {
         "name": "Don't You Hold Me Down",
@@ -753,10 +797,30 @@
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "I'm Good (Blue) [Remixes]",
-        "url": "https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd"
+        "name": "Party PPL",
+        "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        }
+      ],
+      "duration_ms": 148412,
+      "name": "Party PPL",
+      "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
+    },
+    {
+      "added_at": "2022-11-11 17:59:50",
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
       "artists": [
         {
@@ -764,17 +828,37 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 178124,
-      "name": "I'm Good (Blue) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc"
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "added_at": "2022-05-23 13:18:18",
+      "album": {
+        "name": "I Can't Love",
+        "url": "https://open.spotify.com/album/1dIapU9QQwxxeFGnb2rdV3"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Barefoot",
+          "url": "https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "I Can't Love",
+      "url": "https://open.spotify.com/track/2IZa3hPjcc8fFzWNsHvzoM"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -801,46 +885,6 @@
       "url": "https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Party PPL",
-        "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
-        }
-      ],
-      "duration_ms": 148412,
-      "name": "Party PPL",
-      "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
-    },
-    {
-      "added_at": "2022-05-23 13:18:18",
-      "album": {
-        "name": "I Can't Love",
-        "url": "https://open.spotify.com/album/1dIapU9QQwxxeFGnb2rdV3"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Barefoot",
-          "url": "https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "I Can't Love",
-      "url": "https://open.spotify.com/track/2IZa3hPjcc8fFzWNsHvzoM"
-    },
-    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "This Feeling",
@@ -859,30 +903,6 @@
       "duration_ms": 196440,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ"
-    },
-    {
-      "added_at": "2022-11-11 17:59:50",
-      "album": {
-        "name": "You Can\u2019t Change Me (feat. Raye)",
-        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "You Can\u2019t Change Me (feat. Raye)",
-      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -1019,26 +1039,6 @@
       "duration_ms": 163124,
       "name": "Something",
       "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     }
   ],
   "unique_name": "EDM",

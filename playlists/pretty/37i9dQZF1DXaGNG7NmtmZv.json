@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 169672,
+  "num_followers": 169739,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDcxNWY3MWI3ZDI5NDYwMDg4MDE0MThmNGExZTQyMTg2",
+  "snapshot_id": "MTYwNzQ0MDMzMSwwMDAwMDAwMDMyNDg0YWQyMzkxNTcyNTJkYjFiODQyZTc1NWM3ZjUx",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Progression Through Unlearning",
-        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
-      },
-      "artists": [
-        {
-          "name": "Snapcase",
-          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
-        }
-      ],
-      "duration_ms": 153586,
-      "name": "Caboose",
-      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Scratch the Surface",
         "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 189026,
       "name": "Step Down",
       "url": "https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Progression Through Unlearning",
+        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
+      },
+      "artists": [
+        {
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+        }
+      ],
+      "duration_ms": 153586,
+      "name": "Caboose",
+      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Scratch the Surface",
-      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Manic Compression",
         "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 156693,
       "name": "Thorn In My Side",
       "url": "https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Scratch the Surface",
+      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "This Is Just the Beginning",
-        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
-      },
-      "artists": [
-        {
-          "name": "Kill Your Idols",
-          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Can't Take It Away",
-      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "For Those Who Were Crucified",
         "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "This Is Just the Beginning",
+        "url": "https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1"
+      },
+      "artists": [
+        {
+          "name": "Kill Your Idols",
+          "url": "https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "Can't Take It Away",
+      "url": "https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -779,18 +779,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Proud To Be",
-        "url": "https://open.spotify.com/album/7LgklKSetpWGxBnFHwHP1P"
+        "name": "Set Your Goals",
+        "url": "https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda"
       },
       "artists": [
         {
-          "name": "DFL",
-          "url": "https://open.spotify.com/artist/6y4bvr8bJvqFuOzG6FcABb"
+          "name": "CIV",
+          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
         }
       ],
-      "duration_ms": 85800,
-      "name": "Proud To Be DFL",
-      "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
+      "duration_ms": 148880,
+      "name": "Choices Made",
+      "url": "https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL"
     },
     {
       "added_at": "2020-12-08 15:12:11",

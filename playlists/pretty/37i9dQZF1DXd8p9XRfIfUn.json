@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Maxiolly",
-  "num_followers": 59786,
+  "num_followers": 59795,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDMwMGU5MjM1ZGVjOTQ3N2Y0N2E5NDMzMzExMTIwZWIy",
+  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDczYzE0YjA1MTM5NWZlZmVhYjYwZGQ2NzE2NjY4ZjI5",
   "tracks": [
     {
       "added_at": "2022-10-28 05:00:00",
@@ -927,6 +927,30 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "HOR\u00d3SCOPO",
+        "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
+      },
+      "artists": [
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "HOR\u00d3SCOPO",
+      "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
         "url": "https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF"
       },
@@ -959,30 +983,6 @@
       "duration_ms": 260000,
       "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
       "url": "https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "HOR\u00d3SCOPO",
-        "url": "https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS"
-      },
-      "artists": [
-        {
-          "name": "Javiielo",
-          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "HOR\u00d3SCOPO",
-      "url": "https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x"
     },
     {
       "added_at": "2022-10-28 05:00:00",

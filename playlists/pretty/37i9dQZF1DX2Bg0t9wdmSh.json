@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 799,
+  "num_followers": 810,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGMxYTFhMGQ4MDRhYmJmYzVkY2JlMzExMjQ1MjM2YmU3",
+  "snapshot_id": "MTY2NDY0MDU5NiwwMDAwMDAwMGU3MGU4MTQxZDE2NDdiNzNiZDMwMzk2YjcxYjJhYjZl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Track Star",
-        "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
-      },
-      "artists": [
-        {
-          "name": "Mooski",
-          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "Track Star",
-      "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 227560,
       "name": "Damage",
       "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Track Star",
+        "url": "https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D"
+      },
+      "artists": [
+        {
+          "name": "Mooski",
+          "url": "https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Track Star",
+      "url": "https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b"
     },
     {
       "added_at": "2022-10-01 16:09:56",

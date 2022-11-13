@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 278973,
       "name": "'74-'75",
       "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 306226,
       "name": "7 Seconds (feat. Neneh Cherry)",
       "url": "https://open.spotify.com/track/0PrlpSOlCkA1SJlqaSzpou"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 232453,
       "name": "A Million Love Songs",
       "url": "https://open.spotify.com/track/3FpqqxwpiwnpEutOYM2Dan"
@@ -337,10 +337,28 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 200426,
       "name": "Against All Odds (Take A Look at Me Now) (feat. Westlife)",
       "url": "https://open.spotify.com/track/0Ac0Ge47UpkVceZyPin7IP"
+    },
+    {
+      "album": {
+        "name": "Against All Odds (Take A Look at Me Now) EP",
+        "url": "https://open.spotify.com/album/3Jx6tgsjoX2oL7vqfnb89j"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Against All Odds (Take A Look at Me Now) - Mariah Only",
+      "url": "https://open.spotify.com/track/6PS1YRjdJ5Muakh2oh0UB2"
     },
     {
       "album": {
@@ -633,7 +651,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 265466,
       "name": "Anytime You Need a Friend",
       "url": "https://open.spotify.com/track/0S8xKy1efKy3LvR53qe3Cq"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 291506,
       "name": "Babe",
       "url": "https://open.spotify.com/track/3jGTua1brraVUrUOioMqLS"
@@ -763,7 +781,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 194093,
       "name": "Baby Can I Hold You - Edit",
       "url": "https://open.spotify.com/track/59XqA0QB5YCTflfzZ6SYk0"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 249240,
       "name": "Beauty and the Beast - from the Soundtrack \"Beauty and the Beast\"",
       "url": "https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 273666,
       "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
       "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 205466,
       "name": "Big Big World",
       "url": "https://open.spotify.com/track/5I4xjdu4DeKUNMiufzQLoA"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 241893,
       "name": "Cats In The Cradle",
       "url": "https://open.spotify.com/track/5x9RZg7HfXGY3JayXL3seF"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 281466,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 371173,
       "name": "Do I Have To Say The Words?",
       "url": "https://open.spotify.com/track/2jstyP5wqWuPfH8GCRUrwr"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 283733,
       "name": "Don't Cry (Original)",
       "url": "https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 284093,
       "name": "Don't Cry (Original)",
       "url": "https://open.spotify.com/track/1poAC8abf6kX5AV4REltEw"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 271333,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 257105,
       "name": "Every Time",
       "url": "https://open.spotify.com/track/4m6esDH7UC26ZfSQAaFG5e"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 320266,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 343480,
       "name": "Everyday - 2015 Remaster",
       "url": "https://open.spotify.com/track/5q9m3DKqShvb5siwsdf8jE"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 264560,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2kQLJexCx8wPTAqK0x0ijO"
@@ -2221,7 +2239,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 277853,
       "name": "Hold on My Heart - 2007 Remaster",
       "url": "https://open.spotify.com/track/0qbhFj4bVrguIZViOJOs36"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 262200,
       "name": "Home",
       "url": "https://open.spotify.com/track/4QwkQu5sOkGel6S2b7ZYn6"
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 225933,
       "name": "I Do (Cherish You)",
       "url": "https://open.spotify.com/track/5FypLOLmX3qpjiZq8eUTTV"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 259533,
       "name": "I Learned from the Best",
       "url": "https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB"
@@ -2621,7 +2639,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
@@ -2823,7 +2841,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 268893,
       "name": "I'm Ready - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/3dy6IEnBzDOYj5zYJaVpQW"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 169840,
       "name": "In The Still Of The Nite (I'll Remember)",
       "url": "https://open.spotify.com/track/2tbSiDmrerPi24rEIBwtkh"
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 168626,
       "name": "It's So Hard To Say Goodbye To Yesterday",
       "url": "https://open.spotify.com/track/264JdkdtNRAGL4M4PnDYHC"
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 250160,
       "name": "Julia Says",
       "url": "https://open.spotify.com/track/7ewoPfv8SoKvpdLOSKUXD2"
@@ -3231,7 +3249,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 228293,
       "name": "Kingston Town",
       "url": "https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp"
@@ -3379,7 +3397,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 268426,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
@@ -3549,7 +3567,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze"
@@ -3571,7 +3589,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 262160,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3fucYASejkSMwtAYjFRKlF"
@@ -3647,7 +3665,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/58c8pMaXi3xdpBIVfG6WGC"
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 227826,
       "name": "More Than Words - Remix",
       "url": "https://open.spotify.com/track/5agRdN48WN57DGLja3klwV"
@@ -3863,7 +3881,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 321906,
       "name": "My, My, My",
       "url": "https://open.spotify.com/track/0Z9FRM5zukGVagh8TVSdrI"
@@ -3993,7 +4011,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 281240,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1NRl73336Q4SFLH2DqurzS"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
@@ -4083,7 +4101,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/387HyFFE8BOAi7lv9tIUJP"
@@ -4191,7 +4209,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 329800,
       "name": "On Bended Knee",
       "url": "https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3"
@@ -4245,7 +4263,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 276181,
       "name": "One - Remastered 2018",
       "url": "https://open.spotify.com/track/6vzkD6LA8mtbFscSWqP9MO"
@@ -4447,7 +4465,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 232466,
       "name": "Quit Playing Games (With My Heart)",
       "url": "https://open.spotify.com/track/4oRxLyX76ayUgcWdeYKll0"
@@ -4663,7 +4681,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 268733,
       "name": "Saving Forever for You",
       "url": "https://open.spotify.com/track/6pVU9bk1Tvbqlq719vJooz"
@@ -4963,7 +4981,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Sleeping Child - 2014 Remaster",
       "url": "https://open.spotify.com/track/27s15aCXPBi7RWlATpuLz6"
@@ -5017,7 +5035,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1UHoHmHWdu0EX557Oqoq2P"
@@ -5035,7 +5053,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
@@ -5075,7 +5093,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 267600,
       "name": "Sometimes Love Just Ain't Enough",
       "url": "https://open.spotify.com/track/3CUV8wsoTTKznGpEovrnZw"
@@ -5115,7 +5133,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 231253,
       "name": "Somewhere Somehow",
       "url": "https://open.spotify.com/track/58d7gvF0DSj2iFwyhNIU1K"
@@ -5295,7 +5313,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 162093,
       "name": "Sukiyaki",
       "url": "https://open.spotify.com/track/1vuxzuOz2FVHuUVPY68rGd"
@@ -5349,7 +5367,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 248335,
       "name": "Swear It Again - Radio Edit",
       "url": "https://open.spotify.com/track/4zjsIryt48c975O5zC4dCN"
@@ -5421,7 +5439,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 271760,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw"
@@ -5493,7 +5511,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 280000,
       "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/7ocvm7wXghGVo7vIsCSjys"
@@ -5598,6 +5616,24 @@
     },
     {
       "album": {
+        "name": "Michael Learns To Rock (1991)",
+        "url": "https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
+    },
+    {
+      "album": {
         "name": "19 Love Songs",
         "url": "https://open.spotify.com/album/6ul5P1SCgVunypNjMo4BjZ"
       },
@@ -5609,7 +5645,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 275666,
       "name": "The Actor - 1999 Remix; 2002 Remaster",
       "url": "https://open.spotify.com/track/0oTsKDlcrxudilbim1Y7rj"
@@ -5717,7 +5753,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 270933,
       "name": "The One I Gave My Heart To",
       "url": "https://open.spotify.com/track/5otUV0LUycAHXqGVz8bZY0"
@@ -5937,7 +5973,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 277266,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
@@ -5973,7 +6009,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 279400,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/7xUVverKyPPPAW3sDqXhfi"
@@ -6110,6 +6146,24 @@
     },
     {
       "album": {
+        "name": "Mariah Carey",
+        "url": "https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Vision of Love",
+      "url": "https://open.spotify.com/track/0gLQ6jhJsyYfl7PrD1RZ7X"
+    },
+    {
+      "album": {
         "name": "#1's",
         "url": "https://open.spotify.com/album/16tYqZmtlXBp8z09x2wOI2"
       },
@@ -6175,7 +6229,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 300973,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO"
@@ -6229,7 +6283,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "Water Runs Dry",
       "url": "https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc"
@@ -6507,7 +6561,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/7dPd3dx4ipBe10xKuhj9eY"
@@ -6525,7 +6579,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -6579,7 +6633,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 208773,
       "name": "You Needed Me",
       "url": "https://open.spotify.com/track/2uuW3roQlIXlp8V59Cd08Q"
@@ -6633,7 +6687,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"

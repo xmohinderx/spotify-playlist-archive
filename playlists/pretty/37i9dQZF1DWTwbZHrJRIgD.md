@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Welcome the weekend with these happy hits\. Cover\- Sidharth Malhotra, Alia Bhatt, and Fawad Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,033 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,163 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 49 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 |
 | 50 | [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 |
 | 51 | [Ik Junoon \(Paint It Red\)](https://open.spotify.com/track/7e6qTHVfRdaYsio90s1fHC) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 4:59 |
-| 52 | [Chor Bazari](https://open.spotify.com/track/39BHH1e0vfpLHCBKFedsDZ) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Hits of Saif](https://open.spotify.com/album/6vlSJXSNKktM81QgS16R9v) | 4:17 |
+| 52 | [Chor Bazari](https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:17 |
 | 53 | [Sooraj Ki Baahon Mein](https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R) | [Dominique Cerejo](https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Zindagi Na Milegi Dobara](https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24) | 3:22 |
 | 54 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 55 | [Befikra](https://open.spotify.com/track/06wTXKpDMrSp5OfB7MErpx) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Natalie Ram](https://open.spotify.com/artist/2kUxI9BlfC8j2cx2hdkPIj), [Thomson Andrews](https://open.spotify.com/artist/2m9a8Cd9J0l2ReAQ6kg8LB), [Keshia Braganza](https://open.spotify.com/artist/1MnwT7VlD8pJpdbPK49b2k), [Gwen Dias](https://open.spotify.com/artist/1MUIFyUKNBBDXNjkyrPzDP), [Ryan Dias](https://open.spotify.com/artist/4GchJyd4c9eakThZ0j4tCd) | [Befikra](https://open.spotify.com/album/0TUEWVhmKubH0dknaTOKLi) | 5:51 |
 
-Snapshot ID: `MTY2NTU1MDIyMCwwMDAwMDAwMDA0OGQyZmRkYzYyYmU0MTNkMTgwN2JiZjk3Y2MwYjQy`
+Snapshot ID: `MTY2NTU1MDIyMCwwMDAwMDAwMGUzMzAxMTJlOWQwMTg0ZDk3N2NjODQxMzJlZjgzMmNj`

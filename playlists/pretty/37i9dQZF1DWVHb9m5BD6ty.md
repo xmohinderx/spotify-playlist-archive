@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 23 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 24 | [Cookie Chips](https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 4:19 |
 | 25 | [Know You](https://open.spotify.com/track/30GaxnloZ9ayDQwnz3RW6e) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [Know You](https://open.spotify.com/album/1Pprnco4ZZclQx5nHSKPDs) | 3:10 |
-| 26 | [Seven](https://open.spotify.com/track/3gEYp77UDNnrLthRPd1XqR) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [What Should We Do This Summer ?](https://open.spotify.com/album/2owTqqcIqHbuOiOiv8Alji) | 2:20 |
+| 26 | [Seven](https://open.spotify.com/track/3zMLVcYxdBYXfzd3v0UK4k) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Seven](https://open.spotify.com/album/3e3JdUqN93nSTtx0MIHTuK) | 2:20 |
 | 27 | [Luv N' Money](https://open.spotify.com/track/7Da2T8KU3NBm9j0pJtR6RN) | [Keemz](https://open.spotify.com/artist/2g2D97ebuBzFHgeE8TRb6P) | [Luv N' Money](https://open.spotify.com/album/0Ly2d4rq63yq7qzdq4gh0Z) | 2:37 |
 | 28 | [Anseo](https://open.spotify.com/track/2VxCFajDagmquFM9gH5qbJ) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [GO Bravely](https://open.spotify.com/album/3F5NOIN8QC02Sd2XEYFrvk) | 2:35 |
 | 29 | [Letting You Know](https://open.spotify.com/track/3lt7UEgLnIFdNSbm5BzAW6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Letting You Know](https://open.spotify.com/album/6eAACSfsRHEqRhP5QI8Tkr) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 49 | [Tiger Woods](https://open.spotify.com/track/3TP4es7Z8PL11XHNExj0aB) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Tiger Woods](https://open.spotify.com/album/3kWPB2Q3oYywGaqW018mCB) | 3:51 |
 | 50 | [061](https://open.spotify.com/track/07zGUsX4t6zF4VQfa9hHDi) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [061](https://open.spotify.com/album/5W3aa9ngdHTngZTE6f5hzw) | 3:14 |
 
-Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMDFjZTMwMDhlNjY5OGIwMzNhNzA4YTIwZGViMDJjMTUz`
+Snapshot ID: `MTY0NzQ3NTIwMCwwMDAwMDAwMGVjZGNhNWY4MmMwZjQ0MWRmZDZhY2I3MjRiMTRkMzli`

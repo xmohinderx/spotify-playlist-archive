@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 976,
+  "num_followers": 1004,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGMyYTNjNmQ2YWM5MGFiNDIxMThiYjY0ODZlZjE3NzUx",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMDk0ZjgyZDFlZTJmNzUyODM4NzY2Mjk2MDRlYTBhZTE3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Tambourine",
+        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Tambourine",
+      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 319386,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/35qJZJ0yUoWdyrqs6pDbTK"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Tambourine",
-      "url": "https://open.spotify.com/track/1U16aNzvnlfARgjWXjKmQj"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "There's Something About Remy-Based On A True Story (Explicit)",
+        "url": "https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Whuteva",
+      "url": "https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Jimmy Cozier",
         "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 236120,
       "name": "Reverse Di Ting",
       "url": "https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "There's Something About Remy-Based On A True Story (Edited)",
-        "url": "https://open.spotify.com/album/6Kr3XtJhMHtQfwxANOm4pg"
-      },
-      "artists": [
-        {
-          "name": "Remy Ma",
-          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Whuteva",
-      "url": "https://open.spotify.com/track/62Yj2gjWP608eeG4AqLGfL"
     },
     {
       "added_at": "2022-10-01 16:43:03",

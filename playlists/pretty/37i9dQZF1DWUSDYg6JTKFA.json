@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 126719,
+  "num_followers": 126779,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMGUwMTc0OGE3ZTUzM2JjNGY5Y2VhYzM1NWY1NjRhNDEx",
+  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDA5MDdhYTRjMTRjZmMxMmM3MDcwZmFkMWNhNzg3MWJm",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -335,6 +335,26 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 486944,
+      "name": "Peace Be Still - Live",
+      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Love Remains",
         "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
@@ -347,6 +367,38 @@
       "duration_ms": 236200,
       "name": "Thy Will",
       "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 202283,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/2fV1D2YYFYreZXNDhqxk4D"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 195209,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/3gQC0KTBXZeysuzRqMrfbD"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -479,22 +531,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Empires",
-        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
       "artists": [
         {
           "name": "Hillsong UNITED",
           "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 262120,
-      "name": "Touch The Sky",
-      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+      "duration_ms": 353546,
+      "name": "Good Grace - Live",
+      "url": "https://open.spotify.com/track/7nzmXUrZwSOJPNmV0mOmEn"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -599,6 +647,42 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "I Have This Hope",
+      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
@@ -627,22 +711,6 @@
       "duration_ms": 222546,
       "name": "I Need A Miracle",
       "url": "https://open.spotify.com/track/2gXwMixw0voLNVxPr4Ja6v"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "I Have This Hope",
-      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -771,6 +839,26 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "All My Hope",
+        "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "All My Hope",
+      "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Alive & Breathing Vol. 2",
         "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
       },
@@ -831,22 +919,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "All My Hope",
-        "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
+        "name": "What If We Were Real",
+        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         }
       ],
-      "duration_ms": 232760,
-      "name": "All My Hope",
-      "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
+      "duration_ms": 213886,
+      "name": "Stronger - With Cold Ending",
+      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -879,22 +963,6 @@
       "duration_ms": 206648,
       "name": "You Are Loved",
       "url": "https://open.spotify.com/track/7M7eanIuxFd9IgaB8rAP7b"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "What If We Were Real",
-        "url": "https://open.spotify.com/album/2IWLEpjTOc0z3Bu7MhmL9V"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 213886,
-      "name": "Stronger - With Cold Ending",
-      "url": "https://open.spotify.com/track/0LjgvrBY5f4QFLvCicT1NJ"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -979,6 +1047,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Miracle or Not",
+        "url": "https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4"
+      },
+      "artists": [
+        {
+          "name": "Alisa Turner",
+          "url": "https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre"
+        }
+      ],
+      "duration_ms": 243269,
+      "name": "My Prayer For You",
+      "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Lead Us Back: Songs of Worship",
         "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
@@ -1059,90 +1143,6 @@
       "duration_ms": 214733,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/4UQA7EZ8gy25ibL2dfMqMG"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 300373,
-      "name": "I Will Rise",
-      "url": "https://open.spotify.com/track/7j1e730A8K1my1mM4knYmr"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "One Day / Heart and Soul",
-        "url": "https://open.spotify.com/album/6l8KK7bbN0YnmZuNbFdPYZ"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 207784,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/3oSuWKvHUkNb3AUm6kd2y1"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 259399,
-      "name": "PEACE",
-      "url": "https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 217799,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/49Z7hZgb3LzDy8RogfApYr"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Christmas: The Peace Project",
-        "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
     }
   ],
   "unique_name": "Hold Hope",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,455 likes - 110 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,517 likes - 110 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [It's Something We Can All Learn From](https://open.spotify.com/track/4FKa9QfCez3WAiN39Uw1WK) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [It's Something We Can All Learn From](https://open.spotify.com/album/3A0l9ph0gpxgqnsaEkJTdO) | 5:41 |
+| 1 | [It's Something We Can All Learn From](https://open.spotify.com/track/4o7cSs2ZvZwAFTnJIR3Yph) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Systems Up, Windows Down](https://open.spotify.com/album/1krJI0qspdg43IAO8NJ3FF) | 5:41 |
 | 2 | [I Really](https://open.spotify.com/track/1ytNhprX8XWMjCSSO1qqVz) | [Sandrien](https://open.spotify.com/artist/1OhQuHtue5ufdnIbP4RpH7), [Kelly Mark](https://open.spotify.com/artist/7JJy3QEJLIjusgImDT3r9t) | [I Really](https://open.spotify.com/album/6Snn0AP4GY8pidR2FIinPJ) | 8:13 |
 | 3 | [Feelings](https://open.spotify.com/track/51eLwKjEd3mAFE2SMEUqVk) | [Shinedoe](https://open.spotify.com/artist/7CEi2xVvKnwXqRZo9AhoVc) | [Feelings EP](https://open.spotify.com/album/1wr0pU5etMWwyVy50RaqPr) | 6:04 |
 | 4 | [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 109 | [Kinda Strange](https://open.spotify.com/track/414JWnAfPyxZdg8A9nYf7j) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic) | [No Toning Down](https://open.spotify.com/album/2zksMS4U1ZevTXIQSFbqoC) | 4:12 |
 | 110 | [Ritmo](https://open.spotify.com/track/3pyGKMZ1OZCOTx8KyZnyiE) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [Ritmo](https://open.spotify.com/album/0S7uSiWLCeOVYgAVDFGzvO) | 4:15 |
 
-Snapshot ID: `MTY2NjAxNjU4OCwwMDAwMDAwMDMwNTE5ODJlYjE0NTkxNjY5ZGY1YjRiZDI3MzY5YjIw`
+Snapshot ID: `MTY2NjAxNjU4OCwwMDAwMDAwMDI2OWE2NDUxMDExMmQzNTY0MTBkZjM5NmI4NDQyNzcw`

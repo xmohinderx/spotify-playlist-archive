@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,831 likes - 103 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,843 likes - 103 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 10 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
 | 11 | [Harder](https://open.spotify.com/track/6QOrNa2LhVU4xHnTZRk95C) | [Leah Sanders](https://open.spotify.com/artist/4dytaRvZGUcvTJlRhQluhl) | [Harder](https://open.spotify.com/album/5OvyYvjzIAxu7thqQziUT4) | 2:52 |
 | 12 | [Chega de Saudade](https://open.spotify.com/track/1cVydAIXdvoppZ4DmplKBN) | [Luiz Murá](https://open.spotify.com/artist/5os4puXkeFYMsBpyN55oHQ), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [Chega de Saudade](https://open.spotify.com/album/26I6RGEYmOUGrIgBfFtv8b) | 4:06 |
-| 13 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/6fEQg8xlw5KUR3is41kAv6) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [New Hits in Bossa Mode](https://open.spotify.com/album/1mtOPd9WQL5MbRBcypA6Mh) | 3:35 |
+| 13 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/0STA8ez0uqV9V3hOrUi0uf) | 3:35 |
 | 14 | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/track/0TyDl7iD1aj2D78xv4UZ1K) | [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [Burn Rubber on Me \(Why You Wanna Hurt Me\)](https://open.spotify.com/album/4Sw1zXyim0qRy7R19FaO1Y) | 2:48 |
 | 15 | [All Night Long](https://open.spotify.com/track/1rCiE8OQy3KbBBYjwVk5xN) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [All Night Long](https://open.spotify.com/album/1DFeMODZUwUquZmxICwWWJ) | 4:53 |
 | 16 | [Woman in Love](https://open.spotify.com/track/6qvhEP8BT4w1PKP0zBJMEf) | [Joana Duah](https://open.spotify.com/artist/262VF7jBOHsX7dszFiBb99) | [Ballads in Bossa \(The Colors of Love Ballads\)](https://open.spotify.com/album/4HJCf5TTdtNii4EH8zE408) | 3:12 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 30 | [Fix you](https://open.spotify.com/track/5100NokEXg7OfxeW7WUv8K) | [Assunção Bossa](https://open.spotify.com/artist/4ix6MOO9gLIwpXR7XbPgr8) | [Fix you](https://open.spotify.com/album/0ZQziiIxQzG5uHnuYqO8n0) | 4:45 |
 | 31 | [Sweet Child O' Mine](https://open.spotify.com/track/2DHoF695nEPtbWMiqFeDTy) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Sweet Child O' Mine](https://open.spotify.com/album/7k2tdsIiuaQY0fLXiO7V1a) | 3:24 |
 | 32 | [Watermelon Sugar](https://open.spotify.com/track/1Rj6CJd8ZFH5oz4SUm0LD5) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf), [Daniela Maia](https://open.spotify.com/artist/3ajvG2YMqaRBAO6qOMHnNT) | [Best of Bossa Lounge \(Millenium Edition\)](https://open.spotify.com/album/1jP8363d7EK6QHKYq8eZhX) | 3:21 |
-| 33 | [Lovefool](https://open.spotify.com/track/4rUhZxAo9iQLCqMpHrUaxm) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/6Y165hGqcemNXMGI3KcMiU) | 3:14 |
+| 33 | [Lovefool](https://open.spotify.com/track/3J49YFtSjLMiuyDi6xNHc1) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Bossa Nova Covers](https://open.spotify.com/album/0KEmmW5iXwzpaSlaamlizL) | 3:14 |
 | 34 | [Call Me Maybe \(Bossa Nova Version\) \[Originally Performed By Carly Rae Jepsen\]](https://open.spotify.com/track/52gkD0XbLxHRaIvXGOVkPu) | [The Bossa Nova All Stars](https://open.spotify.com/artist/3OkvByvnCYtoTf0cs62Box) | [Relaxing Bossa Nova Cover Hits](https://open.spotify.com/album/3nG1nyvbNhZhnsl9vLNuiO) | 3:48 |
 | 35 | [I Want to Know What Love Is](https://open.spotify.com/track/0lnFSqN67wVN3upY1czWwu) | [Ted Leener Band](https://open.spotify.com/artist/7yfg9roeTeDSdgRsxRneKw) | [I Want to Know What Love Is](https://open.spotify.com/album/42HYoh1b1JLiUDDvz2wphJ) | 3:16 |
 | 36 | [Garota de Ipanema \(The Girl From Ipanema\)](https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 3:23 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 61 | [Solução De Vida](https://open.spotify.com/track/5cnwazioBaYWEjzHykF2Om) | [Clara Mendes](https://open.spotify.com/artist/37W5idqXpnDRxbgtXBW5nN) | [Solução De Vida](https://open.spotify.com/album/0CoCFA1jv9w7RmEkg5XVFV) | 3:08 |
 | 62 | [Roses](https://open.spotify.com/track/6BgA2Zhle5ad7H1umgVIEj) | [A Beira Mar](https://open.spotify.com/artist/2I8J68uqwEBNxwqhXUwYj2) | [Roses](https://open.spotify.com/album/6bzKHErUwnKYXMooyayCEL) | 3:13 |
 | 63 | [All of Me](https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F) | [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81), [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V) | [Bossa Covers](https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye) | 4:10 |
-| 64 | [You're the Sunshine of My Life](https://open.spotify.com/track/19XUrYKOOwiaCDSsN2JbDT) | [Dudu Braga](https://open.spotify.com/artist/3ZwqQ2XrPNiYRomLoN94n7) | [Brazil Loves Bossa, Vol\. 7](https://open.spotify.com/album/4wIdLRseyzeY2CXfUOrbTg) | 3:37 |
+| 64 | [You Are the Sunshine of My Life](https://open.spotify.com/track/3BIvGWYoj999nDIY0FyyHP) | [Eduardo Braga](https://open.spotify.com/artist/6HDQnEYnyn9ToT7pvM5LAr) | [Songs That I Love](https://open.spotify.com/album/0XbSRpPhc3xaRN0utUnRXQ) | 3:37 |
 | 65 | [Aventura](https://open.spotify.com/track/0nz7WW70BXQo99EDZbHKws) | [Rita Passos](https://open.spotify.com/artist/1o1ogH8YykBhZPGMmXzoeO) | [Aventura](https://open.spotify.com/album/7B3thDDVEjdT2VhIyLt03b) | 3:50 |
 | 66 | [Kashmir](https://open.spotify.com/track/3e68uPImGtXMsWh7ixigu7) | [Tranquil Twilight](https://open.spotify.com/artist/7gpmEGB1G4wg9JO4PhQe9m) | [New Love](https://open.spotify.com/album/0QSj0UZIulXsTfvFK2lT6w) | 5:08 |
 | 67 | [Just the Two of Us](https://open.spotify.com/track/40xfrgYXqDTF7bxzcjD3cN) | [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd) | [Relaxing Bossa Lounge Vol\. 12](https://open.spotify.com/album/6yN6qpyhq5LBTQg2gOcxBK) | 3:55 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 89 | [Don´t Stop ´till You Get Enough](https://open.spotify.com/track/4VrvrQe8C9QxUVxQoWKHFv) | [Scubba](https://open.spotify.com/artist/3YjZTHCdNUGCIAMMXzcQjV), [Alanah](https://open.spotify.com/artist/417Zhwldkb0YZiVmM1pMah) | [Bossa N' Disco](https://open.spotify.com/album/33wAEyfeK20Z28mDCxxRpK) | 5:13 |
 | 90 | [Big Girls Don't Cry \- Bossanova](https://open.spotify.com/track/3vetyGs0vfHn5BE8LpsElU) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Big Girls Don't Cry \(Bossanova\)](https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL) | 4:29 |
 | 91 | [It's a Shame \- Bossa Version](https://open.spotify.com/track/1bnKFexAdGeEIrdeD6DqzL) | [Rachelle Spring](https://open.spotify.com/artist/3LPPGZrVd6moExHlmR7zLr) | [Relaxing Bossa Lounge, Vol\. 16](https://open.spotify.com/album/0xZcDtdHBHWvp9xzeFqhq9) | 3:26 |
-| 92 | [Lost On You \- Bossa Mix](https://open.spotify.com/track/7cBIt1SmhoH3G6TEYzZFAQ) | [Xavier Luna](https://open.spotify.com/artist/0rPpYtWSgxzH2bTM07SrWQ) | [New Hits in Bossa Mode](https://open.spotify.com/album/1mtOPd9WQL5MbRBcypA6Mh) | 4:26 |
+| 92 | [Lost On You \- Bossa Mix](https://open.spotify.com/track/5kfaT16hUj6KqiM4nbM5ZP) | [Xavier Luna](https://open.spotify.com/artist/0rPpYtWSgxzH2bTM07SrWQ) | [Lost On You](https://open.spotify.com/album/79PQpx3Na0xD0bLaXIxCQi) | 4:26 |
 | 93 | [Under My Thumb](https://open.spotify.com/track/3a3WkFkamEZsGsjnymi3hy) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9) | [Bossa n' Stones \(Limited Edition\)](https://open.spotify.com/album/6fpDCF0v1qTzONOmBhqhRO) | 2:46 |
 | 94 | [Don't Speak](https://open.spotify.com/track/16FVLMp4wNmVe471RB36He) | [Sarah Menescal](https://open.spotify.com/artist/4DpQLwz0jhUU7wuT9phTlD) | [Bossa n' Essentials](https://open.spotify.com/album/4Ib1mzr9xEDpZcwQmdTlAD) | 4:13 |
 | 95 | [If I Can't Have You](https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [If I Can't Have You](https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB) | 4:02 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 102 | [Forever Young](https://open.spotify.com/track/1YoOexv2qAxVZo5xnLlt5h) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Forever Young](https://open.spotify.com/album/5ETornmpL2uUmYDdtF0Oy4) | 3:39 |
 | 103 | [The Hardest Part](https://open.spotify.com/track/7rUOWbFE4GJ4od2W7at9uC) | [Paulina Rodriguez](https://open.spotify.com/artist/365WhazRqqOCcrIMEcBtpn) | [The Hardest Part](https://open.spotify.com/album/1dM2zZhgkmRgKbWPpTjqQ2) | 4:20 |
 
-Snapshot ID: `MTY2NDU1MDU5OCwwMDAwMDAwMDRlYWU0Yzc3MzRmY2FkMWU5NTk4YTE0MDEwYjY0MzIy`
+Snapshot ID: `MTY2NDU1MDU5OCwwMDAwMDAwMGY3NzA2OTdkZjdhNjAwNzUzOWQ5NDlmYTUzNTAwODBj`

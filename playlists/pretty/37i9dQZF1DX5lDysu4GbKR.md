@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,196 likes - 106 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,358 likes - 106 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 26 | [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 |
 | 27 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
 | 28 | [Like I Want You \- Acoustic](https://open.spotify.com/track/0qXu4pFQSIwkfTUgkE6WzF) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:05 |
-| 29 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 |
+| 29 | [Is This Love](https://open.spotify.com/track/3BwJpqcYEoQqMuJVEgl0aF) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:04 |
 | 30 | [Sorry \- Acoustic](https://open.spotify.com/track/6YEHDq6g27waFGt9oOtjoh) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv), [Hmlss](https://open.spotify.com/artist/5MIQztLQ1z5KBxe5cU3Fdq) | [Sorry \(Acoustic\)](https://open.spotify.com/album/7vqLcoCPelj0Y4KguIDLAi) | 3:55 |
 | 31 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
 | 32 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 |
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 56 | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/track/2lYzTx7NDIUxF4yMHLzozs) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/album/0KE0S54WCmXk139uyrQjmz) | 3:11 |
 | 57 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
 | 58 | [BRB \- Acoustic](https://open.spotify.com/track/2a8LoldsEpzYbwAs7uf4Sl) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [BRB \(Acoustic\)](https://open.spotify.com/album/0ZJVf5ifFPQg6Zb6tNpDKZ) | 2:32 |
-| 59 | [Here Before](https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 4:29 |
+| 59 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 |
 | 60 | [You Win](https://open.spotify.com/track/5oLHZYHAvYXmIt3AEqm2PE) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [You Win](https://open.spotify.com/album/7AWkXbVuFinaGlItRtCR0o) | 2:39 |
-| 61 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 |
+| 61 | [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 |
 | 62 | [Desert Flower](https://open.spotify.com/track/3do3tKMN4LJO6G0kBZThtm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09) | 2:54 |
 | 63 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 |
 | 64 | [Say So \- Acoustic Version](https://open.spotify.com/track/39xeg5Cq23RJMNnXs2A4Mf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:57 |
 | 65 | [What is Love](https://open.spotify.com/track/3NtgkbiePe3ccFyX5uOrGk) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [What is Love](https://open.spotify.com/album/5xqsx7KZjvgLJE2EcbAr9q) | 3:46 |
 | 66 | [pass you by](https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [the voicenotes](https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379) | 4:05 |
 | 67 | [Lover, You Should've Come Over \(Exclusive Cover Version\)](https://open.spotify.com/track/4Pzim4c56ntyReaKmjcIIL) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Lover, You Should've Come Over](https://open.spotify.com/album/5VellzrJuIcQsc2JjB0hrv) | 3:00 |
-| 68 | [Paper Thin](https://open.spotify.com/track/7lrsiXMsUzWsqofMaL3U8e) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Chill Hits](https://open.spotify.com/album/3jjQUZkrzqOtfwHBKa5uoz) | 4:58 |
+| 68 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 |
 | 69 | [Cold Outside](https://open.spotify.com/track/40CDSRdFnndcksvPOCVSUQ) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 1:51 |
 | 70 | [Make the Most \- Live](https://open.spotify.com/track/40jbQpNvRIFpV1i9UTcNgB) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Make the Most \(Live\)](https://open.spotify.com/album/1bGkar5XcMRqcs4sxp02sF) | 3:42 |
 | 71 | [Back of My Hand \(Live\)](https://open.spotify.com/track/2luK9cqWdNKliKj7xQVaa3) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Original Songs and Sound \(Deluxe Version\)](https://open.spotify.com/album/09wgEiUurhXuqsEOrpk1ud) | 4:25 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 76 | [Listen \- Acoustic Version](https://open.spotify.com/track/1ydwuEvDlCNt1IzDvTJI55) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Listen \(Acoustic Version\)](https://open.spotify.com/album/2pMR3D19EeE4juhM4bSwNA) | 4:08 |
 | 77 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 |
 | 78 | [Radio \- Acoustic](https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:24 |
-| 79 | [Trust in You](https://open.spotify.com/track/0IkYVycXDkR8MajBTvu90Q) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/6C4xpz6DTzUBpu2l5udCrg) | 3:09 |
+| 79 | [Trust in You](https://open.spotify.com/track/1pZjiq5wv1HLMX8RsWVVsr) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Light Will Find You](https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7) | 3:09 |
 | 80 | [Burn \- Outro 4 Intro](https://open.spotify.com/track/2J6zYW4fByPIAn9GVzNNrX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:34 |
 | 81 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 |
 | 82 | [Talk In The Morning \- Acoustic](https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning \(Acoustic\)](https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC) | 3:24 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 105 | [Pulling Away \(acoustic\)](https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love \- Acoustic](https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR) | 3:28 |
 | 106 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDkzOTRjMjFjYjQ5NTBjNDE0Mzc3ZjBjOGEyOTg2Mjlj`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMGNhZmE2YmM4YTBkMDdhMjRjNmEzMDkwNDBlNjU4N2E2`

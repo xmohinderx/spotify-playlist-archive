@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 165800,
       "name": "Cold, Cold Heart",
       "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 157800,
       "name": "Cross Road Blues - Take 1",
       "url": "https://open.spotify.com/track/33hrofhwmIk6hrnkpbCsmq"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 172013,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/3FUL2VqnKPvpuRLvUQozn1"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 171466,
       "name": "Heavy Traffic Ahead",
       "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 166200,
       "name": "Honky Tonkin'",
       "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "I Saw The Light",
       "url": "https://open.spotify.com/track/04bsExZXrwoRXYKKDWlTIU"
@@ -723,10 +723,32 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 169706,
       "name": "I'm A Long Gone Daddy",
       "url": "https://open.spotify.com/track/6dAGNAqYugVK3VLfoyVWn1"
+    },
+    {
+      "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "I'm A Long Gone Daddy",
+      "url": "https://open.spotify.com/track/5SfeBRo4MLWyz2w701SJPW"
     },
     {
       "album": {
@@ -893,7 +915,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 176973,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD"
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 138000,
       "name": "One Kiss Too Many",
       "url": "https://open.spotify.com/track/3W4mPMAvJqIlrLMLVZSaq1"
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 130506,
       "name": "Steel Guitar Rag",
       "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 135973,
       "name": "There's A New Moon Over My Shoulder",
       "url": "https://open.spotify.com/track/37wv3n0GnamPkVaO0H5OLz"
@@ -1901,7 +1923,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 169760,
       "name": "Wine, Women and Song",
       "url": "https://open.spotify.com/track/0FnC7ilW0ONEWTsu6LyPHx"

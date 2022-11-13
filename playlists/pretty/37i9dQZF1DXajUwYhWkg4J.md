@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,078 likes - 46 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,124 likes - 46 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 20 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
 | 21 | [Man Kunto Maula](https://open.spotify.com/track/7yFs95J0gZt15FjC4ylJVj) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Man Kunto Maula](https://open.spotify.com/album/4aDtJNM4kem6tl4CeR7YAt) | 9:28 |
 | 22 | [Khakhi Banda](https://open.spotify.com/track/5XDSdPkafrLKcdkmDyTKgN) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Khakhi Banda](https://open.spotify.com/album/01ZUDmiT32XtXCgvzI6LAn) | 8:37 |
-| 23 | [Maula\-E\-Kull](https://open.spotify.com/track/6u8kxnHGsj0HZQy9dB01GK) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 9:52 |
+| 23 | [Maula\-E\-Kull](https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Maula\-E\-Kull](https://open.spotify.com/album/4Gb6vs7OZiB2WDExrgRAdl) | 9:52 |
 | 24 | [Uddi Ja](https://open.spotify.com/track/0diZtB5DY0NyT8bAZI1QLw) | [Mohsin Abbas Haider](https://open.spotify.com/artist/3AkuJRCDsbBy5tftVMtJOT) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 7:02 |
 | 25 | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/track/0oUnOn5CpCXi08LPK4UpkW) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Sadaa \(Coke Studio Season 9\)](https://open.spotify.com/album/6fOcQ6APpoYvwKwrZ08Tob) | 7:02 |
 | 26 | [Rang](https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe) | [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:57 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 45 | [Husn\-e\-Haqiqi](https://open.spotify.com/track/2Qry5LiUPVW4KBumqJo4Df) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:21 |
 | 46 | [Alif Allah \- Live](https://open.spotify.com/track/5LBsnmhdWSvHtmqybXJEOm) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Saeen Tufail](https://open.spotify.com/artist/7mrsIV55fNrtgoPDB5aNL1), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio: Season 1](https://open.spotify.com/album/61RMEU4YQreHmbWY43cJIm) | 7:43 |
 
-Snapshot ID: `MTY2NTU4ODAxNywwMDAwMDAwMGUyYzgwOGYxMTE5ZjFhOWU0YWJlYWYwZmY4ODZmNjU1`
+Snapshot ID: `MTY2NTU4ODAxNywwMDAwMDAwMGY1YTg1NjM3OGI2MzdmMjA4NGU1OTM1YTM0YzU1NTEx`

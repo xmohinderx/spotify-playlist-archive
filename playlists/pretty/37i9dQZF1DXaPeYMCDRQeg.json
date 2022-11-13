@@ -1,18 +1,18 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 142296,
+  "num_followers": 142338,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTk2OTcwMCwwMDAwMDAwMGM4Mzg4NjY5OTQwOTIxNmY0YjdhMWVkNDExZGNlNmQ4",
+  "snapshot_id": "MTY2NTk2OTcwMCwwMDAwMDAwMGQxYmZlYTE1NjNhZmY2NTU5NDMzNWIwZjg0NmMwOTM1",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Baby Boo",
-        "url": "https://open.spotify.com/album/4gAx4phF5UbsW6ai6x1q08"
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 204316,
       "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3YdF3DYFE0NekzcjnUIfqc"
+      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -159,22 +159,18 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "You\u2019re Mines Still (feat. Drake)",
-        "url": "https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry"
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
       },
       "artists": [
         {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 226220,
-      "name": "You\u2019re Mines Still (feat. Drake)",
-      "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -195,6 +191,26 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "You\u2019re Mines Still (feat. Drake)",
+        "url": "https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 226220,
+      "name": "You\u2019re Mines Still (feat. Drake)",
+      "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -207,6 +223,38 @@
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "After Last Night (with Thundercat & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/3jiKUMXqwEodB7gVv1RMZU"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -249,36 +297,20 @@
       "url": "https://open.spotify.com/track/1m8WpLYXEiNVZchsWEcCSy"
     },
     {
-      "added_at": "2022-03-14 19:54:18",
+      "added_at": "2022-10-14 05:49:39",
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
+        "name": "What A Difference She Made",
+        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 249444,
-      "name": "After Last Night (with Thundercat & Bootsy Collins)",
-      "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
+      "duration_ms": 175696,
+      "name": "What A Difference She Made",
+      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -299,18 +331,18 @@
     {
       "added_at": "2022-10-14 05:49:39",
       "album": {
-        "name": "What A Difference She Made",
-        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
+        "name": "The Missing Peace",
+        "url": "https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Mikhala Jen\u00e9",
+          "url": "https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy"
         }
       ],
-      "duration_ms": 175696,
-      "name": "What A Difference She Made",
-      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
+      "duration_ms": 208410,
+      "name": "My Rock",
+      "url": "https://open.spotify.com/track/0Pnb9c3hqio8fJ4v7FlQoi"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -331,38 +363,6 @@
       "duration_ms": 415613,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
-    },
-    {
-      "added_at": "2022-10-14 05:49:39",
-      "album": {
-        "name": "The Missing Peace",
-        "url": "https://open.spotify.com/album/1K9fJvIjA5fnKo6KmOTss1"
-      },
-      "artists": [
-        {
-          "name": "Mikhala Jen\u00e9",
-          "url": "https://open.spotify.com/artist/1wbags12HDkfPHnyyH5Qiy"
-        }
-      ],
-      "duration_ms": 208410,
-      "name": "My Rock",
-      "url": "https://open.spotify.com/track/0Pnb9c3hqio8fJ4v7FlQoi"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -415,6 +415,22 @@
       "duration_ms": 168235,
       "name": "Scene 1",
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -579,6 +595,22 @@
       "duration_ms": 350533,
       "name": "Nothing Even Matters (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -871,22 +903,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Guy",
-        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 294475,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Reality Show",
         "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
       },
@@ -899,6 +915,22 @@
       "duration_ms": 223093,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Guy",
+        "url": "https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 294475,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/67j0ZucyzdfMGWLe2kh6Ze"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -919,22 +951,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Dontchange",
-      "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Where I Wanna Be",
         "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
@@ -947,6 +963,22 @@
       "duration_ms": 249506,
       "name": "This Luv",
       "url": "https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Dontchange",
+      "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1191,22 +1223,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Body (EP)",
-        "url": "https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p"
-      },
-      "artists": [
-        {
-          "name": "Grimm Lynn",
-          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
-        }
-      ],
-      "duration_ms": 237037,
-      "name": "Whateva U Need",
-      "url": "https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "From The Mint Factory",
         "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
       },
@@ -1219,6 +1235,22 @@
       "duration_ms": 314537,
       "name": "U Send Me Swingin'",
       "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Body (EP)",
+        "url": "https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p"
+      },
+      "artists": [
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "duration_ms": 237037,
+      "name": "Whateva U Need",
+      "url": "https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1243,6 +1275,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Diary Of A Mad Band",
+        "url": "https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 302893,
+      "name": "My Heart Belongs To U",
+      "url": "https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Wake Up Love",
         "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
       },
@@ -1263,22 +1311,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Diary Of A Mad Band",
-        "url": "https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 302893,
-      "name": "My Heart Belongs To U",
-      "url": "https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/5MynMNCxSoiaCnLhA3y3NE"
       },
@@ -1291,22 +1323,6 @@
       "duration_ms": 287013,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/7ecOjXV0WlewEXaRo2kLNn"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "In Love With You",
-      "url": "https://open.spotify.com/track/79UjqYt9MCLlBpzAvaKVJj"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1327,6 +1343,22 @@
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "In Love With You",
+      "url": "https://open.spotify.com/track/79UjqYt9MCLlBpzAvaKVJj"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -1383,38 +1415,6 @@
       "duration_ms": 275066,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/2dCD8qq7yHZPZduA8FJazs"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 279720,
-      "name": "Gone Baby, Don't Be Long",
-      "url": "https://open.spotify.com/track/0QQDaKW7eRRoqvbLCylzrn"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Use Your Heart",
-      "url": "https://open.spotify.com/track/1iXtpeHC0i6c7JBrKi3yaq"
     }
   ],
   "unique_name": "Love Language",

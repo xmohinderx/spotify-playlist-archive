@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Jeanette Jenkins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 32 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 | 3 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 |
 | 4 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 5 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 |
-| 6 | [Leave the Door Open](https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Totally Romantic Ballads](https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi) | 4:02 |
+| 6 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 |
 | 7 | [Work That](https://open.spotify.com/track/3j59mQGu5USFF16v8nPNmw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 3:30 |
 | 8 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 |
 | 9 | [Yo x Ti, Tu x Mi](https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Yo x Ti, Tu x Mi](https://open.spotify.com/album/3844bY26oeSkqd06th4EYp) | 3:21 |
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 | 22 | [Redemption Song](https://open.spotify.com/track/7MKcM6TfaGKQVFfhstCbOw) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:47 |
 | 23 | [Welcome To Africa](https://open.spotify.com/track/2zKX7B5GyI813KejUGLIdL) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [African Dream Lounge \- Volume 2](https://open.spotify.com/album/32ylYbjhA0LV88jVRIOsyx) | 5:49 |
 | 24 | [Mavinga](https://open.spotify.com/track/1pIZQi4p11qQDOcZfyrKm4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Buddhattitude \- Alaafiya](https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n) | 3:40 |
-| 25 | [Sundown in Madagaskar](https://open.spotify.com/track/6YfJqxSdyTjeRuTAAH5fCq) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [Buddhattitude \- Alaafiya](https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n) | 5:29 |
+| 25 | [Sundown in Madagaskar](https://open.spotify.com/track/39jK30ioiRz6QPTdVqPJUz) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [Buddhattitude Alaafiya](https://open.spotify.com/album/3xOkcS62gUvFJDcdJd9oeD) | 5:29 |
 | 26 | [Back to Marrakech](https://open.spotify.com/track/3JbLisvckoTIFwjYOeND0m) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Horrya](https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2) | 4:50 |
 | 27 | [Amon Ra](https://open.spotify.com/track/0loYWxAfmNvI0RVIwBAMDg) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Horrya](https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2) | 4:04 |
-| 28 | [Oriental Feeling](https://open.spotify.com/track/3aRUKwNxddIcjtK0TUNuFt) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhatitude Best Of : Buddha\-Bar Spa Music Collection](https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg) | 4:25 |
+| 28 | [Oriental Feeling](https://open.spotify.com/track/4NMsfeOsV8zOOzeSUiu4Lx) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Horrya](https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2) | 4:35 |
 | 29 | [Tibetology](https://open.spotify.com/track/4tWEQyP7inHCgr5fjCQEg6) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhatitude Best Of : Buddha\-Bar Spa Music Collection](https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg) | 7:14 |
 | 30 | [Under the Ocean](https://open.spotify.com/track/4yXuHnDBrKFpBHyJunB4zM) | [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhatitude Best Of : Buddha\-Bar Spa Music Collection](https://open.spotify.com/album/3aTqPNpm4bOjazeBcJTpLg) | 4:14 |
-| 31 | [Freedom](https://open.spotify.com/track/7vBmjc8MZg1ocnYlBLfN3Q) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Buddhattitude Freedom](https://open.spotify.com/album/5JygNmF6F1JaV3qQnHBpDZ) | 3:51 |
+| 31 | [Freedom](https://open.spotify.com/track/4RJaUuF4ffF7i2wzrJLvyR) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Universal Sound of Buddha Bar](https://open.spotify.com/album/0xOngzQjGI9flWLq1Akhk1) | 3:53 |
 | 32 | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/track/5Si1Ymax4mrE3aHJE9vufU) | [Zen Meditations from a Sleeping Buddha](https://open.spotify.com/artist/0JrQmJVeNxqiV4M1bG5Wxz) | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/album/7gKWXrj6yIcGiRy9xcAxhA) | 15:12 |
 
-Snapshot ID: `MTY0MjAwMTI5NSwwMDAwMDAwMDc2MjhkN2Q2MWZiYzk1OTNjNjBhNjJhN2EyOWNlMDJj`
+Snapshot ID: `MTY0MjAwMTI5NSwwMDAwMDAwMDJhNTIyOGFhMTFiOWJmNjAyNWI2NzgzYWEwNGM0MTI3`

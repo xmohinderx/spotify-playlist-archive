@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,216 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,242 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 67 | [Cabeza](https://open.spotify.com/track/47D2FAyWyHFueNMTW9IhxN) | [DJ Stuart](https://open.spotify.com/artist/7aS2yrmVy9YdStiDXluOSE) | [2015](https://open.spotify.com/album/0FOIc6fvv9dO2NzqcSjDrS) | 2:02 |
 | 68 | [Arcoiris](https://open.spotify.com/track/3sAsUWxVfm8O2d5GKbVeVp) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Veethology](https://open.spotify.com/album/0BOr6CJmrvFCMYbaLsT64E) | 5:08 |
 | 69 | [FIlm / Lies](https://open.spotify.com/track/7tXGrt08QDo1Ufa8Jgi9a2) | [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Veethology 2](https://open.spotify.com/album/0ZMf5mWQFaNASzKWDAOo3a) | 4:27 |
-| 70 | [Egg Reverie \(Kawaii Trap Ver.\)](https://open.spotify.com/track/5MHxyIziBiXnrQmJ0Pk4Xw) | [Natsu Fuji](https://open.spotify.com/artist/5r2d1vMFtAGUsUOvH6WiSy) | [Harajuku Style](https://open.spotify.com/album/12Z4j3pe23QvErapS6dF2S) | 3:36 |
+| 70 | [Egg Reverie \- Kawaii Version](https://open.spotify.com/track/59gRUT8dmNBr6VpT2VnBQy) | [Natsu Fuji](https://open.spotify.com/artist/5r2d1vMFtAGUsUOvH6WiSy) | [Broken System 3](https://open.spotify.com/album/0kX19QQvcLt9RR4fWFNPe0) | 3:36 |
 | 71 | [Infantry](https://open.spotify.com/track/34PJ1ug5YLbLTykSdpBJf4) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Crosses](https://open.spotify.com/album/4AOiQNLpX0gU9yi0MRvZg0) | 2:30 |
 | 72 | [Wavelength](https://open.spotify.com/track/5Mu3qt7YRkWPFYJ3QBogBj) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Wavelength](https://open.spotify.com/album/6v9oG06XUfrcpZTSkJSazR) | 2:35 |
 | 73 | [Tour Bus](https://open.spotify.com/track/4rcHftFyDKbrf6IcTyfhRJ) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [Tour Bus](https://open.spotify.com/album/7pCW7yDNvN39iQaHZHYBrq) | 2:54 |
 | 74 | [Jokes on Me](https://open.spotify.com/track/4k4QnjkHrlOrMF08lpk09H) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:16 |
 
-Snapshot ID: `MTY0NDI0ODc5MCwwMDAwMDAwMDJmM2MwMTk3YWViY2ZkYTk2NDEzNmRhMGI5MjZjNWRi`
+Snapshot ID: `MTY0NDI0ODc5MCwwMDAwMDAwMGRkZmY2YTExMjBkZDg5ZDliZjM5MjY5MGNjZDJmN2Y4`

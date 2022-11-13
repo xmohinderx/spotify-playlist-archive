@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,986 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,018 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 5 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 |
 | 6 | [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 |
 | 7 | [Candy](https://open.spotify.com/track/79hX5auHsaio6gDOQcmeDy) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Candy](https://open.spotify.com/album/1670DOyCe1tpTfBNuOswI9) | 3:05 |
-| 8 | [Gone Without a Trace](https://open.spotify.com/track/4fFFpyXVskyIZYV7zi0eoc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:02 |
+| 8 | [Gone Without a Trace](https://open.spotify.com/track/3FiDuroMXcMhEELDhsGf9p) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Gone Without a Trace](https://open.spotify.com/album/14UUC7JJM4HtlHmRsApk18) | 3:02 |
 | 9 | [Exit](https://open.spotify.com/track/3mOVlLxsQ5LHBqPJl4djqU) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Exit](https://open.spotify.com/album/0NM4Gbbp3Hz1dj6pulp9R6) | 2:15 |
 | 10 | [Best Friend](https://open.spotify.com/track/2gwfFTCzAdIW927SH6x3Pi) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/3RQfcYVC3DERYdq5AY8iXi) | 3:18 |
 | 11 | [10's & 8's \(no 4's or 5's\)](https://open.spotify.com/track/26JfqluzJmS53ICnM7ADP7) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [burnt ur clothes & changed the addy](https://open.spotify.com/album/1glKNCGA70lAvykhx0Onr2) | 2:45 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 28 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 |
 | 29 | [Whirinaki Mai](https://open.spotify.com/track/22UVBLb7Gwq5futagSgqJi) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Whirinaki Mai](https://open.spotify.com/album/0NqWzlJqAeDmJ38FMm6Xv6) | 2:34 |
 | 30 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 |
-| 31 | [Motels](https://open.spotify.com/track/0ZRvakrMLFVzfvR48dvTix) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bar & Grill](https://open.spotify.com/album/3nY1adGXhrb5La2iZMpsJE) | 3:23 |
+| 31 | [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 |
 | 32 | [I'll Be There](https://open.spotify.com/track/1rb3JMv4B08skOrLHhCVuo) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [I'll Be There](https://open.spotify.com/album/2cFaOuix1b5Qh2ySuqy14Y) | 3:11 |
 | 33 | [Lost With You](https://open.spotify.com/track/2mk6QhfrmdoAgXzSaDifFx) | [AYDAN](https://open.spotify.com/artist/42QiPMyPh52FgtTOt2ckqs) | [Lost With You](https://open.spotify.com/album/1O2DzjE2xDi53qaKJn3TYw) | 2:54 |
 | 34 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 52 | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Wish You Well \(Feat\. Bernard Fanning\)](https://open.spotify.com/album/2xd07PANaM6jBT50rfG50U) | 2:50 |
 | 53 | [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 |
 | 54 | [GUAP POP](https://open.spotify.com/track/5fO0HCT842t1Uh01mI4hYu) | [Agung Mango](https://open.spotify.com/artist/1XXBwJeXvPE1PdXWjJLuXf), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GUAP POP](https://open.spotify.com/album/3id0ljW668YT6O3feu9wnz) | 3:37 |
-| 55 | [it's not how it used to be](https://open.spotify.com/track/42rJfNQr6N8KM8Up1avLy0) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [it's not how it used to be](https://open.spotify.com/album/5IMxzFXnvnuF1W99dudhgZ) | 3:27 |
+| 55 | [it's not how it used to be](https://open.spotify.com/track/5eYJJXpmTUiIBdqnJDongW) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:27 |
 | 56 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
-| 57 | [You Don't Decide](https://open.spotify.com/track/2Q9V8KREGrMVIM4VLmVLXv) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Skeptical](https://open.spotify.com/album/1jDy4AscIVvFQwNsGPhJ39) | 2:41 |
+| 57 | [You Don't Decide](https://open.spotify.com/track/1VhH5roSzrRCsQ2ZLvfoj7) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5PM3NjlqA6YBobSRy0nvP4) | 2:41 |
 | 58 | [Pop Out](https://open.spotify.com/track/4BK00UVgLXIw7l6UQl8ZQa) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Pop Out](https://open.spotify.com/album/4N0UUFDhzOeKHApxy1ZGgx) | 2:19 |
 | 59 | [Fool Around](https://open.spotify.com/track/2ryDEDHa7Cj00JhnHknukn) | [Matthew Young](https://open.spotify.com/artist/0EIJLgdMEPVJlnkmjWcx5q) | [It's a Feeling](https://open.spotify.com/album/5XOJym8KkxAs8aSUNHGeYY) | 3:38 |
 | 60 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 64 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 65 | [Believe](https://open.spotify.com/track/7KSNAoH0zVnpb6bV7xezaX) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Believe](https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ) | 4:01 |
 
-Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMGU2Y2ZhMjA2NWY4MDZhNDU3MTZiYTA4ZjE0MDQ5MjQx`
+Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMDViYTgxOTRkZTRjMzg1OThkYWYwZmMyZTZjNDk5ODUx`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,378 likes - 56 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,391 likes - 56 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Letting Go](https://open.spotify.com/track/2sYKMfMLXwmK6idbtpxYTD) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 3:24 |
 | 2 | [At the Edge of the World](https://open.spotify.com/track/1HNy9IZDRBBWOc2HYUSIJw) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [At the Edge of the World](https://open.spotify.com/album/3pPEotWlGwWvmZfiMJvn8R) | 6:16 |
-| 3 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 |
+| 3 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
 | 4 | [Sunshowers](https://open.spotify.com/track/0fVK2hNr9GEvCwVvqysLfU) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 4:14 |
 | 5 | [Ocean City](https://open.spotify.com/track/7MJh38zfhn9srvGNyax29M) | [Gunn \- Truscinski Duo](https://open.spotify.com/artist/58PU6MWEroVyXXTXmpzdny) | [Soundkeeper](https://open.spotify.com/album/5mbLZNPWompf0VZ0Vb8gcV) | 5:09 |
 | 6 | [Rocks on Rainbow](https://open.spotify.com/track/2tdLYfGjdOdk73VGfLuB7D) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Deafman Glance](https://open.spotify.com/album/3OK32MaMXRDNRgdDzBJikw) | 1:45 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 55 | [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 |
 | 56 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMGUzNTNhOGUwMDYwYmI2ZWY3NmYxNDRkZjgxMTdhYWM0`
+Snapshot ID: `MTY2NDUxMDQwMCwwMDAwMDAwMDRhZGFhOTg2NDgzNWIwNzA5NDM0ZmQ5MWRkZDg4Yzc2`

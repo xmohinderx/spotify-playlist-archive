@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Vanessa Zamora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,288 likes - 104 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,403 likes - 104 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 12 | [Flowers From Japan](https://open.spotify.com/track/6UMZpB7uTxDyhUs8cvSHRE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Flowers From Japan](https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw) | 4:06 |
 | 13 | [The Only One](https://open.spotify.com/track/102SBZ2snfZMZhWkgrTIWV) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The Only One](https://open.spotify.com/album/2T7w6O7kQMd0VcbHqC6hW1) | 3:31 |
 | 14 | [I Want You \(To Be My Woman\) \[feat\. DOPE LEMON\]](https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:01 |
-| 15 | [Cherry Wine](https://open.spotify.com/track/1AB7asrPCQVH8azO61fnRo) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Conversations with the Moon](https://open.spotify.com/album/7HfLh4wPYNG2T4IrJhfciW) | 2:53 |
+| 15 | [Cherry Wine](https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl) | 2:53 |
 | 16 | [Hayat](https://open.spotify.com/track/6kZ8jdKDVVatjCTNQ2XQMj) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Hayat](https://open.spotify.com/album/7Lujb5MhONtYgerC571nMS) | 4:08 |
 | 17 | [FULL TIME LOVER](https://open.spotify.com/track/4G2l27MHZ9bk2VKjKxOzOA) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Elvia](https://open.spotify.com/artist/40cMQJtnfUdWW2OY6wvCt2) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 2:00 |
 | 18 | [Moka](https://open.spotify.com/track/29wABTlHrUEAMfBprQnOrc) | [elito](https://open.spotify.com/artist/4OSuHJobGRJFovPsbGCVgR) | [Moka](https://open.spotify.com/album/2eOEkG7khZpeipSQzlreCt) | 3:16 |
 | 19 | [Empty Head](https://open.spotify.com/track/54DjNRB4TFeXOpRMBJyNv3) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 5:13 |
 | 20 | [therapist](https://open.spotify.com/track/40tM411ZxFU89VJmZoC22x) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [therapist](https://open.spotify.com/album/5uEsbMorD1BkzjKuE4TGBZ) | 3:07 |
 | 21 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
-| 22 | [Todai](https://open.spotify.com/track/7M7R9d2XP1EfqpIq4D0Zlv) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 2:54 |
+| 22 | [Todai](https://open.spotify.com/track/6O75NV4KyMzh47TS9Zow5m) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Todai](https://open.spotify.com/album/4hE6Ux4bskxZzUV7HKbIES) | 2:57 |
 | 23 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 |
 | 24 | [paterson](https://open.spotify.com/track/3DUKYkLS0M2kM6m7tzjipR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [paterson](https://open.spotify.com/album/5URw6mtoVChP5GD5la6RbF) | 4:42 |
 | 25 | [in my white dress](https://open.spotify.com/track/0uS73WeUprjNuI44swS8Hl) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 3:03 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 103 | [XX](https://open.spotify.com/track/42ACPZYXi1WW1wpnCk6Kgr) | [Betacam](https://open.spotify.com/artist/57Zd5sXL7SD1anPMHPGlWJ), [Ama Ia](https://open.spotify.com/artist/5myr2gHvqlEkktvZioElER), [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [XX](https://open.spotify.com/album/4XDyEHa2WeckWpthB7ifZK) | 3:16 |
 | 104 | [Luce magica](https://open.spotify.com/track/3pxE5SMXpmR5h5DhpYJ187) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Oltre la zona sicura](https://open.spotify.com/album/46yVaVHnid7t7PQy9jTdYL) | 3:26 |
 
-Snapshot ID: `MTY2ODE5NDgxOSwwMDAwMDAwMDJiYjQ4MGRmMTdjMzVjNzg1YWMzZDM4NDE1MTkwMDkw`
+Snapshot ID: `MTY2ODE5NDgxOSwwMDAwMDAwMGU4NjhiN2Q4OThmYTc2ODMxZTBjMjhmNDFkODE5NjVi`

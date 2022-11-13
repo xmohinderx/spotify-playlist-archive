@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,329 likes - 46 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,417 likes - 46 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 15 | [Out of Square](https://open.spotify.com/track/3I677uFtjzjCPbjkBvL67F) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Formations](https://open.spotify.com/album/4vrGFv7AlhdrYTK1UmHVPx) | 3:23 |
 | 16 | [I Thought About Death, About Time](https://open.spotify.com/track/5nZUbstGOFJ8UWNhTyh9QM) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I’m Lost](https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE) | 2:00 |
 | 17 | [Above \- composed as the score to a Matthias Koenigswieser photograph](https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm) | [Slow Shiver](https://open.spotify.com/artist/7Is8CSsyLYNX4GANuU3oCl) | [Above \(composed as the score to a Matthias Koenigswieser photograph\)](https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7) | 2:07 |
-| 18 | [Healing as a Family](https://open.spotify.com/track/0NKHSjQLhcQLh2kuiohd4g) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Surf High](https://open.spotify.com/album/1NJSMLmjTCDQ4jr2uaUa65) | 1:22 |
+| 18 | [Healing as a Family](https://open.spotify.com/track/5I2JZN9KZ4lr5kbBdo9uBF) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Healing as a Family](https://open.spotify.com/album/4LUUHOC65IkEQBNbdC39om) | 1:22 |
 | 19 | [歩風](https://open.spotify.com/track/1XSAuGdPV3ptrtslbrgn8T) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/0ab2TfwsIFt9RPG9uCMSSa) | 4:19 |
 | 20 | [Willeth](https://open.spotify.com/track/6t8pyLvHnewIRcsdriDaoL) | [Kino](https://open.spotify.com/artist/744LLMunibSJvXx6VVAKl3) | [Willeth](https://open.spotify.com/album/2mtynPQ9PKkRvaUbrk2FMT) | 1:38 |
 | 21 | [Patsy \- Instrumental](https://open.spotify.com/track/38pwFb1yj7CS2JUaLVyQ01) | [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9) | [The Way Forth \(Instrumentals\)](https://open.spotify.com/album/2GJmOoinJpsmNcnqaIiBc6) | 2:10 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 | 45 | [Languid](https://open.spotify.com/track/2jV0okvamtMJ4ie5hZcjo1) | [Nick Costa](https://open.spotify.com/artist/3lKLF6TNNdWGXtWkD6mV7h) | [Lull](https://open.spotify.com/album/6TMlDVw6gmsxAZzCs9ujf5) | 4:45 |
 | 46 | [Sista Snön](https://open.spotify.com/track/0neGZAdlsgCXrSk27SWYcK) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn) | [Sista Snön](https://open.spotify.com/album/03U2UdnlI94HsoaMVk9qn2) | 1:58 |
 
-Snapshot ID: `MTY2NzkyNTc4OCwwMDAwMDAwMDU1OGI4MTlkMTU2NTFlZDdhZmNiNzIzZGZiMDJlM2Yz`
+Snapshot ID: `MTY2NzkyNTc4OCwwMDAwMDAwMGM2NWVmOWEwYTk0M2NiNjYwM2I5Zjg3Y2JhOTE1OWU4`

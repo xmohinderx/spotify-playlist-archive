@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,541 likes - 67 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,549 likes - 67 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 8 | [I See Miracles](https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I See Miracles](https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM) | 4:20 |
 | 9 | [I Made It Out \(Radio Edit\)](https://open.spotify.com/track/23XInhCvpwCVcMZhzfNgrq) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [I Made It Out](https://open.spotify.com/album/2UZ50ykEFFtYVe7Tg0b6N4) | 4:58 |
 | 10 | [I'm All In](https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I'm All In](https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK) | 3:23 |
-| 11 | [This Is A Move \- Live](https://open.spotify.com/track/0XBCRHZQUqZwcYFEYhlD3Q) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Black History Month: Gospel](https://open.spotify.com/album/6skBirPP2i1IJawDIUWcc3) | 7:25 |
+| 11 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 12 | [Don't Judge Me \(feat\. Missy Elliott\)](https://open.spotify.com/track/4QtMuE4AzKhwczUD5cs0qc) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:23 |
 | 13 | [Have It All](https://open.spotify.com/track/6h2tyhpxtw8QR7IWpLFdBV) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG), [Sarai](https://open.spotify.com/artist/4HmMtATYC7WoVVbvEAIfrR) | [Have It All](https://open.spotify.com/album/4TvhlCVIzUi74MhG4N7LqG) | 3:34 |
 | 14 | [It's My Season](https://open.spotify.com/track/4FHDNt3b9Mmcn5IPp6GYTu) | [Bishop Paul S\. Morton, Sr.](https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk), [The Full Gospel Ministry of Worship](https://open.spotify.com/artist/1m9u6bfLWyFzDsV3zK0MTV), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Qualesia Bullard](https://open.spotify.com/artist/19rxFrAwaCoWofbDs7RTj1) | [A Month of Sundays](https://open.spotify.com/album/6GPwNqo4wJrrsy3DPv94jR) | 6:35 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 20 | [Blessings on Blessings](https://open.spotify.com/track/7vUFBl7CEHoSKuzl6FjV3J) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [2econd Wind: Ready](https://open.spotify.com/album/58mYgRaVDm6sI6gRMKr9nQ) | 4:51 |
 | 21 | [Rescue Me](https://open.spotify.com/track/0CCPTM1tGT8sOmKzEn65Wy) | [D\. Morton and Gifted](https://open.spotify.com/artist/1JSFym2oYDUCqvOHwHfnvP) | [Declaration](https://open.spotify.com/album/5O935KYxMLSLvndrmSy3sf) | 3:51 |
 | 22 | [Fresh Wind](https://open.spotify.com/track/2N3omOH5vnLm4Px7Ax0tGG) | [Kim Person](https://open.spotify.com/artist/3Eg7DqU4wK8ZzlaqgnZlGB) | [The Journey](https://open.spotify.com/album/1tgMLNlZGfKQGSaMHdzZ3n) | 8:10 |
-| 23 | [I Got It](https://open.spotify.com/track/10pOcnlNCuyVCLBr4M7Nis) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Kerry Douglas](https://open.spotify.com/artist/4c2cuY9TIk79ilLtjwJXL4) | [Big: Freedom Session \(LIVE\)](https://open.spotify.com/album/6esoWZzd8PZHYS40n4MWbo) | 4:07 |
+| 23 | [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 |
 | 24 | [Jehovah Sabaoth \(God of Angel Armies\) \[feat\. Brittany Stewart\] \(feat\. Brittany Stewart\)](https://open.spotify.com/track/7a9FrfeCemjLzGdpt4LJos) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Brittany Stewart](https://open.spotify.com/artist/7vUKiXob1VwknWRzzkRkuN) | [Goshen](https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e) | 4:56 |
 | 25 | [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 |
 | 26 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 66 | [The Greatest](https://open.spotify.com/track/6sYEL144ROUzl6naTmgIPk) | [Lawrence Hancock](https://open.spotify.com/artist/6UD4FlKheqYI40jvwZavH8) | [Nothings Too Hard](https://open.spotify.com/album/4g8S3RrzlnweH4PGwhK5Wi) | 3:34 |
 | 67 | [We Are Soldiers in the Army](https://open.spotify.com/track/4CU4El1YbvC4MWdtjdZmuo) | [Gospel Kids](https://open.spotify.com/artist/5MFX3lSx7yGhxAXa0kP1Pi) | [Gospel Kids Present Christian Soldiers](https://open.spotify.com/album/5jqvgr1T0jqV7QgGxaKUNm) | 3:04 |
 
-Snapshot ID: `MTU5OTU4MzMwNiwwMDAwMDAwMDQ1YjRiMmVhMGNhOTNmMzU0ODljNjQzNzEwZDk2NTdk`
+Snapshot ID: `MTU5OTU4MzMwNiwwMDAwMDAwMGEzOGNjNjM3MDgzY2Q2MzlmZjFjM2Y1ZmQwZjM3M2E0`

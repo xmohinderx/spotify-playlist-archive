@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Let these contemplative couplets take you away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,987 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,042 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 10 | [Mujhe Tum Nazar Se Gira To Rahe Ho](https://open.spotify.com/track/6D5YqPRZo1OfpD2cy5hUz1) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Strokes Of Sohail Rana](https://open.spotify.com/album/45zJ5AmAvKqBnCsfymVLbV) | 3:55 |
 | 11 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 |
 | 12 | [Jeeye to Jeeye Kaise \(From "Saajan"\)](https://open.spotify.com/track/6xkH51odPN6GVpMgth0lWL) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Bollywood & Ghazal Collection of Pankaj Udhas](https://open.spotify.com/album/5Mz7uZt7yAnIPpPebxpEE0) | 3:29 |
-| 13 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 |
+| 13 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 |
 | 14 | [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 |
 | 15 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 |
 | 16 | [Koi Yeh Kaise Bataye](https://open.spotify.com/track/0xacMfqz3t5x29sgDmaYms) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 3:17 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 24 | [Har zulm tera yaad hai](https://open.spotify.com/track/3lz869qyZcRBATTT6r4omU) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Geet aur ghazlon ka haseen sangam](https://open.spotify.com/album/47nQ54mrT5meW6q0U3aaXU) | 5:43 |
 | 25 | [Ishqe Noo Ched Na Bethi \(feat\. Ravi Bal\)](https://open.spotify.com/track/6JLys64rusA6N1yo2FlIFO) | [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne), [Ravi Bal](https://open.spotify.com/artist/4RorHT1vXP7Z6n3x1xzmv9) | [Long Drive Remixes](https://open.spotify.com/album/1VzGFgbgtwEz0ad8UE83QC) | 6:42 |
 | 26 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 |
-| 27 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 |
+| 27 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/25VkJONJpEE1jFn5jdJfUh) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:47 |
 | 28 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 |
-| 29 | [Chupke Chupke Raat Din](https://open.spotify.com/track/4KN7h2tr4ELHBy2ph70G5O) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ishq Sufiana 30 Greatest Love Songs](https://open.spotify.com/album/1hqhmD0j95M1mcKuNMxMYF) | 11:35 |
+| 29 | [Chupke Chupke Raat Din](https://open.spotify.com/track/4E0KNKup3x1EqEpfiDfGVt) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 11:35 |
 | 30 | [Meri Ajab Hai Zindagi](https://open.spotify.com/track/41ffCRz4qgkCidL08CBuPo) | [Kirti Anuraag](https://open.spotify.com/artist/3k76V6C9xfs43QCm8mqhOd), [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Rare Moments](https://open.spotify.com/album/4kTiRFjbJLrP4Py00IA10N) | 5:30 |
-| 31 | [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/33SsZaZgRY8vUI3suEPkEg) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 8:36 |
+| 31 | [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/1M3NqMGpz82MZymh0bJSIx) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 8:36 |
 | 32 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 |
 | 33 | [Na Kajare Ki Dhar \(Duet Version\) \- With Heart Beats](https://open.spotify.com/track/5Lfsdm1eKTsUxEdqwmbBLb) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Top 20 Hits \(With Heart Beats\)](https://open.spotify.com/album/5kRbMqkJmFYaOmU3Oi9nsL) | 5:08 |
 | 34 | [Khawab Ban Ke Bikharti Jati Hai](https://open.spotify.com/track/3nPez09I43hLdYiNPB2XUO) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Greatest Ghazal Hits](https://open.spotify.com/album/7fB1OwjXHH3VK0EexzhAqq) | 4:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 46 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 |
 | 47 | [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 |
 | 48 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 |
-| 49 | [Para Para Hua](https://open.spotify.com/track/4oCvl7Jdbm7yNVoLohUHOV) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 3:53 |
+| 49 | [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 |
 | 50 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 |
 
-Snapshot ID: `MTY2ODAwMTIyNiwwMDAwMDAwMGRjMTRlMzcwMTk3OGE5ZWQyNzliZjJkMWQ1ZTEwMDEy`
+Snapshot ID: `MTY2ODAwMTIyNiwwMDAwMDAwMDAyMzJjY2NkZmE5OWU1ZWNjNDM0MzEyMjAzOWE3ZmFh`

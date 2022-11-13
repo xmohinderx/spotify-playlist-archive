@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 
 > NCTzens' go\-to place for all things NCT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,624 likes - 117 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,735 likes - 117 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LIT \(Prod\. Czaer\)](https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 3:15 |
-| 2 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:51 |
+| 2 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 |
 | 3 | [Beautiful](https://open.spotify.com/track/6NBbpQfD2MZcCNBOy7iE7Q) | [NCT 2021](https://open.spotify.com/artist/5Qnl3RAtzne7J1dxRv1UBc) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 4:21 |
 | 4 | [New Axis](https://open.spotify.com/track/2VUZziJusn2sBa1iMn9YGn) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 2:11 |
 | 5 | [Earthquake](https://open.spotify.com/track/3RNHlcwIRw9xMS9gcSz65P) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:28 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 101 | [Interlude: Past to Present](https://open.spotify.com/track/665wQLynoOWuyeKjbFsqmF) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 1 \- The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 1:10 |
 | 102 | [Make Your Day](https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:35 |
 | 103 | [WITHOUT YOU](https://open.spotify.com/track/78DVHbAahuQF56gOC4GnuN) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:25 |
-| 104 | [Love Me Now](https://open.spotify.com/track/3pyNUDyPRMG1pY2zVg3Lxl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 4:08 |
+| 104 | [Love Me Now](https://open.spotify.com/track/1rERmGg7Aywj0Wbv9uVDvV) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 4:08 |
 | 105 | [Boom](https://open.spotify.com/track/4PIDYDoXyBUAh5Tzndtk9K) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:29 |
 | 106 | [STRONGER](https://open.spotify.com/track/6pHjX4thmIYqqmODsW1kIy) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:26 |
 | 107 | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/track/1F9FQp9dnnQWTkaK6Nzm1W) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Fireflies \(THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION\)](https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi) | 3:20 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 | 116 | [Pandora's Box](https://open.spotify.com/track/2eibpPa0zEyFb7SR4edlYp) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 4:09 |
 | 117 | [Best Friend](https://open.spotify.com/track/6YMy6nuK53ZSKOLlt2ytiY) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:24 |
 
-Snapshot ID: `MTY2MzgzMjUzNCwwMDAwMDAwMDE5YWI0MDBjODM4OTZkM2IwOWM3NDU1YTNhN2ViNmZm`
+Snapshot ID: `MTY2MzgzMjUzNCwwMDAwMDAwMGQ3OWY3OWQyZTlkMGQ0MmJmODc3YWIyYzFjMmI4NWMz`

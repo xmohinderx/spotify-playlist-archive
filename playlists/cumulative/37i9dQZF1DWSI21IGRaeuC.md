@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-124 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
+125 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/2MGDejgSLmj2L39yQz6FnP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Kick It](https://open.spotify.com/track/5s5RKNozjSH616u91ZiqY7) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Kick It EP](https://open.spotify.com/album/66aMMGxNQQQqGXO7Bpx6lZ) | 7:02 | 2022-07-08 | 2022-10-22 |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-17 |  |
 | [Kilombito Mal \(feat\. Antonia Montero\)](https://open.spotify.com/track/4KEyvTU5LmxxyXw08bhnJ1) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Kilombito Mal](https://open.spotify.com/album/5cuo25ITqxcBFV4VxkUcrP) | 8:19 | 2022-06-03 | 2022-07-29 |
+| [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 | 2022-11-11 |  |
 | [La Nariz Rosada](https://open.spotify.com/track/3do6W1ZZXTJJKtlykfJygL) | [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [DJ Mara](https://open.spotify.com/artist/1OUuxQNvF1uRYOtLgv9Ood) | [La Nariz Rosada](https://open.spotify.com/album/2tSCpX7cYOsbZc09ABcBVt) | 4:40 | 2022-08-26 |  |
 | [Lightspeed](https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Lightspeed](https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe) | 6:22 | 2022-06-24 | 2022-07-21 |
 | [Like It Is](https://open.spotify.com/track/3O9ed5dnmz1T3O2o0OtnJp) | [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Kids Love Acid House](https://open.spotify.com/album/4ETe9T1phkZPjTMCQDn4Cb) | 7:00 | 2022-06-03 | 2022-07-27 |
@@ -106,7 +107,7 @@
 | [So Sweet \- Matthias Tanzmann Remix](https://open.spotify.com/track/0KBOVJnMYY8bgqrfzuAIG5) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK) | [So Sweet \(Matthias Tanzmann Remix\)](https://open.spotify.com/album/5hOWFQMBcssUJsnTAt7lr5) | 5:33 | 2022-11-11 |  |
 | [Steamroller](https://open.spotify.com/track/1Hp1FU6me1dv5q4ei6qnbp) | [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy) | [Steamroller EP](https://open.spotify.com/album/0frpqLt1rPcJSi5ZAqemSx) | 6:10 | 2022-06-03 | 2022-07-28 |
 | [Strung Up](https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj) | [Strung Up](https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p) | 3:20 | 2022-06-03 |  |
-| [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 | 2022-06-03 |  |
+| [Stutter](https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Stutter EP](https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV) | 3:53 | 2022-06-03 | 2022-11-13 |
 | [Summer Of Love](https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Summer Of Love](https://open.spotify.com/album/7duYShW24ZnlYT08ovEadQ) | 5:41 | 2022-06-17 | 2022-07-29 |
 | [Superfly](https://open.spotify.com/track/55g2IGNdPK7dnOkFtttmOB) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Superfly](https://open.spotify.com/album/7C9qqtM8RY29wFZE2BAQEJ) | 2:57 | 2022-06-10 | 2022-08-30 |
 | [Take Me Back](https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Take Me Back](https://open.spotify.com/album/50cYbqeQKDmSXTBxpq6ofq) | 3:17 | 2022-06-17 |  |

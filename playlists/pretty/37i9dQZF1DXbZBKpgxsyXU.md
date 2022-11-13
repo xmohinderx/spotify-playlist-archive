@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZBKpgxsyXU.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,096 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,319 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZBKpgxsyXU.md) - [plain]
 | 14 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 |
 | 15 | [Rescue Me](https://open.spotify.com/track/0mjAU3yKR1QnXnHtjGJqTM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me](https://open.spotify.com/album/57BhVBJbVPfIbwLANO5fSe) | 2:38 |
 | 16 | [Lose Somebody](https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Lose Somebody](https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc) | 3:19 |
-| 17 | [Wherever I Go](https://open.spotify.com/track/0nB0RQl2KED6yKfx8XVeCV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Best of 2016](https://open.spotify.com/album/3YdR714ndSSVKAxy2aK5Y4) | 2:49 |
+| 17 | [Wherever I Go](https://open.spotify.com/track/7kftK4n15rl1wbpfjSq2Tk) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 2:49 |
 | 18 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
 | 19 | [Something I Need](https://open.spotify.com/track/4KANJH1baadr3U7XsVbM17) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:01 |
 | 20 | [All The Right Moves](https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 3:58 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZBKpgxsyXU.md) - [plain]
 | 23 | [Wanted](https://open.spotify.com/track/6hLkeOMrhZ2CMLBp2of576) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wanted](https://open.spotify.com/album/19xtr8RaBkQNaDaNmXnVDj) | 2:16 |
 | 24 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
 | 25 | [Start Again \(feat\. Logic\)](https://open.spotify.com/track/1Nj2oBISdFDSF8eDuXcALz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 2:45 |
-| 26 | [Rich Love](https://open.spotify.com/track/74gHAR1Zg0R8M9LcxcIu7m) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [2022 Beach Club](https://open.spotify.com/album/0pIoIMRMikVtJvpAQulVYh) | 3:21 |
+| 26 | [Rich Love \(with Seeb\)](https://open.spotify.com/track/7dOeiXeTSfA1ixaYmQcWu7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Rich Love](https://open.spotify.com/album/0fLgNovzjpxE13hCIWa0sL) | 3:21 |
 | 27 | [Didn't I](https://open.spotify.com/track/6ikDZX0oc8EKGj2vdMAEDv) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Didn't I](https://open.spotify.com/album/02ATSOBqF7ddYG1248wCgH) | 3:27 |
 | 28 | [Feel Again](https://open.spotify.com/track/75hLNJfiXV5k2YGrbGEW51) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:05 |
 | 29 | [Somebody To Love](https://open.spotify.com/track/0yc37FvbXRwwFaQxzpxbsd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Somebody To Love](https://open.spotify.com/album/1YjQ5Q5ptRnQcT4P6nSCyt) | 3:01 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZBKpgxsyXU.md) - [plain]
 | 31 | [All These Things](https://open.spotify.com/track/5SlNjNaibdMLveJPYqAAaE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:19 |
 | 32 | [Heaven](https://open.spotify.com/track/1lFHaHvZeLf6XrOqX6iLlS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:18 |
 | 33 | [Lift Me Up](https://open.spotify.com/track/0x7oCog91UWqiYJQEee3uK) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:46 |
-| 34 | [Future Looks Good](https://open.spotify.com/track/6D3t1BypVorwf87mCaf7Xo) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Good Morning](https://open.spotify.com/album/1eUVpflNceQKOGnJca8bUC) | 3:30 |
+| 34 | [Future Looks Good](https://open.spotify.com/track/2JATE4qxTuVgKEKe12sqLp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:30 |
 | 35 | [Champagne Supernova](https://open.spotify.com/track/3RIYWuMEasEhXVNx722ZOC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Champagne Supernova](https://open.spotify.com/album/1WpLeRrRt13fIAi5YcBDGu) | 6:20 |
 | 36 | [Apologize](https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:28 |
 | 37 | [Choke](https://open.spotify.com/track/5xtliWYBVT4cKo9BtBn43B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:46 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZBKpgxsyXU.md) - [plain]
 | 44 | [All This Time](https://open.spotify.com/track/3jBZ215eVz9qwazMIQNSOO) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:02 |
 | 45 | [The Fighter \(feat\. Ryan Tedder\)](https://open.spotify.com/track/77ZdAoTHYoF6Umo76HFD4m) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles II](https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB) | 3:48 |
 
-Snapshot ID: `MTY1MjQ1NTk2MSwwMDAwMDAwMGE3YTgyMmIxZjYwYzRmNjM3ODkxMTFiMDNlMGUzNDdm`
+Snapshot ID: `MTY1MjQ1NTk2MSwwMDAwMDAwMDJlYjY1NDMwZWRjNTlkZTQxYjJmMjdkM2M3MWEzMDA1`

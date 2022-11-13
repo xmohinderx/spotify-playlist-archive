@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,915 likes - 87 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,916 likes - 87 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 25 | [Somewhere On A Beach](https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:17 |
 | 26 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 |
 | 27 | [Heaven](https://open.spotify.com/track/1XcUn5PE9d42zWamWgRG2x) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 3:46 |
-| 28 | [Toes](https://open.spotify.com/track/1bcaC0Uup0m4snqBVpbzB9) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Happy: 100 Songs](https://open.spotify.com/album/34flUZLzE6Mj5wq0DK1qEX) | 4:22 |
+| 28 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 |
 | 29 | [Glad To Be Here \(feat\. Brent Cobb\)](https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 4:33 |
 | 30 | [The Seashores Of Old Mexico](https://open.spotify.com/track/33Ac3dT2JHu0ljlPoGVYHT) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Somewhere Down In Texas](https://open.spotify.com/album/22lPla08LErk0XHBkUWq5f) | 4:11 |
 | 31 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 86 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 |
 | 87 | [Gettin' Down in a Pirate Town](https://open.spotify.com/track/0HbInFeaBStCiH4BJc6o1q) | [Jesse Rice](https://open.spotify.com/artist/053e8lWzA8BFhruid11TKQ) | [The Pirate Sessions](https://open.spotify.com/album/3AD64aLvBqR67GUefFM9Wj) | 4:16 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDVjYjMwNzc1NTM2ZjBhNmFiMGNlM2FjYmIwZTE4ZmE1`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDQ1ODg1ZDliN2YxOGQ1ZTlmM2Y1ZTgzODExYjE4ZDVk`

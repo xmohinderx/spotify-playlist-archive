@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 26533,
+  "num_followers": 26550,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGFkZTk2NmMzYjExZTg1NTQwY2EzODJmMjdkMGZlODBh",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGYwMWU5MWYwNDZlZDYwZWJhMjM4NjdhZjAzMDZjYjlk",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -179,6 +179,58 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "KGF Chapter 1 (Telugu)",
+        "url": "https://open.spotify.com/album/5PEIGDUbwwr1LYbwHCsZs1"
+      },
+      "artists": [
+        {
+          "name": "Arun Kaundinya",
+          "url": "https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4"
+        },
+        {
+          "name": "Aditya Iyengar",
+          "url": "https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo"
+        },
+        {
+          "name": "Lokeshwar",
+          "url": "https://open.spotify.com/artist/4JLzPvsQcq1YxZkEvgax48"
+        },
+        {
+          "name": "Mohan Krishna",
+          "url": "https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7"
+        },
+        {
+          "name": "H. Shreenivas Moorthi",
+          "url": "https://open.spotify.com/artist/7x01tAFlpr9Y6TmTyJg18W"
+        },
+        {
+          "name": "Vijay Aurs",
+          "url": "https://open.spotify.com/artist/4JcNkX2slvFotxwbcl1eDZ"
+        },
+        {
+          "name": "Shri Krishna",
+          "url": "https://open.spotify.com/artist/7B8fJFL2TEAi4GlHHCHba2"
+        },
+        {
+          "name": "Santhosh Venki",
+          "url": "https://open.spotify.com/artist/25CC77LOgi5bBoOlCaNIp9"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Ganta Rithesh",
+          "url": "https://open.spotify.com/artist/1JMlWJqJZhPGF5PIHP5khH"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Salaam Rocky Bhai",
+      "url": "https://open.spotify.com/track/2PEJJ61X5HfpkrOkqvpB6Y"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Sarrainodu",
         "url": "https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8"
       },
@@ -207,6 +259,38 @@
       "duration_ms": 304987,
       "name": "Blockbuster",
       "url": "https://open.spotify.com/track/37S2kL71k5LOmGxzJ7JLzE"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Holi Special Songs",
+        "url": "https://open.spotify.com/album/5B8AmuHx5y2pKQWTTDOo6A"
+      },
+      "artists": [
+        {
+          "name": "Narendra",
+          "url": "https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "Colorful Chilaka",
+      "url": "https://open.spotify.com/track/73AMbnpUdXdJGciNl8Fsp5"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Naa Peru Surya Naa Illu India",
+        "url": "https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sipligunj, Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Iraga Iraga",
+      "url": "https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -359,22 +443,6 @@
       "duration_ms": 200506,
       "name": "Champesaave Nannu",
       "url": "https://open.spotify.com/track/1soYqSnez9gGQepWQ50Fc1"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Express Raja",
-        "url": "https://open.spotify.com/album/1T6t4DS8YhHLEJJk9Pbyx7"
-      },
-      "artists": [
-        {
-          "name": "Narendra",
-          "url": "https://open.spotify.com/artist/78NSjm4ZvzQ584s1dTx4L9"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Colorful Chilaka",
-      "url": "https://open.spotify.com/track/78Ew8m4IHFovprNMyj4E2y"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -723,38 +791,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Tholi Prema",
-        "url": "https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb"
-      },
-      "artists": [
-        {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/57MKnLN5IqjuACXBm01saz"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Jai Simha",
-        "url": "https://open.spotify.com/album/7Ge2S3SjYoZ0uTZBM8HMqi"
-      },
-      "artists": [
-        {
-          "name": "Jaspreeth Jasz, Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/3YUBfCMOTG5Nbn0dxlX4Un"
-        }
-      ],
-      "duration_ms": 281703,
-      "name": "Ammakutti Ammakutti Andhamantha Ompake",
-      "url": "https://open.spotify.com/track/7EW27HIQrlFLpyCBtOodF4"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Khaidi No 150",
         "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
       },
@@ -787,6 +823,38 @@
       "duration_ms": 240626,
       "name": "Family Party",
       "url": "https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Tholi Prema",
+        "url": "https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        }
+      ],
+      "duration_ms": 246093,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/57MKnLN5IqjuACXBm01saz"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Jai Simha",
+        "url": "https://open.spotify.com/album/7Ge2S3SjYoZ0uTZBM8HMqi"
+      },
+      "artists": [
+        {
+          "name": "Jaspreeth Jasz, Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/3YUBfCMOTG5Nbn0dxlX4Un"
+        }
+      ],
+      "duration_ms": 281703,
+      "name": "Ammakutti Ammakutti Andhamantha Ompake",
+      "url": "https://open.spotify.com/track/7EW27HIQrlFLpyCBtOodF4"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -855,6 +923,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "MCA",
+        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 197321,
+      "name": "MCA",
+      "url": "https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Bulreddy (From \"Sita\")",
         "url": "https://open.spotify.com/album/3JW4hoixkVxtq6rUYZB2qF"
       },
@@ -903,22 +987,6 @@
       "duration_ms": 240000,
       "name": "Chitike (From \"Gang\")",
       "url": "https://open.spotify.com/track/4cs8E7TQBRc6geyRjdsrfU"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "MCA",
-        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 197321,
-      "name": "MCA",
-      "url": "https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1131,54 +1199,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "KGF Chapter 1 (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/6wSZCxYVb4xN1AY5TlXEG0"
+        "name": "Jawaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
       },
       "artists": [
         {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+          "name": "Saketh",
+          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
         },
         {
-          "name": "Santhosh Venki",
-          "url": "https://open.spotify.com/artist/25CC77LOgi5bBoOlCaNIp9"
-        },
-        {
-          "name": "Mohan Krishna",
-          "url": "https://open.spotify.com/artist/2U4KiBePibvnd8BIXtBvk7"
-        },
-        {
-          "name": "Shri Krishna",
-          "url": "https://open.spotify.com/artist/7B8fJFL2TEAi4GlHHCHba2"
-        },
-        {
-          "name": "Vijay Aurs",
-          "url": "https://open.spotify.com/artist/4JcNkX2slvFotxwbcl1eDZ"
-        },
-        {
-          "name": "Lokeshwar",
-          "url": "https://open.spotify.com/artist/4JLzPvsQcq1YxZkEvgax48"
-        },
-        {
-          "name": "Aditya Iyengar",
-          "url": "https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo"
-        },
-        {
-          "name": "Arun Kaundinya",
-          "url": "https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4"
-        },
-        {
-          "name": "Ganta Rithesh",
-          "url": "https://open.spotify.com/artist/1JMlWJqJZhPGF5PIHP5khH"
-        },
-        {
-          "name": "H. Shreenivas Moorthi",
-          "url": "https://open.spotify.com/artist/7x01tAFlpr9Y6TmTyJg18W"
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
         }
       ],
-      "duration_ms": 245999,
-      "name": "Salaam Rocky Bhai",
-      "url": "https://open.spotify.com/track/5gU33YTUIuXDT55DXr3MZW"
+      "duration_ms": 212822,
+      "name": "Bomma Adirindhi",
+      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1223,42 +1259,38 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Jawaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
+        "name": "Jaya Janaki Nayaka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM"
       },
       "artists": [
         {
-          "name": "Saketh",
-          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
         },
         {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+          "name": "M. M. Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
         }
       ],
-      "duration_ms": 212822,
-      "name": "Bomma Adirindhi",
-      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
+      "duration_ms": 251681,
+      "name": "Let's Party All Night",
+      "url": "https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX"
     },
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Bombhaat Tunes Of Rahul Sipligunj",
-        "url": "https://open.spotify.com/album/0tQOZoDpQ996Hf4ugguWiH"
+        "name": "90ml (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH"
       },
       "artists": [
         {
           "name": "Rahul Sipligunj",
           "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        },
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Iraga Iraga",
-      "url": "https://open.spotify.com/track/0yRQB77cu1C1jLVHh12exS"
+      "duration_ms": 221080,
+      "name": "Singilu Singilu DJ Song",
+      "url": "https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1287,26 +1319,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Jaya Janaki Nayaka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM"
-      },
-      "artists": [
-        {
-          "name": "Prudhvi Chandra",
-          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
-        },
-        {
-          "name": "M. M. Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        }
-      ],
-      "duration_ms": 251681,
-      "name": "Let's Party All Night",
-      "url": "https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "National Crush Rashmika Mandanna Hit Songs",
         "url": "https://open.spotify.com/album/2nC1xFU2yM5FjE9TbTuyp9"
       },
@@ -1319,22 +1331,6 @@
       "duration_ms": 271578,
       "name": "Cheppave Balamani",
       "url": "https://open.spotify.com/track/3yAKm3JWpdNrhy5JJ6R2FS"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "90ml (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH"
-      },
-      "artists": [
-        {
-          "name": "Rahul Sipligunj",
-          "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Singilu Singilu DJ Song",
-      "url": "https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb"
     }
   ],
   "unique_name": "EDM Telugu",

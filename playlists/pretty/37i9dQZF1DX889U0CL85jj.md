@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,378,091 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,378,393 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 34 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 |
 | 35 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 |
 | 36 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
-| 37 | [Charlie](https://open.spotify.com/track/60XFDDnbdo98aJ281UasVA) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:05 |
-| 38 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 |
+| 37 | [Charlie](https://open.spotify.com/track/4rpQqMvt3APBHHONRjsVhP) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/5uU4vi2829KfY06HHjckw3) | 3:05 |
+| 38 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
 | 39 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 40 | [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 |
 | 41 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 59 | [Take It Slow](https://open.spotify.com/track/6ZRdwFsEw5crjTzHo6Idxh) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [愛是我們必經的辛苦](https://open.spotify.com/album/393Q9l2o8kkGFhtD4kYkav) | 5:24 |
 | 60 | [Promise](https://open.spotify.com/track/42sMyIVgpVv9zFFQ2rdZ0P) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Promise](https://open.spotify.com/album/1vt3ZOyY1VodhBDoPZSlIi) | 3:23 |
 | 61 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
-| 62 | [I’ll Keep You Safe](https://open.spotify.com/track/5pTwD58utTkX0spi0OkCI6) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/50X8oQMHBatjI3dx4MpZjL) | 2:20 |
+| 62 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 |
 | 63 | [爱的大巴 \(Love Bus\)](https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [爱的大巴 \(Love Bus\)](https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu) | 4:31 |
 | 64 | [Sundance Happy](https://open.spotify.com/track/7JNUIRdD1r0U4eeYScySl6) | [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Sundance Happy](https://open.spotify.com/album/4ZwXzrl5Zyg9srZFqGNuG3) | 2:50 |
 | 65 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 77 | [My Sunny Day \- Kina Remix](https://open.spotify.com/track/17uhetjXsCctreur8sxfqo) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [My Sunny Day \(Kina Remix\)](https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV) | 1:56 |
 | 78 | [Alphamale](https://open.spotify.com/track/4YjSFVKbjEXHEgFiE4aFP4) | [Mandaworld](https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3) | [Alphamale](https://open.spotify.com/album/6xAxbY22ClrcbdF4H6fMhJ) | 4:57 |
 | 79 | [Slowdiving](https://open.spotify.com/track/4oqyzxXvzHTptWo5l2tlpz) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 3:14 |
-| 80 | [Greener](https://open.spotify.com/track/4nYtmcShP6O7QQX7dEPcQM) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/1t12ZzaOf2r1v47MlqzOEM) | 3:54 |
+| 80 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 |
 | 81 | [My Friend](https://open.spotify.com/track/1HaiuKlLZqB1J1od7sqGhc) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 5:27 |
 | 82 | [IDK](https://open.spotify.com/track/6NrwVoFmjeNsEtrgZTMo4T) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [Pale Blue](https://open.spotify.com/album/5VTDwmPmnnDecdsd374oye) | 3:33 |
 | 83 | [you and the everything of everything](https://open.spotify.com/track/1Y8F8VNZ3Ij0MaD8PcpGpW) | [RⱯHM ⚉](https://open.spotify.com/artist/0d5QT5iD8kwkVqqBolki7F) | [you and the everything of everything](https://open.spotify.com/album/3CmN3ZRXYAdz2S3fNtlg49) | 2:40 |
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 142 | [Beautiful](https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Beautiful](https://open.spotify.com/album/1jzakZByotV11MyGwCti6j) | 4:22 |
 | 143 | [Cotton Candy](https://open.spotify.com/track/2UvMgTm9y3lStOyQE2yxKA) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/6II8lvrYj3muBLAzrC0Kzw) | 2:34 |
 | 144 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:39 |
-| 145 | [Like a Bird](https://open.spotify.com/track/1tIpbQ5fXklxNJAVO5lv5p) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [New Daze](https://open.spotify.com/album/7uBehObICbzbtZtKzd9aAl) | 3:09 |
+| 145 | [Like a Bird](https://open.spotify.com/track/43l9LF9XUXvsSucTp7NOfm) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Ritual](https://open.spotify.com/album/3Ml6WGt3ogt1GcmaTXGA4w) | 3:09 |
 | 146 | [Doors To Kick](https://open.spotify.com/track/304031hRDCZEAIItiKxSol) | [Bobby Freemont](https://open.spotify.com/artist/52vZqisxn7wkDk6sZe8jkD), [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2) | [Doors To Kick](https://open.spotify.com/album/7cBQcCvIUy9MP78nK77xDp) | 3:26 |
-| 147 | [either side](https://open.spotify.com/track/0GLHrNUjLXCTSCNkhxEiyZ) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/3rAwadK10RPpqYufZSYl3r) | 2:47 |
+| 147 | [either side](https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:47 |
 | 148 | [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 |
-| 149 | [Hate That I Love You](https://open.spotify.com/track/1rOGjb8wAmr7ObgLuT2U86) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Hate That I Love You](https://open.spotify.com/album/2Bxs8q5gmTNHcHhf1TPhN3) | 3:32 |
+| 149 | [Hate That I Love You](https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:32 |
 | 150 | [Diamond](https://open.spotify.com/track/0CDf8A5GogzQdJlTh4L22f) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/314L5eEcSAupRv9pQdKiMj) | 3:23 |
 
-Snapshot ID: `MTY2ODIwNDY4OSwwMDAwMDAwMDlkZTZjM2IwYTM2YzI1OWYwMjlmOTA3NDQyZDhlMTZm`
+Snapshot ID: `MTY2ODIwNDY4OSwwMDAwMDAwMGY2MWRhMjVlMzNhOTNhZjQ5N2I1N2IzOTlkMTQyZGI5`

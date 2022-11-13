@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,277 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,299 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 12 | [Viajero Del Viento](https://open.spotify.com/track/7CkhEdcBHCDUCICCSbfTBZ) | [Kyosko](https://open.spotify.com/artist/3SJVLk4Qc9qJ5Mk5dCQrOB) | [Invisibles](https://open.spotify.com/album/2CY6A8UkkptIxckUyBll8j) | 3:02 |
 | 13 | [Mamá](https://open.spotify.com/track/0FmzOJb6VGMGkqfsvdeiGk) | [Pablo Olivares](https://open.spotify.com/artist/7mmxMWGzWcNDViLomPRrWu) | [Si Te Conocieran](https://open.spotify.com/album/0w4qd8rTAVlvYZlyKbWaF4) | 4:35 |
 | 14 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 |
-| 15 | [Enamorado De Ti](https://open.spotify.com/track/0LLnJYTyuDIuRN6c93Up0Q) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Memories Edicion Especial](https://open.spotify.com/album/4fe7dNz4Jn4eWmHgTBDToi) | 5:26 |
+| 15 | [Enamorado De Ti](https://open.spotify.com/track/6QQaNfFVNVBzCMCHfTcNln) | [Strike 3](https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l) | [Llevate El Tiempo](https://open.spotify.com/album/65tShWSVCNe5Fgj5ogLDBl) | 5:26 |
 | 16 | [Memoria \(Identidad\)](https://open.spotify.com/track/5GMBmIpJdpt3RqbuVxxePR) | [Mesver](https://open.spotify.com/artist/7dbLyuLmmTrijbn5TJSuMH) | [Despertares](https://open.spotify.com/album/2gomThBXGueNJ82vMAjBAt) | 3:16 |
 | 17 | [Rey De Majestad](https://open.spotify.com/track/1YBT09TyZHe9y2EmB3Q1Vg) | [Vertical](https://open.spotify.com/artist/7c0cfSQ3Oq5EEZXfdh8WLt) | [Imagínate](https://open.spotify.com/album/3EAMMcIMWeDZ7evJ4Tjvu9) | 4:28 |
 | 18 | [Éramos](https://open.spotify.com/track/6fVL8BrM91tDH7O2mdJfs0) | [Legados](https://open.spotify.com/artist/7wxcfZAF0aqflLMFbsPZp2) | [Mil Intentos](https://open.spotify.com/album/2os50fltRWshJNluelHYmD) | 3:53 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 24 | [Libre para Adorar \(En Vivo\)](https://open.spotify.com/track/0pKfAdb93p1moBIeNpdT7C) | [Gerry Marquez](https://open.spotify.com/artist/5Duuy8GUonNkuVCTZnz5ds) | [Un Tiempo Nuevo](https://open.spotify.com/album/2r5OHljOkWZ6qGnJAE3qyr) | 4:13 |
 | 25 | [Libre Soy](https://open.spotify.com/track/4yblg7xlfOCz6OhHkx9P1L) | [David Scarpeta](https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd) | [Volver a Respirar](https://open.spotify.com/album/2F4N4AFpV85vooRD19ZInX) | 4:18 |
 | 26 | [Quisiera](https://open.spotify.com/track/4x6vIZfQBuYnVw8zjZEZ72) | [Metamorffosis](https://open.spotify.com/artist/7616QQ7F8yuDKMztFdAe35) | [Escrito En Las Estrellas](https://open.spotify.com/album/4VnK8zGduksGF2LDyDnYRT) | 5:13 |
-| 27 | [Que Se Llene Tu Casa](https://open.spotify.com/track/05svncfR2Vm8tFoQroiwq7) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Gloria y Alabanza](https://open.spotify.com/album/1MqxlYyfhDAfqYt3Zpblve) | 4:08 |
+| 27 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
 | 28 | [Mi Amado Dios](https://open.spotify.com/track/10W7Axif6t46vv0n6xaS17) | [Cristo Para Las Naciones](https://open.spotify.com/artist/1CWzeOhNAKqu5f4ZacmifA) | [Supergod](https://open.spotify.com/album/045iUbZvHZXX462mpo10H1) | 4:33 |
 | 29 | [Fe](https://open.spotify.com/track/2HlSpAMXFABYqYTOdT7C8m) | [Rodrigo Silva](https://open.spotify.com/artist/0zDP7EE0W95SuqpK4AQGfN) | [Santo Remedio](https://open.spotify.com/album/1gtCpknow1BRL3VG4bVaIB) | 3:10 |
 | 30 | [Todo para Mi](https://open.spotify.com/track/3x3ajfjfMqRVcht85ZG89W) | [Blest](https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw) | [Lo Mejor de la Música Cristiana](https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 49 | [Otra Oportunidad](https://open.spotify.com/track/0g1dQ5Wafzv5umVhjNcEle) | [Revoluzion Estereo](https://open.spotify.com/artist/07y7DBTR7GwPS7sapmxrtG) | [Revoluzion Estereo](https://open.spotify.com/album/6LpcHauCrtKT0UJuXG8YI8) | 4:15 |
 | 50 | [Porque Fingir](https://open.spotify.com/track/7v13JBeYnHzgB4enyvcOcP) | [180 Grados](https://open.spotify.com/artist/5EFB2QpDOSYieHayE27uZ8) | [Cambio](https://open.spotify.com/album/59V6jFpLnTeVajCNjVKlyM) | 4:04 |
 
-Snapshot ID: `MTY2NjcxNTMzNCwwMDAwMDAwMDJmNzE1ZjM4ZmQ3YjMxZTM3ZmMyYWZmM2Y5MGE5MTY4`
+Snapshot ID: `MTY2NjcxNTMzNCwwMDAwMDAwMDk3MTQzYjg2OGNiNDNlZjlkNWNlYjc2ODIxOTAyZGZm`

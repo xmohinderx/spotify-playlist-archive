@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Souls Of Mischief
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,614 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,754 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 73 | [Menace](https://open.spotify.com/track/1xX6wr2lEHsDmR72AFN0Hx) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Menace](https://open.spotify.com/album/3NHMwyxXdUe3TiIu9CNtWg) | 3:49 |
 | 74 | [Doin' Right](https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Doin' Right](https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn) | 2:35 |
 | 75 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
-| 76 | [Song 32](https://open.spotify.com/track/7Duz1lXRfECWROhjHQ5dWk) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/2ZZWU7AAqHV9tXzNjPZrYJ) | 2:42 |
+| 76 | [Song 32](https://open.spotify.com/track/6kqdiU8tYIznmQ7T0Lzlzx) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/6w9HzF9t5hxwaPIRZNECFN) | 2:42 |
 | 77 | [AMBEYONCÉ \(feat\. Smino\)](https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 3:21 |
-| 78 | [Triple Double \(Remix\)](https://open.spotify.com/track/7eCkph4MbJ436Lz0m2CAdR) | [Ombre2Choc Nation](https://open.spotify.com/artist/7sbiAes6kYSnNq5hLu38uf), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Triple Double \(Remix\)](https://open.spotify.com/album/7ixfPBs9cuwwsAZLHCUJhZ) | 3:47 |
+| 78 | [Triple Double](https://open.spotify.com/track/3HSWza0Gz15Ungnd4m4lMo) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Mac & Cheese 3](https://open.spotify.com/album/505pFOzDUrDR6ToQlPiXC2) | 3:47 |
 | 79 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 |
 | 80 | [Freedom of Speech \(with J\. Cole\)](https://open.spotify.com/track/5pQZullzXsixizZmBcmXhy) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:11 |
 | 81 | [vice city](https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [vice city](https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Note To Self \(Feat\. Big Sean, Wale, Joey Bada$$ & Hitboy\)](https://open.spotify.com/track/5GSUrmDtxynQhBDLz7X2Mt) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 5:23 |
 | 100 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGFmN2ZjODA1MTRiNmQ4ZjQ1OWY0OTU1MGZiMjI3MGY4`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGMwMjk5MTc3OWUzMzU5ZjVlYWY5ZWFjZDEyMmJkMTBi`

@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 459263,
+  "num_followers": 459394,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMGYyNTEwNTgxOTZlYTQwMTViYTMwNjRhNzI4ZjJjMzhk",
+  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMDY5MDdmY2UzY2M4ZjI5ODQ1MzBiOTg0YTBjNzIwNmNm",
   "tracks": [
     {
       "added_at": "2022-10-14 07:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Black Sabbath (2014 Remaster)",
+        "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Wizard - 2014 Remaster",
+      "url": "https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Powertrip",
-        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 355933,
-      "name": "Space Lord",
-      "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Rated R - Deluxe Edition",
         "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 216013,
       "name": "The Lost Art Of Keeping A Secret",
       "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Powertrip",
+        "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 355933,
+      "name": "Space Lord",
+      "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -276,9 +292,25 @@
           "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 422533,
-      "name": "Space Cadet",
-      "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn"
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "From Beale Street to Oblivion",
+        "url": "https://open.spotify.com/album/0NwhaAWEFAeUuZ7lrCCXFx"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 314746,
+      "name": "Electric Worry",
+      "url": "https://open.spotify.com/track/7mQgJx5mfCuI6o8elrYCKg"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -315,6 +347,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Feel Good Hit Of The Summer",
+      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Ugo",
         "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
       },
@@ -343,22 +391,6 @@
       "duration_ms": 266920,
       "name": "Half Full Glass Of Wine",
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Feel Good Hit Of The Summer",
-      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -411,8 +443,8 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "...And the Circus Leaves Town",
-        "url": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
       "artists": [
         {
@@ -420,25 +452,9 @@
           "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 152040,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Deconstruction",
-      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
+      "duration_ms": 422533,
+      "name": "Space Cadet",
+      "url": "https://open.spotify.com/track/3iYermCTDOt4YfeCqf3sIn"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 209643,
-      "name": "Enemy of My Enemy",
-      "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Songs For The Deaf",
         "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
@@ -491,6 +491,38 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 309986,
+      "name": "Deconstruction",
+      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 209643,
+      "name": "Enemy of My Enemy",
+      "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -503,6 +535,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "...And the Circus Leaves Town",
+        "url": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 152040,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6QNJfu01hcQ8n8taGXXEqY"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -603,6 +651,38 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Psychic Warfare",
+        "url": "https://open.spotify.com/album/6lcvofLOkuwd6pxQxCE5iB"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 222134,
+      "name": "X-Ray Visions",
+      "url": "https://open.spotify.com/track/3MWjHnS7hpzrtRqNhT4DsS"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Supa Scoopa and Mighty Scoop",
+      "url": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Blood Lust",
         "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
       },
@@ -619,22 +699,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Burning Village",
-        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
-      },
-      "artists": [
-        {
-          "name": "Mountain Witch",
-          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
-        }
-      ],
-      "duration_ms": 282217,
-      "name": "The Dead Won't Sleep",
-      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "GAUPA",
         "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
       },
@@ -647,6 +711,22 @@
       "duration_ms": 447680,
       "name": "Febersvan",
       "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
+      },
+      "artists": [
+        {
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -731,22 +811,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Sleep's Holy Mountain",
         "url": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
       },
@@ -779,6 +843,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Old Growth",
         "url": "https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT"
       },
@@ -807,6 +887,22 @@
       "duration_ms": 360800,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Our Mother Electricity",
+        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 352073,
+      "name": "Elk.Blood.Heart",
+      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -855,22 +951,6 @@
       "duration_ms": 367879,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Our Mother Electricity",
-        "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 352073,
-      "name": "Elk.Blood.Heart",
-      "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1099,6 +1179,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Unmountable Stairs",
+        "url": "https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu"
+      },
+      "artists": [
+        {
+          "name": "Witchrider",
+          "url": "https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83"
+        }
+      ],
+      "duration_ms": 407646,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "The Devil and the Almighty Blues",
         "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
       },
@@ -1115,22 +1211,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "From the Ages",
-        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
-      },
-      "artists": [
-        {
-          "name": "Earthless",
-          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
-        }
-      ],
-      "duration_ms": 848346,
-      "name": "Uluru Rock",
-      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -1143,6 +1223,22 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "From the Ages",
+        "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
+      },
+      "artists": [
+        {
+          "name": "Earthless",
+          "url": "https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi"
+        }
+      ],
+      "duration_ms": 848346,
+      "name": "Uluru Rock",
+      "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1175,6 +1271,22 @@
       "duration_ms": 228693,
       "name": "Putain!",
       "url": "https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1259,6 +1371,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+      },
+      "artists": [
+        {
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Acid Roulette",
         "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
       },
@@ -1275,18 +1403,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
       },
       "artists": [
         {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
         }
       ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
+      "duration_ms": 290965,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1339,6 +1467,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "\u00c4ppeltr\u00e4det",
+        "url": "https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I"
+      },
+      "artists": [
+        {
+          "name": "Skraeckoedlan",
+          "url": "https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb"
+        }
+      ],
+      "duration_ms": 349026,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -1387,6 +1531,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1399,22 +1559,6 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Tales of the Wicked West",
-        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
-      },
-      "artists": [
-        {
-          "name": "MaidaVale",
-          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
-        }
-      ],
-      "duration_ms": 318023,
-      "name": "(If You Want the Smoke) Be the Fire",
-      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1435,18 +1579,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+        "name": "Tales of the Wicked West",
+        "url": "https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz"
       },
       "artists": [
         {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+          "name": "MaidaVale",
+          "url": "https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2"
         }
       ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+      "duration_ms": 318023,
+      "name": "(If You Want the Smoke) Be the Fire",
+      "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1463,150 +1607,6 @@
       "duration_ms": 194866,
       "name": "Our Mother Ash",
       "url": "https://open.spotify.com/track/06X9h0zkeEncfohssytDp8"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Psych Aux Tropiques",
-        "url": "https://open.spotify.com/album/5FPimyiGTHOTXXiabVXWUL"
-      },
-      "artists": [
-        {
-          "name": "Kamggarn",
-          "url": "https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "Cranberry Kiss",
-      "url": "https://open.spotify.com/track/0kiSbJ3HyRnHLiHYLqpTaz"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Beyond the Wasteland",
-        "url": "https://open.spotify.com/album/6OZQwyKEtA3BiKWsccW7Im"
-      },
-      "artists": [
-        {
-          "name": "Brain Police",
-          "url": "https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Rooster Booster",
-      "url": "https://open.spotify.com/track/1pi2KguwgnD90fmAvwZp9B"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Arch Stanton",
-        "url": "https://open.spotify.com/album/6lMTeRjXuXSVGePMeAz9Uv"
-      },
-      "artists": [
-        {
-          "name": "Karma To Burn",
-          "url": "https://open.spotify.com/artist/1tMtHqVsdmW0Yj9f4YnnHq"
-        }
-      ],
-      "duration_ms": 266124,
-      "name": "Fifty Seven",
-      "url": "https://open.spotify.com/track/6miHjSsOJ7fw2jft8Ldiir"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Sagor",
-        "url": "https://open.spotify.com/album/01iXYjSbjTWy8vNjoN7wmp"
-      },
-      "artists": [
-        {
-          "name": "Skraeckoedlan",
-          "url": "https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb"
-        }
-      ],
-      "duration_ms": 393040,
-      "name": "El Monstro",
-      "url": "https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
-      },
-      "artists": [
-        {
-          "name": "Somali Yacht Club",
-          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
-        }
-      ],
-      "duration_ms": 492508,
-      "name": "Up in the Sky",
-      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Let Me Down Hard",
-        "url": "https://open.spotify.com/album/3u3ZjCcA8qJvYqw0fpMtEt"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Unbroken (Hotel Baby)",
-      "url": "https://open.spotify.com/track/7rbQ7uq3ffnVnIZn2Kstp0"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Gas Giant",
-          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
-        }
-      ],
-      "duration_ms": 371983,
-      "name": "Too Stoned",
-      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
     }
   ],
   "unique_name": "Stoner Rock",

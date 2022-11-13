@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 38848,
+  "num_followers": 38911,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGQ2MWNhOGEyYTYxYTI3ZTVjNzE2NjRiZDc4MGUxNjJj",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGM1NDIxODRiZmJjNDk0ODAwYTMyYjYxYTZjZWE4N2My",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Deep Into You",
+        "url": "https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Jazz Alley",
+          "url": "https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Deep Into You",
+      "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "III",
@@ -195,26 +215,6 @@
       "duration_ms": 231267,
       "name": "III",
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Deep Into You",
-        "url": "https://open.spotify.com/album/0N4DaL3j9Awcu941nalsE4"
-      },
-      "artists": [
-        {
-          "name": "The Smooth Jazz Alley",
-          "url": "https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Deep Into You",
-      "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/4PvKVVEdWHxhIpDIPpSAHC"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Off The Top",
-        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 259044,
-      "name": "Off The Top - radio single",
-      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Make Up Your Mind (Radio Edit)",
@@ -327,6 +311,22 @@
       "duration_ms": 240280,
       "name": "Make Up Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Off The Top",
+        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 259044,
+      "name": "Off The Top - radio single",
+      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -445,6 +445,22 @@
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Secret Sauce",
+      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
+    },
+    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Free",
@@ -463,22 +479,6 @@
       "duration_ms": 264573,
       "name": "Motor City Moves (feat. Lin Rountree)",
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
-      },
-      "artists": [
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Secret Sauce",
-      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/1TOR7FOoECmAgHgFvyzM6i"
     },
     {
-      "added_at": "2022-11-12 05:01:53",
+      "added_at": "2022-11-13 01:08:15",
       "album": {
         "name": "Cupid Shuffle",
         "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
@@ -527,22 +527,6 @@
       "duration_ms": 232810,
       "name": "Cupid Shuffle",
       "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Tribute",
-      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "added_at": "2022-09-16 04:01:00",
@@ -561,36 +545,20 @@
       "url": "https://open.spotify.com/track/1g2j9sdo9V1TUXzCDRLmkf"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7Io45dFofkBVEzQdMTXxsl"
       },
       "artists": [
         {
-          "name": "David P Stevens",
-          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 230187,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Look Both Ways",
-        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Look Both Ways",
-      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+      "duration_ms": 245426,
+      "name": "Tribute",
+      "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -607,6 +575,22 @@
       "duration_ms": 261562,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4"
+      },
+      "artists": [
+        {
+          "name": "David P Stevens",
+          "url": "https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl"
+        }
+      ],
+      "duration_ms": 230187,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -629,7 +613,23 @@
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-11-12 05:01:53",
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
+    },
+    {
+      "added_at": "2022-11-13 01:08:15",
       "album": {
         "name": "Convergency",
         "url": "https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF"
@@ -647,22 +647,6 @@
       "duration_ms": 294840,
       "name": "Convergency",
       "url": "https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Cool Shades",
-        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Nine 2 Five",
-      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -683,6 +667,22 @@
     {
       "added_at": "2022-09-02 04:02:00",
       "album": {
+        "name": "Cool Shades",
+        "url": "https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb"
+    },
+    {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
         "name": "Donut Jam",
         "url": "https://open.spotify.com/album/7iGtZfFdUgJnEGrGkUgAcQ"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 216437,
       "name": "Donut Jam",
       "url": "https://open.spotify.com/track/4pXtjONiRse7CmVqc9Ujjs"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
     },
     {
-      "added_at": "2022-11-12 05:01:53",
+      "added_at": "2022-11-13 01:08:15",
       "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/2eqo8o737VCnrQaMFk1fe1"
@@ -731,22 +747,6 @@
       "duration_ms": 228651,
       "name": "I'm Good - radio single",
       "url": "https://open.spotify.com/track/5nSWbNXMgZZbVf16wiCp0f"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -783,6 +783,22 @@
       "duration_ms": 224237,
       "name": "Change the World",
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
       "added_at": "2022-02-14 15:14:54",
@@ -859,26 +875,6 @@
       "duration_ms": 249529,
       "name": "Radio Vibe - radio single",
       "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     }
   ],
   "unique_name": "New Smooth Jazz",

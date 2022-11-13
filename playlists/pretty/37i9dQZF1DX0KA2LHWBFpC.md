@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > 映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>の公開を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』はこちら</a> © 2022「すずめの戸締まり」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,999 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,928 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 |
-| 2 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
+| 2 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 |
 | 3 | [Giza Giza Heart no Komoriuta](https://open.spotify.com/track/6B9896DwhyX1IGdVgVNywP) | [The Checkers](https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1) | [Final Tour Budoukan Live](https://open.spotify.com/album/1d15Or6YvXpD6EAlmKlJVY) | 4:27 |
 | 4 | [男と女のラブゲーム](https://open.spotify.com/track/4qVrWEpm4fjdTakJg5Ykk6) | [Mika Hino](https://open.spotify.com/artist/4SnVzUk8sP61RFT8czNxjj), [Kenji Niinuma](https://open.spotify.com/artist/4eZxAuDEWugT2KHS32AIkA) | [日野美歌全曲集 いのりうた](https://open.spotify.com/album/3riEoVadQnLwFFGh94BEAk) | 3:57 |
 | 5 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 |
 | 6 | [SWEET MEMORIES \(Re\-Mix Version\)](https://open.spotify.com/track/6UDky6rmQprD5seH60B8jY) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [ペンギンズ・メモリー「幸福物語」オリジナル・サウンドトラック](https://open.spotify.com/album/7bcgXOWD6gojVuI6joqEtJ) | 4:34 |
 | 7 | [夢の中へ \- 2017 Remaster](https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [夢の中へ](https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf) | 2:36 |
-| 8 | [Sotsugyou](https://open.spotify.com/track/69Bi4gzneyGJ2NhgvxvteO) | [Yuki Saitou](https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae) | [Sotsugyou](https://open.spotify.com/album/3U7T5S8XjWbIcVkQR3jMFq) | 4:45 |
+| 8 | [Sotsugyou](https://open.spotify.com/track/60Oi2EFpU4u0tn94LCub1h) | [Yuki Saitou](https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae) | [Yuki's Best](https://open.spotify.com/album/6wo64DefvXuab2rWWZjEtf) | 4:43 |
 | 9 | [バレンタイン・キッス](https://open.spotify.com/track/27Zq1Uh9ITJwfTaqvqUsfy) | [Sayuri Kokusho](https://open.spotify.com/artist/3Ts5ELxUNyqlHKYJX8uq5t), [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [バレンタイン・キッス](https://open.spotify.com/album/5qxEqwkeJaDCO7vKIB500c) | 3:36 |
 | 10 | [けんかをやめて](https://open.spotify.com/track/2UiO3tzClF7mHiuRyhUt3R) | [Naoko Kawai](https://open.spotify.com/artist/1BMCwAT2geYkKBKjRAJ8Qu) | [けんかをやめて](https://open.spotify.com/album/6JDq7lXrVjiED6fHNjGx1N) | 4:31 |
 | 11 | [Tamaki](https://open.spotify.com/track/1EywXLi9gbYeWA6JXjUh7W) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 4:55 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 47 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 |
 | 48 | [Sparkle \- movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 8:57 |
 | 49 | [Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:11 |
-| 50 | [Katawaredoki](https://open.spotify.com/track/5h56opjpFXqIpIXUBSf1AO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name\. \(Deluxe Edition / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4msOF7XQKkdvBpvqmIONGW) | 2:50 |
+| 50 | [Katawaredoki](https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:50 |
 | 51 | [Theme of Mitsuha](https://open.spotify.com/track/66HNv8qd9jr7q5P9nNTOOZ) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:06 |
 | 52 | [Unusual changes of two](https://open.spotify.com/track/23wbvIPlLBO8Ef3kceOCYO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 2:36 |
 | 53 | [Rain](https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [言ノ葉](https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t) | 4:53 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 65 | [The voices of distant star \~PREVIEW\~](https://open.spotify.com/track/6oTgn5L290FDJfunuzRA3m) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [「ほしのこえ」SOUNDTRACK](https://open.spotify.com/album/7aADsc9Vj2R8ckH6ULg7hf) | 1:11 |
 | 66 | [Main Theme](https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [彼女と彼女の猫 SOUNDTRACKS](https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ) | 1:23 |
 
-Snapshot ID: `MTY2ODE0MzI4NSwwMDAwMDAwMDM2NjNmYmI4MjMwZTc2YzEzZDkyYmU4ZGU1YjJmYWY5`
+Snapshot ID: `MTY2ODE0MzI4NSwwMDAwMDAwMGJkZTZjNmE0ZWEzN2RmODk2NDIwMDA3Y2JkYmM2ZjQw`

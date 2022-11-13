@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 257204,
+  "num_followers": 257271,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDQxMTk5MzQ4NzY4MzZmMGJlOTAzMjdlZTZmNDA1ZGZj",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDU3M2NiYjQzMzhlNWYxM2Q2ZjgxOTkyODExOGZkM2Rh",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+        "name": "Whosoever",
+        "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 229213,
-      "name": "Jesus at a Distance",
-      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
+      "duration_ms": 225755,
+      "name": "Hallelujah Anyway",
+      "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Whosoever",
-        "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
       },
       "artists": [
         {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 225755,
-      "name": "Hallelujah Anyway",
-      "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "What I'm Waiting For",
+      "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Ryan Ellis",
         "url": "https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO"
       },
@@ -611,18 +627,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+        "name": "Teach Me to Dance (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        },
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         }
       ],
-      "duration_ms": 228613,
-      "name": "What I'm Waiting For",
-      "url": "https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK"
+      "duration_ms": 218510,
+      "name": "Teach Me to Dance (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -643,26 +663,6 @@
       "duration_ms": 229007,
       "name": "Firm Foundation (He Won't) (feat. Cheyenne Mitchell)",
       "url": "https://open.spotify.com/track/13PDtpRgQ7FT3mdoziwl7Q"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Teach Me to Dance (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        },
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 218510,
-      "name": "Teach Me to Dance (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Morning By Morning (I Will Trust)",
-        "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 221084,
-      "name": "Morning By Morning (I Will Trust) - Radio Version",
-      "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "A Hundred Highways",
         "url": "https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 234493,
       "name": "Heart of God",
       "url": "https://open.spotify.com/track/0XUOsMM0n3jRGzRgagPqGH"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Morning By Morning (I Will Trust)",
+        "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 221084,
+      "name": "Morning By Morning (I Will Trust) - Radio Version",
+      "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Good Feeling (Radio Version)",
         "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "To Not Worship You",
-        "url": "https://open.spotify.com/album/1CdbYMYRRGYB5rxO8syz4P"
+        "name": "Always Only Jesus",
+        "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
       "artists": [
         {
@@ -1270,7 +1270,7 @@
       ],
       "duration_ms": 225681,
       "name": "To Not Worship You",
-      "url": "https://open.spotify.com/track/0sqnqnvPogsfvALIv1OVMM"
+      "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Always Will Be",
-        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Always Will Be",
-      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Always Will Be",
+        "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Always Will Be",
+      "url": "https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Enough Already",
         "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 216266,
       "name": "That's Enough",
       "url": "https://open.spotify.com/track/1ggtVukTS0C2ifnnD7bzhF"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Family Is Family",
+        "url": "https://open.spotify.com/album/379EFzbHnMqQgxi3via5Mx"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        }
+      ],
+      "duration_ms": 173889,
+      "name": "Family Is Family",
+      "url": "https://open.spotify.com/track/5uKdbMoQogHBf3H4cJkOY4"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
-      },
-      "artists": [
-        {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
-        }
-      ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "On And On",
         "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 206576,
       "name": "On And On - Radio",
       "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 201639,
-      "name": "By Faith",
-      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 201639,
+      "name": "By Faith",
+      "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1671,22 +1687,6 @@
       "duration_ms": 262506,
       "name": "Great I Am (2022 Version)",
       "url": "https://open.spotify.com/track/0wK7inmWswcEGEE84nqyr0"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     }
   ],
   "unique_name": "Top Christian Contemporary",

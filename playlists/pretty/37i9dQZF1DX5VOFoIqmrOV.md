@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : RRR
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,253 likes - 59 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,391 likes - 59 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 8 | [Hoyna Hoyna](https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:31 |
 | 9 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 |
 | 10 | [Asha Pasham](https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Care Of Kancharapalem](https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p) | 4:20 |
-| 11 | [Sirivennela](https://open.spotify.com/track/28nOgUtn4aUjdwgxZ2BtzV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Shyam Singha Roy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sliGddH7TRqDK1zW94P9o) | 4:13 |
+| 11 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 |
 | 12 | [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 |
 | 13 | [Ninnila](https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Tholi Prema](https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb) | 3:54 |
 | 14 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahathi Swara Sagar](https://open.spotify.com/artist/1XjPpEBw4dLao4gNgoKhmz) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 21 | [Leharaayi](https://open.spotify.com/track/0pCXbJ3lbtinCZnwg1CYDC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Most Eligible Bachelor](https://open.spotify.com/album/67FATbnVWtXgD9TF6OGb3P) | 4:05 |
 | 22 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 |
 | 23 | [Nee Chitram Choosi](https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Love Story](https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F) | 4:23 |
-| 24 | [Ma Ma Mahesha](https://open.spotify.com/track/4o0fdLdeKc0KHTs0ouiUpi) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Sarkaru Vaari Paata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q) | 4:06 |
+| 24 | [Ma Ma Mahesha \(From "Sarkaru Vaari Paata"\)](https://open.spotify.com/track/0d4ZeWg7NBzA5NnFPn8a89) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ma Ma Mahesha \(From "Sarkaru Vaari Paata"\) \- Single](https://open.spotify.com/album/5uX9rfa81opm0YiGEVYet4) | 4:06 |
 | 25 | [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 |
 | 26 | [Samajavaragamana](https://open.spotify.com/track/0h5wFi2R8a9ReSIDbXzZgy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:39 |
 | 27 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 58 | [Mandaara](https://open.spotify.com/track/51O5cmwTOopxgVQuB5tZsG) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Valentine'S Day Special](https://open.spotify.com/album/5WZOo6UgGdbVgzWazeSfjo) | 4:51 |
 | 59 | [Baitikochi Chuste](https://open.spotify.com/track/7MtXu7mXRMdICKyTOb8CuR) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 3:26 |
 
-Snapshot ID: `MTY2NTk4MzEwNiwwMDAwMDAwMDFlNDQzYWE5ZGYwMWUzMmY1MmFjNDI1OGU0MmEzODIy`
+Snapshot ID: `MTY2NTk4MzEwNiwwMDAwMDAwMDQzODRiZGYxNWZlMzAzOWQ3MjU2MjY1ODEzODAwNDZl`

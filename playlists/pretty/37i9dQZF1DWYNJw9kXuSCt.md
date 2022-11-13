@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 
 > The 2022 nominees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 149 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,414 likes - 149 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 | 108 | [Cada Quien](https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cada Quien](https://open.spotify.com/album/5cyWGgkGniYOaNkKrPOy1p) | 3:17 |
 | 109 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
 | 110 | [Como Lo Hice Yo](https://open.spotify.com/track/6YNTL320OEMAg4ORqGYt1v) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Así de Enamorados](https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK) | 2:57 |
-| 111 | [Cuando Me Dé la Gana](https://open.spotify.com/track/054rVEFJSFyS9tHbZp1Pwz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:26 |
+| 111 | [Cuando Me Dé la Gana](https://open.spotify.com/track/1zvtSTLTx66rmGP6yNu1cJ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 3:26 |
 | 112 | [Nunca Te Voy a Olvidar](https://open.spotify.com/track/11VHtbpesamzg0CpICxsq6) | [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [Jorge Glem](https://open.spotify.com/artist/4fFCGaz0oMwRLzJIu13ba5), [Román Rojas](https://open.spotify.com/artist/0L3SY08h1YCFC1drgLRtiq) | [Mireya](https://open.spotify.com/album/6q84qns60zUBXAyc5wdEsj) | 3:51 |
 | 113 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 |
 | 114 | [¿Quién Dijo Yo?](https://open.spotify.com/track/61hYEcL2h9A44281zRCBsf) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Bienvenida La Vida](https://open.spotify.com/album/1yNGk7lIC7IjULWBaALDfc) | 3:13 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNJw9kXuSCt.md) - [plain]
 | 148 | [¿Cómo Me Ves?](https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:03 |
 | 149 | [Viviré \(Salmo 118\)](https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Viviré](https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW) | 4:08 |
 
-Snapshot ID: `MTY2NTUxNzE3NSwwMDAwMDAwMGQxMDA3YzA4M2U5MjAyYjE3MTRjYzk1MTgwMGUzYjFk`
+Snapshot ID: `MTY2NTUxNzE3NSwwMDAwMDAwMDVmZTk0ZGIwMGE2YmNlOTJiMjk5ZWU0N2I5NGM4Mjk1`

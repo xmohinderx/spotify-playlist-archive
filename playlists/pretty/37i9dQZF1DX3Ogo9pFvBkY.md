@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,395 likes - 310 songs - 15 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,416 likes - 310 songs - 15 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,7 +203,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 193 | [Beneath](https://open.spotify.com/track/1757oARz2SdORUSsihHuKo) | [Kamal Ra](https://open.spotify.com/artist/02ezikrBcYhPwhnqqkgc56) | [Beneath](https://open.spotify.com/album/20q3qgJ9BdF0Ik2XfQSjCF) | 2:32 |
 | 194 | [Rhea](https://open.spotify.com/track/5FEyBkwmsmhnUuyOOFzjSr) | [Malborg](https://open.spotify.com/artist/7mFRYrUyK197xg1wAB02EU) | [Orbital](https://open.spotify.com/album/6Ucppogbkw43FxZQs4dF3g) | 2:21 |
 | 195 | [retrospect](https://open.spotify.com/track/6uuZN0R5GocdsRO9RhB0Pn) | [Gino Ferrero](https://open.spotify.com/artist/5GmSwTvCucYQCZlQCVl60g) | [retrospect](https://open.spotify.com/album/0hS7eXiX1f172bpYrvw6c1) | 4:37 |
-| 196 | [We](https://open.spotify.com/track/3FOuN1yadRvFCiduq32Kvq) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [We \(Piano Version\)](https://open.spotify.com/album/4q1ZlNQcW9A7LXlHF8ohzb) | 2:35 |
+| 196 | [We](https://open.spotify.com/track/5tMwIq5wvUARN4NOuB2XLW) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [For Us Alone](https://open.spotify.com/album/5qLvjzYlOPBWcoGXH7bUSo) | 2:35 |
 | 197 | [Peace of Mind](https://open.spotify.com/track/0KKg1XFSet2uywfBf6BS6B) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Peace of Mind](https://open.spotify.com/album/58R9PTSSIpYohBQHqXwSFs) | 2:24 |
 | 198 | [weatherhead](https://open.spotify.com/track/12fSsvJUQANbRNvIn36Hvh) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [unwinded](https://open.spotify.com/album/3bIan6sYiCHNEzotGIdacX) | 3:43 |
 | 199 | [Austafjord](https://open.spotify.com/track/5I5p5yOVbTwGpJjD7q546j) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Austafjord / Lake Huron](https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa) | 4:28 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 309 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
 | 310 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
 
-Snapshot ID: `MTY2ODE2OTExOSwwMDAwMDAwMGJkZjNmMWMzMGZjZGUwZjViOTA4ZDI3YWEzN2Y0ZmFm`
+Snapshot ID: `MTY2ODE2OTExOSwwMDAwMDAwMDVjOTY1NzdkYTcwYmFkMWIwNjJmMWViZmUyYmNmNDAy`

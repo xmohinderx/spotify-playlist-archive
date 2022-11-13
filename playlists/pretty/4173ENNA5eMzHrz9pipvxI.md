@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Showtek x sonofsteve
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,523 likes - 29 songs - 1 hr 24 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,526 likes - 29 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 10 | [Spark Of Light](https://open.spotify.com/track/4Iy0bmPLIOglTSz47y6x0s) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [SQU4RE](https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb) | [Spark Of Light](https://open.spotify.com/album/1X45OgcaviF1Scc3U7ht6p) | 4:44 |
 | 11 | [I Won’t Need You](https://open.spotify.com/track/0w16BQtFsrTTesvoWO9zoj) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [I Won’t Need You](https://open.spotify.com/album/3e1DQ5tYkCUgCNe7b5mXTo) | 2:58 |
 | 12 | [Pieces](https://open.spotify.com/track/1bQeHzGMsZFQx9WRARaBJq) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Pieces](https://open.spotify.com/album/7pcxmOlHPAFeJEXJWF3ZqS) | 2:44 |
-| 13 | [Talk To Me](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 |
+| 13 | [Talk To Me \(with BRUX\)](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me \(with BRUX\)](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 |
 | 14 | [YOU \- Remix](https://open.spotify.com/track/0R9CSoQix3XaF5bI3LBzww) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [YOU \(Remix\)](https://open.spotify.com/album/4HKeYtrdKrNGP11feqUCOZ) | 2:42 |
 | 15 | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Can’t Change Me \(feat\. Raye\)](https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx) | 2:50 |
 | 16 | [Solar](https://open.spotify.com/track/66jq8nhahv1FDsFuXScI1P) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Episode 2](https://open.spotify.com/album/0LPqLp6YPN21OQ3M6lfi6j) | 3:19 |

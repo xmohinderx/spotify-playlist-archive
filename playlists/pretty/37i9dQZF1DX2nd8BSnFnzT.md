@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Capital Inicial
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,975 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,977 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 48 | [Complexo](https://open.spotify.com/track/2u3a7VO5uB9xQlycZj1FOh) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Simples Como Tem Que Ser](https://open.spotify.com/album/0WkYLnLlNroMfXDltInQJb) | 2:45 |
 | 49 | [Só Chamar](https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Só Chamar](https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96) | 2:58 |
 | 50 | [Madri](https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Madri](https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80) | 2:58 |
-| 51 | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/track/5OdYRGQRdN0ZtuD58yOett) | [lia suspira](https://open.spotify.com/artist/1dcS0XcfidYHAYJ5zGUMvr) | [Meu Quarto](https://open.spotify.com/album/4vsxLGhqhPDraVkE4HMGrq) | 2:41 |
+| 51 | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/track/6lgVeRqNEqBRsdQr8MKW7P) | [lia suspira](https://open.spotify.com/artist/1dcS0XcfidYHAYJ5zGUMvr) | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/album/0Q8jEA0Z3dJDJDIBbibA2Q) | 2:41 |
 | 52 | [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 |
 | 53 | [Navegador](https://open.spotify.com/track/4wFWxZHE1vosfLgLeACN1D) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Navegador](https://open.spotify.com/album/7q4llfL8SITrKE6vTzO463) | 2:53 |
 | 54 | [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Abuso de Poder](https://open.spotify.com/track/3D36cD2XCe20jJgUb7NgH6) | [Expressão Natural](https://open.spotify.com/artist/6juomSRQSBzAbY4zQARLcM) | [Abuso de Poder](https://open.spotify.com/album/2OaWVGoV0DUMOcvPLVy8V6) | 4:56 |
 | 75 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 |
 
-Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMDcwNTZiMTYxNzcwYTI5MTUzNzA4NGIzMmExMzJiNDky`
+Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMDc0NGIxZDAxZjE2ZmNiOTBlYTY1ZDliOTlhYzM4MjAw`

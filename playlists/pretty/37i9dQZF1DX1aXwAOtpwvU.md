@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:3gC2pjwYVTQdMuHUucgODF">NEL</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,128 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,134 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 6 | [Cztery Pory Roku](https://open.spotify.com/track/1Ie1oqzSIc7YVOG0Pa6qAI) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [CHOC](https://open.spotify.com/album/3Zaf7f6IaqIBUKufLFuwRb) | 3:05 |
 | 7 | [plany](https://open.spotify.com/track/0K5Cr8OvLVvhG87CsSjZsM) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [plany](https://open.spotify.com/album/0cxuO8WpinhRMKElDqUtfR) | 2:39 |
 | 8 | [Promil](https://open.spotify.com/track/2V11pbwkbgi3gj2tei1zl7) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Promil](https://open.spotify.com/album/1P0XxaPUVjqD9T8C7Km4qt) | 3:26 |
-| 9 | [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/6cSf2RDQlzZXd2Cdefnp7d) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [mam kogoś lepszego \(Skytech Remix\)](https://open.spotify.com/album/5Pm8jJBgEDWGcNqNe4bAWD) | 2:49 |
+| 9 | [mam kogoś lepszego \- Skytech Remix](https://open.spotify.com/track/5jrgxqv21VtnVURWPAWoaS) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [moja ciemność \(deluxe edition\)](https://open.spotify.com/album/5JDuoSUawI1hto3pkbvyVS) | 2:49 |
 | 10 | [Rossa](https://open.spotify.com/track/2eOAf2wRndC9cYZPfwdDtU) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Rossa](https://open.spotify.com/album/2hEQuIoHJYKqr5DRlktH2M) | 2:54 |
 | 11 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 |
 | 12 | [Met the God](https://open.spotify.com/track/2ZsDOLES3F0RdAKY4xC7tF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Power](https://open.spotify.com/album/05sLsId1SGFrPDJFf09rrS) | 2:58 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 44 | [Kokieterka](https://open.spotify.com/track/0yqCYvPXP2p6Uh9vKhkq7P) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Kokieterka](https://open.spotify.com/album/27kx8IlI2tZ5yu6UDx3DES) | 2:21 |
 | 45 | [Monochrom](https://open.spotify.com/track/2Nf7wnojAkwkyE4vNjGIZl) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Pętla](https://open.spotify.com/album/5XUJwC1TtVT7xm3Qjtev4I) | 3:21 |
 
-Snapshot ID: `MTY2Mzk1Njg0MCwwMDAwMDAwMGU4OTM2MWQ1MjA2OWU4YjhiYTQ5NmJkMDRmZDZlMmIx`
+Snapshot ID: `MTY2Mzk1Njg0MCwwMDAwMDAwMGU1N2JhZWU3MzI3ZGEwOTU5MTExNjE3YWY3ZDA1NGY4`

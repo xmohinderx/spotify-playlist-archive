@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 406303,
+  "num_followers": 406818,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMDJlMWQ3MTM0YTQ1OTNiNTVmNWI1ODlmMzdmMTczZjY1",
+  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMGI3MGY3YzRmZmIyM2M2MjAzMzQ1YjQ1OWYyNTdmMGYz",
   "tracks": [
     {
       "added_at": "2022-03-17 00:49:56",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "Gracias America Sin Fronteras",
         "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 203586,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Necesito M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Sentimientos De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Necesito M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Sentimientos De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -267,6 +283,42 @@
       "duration_ms": 235906,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Amor Plat\u00f3nico",
+      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -303,18 +355,34 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Amor Plat\u00f3nico",
-      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -335,38 +403,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Mi Complemento",
-        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201691,
-      "name": "Mi Complemento",
-      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -383,34 +419,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
       "artists": [
         {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+      "duration_ms": 172512,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -431,6 +455,70 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Mi Complemento",
+        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201691,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159059,
+      "name": "Una Pagina Mas",
+      "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 170093,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "El Tequilero",
         "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
       },
@@ -443,6 +531,54 @@
       "duration_ms": 190506,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 220682,
+      "name": "Nomas Por Tu Culpa",
+      "url": "https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -479,6 +615,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169769,
+      "name": "Una Lagrima y Un Recuerdo",
+      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "Tragos Amargos",
         "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
       },
@@ -495,8 +647,8 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "De Norte A Sur",
+        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
       "artists": [
         {
@@ -504,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 170093,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe"
+      "duration_ms": 209613,
+      "name": "Necesito Dec\u00edrtelo",
+      "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -527,22 +679,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -559,6 +695,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Chalino S\u00e1nchez Con Mariachi",
+        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "En Vivo Desde Monterrey",
         "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
       },
@@ -571,6 +723,22 @@
       "duration_ms": 211493,
       "name": "Que Me Lleve El Diablo - En Vivo",
       "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -623,50 +791,18 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+        "name": "15 Grandes Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f"
       },
       "artists": [
         {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+          "name": "La Migra",
+          "url": "https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "De Norte A Sur",
-        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "Necesito Dec\u00edrtelo",
-      "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Un Viejo Amor",
-      "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
+      "duration_ms": 255111,
+      "name": "Celos De Ti",
+      "url": "https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -687,6 +823,54 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Serie Diamante- 15 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/1zMXzVHd4GCImZciz4Qf1n"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/27OazZsnF6N1Hp75pCmBNI"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "El Amor Que Nunca Fue",
         "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
       },
@@ -699,6 +883,22 @@
       "duration_ms": 204360,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -735,22 +935,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Camino Equivocado",
-        "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "Avi\u00e9ntame",
-      "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Solo Lo Nuestro",
         "url": "https://open.spotify.com/album/2yo3ruhpe7BJHf5NTECIjM"
       },
@@ -763,6 +947,22 @@
       "duration_ms": 171826,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/3aumACX4YG7UB38T0q8hbN"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Camino Equivocado",
+        "url": "https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Avi\u00e9ntame",
+      "url": "https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -815,6 +1015,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 170973,
+      "name": "Abeja Re\u00edna",
+      "url": "https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "20 Exitos Historia Musical",
         "url": "https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv"
       },
@@ -831,18 +1047,18 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
       },
       "artists": [
         {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 170973,
-      "name": "Abeja Re\u00edna",
-      "url": "https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B"
+      "duration_ms": 172466,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -879,22 +1095,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/31gRnzSEtKgO8kLN7ZGUxz"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "15 exitazos",
         "url": "https://open.spotify.com/album/4sMQ7QkSpj49jqNBAoiAyp"
       },
@@ -907,6 +1107,22 @@
       "duration_ms": 179466,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/7KHGecUR5KX9hPLnsIdo8q"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2OU5N16ujMgsEehujn2eUe"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/6PyD9wjBeQB2pFZJl14KsM"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -927,38 +1143,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "20 Aniversario - Martes Trece",
-        "url": "https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz"
-      },
-      "artists": [
-        {
-          "name": "Los terribles Del Norte",
-          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Corrido De La Muerta",
-      "url": "https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Tu Delirio",
-      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -975,8 +1159,40 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Perdoname Mi Amor",
+        "url": "https://open.spotify.com/album/7hR5dQdzmaIMTwgpkyuo4n"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Actos De Un Tonto",
+      "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "20 Aniversario - Martes Trece",
+        "url": "https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz"
+      },
+      "artists": [
+        {
+          "name": "Los terribles Del Norte",
+          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Corrido De La Muerta",
+      "url": "https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Boleros 20\u00b0 Aniversario",
+        "url": "https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb"
       },
       "artists": [
         {
@@ -984,9 +1200,25 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Y A M\u00ed Que Me Qued\u00f3",
-      "url": "https://open.spotify.com/track/6JNVu4JLreFM9H8vVGi68j"
+      "duration_ms": 176200,
+      "name": "Respeta Mi Dolor",
+      "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Tu Delirio",
+      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1039,6 +1271,22 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/4QBymteCSzSkVSq1L4j1mf"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/1X3ZRD2RYJE4HWDP1V9dkJ"
       },
@@ -1051,6 +1299,54 @@
       "duration_ms": 186131,
       "name": "Me Ca\u00ed De La Nube",
       "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 141493,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "30 Primeros Exitos",
+        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamicos Del Norte",
+          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Alta Y Delgadita",
+      "url": "https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1135,50 +1431,18 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
       },
       "artists": [
         {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 158275,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "30 Primeros Exitos",
-        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamicos Del Norte",
-          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Alta Y Delgadita",
-      "url": "https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D"
+      "duration_ms": 149884,
+      "name": "Traficante De Besos",
+      "url": "https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1195,6 +1459,22 @@
       "duration_ms": 195226,
       "name": "Chiquilla cari\u00f1osa",
       "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 158275,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/2o1jz9qLpX8tRffAU5mQ3R"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1231,6 +1511,70 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 145449,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Leyendas Norte\u00f1as Para Recordar Y Cantar",
+        "url": "https://open.spotify.com/album/3ouTRX4uVJbl3f3OjiZg7h"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/1FR1LsDu5Azig2xGHqmqNZ"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/57NsYvdXi2MeYqiOEFID8D"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 145575,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -1243,54 +1587,6 @@
       "duration_ms": 147240,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Corridos de Dos Amigos",
-        "url": "https://open.spotify.com/album/14vSxHFO71f3miZt7YDSoR"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/5e98m8vjy4i8lH2t8Dlnye"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "20 Kilates Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/4q6xpf4uKlyAlWzcNLWOi0"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/7Hc3hwwlibECTIqf7CkVCA"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 146693,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1315,302 +1611,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Las Retro Chingonas",
-        "url": "https://open.spotify.com/album/4lYOAQavqEc198FSGiGbQe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 141493,
-      "name": "Arboles De La Barranca",
-      "url": "https://open.spotify.com/track/3RIBgjIFE4UXMGTASfEk1s"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "Mi Golondrina",
-      "url": "https://open.spotify.com/track/57NsYvdXi2MeYqiOEFID8D"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Boleros Para Dos",
-        "url": "https://open.spotify.com/album/2HtqY9Fu6O0r4LKRmUzUSb"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183419,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/0DMgHHCKdn8bDadZiudTK9"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "\u00cddolos Del Pac\u00edfico",
-        "url": "https://open.spotify.com/album/1ppvqBwuMGiDYowXVae3QX"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 172512,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/6eZUQobBPCmJ98C5xpP4Qd"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Nomas Por Tu Culpa",
-      "url": "https://open.spotify.com/track/3Ot2gF1xsHv5bV0FiebEBt"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Las Retro Chingonas",
-        "url": "https://open.spotify.com/album/5La6MZ2JRoXzclml34O8MJ"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140386,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/6KzEYqmtqCGDP4wPDz9SRU"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Joyas Musicales: Lo Norte\u00f1o De Joan Sebastian, Vol. 2",
-        "url": "https://open.spotify.com/album/1sIyMsWvkpfglZCvZcTYE9"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 149884,
-      "name": "Traficante De Besos",
-      "url": "https://open.spotify.com/track/2J3aNOkkjPMewxbxlVq2q7"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/5twgro3jrvQpyxexUwYG8F"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 227932,
-      "name": "Actos De Un Tonto",
-      "url": "https://open.spotify.com/track/6z9L4qOCpOcbUsX9Q6189z"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Recordando A Chalino",
-        "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/13tdKcX7limr3d5ydTnGzy"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Una Lagrima y un Recuerdo",
-        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Una Lagrima y un Recuerdo",
-      "url": "https://open.spotify.com/track/1MeNluJL3QMoCuyaMUIpww"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Leyendas Norte\u00f1as Para Recordar Y Cantar",
-        "url": "https://open.spotify.com/album/3ouTRX4uVJbl3f3OjiZg7h"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Flor De Capomo",
-      "url": "https://open.spotify.com/track/1FR1LsDu5Azig2xGHqmqNZ"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "GRUPERAS QUE TE ENAMORAN EL CORAZ\u00d3N",
-        "url": "https://open.spotify.com/album/3W4VGBM6h6qDln3BbP0kFw"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/3EDrB9gVZKLx7z7Pu32Kmz"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "10 Canonazos Musicales",
-        "url": "https://open.spotify.com/album/5RC75yFyzSR9IANeh8TcXP"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Migra",
-          "url": "https://open.spotify.com/artist/1eaHml08IuqyA3rOTPMfWQ"
-        }
-      ],
-      "duration_ms": 255613,
-      "name": "Celos De Ti",
-      "url": "https://open.spotify.com/track/1jRwHA9ZDDBsTNpFpVk9xr"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Norte\u00f1o Old School",
-        "url": "https://open.spotify.com/album/6V75aLNsd1kbat6TNt0kLb"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Te Quiero Mucho",
-      "url": "https://open.spotify.com/track/7GvUPWxIUCqrEt2eAZ15R6"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "\u00c9poca Dorada - 12 \u00c9xitos Originales",
-        "url": "https://open.spotify.com/album/5fkepTkkpKCjcGM5QCWVRM"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/36FbSb3gmnWEXR9QjnsraQ"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Frente A Frente: Norte\u00f1o",
-        "url": "https://open.spotify.com/album/4l83tQxNZnCbaWkBRwqbah"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 145575,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/7KafQWllLYdK1p2k6zrJRu"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Mariachi y Ranchero",
-        "url": "https://open.spotify.com/album/4TFLHs4qw13tXREgXXUvd3"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 139952,
-      "name": "Ven a Buscarme",
-      "url": "https://open.spotify.com/track/3JqyOdaOAovJbBrKc3suY7"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "\u00a1Hoy Se Bebe!",
-        "url": "https://open.spotify.com/album/2c0JRRBHtuAwpdCuI0dTAV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 145449,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/0owBTNOU3XXKhFi5SBIYUt"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Lo Mas Ranchero De...",
         "url": "https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3"
       },
@@ -1627,6 +1627,38 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Un Viejo Amor",
+      "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Y A M\u00ed Que Me Qued\u00f3",
+      "url": "https://open.spotify.com/track/6JNVu4JLreFM9H8vVGi68j"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
       },
@@ -1639,6 +1671,86 @@
       "duration_ms": 169920,
       "name": "Qu\u00e9 No Dar\u00eda",
       "url": "https://open.spotify.com/track/6zWWMgNPLMHokpH2gRzyeS"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "Ven a Buscarme",
+      "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 146693,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 145400,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Abriendo Caminos",
+        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -1723,54 +1835,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "30 Hits Norte\u00f1os: 30 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bTUJyBMuCE1gsYPxTHqyL"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/2sOmLIIzRrfIOeGl1NafqQ"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/2Ogvgywcku2jTB0DH8DK3J"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/69pwh3bHrBUHFUelgKP2kI"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Norte\u00f1o Del Viejito",
-        "url": "https://open.spotify.com/album/13qWR5nlTftrq6zB09rsa1"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/0pyjogBeO273JaJGxIz6rK"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Colecci\u00f3n Suprema",
         "url": "https://open.spotify.com/album/3NxCgx9wXQFB7uNa2JMGf6"
       },
@@ -1787,22 +1851,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Las Retro Chingonas",
-        "url": "https://open.spotify.com/album/22BwzipimLBtAGnrxqAq2H"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/0QHx8TZ5NfUxTKJDmPvCtj"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Sus Boleros De Oro",
         "url": "https://open.spotify.com/album/52vAOIUvsCV3sugdHSLNWm"
       },
@@ -1815,54 +1863,6 @@
       "duration_ms": 202517,
       "name": "Recu\u00e9rdame Y Ven A Mi",
       "url": "https://open.spotify.com/track/0WX7kZanIY68Vr9jb4FrVa"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Ayer, Hoy Y Siempre Con... Los Rieleros Del Norte",
-        "url": "https://open.spotify.com/album/1OIs7XIyN0VMTMGaXoUNzr"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/3NOdFP3WexaI0vGHJclm2d"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "El Carretonero",
-        "url": "https://open.spotify.com/album/1j746RZaEVvSR5t4NwxL5x"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/4C4YAtXuYVY3r07SP4CWYT"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "Una P\u00e1gina M\u00e1s",
-        "url": "https://open.spotify.com/album/4OgDDWQjUh9ms7dC4771rN"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 155100,
-      "name": "Una Pagina Mas",
-      "url": "https://open.spotify.com/track/0WPxkmPOzoLoHhDzboJghY"
     }
   ],
   "unique_name": "Cl\u00e1sicas Norte\u00f1as",

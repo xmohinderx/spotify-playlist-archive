@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: DRAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,577 likes - 115 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,281,919 likes - 115 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 62 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 63 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
 | 64 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 |
-| 65 | [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 |
+| 65 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 |
 | 66 | [Fallen](https://open.spotify.com/track/5hYaxGftxpX2ViqdQWgtN2) | [DREAMPOOL](https://open.spotify.com/artist/1ner6qUxcQA3x3mdqLGhwQ), [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm), [Leon King](https://open.spotify.com/artist/5F0WhfIf9hNizpdTTV8Y0o) | [Fallen](https://open.spotify.com/album/3d6H4ynqGzeqrB6FABHaIf) | 3:03 |
 | 67 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
 | 68 | [No Loot](https://open.spotify.com/track/5Xq1L2ILS866R5R6udOp3P) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/6GDRF8EqwmHYR7k5CxvNU4) | 2:43 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 114 | [Never Say](https://open.spotify.com/track/0MQUjsUL8dHWd0LcjwQrfF) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Never Say](https://open.spotify.com/album/1ekofqc5vqvoyA2zWVp1Is) | 2:59 |
 | 115 | [Let Me Go](https://open.spotify.com/track/5fbiUB75zbrp6EY44IalDK) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:45 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGY2YzFjOWVhODk0NTI3ZTYxNTAxOGQ1MTE2YTgyNzI0`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDMxMGRlMmY1NzIxNDA5NDdjODk0OGU5M2VjZDBlNDM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,863 likes - 70 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,891 likes - 70 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 53 | [MOONLIGHT](https://open.spotify.com/track/3R65jxrYZy7oRvmrBnox7J) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [MOONLIGHT](https://open.spotify.com/album/2awLWuhPKSgSJWrqSSWS1j) | 4:45 |
 | 54 | [Memories](https://open.spotify.com/track/20AYTqY5fkCDvNN1EJytyh) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/0AXZJQdtYuxOqn50svT1eB) | 4:19 |
 | 55 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 |
-| 56 | [Monthly Project 2020 June Yoon Jong Shin \- Summer, Anyway](https://open.spotify.com/track/1YJMHH9j5xCnaC0UAza07f) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 June Yoon Jong Shin \- Summer, Anyway](https://open.spotify.com/album/6bC0KXhZSgJFRKCLgEiCul) | 5:43 |
+| 56 | [Summer, Anyway](https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2020 Yoon Jong Shin](https://open.spotify.com/album/0aQdWBzoZP9MFmYW9N68FK) | 5:43 |
 | 57 | [Cinta Yang Baru](https://open.spotify.com/track/60B0QJiu537CpR271O0ael) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Cinta Yang Baru](https://open.spotify.com/album/4VY2hVNomWfL1TDgVCoVp8) | 3:37 |
 | 58 | [7942](https://open.spotify.com/track/0xzKYFkaAz6ghf4b5DFWNb) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/6fURT60sqPccrtfa0bhgpO) | 3:58 |
 | 59 | [Para Sa Bawat Tala](https://open.spotify.com/track/1XCAAVAfZQYnNymGIf87Ci) | [Rob & the Hitmen](https://open.spotify.com/artist/403zqZkXe0eu3LaDHRzXan) | [Offshore Music, Vol\. 1](https://open.spotify.com/album/26oMuuJGRoanfk3lyUOoHs) | 3:46 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 61 | [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 |
 | 62 | [โรคแอบชอบ](https://open.spotify.com/track/77yWW5kFvEnOknfGeKSl6I) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [Super Serious](https://open.spotify.com/album/4QCpZmpuRq2ulKKBeHxNfa) | 4:01 |
 | 63 | [Sungguh Terlalu](https://open.spotify.com/track/2ooOtbd0mJ27xhwwGCnnkb) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sungguh Terlalu](https://open.spotify.com/album/1TDcayS0iX7Ky7O0a6qvEs) | 4:17 |
-| 64 | [Sigurado](https://open.spotify.com/track/3T8yMLawoliJaN1hAGFFmv) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Sigurado](https://open.spotify.com/album/5bRwSxYckOjIw3oISF6MQk) | 5:39 |
+| 64 | [Sigurado](https://open.spotify.com/track/4XCFHies3PCuxqzGJaKsu6) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [U D D](https://open.spotify.com/album/1soFNLmLx08oNlhgBtQB5g) | 5:39 |
 | 65 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 |
 | 66 | [Venus 샛별](https://open.spotify.com/track/000j3FwREid2RIpm6nTLn9) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Venus 샛별](https://open.spotify.com/album/70zQXUoP3iBxwdGxTFM5ya) | 3:32 |
 | 67 | [Ultra Venus](https://open.spotify.com/track/0QhWeC7nAvAOyKNA279gRT) | [Disco Hue](https://open.spotify.com/artist/6k0tAEcYn1sa2M3EZhlEfw) | [The Yearbook](https://open.spotify.com/album/6Zqb6O4wNqSwUe6uR6Bdpo) | 3:20 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 69 | [City Hunter](https://open.spotify.com/track/3r7IlRaVffevh2JkhIF0Vj) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Amusement Park](https://open.spotify.com/album/25IDIVfQRGihHQswzbgfL0) | 4:12 |
 | 70 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 |
 
-Snapshot ID: `MTY2MTgzOTI4NSwwMDAwMDAwMDkyN2YyMDdkZjNjN2U2YjQ0NDUxMmYzY2FlY2QyNjMz`
+Snapshot ID: `MTY2MTgzOTI4NSwwMDAwMDAwMDRjNjNiMzhlYTkwNzQxOTM1YWQzOWI0ODRkY2QwNDEx`

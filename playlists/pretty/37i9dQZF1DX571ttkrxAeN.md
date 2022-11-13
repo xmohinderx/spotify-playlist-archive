@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,362 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,422 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 20 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
 | 21 | [Um Tanto](https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x) | [Suricato](https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC) | [Sol\-Te](https://open.spotify.com/album/3wk0JZQ0eTP1rpiAlMpuV6) | 3:37 |
 | 22 | [Amor De Mis Amores](https://open.spotify.com/track/3USQhrAZXtF69SsUKnB7IJ) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Amor De Mis Amores](https://open.spotify.com/album/1NVaAOjdIgJVjkpa7QCc1I) | 5:00 |
-| 23 | [Californie](https://open.spotify.com/track/2gfvJsAcp368zRMyolr3Th) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Californie \(Acoustique\)](https://open.spotify.com/album/0Qkbmi4iKDNuH5PDjZU4qj) | 3:25 |
+| 23 | [Californie](https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Blind](https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC) | 3:25 |
 | 24 | [Yimenda\-Papaguneray \(Turtle Song\)](https://open.spotify.com/track/4YzS8T2m9PI1suCJpiACRi) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:30 |
 | 25 | [Danza de Gardenias \(feat\. Los Macorinos\)](https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:23 |
 | 26 | [El Frío](https://open.spotify.com/track/3nkA77oKDQcxbz9QLQITwa) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Santa](https://open.spotify.com/album/7kcc8r4mutJi0jtptelGQK) | 4:02 |
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 54 | [Dich zu lieben ist einfach](https://open.spotify.com/track/6N9jA3Fzwag0D994lMOFrc) | [Gisbert Zu Knyphausen](https://open.spotify.com/artist/2tDVKS41XWT3vvy4A3ZbcV) | [Das Licht dieser Welt](https://open.spotify.com/album/7GwwU77hEG8FOuD4ODfq0P) | 3:33 |
 | 55 | [Pourquoi pas](https://open.spotify.com/track/5lv2YM2F1SktNuv3qwfkAJ) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Promeneur](https://open.spotify.com/album/7lqG5WwLOjyWOF6I8UcNPb) | 3:10 |
 | 56 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 |
-| 57 | [Hexágonos](https://open.spotify.com/track/0n4ptp22JDQUx9krANAmCJ) | [The Bright](https://open.spotify.com/artist/4hyy9Yw1ZxHW2WndWc92h8) | [Stereoparty Summer 2013](https://open.spotify.com/album/4UUnVJHVdvzBfXOXet5RyK) | 3:17 |
+| 57 | [Hexágonos](https://open.spotify.com/track/73bItd39rIZWxIQMAskCXS) | [The Bright](https://open.spotify.com/artist/4hyy9Yw1ZxHW2WndWc92h8) | [Estados](https://open.spotify.com/album/7z1lOolKHAuPV34Z2F2Pu4) | 3:17 |
 | 58 | [Sola](https://open.spotify.com/track/1eSAk6eLmRu7nGjyTx6T83) | [Lovely Luna](https://open.spotify.com/artist/2oiZAAYFPCML72PNdfZqSL) | [Las Cosas Que Nadie Debe Ver](https://open.spotify.com/album/35DW6GCuuzHDMxdEGmbcW7) | 3:17 |
 | 59 | [Half du temps](https://open.spotify.com/track/4b4uzzZAXHlAoEh1ZQ0Myb) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [La 4ième dimension \(Version Longue\)](https://open.spotify.com/album/5B8tJiqykn7ahWsA6gBM0M) | 4:55 |
 | 60 | [Si jamais j'oublie \- Sur la route Live 2015](https://open.spotify.com/track/1KkPVmfNmNND1vm5PhUv5R) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sur la route](https://open.spotify.com/album/2XjgaeNxdUvGMwggCTSLXn) | 3:28 |
-| 61 | [Luna Llena](https://open.spotify.com/track/74nL250MVJW7NtrpySAxT7) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Luna Llena](https://open.spotify.com/album/5rFme5RIAGPcFm36feh5Mo) | 3:14 |
+| 61 | [Luna Llena](https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 3:07 |
 | 62 | [Ja må du leva \- Akustisk version](https://open.spotify.com/track/1Bh4HmorrjRSTAMgyHTkL5) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Ja må du leva \(Akustisk version\)](https://open.spotify.com/album/0frL0AdL5jK1RisL0nCObh) | 3:32 |
 | 63 | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/track/7o3FCfwainpUiPMF4wyGdP) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vi lovar \(Besvärjelse\)](https://open.spotify.com/album/51wjspTv8Bw7qy3AmgljWI) | 4:10 |
 | 64 | [Je t'emmènerai](https://open.spotify.com/track/0e1tpQ8A7L2BTRpXXs8znZ) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Willows](https://open.spotify.com/album/276kwfvHvCeNJYHGhcx7jj) | 3:47 |
 | 65 | [Les ombres](https://open.spotify.com/track/7Dpg3EFj6JmLK0zym1n3ox) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/2pr0ED2cGHRLw4SuGemHt1) | 3:49 |
 | 66 | [Eden \- Acoustic](https://open.spotify.com/track/5YLIsfWdeV6Yado1tVAKZZ) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 4:09 |
 | 67 | [Babi'r Eirlys \- Live](https://open.spotify.com/track/4ErU8orOXurNZWpHjSs3Xn) | [9bach](https://open.spotify.com/artist/2NIcUSfuUPORqM5CaXZlIO) | [The Mark Radcliffe Folk Sessions: 9bach](https://open.spotify.com/album/3f4R2egQrunK3KCF9W1Gz4) | 3:02 |
-| 68 | [Voce piccolina](https://open.spotify.com/track/25Z9SXq4u07bbwzlUmOTlz) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/0nRwkAQQdM7xmVDisTIHWY) | 1:43 |
+| 68 | [Voce piccolina](https://open.spotify.com/track/0AOcRnBwUbxziFJBUNx1ii) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [L'amore non è bello](https://open.spotify.com/album/322waMAUtD8oVnHqqp78D1) | 1:43 |
 | 69 | [Paistin Fionn](https://open.spotify.com/track/7pFgfFCjCnUBaXxRDXNp9x) | [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv), [Cormac De Barra](https://open.spotify.com/artist/7CU8rPAwRweVDFew1KHl9L) | [Timeless](https://open.spotify.com/album/6OgHHzJmrZUtZ6I6wT43sR) | 3:28 |
 | 70 | [Lei, Lui, Firenze](https://open.spotify.com/track/7CW5af6NMMuPVuNcWY1a9v) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Vol\. 2 \- Poveri Cristi](https://open.spotify.com/album/6o0SQJf2diRJ02V4Vx1lyh) | 4:20 |
 | 71 | [Me Quiero Enamorar](https://open.spotify.com/track/6NLRl5GwqFQ4JorXChVSZS) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [¿Con Quién Se Queda El Perro? \(Deluxe\)](https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH) | 3:58 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 77 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
 | 78 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
 
-Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMDZmNjBiODg4M2U3M2U2M2VhZjA2OWFkMzE1MTZiMWEx`
+Snapshot ID: `MTY2NDIwNDI4OSwwMDAwMDAwMDgzZGRlYWU3ZjRmNWU5MTZiMGFmODI1YTkxYmEzZWZi`

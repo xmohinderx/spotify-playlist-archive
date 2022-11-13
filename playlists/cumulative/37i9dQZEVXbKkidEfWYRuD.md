@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-892 songs - 1 day 17 hr 35 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+893 songs - 1 day 17 hr 37 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [JUICY](https://open.spotify.com/track/5AWvgGBQJQdOdkdZbGOjBk) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:00 | 2021-11-21 | 2021-11-22 |
 | [Jungle \- Radio Edit](https://open.spotify.com/track/7CIcArZw3IdxTBWuXY484Q) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/4Nm8yihvHXmJprYGLKl8ip) | 3:23 | 2022-01-08 | 2022-01-15 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-02 |
+| [Kalabanya](https://open.spotify.com/track/0vYBkUWaR8o2t29h1UmpwU) | [Clonnex](https://open.spotify.com/artist/3NOlXM7t15vx8M9hwmQc9L) | [Kalabanya](https://open.spotify.com/album/2zsO6RKna9YZyeLzT74QQk) | 2:05 | 2022-11-12 |  |
 | [KARI](https://open.spotify.com/track/5qhdXxsc1l7hQHOc1aZaGn) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [KARI](https://open.spotify.com/album/1Usgj4vnlf5iebjmzzRQJ7) | 3:14 | 2021-03-27\* | 2021-09-12 |
 | [KATRINA](https://open.spotify.com/track/1ju0sNZroZmC68r9h0Z8vD) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:57 | 2022-10-22 | 2022-10-25 |
 | [Kebab Boy](https://open.spotify.com/track/5i146wcbKkhP0ywZHQb7al) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [Kebab Boy](https://open.spotify.com/album/0VmsQtKKe253zHPiRb3CY9) | 2:00 | 2021-08-04 | 2021-08-15 |
@@ -396,7 +397,7 @@
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
 | [TATI](https://open.spotify.com/track/3xKWM5dvoqXcCPrghBr5Dy) | [TATISIZE](https://open.spotify.com/artist/1JDkncKy2PhDTSm94reZs5), [PASHASNICKERS](https://open.spotify.com/artist/375ZBelFB6HSNhP4DGyrcO) | [TATI](https://open.spotify.com/album/6m9HhHjjrqJRQB1PFY6M4b) | 1:44 | 2022-10-19 | 2022-10-23 |
 | [TATU](https://open.spotify.com/track/6ZlZ3uBMRyM4cmj0AVcfwc) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 2:22 | 2022-10-22 | 2022-11-04 |
-| [TEASER](https://open.spotify.com/track/1imDwppkVEsjqrAFQiyqen) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 3:03 | 2022-10-22 |  |
+| [TEASER](https://open.spotify.com/track/1imDwppkVEsjqrAFQiyqen) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [LAST ONE](https://open.spotify.com/album/3Mp2TOTZpTGvU1cExaHs7w) | 3:03 | 2022-10-22 | 2022-11-13 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-04-07 | 2021-04-09 |
 | [That White](https://open.spotify.com/track/3n4kOc46bJi0jOnqvKfr0V) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [First Day Out](https://open.spotify.com/album/6srx0ovFsTWryJbcpOIodY) | 3:07 | 2022-07-02 | 2022-07-09 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-05 |

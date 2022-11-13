@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,286 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,301 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 31 | [livin wild](https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:22 |
 | 32 | [1738](https://open.spotify.com/track/7aRzjArjQYjlXj13jfSIlX) | [Lil Donald](https://open.spotify.com/artist/73E6GkhXR5Zzj2zbdIWnfm) | [Heart Detox](https://open.spotify.com/album/37XrhZXV5g8xisXJRA0gbS) | 2:56 |
 | 33 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
-| 34 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 |
+| 34 | [Tell Me Bout It](https://open.spotify.com/track/6AdAJuFBH2ajKzSuHtJSvS) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Blinded By Death](https://open.spotify.com/album/3Un78pExYVA9yCeDEKVhu3) | 2:56 |
 | 35 | [Real Shit \(feat\. Morray\)](https://open.spotify.com/track/5XWcUsn2AmuLvPMwdXGecw) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 3:19 |
 | 36 | [Ticket](https://open.spotify.com/track/65RuMTQsaooIJInitg18O4) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Ticket](https://open.spotify.com/album/6hCPmcflDrWUkT8j2gFd3p) | 3:10 |
 | 37 | [Strong \(EST Gee, Moneybagg Yo\)](https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 50 | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:36 |
 | 51 | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT) | 2:55 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDJmMGU5ODgzOGZiNTAwY2FlODhlMmQ2ZDhjZjEzM2Iz`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDlmNzU1MDkwZmYxNjgwOTA3M2MwYmI1YzQxMTZmZjgz`

@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with the golden age of pop punk.",
-  "num_followers": 2124764,
+  "num_followers": 2125047,
   "original_name": "Pop Punk Powerhouses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMDJhZWViYjc3NmRiNjIwYmJkNmU3ZjQ5Zjg1ZmE0ZWYx",
+  "snapshot_id": "MTY2MzAxMDUwNywwMDAwMDAwMGE4ZWQ1NjVmMTQ4MTk4ZGMyMTc2MGJhNWU0YzNkYTdj",
   "tracks": [
     {
       "added_at": "2022-09-12 19:21:47",
@@ -27,8 +27,8 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
-        "name": "00s Rock",
-        "url": "https://open.spotify.com/album/6r4f5B7hDTYwRKR6qGo6qo"
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
       "artists": [
         {
@@ -38,7 +38,7 @@
       ],
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/6XGKRPv9lpCyIVeibTytDi"
+      "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -55,6 +55,22 @@
       "duration_ms": 181533,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -107,6 +123,22 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
         "name": "Don't You Fake It",
         "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
       },
@@ -119,38 +151,6 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 186634,
-      "name": "I Write Sins Not Tragedies",
-      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -183,6 +183,54 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "I Write Sins Not Tragedies",
+      "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -267,6 +315,22 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
+        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "I'm Just a Kid",
+      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -283,22 +347,6 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
@@ -311,6 +359,22 @@
       "duration_ms": 193653,
       "name": "Dirty Little Secret",
       "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -343,6 +407,22 @@
       "duration_ms": 190173,
       "name": "Lifestyles of the Rich & Famous",
       "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -407,6 +487,54 @@
       "duration_ms": 165373,
       "name": "Dammit",
       "url": "https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Sweetness",
+      "url": "https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "The All-American Rejects",
+        "url": "https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Swing, Swing",
+      "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Tell All Your Friends (Remastered)",
+        "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 212937,
+      "name": "Cute Without The 'E' (Cut From The Team) - Remastered",
+      "url": "https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -491,6 +619,22 @@
     {
       "added_at": "2022-09-12 19:21:47",
       "album": {
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "My Friends Over You",
+      "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -519,6 +663,38 @@
       "duration_ms": 188840,
       "name": "Flavor Of The Weak",
       "url": "https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/2OMqSRS11ly56zg9u5za6c"
+    },
+    {
+      "added_at": "2022-09-12 19:21:47",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
     },
     {
       "added_at": "2022-09-12 19:21:47",
@@ -631,182 +807,6 @@
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "Ruby Soho",
-      "url": "https://open.spotify.com/track/1pNlZQeoPnlxqf1Mjgm0H2"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130266,
-      "name": "Linoleum",
-      "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "All My Best Friends Are Metalheads",
-      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "How I Spent My Summer Vacation",
-        "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
-      },
-      "artists": [
-        {
-          "name": "The Bouncing Souls",
-          "url": "https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV"
-        }
-      ],
-      "duration_ms": 150293,
-      "name": "True Believers",
-      "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Sound System - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Don't Turn Away",
-        "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 311106,
-      "name": "Welcome to the Black Parade",
-      "url": "https://open.spotify.com/track/7dN52YlyGl6c9tmxdv6zMp"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Hitler Bad, Vandals Good",
-        "url": "https://open.spotify.com/album/1VDzkX1kHYOhlnHWQjqy05"
-      },
-      "artists": [
-        {
-          "name": "The Vandals",
-          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "My Girlfriend's Dead",
-      "url": "https://open.spotify.com/track/2JzI278tX8YUCelGMZjPO8"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 153426,
-      "name": "Don't Call Me White",
-      "url": "https://open.spotify.com/track/0cntShbC3GmWXygfH98brk"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Everything Sucks",
-        "url": "https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "I'm The One",
-      "url": "https://open.spotify.com/track/5XXiK8GZjjmCHpBpUEm9z5"
-    },
-    {
-      "added_at": "2022-09-12 19:21:47",
-      "album": {
-        "name": "Destruction By Definition",
-        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "New Girl",
-      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
     }
   ],
   "unique_name": "Pop Punk Powerhouses",

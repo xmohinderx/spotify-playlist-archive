@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,097 likes - 76 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,180 likes - 76 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 64 | [RED](https://open.spotify.com/track/7Kq8I68J8fJkQEEZwfrK18) | [Blake and Miles](https://open.spotify.com/artist/1vq0ZWY33ZutMpMbQSxAEv) | [RED](https://open.spotify.com/album/05ce3g0KL8Q9zWFBHBvhx0) | 2:38 |
 | 65 | [rewind](https://open.spotify.com/track/66orvVes79w0dZao9ZIw97) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY), [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [rewind](https://open.spotify.com/album/1bHhbJVvzqeKTKNEK2aU8T) | 2:20 |
 | 66 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:26 |
-| 67 | [Sober](https://open.spotify.com/track/2btSEZQYeD2NSiK6JXvFEr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/6pARE4D96LSb7HbXp2xjfY) | 4:12 |
+| 67 | [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 |
 | 68 | [Live Fast Die Numb](https://open.spotify.com/track/10omO03JNpJwhjo538gdNc) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Live Fast Die Numb](https://open.spotify.com/album/5B9ZNrfIASmrJOrf7AyLaH) | 2:14 |
 | 69 | [I Literally Never Think About You](https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [I Literally Never Think About You](https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX) | 2:55 |
 | 70 | [Alley\-Oop](https://open.spotify.com/track/00lroakMBzkEPKCt2eNfrf) | [Dazy Chain](https://open.spotify.com/artist/2gHF2JSNXKMMTfF1mQxEK9), [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Alley\-Oop](https://open.spotify.com/album/0OJLq8CREfpFv87oUACfF4) | 2:48 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 75 | [Trap \(feat\. Lil Baby\)](https://open.spotify.com/track/2Y8hY4rRRQQjdaZkkwzpd9) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:04 |
 | 76 | [DITTO](https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:30 |
 
-Snapshot ID: `MTY2ODE4NDgwMywwMDAwMDAwMGVjNThhY2U2ZTQ2MTM5NDVlOGU3ZTZlY2NhNTk5N2Rh`
+Snapshot ID: `MTY2ODE4NDgwMywwMDAwMDAwMDM5OWIwNDhjM2YyZmM5ZjVlNGE1NjNmZmJjNmYzMzI2`

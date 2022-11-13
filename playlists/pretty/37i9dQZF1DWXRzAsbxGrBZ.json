@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 2516,
+  "num_followers": 2548,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExNzU0MCwwMDAwMDAwMGVjN2E0OGE0M2I0OWQzYjc2MGVlMjQ3OTY4ZTc0MjY3",
+  "snapshot_id": "MTY2ODExNzU0MCwwMDAwMDAwMDE0MmMxZmQ0MWMyODU0ZjYxYTI1YmM3NjViNDEzMjBj",
   "tracks": [
     {
       "added_at": "2022-11-10 21:59:00",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/3olGCkuKopIHUxulYAVPJN"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "False Facade",
-        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
-      },
-      "artists": [
-        {
-          "name": "DRMZ",
-          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
-        }
-      ],
-      "duration_ms": 416688,
-      "name": "False Facade",
-      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "Back 2 Basics",
@@ -203,6 +187,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "False Facade",
+        "url": "https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs"
+      },
+      "artists": [
+        {
+          "name": "DRMZ",
+          "url": "https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ"
+        }
+      ],
+      "duration_ms": 416688,
+      "name": "False Facade",
+      "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "Thief In The Night",
         "url": "https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b"
       },
@@ -219,26 +219,6 @@
       "duration_ms": 375120,
       "name": "S'khanyisele",
       "url": "https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Back To Front EP",
-        "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J"
-        }
-      ],
-      "duration_ms": 494359,
-      "name": "Lesedi",
-      "url": "https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -263,6 +243,26 @@
       "duration_ms": 273684,
       "name": "Sweet Nothings - Original Mix",
       "url": "https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Back To Front EP",
+        "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J"
+        }
+      ],
+      "duration_ms": 494359,
+      "name": "Lesedi",
+      "url": "https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "I Am Jazz",
-        "url": "https://open.spotify.com/album/3bOVZH59ci3eirfilRKttV"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
-        }
-      ],
-      "duration_ms": 409994,
-      "name": "I Am Jazz",
-      "url": "https://open.spotify.com/track/0iam8JxU55c7nJ2HKk0KxF"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
         "name": "Day Dream",
         "url": "https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 373592,
       "name": "HER",
       "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "I Am Jazz",
+        "url": "https://open.spotify.com/album/3bOVZH59ci3eirfilRKttV"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        }
+      ],
+      "duration_ms": 409994,
+      "name": "I Am Jazz",
+      "url": "https://open.spotify.com/track/0iam8JxU55c7nJ2HKk0KxF"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Forever (TekniQ Remixes)",
         "url": "https://open.spotify.com/album/5RjTdCcb2ECdmVTRmv3WN3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 355766,
       "name": "Forever - TekniQ Soulful Mix",
       "url": "https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN"
-      },
-      "artists": [
-        {
-          "name": "Rishi Love",
-          "url": "https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV"
-        }
-      ],
-      "duration_ms": 334426,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "New Beginning EP",
         "url": "https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 402788,
       "name": "Eternal Existence - Original Mix",
       "url": "https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Revolver, Vol. 3 (Compiled)",
+        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
+      },
+      "artists": [
+        {
+          "name": "STI T's Soul",
+          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
+        }
+      ],
+      "duration_ms": 419010,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Revolver, Vol. 3 (Compiled)",
-        "url": "https://open.spotify.com/album/2pbdhETHPvZOF5OlJhcQd6"
-      },
-      "artists": [
-        {
-          "name": "STI T's Soul",
-          "url": "https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2"
-        }
-      ],
-      "duration_ms": 419010,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "BAUHAUS",
         "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
@@ -839,18 +823,38 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "I Rise Again",
-        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN"
       },
       "artists": [
         {
-          "name": "Zico SA",
-          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
+          "name": "Rishi Love",
+          "url": "https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV"
         }
       ],
-      "duration_ms": 556673,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
+      "duration_ms": 334426,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Multiverse Theory",
+        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+      },
+      "artists": [
+        {
+          "name": "Devine Maestro",
+          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
+        },
+        {
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+        }
+      ],
+      "duration_ms": 374257,
+      "name": "Multiverse Theory",
+      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -879,22 +883,18 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Multiverse Theory",
-        "url": "https://open.spotify.com/album/6LpiQbvd6KrJ6i6GKLHNG7"
+        "name": "I Rise Again",
+        "url": "https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg"
       },
       "artists": [
         {
-          "name": "Devine Maestro",
-          "url": "https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg"
-        },
-        {
-          "name": "Ottis Blake",
-          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
+          "name": "Zico SA",
+          "url": "https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc"
         }
       ],
-      "duration_ms": 374257,
-      "name": "Multiverse Theory",
-      "url": "https://open.spotify.com/track/1tabH7lGvhTsrP2syfQXdU"
+      "duration_ms": 556673,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Something For Closure",
+        "url": "https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf"
+      },
+      "artists": [
+        {
+          "name": "Roque",
+          "url": "https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ"
+        }
+      ],
+      "duration_ms": 411481,
+      "name": "Something For Closure",
+      "url": "https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "Ndoyiswe",
         "url": "https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 325593,
       "name": "Ndoyiswe",
       "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Something For Closure",
-        "url": "https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf"
-      },
-      "artists": [
-        {
-          "name": "Roque",
-          "url": "https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ"
-        }
-      ],
-      "duration_ms": 411481,
-      "name": "Something For Closure",
-      "url": "https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR"
     },
     {
       "added_at": "2022-09-14 09:57:38",

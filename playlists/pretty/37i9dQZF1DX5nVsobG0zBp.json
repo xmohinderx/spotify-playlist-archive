@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 33763,
+  "num_followers": 33807,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5ODQ3MSwwMDAwMDAwMDI5MjI4NTY1N2IwNTU0ZTc4OWRlMzMxMDYxYTJiNmU4",
+  "snapshot_id": "MTY2ODA5ODQ3MSwwMDAwMDAwMGEzZThlMTk5N2UyZWQ1OTNiNTU0OGRjOThlMWIwNmI3",
   "tracks": [
     {
       "added_at": "2022-10-27 23:00:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
     },
     {
-      "added_at": "2022-11-12 05:23:41",
+      "added_at": "2022-11-13 01:35:38",
       "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
@@ -839,6 +839,38 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
+        "name": "Mo Money Mo Problems",
+        "url": "https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap"
+      },
+      "artists": [
+        {
+          "name": "mishlawi",
+          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
+        }
+      ],
+      "duration_ms": 158555,
+      "name": "Mo Money Mo Problems",
+      "url": "https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
         "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
         "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
       },
@@ -863,38 +895,6 @@
       "duration_ms": 209882,
       "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
       "url": "https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "Mo Money Mo Problems",
-        "url": "https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap"
-      },
-      "artists": [
-        {
-          "name": "mishlawi",
-          "url": "https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF"
-        }
-      ],
-      "duration_ms": 158555,
-      "name": "Mo Money Mo Problems",
-      "url": "https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd"
     },
     {
       "added_at": "2022-10-27 23:00:00",

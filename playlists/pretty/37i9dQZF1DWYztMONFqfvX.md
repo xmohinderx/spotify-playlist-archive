@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,798 likes - 81 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,400 likes - 81 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 66 | [First Class](https://open.spotify.com/track/7s0qlp1ibUxVXLsOM0YWia) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63jrLuBlHcMN7MUbjbJ4LI) | 4:36 |
 | 67 | [Bulleya \(From "Ae Dil Hai Mushkil"\) \- Reprise](https://open.spotify.com/track/6BF9qGTbwHweKyit2gEtsa) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Yours Truly Arijit](https://open.spotify.com/album/3tzrtZvTODgW7tDew5E7nb) | 5:48 |
 | 68 | [Tera Fitoor](https://open.spotify.com/track/1YMLgvsQdE27r30q0fsLeV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Genius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RtFFza4brQXoNSv19g1ps) | 5:10 |
-| 69 | [Tere Hoke Rehengay](https://open.spotify.com/track/2ywBU12d5BEkiOOEDVrBgy) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Raja Natwarlal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fu9KREc6SHMJuA7gHNfKg) | 4:03 |
+| 69 | [Tere Ho Ke Rahenge \(From "Raja Natwarlal"\)](https://open.spotify.com/track/2ORutu6EpRb3FiM1VPwDaO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Arijit Singh \- Stream This Album](https://open.spotify.com/album/35MBXcVOt0eTCQfhQadFHA) | 4:03 |
 | 70 | [Mareez \- E \- Ishq \(From "Zid"\)](https://open.spotify.com/track/6o027l399OQ5IadRrsRb31) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yours Truly Arijit](https://open.spotify.com/album/3tzrtZvTODgW7tDew5E7nb) | 4:53 |
 | 71 | [Shaayraana](https://open.spotify.com/track/0072MKNpMeJNx8aRfTNfQW) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Holiday \- A Soldier Is Never Off Duty \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/304IxOzUBDjh3MCoYNZ0o8) | 4:21 |
 | 72 | [Phir Le Aya Dil \- Reprise](https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 80 | [Saawali Si Raat](https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:08 |
 | 81 | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/4BH3FzJwNvjDpL8J78NMYM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Safar \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/3dBqhNT7SK4Er8MXsBu1JI) | 6:05 |
 
-Snapshot ID: `MTY1OTk1MTY5NywwMDAwMDAwMGQ5YzA2YzMzNmZkOTI0ZjFjMzliNjU2ZmJhOThjYTUy`
+Snapshot ID: `MTY1OTk1MTY5NywwMDAwMDAwMDhhYzA1M2ZhZDIxY2Q2MGI1ZTYyYTE2MzE4M2VjYzIx`

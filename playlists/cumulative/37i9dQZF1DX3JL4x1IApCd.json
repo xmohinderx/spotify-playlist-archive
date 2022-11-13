@@ -897,6 +897,28 @@
     {
       "album": {
         "name": "Foto Moto",
+        "url": "https://open.spotify.com/album/4qVUxFALYtE0ZfgYLN3gAQ"
+      },
+      "artists": [
+        {
+          "name": "Benzema",
+          "url": "https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK"
+        },
+        {
+          "name": "Noti Flow",
+          "url": "https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186131,
+      "name": "Foto Moto",
+      "url": "https://open.spotify.com/track/2IiGcYQ1bRUn8UcAK7WbUm"
+    },
+    {
+      "album": {
+        "name": "Foto Moto",
         "url": "https://open.spotify.com/album/0sayyyOPVYVrpAJAdOzr7c"
       },
       "artists": [
@@ -933,7 +955,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 186998,
       "name": "Foto Moto",
       "url": "https://open.spotify.com/track/66Om7zMk7oNblL8bfVRR1N"
@@ -1705,7 +1727,7 @@
     {
       "album": {
         "name": "Namba Za Mapedi",
-        "url": "https://open.spotify.com/album/4nWkTCb0wWfy7l0mS43KOb"
+        "url": "https://open.spotify.com/album/5W4w7ytUanJFDAk4jvRZk8"
       },
       "artists": [
         {
@@ -1724,6 +1746,32 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 235682,
+      "name": "Namba Za Mapedi",
+      "url": "https://open.spotify.com/track/3WEaZxEElW4PRS46Snl1MR"
+    },
+    {
+      "album": {
+        "name": "Namba Za Mapedi",
+        "url": "https://open.spotify.com/album/4nWkTCb0wWfy7l0mS43KOb"
+      },
+      "artists": [
+        {
+          "name": "Addi Chokoch",
+          "url": "https://open.spotify.com/artist/1dAM5bKDDnFOOyyWtYwyaK"
+        },
+        {
+          "name": "Just Imagine Africa",
+          "url": "https://open.spotify.com/artist/7Hj4fp6xZpeyIonGrzxBjR"
+        },
+        {
+          "name": "Masagara",
+          "url": "https://open.spotify.com/artist/4rQP4e7SWPYlO2mHEMwpLj"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
       "duration_ms": 235682,
       "name": "Namba Za Mapedi",
       "url": "https://open.spotify.com/track/5tY8h0DU07jBU1sSgd3W8C"
@@ -2805,10 +2853,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 200071,
       "name": "Wanjiku",
       "url": "https://open.spotify.com/track/4819QLup73h2I67E1YWnX6"
+    },
+    {
+      "album": {
+        "name": "Wanjiku",
+        "url": "https://open.spotify.com/album/4uaLFG8C42bLNmyRwQ1lct"
+      },
+      "artists": [
+        {
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200071,
+      "name": "Wanjiku",
+      "url": "https://open.spotify.com/track/5yB36B5ADfzsVHc3ceQsc7"
     },
     {
       "album": {

@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 189093,
       "name": "Back Down to Earth",
       "url": "https://open.spotify.com/track/6yrxGhTAmFttyujYsfRHIL"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "Clair",
       "url": "https://open.spotify.com/track/1lYJDRaadnotdfcZFp5Izd"
@@ -437,10 +437,28 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 187400,
       "name": "Dirty Work",
       "url": "https://open.spotify.com/track/40pSbLZXEy07Yy1yPO9U9B"
+    },
+    {
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2021-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190065,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
     },
     {
       "album": {
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 257839,
       "name": "He Ain't Heavy, He's My Brother",
       "url": "https://open.spotify.com/track/41iPmvB2ogl3dzEHw9EZh0"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 255680,
       "name": "I Found a Reason - 2015 Remaster",
       "url": "https://open.spotify.com/track/3AFImoxgt7EmXHgpaGLbLt"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - 2011 Remaster",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 184533,
       "name": "My Own Space",
       "url": "https://open.spotify.com/track/6trxmIB7QC2eQqWMMLgFrJ"
@@ -1785,6 +1803,24 @@
     {
       "album": {
         "name": "Slowhand 35th Anniversary",
+        "url": "https://open.spotify.com/album/2c0bqDdHYpcyd8eQp55tbO"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288693,
+      "name": "Peaches And Diesel",
+      "url": "https://open.spotify.com/track/1Ahz461HRMTb87MMGT8AUY"
+    },
+    {
+      "album": {
+        "name": "Slowhand 35th Anniversary",
         "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
       },
       "artists": [
@@ -1831,7 +1867,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 284133,
       "name": "Pieces Of Eight",
       "url": "https://open.spotify.com/track/7EWoyfv1zbF9UufIMLrepX"
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
@@ -2299,7 +2335,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 200053,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3L6bCxrwKe1qnsqFzssR4R"
@@ -2335,7 +2371,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 201022,
       "name": "Strangers - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/1LH9QyMF3YIqYRoVsoXihB"
@@ -2605,7 +2641,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 375000,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/6fKBv1AMKwLbiEghJMOmTM"
@@ -2623,7 +2659,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
@@ -2821,7 +2857,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 200560,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
@@ -2839,7 +2875,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 200573,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/7JS7F316cTGvEeiRUzsBfJ"
@@ -2875,7 +2911,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 347253,
       "name": "With A Little Luck",
       "url": "https://open.spotify.com/track/4e7HJXoesmfRboLc3pYGTS"
@@ -2893,7 +2929,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 344773,
       "name": "With A Little Luck - Remastered 1993",
       "url": "https://open.spotify.com/track/0wLpW3AwfNicWHef8joJLb"
@@ -2947,7 +2983,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
@@ -2965,7 +3001,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 219400,
       "name": "Wonderful Tonight - 2005 Remaster",
       "url": "https://open.spotify.com/track/6is9a0Snbxcsef7xQqZQrQ"
@@ -3001,7 +3037,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 230720,
       "name": "You Put Something Better Inside Me",
       "url": "https://open.spotify.com/track/5UGRLxnCVrmG3v1l6krW6V"
@@ -3037,7 +3073,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 268706,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/6KJdMPQ3e0QyXgg6J9WFhH"
@@ -3055,7 +3091,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 268866,
       "name": "You've Got a Friend - 2019 Remaster",
       "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"

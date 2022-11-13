@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from GloRilla, Drake, 21 Savage, NLE Choppa, Masego, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,407 likes - 126 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,464 likes - 126 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 35 | [911](https://open.spotify.com/track/3ioGmqHGRydJELZUyvF3Gg) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [911](https://open.spotify.com/album/7xEXLvt7xAw77JmuFNkfGb) | 2:44 |
 | 36 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 |
 | 37 | [Compare \- A COLORS SHOW](https://open.spotify.com/track/1jCk2UYGvtpxtkyhTRbKgF) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Compare \- A COLORS SHOW](https://open.spotify.com/album/0o2fniizJPNWTYr4ilWA46) | 2:16 |
-| 38 | [Team Teen](https://open.spotify.com/track/4UMfVVcBr9gPIFhMHcHRTS) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Outsiders](https://open.spotify.com/album/2kAsq4FAOms6921BVXIAIx) | 2:13 |
+| 38 | [Team Teen](https://open.spotify.com/track/3SSJ7lWFkeg2Q2hi8LNkO5) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Outsiders](https://open.spotify.com/album/4jB5FuS7nGavFwYu23XNTk) | 2:13 |
 | 39 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 |
 | 40 | [Broke](https://open.spotify.com/track/4PuK5qsM9yF2x4MhM5sjkT) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l), [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Broke](https://open.spotify.com/album/0xZKaOjDHI0Kx3IfS2eb0M) | 2:59 |
 | 41 | [Friend Zone](https://open.spotify.com/track/0oeUZMYfI06i4OXVUXBJwv) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Closer \(Deluxe\)](https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj) | 3:41 |
-| 42 | [Crazy For Me](https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u) | 2:14 |
+| 42 | [Crazy For Me](https://open.spotify.com/track/4OqgkBBSULrKnIeQQAxU9i) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:14 |
 | 43 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 |
 | 44 | [They Want It, But No](https://open.spotify.com/track/0INhc870cm8AiSzujM3OlA) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:37 |
 | 45 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 |
@@ -129,10 +129,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
 | 120 | [In The Way](https://open.spotify.com/track/58c9TE41TdDYYJ9NfIaE9X) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 3:25 |
 | 121 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 |
-| 122 | [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 |
+| 122 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 |
 | 123 | [Ce Soir](https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Ce Soir](https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl) | 2:42 |
 | 124 | [My Body \(feat\. B.O.G\. Vonnie\)](https://open.spotify.com/track/2eJXmksBzY3XlLj1obQJs0) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [B.O.G\. Vonnie](https://open.spotify.com/artist/5ZDrZTQOHAwkOmg0IvQO9U) | [UNLV](https://open.spotify.com/album/2599H2Ny0MB33Zvd1n7WNU) | 2:54 |
 | 125 | [Tony Fontana III](https://open.spotify.com/track/4AaHIZNMciJU34kFU0v90x) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Tony Fontana III](https://open.spotify.com/album/1P1hGKDVh1HloPnyM4XKZ0) | 3:04 |
 | 126 | [Issa Photoshoot](https://open.spotify.com/track/49MICz2iDO0E4suYyVYr62) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Issa Photoshoot](https://open.spotify.com/album/2e4aU3kX5YwcF1e52ZXeF0) | 2:24 |
 
-Snapshot ID: `MTY2ODE0MjgwNywwMDAwMDAwMDdkNTU2MDk5Nzc2YmFjZTQ4NTQzMjcyMjIyYTYxMDNh`
+Snapshot ID: `MTY2ODE0MjgwNywwMDAwMDAwMDEwNDVlNWI4ZDA3YTQzMjFmZDY4ZThjOTk1MDZkZGNl`

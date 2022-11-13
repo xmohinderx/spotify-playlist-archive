@@ -4,7 +4,7 @@
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Cartel de Santa & Los Dos Carnales en portada.
 
-84 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
+85 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-02-04 |  |
 | [El Black](https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Black](https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ) | 3:26 | 2022-10-07 |  |
 | [El Canelo](https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Emmanuel Delgado](https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy) | [El Canelo](https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU) | 2:38 | 2022-09-09 | 2022-11-08 |
+| [El Fantasma](https://open.spotify.com/track/5VRgxExRbT1jpwNw89rMEd) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Fantasma](https://open.spotify.com/album/1Rt6hd1BURNy6esbmpAI1I) | 3:02 | 2022-11-12 |  |
 | [El Gavilán](https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Gavilán](https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi) | 2:55 | 2022-11-08 |  |
 | [El Mero Mero](https://open.spotify.com/track/1kOzNZLM7Hmdfl7mm3IEpd) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [El Mero Mero](https://open.spotify.com/album/0ZYDVpUhNqMIXdqAv1lrEw) | 3:06 | 2022-08-05 |  |
 | [El Mexicano Es Cabrón](https://open.spotify.com/track/53wmaavXQOJAsNO5AKjN6k) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Emmanuel Delgado](https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy) | [El Mexicano Es Cabrón](https://open.spotify.com/album/7a3aHh6afvNi5WeTCRatWS) | 2:53 | 2022-06-03 | 2022-09-10 |

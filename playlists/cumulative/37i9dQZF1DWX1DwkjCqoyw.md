@@ -4,7 +4,7 @@
 
 > Shenseea bringing you massive island vibes for her Island Pop takeover.
 
-115 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
+116 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/2IWnbNUu459whuD2COYJWY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Condensed Milk](https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Condensed Milk](https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ) | 3:13 | 2021-12-20 | 2022-08-19 |
 | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/track/68Hl1nI7Ico8cgwkBtA9Fg) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [COOL AS THE BREEZE/FRIDAY](https://open.spotify.com/album/6q8ljQkUDzmBIrEqqXIB8m) | 3:33 | 2021-12-20 | 2022-08-19 |
 | [Cream of the crop](https://open.spotify.com/track/6w8gNFLb4jYCljERxafQEK) | [active music](https://open.spotify.com/artist/6UYHyh6ESGd4FT2cRTsy6e), [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7), [Navaz](https://open.spotify.com/artist/2tMiAnJeqL5IPlRuvdw9Vn) | [Active Music Dream Big 21 Tatchside Riddim](https://open.spotify.com/album/38Sc0gAUv59wdYwNv9XWxK) | 2:56 | 2022-08-18 |  |
+| [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 | 2022-08-18 |  |
 | [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 | 2021-12-20 | 2022-11-12 |
-| [Crocodile Teeth](https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Consistency \(Through the Years\)](https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV) | 2:46 | 2022-08-18 |  |
+| [Crocodile Teeth](https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Consistency \(Through the Years\)](https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV) | 2:46 | 2022-08-18 | 2022-11-13 |
 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 | 2022-08-18 |  |
 | [Deserve It](https://open.spotify.com/track/7CgPnaIjzpMpM5cbeJPKnI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:13 | 2022-03-18 | 2022-08-19 |
 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 | 2022-03-18 | 2022-08-19 |

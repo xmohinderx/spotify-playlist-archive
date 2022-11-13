@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,592 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,610 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 34 | [Survivor's Outro](https://open.spotify.com/track/4XFHwsNr0CwsVLc7DLIGpX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:50 |
 | 35 | [Honestly \(feat\. Juice WRLD\)](https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 3:34 |
 | 36 | [Torn](https://open.spotify.com/track/7yf7fcI9uOUyxfrtShR5GV) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:54 |
-| 37 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
-| 38 | [Man Now](https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 3:29 |
+| 37 | [Man Now](https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 3:29 |
+| 38 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
 | 39 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 |
 | 40 | [Him](https://open.spotify.com/track/50XKj7DDE5cFGpV6z90SD9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:40 |
 | 41 | [Chicago to Memphis \(feat\. G Herbo\)](https://open.spotify.com/track/2mNoak5bp3xjAOAWgWtLrS) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Me](https://open.spotify.com/album/4KrQSZfzmxp0aftaBZj7m3) | 3:29 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 44 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
 | 45 | [Hot Summer \(feat\. G Herbo\)](https://open.spotify.com/track/66F8wUZW98EOg0CfSa6ILI) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:57 |
 | 46 | [Chase Em Down \(feat\. G Herbo\)](https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trench Baby 3](https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx) | 2:47 |
-| 47 | [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 |
+| 47 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 |
 | 48 | [Ridin Wit It](https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:18 |
-| 49 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 |
+| 49 | [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 |
 | 50 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
 
-Snapshot ID: `Mjc4MDI5OTksMDAwMDAwMDA1MjE3MzRmNmVkZjY5ODE0MGRmMWY3MzJmMDQxZDIzYg==`
+Snapshot ID: `Mjc4MDQ0NjcsMDAwMDAwMDA2OGNjMWYxY2FmZmEyNzE1MWRlNGRjYTMwODkwYTIzYw==`

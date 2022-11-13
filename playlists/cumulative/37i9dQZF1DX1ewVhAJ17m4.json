@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 157714,
       "name": "DEAD ASTRONAUT",
       "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
@@ -1008,6 +1008,24 @@
     },
     {
       "album": {
+        "name": "Dream Born Again",
+        "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261058,
+      "name": "Dream Born Again",
+      "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
+    },
+    {
+      "album": {
         "name": "EARTHBOUND",
         "url": "https://open.spotify.com/album/41zoaCpdBGgqcaoHvAKlTZ"
       },
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Every Guy Ever",
       "url": "https://open.spotify.com/track/1srdYQIXMmdqtEYsJFq8Xc"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188898,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/3hrWIeRC8jxS2QXhrXtVVT"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 169104,
       "name": "Like I'm Okay",
       "url": "https://open.spotify.com/track/4z7m5fHKANtRtr8CGnckLd"
@@ -2673,7 +2691,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 176247,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/28RPEcjNNGKRdbTygQ7WoH"
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188657,
       "name": "punk chick",
       "url": "https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B"
@@ -3847,7 +3865,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 194751,
       "name": "together",
       "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"

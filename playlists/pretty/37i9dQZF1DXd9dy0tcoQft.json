@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 11546,
+  "num_followers": 11552,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMDE2ZGZmMzI5NzkzY2VhYmM0NTI5ZmEzYzAxMjQ4ZWY4",
+  "snapshot_id": "MTY2MzA4NjAxNiwwMDAwMDAwMDI3NjYwYTQ4MTliMjEzYTQxM2IwNzY5YzQ5NzEwNDRl",
   "tracks": [
     {
       "added_at": "2022-05-20 11:08:57",
@@ -39,6 +39,22 @@
       "duration_ms": 235426,
       "name": "The Most Beautiful Thing",
       "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "L.A.B III",
+        "url": "https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 252680,
+      "name": "In the Air",
+      "url": "https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -131,22 +147,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "L.A.B IV",
-        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 310760,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "More Moore Mixtape",
         "url": "https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av"
       },
@@ -183,22 +183,18 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
+        "name": "L.A.B IV",
+        "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
       },
       "artists": [
         {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
+      "duration_ms": 310760,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -215,6 +211,26 @@
       "duration_ms": 228613,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Honesty",
+        "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -315,6 +331,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -387,6 +419,38 @@
       "duration_ms": 221173,
       "name": "Never Forget My Love",
       "url": "https://open.spotify.com/track/63KVRfA7COiRBVnZAfbPxU"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Black Pumas",
+        "url": "https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 289706,
+      "name": "OCT 33",
+      "url": "https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/5F8qu8ssVOXCU7Hdu7x7Jb"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 204592,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/2VilPVzji1pAdkmujzRenI"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -579,6 +643,22 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
+        "name": "Tascam Tapes",
+        "url": "https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
         "name": "Crazy Good",
         "url": "https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3"
       },
@@ -611,22 +691,6 @@
       "duration_ms": 205531,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/2FILCanKdwXZQh4yz9Zvw1"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2EP9mL8wwfq1RJ7oYkndCe"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -935,22 +999,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Black Pumas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 289706,
-      "name": "OCT 33",
-      "url": "https://open.spotify.com/track/1zVYfw7P8B5bLNkXct7qZ3"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
       },
@@ -967,18 +1015,34 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "In The Air",
-        "url": "https://open.spotify.com/album/22zzg2utRkL1lzI4eqBU4F"
+        "name": "Summer Jams",
+        "url": "https://open.spotify.com/album/5suXtW25RKvzDxAt6zVHQ3"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 252680,
-      "name": "In the Air",
-      "url": "https://open.spotify.com/track/3C9anTHvsJrenLNTq7UXvk"
+      "duration_ms": 236640,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3BLVjB3AAzLiQ34OTLQXQu"
+    },
+    {
+      "added_at": "2022-05-20 11:08:57",
+      "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/2fnxXQV2NF5bsaLBndaKsH"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/5CWacF8meseoq1AHSvLslX"
     },
     {
       "added_at": "2022-05-20 11:08:57",
@@ -1015,22 +1079,6 @@
     {
       "added_at": "2022-05-20 11:08:57",
       "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/2fnxXQV2NF5bsaLBndaKsH"
-      },
-      "artists": [
-        {
-          "name": "FELIVAND",
-          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/5CWacF8meseoq1AHSvLslX"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/74eFO86CCuo4y6W3k7dPvP"
       },
@@ -1059,54 +1107,6 @@
       "duration_ms": 228831,
       "name": "Something I Know",
       "url": "https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/6kspx9Uql5uXOIjQzy2gXL"
-      },
-      "artists": [
-        {
-          "name": "Tana\u00eb",
-          "url": "https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1"
-        }
-      ],
-      "duration_ms": 235016,
-      "name": "Listen",
-      "url": "https://open.spotify.com/track/62Ra9M5ggvltjHNNsJsegh"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Start over Again",
-        "url": "https://open.spotify.com/album/2eRlK8WSBgZ1v1mB3Rxm1V"
-      },
-      "artists": [
-        {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
-        }
-      ],
-      "duration_ms": 219354,
-      "name": "Start over Again",
-      "url": "https://open.spotify.com/track/5M9lSUgxsJNSvndGh7h2Ef"
-    },
-    {
-      "added_at": "2022-05-20 11:08:57",
-      "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/2ncuFWULnAaGrdwHpDnt9E"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/09PnjJyhIkjYcMzV835Wfx"
     }
   ],
   "unique_name": "Soul Food",

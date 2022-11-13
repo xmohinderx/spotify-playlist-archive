@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,530 likes - 86 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,998 likes - 86 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 38 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
 | 39 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 40 | [Silent Night](https://open.spotify.com/track/1ly2fVX5oa3mEYIIJmZy7y) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Silent Night](https://open.spotify.com/album/494ISYC4VJgaXehehLU6zI) | 3:03 |
-| 41 | [What Child Is This](https://open.spotify.com/track/6UTEb3SExkT0sphhwsRjzB) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Instrumental Christmas](https://open.spotify.com/album/2YxRD4GY8phq9uNHA5tNqx) | 2:21 |
+| 41 | [What Child Is This](https://open.spotify.com/track/1KYp6R9KfYSna86gFkIhq0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 2:24 |
 | 42 | [The Christmas Waltz](https://open.spotify.com/track/7ya0ZMfmZib659gPc1EffF) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 2:44 |
 | 43 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 |
 | 44 | [Let It Snow](https://open.spotify.com/track/3DQFbtGXEnr4uWIh04ljQr) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Jingle Bell Rock](https://open.spotify.com/album/1ZToBj4EZu8gnR2hLsrFwW) | 2:03 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 49 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/3zENRCKW6v5R0DxD3y8UoA) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Ultimate Christmas Playlist](https://open.spotify.com/album/5UA8tyVUcZI7EzW1O2JFFx) | 3:19 |
 | 50 | [Santa Baby](https://open.spotify.com/track/2SOy3BewGYpYy3zIJKREqw) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Santa Baby](https://open.spotify.com/album/3LZEEwdEdWvZW0EIWHFhcL) | 2:50 |
 | 51 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
-| 52 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/3cm0t1XEtQD5Qq970UYHD0) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas meets Jazz](https://open.spotify.com/album/0GrYYWpfGBcrHEIPIW1Fsf) | 4:50 |
+| 52 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas Meets Jazz](https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ) | 4:50 |
 | 53 | [O Little Town of Bethlehem](https://open.spotify.com/track/7qInMuxcT8bj0tHH7NqhXP) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [O Holy Night](https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ) | 1:52 |
 | 54 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 |
 | 55 | [Winter Weather / I've Got My Love to Keep Me Warm](https://open.spotify.com/track/7iuHxTfZzyhBxqZjqNrI0I) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [Martinis & Mistletoe: Christmas Jazz Piano](https://open.spotify.com/album/6irxdg4sz5ikmTg3ysQhbK) | 3:48 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 85 | [Frosty the snowman](https://open.spotify.com/track/1TT5txDzWtg7OF8BhS1lWa) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Here Comes Santa Claus](https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX) | 2:09 |
 | 86 | [Greensleeves](https://open.spotify.com/track/3yUhFUj9GsId8yqwNIMndK) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 2:16 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDA0NTNjNmMwNmRhNmUwMGU0ZDVmOGU1MDEzZWMyYzNi`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDRiNzE1MTM5OWZjN2RiNjY4NDAzYTg2ZDZkMGYzOGM4`

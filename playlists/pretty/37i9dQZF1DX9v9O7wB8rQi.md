@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived!/「攻殻機動隊」シリーズを彩る音楽をひとつのプレイリストに。©S,IG/K/2045
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,638 likes - 47 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,652 likes - 47 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 4 | [Fly with me](https://open.spotify.com/track/71vmt0KizGHsixCbMpHlhV) | [millennium parade × ghost in the shell: SAC\_2045](https://open.spotify.com/artist/4TrqOjik4odYGs0pJpZwVw), [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Fly with me](https://open.spotify.com/album/1i00ESFv1vED85s1GtgQjS) | 4:37 |
 | 5 | [sustain++;](https://open.spotify.com/track/1QcKCeK0oOXwSknnlC1W3p) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Intrauterine Education](https://open.spotify.com/album/0RMVVFxZimOMAJi4Pveb0z) | 6:01 |
 | 6 | [Don't Break Me Down](https://open.spotify.com/track/0rsT81N3o5yh7S6dOE9X7V) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L) | 7:52 |
-| 7 | [Find Me](https://open.spotify.com/track/6X2wqgEAmbsVmvV1bCdyF5) | [Caroline Lufkin](https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2 \- Single](https://open.spotify.com/album/3jy5MUf8SJ5mFdYv2eLrVy) | 4:40 |
+| 7 | [Find Me](https://open.spotify.com/track/6ep9mBzPx0M61vGIWP3itb) | [Caroline Lufkin](https://open.spotify.com/artist/2EB4jjnHLbseUIINQMmtjm) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L) | 4:40 |
 | 8 | [2+2=n](https://open.spotify.com/track/1y1U1fu1YbSkWOKlIstRcE) | [Emi Evans](https://open.spotify.com/artist/5v4bqljn8SUj45YThdszXS) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L) | 3:26 |
 | 9 | [Sustainable War](https://open.spotify.com/track/3qMmuxDbg8ZwSsqveBzhOi) | [Nobuko Toda x Kazuma Jinnouchi](https://open.spotify.com/artist/58FzqkqyYjY7oVzKR0kaLq), [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [GHOST IN THE SHELL: SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/1hTHAKwyNcfv16lqpTpL2L) | 7:34 |
 | 10 | [Team Ghost](https://open.spotify.com/track/3jEfG9rAWGTnNDAJvDgij4) | [戸田信子×陣内一真](https://open.spotify.com/artist/4760RLuTxI29623sQovQyl), [戸田信子](https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d), [陣内一真](https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs) | [攻殻機動隊 SAC\_2045 Original Soundtrack](https://open.spotify.com/album/2ZHTUlPwmJvDHUJVbQnJik) | 2:28 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 46 | [flashback memory plug](https://open.spotify.com/track/7qgQ7mACjleBHbsPchKBcU) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [benedict Delmaestro](https://open.spotify.com/artist/5wLsCJYZy1re3sai21VJZj) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 1:06 |
 | 47 | [A Floating Ghost](https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版 O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 1:05 |
 
-Snapshot ID: `MTY1NTgyNzQ4MiwwMDAwMDAwMDA3MmE5OWYzOGFjYmM4MjU1ZjJmN2IzNzYzNTllNDll`
+Snapshot ID: `MTY1NTgyNzQ4MiwwMDAwMDAwMDNjYWYwN2IxNTZmOThkYWQzNDEwOWRjNmVkNzgxZjkw`

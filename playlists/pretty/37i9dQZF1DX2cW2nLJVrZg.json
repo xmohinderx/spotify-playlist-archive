@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODUxMTczNSwwMDAwMDAwMGU5OGQ1MjU0ZDRlODQyMDljMTQ2NWI4ZWU3YjA2Mzc4",
+  "snapshot_id": "MTY0ODUxMTczNSwwMDAwMDAwMGIyNjJhM2YwODg0YTc3MGM1YmQwMjdjMTliNjZkMjhk",
   "tracks": [
     {
       "added_at": "2022-03-28 23:55:35",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-03-28 23:55:35",
       "album": {
+        "name": "The Power Of The Dog (Soundtrack From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah"
+      },
+      "artists": [
+        {
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        }
+      ],
+      "duration_ms": 152853,
+      "name": "West",
+      "url": "https://open.spotify.com/track/061sIdDzLDqmgXmOTaTKgd"
+    },
+    {
+      "added_at": "2022-03-28 23:55:35",
+      "album": {
         "name": "Parallel Mothers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/14cX3anYlkHmVLzhn9qutj"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 134875,
       "name": "El visillo volante",
       "url": "https://open.spotify.com/track/6pwJntFxsD92d61GiUd8DX"
-    },
-    {
-      "added_at": "2022-03-28 23:55:35",
-      "album": {
-        "name": "The Power of the Dog (Music from the Netflix Film) - Single",
-        "url": "https://open.spotify.com/album/3y8FkwLZEdvVatgRhTq9GF"
-      },
-      "artists": [
-        {
-          "name": "Jonny Greenwood",
-          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
-        }
-      ],
-      "duration_ms": 152943,
-      "name": "West",
-      "url": "https://open.spotify.com/track/0odKvDO1keLzsV1uhCx6pU"
     }
   ],
   "unique_name": "Hollywood's Big Night",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: TOMMY DALI
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,181 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,185 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 7 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 |
 | 8 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 |
 | 9 | [Rose Senza Spine](https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Rose Senza Spine](https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH) | 2:06 |
-| 10 | [On Time For Her](https://open.spotify.com/track/497mQQdUubKJdTqYUg0D2d) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3jH2bcVzgYzznFCliV5EdI) | 3:38 |
+| 10 | [On Time For Her](https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 3:38 |
 | 11 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 |
 | 12 | [sottacqua](https://open.spotify.com/track/2Pdr33YqelbFwPepOAwBQy) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [sottacqua](https://open.spotify.com/album/0zj4qpoGerASVYBsq8uy2z) | 3:21 |
 | 13 | [Copacabana](https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:49 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 32 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 |
 | 33 | [Cuore Spezzato](https://open.spotify.com/track/7zKKDIJ2O9hU60D0QAMovz) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Cuore Spezzato](https://open.spotify.com/album/6XhfFeVmH0ZjtKfhGRDRTq) | 3:46 |
 | 34 | [Avec moi](https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 3:14 |
-| 35 | [GIRASOLE](https://open.spotify.com/track/0wW7yRFcQrhXNjBwfcm1Gw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 3:17 |
+| 35 | [GIRASOLE](https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:17 |
 | 36 | [Sbronza](https://open.spotify.com/track/13O6v6qGF3GI60fKpFkJIU) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:53 |
 | 37 | [Air](https://open.spotify.com/track/4n73tZIQt1h4Fp4YU68eDP) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Air](https://open.spotify.com/album/2VRyPaFCaZiIaIDC3ZS6fO) | 3:15 |
 | 38 | [Come i Grandi](https://open.spotify.com/track/1DOajHZ9LD7MlNVHz8NMup) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Come i Grandi](https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR) | 3:07 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 66 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 |
 | 67 | ['99](https://open.spotify.com/track/69wEOSLds5SSKy4lUVbaS2) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Personale](https://open.spotify.com/album/7h6T5PwDffabt7N6xBQh3Q) | 3:03 |
 | 68 | [SERPENTI](https://open.spotify.com/track/0M23VPfGeVvHpBM1rYhULk) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SERPENTI](https://open.spotify.com/album/5XUlQst8QXgZPheieGtDG8) | 2:14 |
-| 69 | [DIPINGERE LA NOTTE](https://open.spotify.com/track/3Z5Pbe2pvKFwAAbL8E2rQY) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:34 |
+| 69 | [DIPINGERE LA NOTTE](https://open.spotify.com/track/5A6Rrz4XBXPMRAlVN1tLOR) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:34 |
 | 70 | [Paranoia](https://open.spotify.com/track/3yHmVCjg1ed4BrPJIwj2DL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Moquette](https://open.spotify.com/album/0oST0heRwy4pEVmiMTTqz7) | 3:21 |
 | 71 | [Petite](https://open.spotify.com/track/2Yuqyd3Ah8n2pcumd7xB6v) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Petite](https://open.spotify.com/album/7lXvqyfPkgQpx6jXTOQBni) | 2:33 |
 | 72 | [Mezzanotte](https://open.spotify.com/track/652Qiud4KveJC4uUDFDXNw) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Mezzanotte](https://open.spotify.com/album/1pNTOh7L7lDbZGelqCpEKo) | 2:04 |
 | 73 | [Pasta Rossa](https://open.spotify.com/track/4ZM0faoYcQViZmQYKUdpyc) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Macchie](https://open.spotify.com/album/24TYUiY7aNSq7MeI9VamLh) | 3:28 |
 | 74 | [Carta Stagnola](https://open.spotify.com/track/4AtrGRtFW1EBlarvKAHC7v) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Carta Stagnola](https://open.spotify.com/album/5w1x81v8JwYQ3dxsDwyaFT) | 2:55 |
 
-Snapshot ID: `MTY2Nzg2MjA2MCwwMDAwMDAwMGJjNTVmY2VmMGU0YzJlOTM1MTgyNTNiYTg5NDBmNWU1`
+Snapshot ID: `MTY2Nzg2MjA2MCwwMDAwMDAwMDNiZmI3Y2EzZGYxMmMxNDhjMDkyMDdlNzA4NmRkYjY4`

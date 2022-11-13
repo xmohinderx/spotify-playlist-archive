@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: Yola
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,051 likes - 67 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,060 likes - 67 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Respect Yourself](https://open.spotify.com/track/56wqwyEEzfYHbXp1larwg8) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Stax Classics](https://open.spotify.com/album/7n799A9IQT4WVDPbXwVa7n) | 3:30 |
+| 1 | [Respect Yourself](https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:31 |
 | 2 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 |
 | 3 | [Hold On](https://open.spotify.com/track/2AmvFn1VALA0VM1toWubEN) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14), [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Hold On](https://open.spotify.com/album/5OF5fVkkIWWOvn2Xdat10i) | 3:29 |
 | 4 | [In the Night](https://open.spotify.com/track/0UYz2MYHwUSSquqdDIJc0j) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 3:56 |
 | 5 | [Hands of Time](https://open.spotify.com/track/2spEkxVBo1217qmjWkWPZu) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 6:09 |
-| 6 | [Georgia Morning Dew](https://open.spotify.com/track/7HxPa1wFVPsTTCnn5YaXOf) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Georgia Morning Dew / Real Live Living Hurtin' Man](https://open.spotify.com/album/012ARlbQdyMfM4jPpXrF9w) | 3:17 |
+| 6 | [Georgia Morning Dew](https://open.spotify.com/track/7njTQhjl2SIBLutKCw4r1l) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb) | 3:17 |
 | 7 | [Stockholm Syndrome](https://open.spotify.com/track/35PvBFZRh58hFbqWBwjBZn) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:14 |
 | 8 | [The Love You Save \(May Be Your Own\)](https://open.spotify.com/track/49tqyhwvGuhjFklMq6BMBI) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Greatest Hits](https://open.spotify.com/album/25CUJO08rkvZV9rIIP4L4B) | 2:54 |
 | 9 | [Wheels Of Laredo](https://open.spotify.com/track/3MgHIcV9xc8tUdoekttdLM) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 4:14 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 15 | [Cry](https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD) | 2:48 |
 | 16 | [Warm and Tender Love \- Single Version](https://open.spotify.com/track/0t2f3sMcWoqHDSRM4oj8hH) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Best of Percy Sledge](https://open.spotify.com/album/1Nyr1yLuCndptRRMZ0wmlP) | 3:21 |
 | 17 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
-| 18 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/2hv83PqgQnIrEmPxCm5pgv) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Stax Profiles: Carla Thomas](https://open.spotify.com/album/67JGdxCm3gPPpT4oeygpnl) | 2:56 |
+| 18 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/2fnbljRroXC33HuhgyoApM) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Memphis Queen](https://open.spotify.com/album/6DYynPjnJlfAsK3jqFOdGQ) | 2:58 |
 | 19 | [Seven Spanish Angels \(with Ray Charles\)](https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Friendship](https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g) | 3:51 |
 | 20 | [He Made A Woman Out Of Me](https://open.spotify.com/track/2gMxsK1P5PF65J6q4rsCYl) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [Fancy](https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6) | 2:37 |
 | 21 | [After Midnight](https://open.spotify.com/track/1PC5GV3OaoXx5em8ttQOMI) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Naturally](https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh) | 2:23 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 66 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 67 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 
-Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMDQ2NmM1ZjNkOGQzMWE2MmIxMjA4Mzg3ZGM2MjE4Yjkz`
+Snapshot ID: `MTY2MTQ4NjQwMCwwMDAwMDAwMGY5YmVmNDNmOGU1NWNhMTNjN2YyMjkxZDczZTU4ZjU0`

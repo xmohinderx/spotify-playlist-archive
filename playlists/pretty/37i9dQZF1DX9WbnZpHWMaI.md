@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,797 likes - 70 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,814 likes - 70 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 33 | [Are U Down](https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:17 |
 | 34 | [Entertnmnt](https://open.spotify.com/track/5aavkoG5D3zRmeLQdHn8cb) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Entertnmnt](https://open.spotify.com/album/02fYzuPRdFf1ur1A4ORWgU) | 3:14 |
 | 35 | [Cosmology](https://open.spotify.com/track/1M2R7cAdnwWO08JinxumOU) | [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Stylish Tantrum](https://open.spotify.com/album/5zHzMujcNpkEWGmO2IYcrA) | 6:21 |
-| 36 | [Gold](https://open.spotify.com/track/1PkFfOO79tDPNw2j2iivUM) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Gold](https://open.spotify.com/album/1UHF5CvMJAvzNivLNi2Z40) | 4:30 |
+| 36 | [Gold](https://open.spotify.com/track/7vxGhdQ6vrKrzYkeFmi8ot) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Indigo Dream](https://open.spotify.com/album/6T1FI8HwWMHtya66Agz91u) | 4:30 |
 | 37 | [Ghetto Kraviz \- Original Mix](https://open.spotify.com/track/6pGs4VS6BV0WnooovrrxRj) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Nina Kraviz](https://open.spotify.com/album/1epNQzaN8mMyuu2rN6DSRM) | 3:44 |
 | 38 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 |
 | 39 | [Eternal](https://open.spotify.com/track/3SBhkamFAVooQtvDNz4ZJb) | [Holly Herndon](https://open.spotify.com/artist/2c9yn5DJQd5es7YMY92ikZ) | [PROTO](https://open.spotify.com/album/29sozE8XDMOHT8KK9iq4Fo) | 4:45 |
 | 40 | [SHADOW](https://open.spotify.com/track/2KusH57WCXaAyocRjxhItH) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [SHADOW](https://open.spotify.com/album/2D3odp9NPYmDEj2gGyOawB) | 2:35 |
 | 41 | [Vision](https://open.spotify.com/track/33HsRyPb6OjF3pdEfkQl8u) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Vision EP](https://open.spotify.com/album/04L2Xes0sm950AxqEwWNwc) | 6:16 |
 | 42 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/2pu66iltKEpEmVx1aK8wRh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:04 |
-| 43 | [Feel](https://open.spotify.com/track/1mLBoCFmY9LPV8SlHzzCbV) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Feel](https://open.spotify.com/album/6Qoue7wn6cvMAanDsVRKID) | 4:37 |
-| 44 | [No Good For Me](https://open.spotify.com/track/1egyWKeo2iMvB0y4GaUjnt) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/4w9gaeny1Z2qHihswgXISA) | 3:35 |
+| 43 | [Feel](https://open.spotify.com/track/19sCGOTZKnlb5XPbBklcQz) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/4dqk5qdk4iH4uI59t2uCZH) | 4:37 |
+| 44 | [No Good For Me](https://open.spotify.com/track/58Nk6FBeZFEHgHIUw201Z4) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Wrestling](https://open.spotify.com/album/5och8NdNkmWVGj0QrN4Lq9) | 3:35 |
 | 45 | [Obsesión Romántica](https://open.spotify.com/track/7uFODqub2N87Sq5yUz5ksA) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [Obsesión Romántica](https://open.spotify.com/album/1da1Ef2gpAXI0Xet1ZrZAa) | 7:11 |
 | 46 | [Hollow](https://open.spotify.com/track/2J8YYqExy06PjSapXmm39f) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/2k0F2NkDj19iqUZ8c1SIwA) | 3:36 |
 | 47 | [About Work The Dancefloor \- The Blessed Madonna Remix \(Edit\)](https://open.spotify.com/track/58uvwTRUJLYy7dCe4L052M) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [About Work The Dancefloor \(The Blessed Madonna Remix\)](https://open.spotify.com/album/1gb9PQawrh5AldGrdrlzxP) | 3:29 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 60 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 |
 | 61 | [Milan](https://open.spotify.com/track/4BWhmMQ52fqNoL3kabIM3L) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 3:30 |
 | 62 | [Forward Flamingo](https://open.spotify.com/track/5jTUWYHBoAebFimm7yteTN) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:23 |
-| 63 | [Stingray Shuffle](https://open.spotify.com/track/4cQq04HMFxcX30UcOntbiP) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/4ZXL28H9AGmkQUVWTpYHOO) | 2:43 |
+| 63 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 |
 | 64 | [Fluffy Clouds](https://open.spotify.com/track/46An1qrp2NBF7rP8CgmnpK) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Fluffy Clouds](https://open.spotify.com/album/3dWZLsrLsh8gcbnekWIg7H) | 5:44 |
 | 65 | [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 |
 | 66 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 69 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 | 70 | [Inner Peace](https://open.spotify.com/track/0KbAf8GrFpAGdDatmTC4MJ) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Inner Peace](https://open.spotify.com/album/3rFHUVsBf9FLu9q5yhA6Co) | 5:19 |
 
-Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMGI2Zjg5ZDk4ZDAwYTU3ZGUyZWNhZjNhZmI0MzBkZDJh`
+Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMDk5ZWVmMmI5YjgzMWI1MmI4ZjAxZTlkNzE1YjViYjll`

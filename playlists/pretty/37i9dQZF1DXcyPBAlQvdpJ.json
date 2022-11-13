@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the hottest <a href=\"spotify:genre:funkbrazil\">Brazilian Funk</a>. Lo mejor del <a href=\"spotify:genre:funkbrazil\">Funk de Brasil </a>! Cover: Mc Kevin O Chris",
-  "num_followers": 249819,
+  "num_followers": 249890,
   "original_name": "Mother Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDE2MzQ3OCwwMDAwMDAwMDE4NWNmZjgwYzY2OWJiZTE5ZTc5YjgyODM2NDQwNWMy",
+  "snapshot_id": "MTU5MDE2MzQ3OCwwMDAwMDAwMGU0YWIzOTliOGI3MjUwZjI1MGI3OGYzZmU3NTAxYTUz",
   "tracks": [
     {
       "added_at": "2020-05-22 16:04:38",
@@ -239,18 +239,22 @@
     {
       "added_at": "2020-05-22 16:04:38",
       "album": {
-        "name": "Bumbum Granada",
-        "url": "https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar"
+        "name": "Bumbum granada",
+        "url": "https://open.spotify.com/album/6g5NSnoGpHQ7pGA0pANEBV"
       },
       "artists": [
         {
-          "name": "Mc's Zaac & Jerry Smith",
-          "url": "https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3"
+          "name": "MC's Zaac",
+          "url": "https://open.spotify.com/artist/13ySOy7rghkjVk5f5ChBW8"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
         }
       ],
-      "duration_ms": 187924,
-      "name": "Bumbum Granada",
-      "url": "https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv"
+      "duration_ms": 187461,
+      "name": "Bumbum granada",
+      "url": "https://open.spotify.com/track/4SdTyIjA6FuADAN9W8sZjq"
     },
     {
       "added_at": "2020-05-22 16:04:38",
@@ -967,8 +971,8 @@
     {
       "added_at": "2020-05-22 16:04:38",
       "album": {
-        "name": "Rio super funk",
-        "url": "https://open.spotify.com/album/2VCuQPMRUIAMZUVWGIr6ki"
+        "name": "Tudo \u00c9 Festa",
+        "url": "https://open.spotify.com/album/194Bnhiszhqi3ljBwIHaqd"
       },
       "artists": [
         {
@@ -976,9 +980,9 @@
           "url": "https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf"
         }
       ],
-      "duration_ms": 209013,
-      "name": "Rap glamurosa",
-      "url": "https://open.spotify.com/track/1ZBQQBBe5WFMoLuqMcqc2e"
+      "duration_ms": 211613,
+      "name": "Glamurosa",
+      "url": "https://open.spotify.com/track/5z2heUCSTRdGHWPy2gaOhs"
     }
   ],
   "unique_name": "Mother Funk",

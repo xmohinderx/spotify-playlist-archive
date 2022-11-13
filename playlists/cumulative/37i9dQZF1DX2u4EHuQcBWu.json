@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 284164,
       "name": "5 Malparidos",
       "url": "https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 210640,
       "name": "Aqui Estamos",
       "url": "https://open.spotify.com/track/2kNpzb1Y8CZxz1D34vPkP6"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 256306,
       "name": "Balada Del Asalariado",
       "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 220613,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 148498,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4dovvvSA1ImJfHvbxb1wgE"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 149173,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "Cordillera",
       "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 190204,
       "name": "donde nadie m\u00e1s Respira",
       "url": "https://open.spotify.com/track/704ciKlOY43h1RU5DMtJgD"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 342533,
       "name": "El Baile De Los Que Sobran",
       "url": "https://open.spotify.com/track/4RBZ1KDYHFY61CiL0T8VEh"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 250640,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 298049,
       "name": "La Canci\u00f3n Es Protesta",
       "url": "https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy"
@@ -2335,7 +2335,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 430853,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg"
@@ -3591,7 +3591,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 253333,
       "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
       "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
@@ -4078,6 +4078,24 @@
     },
     {
       "album": {
+        "name": "Crossover Latino",
+        "url": "https://open.spotify.com/album/6Li3sSkHahWZid93071KU8"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Por Qu\u00e9 No Se Van",
+      "url": "https://open.spotify.com/track/6JDqYZMdpTvn2rtURghIR3"
+    },
+    {
+      "album": {
         "name": "La Venganza de los Brujos",
         "url": "https://open.spotify.com/album/2dujTRtUMm8HuUWfoLfpRK"
       },
@@ -4265,7 +4283,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 260429,
       "name": "Regal\u00e9 Mis Ojos",
       "url": "https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH"
@@ -4623,7 +4641,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 123333,
       "name": "Si Somos Americanos",
       "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
@@ -4787,7 +4805,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 250080,
       "name": "Somos M\u00e1s Americanos",
       "url": "https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz"
@@ -4867,7 +4885,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 220000,
       "name": "Sororidad",
       "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
@@ -5023,7 +5041,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 248466,
       "name": "S\u00f3lo Le Pido A Dios",
       "url": "https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5"
@@ -5179,7 +5197,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 284680,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"

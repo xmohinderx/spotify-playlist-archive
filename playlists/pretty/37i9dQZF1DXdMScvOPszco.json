@@ -1,12 +1,12 @@
 {
   "description": "Ponle actitud a tu comida.",
-  "num_followers": 38281,
+  "num_followers": 38296,
   "original_name": "Cocina con Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MDE2OTIxNCwwMDAwMDAwMGNhMzZhMjYyOGJiNzVjMTc5OWUxODkzMDk3MzdjZTBl",
+  "snapshot_id": "MTU5MDE2OTIxNCwwMDAwMDAwMDU2YWJjMjFjZWIyYmNiODk2YjFhMmIxMTU3M2JkMDI4",
   "tracks": [
     {
       "added_at": "2020-05-22 17:40:14",
@@ -75,6 +75,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -91,18 +107,34 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
       },
       "artists": [
         {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
         }
       ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -123,6 +155,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -135,6 +183,38 @@
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Come Out and Play",
+      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -187,38 +267,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Come Out and Play",
-      "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Hang-Ups",
         "url": "https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56"
       },
@@ -251,22 +299,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Road to Ruin (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/43zbrwwFHh5e7cmDQomx8Z"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/5NoQvINZLBV1wMYPdNmReL"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "The Misfits Box Set",
         "url": "https://open.spotify.com/album/6vZ6KNlP8hReYxJVuU7G42"
       },
@@ -279,6 +311,22 @@
       "duration_ms": 117080,
       "name": "Last Caress - C.I. Recording 1978",
       "url": "https://open.spotify.com/track/5ALCHMO9Fmvn1Ly18Q3apL"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Veni Vidi Vicious",
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 199759,
+      "name": "Hate To Say I Told You So",
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -299,22 +347,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 223227,
-      "name": "Fall Back Down",
-      "url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Hello Rockview",
         "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
       },
@@ -327,6 +359,22 @@
       "duration_ms": 211400,
       "name": "All My Best Friends Are Metalheads",
       "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 223227,
+      "name": "Fall Back Down",
+      "url": "https://open.spotify.com/track/3pdHJCTk85ls2SGGXIJ7XH"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -395,6 +443,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 239280,
+      "name": "Eighties - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "Living In Darkness (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas"
       },
@@ -411,22 +475,6 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
-        "name": "End of the Century (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Rock 'n' Roll High School - 2002 Remaster",
-      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
@@ -439,6 +487,22 @@
       "duration_ms": 169013,
       "name": "21st Century (Digital Boy)",
       "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "End of the Century (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Rock 'n' Roll High School - 2002 Remaster",
+      "url": "https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -491,6 +555,22 @@
     {
       "added_at": "2020-05-22 17:40:14",
       "album": {
+        "name": "Don't Turn Away",
+        "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
         "name": "Give Me Convenience or Give Me Death",
         "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
@@ -519,22 +599,6 @@
       "duration_ms": 89160,
       "name": "Minor Threat",
       "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Don't Turn Away",
-        "url": "https://open.spotify.com/album/30Agxug9JulUpt5I3mUNM4"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/4TOIJR7F0dH2k32a70YS8F"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -615,6 +679,22 @@
       "duration_ms": 186626,
       "name": "Amoeba",
       "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
+    {
+      "added_at": "2020-05-22 17:40:14",
+      "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Anarchy in the U.K.",
+      "url": "https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA"
     },
     {
       "added_at": "2020-05-22 17:40:14",
@@ -727,86 +807,6 @@
       "duration_ms": 238493,
       "name": "Down in the Past",
       "url": "https://open.spotify.com/track/2vx5Dc3Zxtd5yGDlh2pAAz"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Something's Gotta Give",
-        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "Damaged Goods",
-      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Corona",
-      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Bark Like a Dog",
-        "url": "https://open.spotify.com/album/0eqnt31TTNxPrtukJVACh4"
-      },
-      "artists": [
-        {
-          "name": "Screeching Weasel",
-          "url": "https://open.spotify.com/artist/671sBQXQM2vHSu0AGvpfDs"
-        }
-      ],
-      "duration_ms": 133293,
-      "name": "Cool Kids",
-      "url": "https://open.spotify.com/track/2XTggG0CO00DkQy3U9rj1e"
-    },
-    {
-      "added_at": "2020-05-22 17:40:14",
-      "album": {
-        "name": "Hopeless Romantic",
-        "url": "https://open.spotify.com/album/56CbFyDsG65LI1Eoh7hsOT"
-      },
-      "artists": [
-        {
-          "name": "The Bouncing Souls",
-          "url": "https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Hopeless Romantic",
-      "url": "https://open.spotify.com/track/180mXjN61yhrKhbY2yQc0E"
     }
   ],
   "unique_name": "Cocina con Punk",

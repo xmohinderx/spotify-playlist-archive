@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,225 likes - 89 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,299 likes - 89 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 3 | [If We’ll Ever Be Remembered](https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [If We’ll Ever Be Remembered](https://open.spotify.com/album/39oISAQPcYRNjQqKvYroME) | 3:30 |
 | 4 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY) | 3:22 |
 | 5 | [Aurora](https://open.spotify.com/track/5w0264qq5wQpYfNiPpsuqE) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Aurora](https://open.spotify.com/album/29TIn4cyGh1eSZmQ1jK6N9) | 3:30 |
-| 6 | [Funk](https://open.spotify.com/track/1Pp2kd23lBQj3Gf9uBFSNj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Funk](https://open.spotify.com/album/6BcLKqcXk4Da5qkojpSMUZ) | 3:09 |
+| 6 | [Funk](https://open.spotify.com/track/56ZstVdH2J5FXTTOKNNxfp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Sentio](https://open.spotify.com/album/45gsxfnJ5Nt2RZp82SQenc) | 3:09 |
 | 7 | [Good Morning](https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Good Morning](https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC) | 3:01 |
 | 8 | [Quantum](https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Quantum](https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo) | 2:58 |
 | 9 | [Limitless](https://open.spotify.com/track/7MA8T4pKN6VeBIEGE9hggN) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Limitless](https://open.spotify.com/album/1MQrMWrG8qHRBuTWvNA68j) | 2:26 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 88 | [Error 404](https://open.spotify.com/track/3IrPSIZXepPwIoKLQ4ADad) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Error 404](https://open.spotify.com/album/5FmOWKM0D2K4awi5bAwIwn) | 5:33 |
 | 89 | [Tremor \- Sensation 2014 Anthem](https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:54 |
 
-Snapshot ID: `MTY2NDcyNjI5NCwwMDAwMDAwMDAxM2NmNDk1Mzk1MGU4MmFmNGU1MGVlMTZlZDllODM0`
+Snapshot ID: `MTY2NDcyNjI5NCwwMDAwMDAwMDUwZTA0YmZlMjIwNWQwOTQwNzU1MjIyMWYzNGYwMGZh`

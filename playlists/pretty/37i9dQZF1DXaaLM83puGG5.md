@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going where ever you are w/ Black Market Flea
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,950 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,107 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 22 | [My Neck My Back \(Jersey Club\)](https://open.spotify.com/track/1jwfYOIujOcqjghjWUuAin) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young, Vol\. 5 \(Jersey Club\)](https://open.spotify.com/album/2ovF4jW4fTMB4q9CoaeNHK) | 2:44 |
 | 23 | [HANDLE](https://open.spotify.com/track/7BUTyLkgN4O47DJHpXFD7i) | [Lulu Be.](https://open.spotify.com/artist/2jM44QDqboAQRKbiIqHIoE) | [HANDLE](https://open.spotify.com/album/1k2zmrpHoguC0B3Y7aMbpU) | 1:56 |
 | 24 | [Super Rich Kids](https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 5:04 |
-| 25 | [Heads High](https://open.spotify.com/track/0LotB1fTYcGZOWpTlAVtX6) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Trojan Classic Jamaican Sounds Since 1968](https://open.spotify.com/album/2vitRjnvtWLL0Oq840faaE) | 3:24 |
+| 25 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
 | 26 | [thought i was playing](https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:47 |
 | 27 | [Z4L \(with Bari & Jay2\)](https://open.spotify.com/track/3X6YJcqTinaNraRvojF62K) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Bari](https://open.spotify.com/artist/3IrrjuvOPa1KFxq0Kk8pvN), [Jay2](https://open.spotify.com/artist/5RoJ70jcjGUibtNjye7DwO) | [NOIR](https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF) | 2:42 |
 | 28 | [I Want You \- Underboss Remix](https://open.spotify.com/track/5XglCdjCtfFJpKlIOf1y4I) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [I Want You \(Underboss Remix\)](https://open.spotify.com/album/1d5Aaipwunfid3kaIchL0E) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 49 | [Hbcu](https://open.spotify.com/track/7brATUQ7T0sjP0fmc8CCmt) | [3blackkids](https://open.spotify.com/artist/6qD0mLVdasGDeQ6zXK54Nj) | [Hbcu](https://open.spotify.com/album/6rSVg06obH4jiYGJKShnMZ) | 2:47 |
 | 50 | [Real Magic](https://open.spotify.com/track/3ODFPHP33QPLTCQsw4mjOo) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [The Room](https://open.spotify.com/album/43EcO1919TwjWYfXqR2aBV) | 4:02 |
 
-Snapshot ID: `MTY2NjcyODM2MiwwMDAwMDAwMDYwZmJhZjA2NzI1YzYyZjNiMGU5MzYwOWY0MjQyZDFm`
+Snapshot ID: `MTY2NjcyODM2MiwwMDAwMDAwMGNlNTkwMjE1MGI4MWZjMWE0MDZmZDE2YWFmZjdjNGI1`

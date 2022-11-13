@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,340 likes - 73 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,461 likes - 73 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 27 | [Searching](https://open.spotify.com/track/4NQZ5Sj3LJge9ID2eozfxf) | [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Port Authority \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7w6bnxyPe4KvNVueJihtkk) | 2:44 |
 | 28 | [The Space Between](https://open.spotify.com/track/4nWPqIR0L7hXw90ECLF5Jz) | [Franco Esteve](https://open.spotify.com/artist/4VMSPHtolbzozjH4OY0I6B) | [Apocalypse: The Doll Chronicles \(Original Soundtrack\)](https://open.spotify.com/album/4WhWjbx6sPbnmTCjCZ0Qmv) | 3:00 |
 | 29 | [Of Mothers and Daughters](https://open.spotify.com/track/44kSIeFJVVXr5CgQynV5tY) | [Spencer Creaghan](https://open.spotify.com/artist/6UsbvSWHidueV0jQgXW5eg) | [Motherly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mvBTUUdUwjkOPR8Dbuy1F) | 6:51 |
-| 30 | [Candles](https://open.spotify.com/track/5aHfJAmeXgew9u2e6up7R0) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Klassik Lounge Nightflight, Vol\. 5 \(Compiled by DJ Nartak\)](https://open.spotify.com/album/6vWwEEDdXop4jJweDiBKMQ) | 2:28 |
+| 30 | [Candles](https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 2:28 |
 | 31 | [The Look Back](https://open.spotify.com/track/3YpenRcRGxjJ0WHHs18C6o) | [Jack Bartman](https://open.spotify.com/artist/7ns2f9MnHGrXJRh2Pwejqc) | [Innerwars Original Motion Picture Soundtrack](https://open.spotify.com/album/06Jf7RaYN1JL83BhkewgOg) | 3:18 |
 | 32 | [A Fist Of Swarms](https://open.spotify.com/track/7vuOHuZ1d82tQwQzI0ssMF) | [The Mountain King](https://open.spotify.com/artist/0or6Rfznn6OBiUabcOMXNM) | [Convergence \(Original Soundtrack\)](https://open.spotify.com/album/0PdH8Ao9nVedCH3ddKCCkD) | 3:35 |
 | 33 | [The Jump](https://open.spotify.com/track/7MLmAAauuc6woqxbljyYD5) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Cycles \(Original Score\)](https://open.spotify.com/album/34R4rwCqNDxQpttZfCT0Wn) | 2:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 46 | [Imagining Buffalo](https://open.spotify.com/track/1vtQUwCYHqLouqhnKPCZAX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 2:39 |
 | 47 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 |
 | 48 | ["We're Not Programs, GERTY, We're People"](https://open.spotify.com/track/0X0kSqEp7Ow4BYSV1y1HTy) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 5:10 |
-| 49 | [Escape from New York](https://open.spotify.com/track/6TkKjdGQp21T9Iz3Ilhc8Z) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Classic Themes Redux](https://open.spotify.com/album/1kNTbyyrvbHkxQhCSWIdim) | 3:38 |
+| 49 | [Escape from New York](https://open.spotify.com/track/6T4OT1wFOwgNK9VysjaEAk) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Anthology: Movie Themes 1974\-1998](https://open.spotify.com/album/3ZqJGlPsvDsU1hlaeU2lr9) | 3:32 |
 | 50 | [Title](https://open.spotify.com/track/3N5DU8yxyasg4hyHhIjNyz) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [It Follows \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5df4xBKQQdA8oAfbFmc3Vu) | 2:17 |
 | 51 | [Ava](https://open.spotify.com/track/4ODKQNq4VcCK7dwz0AU1uO) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 2:22 |
 | 52 | [Bluebird \- K\-Pax \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4WEcbJy158y2HmLLLIAvYh) | [Ed Shearmur](https://open.spotify.com/artist/7xN1wNS8SnL6h6mRzK9Fbe), [Edward Shearmur](https://open.spotify.com/artist/1PGSb2wgymZeNTUYqnOxyq) | [K\-Pax](https://open.spotify.com/album/7kfV85gXiZSm4ZNxZ0RYPz) | 3:52 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 72 | [The Turing Test](https://open.spotify.com/track/24tp9KQWD7EVkPiHcO1pPE) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 4:34 |
 | 73 | [Joe's Life](https://open.spotify.com/track/6YQrZEPXUz18Bi5kyOAZgw) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:40 |
 
-Snapshot ID: `MTY2NDg4NjYyMSwwMDAwMDAwMGFjNGQ5N2M0NDA2NjZiN2YxODM0ZTE4ZTQ4Njc3MDU1`
+Snapshot ID: `MTY2NDg4NjYyMSwwMDAwMDAwMDA0MDI5OTY2YjkxMWU1ODIyYTg3MGNmNDQ4NTkyZTE3`

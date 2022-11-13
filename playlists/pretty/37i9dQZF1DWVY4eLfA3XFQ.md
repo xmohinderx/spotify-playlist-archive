@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Chris Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,587 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,664 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 22 | [Nightmares](https://open.spotify.com/track/0DcLHMYuZDZboftsQSrANc) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Nightmares](https://open.spotify.com/album/1F1pC0ykx8JTys8LnxMv9f) | 3:57 |
 | 23 | [Feeling It](https://open.spotify.com/track/1f6hr0MvT9gBXiaO9HJQgB) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q), [Rodrigo Serna](https://open.spotify.com/artist/5eCVBdu5kAqZ2OMZnBXR90), [Marie Noëlle](https://open.spotify.com/artist/6njaQRvxv2mcHRLgBmF7uH) | [Feeling It](https://open.spotify.com/album/2ty2a266GfDHZ1SHOj1PrK) | 3:38 |
 | 24 | [On The Inside](https://open.spotify.com/track/7JHmt5H2eWvT76eWnopVuf) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [On The Inside](https://open.spotify.com/album/4m7CDHfBPn0KXEt81exXqB) | 3:40 |
-| 25 | [Talk To Me](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 |
+| 25 | [Talk To Me \(with BRUX\)](https://open.spotify.com/track/60TJAdsTUJXxS4VDPWfmFL) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Talk To Me \(with BRUX\)](https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4) | 3:02 |
 | 26 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
 | 27 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 |
 | 28 | [Party Diva](https://open.spotify.com/track/5n7zRKeW16p5o42sasOmah) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Party Diva](https://open.spotify.com/album/4vVbfW76h5gKz396zd5CMR) | 3:12 |

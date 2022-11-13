@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,753 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,857 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/track/3Kihz14e1cNkpl5PiJOiB7) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [世界が終るまでは… \[WANDS 第5期 ver.\]](https://open.spotify.com/album/0nZnyIFO6XBzTqzGeLOBLy) | 5:13 |
 | 2 | [謎](https://open.spotify.com/track/42S5PVNFPb4xwxl51HVh0k) | [小松未歩](https://open.spotify.com/artist/2F7g9r3yzmCfMlUnfDa80X) | [謎](https://open.spotify.com/album/7mgGlCQhihfUrVj7IBabYk) | 4:35 |
-| 3 | [The Cruel Angel's Thesis](https://open.spotify.com/track/1QFPI3slA71XOdiBV5qti1) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 4:06 |
+| 3 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 |
 | 4 | [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [川本真琴](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 |
 | 5 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 |
 | 6 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 34 | [恋しさと せつなさと 心強さと](https://open.spotify.com/track/7rxWdyCnDCzXuYwV28VTwd) | [Ryoko Shinohara](https://open.spotify.com/artist/2Ff8zALDdJVexxrBF9an2M), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [20 BEATS 20 TALES](https://open.spotify.com/album/1EftEeFHZho0h7Ow7Uy9KN) | 4:12 |
 | 35 | [DREAMS](https://open.spotify.com/track/3N9CUAci3R0gWPEThCYIJn) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [DREAMS](https://open.spotify.com/album/4xPUXxamRojoGcFGn6ArJE) | 5:01 |
 | 36 | [ミエナイチカラ 〜INVISIBLE ONE〜](https://open.spotify.com/track/1B7JdytwORQ3snphFEbPW1) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ミエナイチカラ 〜INVISIBLE ONE〜 / MOVE](https://open.spotify.com/album/13hOMXiB9ydOwyIOY7JxoT) | 4:38 |
-| 37 | [Driver's High](https://open.spotify.com/track/2XxGIjMXytCreUYzv50FvX) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [TWENITY 1997\-1999](https://open.spotify.com/album/0A9yJLwIypxNbbjGtnag3Y) | 4:13 |
+| 37 | [Driver's High \- Remastered 2022](https://open.spotify.com/track/4eL14qmwVFFgXoOqy9fWOt) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark \(Remastered 2022\)](https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe) | 4:10 |
 | 38 | [Resolution](https://open.spotify.com/track/4p0yL3juQ7x95COvWGpGcw) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [Resolution](https://open.spotify.com/album/67EuyVPgcrrW1V67NFuMZz) | 5:02 |
 | 39 | [プラチナ](https://open.spotify.com/track/1OugCc4G4lXxSrDXahmdXL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [プラチナ](https://open.spotify.com/album/5mgabloGQx0OJUq1WgbkaL) | 4:10 |
-| 40 | [Take Me Home, Country Roads](https://open.spotify.com/track/3HhMQ1mRatraBs50x0dpI8) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [Whisper of the Heart Image Album](https://open.spotify.com/album/7qXm2D9TkveSwpX77fUaio) | 4:24 |
+| 40 | [Take Me Home, Country Roads \(Theme Song\)](https://open.spotify.com/track/70Wm0tbbdJ7D97957x4rkm) | [Yuji Nomi](https://open.spotify.com/artist/2ItyqN4i9lNz49g421p0Cl) | [Whisper of the Heart Soundtrack](https://open.spotify.com/album/0yOhYn348rz2j3mUne0fpH) | 4:24 |
 | 41 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 |
-| 42 | [さよなら文明](https://open.spotify.com/track/6JHRrDBuYq0cmOmVLo4urS) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [SINGLES](https://open.spotify.com/album/5NpqHrBLsy5higgDkTnrZY) | 3:14 |
+| 42 | [さよなら文明](https://open.spotify.com/track/5CpSCK9dXdDOOvQsC861HN) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版! 爆風スランプ大全集](https://open.spotify.com/album/22KV3uWwIq9IcM3j5USuo0) | 3:15 |
 | 43 | [虚空の迷宮](https://open.spotify.com/track/6iLYqFCqUHz3rZjCngwG5F) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/3MxXXbu522KmLythdd2ecq) | 4:18 |
 | 44 | [通学路](https://open.spotify.com/track/1vnFKuR3rBOhX7l5lcrMDa) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [GOLDEN☆BEST Whiteberry](https://open.spotify.com/album/7BMm2AkVbA3F7ULQoJ5ivY) | 4:05 |
 | 45 | [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MTY2MTg3NjMzNywwMDAwMDAwMGEwYzI4MmJjYWZlNDJiODNhNjVjYjUxMTMwMjJjZDgy`
+Snapshot ID: `MTY2MTg3NjMzNywwMDAwMDAwMDQ0Mzc1NWZmOGJjNmUxNWYzZDNiZDhjOTMwMDY1MTc3`

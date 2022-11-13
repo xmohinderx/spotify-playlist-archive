@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,868 likes - 132 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,889 likes - 132 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 69 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 70 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 |
 | 71 | [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 |
-| 72 | [Cicatrici](https://open.spotify.com/track/18xRjW5ARD2ivfMkA807fw) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cicatrici](https://open.spotify.com/album/1ONUeIv6IR6ECQB00q3gLL) | 2:28 |
+| 72 | [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 |
 | 73 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
 | 74 | [Marie 3 \- Principessa Paranoia](https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Marie 3 \(Principessa Paranoia\)](https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq) | 2:39 |
 | 75 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 118 | [vivere solo](https://open.spotify.com/track/66k8poNSX1SutjV9of9gHm) | [Thom.](https://open.spotify.com/artist/4e5mUDLdGeosdE593StPBi), [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [vivere solo](https://open.spotify.com/album/1aAoHLxQpTSLNILQTqPqic) | 2:30 |
 | 119 | [HAPPILY EVER AFTER](https://open.spotify.com/track/3A6wzTVEokDiEgDmAtd2gm) | [maxwell da costa](https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT), [fil ricchiardi](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [HAPPILY EVER AFTER](https://open.spotify.com/album/1G9ntbAXm8uYI1KRPRfNUg) | 3:05 |
 | 120 | [DIQQUA \(feat\. Zyrtck\)](https://open.spotify.com/track/2FUql0ZFEn0BGnlfr9nJcw) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [DIQQUA \(feat\. Zyrtck\)](https://open.spotify.com/album/6hmbU0Ohx9kjzBE2soOViQ) | 2:36 |
-| 121 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/0VJviTvPozCb9E7jLWLtvJ) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 1:56 |
+| 121 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 |
 | 122 | [Rottami](https://open.spotify.com/track/3Qwqat3qIk2JL8IcXVdnjl) | [Coron](https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax), [Redys](https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1) | [Rottami](https://open.spotify.com/album/6vrZwg5BfH2T7JbY1UDiqq) | 3:19 |
 | 123 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 | 124 | [Venere](https://open.spotify.com/track/1iqwuiwOkU2Cq7G0lEA6Uk) | [Aiko Ak](https://open.spotify.com/artist/0qtxaLL8XAMIdSUHzITgPl) | [Venere](https://open.spotify.com/album/5CYCzNMdO02RYurzb7vNwJ) | 3:43 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 131 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
 | 132 | [frantumi](https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC) | [junksleep](https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m) | [frantumi](https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU) | 1:30 |
 
-Snapshot ID: `MTY2ODA5MzYxMiwwMDAwMDAwMDIwZmFiZWYxYWE0YWZhOTg4MTk4M2ExOThlMDk3MTNh`
+Snapshot ID: `MTY2ODA5MzYxMiwwMDAwMDAwMGFlYzBmZmU1ZTMzZWUwZjk1YjkyOTNmZmE3NzU4YWQy`

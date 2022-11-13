@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-219 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
+220 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 |  |
 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2022-09-27 |
 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 | 2022-01-20 |  |
+| [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-13 |  |
 | [Imagina](https://open.spotify.com/track/36YLNt1sPqaFJw2LXyXHZH) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Latidos y Culebras](https://open.spotify.com/album/3AP47uH2hSqW7k1xeJcEFF) | 3:11 | 2022-01-20 | 2022-07-26 |
 | [Infierno](https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN) | [Afterlife](https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm) | [Mil Gritos Tiene la Noche, Vol\. 1](https://open.spotify.com/album/6JkIhyOobANHUF235OWntk) | 4:29 | 2022-01-20 | 2022-07-27 |
 | [Keep The Horse](https://open.spotify.com/track/6FxzdvawNcoSKOyWnodIao) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Kellies](https://open.spotify.com/album/0aYjQDM6UX9HlB7Ugzjlnt) | 2:01 | 2022-01-20 | 2022-07-24 |
@@ -138,9 +139,9 @@
 | [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 | 2022-01-20 | 2022-10-18 |
 | [Ni Una Más](https://open.spotify.com/track/4WvhYvgVKgtLG7TFsJO0KI) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [Ni Una Más](https://open.spotify.com/album/4EzZTsc7MkOjbwpIfGZuzK) | 4:41 | 2022-01-20 | 2022-08-31 |
 | [No Hay Santos](https://open.spotify.com/track/3cxNVuq0RAy0zymBZ8u4FG) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [No Hay Santos](https://open.spotify.com/album/0XajlMSVe4RQCjuRr5eYas) | 2:44 | 2022-01-20 | 2022-07-29 |
-| [No Huyas De Mi](https://open.spotify.com/track/1WLzRkCyCF1muqSyrr1jcs) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock Pa' Gozar Vol\. 3](https://open.spotify.com/album/7bloZmH0zOUczXixny0cg9) | 3:47 | 2022-10-14 |  |
+| [No Huyas De Mi](https://open.spotify.com/track/1WLzRkCyCF1muqSyrr1jcs) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock Pa' Gozar Vol\. 3](https://open.spotify.com/album/7bloZmH0zOUczXixny0cg9) | 3:47 | 2022-10-14 | 2022-11-13 |
 | [No Huyas De Mi](https://open.spotify.com/track/1aVApBTl7XTYLSatF7pHsz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Música Que Salva Rock Vol\. 5](https://open.spotify.com/album/49GWg9SuFNmV6Ni3J6pgLH) | 3:47 | 2022-10-14 | 2022-11-07 |
-| [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 | 2022-07-15 | 2022-11-11 |
+| [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 | 2022-07-15 |  |
 | [No Huyas De Mi](https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rolotas Veraniegas Vol\. 4](https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf) | 3:47 | 2022-07-15 | 2022-08-22 |
 | [No Huyas De Mi](https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Puro Rock \(CD1\)](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:47 | 2022-01-20 | 2022-07-28 |
 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 | 2022-07-15 | 2022-07-29 |
@@ -188,12 +189,12 @@
 | [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 | 2022-01-20 |  |
 | [Sin Llorar](https://open.spotify.com/track/4uz6AXTY8ZoP2SzICAl36i) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8) | [Sin Llorar](https://open.spotify.com/album/0RsUW4X7DQofjxZMXEKzG5) | 5:20 | 2022-01-20 | 2022-07-24 |
 | [Sola en los Bares \(2020 Remasterizado\)](https://open.spotify.com/track/7HeOiPvLeOgdszASIZGCZX) | [Man Ray](https://open.spotify.com/artist/6m2iYPwsqzgxxIPhWDPjvm) | [Perro de Playa \(2020 Remasterizado\)](https://open.spotify.com/album/6y0rD6EpLaAq6tOuMLB51Z) | 3:06 | 2022-01-20 |  |
-| [Sola y Feliz](https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo) | [Tiburona](https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3) | [Sola y Feliz](https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP) | 3:08 | 2022-01-20 |  |
+| [Sola y Feliz](https://open.spotify.com/track/2VYFaG8DLK5YBVlqQouWgo) | [Tiburona](https://open.spotify.com/artist/3PsuZ4oedTsZIUXGgyV1t3) | [Sola y Feliz](https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP) | 3:08 | 2022-01-20 | 2022-11-13 |
 | [Somos](https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [Somos](https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik) | 3:00 | 2022-01-20 |  |
 | [Somos 2](https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Somos 2](https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p) | 2:32 | 2022-01-20 |  |
 | [Somos Aire](https://open.spotify.com/track/5rr2cc38UmXKfMuWdwsPIB) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/0m1UbEq22R11P2SABak84s) | 3:31 | 2022-01-20 | 2022-07-28 |
-| [Somos aire](https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o trato](https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7) | 3:31 | 2022-10-14 | 2022-11-11 |
-| [Somos Aire](https://open.spotify.com/track/6dOEjWBwsklaPLzNjSltu4) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ) | 3:31 | 2022-07-15 |  |
+| [Somos aire](https://open.spotify.com/track/63gATGLzYoulX2l9sI6M5w) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o trato](https://open.spotify.com/album/4U65heHTb2hRm7xjo6z4W7) | 3:31 | 2022-10-14 |  |
+| [Somos Aire](https://open.spotify.com/track/6dOEjWBwsklaPLzNjSltu4) | [Megara](https://open.spotify.com/artist/4vFcywn3P1b0M4xFe61e23) | [Truco o Trato \(Capítulo I\)](https://open.spotify.com/album/1TCp9KH1KiLydlh3cXPnfJ) | 3:31 | 2022-07-15 | 2022-11-13 |
 | [Sorojchi](https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:50 | 2022-01-20 |  |
 | [Sorojchi \- En Vivo en La Ballena Azul](https://open.spotify.com/track/6rBDvf4uw2TQq1WFa8TfBD) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera en Vivo en La Ballena Azul](https://open.spotify.com/album/7DKXSTitkkj1Rm7NcY27zv) | 4:58 | 2022-09-23 |  |
 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 | 2022-01-20 |  |

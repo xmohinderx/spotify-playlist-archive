@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Dr. Dre",
-  "num_followers": 59963,
+  "num_followers": 59998,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDIwODJmMzkzNGY5NTRmMWY2ZTAwNjYxMDY0YjU3OTM5",
+  "snapshot_id": "MTY0NDU4ODYwMywwMDAwMDAwMDJiNzFhZTliM2M1MWFkYmI4MmI4ZTZhYjgzZTQyNjJh",
   "tracks": [
     {
       "added_at": "2022-02-11 14:10:03",
@@ -525,26 +525,6 @@
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
-      "added_at": "2022-02-11 14:10:03",
-      "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
-    },
-    {
       "added_at": "2020-01-31 17:44:55",
       "album": {
         "name": "El Dorado",
@@ -581,6 +561,26 @@
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
+      "added_at": "2022-02-11 14:10:03",
+      "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+    },
+    {
       "added_at": "2020-01-31 18:41:40",
       "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
@@ -597,20 +597,20 @@
       "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
+      "added_at": "2018-01-30 18:06:42",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "added_at": "2018-01-30 18:06:42",
@@ -627,6 +627,22 @@
       "duration_ms": 222813,
       "name": "(I Can't Get No) Satisfaction - Mono Version",
       "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -711,22 +727,6 @@
     {
       "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2020-01-31 17:44:55",
@@ -813,26 +829,6 @@
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
     },
     {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Hands All Over",
-        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
-    },
-    {
       "added_at": "2018-01-30 18:06:42",
       "album": {
         "name": "One Of The Boys",
@@ -847,6 +843,22 @@
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2022-02-11 14:10:03",
@@ -867,6 +879,26 @@
     {
       "added_at": "2020-01-31 18:41:40",
       "album": {
+        "name": "Hands All Over",
+        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -879,22 +911,6 @@
       "duration_ms": 206080,
       "name": "Formation",
       "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
       "added_at": "2018-01-30 18:06:42",
@@ -1073,22 +1089,6 @@
       "url": "https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds"
     },
     {
-      "added_at": "2018-01-30 18:06:42",
-      "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
-    },
-    {
       "added_at": "2020-01-31 17:44:55",
       "album": {
         "name": "On The 6",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
     },
     {
+      "added_at": "2018-01-30 18:06:42",
+      "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
       "added_at": "2020-01-31 18:41:40",
       "album": {
         "name": "Celebration (double disc version)",
@@ -1175,30 +1191,6 @@
       "duration_ms": 253066,
       "name": "Bad Boy for Life",
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
-    },
-    {
-      "added_at": "2018-01-30 18:06:42",
-      "album": {
-        "name": "The Cookbook",
-        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 226863,
-      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
-      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1279,6 +1271,30 @@
       "duration_ms": 267293,
       "name": "Step by Step",
       "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
+    },
+    {
+      "added_at": "2018-01-30 18:06:42",
+      "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 226863,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1417,22 +1433,6 @@
       "url": "https://open.spotify.com/track/08QZBupqwLXOalOpgiTi5e"
     },
     {
-      "added_at": "2018-01-30 18:06:42",
-      "album": {
-        "name": "2000\u5e74\u4ee3\u306b\u6d41\u884c\u3063\u305f\u6d0b\u697d!",
-        "url": "https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/2q55kslMGD7M0TVW85pcca"
-    },
-    {
       "added_at": "2020-01-31 18:41:40",
       "album": {
         "name": "Hold Me, Thrill Me, Kiss Me",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "Throwback Party",
-        "url": "https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289493,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/3w01lhgzYV8BHPqwC9BOte"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
         "name": "Greatest Hits 1990-1992",
         "url": "https://open.spotify.com/album/1VvHSKStQBrQV5bOPBsq16"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 159066,
       "name": "It's A Little Too Late",
       "url": "https://open.spotify.com/track/0j3Ly6UYhwEgAiXeCERVJM"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Throwback Party",
+        "url": "https://open.spotify.com/album/1FVXIAyitK6wgpiKMSqc40"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289493,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/3w01lhgzYV8BHPqwC9BOte"
     },
     {
       "added_at": "2020-01-31 18:41:40",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2020-01-31 18:41:40",
       "album": {
-        "name": "Best Of Number Ones",
-        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 272386,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
-    },
-    {
-      "added_at": "2020-01-31 18:41:40",
-      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/3RruDgHLjfELXFUOTKvqVC"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 287733,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5MSC1blxmqpS2PZ6YVN1GB"
+    },
+    {
+      "added_at": "2020-01-31 18:41:40",
+      "album": {
+        "name": "Best Of Number Ones",
+        "url": "https://open.spotify.com/album/7qxMrD1a1AEWPmTiiltWda"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 272386,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/28IZUzBnFsBxyrgdsdlQPg"
     },
     {
       "added_at": "2020-01-31 18:41:40",

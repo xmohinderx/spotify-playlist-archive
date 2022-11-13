@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Truth](https://open.spotify.com/track/2emZ6UoJdLehWsgJa2ybRi) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Inch Of You](https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ) | 2:13 |
-| 2 | [Distant Fortune](https://open.spotify.com/track/7abr2KiEF0Hkb9UbVNupD6) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [KEEN: Airy Acoustic Vol\. 2](https://open.spotify.com/album/5t89gmzDrEp7MkdguiA49x) | 3:21 |
+| 2 | [Distant Fortune](https://open.spotify.com/track/6dqF3sWFq18Jav3zHjYrJ2) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 3:21 |
 | 3 | [Forests](https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o) | [Sebastian Winskog](https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb) | [Meadow / Forests](https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur) | 2:20 |
 | 4 | [Whispers](https://open.spotify.com/track/3VQaQbYdSLSgw9sodURQJr) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Whispers](https://open.spotify.com/album/5EveBFVczPS39O5zPE1mi9) | 3:08 |
 | 5 | [Svalbard](https://open.spotify.com/track/0sKhVvGUSHVXjU44bUTmhV) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [The Cereal Killers: Bedtime Guitar](https://open.spotify.com/album/4R57k9bpcwczFvwrnfhskU) | 3:19 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 | 8 | [Raining Slowly](https://open.spotify.com/track/3C2hFxPFsNrnMXW861bnHY) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Raining Slowly](https://open.spotify.com/album/5JjOIm7QVc6EwPerFtOWcD) | 2:39 |
 | 9 | [Iles de la Madeleine](https://open.spotify.com/track/5XaMHaJ3uwSU74m9pwGMgX) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [Iles de la Madeleine](https://open.spotify.com/album/6T9SPGwQxPAMJzbaOZ2GU0) | 2:17 |
 | 10 | [The Ludlows](https://open.spotify.com/track/3mm0nk8uW2rzwQltXgEse6) | [Cristopher Varela](https://open.spotify.com/artist/7GvvZWqI8qi9E13IAbYnXE) | [Classical Romantic Movies Themes on Guitar](https://open.spotify.com/album/0HS54wZJRaKNRz6sDQO1Ez) | 2:34 |
-| 11 | [Hibernia Sleep](https://open.spotify.com/track/2SU2gAnUMczHRopQqKTPgL) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [The Cereal Killers: Bedtime Guitar](https://open.spotify.com/album/4R57k9bpcwczFvwrnfhskU) | 2:26 |
+| 11 | [Hibernia Sleep](https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:26 |
 | 12 | [Rest Your Way Home](https://open.spotify.com/track/1PG4jPn5PtAyrIccnZbJ82) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Us Together](https://open.spotify.com/album/2u0lcPtC2AoJ7M9JudSQjO) | 2:36 |
 | 13 | [Flow](https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Flow](https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz) | 2:55 |
 | 14 | [Hills And Horizons](https://open.spotify.com/track/37UVVInsqHZkbkKAi6fkgX) | [John Hanks](https://open.spotify.com/artist/3MN3dRQvZWIRj0wTpY5QnY) | [Hills And Horizons](https://open.spotify.com/album/2xAB6cXQJakx5y01xrcPxW) | 2:36 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 | 27 | [A Field of Flowers](https://open.spotify.com/track/3p5JJmkmOaqx4HkL8R1B8y) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [A Field of Flowers](https://open.spotify.com/album/4mfqzPozi4hu2aoEGYUMu2) | 2:42 |
 | 28 | [Maria's Waltz](https://open.spotify.com/track/3dseCPTZkF7fsblUFPHz0i) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Le Mystique de Aztecas](https://open.spotify.com/album/79befI9jZW85U1wcDvGwGf) | 2:19 |
 | 29 | [Moments](https://open.spotify.com/track/6TUi7bBa1k4NccGW5XS2kO) | [Cindy Woon](https://open.spotify.com/artist/312AU52NUfI9iTdzynazpN) | [Moments](https://open.spotify.com/album/1UTMHt2AWuHXPDkXxLIBIh) | 4:14 |
-| 30 | [Soul Blanket](https://open.spotify.com/track/3udiwLxQnr2lr0higOdi8Z) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Acoustic Favourites](https://open.spotify.com/album/3HrMtl0ZYK194zU8sfcpZx) | 4:01 |
+| 30 | [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 |
 | 31 | [Kun Mun Kultani Tulisi](https://open.spotify.com/track/2QHB7Y6AZEKeFtKvtBQUTN) | [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Kun Mun Kultani Tulisi](https://open.spotify.com/album/4yXEGdNS1ZrWMh8fhXcMmf) | 2:17 |
 | 32 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 |
 | 33 | [Bathe](https://open.spotify.com/track/3xsAiIdL95TYmfCodZ8gom) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Halcyon Days](https://open.spotify.com/album/5pPYV0D20Yzzug66AMXPpv) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2w6jCwU2AgM.md) - [plain]
 | 59 | [Le Practicante](https://open.spotify.com/track/5hZI2AZbUQsmhVPDlI2Pz8) | [Freddie Hultana](https://open.spotify.com/artist/2kbBom27w5NJydUVB2SonR) | [Le Practicante](https://open.spotify.com/album/49cUz7PXynIGPMMMFAa7gg) | 2:55 |
 | 60 | [First Movement](https://open.spotify.com/track/2aAGxtISP7yQsmPud1HZWH) | [Daniel Westley](https://open.spotify.com/artist/34D309TQ5JMm3vgtJRWRl7) | [First Movement](https://open.spotify.com/album/1OjSi20Z6vq1tog9FD8EtR) | 2:26 |
 
-Snapshot ID: `MTYwOTMzODUxMywwMDAwMDAwMGM1ZGY3NTA2OGFmMGFlYjQyNzIwNGIzOWNkNTgwZWVm`
+Snapshot ID: `MTYwOTMzODUxMywwMDAwMDAwMDUwZjMxM2JlMDlmMGVmZDVmYjEwYjA4YWYwZjA4ODg3`

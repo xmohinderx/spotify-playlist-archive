@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,302 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,368 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 12 | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/track/6AzxGlceDX62BM7Obp7JH2) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [O Bem Que Eu Quero Fazer Não Faço](https://open.spotify.com/album/2RGP9VALNUJ9oWyYwA2k5S) | 3:26 |
 | 13 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 |
 | 14 | [Alto](https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte) | [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7), [Curioso Beats](https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u) | [Alto](https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco) | 2:45 |
-| 15 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
+| 15 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 |
 | 16 | [Diamante na Lama](https://open.spotify.com/track/7nwxUkKjvGBICXZxg4hXFY) | [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r), [Franco Trapboy](https://open.spotify.com/artist/1lEF3mYcI4rXGRlPXx8ScU), [Mollina](https://open.spotify.com/artist/3MGVz8UR64lAnmMRf1AIsV) | [Diamante na Lama](https://open.spotify.com/album/0D5Yz9YNHe2DVSLjXfGD7o) | 2:46 |
-| 17 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 |
+| 17 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
 | 18 | [Em Cima da Laje](https://open.spotify.com/track/19NTfE8rbj61JC7BRyRdfb) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Em Cima da Laje](https://open.spotify.com/album/4QJJR3ExxmcUEo8SAjdhVd) | 2:49 |
 | 19 | [Tudo É Vaidade](https://open.spotify.com/track/6nnDsAsZLFLrAja13FlHbk) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Tudo É Vaidade](https://open.spotify.com/album/3HUEAsnvTveLPcRPIEaWCm) | 3:25 |
 | 20 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 60 | [O Preço](https://open.spotify.com/track/75ElCpWWG587b1qVhW4uun) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [O Preço](https://open.spotify.com/album/4dpgxFCXibZZsHqZhc07yU) | 3:22 |
 | 61 | [Não Temerei](https://open.spotify.com/track/14X9dYqmcMRLBr0fr2aUxC) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Não Temerei](https://open.spotify.com/album/4KFGtrAb28swJXHPfQ8j1T) | 2:42 |
 | 62 | [Vai Mudar](https://open.spotify.com/track/1q6OSrmIVmh5gOm7iGu2IJ) | [Fabão MC](https://open.spotify.com/artist/7brrQUJkLSTzfWltuszqDQ), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Vai Mudar](https://open.spotify.com/album/78s4csR8NETKObiZTMkvXJ) | 3:47 |
-| 63 | [Marionete](https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR) | 3:06 |
-| 64 | [Céu](https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh) | 2:00 |
+| 63 | [Céu](https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Céu](https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh) | 2:00 |
+| 64 | [Marionete](https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR) | 3:06 |
 | 65 | [Filho do Homem](https://open.spotify.com/track/2WQ87ao5uZsRZS0UB8cQQi) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena](https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA) | 3:15 |
 
-Snapshot ID: `MTY2NjkzNTQ5NywwMDAwMDAwMDdmZGVjYzk2N2IwN2E2ODBkYjlmMTk0ZWU0ZTdjZDNl`
+Snapshot ID: `MTY2NjkzNTQ5NywwMDAwMDAwMDhlNGUwNGU1MzgyMzQwNGUwMTRhYTRiODExZmM0MTQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,736 likes - 110 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,929 likes - 110 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 63 | [Kill Em With Kindness \- Acoustic](https://open.spotify.com/track/2zdWyXkUu9CowCZ4rVnBg2) | [Savella](https://open.spotify.com/artist/6SPMTzlnXVUvJqe1qkPswm), [Rachael Schroeder](https://open.spotify.com/artist/6Hyd8L8cnUxrMhN89nlgAb) | [The Best Covers Ever](https://open.spotify.com/album/0dCQghJmb45XZDALsB5XYo) | 3:32 |
 | 64 | [He Stopped Loving Her Today](https://open.spotify.com/track/7sVwhAV6JKUhGBOzX6udf3) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [He Stopped Loving Her Today](https://open.spotify.com/album/1MXXJioCaf5UZ2JQO7dBlt) | 3:30 |
 | 65 | [Heartbeats](https://open.spotify.com/track/5apRczvf1mIiHL4s4uhYlu) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/47Qge8RmoCNl1tAL5OmDer) | 2:42 |
-| 66 | [Love Will Tear Us Apart](https://open.spotify.com/track/7I1FgQFHdNqpjcvzxfDfTK) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Your Song](https://open.spotify.com/album/17wpR31pu1gRi2OHilvbdY) | 3:27 |
+| 66 | [Love Will Tear Us Apart](https://open.spotify.com/track/2fqx5MvWamArHztg7cG1iy) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 3:27 |
 | 67 | [Hold My Girl \- Piano Acoustic](https://open.spotify.com/track/3qxPacNEgVBtaOCp0v8zJw) | [Keywest](https://open.spotify.com/artist/5n9E5vGRtLsPzqk39eA29T) | [Hold My Girl \(Piano Acoustic\)](https://open.spotify.com/album/0n439gzksPiEis9mHmZY0z) | 3:45 |
 | 68 | [Back To You](https://open.spotify.com/track/2GwShNdcJHDLEkGO4L34lF) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back To You](https://open.spotify.com/album/7AgRUp5Sc4PwDM5l950FeH) | 3:39 |
 | 69 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 109 | [Believe](https://open.spotify.com/track/2xdQMKQ0ZO1O6WtAImKmYK) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Believe](https://open.spotify.com/album/69nguqg69B4l4CnSHlQpzJ) | 3:02 |
 | 110 | [Hold On](https://open.spotify.com/track/5oThkXHCsfOCd0nctEYL8c) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Hold On](https://open.spotify.com/album/4tzJY3rsAnBKkdsYwGg1eG) | 2:50 |
 
-Snapshot ID: `MTY2NTY1ODk2MiwwMDAwMDAwMDYyZTBiMDJhNzRjNzI2OWNlOGY1ZTU2ZDYzMzhlZTQ2`
+Snapshot ID: `MTY2NTY1ODk2MiwwMDAwMDAwMDlhM2IyZTJhODlkOTIxZDhkMDUwZjgyZDgwODBmOGJk`

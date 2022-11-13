@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,605 likes - 93 songs - 5 hr 6 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,604 likes - 93 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gone](https://open.spotify.com/track/4usJd0yjr5igV4cIOHm1Rx) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Gone](https://open.spotify.com/album/2CJfKABD2L049XRjcDvvCx) | 2:41 |
-| 2 | [Spot It I Got It](https://open.spotify.com/track/7fHWYqJHAeM1eyvZZVbhwY) | [Nito NB](https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD), [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb) | [Spot It I Got It](https://open.spotify.com/album/61NAFgM8Hmj6sME58lAyh2) | 2:41 |
+| 2 | [Spot It I Got It](https://open.spotify.com/track/7fHWYqJHAeM1eyvZZVbhwY) | [Nito NB](https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD), [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Kilvertz](https://open.spotify.com/artist/630EGaAhpoclULwDw8Qf2P) | [Spot It I Got It](https://open.spotify.com/album/61NAFgM8Hmj6sME58lAyh2) | 2:41 |
 | 3 | [SMOKE](https://open.spotify.com/track/54KIiAACOVn736iuStrQH6) | [KAVO](https://open.spotify.com/artist/4Rsw28ARMutnjj588QlyWT) | [SMOKE](https://open.spotify.com/album/3L6OqofrbPjmKNhmLqg7TK) | 2:07 |
 | 4 | [Pieces](https://open.spotify.com/track/4WLRvmJpsjRdAAArxYwfnH) | [Bea Anderson](https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG) | [Pieces](https://open.spotify.com/album/447wRRDDR6iKnIEyDo8vM8) | 3:13 |
 | 5 | [Santa Barbara Fireflies \- Remix](https://open.spotify.com/track/5xmGYcNFM7oyq9ATd3iVUs) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [ZAPPED!](https://open.spotify.com/album/05H3LeHnybAnneFjlrZiwX) | 2:36 |

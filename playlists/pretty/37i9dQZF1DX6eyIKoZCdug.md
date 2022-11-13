@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,629 likes - 70 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,744 likes - 70 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 61 | [Ababuyanga](https://open.spotify.com/track/61fo1fYkvovgboDvh96ypB) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte) | [Ababuyanga](https://open.spotify.com/album/7cxge2UzseXMcSs2BMlGrg) | 6:15 |
 | 62 | [Phuze](https://open.spotify.com/track/1kny8eA0I5sU4deUq8dqfi) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H) | [Phuze](https://open.spotify.com/album/4LjhAwYIgU7lqqcM1hUZjv) | 6:06 |
 | 63 | [Higher](https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Higher](https://open.spotify.com/album/4r70J7JF6RgIDNYFUFZjBz) | 8:13 |
-| 64 | [Too Sweet \(O Dun\)](https://open.spotify.com/track/2cddUAysuPylQ5wVtdAUWy) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Lagos to Jozi](https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp) | 3:36 |
+| 64 | [Too Sweet \(O Dun\)](https://open.spotify.com/track/1EX1Pke2k6d2ry5XLbDtqE) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Too Sweet \(O Dun\)](https://open.spotify.com/album/253e0DnC2BETCzs8ukwBkn) | 3:36 |
 | 65 | [uZuma Yi Star](https://open.spotify.com/track/5nODRjipBlMl6SJ4ZQ6oVD) | [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [uZuma Yi Star](https://open.spotify.com/album/7EECsOk0jkqwqkHi8B3Im1) | 6:38 |
 | 66 | [Trip Session](https://open.spotify.com/track/7rUIoOYx3ati9dCRWQdufx) | [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Trip Session](https://open.spotify.com/album/3WQzxeVf6BkspkAR8FKkMA) | 6:56 |
 | 67 | [Faster](https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Faster](https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p) | 4:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 69 | [Gijima](https://open.spotify.com/track/4Hmn7cV99LSZvSh2nqEqRX) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4) | [The Landlord](https://open.spotify.com/album/2OafnFHNqwbtUvIXesnSth) | 6:02 |
 | 70 | [Jamii Yetu \- Thandi Draai Rework](https://open.spotify.com/track/7zG9XZJft8wtIg4C1dVvOq) | [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Paradise Reworks](https://open.spotify.com/album/1ToafUTjBO6JMd7YuwgGDE) | 5:26 |
 
-Snapshot ID: `MTY1NDI1OTY0OSwwMDAwMDAwMDM3OTkxMGIyM2JlMzNiZDU0NmQwYzU5YThhYTE3ZTUz`
+Snapshot ID: `MTY1NDI1OTY0OSwwMDAwMDAwMGNhOTQ2YWVlMzFhM2U3ZWY4MDE4MmFkOWI1MDM1N2Vj`

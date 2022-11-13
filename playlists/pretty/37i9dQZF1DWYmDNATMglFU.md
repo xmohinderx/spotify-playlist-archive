@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,152 likes - 91 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,237 likes - 91 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 32 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 |
 | 33 | [Sunlight On Your Skin](https://open.spotify.com/track/30Q0qdSvz35LkIErmO4r2Z) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sunlight On Your Skin](https://open.spotify.com/album/7dcmY66YdaZB99fItAaLxG) | 3:18 |
 | 34 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 |
-| 35 | [Next Ex](https://open.spotify.com/track/0STS8KJXMAwSr4OmJV2THj) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Rock Brandneu](https://open.spotify.com/album/78ZxW9RlB2wiVZZnNo93R9) | 2:10 |
+| 35 | [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 |
 | 36 | [self sabotage](https://open.spotify.com/track/5d3Cl60y4e8LTLpq6EN7Mk) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [self sabotage](https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C) | 3:02 |
 | 37 | [Skeleton](https://open.spotify.com/track/6OBDJYuAucuCcBLhMmf1m9) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Elsewhere](https://open.spotify.com/album/5bQTYnJyhbf2nCTpyTuTOD) | 3:23 |
 | 38 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
-| 39 | [DEEP CUTS](https://open.spotify.com/track/7q9xpIuDaUShbrXdFw54gu) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/album/5axzKeJiGWgRV4OlFdSPHL) | 4:14 |
+| 39 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 40 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 |
 | 41 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 42 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/5JKnYZOhSP7rOK0jPYcCjV) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:48 |
 | 80 | [F U Energy](https://open.spotify.com/track/01L4VsVDGb2IZcBg46MQG5) | [Milky Sad](https://open.spotify.com/artist/4k6PM95PG6LCnlWF79mjir) | [F U Energy](https://open.spotify.com/album/403JyTE9encL7TytDXtHSW) | 2:06 |
 | 81 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 |
-| 82 | [Paranoid](https://open.spotify.com/track/0VGWr1QxSZQmvyxa5UHafg) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lifeless Stars](https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU) | 4:17 |
+| 82 | [Paranoid](https://open.spotify.com/track/2pLqMA9nKEHLLfBGHroLOh) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:17 |
 | 83 | [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 |
 | 84 | [this might be our last december](https://open.spotify.com/track/0vKSOTSPy2SgcChNoBR77c) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [just in case the world ends](https://open.spotify.com/album/3X1H1Xq8rAcMQUE27sSSzi) | 3:26 |
 | 85 | [i'm not crying you're crying](https://open.spotify.com/track/2EEBYFmjdsVLmDhXXGLfZi) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm not crying you're crying](https://open.spotify.com/album/1kBr8aY2qHp1JE43Kadnby) | 2:49 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 90 | [Hold On](https://open.spotify.com/track/3dl6BNoUgzvtG2aQ2hqzKO) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [Hold On](https://open.spotify.com/album/6Phz8GiLOJLu4c1JPEjf3h) | 3:15 |
 | 91 | [In Over My Head](https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:18 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMGJkOTE4OTE5ZGZlOTY0NmE2ZmFhY2ZkMTMwODI3YTUx`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMGM0YzZkMmRmMGQyYzYzMzYwNGI4OTBjMjIzNDM0OWQ4`

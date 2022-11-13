@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 10082,
+  "num_followers": 10112,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1ODg1MCwwMDAwMDAwMDdiODJkYmM3NWYzMjBiMDc5MjdhMDE2MTc1YmQ2M2Iy",
+  "snapshot_id": "MTY2Njg1ODg1MCwwMDAwMDAwMGNjYWU0YzZlOTY5NjA1MmQ3NmIyY2U2NTQxOWYwZWU2",
   "tracks": [
     {
       "added_at": "2022-10-11 13:06:46",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "How Deep Is The Ocean",
-      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Nights Of Ballads & Blues",
         "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 322560,
       "name": "Blue Monk",
       "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "How Deep Is The Ocean",
+      "url": "https://open.spotify.com/track/3Cx9inYYVQw4VEUrwKgPuX"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -491,22 +491,6 @@
       "duration_ms": 198360,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -583,6 +567,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 370400,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "When Farmer Met Gryce",
         "url": "https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
+        "name": "Brass/Trio",
+        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Wrapped Tight",
-      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
+      "duration_ms": 270200,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -699,22 +715,6 @@
       "duration_ms": 575173,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "Brass/Trio",
-        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "On a Slow Boat to China",
-        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "On a Slow Boat to China",
-      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Stan Getz And The Cool Sounds",
         "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 204200,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "On a Slow Boat to China",
+        "url": "https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "On a Slow Boat to China",
+      "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "The Finest",
-        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 561400,
-      "name": "Silver's Serenade - 20-Bit Remastering/1997",
-      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Study In Brown",
         "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
       },
@@ -1331,6 +1315,38 @@
       "duration_ms": 311000,
       "name": "Jacqui",
       "url": "https://open.spotify.com/track/1uwY1ZqURcKJ9Fd7foMxPb"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "The Finest",
+        "url": "https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 561400,
+      "name": "Silver's Serenade - 20-Bit Remastering/1997",
+      "url": "https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "How My Heart Sings",
+      "url": "https://open.spotify.com/track/6wXyHw8n3mmrcqYJHimRPe"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "The Dancing Monk",
         "url": "https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 287840,
       "name": "Light Blue",
       "url": "https://open.spotify.com/track/49TAOnpGdf97IhLd6g4SaG"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1463,6 +1479,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 344373,
+      "name": "Yardbird Suite",
+      "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Back East",
         "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
@@ -1491,22 +1523,6 @@
       "duration_ms": 466026,
       "name": "If I Were A Bell",
       "url": "https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 344373,
-      "name": "Yardbird Suite",
-      "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
-      },
-      "artists": [
-        {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        }
-      ],
-      "duration_ms": 511093,
-      "name": "Soul-Lo Blues - Remastered 1997",
-      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Just You, Just Me",
         "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
       },
@@ -1655,6 +1655,22 @@
       "duration_ms": 208400,
       "name": "On the Sunny Side of the Street - 2003 Remastered Version",
       "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        }
+      ],
+      "duration_ms": 511093,
+      "name": "Soul-Lo Blues - Remastered 1997",
+      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Everybody Still Digs Bill Evans",
-        "url": "https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K"
+        "name": "The Jazz 100",
+        "url": "https://open.spotify.com/album/5dSukFZWRnMA6KwYrV2qvu"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 298720,
-      "name": "How My Heart Sings",
-      "url": "https://open.spotify.com/track/6iBSQbLkjKCP5TPhBseuBn"
+      "duration_ms": 325800,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/6mNK00q4KAtJNRBLmgffPz"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1719,22 +1735,6 @@
       "duration_ms": 145573,
       "name": "Lullaby Of Birdland - Remastered",
       "url": "https://open.spotify.com/track/4xNmp33QoI68gC99564ypR"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "The Jazz 100",
-        "url": "https://open.spotify.com/album/5dSukFZWRnMA6KwYrV2qvu"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 325800,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/6mNK00q4KAtJNRBLmgffPz"
     }
   ],
   "unique_name": "Brunch Jazz",

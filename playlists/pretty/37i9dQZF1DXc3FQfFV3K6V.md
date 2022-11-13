@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,044 likes - 136 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,084 likes - 136 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 30 | [Life Is Confusing](https://open.spotify.com/track/78s2tHrGmeYafyzumRfnqY) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Life Is Confusing](https://open.spotify.com/album/6Etm7L6piJ0Q0p3AbnDglC) | 3:47 |
 | 31 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 |
 | 32 | [Elliot's Song](https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Elliot's Song](https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy) | 2:33 |
-| 33 | [Save Me from Myself](https://open.spotify.com/track/0nGDvPqbLFdAK6YSnup81H) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 2](https://open.spotify.com/album/1GcwB9rGjefLQTB99KuCyL) | 3:17 |
+| 33 | [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 |
 | 34 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 |
 | 35 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
 | 36 | [Dust in the Wind](https://open.spotify.com/track/61xloqK2WobSa8A9HhxR1T) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Dust in the Wind](https://open.spotify.com/album/58D2WGUEH9zfhjOBfwBy39) | 3:15 |
-| 37 | [Annie’s Song](https://open.spotify.com/track/5RHki2k4mpVxjqbvv2JIYE) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Your Song](https://open.spotify.com/album/17wpR31pu1gRi2OHilvbdY) | 2:55 |
+| 37 | [Annie’s Song](https://open.spotify.com/track/2GAK2qFjh7mOCE24RiGi7i) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 2:55 |
 | 38 | [Listen to Your Heart](https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ) | [Grey Grey](https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t) | [Listen to Your Heart](https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV) | 3:06 |
 | 39 | [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 |
 | 40 | [He Stopped Loving Her Today](https://open.spotify.com/track/7sVwhAV6JKUhGBOzX6udf3) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [He Stopped Loving Her Today](https://open.spotify.com/album/1MXXJioCaf5UZ2JQO7dBlt) | 3:30 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 95 | [Heartbeats](https://open.spotify.com/track/5apRczvf1mIiHL4s4uhYlu) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/47Qge8RmoCNl1tAL5OmDer) | 2:42 |
 | 96 | [How Will I Know](https://open.spotify.com/track/4k8tHY77zVUMwY4TyB18vS) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [How Will I Know](https://open.spotify.com/album/3MMVkmufzMzArPQ4zTK99l) | 3:57 |
 | 97 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
-| 98 | [Landslide](https://open.spotify.com/track/4LukM96ZHxPL8KPhdEARzS) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [Landslide](https://open.spotify.com/album/5dUOVCaTo5aaXt1S7zRnzt) | 3:38 |
+| 98 | [Landslide](https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2) | 3:38 |
 | 99 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/6y0G798fs8GW7hgAZ9Jqbx) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/3jge9qVwcy42Za1AZz0390) | 4:06 |
 | 100 | [Ridin' Solo](https://open.spotify.com/track/6VtXVWUzeJ4BtW08ppm9CH) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Ridin' Solo](https://open.spotify.com/album/7w5z58RtTGZn5JRUMlV0Tk) | 4:07 |
 | 101 | [Wonder](https://open.spotify.com/track/3AfGSGi7tctvzyaw4yZy7A) | [Kiki Halliday](https://open.spotify.com/artist/26KHYTbrhP5S5VBPlAkGC4) | [Wonder](https://open.spotify.com/album/3wSWVHcvmaxCXSH8eA2hJL) | 3:00 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 121 | [Running Out \- Live From The Studio](https://open.spotify.com/track/2iAy8pc1c5qEyHBETuiVP4) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Running Out \(Live From The Studio\)](https://open.spotify.com/album/4UBss9tPBdE1Pjh5tvz6Vf) | 2:45 |
 | 122 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
 | 123 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4) | 3:30 |
-| 124 | [She Doesn't Mind](https://open.spotify.com/track/2Zis5AikaFO9h8rM5e4Z1v) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [She Doesn't Mind](https://open.spotify.com/album/0evXINNrzDRfe18Y9qXR8D) | 3:29 |
+| 124 | [She Doesn't Mind](https://open.spotify.com/track/1bmt9LlrjBT0JH1nHpoiaI) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Covers By OSIS \(Pt\. 1\)](https://open.spotify.com/album/5TDrj1NmZ1JGtV837nf2iK) | 3:29 |
 | 125 | [Drag Me Down / As Long As You Love Me](https://open.spotify.com/track/2YIQa8910IbEuqkUHmUoua) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 3:26 |
 | 126 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 |
 | 127 | [Someone You Loved \(Cover\)](https://open.spotify.com/track/53W8zd1F4QASq67PsllYOG) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Patchwork](https://open.spotify.com/album/65f1t781sotHbcAco6nnZN) | 3:03 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 135 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/5PacEiW4GT9mLA1d0W95tA) | [Vivid Color](https://open.spotify.com/artist/4qXCADLD9pMWPUkOBCLQ9H) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/4mR4c3Ljm6Ch58uEOiGk1N) | 3:17 |
 | 136 | [Scared To Be Lonely \- Acoustic](https://open.spotify.com/track/2R0Z1JwgoCsBeoWErbAHgs) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scared To Be Lonely](https://open.spotify.com/album/0gFkq8SkHKL5YbNfvm4yMs) | 3:20 |
 
-Snapshot ID: `MTY2MzY3MzQxMywwMDAwMDAwMDk5YzQwZmY2YjExMTYzNWQxMWI1NjIyMTc3OWI3ODE4`
+Snapshot ID: `MTY2MzY3MzQxMywwMDAwMDAwMDgwNjJjYTMyMzMwN2U1NGE3ODIyNTcyMTNhN2E1MDBl`

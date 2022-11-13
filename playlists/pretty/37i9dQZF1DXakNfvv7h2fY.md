@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 
 > Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,225 likes - 66 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,263 likes - 66 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 56 | [Blues With A Feeling](https://open.spotify.com/track/6oQFjbpdEaiOkvwURZR3Yi) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [His Best \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/7iaxZVDD9GDsJqHupSzJI0) | 3:10 |
 | 57 | [Luedella](https://open.spotify.com/track/7mnqNjYnZ8V1R7PhM7ZlNC) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:54 |
 | 58 | [Blues Leave Me Alone](https://open.spotify.com/track/0YSuuWNEpDqwP6goPc8neX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 3:06 |
-| 59 | [How Blue Can You Get? \- Single Version](https://open.spotify.com/track/7dG15kDzx9JwgI3UO5RWjw) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Chill Soul For Kids](https://open.spotify.com/album/0xFj2zRBiQT5tIquCN4oyz) | 2:44 |
+| 59 | [How Blue Can You Get?](https://open.spotify.com/track/1zuVsc5gf2S2Fp5achygUi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Anthology](https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb) | 2:40 |
 | 60 | [Salt In My Wounds](https://open.spotify.com/track/3gpcMzfOzzJXyLEOvyXnMZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 4:14 |
 | 61 | [Nobody's Fault but Mine](https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:00 |
 | 62 | [Trouble In Mind](https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 3:43 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakNfvv7h2fY.md) - [plain]
 | 65 | [Sittin' Here Thinkin](https://open.spotify.com/track/5HrztaUeeQaraA5IsBWzm6) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:07 |
 | 66 | [Broke and Hungry](https://open.spotify.com/track/2LkthyImwECrhIQDmygSfC) | [Hubert Sumlin](https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9) | [My Guitar and Me \(Blues Reference\)](https://open.spotify.com/album/0KojeQ3QJNd05QIeSHQ3z3) | 5:51 |
 
-Snapshot ID: `MTY2NDU1OTk0NiwwMDAwMDAwMDkyYjM4OWY4ZDc4ODk4OGY4ZGVjZWYwODZjZjBhYjM3`
+Snapshot ID: `MTY2NDU1OTk0NiwwMDAwMDAwMGUxMTlhYTFmOTExMjQ5OThlZDc4M2Q4YzY3YmRhYzdk`

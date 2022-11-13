@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Uplifting, slow House music to work or relax to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,234 likes - 131 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,321 likes - 131 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 2 | [Base\-level Guilt](https://open.spotify.com/track/5zKasYyHSZ6oNpxdNGrGZg) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Base\-level Guilt](https://open.spotify.com/album/24d5RGnCIcRoIdcEzBHJMp) | 3:06 |
 | 3 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 |
 | 4 | [Vows](https://open.spotify.com/track/3YM22gJuH8VgRP59PbNyV1) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Vows](https://open.spotify.com/album/2Uh8FuQj3xWmCOvYImInB3) | 2:17 |
-| 5 | [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/4UU42jIRT8rUaIaT9jfhaW) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [This Life \(Y.V.E\. 48 Remix\)](https://open.spotify.com/album/7qUEeiTeDYJZlfiVQ5ooPo) | 2:29 |
+| 5 | [This Life \- Y.V.E\. 48 Remix](https://open.spotify.com/track/7bB7YV957eCZIlbUuq5DCT) | [PINES](https://open.spotify.com/artist/3SL3PIAghJvyjrCZkZQXhZ), [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Dreamcycle Remixed](https://open.spotify.com/album/3wevT6WYX9tZcuIjqw78AP) | 2:29 |
 | 6 | [Chilldown](https://open.spotify.com/track/4lxAbdXlQ2xivHxuSDeTqK) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Chilldown](https://open.spotify.com/album/63JZbJhSHg8co0exh1eZRM) | 2:28 |
 | 7 | [between eyes](https://open.spotify.com/track/3WzlaiEMtEOV36Lw35kUxR) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [between eyes](https://open.spotify.com/album/2iJzd1Ca4FL4xCl8nuhJQL) | 2:37 |
 | 8 | [Wonder](https://open.spotify.com/track/0VFXwg439NhTgmO7uw1Kft) | [shandr](https://open.spotify.com/artist/2DNdJPmAKrAOWKBTvyTsJU) | [Wonder](https://open.spotify.com/album/7HYwr2EaibMllKpOano9At) | 2:12 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 130 | [Lost Boys](https://open.spotify.com/track/4pCD8UePjCSLPBZMiWbV2R) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Lost Boys](https://open.spotify.com/album/3HsiVf90EsNt1Bjk0KAcH1) | 3:17 |
 | 131 | [Your Type](https://open.spotify.com/track/2opemWX71oebOvol9at15T) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Your Type](https://open.spotify.com/album/3CpL725jrZokuSmI7KMtLH) | 2:09 |
 
-Snapshot ID: `MTY2Njk2MDkwMSwwMDAwMDAwMDIxY2Y4MDE3M2QyNzE4ZTFlNjk4NGY0MTU0ZTcwY2Ez`
+Snapshot ID: `MTY2Njk2MDkwMSwwMDAwMDAwMGEyYjk1ZDIxZTZiNDQ4Yzg2MzA0MDMyZDFkNGM3OGRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: TOKIODK
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,675 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,685 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 30 | [Armamento do Irã](https://open.spotify.com/track/4xuicbmwt51tQDP9gP58oS) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [D r o p e](https://open.spotify.com/artist/7gi8fAAoPMkO2vcESXGG2Y), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Olympio](https://open.spotify.com/artist/1nR1Ogb4hP9WzmUbIArZ72) | [Armamento do Irã](https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3) | 4:19 |
 | 31 | [7 Velas](https://open.spotify.com/track/3O0Psgcf7AQXoYfgqp9c7K) | [PoetaNoBeat](https://open.spotify.com/artist/3mFb9oHAuhW1RmrR7St4vP), [monog](https://open.spotify.com/artist/6w2v8qBcnzlbxgspiEvHPA), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [7 Velas](https://open.spotify.com/album/1Z17IlMM1tKTqlKM8qQL2V) | 2:09 |
 | 32 | [Caro](https://open.spotify.com/track/3D0SvoPAta7wZkRkFbOFT3) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu) | [Caro](https://open.spotify.com/album/0sPxkDg3IdEvXWQtlaDVF3) | 2:58 |
-| 33 | [Família de Raça](https://open.spotify.com/track/1QGRyTHSk3KhiC7J6FZC5R) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/3hPQKI8AbrcFoyEMpAdmRZ) | 2:59 |
+| 33 | [Família de Raça](https://open.spotify.com/track/5Ho4B8wcznNcNKE6s31RIJ) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Família de Raça](https://open.spotify.com/album/0BFDHJKqQQ04fh5P9v2o8q) | 2:59 |
 | 34 | [Fazendo o Sinal](https://open.spotify.com/track/0azZcZsS8POiuYJQMM8b7Q) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Fazendo o Sinal](https://open.spotify.com/album/6CBy7iii9xKJJr7C4lCnQe) | 2:41 |
 | 35 | [Questão de Moda](https://open.spotify.com/track/59sFoLdhJQT2Q0Fsa0xUce) | [Marginal Supply](https://open.spotify.com/artist/1xezfhrRJTpRtYZPplWHcJ), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Linus](https://open.spotify.com/artist/39gD9lzqnC5SO69fzdRizg) | [Questão de Moda](https://open.spotify.com/album/0VYqi2kj5ZVRJlpuGebb0v) | 3:43 |
 | 36 | [Programado pra Morrer](https://open.spotify.com/track/0Zo1u04qDDlH2qhWqXGCN8) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [Programado pra Morrer](https://open.spotify.com/album/05BrJ0ScVVXBp5cYEjelI2) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Racista e N1Ke](https://open.spotify.com/track/6H8nX3tFacYnblGvvPj2wW) | [Guiu](https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Soffiatti](https://open.spotify.com/artist/0fp1kryPt0aoqURkuCQLon) | [Racista e N1Ke](https://open.spotify.com/album/0D8wqw8q3pdMLoV6GICivh) | 3:11 |
 | 75 | [Moda Síria Anti\-Adidas](https://open.spotify.com/track/489WqSvCOYoNvXdAzVzB8h) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Moda Síria Anti\-Adidas](https://open.spotify.com/album/4JkaYSzvjU6Cx8zAwkFE0d) | 3:28 |
 
-Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMDU3YzkwM2JmMDFhOWE0YjIyNjQ4MjIwMTQ5Y2Y1YWU2`
+Snapshot ID: `MTY2ODEzNTY2MCwwMDAwMDAwMGEzMTFmNDNjMGZjNGMzZGUxZDJiMWNlNGUzZjhhNTdh`

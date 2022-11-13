@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,109 likes - 113 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,170 likes - 113 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 31 | [Brain Damage](https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO) | [The Austin Lounge Lizards](https://open.spotify.com/artist/4O4nf1pPdZh0crQObAC8um) | [Lizard Vision](https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9) | 2:31 |
 | 32 | [You Are My Sunshine](https://open.spotify.com/track/2VTUz4vnpsKwR9wluFNP59) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:20 |
 | 33 | [New Slang](https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to The Shins](https://open.spotify.com/album/1Nl3ddmgHlbuFp1v7nCHIC) | 4:13 |
-| 34 | [The Boxer](https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:05 |
+| 34 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
 | 35 | [You’ll Never Leave Harlan Alive](https://open.spotify.com/track/6L2HXRIVKkMbpzqjE8oYnW) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:55 |
 | 36 | [Superstition](https://open.spotify.com/track/2KojzDNCOj7EQfasSNtXAn) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/441lN6kH5dgprlB88b6cbF) | 3:23 |
 | 37 | [Jolene](https://open.spotify.com/track/2NAxj5QpHT7YqpxQdil0jF) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Back Home Again](https://open.spotify.com/album/4ilyNd7mmBL3EdkHl6vAc3) | 3:16 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 51 | [Walking on Sunshine](https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine](https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B) | 3:07 |
 | 52 | [Get Rhythm](https://open.spotify.com/track/5zYT8PNbW8CmEx5lsJFc2E) | [James Hand](https://open.spotify.com/artist/0LhTZWBL8vvxZhJxYBWUmi) | [Get Rhythm](https://open.spotify.com/album/33BZQZJpcH5WT0fX0NxCxN) | 1:42 |
 | 53 | [Loser](https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:19 |
-| 54 | [Don't You Want Me](https://open.spotify.com/track/6KUqD4ARwYd4HKBge53mla) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Acustic Hits 2020](https://open.spotify.com/album/0TE1Oc5OANq645xPnBrm64) | 3:19 |
+| 54 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
 | 55 | [For The Turnstiles](https://open.spotify.com/track/7kpGyXljXAINZnybcsNRkn) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/7vmiUDLIp6w1s4NYDAWjej) | 4:26 |
 | 56 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
 | 57 | [99 Problems](https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES) | [Hugo](https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX) | [Old Tyme Religion](https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6) | 2:17 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 112 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 | 113 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGIyNTlmNTZlYzg1NjVmMDk5ZDY2MDZjOTRhZjI3NjE2`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGQ1Y2Q2N2QzMWIyNmUyNjliOGRhMTg0NWFmMzIzZWJk`

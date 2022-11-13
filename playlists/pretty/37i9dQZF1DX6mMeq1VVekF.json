@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 129302,
+  "num_followers": 129352,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGU1MzA2NjU2OGNlZmQ2YzBmMDQzZGQ1NmJjZTliMjA1",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMGI5YzRkMDg3OGVmOWY0MzU5ZGYzZGE4ODI2ZWVlY2Nm",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Eye for an Eye",
+        "url": "https://open.spotify.com/album/06ttneqqTXDO9pGsRGzRO7"
+      },
+      "artists": [
+        {
+          "name": "Benny Banks",
+          "url": "https://open.spotify.com/artist/6VkIVwkujaxm1wSNdhjUrg"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Eye for an Eye",
+      "url": "https://open.spotify.com/track/1KjxNspmKdAncNRGNggUGk"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "Back2Roadz",
         "url": "https://open.spotify.com/album/4h4vZc4NDKHRrlV5AYEgv8"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 209693,
       "name": "Back2Roadz",
       "url": "https://open.spotify.com/track/2ZXoSRvhNk1tAGjBHA66bN"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -615,22 +615,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Antidote (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         },
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 202626,
-      "name": "Antidote (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -651,6 +651,42 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Antidote (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "Antidote (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
         "name": "All My Girls Like To Fight",
         "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
       },
@@ -667,22 +703,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Rainforest",
+        "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 162436,
+      "name": "Rainforest",
+      "url": "https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -707,6 +739,22 @@
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Get Inspired",
+        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 173152,
+      "name": "Get Inspired",
+      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -743,46 +791,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Get Inspired",
-        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 173152,
-      "name": "Get Inspired",
-      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Ke Star (Remix)",
-        "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
-      },
-      "artists": [
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Virgo Deep",
-          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
-        }
-      ],
-      "duration_ms": 328766,
-      "name": "Ke Star - Remix",
-      "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Girl Eats Sun",
         "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
       },
@@ -799,22 +807,6 @@
       "duration_ms": 183769,
       "name": "Cherries",
       "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -851,18 +843,62 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Zipcodes",
-        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+        "name": "Ke Star (Remix)",
+        "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
       "artists": [
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Virgo Deep",
+          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
         }
       ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
+      "duration_ms": 328766,
+      "name": "Ke Star - Remix",
+      "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -879,6 +915,22 @@
       "duration_ms": 178167,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2dPljTAcJMuHXwojPtsv3h"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Zipcodes",
+        "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -903,26 +955,6 @@
       "duration_ms": 312000,
       "name": "Scary Sight",
       "url": "https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -969,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf"
     },
     {
-      "added_at": "2022-11-12 05:25:32",
+      "added_at": "2022-11-13 01:36:29",
       "album": {
         "name": "Love is a Lottery",
         "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
@@ -1039,46 +1071,6 @@
       "duration_ms": 165306,
       "name": "Sometimes I Feel Like A Motherless Child",
       "url": "https://open.spotify.com/track/0ZbsKlIZ1LBXEmCJOaO3pO"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Send Them To Coventry",
-        "url": "https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "Energy (feat. Mahalia)",
-      "url": "https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT"
-      },
-      "artists": [
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 319758,
-      "name": "Im Workin (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/4cqjB1MFbHYmCzN6ENAbOV"
     }
   ],
   "unique_name": "Free Form",

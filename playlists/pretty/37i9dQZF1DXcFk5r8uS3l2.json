@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 417723,
+  "num_followers": 417776,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGY3NmJhMWY2ZWVkZDVlZDRjNDg5YTViODEwZWJjMzUw",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDAyYzAyOTg4NWY0ZmMxOTNiN2E4MTJkNDc2MDQ0ZmFm",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 174520,
+      "name": "Sure Don't Miss You",
+      "url": "https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Encore",
@@ -223,22 +239,6 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "The Revivalists",
-        "url": "https://open.spotify.com/album/6c65k7oQyZ1VIaDvOlOwQT"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 392800,
-      "name": "Soulfight",
-      "url": "https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -271,6 +271,22 @@
       "duration_ms": 233413,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "The Revivalists",
+        "url": "https://open.spotify.com/album/6c65k7oQyZ1VIaDvOlOwQT"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 392800,
+      "name": "Soulfight",
+      "url": "https://open.spotify.com/track/3TQxkQsyJS03EUwl02Qaub"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -307,22 +323,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 221476,
-      "name": "neve give up",
-      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Good To You",
         "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
       },
@@ -339,6 +339,38 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 221476,
+      "name": "neve give up",
+      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Side Pony",
         "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
       },
@@ -351,6 +383,22 @@
       "duration_ms": 248386,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -371,6 +419,22 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
+        "name": "Light (Edit)",
+        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Light - Edit",
+      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -383,6 +447,38 @@
       "duration_ms": 213093,
       "name": "Souled Out On You",
       "url": "https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 195340,
+      "name": "belladonna",
+      "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -417,22 +513,6 @@
       "url": "https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Light (Edit)",
-        "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Light - Edit",
-      "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "stripped back (Stripped Back)",
@@ -465,20 +545,20 @@
       "url": "https://open.spotify.com/track/5MwOpeeCnMTXxTAtM9nsYr"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-05-27 04:03:00",
       "album": {
-        "name": "aloha",
-        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+        "name": "Mellow Summer",
+        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 195340,
-      "name": "belladonna",
-      "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
+      "duration_ms": 238560,
+      "name": "River",
+      "url": "https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -515,22 +595,6 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Sure Don't Miss You",
-        "url": "https://open.spotify.com/album/650kATa4wiGNPX25qf6ddb"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -633,6 +697,22 @@
       "url": "https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp"
     },
     {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "The Angels In Heaven Done Signed My Name",
+        "url": "https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa"
+      },
+      "artists": [
+        {
+          "name": "Leo \"Bud\" Welch",
+          "url": "https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd"
+        }
+      ],
+      "duration_ms": 165727,
+      "name": "Don't Let The Devil Ride",
+      "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "That's What I Heard",
@@ -647,6 +727,22 @@
       "duration_ms": 306533,
       "name": "This Man",
       "url": "https://open.spotify.com/track/06s7QRpHfeiKL3YCIRTKxg"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Ice Cream & Cigarettes",
+        "url": "https://open.spotify.com/album/0UQLBWKz03PwXhVUocA0Ir"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Ice Cream & Cigarettes",
+      "url": "https://open.spotify.com/track/7Bntt8rWxHqZ8HB0BTC7Tx"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -761,22 +857,6 @@
       "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "That's How Love Is Made",
-        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "That's How Love Is Made",
-      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Keep On",
@@ -809,38 +889,6 @@
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Have A Ball",
-        "url": "https://open.spotify.com/album/2DxhN63gMkdmNEMrCGn2AT"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 144985,
-      "name": "Have A Ball",
-      "url": "https://open.spotify.com/track/0M5ulWgUKiuyaVbs4h3jCI"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "When the Cellar Children See the Light of Day",
@@ -855,6 +903,22 @@
       "duration_ms": 180077,
       "name": "Oak Tree",
       "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "That's How Love Is Made",
+        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "That's How Love Is Made",
+      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -887,6 +951,22 @@
       "duration_ms": 260333,
       "name": "Roll With Me",
       "url": "https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1093,22 +1173,6 @@
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Freedom Road",
-        "url": "https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG"
-      },
-      "artists": [
-        {
-          "name": "Indra Rios-Moore",
-          "url": "https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9"
-        }
-      ],
-      "duration_ms": 223182,
-      "name": "Freedom Road",
-      "url": "https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95"
-    },
-    {
       "added_at": "2022-07-26 14:55:05",
       "album": {
         "name": "Bloodline Maintenance",
@@ -1123,6 +1187,22 @@
       "duration_ms": 187027,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Freedom Road",
+        "url": "https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG"
+      },
+      "artists": [
+        {
+          "name": "Indra Rios-Moore",
+          "url": "https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9"
+        }
+      ],
+      "duration_ms": 223182,
+      "name": "Freedom Road",
+      "url": "https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1175,86 +1255,6 @@
       "duration_ms": 232600,
       "name": "What Did I Do",
       "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "U kin B the Sun",
-        "url": "https://open.spotify.com/album/4N5WuLpUuLCY98TrthGv3C"
-      },
-      "artists": [
-        {
-          "name": "Frazey Ford",
-          "url": "https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "The Kids Are Having None Of It",
-      "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf"
-      },
-      "artists": [
-        {
-          "name": "Earl St. Clair",
-          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Man On Fire - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Mellow Summer",
-        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "River",
-      "url": "https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Made In Muscle Shoals Vol. 2",
-        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Got Love - Made In Muscle Shoals",
-      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Me to You",
-        "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 150560,
-      "name": "Gonna Walk This Road",
-      "url": "https://open.spotify.com/track/1VcKAAbJoU9tUtjrLHuEAW"
     }
   ],
   "unique_name": "Blues Roots",

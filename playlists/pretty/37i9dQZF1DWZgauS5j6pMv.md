@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Louis Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,170 likes - 99 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,242 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 53 | [End of Tha Night](https://open.spotify.com/track/4FCEeZGENqjVz9dDRsKJoM) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4), [W1SE](https://open.spotify.com/artist/5YZ60iVD9jdR63DD2jUhSt) | [End of Tha Night](https://open.spotify.com/album/4H51nFp0Ojxn4mRa8WHraj) | 3:09 |
 | 54 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 |
 | 55 | [Until I Get Back](https://open.spotify.com/track/2inueyaWWmc0Hu0LJwMetH) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Until I Get Back](https://open.spotify.com/album/0mqVkEjfEhg8jXz7HRtWqJ) | 4:33 |
-| 56 | [Worthy](https://open.spotify.com/track/3wW5QHrAR5ZTUQq0KUU7Cz) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Top of the World](https://open.spotify.com/album/5HUQK5qMKyPnM8mo314pgD) | 3:05 |
+| 56 | [Worthy](https://open.spotify.com/track/1krA127HmUwvlJXTqNiozw) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:05 |
 | 57 | [Keep That Funk Alive](https://open.spotify.com/track/6pSQEg63mPYvaXQVJdmEy9) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Unify](https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5) | 4:21 |
 | 58 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 | 59 | [Coming Around](https://open.spotify.com/track/7nEZs0rR5vKoZa1m1fRkeO) | [Lazy Habits](https://open.spotify.com/artist/3Bwm7GVj1bGNj6fxf80OKP), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Vermillion Sands](https://open.spotify.com/album/22DvsqJ1U6RUjR3oYeFhQx) | 3:59 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 78 | [Pressure](https://open.spotify.com/track/6R8q5huZOkxRUdbq3JsTDp) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Pressure](https://open.spotify.com/album/0tIlSRHdKJQ1ABFNClsglz) | 3:23 |
 | 79 | [Wagmi Express](https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Water 4 The Soul II](https://open.spotify.com/album/7AjqMjfxFB7r5ZX1UyEMU9) | 3:35 |
 | 80 | [No ID](https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [No ID](https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd) | 3:11 |
-| 81 | [BURN YOU OUT](https://open.spotify.com/track/3p3RcGXbWFY9SfMuLYfXET) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [BURN YOU OUT](https://open.spotify.com/album/22BaiIbE2S8cYv5wWmAnR2) | 3:04 |
-| 82 | [Feeling Of Love](https://open.spotify.com/track/1a7aRhbDXm9pGxlutnxznU) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Boy \(Deluxe\)](https://open.spotify.com/album/1a2JGK5R2uRW4UX1mbAwHi) | 4:25 |
+| 81 | [BURN YOU OUT](https://open.spotify.com/track/6XTiMdM4asDBoJlZ6VTmUR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 3:04 |
+| 82 | [Feeling Of Love](https://open.spotify.com/track/08hiTUdlkeFpCFqdxsnjOh) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Boy](https://open.spotify.com/album/5R4MKy2TupcljTY07AcAWv) | 4:25 |
 | 83 | [Maintain \- Jafunk Remix](https://open.spotify.com/track/1OzmRyRimHYkCn95HpHuU2) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Maintain \(Jafunk Remix\)](https://open.spotify.com/album/4s3XM6cFpopwRnit42eBGq) | 3:13 |
 | 84 | [Trust Me](https://open.spotify.com/track/07o395Wrt3pGfyh7ZWFrCz) | [Sly Johnson](https://open.spotify.com/artist/24k5M16PEcrJudqAYEoLB7) | [Trust Me](https://open.spotify.com/album/0O0PG52c1uvXqPJdxjAEpX) | 3:05 |
 | 85 | [Here You Are](https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr) | [Lukas Setto](https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ) | [Here You Are](https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL) | 3:08 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 90 | [Lost Myself](https://open.spotify.com/track/5YZYw60dD9M1NZDjHSByqs) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Lost Myself](https://open.spotify.com/album/3sklQMiJt3Nzjparx4K4N9) | 3:28 |
 | 91 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
 | 92 | [Alibi](https://open.spotify.com/track/4Gf0lz0QLodvGRqTDLnWQ6) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [FATHERDUDE](https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z) | [Welcome Back Era](https://open.spotify.com/album/41zEHhnIYYgnQdW9Si2YVf) | 3:34 |
-| 93 | [Bad Weather \- STR4TA Remix \(Radio Edit\)](https://open.spotify.com/track/4EHiaWRTH7lmZyx3Y4PFAm) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody), [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Shapes: Spectrum \(Compiled by Robert Luis\)](https://open.spotify.com/album/1O5O8ApAjCsUzJcQaHAS6p) | 3:31 |
+| 93 | [Bad Weather \- STR4TA Remix \(Radio Edit\)](https://open.spotify.com/track/2jLZjkEclqKAbFefuLfenW) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody), [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Bad Weather](https://open.spotify.com/album/1bwgOsclXAxyvkAoHx8DFk) | 3:31 |
 | 94 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 |
 | 95 | [Express](https://open.spotify.com/track/75Mp8SoON8fbpcOtNx3PwN) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [All In The Family](https://open.spotify.com/album/2DUBK14GtWoErG8eTy6fqI) | 3:13 |
 | 96 | [Skate with Me](https://open.spotify.com/track/1mVrIfEExkhtGUSkiHjDdl) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Mike Nasa](https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3) | [Weekend Love](https://open.spotify.com/album/3fLnW74xbTAu3SnWlDHOsN) | 1:53 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 98 | [Your Sweet Power](https://open.spotify.com/track/4TdfrvxJ2OD1IMMgq4ip0t) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Sweet Power](https://open.spotify.com/album/0jaJ9e6vSp9noMKJ0xlOaD) | 2:50 |
 | 99 | [Stone Cold Lover](https://open.spotify.com/track/0S5odtCg5QVBkKCVu3vsrl) | [Anduze](https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn) | [Aura](https://open.spotify.com/album/2TbHzkncYSsWB5xTyl4MtN) | 4:06 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGRjMzczYjU5OGFlNDkzNmNmMmM0OTgwYTVlZTc2NDMx`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGM4NWJmZTczYjJkYWY5NmFkZDc0YzM5NWQ1ZjIwNWUx`

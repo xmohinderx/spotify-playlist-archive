@@ -1,12 +1,12 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 122427,
+  "num_followers": 122504,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzk1NDkyMywwMDAwMDAwMDRkYmJiY2VkMGZlMzdjYTdiYTVmYWEwZmExMmJiNmM2",
+  "snapshot_id": "MTY2Nzk1NDkyMywwMDAwMDAwMDgxOWI4Y2MyMWIzNTIxYTI3OGFmYzMyMWI3MmZjNjI5",
   "tracks": [
     {
       "added_at": "2022-11-09 00:48:43",
@@ -68,7 +68,7 @@
           "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 195294,
+      "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
@@ -2075,6 +2075,26 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
+        "name": "Flow HP",
+        "url": "https://open.spotify.com/album/3ExAyJjuHEUDxCgpFJ6Sqp"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 248273,
+      "name": "Flow HP",
+      "url": "https://open.spotify.com/track/44ndoilnBkP6bV3r7JKcv8"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
         "name": "Baby Glock",
         "url": "https://open.spotify.com/album/4QRoMdDeTyYizr9Jfo6knv"
       },
@@ -2155,22 +2175,6 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
       },
@@ -2191,34 +2195,18 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "Te Veo Bailar (feat. Brray & Alejandro Armes)",
-        "url": "https://open.spotify.com/album/3EXhIXQ22Kh8Up5lB1MSoX"
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Baby Rasta & Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 325174,
-      "name": "Te Veo Bailar (feat. Brray & Alejandro Armes)",
-      "url": "https://open.spotify.com/track/3CerlljsJSVaRrzESJQVWU"
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -2255,6 +2243,38 @@
       "duration_ms": 333400,
       "name": "PORFA - Remix",
       "url": "https://open.spotify.com/track/4iKznA0Zia7dNQxZ6574uC"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
+        "name": "Te Veo Bailar (feat. Brray & Alejandro Armes)",
+        "url": "https://open.spotify.com/album/3EXhIXQ22Kh8Up5lB1MSoX"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Baby Rasta & Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+        }
+      ],
+      "duration_ms": 325174,
+      "name": "Te Veo Bailar (feat. Brray & Alejandro Armes)",
+      "url": "https://open.spotify.com/track/3CerlljsJSVaRrzESJQVWU"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -2359,6 +2379,26 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
+        "name": "Creo (Remix)",
+        "url": "https://open.spotify.com/album/0CLFXd0a3YDeP7IPRb6ggh"
+      },
+      "artists": [
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Creo - Remix",
+      "url": "https://open.spotify.com/track/2ogNwewszcmto1CC2an0xO"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
         "name": "PAPI (feat. Babywine & Alberto Stylee)",
         "url": "https://open.spotify.com/album/5x4Jjd6EXn4pVW7sISuQjy"
       },
@@ -2387,26 +2427,6 @@
       "duration_ms": 187092,
       "name": "PAPI (feat. Babywine & Alberto Stylee)",
       "url": "https://open.spotify.com/track/2wQBzAZdsaqDBbtwBk5MhA"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
-        "name": "Creo (Remix)",
-        "url": "https://open.spotify.com/album/0CLFXd0a3YDeP7IPRb6ggh"
-      },
-      "artists": [
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Creo - Remix",
-      "url": "https://open.spotify.com/track/2ogNwewszcmto1CC2an0xO"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -2443,6 +2463,26 @@
       "duration_ms": 169000,
       "name": "LE GUSTA QUE LA VEAN",
       "url": "https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ"
+    },
+    {
+      "added_at": "2022-11-09 00:48:43",
+      "album": {
+        "name": "HiROQUEST: Genesis",
+        "url": "https://open.spotify.com/album/68QeWSGSKSQKI0mpDkP7Lg"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 210725,
+      "name": "Chi Chi",
+      "url": "https://open.spotify.com/track/6t8JfhZG9HV4mSI1FbVWff"
     },
     {
       "added_at": "2022-11-09 00:48:43",
@@ -2543,26 +2583,6 @@
     {
       "added_at": "2022-11-09 00:48:43",
       "album": {
-        "name": "Chi Chi",
-        "url": "https://open.spotify.com/album/0KAQkSymREz5IzJ107vBds"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 210725,
-      "name": "Chi Chi",
-      "url": "https://open.spotify.com/track/01I952VR9dTAPNr76YGxnN"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME"
       },
@@ -2591,26 +2611,6 @@
       "duration_ms": 161440,
       "name": "Tiradera",
       "url": "https://open.spotify.com/track/7JhM79M6RQCJEm1uUqTWi8"
-    },
-    {
-      "added_at": "2022-11-09 00:48:43",
-      "album": {
-        "name": "Guaracha y Perreo Pegado",
-        "url": "https://open.spotify.com/album/3cvNdcmFR7ZINwz8fQewlw"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 248273,
-      "name": "Flow HP",
-      "url": "https://open.spotify.com/track/5DfbXhst6ehIsufuAzRRni"
     },
     {
       "added_at": "2022-11-09 00:48:43",

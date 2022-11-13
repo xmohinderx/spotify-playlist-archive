@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,889 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,916 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 43 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
 | 44 | [Masan Aba](https://open.spotify.com/track/5urKBc7RRMxo4JEMVNcLcz) | [Akyeame](https://open.spotify.com/artist/32NBUNRmZFah6gedDMjvgd) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:46 |
 | 45 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
-| 46 | [No One Like you](https://open.spotify.com/track/1a8VtknxUYMzMwt8SVZzcl) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Best Of P\-Square](https://open.spotify.com/album/0uitWrCPJsDq51dOpelNcy) | 4:30 |
+| 46 | [No One Like You \- Deluxe](https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:28 |
 | 47 | [Nyota Yako](https://open.spotify.com/track/2IxodVxAhukQQskh0KW1Y9) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [T I D Singles](https://open.spotify.com/album/2M8BcYuMxICp6yaB7VeRIr) | 4:51 |
 | 48 | [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 |
 | 49 | [NTA](https://open.spotify.com/track/1Asv77Jhpw1FA6YjA5wwuV) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [NTA](https://open.spotify.com/album/1BBx9Jp1fkh2yDd68hQXEG) | 3:26 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 63 | [Ghanama](https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:53 |
 | 64 | [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 |
 | 65 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 |
-| 66 | [Olufunmi](https://open.spotify.com/track/2Aru7mwfefCVJfIKxaLGhb) | [Style Plus](https://open.spotify.com/artist/0kry1f3JHXoCXGuATGnipZ) | [Bump & Grind, Vol\. 23](https://open.spotify.com/album/6W6nTXZ18y9Ns4I9alg5aL) | 5:09 |
+| 66 | [Olufunmi](https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX) | 5:20 |
 | 67 | [Sinzia](https://open.spotify.com/track/4mJmoECoteOkbB8BBn1M6Y) | [Nameless](https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf) | [Nameless Re\-Invented \(2006\-2014\)](https://open.spotify.com/album/2Jd8SpLLLOS8Yz9Tvt08bY) | 4:28 |
 | 68 | [Nomvula](https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Buyelekhaya](https://open.spotify.com/album/2PGgRx2PWQEGzs9Eu2SM0A) | 4:37 |
 | 69 | [2 Bob](https://open.spotify.com/track/1gWk3Nj3bDPlRLBUlmoEco) | [Malaika](https://open.spotify.com/artist/4MGdpmr2NJjQdJYkkimg7b) | [The Essential](https://open.spotify.com/album/3jVO6qDEwzKmcA7RWvAIlL) | 6:20 |
@@ -89,13 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 79 | [One Naira \(feat\. Waje\)](https://open.spotify.com/track/0bLZL4todDFcGFxMDUIb4d) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Waje](https://open.spotify.com/artist/5GmW6T8IndFL45lifEqpEv) | [MI 2: The Movie](https://open.spotify.com/album/59TsiGBCbEeGOkKSkifF4m) | 4:32 |
 | 80 | [Malaika](https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Malaika](https://open.spotify.com/album/3yPFOMzNH7EAJVDPZpyMsj) | 3:42 |
 | 81 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
-| 82 | [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 |
+| 82 | [Uthando](https://open.spotify.com/track/7vAXZOAlNeD6f7rg5qnkbh) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:53 |
 | 83 | [Unajua \(feat\. Wendy Kimani\)](https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ), [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:21 |
 | 84 | [Thojana Ya Thesele](https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg) | [Presss](https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354) | [Black](https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ) | 4:53 |
 | 85 | [Sweet Love](https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Classics](https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2) | 4:20 |
 | 86 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 87 | [Nikikutazama](https://open.spotify.com/track/2QweIUK69pkW3dgnEEzPaI) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Nikikutazama](https://open.spotify.com/album/54LLZZzjgU0cDnKJVKMvgl) | 3:56 |
-| 88 | [S'bali](https://open.spotify.com/track/4Gu3XWf8SXdUM1VQzsmQlL) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [S'bali](https://open.spotify.com/album/4oWvJFVUbyOGg2ESInM24Y) | 5:00 |
+| 88 | [Sbali](https://open.spotify.com/track/34MjyTB5QGaDpMCLk3432P) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 5:00 |
 | 89 | [Kahlet Laayoune](https://open.spotify.com/track/0zqQI8ysvCrDAJPmLuEDev) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/0tztx9JoOcjRnBZoWvojzF) | 4:02 |
 | 90 | [Aiyana](https://open.spotify.com/track/3ZfTPhtcI8mK94oA3I19Dp) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Aiyana](https://open.spotify.com/album/4fxMTrsf8jOeZKqajiElcL) | 3:04 |
 | 91 | [Cinderella](https://open.spotify.com/track/08xsIKGLcAx6YtKFwWi5p7) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 4:17 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 94 | [Bembeleza](https://open.spotify.com/track/47S0nvI30nN9VgDcIyGxBo) | [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL) | [Sungura Na Fisi](https://open.spotify.com/album/6cTRrJGMTZmF1wAtGFVbah) | 4:42 |
 | 95 | [Wangu](https://open.spotify.com/track/3SQZtURKuSTIAt15SVNHNP) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [African Popstar](https://open.spotify.com/album/4M32W80O9xZpNw9nYOcwmN) | 3:06 |
 | 96 | [Talk to You](https://open.spotify.com/track/5teMc06640wYbmiZrLRyZ9) | [Big Pin](https://open.spotify.com/artist/0OG8e95fwdrVuShmIKW8ME) | [This Is for You](https://open.spotify.com/album/6NxGXoyG4j8LA792eAbu0T) | 3:22 |
-| 97 | [Baby Girl](https://open.spotify.com/track/14dcMfyhHV1vUdXXfiTuW1) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Once Upon a Time In Africa](https://open.spotify.com/album/75zZ8xLGSeF0UFE5K0kMrj) | 4:20 |
+| 97 | [Baby Girl](https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Thuto](https://open.spotify.com/album/5eqTNk3knYSiqlpcUT91z7) | 4:20 |
 | 98 | [Naksh Naksh Mrembo](https://open.spotify.com/track/3bEUcbgCWnyuXKrjR9OLnn) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Hakeem 5](https://open.spotify.com/artist/1kE23z6YUfh9fBj1kWeohZ) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 5:24 |
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDA5YjU4Yzg1ODJjNTAzZmNjZGRlMWUzMDlhODYzYzVk`
+Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMGViOWI3MGVjZDgzNTA1Y2QxNTYyNDI1YTU1MjY1N2I2`

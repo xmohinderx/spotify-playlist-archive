@@ -4,7 +4,7 @@
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-156 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
+158 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [One Man Raw \(feat\. Vybz Kartel\)](https://open.spotify.com/track/7Kh8RtMvZrGrkjM7TXYnBi) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim](https://open.spotify.com/album/09pax8uRRPpG0LpMI9HaSr) | 2:56 | 2021-10-24 | 2022-07-29 |
 | [Open The Door](https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Open The Door](https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln) | 3:43 | 2021-10-24 | 2022-08-19 |
 | [Perfect Timing](https://open.spotify.com/track/1oVOsqeVthHmALeMn38oqN) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/7peKE7q2tOlYtcTuprgrWq) | 2:58 | 2022-08-18 | 2022-11-12 |
-| [Perfect Timing](https://open.spotify.com/track/7BMhtjdRTfXe30eT9AOJu9) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B) | 2:58 | 2022-08-18 |  |
+| [Perfect Timing](https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B) | 2:58 | 2022-08-18 |  |
+| [Perfect Timing](https://open.spotify.com/track/7BMhtjdRTfXe30eT9AOJu9) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B) | 2:58 | 2022-08-18 | 2022-11-13 |
 | [Play Tune \(So so So\) \[Radio Edit\]](https://open.spotify.com/track/1MB6CjaR3z8YA3yIo4HdFv) | [Dj Coss](https://open.spotify.com/artist/4IdDstOFVfpr5iLAezYLOw), [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Play Tune \(So so So\)](https://open.spotify.com/album/4RpaPKaKYPz6FBv1a01xKn) | 2:47 | 2022-06-20 | 2022-08-19 |
 | [Potential Man](https://open.spotify.com/track/2yEEzp8hcsuykTheAUYYMh) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Potential Man](https://open.spotify.com/album/6hy3gWN0vy7xTdUxannK5R) | 3:46 | 2021-10-24 | 2022-07-28 |
 | [Pressure Dem](https://open.spotify.com/track/6UzhbdHb7d8DzlrXMpM7b4) | [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p) | [Pressure Dem](https://open.spotify.com/album/2PQt6ZRDH8SW6e4txyk2rZ) | 2:21 | 2021-10-24 | 2022-07-28 |
@@ -162,7 +163,8 @@
 | [Woke Up In Kingston \- Di Genius Remix](https://open.spotify.com/track/6pduFTCZWlDzWtdwk44d74) | [I DO](https://open.spotify.com/artist/2CpKPyP4X3dR9vTHqwbnR8), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Woke Up In Kingston \(Di Genius Remix\)](https://open.spotify.com/album/1I4Y5jDcag1UIZxhNgbWY4) | 3:06 | 2022-08-18 |  |
 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 | 2022-06-20 | 2022-08-19 |
 | [Worldboss \(feat\. Lisa Mercedes & Redboom\) \[Dons\]](https://open.spotify.com/track/7gq31CNCaa8fFjej4GD5hz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p), [Redboom](https://open.spotify.com/artist/59NhZ1JpdxYCnmRK69hiQs) | [Of Dons & Divas](https://open.spotify.com/album/5yTyUtfSHlhdVDVBFIU9RH) | 3:22 | 2021-10-24 | 2022-07-24 |
-| [Yamabella](https://open.spotify.com/track/2XtrSZeRNtCGiMJX7Kjp01) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MRKXWfa8l9LMdBA7n8l3k) | 2:54 | 2022-08-18 |  |
+| [Yamabella](https://open.spotify.com/track/0kXox7KhOnDs62txnUSLF1) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MOESZoQnGJnCwXy6vm1Bs) | 2:54 | 2022-08-18 |  |
+| [Yamabella](https://open.spotify.com/track/2XtrSZeRNtCGiMJX7Kjp01) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ) | [Yamabella](https://open.spotify.com/album/1MRKXWfa8l9LMdBA7n8l3k) | 2:54 | 2022-08-18 | 2022-11-13 |
 | [Young](https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Young](https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc) | 2:34 | 2021-10-24 | 2022-08-19 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

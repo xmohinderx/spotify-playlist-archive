@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,596 likes - 81 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,774 likes - 81 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 65 | [Shame \- Sped Up](https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:20 |
 | 66 | [don't miss me \- sped up](https://open.spotify.com/track/2rpez0lqbhLnbFTl1urYwm) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Romy Bornhorst](https://open.spotify.com/artist/4UoDX6M8th8sNyoX7i3nT5) | [don’t miss me \(sped up\)](https://open.spotify.com/album/1ziHMhSrO41E03FPBaKR0P) | 1:32 |
 | 67 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 |
-| 68 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/4cPeGcMuYsAn8dcokjWMn4) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Can I Call You Tonight? \(sped\-up\)](https://open.spotify.com/album/64EQJ3UyXF4iPciZMcjMoP) | 3:30 |
+| 68 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/24RbayMQzBnvvoYutYnryg) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Fuzzybrain \(sped\-up\)](https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl) | 3:30 |
 | 69 | [go \- Higher & Faster](https://open.spotify.com/track/4wOcRUtnpp75EEYUPkRPeY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 2:51 |
 | 70 | [numb \(feat\. blackbear\) \[nitecore\]](https://open.spotify.com/track/2Y0rbe2vWWHlu9luTET1dg) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [numb \(feat\. blackbear\) \[slow + reverb / nitecore\]](https://open.spotify.com/album/4opM4mMCaGNxJiztRetx5I) | 2:39 |
 | 71 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 80 | [nina \(sped up\)](https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8) | [4everd4nny](https://open.spotify.com/artist/5ycCQZx5Go6Hqcg1iHzsdu) | [nina](https://open.spotify.com/album/45XlVtRzkFnM59zSqj5Mfi) | 1:15 |
 | 81 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDNkMDkzODlkMWQ4ZDYwZjQ3Y2U4NmRhZjQzZDA5MThm`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGU1Nzg4NWRmYjFkYWZiZWU3Njk4ZWM3Mzc4NTNhMWMz`

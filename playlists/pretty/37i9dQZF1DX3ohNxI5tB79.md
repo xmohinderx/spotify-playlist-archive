@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,378 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,514 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 5 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
 | 6 | [Lost Kingdoms](https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Nubya's 5ive](https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4) | 7:38 |
 | 7 | [Downright](https://open.spotify.com/track/030k1bb2qwKTsBxPskfkB1) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Downright](https://open.spotify.com/album/5avhqr0GessrsdBSr82FIE) | 2:57 |
-| 8 | [Wish The Love Never Died](https://open.spotify.com/track/19Yyk8JtxvHKI4byINCi5J) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:01 |
+| 8 | [Wish The Love Never Died](https://open.spotify.com/track/3eoN5fDD9Dq0dsZ29l51Sf) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/0jE5Jhr77m6Gq4myLVgC1l) | 3:01 |
 | 9 | [Breathe](https://open.spotify.com/track/6GkKzcWODUEyiRXTNluvbL) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Breathe](https://open.spotify.com/album/11MTxbr0apAkujej0nJ5WJ) | 3:33 |
 | 10 | [Rock a Nore](https://open.spotify.com/track/3TmKUdO8IqaN7HPg1k6Y9X) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/7yVomkZLlXBcoHMM4bbrbQ) | 3:37 |
 | 11 | [You](https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:05 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 18 | [Everything You Touch Is Gold](https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [All Rise \(Deluxe\)](https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy) | 6:03 |
 | 19 | [On & On](https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 3:46 |
 | 20 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 |
-| 21 | [Everybody Love \[Feat\. Musiq Soulchild, Posdnuos\]](https://open.spotify.com/track/7oGl54MjGGZ3e0RFgcqbOH) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 5:03 |
+| 21 | [Everybody Love \[Feat\. Musiq Soulchild & Posdnuos\]](https://open.spotify.com/track/78Al5zZW8NubOJjlmscmEa) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 5:03 |
 | 22 | [TIBBE](https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [TTWL / TIBBE](https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq) | 2:25 |
 | 23 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 24 | [Sunrise](https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Sunrise](https://open.spotify.com/album/1zKmFpEW0oj8qy5mvnUyBb) | 3:18 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 52 | [You](https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [You](https://open.spotify.com/album/6ByZxyEnEtLSFqJUmXVdTP) | 3:26 |
 | 53 | [Whisper My Name](https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:01 |
 | 54 | [No Reply](https://open.spotify.com/track/3K7WdPYz7vcHMCsyBjK9vL) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/3eUHennkieRuxq8S1mclhY) | 2:57 |
-| 55 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/3S0beLtAcR6uEn7hSUWiEk) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [+1](https://open.spotify.com/album/2Fb6www7WW1at79mrVwfmh) | 3:55 |
+| 55 | [Nothing Can Tear Us Apart](https://open.spotify.com/track/7AU4jI516r2a9ZxnoCmA5k) | [Das Sound Kollektiv](https://open.spotify.com/artist/2bKpcqe6vWzB9YvzoLVm2B), [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [These Ways](https://open.spotify.com/album/1BAvPtcPcurtLpH9WgCsrq) | 3:55 |
 | 56 | [Inside You](https://open.spotify.com/track/0fEcztdrrEaiBpEVkfggd2) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Heritage \(Reissue\)](https://open.spotify.com/album/2BtLI4D4seuSwWDaAu8L9z) | 4:52 |
 | 57 | [Paradox](https://open.spotify.com/track/6XSQwisZPSsvumchd6u56q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Paradox](https://open.spotify.com/album/5mbJr9jfnfqPN8Vf9OKsIY) | 2:37 |
 | 58 | [You’ve Got A Hard Head](https://open.spotify.com/track/0A9CYocZJ8JZc3erLTyzuh) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Listen](https://open.spotify.com/album/0zzVpVWRl3nKQppBGzfV0d) | 4:33 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 78 | [A Storm On A Summers Day](https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Still Growing](https://open.spotify.com/album/4yNBRf4JRiowAEoyhrxSQ0) | 2:58 |
 | 79 | [Status Quo](https://open.spotify.com/track/5Rc3pgfumRrE6b67rBAsi2) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Underneath the Surface](https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35) | 3:56 |
 | 80 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
-| 81 | [The Good Life](https://open.spotify.com/track/7vYgmYEBvzcJp1MYus34XI) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Au réveil](https://open.spotify.com/album/0yNqcfWQR82GVjOd9Jh5Wx) | 4:11 |
+| 81 | [The Good Life](https://open.spotify.com/track/61sH4Kpbpz9arNiudx07Sf) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Under My Skin](https://open.spotify.com/album/3Y2oCc3jdG6ad114eUc8Ev) | 4:11 |
 | 82 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
 | 83 | [Thank You Master \(For My Soul\)](https://open.spotify.com/track/36gjfzhQg7lzKskouTyFkX) | [Sons Of The James](https://open.spotify.com/artist/2glaJzU6VwtGLSo777oyiM), [Rob Milton](https://open.spotify.com/artist/3vvRSvTEKNAAsZQqP5Fdcl), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Everlasting](https://open.spotify.com/album/7MHsKlHkBayVBh8UOY8gUr) | 1:55 |
 | 84 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 89 | [Kickback](https://open.spotify.com/track/0zgDfVY84eFIzgTvK9KutN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/1G3k89T6eKqTXU9qbDqmr6) | 2:51 |
 | 90 | [Voodoo](https://open.spotify.com/track/1gEapwDvWRtyK8aOAlCYAX) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/0SPo1dCxCB2boKeSGI7tVf) | 3:16 |
 
-Snapshot ID: `MTY2NzgzNjIzNiwwMDAwMDAwMGMxYTY2Nzk4MjM2YzFmYTFlZmExYzQ0ODk4MTk2M2Jj`
+Snapshot ID: `MTY2NzgzNjIzNiwwMDAwMDAwMGYzOTVmN2YzOTZjY2I4ZTVkNWUwNTY2N2Q3ZGUxNzRj`

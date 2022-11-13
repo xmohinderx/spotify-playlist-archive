@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 
 > 80s electronic boogie and post\-disco
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,641 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,668 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 27 | [Dance Floor](https://open.spotify.com/track/6d4XP98nTswxMycT6fdZNN) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp II](https://open.spotify.com/album/7ew8Rwv8ICZUhLPteXPcbk) | 10:42 |
 | 28 | [Try It Out](https://open.spotify.com/track/2hX4jY6URV3FsPgC7jqDAS) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Closer](https://open.spotify.com/album/4OI9kQCeGu62da2ed2XyOp) | 8:16 |
 | 29 | [Your Sweet Lovin'](https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [What A Woman Needs](https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm) | 3:39 |
-| 30 | [Feels So Real \(Won't Let Go\)](https://open.spotify.com/track/4ms4C2YbUJupP0bVjU0rTC) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Now \(Expanded Edition\)](https://open.spotify.com/album/2XpO3g1oIEXCjXV9HKbYwS) | 6:49 |
+| 30 | [Feels So Real \(Won't Let Go\) \- 12" Version](https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 6:49 |
 | 31 | [Don't You Want My Lovin' \- Vocal](https://open.spotify.com/track/5uocwOsf1GWQacI6WAvI8G) | [Michael Baker](https://open.spotify.com/artist/0tOHEflyuIrCqNbFWOy85N) | [Don't You Want My Lovin' \(12 Inc\)](https://open.spotify.com/album/5IaYtKl4pmuCDar7O9nKIP) | 4:57 |
 | 32 | [Girl I'm Watching You](https://open.spotify.com/track/5hCrNKdCROaPyzjIfOASAN) | [Platinum Hook](https://open.spotify.com/artist/34cEAXNLDfRGLvv7bDn2Yp) | [Watching You](https://open.spotify.com/album/2xk9VODvAMmfvr66QdyTw8) | 6:37 |
 | 33 | [Twennynine \(The Rap\)](https://open.spotify.com/track/2TYN15xIuSzcvomuNdvR1k) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Just Like Dreamin'](https://open.spotify.com/album/2wfhgPW7e6rg66yZ3AWVUW) | 5:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX5tULOO5PjY.md) - [plain]
 | 59 | [I Loved Every Minute of It](https://open.spotify.com/track/5OVto0axRHGWAAWOCf6cZD) | [Gayle Adams](https://open.spotify.com/artist/15BDxaGYlN3CPzUdWddake) | [Love Fever](https://open.spotify.com/album/52ZVYXSDSMUmpmlzmNKvAh) | 5:48 |
 | 60 | [He's a Freak Undercover](https://open.spotify.com/track/2WFS0puLBFzV698XkYbt3Z) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [With Love](https://open.spotify.com/album/1rj8M1ano07y53htwMsCem) | 5:19 |
 
-Snapshot ID: `MTYyNjI3NDIzMCwwMDAwMDAwMGYxOTM0YTZhMzE1ZDMxOGI4OTM1NDhkYTdhZmI4NTBm`
+Snapshot ID: `MTYyNjI3NDIzMCwwMDAwMDAwMDllZmQ0NTA4MmY4ODdlOGU2MGRmMDA1NzhkMmZhZmI2`

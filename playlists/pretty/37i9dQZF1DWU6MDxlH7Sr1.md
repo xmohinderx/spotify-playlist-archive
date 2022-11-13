@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft Jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,525 likes - 132 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,660 likes - 132 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 49 | [It's Not Forever](https://open.spotify.com/track/6qi3FFTVaIAZSQnQIoswUQ) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [It's Not Forever](https://open.spotify.com/album/1Va59mXaQclhCVDJ6Sor0L) | 3:26 |
 | 50 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 |
 | 51 | [Moonrays](https://open.spotify.com/track/6akhlCuFUh7zxQ1UnEjZaK) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Moonrays](https://open.spotify.com/album/32VVgwbc18tkYZj7XWBinw) | 2:48 |
-| 52 | [Kathy's Waltz](https://open.spotify.com/track/5d8SK0Qq6S7vxfU85zHnrI) | [D\. Brubeck](https://open.spotify.com/artist/0HQ501eKb3lNaFMNDRbxHd), [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [THE MUSIC OF AMERICA: Inventing Jazz \- Dave Brubeck](https://open.spotify.com/album/0tFNTTbxmknMMpOheMzfTP) | 4:50 |
+| 52 | [Kathy's Waltz](https://open.spotify.com/track/3XfaSRXfGuWT1rrn9lWx30) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 4:47 |
 | 53 | [Red Sails in the Sunset](https://open.spotify.com/track/38AeuMJBRBWSlbmuC03EhJ) | [Half Time Feel](https://open.spotify.com/artist/0tuSphyaStgT5UvOxReZLV) | [Red Sails in the Sunset](https://open.spotify.com/album/4fzCadgnY1EYsXAeJJGYMW) | 4:27 |
 | 54 | [Have You Met Miss Jones](https://open.spotify.com/track/3hS9SHf90Uyt2ejCTuO4Jo) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Have You Met Miss Jones](https://open.spotify.com/album/3dBfU9Aecon59ibocb2nkE) | 3:08 |
 | 55 | [Easy To Love](https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Easy To Love](https://open.spotify.com/album/3UdLObFDAErU8FcAkhtPCr) | 3:23 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 123 | [The More I See You](https://open.spotify.com/track/35Hy6ZgjdMwwNqxLhjwfgA) | [10th Avenue Trio](https://open.spotify.com/artist/75ROAQf2ztcoLeAJJWcXjF) | [The End of a Love Affair](https://open.spotify.com/album/5VyKHmOAvAtmN2scwpPBwu) | 4:12 |
 | 124 | [Dolphin Dance](https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 4:54 |
 | 125 | [Dream A Little Dream](https://open.spotify.com/track/4WTZZfZC8DUontKybMe0ls) | [Tom Lewis Band](https://open.spotify.com/artist/2RJB1Zbmj9IK6f3OPHUBVx) | [Dream A Little Dream](https://open.spotify.com/album/4MU6tyhz6jdSLdR8wo4f9H) | 3:44 |
-| 126 | [Satin Doll](https://open.spotify.com/track/2cpLY0UppiL9TyIlQKwgEu) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Jazz \- Best Hits \-](https://open.spotify.com/album/7bKJ04DIWcjPZ9aoyrvKGE) | 5:39 |
+| 126 | [Satin Doll](https://open.spotify.com/track/08KRFHK8w57Js5GZZjamll) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 5:39 |
 | 127 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 |
 | 128 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 |
 | 129 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 131 | [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 |
 | 132 | [Cherokee](https://open.spotify.com/track/6iqyiNM3H4OoB7O02IYsVd) | [Grove Street Quartet](https://open.spotify.com/artist/4eMnMIKHP2KiEXc8AjlX3X) | [April In Paris](https://open.spotify.com/album/6pebkNMPXaNerOfuEPp8E8) | 3:19 |
 
-Snapshot ID: `MTY2ODE3MzYyNiwwMDAwMDAwMDVkMzQ2YjhmMDM4NmQ2N2ExMzAwYWE0ZTNiZTBkZDZh`
+Snapshot ID: `MTY2ODE3MzYyNiwwMDAwMDAwMDViZTYxNDMwZDE0YzcwZDlmNGFjMzQ5MTcyMDJiMjBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 
 > This playlist will sing your little ones to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,232 likes - 78 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,233 likes - 78 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 26 | [Hopefull](https://open.spotify.com/track/5cPyC2nWvhSQBg92xY9Mzx) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Hopefull](https://open.spotify.com/album/7yujKM283pooTDd9bNEP6B) | 4:18 |
 | 27 | [Olvidado](https://open.spotify.com/track/18OvtoBWwAfDbrhUyIjMdN) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/6zkPu70oUFPTGpiKAdS4MZ) | 2:32 |
 | 28 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
-| 29 | [Purple Heart](https://open.spotify.com/track/5vYX5z2dbNtisqSyceBHly) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Purple Heart](https://open.spotify.com/album/3lJEfJLe7HVcaRHLKlPNNc) | 3:38 |
+| 29 | [Purple Heart](https://open.spotify.com/track/2anhOZpTaoB2Ej5ULsHZ5Q) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:38 |
 | 30 | [Going Home](https://open.spotify.com/track/6pTnENq16nbEmWGlNImohz) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/5OewMGijMVWGyfH9NjBcsn) | 2:54 |
 | 31 | [Quiet Dreams](https://open.spotify.com/track/6jJkW2RUsOHCe4hiIk1tED) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Quiet Dreams](https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60) | 3:24 |
 | 32 | [Purple](https://open.spotify.com/track/5C0SsvmgrhMkqwdvhc4jEC) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Colors](https://open.spotify.com/album/7Dt87s0vmIHISzEMTuDAbE) | 3:28 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 77 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 |
 | 78 | [Judith](https://open.spotify.com/track/7jZ3B5pFQUy1CUgC0GIzyb) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Omkuld](https://open.spotify.com/album/3nz0L887xLbp5O6NqDzYgr) | 2:55 |
 
-Snapshot ID: `MTU3MjM1NjkwNywwMDAwMDAwMGE1OTI1OGNlZmVkYTRjMjJiODkyMTlkMWUyYTIzY2Ez`
+Snapshot ID: `MTU3MjM1NjkwNywwMDAwMDAwMGQyODgwNDJmNWZkZTIzMDM2MjhkOWI5YmM0ZmRlMmQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=6y2mSIdrShKZ3Azr2d0Y1A">Rooksein</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,395 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,453 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 26 | [Witblits](https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Witblits](https://open.spotify.com/album/1j0JxyVmQLkrFIZRY4m9xT) | 3:07 |
 | 27 | [Klippe Kou](https://open.spotify.com/track/0taToNW3mX3M7VflfH6J8V) | [Jack and June](https://open.spotify.com/artist/71XakIJCef4xN3Q1r1DCqq) | [Klippe Kou](https://open.spotify.com/album/0V75WhtPM8xVKoeBmfoTp3) | 2:58 |
 | 28 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 |
-| 29 | [Vat 'n Bietjie](https://open.spotify.com/track/4PhA0GhiJi3KTCURQBCYEW) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:12 |
+| 29 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 |
 | 30 | [Kaap](https://open.spotify.com/track/1EYLPim5kBNKwDCrG48sNW) | [Jan Blohm](https://open.spotify.com/artist/4INPDZ7XS2f8jsp7CMM6WW), [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Kaap](https://open.spotify.com/album/6Tn9J9QxGzgktcULy6CWLF) | 3:56 |
 | 31 | [Ophou](https://open.spotify.com/track/2vRJC11heZ6GqkmnqXTnrO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ophou](https://open.spotify.com/album/4DgQmYYVWDOszCGW7McXWe) | 3:32 |
 | 32 | [Braaibroodjies](https://open.spotify.com/track/2vpifO1DPguAHOEpXiy7AX) | [Muller Brandt](https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI) | [Brand Die Skepe](https://open.spotify.com/album/3R0El0a7RNd4vlKa3Cqsx6) | 3:23 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 36 | [Johnnie Blou](https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Johnnie Blou](https://open.spotify.com/album/0D5L3scMWg5Y08JaqQi4ti) | 3:07 |
 | 37 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 |
 | 38 | [My Volgende Fout](https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [My Volgende Fout](https://open.spotify.com/album/1FUttDOfsKL1aZw7fcsqAc) | 3:33 |
-| 39 | [Ploeg Jy?](https://open.spotify.com/track/769iPvJtZt4nkdV7FKqvHS) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 3:37 |
+| 39 | [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 |
 | 40 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 |
 | 41 | [Hey Sonneblom](https://open.spotify.com/track/4vyQOF8wGtDV6eHsOqWaCG) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Sonneblom](https://open.spotify.com/album/4aYcdeTwgsJB1jjV8MON1e) | 3:30 |
 | 42 | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/track/4M5ZYtZaATYEjmCY1I78sR) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/album/4fAIx1F240tedTZvZVouJm) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 49 | [Kannie Sonder Jou Nie](https://open.spotify.com/track/1J0nJQxgno6jiHKAhdAO2G) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Jy Ken My Naam](https://open.spotify.com/album/5qKLrFVXNqfps1WvLPF4wF) | 3:26 |
 | 50 | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/track/7k7ZQJ375LWnwr27fodysE) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/album/1tNfmhPmCAvg0Myyyhl5fa) | 3:13 |
 
-Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMDJkZWNjMzhlMmM2NDdiYWFlYjVlMDM0ZTU5OGNkNDA3`
+Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMGMzM2U5NDhiMWYwOTNlZWQyMzVlZmE3Y2I1NjdmMmJm`

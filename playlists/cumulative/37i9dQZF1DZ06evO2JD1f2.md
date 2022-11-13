@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 25 min - not published yet
+54 songs - 2 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 | 2022-10-28 |  |
 | [Balloons \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:36 | 2022-10-28 |  |
 | [Bigger Than Life Or Death](https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:43 | 2022-10-28 |  |
-| [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-11-08 |  |
+| [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-11-08 | 2022-11-13 |
 | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb) | 2:59 | 2022-10-28 |  |
+| [BRING IT BACK \(with EST Gee\)](https://open.spotify.com/track/6avqvDaNE05hHOSxISXbBW) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [HEAVY IS THE HEAD](https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy) | 2:49 | 2022-11-12 |  |
 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 | 2022-10-28 |  |
 | [Can't Be Fucked With](https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 1:46 | 2022-10-28 |  |
 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 | 2022-10-28 |  |

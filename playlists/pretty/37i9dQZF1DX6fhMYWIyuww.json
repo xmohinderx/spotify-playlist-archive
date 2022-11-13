@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 93101,
+  "num_followers": 93197,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDVmMjcyMGVmYWVlNjhhYzlmZjdjYjliYjAyYjZmNTVj",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGNjNmY5YmY0NmY2NmJmMGE3ODU0ZTQ1NDQxN2NiZDc4",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
+      },
+      "artists": [
+        {
+          "name": "Pablo Cruise",
+          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Love Will Find A Way",
+      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
         "name": "Stairsteps (Expanded Edition)",
         "url": "https://open.spotify.com/album/7H8uLkHFuEqAWpLKBwbGvg"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Worlds Away",
-        "url": "https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK"
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
       },
       "artists": [
         {
-          "name": "Pablo Cruise",
-          "url": "https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 251426,
-      "name": "Love Will Find A Way",
-      "url": "https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq"
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -765,6 +781,22 @@
       "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
       "added_at": "2022-03-31 19:29:02",
       "album": {
         "name": "Dr. Heckle & Mr. Jive",
@@ -795,6 +827,22 @@
       "duration_ms": 322333,
       "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Son Of A Son Of A Sailor",
+        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Son Of A Son Of A Sailor",
+      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -863,22 +911,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Son Of A Son Of A Sailor",
-        "url": "https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "Son Of A Son Of A Sailor",
-      "url": "https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Player",
         "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
       },
@@ -907,6 +939,38 @@
       "duration_ms": 241266,
       "name": "This Night Won't Last Forever",
       "url": "https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "Fins",
+      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 281293,
+      "name": "Love Is the Answer (Single Version)",
+      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1005,22 +1069,6 @@
       "url": "https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/1sU8u99py6xR0RhLY70vMD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "Fins",
-      "url": "https://open.spotify.com/track/4X6qvY7lDpNxq9QokS5F0u"
-    },
-    {
       "added_at": "2022-01-26 21:27:23",
       "album": {
         "name": "The Nightfly",
@@ -1067,6 +1115,22 @@
       "duration_ms": 243560,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "70s Rock Essentials",
+        "url": "https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Reminiscing - Remastered",
+      "url": "https://open.spotify.com/track/2wtniL1hD2aNtkAxYFao9U"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1167,22 +1231,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Happy Classics",
-        "url": "https://open.spotify.com/album/2cnDTz7eNou1DKvA5bEY35"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/7wP7USocbL8sX4o0DvqS1J"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
@@ -1219,22 +1267,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Change Of Heart",
-        "url": "https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Baby I Need Your Lovin'",
-      "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Mannequin",
         "url": "https://open.spotify.com/album/1jhT5nqbschpILLzEWkjX3"
       },
@@ -1251,50 +1283,18 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "The Essential Air Supply",
-        "url": "https://open.spotify.com/album/1szGVsmiZJRyOAGOVk0mCY"
+        "name": "Change Of Heart",
+        "url": "https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
         }
       ],
-      "duration_ms": 220786,
-      "name": "Don't Turn Me Away",
-      "url": "https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Player",
-        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
-      },
-      "artists": [
-        {
-          "name": "Player",
-          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
-        }
-      ],
-      "duration_ms": 224677,
-      "name": "Melanie",
-      "url": "https://open.spotify.com/track/60rJnCfWEzBG27ROizelpE"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "70s Rock Essentials",
-        "url": "https://open.spotify.com/album/2nUKl9sXFdOVPyRV3dGoWA"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Reminiscing - Remastered",
-      "url": "https://open.spotify.com/track/2wtniL1hD2aNtkAxYFao9U"
+      "duration_ms": 196986,
+      "name": "Baby I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g"
     }
   ],
   "unique_name": "Free & Easy",

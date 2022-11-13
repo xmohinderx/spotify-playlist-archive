@@ -1738,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Crazy Phonk Remixes",
+        "url": "https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1"
+      },
+      "artists": [
+        {
+          "name": "Fxbii",
+          "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130740,
+      "name": "Crazy Phonk - Remix - Slowed",
+      "url": "https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8"
+    },
+    {
+      "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
       },
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Csinibaba",
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
@@ -5373,6 +5391,24 @@
     {
       "album": {
         "name": "My Love",
+        "url": "https://open.spotify.com/album/3DAVZPvMCcH69mSciEbjWG"
+      },
+      "artists": [
+        {
+          "name": "Still",
+          "url": "https://open.spotify.com/artist/4dJxXNwpOnZxDCuZN4MFqo"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71041,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5rzOU3m5mKceWKakPX7asL"
+    },
+    {
+      "album": {
+        "name": "My Love",
         "url": "https://open.spotify.com/album/18zxs5BJDd4q59cxUnXs2H"
       },
       "artists": [
@@ -5383,7 +5419,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 71122,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5CqGUEYDnCrUxqqk5siUpX"
@@ -5589,7 +5625,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 213677,
       "name": "Netancujem, k\u00fdvem hlavou",
       "url": "https://open.spotify.com/track/3Oo65YS4CcGXDOLXW0yC72"
@@ -8889,7 +8925,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 116161,
       "name": "Who's Ready for Tomorrow",
       "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"

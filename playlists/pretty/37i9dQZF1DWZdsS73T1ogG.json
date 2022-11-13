@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Cris MJ y Tiago PZK",
-  "num_followers": 508545,
+  "num_followers": 508570,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDM2MzM5YmRhYTY5ZDI1YTc1NGE1MWIzMmFkM2Y1MzY5",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDgyZjEzNjQzNGRhNmEzODZjNDU4ZDMxNzZlMDQzNTYx",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -851,26 +851,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA"
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 226120,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
+      "duration_ms": 254457,
+      "name": "TORO",
+      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -895,18 +887,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA"
       },
       "artists": [
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
         }
       ],
-      "duration_ms": 254457,
-      "name": "TORO",
-      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
+      "duration_ms": 226120,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Pi\u00f1a",
-        "url": "https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 144691,
-      "name": "Pi\u00f1a",
-      "url": "https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Hit$ Mu$ic (VOL. 1)",
         "url": "https://open.spotify.com/album/5jPDhWUbfyTeUTPSdHdrff"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 189520,
       "name": "EN LA LENTA",
       "url": "https://open.spotify.com/track/02mYqoWYX6wRrfqKWr4Bj8"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Pi\u00f1a",
+        "url": "https://open.spotify.com/album/13THScuZXfrxk3jyDmpoZG"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 144691,
+      "name": "Pi\u00f1a",
+      "url": "https://open.spotify.com/track/27WpmDE56W905AhSoaNIkx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Otro De Esos D\u00edas",
-        "url": "https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4"
+        "name": "ANKHALINO",
+        "url": "https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6"
       },
       "artists": [
         {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
         }
       ],
-      "duration_ms": 193960,
-      "name": "Otro De Esos D\u00edas",
-      "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
+      "duration_ms": 222693,
+      "name": "LOVID 19",
+      "url": "https://open.spotify.com/track/4pqqnFe8ZIyrYEoGoZLJia"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "ANKHALINO",
-        "url": "https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6"
+        "name": "Otro De Esos D\u00edas",
+        "url": "https://open.spotify.com/album/4jYEjce5w0bg26AfO4dCq4"
       },
       "artists": [
         {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
-      "duration_ms": 222693,
-      "name": "LOVID 19",
-      "url": "https://open.spotify.com/track/4pqqnFe8ZIyrYEoGoZLJia"
+      "duration_ms": 193960,
+      "name": "Otro De Esos D\u00edas",
+      "url": "https://open.spotify.com/track/4KeX3jUuwS0Lr9RGFicu4V"
     },
     {
       "added_at": "2022-11-11 05:00:00",

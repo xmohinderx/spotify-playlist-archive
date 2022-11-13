@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > BROCKHAMPTON makes anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,600 likes - 132 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,732 likes - 132 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 85 | [99' pollen](https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [99' pollen](https://open.spotify.com/album/6L1riIGws8qozuRQJ0rmZi) | 3:11 |
 | 86 | [DANDELION](https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [DANDELION](https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc) | 3:21 |
 | 87 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 88 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
-| 89 | [Forever](https://open.spotify.com/track/2E5WLGiojYmshFaRgaZslJ) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever \(Live from Nana's House\)](https://open.spotify.com/album/54zMiyH2Wxca1HzOlNbzJj) | 3:15 |
+| 88 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:21 |
+| 89 | [Forever](https://open.spotify.com/track/2kVoWT4iY0paZ1I23LMlAA) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Forever](https://open.spotify.com/album/1Zp8ABHBwkxjj2YGjuoMbP) | 3:15 |
 | 90 | [BAD FRUIT\*](https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 3:26 |
 | 91 | [Mad](https://open.spotify.com/track/1TBPNMm6q0zqCJ7rQa0Hwf) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Mad](https://open.spotify.com/album/0P1Ab55WHo8RlAJ01M7SjZ) | 2:04 |
 | 92 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 131 | [Clandestino](https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [\[redacted\]](https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q) | 2:46 |
 | 132 | [Can We Talk?](https://open.spotify.com/track/6nUn03gjgENFLXHt3c3LDq) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Can We Talk?](https://open.spotify.com/album/5TwgvZiqe2SfDkvTZ5Y2ni) | 3:46 |
 
-Snapshot ID: `MTY2ODE4NDQ1MywwMDAwMDAwMDc0Y2IxYzE0ZjJhN2VlYjYzOWYwNDliNTM1MTg3YzZl`
+Snapshot ID: `MTY2ODE4NDQ1MywwMDAwMDAwMGE4YjAyMjBhNzBhMWUwZGU5YzVlYTA5ZDA4YTE1Mzlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,405 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,449 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 17 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 |
 | 18 | [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 |
 | 19 | [Early In The Morning](https://open.spotify.com/track/2R9nfayl1NXhuAdEpwG2Qa) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Early In The Morning](https://open.spotify.com/album/7jBZzB6g10Uw2qwHN3hdDR) | 2:52 |
-| 20 | [Something To Believe In](https://open.spotify.com/track/0UHYr05v9I6rljiBfeZP1F) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Something To Believe In](https://open.spotify.com/album/0vZ52duMCADKJjjOPCA0QO) | 3:28 |
+| 20 | [Something To Believe In](https://open.spotify.com/track/7K7qeICBpEwhkdJUcy6pMh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 3:29 |
 | 21 | [Love Me](https://open.spotify.com/track/3zfn7mpuEfL0C4x6MTjTAr) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/0W5jW3o1KpH0qHBwmytpwK) | 4:24 |
 | 22 | [Beef](https://open.spotify.com/track/6hV9qdhHg8HXGhkEUSaHAD) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Crazy Little Village](https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5) | 3:16 |
 | 23 | [Shady \- Edit](https://open.spotify.com/track/5lJLXjhooAXIjgPF339skN) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Shady](https://open.spotify.com/album/5iUXFPSiWHb2UT2tz036UQ) | 5:18 |
@@ -58,17 +58,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 48 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 |
 | 49 | [Fire](https://open.spotify.com/track/2DyRPkBu8gHPdhxnUjQ86D) | [Soul Brown](https://open.spotify.com/artist/4gRJyO5LOBVHkbJz4W4tTU), [Kabin Bread Boyz](https://open.spotify.com/artist/4bo1Rnjq7uRSYVxTfa1XXO) | [Fire](https://open.spotify.com/album/6s5VEE4s07qFTF3zdezGI7) | 4:04 |
 | 50 | [Coming Home](https://open.spotify.com/track/0b3MO0oAXgxpUUh1idkBcW) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/4M6mGR7ZhUu6y7zTgjTWs2) | 5:31 |
-| 51 | [In the Air](https://open.spotify.com/track/3C9anTHvsJrenLNTq7UXvk) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [In The Air](https://open.spotify.com/album/22zzg2utRkL1lzI4eqBU4F) | 4:12 |
+| 51 | [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 |
 | 52 | [Party](https://open.spotify.com/track/2hrDu4B5sb10WXs1yLqDOo) | [House Of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Island Vibration](https://open.spotify.com/album/6cNLIj2EwjJpyL5ugk1GlV) | 4:36 |
 | 53 | [Love Mi Bad](https://open.spotify.com/track/3wni9NKQ88KnU2LLa5rkAK) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Mi Bad](https://open.spotify.com/album/5ddeqiKpSSfKkl7RDXBEBe) | 2:40 |
-| 54 | [Duduke](https://open.spotify.com/track/0MardG1WRPku1zcG7X2fBf) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest Tour](https://open.spotify.com/album/1GEaHcKNp2obE9fusfaaoR) | 2:52 |
+| 54 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 |
 | 55 | [My Everything](https://open.spotify.com/track/5H7vRoyMgI4VcuPBLnElAI) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [My Everything](https://open.spotify.com/album/2SrbC71vZRVuFYPkMoIfOK) | 4:12 |
 | 56 | [Show Me](https://open.spotify.com/track/0ERGzuyTquZmQwOmeZLZpr) | [Nesian N.I.N.E.](https://open.spotify.com/artist/7DUqqw1aXnOYoiB7ebj4ra) | [Press Play](https://open.spotify.com/album/2EOopSh7XEMhVLrUlwHv6I) | 4:22 |
 | 57 | [Girl Let Me Love You](https://open.spotify.com/track/6kc0DPZtfLf5283diEIOwi) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW) | [Girl Let Me Love You](https://open.spotify.com/album/5BPG6zlS7nyG8ULbWbrBmm) | 3:17 |
 | 58 | [Take It Away](https://open.spotify.com/track/5BghMRrK03bJDO3oUB96J9) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:34 |
 | 59 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 |
 | 60 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 |
-| 61 | [Lonely Days](https://open.spotify.com/track/5GtGB0PGGApp4SR67OEXUy) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Lonely Days](https://open.spotify.com/album/3EO87q6YeR522w0C2qaVt4) | 3:43 |
+| 61 | [Lonely Days](https://open.spotify.com/track/51ejWDUN9Cgk5OTiBzTAwT) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Born and Raised II: The Rebirth](https://open.spotify.com/album/6O7o6Px8a8oJKTSY0cV40X) | 3:43 |
 | 62 | [Good Time](https://open.spotify.com/track/68HBUpt1FVAmQD49hWJqnM) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Good Time](https://open.spotify.com/album/7gL5nwGBxLpqwtUQSQtVzx) | 3:24 |
 | 63 | [Holiday](https://open.spotify.com/track/3zqbvsFfpYLBhtcVIw42Sz) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Red Album](https://open.spotify.com/album/3wTqGvbAcURFH1ALVckuhg) | 3:15 |
 | 64 | [Jah Rastafari](https://open.spotify.com/track/3XJy1qvLFMV42kL0lf73Po) | [1814](https://open.spotify.com/artist/4bXJYb8inT1EvC54wqCRtT) | [Jah Rydem](https://open.spotify.com/album/0ZNNCpmGRNiKsIs7xFdcqV) | 4:00 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 70 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 71 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 |
 
-Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMDVlMGQ0NWVmM2VkMjA1OGMzNzhkYTA1OWM5MzNjYjJl`
+Snapshot ID: `MTY1OTgzMzY0MSwwMDAwMDAwMGMzOGNiYTJkMjc3YTczYTE5MmQwMjcyNGIzMzJkYjFk`

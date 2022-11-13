@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 273132,
+  "num_followers": 273230,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MjY4NCwwMDAwMDAwMDMxOTdjMjgyOWIwMTVhNzA1ZDFmZGZlM2RlODRmMDZi",
+  "snapshot_id": "MTY2Njk2MjY4NCwwMDAwMDAwMDE1NzkwY2VlNGFmYzI4Nzk5YTYwMjk3MmU3MjExYWNh",
   "tracks": [
     {
       "added_at": "2022-10-28 13:11:24",
@@ -87,6 +87,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 251694,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 251694,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -227,18 +227,30 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
+        "name": "Love Will Tear Us Apart (Tensnake Remix)",
+        "url": "https://open.spotify.com/album/1rp9zBathyKcYfnh34hunq"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "R Plus",
+          "url": "https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh"
+        },
+        {
+          "name": "Amelia Fox",
+          "url": "https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
         }
       ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
+      "duration_ms": 220776,
+      "name": "Love Will Tear Us Apart - Tensnake Remix",
+      "url": "https://open.spotify.com/track/51NcW3cfbdI0FLsD8dgXAq"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -279,22 +291,18 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -319,22 +327,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
-      },
-      "artists": [
-        {
-          "name": "Lui Mafuta",
-          "url": "https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp"
-        }
-      ],
-      "duration_ms": 350929,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Ghost (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
@@ -351,6 +343,42 @@
       "duration_ms": 283106,
       "name": "Ghost - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
+      },
+      "artists": [
+        {
+          "name": "Lui Mafuta",
+          "url": "https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp"
+        }
+      ],
+      "duration_ms": 350929,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -499,6 +527,38 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Eastbound Silhouette",
+        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "duration_ms": 527618,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Sumidero",
+        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 298492,
+      "name": "Sumidero",
+      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Yuregine Deprem",
         "url": "https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99"
       },
@@ -515,22 +575,6 @@
       "duration_ms": 227176,
       "name": "Yuregine Deprem",
       "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Eastbound Silhouette",
-        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        }
-      ],
-      "duration_ms": 527618,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -571,22 +615,6 @@
       "duration_ms": 275437,
       "name": "5 Seconds Before Sunrise",
       "url": "https://open.spotify.com/track/0hz9lCgIKOtZthsP2JTPAL"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Sumidero",
-        "url": "https://open.spotify.com/album/1DElDXosVfJvgArfUOsQYQ"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 298492,
-      "name": "Sumidero",
-      "url": "https://open.spotify.com/track/1ZcT9DpO9dPmW3wov6Tlze"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -675,22 +703,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "FAST LAND",
-        "url": "https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH"
       },
@@ -707,6 +719,22 @@
       "duration_ms": 332000,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "FAST LAND",
+        "url": "https://open.spotify.com/album/4wXwA4w2sssqxsv9sjaHkb"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/6ab52dV6RWDbdDb8xbQ8Uz"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -899,22 +927,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "I Won't Be",
-        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
-      },
-      "artists": [
-        {
-          "name": "NIHILS",
-          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
-        }
-      ],
-      "duration_ms": 212596,
-      "name": "I Won't Be",
-      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Just To Hear You Say",
         "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
       },
@@ -927,6 +939,22 @@
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
       "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "I Won't Be",
+        "url": "https://open.spotify.com/album/3K2b6GOuzImeJjTpHM17J5"
+      },
+      "artists": [
+        {
+          "name": "NIHILS",
+          "url": "https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx"
+        }
+      ],
+      "duration_ms": 212596,
+      "name": "I Won't Be",
+      "url": "https://open.spotify.com/track/5X5JHsuS1lmJYaOISpXTJN"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -963,6 +991,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Perspective EP",
+        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "duration_ms": 304753,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Home (Remixes)",
         "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
       },
@@ -979,22 +1023,6 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Perspective EP",
-        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
-      },
-      "artists": [
-        {
-          "name": "Rezident",
-          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
-        }
-      ],
-      "duration_ms": 304753,
-      "name": "Message",
-      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1075,6 +1103,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k"
       },
@@ -1091,18 +1135,18 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+        "name": "AvA",
+        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
         }
       ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+      "duration_ms": 287986,
+      "name": "AvA",
+      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1123,22 +1167,6 @@
       "duration_ms": 377305,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3KGbOtIDJBEoA8yKzemR6V"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "AvA",
-        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
-      },
-      "artists": [
-        {
-          "name": "Amy Root",
-          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "AvA",
-      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1191,22 +1219,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq"
-      },
-      "artists": [
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "CTG",
         "url": "https://open.spotify.com/album/7xdjpdKWXPxXYynt2DDFG0"
       },
@@ -1227,18 +1239,18 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Under Darkening Skies",
-        "url": "https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq"
       },
       "artists": [
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
         }
       ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
+      "duration_ms": 284600,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG"
     },
     {
       "added_at": "2022-10-28 13:11:24",

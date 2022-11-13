@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 
 > Querencia is here !
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,284 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,305 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 44 | [Be Yourself](https://open.spotify.com/track/0LCd5cmqVkZy0koiWB4kb9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Be Yourself.newwav](https://open.spotify.com/album/1qXEwadpMUuNwByliKWdbc) | 3:25 |
 | 45 | [My Friend](https://open.spotify.com/track/7KDBSl1GZqrf8wEuFpI3L0) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [My Friend](https://open.spotify.com/album/0FBwobo00ZRJRZzPvpWRyj) | 2:29 |
 | 46 | [Everybody Has](https://open.spotify.com/track/2UcC7n5jG6QMtOE0Zxznpm) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:42 |
-| 47 | [나의 그대](https://open.spotify.com/track/6021PPpRakaZteKf8KNHLJ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 3:40 |
+| 47 | [나의 그대](https://open.spotify.com/track/7EXTPBMNV9N2s3fUrqMC7i) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.8](https://open.spotify.com/album/2eDsS1VbMDEs0z2Lo0dHBv) | 3:40 |
 | 48 | [Loveship](https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Loveship](https://open.spotify.com/album/6bwWdBKK3YGxgFJkZ8BYVQ) | 4:19 |
 | 49 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 |
 | 50 | [FAST](https://open.spotify.com/track/5qz2JLETV6S7nWakMB37ki) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1) | [FAST](https://open.spotify.com/album/1tnhaRf0aRqIrmdyCPPIYc) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYwX3Ds2dLJ.md) - [plain]
 | 74 | [REMEDY](https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:21 |
 | 75 | [LALALA](https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [LA VIDA LOCA](https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi) | 3:34 |
 
-Snapshot ID: `MTY2NjQzMDc1OCwwMDAwMDAwMDFkODZhYmZiYmFiMGI4MjU2MGJlMzFhNDdkM2ViNTFk`
+Snapshot ID: `MTY2NjQzMDc1OCwwMDAwMDAwMDM2YmJhZDlkNDM1YmNjYjYyNGJjM2E1ODEyOGZhOWU1`

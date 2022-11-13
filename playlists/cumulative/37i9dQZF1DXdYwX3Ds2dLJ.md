@@ -115,7 +115,7 @@
 | [Young In Love](https://open.spotify.com/track/3T2In1aV3rdXSDCDOTNioF) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:18 | 2021-11-29 | 2022-07-29 |
 | [Young In Love](https://open.spotify.com/track/4dIObSazv75psS0AX9z6ro) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:18 | 2022-07-11 |  |
 | [그 끝에 그대](https://open.spotify.com/track/7D8IxjdvFTYPcnCmNfzvNS) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Hotel del Luna \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0iauGMMQmUJuBBWqnKx0Op) | 3:44 | 2022-07-11 |  |
-| [나의 그대](https://open.spotify.com/track/6021PPpRakaZteKf8KNHLJ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 3:40 | 2022-10-22 |  |
-| [나의 그대](https://open.spotify.com/track/7EXTPBMNV9N2s3fUrqMC7i) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.8](https://open.spotify.com/album/2eDsS1VbMDEs0z2Lo0dHBv) | 3:40 | 2022-07-11 | 2022-11-11 |
+| [나의 그대](https://open.spotify.com/track/6021PPpRakaZteKf8KNHLJ) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 3:40 | 2022-10-22 | 2022-11-13 |
+| [나의 그대](https://open.spotify.com/track/7EXTPBMNV9N2s3fUrqMC7i) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.8](https://open.spotify.com/album/2eDsS1VbMDEs0z2Lo0dHBv) | 3:40 | 2022-07-11 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

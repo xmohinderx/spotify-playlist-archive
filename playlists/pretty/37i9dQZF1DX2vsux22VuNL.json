@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Elana Dara",
-  "num_followers": 238181,
+  "num_followers": 238342,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzMDgwMCwwMDAwMDAwMGZhOTI0MGM0ZmU2NGRjNzYxYTM0NjA5ODhjYzc0OTZl",
+  "snapshot_id": "MTY2NzUzMDgwMCwwMDAwMDAwMDdkZjE5N2JmODZlMTUwMDY0ODVhMzRkZDY1N2VkOGY1",
   "tracks": [
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1251,30 +1251,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
-      },
-      "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/4OXmBQKfqClzQD5fG9gxkD"
       },
@@ -1295,6 +1271,30 @@
       "duration_ms": 184629,
       "name": "Ainda \u00c9 Ver\u00e3o",
       "url": "https://open.spotify.com/track/1JaH1KgP4oYWBdc2I6dYud"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK 3030",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 189562,
       "name": "Queria Te Ver",
       "url": "https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK 3030",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Sei Bem",
+        "url": "https://open.spotify.com/album/41ba4fpxK4zXQ6EE0zM3F0"
+      },
+      "artists": [
+        {
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "Sei Bem",
+      "url": "https://open.spotify.com/track/0D3GViDNdKaFlHwaSEFhOu"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "N\u00f3s Dois",
         "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
       },
@@ -1587,26 +1607,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Sei Bem",
-        "url": "https://open.spotify.com/album/41ba4fpxK4zXQ6EE0zM3F0"
-      },
-      "artists": [
-        {
-          "name": "Tiago Mac",
-          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "Sei Bem",
-      "url": "https://open.spotify.com/track/0D3GViDNdKaFlHwaSEFhOu"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Dif\u00edcil Lembrar, n\u00e9?",
+        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "Dif\u00edcil Lembrar, n\u00e9?",
+      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Calo na Garganta",
         "url": "https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv"
       },
@@ -1675,26 +1691,6 @@
       "duration_ms": 268201,
       "name": "Calo na Garganta",
       "url": "https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Flow Da Pele",
-        "url": "https://open.spotify.com/album/0bWWTVcKQ258Ur1cuxRY7V"
-      },
-      "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Seu Dia",
-      "url": "https://open.spotify.com/track/1Pikvtc3HOtqLeij6AVDGz"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1715,6 +1711,26 @@
       "duration_ms": 174482,
       "name": "\u00daltima Mensagem",
       "url": "https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Flow Da Pele",
+        "url": "https://open.spotify.com/album/0bWWTVcKQ258Ur1cuxRY7V"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Seu Dia",
+      "url": "https://open.spotify.com/track/1Pikvtc3HOtqLeij6AVDGz"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Dif\u00edcil Lembrar, n\u00e9?",
-        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 155452,
-      "name": "Dif\u00edcil Lembrar, n\u00e9?",
-      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
         "url": "https://open.spotify.com/album/39Cb83gAN5BBKXKGYBxB3K"
       },
@@ -1903,22 +1903,18 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+        "name": "Dois Dedim",
+        "url": "https://open.spotify.com/album/4PI0d5sZFPzky9rXwbnxAd"
       },
       "artists": [
         {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
         }
       ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+      "duration_ms": 314653,
+      "name": "Dois Dedim",
+      "url": "https://open.spotify.com/track/4SPau7wozsWkyCWulwTeDw"
     }
   ],
   "unique_name": "brisa",

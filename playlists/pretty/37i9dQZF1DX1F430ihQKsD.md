@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Marilyne Léonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,290 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,327 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 5 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 |
 | 6 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 |
 | 7 | [Ton appartement](https://open.spotify.com/track/4rIMgETCYlTAaxcEWb9OpB) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Ton appartement](https://open.spotify.com/album/4FagpYnN7zVEttFd4ZEuK5) | 3:51 |
-| 8 | [OCTEMBRE](https://open.spotify.com/track/05IY0v7HiREPOqruCHIOr5) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [OCTEMBRE](https://open.spotify.com/album/6U0usnBvoliJcfq7xxmEZA) | 3:32 |
+| 8 | [OCTEMBRE](https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:32 |
 | 9 | [Risk It All](https://open.spotify.com/track/5eaZ2M4cg70JmT5JLOCZvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Risk It All](https://open.spotify.com/album/0bjz2600aSXHJFxc5DlOVh) | 2:39 |
 | 10 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 |
 | 11 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 89 | [Addictive/Predictive](https://open.spotify.com/track/0B345G8xg6me7nV9IZBuuD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Addictive/Predictive](https://open.spotify.com/album/2WY7da8tmSlMTrZt0nYdUF) | 3:58 |
 | 90 | [Hologramme](https://open.spotify.com/track/4zvTTMzKc6ANc8gpsnrgYk) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Miroirs](https://open.spotify.com/album/4NjFpaxXn6DFbpYn6KoFJX) | 3:45 |
 | 91 | [Excellence Europe\-Express](https://open.spotify.com/track/2kF5cIXClKS7kcBoh22hZo) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Concorde \(Deluxe\)](https://open.spotify.com/album/5hfqkqLj5FkmT9yOAnMYJt) | 3:57 |
-| 92 | [Cold](https://open.spotify.com/track/1tiX1UC9gFJtHqCPNCu8WN) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Happy Thanksgiving D\*\*\*heads](https://open.spotify.com/album/7nBxHzpHOCkV4aVZMsi9xH) | 2:59 |
+| 92 | [Cold](https://open.spotify.com/track/5mFXw1QaGIyBJ4hZjduNWh) | [Yung Leo](https://open.spotify.com/artist/0S4FNlGAeveqtTpAbwgmYQ) | [Cold](https://open.spotify.com/album/7GZcmdR13L609UtXntBcSy) | 2:59 |
 | 93 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 |
 | 94 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 |
 | 95 | [Jardin d'orages](https://open.spotify.com/track/390izvGBLKyKv3IC3tup84) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Mes ombres](https://open.spotify.com/album/3pd4ayFDk7ZMY8XjRG31LP) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 |
 | 100 | [Colosse](https://open.spotify.com/track/7kjqsAEqNKnF8I4kW08Vk4) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9), [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 4:27 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDg4YWZjY2ViYmQ4NGYxMjI0NGM1NWFiYTZiNjBkNTY5`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMGU5NzZmM2U2YjU3ZmZjMWQwZDAyMjk1MzdlZDU0Mjk2`

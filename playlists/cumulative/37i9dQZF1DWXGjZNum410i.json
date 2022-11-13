@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Viral Pop Hits",
+        "url": "https://open.spotify.com/album/2imr9PtgP6OJs5gLcUknqq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/2lKNANmq1EjeXcTyY01tGq"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 155956,
       "name": "De Una Vez",
       "url": "https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu"
@@ -601,7 +619,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 144000,
       "name": "Escr\u00edbeme",
       "url": "https://open.spotify.com/track/0gLPbKWrfFTifO5m90P8DE"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188813,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"

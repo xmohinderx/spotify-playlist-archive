@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Majo Aguilar ",
-  "num_followers": 493937,
+  "num_followers": 493999,
   "original_name": "Mujerones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1NDgzOSwwMDAwMDAwMDQzYWRmN2Y2N2RmM2ViODdhZTVmMzJhNzIyNjdjNDFj",
+  "snapshot_id": "MTY1OTU1NDgzOSwwMDAwMDAwMGY0ODQyMDZhYjU4ODFlMDQxNTNjNGQ0MGNiMzMyZmY0",
   "tracks": [
     {
       "added_at": "2022-08-03 19:27:19",
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 252440,
-      "name": "La Gran Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Mi error, mi fantas\u00eda",
-      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -727,6 +727,38 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Mi error, mi fantas\u00eda",
+      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 235572,
+      "name": "Que Ganas de No Verte Nunca Mas",
+      "url": "https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
         "name": "Y Seguimos Con Duranguense",
         "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
       },
@@ -739,6 +771,54 @@
       "duration_ms": 166426,
       "name": "Si La Quieres",
       "url": "https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "La Trampa",
+      "url": "https://open.spotify.com/track/62nLNuTjFfyJczHfln6mw2"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -763,50 +843,34 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "Los Besos No Se Dan En La Camisa",
-        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 261293,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
+      "duration_ms": 250800,
+      "name": "Es Demasiado Tarde - Remasterizado",
+      "url": "https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO"
     },
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "La Chica Dorada",
-        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+        "name": "En Realidad",
+        "url": "https://open.spotify.com/album/4RX4z2boimAXPxgEif3YKM"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 225866,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
+      "duration_ms": 205236,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -843,18 +907,18 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "En Realidad",
-        "url": "https://open.spotify.com/album/4RX4z2boimAXPxgEif3YKM"
+        "name": "Mudanzas",
+        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
         }
       ],
-      "duration_ms": 205236,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/0yig7Mn3nsz17bRgyeameH"
+      "duration_ms": 231967,
+      "name": "Mudanzas",
+      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -887,6 +951,22 @@
       "duration_ms": 211933,
       "name": "\u00c9l No Eres T\u00fa",
       "url": "https://open.spotify.com/track/7u3nuJbX2fxh7T3IMmWcSD"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Los Besos No Se Dan En La Camisa",
+        "url": "https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -943,26 +1023,6 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6o7i9pTUqE8FC6WbqtKqMa"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 184469,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4JIGvUeyXTKEzZ8mv0ApKl"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -979,22 +1039,6 @@
       "duration_ms": 245946,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/36vevDMDx2ArmNViFWn22A"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -1031,6 +1075,38 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 237740,
+      "name": "Inocente Pobre Amiga",
+      "url": "https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/0seEvOIXjtwuhbfS0lImCQ"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
         "name": "Apur\u00e9 Mi Caf\u00e9",
         "url": "https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh"
       },
@@ -1059,6 +1135,22 @@
       "duration_ms": 196853,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/78Enbx43RDUgnAaDixSeGg"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -1103,22 +1195,6 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "Lupita D'Alessio",
-        "url": "https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 311275,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -1135,22 +1211,34 @@
     {
       "added_at": "2022-08-03 19:27:19",
       "album": {
-        "name": "Enga\u00f1\u00e9moslo",
-        "url": "https://open.spotify.com/album/3WEmQxo46sFb48DUXk8nli"
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Mariachi Los Reyes",
-          "url": "https://open.spotify.com/artist/4F7KkuF7t7TJPJk7mNPIlM"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 211712,
-      "name": "Enga\u00f1\u00e9moslo",
-      "url": "https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj"
+      "duration_ms": 217160,
+      "name": "Ya No",
+      "url": "https://open.spotify.com/track/57xIz4fw0sMzc2GRnc2Il7"
+    },
+    {
+      "added_at": "2022-08-03 19:27:19",
+      "album": {
+        "name": "Lupita D'Alessio",
+        "url": "https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 311275,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v"
     },
     {
       "added_at": "2022-08-03 19:27:19",
@@ -1167,114 +1255,6 @@
       "duration_ms": 171461,
       "name": "No Me Preguntes",
       "url": "https://open.spotify.com/track/7h5SXPuwGLSIenz3cLpSb6"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Emociones II",
-        "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "\u00bfQuieres Ser Mi Amante?",
-      "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 157760,
-      "name": "Abeja Reina",
-      "url": "https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Y Seguimos Con Duranguense",
-        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Qu\u00e9 Maldici\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/4dQqCFHI3jRAdCWJHZ2n1L"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 224395,
-      "name": "Que\u0301 Maldicio\u0301n - Remix",
-      "url": "https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F"
-    },
-    {
-      "added_at": "2022-08-03 19:27:19",
-      "album": {
-        "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
-        "url": "https://open.spotify.com/album/4Xjf9chXOeW3SNxnARpMNT"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        },
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Amar Y Vivir - En Vivo",
-      "url": "https://open.spotify.com/track/5SMGmsiSlbB0mhoM8RVBxQ"
     }
   ],
   "unique_name": "Mujerones",

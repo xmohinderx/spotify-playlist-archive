@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,731 likes - 40 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,747 likes - 40 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 31 | [Ambarsariya](https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Fukrey](https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd) | 4:08 |
 | 32 | [Jhalla Wallah](https://open.spotify.com/track/1y8Ck6jFOyxNC59SrQJIn6) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Ishaqzaade](https://open.spotify.com/album/7bJe5O77rwuYETK4zEp9Vu) | 5:51 |
 | 33 | [London Thumakda](https://open.spotify.com/track/2qJAzSE6uC94oH2NRoPrGl) | [Labh Janjua](https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Queen](https://open.spotify.com/album/2CpCvD6ZrMmiydad6IVEPU) | 3:50 |
-| 34 | [Banno \(From "Tannu Weds Manu Returns"\)](https://open.spotify.com/track/2DF986COXC0gEk6PABAZQQ) | [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Swati Sharma](https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zi73l4RkWqUyL6tFoHMmT) | 3:16 |
+| 34 | [Banno \(From "Tannu Weds Manu Returns"\)](https://open.spotify.com/track/78LZUVqzZzsuNfT6G782pP) | [Brijesh Shandilya](https://open.spotify.com/artist/3gdKEsvYBUHdtLMmECIN4q), [Swati Sharma](https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 3:16 |
 | 35 | [Multan](https://open.spotify.com/track/2Qr6caRtWpQitY0t7qjsxi) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Multan](https://open.spotify.com/album/0QQwhLBFDqjzMiWYcQaiNi) | 4:05 |
 | 36 | [O Mehndi Rang Layee](https://open.spotify.com/track/39IVoEO9CeLQXYJcLvLwQk) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo) | [Chal Mere Bhai](https://open.spotify.com/album/2ROkLjvAaWIiDGBNVCxgub) | 6:50 |
 | 37 | [Laung Gawacha](https://open.spotify.com/track/5ol7uDVpF1pHQitme6AJpm) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Laung Gawacha](https://open.spotify.com/album/4ZHC2cpwbxzyktk4pXEBLv) | 2:41 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 39 | [Charda Siyaal](https://open.spotify.com/track/1olfUQXZoaqITRxmBq1Y1F) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Charda Siyaal \- Single](https://open.spotify.com/album/1pSrIo84dlxz8U2fyLEolg) | 3:20 |
 | 40 | [Boliyan](https://open.spotify.com/track/1CG8ODAay6SHhlpgyshfJu) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Minda](https://open.spotify.com/artist/7mPA0gY5QgapTMfgLplro0) | [Muklawa](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:04 |
 
-Snapshot ID: `MTY0NzI0ODkzMiwwMDAwMDAwMDI4NmJhMDQyZTFhYzI0NmI0Y2E5ZjJkZjc0YTlhMDYz`
+Snapshot ID: `MTY0NzI0ODkzMiwwMDAwMDAwMDYyZDM1MmY0YTc3ZmU3ZTQ0MGUxMjQ3MmYwNzUwZmJi`

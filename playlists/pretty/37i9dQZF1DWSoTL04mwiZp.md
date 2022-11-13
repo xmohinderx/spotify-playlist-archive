@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 
 > Special songs for mothers of all kinds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,673 likes - 59 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,674 likes - 59 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 5 | [Mother](https://open.spotify.com/track/4FjkZp6GD6baaxqUYTqIJo) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 1:18 |
 | 6 | [I Called Mama](https://open.spotify.com/track/43iO9eQ1phR0RIeIqDjhq5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Mother's Love: Mother's Day Songs 2020](https://open.spotify.com/album/1Zn6RYjHStTaVDCNAPp2Hh) | 3:31 |
 | 7 | [Mama's Song](https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:00 |
-| 8 | [Make You Feel My Love](https://open.spotify.com/track/6otXN6h5J6e49Lvse5yCwD) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Make You Feel My Love](https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx) | 3:32 |
+| 8 | [Make You Feel My Love](https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:32 |
 | 9 | [The Perfect Fan](https://open.spotify.com/track/5XgxLtOR4oKxnfA7Fb4968) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 4:13 |
 | 10 | [93 Million Miles](https://open.spotify.com/track/1s8tP3jP4GZcyHDsjvw218) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 3:36 |
 | 11 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 20 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 |
 | 21 | [Close Your Eyes](https://open.spotify.com/track/04THq9ESnlipU969vuvSJx) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:33 |
 | 22 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
-| 23 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/1U64mXSOAvEaz4sRyQPNpb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Soulklassiker](https://open.spotify.com/album/55lqkJnXgVUl1mZcnU52zY) | 2:57 |
+| 23 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 24 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 |
 | 25 | [Hey Mama](https://open.spotify.com/track/46OFHBw45fNi7QNjSetITR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 5:05 |
 | 26 | [Mother](https://open.spotify.com/track/51WLu8FjR1tiyIU1jUoWvm) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Mother](https://open.spotify.com/album/55FiEs3CNdmkmkzmkyHmYO) | 3:09 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 29 | [I'll Be There](https://open.spotify.com/track/3373WeDUgsfvochiRrV1OF) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Best Day Ever \(5th Anniversary Remastered Edition\)](https://open.spotify.com/album/13fsGE9UN5VaAkETSs94un) | 3:11 |
 | 30 | [Happy Mother's Day](https://open.spotify.com/track/3VkZYB9UYzvK5SVJm2Dqwv) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Happy Mother's Day](https://open.spotify.com/album/2EXhbxhfsVQ1BzeJji92wH) | 1:53 |
 | 31 | [Mother](https://open.spotify.com/track/2w4HfONROYg7ShL8yOsQII) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Bigger](https://open.spotify.com/album/56XXDc04Gugu3CknMcsWLY) | 3:48 |
-| 32 | [Mama Said](https://open.spotify.com/track/5SDJ46BCOznAtoW2q4g3Qc) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Twist And Shout](https://open.spotify.com/album/48T0Om5iIU72c94VwrOL5T) | 2:08 |
+| 32 | [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 |
 | 33 | [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 |
 | 34 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
 | 35 | [In My Daughter's Eyes](https://open.spotify.com/track/7LkQBDAiS0GVSO5JQuYDzY) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 3:13 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 48 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
 | 49 | [Oh! My Mama](https://open.spotify.com/track/1cqVLq0ZAuJ8xVTqygJZJ4) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel](https://open.spotify.com/album/4cbZ94wBTQCvivwA7VxKdb) | 3:14 |
 | 50 | [Baby I'm Yours](https://open.spotify.com/track/5iUU0Jkby6iXV8I2xC5OcS) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Am / Fm: The B\-Sides](https://open.spotify.com/album/4IJ12MKAjRgXcAqUv7k3mO) | 2:52 |
-| 51 | [Secret](https://open.spotify.com/track/4uwYNnstKzowAVD4pbqDRY) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [10's Ballads](https://open.spotify.com/album/4ce3VjMCB8wKOWEtGQvKqt) | 3:21 |
+| 51 | [Secret](https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [6: Commitment](https://open.spotify.com/album/6oO1IOd0bM6Bzk0Kzpi2v6) | 3:21 |
 | 52 | [This Angel](https://open.spotify.com/track/5Q9MQEOoKXaIOVqmSW8CYn) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [That Girl \(Deluxe\)](https://open.spotify.com/album/7jCbgAamUZSkL2SUchiGyF) | 3:31 |
 | 53 | [Wish for You](https://open.spotify.com/track/7wDV6VoKGEWLRmIAU4e8gC) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:28 |
 | 54 | [Chiquitita](https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:26 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSoTL04mwiZp.md) - [plain]
 | 58 | [Lullaby For Wyatt](https://open.spotify.com/track/6g7ZJZrLi9DOJVvbKtRoiO) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Detours](https://open.spotify.com/album/245704RhuUXj2ty55RKoJh) | 4:07 |
 | 59 | [That's How Strong My Love Is](https://open.spotify.com/track/5BUanshsri15aT9FCHOY6t) | [The Sweet Inspirations](https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl) | [What The World Needs Now](https://open.spotify.com/album/07XkbaAYNsHEU1dFMrbn3t) | 2:15 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDUwMzUzMDJkZTQ0ZGQ3NmRhMjQ2MmY3YTE1YjE3YTBk`
+Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDE2NjJlOWE5MDk0YWFlYjU4NjUxMDBiNmM0MTI1MWM4`

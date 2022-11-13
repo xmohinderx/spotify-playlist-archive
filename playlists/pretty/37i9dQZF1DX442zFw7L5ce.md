@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Songs that will remind you of the QUEEN you are, while you get ready to slay the world! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,928 likes - 42 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,974 likes - 42 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 39 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun, Premji\(RapVocals\)](https://open.spotify.com/artist/3uytoj0Hv0kykUFD6W30RD) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 |
 | 40 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 |
 | 41 | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/track/0Vjckx1G9Nt1S4GVfVKEdo) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/album/3RcUaHobHgt8eRQY7fPADf) | 2:26 |
-| 42 | [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 |
+| 42 | [Vachindamma](https://open.spotify.com/track/7sQs1t47PqfKa1L7kOtLko) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Expectional Music Of Gopi Sundar](https://open.spotify.com/album/2YjU5LftLFtIiKDLa7cJ33) | 4:10 |
 
-Snapshot ID: `MTY2NTk4NjI3MywwMDAwMDAwMDEzYmQ3OWJlZjBlMDI5MzU2MTgyNGM3ODdiZGYyMTE1`
+Snapshot ID: `MTY2NTk4NjI3MywwMDAwMDAwMGRlYWQyNzkyZmFmYzQ2YzFiYzEwNWEzYjM0MWNmNjlj`

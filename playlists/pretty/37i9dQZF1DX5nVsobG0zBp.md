@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,763 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,807 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 45 | [Só Queria Sorrir](https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 3:42 |
 | 46 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
 | 47 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 |
-| 48 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
+| 48 | [Mo Money Mo Problems](https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Mo Money Mo Problems](https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap) | 2:38 |
 | 49 | [HEI](https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [HEI](https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F) | 3:28 |
-| 50 | [Mo Money Mo Problems](https://open.spotify.com/track/4bRd2tebqOfIYxsyIGUzDd) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Mo Money Mo Problems](https://open.spotify.com/album/6oRVzgSnlpjjbP6mix56ap) | 2:38 |
+| 50 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
 | 51 | [Conto](https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Conto](https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi) | 3:22 |
 | 52 | [La Bella Mafia](https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [La Bella Mafia](https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP) | 4:00 |
 | 53 | [Sentimento Safari](https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sentimento Safari](https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 59 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 60 | [Pull Up na C](https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Pull Up na C](https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv) | 2:58 |
 
-Snapshot ID: `MTY2ODA5ODQ3MSwwMDAwMDAwMDI5MjI4NTY1N2IwNTU0ZTc4OWRlMzMxMDYxYTJiNmU4`
+Snapshot ID: `MTY2ODA5ODQ3MSwwMDAwMDAwMGEzZThlMTk5N2UyZWQ1OTNiNTU0OGRjOThlMWIwNmI3`

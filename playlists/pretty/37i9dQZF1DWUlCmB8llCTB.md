@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Esto es un perreo a lo Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,990 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,199 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 | 59 | [Si Me Toca](https://open.spotify.com/track/29jLR2tvOAtko7AqIhFVqf) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Si Me Toca](https://open.spotify.com/album/3MArTs3zf0ZIi2ADWLp91P) | 5:31 |
 | 60 | [SE ENDIABLA](https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [SE ENDIABLA](https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp) | 2:39 |
 | 61 | [Qué Me Contás](https://open.spotify.com/track/3tyl9sCGLh17nDtZo73Lrz) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 3:29 |
-| 62 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 |
+| 62 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:17 |
 | 63 | [Malo](https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Malo](https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd) | 4:15 |
 | 64 | [Tra Tra](https://open.spotify.com/track/46YrvybgPpjBL13f0uc8Oc) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Tra Tra](https://open.spotify.com/album/5KJG1LyqoEmWyidFAm5JYt) | 2:55 |
 | 65 | [TU AMIGO](https://open.spotify.com/track/25EpqnbVRzegM4RxXlHhDW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:53 |

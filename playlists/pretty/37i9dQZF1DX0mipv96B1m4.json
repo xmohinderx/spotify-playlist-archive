@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 213,
+  "num_followers": 215,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMDZiNjM4NGM4ZTFlZTJmMzNmODMzNjg2NzQ5OWVjYzJj",
+  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMGIyNzg4M2I4M2JhNzFkMzljOGNmN2ZjOGIwMzc4NGMz",
   "tracks": [
     {
       "added_at": "2022-03-31 17:42:20",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
     },
     {
-      "added_at": "2022-11-12 05:15:01",
+      "added_at": "2022-11-13 01:24:18",
       "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb"
@@ -87,22 +87,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Tupaate",
-        "url": "https://open.spotify.com/album/3NlSPmx0BeXeUUxhmIQqjv"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "Wakikuba",
-      "url": "https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Nalonda Nemala",
         "url": "https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 182021,
       "name": "Nalonda Nemala",
       "url": "https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Tupaate",
+        "url": "https://open.spotify.com/album/3NlSPmx0BeXeUUxhmIQqjv"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -257,26 +257,6 @@
       "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
-      "added_at": "2022-07-29 06:06:22",
-      "album": {
-        "name": "Bikole",
-        "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
-      },
-      "artists": [
-        {
-          "name": "Martha Mukisa",
-          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
-        },
-        {
-          "name": "Oma Afrikana",
-          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Bikole",
-      "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Bwogana",
@@ -297,7 +277,27 @@
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
-      "added_at": "2022-11-12 05:15:01",
+      "added_at": "2022-07-29 06:06:22",
+      "album": {
+        "name": "Bikole",
+        "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
+      },
+      "artists": [
+        {
+          "name": "Martha Mukisa",
+          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
+        },
+        {
+          "name": "Oma Afrikana",
+          "url": "https://open.spotify.com/artist/2MNJ24DxS2KBO0hrohGLaf"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Bikole",
+      "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "added_at": "2022-11-13 01:24:18",
       "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
@@ -425,28 +425,20 @@
       "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
+      "added_at": "2022-10-06 21:00:00",
       "album": {
-        "name": "Sikyegomba",
-        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
       },
       "artists": [
         {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "DVJ Pofia",
-          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
         }
       ],
-      "duration_ms": 210364,
-      "name": "Sikyegomba",
-      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2022-05-27 05:48:37",
@@ -469,20 +461,28 @@
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
     },
     {
-      "added_at": "2022-10-06 21:00:00",
+      "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+        "name": "Sikyegomba",
+        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
       "artists": [
         {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+        },
+        {
+          "name": "DVJ Pofia",
+          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
         }
       ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+      "duration_ms": 210364,
+      "name": "Sikyegomba",
+      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
-      "added_at": "2022-05-27 05:48:37",
-      "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        }
-      ],
-      "duration_ms": 169430,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
-    },
-    {
       "added_at": "2022-08-05 09:37:54",
       "album": {
         "name": "Kiziniro",
@@ -699,6 +683,22 @@
       "duration_ms": 196205,
       "name": "Wulira Omuziki",
       "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+    },
+    {
+      "added_at": "2022-05-27 05:48:37",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/5pQKSW1zMqLpggnJ0X12Cb"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        }
+      ],
+      "duration_ms": 169430,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
     },
     {
       "added_at": "2022-05-19 20:59:00",

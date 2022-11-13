@@ -1,12 +1,12 @@
 {
   "description": "Spread some cheer with this list of new and old seasonal favorites.",
-  "num_followers": 292202,
+  "num_followers": 292451,
   "original_name": "Happy Holidays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjUzOTYzMSwwMDAwMDAwMDM3YzY4NWI5OWJiZDc3OGJkN2FmMmY1ODAwMWMxNWUy",
+  "snapshot_id": "MTY2NjUzOTYzMSwwMDAwMDAwMGRmYzk3MTQ5MTc3MGFlYjFlZmExYjI3ZDA1NWJiNjEz",
   "tracks": [
     {
       "added_at": "2022-10-23 15:40:31",
@@ -183,8 +183,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Christmas Playlist 2021",
-        "url": "https://open.spotify.com/album/5VQkuBEAq55jFH8yoNH3df"
+        "name": "The Works (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 259506,
+      "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0MWragmw7l06QuiYuSLS1A"
+      "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -351,8 +351,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Play Christmas Music",
-        "url": "https://open.spotify.com/album/3qPh58Q0uzQEzwrKsAMCVM"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK"
       },
       "artists": [
         {
@@ -362,7 +362,7 @@
       ],
       "duration_ms": 170964,
       "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6CHeVxecD2clOIpCpG0Nrm"
+      "url": "https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -464,7 +464,7 @@
       "added_at": "2022-10-23 15:40:31",
       "album": {
         "name": "A Legendary Christmas",
-        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
       },
       "artists": [
         {
@@ -476,15 +476,15 @@
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 218920,
+      "duration_ms": 218889,
       "name": "Baby, It's Cold Outside (feat. Kelly Clarkson)",
-      "url": "https://open.spotify.com/track/0ImOL4s238XPV8d2DKTJ2D"
+      "url": "https://open.spotify.com/track/0cBCE4fJztY5LcB6P7P2io"
     },
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Chilled Christmas",
-        "url": "https://open.spotify.com/album/68fVTZVjYOIzZIsHB4pJ7N"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX"
       },
       "artists": [
         {
@@ -494,7 +494,7 @@
       ],
       "duration_ms": 212453,
       "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/64D0upB6qvXDZs6b8X1XRE"
+      "url": "https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -547,18 +547,22 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Christmas Hits (Le pi\u00f9 belle melodie di Natale)",
-        "url": "https://open.spotify.com/album/2nqEvAeRRLZo8GZHG6M0Ta"
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
       "artists": [
         {
-          "name": "Coro e solisti di Offegna",
-          "url": "https://open.spotify.com/artist/6F4jR8Izn97hzu2Vk8su88"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
         }
       ],
-      "duration_ms": 156502,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/3KlE3KONZwdK4rXxzlCD7i"
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -743,8 +747,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Santa Songs",
-        "url": "https://open.spotify.com/album/6KI13Kc1iR2zvckXe7GP6U"
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
       },
       "artists": [
         {
@@ -752,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 207186,
+      "duration_ms": 212400,
       "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/0bZ3ZtpsP0g5JAJ0sezKP5"
+      "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -811,8 +815,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Cozy Christmas",
-        "url": "https://open.spotify.com/album/4qMWHviG4RoJGal19Kvh0M"
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
       "artists": [
         {
@@ -820,17 +824,13 @@
           "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         },
         {
-          "name": "The Plastic Ono Band",
-          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
-        },
-        {
-          "name": "The Harlem Community Choir",
-          "url": "https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy"
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
         }
       ],
-      "duration_ms": 212040,
-      "name": "Happy Xmas (War Is Over)",
-      "url": "https://open.spotify.com/track/0MV4MLZVeP4JvYVt3djxOX"
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -919,8 +919,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Classic Christmas Hits 2022",
-        "url": "https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK"
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
       "artists": [
         {
@@ -930,7 +930,7 @@
       ],
       "duration_ms": 309386,
       "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW"
+      "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -951,8 +951,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Holidays Are Coming",
-        "url": "https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB"
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 225933,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me"
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Novogodi\u0161nji Hitovi 2020",
-        "url": "https://open.spotify.com/album/4qs4gIDAq7bLIHHP3LgHWz"
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
       "artists": [
         {
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 183400,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - Single Version",
-      "url": "https://open.spotify.com/track/1cvpw953AQ7d3SqnZWVDTn"
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -1071,8 +1071,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Happy Navidad",
-        "url": "https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu"
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
       },
       "artists": [
         {
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 272333,
+      "duration_ms": 272393,
       "name": "Step Into Christmas",
-      "url": "https://open.spotify.com/track/5AG7WObBQyMrmAfP5X9FKw"
+      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Relaxing Christmas Music",
-        "url": "https://open.spotify.com/album/3fhZuGARTqvmMDsMljRHzP"
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
       "artists": [
         {
@@ -1114,7 +1114,7 @@
       ],
       "duration_ms": 228160,
       "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/1oP8pYttKCd0aAyFqq3WpM"
+      "url": "https://open.spotify.com/track/29Q7G9NJWi0XN7jj83NbrR"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Holiday 2020",
-        "url": "https://open.spotify.com/album/23UAHj0aCS6hTsEcV2hDaW"
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
       "artists": [
         {
@@ -1178,7 +1178,7 @@
       ],
       "duration_ms": 131733,
       "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/5RLrpUxEjyjkBPsWR2QysQ"
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "Christmas Pop",
-        "url": "https://open.spotify.com/album/7EESd9SFYO7ipX0c02vzQ6"
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
       },
       "artists": [
         {
@@ -1230,13 +1230,13 @@
       ],
       "duration_ms": 277360,
       "name": "Don't Save It All for Christmas Day",
-      "url": "https://open.spotify.com/track/1KJMnKuavebcQuVgwZvDVa"
+      "url": "https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF"
     },
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "White Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/21oCavXwh73jXoUjMYomeG"
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
       "artists": [
         {
@@ -1246,7 +1246,7 @@
       ],
       "duration_ms": 181446,
       "name": "Winter Wonderland - Single Version",
-      "url": "https://open.spotify.com/track/0MThuRzg0BNfdhWJ2U5Q83"
+      "url": "https://open.spotify.com/track/5LptlBSMWkU65JuGu2U6j9"
     },
     {
       "added_at": "2022-10-23 15:40:31",
@@ -1287,8 +1287,8 @@
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "The Ultimate Christmas Playlist",
-        "url": "https://open.spotify.com/album/4ZomfR8jSbQYmozJ3PFRSW"
+        "name": "Christmas Romance",
+        "url": "https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N"
       },
       "artists": [
         {
@@ -1298,13 +1298,13 @@
       ],
       "duration_ms": 229853,
       "name": "We Wish You A Merry Christmas",
-      "url": "https://open.spotify.com/track/7ymP6bi2ufhArxKbxUkGkf"
+      "url": "https://open.spotify.com/track/73pcHkUzQTD3IqYrHfqUf8"
     },
     {
       "added_at": "2022-10-23 15:40:31",
       "album": {
-        "name": "The Best Christmas Album In The World...Ever! 2021",
-        "url": "https://open.spotify.com/album/5hejbQwKmx8CSvwa7HVkYw"
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
       "artists": [
         {
@@ -1314,7 +1314,7 @@
       ],
       "duration_ms": 263693,
       "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/2mxwMVaPHxz4WVslwart1j"
+      "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
     }
   ],
   "unique_name": "Happy Holidays",

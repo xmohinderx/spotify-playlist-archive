@@ -4,7 +4,7 @@
 
 > New music breaking waves\.  Cover: Ice Spice
 
-195 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+196 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/track/27r0boXgMC64byb513mJNu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [ME FIRST \- A COLORS SHOW](https://open.spotify.com/album/4xULzJV1dGpBSFI2au8Fdg) | 2:33 | 2022-08-26 |  |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-09 |  |
 | [Name of Love](https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Name of Love](https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI) | 1:46 | 2022-10-14 | 2022-10-29 |
-| [Neva Goin Broke](https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Codeine Files](https://open.spotify.com/album/7tgZb9ATpg16l6wcSnOBtT) | 1:20 | 2022-08-19 |  |
+| [Neva Goin Broke](https://open.spotify.com/track/25n2o2iXsML4I0xIAFOINj) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Neva Goin Broke](https://open.spotify.com/album/4rUicHcb8xZS9zuyVlPZrd) | 1:20 | 2022-08-19 |  |
+| [Neva Goin Broke](https://open.spotify.com/track/3MDay3lotWzIJ9RmuYwi1H) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Codeine Files](https://open.spotify.com/album/7tgZb9ATpg16l6wcSnOBtT) | 1:20 | 2022-08-19 | 2022-11-13 |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 | 2022-10-29 |
 | [NO PLACE TO GO](https://open.spotify.com/track/6aBMG5bq5CsCsVg7O1UJ6L) | [Gengis Don](https://open.spotify.com/artist/4R4iFqELWPg6TAnnD6ccpI), [witSmusic](https://open.spotify.com/artist/6H4uK8igktMYWfXX3PNEEW) | [NO PLACE TO GO](https://open.spotify.com/album/59wuLv8LEXoekRowJwkpYp) | 3:21 | 2022-09-16 |  |
 | [NO2](https://open.spotify.com/track/0hRA9X9Ga7aT66sNgNOUht) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU) | [Coordinates](https://open.spotify.com/album/2KBFAyoDp5uB33m2kC08He) | 3:57 | 2022-10-28 |  |

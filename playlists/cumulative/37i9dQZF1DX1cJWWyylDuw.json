@@ -2483,6 +2483,24 @@
     {
       "album": {
         "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1UTq74jYfOIWst1gXyE05p"
+      },
+      "artists": [
+        {
+          "name": "After The Burial",
+          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234834,
+      "name": "Exit, Exist",
+      "url": "https://open.spotify.com/track/2KI2BlVyVm3snSHhrxJOsT"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
         "url": "https://open.spotify.com/album/5TYkzohGue5TQbhIk2T8xH"
       },
       "artists": [
@@ -4893,7 +4911,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 225440,
       "name": "On Wings of Carnage",
       "url": "https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr"
@@ -5577,7 +5595,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 188480,
       "name": "Rest Your Head",
       "url": "https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s"
@@ -6155,7 +6173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 276000,
       "name": "Sungazer",
       "url": "https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj"
@@ -6443,7 +6461,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 285366,
       "name": "The Failsafe Fallacy",
       "url": "https://open.spotify.com/track/7i0yLsdCMj0GbkqlpVKAhS"
@@ -7417,7 +7435,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 263192,
       "name": "Where Millions Have Come to Die",
       "url": "https://open.spotify.com/track/1k3vemIRqlSdlBPFUrqhMY"

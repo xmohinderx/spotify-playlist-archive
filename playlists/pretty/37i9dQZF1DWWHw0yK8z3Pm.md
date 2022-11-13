@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Serena Ryder, William Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,813 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,825 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 25 | [Hey Who's Counting?](https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Palace Waiting](https://open.spotify.com/album/2sgxaCh1xIwbHoBsslHYuR) | 2:57 |
 | 26 | [Great Goodbye](https://open.spotify.com/track/2lhm5FumxSB6DGKQCvlLCo) | [Cynthia Hamar](https://open.spotify.com/artist/22GLcgW0TkIpnDgVp9Igo6) | [Joint & Marrow](https://open.spotify.com/album/6ciXz796jqwH4nU2odt48Z) | 4:13 |
 | 27 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 |
-| 28 | [Better Off High](https://open.spotify.com/track/4qErRQ7XZCogsJDzyvWTLY) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Better Off High](https://open.spotify.com/album/5nMgnAmu8DnEHS1FVlsrB7) | 4:30 |
+| 28 | [Better Off High](https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:30 |
 | 29 | [Making Believe \(feat\. Rose Cousins\)](https://open.spotify.com/track/0m2QW5c8rATo81FjTYZkcu) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf), [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 2:36 |
 | 30 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 | 31 | [Edge of Us](https://open.spotify.com/track/2dH2QAXL3JphxxZOjjCqCZ) | [Jaron Chidiac](https://open.spotify.com/artist/27W3Bt6tacaYmtAMMKxiFX) | [Edge of Us](https://open.spotify.com/album/49hhJpCaz9ClqJAWpiZPyT) | 3:02 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 84 | [Viral](https://open.spotify.com/track/5Qb85PqpUrbUIbUX5HMsEZ) | [Matthew Barber](https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX) | [Viral](https://open.spotify.com/album/1RoIwKIEMOUVkKcQVCHn9D) | 2:28 |
 | 85 | [Tailwinds](https://open.spotify.com/track/245B5YlJ9PnXlZ3EpbZBiQ) | [Alex Lapp](https://open.spotify.com/artist/5EyQUNPmTuQeLYPqLWBpbW) | [Tailwinds](https://open.spotify.com/album/3V9rjHfNaZ6xv8OmWO3sF2) | 3:03 |
 | 86 | [Deadman](https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Deadman](https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa) | 3:44 |
-| 87 | [Montana Waltz](https://open.spotify.com/track/1XKzJ3kDUkFsSMI6wroeeT) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [That’s What Keeps the Rent Down, Baby](https://open.spotify.com/album/6ZHgmmd6CGjOsIQ7WUz181) | 3:49 |
+| 87 | [Montana Waltz](https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:49 |
 | 88 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
 | 89 | [Two Shots](https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/7aEPFKcRZg2lDCzE5FGtSX) | 4:09 |
 | 90 | [I Would Be Me](https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light Of Day](https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Caroline](https://open.spotify.com/track/3ME0oA0PvhyIabL6ZiDOea) | [Willie Stratton](https://open.spotify.com/artist/1vEiaSJR9xF1T2Ckp4oZwT) | [Caroline](https://open.spotify.com/album/2OyX6YzNKwM7C8dX6NOI5I) | 4:08 |
 | 100 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDcxYTFiNDE5MDhjMDMxYjZjMDA1OTc5MTc3YmY1ZTdl`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDQxNGQzYTY1ZjY2MDcyZWQ5NmViOWY1ZjQ0NzU1YzYy`

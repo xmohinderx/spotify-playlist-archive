@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,702 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,776 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 64 | [I Love You](https://open.spotify.com/track/431exPjnaorQQS0J9S8cN6) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [I Love You](https://open.spotify.com/album/2IFf1dEQFwXSil0IPksTSF) | 2:47 |
 | 65 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 |
 | 66 | [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 |
-| 67 | [Teamo](https://open.spotify.com/track/50aiDeiNgmX83tafAS7sPt) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Vanny Boy](https://open.spotify.com/album/3fhna2FmjpHFePlDXn6voT) | 4:24 |
+| 67 | [Teamo \(feat\. Messias Maricoa\)](https://open.spotify.com/track/2wuJk9kUdm3Z8dobXgpzyf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 4:26 |
 | 68 | [Nampenda](https://open.spotify.com/track/3OV9LcFiJZn4CMulAiPoGP) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nampenda](https://open.spotify.com/album/0N3ZA8EsUB5qBk2cJUxpx8) | 3:18 |
 | 69 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 |
 | 70 | [Don't You Know](https://open.spotify.com/track/1XPpKdRjnNNsXZcYg7Krwg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Don't You Know](https://open.spotify.com/album/3iMtRORC74LGs0pm4AewFB) | 3:19 |
 
-Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMGRhMTdjMjcyMzQxY2I5ZjQ4NWJhOTczZmViZWQ3ZmY2`
+Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMDJlMjlmZDQ2NTkwODk4ZDkxNDg2YWFmMDA1ZjQ0NTZi`

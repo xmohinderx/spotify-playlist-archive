@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 259742,
+  "num_followers": 259957,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGVkNzc1OGE5N2MyNGI0OWVmZDcyZTJkNGM3NjIxN2Nh",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDk4MjIxZTA1YmY0ZmQxNmM5NTlmY2ZlNGIwN2I3NWU5",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Vengo Naciendo",
-        "url": "https://open.spotify.com/album/63CHm5FprtIb6QxpJUdFe3"
+        "name": "Yo Me Quedo",
+        "url": "https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 286200,
+      "duration_ms": 278825,
       "name": "Yolanda",
-      "url": "https://open.spotify.com/track/71jzsJnbzhWwZClUFm76FM"
+      "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "M\u00fasica de Siempre",
-        "url": "https://open.spotify.com/album/5eRapx0Noxyn9D0KvQEECn"
+        "name": "La Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
       },
       "artists": [
         {
@@ -222,7 +222,7 @@
       ],
       "duration_ms": 192186,
       "name": "La Flor de la Canela (with Joaqu\u00edn Sabina)",
-      "url": "https://open.spotify.com/track/228fuuL8StM2fgAmoPg33Q"
+      "url": "https://open.spotify.com/track/3AvRiaZZqrMe3lznMui3BM"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -263,6 +263,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Las Consecuencias",
+        "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Tulsa",
+          "url": "https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a"
+        }
+      ],
+      "duration_ms": 233960,
+      "name": "Frente a frente (feat. Tulsa)",
+      "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Fisica Y Quimica",
         "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
       },
@@ -291,22 +311,6 @@
       "duration_ms": 246240,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
-      },
-      "artists": [
-        {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "Vida Loca",
-      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -355,18 +359,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 217146,
-      "name": "Todo se transforma",
-      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+      "duration_ms": 194480,
+      "name": "Vida Loca",
+      "url": "https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -387,8 +391,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7"
       },
       "artists": [
         {
@@ -396,9 +400,9 @@
           "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 184546,
-      "name": "Me haces bien",
-      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
+      "duration_ms": 217146,
+      "name": "Todo se transforma",
+      "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -443,8 +447,8 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Iconos Argentinos",
-        "url": "https://open.spotify.com/album/5Q0z1n2x6SEfRlX6W708ek"
+        "name": "Mercedes Sosa En Argentina (En Directo)",
+        "url": "https://open.spotify.com/album/799FvskSrVFc7ZHv8fYfMC"
       },
       "artists": [
         {
@@ -458,7 +462,7 @@
       ],
       "duration_ms": 279413,
       "name": "S\u00f3lo Le Pido a Dios - En Directo",
-      "url": "https://open.spotify.com/track/3v69Qrb3FP1xM8xL6K2baG"
+      "url": "https://open.spotify.com/track/3L7BpEVfClIMpJHy5e0Ehv"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -515,18 +519,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Desde Que No Nos Vemos",
-        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
       },
       "artists": [
         {
-          "name": "Enrique Urquijo y Los problemas",
-          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 144840,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
+      "duration_ms": 184546,
+      "name": "Me haces bien",
+      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -547,6 +551,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Desde Que No Nos Vemos",
+        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
+      },
+      "artists": [
+        {
+          "name": "Enrique Urquijo y Los problemas",
+          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -559,22 +579,6 @@
       "duration_ms": 205226,
       "name": "Mediterraneo",
       "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 264840,
-      "name": "Cr\u00edmenes perfectos",
-      "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -611,6 +615,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Cr\u00edmenes perfectos",
+      "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Con Cierto Aire a Ti",
         "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
       },
@@ -643,22 +663,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Logo",
-        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Anoche So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Silvio",
         "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
       },
@@ -671,6 +675,22 @@
       "duration_ms": 336400,
       "name": "Qui\u00e9n Fuera",
       "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Logo",
+        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Anoche So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -723,6 +743,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Oceano De Sol",
+        "url": "https://open.spotify.com/album/0Bh08k9p3L0X9mUU3iDUyp"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "El Sitio De Mi Recreo",
+      "url": "https://open.spotify.com/track/0uWLyUK9WECq0nKz0DiA4A"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "El cantante",
         "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
@@ -755,22 +791,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Siete Vidas",
-      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Dedicado A Antonio Machado, Poeta",
         "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
       },
@@ -783,6 +803,22 @@
       "duration_ms": 196826,
       "name": "Cantares",
       "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Siete Vidas",
+      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1027,22 +1063,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Mi Chile Lindo",
         "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
       },
@@ -1055,6 +1075,22 @@
       "duration_ms": 278040,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1175,6 +1211,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
+        "url": "https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
+      "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Qui\u00e9reme Bien (feat. Leiva)",
         "url": "https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm"
       },
@@ -1195,18 +1247,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Coyotes (Versi\u00f3n en Ac\u00fastico El Embarcadero)",
-        "url": "https://open.spotify.com/album/5orCEANMD3ajFiqMH5Og4w"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
       "artists": [
         {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Hector Zeoli",
+          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
         }
       ],
-      "duration_ms": 230136,
-      "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
-      "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
+      "duration_ms": 280920,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1283,30 +1343,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 301935,
-      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
-      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -1351,6 +1387,30 @@
       "duration_ms": 157466,
       "name": "Las Cuatro y Diez",
       "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 301935,
+      "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
+      "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1403,6 +1463,26 @@
       "duration_ms": 202803,
       "name": "Te Quiero Porque Te Quiero (Fandangos)",
       "url": "https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Maldita Vocaci\u00f3n",
+        "url": "https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku"
+      },
+      "artists": [
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        },
+        {
+          "name": "Diego Ojeda",
+          "url": "https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl"
+        }
+      ],
+      "duration_ms": 285341,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1687,18 +1767,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1715,74 +1795,6 @@
       "duration_ms": 224293,
       "name": "Verde Selva",
       "url": "https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 210400,
-      "name": "El Arriero",
-      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Sesiones Moraima",
-        "url": "https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "Tal Vez Te Acuerdes de M\u00ed (feat. Nina) - Sesiones Moraima",
-      "url": "https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Atl\u00e1ntico",
-        "url": "https://open.spotify.com/album/0gROV7KbeA7uF7XAgHtDpX"
-      },
-      "artists": [
-        {
-          "name": "Xoel L\u00f3pez",
-          "url": "https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Tierra",
-      "url": "https://open.spotify.com/track/6mR0ZA4DxvAHBihaXgI3oD"
     }
   ],
   "unique_name": "Cantautores",

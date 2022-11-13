@@ -4153,7 +4153,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 239016,
       "name": "Feelings Meeting",
       "url": "https://open.spotify.com/track/4QCpHmXO4C7HU2bkkcvTna"
@@ -4197,7 +4197,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 239016,
       "name": "Feelings Meeting",
       "url": "https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD"
@@ -7593,7 +7593,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 196266,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/1aTHfnCCB8RleVKfq5u0bD"
@@ -7629,7 +7629,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 196266,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
@@ -7701,7 +7701,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 201333,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO"
@@ -7737,7 +7737,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 201333,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G"
@@ -7969,7 +7969,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 154386,
       "name": "Never Want to Leave",
       "url": "https://open.spotify.com/track/2RgHZv1fA9vFEsFouCvvd5"
@@ -7987,7 +7987,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 154386,
       "name": "Never Want to Leave",
       "url": "https://open.spotify.com/track/3WSsT0Ja2vjXuPG1NXi6fA"
@@ -8485,6 +8485,24 @@
     {
       "album": {
         "name": "Olympus",
+        "url": "https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E"
+    },
+    {
+      "album": {
+        "name": "Olympus",
         "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },
       "artists": [
@@ -8499,24 +8517,6 @@
       "duration_ms": 224000,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
-    },
-    {
-      "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "date_added": "2022-10-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224000,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E"
     },
     {
       "album": {
@@ -9654,7 +9654,7 @@
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 228524,
+      "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
     },
@@ -9953,7 +9953,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
@@ -9971,7 +9971,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 320186,
       "name": "Slowing Down",
       "url": "https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt"
@@ -10195,7 +10195,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 236666,
       "name": "Someone to Love",
       "url": "https://open.spotify.com/track/5UIdBn6A2gHCRmmdghSnFo"
@@ -10231,7 +10231,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "Someone to Love",
       "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
@@ -12777,7 +12777,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 210120,
       "name": "You Follow Me Around",
       "url": "https://open.spotify.com/track/39O3wOayzkkTy0aqmqtTbp"
@@ -12795,7 +12795,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 210120,
       "name": "You Follow Me Around",
       "url": "https://open.spotify.com/track/3PpvZqgohg0VaNiGDUMWEO"

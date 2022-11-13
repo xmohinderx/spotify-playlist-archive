@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of deep relationships to inspire your journey with each other.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,395 likes - 67 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,458 likes - 67 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 4 | [You](https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:46 |
 | 5 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
 | 6 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 |
-| 7 | [Pioneers](https://open.spotify.com/track/2wtFo17SeoPrRcKutzPVF7) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Courtney](https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV) | [Burn The Ships \(Deluxe Edition: Remixes & Collaborations\)](https://open.spotify.com/album/5bZuiwMXhNgCTPXgKh3nOb) | 5:23 |
+| 7 | [Pioneers](https://open.spotify.com/track/2fOs1YeQPjNEIZgLbI80h5) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Courtney](https://open.spotify.com/artist/0d8odIvbXq4hPIIv1C4KvV) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 5:23 |
 | 8 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
 | 9 | [Dancing In The Minefields](https://open.spotify.com/track/4SyGjosRg6d4tvE1EMtqFf) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Let's Grow Old Together, Love Songs](https://open.spotify.com/album/6JrsogjkEDRI57DojUQxIU) | 3:30 |
 | 10 | [Gave You My Heart](https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Gave You My Heart](https://open.spotify.com/album/2EKQkDOUL7WGVN3L4Cxb0D) | 3:07 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 32 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 |
 | 33 | [Forever Like That](https://open.spotify.com/track/7wF4asYZw8cAHEljYd2Wid) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Walking in Between](https://open.spotify.com/album/0kuIIUFaebmwLCmhp6nwVu) | 4:14 |
 | 34 | [I Love You](https://open.spotify.com/track/7zLrZg50t25YSwU1iDskbQ) | [Josh and Amberley Klinkenberg](https://open.spotify.com/artist/2cVwMMg1veINODAPNT4RIP) | [Our Love](https://open.spotify.com/album/0ntZH4kGvUW9WvCbCNTw1r) | 5:40 |
-| 35 | [Lemonade](https://open.spotify.com/track/2IDk5wqJgRlIbgtQ9JHJPo) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Lemonade](https://open.spotify.com/album/0ra3AfTVcIiPxgcH2kTXLJ) | 3:06 |
-| 36 | [Bless The Broken Road](https://open.spotify.com/track/5Fy6J74jVV1skR9rsOzoqE) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Timeless: The Selah Music Collection](https://open.spotify.com/album/2k6RX4wf7ugNg7wsZ6CZw7) | 4:10 |
+| 35 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
+| 36 | [Bless The Broken Road](https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Bless The Broken Road \(The Duets Album\)](https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ) | 4:10 |
 | 37 | [Girl of My Dreams](https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [No Turning Back](https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh) | 3:29 |
 | 38 | [Pretty Beautiful](https://open.spotify.com/track/34Lu3t56GIVow4o2WbKD0G) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:07 |
 | 39 | [Can't Help Falling In Love \- LIGHT](https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [Can't Help Falling In Love](https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y) | 2:51 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 66 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
 | 67 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 
-Snapshot ID: `MTU5MjI1NjA1OCwwMDAwMDAwMDY2ODA4MDg1MWU5MjZiMWM2Mzc5ZjEwODlmYjUwMjk4`
+Snapshot ID: `MTU5MjI1NjA1OCwwMDAwMDAwMGU0NTg5ZWFmNmZlMzUyZTgxZTQ5MmQ1YWQ0Mzk2MWIw`

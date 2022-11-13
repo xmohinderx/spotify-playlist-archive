@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 59033,
+  "num_followers": 59039,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDk5OWFiOGY1ZDdmNWNiZWY2NWFlZmMwN2ZlZTVlNDNk",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDllMTFiNzlmNmUxOGE1MjdjMGUwNGRmNTE3NjkxZjgw",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -43,8 +43,8 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "2000s Smash Hits",
-        "url": "https://open.spotify.com/album/6lyvBf6MxoCkRhPw6qKbxY"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi"
       },
       "artists": [
         {
@@ -53,8 +53,8 @@
         }
       ],
       "duration_ms": 181786,
-      "name": "Euphoria (Single Version)",
-      "url": "https://open.spotify.com/track/4jzQKGcFzICrQPQdKOeNmi"
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -107,8 +107,8 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Think About Things (Hot Chip Remix)",
-        "url": "https://open.spotify.com/album/2RyVbdtzkf2mAxmeBY87DF"
+        "name": "Think About Things",
+        "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 173385,
       "name": "Think About Things",
-      "url": "https://open.spotify.com/track/6qNDpub3hYNpEGE0leUk2M"
+      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "110 Karat",
+        "url": "https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "She Got Me - Bonus Track",
+      "url": "https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Kahraman",
         "url": "https://open.spotify.com/album/6jryLZzOSi2lCoInU6nIYp"
       },
@@ -367,6 +383,22 @@
       "duration_ms": 97896,
       "name": "Jaja Ding Dong",
       "url": "https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Lie to Me",
+        "url": "https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5"
+      },
+      "artists": [
+        {
+          "name": "Mikolas Josef",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        }
+      ],
+      "duration_ms": 171080,
+      "name": "Lie to Me",
+      "url": "https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -435,6 +467,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Wings Of Love",
+        "url": "https://open.spotify.com/album/0dF4TpultM9Ch3jazO0cN5"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f8drene Olsen",
+          "url": "https://open.spotify.com/artist/4pM3DAhLOqMQT5z4pl0Sri"
+        }
+      ],
+      "duration_ms": 185066,
+      "name": "Fly on the Wings of Love",
+      "url": "https://open.spotify.com/track/4v2RaPHSsTvNkggw3RqyeT"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Rise Like A Phoenix",
         "url": "https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p"
       },
@@ -447,6 +495,22 @@
       "duration_ms": 181989,
       "name": "Rise Like A Phoenix",
       "url": "https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/49mZVsGNM1z8GZ5qGOev0r"
+      },
+      "artists": [
+        {
+          "name": "Sergey Lazarev",
+          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/6IMHlXaG4aCFWupl9NCZO2"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -479,6 +543,22 @@
       "duration_ms": 185157,
       "name": "Spirit in the Sky",
       "url": "https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -551,22 +631,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "She Got Me",
-        "url": "https://open.spotify.com/album/3sUGP557bzJJYHrJk9G3Tb"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "She Got Me",
-      "url": "https://open.spotify.com/track/19n68Fcyr7LCfDCKdscjLI"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "A Million Voices",
         "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
       },
@@ -619,6 +683,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Hits chanson fran\u00e7aise",
+        "url": "https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "Sexuality",
         "url": "https://open.spotify.com/album/5XKp5IjYVitTx6XIFIC6PA"
       },
@@ -631,6 +711,22 @@
       "duration_ms": 188853,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6JYxLv2GGPaZDkyJaHSQJY"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Presenting Brotherhood of Man",
+        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "duration_ms": 178568,
+      "name": "Save Your Kisses for Me - Alternate Take",
+      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -695,6 +791,22 @@
       "duration_ms": 182000,
       "name": "Je t'adore - Eurovision Mix",
       "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -799,6 +911,22 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
+        "name": "Class of '74",
+        "url": "https://open.spotify.com/album/5Uh4u1fz6uu71B6lXm92Lc"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/75uJ2UrLjcjqvIYKkADjPU"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
         "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
         "url": "https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU"
       },
@@ -811,6 +939,22 @@
       "duration_ms": 178880,
       "name": "Shady Lady",
       "url": "https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Vive la vie (Edition sp\u00e9ciale)",
+        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
+      },
+      "artists": [
+        {
+          "name": "Twin Twin",
+          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
+        }
+      ],
+      "duration_ms": 169181,
+      "name": "Moustache",
+      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -879,6 +1023,22 @@
       "duration_ms": 182950,
       "name": "Playing with Fire",
       "url": "https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 207594,
+      "name": "Glorious - Video Edit",
+      "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1031,18 +1191,18 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Lie to Me (ESC Version)",
-        "url": "https://open.spotify.com/album/0MaTaW64zII0TMMYAekkH2"
+        "name": "The Best of Katrina and the Waves",
+        "url": "https://open.spotify.com/album/7IU9KpHy9VQa1dk5bmixTl"
       },
       "artists": [
         {
-          "name": "Mikolas Josef",
-          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Lie to Me - ESC Version",
-      "url": "https://open.spotify.com/track/5bCztCNsrQPQ2yvLUaMCMa"
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/26Tv4c9t3uC5AtvQUJPVv6"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1063,22 +1223,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "The Best of Katrina and the Waves",
-        "url": "https://open.spotify.com/album/7IU9KpHy9VQa1dk5bmixTl"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 187947,
-      "name": "Love Shine a Light",
-      "url": "https://open.spotify.com/track/26Tv4c9t3uC5AtvQUJPVv6"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/2oEUzpZoU88zdrioGuiAGR"
       },
@@ -1095,150 +1239,6 @@
       "duration_ms": 182133,
       "name": "Rise Up - Eurovision Version",
       "url": "https://open.spotify.com/track/0HmQrQ3whzQgMTshgDR2F5"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Young Love",
-        "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
-      },
-      "artists": [
-        {
-          "name": "Jedward",
-          "url": "https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Waterline",
-      "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Je Ne Sais Quoi (Eurovision 2010) Orginal Version",
-        "url": "https://open.spotify.com/album/4Px3bYcDM3xgfnR3mqMZFG"
-      },
-      "artists": [
-        {
-          "name": "Hera Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Je Ne Sais Quoi (Eurovision 2010) Orginal Version",
-      "url": "https://open.spotify.com/track/48rIGviK0uiZKmXV6QifbE"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Class of '74",
-        "url": "https://open.spotify.com/album/5Uh4u1fz6uu71B6lXm92Lc"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/75uJ2UrLjcjqvIYKkADjPU"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "When Spirits Are Calling My Name",
-        "url": "https://open.spotify.com/album/693Gbb2KTlzHgFcgpdNjS7"
-      },
-      "artists": [
-        {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "When Spirits Are Calling My Name",
-      "url": "https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Hard Rock Hallelujah",
-        "url": "https://open.spotify.com/album/7FbpfG42T3LfLQDrnLmyHD"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 183079,
-      "name": "Hard Rock Hallelujah - Eurovicious Radio Edit",
-      "url": "https://open.spotify.com/track/0YbGwvrS8Mp1BrdsF33fFH"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Fr\u00e5n nu till evighet",
-        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/2eGkOAOi972MzM5optdlT7"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Echoes (International Special Edition)",
-        "url": "https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU"
-      },
-      "artists": [
-        {
-          "name": "Anggun",
-          "url": "https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Echo (You and I)",
-      "url": "https://open.spotify.com/track/1iqnkBWge47Yhboceuceas"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Grand Prix - Greatest Hits",
-        "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
-      },
-      "artists": [
-        {
-          "name": "The Eurosingers",
-          "url": "https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb"
-        }
-      ],
-      "duration_ms": 181355,
-      "name": "A-Ba-Ni-Bi - 1978, Israel",
-      "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
-        "name": "Guitar Heroes From Holland",
-        "url": "https://open.spotify.com/album/05cPprskuDLgpnV7GPFCLf"
-      },
-      "artists": [
-        {
-          "name": "Teach In",
-          "url": "https://open.spotify.com/artist/0but8haas2eybMUZvFV90H"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "Ding-A-Dong",
-      "url": "https://open.spotify.com/track/1UrZB49sPYlTuNA7fdC0cb"
     }
   ],
   "unique_name": "Eurovision Party",

@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "A Midsummer Nice Dream",
       "url": "https://open.spotify.com/track/0hAM2VDYMWzAgtCVZXA6Qr"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 182142,
       "name": "A3",
       "url": "https://open.spotify.com/track/1Jcqa7zjW20XYBw5MqUli1"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 145226,
       "name": "Cuckoo",
       "url": "https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 180869,
       "name": "Dim Lights",
       "url": "https://open.spotify.com/track/6mJK355PtWnKdKjtpGL80W"
@@ -1658,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "Following The Seasons",
+        "url": "https://open.spotify.com/album/22h16XP7CqXPQAzro1YXcb"
+      },
+      "artists": [
+        {
+          "name": "Aisha Akebono",
+          "url": "https://open.spotify.com/artist/1lI0k1BiLHvfJub3QQfe72"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211774,
+      "name": "Following The Seasons",
+      "url": "https://open.spotify.com/track/748k8Bk5Nousy75IFv6QQy"
+    },
+    {
+      "album": {
         "name": "For All Eternity",
         "url": "https://open.spotify.com/album/4SpmkLsv6p8JG8Gwub4quJ"
       },
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 420546,
       "name": "Four",
       "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
@@ -2533,7 +2551,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 185373,
       "name": "Lost Wisdom",
       "url": "https://open.spotify.com/track/0ZLOoYYVJG7Jpgv83tPMny"
@@ -3347,7 +3365,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 156363,
       "name": "Photophores",
       "url": "https://open.spotify.com/track/0t824TdL6NQj4G8HvDMlkc"
@@ -3599,7 +3617,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 129657,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE"
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 435426,
       "name": "Silent Wave",
       "url": "https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1"
@@ -3653,7 +3671,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 435426,
       "name": "Silent Wave",
       "url": "https://open.spotify.com/track/6TQ5L0J84npxdpz18bohGd"
@@ -3837,7 +3855,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 158054,
       "name": "Snow In June",
       "url": "https://open.spotify.com/track/4Z5VcxqmvvcECo7uWJF86v"
@@ -3909,7 +3927,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
@@ -4101,7 +4119,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 300714,
       "name": "Summer Leaves",
       "url": "https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV"
@@ -4191,7 +4209,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 366000,
       "name": "Synecdoche",
       "url": "https://open.spotify.com/track/7AkwuKuX5e7SMpNTKQYToD"
@@ -4731,7 +4749,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 173835,
       "name": "Wonders",
       "url": "https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw"

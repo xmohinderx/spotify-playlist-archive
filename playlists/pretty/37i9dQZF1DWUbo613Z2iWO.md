@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Our favorite R&B artists on the rise! Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,319 likes - 107 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,347 likes - 107 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 2 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 |
 | 3 | [NOBODY KNOWS](https://open.spotify.com/track/3OJ1TK767oRsv44iHeiCV9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:47 |
 | 4 | [Never](https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [No Longer in the Suburbs \(Deluxe\)](https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi) | 3:54 |
-| 5 | [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 |
+| 5 | [Double Back](https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 2:39 |
 | 6 | [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 |
 | 7 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 |
 | 8 | [Just for Fun \(feat\. Haben\)](https://open.spotify.com/track/4mjFM3Pb4soPBv5vHMMNpk) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Haben](https://open.spotify.com/artist/7FvxQS4LNGyB64KOYBFbIH) | [Show Me Diamonds](https://open.spotify.com/album/6GPnDoRWbxnEGRMWZjhqoV) | 2:59 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 24 | [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 |
 | 25 | [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 |
 | 26 | [Can't Deny](https://open.spotify.com/track/4oH24okkrQYSyHNL9FlPQj) | [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Can't Deny](https://open.spotify.com/album/3eCQXg8o621BbPPJ5bGnVO) | 2:14 |
-| 27 | [ICU](https://open.spotify.com/track/2MEXtuvS77e7WKVWymBdZl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU](https://open.spotify.com/album/340TSpnt92r6fwI1UdNoeW) | 4:01 |
+| 27 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 |
 | 28 | [Haunt Me](https://open.spotify.com/track/1hIdLtIrQoVuI9TZ9DcRWB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Haunt Me](https://open.spotify.com/album/5HrFx3KXVsAijFKPUoCOwH) | 3:02 |
 | 29 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 |
 | 30 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 96 | [Falling For You](https://open.spotify.com/track/0jCbfcLupN9I5ILvNxMGty) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Love Songs](https://open.spotify.com/album/7tiLiMKiZ34qwvJQiuXfzN) | 3:15 |
 | 97 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
 | 98 | [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 |
-| 99 | [bend you](https://open.spotify.com/track/2Eh66WrkqVpTjKHZDGSoBM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/673wWns8iuEBeBLRAQU68A) | 2:39 |
+| 99 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 |
 | 100 | [Baddie](https://open.spotify.com/track/64cHs4MX20D7ExGWQyZHLd) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Baddie](https://open.spotify.com/album/242NIZnYlcRGtHpD1CH7nd) | 2:38 |
 | 101 | [Fool](https://open.spotify.com/track/6zr3r5MNP6Fu0dfJcaMxof) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Fool](https://open.spotify.com/album/4YrTWDTEsPnRaJSbbOe3Zp) | 3:10 |
 | 102 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 106 | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC) | 3:10 |
 | 107 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 
-Snapshot ID: `MTY2ODE4MjIwNCwwMDAwMDAwMGE2MWUxNWIyOGNlMWJlMTYyYjIxOTBjOTRiNTE1Yzc5`
+Snapshot ID: `MTY2ODE4MjIwNCwwMDAwMDAwMDc0ODYxOWNhYTVhYWM3Njc2YzhjZjVmMThjMTRlZDk1`

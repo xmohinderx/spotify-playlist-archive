@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71yBXTK56Je.md) - [plain]
 
 > All the essentials, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,441 likes - 68 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,516 likes - 68 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71yBXTK56Je.md) - [plain]
 | 13 | [I Stand In Awe](https://open.spotify.com/track/1tlyPIx6lL2g4Em8JbHDcR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Nicole Serrano](https://open.spotify.com/artist/1Q3Bf69OLRJEZBigSjtUs5) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:17 |
 | 14 | [How Sweet It Is](https://open.spotify.com/track/7hlRDPH40A6qC98Q7aNB2C) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 3:39 |
 | 15 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 |
-| 16 | [Satisfied](https://open.spotify.com/track/4MZDtkNtB4qv7Is6uaBEbH) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Nobody Loves Me Like You \- EP](https://open.spotify.com/album/1pav0KeTGmO1o0TabiYg6s) | 3:32 |
+| 16 | [Satisfied](https://open.spotify.com/track/3WVDGjwLYHdtIFYcfyUkgM) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 3:33 |
 | 17 | [Good Good Father](https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Good Good Father](https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW) | 4:57 |
 | 18 | [Resurrection Power](https://open.spotify.com/track/20bD4lkiXkxl5VVg0Y7Tjz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Resurrection Power](https://open.spotify.com/album/2YhFqn45YFhsEup9Av0lrh) | 4:11 |
 | 19 | [Goodness, Love And Mercy](https://open.spotify.com/track/7GKRdRDyYBCK5Y4WMuLtPn) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:20 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71yBXTK56Je.md) - [plain]
 | 67 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
 | 68 | [Impossible Things](https://open.spotify.com/track/5KmmiVOsTjzJhuPxXxpeGt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 4:27 |
 
-Snapshot ID: `MTYxNjAxMTkzMywwMDAwMDAwMDU3MDBlMWY0ZThmNWUyMWExZWFkMzE2NWVlMWQ5NjZl`
+Snapshot ID: `MTYxNjAxMTkzMywwMDAwMDAwMDJhMDBlMmI0YTNhNGMwZTBmNDUyMjhlNjM4OWNlMGRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 
 > The best music with a Nashville flavour\. Cover: The Shires
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,813 likes - 55 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,866 likes - 55 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 6 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 |
 | 7 | [Crazy One More Time \- Revisited](https://open.spotify.com/track/0jy7nb2V8Twnk6aGz3hqCE) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Crazy One More Time \(Revisited\)](https://open.spotify.com/album/4qoFgtGcRTrdlfrIXcrwF9) | 3:51 |
 | 8 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
-| 9 | [Fancy Like](https://open.spotify.com/track/76VQNrW5hfgf6GfiPieyEU) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [NOW That's What I Call Music! Vol\. 80](https://open.spotify.com/album/0baOxHB5OWJF3EXKHHvskp) | 2:39 |
+| 9 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 |
 | 10 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |
 | 11 | [In Case You Didn't Know](https://open.spotify.com/track/0zhGlr0hbwtGytKPozVQ4N) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [In Case You Didn't Know: The Love Songs](https://open.spotify.com/album/5Iaz3UFrFnIILIEPSmcY8x) | 3:46 |
 | 12 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 |
 | 13 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 |
 | 14 | [I See Stars](https://open.spotify.com/track/32WnhIyvw6RGjtNFrHF68W) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [I See Stars](https://open.spotify.com/album/0Y1mySIig8YiKZrjJGXZs3) | 3:18 |
-| 15 | [see you later \(ten years\)](https://open.spotify.com/track/6tJ5lE3OZ4Rd7KYExupx66) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Easy 20's](https://open.spotify.com/album/57zfO6YukeUdyQMR2rnpLx) | 3:08 |
+| 15 | [see you later \(ten years\)](https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv) | 3:08 |
 | 16 | [Want It Again](https://open.spotify.com/track/7C7YqhXIwcEg84ge5Tz2SJ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Best of 2021 Country](https://open.spotify.com/album/7oHPT5myAzuYbywy8ejfSZ) | 2:52 |
 | 17 | [Gentleman](https://open.spotify.com/track/4MNBohv8Zt6IlCamRlsNmO) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Gentleman](https://open.spotify.com/album/1IgkSG82A35krB4kdL8OM9) | 3:05 |
 | 18 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 45 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 |
 | 46 | [Ceremony](https://open.spotify.com/track/4ei1wfqTvqneY8b9pbdtY6) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Lay Low EP](https://open.spotify.com/album/6ybtVG56huE7EZGWsz6gYv) | 3:05 |
 | 47 | [Song of the Summer](https://open.spotify.com/track/6Ig11LezmkpIA32TnirLhB) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Song of the Summer](https://open.spotify.com/album/4fpWwAbSqxqm1QmomZuBxk) | 3:06 |
-| 48 | [Diamond Studded Shoes](https://open.spotify.com/track/40IKRcWQ7AmmLe0397l1Wb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Festival Music 2022](https://open.spotify.com/album/4GWUWeGzDHP3J6hIKKrTB5) | 3:24 |
+| 48 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 |
 | 49 | [Little House Big Love](https://open.spotify.com/track/3qaFMNCJrxzO8o5Yi13uwN) | [Jack & Tim](https://open.spotify.com/artist/1fgrPRvmKUdRM6nwm3skRB) | [Little House Big Love](https://open.spotify.com/album/0qHXZk39IiGrPUhj2UwtS3) | 3:03 |
 | 50 | [State of Confusion](https://open.spotify.com/track/6ArMUBqG9GGwcIaB9Wxzds) | [Cody Feechan](https://open.spotify.com/artist/56nyJ2SOAZ68LazVaeMSZE) | [State of Confusion](https://open.spotify.com/album/2MAMSO7SadIyXAEVXxMDq6) | 3:41 |
 | 51 | [Bruise You Left](https://open.spotify.com/track/4QlQ9E86UWTyLNO8724Drv) | [The Rising](https://open.spotify.com/artist/0I4Sg6JkRdKpkOTichDMpI) | [Bruise You Left](https://open.spotify.com/album/0lCoGeUUOQ2iQXk8FJsg2D) | 3:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU4C3nPzApC.md) - [plain]
 | 54 | [Sunshine & White Wine](https://open.spotify.com/track/5ZrU3Wkpro4V1b9jNXuZRw) | [Savannah Jaine](https://open.spotify.com/artist/1EiW3GLNSmLFCr9TuPGUCO) | [Sunshine & White Wine](https://open.spotify.com/album/47lEkhKprkM7dEGOs7B6sW) | 3:44 |
 | 55 | [Back To The Beginning](https://open.spotify.com/track/79D9sS05hiL69QszESYsAr) | [Tim McNary](https://open.spotify.com/artist/37CGTzcBezP4KjLI2lKk2u), [Machaela Nesler](https://open.spotify.com/artist/2DK8dF5cpYKCWYBmQefqKV) | [Back To The Beginning](https://open.spotify.com/album/1mu2MMauRuWXh1v8ztD7rD) | 3:36 |
 
-Snapshot ID: `MTY2MjEyNzU0NSwwMDAwMDAwMGVkYzczNjQwNjgzNDFlMzE4OGE3YzNkM2U0YWIwZjFk`
+Snapshot ID: `MTY2MjEyNzU0NSwwMDAwMDAwMDI2Nzg4ODJiM2IxMjM0ZGFmYTY0YzdlMDgwMzU0YTIz`

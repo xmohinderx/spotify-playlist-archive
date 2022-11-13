@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: The Watcher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,415 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,420 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 5 | [The Power of Faith](https://open.spotify.com/track/4cp0O3Syex3xyjj8vFZU1O) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Midnight Mass: S1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1puNvUGLRgSjRO4OClq66I) | 3:09 |
 | 6 | [Sunrise](https://open.spotify.com/track/0ATEEf6nfgpLXRKN9ETxnB) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Texas Chainsaw Massacre \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5vbAIkPHM50aGUu41htjH2) | 1:30 |
 | 7 | [Drive Through the Corn Maze](https://open.spotify.com/track/6m93Wwg3HWM2SfT3KqlQ7l) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [There's Someone Inside Your House \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4LDXtYA4wQhjS33Xiw9Bfs) | 0:54 |
-| 8 | [Locke & Key \- Main Titles](https://open.spotify.com/track/1L7Own1m9dTiwXr0pcdVl1) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key: S2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/29hdImH5Ts5yTf9ICOkkWt) | 1:04 |
+| 8 | [Locke & Key \- Main Titles](https://open.spotify.com/track/5c9Qhu3OKFm8hN2iOON1cG) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 1:04 |
 | 9 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 |
 | 10 | [The Shower / The Dark](https://open.spotify.com/track/4hW8XfJxFUGeWXFhUPNz5S) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK) | 2:04 |
 | 11 | [Come Alive](https://open.spotify.com/track/2kaV58AgrLYlIklyi6Y3dt) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Mez](https://open.spotify.com/artist/0bhPk5CgDr787krAWB8CEO), [Jorge Lendeborg, Jr.](https://open.spotify.com/artist/7eK8RcE6MRYbvAJ2vPqTfu) | [Night Teeth \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/46QJ2ICowvdJWow92QA8cd) | 3:43 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 32 | [Firestarter](https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2) | 4:39 |
 | 33 | [Fear of the Dark \- 2015 Remaster](https://open.spotify.com/track/0h4rVZcOiSaL9b5mT1A2gq) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 \- Remaster\)](https://open.spotify.com/album/66mnkzELAR3AK13W7Elv4l) | 7:18 |
 | 34 | [Dragging Her to Hell](https://open.spotify.com/track/7cw2VGEHPhItqrfBRuPFdb) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK) | 3:19 |
-| 35 | [Lights Out](https://open.spotify.com/track/1YNt8zvYiVPIdqL1YCDPAc) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/6nHxZpPXe4ODH5DbwzDouz) | 2:22 |
+| 35 | [Lights Out](https://open.spotify.com/track/3IcAhCG7vhl5d1hIABoiyF) | [Torin Borrowdale](https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H) | [Locke & Key \(Music from the Netflix Original Series\)](https://open.spotify.com/album/7pvZ5JKQV6ilOHwp0keXIe) | 2:22 |
 | 36 | [The Haunting of Bly Manor \(Main Titles\)](https://open.spotify.com/track/6yqZjufKRD1pgfppmVeMv1) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Bly Manor \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/3Aszp8uII3RV05ZZJ7mpBo) | 1:06 |
 | 37 | [Burn The Witch](https://open.spotify.com/track/72ISUKaNTtKBYFcKaNDPag) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5) | 2:13 |
 | 38 | [you should see me in a crown](https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:00 |
 | 39 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 |
 | 40 | [Go Tomorrow](https://open.spotify.com/track/4gBHzGriOL9bhAH5H5TcvI) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Hill House \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd) | 2:37 |
 
-Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDY1YWExM2U2NTIyMzc5NmU4YzY4MzdmYmY0YTRlZTA0`
+Snapshot ID: `MTY2NTczMDgwMCwwMDAwMDAwMDI2ZTZhZjY0YjRhZTY4ODZlZTdiYWI0YTc0MmY0NjJm`

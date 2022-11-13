@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Lil Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,242 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,265 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 42 | [Hear Me When I Say](https://open.spotify.com/track/4ZEPIeRVP81V33mt8WBFPL) | [Harvey Gold](https://open.spotify.com/artist/57KJutvAkU48J9BwfYpi6p), [unruly](https://open.spotify.com/artist/59W06dK7vbjZ1gGjLSxztM) | [The Gold Vein](https://open.spotify.com/album/6ekqlVVVqPkBPeeUhAOy8w) | 2:31 |
 | 43 | [Say Datt](https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Say Datt](https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0) | 2:31 |
 | 44 | [Spice Talk](https://open.spotify.com/track/4K4X9BDg1bqQSQqD7Vs5tS) | [Young Menace](https://open.spotify.com/artist/6Ik8lFlD3jH1ScoK101XVo) | [Spice Talk](https://open.spotify.com/album/62iMRbRyk8yenXxRs4wQLG) | 2:46 |
-| 45 | [Highest](https://open.spotify.com/track/7u67mIFOxmyRXC0AoA8qSz) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Highest](https://open.spotify.com/album/4mmkr3avUy6hzxtA69l6aN) | 3:06 |
+| 45 | [Highest](https://open.spotify.com/track/0hwkEHXae3nPvpmSh2miic) | [FLOHIO](https://open.spotify.com/artist/05RPf2nrkYOXtyU1gYkQfm) | [Out of Heart](https://open.spotify.com/album/4Qq7OS4FiIXkwyFaFUiJxW) | 3:06 |
 | 46 | [Personal Healing](https://open.spotify.com/track/1AnliCzqhA7H7qcDl3Dxcx) | [RJAE](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Personal Healing](https://open.spotify.com/album/7m6CPETMbn9xGJCtFGcP0D) | 3:12 |
 | 47 | [19](https://open.spotify.com/track/0OG1XZqBMSZNuKoNx1NEgu) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [19](https://open.spotify.com/album/2YP4EV0q1HiZjXkvWteHky) | 2:09 |
 | 48 | [SINCERELY](https://open.spotify.com/track/3LdKYGCsaYEkUdMsmSLvEa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 3:04 |
 | 49 | [NO TELLIN](https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [NO TELLIN](https://open.spotify.com/album/247yuZ7hBgYGX7S3Sh5Fdw) | 2:11 |
 | 50 | [TAKE R U OK](https://open.spotify.com/track/4WQWiixXJI7WJsWNdcvsVx) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [TAKE R U OK](https://open.spotify.com/album/7zrajArFSrkaruRU3ZOuzh) | 2:09 |
 
-Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDFiOWQ4YjY3NDM2ZGQwMzc0MTQyNjk0MGZmNWY4ZTQz`
+Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDFjNzY5MmZlM2MwM2Q3MWM4ZGNkOGM4ZjRkZGJlYTM5`

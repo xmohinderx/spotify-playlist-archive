@@ -1,12 +1,12 @@
 {
   "description": "Inspired by the arts and his own vivid imagination, Debussy defined a new era of musical impressionism. Discover his dreamlike preludes, suites and songs right here.",
-  "num_followers": 179301,
+  "num_followers": 179382,
   "original_name": "This Is Debussy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDBhYWE3NTU3MDc4ODU0NTlhNDAwMDZhMzJiNDY2MjU5",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMGM4ZmZhMWVkNjRiOTQzYjhlOGIxYzU0NTY4M2RkZWRm",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -227,8 +227,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "The Sea in Music",
-        "url": "https://open.spotify.com/album/20ebGSWoN3s5zr334ebcdQ"
+        "name": "Debussy: Orchestral Works, Vol. 6",
+        "url": "https://open.spotify.com/album/2PSLGmdwrMnLIJuYxfYuQ0"
       },
       "artists": [
         {
@@ -249,14 +249,14 @@
         }
       ],
       "duration_ms": 227973,
-      "name": "Petite suite: I. En bateau (arr. H. Busser for orchestra)",
-      "url": "https://open.spotify.com/track/3VmwyP84cYuq1Ha8vh9VpL"
+      "name": "Petite suite: I. En bateau (arr. H. Busser for orchestra): I. En bateau",
+      "url": "https://open.spotify.com/track/3rL2blyeOBnUBq3yYA1KcE"
     },
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Debussy (The Very Best Of)",
-        "url": "https://open.spotify.com/album/6NRZI5JVcgjQoar3eEMvSz"
+        "name": "Debussy: Piano Music, Vol. 4 - Preludes, Books 1 and 2",
+        "url": "https://open.spotify.com/album/463iHZYV6jqDUVWJCAtLli"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
         }
       ],
-      "duration_ms": 128560,
-      "name": "Preludes, Book 1: No. 12. Minstrels",
-      "url": "https://open.spotify.com/track/5HkzCrrZML6mQ8FpGNetH5"
+      "duration_ms": 130093,
+      "name": "Preludes, Book 1: No. 12: Minstrels",
+      "url": "https://open.spotify.com/track/2oWssoQZzx2Jkf0XArAYYS"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -555,13 +555,17 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Passion: Most Famous Orchestal Spectaculars - Debussy: La Mer - Nocturnes & Prelude To The Afternoon Of A Faun",
-        "url": "https://open.spotify.com/album/6ZA9aSzCzqPZ5N1sEpzsp8"
+        "name": "Classic Collection - Debussy, C: La Mer / Nocturnes / Prelude A L'Apres-Midi D'Un Faune / Petite Suite / La Boite A Joujoux",
+        "url": "https://open.spotify.com/album/7qNSh0kQC1BG72uQCScorB"
       },
       "artists": [
         {
           "name": "Claude Debussy",
           "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "MDR Leipzig Radio Chorus",
+          "url": "https://open.spotify.com/artist/5pdCZaDIJipH7hKPVDpctz"
         },
         {
           "name": "Leipzig Radio Symphony Orchestra",
@@ -572,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7KTFZSAt2pE7UwCLseG81I"
         }
       ],
-      "duration_ms": 496333,
-      "name": "Nocturnes: Symphonic Triptych For Orchestra And Chorus - Clouds",
-      "url": "https://open.spotify.com/track/23ryjvC8IvQeUHGx5iOJ06"
+      "duration_ms": 497400,
+      "name": "Nocturnes: No. 1. Nuages",
+      "url": "https://open.spotify.com/track/0Fu7Fy14fmBjWHxp23YfhA"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -623,8 +627,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Debussy (The Very Best Of)",
-        "url": "https://open.spotify.com/album/6NRZI5JVcgjQoar3eEMvSz"
+        "name": "Debussy: Piano Music, Vol. 4 - Preludes, Books 1 and 2",
+        "url": "https://open.spotify.com/album/463iHZYV6jqDUVWJCAtLli"
       },
       "artists": [
         {
@@ -636,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM"
         }
       ],
-      "duration_ms": 351133,
-      "name": "Preludes, Book 1: No. 10. La cathedrale engloutie (The sunken cathedral)",
-      "url": "https://open.spotify.com/track/2QflZ6CHNhegVZcOXLAlPw"
+      "duration_ms": 352026,
+      "name": "Preludes, Book 1: No. 10: La cathedrale engloutie",
+      "url": "https://open.spotify.com/track/5UV0qwd8kE1Mnq6OKK2mue"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -703,8 +707,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Debussy: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1ldQQfMCS6U3Km1fNXv3tc"
+        "name": "Debussy: Orchestral Works, Vol. 1",
+        "url": "https://open.spotify.com/album/6g1fmfWxKFdqwEWgejHAvx"
       },
       "artists": [
         {
@@ -721,8 +725,8 @@
         }
       ],
       "duration_ms": 425520,
-      "name": "La mer: No. 2. Jeux de vagues",
-      "url": "https://open.spotify.com/track/1KmejtfBQxGTjdzeeJhiBw"
+      "name": "La mer, L. 109: II. Jeux de vagues",
+      "url": "https://open.spotify.com/track/5NG6Zg4J9aUWpWE7ptaDXj"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -843,8 +847,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Debussy: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1ldQQfMCS6U3Km1fNXv3tc"
+        "name": "Debussy: Orchestral Works, Vol. 3",
+        "url": "https://open.spotify.com/album/1l4raAwI399j2Cq3Hitsps"
       },
       "artists": [
         {
@@ -862,7 +866,7 @@
       ],
       "duration_ms": 425626,
       "name": "Images: No. 2. Iberia: Par les rues et par les chemins -",
-      "url": "https://open.spotify.com/track/3kIayHBQCjQrUgus7ng5TE"
+      "url": "https://open.spotify.com/track/6XFeHVVePTjhSgdL3sECTN"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1159,8 +1163,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Debussy: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1ldQQfMCS6U3Km1fNXv3tc"
+        "name": "Debussy: Orchestral Works, Vol. 3",
+        "url": "https://open.spotify.com/album/1l4raAwI399j2Cq3Hitsps"
       },
       "artists": [
         {
@@ -1178,7 +1182,7 @@
       ],
       "duration_ms": 485506,
       "name": "Images: No. 3. Rondes de printemps",
-      "url": "https://open.spotify.com/track/1uNcmmg8nNCSFbMjAz1xmx"
+      "url": "https://open.spotify.com/track/2wRZsRMlNPhp3DXBo8Y7ns"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1239,8 +1243,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Autumn Nights: Debussy",
-        "url": "https://open.spotify.com/album/6gVzDDUjje0PNUj5TXjXu7"
+        "name": "Debussy: Images Books 1 & 2/Arabesques/R\u00eaverie etc.",
+        "url": "https://open.spotify.com/album/02JTufCkm8BKjqwHVDlvJr"
       },
       "artists": [
         {
@@ -1254,7 +1258,7 @@
       ],
       "duration_ms": 142000,
       "name": "Hommage \u00e0 Haydn, L. 115",
-      "url": "https://open.spotify.com/track/0dpGfwbLftKH6sRpkjZGUz"
+      "url": "https://open.spotify.com/track/1YcK1A1oCoHFTf4jgVQE50"
     },
     {
       "added_at": "2022-07-01 04:02:00",

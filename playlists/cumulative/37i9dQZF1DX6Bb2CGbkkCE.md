@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-54 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/4HjCpbcqqGK3SEefouVnLk)
+55 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/4HjCpbcqqGK3SEefouVnLk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Champ](https://open.spotify.com/track/1g4ziqH1kWahITvZg8ppUO) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Champ \- Single](https://open.spotify.com/album/0JbpYmI0C4fBzPLBLqVOlQ) | 3:25 | 2022-10-01 |  |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2022-10-01 |  |
 | [Come Home](https://open.spotify.com/track/48RxnStoXfZsH0hWuWiJ3C) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Come Home](https://open.spotify.com/album/29K1WhYMmqwUGj3mU4Z0uc) | 3:20 | 2022-10-01 |  |
+| [Crocodile Teeth](https://open.spotify.com/track/2QXv4NKNCuqCDmOTwcOjrN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/3f1oDLHky5itUghicXgwjg) | 2:46 | 2022-10-01 |  |
 | [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 | 2022-10-01 | 2022-11-12 |
-| [Crocodile Teeth](https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Consistency \(Through the Years\)](https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV) | 2:46 | 2022-10-01 |  |
+| [Crocodile Teeth](https://open.spotify.com/track/3vS8QjHytx8Pi2NMERcfUs) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Consistency \(Through the Years\)](https://open.spotify.com/album/5DB6WURnnV9WDJCgkwMngV) | 2:46 | 2022-10-01 | 2022-11-13 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2022-10-01 |  |
 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 | 2022-10-01 |  |
 | [Dweet](https://open.spotify.com/track/17v1kXWmTCnXMOoZ6wDjSs) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Usain Bolt Presents: Olympe Rosé Riddim](https://open.spotify.com/album/2SkSBJ1pRPIsQODif3Wqhk) | 2:45 | 2022-10-01 |  |

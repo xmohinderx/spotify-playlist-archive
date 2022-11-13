@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > Dark and dreamy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,993 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,286 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 37 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 38 | [Goth](https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [White Light](https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2) | 3:27 |
 | 39 | [Between the Spacetrains and Me](https://open.spotify.com/track/5hDiiAJuIbObgDKehuIY2k) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Between the Spacetrains and Me](https://open.spotify.com/album/6FZzlMXiWm4YL31nZ9DRCy) | 3:29 |
-| 40 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:44 |
+| 40 | [Olympus](https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u) | 3:36 |
 | 41 | [Rose In A Glass](https://open.spotify.com/track/0oACcecqRIuP0vi2wvBq5o) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 2:58 |
 | 42 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 |
 | 43 | [Euphoria \(where were you?\)](https://open.spotify.com/track/0ydapNPxo7yMHrM1AeRu4j) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria \(where were you?\)](https://open.spotify.com/album/3DOTGWg00u63y5nXz5TEaG) | 5:28 |

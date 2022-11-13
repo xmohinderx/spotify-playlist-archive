@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>。2022年6月までに公開された作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,496 likes - 102 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,639 likes - 102 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 14 | [FOCUS](https://open.spotify.com/track/5r0aTftKf1MCAeWQ2tgdoX) | [Showtaro Morikubo](https://open.spotify.com/artist/5fQSlPZkg4fbVVPO6lB7dj) | [FOCUS](https://open.spotify.com/album/2awJEw9oin6k4EkOnj3aYP) | 3:45 |
 | 15 | [PUNCH LINE!](https://open.spotify.com/track/779aOT2cX0kTf1L5IQKXTX) | [しょこたん](https://open.spotify.com/artist/0nvuPKl0u8lOSyHBRREoEL), [Dempagumi](https://open.spotify.com/artist/0xL9QDj516M42wr7gMpPaT) | [PUNCH LINE!\(妄想パンチラボイスComplete Edition\)](https://open.spotify.com/album/4pAMRlH6p5PWVacUt6ukIq) | 4:02 |
 | 16 | [蜜蜜蜜](https://open.spotify.com/track/6cfgcfp2hzwSCwWIaelPYx) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [あゆみくりかまきがやって来る!クマァ!クマァ!クマァ!](https://open.spotify.com/album/2X4zGs64aVBu5oZz2s2KzO) | 3:43 |
-| 17 | [混ぜるな危険](https://open.spotify.com/track/7oKcunQhQI8Q0Q37avp7h5) | [筋肉少女帯](https://open.spotify.com/artist/59ti9jHDeW9RDyV8IOvEMM) | [混ぜるな危険](https://open.spotify.com/album/0kdxXVB9qlTbrcsb80bw4s) | 4:17 |
+| 17 | [混ぜるな危険](https://open.spotify.com/track/4icsCUGIuwTmzx3YcSLTcu) | [筋肉少女帯](https://open.spotify.com/artist/59ti9jHDeW9RDyV8IOvEMM) | [おまけのいちにち\(闘いの日々\)](https://open.spotify.com/album/49rdLq99CUtHRPco1DBbGb) | 4:17 |
 | 18 | [HERO](https://open.spotify.com/track/10rYKVajlQ1t2zFJ3HpR3D) | [Sonar Pocket](https://open.spotify.com/artist/4kuP7AbiovQdVXJkRHeq4w) | [HERO/Good bye 大切な人。](https://open.spotify.com/album/0t4BvgedMXBBELE75lLaaU) | 4:04 |
 | 19 | [週替わりの奇跡の神話](https://open.spotify.com/track/34IeQAMI4bCEaIWDzja5Fq) | [Kinniku Shōjo Tai](https://open.spotify.com/artist/49Ih923DaLzIEGqAe0PirH) | [週替わりの奇跡の神話](https://open.spotify.com/album/5hMxajM9NARlytSr3XMSyg) | 3:43 |
 | 20 | [決戦前夜](https://open.spotify.com/track/6j30uDURlPqjFO37mZkAef) | [LUNKHEAD](https://open.spotify.com/artist/1haOQ3z2Qr7IyTDgrv6PiM) | [決戦前夜](https://open.spotify.com/album/1JyFhwYf16d6h092r56yEt) | 3:45 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 25 | [Wake We Up](https://open.spotify.com/track/4vfYHDtCAQffxNGP0XSO11) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Mr\. HOLIC](https://open.spotify.com/album/0DNteSo4zdyJ8H9KxoKekM) | 4:42 |
 | 26 | [EVERLASTING DAYS](https://open.spotify.com/track/4iCr97PgqDNVtLhjs8f2mT) | [聖蹟高校サッカー部](https://open.spotify.com/artist/512LGL9YRa7k9JU1DjlQi2), [柄本つくし\(CV:吉永拓斗\)](https://open.spotify.com/artist/5dwhnr7fa3Ohu60bNHyde6), [風間陣\(CV:松岡禎丞\)](https://open.spotify.com/artist/4TZuOz8oB0B6MkIhdFUzuY), [水樹寿人\(CV:浪川大輔\)](https://open.spotify.com/artist/2VsrYIlb4ljDM9FiWGTruS), [君下敦\(CV:小野大輔\)](https://open.spotify.com/artist/1gLHYOLlx2rJKGAQ3DhVkx), [大柴喜一\(CV:宮野真守\)](https://open.spotify.com/artist/00ZTYmP3lWInwdHAfYbImv) | [EVERLASTING DAYS](https://open.spotify.com/album/4iMRhqiBtpReRVDW1oZqHS) | 3:52 |
 | 27 | [Higher Climber](https://open.spotify.com/track/6CjvyG9r1xCjDuZkzt8zAE) | [HOWL BE QUIET](https://open.spotify.com/artist/56jhSmJBKSKee5kUAlJjbX) | [Higher Climber](https://open.spotify.com/album/04jdwDX8QGyfATCb6ejnVW) | 4:08 |
-| 28 | [Days](https://open.spotify.com/track/60BGlKha8p3DwJJ0YKIcnw) | [Shout It Out](https://open.spotify.com/artist/2a5ADRTPWfcWQf0o0EUy2K) | [Days](https://open.spotify.com/album/0fv935F42soWvZRd4uJGOO) | 3:09 |
+| 28 | [Days](https://open.spotify.com/track/1MjjER946kNwgvM1zSJYrb) | [Shout It Out](https://open.spotify.com/artist/2a5ADRTPWfcWQf0o0EUy2K) | [Seinen no Syuchou](https://open.spotify.com/album/63IbVHIvYW0YpyadETb95a) | 3:09 |
 | 29 | [刃〜the divine blade〜](https://open.spotify.com/track/4hjpYJkaWUYysLLAUFQR2A) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [牙狼<GARO>黄金歌集Ⅳ 牙狼奏](https://open.spotify.com/album/6h2Mgvwan6mpYW46iCrMwt) | 4:09 |
 | 30 | [HOWLITE](https://open.spotify.com/track/2kYJaFWsAbmoff5SeM3eZ4) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1) | [Fated Crown](https://open.spotify.com/album/7gNl3YUzoyx2CmmbkfNa1y) | 4:23 |
 | 31 | [History Maker](https://open.spotify.com/track/3QjIdDDKoZRyfWDKZC4Ayb) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [History Maker](https://open.spotify.com/album/2kJJe8xSLSgh5i61Ra5MQE) | 3:10 |
@@ -87,17 +87,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 77 | [鈍色の夜明け](https://open.spotify.com/track/3qx1F6LFNVYCKQYMxw9xsE) | [Yutaro Miura](https://open.spotify.com/artist/4NV9z38H7a9yNJCzu5Pnp3) | [鈍色の夜明け](https://open.spotify.com/album/77KOlEHdjtmKgTUzU3KDQe) | 3:53 |
 | 78 | [MAIORITEKITA YUKI](https://open.spotify.com/track/6QBcU50LiryxD8Y5lUmy9n) | [Mr Love: Queen's Choice](https://open.spotify.com/artist/73oPDy7wVxHmG1HPfg8z8M), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [MAIORITEKITA YUKI](https://open.spotify.com/album/0ZU8oSdHaErNZwmzqRm3Nf) | 4:19 |
 | 79 | [夢?](https://open.spotify.com/track/1DAJpvV2JWXgx1RMR2qyBq) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [夢?](https://open.spotify.com/album/7t5SZYoNDIYO6B6Hn03CbX) | 4:14 |
-| 80 | [Kaikai Kitan](https://open.spotify.com/track/5RpCdEgSjTVIyziY4Ln8Ju) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan](https://open.spotify.com/album/20avoisFInptrZfBRFdCP3) | 3:39 |
+| 80 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 |
 | 81 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 |
 | 82 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
 | 83 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 |
 | 84 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 | 85 | [大河よ共に泣いてくれ](https://open.spotify.com/track/4DutefDeVcpLpBKvKwENgO) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [大河よ共に泣いてくれ/Nope!!!!!](https://open.spotify.com/album/2X8cBRtpqSEjjPrL4QH2Ez) | 3:28 |
 | 86 | [夢を手に、戻れる場所もない日々を](https://open.spotify.com/track/5ETlRU6U6BloJC8MKHymMI) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [夢を手に、戻れる場所もない日々を/風の強い日は嫌いか?](https://open.spotify.com/album/1RXA7cmrytXDKr77WMAYl8) | 4:16 |
-| 87 | [Black Gold](https://open.spotify.com/track/026m6fCazxOXGXIeOIRvTc) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Black Gold / Between Memories](https://open.spotify.com/album/79vP4LuSvrAxNUrf5DzzKx) | 1:35 |
+| 87 | [Black Gold](https://open.spotify.com/track/7Bhs5TjC7FouUwrKVBdSpW) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:35 |
 | 88 | [Between Memories](https://open.spotify.com/track/6bul16twi3rYztQtfSl9Er) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Niki Randa](https://open.spotify.com/artist/47zSdHUfF93kgKjOVGKxU3) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:45 |
 | 89 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 |
-| 90 | [壊れた世界の秒針は](https://open.spotify.com/track/2vgtKxOjiLKtu0IjBj9HYr) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [壊れた世界の秒針は](https://open.spotify.com/album/6v0cf75TBszpXb5jzz4fW5) | 5:15 |
+| 90 | [壊れた世界の秒針は](https://open.spotify.com/track/3mk2DU7yhSX7vhDsjaxitU) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [壊れた世界の秒針は](https://open.spotify.com/album/4qiN7pyaU1aeVdf7lnm3Ln) | 5:15 |
 | 91 | [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 |
 | 92 | [雷火](https://open.spotify.com/track/2g62Wfma6elPx8ZFGrLVuU) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [雷火](https://open.spotify.com/album/3zuVERiGEAwQtkbPmAJh4W) | 3:45 |
 | 93 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 |
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXEO3u0YOMv.md) - [plain]
 | 95 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 96 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 97 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 |
-| 98 | [Akuma no Ko](https://open.spotify.com/track/5cRKj1kynNFqiliT2ndZ3y) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Akuma no Ko](https://open.spotify.com/album/1dcNDH0hCRrWPz5IGKr1tR) | 3:47 |
+| 98 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 |
 | 99 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 |
 | 100 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 |
 | 101 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 102 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 |
 
-Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMGQ1N2YzNDYyYTNjNWJiNjZjODY0YzQ0NjFlMWFkZjFl`
+Snapshot ID: `MTY2NTUwMDQwMCwwMDAwMDAwMDMwNzEzMmRlZGQ1ZDRlMjkzNjdmOGI5ZTg5YWZkYzQ3`

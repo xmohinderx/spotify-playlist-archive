@@ -1398,6 +1398,28 @@
     },
     {
       "album": {
+        "name": "Baby (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187178,
+      "name": "Baby - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
+    },
+    {
+      "album": {
         "name": "Indigo Borboleta Anil",
         "url": "https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize"
       },
@@ -12079,7 +12101,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 178419,
       "name": "Portal Orbital",
       "url": "https://open.spotify.com/track/1xdFNUWqA9Y6QXeetLr0ea"
@@ -12755,7 +12777,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 120405,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O"
@@ -16217,6 +16239,24 @@
       "duration_ms": 182799,
       "name": "Vampiro (Type Beat Matu\u00ea, Wiu, Teto)",
       "url": "https://open.spotify.com/track/6rz5CltId74VXxPghcPpUU"
+    },
+    {
+      "album": {
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517480,
+      "name": "Vapor Barato - Ao Vivo",
+      "url": "https://open.spotify.com/track/7y4t07QOezOkyAyJiCbyMK"
     },
     {
       "album": {

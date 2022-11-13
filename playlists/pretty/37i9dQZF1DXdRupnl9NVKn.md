@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,901 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,177 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 58 | [Light My Fire](https://open.spotify.com/track/3jSMGwspwFJGWIaxNIDWsT) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:51 |
 | 59 | [For You](https://open.spotify.com/track/6bfmUjaeIiTjpOqHtFIiVf) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [LATATA](https://open.spotify.com/album/3DOoKGlWO9lNsKQAxa0DJ1) | 3:44 |
 | 60 | [What's Your Name](https://open.spotify.com/track/0CFyI2NLMuz35P2yUxHFGX) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:09 |
-| 61 | [Help Me](https://open.spotify.com/track/3GTGStCKQnZarmZeQR9vmj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cs0PWgVylmYPiuoN6qLda) | 3:58 |
+| 61 | [Help Me](https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6xzTGXUxiDgdIH9TZiHKz8) | 3:58 |
 | 62 | [Wow Thing](https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [SinB](https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Wow Thing](https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH) | 2:51 |
 | 63 | [Show](https://open.spotify.com/track/3hMtT4xgDCXPd7WLPzBZX9) | [여자아이들](https://open.spotify.com/artist/0barWeINEZRJUsZIOr8pjQ) | [투유프로젝트 \- Sugar Man3 Episode.8](https://open.spotify.com/album/7DqwV9yB89XrSAw1SlA3pr) | 3:11 |
 | 64 | [Idle song](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Idle song](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) | 3:08 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 75 | [Hear me](https://open.spotify.com/track/2kgjb8aqV3202cAN7jUaNR) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:56 |
 | 76 | [Relay](https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Relay](https://open.spotify.com/album/0k31vrIZQgqit8TjlQePM9) | 3:43 |
 
-Snapshot ID: `MTY2NTk5NzIwMCwwMDAwMDAwMDVjZGFiNjdkNGIzZjVmNmM0ZTM0ZDU2ZjVkNjJiMTNl`
+Snapshot ID: `MTY2NTk5NzIwMCwwMDAwMDAwMDQ2Njg0OGI0YmMyZDhmZTIzYzdhZjBhNWFjYTQyNzhi`

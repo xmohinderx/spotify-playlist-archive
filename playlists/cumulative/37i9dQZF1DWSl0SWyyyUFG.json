@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "Al Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 179768,
       "name": "Ay\u00fadame",
       "url": "https://open.spotify.com/track/0HF3F4Mw99KUHob0c3igTO"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 179768,
       "name": "Ay\u00fadame",
       "url": "https://open.spotify.com/track/0Z8Jg2ji4tKeaGWpBidTxv"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 178932,
       "name": "Bandido De Amores",
       "url": "https://open.spotify.com/track/2GmQrkLViOY0hJUn0bolVT"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 178932,
       "name": "Bandido De Amores",
       "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 182218,
       "name": "Batelo Morena",
       "url": "https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 248520,
       "name": "Cuatro Rosas",
       "url": "https://open.spotify.com/track/5fAwTsWeTEXCfMCs6A1dkO"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 148114,
       "name": "El An\u00f3nimo",
       "url": "https://open.spotify.com/track/4LTIESi0lQPsjZw0QlPlEd"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 151346,
       "name": "El An\u00f3nimo",
       "url": "https://open.spotify.com/track/2JI8AKFPOO4y9BSLCeU1Ex"
@@ -1226,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "Las 20 Poderosas (USA)",
+        "url": "https://open.spotify.com/album/43eQSAjeMmLHKPslPiUB7l"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Eso no, no, no",
+      "url": "https://open.spotify.com/track/5oXY2tOOcrI6ePYJfNrx3d"
+    },
+    {
+      "album": {
         "name": "Andan Diciendo",
         "url": "https://open.spotify.com/album/2lFstwgDxa3CAU0pLiA1Iw"
       },
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/2nSbVFNo6FdvZ7ZCuZytYH"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 208352,
       "name": "La Bota",
       "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 175706,
       "name": "La cuca",
       "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 204126,
       "name": "La Faldita",
       "url": "https://open.spotify.com/track/0WdmGXS6ZaKNUDzm81GU0Q"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 195920,
       "name": "Las Nachas",
       "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 167120,
       "name": "Le\u00f1a de pirul",
       "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 196940,
       "name": "Mu\u00f1equita",
       "url": "https://open.spotify.com/track/1G4SKVSuNdH2HTBlqZuSpn"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 241870,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 241870,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/3VYLfI2nCOSj7jetmxfWlm"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 182439,
       "name": "No Me Dejes Tan Solo",
       "url": "https://open.spotify.com/track/0KvbfjJA9CMYp45ZIXNx56"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 186386,
       "name": "No Me Dejes Tan Solo",
       "url": "https://open.spotify.com/track/5seb18FFKQKhkZxVrrVYNf"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 217840,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/0PCEsbdqumz3l27LOLMGy6"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 217840,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 207737,
       "name": "Orgullosa Mar\u00eda",
       "url": "https://open.spotify.com/track/44jCTRKB5XefL8x3MSqdro"
@@ -2469,7 +2487,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 178590,
       "name": "Peque\u00f1a Orgullosa",
       "url": "https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl"
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 177506,
       "name": "Que Bonito",
       "url": "https://open.spotify.com/track/5ctUlKWjf53PUEwKFn59B3"
@@ -2721,7 +2739,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/2IT6VVdTU4PT8hT4GTA6eg"
@@ -2739,7 +2757,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
@@ -2793,7 +2811,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 223106,
       "name": "Rom\u00e1ntico incurable",
       "url": "https://open.spotify.com/track/273P3JLFMzgh5VJvLSnal1"
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0"
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 182559,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/59Mef3D20yXBdqXahLv3AO"
@@ -3045,7 +3063,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 197440,
       "name": "Solo Esta Vez",
       "url": "https://open.spotify.com/track/4xdeV30W4JoITDrzLe9JWC"
@@ -3081,7 +3099,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 200046,
       "name": "Solo Esta Vez",
       "url": "https://open.spotify.com/track/1wkoejavhjDSCsahWjsSxW"
@@ -3153,7 +3171,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 244106,
       "name": "Te Estar\u00e9 Esperando",
       "url": "https://open.spotify.com/track/3IyUWwRHrMYHNdatyRcCEr"
@@ -3423,7 +3441,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 192853,
       "name": "Un loco solitario",
       "url": "https://open.spotify.com/track/19rTNzjCCfCh8NMRszbucb"

@@ -4,7 +4,7 @@
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=iRBNl1GmTFSUQQjaHnjWFA">Hugo Pooe</a>
 
-142 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+144 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 | 2021-12-09 |  |
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 | 2022-05-27 |
 | [Autobiography of an Evening](https://open.spotify.com/track/0Zn9ANNxd0BvndaB73DXMX) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Autobiography of an Evening](https://open.spotify.com/album/22D7FzPzfB5NvHRsRNWQuF) | 3:11 | 2022-04-08 | 2022-09-03 |
-| [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 | 2022-04-28 |  |
+| [Awake](https://open.spotify.com/track/25TN22SHRxXPlPlobiyXr6) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/3WzW1B4xGh1xTVJaAFvLsW) | 4:20 | 2022-04-28 |  |
+| [Awake](https://open.spotify.com/track/5sRl0XbDePaW4vMLUzFr2k) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Demons](https://open.spotify.com/album/5SkDGf68176SCGPgtZalKz) | 4:20 | 2022-04-28 | 2022-11-13 |
 | [Awake](https://open.spotify.com/track/63y0EHsPzQ7BQSBgRVeFO7) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Awake](https://open.spotify.com/album/5PIw46MHfW0Su1TWH3KrlH) | 4:20 | 2022-04-28 | 2022-11-11 |
 | [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 | 2022-02-18 |
 | [Bag of Bones](https://open.spotify.com/track/4wBeiARY66bJ3FrrEjnlVa) | [Gangsterdam](https://open.spotify.com/artist/63fJ4ckrhwwtDX31WrhqfS) | [Bag of Bones](https://open.spotify.com/album/4bpRUM7drDQpbwqhMzJeZ1) | 2:37 | 2022-09-15 |  |
@@ -29,7 +30,8 @@
 | [brokeboy](https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [brokeboy](https://open.spotify.com/album/5aSHhl5C5pb1qhpHEDTa19) | 2:59 | 2022-03-17 |  |
 | [Cancelled](https://open.spotify.com/track/7BhiRAIIveb33FYNdrzBfA) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Cancelled](https://open.spotify.com/album/1BUsmvb1vytWr69VgR9hCX) | 4:44 | 2022-09-02 | 2022-09-16 |
 | [Caught in Suspension](https://open.spotify.com/track/0CnVzLrxK0iRXuCk6vPeOi) | [Dream Demon](https://open.spotify.com/artist/2YQKfqhM5oQ2u59LelCzki) | [Caught in Suspension](https://open.spotify.com/album/6kAvyAnQPl6iQ2HVcMAGWG) | 4:07 | 2022-03-24 | 2022-10-07 |
-| [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 | 2022-01-21 |  |
+| [Cocoon](https://open.spotify.com/track/20e4Rxu9nsbEYKSZLM3Zjs) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/083Wk2aDbhui5sU7eDyjDi) | 5:04 | 2022-01-21 |  |
+| [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 | 2022-01-21 | 2022-11-13 |
 | [Count the Days \(Count the Nights\)](https://open.spotify.com/track/60knTkjc5HZHkPVQjq3JMO) | [Zayn Adams](https://open.spotify.com/artist/3CJMRrR9xQ11XG7RFUWOfd), [Tully Mc Cully](https://open.spotify.com/artist/3zfnLnN1wMxn2av8BygIQJ) | [Count the Days \(2021\)](https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq) | 3:19 | 2021-10-14 | 2022-02-18 |
 | [Country in Me](https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK) | [Jono Grayson](https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi) | [Country in Me](https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J) | 2:30 | 2022-02-03 | 2022-09-03 |
 | [Crystal Ball](https://open.spotify.com/track/2Comn4T4boybdm44GkTLIL) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Partypocalypse](https://open.spotify.com/album/4acglMyY50Un4LAW2Gla1H) | 3:36 | 2021-09-02 |  |

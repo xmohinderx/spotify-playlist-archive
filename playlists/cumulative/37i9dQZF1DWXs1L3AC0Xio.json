@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Rock Hits",
+        "url": "https://open.spotify.com/album/4ALFFwtT5QwdnnTqVOyQIk"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303920,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/6fJStDpQqgow87XglN6BrV"
+    },
+    {
+      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4WAujFDGR5UdnGpK0tKy2v"
       },
@@ -257,7 +275,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 285320,
       "name": "Break In",
       "url": "https://open.spotify.com/track/5Q7pjvFqm4Pk0voGgutt5G"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 198466,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/1eerDZ2xYQtY42DQK2MrHI"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 196905,
       "name": "Disarm - Remastered",
       "url": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 187401,
       "name": "Every Time You Leave (Feat. Delaney Jane) - Live Acoustic",
       "url": "https://open.spotify.com/track/11MSSonvzz9Fu8RTdTXnqd"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 223360,
       "name": "Get Hurt",
       "url": "https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 230706,
       "name": "If Only For Now",
       "url": "https://open.spotify.com/track/2paOAPUdPfiPPUVQ8I5epX"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 270001,
       "name": "Life Is Beautiful 2017",
       "url": "https://open.spotify.com/track/2Et49kpeirx87RIqwJ9Hdj"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 262533,
       "name": "My Immortal",
       "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
@@ -1635,7 +1653,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 388733,
       "name": "Nothing Else Matters (Remastered)",
       "url": "https://open.spotify.com/track/387HyFFE8BOAi7lv9tIUJP"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 217933,
       "name": "Re-arrange",
       "url": "https://open.spotify.com/track/6iv3Fclf4l11hQGYs8KbGc"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 300361,
       "name": "Roman Sky",
       "url": "https://open.spotify.com/track/06r4cRb2dnmCSyZ5MgEUGY"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/2kzb2c50m1prBuB1m9rhTZ"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 276106,
       "name": "The Blue, The Green",
       "url": "https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G"

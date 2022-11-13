@@ -721,6 +721,28 @@
     {
       "album": {
         "name": "Verdor",
+        "url": "https://open.spotify.com/album/3y6yqzgtEBTRShhEC7mRTN"
+      },
+      "artists": [
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        },
+        {
+          "name": "Edson Velandia",
+          "url": "https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272974,
+      "name": "Inmune",
+      "url": "https://open.spotify.com/track/2xrv8ar2mYYwmXPoCZY9se"
+    },
+    {
+      "album": {
+        "name": "Verdor",
         "url": "https://open.spotify.com/album/58ucyDAKyLvEXL3M8YSzgF"
       },
       "artists": [
@@ -735,7 +757,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 272974,
       "name": "Inmune",
       "url": "https://open.spotify.com/track/637uiYNp6YmhmYJaCxmEHE"

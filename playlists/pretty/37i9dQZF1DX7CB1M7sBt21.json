@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 188049,
+  "num_followers": 188051,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGE4ZmY5NzY4Mzg4NmQ1YmU4NDg2ZjYyM2Q1YTY4MTAx",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDcyNWVlNjIzZWFhMGQyNzQzYWU4NTg5NGJkY2ZlMmJl",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -79,6 +79,22 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -507,6 +523,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/5f7axBwnXST7xzhpRMb34u"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 201198,
+      "name": "Sing It With Me",
+      "url": "https://open.spotify.com/track/4Q6wZlZhrwVVmGhJtmGUtG"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
       },
@@ -543,22 +579,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "1 Day 2 Nights",
         "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
       },
@@ -571,6 +591,22 @@
       "duration_ms": 138200,
       "name": "1 Day 2 Nights",
       "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -611,6 +647,26 @@
       "duration_ms": 188186,
       "name": "The Other Side (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -831,22 +887,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Let Them Know",
-        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 148693,
-      "name": "Let Them Know",
-      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Sad (feat. Afrojack)",
         "url": "https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD"
       },
@@ -863,6 +903,22 @@
       "duration_ms": 161280,
       "name": "Sad (feat. Afrojack)",
       "url": "https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 148693,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1043,22 +1099,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+      "duration_ms": 159760,
+      "name": "Harder (with Bebe Rexha)",
+      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1083,6 +1139,26 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1127,26 +1203,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H"
-      },
-      "artists": [
-        {
-          "name": "Hogland",
-          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 192088,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Dance All Over Me (Jax Jones Remix)",
         "url": "https://open.spotify.com/album/1M1s6xXXTuPLs9JDuYe0VB"
       },
@@ -1187,18 +1243,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/6veielpwGAJ4FKG7w3q69H"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Hogland",
+          "url": "https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
+      "duration_ms": 192088,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1219,6 +1279,38 @@
       "duration_ms": 159927,
       "name": "Alien - Topic Remix",
       "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Year of the Young",
+        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Year of the Young",
+      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147656,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1263,22 +1355,6 @@
       "duration_ms": 176129,
       "name": "Everywhere (feat. Maya Avedis)",
       "url": "https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1351,6 +1427,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Boom Boom Boom Boom",
         "url": "https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj"
       },
@@ -1371,6 +1467,22 @@
       "duration_ms": 128524,
       "name": "Boom Boom Boom Boom",
       "url": "https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1439,26 +1551,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Leave A Little Love",
-        "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 187029,
-      "name": "Leave A Little Love",
-      "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Coffee (Give Me Something)",
         "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
       },
@@ -1475,6 +1567,30 @@
       "duration_ms": 189677,
       "name": "Coffee (Give Me Something)",
       "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1511,138 +1627,18 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "We\u2019re The Same\u202c\u202c",
-        "url": "https://open.spotify.com/album/53bjO90kier9RYpX6GuNSJ"
+        "name": "Fiender \u00e4r tr\u00e5kigt",
+        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
       },
       "artists": [
         {
-          "name": "Vigiland",
-          "url": "https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds"
-        },
-        {
-          "name": "Alexander Tidebrink",
-          "url": "https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
         }
       ],
-      "duration_ms": 174064,
-      "name": "We\u2019re The Same\u202c\u202c",
-      "url": "https://open.spotify.com/track/4rJcxFOljjd2sqfgIjksTI"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "All This Love (feat. Harl\u0153)",
-        "url": "https://open.spotify.com/album/3mMaKYr6aPtFSHYUr7acxJ"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "HARLOE",
-          "url": "https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL"
-        }
-      ],
-      "duration_ms": 164797,
-      "name": "All This Love (feat. Harl\u0153)",
-      "url": "https://open.spotify.com/track/0nxYyX5PIHJqF4VSb4CIFV"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Lazy Day (feat. Danny Ocean)",
-        "url": "https://open.spotify.com/album/5XbAwDgRBXdoLtM1uuK0BS"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Lazy Day (feat. Danny Ocean)",
-      "url": "https://open.spotify.com/track/1dA9GzuP546CjJT0n9tZoe"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Look What You've Done",
-        "url": "https://open.spotify.com/album/5kpRcX0pCeMK74PSgnaX7g"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "Look What You've Done",
-      "url": "https://open.spotify.com/track/2Y9oTMNY5CPT4m9l6CgbgM"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "I",
-        "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/1IqpPKPKVpu1VWZ67VnHPB"
-      },
-      "artists": [
-        {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/0EQeui6OBMzqJ3Z3wCOzZh"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Weekend Vibe (Alle Farben Remix)",
-        "url": "https://open.spotify.com/album/5ZXshhkfCAGsNB0qFwMTpp"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 159876,
-      "name": "Weekend Vibe - Alle Farben Remix",
-      "url": "https://open.spotify.com/track/7KQsodQieHLjpQVowtlIKt"
+      "duration_ms": 227600,
+      "name": "Tillf\u00e4lligheter",
+      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

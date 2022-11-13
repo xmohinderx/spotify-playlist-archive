@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Chelsea Cutler
 
-1,118 songs - 2 day 11 hr 34 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,119 songs - 2 day 11 hr 37 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [100,000 Flowers](https://open.spotify.com/track/0tdAKUdWvtOYg9O0KLIGf1) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr) | [Let It All Happen](https://open.spotify.com/album/7aBTnxoY5tRRfitYJzfXCT) | 2:59 | 2021-03-14 | 2021-04-03 |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-26 | 2021-09-04 |
 | [2022](https://open.spotify.com/track/2Zc3DlVHtwqAVE4KcdajnN) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe), [Alex Cain](https://open.spotify.com/artist/0NwTAtq8aQEly8SEPqFokX) | [2022](https://open.spotify.com/album/1ulbeAv0gZQqzxyPzp6pst) | 3:12 | 2022-04-08 | 2022-07-16 |
-| [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 | 2022-10-07 |  |
+| [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 | 2022-10-07 | 2022-11-13 |
 | [24 Hours](https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:30 | 2020-12-04 | 2021-03-19 |
 | [25 in Barcelona](https://open.spotify.com/track/3T26BJ8XxWaxyxs8oGt8eR) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together](https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9) | 3:13 | 2020-04-26\* | 2020-06-19 |
 | [25/8](https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love \(Deluxe\)](https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO) | 2:38 | 2022-04-08 | 2022-07-30 |
@@ -90,7 +90,7 @@
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2020-04-26\* | 2020-05-30 |
 | [Be There for You](https://open.spotify.com/track/5JdMXRdF7Ls0JYG2p2PKmo) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Be There for You](https://open.spotify.com/album/43QnzBUSXvUo1Rxnj0X4bx) | 2:09 | 2020-08-21 | 2020-10-09 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-29 | 2022-10-14 |
-| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-10-10 | 2022-11-11 |
+| [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-10-10 |  |
 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 | 2022-09-01 |
 | [Bedhead \(feat\. Anna Clendening\)](https://open.spotify.com/track/6HbXhn1ozap6E7PxtdzaZ0) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Flash](https://open.spotify.com/album/1zdQmQxGCIO3M3OJwejsvi) | 2:27 | 2020-05-01 | 2020-09-11 |
 | [bedroom walls](https://open.spotify.com/track/6juSWnv6yERefw1dM13Qyu) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [bedroom walls](https://open.spotify.com/album/6cDZkG4uTrz3jlI3Bilapt) | 2:12 | 2021-06-05 | 2021-07-04 |
@@ -339,6 +339,7 @@
 | [Feels Like Magic \- Late Night Version](https://open.spotify.com/track/1DrKaJahHICgZFPxwFxR2N) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic \(Late Night Version\)](https://open.spotify.com/album/0FT1fI9RQpqtFxNxqMtNAm) | 3:02 | 2022-04-01 | 2022-07-30 |
 | [Fever Dream](https://open.spotify.com/track/2hyS6YHRSqMp8JygUgUEly) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Fever Dream](https://open.spotify.com/album/61rRtqjm94oGmHdZMMtTMH) | 2:51 | 2021-04-30 | 2021-07-04 |
 | [Fingers Crossed](https://open.spotify.com/track/0JzDx938tQq0W1fQNtNdtF) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fingers Crossed](https://open.spotify.com/album/346bhxhT8LdAvXEdHerBVZ) | 2:35 | 2021-06-12 | 2021-09-04 |
+| [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 | 2022-11-11 |  |
 | [Fireworks](https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 4:02 | 2020-09-11 | 2020-12-13 |
 | [First Call](https://open.spotify.com/track/0ktbpf7PQCWAV2Jer0I0GS) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [First Call](https://open.spotify.com/album/4pa6L45UyAUncVobuARUlX) | 2:21 | 2021-09-25 | 2021-12-24 |
 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 | 2020-05-16 | 2020-07-31 |
@@ -378,7 +379,7 @@
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 | 2021-06-05 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 |  |
 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2020-08-14 | 2021-01-15 |
-| [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 | 2022-09-16 |  |
+| [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 | 2022-09-16 | 2022-11-13 |
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2021-12-11 |  |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-10-09 | 2022-03-26 |
 | [Godlight](https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Godlight](https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N) | 4:07 | 2021-07-04 | 2021-09-18 |

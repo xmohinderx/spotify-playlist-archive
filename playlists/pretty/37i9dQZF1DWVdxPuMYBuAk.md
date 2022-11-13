@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,423 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,450 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 72 | [You & I](https://open.spotify.com/track/2rVoTl5ZMP3UijfJVnyRgf) | [Twinsmith](https://open.spotify.com/artist/6OzddGLeuKG9irjEC13C69) | [Stay Cool](https://open.spotify.com/album/44ZygtuH05Lo1yUuVcBA85) | 3:30 |
 | 73 | [Human Right](https://open.spotify.com/track/0e866bvP5rorqKS0pPjvr5) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/6Oo2L6mlblKkGSWj49Q7mn) | 3:13 |
 | 74 | [GOOD](https://open.spotify.com/track/71hoNUltGAiXxpdKBjbYvs) | [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [GOOD](https://open.spotify.com/album/2lnPx91gy6GkNoOzxKtfwL) | 3:56 |
-| 75 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/0RYI2UwbaqjSSn5eabKoW3) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/album/0slxg5klNGFhKIQQxyTR6G) | 4:36 |
-| 76 | [Gum \(Everybodys My Friend\)](https://open.spotify.com/track/4GMHiEsI3ASKrnJbVv3TR4) | [OYSTER KIDS](https://open.spotify.com/artist/5iN89s0E8GcsTkIvCtYMRa) | [Gum \(Everybodys My Friend\)](https://open.spotify.com/album/3UP8lveAC0yWz3kHoxCUuF) | 3:02 |
+| 75 | [Bad Ones \(feat\. Tegan and Sara\)](https://open.spotify.com/track/31AYjxq6VkR57EgcwAJFmO) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Bunny](https://open.spotify.com/album/6ycHu5HE3kRz1HC2E5gtXo) | 4:32 |
+| 76 | [Gum \(Everybodys My Friend\)](https://open.spotify.com/track/4Y7dhKXjdG8mtKTvHj0EWJ) | [OYSTER KIDS](https://open.spotify.com/artist/5iN89s0E8GcsTkIvCtYMRa) | [Gum \(Everybodys My Friend\)](https://open.spotify.com/album/622MkcQxZlnXl1ltfrSLf8) | 3:02 |
 | 77 | [Nadir](https://open.spotify.com/track/5pGCxazPxShO5jBpOyM85f) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Modern Addiction](https://open.spotify.com/album/36uRsDIqy2qooBY9gum3qC) | 4:01 |
 | 78 | [Hypnotic Regression](https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj) | 3:48 |
 | 79 | [This / That](https://open.spotify.com/track/7sx3aDUXa9tSDcDqYhIcVI) | [Sarah Jaffe](https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS) | [Bad Baby](https://open.spotify.com/album/6Er2GVXW6JrjaYqAwVaPII) | 4:28 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMGFjNzY1Mjg2NTNmZDMzYWQ2ZWY3ZDIwZWQ2MGI2N2Nk`
+Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDVjZTRkMjBjZDFlOTk3NWQ5YzRiMjZhYTRmNmRhZjdi`

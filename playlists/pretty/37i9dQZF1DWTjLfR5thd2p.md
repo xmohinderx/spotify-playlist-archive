@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > When the sun has set and you need to relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,333 likes - 367 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,340 likes - 367 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 149 | [Prima Stella](https://open.spotify.com/track/0V4SL7IMRUeu7tqiuyedxO) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Prima Stella](https://open.spotify.com/album/2rp88Czsj3x0v6UbezgrCD) | 2:32 |
 | 150 | [Aeternum](https://open.spotify.com/track/2NUEiYBZDBrY5oidzrmYgv) | [Gaétan Buisson](https://open.spotify.com/artist/6DGaGOFxqqKATh3iRZ1MKs) | [Aeternum](https://open.spotify.com/album/4CBsyXYvh2iy9VihnMn5zE) | 2:15 |
 | 151 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 |
-| 152 | [Agonize](https://open.spotify.com/track/47QI1Wamg93qBYV60nSjUn) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Agonize](https://open.spotify.com/album/0UhDXcyKJTmhdKQXJHxm4d) | 2:51 |
+| 152 | [Agonize](https://open.spotify.com/track/4iG6wXPpZIYIpOVkra8SCh) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [The Self](https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56) | 2:51 |
 | 153 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 |
 | 154 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 |
 | 155 | [A Little Journey](https://open.spotify.com/track/1ri5KgNPbiYHZEc4pYaKhB) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [A Little Journey](https://open.spotify.com/album/5hZI8dZFuOUmWn4Jlbb3Tb) | 2:00 |
@@ -376,4 +376,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 366 | [wandering bird](https://open.spotify.com/track/2bVLBwc3GD5lu9EKJIIGNR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [yellow fields & wandering bird](https://open.spotify.com/album/4fBLDgZ2H67fMlnN2evmp2) | 2:35 |
 | 367 | [Another Life](https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Another Life](https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD) | 2:19 |
 
-Snapshot ID: `MTY2Mzk0MjQ4MywwMDAwMDAwMDhkOWUzNzJjZTE1NTg4ODIwZWUzMjE1MGIyZDNiYzAz`
+Snapshot ID: `MTY2Mzk0MjQ4MywwMDAwMDAwMDkyYzQwYjNkNjc2ZWM5MTc3YTg2ODFmY2Q4MzUxZmE0`

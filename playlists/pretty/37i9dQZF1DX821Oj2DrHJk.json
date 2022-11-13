@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1970s.",
-  "num_followers": 21223,
+  "num_followers": 21232,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzk0MjI4OCwwMDAwMDAwMGUwYjJkZDJjYjJiOTExZjBlODQ0ZDU4MDhmZGM1YTI5",
+  "snapshot_id": "MTY1Mzk0MjI4OCwwMDAwMDAwMDEwOTRhZDA2ZWUyM2M1NDQ0M2VjODJjMzZjOGIyYzJk",
   "tracks": [
     {
       "added_at": "2021-04-09 06:45:34",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
-      "added_at": "2022-04-08 19:40:07",
-      "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
       "added_at": "2021-04-09 06:45:34",
       "album": {
         "name": "Honky Chateau",
@@ -71,6 +55,22 @@
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "added_at": "2022-04-08 19:40:07",
+      "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
     },
     {
-      "added_at": "2022-04-08 19:40:07",
-      "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 547106,
-      "name": "Free Bird",
-      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
-    },
-    {
       "added_at": "2021-04-09 06:45:34",
       "album": {
         "name": "Toys In The Attic",
@@ -231,6 +215,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2022-04-08 19:40:07",
+      "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 547106,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 382834,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
@@ -379,6 +395,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -391,22 +423,6 @@
       "duration_ms": 207266,
       "name": "Long Train Runnin'",
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Rhiannon",
-      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -443,22 +459,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "The Dark Side of the Moon",
-        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 413947,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Band On The Run (Standard)",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -487,6 +487,38 @@
       "duration_ms": 200213,
       "name": "Cold as Ice",
       "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Rhiannon",
+      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 413947,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -571,22 +603,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 350400,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 341773,
-      "name": "Wild Horses - 2009 Mix",
-      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+      "duration_ms": 350400,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -667,6 +683,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 341773,
+      "name": "Wild Horses - 2009 Mix",
+      "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -697,6 +729,38 @@
       "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Houses of the Holy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 262748,
+      "name": "D'yer Mak'er - Remaster",
+      "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 282693,
+      "name": "Fly Like An Eagle",
+      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
+    },
+    {
       "added_at": "2022-04-08 19:40:07",
       "album": {
         "name": "It Ain't Easy",
@@ -715,6 +779,38 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "McCartney (Archive Collection)",
+        "url": "https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Maybe I\u2019m Amazed - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Red Rose Speedway (Archive Collection)",
+        "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Live And Let Die - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0VV8wkOM4w78A2OHZOTzNP"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "The Captain and Me",
         "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
@@ -727,22 +823,6 @@
       "duration_ms": 195306,
       "name": "China Grove",
       "url": "https://open.spotify.com/track/7cy1bEJV6FCtDaYpsk8aG6"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -809,6 +889,22 @@
       "url": "https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb"
     },
     {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Houses of the Holy (Remaster)",
+        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Over the Hills and Far Away - Remaster",
+      "url": "https://open.spotify.com/track/2eDdFHgqNJltzlvlZFVDWd"
+    },
+    {
       "added_at": "2022-04-08 19:40:07",
       "album": {
         "name": "Bad Reputation (Expanded Edition)",
@@ -843,6 +939,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -855,6 +967,22 @@
       "duration_ms": 198706,
       "name": "Love Gun",
       "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "You're My Best Friend - Remastered 2011",
+      "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
     },
     {
       "added_at": "2022-04-08 19:40:07",
@@ -923,22 +1051,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Running on Empty (2018 Remaster)",
         "url": "https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg"
       },
@@ -951,6 +1063,22 @@
       "duration_ms": 204464,
       "name": "Stay - 2018 Remaster",
       "url": "https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/3UQA4UTVqcI0VtSQ38nlq1"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -987,22 +1115,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Cat Scratch Fever",
-        "url": "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
-      },
-      "artists": [
-        {
-          "name": "Ted Nugent",
-          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Cat Scratch Fever",
-      "url": "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Book Of Dreams",
         "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
       },
@@ -1015,6 +1127,22 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Cat Scratch Fever",
+        "url": "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
+      },
+      "artists": [
+        {
+          "name": "Ted Nugent",
+          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Cat Scratch Fever",
+      "url": "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1047,38 +1175,6 @@
       "duration_ms": 208933,
       "name": "All Right Now",
       "url": "https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Houses of the Holy (Remaster)",
-        "url": "https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 262748,
-      "name": "D'yer Mak'er - Remaster",
-      "url": "https://open.spotify.com/track/5uUhS7XDkyycNa5FaNfPGT"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Wings Greatest",
-        "url": "https://open.spotify.com/album/3ukVviHMHQj6H1tMjRjrY5"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Live And Let Die",
-      "url": "https://open.spotify.com/track/6AbaUu4XtHu7pGkPE94Tat"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1147,6 +1243,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Free",
+        "url": "https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
@@ -1179,6 +1291,22 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Can the Can",
+      "url": "https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "Tenology",
         "url": "https://open.spotify.com/album/5FPOXQ7ssVwLwSxqL4rGYa"
       },
@@ -1195,18 +1323,18 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Free",
-        "url": "https://open.spotify.com/album/0y1k7yzTo230VF9VPZhV1k"
+        "name": "Chart Toppers",
+        "url": "https://open.spotify.com/album/6LhXcT9U6igze3sgwi1sbJ"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
         }
       ],
-      "duration_ms": 334000,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/2ZMEdXxVSRfMshCDBMjt0o"
+      "duration_ms": 241991,
+      "name": "Lola - 2020 Stereo Remaster",
+      "url": "https://open.spotify.com/track/6oric9Y2FfCpI0VFWYIi69"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1223,6 +1351,22 @@
       "duration_ms": 271293,
       "name": "Angie - Remastered",
       "url": "https://open.spotify.com/track/5FQdAbZKZWwgeWTqTFVVMo"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Pretty Vacant",
+      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1291,6 +1435,54 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
+        "name": "The Very Best Of Sting And The Police",
+        "url": "https://open.spotify.com/album/6UB8pBE0K3je0ePso0OmCi"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Can't Stand Losing You",
+      "url": "https://open.spotify.com/track/39ZC8fZuLGJfpoaTST7vw3"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 233413,
+      "name": "48 Crash",
+      "url": "https://open.spotify.com/track/5mgZHaDo0dyTByF8pWu8Sj"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
+        "name": "\u795e\u66f2\u5927\u767e\u79d1 Vol.1",
+        "url": "https://open.spotify.com/album/7HApNyWLjGtGbSyhPK0JrT"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/60GOx8U8PkkVlIG9LlVNNZ"
+    },
+    {
+      "added_at": "2021-04-09 06:45:34",
+      "album": {
         "name": "The Slider",
         "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
       },
@@ -1343,22 +1535,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Chart Toppers",
-        "url": "https://open.spotify.com/album/6LhXcT9U6igze3sgwi1sbJ"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 241991,
-      "name": "Lola - 2020 Stereo Remaster",
-      "url": "https://open.spotify.com/track/6oric9Y2FfCpI0VFWYIi69"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Down the Dustpipe",
         "url": "https://open.spotify.com/album/4D2lzYrLn7Jg8tIuuSF36L"
       },
@@ -1371,70 +1547,6 @@
       "duration_ms": 122453,
       "name": "Down the Dustpipe",
       "url": "https://open.spotify.com/track/4ey3t8jCoQ7Q7M8BR09Zy0"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "The Very Best Of Sting And The Police",
-        "url": "https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Can't Stand Losing You",
-      "url": "https://open.spotify.com/track/1po5LLTU8N62MCjysmaedr"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Machine Head (2016 Version)",
-        "url": "https://open.spotify.com/album/3vf9XhG5wL3J0kVZhCEumf"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 339946,
-      "name": "Smoke on the Water - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5JbsyfzMUtqXKgx9s4oqn1"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "A Foot in the Door: The Best of Pink Floyd",
-        "url": "https://open.spotify.com/album/53eu9AgHyg3eQNUiePWRHD"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 394159,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/6uPL2Ue1sJKc5tWOrZP3K6"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "\u795e\u66f2\u5927\u767e\u79d1 Vol.1",
-        "url": "https://open.spotify.com/album/7HApNyWLjGtGbSyhPK0JrT"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
-      "url": "https://open.spotify.com/track/60GOx8U8PkkVlIG9LlVNNZ"
     },
     {
       "added_at": "2021-04-09 06:45:34",
@@ -1455,38 +1567,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Dandy In The Underworld",
-        "url": "https://open.spotify.com/album/5aEVv5sSzit1hQVF5ASVKO"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "I Love To Boogie",
-      "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "An Introduction to Led Zeppelin",
-        "url": "https://open.spotify.com/album/2cqzFuaX52BSIPQT3w05Vm"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Over the Hills and Far Away - Remaster",
-      "url": "https://open.spotify.com/track/4SdlPJtSEk4md0qh3BAkMu"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Best Of Sweet",
         "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
       },
@@ -1503,54 +1583,6 @@
     {
       "added_at": "2021-04-09 06:45:34",
       "album": {
-        "name": "Single Trax 1970-1981",
-        "url": "https://open.spotify.com/album/4Zk0R6PCTujeSb9ppg1vQi"
-      },
-      "artists": [
-        {
-          "name": "Dave Edmunds",
-          "url": "https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Girls Talk",
-      "url": "https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Watch",
-        "url": "https://open.spotify.com/album/2uSmnaASa15RBkp3wKqMmk"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann's Earth Band",
-          "url": "https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q"
-        }
-      ],
-      "duration_ms": 354933,
-      "name": "Davy's On The Road Again",
-      "url": "https://open.spotify.com/track/0AYhsErBaLgKL2qYNhHTZj"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Made In The Shade",
-        "url": "https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Brown Sugar - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/7bdBuquSmLkOR81YMSuRV5"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
         "name": "Let It Roll - Songs Of George Harrison",
         "url": "https://open.spotify.com/album/1aswOMHGBTkp0MsSVIn2YU"
       },
@@ -1563,38 +1595,6 @@
       "duration_ms": 215266,
       "name": "Give Me Love (Give Me Peace On Earth) - 2009 Mix",
       "url": "https://open.spotify.com/track/09VtDFWlxC9v9tyRnmpGPl"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Take Me Bak 'Ome",
-      "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
-    },
-    {
-      "added_at": "2021-04-09 06:45:34",
-      "album": {
-        "name": "For you, Mom",
-        "url": "https://open.spotify.com/album/4396tmV0CSybeAxn1twvLU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "You're My Best Friend - Remastered 2011",
-      "url": "https://open.spotify.com/track/23S8Zh5khUmPc27Zm182iw"
     },
     {
       "added_at": "2021-04-09 06:45:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,432 likes - 85 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,594 likes - 85 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 69 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
 | 70 | [We Need a Little Christmas](https://open.spotify.com/track/2hM6yd9ZDPpKRVqDheFyoW) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Today Is Christmas](https://open.spotify.com/album/4p1Qw5G8LHuiV7Iz1cAyAj) | 2:59 |
 | 71 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/1ipD9uq7lzGAwGjfjXzdoa) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5ZsuWI1KwuIIjlhjEjpVri) | 2:51 |
-| 72 | [Snowflake](https://open.spotify.com/track/0zroGepO6oOkdhF7UmOiDL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/0ksZoEgWVdI2Tw6vtsc79a) | 4:02 |
+| 72 | [Snowflake](https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 4:02 |
 | 73 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ) | 3:26 |
 | 74 | [There Is A Star That Shines Tonight](https://open.spotify.com/track/2j6ACRgdXgInMFFqV83TFG) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Home For Christmas](https://open.spotify.com/album/4knfTM4vliB04OibXqaRnK) | 3:58 |
 | 75 | [Not Just On Christmas](https://open.spotify.com/track/6JJ4W13A4Q5yeK4g6OROmg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:02 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 | 78 | [Silver Bells](https://open.spotify.com/track/24Vowd4cVtxt1WcahC23dZ) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Jingle Your Bells](https://open.spotify.com/album/0t6BIKhlVZHdKv4ocFmqr6) | 4:10 |
 | 79 | [Christmas Cards](https://open.spotify.com/track/2vIxMkWXzJdaDJVKHK4icG) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Songs for Christmas](https://open.spotify.com/album/232HV9TPBGG4N9p9uu6tFX) | 3:26 |
 | 80 | [Ave Maria](https://open.spotify.com/track/1i7JjMvpzUCFR6GiqSaenp) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 4:03 |
-| 81 | [first winter](https://open.spotify.com/track/2G6D7SyHsZ727FDjUoDTrL) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 2:56 |
+| 81 | [first winter](https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [first winter](https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI) | 2:56 |
 | 82 | [Jingle Bells](https://open.spotify.com/track/5b7NpZvS8ueO0B3KNtB0d8) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/6HyoKXjrQ2gPomfPd5kq1s) | 3:17 |
 | 83 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 |
 | 84 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 | 85 | [Auld Lang Syne](https://open.spotify.com/track/1xLEZzyPlldPLRpbvQH3uO) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [The Christmas Album](https://open.spotify.com/album/3dtH58hWKPjBEiKXRs69PJ) | 1:44 |
 
-Snapshot ID: `MTY2ODIxMjgwMiwwMDAwMDAwMGU3MzU1OTI2YjMzZmRjZjk5Mjc5ZmMxZWZjNTZjNWUx`
+Snapshot ID: `MTY2ODIxMjgwMiwwMDAwMDAwMDU3ZGFhZThmYzYwNDcxMzc5YTk5YWY5Y2JhNGNmMDcz`

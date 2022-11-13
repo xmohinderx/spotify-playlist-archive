@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,601 likes - 31 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,690 likes - 31 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 14 | [STAY](https://open.spotify.com/track/1RmCY9iUGv2nylDTjwTI7e) | [VICTORIA](https://open.spotify.com/artist/0RZgO0eMlijXpqFv01hob9) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:59 |
 | 15 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 |
 | 16 | [BEAT OF THE RISING SUN](https://open.spotify.com/track/2cNvVnLsMqgBuI6mBk2fRz) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 4:03 |
-| 17 | [Mikado \- Extended Version](https://open.spotify.com/track/0kx5ysEDdlWT37R2uLPFfG) | [Dave MC Loud](https://open.spotify.com/artist/1CFcGw5BNYY6IeGrnQJnp5) | [Initial Beat, Vol\. 1](https://open.spotify.com/album/7jZYBIcsA5L8Nhullurmbw) | 6:03 |
+| 17 | [Mikado \- Extended Version](https://open.spotify.com/track/54NEJSOTHGKN7YIeA7Co6f) | [Dave MC Loud](https://open.spotify.com/artist/1CFcGw5BNYY6IeGrnQJnp5) | [Eurobeat Kudos 11](https://open.spotify.com/album/41qwgG9ANvVk3I2sxiv2df) | 6:03 |
 | 18 | [SPEEDY SPEED BOY](https://open.spotify.com/track/4UwmHaExaKIqodksotaoo3) | [Marko Polo](https://open.spotify.com/artist/4acqj1P10gUoGNQetcogFv) | [SUPER EUROBEAT presents INITIAL D Second Stage 〜D SELECTION 1〜](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 5:56 |
 | 19 | [Make Up Your Mind \- Extended Mix](https://open.spotify.com/track/6NnngkONzQX4f4AuqQ0kSl) | [Wain L](https://open.spotify.com/artist/483J2w9aHXcSdJWiaFwUV1) | [SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 3](https://open.spotify.com/album/0GYleAGNGEkHkOpqVH9lk7) | 5:55 |
 | 20 | [DEJA VU](https://open.spotify.com/track/6CRtIYDga4VKW5sV5rfAL3) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION](https://open.spotify.com/album/5IWYS5uU24ol0NotfK8XqV) | 4:20 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 30 | [Adrenaline](https://open.spotify.com/track/5lxcV6KE2x3am3gtBCzYUc) | [Ace](https://open.spotify.com/artist/0eF7CXsaTUjvCiiGkgKRQT) | [Super Eurobeat Vol\. 225](https://open.spotify.com/album/3epa4cuYMhq2Y3nkjNtGKI) | 4:22 |
 | 31 | [Rage Your Dream](https://open.spotify.com/track/0dQtjOhjyMMAwyMZRAOKsU) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:31 |
 
-Snapshot ID: `MTY1MzQwNzQ0OCwwMDAwMDAwMGU2NDlhNDE4M2Q2ZWRkZDEwMDc3MDE4M2QyMjEyMTBh`
+Snapshot ID: `MTY1MzQwNzQ0OCwwMDAwMDAwMDRlYzMwOTk5NTk1MTFjNDUzZDJlMDEwZWE5MzU1ZmUy`

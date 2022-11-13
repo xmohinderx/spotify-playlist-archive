@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDgyMTI4MCwwMDAwMDAwMDE1NTQ5MzRiNzVmNTY1MzgwMzQ1ODUzY2U0MTJjZTM5",
+  "snapshot_id": "MTY2NDgyMTI4MCwwMDAwMDAwMDI1ZTQ3YjZmMmJhZDUzYjZhMDNkN2QzZDYxOWQ5NWI1",
   "tracks": [
     {
       "added_at": "2022-10-03 18:21:20",
@@ -727,8 +727,8 @@
     {
       "added_at": "2022-09-23 14:27:13",
       "album": {
-        "name": "Wigs (feat. Asian Doll)",
-        "url": "https://open.spotify.com/album/0XLFXhashQVtfchnQ6GiQR"
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
       },
       "artists": [
         {
@@ -738,11 +738,15 @@
         {
           "name": "Asian Doll",
           "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Antha Pantha",
+          "url": "https://open.spotify.com/artist/5bQLHZXLiVPxi2Suodt3wV"
         }
       ],
-      "duration_ms": 220863,
-      "name": "Wigs (feat. Asian Doll)",
-      "url": "https://open.spotify.com/track/4lCyyCa0JsIVeP7jbKWlJo"
+      "duration_ms": 219560,
+      "name": "Wigs (feat. Asian Doll & Antha Pantha)",
+      "url": "https://open.spotify.com/track/5mCk85oB2HAPriLqo1R3Jq"
     },
     {
       "added_at": "2022-09-23 14:27:13",

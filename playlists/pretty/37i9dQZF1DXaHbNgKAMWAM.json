@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 8047,
+  "num_followers": 8060,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzI3ODkyMSwwMDAwMDAwMDc1NjUyNWU1NTYwZDBkMjUzNzBjNGM4NjQ0YWZiN2Rk",
+  "snapshot_id": "MTY2NzI3ODkyMSwwMDAwMDAwMDY2M2Q2NGI4NzQ3YzUyZmFiN2U1YTIxZWE5NTg5NTRl",
   "tracks": [
     {
       "added_at": "2022-11-01 05:02:01",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-11-01 05:02:01",
       "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 231870,
+      "name": "But it's Destiny",
+      "url": "https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom"
+    },
+    {
+      "added_at": "2022-11-01 05:02:01",
+      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": "2022-11-01 05:02:01",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
-    },
-    {
-      "added_at": "2022-11-01 05:02:01",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 217044,
       "name": "Bom",
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "added_at": "2022-11-01 05:02:01",
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw"
     },
     {
       "added_at": "2022-11-01 05:02:01",
@@ -223,22 +239,6 @@
     {
       "added_at": "2022-11-01 05:02:01",
       "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
-    },
-    {
-      "added_at": "2022-11-01 05:02:01",
-      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "added_at": "2022-11-01 05:02:01",
+      "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2022-11-01 05:02:01",
@@ -351,22 +367,6 @@
     {
       "added_at": "2022-11-01 05:02:01",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2022-11-01 05:02:01",
-      "album": {
         "name": "LOVE SHOT\u2013 The 5th Album Repackage",
         "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2022-11-01 05:02:01",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2022-11-01 05:02:01",
@@ -611,6 +627,26 @@
     {
       "added_at": "2022-11-01 05:02:01",
       "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "My Day Is Full Of You",
+      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+    },
+    {
+      "added_at": "2022-11-01 05:02:01",
+      "album": {
         "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
       },
@@ -647,26 +683,6 @@
       "duration_ms": 235197,
       "name": "I LUV U (with Mirani)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
-    },
-    {
-      "added_at": "2022-11-01 05:02:01",
-      "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "My Day Is Full Of You",
-      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
       "added_at": "2022-11-01 05:02:01",
@@ -739,6 +755,22 @@
     {
       "added_at": "2022-11-01 05:02:01",
       "album": {
+        "name": "1.0",
+        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Love in the Milky Way Cafe",
+      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
+    },
+    {
+      "added_at": "2022-11-01 05:02:01",
+      "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
       },
@@ -755,22 +787,6 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
-    },
-    {
-      "added_at": "2022-11-01 05:02:01",
-      "album": {
-        "name": "1.0",
-        "url": "https://open.spotify.com/album/2NQxbsV4UYXegJQWbzLR2c"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Love in the Milky Way Cafe",
-      "url": "https://open.spotify.com/track/6k6Llm7Kw3Ad1Xo1e6sIcR"
     },
     {
       "added_at": "2022-11-01 05:02:01",
@@ -915,22 +931,6 @@
       "duration_ms": 167786,
       "name": "Dearest (feat. Sllo)",
       "url": "https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u"
-    },
-    {
-      "added_at": "2022-11-01 05:02:01",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1lb206sGMTJryXF66FpT0k"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 231870,
-      "name": "But it's Destiny",
-      "url": "https://open.spotify.com/track/7adtedpznNgg9UtDS3VR5Q"
     },
     {
       "added_at": "2022-11-01 05:02:01",

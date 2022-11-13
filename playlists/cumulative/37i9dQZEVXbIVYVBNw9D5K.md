@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-545 songs - 1 day 3 hr 42 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+547 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Bi' Şarkı](https://open.spotify.com/track/0ZHMs8U7esn0hFp8eBM7sQ) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [Bi' Şarkı](https://open.spotify.com/album/0O0QyDHtHfV5DmCXTEijhO) | 2:52 | 2021-12-05 | 2021-12-06 |
 | [Bikinisinde Astronomi \(Bonus Trek\)](https://open.spotify.com/track/2Nw7SJPxBMbkQdTVPatSgR) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/0xf8Fop940B7lQoODf6Ccv) | 3:01 | 2022-02-10 | 2022-02-16 |
 | [Bikinisinde Astronomi \- Bonus Trek](https://open.spotify.com/track/1R6rAl2uzy8vdTBQ0qElO6) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Son Feci EP](https://open.spotify.com/album/6IkJXO4FvWJDwlYZ0gnQWJ) | 3:01 | 2022-03-05 | 2022-03-10 |
-| [Bilir O Beni](https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Bilir O Beni](https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb) | 3:48 | 2022-02-28 |  |
+| [Bilir O Beni](https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Bilir O Beni](https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb) | 3:48 | 2022-02-28 | 2022-11-13 |
 | [Bilmem Mi?](https://open.spotify.com/track/6wbDn8NI3ygkOeDJiS0ASi) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/0UFVuK7zzdjsiK1nb5F2wI) | 3:06 | 2021-07-11 | 2022-07-27 |
 | [Bilmem Mi?](https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Bilmem Mi?](https://open.spotify.com/album/3s82rScbmzY5VSjWHnMg4W) | 3:06 | 2021-09-01 | 2021-09-04 |
 | [Bir Derdim Var](https://open.spotify.com/track/5UV2oqgMXvlkOvvtK3aT7f) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:24 | 2022-06-08 |  |
@@ -286,6 +286,7 @@
 | [Kafile](https://open.spotify.com/track/4PTjzk0gb6st9Lk5kKBnc6) | [Yüksek Sadakat](https://open.spotify.com/artist/3SrFQDUN5DXQDZc3kygriW) | [Yüksek Sadakat](https://open.spotify.com/album/4nPhHTUeOSvZCNztvyfoGA) | 4:18 | 2022-04-20 | 2022-07-04 |
 | [Kahrettim](https://open.spotify.com/track/6oSiqvaLNJk8PWF9G7jGh8) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kahrettim](https://open.spotify.com/album/2NAz0dyteIeluVwHLaGG1b) | 3:06 | 2021-03-27\* | 2021-04-01 |
 | [KALA KAL](https://open.spotify.com/track/3NFMLi0FhAkxZNPs1UhYtB) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:39 | 2022-01-22 | 2022-02-25 |
+| [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 | 2022-11-12 |  |
 | [Kalbimi Kırdın](https://open.spotify.com/track/2jLVyqrpgUZEkGnto3tDgC) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Zeynodisco](https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD) | 3:32 | 2021-05-23 | 2021-05-30 |
 | [Kalbin bana kaldı](https://open.spotify.com/track/55Tf67DiltMLjOY6A25s3J) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [Kalbin bana kaldı](https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW) | 2:24 | 2022-07-30 |  |
 | [Kalbinde Birileri Var](https://open.spotify.com/track/2FgmDd6M9OM9CjKHn9ckxU) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Sanrılar](https://open.spotify.com/album/3GfORRNxyhQnepv1rtRLGK) | 3:17 | 2021-03-27 | 2021-04-28 |
@@ -391,11 +392,12 @@
 | [olsun](https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [olsun](https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej) | 2:04 | 2022-08-06 | 2022-09-04 |
 | [Olur Mu](https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Olur Mu](https://open.spotify.com/album/5cRthf9NEB9hzVdlZ0mtvm) | 3:29 | 2022-10-22 |  |
 | [Onca Şeyin Ardından](https://open.spotify.com/track/49h58JmgimzHHqH2BhI0Dk) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Onca Şeyin Ardından](https://open.spotify.com/album/6ep8BWfknjFe5SpqsWR5RY) | 4:03 | 2021-03-30 | 2021-04-13 |
+| [Onlarla konusuyorum](https://open.spotify.com/track/6upGqMDMW3mn1qFV5rcvkF) | [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Onlarla konusuyorum](https://open.spotify.com/album/04nTrqYcj0eYVpr6R2CTEC) | 3:31 | 2022-11-12 |  |
 | [OnlyFans](https://open.spotify.com/track/3zyGddnNteFhuj1fKMg4sZ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [OnlyFans](https://open.spotify.com/album/3h57TeSLK4QUzobHYeewag) | 2:25 | 2022-10-01 |  |
 | [Onursuz Olabilir Aşk](https://open.spotify.com/track/0ip8kcOjGy7y3tNUAzC6nP) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Onursuz Olabilir Aşk](https://open.spotify.com/album/6pTan65gXuwuFfzsjo0gsP) | 3:01 | 2021-07-18 | 2021-08-01 |
 | [Or.spu evladiyim](https://open.spotify.com/track/0Hez3aD78FVCD8KFbUFQRc) | [cakal](https://open.spotify.com/artist/2kRZib1bJl6T8HzgrHXclm), [Kahpe Evladı Reckol](https://open.spotify.com/artist/6CK9CeiivSZu1Zfoj9Unyf) | [Or.spu evladiyim](https://open.spotify.com/album/6yKr4nxB5yKVRGNXL1bept) | 2:38 | 2021-05-31 | 2021-06-01 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
-| [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 |  |
+| [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 | 2022-11-13 |
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-09-28 |

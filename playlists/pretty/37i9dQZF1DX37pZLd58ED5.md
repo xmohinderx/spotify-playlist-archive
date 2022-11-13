@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Night Skinny
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,334 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,427 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 34 | [Immortale \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2bF1qPRPlrODKWFMGtQXq1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mr\. Fini](https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX) | 3:20 |
 | 35 | [L'ultima volta \- feat\. Massimo Pericolo](https://open.spotify.com/track/3rOw9WmYFCRLHTRcbOjhUl) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [17](https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7) | 3:30 |
 | 36 | [Mondo Di Fango](https://open.spotify.com/track/3rR90ytwXhFCGXjbDzN7HI) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC9 \- QUELLO CHE VI CONSIGLIO VOL\. 9](https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe) | 1:57 |
-| 37 | [Male](https://open.spotify.com/track/2mb8gG8kOMCJDzBmCNm7El) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Gaming Hip Hop Hits](https://open.spotify.com/album/7fPtjzJR9bfAf7Wv0v9Xp2) | 2:41 |
+| 37 | [Male](https://open.spotify.com/track/1Dl5iWa6lWEZpkQDZNuVnO) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk) | 2:41 |
 | 38 | [Non Fare Così](https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [PLAZA](https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8) | 3:12 |
 | 39 | [BUONANOTTE ❈ \(con NOYZ NARCOS, FRANCO126 & SIDE BABY\)](https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 3:28 |
 | 40 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 48 | [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 |
 | 49 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 |
 | 50 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 |
-| 51 | [Mi manchi](https://open.spotify.com/track/02azuYiDfYtTJ568UwYPQ3) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:06 |
+| 51 | [Mi manchi](https://open.spotify.com/track/7Jgi200kgCNvAuZw2W8Nxq) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:06 |
 | 52 | [SOGNI D'ORO](https://open.spotify.com/track/2tKH7kT40eTSp8SCf6VKeH) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:37 |
 | 53 | [Lei \(feat\. Bené\)](https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:32 |
 | 54 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 |
 | 55 | [molecole \(interlude\)](https://open.spotify.com/track/7vsofh7bdDeL0n0lodFiCi) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:05 |
 
-Snapshot ID: `MTY2NjY5NDM1OSwwMDAwMDAwMGZmYzc5NzlkZTY0Y2M0NDY2NTQ5MjVhZjQ2M2ZhZjE4`
+Snapshot ID: `MTY2NjY5NDM1OSwwMDAwMDAwMDI4ZDc3OTEwNWE3YzE5MmIwZjRkNjg2YWMzZGQ3NjU3`

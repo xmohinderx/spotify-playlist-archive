@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,831 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,839 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 30 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 |
 | 31 | [Waffle City](https://open.spotify.com/track/5q3j5mwaPy1ZwA3PnfG4aV) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Waffle City](https://open.spotify.com/album/5SzrF02E4eectM3r6vYMW8) | 2:11 |
 | 32 | [Goofy Goober Rock](https://open.spotify.com/track/3xZek9XkEaX130o3XN9cvd) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [SpongeBob's Greatest Hits](https://open.spotify.com/album/7n5FErCSkbQ4g2TZXKU6GD) | 2:54 |
-| 33 | [Topsy Turvy Zoo](https://open.spotify.com/track/1fRd5RGpeWZmQ6awshXyTg) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Topsy Turvy Zoo](https://open.spotify.com/album/37oDskezWiGX6KbF2wramB) | 2:20 |
+| 33 | [Topsy Turvy Zoo](https://open.spotify.com/track/5EBbDp29yvVo6dF9OECQbM) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Noise Factory](https://open.spotify.com/album/7JrqM06vRbzoibxelpYD0r) | 2:20 |
 | 34 | [Bananaphone](https://open.spotify.com/track/2Uu4AnnMTJpevC0IrwAuOW) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Bananaphone](https://open.spotify.com/album/1y772v6xDzzRWlaYWcNWHq) | 3:14 |
 | 35 | [Turn Down For What \- From "Alvin And The Chipmunks: The Road Chip" Soundtrack](https://open.spotify.com/track/4IH37Xf6K3mx5t4i4v4pFi) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW) | [Alvin And The Chipmunks: The Road Chip \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OOXHImUhyTRvqY6oh9355) | 3:34 |
 | 36 | [The Best Day Ever](https://open.spotify.com/track/3L3dVggx061Wx5y4d2L0mQ) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [The SpongeBob SquarePants Movie\-Music From The Movie and More](https://open.spotify.com/album/3yaX4L63CKiN2oleC53fy8) | 3:02 |
 | 37 | [Games on My Computer](https://open.spotify.com/track/50BOZZkh9X3CmbaWbHOAlO) | [Regurgitator's Pogogo Show](https://open.spotify.com/artist/264s8SLuCBJBkJRSRRcpDk) | [The Really Really Really Really Boring Album](https://open.spotify.com/album/2yr8p98bJvQlImtgFhJEH4) | 1:45 |
 | 38 | [Run Like The Kitty](https://open.spotify.com/track/0njL7tKenSQRxmBXdGouGs) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 0:56 |
 | 39 | [Bill Nye the Science Guy](https://open.spotify.com/track/2sq0n4doIKKCPXm1is950U) | [Mr Dooves](https://open.spotify.com/artist/1YP1NgBkOUyqsOiIUBqOrr) | [Saturday Morning Acapella: Volume 4](https://open.spotify.com/album/2Oy8FsooeFsfqzPiDT4YY9) | 0:31 |
-| 40 | [Fruit Salad](https://open.spotify.com/track/0n73IMpYOJ4NdGzYn2tjNz) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs and Rarities](https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz) | 2:28 |
+| 40 | [Fruit Salad](https://open.spotify.com/track/05VFDrNnvtKHn9GwCQrsSZ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 2:28 |
 | 41 | [Texas Song](https://open.spotify.com/track/6Gjfv5NljDeGjk8mA2m3Dk) | [Sandy Cheeks with Junior Brown](https://open.spotify.com/artist/5jMZs99nK1zTx8r4zkVtOh) | [Spongebob Squarepants \- Original Theme Highlights](https://open.spotify.com/album/1RNWrGGAolUU7C0EJLMwk5) | 1:58 |
 | 42 | [VeggieTales Theme Song](https://open.spotify.com/track/1zvKLOtOsOgvYJk9yCErRL) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [VeggieTunes](https://open.spotify.com/album/5eYI49hhEFoEsJqpdWnXDx) | 1:26 |
 | 43 | [Toot Toot, Chugga Chugga, Big Red Car](https://open.spotify.com/track/2qlWTYxYdY8thpMvMm8C01) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [The Best of The Wiggles](https://open.spotify.com/album/1uh7RZLKvq5muRFJ5U0Fzf) | 2:24 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 48 | [Do the Robot](https://open.spotify.com/track/4c7XbTDN7eDaXHp9bXTYM3) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 2:48 |
 | 49 | [Gobble Gobble Burp \- Live](https://open.spotify.com/track/2X7EQQB0gafoVKDUMLiTjo) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [Chowtown: Music With A Flair For Flavor](https://open.spotify.com/album/1KL7yu3pAhJBlbTHpybX6U) | 2:41 |
 | 50 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
-| 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/3MSRNKg2OkHvOcnxYBctHD) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [52 Sing\-A\-Long Silly Songs](https://open.spotify.com/album/5Q66shHyQ34bAAtgotKWW8) | 1:57 |
+| 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 |
 
-Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMDI1MjYzNTZiYTk5M2QwNmNmZGFlMDdmZGNiNGZmZjdh`
+Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMGFiM2MwYWVhM2M4MWFmYTczMTg0YzRkM2Y3YTVmNTRh`

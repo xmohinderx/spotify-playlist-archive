@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,364 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,373 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [when i look at you.](https://open.spotify.com/track/3rQnmsnyKJ2ytIv4LxkDmT) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i dreamed i was the night EP](https://open.spotify.com/album/2NGho5cUvQNMxyFEcz0j8r) | 3:52 |
 | 2 | [Twist](https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL) | 3:06 |
 | 3 | [Destined to Pretend](https://open.spotify.com/track/415OXr4z7bEgvdOwOeoPo8) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Year of Love](https://open.spotify.com/album/3osFaWz4eqVvt3yOfXgVSW) | 3:12 |
-| 4 | [People Change](https://open.spotify.com/track/3X8nisFKqIo9JyCgRXyKZL) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [People Change](https://open.spotify.com/album/381HJLxqIIyyXIOM3S3P9f) | 3:32 |
+| 4 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 5 | [Northern Winds \- Live at the Elmwood Hall](https://open.spotify.com/track/6GRPP8gcoTqfbWIGhPLJ0t) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Live at the Elmwood Hall](https://open.spotify.com/album/7cbC5xWYR3RyiBwy6VORlZ) | 5:09 |
-| 6 | [Golden Embers](https://open.spotify.com/track/4Cj5yOIUpFWSbPqICA07Fc) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Golden Embers](https://open.spotify.com/album/4kCQSdMOQaw1FoY96UEFNa) | 4:45 |
+| 6 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 |
 | 7 | [Forest Green](https://open.spotify.com/track/2cdkkKVkY8bqi6VS8r8gxp) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Transcendence](https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ) | 3:39 |
 | 8 | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/track/68DJwUeMyM2ac4Kahfzzy8) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [This Must Be the Place \(Naive Melody\)](https://open.spotify.com/album/5Lmem0h0uYNzJA6qep0sf2) | 3:34 |
 | 9 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPAFOWtSz6P.md) - [plain]
 | 49 | [Vedauwoo](https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Thin](https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn) | 2:39 |
 | 50 | [Lovers Who Make Love \- Live at the Mac](https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Live at the Mac](https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX) | 3:43 |
 
-Snapshot ID: `MTU4OTI1MjMyMywwMDAwMDAwMDEzYzc5OTk2YTAxZTMzYjNiMGUxMmFiY2M2YmE3MmRk`
+Snapshot ID: `MTU4OTI1MjMyMywwMDAwMDAwMGJiNDM2MDNiM2U2YWRhN2M3MjQ0Zjg1MmVkYzNlMjMx`

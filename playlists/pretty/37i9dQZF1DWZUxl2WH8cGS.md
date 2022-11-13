@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 
 > Dance to the tunes from your favorite Netflix family\-friendly series and movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,419 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 | 7 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 |
 | 8 | [ROAR](https://open.spotify.com/track/2i84adxgZGi1ujHaLdKPSG) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Back to the Outback \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5X85NobmlyfXSt649o21Y6) | 3:55 |
 | 9 | [Wear Your Crown](https://open.spotify.com/track/5O1rcWnYuW86ZyBYd0x2Na) | [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2), [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Jo Ellen Pellman](https://open.spotify.com/artist/0K4yOpgMzCzZmi8sxtUIVS), [Kerry Washington](https://open.spotify.com/artist/68oR8JQqk0k9rUZMwPJYhJ), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Wear Your Crown](https://open.spotify.com/album/5xJufVYn9dIernHPW1wO5g) | 3:05 |
-| 10 | [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 |
+| 10 | [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 |
 | 11 | [Action Pack Theme Song \(Music from the Netflix Series\)](https://open.spotify.com/track/0cVykhtY5lkIZh4RlOQVdV) | [The Action Pack Cast](https://open.spotify.com/artist/23QdqFguNBL4XCEIoMDkoq) | [Action Pack Theme Song \(Music from the Netflix Series\)](https://open.spotify.com/album/5024rnCJURx7qI6ZSzEwsi) | 2:01 |
 | 12 | [Grizbot Groove](https://open.spotify.com/track/4qiArbjA2EqcgnfYFMSbof) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [Dance and Sing with True](https://open.spotify.com/album/3rGOpK27aWBo1U9HIa17FW) | 2:21 |
 | 13 | [Banana Rainbow](https://open.spotify.com/track/54rh3VLzdaYRvyE90mlfsg) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Waffles + Mochi's Restaurant: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4tf0dtjbNkr5GFOCNWeJCc) | 1:51 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUxl2WH8cGS.md) - [plain]
 | 39 | [If It's To Be \- From "Maya And The Three" \- A Netflix Animated Event](https://open.spotify.com/track/72DJZtACE61IsndH6jG8S9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [If It's To Be \(From "Maya And The Three" \- A Netflix Animated Event\)](https://open.spotify.com/album/4a1a5nP1l7nE6jRCQLrHfX) | 3:34 |
 | 40 | [You Belong \(from Spirit Untamed\)](https://open.spotify.com/track/2xkqOhP6nPUdYqZpiA9wO9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Spirit Untamed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yvRvgLR5RJe3i8R7Cfve0) | 3:16 |
 
-Snapshot ID: `MTY2NTc1MDk3NCwwMDAwMDAwMDIxN2RhZjk0OWQ3ZDZjNjc0ODEyMjRlMjI3NTcwNWE3`
+Snapshot ID: `MTY2NTc1MDk3NCwwMDAwMDAwMGJlYzAyMmU0ODM4ZmIwM2YwMGY5OTM0MTFjYzBmNmE2`

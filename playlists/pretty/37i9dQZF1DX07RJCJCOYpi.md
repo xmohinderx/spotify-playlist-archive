@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738,540 likes - 77 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,738,557 likes - 77 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 34 | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 |
 | 35 | [Corocito \(Manguelena\)](https://open.spotify.com/track/61GOXPwH81y1I7KIfBXHlB) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Tim Hox](https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Corocito \(Manguelena\)](https://open.spotify.com/album/5chY6FhFyWkTkldLElL9SE) | 2:53 |
 | 36 | [Vazilando](https://open.spotify.com/track/17Ci0qxBOeEQMadwb9qYNt) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Vazilando](https://open.spotify.com/album/6PLvwPVlATZi6iP9qgFAWp) | 2:58 |
-| 37 | [Amor](https://open.spotify.com/track/3CDhPQ2HdarTjCzKCUCzQT) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Tequila](https://open.spotify.com/album/6obdoKvDd4xA7Ukrw0BiXF) | 2:35 |
+| 37 | [Amor](https://open.spotify.com/track/7oZZrKuJdFkqxxf1O27j1V) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/4bgkjiptkmzGU2jDrQjH44) | 2:35 |
 | 38 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 |
 | 39 | [The Club](https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Jon Phlox](https://open.spotify.com/artist/7E556Tw7pnOZl22UklMZYW) | [The Club](https://open.spotify.com/album/6Vic2QsA1mGgnl0oPB5klW) | 2:26 |
 | 40 | [HOT](https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:34 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 62 | [Switch It \- Tom & Collins Remix](https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Switch It \- Tom & Collins Remix](https://open.spotify.com/album/5GVgoMKCACSH24RkPuhlwk) | 3:14 |
 | 63 | [We Outside \- Sak Noel & Salvi Remix](https://open.spotify.com/track/5hbSLOZkTwfSbAglosqKh1) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat) | [We Outside \(Sak Noel & Salvi Remix\)](https://open.spotify.com/album/2AZmSJDDeiQmf0q0EMRyKG) | 2:37 |
 | 64 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 |
-| 65 | [Muy Bien](https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn) | [Malone](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:55 |
+| 65 | [Muy Bien](https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn) | [MALÓNE](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:55 |
 | 66 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 |
 | 67 | [Como Es Posible Que a Mi Lado](https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Como Es Posible Que a Mi Lado](https://open.spotify.com/album/73Q842SM0mDLFtiuryhfRP) | 3:08 |
 | 68 | [Adios \(with Andrez Babii\)](https://open.spotify.com/track/01te0VWuPo9HvyA6A4Rizp) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Adios \(with Andrez Babii\)](https://open.spotify.com/album/6fyxiLqGh9Llo4cjORrBdS) | 3:04 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 76 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 | 77 | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd) | 2:44 |
 
-Snapshot ID: `MTY2ODIyNjQ0NiwwMDAwMDAwMDI0OGVkNDA2YTVmZDllZGU3YjcwMzYzNzQ5NGM2ZDFk`
+Snapshot ID: `MTY2ODIyNjQ0NiwwMDAwMDAwMDVkNmFjZTdkZmI1YzhiMmFiZjk5NDY5YWQxMDc0ZTNl`

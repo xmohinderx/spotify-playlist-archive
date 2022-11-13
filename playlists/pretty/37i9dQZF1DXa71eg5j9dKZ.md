@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,799 likes - 119 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,850 likes - 119 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 5 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 |
 | 6 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
 | 7 | [Sinkhole](https://open.spotify.com/track/7wQDLRHNGvu0ATxjrIy9O9) | [Pearson Sound](https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J) | [Red Sky EP](https://open.spotify.com/album/0iWzQ1vGm5vM8wUn51mcqG) | 4:44 |
-| 8 | [B.O.T.A\. \(Baddest of Them All\)](https://open.spotify.com/track/5Ccu0dFiUGhwWL2ytzwbi8) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Daily Pop Mix](https://open.spotify.com/album/3QhVs1hEwCwOihE8bsjIbO) | 5:58 |
+| 8 | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 5:58 |
 | 9 | [Rose Rouge](https://open.spotify.com/track/6XM6FI6rPJBnhoF6heNHeN) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [Rose Rouge](https://open.spotify.com/album/7DodMymoQ0sFG6baosag8D) | 4:37 |
 | 10 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 |
 | 11 | [Problems](https://open.spotify.com/track/1UERuR9hjz9GM609JIjtGx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Problems](https://open.spotify.com/album/1aA9qnJT9NtySZA16RHkCD) | 4:37 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 92 | [I Feel You \(feat\. Ell Murphy\) \- Edit](https://open.spotify.com/track/1DjivOHek7yr3b7xGVAV7S) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [I Feel You \(feat\. Ell Murphy\) \[Edit\]](https://open.spotify.com/album/3iw2DuZ0SlG8Jh4zzzq1ku) | 3:04 |
 | 93 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 |
 | 94 | [Feels Like](https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Feels Like](https://open.spotify.com/album/4tXty4RLKNyDH0ltilC9jJ) | 3:23 |
-| 95 | [Elder Garden](https://open.spotify.com/track/6UJBTAGVxGhqg2053gzyvI) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU) | 5:29 |
+| 95 | [Elder Garden](https://open.spotify.com/track/3TWcBUoQnSXKw1e4cbws5H) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/3PbfDF0bANDL73NuQL7Wkf) | 5:29 |
 | 96 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 |
 | 97 | [Rise Again](https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Rise Again](https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi) | 3:03 |
 | 98 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 118 | [Aspect](https://open.spotify.com/track/0naxsHkorKM1kWJIy93AYD) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Endless](https://open.spotify.com/album/2nAEVWXWwxRM3vzXVCKiNI) | 5:21 |
 | 119 | [FYA FYA](https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [FYA FYA](https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R) | 3:41 |
 
-Snapshot ID: `MTY2ODEyNTAyNSwwMDAwMDAwMDNmYjliMGRiZjU5MGUxMGVhNGRkMTI3NWZlODUzZWRi`
+Snapshot ID: `MTY2ODEyNTAyNSwwMDAwMDAwMDc4MWM1ZTFlMDg1Mjg0NTg5YzNlMzRjMjgzODM5MTk5`

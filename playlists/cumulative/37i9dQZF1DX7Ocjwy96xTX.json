@@ -1205,6 +1205,24 @@
     {
       "album": {
         "name": "Olympus",
+        "url": "https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E"
+    },
+    {
+      "album": {
+        "name": "Olympus",
         "url": "https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4"
       },
       "artists": [
@@ -1219,24 +1237,6 @@
       "duration_ms": 224000,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk"
-    },
-    {
-      "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/35Hg5KkyQoM4s0tHFq5L1u"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "date_added": "2022-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 224000,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 
 > Seguimos arremangados, pariente\. Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,883 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,022 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 16 | [Cara A La Muerte \(En Vivo\)](https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 4:42 |
 | 17 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 |
 | 18 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 |
-| 19 | [Corrido del Tamarindo \(Feat\. El Komander\)](https://open.spotify.com/track/6t7RQGzGSMGtRxbCH2EpTv) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Movimiento Alterado \- Grandes Exitos](https://open.spotify.com/album/58B6nJm896OlSmn86qrzyv) | 2:22 |
+| 19 | [El Tamarindo](https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:29 |
 | 20 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
 | 21 | [Mi Amigo el de Arriba](https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [La Gritera](https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4) | 2:26 |
 | 22 | [El Enamorado](https://open.spotify.com/track/0CcFhIRRW468bAlAwD9FFs) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 2:34 |
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 45 | [Ajustes Inzunza](https://open.spotify.com/track/4bbgGODjQQbmTuROuclcUH) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:09 |
 | 46 | [Los Dos Compadres](https://open.spotify.com/track/5BUbr72NS2xTmVRSQjOKp8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:06 |
 | 47 | [Borracho Y Escandaloso](https://open.spotify.com/track/429H8FvJH0sHJdD9D8s5ui) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:42 |
-| 48 | [El Mini 6 \[Explicit\]](https://open.spotify.com/track/5pL17O8VxcpmsKrEuCySER) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Los Reyes del Movimiento Alterado \[Explicit\]](https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct) | 3:10 |
+| 48 | [El Mini 6](https://open.spotify.com/track/3jUfQmjqTE3VUcVESl0zXR) | [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [Los Reyes del Movimiento Alterado](https://open.spotify.com/album/643E8uNalA0RcrJWyT0WlU) | 3:10 |
 | 49 | [El 24](https://open.spotify.com/track/5tMLBYW72NwEPEHS1M4FPJ) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [En Vivo](https://open.spotify.com/album/3OQyUgoSKy4anHKQqkswVy) | 2:17 |
 | 50 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 |
 | 51 | [La Manda Incumplida](https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 2:29 |
 | 52 | [Estilo Especial](https://open.spotify.com/track/5gu86M6D80wPPDnnrxCQ79) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 3:21 |
-| 53 | [Gente VIP](https://open.spotify.com/track/7wfZOo4FX9wpXt4DXA7JbV) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [20 Kilates](https://open.spotify.com/album/47S1emlbNiRY4ARoUWTE5C) | 2:54 |
+| 53 | [Gente VIP](https://open.spotify.com/track/3g1GoAq0u4uDzrXFgvMII2) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Larryvolución](https://open.spotify.com/album/0728CjXjQWqe0hcRS9WfPl) | 2:54 |
 | 54 | [El Muletas \(En Vivo\)](https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 2:49 |
 | 55 | [Pedron Antraxx](https://open.spotify.com/track/2uy6QtsEoLpG1qxKfBWj8r) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Corridos \- Corridos Reales No Payasadas](https://open.spotify.com/album/6TRRZdFmspMalRvacjvGV0) | 2:53 |
 | 56 | [Plebada Alterada](https://open.spotify.com/track/3D8KcfsUgGwbNq3c6mzCWY) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 1:40 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 66 | [El Compa 1](https://open.spotify.com/track/5JaLUDg9vhCmlMtvK5KAdg) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Poder y Respeto](https://open.spotify.com/album/2DaRZDIgbjHe746Gx3pYRQ) | 3:01 |
 | 67 | [Alacrana Lavada](https://open.spotify.com/track/4WxVEef5lYtPZLocEDAkMc) | [El Compa Chuy](https://open.spotify.com/artist/513OnOSWOhVTh12V1eEJtt) | [Alacrana Lavada](https://open.spotify.com/album/45XsUfnTe5wTuBAU7KwuUx) | 3:16 |
 | 68 | [Recordando A Michoacan](https://open.spotify.com/track/2VfISIEkDi9nORYxLpB9FF) | [Los Buitres](https://open.spotify.com/artist/6652LtwYxWQCzFBvvBkTF9) | [Movimiento Alterado Vol\. 4](https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt) | 2:32 |
-| 69 | [Demonios Empecherados](https://open.spotify.com/track/7JGr3zbN5voH7dDtO5CzPe) | [Los Buitres](https://open.spotify.com/artist/6652LtwYxWQCzFBvvBkTF9) | [Movimiento Alterado Vol\. 4](https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt) | 2:27 |
+| 69 | [Demonios Empecherados](https://open.spotify.com/track/5dF8rsyF2E8Izms8qpx1mn) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:27 |
 | 70 | [Nomás Por Ser Sinaloense](https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 1:57 |
 | 71 | [Barba Negra](https://open.spotify.com/track/2Ga6t9IYgpfzM9exjeTo8S) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Musica, Polvora y Sangre](https://open.spotify.com/album/1EoN3U7I9CrVgLDUbEHEJV) | 2:34 |
 | 72 | [Casquillos De Mi Cuerno](https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRkwbkfuyXo.md) - [plain]
 | 74 | [J\. Walker](https://open.spotify.com/track/59sVHAfxiIX1uAKXjFksAI) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 2:25 |
 | 75 | [El Diablo Como Enemigo](https://open.spotify.com/track/47Cdv8CEajQn17CtUhYvU5) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Corridos Prohibidos](https://open.spotify.com/album/1X4znZJ1tE300zU5dd060r) | 2:49 |
 
-Snapshot ID: `MTY2Nzg2NjQ3NywwMDAwMDAwMDMwNDdiZDVhMTc0NjcxMTQ0OWU3NjRhYzA3YTYyMTIw`
+Snapshot ID: `MTY2Nzg2NjQ3NywwMDAwMDAwMDA1MDk5NTk5NTZhMTM4MTFiNTE5MDc4MTU0OGU4YmEz`

@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 123580,
+  "num_followers": 123769,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMGFlN2FjOWVlNjViMTA1N2Y4NGJjZGZjYWE5ZTQ3NzE4",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDUyZDdiZDM4MDVlOWEyZjZmZDgwYzM5ZTVhMmIxNGI4",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Happy Together",
         "url": "https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB"
       },
@@ -39,6 +55,22 @@
       "duration_ms": 176293,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -75,6 +107,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -87,6 +135,22 @@
       "duration_ms": 203680,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -267,6 +331,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 160864,
+      "name": "Will You Love Me Tomorrow",
+      "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "First Take",
         "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
@@ -299,6 +379,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/28FEznublcKslK88ehRrfy"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "You've Lost That Lovin' Feelin' - Single Version",
+      "url": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "It Might As Well Be Swing",
         "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
       },
@@ -315,6 +411,22 @@
       "duration_ms": 149640,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -371,38 +483,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -419,6 +499,38 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Horizontal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Mr. Soul",
         "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
       },
@@ -431,6 +543,26 @@
       "duration_ms": 158680,
       "name": "Nothing Can Change This Love",
       "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -579,6 +711,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Sentimentally Yours",
         "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
@@ -595,6 +743,22 @@
       "duration_ms": 183866,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "My Cherie",
+        "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
+      },
+      "artists": [
+        {
+          "name": "Al Martino",
+          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Spanish Eyes",
+      "url": "https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -699,6 +863,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Up on the Roof: The Best of the Drifters",
+        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/7pOWWGpUc3T05IXfymgIP3"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "The Sound Of Love: The Very Best Of Darlene Love",
         "url": "https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU"
       },
@@ -715,18 +895,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Up on the Roof: The Best of the Drifters",
-        "url": "https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3"
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 146813,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/7pOWWGpUc3T05IXfymgIP3"
+      "duration_ms": 187333,
+      "name": "I'm Gonna Make You Love Me",
+      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -779,26 +963,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "I'm Gonna Make You Love Me",
-      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "I Love How You Love Me",
         "url": "https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z"
       },
@@ -811,6 +975,38 @@
       "duration_ms": 150066,
       "name": "I Love How You Love Me",
       "url": "https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "#1 Radio Hits of the 60's",
+        "url": "https://open.spotify.com/album/4o3sNKvKE9yfyhMVm6oSg3"
+      },
+      "artists": [
+        {
+          "name": "Paul & Paula",
+          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
+        }
+      ],
+      "duration_ms": 151066,
+      "name": "Hey Paula - Single Version",
+      "url": "https://open.spotify.com/track/6MpCxTJNdkHIpvQRuID8zU"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -843,6 +1039,22 @@
       "duration_ms": 146066,
       "name": "('Til) I Kissed You",
       "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -895,22 +1107,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Love Songs & Chill",
-        "url": "https://open.spotify.com/album/7oHVRFtPa3Tf6h8AAqczOK"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "My Girl - Single Version/Mono",
-      "url": "https://open.spotify.com/track/7sMjzdbSUuhcJIFdR3D8pS"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/4SFKj31HM4ZHONVy5TZoGR"
       },
@@ -943,22 +1139,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Crooners Hits",
-        "url": "https://open.spotify.com/album/5yh0ofdTBCKlDmV9xxQ1xn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/2l9ae2xs5ZFSNPWRi0w2jy"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Marvelettes",
         "url": "https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV"
       },
@@ -971,22 +1151,6 @@
       "duration_ms": 159533,
       "name": "When You're Young And In Love",
       "url": "https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Love Songs From The 60's",
-        "url": "https://open.spotify.com/album/7k5rHilcFOYXOyji6NzPfJ"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/3f8V9qPxrPZozXlwnRdsFb"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1007,38 +1171,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "60's Gold",
-        "url": "https://open.spotify.com/album/2vy7nyuCnUj8vGNW3mrwMl"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 223693,
-      "name": "You've Lost That Lovin' Feelin' - Single Version",
-      "url": "https://open.spotify.com/track/6utJoAVVcJJ7kE9dqMOrGd"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/6vA0IJrsAV9WoM4OZhk6X7"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/0tCxODz1nTZFtkxyDskr3Y"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Morning Relaxing",
         "url": "https://open.spotify.com/album/3u725fz8XBZIa2tzBf9zaM"
       },
@@ -1055,74 +1187,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2c4N1VcBEJgprPNZfF2gdq"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161986,
-      "name": "Will You Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/7CWnTElAZwXH0AZZreCfep"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Jazz Chill",
-        "url": "https://open.spotify.com/album/1IhkNY1G6c9xSgaFd4kwtt"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/6PnHtk8Ab1cVLimJmKRAJe"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "60s Chill Tunes",
-        "url": "https://open.spotify.com/album/4QTAS5uOIIlbbQeF0yZwZ7"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/5jIv3NQyYz6n7RHYVcT9NI"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "The Ultimate Sixties Collection",
-        "url": "https://open.spotify.com/album/2CqYJbZzK4gOM33MtBoI6D"
-      },
-      "artists": [
-        {
-          "name": "Paul & Paula",
-          "url": "https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98"
-        }
-      ],
-      "duration_ms": 146986,
-      "name": "Hey Paula (Re-Recording)",
-      "url": "https://open.spotify.com/track/7HwPyAmN3aLyr7TuSPfxJv"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Soul Prime",
         "url": "https://open.spotify.com/album/4pkOm3Ggm9gR4pzgirEiuC"
       },
@@ -1135,70 +1199,6 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/0HrbQLBYDUumqjGGU6ANKE"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "60's Rock 'N' Roll - It's My Party",
-        "url": "https://open.spotify.com/album/5NMfT7IQx9SuKlDd9p0lon"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 143226,
-      "name": "Poetry In Motion - Re-Recording",
-      "url": "https://open.spotify.com/track/7hMMrEyd2phHPL90QtSFdv"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/2EiWgjwCCiQmJGOMrr5wuj"
-      },
-      "artists": [
-        {
-          "name": "Al Martino",
-          "url": "https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6"
-        }
-      ],
-      "duration_ms": 166986,
-      "name": "Spanish Eyes",
-      "url": "https://open.spotify.com/track/2jDkf6H4boudrbMqTifY9H"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Happy Songs For Kids",
-        "url": "https://open.spotify.com/album/05qHJq7EHOMFnoW5zvHjnh"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/53nelcI9xeloc4gmeBLEQd"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "The Best Late Night Moods Album In The World...Ever!",
-        "url": "https://open.spotify.com/album/6ORKES3IhxGdc1439WQF08"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/5Z6EIincJ2Ez5Mzf4LkPEC"
     }
   ],
   "unique_name": "60s Love Songs",

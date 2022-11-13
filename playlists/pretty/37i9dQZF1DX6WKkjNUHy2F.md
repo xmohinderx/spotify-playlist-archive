@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,533 likes - 26 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,535 likes - 26 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 | 7 | [Ghost Town](https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [The Original High \(Deluxe Version\)](https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6) | 3:28 |
 | 8 | [Let's Have A Kiki](https://open.spotify.com/track/154Ada4WZXskIMnsKiy26u) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour \(Deluxe\)](https://open.spotify.com/album/2P12s0AcooZGvM6mfgeuw3) | 3:50 |
 | 9 | [Welcome to the Show \(feat\. Laleh\)](https://open.spotify.com/track/0EXNZugHTbZ14UB2kALhy9) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7), [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Welcome To The Show \(feat\. Laleh\)](https://open.spotify.com/album/5fHKoTEYBvzE29SDiRcyEE) | 3:21 |
-| 10 | [La La La](https://open.spotify.com/track/1RjpMjVNCHWoltfYSBHEKg) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana](https://open.spotify.com/album/53iwAByO7wE7EqnpFPpIB3) | 3:42 |
+| 10 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 |
 | 11 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 |
 | 12 | [Whataya Want from Me](https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0) | 3:47 |
 | 13 | [Collect My Love \(feat\. Alex Newell\)](https://open.spotify.com/track/0vKHq50iizaMQivSaItLf3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 3:15 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 | 25 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 26 | [Adam Lambert Quoting Dr\. Seuss](https://open.spotify.com/track/5lDq9taZLBt193gxJSoBIr) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Adam Lambert \- Spotify Pride](https://open.spotify.com/album/2e0gDFnkpouqkRAovJ1hKD) | 0:20 |
 
-Snapshot ID: `MTQ5NjQxMDgzMiwwMDAwMDAwMDhhODJmMDc3ZDVkZDY0NTY3OTc0MDIwODMzNzFjMzg5`
+Snapshot ID: `MTQ5NjQxMDgzMiwwMDAwMDAwMDllMTZkZGYwOWM3MTZhMzJjYTY1NjY3OTEzZGM1OTZk`

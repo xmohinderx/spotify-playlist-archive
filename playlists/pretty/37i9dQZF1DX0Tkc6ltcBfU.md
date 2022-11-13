@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Quavo & Takeoff
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,954 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,289 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
 | 2 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
-| 3 | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/track/0tLfChoWmx3RK1hoBuImpC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne), [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg) | 3:35 |
+| 3 | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/track/0tLfChoWmx3RK1hoBuImpC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Mac Critter](https://open.spotify.com/artist/7JmGgf8Bb6u8Di8AO1sCne), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Shit Crazy Remix \(feat\. BIG30, Sett, Mac Critter\)](https://open.spotify.com/album/6QqTgZD1V2VOM7UVPYwyqg) | 3:35 |
 | 4 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 |
 | 5 | [Unh Unh](https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:49 |
 | 6 | [I’m So Awesome](https://open.spotify.com/track/5tzEcVk8jFSBhTrO0ZYJdZ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I’m So Awesome](https://open.spotify.com/album/4D0WwN3ZWPdVqGLYRQw7pd) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,270 likes - 76 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,316 likes - 76 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 23 | [Close to Paradise](https://open.spotify.com/track/3lSLbnoup5xitzu8jww9KH) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Close to Paradise](https://open.spotify.com/album/0aJtMcHISOt5TOpCB9SBrW) | 7:07 |
 | 24 | [Take Me Back To Piauí](https://open.spotify.com/track/26uzS4AhDPEYbGwcWFWB2O) | [Juca Chaves](https://open.spotify.com/artist/6sm4fipYpmeCJLmAWc820F) | [Muito Vivo](https://open.spotify.com/album/6dfj97K2ywJ2HKAL8P3niw) | 3:16 |
 | 25 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
-| 26 | [A Forest](https://open.spotify.com/track/5kw9KkeBlF6XK2ngmu88Q8) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [New Wave Pop Hits](https://open.spotify.com/album/1H4O4RMVEbsIEd68QoguDR) | 5:54 |
+| 26 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 27 | [Wild Wild Life](https://open.spotify.com/track/07SZJMPaTsiFbGvBeeib3O) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC), [Jerry Harrison](https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy) | [Popular Favorites 1976 \- 1992 / Sand in the Vaseline](https://open.spotify.com/album/4ksJGDgtixAqJ390XWv0Ua) | 3:39 |
 | 28 | [Arpman](https://open.spotify.com/track/3NwAVdV3DmRcbvbZzc6ElB) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Red Axes](https://open.spotify.com/album/2XWxTnbxhF3BrU3YtfSgzo) | 5:02 |
 | 29 | [Dish](https://open.spotify.com/track/6jggSukBUaT5qS2AI9OhD3) | [Apiento](https://open.spotify.com/artist/0PNaqg1sztGjfjZcCpMSjm), [LX](https://open.spotify.com/artist/58yvqNWlojnwGYutd6bPJg) | [Dish](https://open.spotify.com/album/4hYcubEJ9RX35YT8bvpwZD) | 7:56 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 75 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 |
 | 76 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 |
 
-Snapshot ID: `MTY2NDIyMzYxMywwMDAwMDAwMDNmNzI5MTdjZDEwMjEyOGI3MWFjYjNlMzgyZmNkYzI5`
+Snapshot ID: `MTY2NDIyMzYxMywwMDAwMDAwMGFmYjllZDg2YmJiMDQzNzhjZGI4OWE5MGRjZTMwOGM4`

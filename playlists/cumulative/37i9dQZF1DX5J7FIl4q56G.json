@@ -12118,6 +12118,24 @@
     },
     {
       "album": {
+        "name": "Call of the Wild (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6JhuNA7potIMg6r29IVULP"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248960,
+      "name": "Faster Than the Flame",
+      "url": "https://open.spotify.com/track/6GmC728IZoBU37lU1LW02M"
+    },
+    {
+      "album": {
         "name": "Missa Cantorem II",
         "url": "https://open.spotify.com/album/1VVRLSJkxN94viXp3LY7ck"
       },
@@ -12133,7 +12151,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-13",
       "duration_ms": 248960,
       "name": "Faster Than the Flame (feat. Tribune)",
       "url": "https://open.spotify.com/track/6HOmPvM5DhVqSXHXmjs5BL"
@@ -19627,6 +19645,24 @@
       "duration_ms": 258894,
       "name": "Left Hand Path Symphony",
       "url": "https://open.spotify.com/track/7HJN0FdHBKkk8mHaBhUXAQ"
+    },
+    {
+      "album": {
+        "name": "Left In The Dark",
+        "url": "https://open.spotify.com/album/5YRCKKv0nOTgc7hG0ZwC5J"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200275,
+      "name": "Left In The Dark",
+      "url": "https://open.spotify.com/track/5DRgqeHoGaW6NsAgPUmeex"
     },
     {
       "album": {
@@ -38259,24 +38295,6 @@
       "duration_ms": 322804,
       "name": "Wind of Change",
       "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
-    },
-    {
-      "album": {
-        "name": "Left In The Dark",
-        "url": "https://open.spotify.com/album/5YRCKKv0nOTgc7hG0ZwC5J"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "date_added": "2022-11-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200275,
-      "name": "Windwaker",
-      "url": "https://open.spotify.com/track/5DRgqeHoGaW6NsAgPUmeex"
     },
     {
       "album": {

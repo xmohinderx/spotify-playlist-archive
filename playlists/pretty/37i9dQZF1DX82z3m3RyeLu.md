@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 
 > Listen BAEKHYUN's all solo tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,185 likes - 38 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,207 likes - 38 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 | 19 | [happy](https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR) | 3:52 |
 | 20 | [Every second](https://open.spotify.com/track/1k555u88NiaBJH6AWlf5rA) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1) | 3:32 |
 | 21 | [너에게 가는 이 길 위에서 \(너.이.길\)](https://open.spotify.com/track/6NyEYh3xw55B8d5WK5kSrf) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5PUCfHi8hSo2wrH2W79Kbs) | 3:58 |
-| 22 | [너를 사랑하고 있어](https://open.spotify.com/track/2w6rMzo6ECQi8ubNeO9UQS) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 3:13 |
+| 22 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
 | 23 | [Stay Up](https://open.spotify.com/track/1w6QVxfBpW9hImuZXNHcmL) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [City Lights \- The 1st Mini Album](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) | 3:27 |
 | 24 | [Betcha](https://open.spotify.com/track/1YhC9zXqhm1zsFpcf7vTPN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [City Lights \- The 1st Mini Album](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) | 3:21 |
 | 25 | [Ice Queen](https://open.spotify.com/track/6z4suYXf384HJU1bK8PhOZ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [City Lights \- The 1st Mini Album](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) | 3:35 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82z3m3RyeLu.md) - [plain]
 | 32 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 |
 | 33 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 |
 | 34 | [Every second](https://open.spotify.com/track/50eMP4iy5qLxcK7mHalDZw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\)](https://open.spotify.com/album/7MmdJZrkNew5jymkmAOTq4) | 3:32 |
-| 35 | [너를 사랑하고 있어](https://open.spotify.com/track/2w6rMzo6ECQi8ubNeO9UQS) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv) | 3:13 |
+| 35 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 |
 | 36 | [happy](https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR) | 3:52 |
 | 37 | [비처럼 음악처럼](https://open.spotify.com/track/28XlJkvSn8Dq99UkThmoeQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [2015 가요대전 Limited Edition](https://open.spotify.com/album/5QxeSMFLJ70kPLHzRiL2Nx) | 3:01 |
 | 38 | [On the road](https://open.spotify.com/track/0i5rdCbqhk6Iao4bwI4B9J) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [HYENA \(Original Television Soundtrack\)](https://open.spotify.com/album/1ps9C9hsH6eT2W46d9r68D) | 3:58 |
 
-Snapshot ID: `MTYxNzA5NDg2MCwwMDAwMDAwMDk3ZTAxZTA0N2FjNzM2MTc3M2YxOWJiYjdjOTk5MjFi`
+Snapshot ID: `MTYxNzA5NDg2MCwwMDAwMDAwMDZkZjkzZWE4ZmU0MWNmNWQ5NzhkODBlNDZjMDQ2ZTEx`

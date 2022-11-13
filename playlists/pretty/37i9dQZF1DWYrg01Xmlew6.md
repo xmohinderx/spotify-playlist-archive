@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Geolier, Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,896 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,986 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 36 | [TU TE NE VAI](https://open.spotify.com/track/2JMQnaRl0Vr4XFbVYGmKZ5) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [TU TE NE VAI](https://open.spotify.com/album/6o0sKqOu3vA5p5wmmMmlYn) | 2:32 |
 | 37 | [Jump \(feat\. Lazza\)](https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [AMBIZIONE](https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV) | 2:43 |
 | 38 | [NUNNEOVER](https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 3:27 |
-| 39 | [Te penso ancora](https://open.spotify.com/track/3ULxZjqSg06WTPjhurRA1G) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x) | 2:28 |
+| 39 | [Te penso ancora](https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Rivoluzione](https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal) | 2:28 |
 | 40 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 |
 | 41 | [CHI S MOV](https://open.spotify.com/track/74NGmB3Wos02vi3JuuH3am) | [Hosawa](https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H) | [CHI S MOV](https://open.spotify.com/album/5bfoRPpcH9ageXHInpChQr) | 2:24 |
 | 42 | [Hablan De Mi \- Italian Remix](https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Hablan De Mi \(Italian Remix\)](https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Pelle D'Oca \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:24 |
 | 50 | [Doje Vote](https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Doje Vote](https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW) | 2:51 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDBhMjM5OTgyYjY1MjVmYjllOGM2YzA3N2ZmYTFlZTk1`
+Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDIwNWExZjBiZGRlY2U4MTA0YzgwMWIyNjBmYmI5ZDYz`

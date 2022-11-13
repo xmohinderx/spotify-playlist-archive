@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 42530,
+  "num_followers": 42574,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDQzYjAzMjQ5MzNlZjFmZTE2YTIzOTdjODE0NzhlNDE5",
+  "snapshot_id": "MTY2NTcyNzE3OCwwMDAwMDAwMDAxMTE1OGU4YzEzYzQ4MzA3OGZjNTU2MWVlYWNhNzcw",
   "tracks": [
     {
       "added_at": "2022-10-14 05:59:38",
@@ -99,22 +99,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Trio R3 Kids",
-        "url": "https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf"
-      },
-      "artists": [
-        {
-          "name": "Trio R3",
-          "url": "https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE"
-        }
-      ],
-      "duration_ms": 202743,
-      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o / Celebrai / Solta o Cabo da Nau",
-      "url": "https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Eu Nasci",
         "url": "https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 214089,
       "name": "Eu Nasci",
       "url": "https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Trio R3 Kids",
+        "url": "https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf"
+      },
+      "artists": [
+        {
+          "name": "Trio R3",
+          "url": "https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE"
+        }
+      ],
+      "duration_ms": 202743,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o / Celebrai / Solta o Cabo da Nau",
+      "url": "https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Oceanos",
+        "url": "https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Oceanos",
+      "url": "https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Tudo Vai Terminar Bem",
         "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
       },
@@ -499,26 +515,6 @@
       "duration_ms": 225735,
       "name": "Tudo Vai Terminar Bem",
       "url": "https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Verdadeiro Amor",
-        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        },
-        {
-          "name": "Ol\u00edvia Teles",
-          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
-        }
-      ],
-      "duration_ms": 211312,
-      "name": "Verdadeiro Amor",
-      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -559,6 +555,26 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        },
+        {
+          "name": "Ol\u00edvia Teles",
+          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
+        }
+      ],
+      "duration_ms": 211312,
+      "name": "Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Deus Grand\u00e3o",
         "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Oceanos",
-        "url": "https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j"
-      },
-      "artists": [
-        {
-          "name": "Rayne Almeida",
-          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "Oceanos",
-      "url": "https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Jesus Me Ama Tanto",
         "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 236683,
       "name": "Jesus Me Ama Tanto",
       "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
+        "name": "Eu Canto pra Jesus",
+        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "duration_ms": 181458,
+      "name": "Eu Canto pra Jesus",
+      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
     },
     {
       "added_at": "2022-10-14 05:59:38",
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
-        "name": "Com Jesus",
-        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
-      },
-      "artists": [
-        {
-          "name": "Bunek\u00e3o de Jesus",
-          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
-        }
-      ],
-      "duration_ms": 178301,
-      "name": "Com Jesus",
-      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
         "name": "Comigo Sonhou",
         "url": "https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-10-14 05:59:38",
       "album": {
+        "name": "Com Jesus",
+        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        }
+      ],
+      "duration_ms": 178301,
+      "name": "Com Jesus",
+      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
+    },
+    {
+      "added_at": "2022-10-14 05:59:38",
+      "album": {
         "name": "Meu Amig\u00e3o do Peito",
         "url": "https://open.spotify.com/album/1CUbAbluxubTfpGKXg5BgA"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 232960,
       "name": "Meu Amig\u00e3o do Peito",
       "url": "https://open.spotify.com/track/7kpsitoqNZGXXvxUtFg4Qj"
-    },
-    {
-      "added_at": "2022-10-14 05:59:38",
-      "album": {
-        "name": "Eu Canto pra Jesus",
-        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
-      },
-      "artists": [
-        {
-          "name": "Rayne Almeida",
-          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
-        }
-      ],
-      "duration_ms": 181458,
-      "name": "Eu Canto pra Jesus",
-      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
     },
     {
       "added_at": "2022-10-14 05:59:38",

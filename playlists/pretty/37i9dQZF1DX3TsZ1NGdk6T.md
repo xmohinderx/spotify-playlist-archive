@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TsZ1NGdk6T.md) - [plain]
 
 > Good people, message and great music from the U.K\. to the world! Cover: Jonathan Ogden of Rivers & Robots
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,600 likes - 40 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,602 likes - 40 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TsZ1NGdk6T.md) - [plain]
 | 19 | [Lead Me](https://open.spotify.com/track/0niYGcuCezTyP0Gr5Twty0) | [Pyramid Park](https://open.spotify.com/artist/5sAyG51DjOUJqrh3oLZdhe) | [Vulnerability](https://open.spotify.com/album/5f3wdulmMPN4gJGjxFwRuK) | 3:15 |
 | 20 | [Mining](https://open.spotify.com/track/6LGjqbvrIdHIgUveY9i1X3) | [Hannah Barnett](https://open.spotify.com/artist/0RpwkQyleub2LrLGnXh9Tp) | [Mining](https://open.spotify.com/album/2AcNgjh2V4Oy6sas2KGgpM) | 3:19 |
 | 21 | [Take Over](https://open.spotify.com/track/7sqZS6xVoyO5t4GSnh7vJq) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Shopé](https://open.spotify.com/artist/539ZsoCQY3Y24f38ZuIBgp), [Jake James](https://open.spotify.com/artist/1fKfgvirL6NIQckM7HJ8HP) | [Take Over](https://open.spotify.com/album/1pENsyfO1lUBao7wqReG9V) | 4:04 |
-| 22 | [When You Come](https://open.spotify.com/track/0bVG0Obxu75OsazUa8XByu) | [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [Discover Vineyard Worship: Kyrie Eleison](https://open.spotify.com/album/1KD2MlGX5kinV6LaIsvJwe) | 5:09 |
+| 22 | [When You Come](https://open.spotify.com/track/5lCcaj4dWLTGqEEkT5peyt) | [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [The Difference](https://open.spotify.com/album/44LjyuIfhsMZ5kpOqgvE5R) | 5:09 |
 | 23 | [Dreams](https://open.spotify.com/track/1LbPuFrhTY3mwrIvOGGWRn) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Dreams](https://open.spotify.com/album/6d9lh8EoMSl1jmucqyoerC) | 4:48 |
 | 24 | [Through It All](https://open.spotify.com/track/5tAka5imviCbmtCbg5HPBV) | [King's Village](https://open.spotify.com/artist/5u6qWLDqTeq7QL44pRFIIW) | [Morning Has Broken](https://open.spotify.com/album/2GHtPvnGsgu2rov7zFcwUO) | 4:59 |
 | 25 | [Old Shoes](https://open.spotify.com/track/1Biv9RTNQpZGArBErSdTNH) | [Lydia Evangeline](https://open.spotify.com/artist/0QMNhrj5d6CkY4JJVL0eqU) | [Old Shoes](https://open.spotify.com/album/5azAxJkFQsKLSyl8AItfpt) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TsZ1NGdk6T.md) - [plain]
 | 39 | [In Your Midst](https://open.spotify.com/track/4FCFvZbHADzbz0XZdsDsGN) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Miles & Years](https://open.spotify.com/album/7jtuyEUzLytmklXL5KRoYh) | 5:32 |
 | 40 | [The Hero](https://open.spotify.com/track/3gWNpobkxDr1wxhxLqRq8y) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [The Hero](https://open.spotify.com/album/6AhJNVQDkfw7sf8aVMnBqV) | 3:14 |
 
-Snapshot ID: `MTUzNjkyNDQzNCwwMDAwMDAwMGI1MDgwNDI5MjlhN2M4ZGQ3YjJkYjhjMzc2ZGJmMDlj`
+Snapshot ID: `MTUzNjkyNDQzNCwwMDAwMDAwMGJhMGM1MGRmN2NhOWNkZGEwZWZlYmFkYzNmNTUyZDFj`

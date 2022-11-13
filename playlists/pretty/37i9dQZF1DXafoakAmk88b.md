@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week\. Cover Toro y Moi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,926 likes - 72 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,965 likes - 72 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 12 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 |
 | 13 | [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 |
 | 14 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
-| 15 | [Chasing Ghosts](https://open.spotify.com/track/3ZHYcClXs86zM8475d2s3V) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Chasing Ghosts](https://open.spotify.com/album/32by8hxBsVTaYAaUBBzuW9) | 2:59 |
+| 15 | [Chasing Ghosts](https://open.spotify.com/track/6fB74plQyGv3vsevsbxKPo) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:59 |
 | 16 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 |
 | 17 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 |
 | 18 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 67 | [Invisible Fence](https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:35 |
 | 68 | [Perfect Wife](https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Tell Me What You Miss The Most](https://open.spotify.com/album/5yvl9lqTd0QhlWRLGbPR95) | 3:38 |
 | 69 | [Abyss](https://open.spotify.com/track/07BCkoZW66cM9nQhOsKPSr) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Abyss](https://open.spotify.com/album/4WC7YAk1hPsSL4hEeNz18l) | 2:26 |
-| 70 | [lived to love](https://open.spotify.com/track/7BhpFgkDyiVI4pjOlaWvTc) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/3fyIONHp0otEcFDXaqhQZ8) | 4:15 |
+| 70 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 |
 | 71 | [Someone to Chill With](https://open.spotify.com/track/3sAcsAVnlvrJK4R2PWliot) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:19 |
 | 72 | [I'm Just A Fan](https://open.spotify.com/track/53yFY7gXPnSk05ME87QL5D) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [I'm Just A Fan](https://open.spotify.com/album/4TTB112bXXIMtLVgiHjDA0) | 3:03 |
 
-Snapshot ID: `MTY2ODE4NzMzNywwMDAwMDAwMDk0ZjczMWUwYjA5NjM5NjQxZDM3ZmE2YzA4OGQ4NTli`
+Snapshot ID: `MTY2ODE4NzMzNywwMDAwMDAwMGZhNmE4MTMxODBkNmJjMWZmY2Y2YmZhYjgxOTVkZjQ2`

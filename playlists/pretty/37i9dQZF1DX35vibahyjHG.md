@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=zd9KdswjToOZz0yATQGsJQ"> Nikita Kering' </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,200 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,238 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 40 | [Sundays Are For Lovers](https://open.spotify.com/track/3EgaEehSd9raC0RAUbwtQh) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Amagama \(Deluxe\)](https://open.spotify.com/album/0DP3kKlV04ZUmNbFoxDnjs) | 4:43 |
 | 41 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 |
 | 42 | [Omdat Ek Wil](https://open.spotify.com/track/2TWndTxyjLy5pvbMTJdIcE) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Omdat Ek Wil](https://open.spotify.com/album/4Wp8xJhzrziBGnWukuiqbt) | 3:08 |
-| 43 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/1LkDZD8d6hWu3mMsMhTX1g) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [No Confusion \(feat\. Kojey Radical\)](https://open.spotify.com/album/1JIZ8ahbpr5CFTFRir5GPR) | 3:23 |
+| 43 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 |
 | 44 | [Somali Rose](https://open.spotify.com/track/51ZoO8zHtauv6VJvszPdM0) | [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Somali Rose](https://open.spotify.com/album/5oveeChuYpFJLYUCpHK4Lu) | 4:19 |
 | 45 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 |
 | 46 | [Thai Food](https://open.spotify.com/track/54j7Q5sw9AJurAYxwt8NOY) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Thai Food](https://open.spotify.com/album/4y56ZGOS7wWUyM6c7hotVQ) | 2:30 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 51 | [Suga Candy](https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Spring to Summer](https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo) | 4:14 |
 | 52 | [Balance](https://open.spotify.com/track/2GWkmTjlEtBN6n6POjqLWP) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:10 |
 | 53 | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/track/3DYKpGOFY06AONuqytJlya) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/album/4Igrf5yLQM2d8fFSfgZZtt) | 3:25 |
-| 54 | [SAD GIRLZ LUV MONEY \- Remix](https://open.spotify.com/track/5ObrB4W0wtVZGV4UkmyJWP) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Viral Hits Vol.1](https://open.spotify.com/album/4kpwhwvWEyjJ6jL6rdOlNT) | 3:24 |
+| 54 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
 | 55 | [Kumasi](https://open.spotify.com/track/6j9hWek1pQDQ0DxTSDs7fQ) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Kumasi](https://open.spotify.com/album/6vi9k1NXiIn6KH9gje4NJ9) | 2:51 |
 | 56 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 |
 | 57 | [Sáré](https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Sáré](https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az) | 2:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 79 | [Kuhle](https://open.spotify.com/track/3zREQOl1i8W37OkMN9ztpN) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Kuhle](https://open.spotify.com/album/6ln73dm4ppPQn2REwrAYRD) | 3:27 |
 | 80 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 |
 
-Snapshot ID: `MTY2ODE0NDkxNiwwMDAwMDAwMDQxMDFjYTc3M2ZhZjI5NzA5MjVmNWU1NWJkZDNhZTU1`
+Snapshot ID: `MTY2ODE0NDkxNiwwMDAwMDAwMDkwOGU1N2FlZGJmM2U3M2Q5M2FlODcxYWU4ODQ4Yzk1`

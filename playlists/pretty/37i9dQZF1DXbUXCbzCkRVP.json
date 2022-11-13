@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 21320,
+  "num_followers": 21373,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMDM0MWY4NzQ3NDNlZjkyZGUxY2U4OWM5ZWQ2ZWRmNGM3",
+  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMDgzMWM4OGQxNTU5YjkxMWUxOTgxODYyOTFmNmU0MzI4",
   "tracks": [
     {
       "added_at": "2022-10-14 15:55:27",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
+        "name": "Big Band Bounce & Boogie",
+        "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Millinder",
+          "url": "https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Apollo Jump",
+      "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
         "name": "Blues On The Bayou",
         "url": "https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r"
       },
@@ -419,30 +435,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        },
-        {
-          "name": "Steve Stills",
-          "url": "https://open.spotify.com/artist/0dfXKGyyW8BPJ4QBS95tMY"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI"
       },
@@ -471,6 +463,30 @@
       "duration_ms": 132333,
       "name": "Wham!",
       "url": "https://open.spotify.com/track/302CaFeYCMGRad4UvnRF8J"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        },
+        {
+          "name": "Steve Stills",
+          "url": "https://open.spotify.com/artist/0dfXKGyyW8BPJ4QBS95tMY"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -523,6 +539,22 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
+      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -539,22 +571,6 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
-      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -591,22 +607,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 157506,
       "name": "Phillips Goes Bananas",
       "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -687,26 +703,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "In Session (Remaster w/ eBooklet)",
-        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 500586,
-      "name": "Overall Junction",
-      "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Blues On The South Side",
         "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
       },
@@ -739,6 +735,26 @@
       "duration_ms": 463400,
       "name": "Blues For Duke Robillard",
       "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "In Session (Remaster w/ eBooklet)",
+        "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 500586,
+      "name": "Overall Junction",
+      "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -843,22 +859,6 @@
       "duration_ms": 179440,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
     }
   ],
   "unique_name": "Instrumental Blues",

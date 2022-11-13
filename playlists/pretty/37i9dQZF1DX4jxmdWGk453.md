@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,468 likes - 47 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,639 likes - 47 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 31 | [Jesus Christ the Apple Tree](https://open.spotify.com/track/5HHtgGH5XwCfhjDo7I9EAo) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [A Traditional Christmas Carol Collection, Vol\. II](https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y) | 3:17 |
 | 32 | [A Spotless Rose](https://open.spotify.com/track/3ePwHfQZXaHPPrChaYATZt) | [Herbert Howells](https://open.spotify.com/artist/0Artcj84fSLUN93JectewP), [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas Presence](https://open.spotify.com/album/1xGSHVD5al3Jh6KnCY3D4b) | 3:00 |
 | 33 | [Holst: 3 Hymns for the English Hymnal: No\. 1, In the Bleak Mid\-Winter](https://open.spotify.com/track/73qlV0uB22V8FaBRJch9yj) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 4:50 |
-| 34 | [Coventry Carol](https://open.spotify.com/track/0IZIgJMMduneum2Ny0M9b9) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Angels Sing: Most Beloved Holiday Classics for Christmas](https://open.spotify.com/album/4x1Qw2GhUcRQ0vRhYKRK7M) | 2:40 |
+| 34 | [Coventry Carol](https://open.spotify.com/track/741ExP6U2ZGf3S8IcVdzC5) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas](https://open.spotify.com/album/5hwP4Qqarcr9uFJYU5s2Ec) | 2:44 |
 | 35 | [Gaudete! \(Rejoice!\) \- Arr\. Brian Kay](https://open.spotify.com/track/6SsNhymnlwsdS5MQRhiZal) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [Christmas Carols with The King's Singers](https://open.spotify.com/album/4a7m1G7BReF2HwxKIPD0Xk) | 1:39 |
 | 36 | [Angels We Have Heard On High](https://open.spotify.com/track/6ZJkb880rS8K7vV7fF6G8K) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 1:27 |
 | 37 | [Amazing Grace](https://open.spotify.com/track/1L1GHbYBHbKLOVAzBhGMTX) | [Ensemble Magnolia](https://open.spotify.com/artist/0ZdxZ04WHp2xnjhGdvDPrQ) | [Amazing Grace](https://open.spotify.com/album/6bSmzuJBqGCfBrq6nxFfTB) | 2:35 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jxmdWGk453.md) - [plain]
 | 46 | [O Tannenbaum](https://open.spotify.com/track/1cU1C2UyM7Os13XKI8SQPz) | [The Barbershop Singers](https://open.spotify.com/artist/2ihbqMC5FLIURCSTBvsQed) | [A Barbershop Christmas](https://open.spotify.com/album/0sra8b07OvY3gfezNtToSf) | 0:59 |
 | 47 | [O Come, Emmanuel](https://open.spotify.com/track/0WCxyTsIy2WK42bz5yaCgt) | [The Master's Men](https://open.spotify.com/artist/3uaKcB7uDejFLUSGYxs5bM) | [Traditional Christmas](https://open.spotify.com/album/6bZUcVIrMdTBq7wGU7Y6zQ) | 1:34 |
 
-Snapshot ID: `MTY2Njg1NTM4MiwwMDAwMDAwMDhhMDQwNWMyNzRhNjE1ZmQwNWY4MGMzYzFjMmE4NmEy`
+Snapshot ID: `MTY2Njg1NTM4MiwwMDAwMDAwMDA3NGY4MTc2ZmRiYzU2NTk1Zjc1OTVlM2FhMzU5OGU4`
