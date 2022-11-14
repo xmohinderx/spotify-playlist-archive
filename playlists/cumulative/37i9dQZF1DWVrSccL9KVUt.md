@@ -4,7 +4,7 @@
 
 > Celebrating the women of worship music! Cover: Brooke Ligertwood
 
-123 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/22bPetK1VLYHItsWqIDfAJ)
+124 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/22bPetK1VLYHItsWqIDfAJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,9 @@
 | [I Say Yes \- Live](https://open.spotify.com/track/2CNqVcNFHZxPOEnL2sPjkx) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Revival Nights \(Live\)](https://open.spotify.com/album/4w5FajlRlCXCoflshe1IsS) | 6:46 | 2022-03-09 |  |
 | [I'll Be Okay](https://open.spotify.com/track/6hPlQuK6U4XBudaLrvT4Ya) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [I'll Be Okay](https://open.spotify.com/album/3wdOejNCa7uZq7ttTvz3YW) | 4:02 | 2021-03-02 |  |
 | [In Every Way](https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [In Every Way](https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv) | 4:23 | 2021-03-02 |  |
+| [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/3gNy667YREH2roPybRrbPo) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\) \[Piano Version\]](https://open.spotify.com/album/7JIK7T3f1r89w0MNhSPB9r) | 3:42 | 2022-03-09 |  |
 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/6Srgw41KlTpWtu5hbEKeja) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/album/6O6M9RO7S8AztEGAYKvD5T) | 3:42 | 2022-03-09 | 2022-11-11 |
-| [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/7JEDvPv2Sikct7pyTyb2fx) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:42 | 2022-03-09 |  |
+| [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/7JEDvPv2Sikct7pyTyb2fx) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:42 | 2022-03-09 | 2022-11-14 |
 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 | 2021-03-02 | 2022-03-10 |
 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/6h4WLS1E83VT3vplRJgroK) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/album/73dd5jycwxSTN1XZ1dZQfd) | 3:02 | 2021-03-02 | 2022-07-29 |
 | [Into the Sea \(It's Gonna Be Ok\)](https://open.spotify.com/track/5FaPm68gcR4gI7RyqE4O6g) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:02 | 2022-03-09 |  |

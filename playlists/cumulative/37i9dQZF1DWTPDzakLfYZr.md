@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: The Rudeboyz, Maluma y Adam Levine
 
-198 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
+199 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Amor Con Odio](https://open.spotify.com/track/2d3DyvhzYMKEjPc49ogM4X) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Amor Con Odio](https://open.spotify.com/album/3ilanQtLlzzmdTbqrnnZ1B) | 3:20 | 2022-04-15 | 2022-05-07 |
 | [Amor en Coma](https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Amor en Coma](https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2) | 3:19 | 2021-12-10 |  |
 | [Ande Con Quien Ande](https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Ande Con Quien Ande](https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW) | 3:28 | 2022-08-26 |  |
-| [Animal](https://open.spotify.com/track/35ccLhqnXTaoA5kk8IPQdH) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [Animal](https://open.spotify.com/album/0nzHhpOd7pV1ABo9P4mQfY) | 3:15 | 2022-08-26 |  |
+| [Animal](https://open.spotify.com/track/35ccLhqnXTaoA5kk8IPQdH) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [Animal](https://open.spotify.com/album/0nzHhpOd7pV1ABo9P4mQfY) | 3:15 | 2022-08-26 | 2022-11-14 |
 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 | 2022-04-29 |  |
 | [Aquí Estoy](https://open.spotify.com/track/0AjWPhrgNzEAO7FTnQIlEf) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Aquí Estoy](https://open.spotify.com/album/3BdctQrrNWKKazV67UXzGK) | 2:08 | 2022-05-06 | 2022-06-11 |
 | [Att: Amor](https://open.spotify.com/track/6xihliy8JGYJXd6uYF0Ncu) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Att: Amor](https://open.spotify.com/album/3uZJ2nD5tSXK8h7XkpRKkX) | 2:12 | 2022-04-01 | 2022-04-09 |
@@ -43,6 +43,7 @@
 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 | 2022-04-29 |  |
 | [C.U.L.I.T.O.](https://open.spotify.com/track/33pMxiTVJT6LjzAZijy3re) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Reggaetón Club](https://open.spotify.com/album/2KxWRBcEsElx9QA5NtvPVR) | 2:38 | 2022-01-18 | 2022-01-29 |
 | [Cafecito Para Dos](https://open.spotify.com/track/1PgVif1282OX4Bcm49DxpT) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Cafecito Para Dos](https://open.spotify.com/album/3mocltU8GILvbWMquiATqn) | 3:01 | 2022-01-18 | 2022-03-05 |
+| [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2022-11-13 |  |
 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 | 2022-01-14 | 2022-03-05 |
 | [Canción De Amor](https://open.spotify.com/track/2smiN8hY0HeUhjicag6Ath) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Canción De Amor](https://open.spotify.com/album/5UkFwcfQr9BJ20lFQFSKoz) | 2:49 | 2022-04-08 | 2022-07-30 |
 | [Candela](https://open.spotify.com/track/6PGpbf22UCDi0yTW6f7gSI) | [Ditto](https://open.spotify.com/artist/0eKrGlWldPgasOUqI1S7FE), [Dj Arnette](https://open.spotify.com/artist/65bSPNLxNENSxVjGptdWUV) | [Candela](https://open.spotify.com/album/1GpvVL0nBwavg028GD9SuE) | 3:08 | 2022-10-21 |  |

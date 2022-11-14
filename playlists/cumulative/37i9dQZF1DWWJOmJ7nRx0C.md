@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: L.S\. Dunes
 
-545 songs - 1 day 8 hr 51 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+546 songs - 1 day 8 hr 53 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,8 @@
 | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq) | 4:15 | 2021-07-23 | 2022-03-12 |
 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H) | 4:01 | 2021-11-12 | 2022-02-26 |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The Dying Song \(Time To Sing\)](https://open.spotify.com/album/1orsA4z63mo1Rp1WUxNRj8) | 3:23 | 2022-07-22 | 2022-08-27 |
-| [The End \(feat\. Scarlxrd\)](https://open.spotify.com/track/36ZHfNKFKIb6DrB4tIXcSp) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [The End: Trilogy](https://open.spotify.com/album/22YXEzKVesXYuBSTWhm8k3) | 2:39 | 2022-11-11 |  |
+| [The End \(feat\. Scarlxrd\)](https://open.spotify.com/track/36ZHfNKFKIb6DrB4tIXcSp) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [The End: Trilogy](https://open.spotify.com/album/22YXEzKVesXYuBSTWhm8k3) | 2:39 | 2022-11-11 | 2022-11-14 |
+| [The End \(feat\. Scarlxrd\)](https://open.spotify.com/track/6G1iylBBG8PmROeWln6wp1) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [The End \(feat\. Scarlxrd\)](https://open.spotify.com/album/1C6divdz7AXj8Fl2yxji6r) | 2:39 | 2022-11-11 |  |
 | [The First 21](https://open.spotify.com/track/4wDPO0BFLJHFVbh0vvSljY) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [The First 21](https://open.spotify.com/album/4on00pcLDDmrTaBE52Z1Ev) | 4:13 | 2021-10-01 | 2022-05-14 |
 | [The Foreverlost](https://open.spotify.com/track/5i4VmRIpHkRmyZeQlDvOOn) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [The Foreverlost](https://open.spotify.com/album/52BS9aeUsHLZJtSW0qe43T) | 3:30 | 2022-11-04 |  |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-13 | 2022-10-22 |

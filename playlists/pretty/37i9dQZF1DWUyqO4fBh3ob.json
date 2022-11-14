@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 37610,
+  "num_followers": 37643,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODI4Mzc4MywwMDAwMDAwMDJlZDgwNzBiMTg2M2ZhNTQ3YjM4Y2Q2ZDczZDExZDk3",
+  "snapshot_id": "MTY2ODI4Mzc4MywwMDAwMDAwMDFhMTRhNzBmNGRkNDkwZTZmOWYxMzMyY2FhZTA0MTk2",
   "tracks": [
     {
       "added_at": "2022-11-12 20:09:43",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
+        "name": "Seket El Kalam",
+        "url": "https://open.spotify.com/album/7vENdfNGO5G9E713VdAUPw"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 255047,
+      "name": "Seket El Kalam",
+      "url": "https://open.spotify.com/track/7AFuJ7RH19rEML28nWb7oF"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
         "name": "SAWWAN",
         "url": "https://open.spotify.com/album/5lmmWzvsAPMvNQZDaRaXJF"
       },
@@ -107,22 +123,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Best Of Anas Kareem",
-        "url": "https://open.spotify.com/album/4rtJ3PxDElkyKjP9YamhCH"
-      },
-      "artists": [
-        {
-          "name": "Anas Kareem",
-          "url": "https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS"
-        }
-      ],
-      "duration_ms": 290808,
-      "name": "Dommini",
-      "url": "https://open.spotify.com/track/4GoVy9n0I926WTMhTlb4ya"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Best Of Hussein El Deek",
         "url": "https://open.spotify.com/album/6NnyYbSJErbQluhkGCnemW"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 237941,
       "name": "Gheyrik Ma Bekhtar",
       "url": "https://open.spotify.com/track/4LtVyR8CvxoI7hHLIfJGLW"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Best Of Anas Kareem",
+        "url": "https://open.spotify.com/album/4rtJ3PxDElkyKjP9YamhCH"
+      },
+      "artists": [
+        {
+          "name": "Anas Kareem",
+          "url": "https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS"
+        }
+      ],
+      "duration_ms": 290808,
+      "name": "Dommini",
+      "url": "https://open.spotify.com/track/4GoVy9n0I926WTMhTlb4ya"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -171,6 +187,22 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
+        "name": "Toul Al Yom",
+        "url": "https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 233208,
+      "name": "Bi Rabbek",
+      "url": "https://open.spotify.com/track/5XzclhGEjRodFYM54nSuDo"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
         "name": "Hal El Garih",
         "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
       },
@@ -187,18 +219,34 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Toul Al Yom",
-        "url": "https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu"
+        "name": "Rawae'a Sabah Fakhri",
+        "url": "https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg"
       },
       "artists": [
         {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+          "name": "Sabah Fakhri",
+          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
         }
       ],
-      "duration_ms": 233208,
-      "name": "Bi Rabbek",
-      "url": "https://open.spotify.com/track/5XzclhGEjRodFYM54nSuDo"
+      "duration_ms": 374026,
+      "name": "Fouq annakhl",
+      "url": "https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Bahebak Mn Baad Allah",
+        "url": "https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w"
+      },
+      "artists": [
+        {
+          "name": "Anas Kareem",
+          "url": "https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS"
+        }
+      ],
+      "duration_ms": 257724,
+      "name": "Bahebak Mn Baad Allah",
+      "url": "https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -235,18 +283,34 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Rawae'a Sabah Fakhri",
-        "url": "https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg"
+        "name": "Dance With Nassif Zeytoun",
+        "url": "https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE"
       },
       "artists": [
         {
-          "name": "Sabah Fakhri",
-          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 374026,
-      "name": "Fouq annakhl",
-      "url": "https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n"
+      "duration_ms": 221632,
+      "name": "Faregouni",
+      "url": "https://open.spotify.com/track/2epNvNy1bgg6Nu7AOnszBa"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Caf\u00e9 Arabia",
+        "url": "https://open.spotify.com/album/1IYJOHu7EOKuwdxulcfqY9"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 422653,
+      "name": "Kalam Ennas",
+      "url": "https://open.spotify.com/track/6nzQnGY3F6ECVV8hWFqHID"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -267,38 +331,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Bahebak Mn Baad Allah",
-        "url": "https://open.spotify.com/album/6SXj5pyRtUaSUUE1VjBb7w"
-      },
-      "artists": [
-        {
-          "name": "Anas Kareem",
-          "url": "https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS"
-        }
-      ],
-      "duration_ms": 257724,
-      "name": "Bahebak Mn Baad Allah",
-      "url": "https://open.spotify.com/track/5oCE5R5foOBwF9B3IxzzQf"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
-        "name": "Dance With Nassif Zeytoun",
-        "url": "https://open.spotify.com/album/1TABHyMM46DStN9R57uUdE"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 221632,
-      "name": "Faregouni",
-      "url": "https://open.spotify.com/track/2epNvNy1bgg6Nu7AOnszBa"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Wall\u00e9",
         "url": "https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3"
       },
@@ -311,22 +343,6 @@
       "duration_ms": 177818,
       "name": "Wall\u00e9",
       "url": "https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
-        "name": "Caf\u00e9 Arabia",
-        "url": "https://open.spotify.com/album/1IYJOHu7EOKuwdxulcfqY9"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 422653,
-      "name": "Kalam Ennas",
-      "url": "https://open.spotify.com/track/6nzQnGY3F6ECVV8hWFqHID"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -395,22 +411,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Falaytaka Tahlou",
-        "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Falaytaka Tahlou",
-      "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "From Nassif Zeytoun with Love",
         "url": "https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq"
       },
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "El Lela",
-        "url": "https://open.spotify.com/album/4dpk3etzFX1hpVVCO70LL9"
+        "name": "Falaytaka Tahlou",
+        "url": "https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm"
       },
       "artists": [
         {
-          "name": "Hadi Aswad",
-          "url": "https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q"
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
         }
       ],
-      "duration_ms": 168235,
-      "name": "El Lela",
-      "url": "https://open.spotify.com/track/5mCeOghVDQ36pgq63OcDXc"
+      "duration_ms": 236800,
+      "name": "Falaytaka Tahlou",
+      "url": "https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
+        "name": "El Lela",
+        "url": "https://open.spotify.com/album/4dpk3etzFX1hpVVCO70LL9"
+      },
+      "artists": [
+        {
+          "name": "Hadi Aswad",
+          "url": "https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q"
+        }
+      ],
+      "duration_ms": 168235,
+      "name": "El Lela",
+      "url": "https://open.spotify.com/track/5mCeOghVDQ36pgq63OcDXc"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
         "name": "Moustahil",
         "url": "https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Ya Qatily",
-        "url": "https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Ya Qatily",
-      "url": "https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "From Nassif Zeytoun with Love",
         "url": "https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 236697,
       "name": "Wassellik Khabar",
       "url": "https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Ya Qatily",
+        "url": "https://open.spotify.com/album/5v7NaWPa24ZAh2p2m0rHHJ"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Ya Qatily",
+      "url": "https://open.spotify.com/track/26cKnuGd9jRiywSwFcVDDI"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Wala Fuse (Special Version)",
-        "url": "https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI"
-      },
-      "artists": [
-        {
-          "name": "Assasi",
-          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
-        }
-      ],
-      "duration_ms": 187075,
-      "name": "Wala Fuse - Special Version",
-      "url": "https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Ba'd Elly Saar",
         "url": "https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 284865,
       "name": "Ba'd Elly Saar",
       "url": "https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Wala Fuse (Special Version)",
+        "url": "https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI"
+      },
+      "artists": [
+        {
+          "name": "Assasi",
+          "url": "https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "Wala Fuse - Special Version",
+      "url": "https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -619,22 +635,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Ghanni",
-        "url": "https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Ghanni",
-      "url": "https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Swarat",
         "url": "https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE"
       },
@@ -667,34 +667,18 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Aghani Hits Vol.2",
-        "url": "https://open.spotify.com/album/4jKLkcv62T1dZH6diGDdbB"
+        "name": "Ghanni",
+        "url": "https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF"
       },
       "artists": [
         {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
         }
       ],
-      "duration_ms": 255047,
-      "name": "Seket El Kalam",
-      "url": "https://open.spotify.com/track/1hyMsgnE8sx0fWGeq2G7rQ"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
-        "name": "Bass Elak",
-        "url": "https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1"
-      },
-      "artists": [
-        {
-          "name": "Elias Karam",
-          "url": "https://open.spotify.com/artist/4b9nglUgMKz4Lydbis6IdR"
-        }
-      ],
-      "duration_ms": 361893,
-      "name": "Kellon Annek Sa'alouni",
-      "url": "https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy"
+      "duration_ms": 211893,
+      "name": "Ghanni",
+      "url": "https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -711,6 +695,22 @@
       "duration_ms": 178440,
       "name": "Laysh",
       "url": "https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Bass Elak",
+        "url": "https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1"
+      },
+      "artists": [
+        {
+          "name": "Elias Karam",
+          "url": "https://open.spotify.com/artist/4b9nglUgMKz4Lydbis6IdR"
+        }
+      ],
+      "duration_ms": 361893,
+      "name": "Kellon Annek Sa'alouni",
+      "url": "https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy"
     },
     {
       "added_at": "2022-11-12 20:09:43",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-11-12 20:09:43",
       "album": {
-        "name": "Sada Mawalena",
-        "url": "https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Sada Mawalena",
-      "url": "https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj"
-    },
-    {
-      "added_at": "2022-11-12 20:09:43",
-      "album": {
         "name": "Abu Dub",
         "url": "https://open.spotify.com/album/35zz7cXSUfe67McbGGrRk6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 289201,
       "name": "Abu Dub",
       "url": "https://open.spotify.com/track/6X3XDA36ekI3xQ75QkfKdZ"
+    },
+    {
+      "added_at": "2022-11-12 20:09:43",
+      "album": {
+        "name": "Shi Tridin",
+        "url": "https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS"
+      },
+      "artists": [
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Shi Tridin",
+      "url": "https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx"
     },
     {
       "added_at": "2022-11-12 20:09:43",

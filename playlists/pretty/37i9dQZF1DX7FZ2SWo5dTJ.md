@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Jeanette Jenkins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833 likes - 32 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 835 likes - 32 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 | 15 | [This Luv](https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:09 |
 | 16 | [Nat King Cole \(Originals\)](https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:39 |
 | 17 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 |
-| 18 | [Kiss of Life \- Remastered](https://open.spotify.com/track/21VQMMzsYxMfi68aQQZiUt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:10 |
+| 18 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
 | 19 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 20 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
 | 21 | [This Woman's Work \- Remastered 2021](https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Now](https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC) | 4:00 |
 | 22 | [Redemption Song](https://open.spotify.com/track/7MKcM6TfaGKQVFfhstCbOw) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:47 |
 | 23 | [Welcome To Africa](https://open.spotify.com/track/2zKX7B5GyI813KejUGLIdL) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [African Dream Lounge \- Volume 2](https://open.spotify.com/album/32ylYbjhA0LV88jVRIOsyx) | 5:49 |
-| 24 | [Mavinga](https://open.spotify.com/track/1pIZQi4p11qQDOcZfyrKm4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Buddhattitude \- Alaafiya](https://open.spotify.com/album/5Ckzuy2ABABhHMUL6gkZ3n) | 3:40 |
+| 24 | [Mavinga](https://open.spotify.com/track/6gFV9RfdDkn8OoS79XcbH4) | [Lulendo](https://open.spotify.com/artist/75lrOChDQcL9UxlunX6rFX) | [Soul of Africa](https://open.spotify.com/album/1gXlHPuQjK7K2nVuTTSoUk) | 3:43 |
 | 25 | [Sundown in Madagaskar](https://open.spotify.com/track/39jK30ioiRz6QPTdVqPJUz) | [African Tribal Orchestra](https://open.spotify.com/artist/2dDL0E2g6X3Mz7LFRDYw2K) | [Buddhattitude Alaafiya](https://open.spotify.com/album/3xOkcS62gUvFJDcdJd9oeD) | 5:29 |
 | 26 | [Back to Marrakech](https://open.spotify.com/track/3JbLisvckoTIFwjYOeND0m) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Horrya](https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2) | 4:50 |
 | 27 | [Amon Ra](https://open.spotify.com/track/0loYWxAfmNvI0RVIwBAMDg) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Buddhattitude](https://open.spotify.com/artist/3ZcQ1oVtv460swtprVrxwO) | [Buddhattitude Horrya](https://open.spotify.com/album/39LpsyUElYlGzLmRQJU4k2) | 4:04 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FZ2SWo5dTJ.md) - [plain]
 | 31 | [Freedom](https://open.spotify.com/track/4RJaUuF4ffF7i2wzrJLvyR) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ) | [Universal Sound of Buddha Bar](https://open.spotify.com/album/0xOngzQjGI9flWLq1Akhk1) | 3:53 |
 | 32 | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/track/5Si1Ymax4mrE3aHJE9vufU) | [Zen Meditations from a Sleeping Buddha](https://open.spotify.com/artist/0JrQmJVeNxqiV4M1bG5Wxz) | [Ocean Waves for Meditating, Relaxing and Sleeping](https://open.spotify.com/album/7gKWXrj6yIcGiRy9xcAxhA) | 15:12 |
 
-Snapshot ID: `MTY0MjAwMTI5NSwwMDAwMDAwMDJhNTIyOGFhMTFiOWJmNjAyNWI2NzgzYWEwNGM0MTI3`
+Snapshot ID: `MTY0MjAwMTI5NSwwMDAwMDAwMDJmMzdlZDIxZWUzNWFiMzA0ODgyMTE2OTQ5YjZkMGRm`

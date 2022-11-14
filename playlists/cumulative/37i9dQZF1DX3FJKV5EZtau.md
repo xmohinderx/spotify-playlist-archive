@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-304 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+305 songs - 17 hr 43 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-10 |  |
 | [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 | 2022-11-13 |
 | [A CYBER'S WORLD? \(From "Deltarune"\) \- Electro House Version](https://open.spotify.com/track/7s9VjAWhf8ypPqdOCR3hcn) | [Mykah](https://open.spotify.com/artist/3VYxuvrdxNbXmDIxiHYDqz) | [A CYBER'S WORLD? \(From "Deltarune"\) \[Electro House Version\]](https://open.spotify.com/album/38WxY9cf0avPDxehC3ubmL) | 4:29 | 2022-01-07 | 2022-07-29 |
+| [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 |  |
 | [Airway](https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Airway](https://open.spotify.com/album/1hvFDHasQOCnAMQfRNa3JO) | 3:15 | 2022-01-07 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/4XmSL1CcNGC6U1t56alzF7) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Alive](https://open.spotify.com/album/6Rt1ebG0UdXmQRheYmSJyh) | 3:37 | 2022-01-07 | 2022-07-27 |
 | [Alone](https://open.spotify.com/track/6fW7FK6s1EMtWu3mDdvq3X) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Alone](https://open.spotify.com/album/1QaaPVFdfYPPCIt5xT3QHP) | 2:53 | 2022-04-15 | 2022-07-29 |
@@ -79,7 +80,7 @@
 | [Drowning](https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn), [Sally Oh](https://open.spotify.com/artist/1rofHXMRiMdndtO5D34Gwp) | [Drowning](https://open.spotify.com/album/7h4jWZsNcOey1AhDSms5g1) | 3:25 | 2022-01-07 |  |
 | [Dummo Loop](https://open.spotify.com/track/7fcLynQO9FrmYMOWuo1c1X) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [World Famous Tour](https://open.spotify.com/album/3WXeQznuGDKqbGn9VUbeVE) | 3:37 | 2022-07-14 | 2022-08-06 |
 | [ebb and flow](https://open.spotify.com/track/0pOiVq4xFmpeXwjEkzpD9U) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [ebb and flow](https://open.spotify.com/album/25TyFNrtJLZbIciT9udRhp) | 4:17 | 2022-07-14 | 2022-08-06 |
-| [Electric Soul](https://open.spotify.com/track/4P2thFDOvuO497xWkyPUG0) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Electric Soul](https://open.spotify.com/album/1KkZWI3TFLJL6BfWis40JF) | 3:27 | 2022-01-07 |  |
+| [Electric Soul](https://open.spotify.com/track/4P2thFDOvuO497xWkyPUG0) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Electric Soul](https://open.spotify.com/album/1KkZWI3TFLJL6BfWis40JF) | 3:27 | 2022-01-07 | 2022-11-14 |
 | [Endgame \(feat\. Aeria\)](https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. Aeria\)](https://open.spotify.com/album/3uYebFzzsF9ECABrBPSQYx) | 2:36 | 2022-01-07 | 2022-07-29 |
 | [Enter REM](https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM](https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7) | 2:41 | 2022-01-07 |  |
 | [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 | 2022-10-07 |  |

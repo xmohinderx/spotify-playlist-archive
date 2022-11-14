@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Seether",
-  "num_followers": 523596,
+  "num_followers": 523702,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU1NDU4OSwwMDAwMDAwMGJkNWFmMGJlNDRiZDk4MDVkYjNjNWJkYjlhOGE5ZTQz",
+  "snapshot_id": "MTY2NzU1NDU4OSwwMDAwMDAwMDY3NTAxZDY4NjAzZmQ0MjE0YmMxMDUwMjg2Zjk0MDEw",
   "tracks": [
     {
       "added_at": "2022-11-04 09:25:53",
@@ -251,8 +251,8 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "Rock Mixtape",
-        "url": "https://open.spotify.com/album/77EI37JvbcUPGcRsGhcw4w"
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl"
       },
       "artists": [
         {
@@ -262,7 +262,7 @@
       ],
       "duration_ms": 293133,
       "name": "Outside",
-      "url": "https://open.spotify.com/track/26jM6W4Qmzr4kqDVcMXoWD"
+      "url": "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -655,8 +655,8 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+        "name": "Short Bus",
+        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 363800,
-      "name": "Take A Picture",
-      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
+      "duration_ms": 314440,
+      "name": "Hey Man, Nice Shot - Remastered Version",
+      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -735,8 +735,8 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "Short Bus",
-        "url": "https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV"
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
         }
       ],
-      "duration_ms": 314440,
-      "name": "Hey Man, Nice Shot - Remastered Version",
-      "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
+      "duration_ms": 363800,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 259133,
+      "name": "Watch Over You",
+      "url": "https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb"
+    },
+    {
+      "added_at": "2022-11-04 09:25:53",
+      "album": {
         "name": "This Type Of Thinking (Could Do Us In)",
         "url": "https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 298600,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
-    },
-    {
-      "added_at": "2022-11-04 09:25:53",
-      "album": {
         "name": "Anthem For The Underdog (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 238133,
       "name": "I Will Buy You A New Life",
       "url": "https://open.spotify.com/track/2fhfoZqqTJ8jo4HvWseNfM"
+    },
+    {
+      "added_at": "2022-11-04 09:25:53",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 340106,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
-    },
-    {
-      "added_at": "2022-11-04 09:25:53",
-      "album": {
         "name": "February Son",
         "url": "https://open.spotify.com/album/3DxLga8esIW4kag2FGPWMI"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 238093,
       "name": "Why I'm Here",
       "url": "https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H"
+    },
+    {
+      "added_at": "2022-11-04 09:25:53",
+      "album": {
+        "name": "One Day Remains",
+        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 340106,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 249514,
-      "name": "Youngest Daughter",
-      "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
-    },
-    {
-      "added_at": "2022-11-04 09:25:53",
-      "album": {
         "name": "One Thing Remains",
         "url": "https://open.spotify.com/album/0KwBPTz8XEqIBv0ry4gqhf"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 222706,
       "name": "It Only Hurts",
       "url": "https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa"
+    },
+    {
+      "added_at": "2022-11-04 09:25:53",
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 249514,
+      "name": "Youngest Daughter",
+      "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 267284,
-      "name": "Poor Aileen",
-      "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
-    },
-    {
-      "added_at": "2022-11-04 09:25:53",
-      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/2P5omMI0SDu3lWiSenca1h"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "Title Of Record (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 460400,
-      "name": "Welcome To The Fold",
-      "url": "https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA"
-    },
-    {
-      "added_at": "2022-11-04 09:25:53",
-      "album": {
         "name": "Polyester Zeal",
         "url": "https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 216106,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/2HLaosNtdbGMZ1pmOBwFeS"
+    },
+    {
+      "added_at": "2022-11-04 09:25:53",
+      "album": {
+        "name": "Title Of Record (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0PtuV98eVpJkCORoCH2uCu"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 460400,
+      "name": "Welcome To The Fold",
+      "url": "https://open.spotify.com/track/0oPcNTwHKpYnDZfkcdOsiA"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 267284,
+      "name": "Poor Aileen",
+      "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
+    },
+    {
+      "added_at": "2022-11-04 09:25:53",
+      "album": {
         "name": "Tantric (U.S. Version-Enh'd)",
         "url": "https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ"
       },
@@ -1435,6 +1451,22 @@
       "duration_ms": 201920,
       "name": "So Far so Good",
       "url": "https://open.spotify.com/track/2RDfjb9H56uk2NPgzcgMyn"
+    },
+    {
+      "added_at": "2022-11-04 09:25:53",
+      "album": {
+        "name": "Days Of The New (Red Album)",
+        "url": "https://open.spotify.com/album/36anDuZI1duEjJ1rXmKeHP"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Die Born",
+      "url": "https://open.spotify.com/track/5yA7AoyGWSUoxALn0RxCfb"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -1523,18 +1555,18 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+        "name": "13 Ways To Bleed Onstage",
+        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
       },
       "artists": [
         {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
         }
       ],
-      "duration_ms": 189363,
-      "name": "Stoned, Alone",
-      "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
+      "duration_ms": 197333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -1555,18 +1587,18 @@
     {
       "added_at": "2022-11-04 09:25:53",
       "album": {
-        "name": "13 Ways To Bleed Onstage",
-        "url": "https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn"
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
       "artists": [
         {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 197333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5Z5k7MQotAckv0S3ZA9dXa"
+      "duration_ms": 189363,
+      "name": "Stoned, Alone",
+      "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
     },
     {
       "added_at": "2022-11-04 09:25:53",
@@ -1583,38 +1615,6 @@
       "duration_ms": 222207,
       "name": "Life In A Jar",
       "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
-    },
-    {
-      "added_at": "2022-11-04 09:25:53",
-      "album": {
-        "name": "Scars & Souvenirs (Special Edition)",
-        "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "So Happy",
-      "url": "https://open.spotify.com/track/796KVmeIoTOek76YwNduEL"
-    },
-    {
-      "added_at": "2022-11-04 09:25:53",
-      "album": {
-        "name": "Vulture Culture",
-        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Hesitations",
-      "url": "https://open.spotify.com/track/2ulg6v1K4pj8Pf6xzNAZGi"
     }
   ],
   "unique_name": "Post-Grunge Society",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > The official destination for all the music from Virgin River\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,293 likes - 176 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,327 likes - 176 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 132 | [If I Go, I'm Goin](https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:27 |
 | 133 | [Wait For Now/Leave The World](https://open.spotify.com/track/7zAtXW4CrwSC43aBvk9ALy) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [To Believe](https://open.spotify.com/album/7Jm76j0kKzyy2GLExHlVQO) | 7:11 |
 | 134 | [About You](https://open.spotify.com/track/6qW2iEsBxiv3RTvvp4DAqf) | [Colleens](https://open.spotify.com/artist/7IqWbcEkaMGZrYj8q95K0Q) | [Wild Dreams](https://open.spotify.com/album/34ITF8R27buIyhWXUniDYE) | 3:24 |
-| 135 | [Where's My Love](https://open.spotify.com/track/0IRmoVD5Zbndp79ShxphRb) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:22 |
+| 135 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 |
 | 136 | [Very Exceptionary](https://open.spotify.com/track/2ktV30eIckWecoWn3pV1co) | [Steve Rice Combo](https://open.spotify.com/artist/6VG0tXZIupZGKZt7wIEEvR), [Stephanie Porter](https://open.spotify.com/artist/799kqlPeq62OCsr5x9KhRV) | [Jazz Cues](https://open.spotify.com/album/4jZ4j22mu43jbsrplmKjTz) | 3:39 |
 | 137 | [Wonderwall](https://open.spotify.com/track/46LkK5bUVW9oEgyP2kDfkO) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Wonderwall](https://open.spotify.com/album/6yqk8V4J49DWYLJN4Iz28b) | 3:38 |
 | 138 | [Reality](https://open.spotify.com/track/0r9xLuCrdfkurTNWMhTdCy) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 2:25 |
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 158 | [I'm Here](https://open.spotify.com/track/5WTppsgHUggYFXopdCpyA9) | [Sweet Talk Radio](https://open.spotify.com/artist/0vgTfoEDCKTyYfGf5HIdH2) | [Horology](https://open.spotify.com/album/04SX63uZmcxPhY1EG6QVd3) | 3:45 |
 | 159 | [Tomorrow Is Coming](https://open.spotify.com/track/4kB4Nupn6vML2gWnNW5s9T) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Stealing Time](https://open.spotify.com/album/7oNtY0xPnxNc6oAXoOFrs9) | 5:59 |
 | 160 | [This Time](https://open.spotify.com/track/4NDMfILVy0KPG8nvoctsKO) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 4:16 |
-| 161 | [Heartshaker](https://open.spotify.com/track/719rz3mpGPKOZkDUiYAfJB) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Heartshaker](https://open.spotify.com/album/12OOM8ZTfJ8z3alGg2SQWU) | 3:06 |
+| 161 | [Heartshaker](https://open.spotify.com/track/7awrM47SxC8KHtt2WUMyPZ) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:06 |
 | 162 | [Troubled Roads](https://open.spotify.com/track/2zqMo4kHxWmmJwtYKCIVVz) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/5cq1i2qocdtAG0hAyWneju) | 3:26 |
 | 163 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 | 164 | [catacombs](https://open.spotify.com/track/4r91oYlL2FwIAqWW0VCebC) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [petrichor](https://open.spotify.com/album/6pfWucHFIt3I6LFRVBwh1l) | 3:27 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 175 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 176 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDdkYjcxOTJjYWY1NTljNzU0MTliMWJjYzAwOGJhOWY0`
+Snapshot ID: `MTY1ODUwODA0NSwwMDAwMDAwMDAyMzc5OGRlYzVhZDZlZjI2ZGFkYTJiZDllMzE1YjUy`

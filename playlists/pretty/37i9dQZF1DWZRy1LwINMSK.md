@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,905 likes - 89 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,929 likes - 89 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 55 | [Perco Con Mari](https://open.spotify.com/track/1qkVJlyVaLZbwolRZmc17i) | [Kevin Martes 13](https://open.spotify.com/artist/2OEZ0KKJrKXsRQ6hU9bbfS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perco Con Mari](https://open.spotify.com/album/0IVrXEJ6q4tiYEJNWqkjlA) | 3:59 |
 | 56 | [A fuego](https://open.spotify.com/track/27vwyCYHvKYjb7Wl5dJUPl) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [A fuego](https://open.spotify.com/album/1LKQhcknuHIBlnIsnXuQNj) | 3:53 |
 | 57 | [Like Boss \- Remix \(feat\. Duki, Bizarrap, Akapellah, Polima Westcoast, Moonkey, Zanto, Santoz\)](https://open.spotify.com/track/2H2pkZBzWDX2TzGW7sp014) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Moonkey](https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Like Boss \(Remix\) \(feat\. Duki, Bizarrap, Akapellah, Moonkey, Polima Westcoast, Santoz, Zanto\)](https://open.spotify.com/album/5nFrn5iITgj3ScvqIUcKP1) | 6:02 |
-| 58 | [Tierra y Venus](https://open.spotify.com/track/2n7S2CHNEzyunlUTUCIEyD) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Levels](https://open.spotify.com/album/46fBnvlOlYOnidpBrsPgr3) | 3:46 |
+| 58 | [Tierra y Venus](https://open.spotify.com/track/5p9qC7CUghVEBPObrkLP1c) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Tierra y Venus](https://open.spotify.com/album/6Rd9WfSOzBTvNF8RaLaCDA) | 3:46 |
 | 59 | [Tu No Saben](https://open.spotify.com/track/4P2RAk00C46M6qXvZtlSBX) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [No Saen](https://open.spotify.com/album/0oBbkkIclDNAUd69NzIyys) | 2:41 |
 | 60 | [Viva Los ShiShi](https://open.spotify.com/track/2OKvnIShlUE7G5b6eff9CP) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Viva Los ShiShi](https://open.spotify.com/album/6tFwh91QTTcIn3KCwRWIll) | 2:56 |
 | 61 | [Denssy](https://open.spotify.com/track/7klrg9kfWJ2te3oJZIZjSU) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:01 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 88 | [Flip Flops](https://open.spotify.com/track/7sJO9UXpa6pfyoS1y6cEVY) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Flip Flops](https://open.spotify.com/album/04HDthHJfo9QK7F6Tnfvf0) | 2:35 |
 | 89 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 |
 
-Snapshot ID: `MTY2MjQwMTUxOSwwMDAwMDAwMDQ0NjU2NzczMGUyMjNmMTE2NDliYWU0NjM2ZWUxMjBh`
+Snapshot ID: `MTY2MjQwMTUxOSwwMDAwMDAwMGRkM2NlMTIyODYxYjIyMTRkMDJjZjU5MjUxMDU0ZDQy`

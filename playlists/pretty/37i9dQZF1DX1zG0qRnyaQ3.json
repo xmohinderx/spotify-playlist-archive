@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 4145,
+  "num_followers": 4232,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDYyMmQxZGI0YWI5NDgzMmMyYWM4MTYzNWU0MWFhMTFm",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDI0YTAwYWRjZjcxYjU1ODgwYjhiMmUyZmMwMGUwNGVj",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Cop, Bad Cop",
+          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Womanarchist",
+      "url": "https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "Peace in Our Time",
         "url": "https://open.spotify.com/album/6CVCVNnYEWtJslKbJOFLDE"
       },
@@ -683,6 +699,22 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
         "name": "Bears, Mayors, Scraps, & Bones (Remastered) [10 Year Anniversary Editio]",
         "url": "https://open.spotify.com/album/7IbxwkOPTz4RDtwK4FPnqc"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 145041,
       "name": "The Left is Right",
       "url": "https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -791,22 +807,6 @@
       "duration_ms": 136664,
       "name": "Our Great Divide",
       "url": "https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "Pursuit of Liberty",
-        "url": "https://open.spotify.com/album/5mSka34yO6kgDgHa6IauoF"
-      },
-      "artists": [
-        {
-          "name": "Bad Cop, Bad Cop",
-          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
-        }
-      ],
-      "duration_ms": 203150,
-      "name": "Pursuit of Liberty",
-      "url": "https://open.spotify.com/track/46QmqGEZWXTNCN0uv3oKCw"
     }
   ],
   "unique_name": "Political Punks",

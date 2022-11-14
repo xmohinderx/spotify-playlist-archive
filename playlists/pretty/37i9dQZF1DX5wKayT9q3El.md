@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wKayT9q3El.md) - [plain]
 
 > It's all of your family's favorite boy bands in one chart\-topping playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 177 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wKayT9q3El.md) - [plain]
 | 20 | [Tonight Tonight](https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:20 |
 | 21 | [Tattoo \(How 'Bout You\)](https://open.spotify.com/track/70EN8Pffupcsua0Lt1hTYb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:49 |
 | 22 | [Boyfriend](https://open.spotify.com/track/1rKBOL9kJfX1Y4C3QaOvRH) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [BTR](https://open.spotify.com/album/2RjFzASjHZG1lUbCKqUahx) | 3:21 |
-| 23 | [Big Plans](https://open.spotify.com/track/0BkaqZUwQfOfaVcSKSGvB6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [On the Radio: Pop](https://open.spotify.com/album/05a2Y9NdgvcB0UzpXHBKmR) | 2:59 |
+| 23 | [Big Plans](https://open.spotify.com/track/448hSkxDU1sUQQauBWZVcC) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Big Plans](https://open.spotify.com/album/55qkK5QfwfwUOMjye419s3) | 2:59 |
 | 24 | [American Dream](https://open.spotify.com/track/3JMAdPq5TUOKBGsTATjLEH) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 3:45 |
 | 25 | [Walks Like Rihanna](https://open.spotify.com/track/65xj2tRI9FUdK5cKdUI0Ct) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Word Of Mouth](https://open.spotify.com/album/3wLINTYfZERHv3w5pXZLdK) | 3:21 |
 | 26 | [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wKayT9q3El.md) - [plain]
 | 45 | [Chasing The Sun](https://open.spotify.com/track/4b4c0oH7PtrPsI86drzgFs) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [The Wanted \(Special Edition\)](https://open.spotify.com/album/6FftnKauTntTYF5PBI0yOm) | 3:18 |
 | 46 | [My Pace](https://open.spotify.com/track/48MDKHuJ6qte0kAaI25JnN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am WHO](https://open.spotify.com/album/2SACeVKmkXeAXHqLDdTU9N) | 3:09 |
 
-Snapshot ID: `MTY2NTc3OTg2NCwwMDAwMDAwMDEyMTBjYmZmZDRhYjcwMGJlM2ZmNzM2YmEzYTI5M2I2`
+Snapshot ID: `MTY2NTc3OTg2NCwwMDAwMDAwMDhiMjhiMmY3NzI2N2MxYjg2MjZlYmI0ZDIzODZmNTQ3`

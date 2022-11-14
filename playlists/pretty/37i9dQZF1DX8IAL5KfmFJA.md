@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,341 likes - 52 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,482 likes - 52 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 48 | [This One](https://open.spotify.com/track/1x3zGk6n2aSXmrf7cCZDN5) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 3:11 |
 | 49 | [Easy Way Out](https://open.spotify.com/track/652SjitiLFptw9ac34uQoz) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling](https://open.spotify.com/album/69C0Rfg7W7eWs4KvUBKqBq) | 3:38 |
 | 50 | [Un día sin tí \(Spending My Time\)](https://open.spotify.com/track/7Jwp98P2bsP5n5lE2We8GJ) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 4:39 |
-| 51 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/5MyqtugXD2gTCDXKVGHM5c) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Greatest Hits](https://open.spotify.com/album/4htx3t5YHqgyTgHw3xinsf) | 3:34 |
+| 51 | [She's Got Nothing on \(But the Radio\)](https://open.spotify.com/track/3GOgvkh0JfVo17FBiPUe87) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Charm School Revisited](https://open.spotify.com/album/1UFaRYryIZM1T3Dxgu2fEt) | 3:34 |
 | 52 | [Why Dontcha?](https://open.spotify.com/track/2XoC5eg7dngMTiySchGYFU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Good Karma](https://open.spotify.com/album/4oUOi5aKtbDx2PNln1aUzU) | 2:45 |
 
-Snapshot ID: `MTY1MTczNzg4NywwMDAwMDAwMDI0YmZlZmMwYjViOTE1ZDI5M2RlZWRmNzg3NmZkNDQ4`
+Snapshot ID: `MTY1MTczNzg4NywwMDAwMDAwMDVhYjdiYTI2Zjg2YTEyMzI5MGZlNzU1YzM0M2FkMGI3`

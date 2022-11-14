@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,762 likes - 143 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,796 likes - 143 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 133 | [Low Down Dirty Shame](https://open.spotify.com/track/3VdlwXjm45dyy6B0v9GiB1) | [Blues Saraceno](https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y) | [Outlaw Blues 2](https://open.spotify.com/album/3TuVfQxuglQcS7qb2i9FpB) | 4:05 |
 | 134 | [All These Moments](https://open.spotify.com/track/7LekZscUfDhHimckl1pE64) | [Jeffrey Garber](https://open.spotify.com/artist/6eOoFc9rr8mDiH3UkvnDGT) | [Indie Pop 3](https://open.spotify.com/album/0dFtvHEFcI6vaiV81ypqEg) | 3:40 |
 | 135 | [Path To Truth](https://open.spotify.com/track/0R8MuYcefByzYmdyxzuTqx) | [Michael Spreitzer](https://open.spotify.com/artist/0jzAvFtyoSpHWy0XLaVKP6), [John Boecklin](https://open.spotify.com/artist/7dCwFv18oKHu6sV2XQBV8P), [Jeffrey Kendrick](https://open.spotify.com/artist/6WX5ctm79NwhKNyjOZPTiP), [Carl Bensley](https://open.spotify.com/artist/3TWStVknoPHw3tEf2Jm4Fj) | [Terror Metal](https://open.spotify.com/album/0b9AcnezKScs42fsq1Jyqb) | 2:08 |
-| 136 | [Wooly Bully](https://open.spotify.com/track/40OYGdHoiYhFW4ALtY4onN) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [All\-Star Sports Jams](https://open.spotify.com/album/79sAKFjr7TWKw6A94kBKPL) | 2:18 |
+| 136 | [Wooly Bully](https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY) | [Sam The Sham & The Pharaohs](https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL) | [Wooly Bully](https://open.spotify.com/album/43ohvLotIrT1cprKaXYMn8) | 2:21 |
 | 137 | [Awake the Snake](https://open.spotify.com/track/5kiMm4Xc8q6aOVfph937J3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 1 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF) | 2:06 |
 | 138 | [Rock 'N' Roll Over You](https://open.spotify.com/track/24ttxzDgbZoMHHSyhhSTOP) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [The Other Side Of Life](https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm) | 4:49 |
 | 139 | [The Tree Will Survive](https://open.spotify.com/track/2iRwfxTNwwdaxct7ZiKyEq) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2dmsENyZefO9B1CRhRPci1) | 2:28 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 142 | [All of Us](https://open.spotify.com/track/26RRShwHcBtzAmSWKhQfJO) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 2:11 |
 | 143 | [The Eagle and the Lion](https://open.spotify.com/track/72FDfor2MIk4PfXCsupKp3) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 5, Vol 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4i0ZzMWF8i4GgyhQlVgml1) | 1:30 |
 
-Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMDRhMThkNmNhNTJlYjZiN2RjZjNiMmM3Nzc5YzFmNjJi`
+Snapshot ID: `MTY2MzYxNDIxNiwwMDAwMDAwMGFjYzA1ZTE4YTkyOTBhMzMwZWYxZWMyNTFlNDBlY2Y5`

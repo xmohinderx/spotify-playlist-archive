@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,180 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,205 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quién Contra Mí \(feat\. El Leo Pa´\)](https://open.spotify.com/track/2hfPsOrzBF5bPFsRNYC3ZK) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Trapstornadores](https://open.spotify.com/album/6USTDDk6DVZ8DYtyGnl6iG) | 4:16 |
-| 2 | [Gravy](https://open.spotify.com/track/1QOToAQcpOrMdVH85hvz2m) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Gravy](https://open.spotify.com/album/38cKCzN4H5ZEVhydRaWQxd) | 3:50 |
+| 2 | [Gravy](https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [20/20](https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN) | 3:49 |
 | 3 | [No Fallará \(Remix\)](https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Fallará \(Remix\)](https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf) | 6:20 |
 | 4 | [Esto Suena Bien \(feat\. Alex Zurdo, Oveja Cosmica\)](https://open.spotify.com/track/2J1FiT6W3vfZLOEsqUKGUz) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Alexis Velez](https://open.spotify.com/artist/6iZHTJnQ3Q9ldHwt8wg91Z), [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Trapstornadores](https://open.spotify.com/album/6USTDDk6DVZ8DYtyGnl6iG) | 4:12 |
 | 5 | [Mira Mis Ojos](https://open.spotify.com/track/2irxXUAsqfg7atkXFnnBQu) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 49 | [Estamos Al Dia](https://open.spotify.com/track/6HqjlnJHt5S7DHA1SPNVAq) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Dr\. P](https://open.spotify.com/artist/265ocUsmLZ1lY7CHNwVgCp) | [Estamos Al Dia](https://open.spotify.com/album/7dRrykg8AGKvveG2ikLoRw) | 3:24 |
 | 50 | [La Cuerda Floja](https://open.spotify.com/track/4RrEOgcIjTrcOeLzdHdMOn) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [La Cuerda Floja](https://open.spotify.com/album/7ztgUSvjFg8vQB9YGXoqWk) | 3:53 |
 
-Snapshot ID: `MTU5ODU5NDUyMCwwMDAwMDAwMDRiOGNiYjlhNTVhN2ExNTZhMmNiNTdlMzdiN2I2NjA5`
+Snapshot ID: `MTU5ODU5NDUyMCwwMDAwMDAwMDA0Nzk3ODJjZjdkNjEwOWE0ZTU1YTRiZDZjZWM2OGRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 
 > Irepelusa y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,761 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,770 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 40 | [Vuelve Conmigo](https://open.spotify.com/track/2BC7i4R4VYEpS4Z7n5DnEk) | [Agrupación Lérida](https://open.spotify.com/artist/69G64cEF3dvIU24OpNkDp6) | [Vuelve Conmigo](https://open.spotify.com/album/7MzVUXfTzdZelck07TcVt5) | 3:44 |
 | 41 | [Alguien](https://open.spotify.com/track/06GNb7cUCN6YTQmzfFd2m1) | [Amy Gutierrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Alguien](https://open.spotify.com/album/6Tm5rVXr3ofn5d5vK8U6ie) | 4:32 |
 | 42 | [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 |
-| 43 | [Negra Presuntuosa](https://open.spotify.com/track/044m10YZ8eytdwFP2IMBXo) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Perú: Damas del Criollismo](https://open.spotify.com/album/4f13Xa1Nsoqm8zlDOazZtC) | 4:16 |
+| 43 | [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 |
 | 44 | [Tiempo](https://open.spotify.com/track/1nsiPGzcLFP9upVrzleLRW) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Años Luz](https://open.spotify.com/album/0ohYJclEYAy8q6SkYAbXAR) | 2:26 |
 | 45 | [Llorando Tu Partida](https://open.spotify.com/track/1JHE3fgK8QvaWdj2IjmzgL) | [Ada Y La Nueva Pasion](https://open.spotify.com/artist/19tl2bzCLRXDglG9AAozA0) | [Ada Y La Nueva Pasion](https://open.spotify.com/album/1oy6xKrcERrCYLqZxcqCdI) | 3:49 |
 | 46 | [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 4:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 59 | [Mala Sombra](https://open.spotify.com/track/23y2ZM0Zp4f1uOt0grl9KU) | [Carmencita Lara](https://open.spotify.com/artist/66w4fQLV82B4bqFzeNAhde) | [Viva el Norte](https://open.spotify.com/album/2Opqxeq1Y9Gm7MLVO4XyUc) | 2:52 |
 | 60 | [La Flor de Canela](https://open.spotify.com/track/3WhQJVHA1ilGCE6x2HYdS4) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [The Platinum Collection](https://open.spotify.com/album/2LmwGG63vYukETIXU71Sc0) | 3:20 |
 
-Snapshot ID: `MTY2NzM2NTIwMCwwMDAwMDAwMDJjZTlkYWQ2OWRlYTljMGE4YzdjMDNhNGRmODcwM2U1`
+Snapshot ID: `MTY2NzM2NTIwMCwwMDAwMDAwMDA3NzFhYjhiYmQ1ZDQ0YjQ1NTc5M2Y1ZjdlOWQ4MTVk`

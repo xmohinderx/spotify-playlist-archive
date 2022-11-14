@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,146 likes - 61 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,191 likes - 61 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 25 | [Los P\*\*\*s De Tu Barrio](https://open.spotify.com/track/1imiqMjAQXY4nFpWhcrULD) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Los P\*\*\*s De Tu Barrio](https://open.spotify.com/album/4xvznKupTijPk5f8wTanwS) | 3:06 |
 | 26 | [Remake](https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Remake](https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U) | 5:32 |
 | 27 | [Soltera \(feat\. Yubeili\)](https://open.spotify.com/track/1hWqwMeqQLKEp8YWziERbv) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Soltera \(feat\. Yubeili\)](https://open.spotify.com/album/5Qrm1Punx3Da7bmCLxt9tX) | 3:11 |
-| 28 | [Titubeo](https://open.spotify.com/track/2vnZqvKC5qV9u0mguQTLIH) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Dial 420](https://open.spotify.com/album/7hq3zJcHLD7JpD5JN4R9VQ) | 3:25 |
+| 28 | [Titubeo](https://open.spotify.com/track/5wMxXn08lUHAqtQ1oS5YtM) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Titubeo](https://open.spotify.com/album/5EVsvDYBjnXWPmnpdwVOVw) | 3:25 |
 | 29 | [Sembrando el Terror \- Remix](https://open.spotify.com/track/7I8o4jSN5Xf7NLXIfjTuM4) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Sembrando el Terror \(Remix\)](https://open.spotify.com/album/0mWr919t9Doea5Peho4KNi) | 3:46 |
 | 30 | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/track/0IYYVOKk1t7QrCfKmSZZoy) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [LA JOAQUI \| DJ TAO Turreo Sessions \#6](https://open.spotify.com/album/3kIkW5CxRAbkqkbLxBLK0e) | 2:10 |
 | 31 | [Saveiro](https://open.spotify.com/track/7gBjthQXTuZS0DsfCJEt0Q) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Saveiro](https://open.spotify.com/album/2OdD4Bw78UeyjUKejq2UZR) | 3:32 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 60 | [Para Que Aprendan](https://open.spotify.com/track/6ZenaPkP2yEdwctGL6eagB) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Para Que Aprendan](https://open.spotify.com/album/0aw5Uti0zedVLh34XE9nzb) | 2:19 |
 | 61 | [SUSY 420](https://open.spotify.com/track/444LRhxSirslV3xR6uwDr1) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [SUSY 420](https://open.spotify.com/album/4jbhivQacS1R66AvVFBIxd) | 3:12 |
 
-Snapshot ID: `MTY2MzM0MjA4MiwwMDAwMDAwMDA1ZjI2YzUzYjY0NTg4MjZiNjQ0NzcwMzU1ZDBkMGE5`
+Snapshot ID: `MTY2MzM0MjA4MiwwMDAwMDAwMDAwNTNhMmMwM2U2ZjVhNGQ3MjU4NjIxMjYwZjRhNWNj`

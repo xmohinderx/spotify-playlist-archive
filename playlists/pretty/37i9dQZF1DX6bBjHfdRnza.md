@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Azzecca\. Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,299 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,368 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 6 | [Yo](https://open.spotify.com/track/021TgnmHRHIo31dfFEh4bE) | [HATS 93](https://open.spotify.com/artist/4BNhOqNRxPhsrRkN32gc7e) | [Yo](https://open.spotify.com/album/3FC5ivFKXuinxxsOrKXkEO) | 5:32 |
 | 7 | [Breathe](https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY) | [Loco & Jam](https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b) | [Breathe](https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG) | 6:47 |
 | 8 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 |
-| 9 | [Hello](https://open.spotify.com/track/1RNUyXFz6UYnDzdpdCAB5u) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Hello](https://open.spotify.com/album/6tkeQet02GENAKucYh6PB8) | 3:40 |
+| 9 | [Hello](https://open.spotify.com/track/113qTjXNHTzKH6cyg37H9a) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Hello](https://open.spotify.com/album/11s19eDJJKMtjgLpWnY8Dx) | 3:40 |
 | 10 | [Letting Go](https://open.spotify.com/track/7xGvSmXj5IbeZUn69nJKNl) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Motions](https://open.spotify.com/album/7J3dsYgtL3FJBpvh8kuJpm) | 3:15 |
 | 11 | [Deja Vu](https://open.spotify.com/track/0jwWG0oSeKd5CefJa4jcbe) | [Monarke](https://open.spotify.com/artist/5uPPX33s71WjX25P1DfqVk) | [Deja Vu](https://open.spotify.com/album/5pmPKOWQ4evmNDfYjl9MiP) | 7:28 |
 | 12 | [Stargazer](https://open.spotify.com/track/1ahg9arFsLjjHvlMid4NFn) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Stargazer](https://open.spotify.com/album/7mnvQNZ0TYnGZPC4HXUUQn) | 6:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 |
 | 100 | [Nether Portal](https://open.spotify.com/track/4bwSiql3RcbvDaq2vUeOU0) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Monnaka](https://open.spotify.com/album/7fQYIJUcAWOZ8MA6LfTHXU) | 6:18 |
 
-Snapshot ID: `MTY2ODAxNjg3NiwwMDAwMDAwMDZlYzNkZGIzOTU5OGRmMWI1ZGYwMzVmMDlmZmNlZTQ1`
+Snapshot ID: `MTY2ODAxNjg3NiwwMDAwMDAwMDg4NjVjMzQwYzc3MjUyMjI2YzUyYmJmZmU2ZmY4ZGY0`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-65 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
+66 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [No Idea \- Logic1000 Remix](https://open.spotify.com/track/58vwxcHhtRKaAxDW6zYmKs) | [Don Toliver Remixed](https://open.spotify.com/artist/17lZwAvNlpuTb1ODGXiaGu), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [No Idea \(Logic1000 Remix\)](https://open.spotify.com/album/0xbabLMY8CO5ySfBSKsfYt) | 4:21 | 2022-03-01 |  |
 | [Otto](https://open.spotify.com/track/0w5frpmwoOzNokavFK59TX) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Otto](https://open.spotify.com/album/3ucYiqS68iOWRqRg9Ec3X7) | 5:49 | 2022-03-01 |  |
 | [Precision](https://open.spotify.com/track/5wsCARHFwYPQJ35LezyKcU) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:43 | 2022-03-01 |  |
-| [Rerocc](https://open.spotify.com/track/6cUTZnDarVMD7EBgCj97YW) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [The Blue M&M 3](https://open.spotify.com/album/2qyo6pRUbmVXDoITP4aOP6) | 3:19 | 2022-03-01 |  |
+| [Rerocc](https://open.spotify.com/track/18Oo1PEO8leO5O0tP5SFVU) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [The Blue M&M 3](https://open.spotify.com/album/4tSGP4AzRTEGzU09gmXBaS) | 3:19 | 2022-03-01 |  |
+| [Rerocc](https://open.spotify.com/track/6cUTZnDarVMD7EBgCj97YW) | [Peewee Longway](https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6) | [The Blue M&M 3](https://open.spotify.com/album/2qyo6pRUbmVXDoITP4aOP6) | 3:19 | 2022-03-01 | 2022-11-14 |
 | [Ride On The Ride Rhythm \- Track Edits](https://open.spotify.com/track/2DdDYcA8I8Q63TxlMeqV5a) | [Victor Romeo](https://open.spotify.com/artist/0yxKR9FQOh5DZQ6rykLi7c), [Cool Dave\-O](https://open.spotify.com/artist/7uOERa8mBHs2Cz6up6lR6w) | [Hardcore Traxx: Dance Mania Records 1986\-1995](https://open.spotify.com/album/0xvNLtTDM3fE3MjD6LrlNS) | 5:41 | 2022-03-01 |  |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2022-03-01 |  |
 | [Rock Your Baby](https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [George McCrae \- Disco Pioneer](https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt) | 3:20 | 2022-03-01 |  |

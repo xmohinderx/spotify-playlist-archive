@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,591 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,606 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 64 | [Unworthy of Your Love](https://open.spotify.com/track/6fnMAKwPMYt1F204YW6rGu) | [Greg Germann](https://open.spotify.com/artist/57aHcccTKIBihdbiIBaWr1), [Annie Golden](https://open.spotify.com/artist/0zZCudK3BJR5TxxexmPTT6) | [Assassins \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2YhmmaSqQpHrx1XmVW3TpV) | 3:31 |
 | 65 | [You Walk with Me](https://open.spotify.com/track/1kwrtoiuvnRAn1vg34pTyV) | [Jason Danieley](https://open.spotify.com/artist/0WZeAgkdC5N2uTCrTBUttb), [Romain Frugé](https://open.spotify.com/artist/20fhOCaUNLHcUXia9ysfHT) | [The Full Monty \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ryQjSxXsdtphq71mCKf9z) | 3:11 |
 | 66 | [Three Little Words](https://open.spotify.com/track/0UJxiPj0fSk91EKZX2FNZl) | [Original Cast Recording](https://open.spotify.com/artist/3HfGekNeA7D6kO5Yz1Pyjw) | [Ghost \- The Musical](https://open.spotify.com/album/0KUHaO8OBXXvyrag5kxdF5) | 3:40 |
-| 67 | [Before and After You](https://open.spotify.com/track/3W2O6SHHBJju8Twzk71ZKI) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 1:39 |
-| 68 | [Last Night Of The World \- Live](https://open.spotify.com/track/6p6PB9VGzcPrz65D15UGHq) | [Miss Saigon Original Cast](https://open.spotify.com/artist/0HMbvm4fAT9B8bAV3mBMJY), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Alistair Brammer](https://open.spotify.com/artist/2gQyb8LfnPZdPHykQ17FMk) | [Miss Saigon: The Definitive Live Recording](https://open.spotify.com/album/2xUT7XzLvPodBwB2qpViK4) | 4:09 |
+| 67 | [Last Night Of The World \- Live](https://open.spotify.com/track/6p6PB9VGzcPrz65D15UGHq) | [Miss Saigon Original Cast](https://open.spotify.com/artist/0HMbvm4fAT9B8bAV3mBMJY), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Alistair Brammer](https://open.spotify.com/artist/2gQyb8LfnPZdPHykQ17FMk) | [Miss Saigon: The Definitive Live Recording](https://open.spotify.com/album/2xUT7XzLvPodBwB2qpViK4) | 4:09 |
+| 68 | [Before and After You](https://open.spotify.com/track/3W2O6SHHBJju8Twzk71ZKI) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 1:39 |
 | 69 | [I'll Be Here](https://open.spotify.com/track/6BmTGKJDphlIUEwGTUVBIG) | [Taye Diggs](https://open.spotify.com/artist/6jRmwlzMVSICyO97aN7UnT) | [The Wild Party \(Original Off\-Broadway Cast Recording\)](https://open.spotify.com/album/4XKzW9Ykl81o6LnAR12xkc) | 2:33 |
 | 70 | [Unusual Way](https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Nine: The Musical \(New Broadway Cast Recording\)](https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe) | 5:00 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDUyZjE0MmRiNmM1YmQ0ZmE5OGM2MzM5MTk0ODU3YmUx`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDQxYzZlOGE4NTYzYjA3Yjg5NjU2YjFiOWRjNDljZmEw`

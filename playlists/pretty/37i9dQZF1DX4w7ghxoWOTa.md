@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 
 > アニソン界を代表する作詞家として、様々な作品のファンを魅了してきた畑 亜貴。多彩な作風でシンガーソングライター、作曲家、プロデュースチーム「Q\-MHz」メンバーとしても活躍中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,065 likes - 48 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,067 likes - 48 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 16 | [Dancing Heart La\-Pa\-Pa\-Pa!](https://open.spotify.com/track/3KJwVgA2M5SgZ4p0kjMpKk) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 3:18 |
 | 17 | [colorless wind](https://open.spotify.com/track/1rdBCDqgSUClknAjpTEm9q) | [結城アイラ](https://open.spotify.com/artist/0O5WwSQoEqxts7FFBDsB6E) | [colorless wind](https://open.spotify.com/album/41h783J9c8LqnCrNPQkynK) | 4:57 |
 | 18 | [純白サンクチュアリィ](https://open.spotify.com/track/1DOvTy3Ysf7b8VobWpbdZR) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [純白サンクチュアリィ](https://open.spotify.com/album/4KZcIpumgWdYOfIXl35bxE) | 4:52 |
-| 19 | [Future Stream](https://open.spotify.com/track/6tt9UGZUGeyRSQQhPO8GZB) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [A.T.M.O.S.P.H.E.R.E](https://open.spotify.com/album/5Iqv5Vn2Aox5YKTpKHlqEh) | 4:20 |
+| 19 | [Future Stream](https://open.spotify.com/track/6UdqfaKd83bFRoTi6EVhPL) | [Sphere](https://open.spotify.com/artist/7qAl67yej6N3CHV5XJShP7) | [sphere](https://open.spotify.com/album/3JCMIhHXXqsrRnNPGFfWNU) | 4:20 |
 | 20 | [童話迷宮](https://open.spotify.com/track/1lEDbcMIAPnT2HYjxpDy3t) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [童話迷宮](https://open.spotify.com/album/3N5adcjY3Er5xUnU7eYpQn) | 3:55 |
 | 21 | [少女迷路でつかまえて](https://open.spotify.com/track/160vKqpghe9g2y3HV0ryfg) | [美郷あき](https://open.spotify.com/artist/4qEleN0MdPvcOOyiOqRBjy) | [少女迷路でつかまえて](https://open.spotify.com/album/786JSY42TK9kf5OH7IvbPr) | 4:08 |
 | 22 | [See you on Brown Street](https://open.spotify.com/track/3dmTVfo6kIZIREDhc6ATiq) | [Aki Hata](https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7) | [Name of the mirror \- KAIKO Garden Vol.05 \-](https://open.spotify.com/album/4uakqrl9w5wVfDBWbCth4f) | 3:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4w7ghxoWOTa.md) - [plain]
 | 47 | [秘密の扉から会いにきて](https://open.spotify.com/track/6MDuCmSdP00j47oEavVBwR) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [秘密の扉から会いにきて](https://open.spotify.com/album/2NfnOSntG6tB7nuFbfDksB) | 3:36 |
 | 48 | [Eternal Tragedy](https://open.spotify.com/track/3pDJKWyX0dCRnbv1wktSqu) | [Aki Hata](https://open.spotify.com/artist/2BcuB8z8yMBCNCm1WnTke7), [SHIROU\-TSUKIHIKO](https://open.spotify.com/artist/4n1KlS8mTIqsBCFImc5fvb) | [Eternal Tragedy](https://open.spotify.com/album/19OBmkcKc23HOAsFlFEXfP) | 5:33 |
 
-Snapshot ID: `MTY0OTM4NjE2MSwwMDAwMDAwMDlkOWFkM2VlOTdlMjlhOTIzN2VjNjA1MTRiOGM0Mjc3`
+Snapshot ID: `MTY0OTM4NjE2MSwwMDAwMDAwMDBhN2EzYmVkNDg1MmY5NjIxMTM4YjRlY2NkNGQyMjNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 
 > Essential tracks from "Resident Evil" series\. 25周年を迎えたホラーゲームの金字塔、バイオハザードシリーズの音楽をプレイリストで。©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,765 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,781 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 21 | [Saferoom](https://open.spotify.com/track/1NO3x4XZW73pCXxLCPSNsI) | [Miwako Chinone](https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 2:54 |
 | 22 | [Keeper of the Greenhouse Ⅰ](https://open.spotify.com/track/0gWXIzl1BEE7E6lObgKkKA) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 2:44 |
 | 23 | [Main Menu](https://open.spotify.com/track/3thZaU3uHTicD7qZW3BIXc) | [Miwako Chinone](https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 3:02 |
-| 24 | [The Beginning](https://open.spotify.com/track/5VZ6JwpIkipHeE2w6gwur9) | [内山修作](https://open.spotify.com/artist/6LuD4P86YYn8lP3sEvWdBP) | [BIOHAZARD RE:2 Best Track Collection](https://open.spotify.com/album/2P9KYawcKVvzvhdOyF0Qfr) | 2:46 |
-| 25 | [R.P.D\. Hall](https://open.spotify.com/track/16laXao2zlkpCNm2mI72fG) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 3:29 |
+| 24 | [The Beginning](https://open.spotify.com/track/4VMPSsk9UnkDCjCU6aoSnQ) | [Syusaku Uchiyama](https://open.spotify.com/artist/1eGt1jwjFZLEZhnNmDJJry) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 2:45 |
+| 25 | [R.P.D\. Hall](https://open.spotify.com/track/70sKiW5IIhwcGtB1yFHYVE) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:28 |
 | 26 | [Collapse](https://open.spotify.com/track/6szZAiaCyyIy0MNbP1Cfvz) | [Kentaro Nakajima](https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 2:51 |
 | 27 | [Looming Dread](https://open.spotify.com/track/6PkXh1TDoKD9as8q4bEXX5) | [Kentaro Nakajima](https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 2:06 |
 | 28 | [Saudade](https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 4:18 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 31 | [Save Room](https://open.spotify.com/track/6fFaDbmXtuScWnLi7BlMf6) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 3:29 |
 | 32 | [Deep Sea](https://open.spotify.com/track/1RQ6EHit0rm5sKoV86PEFI) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 3:48 |
 | 33 | [Scream](https://open.spotify.com/track/4ikUzDhm1REqT9ZJFIwRqE) | [Ichiro Kohmoto](https://open.spotify.com/artist/0H1pu3K0L0OIpO0KpbNe74) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 2:05 |
-| 34 | [Rest & Intensify](https://open.spotify.com/track/2Q89Y1Vd8kuiLASZjJtspz) | [Kota Suzuki](https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y) | [BIOHAZARD REVELATIONS Best Track Collection](https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x) | 1:35 |
-| 35 | [Distant Memories](https://open.spotify.com/track/5L5D4wwv8i3tr0NTKUxrLY) | [Kota Suzuki](https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y) | [RESIDENTEVIL SOUND CHRONICLE III](https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh) | 1:56 |
+| 34 | [Rest & Intensify](https://open.spotify.com/track/5qztqNmizH7W2bUirLkb2m) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil: Revelations Original Soundtrack](https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF) | 1:35 |
+| 35 | [Distant Memories](https://open.spotify.com/track/7GklaU5oQ5e7svqUZBG2gx) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [バイオハザード リベレーションズ2 オフィシャル・サウンドトラック](https://open.spotify.com/album/5W8ccSPOp8cX95Pp4L22al) | 1:53 |
 | 36 | [Lost \- Enchained Ver.](https://open.spotify.com/track/1NA8AvQAbuQmy4c8NZoDbf) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [バイオハザード リベレーションズ2 オフィシャル・サウンドトラック](https://open.spotify.com/album/5W8ccSPOp8cX95Pp4L22al) | 1:56 |
 | 37 | [The Beginning of Story](https://open.spotify.com/track/2eHVCEz9ToZ1uqHT1cjsNQ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at) | 3:46 |
 | 38 | [The Front Hall](https://open.spotify.com/track/1qTVmQhzZFvuq2RP9wBp7B) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at) | 1:36 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavxLjAz4XDv.md) - [plain]
 | 54 | [End of Umbrella](https://open.spotify.com/track/3eKDqbkCBeO7lScZDofqYy) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:13 |
 | 55 | [The Drive \~ First Contact](https://open.spotify.com/track/3j7walwuESgdV5mf5J8LMt) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 4 Sound Collection](https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY) | 2:11 |
 | 56 | [Save Theme](https://open.spotify.com/track/0xibMiSk2Ioys0V8Q8xlfx) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:07 |
-| 57 | [Sorrow \(Ending Credits\)](https://open.spotify.com/track/72kt2WhQpTASBoCQBis3Sv) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 3:34 |
+| 57 | [Sorrow \(Ending Credits\)](https://open.spotify.com/track/5ltB7Zo3Cc8aj70tvkLB6O) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 4 Sound Collection](https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY) | 3:36 |
 | 58 | [Heat on Beat 2012/The Mercenaries](https://open.spotify.com/track/1IzXLyd1gOY7W9ElazmSBv) | [Daniel Lindholm](https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O) | [Resident Evil 6 Original Soundtrack](https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi) | 3:50 |
 | 59 | [Tofu on Fire](https://open.spotify.com/track/1JqGbX7D8Lh03W3WITm5VS) | [Shotaro Nakayama](https://open.spotify.com/artist/0qM6rCXSK4NRrB1Ucij1a1), [Taishuke Fujisawa](https://open.spotify.com/artist/08eE91OwwwZT0HriYw1xky) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 3:37 |
 | 60 | [Go Tell Aunt Rhody \-Dixiland Jazz\- \- Alternative Ver.](https://open.spotify.com/track/4WZG3vulG5PQLURWwc1uAE) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [BIOHAZARD 7 RESIDENT EVIL Special Tracks](https://open.spotify.com/album/42ZIjUQqG1MHOkZg3KHK2L) | 4:01 |
 
-Snapshot ID: `MTYyOTI3MzY3OSwwMDAwMDAwMDU1ODk1NzJiZWM3MWI3YmRlMTMyMTNjNWQxOWMyNTZj`
+Snapshot ID: `MTYyOTI3MzY3OSwwMDAwMDAwMGMwMjRhMmU2OTU3NmRhZGFjYmY1YmJjZDE0YzQ5Y2Yz`

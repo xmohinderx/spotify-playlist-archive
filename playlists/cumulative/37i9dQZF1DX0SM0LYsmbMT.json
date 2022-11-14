@@ -5273,7 +5273,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 106987,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/6jDf8XD3fMm3P1vMLvHZ6w"
@@ -22417,7 +22417,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 113618,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/3ko8fiPX0re8ZLhferPvLy"
@@ -45068,6 +45068,32 @@
     },
     {
       "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/4Ly3M4zMNlO5dpUeHpg1Pq"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "dennisivnvc",
+          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
+        },
+        {
+          "name": "Bertram Kvist",
+          "url": "https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159378,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/5O6z2ai9ZENm9XywrUjZZU"
+    },
+    {
+      "album": {
         "name": "Rustle",
         "url": "https://open.spotify.com/album/2sRqNk1t8uNcwQqE8FUnJy"
       },
@@ -45699,6 +45725,24 @@
       "duration_ms": 103736,
       "name": "sanguine",
       "url": "https://open.spotify.com/track/7uzagNgci9QO5XqvSjoZIv"
+    },
+    {
+      "album": {
+        "name": "Santa Anna",
+        "url": "https://open.spotify.com/album/4K3ZxGikQt4WuYccm2qeQs"
+      },
+      "artists": [
+        {
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120343,
+      "name": "Santa Anna",
+      "url": "https://open.spotify.com/track/59qb6in5aDPsgMOzkfEc67"
     },
     {
       "album": {

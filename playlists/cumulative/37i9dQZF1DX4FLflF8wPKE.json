@@ -498,6 +498,36 @@
     },
     {
       "album": {
+        "name": "Driving Classics: Vivaldi",
+        "url": "https://open.spotify.com/album/2CjCpylLuz0ZB1LlxFfjKi"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Eduardo Fernandez",
+          "url": "https://open.spotify.com/artist/2nZNjnN8m5yQHvatKBCHIf"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "George Malcolm",
+          "url": "https://open.spotify.com/artist/5ccyh1kIfmtUfJf4d5wchx"
+        }
+      ],
+      "date_added": "2021-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309466,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
+      "url": "https://open.spotify.com/track/386YmSk1BVzZXcTpAH3nUz"
+    },
+    {
+      "album": {
         "name": "Musica rilassante per bambini",
         "url": "https://open.spotify.com/album/6lI4gdT5nU6cvlPfdfjRnx"
       },
@@ -551,7 +581,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/5GnRdw3oNKF8Mz6gdEcQLK"
@@ -1399,7 +1429,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 398240,
       "name": "Piano Concerto in A minor, Op. 16: II. Adagio - Live",
       "url": "https://open.spotify.com/track/3gCYBFexR8dQZWeu4F15eu"
@@ -1429,7 +1459,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 398240,
       "name": "Piano Concerto in A minor, Op. 16: II. Adagio - Live",
       "url": "https://open.spotify.com/track/1s729fqMWssbspuRu8Fcgh"
@@ -2067,7 +2097,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 188906,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6OfnyXVkDHyhbgVTdObIVC"
@@ -2085,7 +2115,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 188906,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq"

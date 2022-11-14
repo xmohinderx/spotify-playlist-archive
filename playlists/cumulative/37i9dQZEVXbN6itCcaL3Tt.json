@@ -2550,6 +2550,28 @@
     },
     {
       "album": {
+        "name": "Bon App\u00e9tit",
+        "url": "https://open.spotify.com/album/6NoeLkKHNGMXCsSJPP29DA"
+      },
+      "artists": [
+        {
+          "name": "Kabe",
+          "url": "https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt"
+        },
+        {
+          "name": "Miszel",
+          "url": "https://open.spotify.com/artist/726tAAHoBnNpFvjHLZHsN4"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Bon App\u00e9tit",
+      "url": "https://open.spotify.com/track/1QyE2CErzEoDLRFRsSIC0N"
+    },
+    {
+      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -3843,7 +3865,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 219466,
       "name": "D I A B L E",
       "url": "https://open.spotify.com/track/0K0r4umLd6ssfXIu1MjjYI"
@@ -15945,7 +15967,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 165653,
       "name": "Szmata",
       "url": "https://open.spotify.com/track/1BwnO14BpmoRjGt2lla75r"
@@ -16195,7 +16217,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 210826,
       "name": "TAZOSy",
       "url": "https://open.spotify.com/track/0oYqfYHqP2O9V3ISCQ8MMN"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 
 > Los hermanos Durán, López y Basualto nos dejaron estos temas desde Concepción al mundo..\. ¡Grande Los Bunkers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,934 likes - 66 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,974 likes - 66 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bailando Solo](https://open.spotify.com/track/5AmJkJE6LvQvIUDe4yj4Pm) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bailando Solo](https://open.spotify.com/album/0OnzKh81TkfvqqJX3JZCfm) | 4:27 |
+| 1 | [Bailando Solo](https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:27 |
 | 2 | [No Me Hables de sufrir](https://open.spotify.com/track/7y8UFkYgOei3yc3EG3u8BX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Grandes Exitos](https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ) | 3:54 |
 | 3 | [Nada Nuevo Bajo El Sol](https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Barrio Estación](https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v) | 4:46 |
 | 4 | [Ahora Que No Estas](https://open.spotify.com/track/4YtvPDN9v12yXIwRdGWXYz) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 5:51 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 | 45 | [Nada Es Igual](https://open.spotify.com/track/7niEic2atQVHSzfc2eau3s) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:56 |
 | 46 | [La exiliada del sur](https://open.spotify.com/track/51SvwCyO7TtLBC7rb3I7J1) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [En Vivo](https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY) | 4:26 |
 | 47 | [Santiago De Chile](https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:17 |
-| 48 | [El Necio](https://open.spotify.com/track/6wW2j9QMWMYgMY4Vi4vmCu) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [CANTAR COCINANDO](https://open.spotify.com/album/1XtnSag2DrhhcdF00Hc8uL) | 3:28 |
+| 48 | [El Necio](https://open.spotify.com/track/2y3TFms2edlkSu1Vya4cFb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Música Libre](https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0) | 3:27 |
 | 49 | [Ahora que no estás](https://open.spotify.com/track/77gNm6LVUmxxg4zevFVzwB) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [En Vivo](https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY) | 6:06 |
 | 50 | [Miéntele](https://open.spotify.com/track/5hiFP6ovQqLvla7RQnHOyQ) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [En Vivo](https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY) | 4:15 |
 | 51 | [El Derecho de Vivir en Paz](https://open.spotify.com/track/55jUtyEpTBef5QLraNMl6r) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 4:31 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1oAkEHKtiU.md) - [plain]
 | 65 | [El día en Que Dejaste de Fingir](https://open.spotify.com/track/2fzn3EaklnRkKiWsKpLtfE) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:44 |
 | 66 | [Nada Más De Mi](https://open.spotify.com/track/3ccqnu4sNRcyeRUW1HxvA6) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:13 |
 
-Snapshot ID: `MTY0NzI3OTEyMCwwMDAwMDAwMDY1YzAwODdhN2EzNmNiOGM4ZGI0YjZmNzA0NzYxNTMz`
+Snapshot ID: `MTY0NzI3OTEyMCwwMDAwMDAwMDdjYzg2MDczZTJlZWIyZDhmM2QyNzk2OWQ0OTU1N2M5`

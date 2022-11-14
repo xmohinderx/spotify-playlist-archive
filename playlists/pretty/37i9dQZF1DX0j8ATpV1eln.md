@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,450 likes - 77 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,454 likes - 77 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 36 | [Kinkan no Uta 2020](https://open.spotify.com/track/5WdxQwghDeTcnL8lUkzvsV) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:29 |
 | 37 | [Numa](https://open.spotify.com/track/1IV8iXGRukHDsRQOmTNEhw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:11 |
 | 38 | [Rakuen Toshi](https://open.spotify.com/track/2vOTY8M4Hb2gy72iI2ywSc) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Rakuen Toshi](https://open.spotify.com/album/11sAMfCkGSjIgHl4aKacKD) | 3:46 |
-| 39 | [Eiyu no Uta](https://open.spotify.com/track/0TDfyz6NnZaUiW5f3S29eS) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Sekai ga Kimi wo Hitsuyoutosuru Toki ga Kitanda / Eiyu no Uta](https://open.spotify.com/album/2NH1SQE6jRoYQqS71bnGM2) | 4:06 |
+| 39 | [Eiyu no Uta](https://open.spotify.com/track/3V3r7CtwCmrnRCeGa4V1rw) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 4:03 |
 | 40 | [Golden After School](https://open.spotify.com/track/6LSCy8FfW8l900nrNRAPJX) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:46 |
 | 41 | [Number One \- New Mix Ver.](https://open.spotify.com/track/3CE47jlR1gbJ66JTv3x7KB) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:58 |
 | 42 | [ブラッドタイプ☆ハートビート](https://open.spotify.com/track/3o4rU7AfHNzh1kAVq1VyYk) | [アース・スター ドリーム](https://open.spotify.com/artist/4qYsIXYEJ4RdMzHsgDLs7q), [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7), [斎藤愛永](https://open.spotify.com/artist/2d1N6ULMhAM6HJtzlkSEgN), [谷尻まりあ](https://open.spotify.com/artist/360PQ5XwSNHRNwLzVWc001), [村北沙織](https://open.spotify.com/artist/61VQpMQQxHwZtsR4uXKnFx) | [ブラッドタイプ☆ハートビート](https://open.spotify.com/album/3A0LuuqrBaK5RWneq9ojv0) | 4:02 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 69 | [Ashita Tenki ni Naare](https://open.spotify.com/track/2gX9TP8JzHjgHFMbk0yI6O) | [Daisy×Daisy](https://open.spotify.com/artist/5wYga8lT3TNapDC8ciqarN) | [Dangerous x Dizzy x Daisy](https://open.spotify.com/album/1qm8lz6DgikAsbAOlNRYCn) | 4:51 |
 | 70 | [ベイビーミュージックライダー](https://open.spotify.com/track/6w4h0SHsBqhl3mX9gRUvhc) | [Gero](https://open.spotify.com/artist/3UKIvzs7j5UeL8YpOgdieK) | [EGOIST](https://open.spotify.com/album/0ipn4KbD0P64UOX7FfG97T) | 3:48 |
 | 71 | [ボーダーライン](https://open.spotify.com/track/23tAqSb0rt35fs2afloqwH) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [ボーダーライン](https://open.spotify.com/album/0Dgj7OW90dReXbfCDFW3Cq) | 4:48 |
-| 72 | [奇天烈ポエマー\(弾き語りver.\)](https://open.spotify.com/track/4JFRAbNBC7f6QMJOL4RQMr) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [パラレルワールド](https://open.spotify.com/album/4jrDUOqLbjReixDfvdlB0f) | 3:08 |
+| 72 | [Kiteretsu Poemer \- Hikigatari Ver.](https://open.spotify.com/track/7zGTy1N5etnVs7flQbF6Kg) | [大石昌良](https://open.spotify.com/artist/2DCpkbmYB8FVjI0n15MdSR) | [Kiteretsu Poemer \(Hikigatari Ver.\)](https://open.spotify.com/album/5dm4QWiyCi3UQ2uFna9G7G) | 3:08 |
 | 73 | [アンサー](https://open.spotify.com/track/0h77eDK5doDdvFKRP9GgRG) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 6:26 |
 | 74 | [ピーターパン・シンドローム](https://open.spotify.com/track/1RCN4HeBW5igkLn4oVeKmX) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 5:58 |
 | 75 | [さらばピニャコラーダ](https://open.spotify.com/track/4DJyuif4QfXTxopaBqwAaB) | [Sound Schedule](https://open.spotify.com/artist/6HORUWB9z2qb1Bm0q510Ww) | [Sound Schedule Live Tour “PLACE2019” LIQUIDROOM](https://open.spotify.com/album/5ZKL7tnZPYK9by71TBIOXq) | 4:42 |
 | 76 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 77 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MTY2MDY2MjAwMCwwMDAwMDAwMGY4Y2UzZmMwYmJiNzBjM2YwZmQwN2QxYzc3NGFkMzU2`
+Snapshot ID: `MTY2MDY2MjAwMCwwMDAwMDAwMDlmZmIzNWQyZmRiOWIzZWNmNjllMzg3MmJiODMwZjM4`

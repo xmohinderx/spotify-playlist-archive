@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 
 > Celebrated masters of 'French touch', This Is Daft Punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,284 likes - 43 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,459 likes - 43 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 | 33 | [Teachers](https://open.spotify.com/track/4ZdjCuiWBv2weLftWPJ72c) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 2:53 |
 | 34 | [Short Circuit](https://open.spotify.com/track/4npMbTuxrUA3Wd7edACZ2L) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:26 |
 | 35 | [Alive](https://open.spotify.com/track/1PH5Es89c1cENU8WVuWwbp) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:16 |
-| 36 | [Human After All](https://open.spotify.com/track/2FTxc9WUZcKFQtFrT1oOVd) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 5:19 |
+| 36 | [Human After All](https://open.spotify.com/track/3aByRUC2BVL6Fs1zI723sd) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 5:19 |
 | 37 | [Fresh](https://open.spotify.com/track/78H72MElkOY9cRnaudxZFY) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 4:04 |
 | 38 | [Give Life Back to Music](https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:35 |
 | 39 | [Too Long](https://open.spotify.com/track/3zMvotMEQK3xvH01vA9wAP) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 10:00 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAkrucRF6Gq.md) - [plain]
 | 42 | [Ouverture](https://open.spotify.com/track/1pyTJdbGVBVvKXC3MtemHA) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Daft Club](https://open.spotify.com/album/1O5WUh9KsgHT2QaUCJeVPG) | 2:40 |
 | 43 | [Beyond](https://open.spotify.com/track/0k1xMUwn9sb7bZiqdT9ygx) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:50 |
 
-Snapshot ID: `MTY2Nzk3NDgxNywwMDAwMDAwMDNiMmY5MWVlYWQyYzNiMTVkYzg4Yjc0Y2Q4ZTUzNTg2`
+Snapshot ID: `MTY2Nzk3NDgxNywwMDAwMDAwMGNkOWE2MjQxYzAxY2M2ZWM2YzY4Mjk5MTM4YjJmZmJj`

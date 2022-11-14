@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. angelus
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,412 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,460 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 80 | [veins](https://open.spotify.com/track/4VpfWYX22H2B27glBf4t19) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [veins](https://open.spotify.com/album/2RMupCS5u3dxfhV1OaxCI9) | 3:46 |
 | 81 | [Bury It \- Alice Longyu Gao Remix](https://open.spotify.com/track/6KIP5nzxAA5zWzFQCGQwns) | [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Bury It \(Alice Longyu Gao Remix\)](https://open.spotify.com/album/180xOHbxZqHlCOVl0IBQRX) | 2:10 |
 | 82 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
-| 83 | [Horse Girl](https://open.spotify.com/track/1EqDSe1As5tdf5plS0yl7a) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/4MHDJJydXzMbuJkMaLP5Ic) | 3:06 |
+| 83 | [Horse Girl](https://open.spotify.com/track/6xaTMOrUsaTl96eGYZh6fB) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:06 |
 | 84 | [Show Me What](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:49 |
 | 85 | [premonition](https://open.spotify.com/track/3qlTCTopvHiWG9Io8Fi5lh) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [premonition](https://open.spotify.com/album/6xXUHugBSSw4apMZyOSoFG) | 2:20 |
 | 86 | [MAKE U 3 ME](https://open.spotify.com/track/49IOKR62Do5CItTkB7sB4c) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [MAKE U 3 ME](https://open.spotify.com/album/6Ik7T8xdpPqZvcI0g74a2h) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 |
 | 100 | [Petroleum](https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Petroleum / Hidden Land](https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5) | 3:18 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDFhN2RiMGJlNmZlYzliYmM0ZWM2MzgwYzFkNzhlNTJj`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDZmMGVkMDgyMzgzYjgxMjkxZGY2Yzc1MGRmNjkwN2Jm`

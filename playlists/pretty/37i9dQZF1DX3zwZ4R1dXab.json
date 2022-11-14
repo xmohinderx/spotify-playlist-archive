@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 1028,
+  "num_followers": 1031,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDMyYzIwYWEyMTRhZDdlNmE0MGNhZDFhNzZhMjVlZmQ3",
+  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMGYzOTdiMjBhYTc1ZDRjODQ4MWM0MzU1ZWIzZjVhYWM3",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
         "name": "Simple Pleasures",
         "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "One Step Ahead",
-        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 164106,
       "name": "With A Little Help From My Friends - Remastered 2009",
       "url": "https://open.spotify.com/track/2RnPATK99oGOZygnD2GTO6"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "One Step Ahead",
+        "url": "https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -299,22 +315,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Flavor",
-        "url": "https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy"
-      },
-      "artists": [
-        {
-          "name": "Summerfields",
-          "url": "https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Me Donner Un Essai",
         "url": "https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue"
       },
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Growing Old",
-        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
+        "name": "Flavor",
+        "url": "https://open.spotify.com/album/0NT0x4d7phtQvOmamC84Dy"
       },
       "artists": [
         {
-          "name": "Ezequiel Johnson",
-          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
+          "name": "Summerfields",
+          "url": "https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4"
         }
       ],
-      "duration_ms": 126250,
-      "name": "Growing Old",
-      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
+      "duration_ms": 152727,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/2CAHNVbtpBejt51a6ZdQ2Q"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -359,6 +359,22 @@
       "duration_ms": 250346,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Johnson",
+          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -551,22 +567,6 @@
       "duration_ms": 149500,
       "name": "Pensierino",
       "url": "https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "Chill Jazz Hits",
-        "url": "https://open.spotify.com/album/2E2May9swmlrRnKNBi3YLJ"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/6qijYphfXANswOiReTbTm6"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Zadar",
-        "url": "https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz"
-      },
-      "artists": [
-        {
-          "name": "Davorka Poljak",
-          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
-        }
-      ],
-      "duration_ms": 123250,
-      "name": "Zadar",
-      "url": "https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 109733,
       "name": "Calm",
       "url": "https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Zadar",
+        "url": "https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz"
+      },
+      "artists": [
+        {
+          "name": "Davorka Poljak",
+          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+        }
+      ],
+      "duration_ms": 123250,
+      "name": "Zadar",
+      "url": "https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
+        "name": "P.S. I'm Still Here",
+        "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
+      },
+      "artists": [
+        {
+          "name": "Vincent & A Secret",
+          "url": "https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6"
+        }
+      ],
+      "duration_ms": 105577,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
         "name": "Story Time",
         "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 145898,
       "name": "Space And Time",
       "url": "https://open.spotify.com/track/2WlKoxl8hJiuOgKolOH3WR"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
-        "name": "P.S. I'm Still Here",
-        "url": "https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1"
-      },
-      "artists": [
-        {
-          "name": "Vincent & A Secret",
-          "url": "https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6"
-        }
-      ],
-      "duration_ms": 105577,
-      "name": "While You Were Sleeping",
-      "url": "https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Finding Solitude",
-        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
-      },
-      "artists": [
-        {
-          "name": "Miesha Berens",
-          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
-        }
-      ],
-      "duration_ms": 153124,
-      "name": "Finding Solitude",
-      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Weightless Again",
         "url": "https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 119946,
       "name": "On a Clear Day",
       "url": "https://open.spotify.com/track/5PcP4bmY5dSL9jfWhTVVjB"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Finding Solitude",
+        "url": "https://open.spotify.com/album/4HSa5LuC2F1lOVOgnqlky7"
+      },
+      "artists": [
+        {
+          "name": "Miesha Berens",
+          "url": "https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln"
+        }
+      ],
+      "duration_ms": 153124,
+      "name": "Finding Solitude",
+      "url": "https://open.spotify.com/track/44GNDx5mPRKiwSLjJAe5Yg"
     },
     {
       "added_at": "2022-09-15 11:18:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 
 > The birth of the blues, as it happened...
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,179 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,207 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 14 | [Anna Lou Blues](https://open.spotify.com/track/2W0BjJUp2uhRRsiJRRBPQv) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [His Blues](https://open.spotify.com/album/33mFphNv7BxGBOpvW0lHFN) | 2:50 |
 | 15 | [Further Up on the Road](https://open.spotify.com/track/7n4zQp0b3vnsmcjmEfLo2r) | [David "Honeyboy" Edwards](https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR) | [Honeyboy Edwards: Missisippi Delta Bluesman](https://open.spotify.com/album/6GUzyOdb9vLQLIO9bswhQL) | 4:20 |
 | 16 | [Sugar Babe](https://open.spotify.com/track/2AN3wNGUW0IgzfuurtVEDS) | [Mance Lipscomb](https://open.spotify.com/artist/7jmGjfkkVOjBdjf54YHhwg) | [The Best of Mance Lipscomb](https://open.spotify.com/album/0eCmA697jLiVn1EXTx52BB) | 2:04 |
-| 17 | [Parchman Farm Blues](https://open.spotify.com/track/5NTAzjN9cI8GIyzMQgjCxM) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp), [Washboard Sam](https://open.spotify.com/artist/7lTZRLYcjbgGHXCA1VCYDT) | [Bukka White \(Doxy Collection\)](https://open.spotify.com/album/2gC8mucP4T5CBv2KBkhUkp) | 2:39 |
+| 17 | [Parchman Farm Blues](https://open.spotify.com/track/5cQ7tg9pZauOxt7K7GuUQS) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Presenting Bukka White](https://open.spotify.com/album/6MPjSoHLOZSsu047TOjWPo) | 2:42 |
 | 18 | [No More, My Lawd](https://open.spotify.com/track/6LYtBOkkTUNQ6RTHAyFflL) | [Alan Lomax](https://open.spotify.com/artist/1u8YzEYh6gvvFog95WtAao) | [Negro Prison Blues And Songs](https://open.spotify.com/album/7lXqoJ3JvHVAbaKBT8XSQi) | 2:09 |
 | 19 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 |
 | 20 | [Black Snake Moan](https://open.spotify.com/track/4behsNa8x0dwysWBn6gUHS) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Great Blues Guitarsists: String Dazzlers](https://open.spotify.com/album/4ub1JhVXa8rNmwvRrqRxCP) | 2:50 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 26 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
 | 27 | [Devil Got My Woman](https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Legends Of Country Blues: The Complete Pre\-War Recordings Of Skip James \(Disc A\)](https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV) | 3:01 |
 | 28 | [Fixin' To Die Blues](https://open.spotify.com/track/2GM7Q376O8D1L5egNPjwTY) | [Bukka White](https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp) | [Aberdeeen Mississippi Blues \- Sounds Of The 30s](https://open.spotify.com/album/1MVK1X7iUByCN67Abh9byW) | 2:50 |
-| 29 | [Where Did You Sleep Last Night](https://open.spotify.com/track/7ucwcsXOmwwgrcMB3YeaKA) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Ultimate Country Blues Collection](https://open.spotify.com/album/736y5c0LSTTQ7FxkBq23p0) | 3:04 |
+| 29 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 30 | [Church Bells Blues](https://open.spotify.com/track/3xJoE2JFGDTADwZjUKjrRe) | [Luke Jordan](https://open.spotify.com/artist/37V9ElynG02USvurkCsTCs) | [If I Call You Mama](https://open.spotify.com/album/1RzqZV4fEZ5wBrdgjFTTwB) | 3:16 |
 | 31 | [Blue Guitar](https://open.spotify.com/track/5nrFJNFoatpDYUQoSbf6jr) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Sun Records \- Blues Archive](https://open.spotify.com/album/4lKN83NcPLUYuKDUhYbk9x) | 2:44 |
 | 32 | [Mean Old Twister](https://open.spotify.com/track/7z4xP8kzJ6UDviV0qmO9l1) | [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Presenting Kokomo Arnold](https://open.spotify.com/album/60D5tvGM6mLtJaXnkpEOdd) | 2:59 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 38 | [Hard Time Killin' Floor Blues](https://open.spotify.com/track/77xNKAq581eD62ipzK81yc) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James 1931](https://open.spotify.com/album/2MG7zkZAjRN58gncuqAvpl) | 2:50 |
 | 39 | [Down The Dirt Road Blues](https://open.spotify.com/track/4sCCIP8eG3HVizWnm1SQ0G) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [Charley Patton Vol\. 1 \(1929\)](https://open.spotify.com/album/0fWV8D1byaFWLivZSRqf8v) | 2:54 |
 | 40 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
-| 41 | [When the Levee Breaks](https://open.spotify.com/track/3pfbxBgKA5lRlb6hQ36zDJ) | [Kansas Joe](https://open.spotify.com/artist/5Mq319u41WyFbnYy3e1L8O), [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Rough Guide to the Roots of the Blues](https://open.spotify.com/album/0GTnfDc6HdTUQwD8rYflQ6) | 3:11 |
+| 41 | [When the Levee Breaks \- Alternate Take](https://open.spotify.com/track/45TOuASHdVywkYXVd6CnEl) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Presenting Memphis Minnie](https://open.spotify.com/album/3dEooHBk6cpxW98yT25Z3T) | 3:09 |
 | 42 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl) | 3:21 |
 | 43 | [Match Box Blues \(Alternate Take 3\)](https://open.spotify.com/track/5i1OyZAOU0ewFLc7txMuTq) | [Blind Lemon Jefferson](https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe) | [Presenting Blind Lemon Jefferson](https://open.spotify.com/album/4Zts8YPK9tFsccSTxf7xMe) | 2:55 |
 | 44 | [You Missed a Good Man](https://open.spotify.com/track/5MZk7SARZdDuOMSQgBAzmc) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [Presenting Tampa Red](https://open.spotify.com/album/0rkgubKMe8PInoXKK5NWcU) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbxDw7wBcIC.md) - [plain]
 | 49 | [A Spoonful Blues](https://open.spotify.com/track/51pOZACVv195eLRsIRVEx6) | [Charley Patton](https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw) | [The Complete Recordings 1929\-34, Vol\. 1](https://open.spotify.com/album/3FNisSG0Qa7d1sbnRDNIob) | 3:10 |
 | 50 | [Double Trouble](https://open.spotify.com/track/4eglzfnT6Z8XiJnJuXtDqF) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Spotlights the Blues Volume 2](https://open.spotify.com/album/7ay3aj05yhwcdS6GIAWcnE) | 3:30 |
 
-Snapshot ID: `MTU2ODAxMzE4NCwwMDAwMDAwMGZlOGQ0OGJmZGM0NzhiOGZjOTcyMTAwZGFkODAxNzI2`
+Snapshot ID: `MTU2ODAxMzE4NCwwMDAwMDAwMDg2NzgwYzFjM2FiNWU5MmE2NGZjOTNlMTZhNjU5MGZi`

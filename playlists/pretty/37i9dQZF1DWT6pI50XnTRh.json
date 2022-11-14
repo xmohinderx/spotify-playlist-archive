@@ -1,12 +1,12 @@
 {
   "description": "Nostalgic '70-ies and '80-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa. Get your boogie on!",
-  "num_followers": 146469,
+  "num_followers": 146537,
   "original_name": "AfroBoogie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDIwMzcwMiwwMDAwMDAwMDdkZTYxYjgxODZkYzgxYzc3YjE5YWMyNzY0ZTJhNGY5",
+  "snapshot_id": "MTY2NDIwMzcwMiwwMDAwMDAwMGE0NDhmOWY2NjFjNzU3OTdkMDc3Mzg3NGMwOTViZWU1",
   "tracks": [
     {
       "added_at": "2022-09-26 14:48:22",
@@ -139,6 +139,38 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Give It To Me Baby",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "That's the Way (I Like It) - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
         "name": "Ring My Bell",
         "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
       },
@@ -231,6 +263,22 @@
       "duration_ms": 227261,
       "name": "Shake Your Body (Down to the Ground) - 7\" Version",
       "url": "https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
+        "name": "Nightclubbing",
+        "url": "https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 281693,
+      "name": "Pull Up To The Bumper",
+      "url": "https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G"
     },
     {
       "added_at": "2022-09-26 14:48:22",
@@ -355,26 +403,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "All the Hits",
-        "url": "https://open.spotify.com/album/694z31mMGJZ5pdK9cdBzYI"
-      },
-      "artists": [
-        {
-          "name": "Phil Fearon",
-          "url": "https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF"
-        },
-        {
-          "name": "Galaxy",
-          "url": "https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "What Do I Do",
-      "url": "https://open.spotify.com/track/6E9uCbwEGkY4AXDFCiSfSH"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu"
       },
@@ -391,18 +419,22 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Good Feeling?",
-        "url": "https://open.spotify.com/album/5BFfuGnAX9JLIgMFHBXMIc"
+        "name": "All the Hits",
+        "url": "https://open.spotify.com/album/694z31mMGJZ5pdK9cdBzYI"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "Phil Fearon",
+          "url": "https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF"
+        },
+        {
+          "name": "Galaxy",
+          "url": "https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn"
         }
       ],
-      "duration_ms": 185466,
-      "name": "That's the Way (I Like It)",
-      "url": "https://open.spotify.com/track/1mtlNz8CZvflIoWcsO6PIe"
+      "duration_ms": 209320,
+      "name": "What Do I Do",
+      "url": "https://open.spotify.com/track/6E9uCbwEGkY4AXDFCiSfSH"
     },
     {
       "added_at": "2022-09-26 14:48:22",
@@ -495,22 +527,6 @@
       "duration_ms": 202453,
       "name": "Untitled Instrumental",
       "url": "https://open.spotify.com/track/2aUHr9nibVhoYHoKFlEw1T"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Funky Jamz Mix",
-        "url": "https://open.spotify.com/album/6wK3NEvoVuGfs6Nsa6V7XP"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Give It To Me Baby",
-      "url": "https://open.spotify.com/track/6z7KCBBUfjf55XqW9ExhW4"
     },
     {
       "added_at": "2022-09-26 14:48:22",
@@ -631,22 +647,6 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
-        "name": "Ojah Awake",
-        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
-      },
-      "artists": [
-        {
-          "name": "Osibisa",
-          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "The Warrior",
-      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-09-26 14:48:22",
       "album": {
+        "name": "Ojah Awake",
+        "url": "https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU"
+      },
+      "artists": [
+        {
+          "name": "Osibisa",
+          "url": "https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "The Warrior",
+      "url": "https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl"
+    },
+    {
+      "added_at": "2022-09-26 14:48:22",
+      "album": {
         "name": "3rd World",
         "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 411566,
       "name": "Desires",
       "url": "https://open.spotify.com/track/1BWnAnHrIjRsOb4F9xC0P7"
-    },
-    {
-      "added_at": "2022-09-26 14:48:22",
-      "album": {
-        "name": "Fill The Dance Floor",
-        "url": "https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 281693,
-      "name": "Pull Up To The Bumper",
-      "url": "https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra"
     },
     {
       "added_at": "2022-09-26 14:48:22",

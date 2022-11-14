@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 
 > This Is YoungBoy Never Broke Again\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,938 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,192 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 | 37 | [Ten Talk](https://open.spotify.com/track/1IeXZVBNGJJExnzNmXcLRX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:52 |
 | 38 | [Cross Me \(feat\. Lil Baby and Plies\)](https://open.spotify.com/track/3V3JxDpiUg0RAt1Mfbn6Ht) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [Realer](https://open.spotify.com/album/3o5se5blwiAdJPk8yAw1EQ) | 3:53 |
 | 39 | [Solar Eclipse](https://open.spotify.com/track/0Jr4zQh5i3vrKFEcXrhhxl) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 3:47 |
-| 40 | [Genie](https://open.spotify.com/track/6VdpHRZ86tW2sUs2fsB2kR) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Hip Hop Stage](https://open.spotify.com/album/6SaPQVthwNtcLCAkIjBhSD) | 3:14 |
+| 40 | [Genie](https://open.spotify.com/track/7E6knQgEAcU0nIjQJuwrIv) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 3:14 |
 | 41 | [Nawfside](https://open.spotify.com/track/2GCgo6ZOGVGh4n4BUfRGOq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:34 |
 | 42 | [I Came Thru](https://open.spotify.com/track/2umdwsJRuFHBRw8TCQmYbq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Realer](https://open.spotify.com/album/3o5se5blwiAdJPk8yAw1EQ) | 2:41 |
 | 43 | [Sticks With Me](https://open.spotify.com/track/4ECQTHvmLiRq2uq5SlLnrj) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08Pol1s74FY.md) - [plain]
 | 49 | [Untouchable](https://open.spotify.com/track/6xL9MJ2yt39HPPZPyGkRy8) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy](https://open.spotify.com/album/278c24ae4JsSRpOEzlaghQ) | 3:00 |
 | 50 | [Ain't Easy](https://open.spotify.com/track/485RHcQUM5qotAlfutUhwT) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:25 |
 
-Snapshot ID: `MTY2NDExMTc3OCwwMDAwMDAwMDdjMjk0MjU1MGE2NmQzZjFjNDQ2NzVjODgxYmM2ZmI1`
+Snapshot ID: `MTY2NDExMTc3OCwwMDAwMDAwMDcyMjQ3MTI1Zjk1NmVhNGU2YTljYjkzOGNkYzlhM2Y5`

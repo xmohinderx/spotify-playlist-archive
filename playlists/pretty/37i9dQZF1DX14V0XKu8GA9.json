@@ -1,15 +1,15 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 17746,
+  "num_followers": 17770,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDYyNTUxZmIyOGI1ZTNhNTlkMjRiZTUwMzFkOTQ1YmRl",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDk3MjhjMGQzZTkwMGRkMTMwMDY4ZmJjYWMwMWFhY2Zm",
   "tracks": [
     {
-      "added_at": "2022-11-13 01:24:37",
+      "added_at": "2022-11-14 01:21:09",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/2EMFr4pSI55v5Xm6FgUBvk"
-      },
-      "artists": [
-        {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
-        }
-      ],
-      "duration_ms": 159101,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2HzSAg4A7t5yM8Ly3JpaZR"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Risk Taker",
         "url": "https://open.spotify.com/album/1zkmSFV82BqYQSit5K9fyu"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 156792,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/0NfG30rZJDLi9oO6P8XV3Z"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/2EMFr4pSI55v5Xm6FgUBvk"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        }
+      ],
+      "duration_ms": 159101,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2HzSAg4A7t5yM8Ly3JpaZR"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -543,18 +543,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "I Ain't Gon Lie",
-        "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
+        "name": "PRO CLUB",
+        "url": "https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61"
       },
       "artists": [
         {
-          "name": "J.I the Prince of N.Y",
-          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
         }
       ],
-      "duration_ms": 120000,
-      "name": "I Ain't Gon Lie",
-      "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
+      "duration_ms": 166974,
+      "name": "PRO CLUB",
+      "url": "https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -647,22 +651,18 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "PRO CLUB",
-        "url": "https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61"
+        "name": "I Ain't Gon Lie",
+        "url": "https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ"
       },
       "artists": [
         {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        },
-        {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
         }
       ],
-      "duration_ms": 166974,
-      "name": "PRO CLUB",
-      "url": "https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz"
+      "duration_ms": 120000,
+      "name": "I Ain't Gon Lie",
+      "url": "https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Benz",
+        "url": "https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq"
+      },
+      "artists": [
+        {
+          "name": "Street Active",
+          "url": "https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Baby Yungin",
+          "url": "https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO"
+        }
+      ],
+      "duration_ms": 155402,
+      "name": "Benz",
+      "url": "https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
       },
@@ -1367,26 +1391,6 @@
       "duration_ms": 143622,
       "name": "Over",
       "url": "https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/53T2GDWLFcSnbZ4SbP4quy"
-      },
-      "artists": [
-        {
-          "name": "Lil Grifo",
-          "url": "https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk"
-        },
-        {
-          "name": "Lil Rob",
-          "url": "https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1"
-        }
-      ],
-      "duration_ms": 209322,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw"
     },
     {
       "added_at": "2022-09-23 15:32:00",
@@ -1423,26 +1427,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Benz",
-        "url": "https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/53T2GDWLFcSnbZ4SbP4quy"
       },
       "artists": [
         {
-          "name": "Street Active",
-          "url": "https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9"
+          "name": "Lil Grifo",
+          "url": "https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk"
         },
         {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Baby Yungin",
-          "url": "https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO"
+          "name": "Lil Rob",
+          "url": "https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1"
         }
       ],
-      "duration_ms": 155402,
-      "name": "Benz",
-      "url": "https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP"
+      "duration_ms": 209322,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw"
     },
     {
       "added_at": "2022-09-23 15:32:00",

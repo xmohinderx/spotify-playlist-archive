@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,857 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,874 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 45 | [La Nada](https://open.spotify.com/track/1RqeXjIirY9nD9rypTvU2G) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO) | [La Nada](https://open.spotify.com/album/5ziIa95wsIA1lUiDEpm2ad) | 3:06 |
 | 46 | [Pulso & Sudor](https://open.spotify.com/track/7uD7zOaghFbdV9bRz7SNAO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pulso & Sudor](https://open.spotify.com/album/7MNIx7mV2OVCvO7ltXMFkl) | 3:21 |
 | 47 | [Mi Son](https://open.spotify.com/track/4E90YZkChPVaCiD9Kemsyy) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo) | [Mi Son](https://open.spotify.com/album/0jujrQzZWM7VYYijVdHyaH) | 3:44 |
-| 48 | [La Típica](https://open.spotify.com/track/03TwdngKfoPWtXEHwkhid0) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Típica](https://open.spotify.com/album/16TDlWh7XgEuclEP0waHxh) | 2:51 |
+| 48 | [La Típica \(2.018\)](https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 2:51 |
 | 49 | [La Vida Es Solo Una](https://open.spotify.com/track/5CwIPEZLQWwYB8tKruccJm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Vida Es Solo Una](https://open.spotify.com/album/6nMhlrzDLRGETUIxjpqXiU) | 3:04 |
 | 50 | [Hienas](https://open.spotify.com/track/0fMUUugJLn2IZX5EedPRj2) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Hienas](https://open.spotify.com/album/6PBGi7sW0jYuDgVlkAkjA2) | 2:55 |
 | 51 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 69 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 70 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `MTY1Nzg2MTA2NCwwMDAwMDAwMGJkOGVkYjhmNzUxNzliZDVlOThhMWMwNzYzYTg3N2Qz`
+Snapshot ID: `MTY1Nzg2MTA2NCwwMDAwMDAwMDM0MDBjYmEyNjE3MjViNDI3YTFjNDkzMmRhODM3OWFj`

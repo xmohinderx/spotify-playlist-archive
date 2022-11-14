@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 
 > Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,482 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,571 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 4 | [Ask DNA](https://open.spotify.com/track/4p1S6k6k3Clz7293zJI0xF) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [yabuhara masashi](https://open.spotify.com/artist/21QS4UY91a9ddZtgLBCBf8), [george marino](https://open.spotify.com/artist/1CidExRpByD3vm5iFfEiny) | [COWBOY BEBOP Knockin' on Heaven's Door Ask DNA](https://open.spotify.com/album/1a9ZvRvJCb1RnF37cf9IWW) | 4:51 |
 | 5 | [What Planet Is This.](https://open.spotify.com/track/5kGuWgZTWqroIArQQqttqV) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 2:44 |
 | 6 | [Hamduche](https://open.spotify.com/track/0sHwByo2hbVc7URpwDFmQq) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa), [yabuhara masashi](https://open.spotify.com/artist/21QS4UY91a9ddZtgLBCBf8), [george marino](https://open.spotify.com/artist/1CidExRpByD3vm5iFfEiny) | [COWBOY BEBOP Knockin' on Heaven's Door Ask DNA](https://open.spotify.com/album/1a9ZvRvJCb1RnF37cf9IWW) | 1:54 |
-| 7 | [Blue](https://open.spotify.com/track/1y8cNFVQOzeAGMESmmnGnt) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 3 \- Blue\)](https://open.spotify.com/album/4MhCKW36bndX2VMQ8qYMv1) | 5:04 |
+| 7 | [Blue](https://open.spotify.com/track/0a2qIEnOqn55A98cgpirod) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [COWBOY BEBOP Tank! the! Best!](https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A) | 5:04 |
 | 8 | [Doggy Dog](https://open.spotify.com/track/6h2Xx6umL3OhGOCd1G6AG0) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Vitaminless](https://open.spotify.com/album/0J2DObt0HybwYP91obpHRy) | 3:16 |
 | 9 | [Wo Qui Non Coin](https://open.spotify.com/track/44l2QraBH96L5LejzEFWLH) | [Aoi tada](https://open.spotify.com/artist/4J2TB2uKA5u3i72rSnKRpD) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 3 \- Blue\)](https://open.spotify.com/album/4MhCKW36bndX2VMQ8qYMv1) | 3:43 |
 | 10 | [Want It All Back](https://open.spotify.com/track/5IelZUtckHgYrg12Xr4sse) | [Mai Yamane](https://open.spotify.com/artist/2jakCNqkEhdRND7btwoFOj) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 2 \- No Disc\)](https://open.spotify.com/album/4GeRMwOn7610GFgQ49Y9qd) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 49 | [Power Of Kung Food Remix](https://open.spotify.com/track/24iinTSs3SnvI4JtdmtmWF) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack 2 \- No Disc\)](https://open.spotify.com/album/4GeRMwOn7610GFgQ49Y9qd) | 5:28 |
 | 50 | [Black Coffee](https://open.spotify.com/track/3vZpQuIGEFQrMApF9yJReA) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP Vitaminless](https://open.spotify.com/album/0J2DObt0HybwYP91obpHRy) | 3:14 |
 
-Snapshot ID: `MTY1MDU1MzMxNSwwMDAwMDAwMDlhNWFlZDFiN2Y0MmRlNjQxZTZhNWFkYWNlMGE5MTNh`
+Snapshot ID: `MTY1MDU1MzMxNSwwMDAwMDAwMDM3OGU3ZWM2MjA1OWRmZTcxZTgyZDE3NGMxYjUxMzY3`

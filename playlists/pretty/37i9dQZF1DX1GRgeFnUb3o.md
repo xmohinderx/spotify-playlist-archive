@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,109 likes - 61 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,143 likes - 61 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GRgeFnUb3o.md) - [plain]
 | 55 | [Let's Fuck](https://open.spotify.com/track/2dWg9qLNiuSBs4hft8ZIVI) | [Dwarves](https://open.spotify.com/artist/4D9H6CaKzDTaN1EbAHypYg) | [Blood, Guts & Pussy](https://open.spotify.com/album/5mOU3fEIptDSeCatcK9Enw) | 1:01 |
 | 56 | [Mantrap](https://open.spotify.com/track/6slOJmjugBOsa6ljMnNm74) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/1Pf4eOiycm196Hdrfw68Vo) | 1:50 |
 | 57 | [F Train](https://open.spotify.com/track/73aWErwgaaRG3kLQtFCxXR) | [Rein Sanction](https://open.spotify.com/artist/3wFHDXSHYQyd5KajSQoYFl) | [Broc's Cabin](https://open.spotify.com/album/6msd58VCmWoV1ETO9ZMaS1) | 3:37 |
-| 58 | [Lo Boob Oscillator](https://open.spotify.com/track/6sRnQajHnGZa2mHXrUdKly) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Refried Ectoplasm \[Switched On Volume 2\]](https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY) | 6:36 |
+| 58 | [Lo Boob Oscillator](https://open.spotify.com/track/5DILJYk31ZXENMY26k3br1) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Lo Boob Oscillator](https://open.spotify.com/album/5plHekIiphgTChKLttY5P4) | 6:36 |
 | 59 | [One Out Of Four](https://open.spotify.com/track/3HN4YbxCAJKvxxNUjQoJF5) | [Seaweed](https://open.spotify.com/artist/4jzHHEC3qk1j4hnIWPUnsu) | [Despised](https://open.spotify.com/album/39ylZDF4NVFkdHem63NaMG) | 2:42 |
 | 60 | [Good Enough \- Remastered](https://open.spotify.com/track/2wcpa5PSqWRRx2dQhxDjE4) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Every Good Boy Deserves Fudge \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/12SPtVu2JnT2I6D3RNKMX4) | 3:26 |
 | 61 | [Marijuana](https://open.spotify.com/track/2eTUrr93UBSj7qcZcUOKuw) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 4:49 |
 
-Snapshot ID: `MTYxOTE3MjYwNiwwMDAwMDAwMDY0MWQ0ODQyYTUwNmExZDZlMmE1ZGM1NmI5NGRhODNl`
+Snapshot ID: `MTYxOTE3MjYwNiwwMDAwMDAwMGQyZTE4MDI1YWE4YjI1NDgzM2IyMDU5NzUyOGQzZGZi`

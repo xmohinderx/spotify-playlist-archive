@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 326972,
+  "num_followers": 327055,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MzUyOSwwMDAwMDAwMDY1NDY3MjE0NTQ1M2I3MzJlNjk5NjYwMTM2OWU2Zjk5",
+  "snapshot_id": "MTY2ODE3MzUyOSwwMDAwMDAwMDViMGM3OGMwMDA1NzUxZjUwM2I2NWRkZjY4MzhjYTk4",
   "tracks": [
     {
       "added_at": "2022-11-11 13:32:09",
@@ -323,6 +323,26 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
+        "name": "Paula e Bebeto",
+        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 191418,
+      "name": "Paula e Bebeto",
+      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
         "name": "Pra Melhorar",
         "url": "https://open.spotify.com/album/0QH2rS1adlxbwHBWxemfhv"
       },
@@ -347,26 +367,6 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
-        "name": "Paula e Bebeto",
-        "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 191418,
-      "name": "Paula e Bebeto",
-      "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
         "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
         "url": "https://open.spotify.com/album/3vCdZZO5Q0gxSUblcsSZtq"
       },
@@ -379,22 +379,6 @@
       "duration_ms": 229426,
       "name": "Mensagem de Amor (20\u00b0 Anivers\u00e1rio)",
       "url": "https://open.spotify.com/track/73sHSwoXam1tNDWEwEfHWe"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
-        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
-      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -415,18 +399,18 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
-        "name": "Ciumeira",
-        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
+        "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+        "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 151458,
-      "name": "Ciumeira",
-      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
+      "duration_ms": 301714,
+      "name": "Da Maior Import\u00e2ncia - Spotify Singles",
+      "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -443,6 +427,22 @@
       "duration_ms": 212014,
       "name": "Sem Samba N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
+        "name": "Ciumeira",
+        "url": "https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "Ciumeira",
+      "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
+        "name": "Degrad\u00ea",
+        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 206113,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 145191,
       "name": "Farol",
       "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
-        "name": "Degrad\u00ea",
-        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 206113,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
-        "name": "Habilidades Extraordin\u00e1rias",
-        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
-      },
-      "artists": [
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        }
-      ],
-      "duration_ms": 273974,
-      "name": "Habilidades Extraordin\u00e1rias",
-      "url": "https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
         "name": "Aposta",
         "url": "https://open.spotify.com/album/1cb98k7ng0tmg4dRBq77OB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 202386,
       "name": "Aposta",
       "url": "https://open.spotify.com/track/1fzPRqUPmOL823vG6r9rPg"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
+        "name": "Habilidades Extraordin\u00e1rias",
+        "url": "https://open.spotify.com/album/7CsBswgYYISQdoy5DqSywx"
+      },
+      "artists": [
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 273974,
+      "name": "Habilidades Extraordin\u00e1rias",
+      "url": "https://open.spotify.com/track/4ORL3b19kkul61f5Qem2r5"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
-        "name": "Dan\u00e7a",
-        "url": "https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj"
-      },
-      "artists": [
-        {
-          "name": "Dois \u00e9 Par",
-          "url": "https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk"
-        }
-      ],
-      "duration_ms": 160121,
-      "name": "Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1mWjgRmbkSgUsHDevU7jT9"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
         "name": "Tocando Em Frente",
         "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 243764,
       "name": "Tocando Em Frente",
       "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj"
+      },
+      "artists": [
+        {
+          "name": "Dois \u00e9 Par",
+          "url": "https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk"
+        }
+      ],
+      "duration_ms": 160121,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1mWjgRmbkSgUsHDevU7jT9"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
         "name": "Vestido de Amor",
         "url": "https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 220286,
       "name": "SobreHumano",
       "url": "https://open.spotify.com/track/1NvxtekkTSINREzraxen7q"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
+        "name": "Alceu Valen\u00e7a e Paulo Rafael",
+        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Paulo Rafael",
+          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
+        }
+      ],
+      "duration_ms": 204873,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
         "name": "Aqui em Casa (Ep 02)",
         "url": "https://open.spotify.com/album/55d26HxQZEQLu4Kny8Ce6B"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 216340,
       "name": "Um Deus Aleijado",
       "url": "https://open.spotify.com/track/4CQjNTDWxcCUAxHRLWtNid"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
-        "name": "Alceu Valen\u00e7a e Paulo Rafael",
-        "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Paulo Rafael",
-          "url": "https://open.spotify.com/artist/5JUUqMr35eHGJHi9W8thlo"
-        }
-      ],
-      "duration_ms": 204873,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
-        "name": "Eternas Esquinas",
-        "url": "https://open.spotify.com/album/6W9wRkGhajLwy5aRoUF3et"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Moura",
-          "url": "https://open.spotify.com/artist/74MDOYWli1AkLP7U4mIFqW"
-        },
-        {
-          "name": "Gabriel Guedes",
-          "url": "https://open.spotify.com/artist/3svMFxGPlWoxKa6ErrYutE"
-        }
-      ],
-      "duration_ms": 247317,
-      "name": "Eternas Esquinas",
-      "url": "https://open.spotify.com/track/5TGvvrDtr3NlduMiN0hm6w"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
         "name": "cantar (ao vivo no bona)",
         "url": "https://open.spotify.com/album/4cxTrMMLnNp0x1kW3GkVge"
       },
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
+        "name": "Eternas Esquinas",
+        "url": "https://open.spotify.com/album/6W9wRkGhajLwy5aRoUF3et"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Moura",
+          "url": "https://open.spotify.com/artist/74MDOYWli1AkLP7U4mIFqW"
+        },
+        {
+          "name": "Gabriel Guedes",
+          "url": "https://open.spotify.com/artist/3svMFxGPlWoxKa6ErrYutE"
+        }
+      ],
+      "duration_ms": 247317,
+      "name": "Eternas Esquinas",
+      "url": "https://open.spotify.com/track/5TGvvrDtr3NlduMiN0hm6w"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
         "name": "Pra Sorrir",
         "url": "https://open.spotify.com/album/3S6O5n8DR48FIiaGwrCv0c"
       },
@@ -1683,6 +1683,22 @@
       "duration_ms": 203571,
       "name": "Pra Sorrir",
       "url": "https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
+        "name": "Perguntas",
+        "url": "https://open.spotify.com/album/2S7tR53ClbpmiUVo7QylJL"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 198828,
+      "name": "Perguntas",
+      "url": "https://open.spotify.com/track/4GgR44xRO4v09zUpTSrAlN"
     },
     {
       "added_at": "2022-11-11 13:32:09",
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
-        "name": "Perguntas",
-        "url": "https://open.spotify.com/album/2S7tR53ClbpmiUVo7QylJL"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 198828,
-      "name": "Perguntas",
-      "url": "https://open.spotify.com/track/4GgR44xRO4v09zUpTSrAlN"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
         "name": "Laiarai\u00e1",
         "url": "https://open.spotify.com/album/4RdnMbpW6sXoIEvYaQcYl0"
       },
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-11-11 13:32:09",
       "album": {
-        "name": "Saudade \u00c9 Pouco",
-        "url": "https://open.spotify.com/album/2govUsjdogvcz0WObu9l41"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "Saudade \u00c9 Pouco",
-      "url": "https://open.spotify.com/track/4KJkY8dFC4fleO2HbdMHRE"
-    },
-    {
-      "added_at": "2022-11-11 13:32:09",
-      "album": {
         "name": "REpartir",
         "url": "https://open.spotify.com/album/6soRYDHQ3faDbRa5guIDI1"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 182756,
       "name": "Redentor",
       "url": "https://open.spotify.com/track/2MJ3pgIHIvkyUEfBwujt5A"
+    },
+    {
+      "added_at": "2022-11-11 13:32:09",
+      "album": {
+        "name": "Saudade \u00c9 Pouco",
+        "url": "https://open.spotify.com/album/2govUsjdogvcz0WObu9l41"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "Saudade \u00c9 Pouco",
+      "url": "https://open.spotify.com/track/4KJkY8dFC4fleO2HbdMHRE"
     },
     {
       "added_at": "2022-11-11 13:32:09",

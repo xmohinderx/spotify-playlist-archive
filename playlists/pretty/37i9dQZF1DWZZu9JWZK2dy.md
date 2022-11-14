@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,393 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,521 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
-| 2 | [メリッサ](https://open.spotify.com/track/7E79sVpzdsrrRNcofN0rmK) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [PORNOGRAFFITTI 15th Anniversary “ALL TIME SINGLES”](https://open.spotify.com/album/6Xp9KpYyts9Oowyyu7YVVj) | 4:34 |
+| 2 | [メリッサ](https://open.spotify.com/track/7zty9mmmuqQsn8s4zDH4nk) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Porno Graffitti 15th Anniversary All Time Singles](https://open.spotify.com/album/77NIuDpn7GAdZEwMonR273) | 4:34 |
 | 3 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 |
 | 4 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 |
 | 5 | [ココロオドル \-original version\-](https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル](https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf) | 4:13 |
 | 6 | [衝動](https://open.spotify.com/track/0s38Mpf6UkodyUtYCTaZav) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [衝動](https://open.spotify.com/album/508GKIOACUpVhhhQkh7O7w) | 3:14 |
-| 7 | [リライト](https://open.spotify.com/track/1DtySWGOuZ6zXDRE4K8eVs) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [リライト](https://open.spotify.com/album/5j9C4yxMudZffzO1TJSi0T) | 3:52 |
+| 7 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
 | 8 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 9 | [Cagayake! Girls \(From "K\-On!"\)](https://open.spotify.com/track/0SeOsmdYkzWqnlF5ttO0Jm) | [Sakurakou K\-ON Bu](https://open.spotify.com/artist/4xCCHj0hE6EX42nCQCcL4F) | [Cagayake! Girls \(from "K\-ON!"\)](https://open.spotify.com/album/50pFaF0d9E693wnQFGyEyO) | 4:10 |
 | 10 | [ハレ晴レユカイ](https://open.spotify.com/track/651dM1w0QS5qG1qdL2zraO) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ), [後藤邑子](https://open.spotify.com/artist/125fR1G9GJOC9YD8ZQ7a0Q) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 3:35 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 46 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/00lajXBbel7k0C8AefHwak) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Ponyo on the Cliff by the Sea Image Album](https://open.spotify.com/album/6bV3GjpvWu7Zf48GmSAnU3) | 2:46 |
 | 47 | [旅の途中](https://open.spotify.com/track/5Fs6i0rfOxchAOoDUuxZfI) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [TVアニメーション「狼と香辛料」OPテーマ 旅の途中](https://open.spotify.com/album/617Mua99b2ISaOLLuFl4wh) | 4:51 |
 | 48 | [アンインストール](https://open.spotify.com/track/72ghOwtaZ0vggvWspdJiE9) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [「ぼくらの」オープニングテーマ アンインストール](https://open.spotify.com/album/3pDK2zBTymHAafUL9oNbuD) | 4:41 |
-| 49 | [恋せよ女の子](https://open.spotify.com/track/5HAKZ4xOTF4vU6q2z5GE86) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [Sincerely Dears...](https://open.spotify.com/album/497WCSR8yq7HzlGyJX3Ajt) | 4:20 |
+| 49 | [恋せよ女の子](https://open.spotify.com/track/6MaE2CKZdGoWNQXHJOMshd) | [Yukari Tamura](https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ) | [銀の旋律、記憶の水音。](https://open.spotify.com/album/0eDR8cIsVOjK8GjL2dGJjT) | 4:20 |
 | 50 | [空色デイズ](https://open.spotify.com/track/4EkbGJChszyxhEP0bIwBSZ) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [しょこたん☆べすと――\(°∀°\)――!!](https://open.spotify.com/album/5kgH0okVwbTC2dfpyCtnOA) | 4:12 |
 | 51 | [only my railgun](https://open.spotify.com/track/0djCH6HbCN3cFzNkKd46yv) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [only my railgun](https://open.spotify.com/album/6oxGBR7M0cQ3IhQMJrMRVl) | 4:17 |
 | 52 | [JOINT](https://open.spotify.com/track/0VRn529V2PuyZ9HTbd5sy9) | [川田まみ](https://open.spotify.com/artist/5MqHx3rECV1BvBBFG3L508) | [SAVIA](https://open.spotify.com/album/2jOgLqERn9TY3dHpTPBpmP) | 4:01 |
-| 53 | [DAYS](https://open.spotify.com/track/4c776WwhrVd0L49E8rtVNy) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [レッツゴー!高校軽音部!](https://open.spotify.com/album/2xzx7Gk4gZgCA4cY5MNVcq) | 4:11 |
+| 53 | [DAYS](https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:15 |
 | 54 | [CLOSER](https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB) | 3:28 |
 | 55 | [DISCOTHEQUE](https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 3:59 |
 | 56 | [Love Destiny](https://open.spotify.com/track/14GCPjb7YH4BDvhF0DrvV5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Love Destiny](https://open.spotify.com/album/09wFdGA9QATYbr1yBH7YEL) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 59 | [Gamble Rumble](https://open.spotify.com/track/5r0ZmGWdDPkY4gqAr0t9kf) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 4:26 |
 | 60 | [Agapē](https://open.spotify.com/track/31EVU4Hqjnz3DqH2zdpWZE) | [メロキュア](https://open.spotify.com/artist/7sW7rerkVb9XV7vgsVuMHq) | [メロディック・スーパー・ハード・キュア](https://open.spotify.com/album/1c0wPUwhC8meB2YnOVpVOT) | 4:41 |
 
-Snapshot ID: `MTY1NzA4NDYzOSwwMDAwMDAwMGFmYjc1ZDAyNzE5ZjJiNmM1MDI3ZWZhODg3YWRkZjg0`
+Snapshot ID: `MTY1NzA4NDYzOSwwMDAwMDAwMDU3M2IzZDg1MjdhZGMyNTE1MTQ2ZTExNmY2ODliOGM4`

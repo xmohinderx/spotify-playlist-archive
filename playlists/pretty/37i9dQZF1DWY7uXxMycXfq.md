@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 
 > Women who experiment with electronic loops, strings, voice and other cosmic delights\. Cover: Loraine James
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,024 likes - 71 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,035 likes - 71 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 23 | [Screaming Colours](https://open.spotify.com/track/2tXEqUJploWqralhIPjmik) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 6:13 |
 | 24 | [Meditations](https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Meditations](https://open.spotify.com/album/1oTKZ4ittv2nOsAfi4r0X9) | 6:41 |
 | 25 | [Seen Any Monsters Lately?](https://open.spotify.com/track/5Oqr3XF8VkOMYcZwud2Esp) | [Rachel Lyn](https://open.spotify.com/artist/7aI1w9YIJsFMyVpQivifbP) | [Oh Daydream](https://open.spotify.com/album/1eCWhDovH4FrjSSZpiLRpD) | 3:34 |
-| 26 | [Magic Square](https://open.spotify.com/track/6vYRvDBxUecnGCSVGnG5Fl) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Improvisation VI](https://open.spotify.com/album/32FTSuKnK88CRfZM9vuvsr) | 6:53 |
+| 26 | [Magic Square](https://open.spotify.com/track/1w5qL6CSESiVhCAAIBHce5) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Maquishti](https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc) | 6:53 |
 | 27 | [Enter](https://open.spotify.com/track/1k7Y1GmFVagVYl7VckoLMn) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Spells](https://open.spotify.com/album/79Cgoda0fP6Y3JC9RS2d5n) | 1:44 |
 | 28 | [Carousel \- The Keep Remix](https://open.spotify.com/track/3MT91VktYkeYXl3Oa3s7oi) | [Such Small Hands](https://open.spotify.com/artist/3AE296ekeJvGNsRQ7MZuAr), [The Keep](https://open.spotify.com/artist/4pVuGCnocXntPcLGQN5y3t) | [Carousel \(The Keep Remix\)](https://open.spotify.com/album/6YkF8diIHec5IQ2CAFAeLx) | 4:22 |
 | 29 | [Transparent, In Movement](https://open.spotify.com/track/5Q2XN3tPkxtDegL1T1dvPX) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Everything Evaporate](https://open.spotify.com/album/1wKKrYxulFvFe0JUtK5rzC) | 8:00 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7uXxMycXfq.md) - [plain]
 | 70 | [Hyphae](https://open.spotify.com/track/1P2vvqWQ36gkiUoxrY9z74) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Hyphae](https://open.spotify.com/album/3Y2DIQoC2UeA1oSr1vhTbF) | 6:27 |
 | 71 | [Teta 7hz \(Tool\) \[feat\. DeForrest Brown Jr.\]](https://open.spotify.com/track/3nHU4KLvIBXCSfcrKmaJZW) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:33 |
 
-Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMDYwYmZkOTc0NmUxYzRjZmU4MmUxNjQ5MGQ3NzUyMzVk`
+Snapshot ID: `MTYyNTA3ODc5NiwwMDAwMDAwMGZmNjI5ODhiY2Q5MDQ1M2JmY2UxZjQxNGExZGE0MDli`

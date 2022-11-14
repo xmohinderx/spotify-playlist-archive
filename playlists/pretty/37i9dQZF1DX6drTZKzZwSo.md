@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 
 > Classic funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,937 likes - 58 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,024 likes - 58 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 29 | [YeahYeahYeah](https://open.spotify.com/track/7vipNil0y3l3idt9cM3ehi) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [YeahYeahYeah](https://open.spotify.com/album/3Js1lqJTK5j3fZaZGOixPU) | 5:17 |
 | 30 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 31 | [Play That Funky Music](https://open.spotify.com/track/0D7L4pBEGv8ni1cRfaTdMJ) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Shaun White Snowboarding: Official Soundtrack](https://open.spotify.com/album/0QWjK3wGoCug92yQIeBdxu) | 5:01 |
-| 32 | [Mary Jane](https://open.spotify.com/track/7EoCGENYgxqNj7sdij9n5g) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [20th Century Masters: The Millennium Collection: Best Of Rick James](https://open.spotify.com/album/6UZHdkmZQ7rt5GjWjpWjWe) | 4:57 |
+| 32 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
 | 33 | [Happy People](https://open.spotify.com/track/6dokyiv4HEy6WWxQCQcOkA) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [A Song For You](https://open.spotify.com/album/4GvCMazBPoxuazsfTFk6CU) | 3:36 |
 | 34 | [Pass The Peas](https://open.spotify.com/track/62rSpnxXl2lXDevp1z583x) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [James Brown's Funky People](https://open.spotify.com/album/5ytMVOR2Moy8hu7Tx1hee2) | 3:11 |
 | 35 | [Flow with It \(You Got Me Feeling Like\)](https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea of Noise](https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2) | 3:16 |
@@ -49,22 +49,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6drTZKzZwSo.md) - [plain]
 | 39 | [Funky Nassau, Pt\. 1](https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg) | [The Beginning Of The End](https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR) | [Funky Nassau](https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab) | 3:06 |
 | 40 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
 | 41 | [A Little Love \- Radio Edit](https://open.spotify.com/track/0d3MNrePFGENAawn9UuMOo) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [A Little Love](https://open.spotify.com/album/7yy7NUPzf23EnXciOrhluZ) | 3:28 |
-| 42 | [Pull Up To The Bumper](https://open.spotify.com/track/5VpDYLvj2R2D69irsL5Mra) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Fill The Dance Floor](https://open.spotify.com/album/5gc6mLkEYKdwD58QlODJED) | 4:41 |
+| 42 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
 | 43 | [Dance Floor](https://open.spotify.com/track/6d4XP98nTswxMycT6fdZNN) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp II](https://open.spotify.com/album/7ew8Rwv8ICZUhLPteXPcbk) | 10:42 |
 | 44 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 45 | [Prisoner](https://open.spotify.com/track/0B9ocbxpcwlzoML0xBeXF1) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG), [Fabrizio Moretti](https://open.spotify.com/artist/6wVnFdBOZ3M2vYjrmLT6tW) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 3:23 |
 | 46 | [Shake Your Pants](https://open.spotify.com/track/1PlbtE9lsZ1p9iDbXzvtCp) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Anthology](https://open.spotify.com/album/5QUldCK9QqBg5Gv1LVJvDI) | 6:22 |
-| 47 | [Keep On Truckin'](https://open.spotify.com/track/14L1EL0Y1t2or3CfQwHjP1) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Keep On Truckin’: The Motown Solo Albums, Vol\. 1](https://open.spotify.com/album/3wP5lKSz1LOxgltAabKhF6) | 7:59 |
+| 47 | [Keep On Truckin'](https://open.spotify.com/track/5CiOCxc3argOhj5qKNZGN0) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [Eddie Kendricks](https://open.spotify.com/album/5StW1pmCyC1WOuEDC8aUQh) | 7:59 |
 | 48 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 |
 | 49 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 50 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
 | 51 | [We Supply](https://open.spotify.com/track/15jrsi4n0S152zsrlWkT3v) | [Stanley Clarke](https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05) | [The Bass\-ic Collection](https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM) | 4:10 |
 | 52 | [Man Funk](https://open.spotify.com/track/1QQxrrABKbx5w4LIphElwb) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Leron Thomas](https://open.spotify.com/artist/0lVzm0fYj4BredTD0LMdSY) | [Hip Hop After All](https://open.spotify.com/album/0w7sDS0APyRmH0HBPtiE8E) | 3:53 |
-| 53 | [Soul Power 74 \- Pt\. 2](https://open.spotify.com/track/5cQflOdnuxoRAR1YrbaVYz) | [Maceo And The Macks](https://open.spotify.com/artist/0rDIqnqwAmDPL1gyzoFH9y) | [Funky Jazz, Blues & Soul](https://open.spotify.com/album/2PW5NWsSprThnk3L78cu9V) | 4:08 |
+| 53 | [Soul Power 74 \- Pt\. 2](https://open.spotify.com/track/7rFS1AleVTvi4Ye5fzLL44) | [Maceo And The Macks](https://open.spotify.com/artist/0rDIqnqwAmDPL1gyzoFH9y) | [Us](https://open.spotify.com/album/0xokdAGKPT5G5kld9cgcOX) | 4:08 |
 | 54 | [It's Too Funky In Here \- Single Version](https://open.spotify.com/track/3FSVxcdplNPNgNrZTYTxte) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Gold](https://open.spotify.com/album/6k3kDaRLxtRJ2Lo7DwwTxh) | 3:58 |
-| 55 | [Get Up I Feel Like Being Like A Sex Machine, Pts\. 1 & 2](https://open.spotify.com/track/4QgCP0s10tng51kZq3VTf7) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The Original J.B.s](https://open.spotify.com/artist/4GwjLszGqU37HqCgpBNPoU) | [Gold](https://open.spotify.com/album/35Xv40swznGmD4s6ro7XAd) | 5:16 |
+| 55 | [Get Up \(I Feel Like Being A\) Sex Machine](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 5:16 |
 | 56 | [Bull's Eye](https://open.spotify.com/track/4kWJRQ4SKU3A8Twt8fdsmJ) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P), [Prince Prime](https://open.spotify.com/artist/23p1rwItiE4C2SxCLe8b3r) | [Blacknuss 2.0](https://open.spotify.com/album/2b8GXykQVNWq4GC6PFFeyn) | 5:05 |
 | 57 | [You Haven't Done Nothin'](https://open.spotify.com/track/1inwt0v9a4ib9yS6Y4KsdM) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Fulfillingness' First Finale](https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ) | 3:22 |
 | 58 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/653JGGOVbV5iQsCSgQcQdi) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Funk Classics The 80's](https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q) | 3:54 |
 
-Snapshot ID: `MTY2NTEzNzc3MCwwMDAwMDAwMDY2ZmRhN2JkMmZjZGYyZTZiNjRjNzZlMjcyN2IwOGZl`
+Snapshot ID: `MTY2NTEzNzc3MCwwMDAwMDAwMDg2YjE0NTEyMDc3M2Y2OWQwNGRjNmRlOWY0Mzg1YjRk`

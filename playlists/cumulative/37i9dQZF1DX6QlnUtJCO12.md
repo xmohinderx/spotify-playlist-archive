@@ -8,9 +8,9 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Adeline](https://open.spotify.com/track/4G7pVQBkEAeTyKjrB1iHD0) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:26 | 2021-04-23 | 2022-11-11 |
+| [Adeline](https://open.spotify.com/track/4G7pVQBkEAeTyKjrB1iHD0) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [The Magic of Trinidad Sounds 1930\-39](https://open.spotify.com/album/1GTGYMM1ePRckARUd262UK) | 2:26 | 2021-04-23 |  |
 | [Adeline](https://open.spotify.com/track/2TSoYOzG3aew7VK6V7VD9L) | [Lord Pretender](https://open.spotify.com/artist/3msiTUQJRYD0AndfwYIvUa) | [Calypso Legends](https://open.spotify.com/album/2hcNJdaOsTyGg9T7c54EBJ) | 2:27 | 2021-04-23 | 2022-07-29 |
-| [Adeline](https://open.spotify.com/track/11Tto8GHaHNBajC7WE4BeA) | [The Pretender](https://open.spotify.com/artist/44VY7clFU7rboPEHsJs06Z) | [Calypso Ladies \- Early Calypso from Trinidad](https://open.spotify.com/album/7kmh9L0FAKM1sSOOtwLKfB) | 2:28 | 2021-04-23 |  |
+| [Adeline](https://open.spotify.com/track/11Tto8GHaHNBajC7WE4BeA) | [The Pretender](https://open.spotify.com/artist/44VY7clFU7rboPEHsJs06Z) | [Calypso Ladies \- Early Calypso from Trinidad](https://open.spotify.com/album/7kmh9L0FAKM1sSOOtwLKfB) | 2:28 | 2021-04-23 | 2022-11-14 |
 | [An Excursion to Grenada](https://open.spotify.com/track/2exnKM3xbU5lWi9T1WYPtL) | [The Growler](https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn) | [The Roots of Trinidad Calypso / Recordings 1927 \- 1931](https://open.spotify.com/album/2kTdiNgJNIXO82P5rITM84) | 3:07 | 2021-04-23 |  |
 | [Atomic Energy](https://open.spotify.com/track/7zqkjwb3TS4CQHjk549Gqq) | [Sir Lancelot](https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6) | [The Little Red Box Of Protest Songs](https://open.spotify.com/album/62U6vO55A3UCtHnNGL59xY) | 2:44 | 2021-04-23 | 2022-07-29 |
 | [Atomic Energy](https://open.spotify.com/track/7oyKc3RgnMaSRgwNTLCDgE) | [Sir Lancelot](https://open.spotify.com/artist/35r4QU4IraKEsU0U0df0G6) | [Power To The People \- Protest Songs](https://open.spotify.com/album/00hTfZK8Ul7xuSA87iB4Lw) | 2:44 | 2021-04-23 |  |

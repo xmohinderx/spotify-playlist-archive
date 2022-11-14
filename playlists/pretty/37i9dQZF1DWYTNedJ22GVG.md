@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,832 likes - 104 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,255 likes - 104 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 53 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/541mKUH89gViH3rPkSDecP) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:00 |
 | 54 | [We Need Christmas](https://open.spotify.com/track/1pDPciRVBf21B50uILT8yX) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [We Need Christmas](https://open.spotify.com/album/4hAvijE0G2RXBn7zvBUUvo) | 3:49 |
 | 55 | [This Christmas \(Hang All the Mistletoe\)](https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG) | [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:40 |
-| 56 | [Merry Christmas Baby](https://open.spotify.com/track/4tZJJ7JMtoXX00bOyAcTp1) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Xmas Pop](https://open.spotify.com/album/2yFov03Dt0tbIXVDcnhfOd) | 3:12 |
-| 57 | [Underneath the Tree](https://open.spotify.com/track/4R9DGZjme5DCgHlmLvXYkQ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Songs](https://open.spotify.com/album/0EpoPC0mlAGna8H08tkXoI) | 3:49 |
+| 56 | [Merry Christmas Baby](https://open.spotify.com/track/0YfqNEJAThiWwfsMbGlRPQ) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:13 |
+| 57 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 |
 | 58 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/4UUhE9j5sG3E5rxPK79e73) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7) | [Disney's Merry Little Christmas](https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz) | 2:53 |
 | 59 | [O Come, All Ye Faithful](https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:35 |
 | 60 | [Gift That Keeps On Giving](https://open.spotify.com/track/2CldrpYZkmpyaWYoLqA4Kc) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [A Tori Kelly Christmas](https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l) | 3:11 |
@@ -108,9 +108,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 98 | [Seasons Of Love](https://open.spotify.com/track/7E9Z2RvE21eMCPh76ihLZ1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:51 |
 | 99 | [Silent Night](https://open.spotify.com/track/7qCZOApel8eCUQXICqfxL8) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [A Walk Off the Earth Christmas](https://open.spotify.com/album/4mZeWbE7FbYYkoFSlLY1tM) | 1:19 |
 | 100 | [Carol of the Bells](https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:33 |
-| 101 | [We Wish You a Merry Christmas](https://open.spotify.com/track/0DOcya9iTOAPaRfI6lDpA9) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [A Very Merry Disney Christmas](https://open.spotify.com/album/7kDTXR2Qxv7PNvNjHE6HmJ) | 1:44 |
+| 101 | [We Wish You a Merry Christmas](https://open.spotify.com/track/14qzig8cvFMvUVeCxbaO38) | [The Disney Holiday Chorus](https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 1:44 |
 | 102 | [Do You Hear What I Hear?](https://open.spotify.com/track/2QEJNfOrRjC4O1msrVXJo4) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Best Of Pentatonix Christmas](https://open.spotify.com/album/1ohdh4vzVUXhtaE04cHvle) | 3:33 |
 | 103 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 104 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 |
 
-Snapshot ID: `MTYzODg5NTg0MiwwMDAwMDAwMGZlYzkyMTkyN2UzNWRjNzkzYWFiZmUwYTcwMzcyZDU1`
+Snapshot ID: `MTYzODg5NTg0MiwwMDAwMDAwMDY5OTE3N2IwZmI4ODg0MjUyYmVhMTY4MWE4ZmQ2MWNj`

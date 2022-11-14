@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,372 likes - 122 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,490 likes - 122 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 18 | [STEEL \-鉄血の絆\-](https://open.spotify.com/track/20VdkamdRMOeJWJygL2bHh) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Around the TRUE](https://open.spotify.com/album/15uHffJGg720NSYqceFyMG) | 5:21 |
 | 19 | [RAGE OF DUST](https://open.spotify.com/track/3HAVLN7wg1sLZlsFKsA7q0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:22 |
 | 20 | [少年の果て](https://open.spotify.com/track/4mp8QXLV50D7AObrjKNUAs) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [少年の果て](https://open.spotify.com/album/1lQprvL2hJQDAQKxXNRpry) | 5:03 |
-| 21 | [Fighter](https://open.spotify.com/track/4mX3QJf17BNUQpHCH7AD2f) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [KANA\-BOON THE BEST](https://open.spotify.com/album/6LiaBhg3xMU1XEHmlZdhye) | 3:45 |
+| 21 | [Fighter](https://open.spotify.com/track/63Eem2YcddulJTylUNo4Xt) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [NAMiDA](https://open.spotify.com/album/4TIjCLimDsRCS2rI921BU9) | 3:45 |
 | 22 | [フリージア](https://open.spotify.com/track/1cqtS5FEOzjaJy1UdNJDXu) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Monochrome](https://open.spotify.com/album/4MSwMoJfcq1kGVjQAdWACD) | 5:36 |
 | 23 | [DAYBREAK'S BELL](https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ) | 4:11 |
 | 24 | [Twinkle](https://open.spotify.com/track/7Mmhlc7Uy8cXJ3NJJq7VVc) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [Re:RISE \-e.p.\- 2](https://open.spotify.com/album/68cfv9QcZdp77dKxk4MtDZ) | 4:22 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 48 | [永遠にアムロ](https://open.spotify.com/track/61stX0ZL2UpvInQoUiRNb3) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n) | [永遠にアムロ](https://open.spotify.com/album/4vEzSf1Ntj4N7MdobtKt0b) | 3:02 |
 | 49 | [ターンAターン](https://open.spotify.com/track/0lp2im335v7JrKpkjz65iD) | [Hideki Saijo](https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh) | [ターンAターン](https://open.spotify.com/album/6YEt5QWFkDNJkUxrPMwnRL) | 4:46 |
 | 50 | [MEN OF DESTINY](https://open.spotify.com/track/33ADttEjBp0OezBGBSauwl) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [MEN OF DESTINY](https://open.spotify.com/album/5tX39BmofBmrVr7tkq3zye) | 4:03 |
-| 51 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/2qge0m2SUWLUOPN9oypXm5) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [GEISHA BOY \-ANIME SONG EXPERIENCE\-](https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf) | 4:19 |
+| 51 | [INVOKE \-インヴォーク\-](https://open.spotify.com/track/6mwBMPGpO0gtvR8QKxVCyo) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [coordinate](https://open.spotify.com/album/1Nz1JrJKCsAtTiIu5A3pw2) | 4:19 |
 | 52 | [明日へ](https://open.spotify.com/track/0b1eJt5F6yI2u0T0LF0Ly3) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [PORTAL](https://open.spotify.com/album/1WJkB7MN6rgPIEO08aa6vI) | 5:18 |
 | 53 | [MAGIC](https://open.spotify.com/track/4aCbt9Tkvsbbs6C5yiiNzf) | [Jacob Wheeler](https://open.spotify.com/artist/1MkAnw2CpLgVIrjhKrbv4H) | [MAGIC](https://open.spotify.com/album/3zPCsEyprC959PeCIa2M4X) | 4:45 |
 | 54 | [Confession](https://open.spotify.com/track/6BECTfA1Rl1PqEt0Axu2e4) | [Mayu Wakisaka](https://open.spotify.com/artist/25Mwwt6SDgnDBMaq6xQrrd) | [Confession](https://open.spotify.com/album/6kFEqYbqMR84ZAEcdNHZNl) | 4:12 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 101 | [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 |
 | 102 | [泪のムコウ](https://open.spotify.com/track/4UqCpvmOL8FiohnarAoRRx) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [A Hydrangea Blooms](https://open.spotify.com/album/33vrEaKrkBd3jOs7kpwaQu) | 3:30 |
 | 103 | [流星のナミダ](https://open.spotify.com/track/6ijZSjXxCvHnfWr2wMC7Iv) | [Chiaki Kuriyama](https://open.spotify.com/artist/5jPUEjgQTelKH4IV12KDIr) | [流星のナミダ](https://open.spotify.com/album/0775Tib7vuRC40mJKvHJos) | 4:58 |
-| 104 | [ココロオドル \-original version\-](https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル](https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf) | 4:13 |
+| 104 | [ココロオドル \-original version\-](https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Do You Know ?](https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0) | 4:11 |
 | 105 | [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 |
 | 106 | [星屑の砂時計](https://open.spotify.com/track/74O5dGvC43jOGpOXyYZpE1) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [yu\-yu](https://open.spotify.com/artist/6KuW1jOW9tCAirqEt0GKlM) | [星屑の砂時計](https://open.spotify.com/album/3gY7UNOVZIAOcanynxE110) | 5:46 |
 | 107 | [Hikari no Hate](https://open.spotify.com/track/6a0Scz4j4tbqURCVyAvNSW) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Hikari no Hate](https://open.spotify.com/album/7DORue0YE6jJImEv9a5pgd) | 6:23 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 121 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 122 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 |
 
-Snapshot ID: `MTY2NjAzMTEyMiwwMDAwMDAwMDAwNWRlZmEyNmRkMTNlMDNlMjAyNGIxM2I1YWY2NWMx`
+Snapshot ID: `MTY2NjAzMTEyMiwwMDAwMDAwMGJjZTdmNmMxOWQ1ZDQxMmIwZDZiMzBiNWU2MmQ2ZGEx`

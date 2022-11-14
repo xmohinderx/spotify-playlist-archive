@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,297 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,418 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 19 | [Reels: Dinny O’Brien’s / The Sweetheart Reel / Paddy Kenny’s](https://open.spotify.com/track/3jR8Im8j8hlP24L6Fqe4cj) | [Téada](https://open.spotify.com/artist/1VBQhu7f3xYuYPxCo0ddQF) | [In Spite of the Storm](https://open.spotify.com/album/3v4WQbWHDSyhTNztSsyHBz) | 3:56 |
 | 20 | [Ríleanna / Reels: Ormond Sound, The Torn Jacket](https://open.spotify.com/track/1ubTZSN8vLJUk8Yjsjbz9y) | [Muireann Nic Amhlaoibh](https://open.spotify.com/artist/0kmDsPHHxquChPOywNcoF3) | [Foxglove & Fuschia](https://open.spotify.com/album/0Co8oa7vZiZgqxsT5uhdqU) | 2:17 |
 | 21 | [Tamlin / Hand Me Down the Tackle / The Pure Drop](https://open.spotify.com/track/3Xz4xhARyNb5YdvmmFmCym) | [Seamus Egan](https://open.spotify.com/artist/2tpf2l5fNdbYcaENmFnmhg) | [In Your Ear](https://open.spotify.com/album/1TN9dlmrbVQzChzYGQyK2H) | 4:13 |
-| 22 | [Apples in Winter](https://open.spotify.com/track/04T4bZBB1jpUt1tINrkAj8) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA) | [Decade](https://open.spotify.com/album/52lMsdBZ0BpNr1vVNjeOgO) | 3:53 |
+| 22 | [Apples in Winter](https://open.spotify.com/track/0seLQVi3uesYGf188SjV7W) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA) | [Harmony Hill](https://open.spotify.com/album/2S5d3lR3nekV8pxERYJikd) | 3:53 |
 | 23 | [Eavesdropper](https://open.spotify.com/track/2swwhM8D6A9lp2ykYmNSQ1) | [Ross Ainslie and Jarlath Henderson](https://open.spotify.com/artist/1TmK328skdt3V82QoLLT13) | [Air\-Fix](https://open.spotify.com/album/4iMs7fX1Eigj4aCsvVkSUR) | 4:09 |
 | 24 | [Keepin’ It Reel](https://open.spotify.com/track/4saoSRB0NHOx75TIlVh5zM) | [Boxing Banjo](https://open.spotify.com/artist/0UclL9i5HhARJ2LEPQegjv) | [Round \#1](https://open.spotify.com/album/5DvLneZVpsTdkA6ZrVxQ1g) | 3:39 |
 | 25 | [Reels: Patsy Cambell's:Tie The Bonnet : Mick Finn's](https://open.spotify.com/track/1y4rwW2PwLk6ukef9AxwIe) | [Peter Carberry and Angelina Carberry and John Blake](https://open.spotify.com/artist/2Ske6lxvZGw6STfNeM8Z3B) | [Memories From The Holla](https://open.spotify.com/album/35lYPRZKwNaqAA4CJFcVv2) | 3:20 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDAxM2JiNjlmNmNkZjA2NDZjNjI1MDM4ZGU1NDQ0ZTcx`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDEwMzhkZTQxYmE0MGE5OTlhZTVmZjYwMzg0NzQ2NDU3`

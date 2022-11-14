@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-218 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+219 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Heaven Eleven](https://open.spotify.com/track/2U3FOnuf7V4D5vcqgrZadj) | [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Heaven Eleven](https://open.spotify.com/album/6ZNeqWGIn6oqs8MyQ7Vy2O) | 9:33 | 2022-04-15 | 2022-07-29 |
 | [Here and Now](https://open.spotify.com/track/2f6x7QwXjRkCtKlY6eTsdu) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [Jacob Lauing](https://open.spotify.com/artist/0pg6TFVif7XPHoCxF35ngj) | [Here and Now](https://open.spotify.com/album/2j446mPzcNYRgMqFZ3Kzsp) | 3:25 | 2022-08-04 | 2022-08-12 |
 | [Hero \- Infected Mushroom Remix](https://open.spotify.com/track/5e447qV9VjEOQfGM682o3W) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Elizaveta](https://open.spotify.com/artist/2a9bCkqCkLvXM0s3uPvR7M), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Hero \(Infected Mushroom Remix\)](https://open.spotify.com/album/3YxzVruTjT2lnAmr2EgQOz) | 5:04 | 2022-04-15 |  |
-| [Hi\-Psy](https://open.spotify.com/track/4P37PI8hE5xCrhXOx00OzY) | [Khardiac](https://open.spotify.com/artist/1pvJZA2bmnetebqwuIx8RN) | [Hi\-Psy](https://open.spotify.com/album/04audcK6i0bxG9KlhIgz5B) | 5:51 | 2022-04-15 |  |
+| [Hi\-Psy](https://open.spotify.com/track/4P37PI8hE5xCrhXOx00OzY) | [Khardiac](https://open.spotify.com/artist/1pvJZA2bmnetebqwuIx8RN) | [Hi\-Psy](https://open.spotify.com/album/04audcK6i0bxG9KlhIgz5B) | 5:51 | 2022-04-15 | 2022-11-14 |
 | [High Pressure](https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7) | [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [High Pressure](https://open.spotify.com/album/1rjPGCwMLNjqQ4tbxsjbs7) | 6:17 | 2022-04-15 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/7xKVXX3cAq5TWskeCB0Oan) | [Second Sun](https://open.spotify.com/artist/75HG32kTRg2zB1fhG6vDvZ) | [Hope](https://open.spotify.com/album/5uNYkS7wopjFHienGVHI3b) | 6:48 | 2022-05-12 | 2022-06-17 |
 | [I Want Your Soul](https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz) | [Naturalize](https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022) | [I Want Your Soul](https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx) | 7:00 | 2022-04-15 |  |
@@ -197,6 +197,7 @@
 | [TLV SAO \- Gaudium Remix](https://open.spotify.com/track/58pvxSaCEBk1YOeHYvWuSg) | [Sub 6](https://open.spotify.com/artist/6aKp7zOoIicKF7EBtcVqgD), [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [TLV SAO \(Gaudium Remix\)](https://open.spotify.com/album/6pbJ9tKtkIKbkQiSYdqGAC) | 9:16 | 2022-04-15 | 2022-06-06 |
 | [To Be](https://open.spotify.com/track/5MmJ45s9n3RTin6QwZvH3v) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4) | [To Be](https://open.spotify.com/album/3O9B0glL0bEVgBsjdWeK74) | 2:26 | 2022-04-15 | 2022-07-01 |
 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastiqe](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 | 2022-09-23 |  |
+| [Transparent](https://open.spotify.com/track/0GoFoDacevapONRmdyTmgh) | [Jason Nawty](https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Transparent](https://open.spotify.com/album/0xS7jOcqVLx6WgAFdapjSw) | 4:17 | 2022-11-10 |  |
 | [Transparent](https://open.spotify.com/track/4MRwMKUwl3ognSdlzQyZ9f) | [Jason Nawty](https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA), [NG Rezonance](https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5), [Avaxx](https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ) | [Transparent](https://open.spotify.com/album/2OKDQOcsc2yOWFjHqjcPdk) | 4:17 | 2022-06-03 | 2022-10-05 |
 | [Under the Surface](https://open.spotify.com/track/0rBhgOIK1JApO01uP5OSLs) | [Hidden Secret](https://open.spotify.com/artist/1h3OfpOaCVBgmlNcuoZR8t) | [Under the Surface](https://open.spotify.com/album/6Z1ZXaERxUl15NXFAOwXlI) | 5:04 | 2022-04-15 | 2022-07-20 |
 | [Underwater](https://open.spotify.com/track/0mYB0z3lSNiaMqBpSFoUPd) | [Symphonix](https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm) | [Underwater](https://open.spotify.com/album/0pXfYT6I1KDwC3gMqzlktK) | 3:40 | 2022-04-15 | 2022-11-11 |

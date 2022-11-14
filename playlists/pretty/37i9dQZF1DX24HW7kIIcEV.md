@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > Joining the formal campaign to get the Lizzie McGuire reboot back in production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,661 likes - 85 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,946 likes - 85 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 48 | [Don't Forget](https://open.spotify.com/track/4He7bzKBaiu7CRz4wGkZzx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Don't Forget](https://open.spotify.com/album/0X4XyC6gwsBtEO2iJlSJgw) | 3:43 |
 | 49 | [L.A\. Boyz](https://open.spotify.com/track/2cOpRVjsE4qZLZbFOB47VJ) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Victorious 3.0: Even More Music From The Hit TV Show](https://open.spotify.com/album/2QSiC5LBtodAE8M5Fk02ja) | 2:59 |
 | 50 | [One and the Same \- From "Princess Protection Program"](https://open.spotify.com/track/1QkJBQnCv81ef7gyWMDL3Q) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Disney Channel Playlist](https://open.spotify.com/album/3f4bhDIvXL4xOnM4elWNmK) | 3:00 |
-| 51 | [Party in the U.S.A.](https://open.spotify.com/track/65FLvpwtcMn2PHVOMcGNoG) | [Chelsea Heart](https://open.spotify.com/artist/2o3YvwaLj1ZcVAp0wYQKxL) | [4th July Bbq Grill Party Mix](https://open.spotify.com/album/7cNleXCYpNr2GhTBAy37Xz) | 3:24 |
+| 51 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 52 | [S.O.S.](https://open.spotify.com/track/6sDP4912wjwB7BJhbSnjS1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 2:33 |
 | 53 | [Bet On It](https://open.spotify.com/track/4EnwhEyuVrC1CgvSur5YL4) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:18 |
 | 54 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 68 | [Brand New Day \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/7MG5A5HdsYjlHNjFp6Z7ec) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:21 |
 | 69 | [Ordinary Girl](https://open.spotify.com/track/2kIq7Oq6YNfdUuTrmPC4w1) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 2:57 |
 | 70 | [Kissin U](https://open.spotify.com/track/3pt4BDnaMo2vznoVSv7b2y) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly \(Deluxe Version\)](https://open.spotify.com/album/3Y5W2onbNSiRWSwROthGnH) | 3:19 |
-| 71 | [When I Look At You](https://open.spotify.com/track/6CxIOL5ITz2PbcmWBVkDjg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Sleeping Songs 2020](https://open.spotify.com/album/5vzqcsb852YDCHtaQNDNpd) | 4:08 |
+| 71 | [When I Look At You](https://open.spotify.com/track/7ywzEdEuVG1lsjsRCGJfLy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 4:08 |
 | 72 | [Our Lips Are Sealed](https://open.spotify.com/track/6kv77w8Y9HC4OVLyAqAFpQ) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h), [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 2:39 |
 | 73 | [Hit The Lights](https://open.spotify.com/track/6ciLLh4TkPYDUfNxn2Z0KO) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:14 |
 | 74 | [Can't Help Falling In Love](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 84 | [Jump To The Rhythm](https://open.spotify.com/track/4QFbZ1cSkL718J6A8cMJdA) | [Jordan Pruitt](https://open.spotify.com/artist/1JfkqBTXs6VC3JZ7RJNu7h) | [No Ordinary Girl](https://open.spotify.com/album/3ZN6vRXDZhoYf9Zdc5ubpE) | 3:47 |
 | 85 | [Make You Believe](https://open.spotify.com/track/6IvOCyrwW7VuCjQFCD7h7r) | [Lucy Hale](https://open.spotify.com/artist/4gWAItIMhYCdD82T8tvv3T) | [A Cinderella Story: Once Upon A Song \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fDujJMK88H9vZYRjVb2Bz) | 3:31 |
 
-Snapshot ID: `MTY2MjgzOTgxNSwwMDAwMDAwMDQ1OGRhNWNhYTc4NzA5NWYxYTY4ODE1ZmFlOWI5NzZh`
+Snapshot ID: `MTY2MjgzOTgxNSwwMDAwMDAwMGExMDc1OThlY2RlMDNlM2ZhZGIzYjVhNThlMGQ1ZGE2`

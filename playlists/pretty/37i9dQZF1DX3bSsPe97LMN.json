@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Beto Vega en portada.",
-  "num_followers": 45441,
+  "num_followers": 45492,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMDEwNDZiM2E2M2ViODUyZWRlYjU4YzQ0ODAxNDA1NTY5",
+  "snapshot_id": "MTY2ODE0NjQwMCwwMDAwMDAwMGM0ZGU0ZDBiMGRkZGY0MGRmZTU5ZTMwYzJhNzdlMjQ1",
   "tracks": [
     {
       "added_at": "2022-11-11 06:00:00",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Gordo Pesado",
-        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Gordo Pesado",
-      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Carritos de palo",
@@ -511,6 +495,22 @@
       "duration_ms": 167626,
       "name": "Carritos de palo",
       "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
+    },
+    {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "Gordo Pesado",
+        "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Gordo Pesado",
+      "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
+        "name": "Con Un Porte Diferente (Vol 2)",
+        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 216851,
+      "name": "Dices Que Me Quieres",
+      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
         "name": "Tres Veces Te Enga\u00f1\u00e9",
         "url": "https://open.spotify.com/album/5xHrXcWSCwKsn7v4pzuqmN"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 132631,
       "name": "la del rencoroso",
       "url": "https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Con Un Porte Diferente (Vol 2)",
-        "url": "https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 216851,
-      "name": "Dices Que Me Quieres",
-      "url": "https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Era Mia",
-        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 226887,
-      "name": "Era Mia",
-      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Ya Los Miraron Pasar",
@@ -911,6 +895,22 @@
       "duration_ms": 187500,
       "name": "Ya Los Miraron Pasar",
       "url": "https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S"
+    },
+    {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Era Mia",
+        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 226887,
+      "name": "Era Mia",
+      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/05PjWpRVnilvGEVMSgng6m"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Santa Mota (En Vivo)",
-        "url": "https://open.spotify.com/album/4gZDZx4fVRYgUCnpJVBl9o"
-      },
-      "artists": [
-        {
-          "name": "Alto Linaje",
-          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
-        }
-      ],
-      "duration_ms": 253170,
-      "name": "Santa Mota",
-      "url": "https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Fuga",
@@ -1069,24 +1053,20 @@
       "url": "https://open.spotify.com/track/7EPYXn0AsffG3qcjCohHit"
     },
     {
-      "added_at": "2022-10-07 15:36:37",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "No S\u00e9 Que Tengas",
-        "url": "https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF"
+        "name": "Santa Mota (En Vivo)",
+        "url": "https://open.spotify.com/album/4gZDZx4fVRYgUCnpJVBl9o"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        },
-        {
-          "name": "Luis Mex\u00eda",
-          "url": "https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3"
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
         }
       ],
-      "duration_ms": 187824,
-      "name": "No S\u00e9 Que Tengas",
-      "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
+      "duration_ms": 253170,
+      "name": "Santa Mota",
+      "url": "https://open.spotify.com/track/3nUoQgpEy0q2e01FvVa7IW"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1123,6 +1103,46 @@
       "duration_ms": 154017,
       "name": "Bajo la Lluv\u00eda",
       "url": "https://open.spotify.com/track/2KYE1gZxLNux5eH516GZH4"
+    },
+    {
+      "added_at": "2022-10-07 15:36:37",
+      "album": {
+        "name": "No S\u00e9 Que Tengas",
+        "url": "https://open.spotify.com/album/1hlrfVbr5Bh0xcoXtggDOF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        },
+        {
+          "name": "Luis Mex\u00eda",
+          "url": "https://open.spotify.com/artist/6Zftf0DRHk7QWgo4QMlmP3"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "No S\u00e9 Que Tengas",
+      "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
+    },
+    {
+      "added_at": "2022-11-11 06:00:00",
+      "album": {
+        "name": "Sigo De Pie (En Vivo)",
+        "url": "https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 200187,
+      "name": "Sigo De Pie (En Vivo)",
+      "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1163,22 +1183,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Sue\u00f1o Americano",
-        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 134065,
-      "name": "Sue\u00f1o Americano",
-      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Empoderada",
         "url": "https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD"
       },
@@ -1191,6 +1195,22 @@
       "duration_ms": 164186,
       "name": "Empoderada",
       "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Sue\u00f1o Americano",
+        "url": "https://open.spotify.com/album/2g1rTERH5FwPfKGwnZF7mq"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 134065,
+      "name": "Sue\u00f1o Americano",
+      "url": "https://open.spotify.com/track/7pyk49beesF6t9WMqxQEdM"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1213,26 +1233,6 @@
       "url": "https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Extra\u00f1o Tus Besos",
-        "url": "https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8"
-      },
-      "artists": [
-        {
-          "name": "Dazoner",
-          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 227727,
-      "name": "Extra\u00f1o Tus Besos",
-      "url": "https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL"
-    },
-    {
       "added_at": "2022-09-30 05:00:00",
       "album": {
         "name": "TUMBADO STYLE",
@@ -1251,6 +1251,26 @@
       "duration_ms": 230853,
       "name": "BANDIDOS",
       "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Extra\u00f1o Tus Besos",
+        "url": "https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 227727,
+      "name": "Extra\u00f1o Tus Besos",
+      "url": "https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -1283,26 +1303,6 @@
       "duration_ms": 174750,
       "name": "El Chivo",
       "url": "https://open.spotify.com/track/61l7b4tV5lhopAO25OaUhP"
-    },
-    {
-      "added_at": "2022-11-11 06:00:00",
-      "album": {
-        "name": "Sigo De Pie (En Vivo)",
-        "url": "https://open.spotify.com/album/1XxcGwCslj56YQYgNgutWJ"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 200187,
-      "name": "Sigo De Pie (En Vivo)",
-      "url": "https://open.spotify.com/track/6pfeP7bnHMVECOWiAR12n3"
     },
     {
       "added_at": "2022-09-30 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,126 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,122 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 17 | [Unhold Me](https://open.spotify.com/track/6dVIFfl55kxGl3bAifMiMr) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Unhold Me](https://open.spotify.com/album/132EEc3csmIyKpp4nShpV6) | 3:18 |
 | 18 | [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 4:27 |
 | 19 | [Black Cloud](https://open.spotify.com/track/7MkBQ0FuRr4R0mlKEdBW0W) | [Playwrite](https://open.spotify.com/artist/0EiT4C5JLoSGXyEpHAZpEN) | [Cathedrals](https://open.spotify.com/album/3OvoMUfySPeoCMn6CBDmRD) | 3:35 |
-| 20 | [Redeye](https://open.spotify.com/track/4JBAXwWUQEB2qVJFBmVAIu) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Bella Notte](https://open.spotify.com/album/0ewRutFrDWZee6M7KiyPRg) | 3:51 |
+| 20 | [Redeye](https://open.spotify.com/track/0dOhHUYXDhNzKWtsvaNv3R) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Redeye](https://open.spotify.com/album/3bMCftnYUVKzKd1QuJUV4m) | 3:51 |
 | 21 | [i don't know where i'm going but that's okay](https://open.spotify.com/track/5EXoQjNAotUspxZhPHiGE7) | [sarya](https://open.spotify.com/artist/1jIluixQm1CH6lBpeq46f5) | [take care of yourself](https://open.spotify.com/album/5PnmGxnNA1sR9MZVrFpvlA) | 4:42 |
 | 22 | [Ember](https://open.spotify.com/track/6dYcB7modGAixjXyjkk8Hn) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Ember](https://open.spotify.com/album/3pH3ulLQ0XIYNTEyrjV63f) | 2:40 |
 | 23 | [Music Again](https://open.spotify.com/track/4BVVSKWz1ABYE2mfPTD38b) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [I've Been Trying To Tell You](https://open.spotify.com/album/4lAlJDRobl1616M78q4lBj) | 5:45 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 25 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 |
 | 26 | [Only the River](https://open.spotify.com/track/63B3O9pt9RwbeBfDvAae6H) | [Alex Luca](https://open.spotify.com/artist/3Gf3YElKXsG1ukhCyxHR9l) | [Only the River](https://open.spotify.com/album/3O6op1uiIABkqL3B55WbIZ) | 2:38 |
 | 27 | [Flow Freely \- From the Documentary Film “Reflection \- A Walk With Water”](https://open.spotify.com/track/0M1uEYzwNYhEZQ5qItkBA1) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Justin Kauflin](https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU) | [Flow Freely \(From the Documentary Film “Reflection \- A Walk With Water”\)](https://open.spotify.com/album/0kDvak6UcXulmP9xTE0yFY) | 3:32 |
-| 28 | [Circles](https://open.spotify.com/track/3k6ynBjbzR70nAYoFDXVta) | [WILDES](https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR) | [Let You Go EP](https://open.spotify.com/album/1SiqAx9GPzydcyjRUlIQgt) | 4:18 |
+| 28 | [Circles](https://open.spotify.com/track/5myZVX38UJW62XkDZR3N4u) | [WILDES](https://open.spotify.com/artist/0ypTT9UqAU5sZpPo5JZmjR) | [Circles](https://open.spotify.com/album/47NSsDlBHgoKAdNAYgQQ9F) | 4:18 |
 | 29 | [Bones](https://open.spotify.com/track/4ikx8rEoPUzILdxGpi5goG) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 2:58 |
 | 30 | [Borders](https://open.spotify.com/track/1CJqhfEyugSrJlt6nioGMP) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Borders](https://open.spotify.com/album/4HF2by1nUuHhMrhSqDvIwE) | 4:20 |
 | 31 | [Take Me Apart](https://open.spotify.com/track/5Vklvoh0PmgKfekJyVadFs) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Take Me Apart](https://open.spotify.com/album/0AKeQGFy4FxMEaE6yS65bY) | 4:00 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 70 | [Don't Forget About Me](https://open.spotify.com/track/5qUujOsbcVq8oo3ndNET6e) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Dream On](https://open.spotify.com/album/4EKA6cOPmM0VmjHigV03QH) | 3:06 |
 | 71 | [Alright](https://open.spotify.com/track/1MrUQX327aKDnOawrNnRUJ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:02 |
 | 72 | [Chandelier](https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Chandelier](https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz) | 5:13 |
-| 73 | [David](https://open.spotify.com/track/07QULx2fegQkAFzCxOAISy) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Up And Coming Groups](https://open.spotify.com/album/0GSB0dlJJpfvOseGwdvk1U) | 3:52 |
+| 73 | [David](https://open.spotify.com/track/6LXSmPnZczqqzYqVFHupHW) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [White Noise EP](https://open.spotify.com/album/2ogVdcADw5gMNtKuccLQRw) | 3:52 |
 | 74 | [Innocent Fallacy](https://open.spotify.com/track/2P6KUtMod1AtEWqTzGMMJV) | [nuriveben](https://open.spotify.com/artist/1IIdVNdiJ3ooW3K3AW28tr) | [Innocent Fallacy](https://open.spotify.com/album/2brcj8KuBs3PiNRIouSyIJ) | 7:06 |
 | 75 | [Glass Shards](https://open.spotify.com/track/2ZJk9T8MQLZsBVFlePHXn3) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lonely City](https://open.spotify.com/album/4GyAthXR1rB5aTV4dY5DIP) | 4:08 |
 | 76 | [Jealous](https://open.spotify.com/track/4Z1JZSSUGZz0gPh3EuF9SU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 99 | [I Know](https://open.spotify.com/track/4NmVOfj6JSxruDVrYW46AL) | [Khushi](https://open.spotify.com/artist/3Kyyw68V3tjQfwJ6ROuzrR) | [I Know](https://open.spotify.com/album/4dYC2w3OZtkW5xynPq6Jk2) | 2:34 |
 | 100 | [About You Now](https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Nocturnes](https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH) | 3:47 |
 
-Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGVmNzY1YjFlYTg1NzMwODkyZjE1ZWU4ZmM4MGNiMjgz`
+Snapshot ID: `MTYzNDI1MjQwMCwwMDAwMDAwMGUyOWQ3ZTEzODEzZTNhZWU0NWI4NGEzNmQ4MzFjOWRm`

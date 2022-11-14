@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,481 likes - 42 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,562 likes - 42 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 26 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/07BYxoTub5POnsajOsoTXb) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin: Etudes \- Lang Lang](https://open.spotify.com/album/70CWcZa5F1uq0xmkMBOtah) | 6:06 |
 | 27 | [Nocturne No\. 9 in B Major, Op\. 32 No\. 1](https://open.spotify.com/track/5UpQqGyhYg70rRXgPuy28o) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin Favourites](https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL) | 5:11 |
 | 28 | [Deux Nocturnes, Op\. 62: 2\. Nocturne In E \(Lento\)](https://open.spotify.com/track/14PfaAkLKxAUs7GTwdN96v) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Préludes](https://open.spotify.com/album/7LA1cCKvKIPt4koVHjJzU6) | 5:39 |
-| 29 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/2duq6mtN9Me3kbLzaBFmRC) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Piano Masters](https://open.spotify.com/album/1mNOky85ElOSb4by6vu0JD) | 7:55 |
+| 29 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Chopin \- Winter Vibes](https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj) | 7:49 |
 | 30 | [Four Mazurkas, Op\. 41: II\. Andantino](https://open.spotify.com/track/6DtkdC9g7j5nprKIYwSVxx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Katia Bronska](https://open.spotify.com/artist/7uHYhThJnXYNiFa3dCXwyj) | [Schumann: Kinderszenen; Papillons / Chopin: Nocturne Op\. 55 No\. 2; Mazurka Op\. 41 No\. 1](https://open.spotify.com/album/7aOPPHgnzLnKguHCEZQKsL) | 3:35 |
 | 31 | [Nocturne No\. 8 In D Flat, Op\. 27 No\. 2 \- Live](https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 6:13 |
 | 32 | [Ballade No\. 2 en fa majeur, Op\. 38](https://open.spotify.com/track/2aKH74H4YPx8NSITKmrk9X) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janina Fialkowska](https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32) | [Chopin Recital 2](https://open.spotify.com/album/5CbpsTOhs4TjtDbzUXUwqw) | 6:59 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 41 | [Andante spianato et Grande polonaise brillante, Op\. 22: Andante spianato\. Tranquillo](https://open.spotify.com/track/06sDDrEwEG9ewXmV5fkETR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Chopin: Polonaises; Andante spianato;Minor Works](https://open.spotify.com/album/1gAU8fHpTCco6SgNnsR5tm) | 4:56 |
 | 42 | [Mazurka in F Minor, Op\. Posth\. 68: No\. 4 Andantino](https://open.spotify.com/track/4bN6MHbUqqFS7tG5clItYc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Late Works, Opp\. 59\-64](https://open.spotify.com/album/6Wzf1byg16zWinXnxldir8) | 2:00 |
 
-Snapshot ID: `MTY2MDkwNDQxMSwwMDAwMDAwMDAxMjE1MzYyMTc5Y2EwNjZjOTY3ZWZkMWU1NTM2NTQ4`
+Snapshot ID: `MTY2MDkwNDQxMSwwMDAwMDAwMDc3OWJhYmI4MzMzMjk2NzRkNGIxODgxMDA5MDRiNDcx`

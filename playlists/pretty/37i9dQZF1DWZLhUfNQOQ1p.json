@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230947,
+  "num_followers": 230937,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGQwZTc3YjQ1M2I2OTg3YjkwMzA4NjkyODUxMWNmN2Vi",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGY1ZTRjNGUwZThiNmFhNTIzYThiZGY5MDUzN2UzNzEw",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -471,6 +471,26 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX"
+      },
+      "artists": [
+        {
+          "name": "Tyron Hapi",
+          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
+        },
+        {
+          "name": "Lucas Marx",
+          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
+        }
+      ],
+      "duration_ms": 150014,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
       },
@@ -483,6 +503,22 @@
       "duration_ms": 172027,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "All Access",
+        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
+      },
+      "artists": [
+        {
+          "name": "Ben Eggs",
+          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
+        }
+      ],
+      "duration_ms": 186888,
+      "name": "All Access",
+      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -507,22 +543,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "All Access",
-        "url": "https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg"
-      },
-      "artists": [
-        {
-          "name": "Ben Eggs",
-          "url": "https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd"
-        }
-      ],
-      "duration_ms": 186888,
-      "name": "All Access",
-      "url": "https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
       },
@@ -539,22 +559,6 @@
       "duration_ms": 200590,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -591,18 +595,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -619,6 +623,22 @@
       "duration_ms": 172124,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2uuRWIn5mIcM7ptvk8lxbp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+      },
+      "artists": [
+        {
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -675,22 +695,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Elephant & Castle",
-        "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
-      },
-      "artists": [
-        {
-          "name": "Wilmer Woo",
-          "url": "https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Elephant & Castle",
-      "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "It's alright",
         "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
       },
@@ -703,6 +707,22 @@
       "duration_ms": 196676,
       "name": "It's alright",
       "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Elephant & Castle",
+        "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
+      },
+      "artists": [
+        {
+          "name": "Wilmer Woo",
+          "url": "https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Elephant & Castle",
+      "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -883,38 +903,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
-      },
-      "artists": [
-        {
-          "name": "Vivaldi Verdes",
-          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
-        }
-      ],
-      "duration_ms": 235549,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Follow the Sun",
-        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
-      },
-      "artists": [
-        {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
-        }
-      ],
-      "duration_ms": 243624,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
@@ -927,6 +915,22 @@
       "duration_ms": 220038,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
+      },
+      "artists": [
+        {
+          "name": "Vivaldi Verdes",
+          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+        }
+      ],
+      "duration_ms": 235549,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -959,6 +963,22 @@
       "duration_ms": 234510,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
+      },
+      "artists": [
+        {
+          "name": "Gnarly Gibbs",
+          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+        }
+      ],
+      "duration_ms": 243624,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -999,22 +1019,6 @@
       "duration_ms": 186610,
       "name": "Wishing Well (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Carneiros Beach",
-        "url": "https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo"
-      },
-      "artists": [
-        {
-          "name": "Carlos Robalinho",
-          "url": "https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO"
-        }
-      ],
-      "duration_ms": 222633,
-      "name": "Carneiros Beach",
-      "url": "https://open.spotify.com/track/33NG5U8673kHJAS249qbFb"
     }
   ],
   "unique_name": "Aperitivo Time",

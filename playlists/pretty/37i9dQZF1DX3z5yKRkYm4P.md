@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,938 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,989 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 64 | [El baile de las momias](https://open.spotify.com/track/1wUyGZsOr5SLt2vNnxOY4r) | [Gangrena Surf](https://open.spotify.com/artist/1R18ekUeS9uxa1c9bSg6V8) | [En vivo Sesiones Nostromo](https://open.spotify.com/album/1oetk83qaS5s7UUhjnINAR) | 2:10 |
 | 65 | [Chaneque](https://open.spotify.com/track/5XATnCJz4bZmlkLYVTUkba) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Chaneque](https://open.spotify.com/album/4j3ux7SK4bjeG8oMPokAVN) | 4:15 |
 | 66 | [Tu Perro Se Murió](https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM) | [Los Pinches Fresitas](https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0) | [Tengo Un Amigo Que Me Ama](https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz) | 3:48 |
-| 67 | [Horror En El Hipermercado](https://open.spotify.com/track/1XlmZeSP4EPEmhewQjRCav) | [Alaska Y Los Pegamoides](https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI) | [Fiesta](https://open.spotify.com/album/6rhd8KStWjkNoyBO7ddkeu) | 2:21 |
+| 67 | [Horror en el hipermercado](https://open.spotify.com/track/1QWFEgLerDW7s8N7emXMTS) | [Alaska Y Los Pegamoides](https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI) | [Grandes Éxitos \- Edición Para Coleccionistas](https://open.spotify.com/album/3MHA0IRha04GHJwFHGFxdP) | 2:21 |
 | 68 | [Dracula](https://open.spotify.com/track/2acy7zzNEjWMpY6mg91h5N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm) | 4:41 |
 | 69 | [La Tumba](https://open.spotify.com/track/1AuwJOJcxOfi5nEQPwk5XP) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos, No Tan Lejos](https://open.spotify.com/album/0YkY3WqyscfFERmCKnAWvf) | 2:44 |
-| 70 | [Dia Del Los Muertos](https://open.spotify.com/track/0At4BtsLYRkzcVqVZzQ3YN) | [Los Plantronics](https://open.spotify.com/artist/6LUchU4dexQVXxiVVR96FY) | [The Worst is yet to Come \(Best of 1995\-2017\)](https://open.spotify.com/album/262Gwkokjvhez0Fsfw23Xb) | 2:21 |
+| 70 | [Dia De Los Muertos](https://open.spotify.com/track/6UPzVnKBwVulRz4MCwX0Ra) | [Los Plantronics](https://open.spotify.com/artist/6LUchU4dexQVXxiVVR96FY) | [La Orchestra Diabolica](https://open.spotify.com/album/5GZmdLfEoYcT6sGo4Hq9DA) | 2:20 |
 | 71 | [Canción Embrujada](https://open.spotify.com/track/7qEW4Ki7ut7E1eNwVUXG6H) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Sant](https://open.spotify.com/artist/2lD5i0c3VBhA41u84QORoY) | [Mexican Institute of Sound vs\. Sant](https://open.spotify.com/album/0Ve8D73sUNAOIGiBbeIMCD) | 3:23 |
 | 72 | [Morticia](https://open.spotify.com/track/4gPGW42siCv0bpq4eQIHSc) | [Combustible Edison](https://open.spotify.com/artist/6EBbqeUWMq6mWL0CQklRwh) | [Schizophonic](https://open.spotify.com/album/1oVhuDlylEyFlxJxDFBQ06) | 2:14 |
 | 73 | [Calle 24](https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2015](https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy) | 3:14 |
 | 74 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 | 75 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
 
-Snapshot ID: `MTY2NTQyNTU1MSwwMDAwMDAwMDllYWQyYzhkMWNjMWExOTUwZDhjMmE2NjU3YzU1ZTYz`
+Snapshot ID: `MTY2NTQyNTU1MSwwMDAwMDAwMDAxYzY0MWFlYTRlNjM0Mzg5ZmI4NjczMTFiNjYwZDZm`

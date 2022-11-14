@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,267 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,294 likes - 46 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 2 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
 | 3 | [Death Letter Blues](https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Father Of The Delta Blues: The Complete 1965 Sessions](https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF) | 4:19 |
 | 4 | [Moon Is Rising](https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Alternative Boogie: Early Studio Recordings, 1948\-1952](https://open.spotify.com/album/0rGdGbskTT8NnfJwfDVEkc) | 2:49 |
-| 5 | [Got the Bottle up and Gone](https://open.spotify.com/track/77xMV52NqEYqotQRPVoN9O) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [Lord Have Mercy](https://open.spotify.com/album/0zdntBA5tJss6YSMH8pey8) | 2:33 |
+| 5 | [Got The Bottle Up And Gone](https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [Sonny Boy Williamson Vol\. 1 \(1937 \- 1938\)](https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L) | 2:33 |
 | 6 | [Lead Pencil Blues](https://open.spotify.com/track/2RMkj69Tlvc1k0LD2IW7eg) | [Johnnie Temple](https://open.spotify.com/artist/34gPHGwf8jTA2gqoskjZPE) | [Presenting Johnnie Temple](https://open.spotify.com/album/3l8ereMNEdGKY4sBBmrdS6) | 3:07 |
 | 7 | [Rowdy Blues](https://open.spotify.com/track/75ToackOie9J7ZptaPbPxY) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 3:00 |
 | 8 | [My Mama Don't Allow Me](https://open.spotify.com/track/0SVoYMEKJcY56RbGrU5Of5) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Arthur "Big Boy" Crudup Vol\. 1 1941\-1946](https://open.spotify.com/album/0W8si0dl1CD4U3ebkypkyp) | 3:10 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 13 | [Saturday Blues](https://open.spotify.com/track/46BA5xsc2MFgFef2wgT8G2) | [Ishman Bracey](https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS) | [Suitcase Full of Blues 1928\-1929](https://open.spotify.com/album/2oBd93fHMsEh2eA3ovOIJ5) | 3:29 |
 | 14 | [Devil Got My Woman](https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Legends Of Country Blues: The Complete Pre\-War Recordings Of Skip James \(Disc A\)](https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV) | 3:01 |
 | 15 | [Whoopee Blues](https://open.spotify.com/track/6ylESybqWnIu8Qtm0XyGos) | [King Solomon Hill](https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG) | [Presenting King Solomon Hill](https://open.spotify.com/album/1qtKb7yeGIGerPcGfJMAQY) | 3:11 |
-| 16 | [Where Did You Sleep Last Night](https://open.spotify.com/track/7ucwcsXOmwwgrcMB3YeaKA) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Ultimate Country Blues Collection](https://open.spotify.com/album/736y5c0LSTTQ7FxkBq23p0) | 3:04 |
+| 16 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 17 | [Good Morning Little Schoolgirl](https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Good Morning Little School Girl](https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl) | 3:21 |
 | 18 | [Canned Heat Blues](https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:39 |
 | 19 | [Coffee Blues](https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:47 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTHVqvNCwNq.md) - [plain]
 | 45 | [Come On In My Kitchen](https://open.spotify.com/track/10W125nMbncRGcXRBoACOx) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:52 |
 | 46 | [Mississippi Bottom Blues](https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc) | [Kid Bailey](https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD) | [Son House & Great Delta Blues Singers 1928 \- 1930](https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO) | 2:49 |
 
-Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMGEzOGI4Mjg3YmM1OWM5YTNiMmM4NWQxZjc5MTNhYTIx`
+Snapshot ID: `MTYzOTcxNzI2MCwwMDAwMDAwMDU2NDA5NWRmNWJlMThiYTgxMDYyZGQ5MDU1NGQ5M2Uz`

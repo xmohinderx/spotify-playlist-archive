@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 14354,
+  "num_followers": 14375,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNTA2NjMwMywwMDAwMDAwMDVhNWZiMWUxODQwMzRjNDA2NjcxMzQxNjI5OTY1Nzk0",
+  "snapshot_id": "MTYyNTA2NjMwMywwMDAwMDAwMDZjNzBkNGVhMjRlOTg3ZjIzYTk0MjVkNTBlOTRmZDY3",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -27,8 +27,8 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Devil Trigger",
-        "url": "https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla"
+        "name": "Bury the Light",
+        "url": "https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7"
       },
       "artists": [
         {
@@ -36,13 +36,13 @@
           "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
         },
         {
-          "name": "Ali Edwards",
-          "url": "https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi"
+          "name": "Victor Borba",
+          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
         }
       ],
-      "duration_ms": 405212,
-      "name": "Devil Trigger",
-      "url": "https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn"
+      "duration_ms": 582400,
+      "name": "Bury the Light",
+      "url": "https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -59,6 +59,66 @@
       "duration_ms": 278306,
       "name": "Escape",
       "url": "https://open.spotify.com/track/0CnoyKNuuo5kuUNqtw1Tkg"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+      },
+      "artists": [
+        {
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+        },
+        {
+          "name": "Jordan Reyne",
+          "url": "https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le"
+        }
+      ],
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
+      "url": "https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Crimson Cloud",
+        "url": "https://open.spotify.com/album/2V1hViF311H8XX1104K3i4"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rona",
+          "url": "https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ"
+        },
+        {
+          "name": "Rachel Fannan",
+          "url": "https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe"
+        }
+      ],
+      "duration_ms": 289095,
+      "name": "Crimson Cloud",
+      "url": "https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Devil Trigger",
+        "url": "https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla"
+      },
+      "artists": [
+        {
+          "name": "Casey Edwards",
+          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
+        },
+        {
+          "name": "Ali Edwards",
+          "url": "https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi"
+        }
+      ],
+      "duration_ms": 405212,
+      "name": "Devil Trigger",
+      "url": "https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -151,22 +211,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Resident Evil 4 Sound Collection",
-        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 81426,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
       },
@@ -231,18 +275,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "DEVIL MAY CRY 5 Original SoundTrack",
-        "url": "https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe"
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
       },
       "artists": [
         {
-          "name": "Jeff Rona",
-          "url": "https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ"
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
         }
       ],
-      "duration_ms": 289137,
-      "name": "Crimson Cloud",
-      "url": "https://open.spotify.com/track/0kbL8BOL0Ts7lGIVVQNoXB"
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -259,22 +303,6 @@
       "duration_ms": 161133,
       "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
       "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Super Street Fighter II Turbo Original Soundtrack",
-        "url": "https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Guile's Theme",
-      "url": "https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -391,6 +419,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Super Street Fighter II Turbo Original Soundtrack",
+        "url": "https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Guile's Theme",
+      "url": "https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u5927\u9006\u8ee2\u88c1\u52242 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
         "url": "https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4"
       },
@@ -403,22 +447,6 @@
       "duration_ms": 129946,
       "name": "\u5927\u8ffd\u6c42 \u301c\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f",
       "url": "https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Devil May Cry 4 Original Soundtrack",
-        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "The Time Has Come (Nero's Combat)",
-      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -471,22 +499,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "MEGAMAN ZERO/ZX SOUND BOX",
-        "url": "https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE"
-      },
-      "artists": [
-        {
-          "name": "Umegaki Runa",
-          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
-        }
-      ],
-      "duration_ms": 139266,
-      "name": "Esperanto",
-      "url": "https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "MEGA MAN X3 SOUND COLLECTION",
         "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
       },
@@ -503,18 +515,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "BIOHAZARD 7 RESIDENT EVIL Best Track Collection",
-        "url": "https://open.spotify.com/album/6snRTZSjEpxuVKBQnHDrpY"
+        "name": "MEGAMAN ZERO/ZX SOUND BOX",
+        "url": "https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE"
       },
       "artists": [
         {
-          "name": "Michael A. Levine",
-          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+          "name": "Umegaki Runa",
+          "url": "https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax"
         }
       ],
-      "duration_ms": 174998,
-      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
-      "url": "https://open.spotify.com/track/0pYJBNET8c1tFUlXxKaIBj"
+      "duration_ms": 139266,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -535,26 +547,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Bury the Light",
-        "url": "https://open.spotify.com/album/32YRuIKKqGpe2YwIIUqZsA"
-      },
-      "artists": [
-        {
-          "name": "Casey Edwards",
-          "url": "https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ"
-        },
-        {
-          "name": "Victor Borba",
-          "url": "https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF"
-        }
-      ],
-      "duration_ms": 582495,
-      "name": "Bury the Light",
-      "url": "https://open.spotify.com/track/0LldViz2vaOEjiBqEN25ca"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "Resident Evil 3 Special Soundtrack",
         "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
       },
@@ -567,6 +559,22 @@
       "duration_ms": 126280,
       "name": "Free From Fear",
       "url": "https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "Devil May Cry 4 Original Soundtrack",
+        "url": "https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "The Time Has Come (Nero's Combat)",
+      "url": "https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3"
     },
     {
       "added_at": "2021-06-30 15:18:23",

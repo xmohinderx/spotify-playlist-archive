@@ -691,7 +691,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 150933,
       "name": "3 Nouvelles etudes, Op. posth.: Etude No. 2 in A-Flat Major",
       "url": "https://open.spotify.com/track/1tmAAxhZcZ7w9zPGFOEMUz"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "3 Nouvelles etudes, Op. posth.: II. Etude No. 26 in A-Flat Major",
       "url": "https://open.spotify.com/track/3S9qdWjfdG7HYbJtiWRRHe"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 469613,
       "name": "Ballade No. 3 in A Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 475506,
       "name": "Ballade No. 3 in A Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/2duq6mtN9Me3kbLzaBFmRC"
@@ -1601,10 +1601,32 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 336093,
       "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
       "url": "https://open.spotify.com/track/4oowGH3baaetOYlEVUglhU"
+    },
+    {
+      "album": {
+        "name": "Chopin: Classics for Commuting",
+        "url": "https://open.spotify.com/album/7psAsu3IHO8CigGXTj9a4D"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336093,
+      "name": "Fantaisie-Impromptu In C-Sharp Minor, Op. 66",
+      "url": "https://open.spotify.com/track/4yrcnbAajr2GYuCTo1pWP5"
     },
     {
       "album": {
@@ -1693,7 +1715,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 860520,
       "name": "Fantasia on Polish National Airs Op. 13",
       "url": "https://open.spotify.com/track/4XCmNP6ZrjKxCg5Hmj2cml"
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 861613,
       "name": "Grande fantaisie sur des airs polonais, Op. 13",
       "url": "https://open.spotify.com/track/43eEPJmWwy1baSwVR6G8pq"
@@ -2243,7 +2265,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 634933,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance (Larghetto)",
       "url": "https://open.spotify.com/track/2Tii3ZAtFI1OuUXqk3CY1l"
@@ -2273,7 +2295,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 634933,
       "name": "Piano Concerto No. 1 in E Minor, Op. 11: II. Romance (Larghetto)",
       "url": "https://open.spotify.com/track/2wjaAsEAzdH8BDBOOsYLUs"
@@ -3085,7 +3107,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a"
@@ -3115,6 +3137,32 @@
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/5GvFoTt81kcLw6eEJlfCKT"
+    },
+    {
+      "album": {
+        "name": "Chopin: Classics for Commuting",
+        "url": "https://open.spotify.com/album/7psAsu3IHO8CigGXTj9a4D"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/5sRB3LrpSEQBVaNyFqSrZj"
     },
     {
       "album": {

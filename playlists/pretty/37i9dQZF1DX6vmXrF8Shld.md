@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 
 > The best and finest '60s Funk\. Cover: The Meters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,175 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,251 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 19 | [Papa's Got a Brand New Bag](https://open.spotify.com/track/4gBDbXvzx8uDEWrA7Qo1KZ) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Together](https://open.spotify.com/album/5dlq4IV7malpLfG36zMj6T) | 3:19 |
 | 20 | [Everybody Needs Somebody to Love](https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [The Very Best of Solomon Burke](https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE) | 2:46 |
 | 21 | [The Watts Breakaway](https://open.spotify.com/track/2jE7FOj2T1zMy3XSLbeDd2) | [The Johnny Otis Show](https://open.spotify.com/artist/4pdM1TI8b1tZW3Jprzn5II) | [Cuttin Up](https://open.spotify.com/album/3CT70XoGyILn3j2gcNkbA9) | 2:34 |
-| 22 | [What a Man](https://open.spotify.com/track/0Mv1xjyuShMGyByoh3LiIs) | [Laura Lee](https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX) | [Most Wanted 60s R&B](https://open.spotify.com/album/6dX1EE2aMbOS4lwqz9xzDv) | 2:53 |
+| 22 | [What a Man \- Remastered Single Version](https://open.spotify.com/track/0pcsr9n7Pn6XOfzcvoxRB4) | [Laura Lee](https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX) | [Atlantic Unearthed: Soul Sisters](https://open.spotify.com/album/1wThKZtNlrDOWOsBh5aal4) | 2:55 |
 | 23 | [Funky Street](https://open.spotify.com/track/6uu9g2xpWSPda9SFPvrAmO) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Soul Directions](https://open.spotify.com/album/3PowoJrtqNFSY8HEJ3a1v4) | 2:23 |
 | 24 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
 | 25 | [Walkin' the Dog](https://open.spotify.com/track/3GE3rDxFuME3cNXbhKCzQn) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Northen Soul: Super Rare Tracks](https://open.spotify.com/album/3JDSmJKeSBxmhOyriqgnjP) | 2:20 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vmXrF8Shld.md) - [plain]
 | 68 | [No Way](https://open.spotify.com/track/6TlXKWSyZuHMS4qANLwVgE) | [Boogaloo Joe Jones](https://open.spotify.com/artist/4BEDs63hGcprptqZt11a3J) | [No Way!](https://open.spotify.com/album/4HgaispO1KpzuYAKljvrgM) | 7:17 |
 | 69 | [The Horse](https://open.spotify.com/track/2FCiuaXNE1kjwSoAvso4vT) | [Cliff Nobles](https://open.spotify.com/artist/0i0ELbteoVYQDbSNCU3Spz) | [The Phil\-LA of Soul Singles Collection 1968\-1972](https://open.spotify.com/album/5zXj6vdiMbqMXTL9oCqruD) | 2:26 |
 
-Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMDk5MDEzYWY0NTAxOGY2ZjNiMjM5MGQzY2JkM2EyOGRi`
+Snapshot ID: `MTY2NTU4MDIxMSwwMDAwMDAwMGNjZWU5M2I3NjEyZmQwZWY5MTM4ODdlYTY4ZjZjNTdm`

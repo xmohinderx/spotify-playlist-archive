@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89387,
+  "num_followers": 89395,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDZlZDUyNDFmZWM0OWI3ODU3ODdjYmFmZTA0NjU2ZjI4",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGNkOWU0NGYzNGY4OTJkZTg1MDBhZjM4MTg3M2RmNGU1",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -163,22 +163,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Fire & Brimstone",
-        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Fire\u2019t Up",
-      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Rocketman (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 250773,
       "name": "(I'm Gonna) Love Me Again",
       "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Fire & Brimstone",
+        "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Fire\u2019t Up",
+      "url": "https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -575,30 +575,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 221054,
-      "name": "Prove You Wrong",
-      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "25 Years Later",
         "url": "https://open.spotify.com/album/4QKirfSQTnnbswBaDl4tl8"
       },
@@ -611,6 +587,22 @@
       "duration_ms": 227800,
       "name": "Over The Hump",
       "url": "https://open.spotify.com/track/5VU0m0N5Y8kHJBjJp40Ipb"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Shake The Spirit",
+        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 159267,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -631,18 +623,26 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Shake The Spirit",
-        "url": "https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o"
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 159267,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e"
+      "duration_ms": 221054,
+      "name": "Prove You Wrong",
+      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -691,6 +691,22 @@
       "duration_ms": 203081,
       "name": "Four Leaf Clover",
       "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "Good Thing Gone",
+        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 292594,
+      "name": "Good Thing Gone",
+      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -767,18 +783,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
+        "name": "Blood Red Roses (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Bridget Cady",
+          "url": "https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z"
         }
       ],
-      "duration_ms": 231946,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx"
+      "duration_ms": 240986,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -799,18 +819,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Good Thing Gone",
-        "url": "https://open.spotify.com/album/2w6vx42lq9GcPoz1iMeFuV"
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 292594,
-      "name": "Good Thing Gone",
-      "url": "https://open.spotify.com/track/4AhTpAErJb7HZFV7tcUPWD"
+      "duration_ms": 231946,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -867,22 +887,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "In the Blue Light",
-        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "One Man's Ceiling Is Another Man's Floor",
-      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Big Colors",
         "url": "https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ"
       },
@@ -895,6 +899,22 @@
       "duration_ms": 213946,
       "name": "Fuck The Rain",
       "url": "https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "In the Blue Light",
+        "url": "https://open.spotify.com/album/3PQQXqRozROVS6q2Db5vvY"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "One Man's Ceiling Is Another Man's Floor",
+      "url": "https://open.spotify.com/track/2N9LsBQMtLyMZL0LeydiLW"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -1023,34 +1043,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Chelsea",
-        "url": "https://open.spotify.com/album/2Fr2BpLSBpck5R21kysYox"
+        "name": "Streets of You",
+        "url": "https://open.spotify.com/album/7BvMeA6XzGX0hBiUIhIhqH"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
         }
       ],
-      "duration_ms": 289693,
-      "name": "Chelsea",
-      "url": "https://open.spotify.com/track/6QsaoM6upioGbe4WZhLCmc"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "Fuh You",
-        "url": "https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 203719,
-      "name": "Fuh You",
-      "url": "https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ"
+      "duration_ms": 193600,
+      "name": "Remember to Breathe",
+      "url": "https://open.spotify.com/track/5Ht9Z3eLfUVKu9WvrT5d9G"
     }
   ],
   "unique_name": "The New Waltz",

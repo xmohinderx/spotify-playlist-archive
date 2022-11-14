@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 
 > Dos de los más grandes, frente a frente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,285 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,344 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 8 | [A mi manera \- 2000 Remastered Version](https://open.spotify.com/track/5uyDA5kB1J3CDJgk0Rwfap) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Yo soy aquél \(Sus éxitos remasterizados\)](https://open.spotify.com/album/09QWbjZOQQw15lnxjvguK8) | 4:21 |
 | 9 | [Me Va, Me Va](https://open.spotify.com/track/0PXlAASjColqngGNNbzoA5) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [1100 Bel Air Place](https://open.spotify.com/album/6DfzQpFxFMI7JXS23ctnWE) | 6:00 |
 | 10 | [Yo soy aquél](https://open.spotify.com/track/4H71d1kJ8DB8J4atO8fbBl) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Canta...Raphael](https://open.spotify.com/album/0cm8e4rwLQq30D5Yvzdy0g) | 2:39 |
-| 11 | [La Carretera](https://open.spotify.com/track/6yMmTyPomklAeX0sDaL0nH) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Éxitos del Pop Español de los Años 90](https://open.spotify.com/album/3EEOjXCSXAMxkJ6Czpecm8) | 4:40 |
+| 11 | [La Carretera](https://open.spotify.com/track/1e0bRYxNURnvAcXutJOP2u) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A) | 4:41 |
 | 12 | [Escándalo](https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ave Fénix](https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO) | 5:04 |
 | 13 | [Baila Morena](https://open.spotify.com/track/2qghLLpWNLzZqtq9I0t6hT) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [La Carretera](https://open.spotify.com/album/4Qu6joqv4Ne2tMBmXXBN9A) | 3:50 |
 | 14 | [Qué sabe nadie](https://open.spotify.com/track/6k9IY8ZUD0wihrL4Ch7Upn) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [En carne viva](https://open.spotify.com/album/18duCh9suTyPY4xB85bFao) | 5:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9osbRRf6xSX.md) - [plain]
 | 99 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
 | 100 | [Quiero Abrazarte Tanto \- Remastered](https://open.spotify.com/track/4PMo1Vf79zlwrQSTqWwJZ6) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8), [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [50 Años Después \(Remastered\)](https://open.spotify.com/album/48Yvne1x8AANcjxZvuPirC) | 3:35 |
 
-Snapshot ID: `MTYzMjkwNjM4OCwwMDAwMDAwMDFhMmRhZjljNmRjOGRiOGEyYWUzZGQyN2QwNmY4ZjEx`
+Snapshot ID: `MTYzMjkwNjM4OCwwMDAwMDAwMDM0ZDJiOTE5MWE2NmViMzBlM2VlZDBmOWNiNmNjYjhk`

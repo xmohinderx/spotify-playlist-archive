@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,411 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,457 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ラムのラブソング](https://open.spotify.com/track/3xeUlKzj8PLodj9dalf3EQ) | [松谷祐子](https://open.spotify.com/artist/5K6jTQAlFUUBYyCh5Cfs4Y) | [ラムのラブソング](https://open.spotify.com/album/22Lq6qwU7UVPGEYMijdcVu) | 2:42 |
-| 2 | [Touch](https://open.spotify.com/track/4aFneI3IWBoVUQAVQq3DBt) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/7xPNqHgWm3mNT859JSRy8I) | 3:14 |
+| 2 | [Touch](https://open.spotify.com/track/1YgsafBW9O7vhTjeeSuapN) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [Touch](https://open.spotify.com/album/19XENSrORBPh2v5EVAOtI1) | 3:13 |
 | 3 | [CAT'S EYE](https://open.spotify.com/track/7FGbwJMZxCbW6U8aGNBgOm) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [MY FAVORITE SONGS](https://open.spotify.com/album/7zgw8ntFBLiJmamS7HtVyw) | 3:22 |
 | 4 | [ルパン三世'80](https://open.spotify.com/track/273uFgAPSKdPioIGTPmpZb) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [ユー & ザ・エクスプロージョン・バンド](https://open.spotify.com/artist/3D3jcW12AeIw0FtXJGvilD) | [ルパン三世 オリジナル・サウンドトラック3](https://open.spotify.com/album/7Hnnn5lTZeCIuG1UR1eUFG) | 3:40 |
 | 5 | [翔べ!ガンダム](https://open.spotify.com/track/6K9o8krsunY1ABd6w1FsXW) | [池田鴻](https://open.spotify.com/artist/3fIav2Iwr4ZhYGMe8hRs8V), [フィーリング・フリー](https://open.spotify.com/artist/0jpYHQy9n4YGEUvUtbAH1n), [ミュージッククリエイション](https://open.spotify.com/artist/0IDweRYyKNXtVQTQ69mTRX) | [翔べ!ガンダム](https://open.spotify.com/album/45dDyX7XuKGbtui6sFWy11) | 2:45 |
-| 6 | [Get Wild](https://open.spotify.com/track/0y16coW4wqiPmiZmPDDXYL) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK/TMN BEST TRACKS 〜A message to the next generation〜](https://open.spotify.com/album/3jqLGfV5WZPF14SfmkHXLx) | 4:00 |
+| 6 | [Get Wild](https://open.spotify.com/track/7MBCVS5iqoAY6F106jdLOb) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:00 |
 | 7 | [愛・おぼえていますか](https://open.spotify.com/track/6rfiZvgzmHoohZs5OCo3D7) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [palette\(パレット\)](https://open.spotify.com/album/2LI4KcqWZH9OT6aDnOpmpU) | 5:08 |
 | 8 | [摩訶不思議アドベンチャー! \(2005 ver.\)](https://open.spotify.com/track/4auleowVdRUDSLGb4tm5Xz) | [高橋 洋樹](https://open.spotify.com/artist/6nMPmmyyIKwyTwZAbZQe4Z) | [アニソンNo.1](https://open.spotify.com/album/3Q80IekfQVdlXUnavNDuTI) | 3:51 |
 | 9 | [愛をとりもどせ!!](https://open.spotify.com/track/3ZiiqVTRW0DKrOnkbTdlrk) | [CRYSTALKING](https://open.spotify.com/artist/4ZkxyrVGZwQYwjEHO99njF) | [アニメ北斗の拳 オリジナルE.P.](https://open.spotify.com/album/3TXGqlSWEfrRPFZT1ccukx) | 2:56 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 34 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 |
 | 35 | [ニルスのふしぎな旅](https://open.spotify.com/track/1ox2VEg2wjLnc8l7Q6xGAf) | [Katsumi Kahashi](https://open.spotify.com/artist/6ESuChUdfvDtfNIhzQLmIP), [SSAAB](https://open.spotify.com/artist/2kL8Yf9VfmypuWZErTtZcL) | [ニルスのふしぎな旅 楽しいうたと音楽集](https://open.spotify.com/album/0c1fU2A9fyTVrxYwZJz8SP) | 3:17 |
 | 36 | [My Neighbor Totoro](https://open.spotify.com/track/4IdQZXMOooaIRoP7N2qCn8) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [My Neighbor Totoro Image Song Collection](https://open.spotify.com/album/7MBpoM8AdFooU6g2nB3MZf) | 4:18 |
-| 37 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/7i1xVKKkHExSqUO7zhnsOW) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック](https://open.spotify.com/album/0ZfXlmkU5NfEglCCZLpxjx) | 4:51 |
+| 37 | [BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://open.spotify.com/track/3NUwz8ui16l77S1VVkzfWH) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 1](https://open.spotify.com/album/1WrWUdn5cOBA0PbBFrE4z0) | 4:52 |
 | 38 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 |
 | 39 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 40 | [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFCZS9poESZ.md) - [plain]
 | 49 | [オタスケマンの歌](https://open.spotify.com/track/6DY51JWmOsHqsr0OhtOxE3) | [山本まさゆき](https://open.spotify.com/artist/7HsndLdK7mnsnqAjIeCHoD), [少年少女合唱団みずうみ](https://open.spotify.com/artist/0hW8Ve499ZAxIM9LD0reCX) | [タイムボカン名曲の夕べ](https://open.spotify.com/album/29CjCxgT9NOdOOHNpkXGfT) | 3:35 |
 | 50 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 |
 
-Snapshot ID: `MTY1NTgyODY2NSwwMDAwMDAwMDA1M2RhMWIzOWI5MTE4MjYyZDkxNWUwYjE4ZDg0MDdi`
+Snapshot ID: `MTY1NTgyODY2NSwwMDAwMDAwMDcwMDFkZjBmMDlkNWRkMzUyYWJiMjJjYjE1MmE1YTdi`

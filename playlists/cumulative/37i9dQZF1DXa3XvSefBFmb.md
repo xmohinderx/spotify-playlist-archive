@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-289 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
+290 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Fininho](https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q) | [Filomena Maricoa](https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG) | [Resiliência](https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7) | 2:59 | 2022-01-05 | 2022-04-06 |
 | [Focadu na mi](https://open.spotify.com/track/2F8UmE4VDyq01qTdTqVp8V) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml) | [DIAS \(Tome 1\)](https://open.spotify.com/album/3mcuhcsPFPF10MFEn43hn1) | 3:38 | 2022-04-05 | 2022-06-01 |
 | [Fome De Viagem](https://open.spotify.com/track/33lxmcEisX8NwBNNonE301) | [Inês Homem de Melo](https://open.spotify.com/artist/0QdfRhW7jTykazbcEuNtgL) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 2:47 | 2022-02-02 | 2022-04-06 |
-| [Fuck Up Person](https://open.spotify.com/track/6F6gfbhqgoTEzDcpDt6LgT) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Fuck Up Person](https://open.spotify.com/album/6K4cXrRcWBLBJrZWyFFP0X) | 4:15 | 2022-11-02 |  |
+| [Fuck Up Person](https://open.spotify.com/track/6F6gfbhqgoTEzDcpDt6LgT) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Fuck Up Person](https://open.spotify.com/album/6K4cXrRcWBLBJrZWyFFP0X) | 4:15 | 2022-11-02 | 2022-11-14 |
+| [Fuck Up Person](https://open.spotify.com/track/6VragNqSp2liUsisozixzH) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 4:15 | 2022-11-02 |  |
 | [Fui Longe de Mais](https://open.spotify.com/track/1G5xlbqp6YgtIYZYtpnnEC) | [Mariana Moreira](https://open.spotify.com/artist/3uVkTJM20CUtJl5uCju6c1) | [Fui Longe de Mais](https://open.spotify.com/album/7gtn6QeZE7tb10jNx2iGHd) | 4:14 | 2022-05-03 | 2022-07-06 |
 | [Funk You Want](https://open.spotify.com/track/1gAD0QYr72zSpqm8S5x1Vu) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Funk You Want](https://open.spotify.com/album/2eS1iSR3U9gCQ8NMops5u6) | 2:46 | 2022-04-05 | 2022-05-04 |
 | [G E T F A M I L I A R](https://open.spotify.com/track/0MGjXxD2gXLIpX4bEXqkpE) | [Rossana](https://open.spotify.com/artist/372srPZ3LinDUNQlKetVFL) | [G E T F A M I L I A R](https://open.spotify.com/album/0JytRWfY9BfvmYTko05Gg1) | 3:49 | 2022-03-08 | 2022-05-04 |

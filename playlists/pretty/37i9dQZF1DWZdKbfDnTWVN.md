@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: Big Yasa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,704 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,719 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 40 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 |
 | 41 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 |
 | 42 | [Thao Moja](https://open.spotify.com/track/1PO7W6fuOlFqM7bdNhzN1q) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [DEZ](https://open.spotify.com/artist/3msuv9fbuApqt9E4cJ6HWv) | [Thao Moja](https://open.spotify.com/album/0BJkuk75Yj4gVz11P8ckuM) | 2:39 |
-| 43 | [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 |
+| 43 | [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 |
 | 44 | [Day In The Life](https://open.spotify.com/track/4ZO9Y99uojl291TjD2U0eJ) | [JackyBoyD](https://open.spotify.com/artist/6RqBs6Cc37m6dBDYfUlmoC) | [Day In The Life](https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk) | 3:06 |
 | 45 | [Grey Area](https://open.spotify.com/track/6mtiCdPpaaJxMX3tckWfnS) | [Hotbox Music](https://open.spotify.com/artist/44z1matIs5ROgNVylWtckK), [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [Trabolee](https://open.spotify.com/artist/1kNYzaA18sVDtVp96CjXgJ) | [Grey Area](https://open.spotify.com/album/40ypmPHlpIm79GuddqFHHJ) | 5:08 |
 | 46 | [GVNG](https://open.spotify.com/track/2x0IbiX2uIrA3rH8G3Nzb3) | [Bout Paper Boyz](https://open.spotify.com/artist/2EXPwSRAffYH1zNCalvcaB), [TwennyEights](https://open.spotify.com/artist/6wsz9QSirpcHgvkZ2Huhv0), [BoutPaperMasey](https://open.spotify.com/artist/7u408StdmIpsqxET0fm3dW) | [GVNG](https://open.spotify.com/album/5AUM8rsUTPiTldUtH7k0ux) | 1:30 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 55 | [WHO?](https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO), [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [WHO?](https://open.spotify.com/album/1utTBCnNVBfUea8ZpP99NZ) | 3:30 |
 | 56 | [no limits](https://open.spotify.com/track/642GFCw2GgE1Vc9c3RZjEI) | [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [NinjaRacy E.T.](https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I) | [no limits](https://open.spotify.com/album/6noNnHm5ItLugU4JG9DOGL) | 4:11 |
 | 57 | [Mazza](https://open.spotify.com/track/1kAL4G6ScoiGFB1YWRKtj7) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Kombat](https://open.spotify.com/artist/3lWesKnd7TQsvcI6MpHB6o) | [Mazza](https://open.spotify.com/album/5xk0cKFFkH0cZtSnufyU6a) | 2:54 |
-| 58 | [Pree](https://open.spotify.com/track/4Xek10EqPWioGjOWsPjZtA) | [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Pree](https://open.spotify.com/album/5mFZ4Rof0UCr3iDYvVKS4z) | 3:17 |
+| 58 | [Pree](https://open.spotify.com/track/2YEu77cQVAPT51V4dWSyAb) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:17 |
 | 59 | [Sawa](https://open.spotify.com/track/0wJmCGVg0JTGE3iyHUqyWK) | [KABUGA](https://open.spotify.com/artist/68d2olhtpyi3Lt3vKY6uWa) | [Sawa](https://open.spotify.com/album/6qzmfRbYjwYP4unvKH9BSV) | 2:25 |
 | 60 | [Pale Westi](https://open.spotify.com/track/21LNoPtgH50h5RARs7SV1s) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [Pale Westi](https://open.spotify.com/album/4FCrFtIretOPfiqLKComqn) | 1:51 |
 
-Snapshot ID: `MTY2ODExMzk0MCwwMDAwMDAwMDExODFiNjlmMzRlMGM2YjMwOTRhMGViZmQwNTVkMDRj`
+Snapshot ID: `MTY2ODExMzk0MCwwMDAwMDAwMGZjYTZjODgxYmFlZDJjNjQ3YjliOTZmMmU0M2ZjNjY5`

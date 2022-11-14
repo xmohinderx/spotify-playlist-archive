@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,803 likes - 123 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,824 likes - 123 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 68 | [Bring Him Home](https://open.spotify.com/track/56n3i3qXPMDuEfU4maiBK6) | [Melissa Aldana & Crash Trio](https://open.spotify.com/artist/34IAv54nMtYZTtX3QVHDvL) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/24SzTzOtzYObsSaqgMEIw1) | 5:09 |
 | 69 | [Real & Imagined](https://open.spotify.com/track/6YKYdsX76JCq5CkIy8eON4) | [Kait Dunton](https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs) | [Real & Imagined](https://open.spotify.com/album/5oQK5juKTS7AawRCxFi3wb) | 7:45 |
 | 70 | [Send In The Clowns](https://open.spotify.com/track/08fkvamJMu9uhyJeJnu1ki) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 4:48 |
-| 71 | [The Boy From Ipanema](https://open.spotify.com/track/3r4znNhIUhY8OtioTP1rfb) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Capitol Sings Around The World: Far Away Places](https://open.spotify.com/album/7MHnIS6xmPLvq7oAaHVvxp) | 2:14 |
+| 71 | [The Boy From Ipanema](https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad I Am](https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt) | 2:14 |
 | 72 | [Waking Up in the Spring](https://open.spotify.com/track/4TvY1J3hn2BaZR0P10scbI) | [Yelena Eckemoff](https://open.spotify.com/artist/7vRtxQT9nKIPHA36iDrCul), [Jukka Perko](https://open.spotify.com/artist/1NSHUz6LEFJC6H7CBhPQgD), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Adventures of the Wildflower](https://open.spotify.com/album/6MvU9T3SDzW6R4MA1N3Ge6) | 6:10 |
 | 73 | [Honeysuckle Rose](https://open.spotify.com/track/4LIw2QRvZWvtV48O92yfKu) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:37 |
 | 74 | [Dance Me To The End Of Love](https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Careless Love](https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW) | 3:57 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 81 | [LOOZE \- Single Edit](https://open.spotify.com/track/7KQFMboI26LBqb5OBvoibe) | [Bévort 3](https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W), [Pernille Bévort](https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV), [Espen Laub von Lillienskjold](https://open.spotify.com/artist/2HD6XSwIbTymHXSshxSlnF), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU) | [LOOZE](https://open.spotify.com/album/0ehD1jUJ5V9teDMTeyCutK) | 4:19 |
 | 82 | [What Seems to Be](https://open.spotify.com/track/6nFj1w0i80WtD7tRWt3Upk) | [Yumi Ito](https://open.spotify.com/artist/3uWJmmVbMN5fhVLhaDRcBY) | [Stardust Crystals](https://open.spotify.com/album/4kCfpL1lN7now0bDfBIaW4) | 4:38 |
 | 83 | ['Tis Autumn](https://open.spotify.com/track/2crI4VDWhG7m66Bc2afjJw) | [Barbara Carroll](https://open.spotify.com/artist/3Nk5i5yzKcaBCo85U2wz9n) | [Ladies Of Jazz](https://open.spotify.com/album/2vi1qiiUtDUvdIOG3pEpDk) | 3:25 |
-| 84 | [A Cigarette And A Silhouette](https://open.spotify.com/track/4LtMnTwHIeJfqZGHE137p7) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Best Songs](https://open.spotify.com/album/5HmGFsjYFdSXCWKyLAe5QI) | 3:00 |
+| 84 | [A Cigarette and a Silhouette](https://open.spotify.com/track/0A5jkPC11ILnukYQjwl8Ap) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Rockin' Chair Lady](https://open.spotify.com/album/7FPEi1QT9XZRj4pHO53JVb) | 3:04 |
 | 85 | [Worrisome Heart](https://open.spotify.com/track/3zh5km8gPDYMiWvmLTsos0) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Worrisome Heart](https://open.spotify.com/album/5ahEd7berYIgjRYsIHZa8Y) | 4:21 |
 | 86 | [Leaping Up](https://open.spotify.com/track/2s9dOhFTlvqz4zGkelQ0Ro) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 7:33 |
 | 87 | [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 122 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 123 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMDIyNTMwYzdmMzMyOTk0MDVlMDk4Zjk3ZjIxYjI2MzE2`
+Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMDY3MmE2YjJmOGFlZTBkNWUxMDc3ZDI5NDI4NGM4OTA0`

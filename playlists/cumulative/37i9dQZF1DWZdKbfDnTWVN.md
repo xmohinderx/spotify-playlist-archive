@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: Big Yasa
 
-81 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
+82 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,8 @@
 | [no limits](https://open.spotify.com/track/642GFCw2GgE1Vc9c3RZjEI) | [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [NinjaRacy E.T.](https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I) | [no limits](https://open.spotify.com/album/6noNnHm5ItLugU4JG9DOGL) | 4:11 | 2022-06-16 |  |
 | [Pale Westi](https://open.spotify.com/track/21LNoPtgH50h5RARs7SV1s) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [Pale Westi](https://open.spotify.com/album/4FCrFtIretOPfiqLKComqn) | 1:51 | 2022-05-12 |  |
 | [Pop Out](https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs) | [Lewis KE](https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi) | [Pop Out](https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG) | 3:09 | 2022-05-05 |  |
-| [Pree](https://open.spotify.com/track/4Xek10EqPWioGjOWsPjZtA) | [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Pree](https://open.spotify.com/album/5mFZ4Rof0UCr3iDYvVKS4z) | 3:17 | 2022-04-14 |  |
-| [Pree](https://open.spotify.com/track/2YEu77cQVAPT51V4dWSyAb) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:17 | 2022-04-14 | 2022-11-11 |
+| [Pree](https://open.spotify.com/track/4Xek10EqPWioGjOWsPjZtA) | [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Pree](https://open.spotify.com/album/5mFZ4Rof0UCr3iDYvVKS4z) | 3:17 | 2022-04-14 | 2022-11-14 |
+| [Pree](https://open.spotify.com/track/2YEu77cQVAPT51V4dWSyAb) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:17 | 2022-04-14 |  |
 | [PREE](https://open.spotify.com/track/0voJpkHOyEcHiTmCS6rFEB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [PREE](https://open.spotify.com/album/6dNMrRjXb7bSU6uI2jRVX0) | 3:17 | 2022-04-14 | 2022-10-30 |
 | [Pretty Overload](https://open.spotify.com/track/6a2WQeQHhW1xUiIjskV672) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk) | [Pretty Overload](https://open.spotify.com/album/2b03wQZzmqqtIcguqZfgqR) | 2:37 | 2022-08-18 |  |
 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 | 2022-04-28 |  |
@@ -85,7 +85,8 @@
 | [USIKAM HII SECTION](https://open.spotify.com/track/5XDl1xJSDK5ys6jI9r0p2i) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 3:48 | 2022-05-27 | 2022-10-30 |
 | [W.T.N ?](https://open.spotify.com/track/7dfVmXnGB5OlBHiQum53rL) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [W.T.N ?](https://open.spotify.com/album/2G2k6UrxLNcEGWhZLUNueo) | 2:42 | 2022-10-13 |  |
 | [Wasp](https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [BIGGS](https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y) | 3:20 | 2022-07-07 | 2022-10-12 |
-| [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 |  |
+| [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 | 2022-11-14 |
+| [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 | 2022-07-07 |  |
 | [Who Else Would It Be](https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Who Else Would It Be](https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm) | 1:31 | 2022-11-10 |  |
 | [WHO?](https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO), [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [WHO?](https://open.spotify.com/album/1utTBCnNVBfUea8ZpP99NZ) | 3:30 | 2022-06-23 |  |
 | [Woo](https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Woo](https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM) | 2:00 | 2022-09-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,857 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,964 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 19 | [葛飾ラプソディー](https://open.spotify.com/track/0Db5hjUbBwh3EdcuVRbMMj) | [Kôhei Dojima](https://open.spotify.com/artist/4xIGdXa6w9eWUoVnEsZNJ9) | [葛飾ラプソディー](https://open.spotify.com/album/2tJpQBIrw5JKRli1wBONs7) | 2:48 |
 | 20 | [ブルーウォーター](https://open.spotify.com/track/1F04e0KDJw0MjCotiTsrNJ) | [森川美穂](https://open.spotify.com/artist/0cJFRLKH4rhk9pDOukq0gn) | [森川美穂ベストコレクション Be Free](https://open.spotify.com/album/2GsqsWkdHJWNvz3kkM4CRC) | 4:30 |
 | 21 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 |
-| 22 | [魂のルフラン](https://open.spotify.com/track/1NrzI6zJMDJLXTfxRFzGwX) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 5:14 |
-| 23 | [SEVENTH MOON](https://open.spotify.com/track/3b5YhvCHQV5glWLVwd0O9A) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [MACROSS7 MUSIC SELECTION FROM GALAXY NETWORK CHART](https://open.spotify.com/album/7ihWqb997nbzJTjjVqSjdL) | 5:25 |
+| 22 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 |
+| 23 | [SEVENTH MOON](https://open.spotify.com/track/72n1TrXlJUz1Lq4xHnjWYd) | [Fire Bomber](https://open.spotify.com/artist/5e2LjlxY6UbtaRq7yZfBqO), [BASARA NEKKI](https://open.spotify.com/artist/3P94aBFfSL9ZKcLpDOlbN2) | [SEVENTH MOON](https://open.spotify.com/album/1lEZO1OI2yk5gYC1chPCxx) | 5:24 |
 | 24 | [ゲッターロボ號 \(ゲッターロボ號\)](https://open.spotify.com/track/5oWCL1JWKTWfWNj0tAzwK5) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [永井豪ヒーロー伝説 鋼鉄魔神篇](https://open.spotify.com/album/4khnrd3qIG0miG9HvJz0hL) | 3:08 |
 | 25 | [Around The World](https://open.spotify.com/track/1gsbM54z2EPqErHfiPIIhy) | [m.o.v.e](https://open.spotify.com/artist/13Y7h239f3l2knkpG5O7Uo) | [頭文字D Final Best Collection](https://open.spotify.com/album/6MbFICztIWFvQAiOfdB0Qx) | 5:06 |
 | 26 | [JUST COMMUNICATION](https://open.spotify.com/track/2MJuRVxvB0Wq298yZAmpuT) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [JUST COMMUNICATION](https://open.spotify.com/album/3srT3oJ15NvnclIkLlvN8q) | 4:19 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 41 | [約束はいらない](https://open.spotify.com/track/0DU2Iw0OYOYPX4kMOZo2dl) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 3:32 |
 | 42 | [さよなら文明](https://open.spotify.com/track/5CpSCK9dXdDOOvQsC861HN) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版! 爆風スランプ大全集](https://open.spotify.com/album/22KV3uWwIq9IcM3j5USuo0) | 3:15 |
 | 43 | [虚空の迷宮](https://open.spotify.com/track/6iLYqFCqUHz3rZjCngwG5F) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [XXX \-THE ULTIMATE WORST\-](https://open.spotify.com/album/3MxXXbu522KmLythdd2ecq) | 4:18 |
-| 44 | [通学路](https://open.spotify.com/track/1vnFKuR3rBOhX7l5lcrMDa) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [GOLDEN☆BEST Whiteberry](https://open.spotify.com/album/7BMm2AkVbA3F7ULQoJ5ivY) | 4:05 |
+| 44 | [通学路](https://open.spotify.com/track/3bWtmS6HYTudK8w9BSDsfw) | [Whiteberry](https://open.spotify.com/artist/76oZZyUq2OsR4uvuZVYdPn) | [\(初\)](https://open.spotify.com/album/4gYecLNP2SMcZ8ObXyryeS) | 4:05 |
 | 45 | [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 3:14 |
 | 46 | [輝きは君の中に](https://open.spotify.com/track/04uMxC39AD3awh5DoNdyP5) | [Yume Suzuki](https://open.spotify.com/artist/3DafdgrWjaJJ9pHUtnKUvt) | [決定盤「NINKU\-忍空\-」アニメ主題歌&キャラソン大全集\(+BGM集\)](https://open.spotify.com/album/2bxLROOE511QJ9NCQUB5xx) | 4:39 |
 | 47 | [Princess Mononoke Theme Song \(Vocal\)](https://open.spotify.com/track/3vhkYEfMVAsTfr9T1Q2Ulc) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 49 | [走れマキバオー](https://open.spotify.com/track/2i6X1ALEo8tpKQhujqEYxk) | [F.MAP](https://open.spotify.com/artist/0YCyPvipguPxXqZmd0EHlB) | [走れマキバオー](https://open.spotify.com/album/2qjnjEgSosPOQYfT6gUIpd) | 3:50 |
 | 50 | [ウルトラ リラックス](https://open.spotify.com/track/25IzraQSbIa16ldrInYseb) | [Tomoe Shinohara](https://open.spotify.com/artist/27trVEYHShFRolUZEP29KC) | [スーパーモデル 15th Anniversary Edition](https://open.spotify.com/album/4R4HiowbixsBsdSXAqiTFf) | 4:35 |
 
-Snapshot ID: `MTY2MTg3NjMzNywwMDAwMDAwMDQ0Mzc1NWZmOGJjNmUxNWYzZDNiZDhjOTMwMDY1MTc3`
+Snapshot ID: `MTY2MTg3NjMzNywwMDAwMDAwMDU2NjAzMDc5NGY4MzBmMjg0ODU4MTdkOTc2NTBhNWE0`

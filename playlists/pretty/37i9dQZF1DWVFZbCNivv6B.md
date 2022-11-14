@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, rimas de la calle, en voz de Santa Fe Klan
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,138 likes - 94 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,439 likes - 94 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 49 | [Uh La La](https://open.spotify.com/track/238haksMvqT5hcKtznBLop) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Uh La La](https://open.spotify.com/album/37E856Cum11u0LJognB6Xp) | 3:30 |
 | 50 | [El G.O.A.T.](https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [El G.O.A.T.](https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC) | 4:15 |
 | 51 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 |
-| 52 | [Kiubole](https://open.spotify.com/track/6AipYSPeePKt9AUBLzjoMq) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Kiubole](https://open.spotify.com/album/04emcftNra5B20iGQR1ukc) | 4:54 |
+| 52 | [Kiubole](https://open.spotify.com/track/5Eoaev86c5EXNOEBxz1hJ9) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Bitácoras Callejeras, Vol\. 3](https://open.spotify.com/album/322GH2BmRmyr47hZDevS4s) | 4:54 |
 | 53 | [Trankilikilon](https://open.spotify.com/track/1iBEsTx19SMZNerprDKNQT) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Trankilikilon](https://open.spotify.com/album/6JiEE9Gp2A4ltyUz43mHtn) | 3:34 |
 | 54 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 |
 | 55 | [Somos Bandoleros](https://open.spotify.com/track/2BYUnUWvrIhpIlAvNZuJpz) | [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Yexay TMM](https://open.spotify.com/artist/6W5QFI6K8P7rxXiYW3n4qu) | [Somos Bandoleros](https://open.spotify.com/album/4maH00pRHJ1Gn427v40vq0) | 3:33 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 93 | [Mafakas](https://open.spotify.com/track/56hIjwSv2vNanEs8Vdhlbj) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Mafakas](https://open.spotify.com/album/1F5FMSXwhCQCXskrjDugM2) | 4:25 |
 | 94 | [Rafa Márquez](https://open.spotify.com/track/4Gjfldv4SNjenR11yIduqb) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Rafa Márquez](https://open.spotify.com/album/6KCQC0hco7Uho3fvGR9kjU) | 2:13 |
 
-Snapshot ID: `MTY2ODE0NTUyNSwwMDAwMDAwMDRiZmI4ZDUxZmMzMzMwMzUyMTllYmFmMzA1YzYzNmEy`
+Snapshot ID: `MTY2ODE0NTUyNSwwMDAwMDAwMDgwNGI2YjI5NzExZmU5ODgyM2U4NWVmMmM2YmQ2YzZm`

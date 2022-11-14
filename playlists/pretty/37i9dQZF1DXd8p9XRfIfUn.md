@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Maxiolly
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,795 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,808 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 57 | [Te Juro](https://open.spotify.com/track/0JElJmnJDGum8BGOE4yNsU) | [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU) | [Te Juro](https://open.spotify.com/album/1rwYQzE9zwJfz8gkqeRVVY) | 2:29 |
 | 58 | [Inédito](https://open.spotify.com/track/0vaPZCDqKhX09VwFruiRVl) | [Fran Rozzano](https://open.spotify.com/artist/0izyCDkDQ10PWDNNB2i5nA) | [Inédito](https://open.spotify.com/album/7nyUwMd9qCW90BtiNGxGfJ) | 2:42 |
 | 59 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 |
-| 60 | [Verificada](https://open.spotify.com/track/4DuyqxuT3sGiGlZJi5dpn4) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Verificada](https://open.spotify.com/album/4tIqAcRBIsjOU4kTHQZqwL) | 2:38 |
+| 60 | [La Botella](https://open.spotify.com/track/5YRoLVSBCQmQAYCVi5Et95) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [La Botella](https://open.spotify.com/album/3mkTkvsJwApPfUAJQuTrOJ) | 3:10 |
 
-Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDczYzE0YjA1MTM5NWZlZmVhYjYwZGQ2NzE2NjY4ZjI5`
+Snapshot ID: `MTY2NjkzMzIwMCwwMDAwMDAwMDU3YTI5MzkzZDZhNDNjZWZiNTUyMDY4ZWVkNmE5ODQy`

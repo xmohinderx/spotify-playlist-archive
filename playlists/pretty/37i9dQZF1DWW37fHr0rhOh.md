@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Bobby, Teddi, and Billy Ray Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,675 likes - 58 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,703 likes - 58 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 6 | [Small Town Someone \(Lunch\)](https://open.spotify.com/track/5ngoN6vSMn3G0yEcfJVFfT) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm) | [Small Town](https://open.spotify.com/album/4Sz5AMpO0JMoTcK9ruld9k) | 2:56 |
 | 7 | [Peter, James and John](https://open.spotify.com/track/62A7wB5s8F6aL26Y02koJS) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Somebody's Coming](https://open.spotify.com/album/5AjA9H7q0zaafTWJyNtxie) | 3:41 |
 | 8 | [I Cast My Bread Upon the Water](https://open.spotify.com/track/33MymV61MWpNGsjDUv69s5) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Moment of Truth](https://open.spotify.com/album/2Z9lZaIJuZMe0AMrgSKU3n) | 3:53 |
-| 9 | [Sometimes It Takes A Mountain](https://open.spotify.com/track/6WLtVTxSBD5kZxuHsxGoag) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Gaither Classics](https://open.spotify.com/album/6Bd2Fn0S5Q6kADVDA7tcUO) | 5:42 |
+| 9 | [Sometimes It Takes A Mountain](https://open.spotify.com/track/0LpbCChXvttSqSi51Wnfo7) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Sometimes It Takes A Mountain](https://open.spotify.com/album/2P8MZs8uaeT4t9uo6MxGL4) | 5:40 |
 | 10 | [He Took the Nails](https://open.spotify.com/track/5LDnTZwZvZV0OlsYvbCG3x) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 4:42 |
 | 11 | [God's Great](https://open.spotify.com/track/5tQUIqejsQcWPaRnqPB3nE) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG) | [Right Now](https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl) | 3:51 |
 | 12 | [Victory Shout](https://open.spotify.com/track/7leuQbcKBZL4EG7TIDYqmD) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [Victory Shout](https://open.spotify.com/album/1IrD0m8sIrV3NPyY6FMQMk) | 4:01 |
-| 13 | [I Want To Be That Man](https://open.spotify.com/track/0B9SIV1vMb0Cr9NGATONjC) | [Brian Free](https://open.spotify.com/artist/1jmxa7evBkdy4nw31RX1sc) | [Signature Ballads](https://open.spotify.com/album/0qPhdxk11wSGjWE1nmQryP) | 4:11 |
+| 13 | [I Want to Be That Man](https://open.spotify.com/track/5oPdxfCzdBfASHQk2RRVlX) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0), [Assurance](https://open.spotify.com/artist/0zFdl3BbxeSiBfD8SvvxFv) | [Nothing but Love](https://open.spotify.com/album/0uMrQA4PLWRV6Lh2JkfpHK) | 4:09 |
 | 14 | [Unspoken Request](https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX) | [The McKameys](https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF) | [Precious Seed](https://open.spotify.com/album/2kjRMGXR9PsTasb7zKvkXV) | 3:16 |
 | 15 | [He Is To Me](https://open.spotify.com/track/34tctvGanz52Ozqo7a4cSF) | [Greater Vision](https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG) | [Quartets](https://open.spotify.com/album/5M1DW1IAoNflo3s4FP9490) | 3:26 |
 | 16 | [Never Forsaken](https://open.spotify.com/track/6deffkMvFM7HsKDt5LYAE7) | [Tribute Quartet](https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC) | [Here For You](https://open.spotify.com/album/1Fty9zpQEFzVAlMPWzzV4Q) | 3:59 |
-| 17 | [Pray On the Little Days \- Demonstration in B\-C\#](https://open.spotify.com/track/7rRXM2Ha49osbVwbierHMD) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [Pray On the Little Days \[Made Popular by Mark Bishop\] \(Performance Track\)](https://open.spotify.com/album/0suhsrbjZFl0dgqFP962Ic) | 4:40 |
+| 17 | [Pray On the Little Days](https://open.spotify.com/track/6rewBlPgraytKwejxDd4A0) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [This is What It's All About](https://open.spotify.com/album/5egsq0SF5RIPrUho4J3KBq) | 4:41 |
 | 18 | [Sweeter as the Days Go By](https://open.spotify.com/track/7G6WP9xJHIa18Kr6hFKPoI) | [Canton Junction](https://open.spotify.com/artist/7HuVvxJh7p17tDsVFYIUx9) | [Show Me Your Way](https://open.spotify.com/album/2iiRvEnI8qJCBmxfKZfeDT) | 5:34 |
 | 19 | [You Can Find What I Found](https://open.spotify.com/track/031WW1NOdbLJdKImkq7wEg) | [The Blackwood Brothers Quartet](https://open.spotify.com/artist/2v4MKSLzjnfGStyx4Csi1Y) | [Forever: 80th Anniversary Recording](https://open.spotify.com/album/6vPk10tx1o4cy6HVikmTqX) | 2:12 |
 | 20 | [Faith Keeps Walking](https://open.spotify.com/track/4c2t7HyA1GzUl8UWxIjBX1) | [The Booth Brothers](https://open.spotify.com/artist/01uI1SCsA0pLwWa2ENV6Gv) | [Still](https://open.spotify.com/album/3yYBYAheSocJTyNpAxo1tZ) | 3:29 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 34 | [The Healer](https://open.spotify.com/track/6BrngBvcklK8u4pmv4Bcrr) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Hope For Tomorrow](https://open.spotify.com/album/6FvZ3JWxzH0bsilLnATbJZ) | 4:01 |
 | 35 | [Somebody Died For Me](https://open.spotify.com/track/0nr8WV9wznKesNCCGZUcVT) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 4:10 |
 | 36 | [I'll Take You Home](https://open.spotify.com/track/6fEsfhqwayJ6ytJSPVgTfN) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Count Me In](https://open.spotify.com/album/2RiGB2vhvi05EtUDlLCd6A) | 3:32 |
-| 37 | [The Broken Ones \(Demonstration in E\)](https://open.spotify.com/track/2gK18cT8hLOS2aIfeCq3sv) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [The Broken Ones \(Made Popular By The Talley Trio\) \[Performance Track\]](https://open.spotify.com/album/3q5hL0BltNdHyKodAqUyZH) | 3:39 |
+| 37 | [The Broken Ones](https://open.spotify.com/track/0gdMxfopB9G1HYTpFBIwh8) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Stages](https://open.spotify.com/album/0LahGugFPCcDTUPG7OA7bx) | 3:39 |
 | 38 | [Saved by Grace](https://open.spotify.com/track/1Vh5gKVhXgmMXrpe6iIbMS) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Love Came Calling](https://open.spotify.com/album/6QckA0hXPaoHmER0KrqUin) | 4:03 |
-| 39 | [Hidden Heroes \(Demonstration\)](https://open.spotify.com/track/6cGwowaGo9Wt4pwGGDOVny) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Hidden Heroes \(Made Popular by The Talleys\) \[Performance Track\]](https://open.spotify.com/album/5kfhO6C9SrQYC40ZFMQUiO) | 4:13 |
+| 39 | [Hidden Heroes](https://open.spotify.com/track/3KxtrZs43aVh8dYw8OwDL1) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [The Test of Time](https://open.spotify.com/album/0ZMz7PkeQjQGkBSN2TcYMY) | 4:15 |
 | 40 | [Don't You Wanna Go?](https://open.spotify.com/track/0TzF8KqMJsg6FGzoTcthOV) | [The Crabb Family](https://open.spotify.com/artist/2Fg4p216PH5hvVZWbWCguK) | [20 Years: Platinum Edition](https://open.spotify.com/album/1Fe5W3Vcrme8P0HH3kW4Ez) | 3:59 |
 | 41 | [Say Amen](https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [Unashamed](https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m) | 4:33 |
 | 42 | [Jesus, the One](https://open.spotify.com/track/1fFWNfVcCdPKwmY6CsKA1Z) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Life Is Good](https://open.spotify.com/album/4WzWtKW21wYQ6AbYQWlzIC) | 4:32 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 57 | [Amazing Grace](https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Down Home Christmas](https://open.spotify.com/album/1hpnqLkobWtW7ZmufnofeA) | 2:03 |
 | 58 | [Your Ways Are Higher Than Mine](https://open.spotify.com/track/3AgH9cu0oUrVQUb99TyAEi) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc) | [Mercy & Love](https://open.spotify.com/album/5efaQ2tF2R8HkroQ9rB3ew) | 4:00 |
 
-Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMDZiYjgwYzZiZTliYzM0NmYwOGMzNDNhYjAyMGNkMGVm`
+Snapshot ID: `MTYyODgzNjQ2NywwMDAwMDAwMDliMDE0MTk5NzUwNzk3YTE3YTViODJhMGE0OGI0MjYy`

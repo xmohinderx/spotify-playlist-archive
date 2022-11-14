@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: DeathbyRomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,062 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,172 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,18 +87,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 77 | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Idol \(feat\. Tech N9ne\)](https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU) | 4:07 |
 | 78 | [Undertaker \- Fever 333 Remix](https://open.spotify.com/track/42byRWzhvfTWbsN7pxcC6w) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Undertaker \(Fever 333 Remix\)](https://open.spotify.com/album/4FAZBq7n35B3wftzMcJIwY) | 2:15 |
 | 79 | [Pulse Queen](https://open.spotify.com/track/6ObSWTFcmGP4gGCBGKVZE3) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pulse Queen](https://open.spotify.com/album/2v7ohXpdk3Z2WFfEKOfoE2) | 3:28 |
-| 80 | [Brainfreeze](https://open.spotify.com/track/7pDH3MNeFLhDYJMsqHPhCF) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [XVOTO](https://open.spotify.com/album/6muUIRODfshZYZLD52K5Va) | 4:16 |
-| 81 | [Last Resort & Spa](https://open.spotify.com/track/3BKizNABT4tb6F0wSpoAt5) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Gen:Lock, Season 1 \(Music from the Rooster Teeth Series\)](https://open.spotify.com/album/0XAhHNaehG7E1Bqw3toRfs) | 4:14 |
+| 80 | [Brainfreeze](https://open.spotify.com/track/6kwaYcQCLqWRYlG7Vpffsg) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/3mh4YBAPUHSKZ2VjWGfB3H) | 4:16 |
+| 81 | [Last Resort & Spa](https://open.spotify.com/track/3I3wT9xnFlNWM9SlQyH9i1) | [Battle Tapes](https://open.spotify.com/artist/2TdEIqWbLnZZHYRDWvVj67) | [Form](https://open.spotify.com/album/5kvczjPMKDVYG5TFhU5gBl) | 4:14 |
 | 82 | [AI](https://open.spotify.com/track/4OcxBd349UIgErVz81V2TY) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [AI](https://open.spotify.com/album/2bqMK2GcB02ezyvBJhW7Uy) | 2:54 |
 | 83 | [The Demented](https://open.spotify.com/track/3ROmQ4E9Nu0ZFTJVprp3Iu) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Demented](https://open.spotify.com/album/21fvzqzvdgOZL6tPRMKqvo) | 3:12 |
 | 84 | [The Singularity](https://open.spotify.com/track/11NHApIN2R0DZJDypPYeFJ) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [N / O / I / S / E](https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF) | 2:17 |
 | 85 | [BACK OFF](https://open.spotify.com/track/6dVszMrA3arXVUZKqU0mn2) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [BACK OFF](https://open.spotify.com/album/78CgiGe3bixRuIq4wtDyQ2) | 2:18 |
-| 86 | [My Own Summer](https://open.spotify.com/track/1RJQu4Pq5tZUJEJpo5zqOf) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Brass Against III](https://open.spotify.com/album/2n8KXe2C9BNPSDAOOe8RVV) | 3:36 |
+| 86 | [My Own Summer](https://open.spotify.com/track/2XAn1jUbPqylVftkIBiIpY) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against III](https://open.spotify.com/album/1qC10DV747Gmd9wlZGGkpB) | 3:37 |
 | 87 | [My Eyes](https://open.spotify.com/track/5Rinf7kiB6r1g1zZsPMMq0) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [REVENGE \(Deluxe Edition\)](https://open.spotify.com/album/7KBCW1fhxbyk775NbSHjjg) | 5:12 |
 | 88 | [Monster \(Under My Bed\)](https://open.spotify.com/track/2ndhLYrNNYGMxOauAawcrx) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Monster \(Under My Bed\)](https://open.spotify.com/album/0hrGIJNXZcD1QxlowHnhkf) | 2:19 |
 | 89 | [Crimewave](https://open.spotify.com/track/5kfpeoBEHHmIeVYATl6khw) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Quartz](https://open.spotify.com/album/3shNcErdLLTLJiog9fUUcZ) | 2:42 |
 | 90 | [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 |
-| 91 | [WDYT](https://open.spotify.com/track/1texcnnCNO0MYoroUqVRsg) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [WDYT](https://open.spotify.com/album/7c1Q6dQHN1lrHwUPnu4uO9) | 3:40 |
+| 91 | [WDYT](https://open.spotify.com/track/4Rrh3SOlwRtC3ivaGfW7qX) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [A Cult Of Opposition](https://open.spotify.com/album/3Bub97w229bQ2T4l2WAnyz) | 3:40 |
 | 92 | [WWYDF](https://open.spotify.com/track/52jC5QLj1sazMXPIxl68l0) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 2:55 |
 | 93 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 |
 | 94 | [Legend Has It](https://open.spotify.com/track/7satW8tFLasyZbftvrWFBP) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Run The Jewels 3](https://open.spotify.com/album/2vY03PfKPFUUM1FA2lgmC2) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 | 100 | [Reset](https://open.spotify.com/track/4vnCxv2cGTYye90giGIddD) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 3:21 |
 
-Snapshot ID: `MTY2Nzk0MTI0MywwMDAwMDAwMGNmNDBhNDIxNDk0ZjYzMDAyNmM2Zjk4MDlkOTVmODQ3`
+Snapshot ID: `MTY2Nzk0MTI0MywwMDAwMDAwMDg3M2ViMTJkZDk3NzMxYWRiNjdlMWJjZGE5OWI1Mjhh`

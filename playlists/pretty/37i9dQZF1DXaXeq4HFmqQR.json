@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9811,
+  "num_followers": 9813,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDllODRiNmFlMjRmNzE1MTgyMzJhNDRkOWM0ZTQ2N2Zl",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDI2YWU3NGQzMDk0NTNjNjViOTNmZTVhMGY3YjYyYTZj",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/1UoiFGmShHYzW6Oa1CZcYA"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 193474,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7EjkDOse4oGeeZHjG8JN9C"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "TDCOAK",
         "url": "https://open.spotify.com/album/4GKgzhSKFZrQoghSRwCJTr"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 202849,
       "name": "TDCOAK",
       "url": "https://open.spotify.com/track/0shitVbfDawP2EFNcfeCrA"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/1UoiFGmShHYzW6Oa1CZcYA"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 193474,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/7EjkDOse4oGeeZHjG8JN9C"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Scarlett O'hara",
+        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "Scarlett O'hara",
+      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Pros y Contras de Llamarte",
         "url": "https://open.spotify.com/album/1gmLau7BNKmYVbc0oirlnn"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 160000,
       "name": "Sad",
       "url": "https://open.spotify.com/track/2gOC3Tk6XPByqRH4uLvTkU"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Scarlett O'hara",
-        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 230750,
-      "name": "Scarlett O'hara",
-      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Sat\u00e9lite",
+        "url": "https://open.spotify.com/album/0I94w2GgCVHrCodnjt3aOD"
+      },
+      "artists": [
+        {
+          "name": "Sarazul",
+          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
+        }
+      ],
+      "duration_ms": 140874,
+      "name": "Sat\u00e9lite",
+      "url": "https://open.spotify.com/track/2eCjwpx2wI8ThnfVFErqd3"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/4X40KrzSuLlgRlPzB69vzK"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 176456,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6qrpKBnajPTZqri62rOJYh"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Sat\u00e9lite",
-        "url": "https://open.spotify.com/album/0I94w2GgCVHrCodnjt3aOD"
-      },
-      "artists": [
-        {
-          "name": "Sarazul",
-          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
-        }
-      ],
-      "duration_ms": 140874,
-      "name": "Sat\u00e9lite",
-      "url": "https://open.spotify.com/track/2eCjwpx2wI8ThnfVFErqd3"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -743,6 +743,26 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "18:55",
+        "url": "https://open.spotify.com/album/7CaczIfpWdT9WpFHEvgOSj"
+      },
+      "artists": [
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        },
+        {
+          "name": "Fat Jota",
+          "url": "https://open.spotify.com/artist/2YWJCnpzDqJR5BgvPi0839"
+        }
+      ],
+      "duration_ms": 235657,
+      "name": "Te Har\u00e9 Mal",
+      "url": "https://open.spotify.com/track/1UuWh7axz14T9ciaq5tXuy"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Solsticio",
         "url": "https://open.spotify.com/album/6zZel8AncEkpxxhDJ6jmgD"
       },
@@ -759,22 +779,6 @@
       "duration_ms": 223295,
       "name": "Solsticio",
       "url": "https://open.spotify.com/track/5gLqkEcdbJhmcazOae9C4F"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Madre Santa",
-        "url": "https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G"
-      },
-      "artists": [
-        {
-          "name": "Sarazul",
-          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Madre Santa",
-      "url": "https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "18:55",
-        "url": "https://open.spotify.com/album/7CaczIfpWdT9WpFHEvgOSj"
+        "name": "Madre Santa",
+        "url": "https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G"
       },
       "artists": [
         {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
-        },
-        {
-          "name": "Fat Jota",
-          "url": "https://open.spotify.com/artist/2YWJCnpzDqJR5BgvPi0839"
+          "name": "Sarazul",
+          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
         }
       ],
-      "duration_ms": 235657,
-      "name": "Te Har\u00e9 Mal",
-      "url": "https://open.spotify.com/track/1UuWh7axz14T9ciaq5tXuy"
+      "duration_ms": 208000,
+      "name": "Madre Santa",
+      "url": "https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8"
     },
     {
       "added_at": "2022-11-04 00:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 10112,
+  "num_followers": 10164,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1ODg1MCwwMDAwMDAwMGNjYWU0YzZlOTY5NjA1MmQ3NmIyY2U2NTQxOWYwZWU2",
+  "snapshot_id": "MTY2Njg1ODg1MCwwMDAwMDAwMGQ2ODc4NDI1OWFiZWNlMjhkNDBhYmUxNTc2MTEyMDZh",
   "tracks": [
     {
       "added_at": "2022-10-11 13:06:46",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "A Swingin' Affair",
-        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 409840,
-      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
-      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "I'm All For You (Ballad Songbook)",
         "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 347773,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/3hY3MPL9hAITPgVfiVlL5K"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 409840,
+      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
+      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -255,30 +255,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Red Garland's Piano",
-        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
-        }
-      ],
-      "duration_ms": 352146,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Soular Energy",
         "url": "https://open.spotify.com/album/35X3ykw0Ysj1Epv9Vx8uo8"
       },
@@ -299,6 +275,30 @@
       "duration_ms": 345520,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/4gogxeItIt50DZFZrzCqqt"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "duration_ms": 352146,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
       },
       "artists": [
         {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 442400,
-      "name": "West Coast Blues",
-      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
+      "duration_ms": 322560,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 322560,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
+      "duration_ms": 442400,
+      "name": "West Coast Blues",
+      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Today And Tomorrow",
+        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 370400,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 195973,
       "name": "Peri's Scope",
       "url": "https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "Today And Tomorrow",
-        "url": "https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 370400,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/52GKwMjXBDxSAH4y4DMzHe"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "When Farmer Met Gryce",
-        "url": "https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        },
-        {
-          "name": "Gigi Gryce",
-          "url": "https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa"
-        }
-      ],
-      "duration_ms": 365066,
-      "name": "Social Call",
-      "url": "https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Brass/Trio",
         "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
       },
@@ -703,18 +683,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "The Jazz Giants",
-        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
+        "name": "When Farmer Met Gryce",
+        "url": "https://open.spotify.com/album/2ztfNhKe4VD2diiLMkR19a"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        },
+        {
+          "name": "Gigi Gryce",
+          "url": "https://open.spotify.com/artist/60pVDktf5EH4d3IxkHozpa"
         }
       ],
-      "duration_ms": 575173,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
+      "duration_ms": 365066,
+      "name": "Social Call",
+      "url": "https://open.spotify.com/track/2BiFCCFFXt9iIzEo4hnuoy"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -755,6 +739,22 @@
       "duration_ms": 351826,
       "name": "Fran-Dance - alternate take",
       "url": "https://open.spotify.com/track/4lcVPIWSWPB7F1emLGz1Tm"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "The Jazz Giants",
+        "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 575173,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Verve Jazz Masters 50",
+        "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 325800,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Lee Konitz Meets Jimmy Giuffre",
         "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
       },
@@ -1135,6 +1151,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -1179,18 +1211,18 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+        "name": "The Trio Live From Chicago (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6aVAGkx39QecHlSjGt63sh"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
+      "duration_ms": 346333,
+      "name": "Whisper Not - Live",
+      "url": "https://open.spotify.com/track/6KBNObIQGq722j8hchNcmf"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1207,22 +1239,6 @@
       "duration_ms": 230586,
       "name": "On a Slow Boat to China",
       "url": "https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "The Trio Live From Chicago (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6aVAGkx39QecHlSjGt63sh"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Whisper Not - Live",
-      "url": "https://open.spotify.com/track/6KBNObIQGq722j8hchNcmf"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "How My Heart Sings",
-      "url": "https://open.spotify.com/track/6wXyHw8n3mmrcqYJHimRPe"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
       },
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "How My Heart Sings",
+      "url": "https://open.spotify.com/track/6wXyHw8n3mmrcqYJHimRPe"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -1376,9 +1392,25 @@
           "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 229866,
-      "name": "Pepper Steak",
-      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
+      "duration_ms": 344373,
+      "name": "Yardbird Suite",
+      "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "The Unforgettable George Shearing",
+        "url": "https://open.spotify.com/album/5qU8e6quy0VHFaTS1S104j"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 140880,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/6aBJprxtSLncRLIT8FJi28"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1447,6 +1479,22 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Pepper Steak",
+      "url": "https://open.spotify.com/track/5VFIo7CQYOD0M5nAveQJML"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
         "name": "4 to Go!",
         "url": "https://open.spotify.com/album/5Za3xlEz6bE0ELBf1EjdAQ"
       },
@@ -1463,38 +1511,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "A Jazz Message",
-        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey Quartet",
-          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
-        }
-      ],
-      "duration_ms": 319426,
-      "name": "Blues Back",
-      "url": "https://open.spotify.com/track/1HGZcacR6Drgl1o7gEv1bU"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 344373,
-      "name": "Yardbird Suite",
-      "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Back East",
         "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
@@ -1507,6 +1523,22 @@
       "duration_ms": 312680,
       "name": "The Surrey with the Fringe on Top",
       "url": "https://open.spotify.com/track/6RG7PpVmsdmqga0SIAgHWr"
+    },
+    {
+      "added_at": "2022-10-11 13:06:46",
+      "album": {
+        "name": "A Jazz Message",
+        "url": "https://open.spotify.com/album/1Dy0eNc7NiFFuuwrTpM0tA"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey Quartet",
+          "url": "https://open.spotify.com/artist/6EE7tvzL6NGPZ4sUVOOaQy"
+        }
+      ],
+      "duration_ms": 319426,
+      "name": "Blues Back",
+      "url": "https://open.spotify.com/track/1HGZcacR6Drgl1o7gEv1bU"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1599,34 +1631,6 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Landed in Brooklyn (with Tim Lefebvre & Nate Wood)",
-        "url": "https://open.spotify.com/album/5JxcyZzPM8oy5FElSKRmj7"
-      },
-      "artists": [
-        {
-          "name": "Julian & Roman Wasserfuhr",
-          "url": "https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O"
-        },
-        {
-          "name": "Donny McCaslin",
-          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
-        },
-        {
-          "name": "Tim Lefebvre",
-          "url": "https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38"
-        },
-        {
-          "name": "Nate Wood",
-          "url": "https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR"
-        }
-      ],
-      "duration_ms": 365304,
-      "name": "S.N.C.F.",
-      "url": "https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
         "name": "Way Out West (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1GKRmu9YUhPejRExGANgyS"
       },
@@ -1659,18 +1663,30 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
+        "name": "Landed in Brooklyn (with Tim Lefebvre & Nate Wood)",
+        "url": "https://open.spotify.com/album/5JxcyZzPM8oy5FElSKRmj7"
       },
       "artists": [
         {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+          "name": "Julian & Roman Wasserfuhr",
+          "url": "https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O"
+        },
+        {
+          "name": "Donny McCaslin",
+          "url": "https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M"
+        },
+        {
+          "name": "Tim Lefebvre",
+          "url": "https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38"
+        },
+        {
+          "name": "Nate Wood",
+          "url": "https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR"
         }
       ],
-      "duration_ms": 511093,
-      "name": "Soul-Lo Blues - Remastered 1997",
-      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
+      "duration_ms": 365304,
+      "name": "S.N.C.F.",
+      "url": "https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc"
     },
     {
       "added_at": "2022-10-11 13:06:46",
@@ -1691,24 +1707,24 @@
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "The Jazz 100",
-        "url": "https://open.spotify.com/album/5dSukFZWRnMA6KwYrV2qvu"
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
         }
       ],
-      "duration_ms": 325800,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/6mNK00q4KAtJNRBLmgffPz"
+      "duration_ms": 511093,
+      "name": "Soul-Lo Blues - Remastered 1997",
+      "url": "https://open.spotify.com/track/7JM0nsnyr0AKQYhI6hR7dn"
     },
     {
       "added_at": "2022-10-11 13:06:46",
       "album": {
-        "name": "Coltrane '58: The Prestige Recordings",
-        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
+        "name": "Bahia",
+        "url": "https://open.spotify.com/album/5dRMqcuSMjivfbQ29SVhue"
       },
       "artists": [
         {
@@ -1716,25 +1732,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 455439,
+      "duration_ms": 452306,
       "name": "My Ideal",
-      "url": "https://open.spotify.com/track/6aqXif2JgSfAaff5yxIBef"
-    },
-    {
-      "added_at": "2022-10-11 13:06:46",
-      "album": {
-        "name": "The Swingin's Mutual!",
-        "url": "https://open.spotify.com/album/5dHgftc1waKu66rjDDEpH8"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Quintet",
-          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Lullaby Of Birdland - Remastered",
-      "url": "https://open.spotify.com/track/4xNmp33QoI68gC99564ypR"
+      "url": "https://open.spotify.com/track/2B6rVd3WE2rTrN2GSzHDLd"
     }
   ],
   "unique_name": "Brunch Jazz",

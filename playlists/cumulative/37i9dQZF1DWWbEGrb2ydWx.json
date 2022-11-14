@@ -843,7 +843,7 @@
     {
       "album": {
         "name": "The Blue M&M 3",
-        "url": "https://open.spotify.com/album/2qyo6pRUbmVXDoITP4aOP6"
+        "url": "https://open.spotify.com/album/4tSGP4AzRTEGzU09gmXBaS"
       },
       "artists": [
         {
@@ -854,6 +854,24 @@
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199300,
+      "name": "Rerocc",
+      "url": "https://open.spotify.com/track/18Oo1PEO8leO5O0tP5SFVU"
+    },
+    {
+      "album": {
+        "name": "The Blue M&M 3",
+        "url": "https://open.spotify.com/album/2qyo6pRUbmVXDoITP4aOP6"
+      },
+      "artists": [
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
       "duration_ms": 199300,
       "name": "Rerocc",
       "url": "https://open.spotify.com/track/6cUTZnDarVMD7EBgCj97YW"

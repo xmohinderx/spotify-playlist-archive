@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 
 > Prince was a true original and earth\-shattering performer\. Hear Prince Rogers Nelson best right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,742 likes - 80 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,833 likes - 80 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 12 | [I Wanna Be Your Lover](https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC) | 5:47 |
 | 13 | [Musicology](https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Musicology](https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK) | 4:24 |
 | 14 | [Erotic City \- Let's Go Crazy 7" B\-Side Edit; 2017 Remaster](https://open.spotify.com/track/4pkEET0wXNNY5o61lVK5FF) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 3:56 |
-| 15 | [Gett Off](https://open.spotify.com/track/34cT9d3y26fAymXnMGnY1A) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Ultimate](https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW) | 4:32 |
+| 15 | [Gett Off \(with Eric Leeds\)](https://open.spotify.com/track/7h1ORpjTON2WXzu4BVOJBL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp), [Eric Leeds](https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 4:31 |
 | 16 | [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 |
-| 17 | [Alphabet St.](https://open.spotify.com/track/6PgzY16qIQSPsrbckuDoAF) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits 1](https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ) | 5:39 |
+| 17 | [Alphabet St.](https://open.spotify.com/track/781jv9lCKdgP3qjxocB7r8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Lovesexy](https://open.spotify.com/album/5y5qXt3zBajSYAPWyF1Q8a) | 5:38 |
 | 18 | [Diamonds and Pearls](https://open.spotify.com/track/40rVLjYfsdHCANX7oUGCsF) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 4:45 |
 | 19 | [Nothing Compares 2 U](https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Nothing Compares 2 U](https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf) | 4:40 |
 | 20 | [Delirious \- 2019 Remaster](https://open.spotify.com/track/5zWhtlFS3w52HjN4ayOUgR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 4:00 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 43 | [Money Don't Matter 2 Night](https://open.spotify.com/track/1E4ekAsxHLzZlNGYHipj9N) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Diamonds and Pearls](https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ) | 4:46 |
 | 44 | [My Name Is Prince](https://open.spotify.com/track/4mCjX5mra7OanoBbCR2B2y) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [\[Love Symbol\]](https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp) | 6:38 |
 | 45 | [Hot Thing](https://open.spotify.com/track/6HpPsCidc2enTdicqEmu7t) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 5:40 |
-| 46 | [Something In The Water \(Does Not Compute\) \- 2019 Remaster](https://open.spotify.com/track/0VvQIdqyPQhe4jE4Whp72p) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999 \(Super Deluxe Edition\)](https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY) | 4:02 |
+| 46 | [Something In The Water \(Does Not Compute\) \- 2019 Remaster](https://open.spotify.com/track/4apRvrVOalstpS1XAzgJNu) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg) | 4:02 |
 | 47 | [Girls & Boys](https://open.spotify.com/track/1MkfvXtx2S7cSs9aqLnMGs) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 5:29 |
 | 48 | [Come](https://open.spotify.com/track/1gjT5MQqkG7wgV807icgoq) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Come](https://open.spotify.com/album/5qwEgS60NsL4Pd7ZRuIpSF) | 11:13 |
 | 49 | [If I Was Your Girlfriend \- 2020 Remaster](https://open.spotify.com/track/2laui4O0tY1GDZcsB7iJtK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 5:03 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 57 | [Baby I'm a Star](https://open.spotify.com/track/2soBvUQBf5rbMj9HIyhzzK) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:24 |
 | 58 | [The Question of U](https://open.spotify.com/track/1HgYj7JbAdc1cO2TUbQL2s) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Music from Graffiti Bridge](https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE) | 3:59 |
 | 59 | [America](https://open.spotify.com/track/7Fcig3cwilbkZwgZozN3bB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:42 |
-| 60 | [7](https://open.spotify.com/track/3O4ynIrZqO29puDVrb9DjT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [The Hits 1](https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ) | 5:10 |
+| 60 | [7](https://open.spotify.com/track/1ESmMKaASDxFICpa5eyqzo) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [\[Love Symbol\]](https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp) | 5:10 |
 | 61 | [Graffiti Bridge](https://open.spotify.com/track/1i4WFRB8MziPmNZYdpZwhL) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Music from Graffiti Bridge](https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE) | 3:51 |
 | 62 | [Take Me with U](https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 3:54 |
 | 63 | [I Could Never Take The Place Of Your Man \- 2020 Remaster](https://open.spotify.com/track/1tYLo4i7MAW4OW2J3OpOJD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 6:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 79 | [Our Destiny / Roadhouse Garden](https://open.spotify.com/track/0skqC0rGnezyhGmBCrSgg9) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 6:25 |
 | 80 | [Let's Go Crazy \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/15BL8ku45JiAS9dSuAD2ap) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 |
 
-Snapshot ID: `MTY2NTU4OTAzNywwMDAwMDAwMGZkOThhZTc2NjYwMDVhZjMyZGU2YzljMDA0NzFmODQw`
+Snapshot ID: `MTY2NTU4OTAzNywwMDAwMDAwMDY0NzBiMzc1YTE4ZTgxZWRhNTIyZjZmYTg4MWM1ZTQ0`

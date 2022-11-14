@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 187533,
       "name": "Can't Find My Way Home",
       "url": "https://open.spotify.com/track/7nIykpm45vKrsuW0KCEQ6i"
@@ -923,6 +923,28 @@
       "duration_ms": 327760,
       "name": "Right Down The Line",
       "url": "https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4"
+    },
+    {
+      "album": {
+        "name": "Road Tested",
+        "url": "https://open.spotify.com/album/6oIKQNRvcNeSAO2nTfZt6V"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252666,
+      "name": "Rock Steady - Live",
+      "url": "https://open.spotify.com/track/6QTzhcDkKupkvztUgGZooF"
     },
     {
       "album": {

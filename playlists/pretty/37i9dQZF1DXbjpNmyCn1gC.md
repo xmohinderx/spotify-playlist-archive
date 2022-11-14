@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,093 likes - 115 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,455 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 14 | [CLOSER](https://open.spotify.com/track/2Kld61w2NR7zPPXtaHeIii) | [Joe Inoue](https://open.spotify.com/artist/04q6GxPQU1OTqHGrUxeufd) | [CLOSER](https://open.spotify.com/album/6S6fn5MUmZdzlKrrdr2XcB) | 3:28 |
 | 15 | [Diver](https://open.spotify.com/track/3PcKYVcZNSsLqI1xzXV5Aq) | [NICO Touches the Walls](https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt) | [PASSENGER](https://open.spotify.com/album/2spjC5MxYOSbVC4sg19dTk) | 4:08 |
 | 16 | [波風サテライト](https://open.spotify.com/track/4OLVgNgoTslbcSAyR4PmCq) | [SNOWKEL](https://open.spotify.com/artist/12OSHhni6aZbqfUp7nzjKC) | [SNOWKEL SNORKEL](https://open.spotify.com/album/3mQPg4LfKeR0FYYqQ00oQv) | 4:11 |
-| 17 | [Hero's Come Back!!](https://open.spotify.com/track/6d3gwOBgnDE9b60vOHZ9Bu) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Hero's Come Back!!](https://open.spotify.com/album/0FBAy3kZs5TmlK9Ip3Uw0m) | 4:34 |
+| 17 | [Hero's Come Back!!](https://open.spotify.com/track/7weHG0yOwtAcZ0qBhyODLF) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [vulgarhythm](https://open.spotify.com/album/3Pcj9i5JsK9N4gqaKzj51R) | 4:33 |
 | 18 | [哀と悲](https://open.spotify.com/track/6faRsCMylJKKQqESbwJTA9) | [MUSASHI PROJECT](https://open.spotify.com/artist/1HNngbrg0LENVuq56iQo0m) | [NARUTO \-ナルト\- オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 2:59 |
 | 19 | [千夜](https://open.spotify.com/track/2VWDk6GcnMaysTpVQH121M) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝 オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 2:09 |
 | 20 | [悲しみをやさしさに](https://open.spotify.com/track/4fKjIzm80Rpf4EUAt96hW2) | [Little by Little](https://open.spotify.com/artist/3zQx1Fk2lTUkSIdsL4oaxP) | [Sweet Noodle Pop](https://open.spotify.com/album/1x5VbOwCWOBVRce8F8nBMM) | 4:02 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 114 | [雄叫び](https://open.spotify.com/track/3jcW4gTJQQ5inpE8VxSSav) | [Yusuke](https://open.spotify.com/artist/0iWpuF3h43ZtZJxcUp8eti) | [雄叫び](https://open.spotify.com/album/68hM5eE9BgTn8AYhns8nug) | 3:41 |
 | 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
 
-Snapshot ID: `MTYzMzM0MTU1MCwwMDAwMDAwMGVkOTc3YWMzYWIzNTZmMjkxMGE2ZWQxZTE0ODMyOWRh`
+Snapshot ID: `MTYzMzM0MTU1MCwwMDAwMDAwMDk1YTZmZGVhZjY4NTFlOGM4MDNmNGY3YTU0ODI3NjIw`

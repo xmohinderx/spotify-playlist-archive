@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,149 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,176 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 33 | [Backyard Brew](https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj) | [The JT Project](https://open.spotify.com/artist/2xTYEWbPLMXfJkew3Z8RVE), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Backyard Brew](https://open.spotify.com/album/6KhzqoYV7Ec7jjtmE4WZbS) | 4:14 |
 | 34 | [One More Time](https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay) | [Jaared](https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL) | [Manhattan Nights](https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1) | 3:52 |
 | 35 | [Windfall](https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Life And Times](https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1) | 4:30 |
-| 36 | [Limitless \- Radio Edit](https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Limitless](https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ) | 3:53 |
+| 36 | [Luv N' Haight](https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [There's A Riot Goin' On](https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT) | 3:10 |
 | 37 | [Espresso Shot](https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Darnell Showcase Taylor](https://open.spotify.com/artist/1V4CTe8w8LFvPmwvNDIyia) | [And Coffee](https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd) | 3:32 |
-| 38 | [Luv N' Haight](https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m) | [George Howard](https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f) | [There's A Riot Goin' On](https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT) | 3:10 |
+| 38 | [Limitless \- Radio Edit](https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Limitless](https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ) | 3:53 |
 | 39 | [Last Dance](https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg), [Peter White](https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo) | [Touch](https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb) | 4:13 |
 | 40 | [Round and Round](https://open.spotify.com/track/13XQpSrDR5iE5DQsjW97wA) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Groove On!](https://open.spotify.com/album/5vYhpagdFervgTth43gDBp) | 4:53 |
 | 41 | [Groovin' U \(f](https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7), [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:02 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 45 | [The Goddess](https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Goddess](https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO) | 4:06 |
 | 46 | [When Will I Know For Sure](https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Hello Tomorrow](https://open.spotify.com/album/755FhIw58on45zjf2hSpz7) | 4:51 |
 | 47 | [Lovesong](https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 5:16 |
-| 48 | [Up and Up](https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On) | [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Embrace](https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb) | 4:18 |
-| 49 | [Right Back Atcha](https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:49 |
+| 48 | [Right Back Atcha](https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:49 |
+| 49 | [Up and Up](https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On) | [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Embrace](https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb) | 4:18 |
 | 50 | [Quintastic](https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO) | [Quintastic](https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS) | 4:03 |
 | 51 | [Caught Me By Surprise](https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 4:01 |
 | 52 | [Stratosphere](https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Poetry In Motion](https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd) | 4:40 |
-| 53 | [West Coast Soul](https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH) | [Chris Godber](https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53) | [West Coast Soul](https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V) | 4:19 |
-| 54 | [I Wish I Wasn't](https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Romance Language](https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75) | 4:48 |
+| 53 | [I Wish I Wasn't](https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Romance Language](https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75) | 4:48 |
+| 54 | [West Coast Soul](https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH) | [Chris Godber](https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53) | [West Coast Soul](https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V) | 4:19 |
 | 55 | [Tender \- Remix](https://open.spotify.com/track/5YYradN167DiyMgEmyg2o0) | [Daniel Chia](https://open.spotify.com/artist/6ntBTBKJKCqXEwDLevDm79), [Colin Watson](https://open.spotify.com/artist/0P4g915UEZLSjxKmVJwy3f) | [Tender \(Remix\)](https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX) | 5:03 |
 | 56 | [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [True Stories](https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev) | 4:30 |
 | 57 | [City Beat](https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [City Beat](https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z) | 4:02 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 69 | [As the Days Go by...](https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE) | [Alfonzo Blackwell](https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz) | [As the Days Go by...](https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa) | 5:09 |
 | 70 | [Livin' The Life](https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43) | [Grady Nichols](https://open.spotify.com/artist/6nThAZ6QnRjV4OWso1nXGA) | [Sophistication](https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN) | 3:47 |
 | 71 | [In the Moment](https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO), [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [In the Moment](https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS) | 3:58 |
-| 72 | [Taking Control](https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G \(Bonus Version\)](https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR) | 4:04 |
-| 73 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
+| 72 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
+| 73 | [Taking Control](https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G \(Bonus Version\)](https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR) | 4:04 |
 | 74 | [Barack's Groove](https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [The Best of Walter Beasley: The Affable Years, Vol\. 1](https://open.spotify.com/album/6htMbWB5n9O15lmgQ4r3Oq) | 3:49 |
 | 75 | [Soho](https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Gratitude](https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO) | 4:18 |
 | 76 | [Kiss and Tell](https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Shades](https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 |
 | 100 | [Outside the Box](https://open.spotify.com/track/7I6trC7CHvu2CEPThIm8Fo) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [Jigsaw Life](https://open.spotify.com/album/6Xk6qwl6tkKJoucDiwNq0q) | 4:45 |
 
-Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMDJhM2JmNzIwNTgzNTkxODQ2Yjk2YjY3ZjdkYjU0Y2Fm`
+Snapshot ID: `MTY2MzkwNTY2MCwwMDAwMDAwMGRmYTljODNhODMyM2FkYTRhMjAyYjY5ZDI3OGE1MTkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,890 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,959 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 29 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
 | 30 | [Baile de Favela](https://open.spotify.com/track/6MDu0AZX00nSST9qyXFsOB) | [Mc João](https://open.spotify.com/artist/0bNbdA9OJv2luvEQDYYyZP) | [Mc João](https://open.spotify.com/album/7xnSIDNUcEJAXtoTWQSoIo) | 2:50 |
 | 31 | [Vai Embrazando](https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q) | 2:46 |
-| 32 | [Rap Das Armas \- Original Mix](https://open.spotify.com/track/46G391gjxgt39U6PVgD1h5) | [Cidinho](https://open.spotify.com/artist/6TauTvBRcc5zrT8eRXGied), [Doca](https://open.spotify.com/artist/4YZKHUSUlS6DsKq0ifDNal) | [Rap Das Armas](https://open.spotify.com/album/3mjx6ZsxqgkXT2O6WI20YZ) | 4:51 |
+| 32 | [Rap das Armas](https://open.spotify.com/track/0EHKSDnAqGYn8amrsT31kk) | [Cidinho & Doca](https://open.spotify.com/artist/2rwHPBK5IvPCDr0QjKlgQc) | [Rap das Armas](https://open.spotify.com/album/4oo4xaeKJGhiN0YzpUH5CG) | 4:52 |
 | 33 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
 | 34 | [O Grave Bater](https://open.spotify.com/track/6cEJheMNRySY0kBB31jtdk) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [O Grave Bater](https://open.spotify.com/album/661h9Og5Q2RglZLKe0u8Bi) | 3:01 |
 | 35 | [Abusadamente](https://open.spotify.com/track/1kWwNpx68BMAjJeksmN3JV) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/3HwHCkqAgLm8HBKy3oggxZ) | 3:35 |
 | 36 | [Se Eu Tiver Solteiro](https://open.spotify.com/track/2qbeAdBSEyCAHnhy5nNksF) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Se Eu Tiver Solteiro](https://open.spotify.com/album/5qIzZEdwb2LKLON2PqCsbX) | 2:49 |
 | 37 | [Pode Se Soltar](https://open.spotify.com/track/3Je8dS5oCCvNNC4xBrrYpX) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Pode Se Soltar](https://open.spotify.com/album/6epG2Rr6xc15ekjPDFt4YX) | 3:00 |
 | 38 | [Aquecimento das Potrancas](https://open.spotify.com/track/6852SvDaaCioBsZM6mYnqi) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Nós É Pika](https://open.spotify.com/album/3v7t9wU4nH8yvKoYwP0RQn) | 3:09 |
-| 39 | [Qual Bumbum Mais Bate](https://open.spotify.com/track/6A2y7od28bMgGgFiH0tP0E) | [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Elas Balançam](https://open.spotify.com/album/5sp7mAvOY1pqvVX6IszpI5) | 2:44 |
+| 39 | [Qual Bumbum Mais Bate](https://open.spotify.com/track/1dcKjcmJvaoUaYhqFKzzfF) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Os Cretinos](https://open.spotify.com/artist/64TmPY6gR7164wIueE4vo0) | [Nós É Pika](https://open.spotify.com/album/3v7t9wU4nH8yvKoYwP0RQn) | 2:42 |
 | 40 | [Troféu do Ano](https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw) | 3:09 |
 | 41 | [Cheia de Marra](https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Cheia de Marra](https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4) | 4:27 |
 | 42 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 49 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
 | 50 | [Glamurosa](https://open.spotify.com/track/5z2heUCSTRdGHWPy2gaOhs) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf) | [Tudo É Festa](https://open.spotify.com/album/194Bnhiszhqi3ljBwIHaqd) | 3:31 |
 
-Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMGU0YWIzOTliOGI3MjUwZjI1MGI3OGYzZmU3NTAxYTUz`
+Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAwMGY4ZTk3YWQ5MTJmMmRhNGRiZGMwYjkwYjk0NGY1NjVl`

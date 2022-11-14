@@ -1,12 +1,12 @@
 {
   "description": "The finest quality of Bollywood music handpicked for you. Cover- Alia and Ranbir.",
-  "num_followers": 741607,
+  "num_followers": 742597,
   "original_name": "Bollywood Butter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY4NjcxOCwwMDAwMDAwMDlhNDI1OWU4MmM1Zjg2ZDBkMGY2YzEwMTM4OGRmZjMx",
+  "snapshot_id": "MTY2NjY4NjcxOCwwMDAwMDAwMDUwY2QyODdlOWNkYTQ5MGRmNzk4NTk0NDQxZjY4ZjJl",
   "tracks": [
     {
       "added_at": "2022-10-25 08:31:58",
@@ -79,18 +79,22 @@
     {
       "added_at": "2022-10-25 08:31:58",
       "album": {
-        "name": "Jersey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5sdjwPlAkHtJTzR562jUN5"
+        "name": "Maiyya Mainu (From \"Jersey\")",
+        "url": "https://open.spotify.com/album/1I3s1v090iECnF0ZhCL1ui"
       },
       "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
         {
           "name": "Sachet Tandon",
           "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
         }
       ],
       "duration_ms": 231575,
-      "name": "Maiyya Mainu",
-      "url": "https://open.spotify.com/track/25P2RJETt9AtUETbsNfcuR"
+      "name": "Maiyya Mainu (From \"Jersey\")",
+      "url": "https://open.spotify.com/track/4PwTeFfKqmR3XIeXXUBDOf"
     },
     {
       "added_at": "2022-10-25 08:31:58",
@@ -855,8 +859,8 @@
     {
       "added_at": "2022-10-25 08:31:58",
       "album": {
-        "name": "BellBottom (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0xcn75mmKGdvd2XYJUmqCU"
+        "name": "Sakhiyan2.0 (From \"BellBottom\") - Single",
+        "url": "https://open.spotify.com/album/3T7z9uyd25hw8zLcxkS5Yc"
       },
       "artists": [
         {
@@ -866,11 +870,15 @@
         {
           "name": "Zara Khan",
           "url": "https://open.spotify.com/artist/3YVD2aXecw8JQuWkGAuf7t"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         }
       ],
       "duration_ms": 177694,
-      "name": "Sakhiyan2.0",
-      "url": "https://open.spotify.com/track/0E0Us1GI40GNXWOQwbL5uG"
+      "name": "Sakhiyan2.0 (From \"BellBottom\")",
+      "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
     },
     {
       "added_at": "2022-10-25 08:31:58",
@@ -1230,15 +1238,11 @@
         {
           "name": "Arijit Singh",
           "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
         }
       ],
       "duration_ms": 311186,
-      "name": "Kalank (Duet)",
-      "url": "https://open.spotify.com/track/1jSSWmTvgdHcXEStuyl0kB"
+      "name": "Kalank (Title Track)",
+      "url": "https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5"
     },
     {
       "added_at": "2022-10-25 08:31:58",

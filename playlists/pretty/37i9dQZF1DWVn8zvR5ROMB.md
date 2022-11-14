@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Randy Houser, Walker Hayes, Elle King and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,738 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,986 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,19 +43,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 33 | [You Got A Way With Me](https://open.spotify.com/track/3rmDrsIBrgkXyUYCHxjJ3i) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [You Got A Way With Me](https://open.spotify.com/album/01OZwsTvfPyJLbHqEGsFSo) | 3:42 |
 | 34 | [GHOSTED](https://open.spotify.com/track/3FJEkL4zxl9pNg3UAGcLT6) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [GHOSTED](https://open.spotify.com/album/5mVRTqoL3PSrmdSai5lqsK) | 3:23 |
 | 35 | [Waiting on You](https://open.spotify.com/track/2CIEEJ1DUNkoBNUfS9KVEz) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Waiting on You](https://open.spotify.com/album/7A2kZUivRCpO89BnHVCf96) | 3:10 |
-| 36 | [If I Die Before You Wake](https://open.spotify.com/track/7lQeQyTz8ffweRK9O6XHZm) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [If I Die Before You Wake](https://open.spotify.com/album/1Bav1gorifDyT5lMXlppxp) | 3:22 |
-| 37 | [Joy Ride](https://open.spotify.com/track/74R7PGKUdhoLkM3HxlQGvI) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Joy Ride](https://open.spotify.com/album/3TGMycTbk1oGYCqMHD7pU6) | 2:39 |
-| 38 | [Last Breath](https://open.spotify.com/track/0BmplI42wcvjzdAqJYebtB) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [On the Edge](https://open.spotify.com/album/6WMhtp5CrthQXMpOeWpLdB) | 3:48 |
-| 39 | [Drive](https://open.spotify.com/track/7zA0LT8mDLVS6yKCVSB3lm) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Drive](https://open.spotify.com/album/6sPPvcvqUfxqvp7KH9uB3q) | 2:34 |
-| 40 | [Take My Breath Away](https://open.spotify.com/track/04i1Sf3VI5zM4T8wPrAjOT) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [Take My Breath Away](https://open.spotify.com/album/4sHY9lhzS7Ky3IOEPonbLx) | 2:29 |
-| 41 | [Never Not Be](https://open.spotify.com/track/04xeW1GQdWGPjAAjJD0BWW) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [Never Not Be](https://open.spotify.com/album/1R5Z8CEPhNuhLXIlwGFL7k) | 3:11 |
-| 42 | [Garth Brooks](https://open.spotify.com/track/0USuEe5CjwYLSY3croZUvJ) | [Tennessee Jet](https://open.spotify.com/artist/4J43elh6UdRXtM89al1iiY) | [Garth Brooks](https://open.spotify.com/album/7CKOPvzcqJw4TQ1cTI3dNa) | 3:29 |
-| 43 | [Ala\-Damn\-Bama](https://open.spotify.com/track/6JCiAe7uxxh5fPWO0uuSjL) | [Martin McDaniel](https://open.spotify.com/artist/2t4ZNy3HK2oHrvHZxq9wHU) | [Ala\-Damn\-Bama](https://open.spotify.com/album/42Uujgjh9J7qIUmnHzWxX4) | 3:20 |
-| 44 | [Ring In My Pocket](https://open.spotify.com/track/2cG7YvKBtUx7mgek2pAPPO) | [Willie Shaw](https://open.spotify.com/artist/1WtJGNrnGxmw7osdorX4iM) | [Ring In My Pocket](https://open.spotify.com/album/0QB59qVtIyBBIBMqeSyIgK) | 2:25 |
-| 45 | [The Kiss Or The Crash](https://open.spotify.com/track/7rOQ2KxjEYkVYVwNn9Ffgf) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Kiss Or The Crash](https://open.spotify.com/album/2BKlCgEwlI9y3gyRqkWsGQ) | 3:37 |
-| 46 | [The Men That Make The Thunder](https://open.spotify.com/track/3VSnGNfv9QH6MNMgGBY7k4) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Veterans Day Special, Vol\. III](https://open.spotify.com/album/2sGfOjsvxwYCCN7IONTngk) | 4:23 |
-| 47 | [then you ain't knowed me yet](https://open.spotify.com/track/4K8BIfc4hBVZg4bqbbNLNe) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [then you ain't knowed me yet](https://open.spotify.com/album/3CdlJmI48MAceeMbqOZpYD) | 3:11 |
-| 48 | [Wild American Boys](https://open.spotify.com/track/6DL9Z2IUZrcmGYesyOPs17) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Wild American Boys](https://open.spotify.com/album/6t94qXm8n5jiyLBcHL5C9f) | 3:37 |
-| 49 | [Technicolor](https://open.spotify.com/track/11orsLkrZLjShGAVLPigUl) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Technicolor](https://open.spotify.com/album/0Ly50Ytu9I3dhZVTImitvi) | 4:09 |
+| 36 | [Marlboro Man](https://open.spotify.com/track/1kxqCDV9KkkuI7cOgBOmkJ) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Marlboro Man](https://open.spotify.com/album/1NXlQvwy2Tb7H41KyIEeeB) | 3:20 |
+| 37 | [Never Knew Love](https://open.spotify.com/track/6cvFzKQifSHJalwneNgXmG) | [Lily Pearl Black](https://open.spotify.com/artist/6FZabsRMFagmblUP3zXjTb) | [Songs from the Mostly Hits and the Mrs\. Tour](https://open.spotify.com/album/0JgfTgxlXLjKIBDHwElde5) | 4:34 |
+| 38 | [If I Die Before You Wake](https://open.spotify.com/track/7lQeQyTz8ffweRK9O6XHZm) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [If I Die Before You Wake](https://open.spotify.com/album/1Bav1gorifDyT5lMXlppxp) | 3:22 |
+| 39 | [Joy Ride](https://open.spotify.com/track/74R7PGKUdhoLkM3HxlQGvI) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Joy Ride](https://open.spotify.com/album/3TGMycTbk1oGYCqMHD7pU6) | 2:39 |
+| 40 | [Last Breath](https://open.spotify.com/track/0BmplI42wcvjzdAqJYebtB) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [On the Edge](https://open.spotify.com/album/6WMhtp5CrthQXMpOeWpLdB) | 3:48 |
+| 41 | [Drive](https://open.spotify.com/track/7zA0LT8mDLVS6yKCVSB3lm) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Drive](https://open.spotify.com/album/6sPPvcvqUfxqvp7KH9uB3q) | 2:34 |
+| 42 | [Take My Breath Away](https://open.spotify.com/track/04i1Sf3VI5zM4T8wPrAjOT) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw) | [Take My Breath Away](https://open.spotify.com/album/4sHY9lhzS7Ky3IOEPonbLx) | 2:29 |
+| 43 | [Never Not Be](https://open.spotify.com/track/04xeW1GQdWGPjAAjJD0BWW) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF) | [Never Not Be](https://open.spotify.com/album/1R5Z8CEPhNuhLXIlwGFL7k) | 3:11 |
+| 44 | [Garth Brooks](https://open.spotify.com/track/0USuEe5CjwYLSY3croZUvJ) | [Tennessee Jet](https://open.spotify.com/artist/4J43elh6UdRXtM89al1iiY) | [Garth Brooks](https://open.spotify.com/album/7CKOPvzcqJw4TQ1cTI3dNa) | 3:29 |
+| 45 | [Ala\-Damn\-Bama](https://open.spotify.com/track/6JCiAe7uxxh5fPWO0uuSjL) | [Martin McDaniel](https://open.spotify.com/artist/2t4ZNy3HK2oHrvHZxq9wHU) | [Ala\-Damn\-Bama](https://open.spotify.com/album/42Uujgjh9J7qIUmnHzWxX4) | 3:20 |
+| 46 | [Ring In My Pocket](https://open.spotify.com/track/2cG7YvKBtUx7mgek2pAPPO) | [Willie Shaw](https://open.spotify.com/artist/1WtJGNrnGxmw7osdorX4iM) | [Ring In My Pocket](https://open.spotify.com/album/0QB59qVtIyBBIBMqeSyIgK) | 2:25 |
+| 47 | [The Kiss Or The Crash](https://open.spotify.com/track/7rOQ2KxjEYkVYVwNn9Ffgf) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Kiss Or The Crash](https://open.spotify.com/album/2BKlCgEwlI9y3gyRqkWsGQ) | 3:37 |
+| 48 | [The Men That Make The Thunder](https://open.spotify.com/track/3VSnGNfv9QH6MNMgGBY7k4) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Veterans Day Special, Vol\. III](https://open.spotify.com/album/2sGfOjsvxwYCCN7IONTngk) | 4:23 |
+| 49 | [then you ain't knowed me yet](https://open.spotify.com/track/4K8BIfc4hBVZg4bqbbNLNe) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [then you ain't knowed me yet](https://open.spotify.com/album/3CdlJmI48MAceeMbqOZpYD) | 3:11 |
+| 50 | [Wild American Boys](https://open.spotify.com/track/6DL9Z2IUZrcmGYesyOPs17) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Wild American Boys](https://open.spotify.com/album/6t94qXm8n5jiyLBcHL5C9f) | 3:37 |
+| 51 | [Technicolor](https://open.spotify.com/track/11orsLkrZLjShGAVLPigUl) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Technicolor](https://open.spotify.com/album/0Ly50Ytu9I3dhZVTImitvi) | 4:09 |
 
-Snapshot ID: `MTY2ODE4MTIzMCwwMDAwMDAwMDVkMWRjYzUxOWEyMjNlOGNlNjMxMWUxYzllNzMyMTkz`
+Snapshot ID: `MTY2ODM0NTI4MywwMDAwMDAwMDQyODMwYzI3M2ZkYzAwOGIyN2VmZDJjZTFkZDA5YTk2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGdxSMZnmHj.md) - [plain]
 
 > Kick back to the sound of the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,542 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,549 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGdxSMZnmHj.md) - [plain]
 | 27 | [Roberta: Smoke gets in your eyes \(arr\. E\. Benjamin\): Smoke Gets in Your Eyes](https://open.spotify.com/track/7FImhUc1WR8F3GDRUt6z3L) | [Southside Harmonics Steel Orchestra](https://open.spotify.com/artist/0InUwhs6Dkt2JHabJgCgMk) | [Southside Harmonics Steel Orchestra: Caribbean Steeldrums](https://open.spotify.com/album/3Ug6FprpIzKpCEFQ3ai296) | 3:32 |
 | 28 | [Fever](https://open.spotify.com/track/3wSKF0MgD3lmAzie5InlK8) | [Steelasophical,](https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ) | [Caribbean Steeldrums: 20 Most Popular Melodies](https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI) | 2:56 |
 | 29 | [Cayman Gossip](https://open.spotify.com/track/1CK7d5TBA9B2jtlz2x0KZE) | [The Island Caribbean Steel Drum Band](https://open.spotify.com/artist/1kMdTqTrYy7FSVIoxhGFy2) | [Steel Drum Beach Party](https://open.spotify.com/album/7qFltwMHGNNAH8D1hVTQkN) | 4:30 |
-| 30 | [Nah Do Dat](https://open.spotify.com/track/5WuJ6cQ3Bsy7hDeCSLlCQU) | [Lambeth Community Youth Steelband](https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z) | [Caribbean Steeldrums](https://open.spotify.com/album/6gZlK7tecSIz9nvh1rLhKt) | 6:06 |
+| 30 | [Nah Do Dat](https://open.spotify.com/track/1Vf21WdjNCSFqhGg4i8NX2) | [Lambeth Community Youth Steelband](https://open.spotify.com/artist/00gTmsFAdleRAYY9oqCL1Z) | [World Travel: Caribbean Steeldrums](https://open.spotify.com/album/7JT3uzoWESKfgewNkHdhJp) | 6:06 |
 | 31 | [Free up](https://open.spotify.com/track/3u8ywEfXOHYPaiwRinU1dy) | [Ebony Steelband](https://open.spotify.com/artist/2OxUsSoC01lz0rwdslo4vV) | [Ebony Steelband: Best of Caribbean Steeldrums](https://open.spotify.com/album/2d0MsEU2uRgC4cWU37d4lf) | 11:18 |
 | 32 | [Sloop John B.](https://open.spotify.com/track/1G2QtHytFWIEVRTnCRhS8g) | [Steelasophical,](https://open.spotify.com/artist/6ZAwySw8NtFM8wAtHbRPFZ) | [Caribbean Steeldrums: 20 Most Popular Melodies](https://open.spotify.com/album/2MQVuNXXuGeGk3Z8GjQOnI) | 3:30 |
 | 33 | [The Hammer](https://open.spotify.com/track/17PpJkTfqu2Amb79ayHa4D) | [Kent Arnsbarger](https://open.spotify.com/artist/2AeqXoCKrzaEPnGSlA5hSP) | [Sounds of the Caribbean](https://open.spotify.com/album/6kTiKsL8W7v6n7UqYuDjJF) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGdxSMZnmHj.md) - [plain]
 | 49 | [Jamaica Farewell \(I Left a Little Girl In Kingston Town\)](https://open.spotify.com/track/506BZIuXlSQluqckmxt336) | [The Island Caribbean Steel Drum Band](https://open.spotify.com/artist/1kMdTqTrYy7FSVIoxhGFy2) | [Steel Drum Beach Party](https://open.spotify.com/album/7qFltwMHGNNAH8D1hVTQkN) | 4:18 |
 | 50 | [Pan Here to Stay](https://open.spotify.com/track/60fNz5nDCrhRltxIEN8QIV) | [London All Stars Steel Orchestra](https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9) | [London All Stars Steel Orchestra: Pan Forever \- Caribbean Steeldrums](https://open.spotify.com/album/2i5KVW0z2qeMccwKrGukoE) | 6:30 |
 
-Snapshot ID: `MTYxOTQ1NDM5MywwMDAwMDAwMDY2MGJlYzFmNmMxN2Q5M2I1NzhhNGQxZmQwNzczZjI4`
+Snapshot ID: `MTYxOTQ1NDM5MywwMDAwMDAwMDQ3OTk4NWYzNTRiMzgxYzQyYWU3ZGFiYjcyMDdkYjdm`

@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Randy Houser, Walker Hayes, Elle King and more.
 
-2,155 songs - 4 day 21 hr 31 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+2,157 songs - 4 day 21 hr 39 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1236,6 +1236,7 @@
 | [Man in the Moon](https://open.spotify.com/track/5RtEwUY5RcaYjnfhF3IpH5) | [Corey Hunt and the Wise](https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC) | [Man in the Moon](https://open.spotify.com/album/2UAdmt8qIeiySO7beH1vRq) | 3:50 | 2022-09-02 | 2022-09-17 |
 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 | 2022-04-29 | 2022-05-07 |
 | [Man Of Constant Sorrow](https://open.spotify.com/track/07XanO6Unh7QT3rbqTHa81) | [Everette](https://open.spotify.com/artist/7LsMipSvTHNPCHQwuKuz2C) | [Man Of Constant Sorrow](https://open.spotify.com/album/1dwJoStdPJHw3DjEhMppoh) | 3:21 | 2022-01-28 | 2022-02-19 |
+| [Marlboro Man](https://open.spotify.com/track/1kxqCDV9KkkuI7cOgBOmkJ) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Marlboro Man](https://open.spotify.com/album/1NXlQvwy2Tb7H41KyIEeeB) | 3:20 | 2022-11-13 |  |
 | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Married Alone \(feat\. Vince Gill\)](https://open.spotify.com/album/1wOHneMzn80srFomjCpTR9) | 4:14 | 2022-08-19 | 2022-08-27 |
 | [Married in a Honky Tonk](https://open.spotify.com/track/0PjTjYqoa046uXHMvpyqZE) | [Jenny Tolman](https://open.spotify.com/artist/0XTwuMYVkRCPAe5e5dsxED) | [Married in a Honky Tonk](https://open.spotify.com/album/4JE0K3Yd1U3vYXCxm3LIpH) | 3:14 | 2022-03-04 | 2022-05-14 |
 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-03-04 | 2022-03-12 |
@@ -1326,6 +1327,7 @@
 | [Never Been in Love \(with Chris Ruediger\)](https://open.spotify.com/track/1jXsrLPfuIFREVjEcDSJDE) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3), [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [Never Been in Love \(with Chris Ruediger\)](https://open.spotify.com/album/16PJF8taxJOPurBrevJZ0D) | 2:59 | 2022-05-06 | 2022-05-14 |
 | [Never Get It Back](https://open.spotify.com/track/5xTGNrUdGKwbn4jA90H58B) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine \(Deluxe\)](https://open.spotify.com/album/07ta8NK5ZipBOVSQgbGxtd) | 4:11 | 2021-12-31 | 2022-02-12 |
 | [Never Have I Ever](https://open.spotify.com/track/4rJbJYBoyz9uJlhaeIfRaY) | [Garrett Biggs](https://open.spotify.com/artist/1uAjXKpS4W1YD9PYcFvSj5) | [Never Have I Ever](https://open.spotify.com/album/5r5RO7LnMB8Dn32qN2xKNG) | 3:02 | 2022-08-12 | 2022-08-20 |
+| [Never Knew Love](https://open.spotify.com/track/6cvFzKQifSHJalwneNgXmG) | [Lily Pearl Black](https://open.spotify.com/artist/6FZabsRMFagmblUP3zXjTb) | [Songs from the Mostly Hits and the Mrs\. Tour](https://open.spotify.com/album/0JgfTgxlXLjKIBDHwElde5) | 4:34 | 2022-11-13 |  |
 | [Never Leave](https://open.spotify.com/track/1rWoeYw0Vnnj8BLH6ECoiB) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Never Leave](https://open.spotify.com/album/7okh01uYgCUb6VxU5k4CR3) | 3:27 | 2022-09-16 | 2022-09-24 |
 | [Never Like This \(From “American Song Contest”\)](https://open.spotify.com/track/4QW8hjIJvwPLCLhPm8jvSB) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Never Like This \(From “American Song Contest”\)](https://open.spotify.com/album/4p9jcNyO2mPoJ4rWjWrDrc) | 3:09 | 2022-03-25 | 2022-05-20 |
 | [Never Met A Beer](https://open.spotify.com/track/2DiDaZdGU6Ey3mn6LCDVnh) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM), [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Never Met A Beer](https://open.spotify.com/album/6Xn7RynwBkQup3YmWgzpGZ) | 2:52 | 2022-08-05 | 2022-08-13 |

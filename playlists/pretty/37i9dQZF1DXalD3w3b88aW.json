@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 10923,
+  "num_followers": 10924,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGFjYjBiNmMxMjlhMWI5YWRkMjM4YzYxYjE1MjUzNDQy",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM1YTljMDBlYzg1NDdiNzBkMGI5YzdlZTY0Nzk5OTUz",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 39640,
-      "name": "Fertilizer",
-      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 91249,
       "name": "Big Boss (Interlude)",
       "url": "https://open.spotify.com/track/7EuktT4CgA637ci366IrYW"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 39640,
+      "name": "Fertilizer",
+      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 67573,
-      "name": "You Are My Joy (Interlude)",
-      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/0y9RVnTvpZa3LTlUUaD7l4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 107533,
       "name": "Soul Intact - Interlude",
       "url": "https://open.spotify.com/track/5vVopvbZhMboQVNVDgLv7o"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 67573,
+      "name": "You Are My Joy (Interlude)",
+      "url": "https://open.spotify.com/track/2br377aSsnmO1ygH7eS6wJ"
     },
     {
       "added_at": "2022-10-28 04:01:00",

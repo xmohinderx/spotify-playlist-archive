@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Spirit Rangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,017 likes - 74 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,042 likes - 74 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 53 | [ROAR](https://open.spotify.com/track/2i84adxgZGi1ujHaLdKPSG) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Back to the Outback \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5X85NobmlyfXSt649o21Y6) | 3:55 |
 | 54 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 |
 | 55 | [Breakout \(Theme From The Netflix Series "Battle Kitty"\)](https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy) | [Maxo](https://open.spotify.com/artist/069n4k5Ultxa6j838AJtGJ) | [Battle Kitty \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/5d6p6H0Y7R0VOAyZr2pwEA) | 1:39 |
-| 56 | [The Gratitude Attitude](https://open.spotify.com/track/5EwWxvsNIaWI34KsrBTexe) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:41 |
+| 56 | [The Gratitude Attitude](https://open.spotify.com/track/2DoZ8rKC6xZRfFU9w3EDGJ) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:41 |
 | 57 | [I'm Ready \(From The Netflix Series: “Ridley Jones”\) \(feat\. Iara Nemirovsky\)](https://open.spotify.com/track/0MqcYLLTOyScQwD8xAd7nz) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR), [Iara Nemirovsky](https://open.spotify.com/artist/1NGn6PJg2ujMULnGp9AN4l) | [Ridley Jones \(Music From The Netflix Series\)](https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn) | 1:15 |
 | 58 | [Tyrannosaurus Rex](https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:22 |
 | 59 | [Finger Family](https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:16 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 73 | [Make It Work](https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP) | [Forest Whitaker](https://open.spotify.com/artist/0zvQLEOu8PpOaR8wVS9FRz), [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [Jingle Jangle: A Christmas Journey \(Music From The Netflix Original Film\)](https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv) | 3:50 |
 | 74 | [Grand Finale](https://open.spotify.com/track/5Zzxc9vyybINvDQyIaDyNG) | [Ynairaly Simo](https://open.spotify.com/artist/6aad6OBNeoM24jAZus4LkV), [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Bryan Tyree Henry](https://open.spotify.com/artist/185kmdtr8oX8JDTIfqGv5K), [Aneesa Folds](https://open.spotify.com/artist/4eoV9V5qRu2Vp5ZWDjnm3P), [Bri Holland](https://open.spotify.com/artist/4ux7y9idLvpo7EfwtStqol), [Alana de Fonseca](https://open.spotify.com/artist/5Na8w4vE4aj9v8vAD9w77l), [Jada Banks\-Mace](https://open.spotify.com/artist/2evQSV23UqGnRWAbWDQs5R), [Zoe Saldana](https://open.spotify.com/artist/0DrYjsSE82Jm1zbmoUUosu), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Vivo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47lgREYotnsiuddvu6dXlk) | 2:06 |
 
-Snapshot ID: `MTY2Njk4Mzc3OSwwMDAwMDAwMDkxMmEzNjcwOTk4NDg3MGU3MDRhOTQwZDdmYzJjMmIy`
+Snapshot ID: `MTY2Njk4Mzc3OSwwMDAwMDAwMGZkMDdlMzM1ZTQxYTQzY2RlMjlhNWMxN2E2OTZjNDAy`

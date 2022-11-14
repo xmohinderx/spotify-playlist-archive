@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,404 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,507 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 14 | [hand of fate](https://open.spotify.com/track/3efolGze1slri71Otk8rpf) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 4:44 |
 | 15 | [L' Attaque des Anges](https://open.spotify.com/track/4VsGEmihdCExqdOzUkw9Tf) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:33 |
 | 16 | [Angel of Doom](https://open.spotify.com/track/480g4Wdq5XeLqURUaQIBzI) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 3:50 |
-| 17 | [魂のルフラン](https://open.spotify.com/track/1NrzI6zJMDJLXTfxRFzGwX) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 5:14 |
+| 17 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 |
 | 18 | [F02\_Take01\_EWS\_Amano&Kosei](https://open.spotify.com/track/4rq1ZWQ2LHu9Mx3glfbIe1) | [ヱヴァンゲリヲン新吹奏楽版](https://open.spotify.com/artist/3sVX9uIB7QPe9697OBtbXY) | [ヱヴァンゲリヲン新吹奏楽版:其の2](https://open.spotify.com/album/0SzGPBv99g5BV56tpTNNf6) | 2:14 |
 | 19 | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/3gy29plS7bgjmYfgfGGwgE) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/album/3hZAOa09G6paCElkWgyuSe) | 7:46 |
 | 20 | [Beautiful World \- PLANiTb Acoustica Mix](https://open.spotify.com/track/2X5WNn3nHqFhihs8TtulVc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Beautiful World \(PLANiTb Acoustica Mix\)](https://open.spotify.com/album/6LHMXCOJ4eWGuTPsotVQu1) | 5:09 |
-| 21 | [KYOU NO HI WA SAYOUNARA](https://open.spotify.com/track/4lmWXO1Zznr8HVok0vZWLp) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 2:43 |
+| 21 | [今日の日はさようなら](https://open.spotify.com/track/2SsjrvkdZMqkU9DNgQGqIz) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック](https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP) | 2:43 |
 | 22 | [THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/track/1yoLVeLcgVzPUB4b4gd01R) | [LOREN&MASH](https://open.spotify.com/artist/4z5h4q18iemiP694wTaPDb) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 4:50 |
 | 23 | [QuatreMains\_miyagi\_kita](https://open.spotify.com/track/0oyp6WcRJBn2Xoe6FSc1zs) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [EVANGELION Piano Forte](https://open.spotify.com/album/2y6cButHaOhgKxGPjiwIn2) | 2:21 |
 | 24 | [Gods Gift =3EM31=](https://open.spotify.com/track/1OOJbyS3JmALkegYUBmUqq) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 3.0"YOU CAN \(NOT\)REDO.](https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp) | 5:00 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 33 | [暫し空に祈りて](https://open.spotify.com/track/5I1fxQ4jYa8f0lfdP4rKF9) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [EVANGELION EXTREME](https://open.spotify.com/album/4ugzgVJIEDrXnhfMoKYhDO) | 4:57 |
 | 34 | [tema principale: orchestra dedicata ai maestri](https://open.spotify.com/track/2BDGENnWVU3kAvXkEzMvcr) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 4:58 |
 | 35 | [karma](https://open.spotify.com/track/2qQHd24vGtbzFWWeXlrI6K) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 3:03 |
-| 36 | [yearning for your love: playback](https://open.spotify.com/track/3tyfbGWQNyfGSK45DZQbZ3) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 3:40 |
+| 36 | [yearning for your love](https://open.spotify.com/track/7CnAVlXQB9AW3wLTWS6ZmM) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 3:41 |
 | 37 | [m & r: piano](https://open.spotify.com/track/7xHc0RDc7UdswJcJSPs1QD) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 2:47 |
 | 38 | [lost in the memory](https://open.spotify.com/track/4MztAIcSeCmDtB9Cvt160X) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 5:21 |
 | 39 | [EM10A alterne](https://open.spotify.com/track/45y9oGcTjn48tEj1IrB3lL) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 2:14 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 95 | [世界は二人のために](https://open.spotify.com/track/1vWHMOsvrlwYp0X1rQyXpv) | [Naomi Sagara](https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04) | [ゴールデン☆ベスト デラックス・58](https://open.spotify.com/album/0x5I0Ep6Qplcp7xQwyshrI) | 3:49 |
 | 96 | [人生を語らず](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [今はまだ人生を語らず\-1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
 
-Snapshot ID: `MTYzMDQyMjAwMCwwMDAwMDAwMGNkNDI2NzM5ZDc4M2ZlNzYwYjk5YTgzOTg1NmI2MDdi`
+Snapshot ID: `MTYzMDQyMjAwMCwwMDAwMDAwMDgxNzU3N2FkYjEyYzA5ODU1MGU4OGQyM2M2NjJlYTQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,781 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,880 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 24 | [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 7:22 |
 | 25 | [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 7:20 |
 | 26 | [Leafy Meadows](https://open.spotify.com/track/7q84UlknHb4sIThLIERiVK) | [John Paul Jones](https://open.spotify.com/artist/6RhcZuUOb20IZvR8BbdnJX) | [The Thunderthief](https://open.spotify.com/album/7AIpDOQaIxlB3c1cEQhVRJ) | 5:10 |
-| 27 | [Legend Of A Mind](https://open.spotify.com/track/6Ol5tGTsZCtHmYY7EyWWEn) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Nights In White Satin](https://open.spotify.com/album/1wQJqldAjmo4QgEXx0BTwU) | 6:36 |
-| 28 | [Trilogy](https://open.spotify.com/track/4Aj68wDjVrplT35jk8wkeE) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [The Best of Emerson Lake & Palmer](https://open.spotify.com/album/3uYhG442MU4ca3ZsovlGVh) | 8:54 |
+| 27 | [Legend Of A Mind](https://open.spotify.com/track/7Gzlsdq3UscVRqRn7x7avR) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [In Search Of The Lost Chord](https://open.spotify.com/album/3ZTNq36NEuAdPLwkey7z6C) | 6:36 |
+| 28 | [Trilogy \- 2015 Remaster](https://open.spotify.com/track/0TRzbNlR34FoO3HjHvb8FX) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Trilogy \(Deluxe\)](https://open.spotify.com/album/4Swf9iftTTaoEPbPXyxxUQ) | 8:52 |
 | 29 | [Cloudburst Flight](https://open.spotify.com/track/3vGCZR6nHYd3be31turwDA) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Force Majeure \(Remastered 2018 / Deluxe Version\)](https://open.spotify.com/album/3Fwvk0okeHHvxT5s90mK8T) | 7:28 |
 | 30 | [The Gates of Delirium \- 2003 Remaster](https://open.spotify.com/track/4Yw37wsXSsz5V61IBS8cYh) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Relayer \(Deluxe Edition\)](https://open.spotify.com/album/6MK9yp7hFeOLeR7F1hsBp6) | 21:49 |
 | 31 | [Ace Of Wands \- Remastered 2005](https://open.spotify.com/track/0Ll5xn9cgYYWYppP9bcnmK) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Voyage Of The Acolyte](https://open.spotify.com/album/4twSmtePdvfZhSpI2LV5W2) | 5:23 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 41 | [Vivaldi](https://open.spotify.com/track/0BJZbcDl2TYkM12ZcSTFnD) | [Curved Air](https://open.spotify.com/artist/3UtSTTCQ0EMUQxmsfZ3Px1) | [The Best of Curved Air](https://open.spotify.com/album/7hfA825fDvgS0W95LV5kDy) | 7:29 |
 | 42 | [Breakdown](https://open.spotify.com/track/1X8GfZOs2GR2tru3QTO9MI) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [I Robot \(Legacy Edition\)](https://open.spotify.com/album/1zhQKiQIOlYYbPmx1eHDD7) | 3:53 |
 | 43 | [The Trans\-Love Express](https://open.spotify.com/track/32pL34UN2nagbiO7ylp5C9) | [Jean\-Luc Ponty](https://open.spotify.com/artist/3SInttLnvf5G4Aa95aAYPr) | [Enigmatic Ocean](https://open.spotify.com/album/7Der8eY3aiNi3cieeMBRFB) | 3:59 |
-| 44 | [Cat's Eye/Yellow Fever \(Running\) \- 2005 Digital Remaster](https://open.spotify.com/track/53RkRz4GT0DJ3j2fb2LCtM) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [The Quiet Zone/The Pleasure Dome](https://open.spotify.com/album/0eOBTsAhFUTOOcAcxJNE3V) | 5:21 |
+| 44 | [Cat’s Eye / Yellow Fever \(Running\) \- Remastered 2021](https://open.spotify.com/track/4Q7lb11ZSnrM2HcEyFjp4S) | [Van Der Graaf Generator](https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt) | [The Quiet Zone / The Pleasure Dome \(Deluxe\)](https://open.spotify.com/album/0ZWdAjzJtTrRoVFq4lh5fh) | 5:20 |
 | 45 | [You'd Better Believe It \- Live at Edmonton Sundown; 1996 Remaster](https://open.spotify.com/track/7JK2pAQZdftr92d6sBYaMg) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [Hall of the Mountain Grill](https://open.spotify.com/album/0CIh8QCK9o0mKyzzNWzjUZ) | 7:12 |
 | 46 | [The Drapery Falls](https://open.spotify.com/track/1kLXoAje5Z4mlZOAFgZZj3) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Blackwater Park](https://open.spotify.com/album/3CCkWrqhWcKU7qXK3ooEEo) | 10:52 |
 | 47 | [A Sprinkling Of Clouds \- Remastered 2018](https://open.spotify.com/track/44mzt1ihrrKCoiCagN6R0G) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [You \(Deluxe Edition\)](https://open.spotify.com/album/6lj2wSd3gWooFc19K5xr4W) | 8:57 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 88 | [Heavy Horses \- 2003 Remaster](https://open.spotify.com/track/3Ki1XRwvSJ9UREfeFldVdB) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Heavy Horses \(2003 Remaster\)](https://open.spotify.com/album/27EEeQwWctNFwKzbYYB7v4) | 8:54 |
 | 89 | [Repent Walpurgis](https://open.spotify.com/track/3oU71W9KUFDllbYWjKaqwL) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Procol Harum \(2009 remaster\)](https://open.spotify.com/album/6OLClv70DOXi5XxmNR0jk2) | 5:05 |
 | 90 | [Red](https://open.spotify.com/track/2ROj14ZhKchHWBMtzwzo0i) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/13dGZzRzFoejmyVXAbTPAH) | 6:15 |
-| 91 | [Evil Woman](https://open.spotify.com/track/1sZ12i8B4Ml51kzpL1dcYV) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [The Best Of Spooky Tooth: That Was Only Yesterday](https://open.spotify.com/album/2XaN2LkOsk2ELGcLx3Yaol) | 9:06 |
+| 91 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
 | 92 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 |
 | 93 | [Future Days](https://open.spotify.com/track/4KdjQ2DMs845e6Ag6TO6Yg) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Future Days \(Remastered Version\)](https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w) | 9:29 |
 | 94 | [Sole Survivor](https://open.spotify.com/track/63UeOapFmkJv0NEKGQQTJp) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 99 | [Tubular Bells \- Pt\. I](https://open.spotify.com/track/7ERSQrRptZVM7q3VOdM7OL) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Tubular Bells](https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum) | 26:01 |
 | 100 | [Peaches En Regalia](https://open.spotify.com/track/5uDu2qOoDou7cFXsipAo8l) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Hot Rats](https://open.spotify.com/album/0WYYrC9My9rYWigac003hw) | 3:38 |
 
-Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMGNlMzgxOWNiOWU1MmZkOGE4OWI2OTVkNTVhMDQ2ZTg5`
+Snapshot ID: `MTYyNzA2MTI0OCwwMDAwMDAwMDZjOGMwZDhhNGFkY2Y3ZGI0N2VkZjE0NTJiYjg3ZWQy`

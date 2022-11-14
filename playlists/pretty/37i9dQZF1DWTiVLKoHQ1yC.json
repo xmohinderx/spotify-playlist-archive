@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 122918,
+  "num_followers": 123018,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDVlNjU2NTk2NDRmZjliOGVlYjk3MGM3ZGM5M2E4ZTFh",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDE3YTg0NTIzMjA5MjU0YmIyY2FjNWQyN2Q3MzAxODMy",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -31,8 +31,8 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Just To Hear You Say",
-        "url": "https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95"
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/5YbDMcXp70ko2WzPFA7WEb"
       },
       "artists": [
         {
@@ -42,7 +42,7 @@
       ],
       "duration_ms": 213437,
       "name": "Just To Hear You Say",
-      "url": "https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW"
+      "url": "https://open.spotify.com/track/66F2eP3BZWCmQiycL0trAs"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Floral Decor",
-        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Floral Decor",
-      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Alkantara",
         "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 216393,
       "name": "Alkantara",
       "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Floral Decor",
+        "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Floral Decor",
+      "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "All We Have Is Now / Stay The Same",
-        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
-      },
-      "artists": [
-        {
-          "name": "Just Her",
-          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "No Judgement (K\u00f6lsch Remix Edit)",
         "url": "https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 257006,
       "name": "No Judgement - K\u00f6lsch Remix Edit",
       "url": "https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "All We Have Is Now / Stay The Same",
+        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
+      },
+      "artists": [
+        {
+          "name": "Just Her",
+          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
+        }
+      ],
+      "duration_ms": 252125,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -903,6 +903,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Torii",
+        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Hope In Balance",
         "url": "https://open.spotify.com/album/6KWDP1PTwlvP9lkWfYttyO"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 278796,
       "name": "Hope In Balance",
       "url": "https://open.spotify.com/track/4QoiPRqq271TEpzY6F785o"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Torii",
-        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Influence",
-        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 259364,
-      "name": "Influence - Edit",
-      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Shizumu",
         "url": "https://open.spotify.com/album/3teCzBp0dery4nVRmQrGvj"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 231830,
       "name": "Shizumu",
       "url": "https://open.spotify.com/track/1wkvr4SJj99nz7Xukp20dZ"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Influence",
+        "url": "https://open.spotify.com/album/7d3X4vmORcxsVK9Hq3dJ0o"
+      },
+      "artists": [
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "duration_ms": 259364,
+      "name": "Influence - Edit",
+      "url": "https://open.spotify.com/track/1zPRy3M77zRP9nqxULP04s"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "A Hero EP",
+        "url": "https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27"
+      },
+      "artists": [
+        {
+          "name": "Khen",
+          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
+        }
+      ],
+      "duration_ms": 458539,
+      "name": "A Hero",
+      "url": "https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Masina",
         "url": "https://open.spotify.com/album/7km063WgmtcvuzwrguShQy"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 240243,
       "name": "Masina",
       "url": "https://open.spotify.com/track/1iIfC5kyhIN0ny0X6NtjIY"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "A Hero EP",
-        "url": "https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27"
-      },
-      "artists": [
-        {
-          "name": "Khen",
-          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
-        }
-      ],
-      "duration_ms": 458539,
-      "name": "A Hero",
-      "url": "https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX"
     }
   ],
   "unique_name": "Melodic & Euphoric",

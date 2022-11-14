@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Skeng
 
-89 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
+90 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/5CCqycT3xKUm1yqlOpRcRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Cree](https://open.spotify.com/track/61uDqyIhqym2hgGQ1W6vkG) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Cree](https://open.spotify.com/album/2ExEo2D6WhaOLxz1IXm10u) | 3:06 | 2022-08-05 | 2022-11-13 |
 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 | 2022-08-05 |  |
 | [Dior Kicks](https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [BL Tha Hook Slaya](https://open.spotify.com/artist/7fNtLOQqt7xawYGAVMt4DJ), [Skirdle Sparta](https://open.spotify.com/artist/6ipyegbx9d7n8iGBmDtw0n) | [Dior Kicks](https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt) | 3:27 | 2021-10-20 |  |
-| [Dirt Bounce](https://open.spotify.com/track/1fy2AxpDnsBmVp4i0GEYEB) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Reggae Gold 2021](https://open.spotify.com/album/3TT7M8zjdfuNovu7FTMupQ) | 2:46 | 2022-08-05 |  |
+| [Dirt Bounce](https://open.spotify.com/track/1fy2AxpDnsBmVp4i0GEYEB) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Reggae Gold 2021](https://open.spotify.com/album/3TT7M8zjdfuNovu7FTMupQ) | 2:46 | 2022-08-05 | 2022-11-14 |
+| [Dirt Bounce](https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/0EiBPLcKV9pZ9ITQiAERNO) | 2:56 | 2022-08-05 |  |
 | [Dirt Bounce](https://open.spotify.com/track/2v8fm0qBLnk7y9s7AylvaU) | [Laa Lee](https://open.spotify.com/artist/4cb3HigJCNGP3rcRhVbYwS) | [Dirt Bounce](https://open.spotify.com/album/1m4lFc3r7VV0V0OSJ4NEAf) | 2:56 | 2021-10-20 | 2022-11-13 |
 | [Don't Play with Me](https://open.spotify.com/track/3XIZmcWXwjvPv1bUgz6qj7) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Don't Play with Me](https://open.spotify.com/album/7h9p1vEitLwJgfA0V78Erz) | 2:59 | 2021-10-20 |  |
 | [Empty](https://open.spotify.com/track/2TlWUtnJz1SdlWi5B0tORD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Empty](https://open.spotify.com/album/6I4pA1YFu1ujWabNzhRVUi) | 3:26 | 2022-08-05 |  |

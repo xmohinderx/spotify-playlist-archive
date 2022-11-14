@@ -4,7 +4,7 @@
 
 > Just chill.
 
-391 songs - 22 hr 35 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+392 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,9 +108,9 @@
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-10 | 2022-10-08 |
 | [everything's worth it](https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/5LYJ2vWmQ6FBjlaIZ5yoZl) | 4:35 | 2021-06-07 | 2022-10-29 |
 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2022-08-19 |  |
-| [Fairweather Friends](https://open.spotify.com/track/2sirBCpnHUKu87YIf9WwE7) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:10 | 2022-09-16 |  |
+| [Fairweather Friends](https://open.spotify.com/track/2sirBCpnHUKu87YIf9WwE7) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:10 | 2022-09-16 | 2022-11-14 |
 | [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 | 2022-09-16 | 2022-10-15 |
-| [Fairweather Friends](https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv) | 3:10 | 2022-09-16 | 2022-11-12 |
+| [Fairweather Friends](https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv) | 3:10 | 2022-09-16 |  |
 | [Familiar](https://open.spotify.com/track/0cIW3VDH2FOnO3WGQYZ1MZ) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Familiar](https://open.spotify.com/album/2uBZAPxV889fqgWZBjxcjx) | 3:33 | 2020-04-27 | 2022-01-22 |
 | [Fascination](https://open.spotify.com/track/6lzaSbHNtNNO7J9yOdYa9E) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Fascination](https://open.spotify.com/album/3FVd8ZTI5e8gvq0IDrk6GB) | 4:29 | 2022-09-02 |  |
 | [Feel These Heavy Times](https://open.spotify.com/track/28lNe4BlMf3vS0B5JQPuUu) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Out of My Mind](https://open.spotify.com/album/6Ksncrh5J2X2iJVGbZGf0A) | 3:49 | 2020-04-24 | 2022-07-29 |
@@ -363,7 +363,8 @@
 | [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 | 2022-09-19 |  |
 | [Val!um](https://open.spotify.com/track/0yXU3XSY2yYs542ksvHLNL) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Val!um](https://open.spotify.com/album/7tCOA660KQ5c83XLJHtRYn) | 3:08 | 2020-02-12 | 2022-04-29 |
 | [Victory Lap](https://open.spotify.com/track/7ajvW6P91ViwSc8MsrBSP5) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Victory Lap](https://open.spotify.com/album/7dIv6ZyOlTosM8b5EGQyD6) | 4:13 | 2022-11-11 |  |
-| [Voices \- Live on WEXT](https://open.spotify.com/track/6jsDcXPmclH9iY0yqAkFyU) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices \(Live on WEXT\)](https://open.spotify.com/album/6nxtd6HpUSJ3JRFvHdqA5i) | 4:05 | 2022-11-11 |  |
+| [Voices \- Live on WEXT](https://open.spotify.com/track/59LJbjPh4wcHcuoqimqDb5) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies \(Expanded Edition\)](https://open.spotify.com/album/2VmTLrSKQiMAW8lRzP9k4d) | 4:05 | 2022-11-11 |  |
+| [Voices \- Live on WEXT](https://open.spotify.com/track/6jsDcXPmclH9iY0yqAkFyU) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices \(Live on WEXT\)](https://open.spotify.com/album/6nxtd6HpUSJ3JRFvHdqA5i) | 4:05 | 2022-11-11 | 2022-11-14 |
 | [Waiting Up](https://open.spotify.com/track/1deqbBUFuyKeifDbTRdAWH) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Waiting Up](https://open.spotify.com/album/0KN92RwTZ5yOIVQ6GbdwTr) | 2:21 | 2020-08-21 | 2022-01-22 |
 | [walk but in a garden](https://open.spotify.com/track/37bzRWttPZDNdJs24NZaUG) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/0iHcSeWJa1zUgnCPA9DO7j) | 1:50 | 2020-05-29 | 2022-07-29 |
 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 | 2022-06-10 | 2022-09-03 |

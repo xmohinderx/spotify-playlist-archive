@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,618 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,788 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 56 | [Te Haarlem in den houte](https://open.spotify.com/track/1FJER2D2CrQUrIt1J9LT95) | [Pekel](https://open.spotify.com/artist/4D9HDgiR95sQcLetuBE05P) | [Mannen van de Maas](https://open.spotify.com/album/6XgiW4oHZbMA7qeCcnPLP9) | 1:57 |
 | 57 | [Rattle Them Winches](https://open.spotify.com/track/4jll6lOP06Ok5xmpBjDt0a) | [The Sheringham Shantymen](https://open.spotify.com/artist/06bi895n8wIOUi35sk65gJ) | [All At Sea](https://open.spotify.com/album/1ATiIHg3nrNSmboxsAk5tm) | 2:39 |
 | 58 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 |
-| 59 | [Northwest Passage](https://open.spotify.com/track/2P1ql6npuP7bnsWMoisarq) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage \(Remastered\)](https://open.spotify.com/album/4vGCOoQXIorKp1u7zAfOqg) | 4:49 |
+| 59 | [Northwest Passage](https://open.spotify.com/track/4WKs2iDdrR2fA8T3hlCanB) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Northwest Passage](https://open.spotify.com/album/6GQskZhcw8OppDepxNSUSX) | 4:49 |
 | 60 | [Roll Alabama, Roll](https://open.spotify.com/track/57L0Dz5MohSeTwdgVS8HO0) | [Duck Pond Sailors](https://open.spotify.com/artist/0nT8N9mfTSaziIrYYBzVSx) | [Sea Songs and Shanties](https://open.spotify.com/album/7cpRahHPnwTIekoIlX7tVV) | 3:44 |
 | 61 | [Running Down to Cuba](https://open.spotify.com/track/7I5Io7uuk6kFvFe16Wm3xZ) | [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:29 |
 | 62 | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Bones in the Ocean](https://open.spotify.com/album/2ebyoXt3jMa54U1VEu8D6M) | 3:13 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8shr5OgBdbQ.md) - [plain]
 | 65 | [Bring 'Em Down](https://open.spotify.com/track/21tewDzoqmfJ1jRK4MkJA5) | [William Pint & Felicia Dale](https://open.spotify.com/artist/25mMk8NaLmEHMdXaXP86Lq) | [White Horses](https://open.spotify.com/album/4xSV4Rj2wMQq31PUTXfvG0) | 1:55 |
 | 66 | [Leave Her Johnny](https://open.spotify.com/track/4APSKmljfj6XlCn4Myap0f) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [NathanEvanss](https://open.spotify.com/album/4ZUytyO3BGNF2CJRLkSrLS) | 2:02 |
 
-Snapshot ID: `MTY2MDc2MzMyOCwwMDAwMDAwMDdiZDdhMDYxNTkwNDU5Y2NhMWRiMjdiMTMwNDA1NjEw`
+Snapshot ID: `MTY2MDc2MzMyOCwwMDAwMDAwMDkxZGQ5OTA3MTE0NGE0MzY2MGJhODI5ZTI4ZWQ4ZTEx`

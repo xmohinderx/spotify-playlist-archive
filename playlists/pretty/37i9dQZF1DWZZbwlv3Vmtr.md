@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,939 likes - 330 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,117 likes - 330 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 62 | [don't worry it will be okay](https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [don't worry it will be okay](https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp) | 2:23 |
 | 63 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [major7th](https://open.spotify.com/artist/2PM4QtueXi2pjPzJGMYAH8) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 |
 | 64 | [Oase](https://open.spotify.com/track/1jF4XHhBTdyStb7maYQtpU) | [Mo Anando](https://open.spotify.com/artist/58CQV8VkrpijF55LjfmSRH) | [Oase](https://open.spotify.com/album/6hLVNzSWsprXx92uYjZjSa) | 4:45 |
-| 65 | [Twinkle of Night](https://open.spotify.com/track/7oALpjHQkGSmzGEEhalnuq) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Among The Stars](https://open.spotify.com/album/4f0vi6EOaGNLNbQsWIn7Pw) | 2:57 |
+| 65 | [Twinkle of Night](https://open.spotify.com/track/1uRExJnQi0lXXbfHzcSXRX) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Twinkle of Night](https://open.spotify.com/album/0ZE7GZWUauKoR06f9rli3a) | 2:57 |
 | 66 | [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 |
 | 67 | [night bumps](https://open.spotify.com/track/0LTCfhZhU886QSKP9sduPh) | [jag glum](https://open.spotify.com/artist/1KfrvBundzNVB4zlLvuRbN) | [night bumps](https://open.spotify.com/album/6GDq8CtNkCKtStLVVFZBkr) | 2:04 |
 | 68 | [Pepper & Salt](https://open.spotify.com/track/36IEz2n1LIpsJF40eNYsz2) | [Blac Bamboo](https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h) | [L0vesick / Pepper & Salt](https://open.spotify.com/album/7aUkxRDRbuwhLi6GCTqIIR) | 4:10 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 329 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 |
 | 330 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
 
-Snapshot ID: `MTY2ODE2NzUyMywwMDAwMDAwMDhhMThiMjQ4MmJkYWYxZWU4NWFiNjZkMDBjZjhlYmM3`
+Snapshot ID: `MTY2ODE2NzUyMywwMDAwMDAwMGY1NDFhM2RlZDFmNDU5Y2RjYWQ3NDI3YzdlMjIwMGRj`

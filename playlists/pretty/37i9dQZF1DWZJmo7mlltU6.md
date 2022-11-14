@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Vanessa Zamora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,403 likes - 104 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,527 likes - 104 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 41 | [Play Pretend](https://open.spotify.com/track/0rpXpKiDSJ5QiAuo3JVky7) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/5fT75N3yGkZpVLHV4X90i8) | 2:24 |
 | 42 | [LAB](https://open.spotify.com/track/1aavVcHfiogGUkvCMm6dV6) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [LAB](https://open.spotify.com/album/7qJyVxMka41PV45qPx42zD) | 2:58 |
 | 43 | [she's in a cage](https://open.spotify.com/track/4HDKe2j93rapEMlfY4knZ5) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [she's in a cage](https://open.spotify.com/album/7IeGWk2pmhU6aQmZNwjpgH) | 4:30 |
-| 44 | [Fairweather Friends](https://open.spotify.com/track/2sirBCpnHUKu87YIf9WwE7) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:10 |
+| 44 | [Fairweather Friends](https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv) | 3:10 |
 | 45 | [Daydreaming](https://open.spotify.com/track/4xYO8xc0uFW7llfl8eVUsa) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Daydreaming](https://open.spotify.com/album/3anhcoDOhGxzV63Y65S4Bf) | 4:03 |
 | 46 | [Sunset on the Sea](https://open.spotify.com/track/2FsIGULAZW8CyXy8uYAHVZ) | [gencry](https://open.spotify.com/artist/5TTgTTAxOez6W6bnKpphrc) | [Sunset on the Sea](https://open.spotify.com/album/6l5gV8fLPmyMkS2qnVtMwf) | 4:54 |
 | 47 | [Tranquilito \(Por la calle\)](https://open.spotify.com/track/5E4o1lREiK7H7TYbcnxRJq) | [Lorenzo Soria](https://open.spotify.com/artist/2pKozWxqoSVP3lcq7dlqdQ), [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Tranquilito \(Por la calle\)](https://open.spotify.com/album/0IsqywsYtqMeqXNUKBazZV) | 3:49 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 103 | [XX](https://open.spotify.com/track/42ACPZYXi1WW1wpnCk6Kgr) | [Betacam](https://open.spotify.com/artist/57Zd5sXL7SD1anPMHPGlWJ), [Ama Ia](https://open.spotify.com/artist/5myr2gHvqlEkktvZioElER), [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [XX](https://open.spotify.com/album/4XDyEHa2WeckWpthB7ifZK) | 3:16 |
 | 104 | [Luce magica](https://open.spotify.com/track/3pxE5SMXpmR5h5DhpYJ187) | [Alan Sorrenti](https://open.spotify.com/artist/7sCYC6bDTexE400qiLy4oq) | [Oltre la zona sicura](https://open.spotify.com/album/46yVaVHnid7t7PQy9jTdYL) | 3:26 |
 
-Snapshot ID: `MTY2ODE5NDgxOSwwMDAwMDAwMGU4NjhiN2Q4OThmYTc2ODMxZTBjMjhmNDFkODE5NjVi`
+Snapshot ID: `MTY2ODE5NDgxOSwwMDAwMDAwMGQ1MzRhZjg1NDkxYmVhNmY1YzBlY2QxNmU1MTk4MDli`

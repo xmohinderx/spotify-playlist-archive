@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,063 likes - 213 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,374 likes - 213 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 35 | [Dimples](https://open.spotify.com/track/5zNXoNQMHEQYegSTnfn5Jo) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Dimples](https://open.spotify.com/album/7a3HiRaJgeMO3RQNza1JCh) | 1:55 |
 | 36 | [rollin](https://open.spotify.com/track/2IleXsyPSlKjiegO8hlX7T) | [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb), [sage green](https://open.spotify.com/artist/48XozkeJU7sbKjb0DG40ts) | [rollin](https://open.spotify.com/album/2LooWkSsasN4xIul93tu31) | 2:08 |
 | 37 | [Hot Hot Stuff](https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Hot Hot Stuff](https://open.spotify.com/album/6nACjiFL7fZuIjraKoTvdX) | 2:01 |
-| 38 | [Tokyo Trainspotting](https://open.spotify.com/track/5BytyiwDLVxJS1x4vgaeli) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 2:00 |
+| 38 | [Tokyo Trainspotting](https://open.spotify.com/track/1bFNVPttUZyzRxfsJAFkJx) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 2:00 |
 | 39 | [Tropical](https://open.spotify.com/track/4OXqvTGpqT8eJNV4b1yNor) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Tropical](https://open.spotify.com/album/7wa0Vt5AOOYQKiMAhTZxOD) | 2:09 |
 | 40 | [laurel](https://open.spotify.com/track/5RsnAdf6p3yu5hhCWrEdY4) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [laurel](https://open.spotify.com/album/2HO8CFuIsqCGYjbbzgX2AP) | 3:55 |
 | 41 | [Jukebox Dim](https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Jukebox Dim](https://open.spotify.com/album/4Gva1pmVpFx1clyfOUw5Oz) | 2:18 |
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 212 | [brats](https://open.spotify.com/track/4OY35K0SrR9HPqsEnAwt1b) | [Satchel Kebab](https://open.spotify.com/artist/0Z4iAR7V9y9M3HEW8vTMxx) | [brats](https://open.spotify.com/album/6PErrEUufYwTNGijQ69j15) | 2:44 |
 | 213 | [words > numbers](https://open.spotify.com/track/04zAxdQmKHREESSIcHRF3K) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [words > numbers](https://open.spotify.com/album/3JnbEfKjAABORB0DSb6iOc) | 2:56 |
 
-Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMDhhZDU2NjQwODZlZDExNzFmMGRjOTcwN2JiNTAxYTFl`
+Snapshot ID: `MTY2ODE2NzYxNiwwMDAwMDAwMGEwNzQ2NThjZWI3YWU5ZDIzMGE5OTE3ZDZiMDc2NDYx`

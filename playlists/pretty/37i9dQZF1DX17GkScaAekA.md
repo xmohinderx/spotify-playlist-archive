@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,614 likes - 54 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,479 likes - 54 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 45 | [Rondeau: Paula](https://open.spotify.com/track/5GeLatpepLly0qTAqP5VHm) | [Jean Rondeau](https://open.spotify.com/artist/2KodXBuxZLmcqy3R1Oun4g), [Laurent Muller](https://open.spotify.com/artist/6ZAxbpBVkZB2ydRapWuThE), [Alice Bourlier](https://open.spotify.com/artist/1nTQ9Kn7NvnRHLyHg06EoQ), [Maria Mosconi](https://open.spotify.com/artist/54HcZQKC6S01pMUnUfo6v1), [Tanguy de Williencourt](https://open.spotify.com/artist/2j31b8VuqHDIsGnGMvThiD) | [Paula](https://open.spotify.com/album/1FCRdm2C1zrho2PfZ7tWPy) | 2:41 |
 | 46 | [Spiriteaux](https://open.spotify.com/track/5rpw2ag9jizRl9VdaLNT61) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Spiriteaux](https://open.spotify.com/album/2GZpYfqw49QYOYtGlNg3EQ) | 3:54 |
 | 47 | [Concerto in D Minor, Op.7, No.4: I\. Adagio](https://open.spotify.com/track/05iURKvut2OWEzPHQUhDT5) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Academy of Ancient Music](https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf), [Richard Egarr](https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq) | [Handel: Organ Concertos, Op\. 7](https://open.spotify.com/album/5OQJ9lv225IZAL4YNVO8L5) | 4:45 |
-| 48 | [Mercure \- Poses plastiques en trois tableaux: La Nuit](https://open.spotify.com/track/4uPoKGJ1QRJF8QmsHztfYI) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Chill With Satie](https://open.spotify.com/album/5alBq6M27UNiLQICjblXsJ) | 1:20 |
+| 48 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/5TKvSoHEXaCyk2GKM6pC3J) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/3IFCqrc4GgSrN50MqNlIpw) | 1:13 |
 | 49 | [Reminiscence](https://open.spotify.com/track/4rl0Zp21AhOflFl6ttv6Ou) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [The Chopin Project](https://open.spotify.com/album/4HA4XXhCzftKn9O59YnUwH) | 4:28 |
 | 50 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 | 51 | [Humming Bird Rework](https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:21 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 53 | [Music for a While \(from Oedipus, Z\. 583\)](https://open.spotify.com/track/2gqSse5NXNCpk898aExGqT) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF) | [Night Passages](https://open.spotify.com/album/3rtPQEquVFQAOUntfiPMvC) | 4:10 |
 | 54 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
 
-Snapshot ID: `MTY2ODA5Nzc1MywwMDAwMDAwMGM3MDkwM2U0OGUwYmEyYWJlMjhjNDAzZTA4NjU4ZGQ1`
+Snapshot ID: `MTY2ODA5Nzc1MywwMDAwMDAwMDQyYTUzNzNjNmU4ZWZjNmMyODQyZjZkYWZhZDM4YjY5`

@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 19 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
 | 20 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
 | 21 | [Wildflower](https://open.spotify.com/track/34gHTjNvVeaZvCvCjPDKi3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Wildflower](https://open.spotify.com/album/03tF78PniAEmmVoFIVQFKb) | 3:20 |
-| 22 | [The Beautiful Things We Miss](https://open.spotify.com/track/4gsqEs5QojIE12YwZFU0Y2) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Father's Day: Christian Music](https://open.spotify.com/album/2ufD0eiT8fwRtuuO1jY7hh) | 3:23 |
+| 22 | [The Beautiful Things We Miss](https://open.spotify.com/track/5N72L6I3YRMCYhGE1dHu4g) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:23 |
 | 23 | [Dusty Road](https://open.spotify.com/track/2YpIziXbqt5XVQfjGQamLY) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Dusty Road](https://open.spotify.com/album/498FsuSGrpsPOXb4qgsQrN) | 3:24 |
 | 24 | [First a Son \- Live](https://open.spotify.com/track/1X5frOuRhgRxlWrB4PXZ5x) | [Brennan Joseph](https://open.spotify.com/artist/5mNtfek4Nd5a3OremU9wSI) | [First a Son \(Live\)](https://open.spotify.com/album/54ED5AYVMlLkwipCofO5qI) | 5:04 |
 | 25 | [I Want To Be Just Like You](https://open.spotify.com/track/7bNHXMLUgvoWzYwoKYQiSN) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Phillips Craig & Dean Ultimate Collection](https://open.spotify.com/album/3e9jhBdYfyqByIl3j282X8) | 5:34 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 64 | [I Still Believe in That](https://open.spotify.com/track/4x80O7HhUzxec2hAgWdvQ8) | [Ash Bowers](https://open.spotify.com/artist/2aJsgmclt9joQMsHMffCBr) | [I Still Believe in That](https://open.spotify.com/album/0u3WForpl37yjNBo7gllCa) | 3:26 |
 | 65 | [Stealing Cinderella](https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Stealing Cinderella](https://open.spotify.com/album/1tlxI1SGhyybdGhG15ByTT) | 4:02 |
 
-Snapshot ID: `MTY1NDkwMzEyOSwwMDAwMDAwMDQxMjUxZTc5NDQ3M2QxMGJhNWRiOTAxNTM4YTE1NTU5`
+Snapshot ID: `MTY1NDkwMzEyOSwwMDAwMDAwMDlkOWIxNjNkNWRjZTUxZDIyNTczYjMxODlhY2IzOTUw`

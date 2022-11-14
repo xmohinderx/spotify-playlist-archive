@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 262105,
       "name": "Free (Sounds for Healing)",
       "url": "https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa"
@@ -3710,6 +3710,28 @@
     },
     {
       "album": {
+        "name": "Super Morio",
+        "url": "https://open.spotify.com/album/2ZPizhglbQL7gSabTZFQnP"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "Sexting",
+      "url": "https://open.spotify.com/track/0x2RvkOr2bVggUZqbHNu8g"
+    },
+    {
+      "album": {
         "name": "Sexting",
         "url": "https://open.spotify.com/album/5uhsC5W2nibe1ucp2d6hnH"
       },
@@ -3725,7 +3747,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 256786,
       "name": "Sexting",
       "url": "https://open.spotify.com/track/1znPVhURyqTfyRpEYK7xxO"

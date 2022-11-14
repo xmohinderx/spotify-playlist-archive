@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Cruza
 
-4,441 songs - 10 day 20 hr 52 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,442 songs - 10 day 20 hr 56 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3666,7 +3666,8 @@
 | [Surprises](https://open.spotify.com/track/6hCTlhKdowJWuJeJXpL3Mk) | [Sadie Hawkins](https://open.spotify.com/artist/3xi1MRuWu2m9XDZPMZgmTo) | [Sadie Hawkins II](https://open.spotify.com/album/741ydD3uXPznK4fM7PKGmJ) | 3:42 | 2021-04-24 | 2021-06-26 |
 | [Surreal](https://open.spotify.com/track/6RRlA5SD0HgVVFtzaEIu7k) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Grand Plan](https://open.spotify.com/album/0OiP7DFcv3L9ERkVz4HyeF) | 3:06 | 2020-08-21 | 2020-10-02 |
 | [Survivor](https://open.spotify.com/track/2eeOF8wsCKNPmbCqg855TH) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [KULTARGOTBOUNCE](https://open.spotify.com/artist/4AVBIZZuqtat8RReyNdqck) | [Survivor](https://open.spotify.com/album/3oFne2pyrJPuUNXYFISuXs) | 2:58 | 2021-04-10 | 2021-05-29 |
-| [Suzie](https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Suzie](https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm) | 3:40 | 2022-10-07 |  |
+| [Suzie](https://open.spotify.com/track/3sFlkMdxtWPl2W8dxUSaLe) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies \(Expanded Edition\)](https://open.spotify.com/album/2VmTLrSKQiMAW8lRzP9k4d) | 3:40 | 2022-11-11 |  |
+| [Suzie](https://open.spotify.com/track/7KzZ1f667FYKudSIst9paz) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Suzie](https://open.spotify.com/album/6uAV69hWf44gJa8BcLKZFm) | 3:40 | 2022-10-07 | 2022-11-14 |
 | [SW3](https://open.spotify.com/track/0XSdLhOG4YnGbjxNPxA0fi) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Aestival](https://open.spotify.com/album/50JIckkBImsEkUEAvM0Gvu) | 3:23 | 2021-09-25 | 2021-11-20 |
 | [Sway](https://open.spotify.com/track/5wtVeq83VOW0mNdhhxKS6k) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Sway](https://open.spotify.com/album/5LOXRsMFuKebFhlkGvqfyO) | 4:01 | 2020-03-27 | 2020-04-18 |
 | [Sweater](https://open.spotify.com/track/5rafZNivcMlqqUkOahVnDv) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Sweater](https://open.spotify.com/album/3QwkFohBkqJ62cOOTwL1pZ) | 11:29 | 2020-02-08 | 2020-02-28 |

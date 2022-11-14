@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Corey Calliet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474 likes - 59 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Avalanche](https://open.spotify.com/track/7MPZAgVQfYfBAvqDNAh5Ua) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Quavo's Way\)](https://open.spotify.com/album/0b4adjowyWWFk4NhRfNWpq) | 3:26 |
+| 1 | [Avalanche](https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:26 |
 | 2 | [Roadrunner](https://open.spotify.com/track/5DxA8tzKieKkOrvKnCrADi) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:16 |
 | 3 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 |
 | 4 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6edLYxYHo9.md) - [plain]
 | 58 | [Moon Rock](https://open.spotify.com/track/7bTH8LgGSwyNNE4r1k95Zp) | [Huncho Jack](https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Huncho Jack, Jack Huncho](https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1) | 2:31 |
 | 59 | [RERUN \(feat\. Travis Scott\)](https://open.spotify.com/track/0JYAsQJWIuaYUvZGF1qapT) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 3:56 |
 
-Snapshot ID: `MTY0MjAwMTEwMywwMDAwMDAwMDk4NDIyN2JkMTI2Y2Q2OTQ5Nzk4YmU5ODkyOGFkN2I0`
+Snapshot ID: `MTY0MjAwMTEwMywwMDAwMDAwMDFiZTAzNDcxMzVlZTFiZWFiOTkxMjRhYjljMTY1MTQx`

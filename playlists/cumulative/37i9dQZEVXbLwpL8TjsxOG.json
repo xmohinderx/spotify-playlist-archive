@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 211666,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 193495,
       "name": "KICK BACK",
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
@@ -7034,6 +7034,24 @@
     },
     {
       "album": {
+        "name": "\u6500\u4e0a\u5929\u68af\u7684\u879e\u87fb (\u96fb\u5f71 \u300a\u904e\u6642.\u904e\u7bc0\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/63uXlV6CWOZGDhf7SRTMzA"
+      },
+      "artists": [
+        {
+          "name": "Edan \u5442\u7235\u5b89",
+          "url": "https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263226,
+      "name": "\u6500\u4e0a\u5929\u68af\u7684\u879e\u87fb (\u96fb\u5f71 \u300a\u904e\u6642.\u904e\u7bc0\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/2Z0nzG4jTLJCTx69vvrLCb"
+    },
+    {
+      "album": {
         "name": "\u65e5\u51fa\u6642\u8b93\u8857\u71c8\u5b89\u7761",
         "url": "https://open.spotify.com/album/6ObjdJaVenfMHwA8EYu7Za"
       },
@@ -7572,6 +7590,24 @@
     },
     {
       "album": {
+        "name": "\u6c38\u9806\u885739\u865f",
+        "url": "https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280149,
+      "name": "\u6c38\u9806\u885739\u865f",
+      "url": "https://open.spotify.com/track/3b4dQtIVyVhQdbYVfrik0k"
+    },
+    {
+      "album": {
         "name": "\u6c61\u7cdf\u5152",
         "url": "https://open.spotify.com/album/3cAI5qxC8Tk84aCtlyVISB"
       },
@@ -7937,7 +7973,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 196235,
       "name": "\u795d\u798f",
       "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
@@ -8463,7 +8499,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 194161,
       "name": "\u8a85\u795e\u7684\u9ec3\u660f",
       "url": "https://open.spotify.com/track/03X5mJ8tnBFh9pMMnXrAck"

@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 456565,
+  "num_followers": 456726,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGNkM2VhMDU5YTBiYTdlNjg1ZDQ3ZDc2OTJmYjFlNjE0",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMDcwODYxNTZjMDdjZGM3MDZmYzJkNmQ0YzFhZDdjYTk1",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -115,18 +115,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Wild Cherry",
-        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
       "artists": [
         {
-          "name": "Wild Cherry",
-          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 300000,
-      "name": "Play That Funky Music",
-      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -143,6 +143,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Wild Cherry",
+        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+      },
+      "artists": [
+        {
+          "name": "Wild Cherry",
+          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Play That Funky Music",
+      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -179,22 +195,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "I Love To Love - The Best Of",
-        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
-      },
-      "artists": [
-        {
-          "name": "Tina Charles",
-          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "I Love to Love",
-      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Children Of The World",
         "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
       },
@@ -211,18 +211,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+        "name": "I Love To Love - The Best Of",
+        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Tina Charles",
+          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
+      "duration_ms": 183693,
+      "name": "I Love to Love",
+      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -239,6 +239,22 @@
       "duration_ms": 339320,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -289,22 +305,6 @@
       "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
     },
     {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "The Best Of Philadelphia International Records",
-        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
-    },
-    {
       "added_at": "2020-04-14 18:41:41",
       "album": {
         "name": "Nicolette",
@@ -319,6 +319,22 @@
       "duration_ms": 191773,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
+    },
+    {
+      "added_at": "2021-07-04 17:34:32",
+      "album": {
+        "name": "The Best Of Philadelphia International Records",
+        "url": "https://open.spotify.com/album/3H07uxfYAIqJqrKitWQGtZ"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/352zgXSWzF85TvLhzJ7kkK"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -351,6 +367,22 @@
       "duration_ms": 219933,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "More Monty",
+        "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
+      },
+      "artists": [
+        {
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/76709jfVPvKWp7ChPQjCk7"
     },
     {
       "added_at": "2021-07-04 17:34:32",
@@ -665,6 +697,26 @@
       "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
     },
     {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 386426,
+      "name": "Bad Luck (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
+    },
+    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Time Is Slipping Away",
@@ -731,26 +783,6 @@
       "duration_ms": 322386,
       "name": "Can't Fake the Feeling",
       "url": "https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 386426,
-      "name": "Bad Luck (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -839,6 +871,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "I Got the Melody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2R9rEVibO3wDnB950OThmj"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 325053,
+      "name": "Going Back to My Roots - 12\" Version",
+      "url": "https://open.spotify.com/track/41Mi2vvuSD01FvtlAQsaat"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Stronger Than Ever (Expanded Edition)",
         "url": "https://open.spotify.com/album/1KpU7ibCL9fRpFlFBAujxy"
       },
@@ -887,22 +935,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Disco Nights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
-      },
-      "artists": [
-        {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "Boogie Oogie Oogie",
-      "url": "https://open.spotify.com/track/1kt3FyvHIhZkYBgKjAiroE"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB"
       },
@@ -915,6 +947,22 @@
       "duration_ms": 204026,
       "name": "Holdin' Out for Love",
       "url": "https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Disco Nights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
+      },
+      "artists": [
+        {
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "Boogie Oogie Oogie",
+      "url": "https://open.spotify.com/track/1kt3FyvHIhZkYBgKjAiroE"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -951,22 +999,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Schlager Sommerhits",
-        "url": "https://open.spotify.com/album/3c2II7k3MZUzkeqv8hX5YU"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/4ys1qHPC7W8nfsDthaQ5nK"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Disco Party",
         "url": "https://open.spotify.com/album/7Kneel529obA7Qd9glamb4"
       },
@@ -995,38 +1027,6 @@
       "duration_ms": 237560,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Mellow Summer",
-        "url": "https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/5XKAAymi0ro0SO9JaXeuhQ"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Ultimate Jazzy Tunes",
-        "url": "https://open.spotify.com/album/7jSAvrndMhUTj7zPOV523Z"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 326346,
-      "name": "Going Back to My Roots - 12\" Version",
-      "url": "https://open.spotify.com/track/0RQeIRVdXW9MMI4Nw0PJpc"
     }
   ],
   "unique_name": "Soulful Disco",

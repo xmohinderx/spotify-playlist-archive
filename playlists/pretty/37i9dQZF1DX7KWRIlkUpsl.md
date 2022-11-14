@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 
 > From Songs About Jane to JORDI, find their latest releases here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,966,053 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,966,425 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 | 36 | [Wait](https://open.spotify.com/track/6AvfZXpbb6r35DfF7gHPRq) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:10 |
 | 37 | [Never Gonna Leave This Bed](https://open.spotify.com/track/4ucLHLiSjvkCz5Lr5dlVUj) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:16 |
 | 38 | [Beautiful Goodbye](https://open.spotify.com/track/62FOsBpnZXEoPc1Qo9hcap) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed \(Deluxe\)](https://open.spotify.com/album/2pjfMmH52fryXVQuWTWOgP) | 4:15 |
-| 39 | [Lost Stars](https://open.spotify.com/track/6gSZ5fwtqtBlt5Eww0dCA6) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [My Karaoke Night](https://open.spotify.com/album/3VI1kpE6nkuqLnejp2VxKM) | 4:27 |
+| 39 | [Lost Stars](https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Lost Stars](https://open.spotify.com/album/2BSWHdGzkcZlhQmZKaNyOF) | 4:27 |
 | 40 | [It Was Always You](https://open.spotify.com/track/2PLo8T3kGE9URFvBy3tUdt) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:59 |
 | 41 | [Feelings](https://open.spotify.com/track/2dyyOwe0KxTZTJjjXDeLmU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:14 |
 | 42 | [Just A Feeling](https://open.spotify.com/track/2t2CoOfwakFAexhvMmWtTb) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KWRIlkUpsl.md) - [plain]
 | 49 | [Cold \- Ashworth Remix](https://open.spotify.com/track/6aWmyJZAdn1YbQuofR2zaY) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Ashworth](https://open.spotify.com/artist/3pcGjcfEW3YD2Hfk6tDR5S) | [Cold \(Ashworth Remix\)](https://open.spotify.com/album/7sYuwZsIyf3BL5C3h2EhgV) | 4:02 |
 | 50 | [Give A Little More](https://open.spotify.com/track/2TRuBFYZYw0Q7qIVBhqR1T) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:00 |
 
-Snapshot ID: `MTYyNjA1NzIyNCwwMDAwMDAwMDE2YTBjNWI0MDgwMzYyNDRjMmMwYjhkMmU3ZDRkM2Ji`
+Snapshot ID: `MTYyNjA1NzIyNCwwMDAwMDAwMGMwZGM4YjljOWYwZWM4YTkyYmU5MmI0NjM1NDg1MWFh`

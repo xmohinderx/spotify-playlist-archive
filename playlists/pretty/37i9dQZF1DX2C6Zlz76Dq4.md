@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\.  Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,818 likes - 141 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,333 likes - 141 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 80 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1VlcOoddCauF3kbl5tljN3) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Let There Be Peace On Earth](https://open.spotify.com/album/6VYEg0G3aXwANUdI9knq1r) | 4:02 |
 | 81 | [White Christmas](https://open.spotify.com/track/2li6LRcI9F3KCuT0oRGprh) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Classic Christmas Album](https://open.spotify.com/album/270qabVGN0kCo2SJQn5a72) | 3:20 |
 | 82 | [With Bells On](https://open.spotify.com/track/1kZT0qJj4BnGIc5hXYap6I) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 2:40 |
-| 83 | [Country Christmas](https://open.spotify.com/track/2lLj7s8HDHC1xfou2mmt3X) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Chill Rock Christmas](https://open.spotify.com/album/0L53cOrWRzb5nwTSHt7zSQ) | 2:06 |
+| 83 | [Country Christmas](https://open.spotify.com/track/4jBeYXnsJaNvsNmc7vhDkw) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Country Christmas](https://open.spotify.com/album/1yk8In8WNPY2Sytyp8KKZZ) | 2:06 |
 | 84 | [Holly Jolly Christmas](https://open.spotify.com/track/2sZkqb7HSlNCu5DgIbrKNV) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Christmas with Scotty McCreery](https://open.spotify.com/album/7xY3dwj2terBE72lfMF0U6) | 2:28 |
 | 85 | [Andy and Opie Christmas](https://open.spotify.com/track/0ZnxCkgmA7AbT4MDtNkBES) | [Charlie Monk & Jim Weatherly](https://open.spotify.com/artist/6bPQp6jZKIQzkITirmMLmu) | [Andy and Opie Christmas \- Single](https://open.spotify.com/album/70UoBt7nKnFxc01MPWqGNk) | 4:27 |
 | 86 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/22TSZfm9GWU2JHqbqbWBO2) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [An Old Time Christmas](https://open.spotify.com/album/1Qzf0DMEMbVw1ATW7uYdZ9) | 2:39 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 140 | [Medley: Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 |
 | 141 | [White Christmas](https://open.spotify.com/track/5Df57NkKjeclTvTNngwwgy) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Christmas With Chet Atkins](https://open.spotify.com/album/1gBNqRTkKueSXnU7FJwezN) | 2:20 |
 
-Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDIxZTg3ZmI2MWM5Y2RhNjYxYWNjNTdlZjc3OTdhMDNj`
+Snapshot ID: `MTY2NzUzNDQwMCwwMDAwMDAwMDg3NWZhMzFlZWEzNzE0YjU2ZjI3NzkxNzJkM2Y0OGNl`

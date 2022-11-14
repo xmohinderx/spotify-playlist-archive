@@ -1,12 +1,12 @@
 {
   "description": "Songs from all genres get a punk rock makeover.",
-  "num_followers": 307656,
+  "num_followers": 307742,
   "original_name": "Covered In Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYwMjgyMSwwMDAwMDAwMDg0YTk5ODk3YTc2NGRlMzM3YWI2YTMxNmU2NWYwYTcw",
+  "snapshot_id": "MTYzMDYwMjgyMSwwMDAwMDAwMGI3ZGM4OWRkNDgwYjZjNjk2OThmNTBhNDA4NzJiMDY4",
   "tracks": [
     {
       "added_at": "2021-03-19 13:45:04",
@@ -39,6 +39,22 @@
       "duration_ms": 229173,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "Punk Goes Pop, Vol. 7",
+        "url": "https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/5rQQaAUU86ulQ4uZIyS1hp"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -251,6 +267,26 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
+        "name": "Hazy Shade of Winter (feat. Ray Toro)",
+        "url": "https://open.spotify.com/album/4NBFFGWZqYd06XlBPEmgMX"
+      },
+      "artists": [
+        {
+          "name": "Gerard Way",
+          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
+        },
+        {
+          "name": "Ray Toro",
+          "url": "https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Hazy Shade of Winter (feat. Ray Toro)",
+      "url": "https://open.spotify.com/track/1tBZnhDT8xbgJTs43FiqrD"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
         "name": "Punk Goes Pop, Vol. 6",
         "url": "https://open.spotify.com/album/1l6S45U20fiob98cV6siw8"
       },
@@ -319,26 +355,6 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "Hazy Shade of Winter (feat. Ray Toro)",
-        "url": "https://open.spotify.com/album/4NBFFGWZqYd06XlBPEmgMX"
-      },
-      "artists": [
-        {
-          "name": "Gerard Way",
-          "url": "https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5"
-        },
-        {
-          "name": "Ray Toro",
-          "url": "https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Hazy Shade of Winter (feat. Ray Toro)",
-      "url": "https://open.spotify.com/track/1tBZnhDT8xbgJTs43FiqrD"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
         "name": "I Think We're Alone Now",
         "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
       },
@@ -395,6 +411,22 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
+        "name": "Drops of Jupiter",
+        "url": "https://open.spotify.com/album/2PageYu8AaaivgbJzwCvuj"
+      },
+      "artists": [
+        {
+          "name": "With Confidence",
+          "url": "https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav"
+        }
+      ],
+      "duration_ms": 244345,
+      "name": "Drops of Jupiter",
+      "url": "https://open.spotify.com/track/32tZzOvxYJCdWldAiPp6Ru"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
         "name": "Save That Shit",
         "url": "https://open.spotify.com/album/2ye7jsAZu0DuUHjrG5bUY9"
       },
@@ -407,6 +439,22 @@
       "duration_ms": 216509,
       "name": "Save That Shit",
       "url": "https://open.spotify.com/track/7xsP4KbYxGu47YKaQAsQhs"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/7auwTWtwEbgjQ0a0j4iKFX"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 163371,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/4cMHd2gshJTtOVzcxJB2x6"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -443,34 +491,18 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/7auwTWtwEbgjQ0a0j4iKFX"
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
       "artists": [
         {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 163371,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/4cMHd2gshJTtOVzcxJB2x6"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
-        "name": "XO Tour Llif3",
-        "url": "https://open.spotify.com/album/0sGrr63eLGmDyx2iRclNPR"
-      },
-      "artists": [
-        {
-          "name": "Driveways",
-          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
-        }
-      ],
-      "duration_ms": 180882,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/2T1OgnCnRWulJPXYhXqwNt"
+      "duration_ms": 269946,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -491,6 +523,22 @@
       "duration_ms": 188757,
       "name": "Kids in America",
       "url": "https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "XO Tour Llif3",
+        "url": "https://open.spotify.com/album/0sGrr63eLGmDyx2iRclNPR"
+      },
+      "artists": [
+        {
+          "name": "Driveways",
+          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
+        }
+      ],
+      "duration_ms": 180882,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/2T1OgnCnRWulJPXYhXqwNt"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -579,22 +627,6 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "Crawling",
-        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Crawling",
-      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
         "name": "Your Graduation",
         "url": "https://open.spotify.com/album/25XnjAZVINPXDBeifHQxiJ"
       },
@@ -611,6 +643,22 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
+        "name": "Crawling",
+        "url": "https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Crawling",
+      "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
         "name": "Punk Goes 90's, Vol. 2",
         "url": "https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv"
       },
@@ -623,6 +671,38 @@
       "duration_ms": 180480,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/28DVBHTfrD0pFK5EpcwevN"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204972,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "Shape of my Heart",
+        "url": "https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 337946,
+      "name": "Shape of my Heart",
+      "url": "https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -659,18 +739,18 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/796uBM2suTGG6K1395NAdK"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
         }
       ],
-      "duration_ms": 204972,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+      "duration_ms": 228420,
+      "name": "Real World",
+      "url": "https://open.spotify.com/track/0it1N64W6rvkZrAOh8zvdS"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -691,18 +771,18 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/796uBM2suTGG6K1395NAdK"
+        "name": "Kill us all",
+        "url": "https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF"
       },
       "artists": [
         {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
         }
       ],
-      "duration_ms": 228420,
-      "name": "Real World",
-      "url": "https://open.spotify.com/track/0it1N64W6rvkZrAOh8zvdS"
+      "duration_ms": 180000,
+      "name": "The kids aren't alright",
+      "url": "https://open.spotify.com/track/3v7u4pUZcvpxDtPgwMMh5u"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -719,22 +799,6 @@
       "duration_ms": 169714,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/6N3HXCGF9y76A9l5zJYeJe"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
-        "name": "Kill us all",
-        "url": "https://open.spotify.com/album/0oHclsVKO0voqIP0u2cifF"
-      },
-      "artists": [
-        {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The kids aren't alright",
-      "url": "https://open.spotify.com/track/3v7u4pUZcvpxDtPgwMMh5u"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -819,22 +883,6 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "Soak up the Sun",
-        "url": "https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN"
-      },
-      "artists": [
-        {
-          "name": "Sincerely, Me",
-          "url": "https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Soak up the Sun",
-      "url": "https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
         "name": "MakeDamnSure",
         "url": "https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq"
       },
@@ -847,6 +895,22 @@
       "duration_ms": 202919,
       "name": "MakeDamnSure",
       "url": "https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "Soak up the Sun",
+        "url": "https://open.spotify.com/album/437lF978Yeb1SZubuLRtJN"
+      },
+      "artists": [
+        {
+          "name": "Sincerely, Me",
+          "url": "https://open.spotify.com/artist/1zzb0p4HHnAI0MsOWFMdR8"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Soak up the Sun",
+      "url": "https://open.spotify.com/track/7jmeasfgUACycDwwC1JnE8"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -931,22 +995,6 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/315llMf2Y1p8xQeNetXnmC"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 211722,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3pEy3cfq0SyFDGKtuIE7V7"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty"
       },
@@ -959,6 +1007,22 @@
       "duration_ms": 187404,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/315llMf2Y1p8xQeNetXnmC"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 211722,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3pEy3cfq0SyFDGKtuIE7V7"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -1099,22 +1163,6 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "God's Plan",
-        "url": "https://open.spotify.com/album/2XON3q0rxChJJmPFbxXchs"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 189831,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/3xoQ3tTYJffg1xnxq6DUeX"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/0XPEgk2PMqXJJsqMLAEqx9"
       },
@@ -1127,6 +1175,22 @@
       "duration_ms": 216395,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/4TKXwzlxzqUeG2Rk9JfQZh"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "God's Plan",
+        "url": "https://open.spotify.com/album/2XON3q0rxChJJmPFbxXchs"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 189831,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/3xoQ3tTYJffg1xnxq6DUeX"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -1307,18 +1371,18 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "So Done",
-        "url": "https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv"
+        "name": "Look What You Made Me Do",
+        "url": "https://open.spotify.com/album/3i61YI0if4khSlVvMdp8BE"
       },
       "artists": [
         {
-          "name": "Five AM",
-          "url": "https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS"
+          "name": "Keeping Secrets",
+          "url": "https://open.spotify.com/artist/2Gp5P3qR66AP7AJ7firOB8"
         }
       ],
-      "duration_ms": 119799,
-      "name": "So Done",
-      "url": "https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt"
+      "duration_ms": 215624,
+      "name": "Look What You Made Me Do",
+      "url": "https://open.spotify.com/track/2z7EQG8IckuFX0vRCiW0kk"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -1335,6 +1399,22 @@
       "duration_ms": 149893,
       "name": "You're Dead / Vampire Ska",
       "url": "https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "So Done",
+        "url": "https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv"
+      },
+      "artists": [
+        {
+          "name": "Five AM",
+          "url": "https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS"
+        }
+      ],
+      "duration_ms": 119799,
+      "name": "So Done",
+      "url": "https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -1423,22 +1503,6 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "Someone That's Not You",
-        "url": "https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj"
-      },
-      "artists": [
-        {
-          "name": "I Call Fives",
-          "url": "https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70"
-        }
-      ],
-      "duration_ms": 193632,
-      "name": "How's It Gonna Be",
-      "url": "https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx"
       },
@@ -1451,6 +1515,22 @@
       "duration_ms": 201937,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB"
+    },
+    {
+      "added_at": "2021-03-19 13:45:04",
+      "album": {
+        "name": "Someone That's Not You",
+        "url": "https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj"
+      },
+      "artists": [
+        {
+          "name": "I Call Fives",
+          "url": "https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70"
+        }
+      ],
+      "duration_ms": 193632,
+      "name": "How's It Gonna Be",
+      "url": "https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533"
     },
     {
       "added_at": "2021-03-19 13:45:04",
@@ -1567,22 +1647,6 @@
     {
       "added_at": "2021-03-19 13:45:04",
       "album": {
-        "name": "I Won't Back Down",
-        "url": "https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR"
-      },
-      "artists": [
-        {
-          "name": "Alone I Walk",
-          "url": "https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc"
-        }
-      ],
-      "duration_ms": 158450,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
       },
@@ -1599,70 +1663,6 @@
       "duration_ms": 188880,
       "name": "Fake Friends (feat. Joan Jett)",
       "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
-        "name": "I Don't Love You",
-        "url": "https://open.spotify.com/album/5PPYEQoCKFqmR1a6RTPVlJ"
-      },
-      "artists": [
-        {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
-        }
-      ],
-      "duration_ms": 231771,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/5M9KGQXFPLFiSRC9Oo99JX"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
-        "name": "Fresh Produce",
-        "url": "https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG"
-      },
-      "artists": [
-        {
-          "name": "Seaway",
-          "url": "https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF"
-        }
-      ],
-      "duration_ms": 208618,
-      "name": "Hand in My Pocket",
-      "url": "https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
-        "name": "Two Tickets to Paradise (2006)",
-        "url": "https://open.spotify.com/album/2EKyluXV8ICyAfNiSI0WSG"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 195967,
-      "name": "Two Tickets to Paradise (2006)",
-      "url": "https://open.spotify.com/track/5iEoETZwnDZKepux6rixhT"
-    },
-    {
-      "added_at": "2021-03-19 13:45:04",
-      "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/3CuZMYOl73DPzfm8suzQ7v"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 201883,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/5rUY5iXXSZbuJJsmDb1QRU"
     }
   ],
   "unique_name": "Covered In Punk",

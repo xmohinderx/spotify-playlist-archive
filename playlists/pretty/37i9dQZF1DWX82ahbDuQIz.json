@@ -1,12 +1,12 @@
 {
   "description": "Musical songs from Broadway, the West End and beyond. Cover: Into The Woods",
-  "num_followers": 469252,
+  "num_followers": 469351,
   "original_name": "Best of Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGFiYTcxOGY3MzFjZjE2NDM4OTUwZTI3M2E4MzBmZGFi",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDc5ZWE2NWJkNmQ2OGZjZjhlMmQwMTczNGZiOGUzMjVj",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -115,10 +115,14 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Musikalfavoriter",
-        "url": "https://open.spotify.com/album/3hPp88Hh4aBUGTnuoZVZva"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2MWo0RliwlkObUN13r5ITR"
       },
       "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
         {
           "name": "Kristin Chenoweth",
           "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
@@ -126,11 +130,19 @@
         {
           "name": "Idina Menzel",
           "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
         }
       ],
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
-      "url": "https://open.spotify.com/track/4ZH7EG9IbZgJyVbBIciN2N"
+      "url": "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1703,8 +1715,8 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Mamma Mia",
-        "url": "https://open.spotify.com/album/1lx7DiPOfZARm0ROECcKFL"
+        "name": "Mamma Mia!",
+        "url": "https://open.spotify.com/album/6LFLGHU6Rw2sAMrjax6f5t"
       },
       "artists": [
         {
@@ -1736,9 +1748,9 @@
           "url": "https://open.spotify.com/artist/4psAP2Nyj5BmNqrAzTTlhx"
         }
       ],
-      "duration_ms": 200640,
+      "duration_ms": 201066,
       "name": "Mamma Mia - Remastered 1999 / From The Musical \"Mamma Mia\"",
-      "url": "https://open.spotify.com/track/2kQUGIvhXnnBvpOw4taoHE"
+      "url": "https://open.spotify.com/track/0yQIiFBjUYdFMMnnyQ2jB4"
     },
     {
       "added_at": "2022-10-28 04:01:00",

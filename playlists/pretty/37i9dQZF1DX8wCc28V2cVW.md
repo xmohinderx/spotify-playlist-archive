@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > FFVII REMAKE O.S.Tから楽曲追加！ 緻密な映像美と豊かな物語性で世界中から愛されている最高峰RPGシリーズ、ファイナルファンタジーの珠玉の名曲集。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,681 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,704 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 72 | [Fight With Seymour](https://open.spotify.com/track/5gzre3UAggakT1LBdmJLSk) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 5:46 |
 | 73 | [FINAL FANTASY \- FFXII Version](https://open.spotify.com/track/6xgYv6u3YWP70y308usFIN) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 1:16 |
 | 74 | [Something to Protect](https://open.spotify.com/track/1Q8r1VpWANopsO29Mx2vcq) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 2:21 |
-| 75 | [「Ronfaure」 from FINAL FANTASY XI \- original](https://open.spotify.com/track/0eaqUYX8ZYE76PU7hioyw4) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [DISSIDIA 012\[duodecim\] FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/0SefPud8XFXsUWQ5Sz6t8B) | 4:57 |
+| 75 | [Ronfaure](https://open.spotify.com/track/1EUGo3QcDXQSv0XKF8GIZK) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY XI Original Soundtrack](https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR) | 4:57 |
 | 76 | [The Price of Freedom](https://open.spotify.com/track/38is5TN1XgYdgymUG3hynP) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 3:41 |
 | 77 | [FINAL FANTASY XIII\-2 \- Wishes \-](https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:56 |
 | 78 | [The Extreme](https://open.spotify.com/track/575HenEhvSLhjbBLYFDp3D) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/4WWm1rNVQvvZoXwt495cQn) | 6:44 |
 | 79 | [Final Fantasy](https://open.spotify.com/track/5CkooXsljzvOXWdgLWP3i8) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 3:56 |
 | 80 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 |
 
-Snapshot ID: `MTYyMTYwNTUyMiwwMDAwMDAwMDI4MjlkZWQ2ZWE1NTFlYjMzZTZmNGMxMjFhMmZiMjkz`
+Snapshot ID: `MTYyMTYwNTUyMiwwMDAwMDAwMGQ2ZTg2M2Q2Mzg0OTcwY2FlODVmZmU0MTE3ODBjZDdh`

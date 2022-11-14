@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 
 > This playlist will sing your little ones to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,233 likes - 78 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,235 likes - 78 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 3 | [Rasung Consciousness](https://open.spotify.com/track/1IfsSgpOy1pLK7NfxMkn0k) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Lullaby Moods](https://open.spotify.com/album/7kD4T5Fl7A9YaSeDqxRLh9) | 2:20 |
 | 4 | [Jupiter](https://open.spotify.com/track/2dwO1dTgjx6bDIxHldwFGT) | [The Boy And The String Machine](https://open.spotify.com/artist/6vCDShB6lc6Ew6geXGjVNS) | [Astral Melody](https://open.spotify.com/album/1AMZ0gxW0txUGy754Kz7d2) | 3:39 |
 | 5 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
-| 6 | [Peaceful Steps](https://open.spotify.com/track/5gtXdxVPbcskjvWk39Hxwi) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Calm Evening \(Vol 1\)](https://open.spotify.com/album/0owL5Cz469wE4tQlz3WLRJ) | 3:22 |
+| 6 | [Peaceful Steps](https://open.spotify.com/track/0aYMZokpkck2E0q0tahWXX) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 3:22 |
 | 7 | [O Mio Babbino Caro](https://open.spotify.com/track/4cQ6f17oa7CaMuuoumZdSV) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Variations](https://open.spotify.com/album/2XzIVL7OmXQWpwdZDh7eqj) | 2:49 |
 | 8 | [The Deepest Well](https://open.spotify.com/track/2PGA57Sy2RDLAnO7azTXUS) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Older](https://open.spotify.com/album/3MFF1D8Z2a2XVXXG8TbUDS) | 3:14 |
 | 9 | [Serenity](https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va) | [Eva Slott](https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe) | [Serenity](https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm) | 2:19 |
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 23 | [First Flower](https://open.spotify.com/track/1qjLzirZt50H0f2vFYKRg9) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz) | 3:32 |
 | 24 | [Time For Reflection](https://open.spotify.com/track/35UsABanHui5IxzRVDTbhv) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/5OewMGijMVWGyfH9NjBcsn) | 3:25 |
 | 25 | [Dandelions](https://open.spotify.com/track/5x5FiSc99Lmplte6KTyk9N) | [Vincente M](https://open.spotify.com/artist/5cLnH6eBtJJnoJ0zChZqJA) | [First Flower](https://open.spotify.com/album/4z5M2r9PDsE5jz72rYMjvz) | 3:52 |
-| 26 | [Hopefull](https://open.spotify.com/track/5cPyC2nWvhSQBg92xY9Mzx) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Hopefull](https://open.spotify.com/album/7yujKM283pooTDd9bNEP6B) | 4:18 |
+| 26 | [Hopefull](https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:18 |
 | 27 | [Olvidado](https://open.spotify.com/track/18OvtoBWwAfDbrhUyIjMdN) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/6zkPu70oUFPTGpiKAdS4MZ) | 2:32 |
 | 28 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 |
 | 29 | [Purple Heart](https://open.spotify.com/track/2anhOZpTaoB2Ej5ULsHZ5Q) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:38 |
-| 30 | [Going Home](https://open.spotify.com/track/6pTnENq16nbEmWGlNImohz) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Time For Reflection](https://open.spotify.com/album/5OewMGijMVWGyfH9NjBcsn) | 2:54 |
+| 30 | [Going Home](https://open.spotify.com/track/0qRGPTsjcMT9EpxgMTOl1P) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 2:54 |
 | 31 | [Quiet Dreams](https://open.spotify.com/track/6jJkW2RUsOHCe4hiIk1tED) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Quiet Dreams](https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60) | 3:24 |
 | 32 | [Purple](https://open.spotify.com/track/5C0SsvmgrhMkqwdvhc4jEC) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Colors](https://open.spotify.com/album/7Dt87s0vmIHISzEMTuDAbE) | 3:28 |
 | 33 | [Heading West](https://open.spotify.com/track/1KDGb7d3PHIOI6bLWgLFfV) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Heading West](https://open.spotify.com/album/5JvZw6XCzqzELAYzeBRCIp) | 2:37 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LJDigq6rCa.md) - [plain]
 | 77 | [Ave Nocturne](https://open.spotify.com/track/4AyL8u1g3ruazEAlu1bllD) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Carousel](https://open.spotify.com/album/3eqF1XOrPSx3gXBhrc8YFV) | 3:24 |
 | 78 | [Judith](https://open.spotify.com/track/7jZ3B5pFQUy1CUgC0GIzyb) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Omkuld](https://open.spotify.com/album/3nz0L887xLbp5O6NqDzYgr) | 2:55 |
 
-Snapshot ID: `MTU3MjM1NjkwNywwMDAwMDAwMGQyODgwNDJmNWZkZTIzMDM2MjhkOWI5YmM0ZmRlMmQ4`
+Snapshot ID: `MTU3MjM1NjkwNywwMDAwMDAwMGY5NDJiMzI1MDFmYjQzYzg2MTIxMjA5OGM3ZDU4OWQ2`

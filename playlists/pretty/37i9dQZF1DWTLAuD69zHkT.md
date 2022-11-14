@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,717 likes - 76 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,736 likes - 76 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 33 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
 | 34 | [Please, Please, Please](https://open.spotify.com/track/3erYQ0r5OosuqfvWu88lD5) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Greyhound](https://open.spotify.com/album/3Q8ppUn0zZWnFS7fyvLRuY) | 5:25 |
 | 35 | [I Don't Live Any Where](https://open.spotify.com/track/1xFua1EOtJ7Xgtfl3HtDxI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:41 |
-| 36 | [Cold Rain](https://open.spotify.com/track/4RWrnsz4DQIyqRLOmpBHuj) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Vintage](https://open.spotify.com/album/7mB5LokobCWApqV3zoJYI8) | 5:46 |
+| 36 | [Cold Rain](https://open.spotify.com/track/4lx1OefOTwZqbVp4j5kBBg) | [Blues Company](https://open.spotify.com/artist/3zL5MUHZLeAAM2ZTSKQr9w) | [Blues, Ballads](https://open.spotify.com/album/58EIwvZRNocQghwEDsrhxx) | 5:46 |
 | 37 | [Bring on the Blues](https://open.spotify.com/track/3i4WJaPerBXW1Up1ZVGU5t) | [The Blues Band](https://open.spotify.com/artist/68GsFZshoiZmFCfcCv9ArW) | [So Long](https://open.spotify.com/album/2LQC92IPJ9amNY40rdKj5E) | 4:53 |
 | 38 | [Katie Mae](https://open.spotify.com/track/1in4BmFVbXmKCRs9IYbdD1) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:52 |
 | 39 | [Trouble In Mind](https://open.spotify.com/track/7173kTEVvoggnlkfzK04V5) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 3:38 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 43 | [The Sky Is Crying](https://open.spotify.com/track/3sMAzJIN9ruG2Nhf07FJeU) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 4:00 |
 | 44 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 45 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
-| 46 | [Salt In My Wounds](https://open.spotify.com/track/3gpcMzfOzzJXyLEOvyXnMZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 4:14 |
-| 47 | [Real Life Blues](https://open.spotify.com/track/1X546JwYhtG5SkowfO5GmW) | [Alvin Lee](https://open.spotify.com/artist/6R7WjUX7Fk4zHPEHSdqEkY) | [Zoom](https://open.spotify.com/album/3LLExJgs3DN4mV58vBYk3l) | 4:35 |
+| 46 | [Salt In My Wounds](https://open.spotify.com/track/5XtVpa3LiJHfnTxRzbfU74) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 4:13 |
+| 47 | [Real Life Blues](https://open.spotify.com/track/6J9m94KdbEr2g8FyJWAeFy) | [Alvin Lee](https://open.spotify.com/artist/6R7WjUX7Fk4zHPEHSdqEkY) | [The Anthology](https://open.spotify.com/album/2wejQk7Ks4bwmFKN3bGiYw) | 4:35 |
 | 48 | [Make It Rain](https://open.spotify.com/track/6eoilldRAmDz7IOEvFizIW) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [From Muscle Shoals](https://open.spotify.com/album/7Llh51MCW3JF6e7A56E5qq) | 4:51 |
 | 49 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 |
 | 50 | [New Stranger Blues \- Bonus Track](https://open.spotify.com/track/3c0a8SEFFik5s3OUTn1KXP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 5:39 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 75 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 76 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
 
-Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMDcyMTllNmUwNWI5MjAzNzFjMWZjY2YyNTFlMzY0MmUx`
+Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMDA2ZTZkNmZmNDU1MzRjNzcwOGNhOWM5OWE2OTVkNWM0`

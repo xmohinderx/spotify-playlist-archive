@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,409 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,436 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 6 | [Lux 2](https://open.spotify.com/track/5UMauUXLf6lWbi1eH6MdME) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [XYZ](https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO) | 3:31 |
 | 7 | [Babysitter \(feat\. Trent Reznor\)](https://open.spotify.com/track/6WiquOyTwUPnhFomdiPRzX) | [TOBACCO](https://open.spotify.com/artist/3ikKyCOrsMeANi0d5u8BCR), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma) | [Hot Wet & Sassy](https://open.spotify.com/album/4AwRfUkwwP6h8QSMl1Fzpt) | 2:17 |
 | 8 | [REACHUPDONTSTOP](https://open.spotify.com/track/50MQXEs1GS72XrNG4uXL2F) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [PLANET'S MAD](https://open.spotify.com/album/6uqNRIEzOXHDQRTXsOBqSW) | 4:00 |
-| 9 | [Monkey See...](https://open.spotify.com/track/4lv0QpXlhZi6gHQxjmwYhD) | [Aardvarck](https://open.spotify.com/artist/3JR7NAWvzkrZR3pKwrixS3) | [MEDi SELECTiON: VOL 1](https://open.spotify.com/album/7e7WmWHGgXgGqGcvAMMG8Z) | 5:47 |
+| 9 | [Monkey See...](https://open.spotify.com/track/42zqi6m9L89EPBIlBeQ16U) | [Aardvarck](https://open.spotify.com/artist/3JR7NAWvzkrZR3pKwrixS3) | [Monkey See...](https://open.spotify.com/album/50bZiYghbY2zlcMgoc3lX4) | 5:47 |
 | 10 | [Silkworm](https://open.spotify.com/track/4OnN0jEOJW4VVF4nvqvkAP) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Silkworm](https://open.spotify.com/album/3kmokPfbCakHuInhmWz1xp) | 5:25 |
 | 11 | [Foh](https://open.spotify.com/track/5KOzLFWT6o3ACbNmCC6gGU) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7) | [Drmtrk V](https://open.spotify.com/album/7n1cf3SUccyhmdDgCXRoog) | 4:06 |
 | 12 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMGY1NzJkZjAyYjJkYjUxOTdlYTAwOWZmNWZjMDY4MGM1`
+Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDRhNTA3NjhhNzQwN2E4NDkxZGQ5NzM3MThhODU1M2Y2`

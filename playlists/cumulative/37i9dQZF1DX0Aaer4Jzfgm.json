@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 398240,
       "name": "Piano Concerto in A minor, Op. 16: II. Adagio - Live",
       "url": "https://open.spotify.com/track/3gCYBFexR8dQZWeu4F15eu"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 398240,
       "name": "Piano Concerto in A minor, Op. 16: II. Adagio - Live",
       "url": "https://open.spotify.com/track/1s729fqMWssbspuRu8Fcgh"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 369333,
       "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": Eine kleine Nachtmusik, K. 525: Romance",
       "url": "https://open.spotify.com/track/5Zv2Z2PA3kIhyLL4uHpwWj"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 363973,
       "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": II. Romanze: Andante",
       "url": "https://open.spotify.com/track/7JAX6pO5DuIXQC68mCO6H8"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a"
@@ -1605,6 +1605,32 @@
       "duration_ms": 217320,
       "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
       "url": "https://open.spotify.com/track/5GvFoTt81kcLw6eEJlfCKT"
+    },
+    {
+      "album": {
+        "name": "Chopin: Classics for Commuting",
+        "url": "https://open.spotify.com/album/7psAsu3IHO8CigGXTj9a4D"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Alisa Weilerstein",
+          "url": "https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh"
+        },
+        {
+          "name": "Inon Barnatan",
+          "url": "https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Sonata In G Minor For Cello & Piano, Op. 65: 3. Largo",
+      "url": "https://open.spotify.com/track/5sRB3LrpSEQBVaNyFqSrZj"
     },
     {
       "album": {

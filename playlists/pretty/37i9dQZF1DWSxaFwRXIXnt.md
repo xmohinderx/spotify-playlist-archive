@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxaFwRXIXnt.md) - [plain]
 
 > Classic songs from Bollywood's badshah, Shah Rukh Khan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,062 likes - 57 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,239 likes - 57 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,6 +64,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxaFwRXIXnt.md) - [plain]
 | 54 | [Ae Mere Humsafar](https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 7:33 |
 | 55 | [Saanson Ki Mala](https://open.spotify.com/track/4R4qeCzwi3R9FtbQUFr48P) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Koyla \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45ZBSYUlEzu9NrpDBeVyWX) | 6:47 |
 | 56 | [Tu Mere Samne](https://open.spotify.com/track/08XzRV4mGjGwbpvYw68xBk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH) | 6:06 |
-| 57 | [Main To Hoon Pagal \(From "Baadshah"\)](https://open.spotify.com/track/3AL9Ccvpz5SthxG3yQY4ST) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Javed Akhtar's \- Bollywood Collection](https://open.spotify.com/album/0t4Uy11wbt8f6fVPtaB00a) | 5:40 |
+| 57 | [Jaata Hai Tu Kahan](https://open.spotify.com/track/407QycChulo2g2SfEqMopF) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 5:40 |
 
-Snapshot ID: `MTY2MzE1MDgzNiwwMDAwMDAwMGUwOTFmOTYzNDMxNTE0YzcxN2FlNjBkNWJiYjI4YWU1`
+Snapshot ID: `MTY2MzE1MDgzNiwwMDAwMDAwMDZlMWJiMjAwZmE4YjU4YzFlMThjYzY2MzAxMTgwOWQ0`

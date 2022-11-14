@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 
 > The jazz giant's classic recordings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,935 likes - 52 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,960 likes - 52 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 14 | [Afro\-Blue \- Live At The Half Note](https://open.spotify.com/track/3s4SpgPUXR1mNAwpu8N2GU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [One Down, One Up: Live At The Half Note](https://open.spotify.com/album/13vOj4n0shZtxuPqrw00iP) | 12:44 |
 | 15 | [How Deep Is The Ocean](https://open.spotify.com/track/7y7M0Qd8r37uhLLScSQUyB) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Interplay \[Box Set\]](https://open.spotify.com/album/1H7bSbmS2OprRnTd4xz0Xy) | 15:06 |
 | 16 | [Nature Boy](https://open.spotify.com/track/1HlfLVWYTIQZOoYOi1LdFy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Both Directions At Once: The Lost Album \(Deluxe Version\)](https://open.spotify.com/album/0NSRgubfAJoYv2kvVAcRKy) | 3:24 |
-| 17 | [Slow Dance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/74G8yz7cFEf1dL6YOt7Qo0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Plays For Lovers](https://open.spotify.com/album/5Rlg7WKYTNRjCdzJfr27H4) | 5:27 |
+| 17 | [Slow Dance](https://open.spotify.com/track/22aNvuEw7GdMarYLfYe6fm) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Turning Point](https://open.spotify.com/album/4k4GArOeURhbuSgwxr1K96) | 5:27 |
 | 18 | [A Love Supreme, Pt\. II \- Resolution](https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:17 |
 | 19 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |
 | 20 | [Theme For Ernie](https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Soultrane](https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg) | 4:53 |
 | 21 | [Aisha](https://open.spotify.com/track/0Haa5GeQyJJ9SjSqbqcXsT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Olé Coltrane \(Deluxe Edition\)](https://open.spotify.com/album/5BGkenbuo3xY3CRblRPj8K) | 7:45 |
 | 22 | [It's Easy To Remember](https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 2:45 |
-| 23 | [Time After Time](https://open.spotify.com/track/0QveeZLU5TCHg1vwDFqyNw) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Jazz Music](https://open.spotify.com/album/4YfZo49ctM0NJtk0nkUqqb) | 7:41 |
+| 23 | [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 |
 | 24 | [Lazy Bird](https://open.spotify.com/track/3HNhdvVw92awlT3gfqXIxW) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:07 |
 | 25 | [Lonnie's Lament](https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 11:47 |
 | 26 | [Everytime We Say Goodbye](https://open.spotify.com/track/6yuhA5jlK7gEAIVoJ5WK1f) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things \(Deluxe Edition\)](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) | 5:45 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 40 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
 | 41 | [Crescent](https://open.spotify.com/track/4m2KaJ4OXKkPcCKe1wb2Pc) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 8:44 |
 | 42 | [Lush Life \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1PLbGCU1s3imPfz7FZ4NI0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 13:57 |
-| 43 | [Alabama \- Live At Birdland Jazzclub, New York City, NY, 10/18/1963](https://open.spotify.com/track/3ggapxmTvaEhjH7CNqsHEP) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Gold](https://open.spotify.com/album/61teNuRPLzSa3JUCzTBHEx) | 5:08 |
+| 43 | [Alabama \- Live At Birdland Jazzclub, New York City, NY, 10/18/1963](https://open.spotify.com/track/013grywiX7Qu6WVfnJ1opa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Live At Birdland](https://open.spotify.com/album/3bFxBCBwFQ8WGRghgoUxaU) | 5:08 |
 | 44 | [My Shining Hour](https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 4:48 |
 | 45 | [Locomotion](https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:14 |
 | 46 | [All of You \- Live from Olympia Theatre, Paris \- March 1960](https://open.spotify.com/track/6Qpke1nLtW5lciSvWy87KS) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Final Tour: The Bootleg Series, Vol\. 6](https://open.spotify.com/album/3p6XK8PERkujtV6MRu7QH3) | 17:05 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx3vT1QCKCV.md) - [plain]
 | 51 | [Iris](https://open.spotify.com/track/4NiKtErEz8AzMHw6XzXhbm) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stellar Regions \(Expanded Edition\)](https://open.spotify.com/album/7mRUsJqMx3abxYEVch43bI) | 3:53 |
 | 52 | [Straight Street \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6fdLlJJC7D4wkeRVAXR6tK) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:17 |
 
-Snapshot ID: `MTY2Mzc2ODUxMCwwMDAwMDAwMDc4ZDI0NTY1NjgxZjNiMjU3MzE3NmU1OGQyMDFiYTk1`
+Snapshot ID: `MTY2Mzc2ODUxMCwwMDAwMDAwMDYyNDUyZDM4MDM1MWFjMTFiZDEzM2Y1ZDRiOWVjZDQw`

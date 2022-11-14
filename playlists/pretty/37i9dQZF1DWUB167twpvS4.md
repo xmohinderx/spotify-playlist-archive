@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,733 likes - 63 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,746 likes - 63 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 19 | [One Cup of Coffee](https://open.spotify.com/track/5XUiqQLF5mSkBs16ohiEXQ) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [The Glen Glenn Story / Everybody's Movin'](https://open.spotify.com/album/1F0JKGFuKdvtyzMujp3byF) | 2:03 |
 | 20 | [Rock Pretty Mama](https://open.spotify.com/track/08SmrLq3o5AE5da5RYS9Ao) | [Billy Adams](https://open.spotify.com/artist/5Td4CSGGe0oCwVHN5yLzKR), [The Rock\-A\-Teers](https://open.spotify.com/artist/6H6IG1FKsPAj4YURz8qTFb) | [Nau Voo Rock and Roll](https://open.spotify.com/album/5ANuYdTAkqfyOrr1Ex9Gyk) | 2:11 |
 | 21 | [Right Or Wrong](https://open.spotify.com/track/6yodxkUjWFbAE8VV4XkuDv) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:39 |
-| 22 | [The Fool](https://open.spotify.com/track/1OZhRZLUFzFUzDia1RuXgr) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Travelin' Man](https://open.spotify.com/album/0LCPRRtpMK4NMjOQw7vYnL) | 2:43 |
+| 22 | [The Fool](https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Presenting Sandford Clark](https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs) | 2:47 |
 | 23 | [Maybe Baby](https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The "Chirping" Crickets](https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq) | 2:02 |
 | 24 | [Rock Billy Boogie](https://open.spotify.com/track/4NazHwfKb4e9WSkFM2OC52) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Johnny Burnette And The Rock 'N Roll Trio](https://open.spotify.com/album/0WDDlUimET7qIVjs0Sm3mM) | 2:36 |
 | 25 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
@@ -50,18 +50,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 40 | [Be\-Bop\-A\-Lula](https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Dance To The Bop](https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR) | 2:36 |
 | 41 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
 | 42 | [Rocking Daddy](https://open.spotify.com/track/3C0ZwmtVVWu4Kr3jZQUyrr) | [Sonny Fisher](https://open.spotify.com/artist/610dsr0Z6BvX7oDf6S98vZ) | [De Nuevo Rock'n Roll Vol\. 2](https://open.spotify.com/album/05BBkukZpVtCYYv4oHVObJ) | 2:31 |
-| 43 | [Gone, Gone, Gone](https://open.spotify.com/track/5JddTJDwifCU5DK9CuqRYC) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Biggest Hits](https://open.spotify.com/album/3aFHMg9lTqV5iCPfYvWv1Z) | 2:43 |
+| 43 | [Gone, Gone, Gone](https://open.spotify.com/track/0QCeIQH7f19JsaSW0AQ9vF) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:36 |
 | 44 | [Wake up Little Susie](https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:03 |
 | 45 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:07 |
 | 46 | [Chantilly Lace](https://open.spotify.com/track/0o218zC3mFf0zqyiCR19We) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The "Killer" Rocks On](https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW) | 2:50 |
 | 47 | [Hello Mary Lou \(Goodbye Heart\)](https://open.spotify.com/track/0IMS1Za69G3KHMX4liB2Nr) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Love Songs](https://open.spotify.com/album/6B2Bk4rcGuYVjlMukQHJJL) | 2:19 |
 | 48 | [I Walk the Line](https://open.spotify.com/track/0SHqu1Nlm2Cu6eNbmxHvRA) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line](https://open.spotify.com/album/2xG5VLMFnDKhjJhsiJDcGm) | 2:34 |
 | 49 | [Chantilly Lace](https://open.spotify.com/track/07GtDOCxmye5KDWsTSACPk) | [The Big Bopper](https://open.spotify.com/artist/2gNK2HAaLVz5DZoD2moDQj) | [Chantilly Lace](https://open.spotify.com/album/4rjNs9o3EjMVQlwV7EuhGS) | 2:25 |
-| 50 | [I'm Sorry I'm Not Sorry](https://open.spotify.com/track/2s3TL8Ni5DhlnWU5xjmi8X) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [I'm Sorry I'm Not Sorry / Dixie Fried](https://open.spotify.com/album/1SkMfz25b6W2iml8HjtJ5j) | 2:25 |
+| 50 | [I'm Sorry I'm Not Sorry](https://open.spotify.com/track/6A0El1qrmKJdfbGzQp1dh2) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Blue Suede Shoes](https://open.spotify.com/album/120QlqCRbDq0MQdDBZa3c7) | 2:25 |
 | 51 | [Ready Teddy](https://open.spotify.com/track/1bqTuo0PxNAhitHnHcTHzV) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:32 |
 | 52 | [Mystery Train](https://open.spotify.com/track/0GvhHQbWSnGltjl0je61dI) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 2:24 |
 | 53 | [Singing the Blues](https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:25 |
-| 54 | [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/4JozHIQp7ZuG9RGgCJCmzl) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:33 |
+| 54 | [Drinkin' Wine Spo\-Dee\-O\-Dee](https://open.spotify.com/track/186zX1i9deC8ewXKMp1rDd) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Monsters](https://open.spotify.com/album/3AISe8rp8zrbn6uaH02Dxr) | 2:35 |
 | 55 | [Honey Don't](https://open.spotify.com/track/5wHNN87jPpD6ouu1pWegAj) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:24 |
 | 56 | [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 |
 | 57 | [That Ain't Nothin' but Right](https://open.spotify.com/track/3sMVMkzgfDTVxwIOe2Dodv) | [Mac Curtis](https://open.spotify.com/artist/4Ey70byCWxRScdGvCVgNJs) | [The Rollin' Rock Recordings, Vol\. 2](https://open.spotify.com/album/4rByIxbTk8ArEoS5kIqfS7) | 2:13 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 62 | [One Hand Loose](https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [His Complete King Recordings](https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC) | 2:24 |
 | 63 | [Home of the Blues](https://open.spotify.com/track/5E2Qj36FIrvGtOUl7XGBAe) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:38 |
 
-Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMGQ2NGU4YWY1Y2RmM2RlNGE0NjA2NzA2ODBmZTk5M2U2`
+Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMGU4NTYxZWI5MzYwOTJhZDc3MGU3MjMwNTU3NjIxMjEy`

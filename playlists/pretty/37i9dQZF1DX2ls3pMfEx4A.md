@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 
 > Songs that will make you and your kids laugh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,839 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,848 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 12 | [Disco Brain](https://open.spotify.com/track/4L0RJ6cJMEHKU6IThWg77v) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [GoNoodle Presents: Awesome Sauce \(Vol\. 1\)](https://open.spotify.com/album/6pEPcbShtQj5G5VMd2SUbz) | 1:15 |
 | 13 | [The Floor is Lava Song for Kids](https://open.spotify.com/track/5EYSpobhxemmxtmYpDEg33) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Floor is Lava Song for Kids](https://open.spotify.com/album/3kbwCxMvfrfMzmdELRWVTE) | 3:30 |
 | 14 | [Unicorn](https://open.spotify.com/track/4Plch4ujdrVLaWXw6rf4Qj) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Rob Castell](https://open.spotify.com/artist/51svJlUT5TwYFFJYEAdKdJ) | [Unicorn](https://open.spotify.com/album/7AUJqsGVT2AmB6uw4XU3DA) | 2:06 |
-| 15 | [Hot Potato](https://open.spotify.com/track/7GDLgYICHuTevdp8Kf7YjY) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Hit Songs and Rarities](https://open.spotify.com/album/0sNCyOvNDTgmzFhmfASPzz) | 1:19 |
+| 15 | [Hot Potato](https://open.spotify.com/track/0TQp3SpfrkWtGCyJJgMbHW) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Yummy Yummy](https://open.spotify.com/album/6APUHxy54plCcHLqrtI5sO) | 1:21 |
 | 16 | [The Poop Song](https://open.spotify.com/track/1V8nT86qgiQ1glQ916UIk7) | [The Toilet Bowl Cleaners](https://open.spotify.com/artist/4FWTPurcjxX0pupmhL2Hes) | [Still Farting, Pooping, Puking, and Peeing](https://open.spotify.com/album/1hgugZyplAFsHkL2XeXIIb) | 1:12 |
 | 17 | [Y.M.C.A.](https://open.spotify.com/track/45WZ2N9hK3b7KhOECCUGkh) | [The Minions](https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:55 |
 | 18 | [The Llama Song \- Live](https://open.spotify.com/track/1kFL0C3Dt4SCMl2SiUQn0X) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [Best Of GoNoodle](https://open.spotify.com/album/17qQDHKvpjpMkeZzLgxRrt) | 1:50 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ls3pMfEx4A.md) - [plain]
 | 50 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 51 | [B\-I\-N\-G\-O](https://open.spotify.com/track/4xdQOzApn01AUGHYjOOKEn) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [New Year's Eve 2021 with the Frenchies](https://open.spotify.com/album/5pL4VA9ZMhKEstafBfBGYF) | 1:57 |
 
-Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMGFiM2MwYWVhM2M4MWFmYTczMTg0YzRkM2Y3YTVmNTRh`
+Snapshot ID: `MTY0NzAxMTgzMywwMDAwMDAwMDcxOTVjMDY3ZjQwY2IwZWNhMTE0NjMyODM1ZDBjMjhm`

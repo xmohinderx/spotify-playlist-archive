@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©N,K/Q　©N,K/Q2　©N,K/GM
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,327 likes - 47 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,367 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [五等分の花嫁・水瀬いのりプレイリストコメント](https://open.spotify.com/track/1Y72VRNrNrpk2PnWtet0KA) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [五等分の花嫁・水瀬いのりプレイリストコメント](https://open.spotify.com/album/1tbEFvChqlpJxd4uRnBHSu) | 0:15 |
 | 2 | [Gotoubun no Kiseki](https://open.spotify.com/track/2AwBIdLN9ctHkCLSAMh27c) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki](https://open.spotify.com/album/5Q8K6uKltxF0H7qR6CTnoI) | 4:09 |
-| 3 | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/track/78HSZsNNtkyIDhxBCH5udx) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki EP](https://open.spotify.com/album/6M4WXN4sIFOjJOSqXtw17M) | 3:31 |
+| 3 | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/track/75DS9CHM2XEzxYrnsguHls) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \~Arigatou no Hana\~](https://open.spotify.com/album/3i7OhLd7xxZrOq16Cpg4zI) | 3:31 |
 | 4 | [Kimi no Egao Mitaikara](https://open.spotify.com/track/1R3DgZHjs5TvoQmwV5zO3w) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki EP](https://open.spotify.com/album/6M4WXN4sIFOjJOSqXtw17M) | 4:02 |
 | 5 | [Gotoubun no Kimochi](https://open.spotify.com/track/2GMEYAYcH1EyBp4ClpIgPE) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kimochi](https://open.spotify.com/album/7yxlH8ETeuBgY4TBJ75ynI) | 3:42 |
 | 6 | [五等分](https://open.spotify.com/track/0GbldhmNR0sqo0lq72lh1l) | [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [映画「五等分の花嫁」 オリジナル・サウンドトラック](https://open.spotify.com/album/5F2sSVV1saRB3feDpAnpEk) | 2:27 |
 | 7 | [Sign](https://open.spotify.com/track/3pUeCDzHNM0yHN0FoPEadN) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Ephemera](https://open.spotify.com/album/4sZTfQPwOERRFZJ75QZgsO) | 3:53 |
 | 8 | [Gobun no Ichi](https://open.spotify.com/track/10qqd7XJ1rVvF8slz7QASv) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kimochi](https://open.spotify.com/album/7yxlH8ETeuBgY4TBJ75ynI) | 4:50 |
-| 9 | [Gotoubun no Katachi](https://open.spotify.com/track/6tfgJuwfBs91JCWrWdhhtL) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi](https://open.spotify.com/album/7qXo4KEojDkNndoHFdXu8k) | 4:03 |
+| 9 | [Gotoubun no Katachi](https://open.spotify.com/track/32nW0L3AHrEasXxB4y4kt4) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 4:03 |
 | 10 | [Hatsukoi](https://open.spotify.com/track/6EnKh6904anMd7ACguRTZO) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Katachi / Hatsukoi \(Special Edition\)](https://open.spotify.com/album/0GIm93uEvIAQ75FCTXCkUL) | 5:14 |
 | 11 | [Love Vacation](https://open.spotify.com/track/0It7HiP4jYDYpeWGAaP3aV) | [Nakano Nino \(CV: Ayana Taketatsu\)](https://open.spotify.com/artist/3FukSXssXTJRXtrK0TC87I) | [Gotoubun no Kiseki EP](https://open.spotify.com/album/6M4WXN4sIFOjJOSqXtw17M) | 3:52 |
 | 12 | [Hello, Dear My Dream \~ Ichibyougo Niwa \~](https://open.spotify.com/track/14We9qeMGEvZzaaekKpVYs) | [Nakano Ichika \(CV: Kana Hanazawa\)](https://open.spotify.com/artist/0BkQLnAtAk3XvP6B0lTwpv) | ["Gotoubun no Hanayome" Character Song Mini Album](https://open.spotify.com/album/6B70H9uBz4zg3QGEyTAlQP) | 4:33 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 46 | [Gobun no Ichi \- Pandaboy Tropical House Edit](https://open.spotify.com/track/3HWSkhw5FHsAGdWLyO7N01) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/3ad7KbHVdttTlU8d6zhQu3) | 4:40 |
 | 47 | [Gotoubun no Kimochi \- Pandaboy Five Flowers Dance Edit](https://open.spotify.com/track/2XY5lwNbf4nagQhYRvzMIu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/3ad7KbHVdttTlU8d6zhQu3) | 3:48 |
 
-Snapshot ID: `MTY1MzQwNDQwMCwwMDAwMDAwMDk2MWYwYmVkMTE5ZGM5YzAxMzM5NDI5ZDE3MTQ1MWY0`
+Snapshot ID: `MTY1MzQwNDQwMCwwMDAwMDAwMGVhMzIyMTJjZjAyZTg1MjAyYWY3N2M2NWE0NmFkZmU3`

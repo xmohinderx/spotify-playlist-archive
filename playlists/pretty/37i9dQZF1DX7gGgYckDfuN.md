@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,060 likes - 44 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,058 likes - 44 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ファイルーズあい コメント](https://open.spotify.com/track/30bWgKYHsGECq5JbUqSAxQ) | [ファイルーズあい ボイスコメント](https://open.spotify.com/artist/4dlKSVK8ZQL819SWwpEwNt) | [ファイルーズあい ボイスコメント](https://open.spotify.com/album/3ZY4GpMESrino04Mxg3NIQ) | 0:17 |
 | 2 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 |
-| 3 | [Distant Dreamer](https://open.spotify.com/track/4VMajpAU5WVMiteA8HclBK) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/2OuWoPMcycxPMJVYc7o76n) | 5:05 |
+| 3 | [Distant Dreamer](https://open.spotify.com/track/1uqXrzulcVflfeZDHbyjIs) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 5:05 |
 | 4 | [Uragirimonono Requiem \- Diavolo Ver.](https://open.spotify.com/track/4CoTazwZS0VXFHgqgmVT85) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.3 Finare](https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI) | 3:44 |
 | 5 | [Modern Crusaders](https://open.spotify.com/track/65fqcmj2M1EiERwDoIflDt) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Screen Behind The Mirror](https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV) | 3:50 |
 | 6 | [incursione](https://open.spotify.com/track/0AEG8qKaw6Kj7tHZTuI4Oh) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.2 Intermezzo](https://open.spotify.com/album/4cLP1UgLCeyEenAts75zt3) | 2:25 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gGgYckDfuN.md) - [plain]
 | 43 | [Koukatsuna Nezumi](https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Stardust Crusaders O.S.T \~Nightwalk\~](https://open.spotify.com/album/6lzPBA2THFUoWnboi85aQC) | 3:15 |
 | 44 | [Canzoni preferite](https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 2:24 |
 
-Snapshot ID: `MTY0MDk2NjIxNSwwMDAwMDAwMDljNDVhMDA0NjQxZTQwNzg1MDE5MjcyMDkxZDMwNTYy`
+Snapshot ID: `MTY0MDk2NjIxNSwwMDAwMDAwMGEzNzY5YTljNDE5YjAzZDYwY2U4ZGMwOTMwNmY4NDRj`

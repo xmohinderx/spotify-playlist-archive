@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 128924,
+  "num_followers": 129318,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDMzZTVjMzgzODMxZDlmYzY4Y2M2YmNjY2Q1YzU5NzZm",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGFiMjI2ZjYyNjY1OGViMzk2NGJjNTE2MGVlYzZkYzZm",
   "tracks": [
     {
       "added_at": "2022-11-04 22:24:27",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-10-07 11:48:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "BACKROOM",
+      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
+    },
+    {
+      "added_at": "2022-10-07 11:48:00",
+      "album": {
         "name": "Scratch Paper",
         "url": "https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 145624,
       "name": "Flash Bang",
       "url": "https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO"
-    },
-    {
-      "added_at": "2022-10-07 11:48:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "BACKROOM",
-      "url": "https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi"
     },
     {
       "added_at": "2022-10-07 11:48:00",

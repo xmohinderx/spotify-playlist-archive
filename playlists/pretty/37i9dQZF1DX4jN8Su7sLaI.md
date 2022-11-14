@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. /自転車ロードレースアニメの金字塔、<a href="http://yowapeda.com/">『弱虫ペダル』</a>公式プレイリスト！©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,494 likes - 38 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,500 likes - 38 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 | 20 | [栄光への一秒](https://open.spotify.com/track/7dFE4eFmJnVExRqkUiJVLs) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [TVアニメ「弱虫ペダル GRANDE ROAD」 第2クール エンディング・テーマ「栄光への一秒」](https://open.spotify.com/album/3vJ7d8yNJ9f6UwhlpjDEt0) | 4:03 |
 | 21 | [Believer](https://open.spotify.com/track/00iJEqP9yfPE953xtpt2S5) | [LASTGASP](https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS) | [弱虫ペダル テーマソングアルバム](https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW) | 4:50 |
 | 22 | [限界の先](https://open.spotify.com/track/5N0xRd4JNfvntR7YN0Q8qE) | [沢田完](https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG) | [TVアニメ「弱虫ペダル NEW GENERATION」オリジナル・サウンドトラック](https://open.spotify.com/album/4K8itKzK58Bt26r93cq0WR) | 2:04 |
-| 23 | [はじまりの日々](https://open.spotify.com/track/60z9F2a52fM1PJcmQOdpx6) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [『弱虫ペダル SPARE BIKE』主題歌「はじまりの日々」/『BSスカパー! オリジナル連続ドラマ「弱虫ペダル」』主題歌「スキルフラワー」](https://open.spotify.com/album/2vQIZICXv3DpHWs6b8v9xJ) | 3:39 |
+| 23 | [はじまりの日々](https://open.spotify.com/track/0NEhEFk3CrVeoYtCSfgBlJ) | [MAGIC OF LiFE](https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ) | [Niemeyer](https://open.spotify.com/album/1Sh5Yv0oTXifF8oXgyOFme) | 3:41 |
 | 24 | [ケイデンス](https://open.spotify.com/track/2llVdRrltHCLKcIO8Vmleb) | [夏代孝明](https://open.spotify.com/artist/0fhTFborEMzRFyZIaVgz9r) | [TVアニメ「弱虫ペダル NEW GENERATION」オープニングテーマ「ケイデンス」](https://open.spotify.com/album/1gKsHNFY8OIEJUHp0yeBuc) | 4:17 |
 | 25 | [ALL FOR ONE](https://open.spotify.com/track/4dCeh7GVusg5NJyWea5NmP) | [今泉俊輔\(CV:鳥海浩輔\)](https://open.spotify.com/artist/6l0ihzxL9SQxFveCIESRi1), [金城真護\(CV:安元洋貴\)](https://open.spotify.com/artist/1b60JNECUGTk6J3yGP59N9) | [TVアニメ「弱虫ペダル」キャラクターソングアルバム](https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy) | 3:45 |
 | 26 | [トランジット](https://open.spotify.com/track/0fv2r0EZrKN4X70dyZZI7i) | [夏代孝明](https://open.spotify.com/artist/0fhTFborEMzRFyZIaVgz9r) | [TVアニメ「弱虫ペダル NEW GENERATION」第2クールオープニングテーマ「トランジット」](https://open.spotify.com/album/7zz9WzfZt0Oq1BvfTAqQCz) | 4:22 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 | 37 | [Link](https://open.spotify.com/track/6RoYQ8xtnD0iQLX91tjW7B) | [LASTGASP](https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS) | [弱虫ペダル テーマソングアルバム](https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW) | 4:29 |
 | 38 | [Dream Believer](https://open.spotify.com/track/28TmwytTJsmvkSfWgWIz1d) | [チーム総北 <小野田坂道\(cv.山下大輝\)、今泉俊輔\(cv.鳥海浩輔\)、鳴子章吉\(cv.福島潤\)、金城真護\(cv.安元洋貴\)、巻島裕介\(cv.森久保祥太郎\)、田所迅\(cv.伊藤健太郎\)>](https://open.spotify.com/artist/1b0DGO2FRixEDN9FerxtXI) | [TVアニメ「弱虫ペダル」オープニングテーマ「Be As One」](https://open.spotify.com/album/41D1qI7ozO3eTophC4TVWr) | 4:23 |
 
-Snapshot ID: `MTY2NzkyMTUzNCwwMDAwMDAwMDQ1ZjZiZTA0Mjg1NTg1NmE0ZmVmNWNmYTBkMWQxYTc5`
+Snapshot ID: `MTY2NzkyMTUzNCwwMDAwMDAwMDQ4Mzk0YzA5MDlhMmIwN2M5ZjI2NTkwOGFlOWJkOTAw`

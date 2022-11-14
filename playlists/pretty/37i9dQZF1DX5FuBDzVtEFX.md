@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,545 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,623 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 28 | [Pua Līlīlehua](https://open.spotify.com/track/5GkzttQpAANDySsUsbcjnk) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy: Ka Leo O Loko](https://open.spotify.com/album/5UQKxlzDDjcvHx9S003mgF) | 2:57 |
 | 29 | [Granada](https://open.spotify.com/track/7gFCvt8SGMlAFUOKDIgm6l) | [Harry Kalahiki](https://open.spotify.com/artist/74i5ZwoH6EtMk59EmKA6V6) | [Mungo Plays Ukulele](https://open.spotify.com/album/6Cw3epXSZzC8PgKCWG8Rdr) | 3:03 |
 | 30 | [Hawai'i Calls](https://open.spotify.com/track/1dwZB896AF0g3ycl4fWYPA) | [Bryan Tolentino](https://open.spotify.com/artist/61AkXSTVwtz4dLz6DMACpg), [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Friends](https://open.spotify.com/album/1652rH7CKlqwpdlR5T72v9) | 3:15 |
-| 31 | [The Last Desert Island](https://open.spotify.com/track/38lroBrr8nZTbR9k2BjjOE) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Tiki Music \- Hawaii \- Vol\. 2](https://open.spotify.com/album/7qcECDRvsYo4Q15KUdMPF1) | 2:59 |
+| 31 | [The Last Desert Island](https://open.spotify.com/track/2t2zjf0KwsvopZZGIDEmtZ) | [Harry Kalapana](https://open.spotify.com/artist/4RlhXutYr7cluJLYzDdjX8) | [Aloha Hawaii \- Hawaiian Guitar](https://open.spotify.com/album/74YxF21kujpq7BnpqbVo73) | 2:59 |
 | 32 | ['Imi Au Iā ʻOe](https://open.spotify.com/track/1wS8U8fR1jlx9h7CAUAPY9) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Mauna Kea \- White Mountain Journal](https://open.spotify.com/album/1sB7C55SKRkXJLy77kysfI) | 3:10 |
 | 33 | [Autumn Leaves](https://open.spotify.com/track/5IJFdFOVcBHYKe22GU52Ew) | [The Instrumentals](https://open.spotify.com/artist/3gd1L1WbjlI2vgC1FkJILM) | [Beach Vibes](https://open.spotify.com/album/0HKNaOlXaEp4NrSd9uU5S8) | 2:17 |
 | 34 | [Lyle Smiles](https://open.spotify.com/track/2IpvgYH32zrMwWeZgz7KxD) | [Jim Beloff](https://open.spotify.com/artist/3hbjLUSWxZHFrFoR2mcqU5), [Hal Blaine](https://open.spotify.com/artist/5W6Vbf1DmTUOpvsXq4lQFJ) | [Legends of the Ukulele \- Hawaiian Masters](https://open.spotify.com/album/4G5bv284EMfqp3RE98OD1b) | 2:53 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 55 | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss) | [Relaxation Guitar Maestro](https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC) | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG) | 4:47 |
 | 56 | [Yesterday](https://open.spotify.com/track/3SdPIwKA7dmxrYJIs63KCj) | [Winton Pearl](https://open.spotify.com/artist/5eM9121fISPjCeJjixEnqZ) | [You Are The Sunshine Of My Life](https://open.spotify.com/album/5gCYcWDJ34dH9oV2zWeaKi) | 2:35 |
 
-Snapshot ID: `MTY1MDAxOTk0MywwMDAwMDAwMDQ3YmRmNzQ1MjQ0MTNkYzJkMDk4NzczNDkyYTI0NjE1`
+Snapshot ID: `MTY1MDAxOTk0MywwMDAwMDAwMGU1NTAyNGE5NmQzZGY5ZmU3OTEyNjAyNDRhZTk0OWEx`

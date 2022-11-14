@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-311 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
+312 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [The day the sun rises high](https://open.spotify.com/track/17PU6zHFtFquyecyuk5F4Z) | [Lee ji yeon](https://open.spotify.com/artist/3YiHDjn1AdDIvSkC7g1rGn) | [The day the sun rises high](https://open.spotify.com/album/2OuDIQKqVeI4qxmFv6h7o3) | 2:39 | 2022-04-04 | 2022-04-20 |
 | [The Last \(feat\. Saebyuk, SIM2\)](https://open.spotify.com/track/66LFL6uaTT78pbRQvHXqDd) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Saebyuk](https://open.spotify.com/artist/3bwmvr8GLrXXyxFtbLTyuV) | [Seoul Vibes, Musk](https://open.spotify.com/album/3v05ZJ0R0RWlSbeMd3chSb) | 3:38 | 2021-12-28 | 2022-04-13 |
 | [The Moment](https://open.spotify.com/track/0kzMsG0ZhzeIw1EUecsHFD) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [The Moment](https://open.spotify.com/album/0lSIwRgmIxsiq27UWZyhT3) | 3:28 | 2022-04-04 | 2022-04-18 |
-| [The View](https://open.spotify.com/track/5FM1V3qjHroqsXRBbL57rW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:21 | 2022-07-04 |  |
+| [The View](https://open.spotify.com/track/5FM1V3qjHroqsXRBbL57rW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:21 | 2022-07-04 | 2022-11-14 |
 | [The View](https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:21 | 2021-12-06 | 2022-07-28 |
 | [Think Of You](https://open.spotify.com/track/5Hvi3XSS00txHgZB6UZhFl) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:18 | 2021-12-06 | 2022-07-29 |
 | [Throw \(Feat\. Jayci Yucca, Mirani\)](https://open.spotify.com/track/22UCPW2RO81TQl4sMApDlj) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [미란이 \(Mirani\)](https://open.spotify.com/artist/453XhIUlEOGaL8KpQk7OQh) | [BLUE](https://open.spotify.com/album/7EEfx1xcQctDkuLnsr4ygD) | 2:41 | 2022-02-07 | 2022-04-14 |
@@ -301,6 +301,7 @@
 | [what is life?](https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 3:10 | 2022-03-08 | 2022-07-28 |
 | [Who Am I](https://open.spotify.com/track/1ZIHII0gyHHyAqeyltgmwj) | [ROZY](https://open.spotify.com/artist/1uuPnVwyPg5YUqV5JNy0Xl) | [Who Am I](https://open.spotify.com/album/6qpO20n7B2yFAZeqcjy2yn) | 3:07 | 2022-02-28 | 2022-07-27 |
 | [Wind flower](https://open.spotify.com/track/2qwyjoSsSr3M7HTt611Q5O) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [BLUE;S](https://open.spotify.com/album/59QELOU685J1AMB2paryAx) | 3:56 | 2021-12-06 | 2022-07-27 |
+| [Winter Falls](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:55 | 2022-10-03 |  |
 | [Winter Falls](https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 3:55 | 2021-12-06 | 2022-07-29 |
 | [Wishlist](https://open.spotify.com/track/1xo0SABqJrTriyMb2JMtLg) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:11 | 2021-12-06 | 2022-07-29 |
 | [WOULD YOU RUN](https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [VENI VIDI VICI](https://open.spotify.com/album/3mQBrnm5x439zf6Fa5Zhic) | 3:24 | 2022-03-23 | 2022-04-15 |

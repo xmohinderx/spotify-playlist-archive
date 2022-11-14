@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the 80s disco era with these hits\. Cover\- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,721 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,761 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 13 | [Yaad Aa Raha Hai](https://open.spotify.com/track/5IaTFrbQzBb5buXeaZMfL8) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 6:22 |
 | 14 | [Chand Mera Dil Chandni Ho Tum, Pt\. 2](https://open.spotify.com/track/6A26Nz0zJTChY89NalwFl4) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Hum Kisise Kum Naheen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1BmhMHPlFzcnoAfOKECRcg) | 2:57 |
 | 15 | [Tere Kadmon Ko](https://open.spotify.com/track/4FGfZbABfMTuHGE6kgjMhY) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Песни из к/ф Диско Дива](https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1) | 3:32 |
-| 16 | [Kasam Paida Karnewale Ki \(From "Kasam Paida Karnewale Ki"\)](https://open.spotify.com/track/01oKlHUknDFQMFX1D33EfQ) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Workout With Retro Dance Hits](https://open.spotify.com/album/1dYwYo38D1VmML6mrIIp6F) | 6:23 |
+| 16 | [Kasam Paida Karnewale Ki](https://open.spotify.com/track/42d2S44fFDJpjS1qG4Pvod) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Kasam Paida Karnewale Ki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZoSahDz4EiFY4F79oyelY) | 6:23 |
 | 17 | [I Am A Disco Dancer](https://open.spotify.com/track/5IvBhmCrAHyNRIqBQ0n00Q) | [Vijay Benedict](https://open.spotify.com/artist/0LyiuqDYSPZCXAuEkPJ8jZ) | [Disco Dancer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S) | 7:47 |
 | 18 | [Aao Na](https://open.spotify.com/track/1wJpkjQe0KDIAQfT3QKUjX) | [Jolly Mukherjee](https://open.spotify.com/artist/1k86nyDLibfGQYpps8NKO0), [Sridevi Kapoor](https://open.spotify.com/artist/0OBz8mYBMe8tAG2drRn9ZV) | [Песни из к/ф Диско Дива](https://open.spotify.com/album/6mgRhaMMBZRmUVebgmWiM1) | 4:10 |
 | 19 | [Hari Om Hari](https://open.spotify.com/track/01XB8eBdOVeSzNGIRQqqv7) | [Usha Uthup](https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa) | [Pyaara Dushman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EGYsYtquqd98zUrLOn53B) | 6:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 49 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
 | 50 | [Tunak Tunak](https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD) | [Saira Nasim](https://open.spotify.com/artist/4l632n8KALACmPGRC0lqXi) | [Daku Rani](https://open.spotify.com/album/3V7kk7dsX8EUEu82UZ2UCQ) | 6:46 |
 
-Snapshot ID: `MTY1NDY4MjQ3OCwwMDAwMDAwMDQ1YjVjNWRjZjU2YzIzZTk3NjMwY2FkNTlkMzEwNGFh`
+Snapshot ID: `MTY1NDY4MjQ3OCwwMDAwMDAwMGJmYjA5ZjcyNDFlYWZlYzc2NGM5ODlmMjhjZTU5NjFl`

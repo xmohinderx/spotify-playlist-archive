@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,098 likes - 105 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,202 likes - 105 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 40 | [Comes and Goes](https://open.spotify.com/track/5Id1y11bJjZcp5sinq1KMb) | [Bobby, I Miss You](https://open.spotify.com/artist/37UWdRy8Gnj8oW9KvFuDYm) | [Comes and Goes](https://open.spotify.com/album/5HqzzZRCBuNttUPXu3U4kz) | 3:06 |
 | 41 | [Arrows](https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 2:29 |
 | 42 | [Stick with You](https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Uranium Heart](https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6) | 2:46 |
-| 43 | [Grace](https://open.spotify.com/track/0KTE4DDmnAJZBxrkEaqlem) | [Kitt Philippa](https://open.spotify.com/artist/7vdR3mj5oI4T6PbnhWcxcX) | [You](https://open.spotify.com/album/0f5hAHIxaTxfUay3GOoNJs) | 2:58 |
+| 43 | [Grace](https://open.spotify.com/track/2LeM1rT4s2MuLQ4qPNMuub) | [Kitt Philippa](https://open.spotify.com/artist/7vdR3mj5oI4T6PbnhWcxcX) | [Human](https://open.spotify.com/album/6PKj0a16vjtJAaL0Au78eQ) | 2:58 |
 | 44 | [Slumbr](https://open.spotify.com/track/5PQ1a1zxILh9ncbj2gwxEe) | [Zack Oke](https://open.spotify.com/artist/3M3KbaQtjT2PgdDLM85oqG), [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Sleepwalkers](https://open.spotify.com/album/16b9hC4l55WPqi5K3frIUI) | 2:42 |
 | 45 | [Your Love is Holy](https://open.spotify.com/track/7AKM1TrCMZZSksfSWQy7IU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 4:25 |
 | 46 | [Fish In The Sea](https://open.spotify.com/track/4riNrmjpo1rKNUF1aKIOt2) | [Charm of Finches](https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke) | [Your Company](https://open.spotify.com/album/27FXEeOoqwO8dVoKzxAUVK) | 4:33 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 104 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 |
 | 105 | [M](https://open.spotify.com/track/7kcMm8WE6jc5mVt2EATrV2) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 2:46 |
 
-Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDcxMjA3MGZkMmYzZjk5ZTc4OWE5YzZkYTNlZTYyMzNm`
+Snapshot ID: `MTY2MjA5MTI2MCwwMDAwMDAwMDVmODlhNTJiYTE5OGEwY2E3YTUxYWQ3ZmQzNDU1M2Ex`

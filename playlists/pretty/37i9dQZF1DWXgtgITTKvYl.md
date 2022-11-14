@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,411 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,448 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 17 | [Amnesty/Silver](https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK) | [Resilia](https://open.spotify.com/artist/5F5nhe5hMhJSGsULmNPeFW) | [Amnesty/Silver](https://open.spotify.com/album/3fZHaaKXm0PeQg3VhQyWWY) | 5:22 |
 | 18 | [Worlds Beyond \- English version](https://open.spotify.com/track/5MIpqy1hikpfckODOn1E9y) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu) | [Worlds Beyond \(English version\)](https://open.spotify.com/album/4zdr9AN102ytgCRNv9umnb) | 3:17 |
 | 19 | [Machines and Men](https://open.spotify.com/track/1lr87YIenNN9zdmQDACsUj) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [Machines and Men](https://open.spotify.com/album/55CrAJlqsxryfW0wiscp4v) | 9:54 |
-| 20 | [The Siren](https://open.spotify.com/track/7johOBc0316B5vEvbGidf1) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [The Siren](https://open.spotify.com/album/1ORb5QUdzt3oeaaJ9fBTVo) | 7:19 |
+| 20 | [The Siren](https://open.spotify.com/track/7iZ3bfgcXOfdteVX4q97ro) | [Bjørn Riis](https://open.spotify.com/artist/0itkMtdd5OVeG2FFDE7J6z) | [Everything To Everyone](https://open.spotify.com/album/1UL57EhWAkVMPrXXKQupu4) | 7:19 |
 | 21 | [The Dream](https://open.spotify.com/track/6LIIqVZuBG7FjZiQfLJTfz) | [Knight Area](https://open.spotify.com/artist/0fMZgh9eXEgjBq5X9f87NK) | [The Dream](https://open.spotify.com/album/0Vx9BHrCUB2GALTeytL6rN) | 5:00 |
 | 22 | [Blood Moon Night](https://open.spotify.com/track/4Z4RfWMnxsBG7Fs5KvEVGY) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z), [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [ELDOVAR \- A Story of Darkness & Light](https://open.spotify.com/album/2SN8LGMcmauPEAr4BLiT6e) | 11:04 |
 | 23 | [The Great Pretender](https://open.spotify.com/track/1M0efSydvXC2nvnuom88OB) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [The Great Pretender](https://open.spotify.com/album/3oz2p8bwC9E5A4bvmExyAQ) | 6:58 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 37 | [The Cynic](https://open.spotify.com/track/15Nl9URaaW0A3nQdzXZjxS) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/3KboReNemDz3MBYjWrgIWK) | 5:53 |
 | 38 | [Harridan](https://open.spotify.com/track/1mnAE4tnyYZaUGTiazDdmR) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR) | 8:07 |
 | 39 | [Zest](https://open.spotify.com/track/5KEPWv8U694JUye8sUSWWQ) | [Pelagos](https://open.spotify.com/artist/5791YwmwIl6tp7JMVKHVcn) | [Zest](https://open.spotify.com/album/6potYVC57bz0ScpEf2PeBd) | 4:49 |
-| 40 | [Fountainhead](https://open.spotify.com/track/51n85McBXIxLCKCUWvakYc) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades \(Deluxe Edition\)](https://open.spotify.com/album/6IIGmXZ78EtQTakhXh66k0) | 3:41 |
+| 40 | [Fountainhead](https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Escapades](https://open.spotify.com/album/3Q5EIihNcRQbuEFA2vGDGo) | 3:41 |
 | 41 | [Somber Aeons](https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [Unknown Heights](https://open.spotify.com/album/5S4nQWwcdVnWQwjjLUBbzX) | 6:12 |
 | 42 | [If You Deserve It, You Deserve It](https://open.spotify.com/track/4yshCbCvJUSPREjR1iAuni) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [If You Deserve It, You Deserve It](https://open.spotify.com/album/4TTGDY1fmeNNzDtzDcETzJ) | 3:18 |
 | 43 | [Act Like an Animal](https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Act Like an Animal](https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa) | 3:51 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 58 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 |
 | 59 | [Suffering](https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Suffering](https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG) | 5:51 |
 | 60 | [Raining Hard in Heaven](https://open.spotify.com/track/5uNzKTuYIIumgD63UyHbkV) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [Prehensile Tales](https://open.spotify.com/album/77hPi3aKn8PRfcyh7GUjqY) | 8:31 |
-| 61 | [Broken](https://open.spotify.com/track/54vAjEj8qRM4cwYCCQWb31) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/1xYzQiyuN22148NQClXDd0) | 6:47 |
+| 61 | [Broken](https://open.spotify.com/track/0ptQlbSYNp8yKAtHWKRB3f) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Islands](https://open.spotify.com/album/0cdFTrG6rPXUjcOhBpS6qH) | 6:47 |
 | 62 | [Keeping People as Pets](https://open.spotify.com/track/2Bs1pRSZh0imh8my3EczOC) | [Lonely Robot](https://open.spotify.com/artist/6QsBFBEWHLod7IqInyBOjJ) | [Keeping People as Pets](https://open.spotify.com/album/54tLhnUTtB5qX8w57Qmh8n) | 5:20 |
 | 63 | [In Dreams](https://open.spotify.com/track/4Wtd80eE4GyuzuwVMOxigs) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [In Dreams](https://open.spotify.com/album/6SySbe7lsj4wlbLjuv56pF) | 4:18 |
 | 64 | [Demons](https://open.spotify.com/track/5s51DrOIrHf7k8EtoqNUgN) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Demons](https://open.spotify.com/album/7bF7jvKnOsia2OcdNensBe) | 4:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 75 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 |
 
-Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDFhNzRlNTk2MzVjMDdhODRmZDk1MTE1NjdiNGNmZWRi`
+Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDBlZDU5MzlmNzJiZTJhODdmMWM0YWU4ZTVmODI4YTll`

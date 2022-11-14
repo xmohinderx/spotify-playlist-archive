@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,569 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,735 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 21 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 |
 | 22 | [Overdose](https://open.spotify.com/track/5NSPsOGVNWYOMeeyZPF7HY) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Overdose \- The 2nd Mini Album](https://open.spotify.com/album/3Nyhs0ZYxVmXDVfv4PLsqv) | 3:25 |
 | 23 | [Runaway](https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 |
-| 24 | [LOVE ME RIGHT \- Chinese Version](https://open.spotify.com/track/6Awz4ecCKYjc4H7ZwLDsog) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE ME RIGHT \- The 2nd Album Repackage \(Chinese Version\)](https://open.spotify.com/album/2f3klmjKxbM70Y1saespyj) | 3:25 |
+| 24 | [LOVE ME RIGHT](https://open.spotify.com/track/1kFevEv3s7Gf6o5xSDR5DL) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE ME RIGHT \- The 2nd Album Repackage](https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7) | 3:25 |
 | 25 | [Just as usual](https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:27 |
 | 26 | [Candy](https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:47 |
 | 27 | [Power](https://open.spotify.com/track/53YZi9zgTnF0Py0K6ejyWz) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE POWER OF MUSIC– The 4th Album ‘THE WAR’ Repackage](https://open.spotify.com/album/5yUlewRtRySsb77hEoTTIu) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 99 | [Made In You](https://open.spotify.com/track/30NvzcboJe3GQRIDkJM0k3) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:30 |
 | 100 | [You](https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [You](https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi) | 5:06 |
 
-Snapshot ID: `MTYyNzMwNTkwOCwwMDAwMDAwMDc1YTljOWQ4NWYwNDBmNzQ3ZTUyZDczNjEzZGU3NTEw`
+Snapshot ID: `MTYyNzMwNTkwOCwwMDAwMDAwMDFkOWRjNTU5NjAyY2JhYzk0OTY2ZWE1NTA1MTJkYmM5`

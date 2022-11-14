@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,204 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,210 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 37 | [Water Position](https://open.spotify.com/track/0xewZVFTSDqOri45S4MuSq) | [Hybrid Leisureland](https://open.spotify.com/artist/2BKGxQhaUFgd8xAIkd5yb4) | [Keeping track of the human race](https://open.spotify.com/album/5hX85Wm3Ul9fZOZGxNRntt) | 6:03 |
 | 38 | [Here as in Heaven](https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 8:19 |
 | 39 | [All Is Not Lost](https://open.spotify.com/track/1hxWqVqA9w1a8RiNgiU03u) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/0yqtrHyclhTchWJPvK3XvO) | 3:48 |
-| 40 | [Sun Eclipse](https://open.spotify.com/track/7yL0WjEZ1nMec510uy6VyO) | [Deep Sleep](https://open.spotify.com/artist/4gGGFclZZyED2i5BgzGAlD), [Lullabies for Deep Meditation](https://open.spotify.com/artist/7dJ05O9EOtFVROVfEEHBBc), [Musica para Dormir Dream House](https://open.spotify.com/artist/6qT095FGSoqAikk7INAJzX) | [Música Clásica para Bebés](https://open.spotify.com/album/0LZlw9VkGjo8LerCXIv0nE) | 1:52 |
+| 40 | [Sun Eclipse](https://open.spotify.com/track/2JuK7bIn9EAf0KOHL7LRuj) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Nature Sounds Nature Music](https://open.spotify.com/artist/2w5q7SKsUmpdUuyf5HOA2c), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J) | [Nature Meditation Music](https://open.spotify.com/album/2gWI9xDvQ9wDGow7Uxe5uY) | 1:52 |
 | 41 | [1A](https://open.spotify.com/track/7DBHgRCxyDh8G3p62yHd9g) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Monads](https://open.spotify.com/album/2qrEhYgAOyshZHr08hlMaf) | 1:41 |
 | 42 | [Dawn](https://open.spotify.com/track/5rFYyHoZgm6EaOw1NsHJP5) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Echoes Of Wonder](https://open.spotify.com/album/0DuV8V9ZQQ7LnD22evmLsd) | 2:31 |
 | 43 | [Holy Holy](https://open.spotify.com/track/4bAPk8AwHTAs5eMOt2yjbj) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 2:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 59 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
 | 60 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 
-Snapshot ID: `MTUzMDk4Mzk4MywwMDAwMDAwMGQzMjlhOGNiNDMxMTYwNWMyYjc2YWNmNWVjOThlOWJk`
+Snapshot ID: `MTUzMDk4Mzk4MywwMDAwMDAwMGYwMzA5OTQ0MzIyMTNmNzA1MDY4ZDAwYWUwMGFjZmY1`

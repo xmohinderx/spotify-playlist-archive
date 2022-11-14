@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 
 > Mellow out with this dub music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,319 likes - 52 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,349 likes - 52 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 7 | [Blood Money](https://open.spotify.com/track/1ZdnLZoguvZj5T8apkvX6t) | [10 Ft\. Ganja Plant](https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc) | [Bass Chalice](https://open.spotify.com/album/1SQnIX2WdFm8wmGikJpSSu) | 3:56 |
 | 8 | [Burru Saturday](https://open.spotify.com/track/36uWGGkp14f5WNIQaStgAM) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Blackwood Dub](https://open.spotify.com/album/0OX6gKGN8qW2dEjXCuWbFr) | 4:05 |
 | 9 | [Dub Of Excellence](https://open.spotify.com/track/4XbeYLrMzKzEQIY4IiJxGT) | [Mad Professor and Scientist](https://open.spotify.com/artist/06iQ6TH82zx4zV3PCsqMOO) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 2:24 |
-| 10 | [Screaming Target](https://open.spotify.com/track/1CdUusyZEdRcqBdWqZHva4) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Big Youth Speaks: Life Is Not an Easy Road](https://open.spotify.com/album/7xxG8iDbfmj6yiPFUA2B2Z) | 3:39 |
+| 10 | [Screaming Target](https://open.spotify.com/track/3MOAQQuIAzsGp13Ux9rEN9) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Screaming Target](https://open.spotify.com/album/0xpk3CbfeTZGLrHNTwFhsn) | 3:39 |
 | 11 | [So Jah Sey Dub](https://open.spotify.com/track/6e6ao104zNnDUeA4v8FN6H) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Kaya Dub](https://open.spotify.com/album/6XR63b4xn1zvqA8Dyy8tkC) | 4:20 |
 | 12 | [White Birds \- Instrumental Version](https://open.spotify.com/track/4AMIE42Vs2c0AhAoO1sJpr) | [Blundetto](https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y) | [Bad Bad Thing](https://open.spotify.com/album/75PPqLtADwkI4qSkOqVe6e) | 3:47 |
 | 13 | [Brothers and Sisters](https://open.spotify.com/track/2OLssDLdq7vwHOlhRe53Zy) | [Butch Cassidy Sound System](https://open.spotify.com/artist/5G63bkLymqmiaIkrUZExGG) | [Butches Brew](https://open.spotify.com/album/772bVEvhc7IUfBZALChmh6) | 4:35 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 38 | [Rude Boy](https://open.spotify.com/track/4f1GpbYe1TAYTS6NJkhr4Y) | [Prince Jammy](https://open.spotify.com/artist/2ofzePirTpSz2qzyVt1Eoe), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Dub Massive Vol\. 1](https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw) | 3:38 |
 | 39 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 40 | [Conquering Lion](https://open.spotify.com/track/14oeeDI2wQO396JduPaWpx) | [Yabby You](https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8) | [One Love, One Heart](https://open.spotify.com/album/4ZhtDrkN0vMmMR4VRpMsLs) | 3:21 |
-| 41 | [Sponji Reggae](https://open.spotify.com/track/0kXpteSMhbzhvgtvuDxd8e) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Summer Reggae](https://open.spotify.com/album/3Bq2Hgnn115mbiwCZ2Gm6c) | 4:54 |
+| 41 | [Sponji Reggae](https://open.spotify.com/track/1NeZjWdwvsEEDpHbuj54we) | [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Red](https://open.spotify.com/album/3evCEzHbkLPXuMqw9ISd3T) | 4:53 |
 | 42 | [Bad Days Dub](https://open.spotify.com/track/1yTU3DL2zuCdgINqtabaNh) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientific Dub](https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP) | 4:16 |
 | 43 | [Throw Away Your Gun \- 1991 Digital Remaster](https://open.spotify.com/track/65TNC2zSsAOnTcHcvZ1o76) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL) | [Dubwise](https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2) | 4:23 |
 | 44 | [Zion Gate Dub](https://open.spotify.com/track/0XDFYnvZANTULQxWofURlH) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [From The Palace Of Dub](https://open.spotify.com/album/0Tx1mUzIAdN43N7lMW2LUW) | 3:10 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udeSemCofA.md) - [plain]
 | 51 | [Hit the Road Jack](https://open.spotify.com/track/4EXKqlpnpSamlN1YgFGo0O) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Lov3](https://open.spotify.com/album/2LQ8WI3myWEdXPOsVoCYSb) | 3:10 |
 | 52 | [Dub To Africa](https://open.spotify.com/track/7pf8Z5F8XvsGbxAIC1SRRu) | [Prince Far I](https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL), [The Arabs](https://open.spotify.com/artist/0S2viS9F705zYKiMW13XeV) | [Dub To Africa](https://open.spotify.com/album/5SzyrmaXqCRRzTeQQAXi7i) | 3:19 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGExMGU3ZmQ0ZjM1MTdiYWViZDFlM2IyMmM3NDNiYWZh`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGMzZGE0ZDA5MjAzMDc1NGM5N2I1MmFhMWFlZjBlZWY5`

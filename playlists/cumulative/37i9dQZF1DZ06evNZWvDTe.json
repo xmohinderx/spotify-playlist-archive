@@ -262,6 +262,28 @@
     },
     {
       "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "Better Days (feat. BNXN fka Buju)",
+      "url": "https://open.spotify.com/track/0ou0qN9oPjJ442ZHrEksLx"
+    },
+    {
+      "album": {
         "name": "Biibi Ba",
         "url": "https://open.spotify.com/album/3hJsfFv0oVtUCjx3TXBEIv"
       },
@@ -569,10 +591,32 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 223157,
       "name": "Confam",
       "url": "https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi"
+    },
+    {
+      "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209708,
+      "name": "Cougar (feat. Lojay)",
+      "url": "https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA"
     },
     {
       "album": {
@@ -984,6 +1028,28 @@
     },
     {
       "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213861,
+      "name": "Forever (feat. Kranium)",
+      "url": "https://open.spotify.com/track/58ohyE1Axw6TJoIFqF90SV"
+    },
+    {
+      "album": {
         "name": "Gimme Way",
         "url": "https://open.spotify.com/album/6i77ZpMzy0E0jQzjs9zHg0"
       },
@@ -1179,7 +1245,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 35273,
       "name": "Highest, Pt. 1 - Interlude",
       "url": "https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o"
@@ -1894,7 +1960,7 @@
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 167041,
+      "duration_ms": 165818,
       "name": "One Million Cedis (feat. Ink Boy)",
       "url": "https://open.spotify.com/track/4eMTkiQRtQKzFgvE5tD4gN"
     },
@@ -2399,7 +2465,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 270601,
       "name": "Teef Teef",
       "url": "https://open.spotify.com/track/675Kfnzftrr18DztlsHekL"

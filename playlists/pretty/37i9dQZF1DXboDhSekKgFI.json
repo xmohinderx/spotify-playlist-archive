@@ -1,13 +1,29 @@
 {
   "description": "Los ni\u00f1os se volver\u00e1n locos por estas canciones de fiesta.",
-  "num_followers": 7813,
+  "num_followers": 7833,
   "original_name": "Fiesta para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NjkyOCwwMDAwMDAwMDhkOTE5N2Y3OTQ2YzAzMmI2ZjZhMGNkZWRhOWQ5NzQz",
+  "snapshot_id": "MTY1NzU3NjkyOCwwMDAwMDAwMDgwZTcxNzc2YmI1NWU5NzhkNThlMmUxZjEyY2IxNTJi",
   "tracks": [
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
@@ -247,6 +263,30 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Brendon Urie",
+          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+        },
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -293,30 +333,6 @@
       "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
     },
     {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Brendon Urie",
-          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
-        },
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
-      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
       "added_at": "2020-12-21 17:16:17",
       "album": {
         "name": "Amor Prohibido",
@@ -331,6 +347,22 @@
       "duration_ms": 172626,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "Madagascar: Escape 2 Africa (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "I Like To Move It",
+      "url": "https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM"
     },
     {
       "added_at": "2022-07-11 22:02:08",
@@ -449,54 +481,6 @@
       "url": "https://open.spotify.com/track/45WZ2N9hK3b7KhOECCUGkh"
     },
     {
-      "added_at": "2020-12-21 17:16:17",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "Best of 2022",
-        "url": "https://open.spotify.com/album/1ZfJoIH7xVP4DvFy2roaN9"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2c1vtJLXhWoqtGrXRUh8bb"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
-    },
-    {
       "added_at": "2020-04-27 17:12:16",
       "album": {
         "name": "The Lego Movie (Original Motion Picture Soundtrack)",
@@ -515,6 +499,22 @@
       "duration_ms": 163423,
       "name": "Everything Is AWESOME!!! (feat. The Lonely Island)",
       "url": "https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2"
+    },
+    {
+      "added_at": "2020-12-21 17:16:17",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -551,6 +551,22 @@
       "duration_ms": 160718,
       "name": "chiquita suelta",
       "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -607,22 +623,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 162400,
       "name": "Todos a Moverse",
       "url": "https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw"
     },
     {
       "added_at": "2020-05-01 15:21:35",
@@ -671,22 +687,6 @@
       "duration_ms": 200303,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "Kids Mega Hits 2021",
-        "url": "https://open.spotify.com/album/4ImJNhGABc7QgMXlN7IdEO"
-      },
-      "artists": [
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "I Like To Move It",
-      "url": "https://open.spotify.com/track/6iQL8Gf8tRk3J9MR3bymBq"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/24F2hfF3c2hx0wAzzP1NHn"
     },
     {
-      "added_at": "2021-09-20 18:41:54",
-      "album": {
-        "name": "Todo de Ti",
-        "url": "https://open.spotify.com/album/22OaXBrC2e3CrQ5Cgp6m2L"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 151226,
-      "name": "Todo de Ti",
-      "url": "https://open.spotify.com/track/5yLHW8TGZihPwravJTTrgu"
-    },
-    {
       "added_at": "2020-04-27 17:12:16",
       "album": {
         "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
@@ -819,6 +803,22 @@
       "duration_ms": 220833,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X"
+    },
+    {
+      "added_at": "2021-09-20 18:41:54",
+      "album": {
+        "name": "Todo de Ti",
+        "url": "https://open.spotify.com/album/22OaXBrC2e3CrQ5Cgp6m2L"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 151226,
+      "name": "Todo de Ti",
+      "url": "https://open.spotify.com/track/5yLHW8TGZihPwravJTTrgu"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -983,6 +983,22 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
+        "name": "Colorea Tu Portada Vol.25",
+        "url": "https://open.spotify.com/album/6B4ZCjw573fCJh94YZq6nV"
+      },
+      "artists": [
+        {
+          "name": "Banda Infantil",
+          "url": "https://open.spotify.com/artist/28qWzF1RMBH0ZJrSj20BdZ"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Chiqui Boom",
+      "url": "https://open.spotify.com/track/6QOEP25z7BqTTIK8Skyu7Z"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
         "name": "Canciones Infantiles",
         "url": "https://open.spotify.com/album/4yu4Wj0D2Jz2FNWuJplHIB"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 186146,
       "name": "Ser\u00e1 un D\u00eda Fenomenal (De \"Phineas & Ferb\")",
       "url": "https://open.spotify.com/track/2yKwySjvnUXeIQ4eqwBmFj"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "25 Canciones para Tu Fiesta",
-        "url": "https://open.spotify.com/album/69w578aTno2AX6FgH35g6j"
-      },
-      "artists": [
-        {
-          "name": "Max Down",
-          "url": "https://open.spotify.com/artist/0zErzsC0KT0tn7zeAXlGfr"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Chiqui Boom",
-      "url": "https://open.spotify.com/track/73dmFqBrBDahKiZjpzUydJ"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "KIDZ BOP 40",
-        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/18K0QPs7G0yPaDlz1W47bG"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Adelante",
         "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 205985,
       "name": "Speedy Gonzalez",
       "url": "https://open.spotify.com/track/11dG2Slr6F3a3UB7MHztvd"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/18K0QPs7G0yPaDlz1W47bG"
     },
     {
       "added_at": "2020-04-27 17:12:16",

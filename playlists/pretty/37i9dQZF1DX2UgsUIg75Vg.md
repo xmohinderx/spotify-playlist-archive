@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: DRAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281,919 likes - 115 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,282,277 likes - 115 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Rave and whine to the best of Soca with Nadia Batson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,344 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,373 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 25 | [Rum And Soca](https://open.spotify.com/track/1eIzpFnHthxY4lIE9QStVm) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Rum And Soca](https://open.spotify.com/album/36hTVbdi17Acx7ZGMXWc4O) | 3:37 |
 | 26 | [Leave It Alone](https://open.spotify.com/track/49dbEbAqvPYl1p24xo7J9d) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Leave It Alone](https://open.spotify.com/album/5cNr6YPKo8WgzaQ8COYEd5) | 3:06 |
 | 27 | [Love & Hate](https://open.spotify.com/track/0szjogw2vC9hu0VFYDPbdy) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Love & Hate](https://open.spotify.com/album/5yEDJLRBIB0qkIuh1Kqjil) | 3:53 |
-| 28 | [Fuh Days](https://open.spotify.com/track/7llViWOrkPKX9o3XDsUMvQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Riddim Direct: De Cure](https://open.spotify.com/album/5noZ0dKHCovxO05r7W6ddJ) | 2:43 |
+| 28 | [Fuh Days](https://open.spotify.com/track/2CZuVYS2Qj6yg3hfeeGoa6) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 2:44 |
 | 29 | [Peace of Mind](https://open.spotify.com/track/4lTpmQWy4YrxlpkvMIV3OX) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Peace of Mind](https://open.spotify.com/album/7A5JjM2ReIL9pMl85IeF1b) | 3:23 |
 | 30 | [Radar](https://open.spotify.com/track/0Qefj1f0SCbnIaHH0AsmBF) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [4th Quarter Riddim](https://open.spotify.com/album/2PRKaJQDX7sCazgLQlpC2F) | 3:12 |
 | 31 | [Not One Thing](https://open.spotify.com/track/6CEkI2ymkuwDWxVFogaSHR) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [4th Quarter Riddim](https://open.spotify.com/album/2PRKaJQDX7sCazgLQlpC2F) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 49 | [Rollin](https://open.spotify.com/track/2R27w3AVAkLBsaXVuVRB2u) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:16 |
 | 50 | [Coming Back Fuh Yuh](https://open.spotify.com/track/0btmu6nRf1fFcwAipBj9B6) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Hot Sun Riddim](https://open.spotify.com/album/3pPDSVI0PB9SZPpAiRLqw5) | 2:28 |
 
-Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMDExNzI2NDg2N2Y1YjE1ODgwNzU2OWZjODEzNTkwZDFm`
+Snapshot ID: `MTY2MDg2NTI1NiwwMDAwMDAwMDlhNTc4MThkMDBiY2QzN2UwN2Q1NDU2OTY0YzMwNDgx`

@@ -868,6 +868,28 @@
     },
     {
       "album": {
+        "name": "Diamond Life",
+        "url": "https://open.spotify.com/album/30oWzHzHyEmHKnPPDYeR7G"
+      },
+      "artists": [
+        {
+          "name": "Leo Kalyan",
+          "url": "https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187585,
+      "name": "Diamond Life",
+      "url": "https://open.spotify.com/track/7Lo4APQfv1mbPJirw9AYwQ"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO"
       },

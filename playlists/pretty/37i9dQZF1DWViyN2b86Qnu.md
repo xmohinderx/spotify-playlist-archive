@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,151 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,166 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 5 | [Lonely But Not Alone](https://open.spotify.com/track/70SMq0djk5HdO0kc1YM2e9) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Lonely But Not Alone](https://open.spotify.com/album/24yrwo7fOZ5ID22hLzU43W) | 3:16 |
 | 6 | [space girl](https://open.spotify.com/track/1vzfxEYT3NhXrzzAqxGLPe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:51 |
 | 7 | [vodka orange juice](https://open.spotify.com/track/2yx7j2SdTCDYcDGPRFdSBz) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [vodka orange juice](https://open.spotify.com/album/1WyIXN8s7H1sE4aZDOAhU9) | 3:59 |
-| 8 | [Tilted](https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine \(Deluxe Edition\)](https://open.spotify.com/album/3jc4mNSSIjakdzeD63qpQt) | 3:53 |
+| 8 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
 | 9 | [it's not that bad](https://open.spotify.com/track/6iUsnQ0gqehflExGxmICBG) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [It's Not That Bad](https://open.spotify.com/album/0aSAgvZV6LfEf9KVfcLXz8) | 2:40 |
 | 10 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 11 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 |
-| 12 | [Pretty Lady](https://open.spotify.com/track/4o21k4S4YoueaUfiKkImea) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/6GvxhHWo3EyQLW94ftqtoz) | 4:37 |
+| 12 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
 | 13 | [Wave](https://open.spotify.com/track/4uhSS1aE2C4j9lk7Ea7XiW) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [O.K.](https://open.spotify.com/album/2roZhR0fCZQbphZ0M7Ek01) | 2:44 |
 | 14 | [A Shitty Gay Song About You](https://open.spotify.com/track/7cA93NpGWT5pgyxNtsszSR) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [A Shitty Gay Song About You](https://open.spotify.com/album/5kPGmWHhhg25uk0lh3d229) | 1:55 |
 | 15 | [Mannish Boy](https://open.spotify.com/track/4P8w7rdtAHEibetAqD8aF9) | [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Mannish Boy](https://open.spotify.com/album/4bv0aDc9XUkx9UcxuzR4p2) | 4:47 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 74 | [Nobody Waits](https://open.spotify.com/track/06d71HT8y7szxk3A3Ilixk) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Nobody Waits b/w San Cristóbal](https://open.spotify.com/album/6Mu2VXjfDj0GA7NPqbY5HP) | 3:11 |
 | 75 | [angel rock](https://open.spotify.com/track/32njoCIl5eqq3rv12cS588) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [angel rock](https://open.spotify.com/album/2NboJlXBlKcA1Cx2i5kNOS) | 3:24 |
 | 76 | [Spell For Nature](https://open.spotify.com/track/6niV6x6Cr37SM7zT5vd8Qi) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 4:03 |
-| 77 | [Don't Sleep](https://open.spotify.com/track/2XgHbkEDBGKYpmpS4tTjRT) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4), [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF) | [Don't Sleep](https://open.spotify.com/album/2jyPoCqQffVCRfalmnonRj) | 3:23 |
+| 77 | [Don’t Sleep](https://open.spotify.com/track/4gWPaTGXzBopeFHBXQMpLp) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [imbi](https://open.spotify.com/artist/2IHmdcnsjh89cIaDcVxTuF), [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Don't Sleep](https://open.spotify.com/album/71vXspFj2kT6IQn1IuNpEd) | 3:25 |
 | 78 | [Hard to Believe](https://open.spotify.com/track/5xDHkY0Om4eN1XMOJV0HLC) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Something Like A War](https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz) | 4:00 |
 | 79 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
 | 80 | [Sharkbait](https://open.spotify.com/track/1u5UqFrPc3h6FMQGS1kw9M) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/2rfrl6hCzss0k9DZMf0pwB) | 3:38 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 85 | [Serotonin Serenade](https://open.spotify.com/track/2Ff6Ghw8TRJGuAbJamtt4X) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [American Queers](https://open.spotify.com/album/3HAKCGSBK2CdNR94iSKMLS) | 4:22 |
 | 86 | [Heels](https://open.spotify.com/track/3KscNimoarA53lRrC5JkWG) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:15 |
 | 87 | [Yandere](https://open.spotify.com/track/6a9gDPGHaLfiM2XYrKXOVy) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Yandere](https://open.spotify.com/album/3Np4ztZJFfK4IGT72lzqUo) | 3:31 |
-| 88 | [Malibu](https://open.spotify.com/track/02w1bcPNTPrF06IsMoQxUc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Cold Heart](https://open.spotify.com/album/2ub4hh8QvhlDh9MzsAdzF3) | 3:11 |
+| 88 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
 | 89 | [Dysphøria](https://open.spotify.com/track/7EERmr3BgKN2AytN7wSiVp) | [Ezzy](https://open.spotify.com/artist/4Q5X4WCusKh5HIPcdN779z) | [Mother](https://open.spotify.com/album/6GVLNfMWPtOf4NYT1tRAbM) | 3:01 |
 | 90 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 |
-| 91 | [Perfect Day](https://open.spotify.com/track/07i5NWDPwpQN7UQu33Eq2B) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Perfect Day](https://open.spotify.com/album/372ih46hVEhyul0HJvEJcQ) | 3:09 |
+| 91 | [Perfect Day](https://open.spotify.com/track/2xGZuq8FD3mSw5tkqN25Z8) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/0DnbC84879BiVOxxvb3LpU) | 3:09 |
 | 92 | [Cruise Control](https://open.spotify.com/track/7844B2wDjPgnn5KoMQp7py) | [CJ Run](https://open.spotify.com/artist/17g2kHe1KbJjcO3VUDSwVl) | [Cruise Control](https://open.spotify.com/album/4YVLikNjjKfh078gDDwA4l) | 2:20 |
 | 93 | [Brooklyn](https://open.spotify.com/track/5oAbKZU67TxgxrcyMASbdg) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [Brooklyn](https://open.spotify.com/album/1Liq7qmM7SRYKdwtZBqoBa) | 3:28 |
 | 94 | [Cherry Pits](https://open.spotify.com/track/27xdKxIYRlXErxVK3k2bsR) | [Grayson](https://open.spotify.com/artist/2ElEn7LIxvcN1icdhbw2WM) | [Cherry Pits](https://open.spotify.com/album/6UCKuzFtM3pEmIbmurBLzG) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 99 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 | 100 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMDZlNDg4NzJmNTdhOWEzZDMyNzJlOThjZDBiNzRiZWE3`
+Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMGI0MGRmMmQ5MWFkNmM5MDBjNmNjZjM0NGVkOGY3OWY0`

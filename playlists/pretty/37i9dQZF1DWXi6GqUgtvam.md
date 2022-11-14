@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 
 > medieval tunes for board gaming, roleplay or some historical chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,808 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,051 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 15 | [The Noble man \- Instrumental](https://open.spotify.com/track/7BPdMDvu7Tx1PEHC3AslcI) | [Robert Johnson](https://open.spotify.com/artist/2aCgahfhJEknpgwtVWAs7c), [Nigel North](https://open.spotify.com/artist/3bXYTyOxtKi2xyij1LDCnQ) | [The Rags of Time \- 17th Century English Lute Songs & Dances](https://open.spotify.com/album/4MZmhEIgJu0FUOSJAQtMuZ) | 2:13 |
 | 16 | [The First Part of Ayres, French, Pollish and others together … with Pavines, Galliards, and Almaines \(1605\): I\. A Galiard](https://open.spotify.com/track/5RfAoa1gKK9IK6ld25FaDj) | [Tobias Hume](https://open.spotify.com/artist/1z5IeyRbd7iLgu1fpxFRLe), [Matteo Cicchitti](https://open.spotify.com/artist/20GMDtM8hUo9RG5GGaUH5y), [Musica Elegentia](https://open.spotify.com/artist/69Repx4UdPmARORAxg5OGN) | [Ricercare E Canzoni](https://open.spotify.com/album/5uquiT1PSQzhxkkTgB2U1Z) | 1:10 |
 | 17 | [Greensleeves](https://open.spotify.com/track/10ZHpk2c9AhJ8GL29O1ZqY) | [John Johnson](https://open.spotify.com/artist/3xYtiAZeJwvtLBQuPpjTll), [Anthony Rooley](https://open.spotify.com/artist/19l99CiXKRvs1wgXuxCpv6), [James Tyler](https://open.spotify.com/artist/2GmmkFnq13lWOyIMUF6AnY) | [My Lute Awakes](https://open.spotify.com/album/0vMxenxordxeoaVfX0kHRN) | 3:58 |
-| 18 | [Wild Boar Inn](https://open.spotify.com/track/6IMlRZyvY1CBm56E9PJtJg) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Wild Boar Inn](https://open.spotify.com/album/3eJ9y2YBpfhrjFrKJFozBQ) | 0:50 |
+| 18 | [Wild Boar Inn](https://open.spotify.com/track/0J5dQaraExlSRVtny0u7UB) | [Celestial Aeon Project](https://open.spotify.com/artist/3erL8NEQbmmOXhO6yyVWxO) | [Inns & Taverns](https://open.spotify.com/album/7MVPWVTAhypYmu6NjTH05u) | 0:50 |
 | 19 | [Lamento Di Tristano And La Rotta](https://open.spotify.com/track/2hxdofcXRRprDttD4INEyr) | [Cheryl Ann Fulton](https://open.spotify.com/artist/4WZQjddfkBTqhMxJ3LJM8K) | [The Once & Future Harp](https://open.spotify.com/album/6zNObFuUkAdowWx7ZY5kH2) | 5:39 |
 | 20 | [Saltarello I & II](https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp) | [Giacomo Gorzanis](https://open.spotify.com/artist/5v1EIf3kNF2XUlgpevYoj3), [Marc Lewon](https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV) | [Bis an der Welt ihr Ende](https://open.spotify.com/album/0uYw7LNkcsScQ69xfJTgwd) | 3:24 |
 | 21 | [Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/track/7aqx8hsa0qrpkDYfDnQy54) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lucie Horsch](https://open.spotify.com/artist/452bvXDIbdFJ8L0Dye7kkn), [LUDWIG Orchestra](https://open.spotify.com/artist/3pAMpzxkvRNTXZZ6EpT41Q) | [Traditional: Simple Gifts \(Arr\. Knigge Recorder and Ensemble\)](https://open.spotify.com/album/2bGvmIpKf3832AfZ3w3CVD) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi6GqUgtvam.md) - [plain]
 | 49 | [Quan je voy le duç](https://open.spotify.com/track/35VIYtvrvDsaAv7HNW62C0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Early Music Festival](https://open.spotify.com/album/3OWVzjvXl5cq42I7Nc7cpQ) | 2:18 |
 | 50 | [England \(The Medieval Era\)](https://open.spotify.com/track/4Jt5UkcyYL261tokw058x0) | [Geoff Knorr](https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI) | [Sid Meier's Civilization VI \(Original Game Soundtrack\)](https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd) | 4:09 |
 
-Snapshot ID: `MTY2NDc5MzE0NywwMDAwMDAwMGNhN2UzOTg1MjY0MGFjNGViZjIzYWZjYTZlZTA2MDUy`
+Snapshot ID: `MTY2NDc5MzE0NywwMDAwMDAwMGJlNTdlZGIwYzhiMzFiNzczY2UxMTExMTIzZjUyZGQx`

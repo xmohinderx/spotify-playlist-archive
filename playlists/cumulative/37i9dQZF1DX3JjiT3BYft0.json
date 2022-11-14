@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 281866,
       "name": "COMIC PANIC!!!",
       "url": "https://open.spotify.com/track/1eZ7UWCfNkqjyxkgDjaKiu"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 240900,
       "name": "ON YOUR MARK",
       "url": "https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e"
@@ -3843,7 +3843,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 257665,
       "name": "\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!",
       "url": "https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si"
@@ -3861,7 +3861,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 248182,
       "name": "\u3069\u304d\u3069\u304dSING OUT!",
       "url": "https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11"
@@ -4379,7 +4379,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 315402,
       "name": "\u30ad\u30ba\u30ca\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u266a",
       "url": "https://open.spotify.com/track/6NGOZPVfWGnUNsiQ9Jhdtt"
@@ -4521,7 +4521,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 243835,
       "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
       "url": "https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp"
@@ -5234,6 +5234,24 @@
     },
     {
       "album": {
+        "name": "\u8ff7\u661f\u53eb",
+        "url": "https://open.spotify.com/album/0RJxReQpSLRaXxHBVD8zCG"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271653,
+      "name": "\u540d\u7121\u58f0",
+      "url": "https://open.spotify.com/track/5Sy6e7DWNRJ8CH2UiY9p4Q"
+    },
+    {
+      "album": {
         "name": "\u30cf\u3099\u30f3\u30c8\u3099\u30ea! \u30ab\u3099\u30fc\u30eb\u30b9\u3099\u30cf\u3099\u30f3\u30c8\u3099\u30cf\u309a\u30fc\u30c6\u30a3! \u30ab\u30cf\u3099\u30b3\u30ec (Special Selection)",
         "url": "https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze"
       },
@@ -5335,7 +5353,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 299235,
       "name": "\u590f\u7a7a Sun! Sun! Seven! - Acoustic Ver.",
       "url": "https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG?si=4hPgcoMARkObvNDG0CJSsQ">Costa Titch</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,373 likes - 47 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,381 likes - 47 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 35 | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/3nhcujaIb4YbrhRqIMZv7G) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitongoze \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/1ZQ99HHidfORTcxmZDVF0o) | 3:05 |
 | 36 | [Selema \(Po Po\)](https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\)](https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR) | 5:40 |
 | 37 | [Bells](https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Stopper](https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8), [Eltonk SA](https://open.spotify.com/artist/2UizOudF54jbl9PllMTaEM) | [Bells](https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622) | 5:51 |
-| 38 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/5BjWsMcUj81j4Ly58yQVP2) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [Lagos to Jozi](https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp) | 3:43 |
+| 38 | [I Did It \(Bum Bum\)](https://open.spotify.com/track/0Y1DdSpkxR1YX1lOxk1V6Z) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x) | [I Did It \(Bum Bum\)](https://open.spotify.com/album/7E1fYgJc0JPn19Rj1dOj7G) | 3:43 |
 | 39 | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/track/4CqIW0SZapPpI0IQq6Yno0) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [IYO \(feat\. Focalistic, Mapara A Jazz, & Ntosh Gazi\)](https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80) | 4:37 |
 | 40 | [REQUIRE \(with Olamide\)](https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [REQUIRE \(with Olamide\)](https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt) | 3:43 |
 | 41 | [Tell Somebody](https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd) | [Effyzzie Music](https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [Tell Somebody](https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8) | 3:57 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 46 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 |
 | 47 | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/album/7LhPDGHwqdinqFXBQxAwcI) | 6:52 |
 
-Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMDU5ZWUyZDY2MmU2YzY4YTU4NjVmNDNjOWEzMzQyNWVj`
+Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMGViOWFkMWQzZjY1ZGVhNWE0NGM5N2IxYjE2NzkwNzE1`

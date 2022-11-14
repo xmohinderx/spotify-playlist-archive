@@ -1,12 +1,12 @@
 {
   "description": "IYKYK \ud83d\udc94\ud83e\udd40",
-  "num_followers": 177069,
+  "num_followers": 177359,
   "original_name": "#SadCuhHours \ud83e\udd7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDAwYzg3YTg2M2I1M2RhNDY5YjJkOTk1YmRmMTc4NTdl",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDYyNjg2NWUyNjg3MzlkMjdhZGYzMDI0NmRiNzkzMGM4",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 246131,
       "name": "Tu - Live",
       "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Descansando",
         "url": "https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 150413,
-      "name": "Recuerda",
-      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -551,6 +535,22 @@
       "duration_ms": 183762,
       "name": "Adue\u00f1arme",
       "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Recuerda",
+      "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -597,7 +597,7 @@
         }
       ],
       "duration_ms": 204586,
-      "name": "F\u00edjate Que Si",
+      "name": "F\u00edjate Que S\u00ed",
       "url": "https://open.spotify.com/track/6dmjHRIprOaIeDOk65RNdI"
     },
     {
@@ -987,22 +987,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
       },
       "artists": [
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 197107,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+      "duration_ms": 194962,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1139,18 +1135,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
       },
       "artists": [
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+      "duration_ms": 197107,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Mi Nena",
-        "url": "https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Conducta",
-          "url": "https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5"
-        }
-      ],
-      "duration_ms": 149603,
-      "name": "Mi Nena",
-      "url": "https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -1451,18 +1435,34 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Fases del Amor",
-        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
+        "name": "Mi Nena",
+        "url": "https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF"
       },
       "artists": [
         {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+          "name": "Nueva Conducta",
+          "url": "https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5"
         }
       ],
-      "duration_ms": 216149,
-      "name": "Amor Con Detalle",
-      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
+      "duration_ms": 149603,
+      "name": "Mi Nena",
+      "url": "https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Eres Tu / </3",
+        "url": "https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx"
+      },
+      "artists": [
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "Eres Tu / </3",
+      "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Eres Tu / </3",
-        "url": "https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx"
+        "name": "Fases del Amor",
+        "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
       },
       "artists": [
         {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
         }
       ],
-      "duration_ms": 205634,
-      "name": "Eres Tu / </3",
-      "url": "https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL"
+      "duration_ms": 216149,
+      "name": "Amor Con Detalle",
+      "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
-      },
-      "artists": [
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
-        }
-      ],
-      "duration_ms": 191005,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 220570,
       "name": "Videos y Fotos",
       "url": "https://open.spotify.com/track/7LZ8mtSwAwgAopE8cCjeGw"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3Qoz6D1Wow3kfNLe75xHws"
+      },
+      "artists": [
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+        }
+      ],
+      "duration_ms": 191005,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/3Q1E7EfAN0lXgsoxkhROdR"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Una Linda Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 268557,
-      "name": "Una Linda Canci\u00f3n",
-      "url": "https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "komo llego el final",
         "url": "https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF"
       },
@@ -1731,18 +1715,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+        "name": "Una Linda Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1K9iqpu7B6SJ00AluBmIRw"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
         }
       ],
-      "duration_ms": 198128,
-      "name": "Esta noche",
-      "url": "https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP"
+      "duration_ms": 268557,
+      "name": "Una Linda Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1759,6 +1743,22 @@
       "duration_ms": 231324,
       "name": "Que Paso",
       "url": "https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 198128,
+      "name": "Esta noche",
+      "url": "https://open.spotify.com/track/1nXvx83hxoYItv0S5ZGeNP"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Para Ella",
+        "url": "https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 245237,
+      "name": "Por Eso Te Canto Yo",
+      "url": "https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Enfocado En El Dinero",
         "url": "https://open.spotify.com/album/55T4LYvqAuQXqlpWyi2NKC"
       },
@@ -1823,26 +1839,6 @@
       "duration_ms": 152925,
       "name": "Enfocado En El Dinero",
       "url": "https://open.spotify.com/track/56fow2b87Gvm4FDqIhiutA"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Esperame",
-        "url": "https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
-        }
-      ],
-      "duration_ms": 180451,
-      "name": "Esperame",
-      "url": "https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1863,18 +1859,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Para Ella",
-        "url": "https://open.spotify.com/album/6L3EX0UVlBhVLDh28rTw5J"
+        "name": "Esperame",
+        "url": "https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg"
       },
       "artists": [
         {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
         }
       ],
-      "duration_ms": 245237,
-      "name": "Por Eso Te Canto Yo",
-      "url": "https://open.spotify.com/track/160DhMYdpyryQwCDQaiSPq"
+      "duration_ms": 180451,
+      "name": "Esperame",
+      "url": "https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Su Veneno (Tu Veneno, Pt. 2)",
-        "url": "https://open.spotify.com/album/07HsKo8logoKr7ZOcfHZPK"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Su Veneno (Tu Veneno, Pt. 2)",
-      "url": "https://open.spotify.com/track/3iKsS68QrT17B0j0FVurpO"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "El Humillado",
         "url": "https://open.spotify.com/album/1RmJvwO5RQYDv4FNRPYMxt"
       },
@@ -1975,22 +1959,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Deseandote",
-        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
-      },
-      "artists": [
-        {
-          "name": "Tony Herrera",
-          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Deseandote",
-      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Arroz Con Leche",
         "url": "https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn"
       },
@@ -2003,6 +1971,38 @@
       "duration_ms": 155466,
       "name": "Arroz Con Leche",
       "url": "https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Su Veneno (Tu Veneno, Pt. 2)",
+        "url": "https://open.spotify.com/album/07HsKo8logoKr7ZOcfHZPK"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Su Veneno (Tu Veneno, Pt. 2)",
+      "url": "https://open.spotify.com/track/3iKsS68QrT17B0j0FVurpO"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Deseandote",
+        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
+      },
+      "artists": [
+        {
+          "name": "Tony Herrera",
+          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Deseandote",
+      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
     }
   ],
   "unique_name": "#SadCuhHours \ud83e\udd7a",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,266 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,258 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 43 | [Himlen är oskyldigt blå](https://open.spotify.com/track/1vUZKzx8fNI8nwsWEMQVvm) | [Jessica Andersson](https://open.spotify.com/artist/0e52F3Q1maTGPgsEa1hDJM) | [Fame Factory Visor](https://open.spotify.com/album/4Os2gl6N0gVZPtLr0GRdAx) | 4:26 |
 | 44 | [Sommar inatt](https://open.spotify.com/track/7AsmqCBHE161REYUojU3dN) | [Lili & Susie](https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK) | [Lili & Susie](https://open.spotify.com/album/5sxNcSihFvmXRScWX2FmOw) | 4:31 |
 | 45 | [Små lätta moln \- Live](https://open.spotify.com/track/7HyuoUcCQy143mwDsAu9I5) | [Pugh Rogefeldt](https://open.spotify.com/artist/22Wo43V44RtrpJZsjeI9EA) | [Pughs Bästa](https://open.spotify.com/album/5pLDOTWvRIDoYyUkKC015L) | 3:11 |
-| 46 | [Fånga en sommar](https://open.spotify.com/track/1gLBFMZ6ZzkzbK2uyakyJS) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Sommar](https://open.spotify.com/album/2xHseoQsyHKZfRdymKkiPk) | 3:35 |
+| 46 | [Fånga en sommar](https://open.spotify.com/track/7Havek0H06GEq8GV72wPPe) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Samma himmel](https://open.spotify.com/album/6vTggZqdcv8mFSL9ulr1IK) | 3:35 |
 | 47 | [Folköl Och Dunkadunka](https://open.spotify.com/track/0vbgxkcDTMYqURoBGF4RNp) | [Svenne Rubins](https://open.spotify.com/artist/1Z13YUXbUmdKwDO4RtVgyx) | [Sex Män I Skor](https://open.spotify.com/album/7JTTVegyBBxf6b5vvwQ8HN) | 3:29 |
 | 48 | [Hanna från Arlöv](https://open.spotify.com/track/6DDqT0TLnWO6uBZbD7l0nt) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Collection](https://open.spotify.com/album/1VUeYyKsCFK15DsCW5qExP) | 3:56 |
 | 49 | [Papaya Coconut](https://open.spotify.com/track/6ncoedDsLh7V13kufpJ1Gj) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [100% Kikki](https://open.spotify.com/album/1JyBPCAcvZ8selvBZTHbq5) | 3:57 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 60 | [Gröna granna sköna sanna sommar](https://open.spotify.com/track/6NpvXAQRQEovxG0cnOyzBO) | [Lill\-Babs](https://open.spotify.com/artist/1YlYLkI3GlVDFSQGjMXWbt) | [40\-Bästa](https://open.spotify.com/album/6OsJmsxR7JQ9TN17YSyoOk) | 2:25 |
 | 61 | [Vackert Väder](https://open.spotify.com/track/2TB50PHG8COW0cy70celCj) | [Orup](https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A) | [Elva Hjärtan](https://open.spotify.com/album/1uH9bHKCE5p9ZXYAye2Roj) | 3:55 |
 | 62 | [Sommartid](https://open.spotify.com/track/6x0cSVN0ahCXCteCtncdjg) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [100% Lena Philipsson](https://open.spotify.com/album/0Uii6Rh3iHnzyz0HIXcRue) | 3:41 |
-| 63 | [Idas sommarvisa](https://open.spotify.com/track/4l9E1fzryZeCWCkRNnPY2U) | [Alice Scherman](https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P) | [Barnens barnsånger](https://open.spotify.com/album/0NUe1hxuKopyRQ4frjBL6L) | 1:51 |
+| 63 | [Idas sommarvisa](https://open.spotify.com/track/2RMsi5l0uQX4P02zNmuSIS) | [Alice Scherman](https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P) | [Idas sommarvisa](https://open.spotify.com/album/7lDGD4QOhMnMMD0Hq42Zy4) | 1:51 |
 | 64 | [Till Stockholms skärgård](https://open.spotify.com/track/7geUU2nienjTgFvUuobfAC) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/7rN7AM6a6mZ6PfZeC7asUZ) | 4:38 |
 | 65 | [Sommartid](https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Så mycket bättre \- säsong 3](https://open.spotify.com/album/1w9KVuHbmVhrtHBcPp6gnO) | 4:02 |
 
-Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMDIzYmIyZjUyNWIyNDc2NzJiODQ0Mzg2OWM4NThiNWE4`
+Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMGFjYTRmNWExMjFiYTM2ZDZhMDdhYThjNmZhODhmMzQz`

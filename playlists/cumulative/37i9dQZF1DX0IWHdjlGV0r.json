@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 227693,
       "name": "Brivido",
       "url": "https://open.spotify.com/track/52dGHpZuhlsB28gV4z6MSv"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 227693,
       "name": "Brivido",
       "url": "https://open.spotify.com/track/631EjX7Jgo7QeSn2JbRoBz"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 161873,
       "name": "Male",
       "url": "https://open.spotify.com/track/1Dl5iWa6lWEZpkQDZNuVnO"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 161873,
       "name": "Male",
       "url": "https://open.spotify.com/track/2mb8gG8kOMCJDzBmCNm7El"
@@ -1123,10 +1123,28 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
+    },
+    {
+      "album": {
+        "name": "Sottozero",
+        "url": "https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "MUJER",
+      "url": "https://open.spotify.com/track/6LHw9ZjMZ2VGW2AbSABBO4"
     },
     {
       "album": {

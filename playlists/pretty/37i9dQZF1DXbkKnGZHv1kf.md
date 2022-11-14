@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 
 > Early blues standards and classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,985 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,993 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 8 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 9 | [Grinnin' In Your Face](https://open.spotify.com/track/7bWhtFDDMgcA6DmFGGlS0C) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Son House Revisited Vol\. 1](https://open.spotify.com/album/0B1wPjeha3UdcgiYquEprz) | 1:56 |
 | 10 | [Runaway Blues](https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:26 |
-| 11 | [Where Did You Sleep Last Night](https://open.spotify.com/track/7ucwcsXOmwwgrcMB3YeaKA) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Ultimate Country Blues Collection](https://open.spotify.com/album/736y5c0LSTTQ7FxkBq23p0) | 3:04 |
+| 11 | [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 |
 | 12 | [Baby Please Don't Go](https://open.spotify.com/track/1vjHFgIdNuLXojpkzysoV8) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Going Back to Crawford](https://open.spotify.com/album/2C4LCaMK6gc8zzMuHrEPvg) | 2:44 |
 | 13 | [Goin' Down Slow](https://open.spotify.com/track/5EpIZRPAEqniltILeAjk38) | [St\. Louis Jimmy Oden](https://open.spotify.com/artist/6lot4YJARPUg9K35xNjDH6) | [Blues Legend \- The Best Of](https://open.spotify.com/album/1bQWiBkg3AosmjIzsp88pe) | 3:11 |
 | 14 | [Truckin' My Blues Away](https://open.spotify.com/track/6AgwNMztb3eIgNF1m2zi7h) | [Blind Boy Fuller](https://open.spotify.com/artist/7mPFWoDGjh7ArW1yr79EX8) | [Blind Boy Fuller Vol\. 1 1935 \- 1936](https://open.spotify.com/album/0OjJBBSeaNi7w8hf5SrL21) | 3:08 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkKnGZHv1kf.md) - [plain]
 | 40 | [Moanin' At Midnight](https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:56 |
 | 41 | [High And Lonesome](https://open.spotify.com/track/4uvdVSZSfDrXL09nFcrVTW) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Mr\. Luck: The Complete Vee\-Jay Singles](https://open.spotify.com/album/2zQv74POvtwU8V7v8FRlAe) | 2:47 |
 | 42 | [Don't Start Me To Talkin'](https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [Down And Out Blues](https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO) | 2:36 |
-| 43 | [Juke](https://open.spotify.com/track/6RwXLTQItmTn4YwZACFGok) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues Harmonica](https://open.spotify.com/album/0jc58aiVmhQml90zjs4oNj) | 2:47 |
+| 43 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 44 | [Reconsider Baby](https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 3:09 |
-| 45 | [You Upset Me, Baby](https://open.spotify.com/track/76TFfQ9o7HFeChpkwUcoQn) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Classic Masters](https://open.spotify.com/album/3JscWpuM0XXbVvDMkUjlXw) | 3:02 |
+| 45 | [You Upset Me, Baby](https://open.spotify.com/track/589yTSHriuSIwARJqnmuMp) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:04 |
 | 46 | [I Can't Quit You Baby](https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [An Introduction To Otis Rush](https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO) | 3:39 |
 | 47 | [All Your Love](https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO) | [The Essential Magic Sam: The Cobra and Chief Recordings 1957\-1961](https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv) | 2:56 |
 | 48 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
 | 49 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
-| 50 | [I'm A Man \- Single Version](https://open.spotify.com/track/0zN29YHQSZz1WbyA3DAOrq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Electric Blues](https://open.spotify.com/album/7MtqlIFHBn8g0KhzMNASay) | 3:02 |
+| 50 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
 
-Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMDM2NTRiY2NlY2M4NGFjMzM1ZmMxMjM4NjUxNWVmZTJl`
+Snapshot ID: `MTYzNTQ2NzYwMiwwMDAwMDAwMDcxN2RkYjYyZWMxZjI2OGE3NjRlMWZhZGEzMjMzMTQw`

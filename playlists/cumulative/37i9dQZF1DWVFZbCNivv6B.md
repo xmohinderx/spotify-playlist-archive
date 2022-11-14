@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en voz de Santa Fe Klan
 
-222 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+223 songs - 13 hr 19 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [INTACHABLE](https://open.spotify.com/track/2O6eoqVbpjDZ6B3uZrcQRR) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc) | [INTACHABLE](https://open.spotify.com/album/2QTOMPn2LhgdaUdZ01cIWX) | 3:54 | 2022-05-13 | 2022-07-20 |
 | [Invencible](https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Invencible](https://open.spotify.com/album/1h4Z8hvxf9BIlEysjDv6Bv) | 3:01 | 2022-08-04 |  |
 | [Juego](https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Juego](https://open.spotify.com/album/3fdbDPJG25YDPto5pWqEP0) | 3:33 | 2022-01-28 | 2022-05-07 |
-| [Kiubole](https://open.spotify.com/track/6AipYSPeePKt9AUBLzjoMq) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Kiubole](https://open.spotify.com/album/04emcftNra5B20iGQR1ukc) | 4:54 | 2022-10-28 |  |
+| [Kiubole](https://open.spotify.com/track/6AipYSPeePKt9AUBLzjoMq) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Kiubole](https://open.spotify.com/album/04emcftNra5B20iGQR1ukc) | 4:54 | 2022-10-28 | 2022-11-14 |
 | [Kiubole](https://open.spotify.com/track/6FudvuBPvdFmmriJLEttGd) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Kiubole](https://open.spotify.com/album/0LlWwpKdaI8CXtW2fzO1WD) | 4:54 | 2022-08-20 | 2022-10-31 |
+| [Kiubole](https://open.spotify.com/track/5Eoaev86c5EXNOEBxz1hJ9) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Bitácoras Callejeras, Vol\. 3](https://open.spotify.com/album/322GH2BmRmyr47hZDevS4s) | 4:54 | 2022-10-28 |  |
 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 | 2022-01-28 | 2022-07-23 |
 | [La Botella](https://open.spotify.com/track/2zTggRQD6tFBxToCtSIW2n) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Botella](https://open.spotify.com/album/1Hjt4oBEetl0vu7TipOi2q) | 3:24 | 2022-01-28 | 2022-03-05 |
 | [La Muerte Se Fue](https://open.spotify.com/track/7GNwZl8lvyf4jELBSQNX5v) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [ASTRO](https://open.spotify.com/artist/5jTf7yc8INDdNGSjn4cySl), [EL TRYKA](https://open.spotify.com/artist/55jQq3Wl3c0UfvYxqqooqW) | [La Muerte Se Fue](https://open.spotify.com/album/1HFrhy2WErx4Tpw2KdraPS) | 4:17 | 2022-02-04 |  |

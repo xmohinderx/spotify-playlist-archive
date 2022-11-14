@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,414,736 likes - 146 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,415,098 likes - 146 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 81 | [Lighter Shades](https://open.spotify.com/track/4cG4S3LHdqibrEXgj87ZNx) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Lighter Shades](https://open.spotify.com/album/5HUxoBrYZtwTz97qbuNCwc) | 5:48 |
 | 82 | [Young and Foolish](https://open.spotify.com/track/2ncnr8AuzqAabOGEIoA863) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Moon Mist](https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO) | 5:30 |
 | 83 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
-| 84 | [Sous Le Ciel De Paris](https://open.spotify.com/track/1LKhJXWWJb8H6kYVMyprcW) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Jazz Saxophone Hits](https://open.spotify.com/album/76FOFH68AWrdQiIUgjKi2T) | 4:05 |
+| 84 | [Sous Le Ciel De Paris](https://open.spotify.com/track/45co7gWEhnZevNaWbPlW3W) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/5z1LcLw1QCXDjtMy9WYT1p) | 4:05 |
 | 85 | [I Fall in Love Too Easily](https://open.spotify.com/track/2BjX0EYypxakiidBW18QmC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Waves of Calm](https://open.spotify.com/album/5XSt8oBzh9XMbKafKJ0ciO) | 5:23 |
 | 86 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 |
 | 87 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 |
 | 88 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 |
 | 89 | [Fools Rush In](https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 2:29 |
 | 90 | [The Shadow of Your Smile](https://open.spotify.com/track/5Bl1TC8Y1qh3ui6fGSWL5a) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [The Shadow of Your Smile](https://open.spotify.com/album/3KWWvcVOoAM66JFb1LhlCR) | 6:28 |
-| 91 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/5GnogY3GFKXdaYHiTrrIbJ) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Jazz For Study](https://open.spotify.com/album/1eGF9aSPUS5RGi1J5DFeZr) | 4:12 |
-| 92 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/3S5rdzd10raLDAOli1HpR8) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Música de recuerdos](https://open.spotify.com/album/5vGZasVDxNJKLiOBMSR0ku) | 6:58 |
+| 91 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 |
+| 92 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 |
 | 93 | [Peace](https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA) | [Steve Davis](https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD) | [Correlations](https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos) | 7:16 |
 | 94 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 |
 | 95 | [Where We Used To Live](https://open.spotify.com/track/0Y6WjYBWld3reWsTMT8FTd) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [E.S:T\. Tuesday Wonderland](https://open.spotify.com/album/5TMOqpo8tmDcsBuvFMCZWJ) | 4:25 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 145 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
 | 146 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGFmNmVkOWU0ZmM1NGYwNzY2MTA0YmQ5ZmEzMzJkYjA3`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGFmNDQ4MzZlNjAyNmFkNjBmMDgzYmFkYjU1ZTA3ZjU4`

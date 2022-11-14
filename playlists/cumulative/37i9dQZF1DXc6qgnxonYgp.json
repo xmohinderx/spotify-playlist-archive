@@ -268,6 +268,28 @@
     },
     {
       "album": {
+        "name": "VIDUTHALAI",
+        "url": "https://open.spotify.com/album/0ixXc7Ing8XlfRP6WO5Nm7"
+      },
+      "artists": [
+        {
+          "name": "CLEO VII",
+          "url": "https://open.spotify.com/artist/3ho8qlbpWyqvDQY9mv05wt"
+        },
+        {
+          "name": "Switch Lock Up",
+          "url": "https://open.spotify.com/artist/4CE5ZkZeHeu7J5rRMJtRAI"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232250,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/6bQkJ7B1A98tDt5QjDv2J6"
+    },
+    {
+      "album": {
         "name": "Viduthalai",
         "url": "https://open.spotify.com/album/6nC7sh5TnClopq7K6cXOqx"
       },
@@ -539,7 +561,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 165000,
       "name": "Elementals",
       "url": "https://open.spotify.com/track/1na4w67KZVx1U7MY31XsAS"

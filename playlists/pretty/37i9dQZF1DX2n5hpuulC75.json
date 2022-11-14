@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 242411,
+  "num_followers": 242463,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDJkZmQyNmQ2ZGI1MTUxY2RiMGY5ZDVlY2ZmNDY3NjAw",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDFjZjk0YmY2Mjk2NWUyZjA2YTdlZmI5YTM3NzYzYTE0",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -67,6 +67,38 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Gallows",
+        "url": "https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 211472,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv"
       },
@@ -95,6 +127,22 @@
       "duration_ms": 191986,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -131,22 +179,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -179,6 +211,26 @@
       "duration_ms": 324106,
       "name": "Young",
       "url": "https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Feel It Still (The Remixes)",
+        "url": "https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -251,6 +303,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        },
+        {
+          "name": "shiloh",
+          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "I'm sorry",
+      "url": "https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Old Compilation 3",
         "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
       },
@@ -279,26 +351,6 @@
       "duration_ms": 313266,
       "name": "Where the Money Flows",
       "url": "https://open.spotify.com/track/35592qATAP1u72mO9oelLc"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/1HlEmOHh6BQdYxNXTO5Ny3"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        },
-        {
-          "name": "shiloh",
-          "url": "https://open.spotify.com/artist/5pGyOfXwyKXdZSUF0oPJfn"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "I'm sorry",
-      "url": "https://open.spotify.com/track/6glTm9AIhMYhjZ3dZT7qSp"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -427,22 +479,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "I would",
         "url": "https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq"
       },
@@ -463,6 +499,22 @@
       "duration_ms": 205563,
       "name": "I would",
       "url": "https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2019-09-16 15:44:25",
@@ -599,6 +651,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "After the Tone with Lossapardo",
+        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+        },
+        {
+          "name": "Lossapardo",
+          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
+        }
+      ],
+      "duration_ms": 153700,
+      "name": "After the Tone with Lossapardo",
+      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Naps",
         "url": "https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v"
       },
@@ -631,26 +703,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "After the Tone with Lossapardo",
-        "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
-        },
-        {
-          "name": "Lossapardo",
-          "url": "https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606"
-        }
-      ],
-      "duration_ms": 153700,
-      "name": "After the Tone with Lossapardo",
-      "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
       },
@@ -667,6 +719,26 @@
       "duration_ms": 130271,
       "name": "(Interlude)",
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259427,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -719,42 +791,6 @@
       "duration_ms": 175412,
       "name": "Surf",
       "url": "https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 259427,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Gallows (Deluxe)",
-        "url": "https://open.spotify.com/album/39qQxwP9x6D1dykekYEe3K"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 211472,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/13smm18gVKXh38xMmoy92z"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -875,22 +911,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
-      },
-      "artists": [
-        {
-          "name": "Drinker",
-          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
-        }
-      ],
-      "duration_ms": 339921,
-      "name": "Fragment II",
-      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "I've Always Been",
         "url": "https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV"
       },
@@ -911,6 +931,22 @@
       "duration_ms": 114929,
       "name": "I've Always Been",
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4zSKyGKEi47uiJ79rLg0ub"
+      },
+      "artists": [
+        {
+          "name": "Drinker",
+          "url": "https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur"
+        }
+      ],
+      "duration_ms": 339921,
+      "name": "Fragment II",
+      "url": "https://open.spotify.com/track/08uGE2pMyAglCoJu3UKQoW"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1011,38 +1047,6 @@
       "duration_ms": 101469,
       "name": "The Falls",
       "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg"
-      },
-      "artists": [
-        {
-          "name": "Jack Grace",
-          "url": "https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9"
-    },
-    {
-      "added_at": "2019-05-24 08:01:00",
-      "album": {
-        "name": "CARE",
-        "url": "https://open.spotify.com/album/7AIKjTBeXLL1CseXezoqOp"
-      },
-      "artists": [
-        {
-          "name": "Aaron Sayre",
-          "url": "https://open.spotify.com/artist/5nFlxnPm75iO0XQTbmwxNZ"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "CARE",
-      "url": "https://open.spotify.com/track/3VAdf6BXxTA7EpkaMvLxG4"
     }
   ],
   "unique_name": "Mellow Mood",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Shiva, Néza e Nabi, Icy Subzero e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,543 likes - 84 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,577 likes - 84 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

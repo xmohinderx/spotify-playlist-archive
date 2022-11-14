@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-199 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+200 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 | 2021-10-06 |  |
 | [Go Through the Night](https://open.spotify.com/track/6NdiQtxFYkcoo3NDxqOIiV) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f) | 3:52 | 2022-08-03 |  |
 | [Green Phase, Part One](https://open.spotify.com/track/1hQ6qPmHgJhjGkAhhvBQvg) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible \(Green Phase\)](https://open.spotify.com/album/7pmG0FBAsV9T1SBQHkWZKS) | 3:27 | 2021-10-06 | 2022-07-29 |
-| [Green Phase, Part One](https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible](https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2) | 3:27 | 2021-10-06 |  |
+| [Green Phase, Part One](https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI) | [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The Crucible](https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2) | 3:27 | 2021-10-06 | 2022-11-14 |
 | [Hidden Qi 隐.气](https://open.spotify.com/track/4ciVbZoIxygY9mNaJWzkZd) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Hidden Qi 隐.气](https://open.spotify.com/album/3bSniYoHteg80X3Kmdkt36) | 3:17 | 2021-11-26 |  |
 | [Hidden Qi 隐.气](https://open.spotify.com/track/7trNi5IxjzvaWces2oI4T7) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Nervous Energy 一触即发](https://open.spotify.com/album/6mWU0Zd0TbHJiuCMvkpnX9) | 3:17 | 2021-11-26 | 2022-07-29 |
 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 | 2021-10-06 |  |
@@ -154,6 +154,7 @@
 | [Roads Must Roll](https://open.spotify.com/track/3nm4xjJMrrJWzmmorzFRIm) | [Boom Bip](https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx) | [Seed to Sun](https://open.spotify.com/album/2AQWNeyrgoKcfn2uzYSWBX) | 3:58 | 2021-10-06 |  |
 | [Ruins](https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Portico Quartet](https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j) | 5:34 | 2021-10-06 |  |
 | [Ruler Rebel \(X\. aTunde Adjuah Remix\)](https://open.spotify.com/track/6uRppXyfrizmakYnp39kus) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [The Emancipation Procrastination](https://open.spotify.com/album/7edttukwBaQEAiPtS0rnmV) | 5:53 | 2021-10-06 | 2022-11-03 |
+| [Ruler Rebel \[X\. aTunde Adjuah Remix\]](https://open.spotify.com/track/2vz8hdT8tywDdq4z8uBVi0) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [The Emancipation Procrastination](https://open.spotify.com/album/7Iuool6Ua5SDdWUCifWDCA) | 5:53 | 2021-10-06 |  |
 | [Sadboys2020](https://open.spotify.com/track/3MtAOH2nJoLMeKFkEN8PuG) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/24YxXPFVExwXvkDkjVGzvC) | 4:00 | 2022-06-29 | 2022-07-28 |
 | [Sadboys2020](https://open.spotify.com/track/520KaBSGkWfUkPTqN6MDTm) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/7hfF5ThQJ3JPuQ4EWqDzZj) | 4:00 | 2022-06-29 | 2022-08-05 |
 | [Send Your Name To Mars](https://open.spotify.com/track/5FAnr3QSEL1An4ClKU4Fcb) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2) | [Send Your Name To Mars](https://open.spotify.com/album/5KoKEk7X1hgOOJQrptamZX) | 4:16 | 2021-10-06 | 2022-07-29 |

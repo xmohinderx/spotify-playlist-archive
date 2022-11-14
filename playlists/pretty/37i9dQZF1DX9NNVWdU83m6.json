@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 30819,
+  "num_followers": 30860,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDRiNTdiYTJkOTBkNTk3YTFhNDI5OTVjOGQzMDk4M2Ux",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDEzYTU2OTk1MjE5MTRiZDYwNWUyNjA4ZDAwMmIxYWMy",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Krokofant III",
+        "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
+      },
+      "artists": [
+        {
+          "name": "Krokofant",
+          "url": "https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy"
+        }
+      ],
+      "duration_ms": 404960,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
+    },
+    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Caliber",
@@ -367,22 +383,6 @@
       "duration_ms": 193813,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Krokofant III",
-        "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
-      },
-      "artists": [
-        {
-          "name": "Krokofant",
-          "url": "https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy"
-        }
-      ],
-      "duration_ms": 404960,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49"
-      },
-      "artists": [
-        {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "because",
-      "url": "https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "Love Devotion Surrender",
         "url": "https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49"
+      },
+      "artists": [
+        {
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "because",
+      "url": "https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf"
+      },
+      "artists": [
+        {
+          "name": "Camel",
+          "url": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+        }
+      ],
+      "duration_ms": 401866,
+      "name": "Earthrise",
+      "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Two Drink Minimum",
         "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
       },
@@ -761,20 +777,32 @@
       "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
+      "added_at": "2021-03-19 05:01:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf"
+        "name": "Naurora",
+        "url": "https://open.spotify.com/album/4WJmpMeNY0dKGGxbt5ovox"
       },
       "artists": [
         {
-          "name": "Camel",
-          "url": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+          "name": "Dewa Budjana",
+          "url": "https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB"
+        },
+        {
+          "name": "Dave Weck",
+          "url": "https://open.spotify.com/artist/4oCrrQt5LOsudylDqLHLgq"
+        },
+        {
+          "name": "Jimmy Johnson",
+          "url": "https://open.spotify.com/artist/4piaw0UhXEi9S0G5CyJo2B"
+        },
+        {
+          "name": "Mateus Asato",
+          "url": "https://open.spotify.com/artist/4en3qu5SDsPtBcTkXasukc"
         }
       ],
-      "duration_ms": 401866,
-      "name": "Earthrise",
-      "url": "https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S"
+      "duration_ms": 411453,
+      "name": "Swarna Jingga",
+      "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -875,22 +903,6 @@
       "duration_ms": 387826,
       "name": "The Noonward Race - Remastered",
       "url": "https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dirty Horse",
-        "url": "https://open.spotify.com/album/79vxo0lhrWzTikbUNawOUL"
-      },
-      "artists": [
-        {
-          "name": "Marbin",
-          "url": "https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16"
-        }
-      ],
-      "duration_ms": 544186,
-      "name": "Radio School",
-      "url": "https://open.spotify.com/track/7dKllKoKw2hddcsyMEDG90"
     }
   ],
   "unique_name": "Prog Jazz",

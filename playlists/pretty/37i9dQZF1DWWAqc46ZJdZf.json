@@ -1,12 +1,12 @@
 {
   "description": "Songs of empowerment and pride. Photography: <a href=\"https://www.instagram.com/waheedpix/\">Adreinne Waheed</a>",
-  "num_followers": 664178,
+  "num_followers": 664103,
   "original_name": "Black Lives Matter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM2NjM4MCwwMDAwMDAwMGUyZjMxM2RkNmY3NzczNTY1OTRkYjc1MTU3MGUwYTI0",
+  "snapshot_id": "MTY0NzM2NjM4MCwwMDAwMDAwMDYzMzhlYzMzNjViODVjZDVlNmUwMWNlZTRhYmYyMDQx",
   "tracks": [
     {
       "added_at": "2022-02-14 17:17:29",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-02-14 17:17:29",
       "album": {
+        "name": "Muzik of the Mind and Spirit - a Concept Compilation",
+        "url": "https://open.spotify.com/album/7ermETX1IloxCO80fX1poy"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "Strength, Courage, and Wisdom - India Arie",
+      "url": "https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3"
+    },
+    {
+      "added_at": "2022-02-14 17:17:29",
+      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/0GB2QWABy8Uij9UIS1E10Z"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 367151,
       "name": "Don't Shoot (feat. Rick Ross, Fabolous, Diddy, 2 Chainz, Wale, DJ Khaled, Swizz Beatz, Yo Gotti, Currensy, Problem, King Pharaoh, TGT)",
       "url": "https://open.spotify.com/track/4QV4EEYszD7HGrTo6PzX9K"
-    },
-    {
-      "added_at": "2022-02-14 17:17:29",
-      "album": {
-        "name": "Death Certificate",
-        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 250426,
-      "name": "True To The Game",
-      "url": "https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9"
     }
   ],
   "unique_name": "Black Lives Matter",

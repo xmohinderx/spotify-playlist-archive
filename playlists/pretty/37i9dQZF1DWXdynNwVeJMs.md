@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,685 likes - 102 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,691 likes - 102 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,10 +105,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 95 | [Opening 1.1.1](https://open.spotify.com/track/18nEqw47WXcG05rKgWnXzy) | [Aka Moon](https://open.spotify.com/artist/4t60EdEbfPZnelA5Qtxulk) | [Opus 111](https://open.spotify.com/album/0sTzPzqVcV9bDtST1BTcRq) | 4:24 |
 | 96 | [Dof](https://open.spotify.com/track/0oFOGlKhiHKmJQAGao424D) | [The Milk Factory](https://open.spotify.com/artist/0wC564zQY4BubuRD9OXXYe) | [The Milk Factory \- EP](https://open.spotify.com/album/3fsTxYQQxCyq730yBNMKZy) | 4:31 |
 | 97 | [Rake](https://open.spotify.com/track/4Zg32wHgWeBMfuuxNEBJea) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1) | [Transit](https://open.spotify.com/album/58J5Tg7SnhkUcJsweg8xE0) | 6:13 |
-| 98 | [strata](https://open.spotify.com/track/3ANbhAwZ5dB2pnxVXV4459) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Lefto presents Jazz Cats](https://open.spotify.com/album/7uue24rTgbcamaokL1unUl) | 5:36 |
+| 98 | [Strata](https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Old Dreams New Planets](https://open.spotify.com/album/1AzOwLeAXqzta6MNVVm5ko) | 5:36 |
 | 99 | [Blast From The Past \- Radio Edit](https://open.spotify.com/track/0OmjM4X2gdCjH23b97uUJ9) | [Reinhard Vanbergen](https://open.spotify.com/artist/6uvyWuE7z8Rv93plqNWniu) | [Blast from the Past](https://open.spotify.com/album/6YsiX79JLnYw40r4udI2uz) | 4:18 |
 | 100 | [Dolmuş](https://open.spotify.com/track/4zISl7UaVHs68agKCD0mQx) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Ekera EP](https://open.spotify.com/album/1pejB5j0hRJdIeenNSHiAX) | 5:52 |
 | 101 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 |
 | 102 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDcyNDFkYmFkNGQxOTFjM2UyNzMyNTc4NjI2YWY0MGQz`
+Snapshot ID: `MTY2NjMwMzIwMCwwMDAwMDAwMDcxNjZjNWE5MjU0NTVkYzgxYTgyZjQ3YTUwZGQ5Njcy`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Estevie on cover.",
-  "num_followers": 167637,
+  "num_followers": 167654,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMGI5NzhhNDZlOTg4MWY1ZjNmZTBkMjFmZDg2YmNmMTlj",
+  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDRjNDczNDMxZjY1MTQ3YjViMDVlMTM0OGRjZmQxNWMw",
   "tracks": [
     {
       "added_at": "2022-11-10 00:19:53",
@@ -287,6 +287,22 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "Escorpio",
+        "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Knock Out",
+      "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "Te Doy Igual",
         "url": "https://open.spotify.com/album/2Zx8OgxGlLq3FRYcFKvdhl"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 183909,
       "name": "bend&break",
       "url": "https://open.spotify.com/track/2fzLS5sl9eFH5XT4oZn0nU"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "Escorpio",
-        "url": "https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Knock Out",
-      "url": "https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Renacido",
-        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hill",
-          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
-        }
-      ],
-      "duration_ms": 253986,
-      "name": "Renacido",
-      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "Muy tarde",
         "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 195157,
       "name": "Muy tarde",
       "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Renacido",
+        "url": "https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hill",
+          "url": "https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM"
+        }
+      ],
+      "duration_ms": 253986,
+      "name": "Renacido",
+      "url": "https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Mejor Que Antes",
-        "url": "https://open.spotify.com/album/3vmuUl2F4KeU8hgJ3V9zuU"
-      },
-      "artists": [
-        {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        }
-      ],
-      "duration_ms": 244092,
-      "name": "Mejor Que Antes",
-      "url": "https://open.spotify.com/track/1DcDGVU97O7KJh57Gwzw67"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "fluye",
         "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 225230,
       "name": "lily",
       "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Mejor Que Antes",
+        "url": "https://open.spotify.com/album/3vmuUl2F4KeU8hgJ3V9zuU"
+      },
+      "artists": [
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        }
+      ],
+      "duration_ms": 244092,
+      "name": "Mejor Que Antes",
+      "url": "https://open.spotify.com/track/1DcDGVU97O7KJh57Gwzw67"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "No Me Ves",
+        "url": "https://open.spotify.com/album/6tStrz2JlKWcpcMSuc39gt"
+      },
+      "artists": [
+        {
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "No Me Ves",
+      "url": "https://open.spotify.com/track/2LyiWca1jIqGUD0GGro600"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "Cuando Estemos Juntos",
         "url": "https://open.spotify.com/album/2IhW85V6DWFSaz3NCEA4gz"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 183281,
       "name": "Cuando Estemos Juntos",
       "url": "https://open.spotify.com/track/2ikii4lglZTRIKvBJDwUnq"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "No Me Ves",
-        "url": "https://open.spotify.com/album/6tStrz2JlKWcpcMSuc39gt"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "No Me Ves",
-      "url": "https://open.spotify.com/track/2LyiWca1jIqGUD0GGro600"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Dejar Ir",
-        "url": "https://open.spotify.com/album/2jYxX2nzr4bHdKy1SiE4D9"
-      },
-      "artists": [
-        {
-          "name": "Cavito Mendoza",
-          "url": "https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7"
-        }
-      ],
-      "duration_ms": 207449,
-      "name": "Dejar Ir",
-      "url": "https://open.spotify.com/track/0fDBYjcdhyX5dBYLk8CuVn"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "El Juego",
         "url": "https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 168774,
       "name": "El Juego",
       "url": "https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Dejar Ir",
+        "url": "https://open.spotify.com/album/2jYxX2nzr4bHdKy1SiE4D9"
+      },
+      "artists": [
+        {
+          "name": "Cavito Mendoza",
+          "url": "https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7"
+        }
+      ],
+      "duration_ms": 207449,
+      "name": "Dejar Ir",
+      "url": "https://open.spotify.com/track/0fDBYjcdhyX5dBYLk8CuVn"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Curarire",
-        "url": "https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See"
-      },
-      "artists": [
-        {
-          "name": "puertoazul",
-          "url": "https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7"
-        },
-        {
-          "name": "Hilandera",
-          "url": "https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO"
-        }
-      ],
-      "duration_ms": 202154,
-      "name": "Curarire",
-      "url": "https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "CHEKE-CHEKE",
         "url": "https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 261131,
       "name": "CHEKE-CHEKE",
       "url": "https://open.spotify.com/track/3f7QZgD4hF83S97OOyqFx2"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Curarire",
+        "url": "https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See"
+      },
+      "artists": [
+        {
+          "name": "puertoazul",
+          "url": "https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7"
+        },
+        {
+          "name": "Hilandera",
+          "url": "https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO"
+        }
+      ],
+      "duration_ms": 202154,
+      "name": "Curarire",
+      "url": "https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA"
     },
     {
       "added_at": "2022-11-10 00:19:53",

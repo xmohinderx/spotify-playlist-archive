@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-267 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
+268 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/242qd1QUw3B0ykfcQKOcL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [All of my Love](https://open.spotify.com/track/6njFhFU1tSIY897jUc16HL) | [Dexter Mars](https://open.spotify.com/artist/11r9LS6eetjB3U4WZauIDR) | [All of my Love](https://open.spotify.com/album/7HMhA5ZAbP1Lizu8zc9ieJ) | 2:18 | 2022-07-19 | 2022-07-29 |
 | [Always Sometimes](https://open.spotify.com/track/0CccKVvnGtDBJHfeb0IdiE) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Always Sometimes](https://open.spotify.com/album/6RyzF1MQrLOeGgUqgDP3LK) | 3:25 | 2022-07-19 |  |
 | [Always Sometimes](https://open.spotify.com/track/12hUalAK3jyfO3GreZSca3) | [Nakuru](https://open.spotify.com/artist/6ISsVRBYCg3NJjkAFi0Xy1) | [Always Sometimes](https://open.spotify.com/album/5gpjS6oyQ2TkyqcozSDYId) | 3:25 | 2022-06-29 | 2022-07-29 |
-| [Ambient Cave](https://open.spotify.com/track/1UceKtnkOPzcBCv6qo11OT) | [Story Dancer](https://open.spotify.com/artist/3JtIuaPG9kYHalFVXZkFsv) | [Rivers of Rain](https://open.spotify.com/album/2N6ptDOlAGH8qMB5FCYQ9h) | 3:57 | 2022-06-29 |  |
+| [Ambient Cave](https://open.spotify.com/track/1UceKtnkOPzcBCv6qo11OT) | [Story Dancer](https://open.spotify.com/artist/3JtIuaPG9kYHalFVXZkFsv) | [Rivers of Rain](https://open.spotify.com/album/2N6ptDOlAGH8qMB5FCYQ9h) | 3:57 | 2022-06-29 | 2022-11-14 |
 | [Amplitude](https://open.spotify.com/track/0F8nxG2gJ6xXpanrZlfp4D) | [Lawrence Blake](https://open.spotify.com/artist/4vKwzvwZ7y5uB0OIQzdUhv) | [Amplitude](https://open.spotify.com/album/2sBHOOGlTnp4LhXTq5G6fX) | 2:47 | 2022-06-29 | 2022-09-21 |
 | [And She Came Home \- Mary Lattimore Rework](https://open.spotify.com/track/6lvBZ7cylUHrZzgJCSl0hw) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [And She Came Home \(Mary Lattimore Rework\)](https://open.spotify.com/album/3nr4ZmLW5VK3DrNQM3BUSX) | 3:34 | 2022-06-29 | 2022-07-29 |
 | [Angelical](https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Know Yourself](https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt) | 2:30 | 2022-06-29 |  |
@@ -93,7 +93,7 @@
 | [Field of Reeds](https://open.spotify.com/track/6BX0zRYRRiKtmh3pklMh3v) | [Leo Svirsky](https://open.spotify.com/artist/3xmOLUuEuv7h2FoEUyshHP) | [River Without Banks](https://open.spotify.com/album/2LAUTZciLDliQRULF9z78q) | 7:53 | 2022-07-19 |  |
 | [Filmic \- Original Mix](https://open.spotify.com/track/3UhxZNywlQm37nE7ypOs1t) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Group Therapy](https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa) | 3:49 | 2022-07-19 |  |
 | [Filterscape](https://open.spotify.com/track/0Fouvz6uMkp2hRb0dsUczk) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Filterscape](https://open.spotify.com/album/5Uw0uEp87KaxwmUEMRqyIg) | 3:27 | 2022-06-29 | 2022-07-29 |
-| [Filterscape](https://open.spotify.com/track/5QMOktVvfQGsh8y89OhAbB) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Filterscape](https://open.spotify.com/album/3mUygarUUwymjdMO09J5g1) | 3:27 | 2022-07-19 |  |
+| [Filterscape](https://open.spotify.com/track/5QMOktVvfQGsh8y89OhAbB) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Filterscape](https://open.spotify.com/album/3mUygarUUwymjdMO09J5g1) | 3:27 | 2022-07-19 | 2022-11-14 |
 | [First Light](https://open.spotify.com/track/1PdBJ7Du0HUWHSJxuvPxO8) | [Rain of Crystal Spires](https://open.spotify.com/artist/2Tdh9n5Y25LgOS2PNLVWZ1) | [First Light](https://open.spotify.com/album/3OW7WXeKFjBqSeJLHARz34) | 2:38 | 2022-07-19 |  |
 | [First Light](https://open.spotify.com/track/2FQiMkzVzQBrSEDrx6LIua) | [Rain of Crystal Spires](https://open.spotify.com/artist/2Tdh9n5Y25LgOS2PNLVWZ1) | [First Light](https://open.spotify.com/album/4gvStKjjgoELT525dXbEmu) | 2:38 | 2022-06-29 | 2022-07-29 |
 | [Floating](https://open.spotify.com/track/4wf5xK49EYGX9kHpT91XRH) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Floating](https://open.spotify.com/album/0V8NEzImXsmnlvgnDxzrl5) | 2:22 | 2022-06-29 | 2022-09-11 |
@@ -207,7 +207,7 @@
 | [Sequel](https://open.spotify.com/track/6jxhYCjs0eeu3lUrkNDvyG) | [..\. and the stars](https://open.spotify.com/artist/4H6Wrh5SBfHLYNirgs3pLO) | [Sequel](https://open.spotify.com/album/4ioPSkVm13kcY5a6ISSYD4) | 3:38 | 2022-06-29 | 2022-07-28 |
 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 | 2022-06-29 |  |
 | [Shimmer](https://open.spotify.com/track/6LiWx65mI4iqEFGc3uy5c0) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Shimmer](https://open.spotify.com/album/5lQhD4YmcY2xKifPFzSilr) | 2:09 | 2022-06-29 | 2022-07-29 |
-| [Shimmer](https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Shimmer](https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv) | 2:09 | 2022-07-19 | 2022-11-13 |
+| [Shimmer](https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Shimmer](https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv) | 2:09 | 2022-07-19 |  |
 | [Silent Waters](https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Silent Waters](https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT) | 2:24 | 2022-06-29 |  |
 | [Silent Wave](https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spa Lounge](https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK) | 7:15 | 2022-07-19 |  |
 | [Silent Wave](https://open.spotify.com/track/6TQ5L0J84npxdpz18bohGd) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystic Voyage](https://open.spotify.com/album/5MySf7vIciOzGyt4Tl0DsN) | 7:15 | 2022-10-21 | 2022-11-13 |
@@ -237,6 +237,7 @@
 | [Summer Leaves](https://open.spotify.com/track/1RLdZIQcP0fCt7pGAk25VV) | [CRAS](https://open.spotify.com/artist/7xLXfZZ2WhMqupfnyEZprQ), [KLiJN](https://open.spotify.com/artist/2NeBvyUzeaT49yAKHasE06) | [Summer Leaves](https://open.spotify.com/album/45Qp8puef0kWrGdbzV5KgM) | 5:00 | 2022-07-19 | 2022-11-13 |
 | [Sunrise.](https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/4OkpHMa6TXAV8iZPDpBPah) | 2:58 | 2022-07-19 |  |
 | [Sunrise.](https://open.spotify.com/track/6kv7h8wQzFq9gJDkR8AR24) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/26vgL2Xkr7FyYAe57aCWR4) | 2:58 | 2022-06-29 | 2022-07-29 |
+| [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-14 |  |
 | [Sweet Iris](https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt) | [Lukkii and The Whale](https://open.spotify.com/artist/4UeyQjMmoBKj8AhXpDAiwj) | [Pink Lotus](https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP) | 3:36 | 2022-06-29 |  |
 | [Synecdoche](https://open.spotify.com/track/5SQP5YvLw6zUx9unLdgi3L) | [Anton Belov](https://open.spotify.com/artist/2zzIRgAwjF8dskcUr3hgfz) | [Synecdoche](https://open.spotify.com/album/1hih6eWMwMrT4rawDvUSp4) | 6:06 | 2022-06-29 | 2022-07-29 |
 | [Synecdoche](https://open.spotify.com/track/7AkwuKuX5e7SMpNTKQYToD) | [Anton Belov](https://open.spotify.com/artist/2zzIRgAwjF8dskcUr3hgfz) | [Piano Works I](https://open.spotify.com/album/6oVDzb2GGAlm18hil5hWqn) | 6:06 | 2022-07-19 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of it's early hits and gems\. Cover: Hazel Dickens & Alice Gerrard
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,058 likes - 56 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,076 likes - 56 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blue Moon Of Kentucky](https://open.spotify.com/track/2e0elbkEZi7EW0jlHIK4YY) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Collection](https://open.spotify.com/album/4yoRGOx7QTGiMftU2ap1sv) | 2:07 |
+| 1 | [Blue Moon Of Kentucky](https://open.spotify.com/track/6XHbYnwTB7YoSV4TLeycuB) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:06 |
 | 2 | [Train on the Island](https://open.spotify.com/track/5uI7caUGXYxH6pYhkRxq1z) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Pioneering Women of Bluegrass](https://open.spotify.com/album/47foG5gtaTxSEmEM141ckO) | 1:44 |
 | 3 | [There Ain't Nobody Gonna Miss Me When I'm Gone](https://open.spotify.com/track/0oDtTPB1KWyVSfwfg434TW) | [The Kentucky Colonels](https://open.spotify.com/artist/5aV6tDnBgmezgCSTvL5HnV) | [Long Journey Home](https://open.spotify.com/album/3ld7W37q9JW9grvpSlDdT8) | 2:51 |
 | 4 | [Foggy Mountain Breakdown](https://open.spotify.com/track/29qFlNOssruDfoEN8vN2Uu) | [Flatt & Scruggs](https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1) | [Town and Country](https://open.spotify.com/album/5HVcZRoUGq2WdjAKiIARU5) | 2:20 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 29 | [Memories of Mother](https://open.spotify.com/track/2RGRnGrglKrb61EA9gcCmv) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Good Old Camp Meeting Songs](https://open.spotify.com/album/13765L8ZA4QoTJNLPNI3vV) | 2:51 |
 | 30 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
 | 31 | [I Will Always Be Waiting For You](https://open.spotify.com/track/23Ogy9kRYDlusz8o49sJPn) | [Jim & Jesse](https://open.spotify.com/artist/4lCaf25RGJ4ZPz2fsGUVcq) | [Best Of The Early Years](https://open.spotify.com/album/4CvRWTqKpgMysELjd1pa63) | 2:16 |
-| 32 | [Trail Of Sorrow](https://open.spotify.com/track/5auPuadXQe10VNd2eGa5AO) | [Reno & Smiley](https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H) | [16 Greatest Hits](https://open.spotify.com/album/2TKhTZX3zVdyycpCnmRdiu) | 2:18 |
-| 33 | [Little Birdie](https://open.spotify.com/track/3G1dyfEv1xk4jsSaZVsYaC) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [All Time Greatest Hits](https://open.spotify.com/album/55RfWDpcLEYeIQ17x8bJKG) | 1:58 |
+| 32 | [Trail Of Sorrow](https://open.spotify.com/track/5UK4j1axMzwv8W6Cn1GqRp) | [Reno & Smiley](https://open.spotify.com/artist/3dj0KjG7ZqNbMfbe2BVI4H) | [Early Years 1951\-1959 \- Volume 2](https://open.spotify.com/album/2prMM8p2294Fa1bikOWQPZ) | 2:19 |
+| 33 | [Little Birdie](https://open.spotify.com/track/2MnJy9SG0hHtP2fBEcgIaM) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Folk Concert](https://open.spotify.com/album/3lAL6N6bst0ZQgYq0qL47s) | 1:59 |
 | 34 | [Rocky Road Blues](https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:33 |
 | 35 | [Rocky Top](https://open.spotify.com/track/6se4sK4ZbkNgOJUkmszbxX) | [The Osborne Brothers](https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c) | [From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant](https://open.spotify.com/album/6O6e7u27FqCw3G0PK4Dcw4) | 2:41 |
 | 36 | [White House Blues](https://open.spotify.com/track/1QgQaW8fW27DU6U4uYpeNT) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Country Music Hall Of Fame](https://open.spotify.com/album/3MpewfbJva3YBXrlzDHaHy) | 2:12 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 55 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
 | 56 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDk5NWVhNWE2YjQzYWJiNzQ4MmM1YWM4ZjcwMGFmYTMx`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDE5N2M3YzIwMWVjYWE0YjQ5OGY1MTJiM2FjZDE3ODM5`

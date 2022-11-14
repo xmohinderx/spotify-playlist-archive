@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,018 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,096 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 60 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 |
 | 61 | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/track/69ECulmgzH6xt9pZH7bIYz) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [MBAPPÉ \(feat\. KAHUKX\)](https://open.spotify.com/album/0kQpqZ5BSPyA2JF6payfYS) | 2:53 |
 | 62 | [Ruin My Life](https://open.spotify.com/track/3078LZDJY0jGDcLupjBFRP) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Ruin My Life](https://open.spotify.com/album/7iUpyRmyLJbkHaa1s68f2x) | 3:17 |
-| 63 | [I LUV U](https://open.spotify.com/track/1acTXi35BL42XlNajWtmQn) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Brand New Pop](https://open.spotify.com/album/112ntdoaU3rZe4MQVm6Lb1) | 2:20 |
+| 63 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 |
 | 64 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 65 | [Believe](https://open.spotify.com/track/7KSNAoH0zVnpb6bV7xezaX) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Believe](https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ) | 4:01 |
 
-Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMDViYTgxOTRkZTRjMzg1OThkYWYwZmMyZTZjNDk5ODUx`
+Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMGM4MmM3YTgzODZkZmU0YWFjZTY3NDZhNDRmZjJkOTZj`

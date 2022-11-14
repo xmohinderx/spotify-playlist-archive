@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,329 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,477 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Volare](https://open.spotify.com/track/5HIIh4GRqdZOpn7K0pp7dr) | [Worldscapes](https://open.spotify.com/artist/5TxkDdmptOOxsMa1yIde1V) | [Arrivederci Roma](https://open.spotify.com/album/4yQdZaKDTHnLNEKpgrFhyG) | 3:01 |
+| 1 | [Volare](https://open.spotify.com/track/2rKBznUlCBpQV3guDwpY4F) | [Joel Francisco Perri](https://open.spotify.com/artist/219qF0oC6xvUcZQ2mX3kyv), [Cedric Perri](https://open.spotify.com/artist/36QCHheJDcDZVmzrS2MSlS) | [Joel Francisco Perri: Mandolins From Italy \- 24 Most Popular Melodies](https://open.spotify.com/album/0kfuern3Qvl8vgLBjRCbFP) | 2:58 |
 | 2 | [That's Amore](https://open.spotify.com/track/6Tf7s05YCkRLAeeqYqXLy0) | [Italian Love Song Passione](https://open.spotify.com/artist/30J27cFKb6sD7MfLuaDvCJ) | [That's Amore Italian Love Songs](https://open.spotify.com/album/0wez47X2Aq5WxYY4Wo21OT) | 2:51 |
 | 3 | [Fettuccine alfredo](https://open.spotify.com/track/2pBTgOxSrqhW7WihPRIqrL) | [Daniele Benati](https://open.spotify.com/artist/35qX6p8b4ZvGmH3u9iI5kn), [Fabio Di Bari](https://open.spotify.com/artist/2j4JhFARcGXR4eVZjzYQ0B), [Giulio Vetrone](https://open.spotify.com/artist/1fsMTrPRqryNtDELpcT2g0) | [From All Around the World](https://open.spotify.com/album/2VPkD0pipkhcxKV3Wqgza5) | 2:44 |
 | 4 | [Oh Marie](https://open.spotify.com/track/2jWFsD7vt7P8ZTqesxwh4n) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ) | [Italian Dinner Party](https://open.spotify.com/album/6ghbQNSTc4hkm1Kvsj0PDt) | 3:41 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 52 | [Cinque terre](https://open.spotify.com/track/5tlkjgGNPvGVOSdtlEz03i) | [Riccardo Gioggi](https://open.spotify.com/artist/6xRCOPh9hUpwCgPG4peyZL) | [Traditional music of italy](https://open.spotify.com/album/21lcrjRLEIAxkyQf9Ablgc) | 2:16 |
 | 53 | [Tutta pe' me](https://open.spotify.com/track/1Eq0N8Dobd5zbDwXp4UvRg) | [Mario Maglione](https://open.spotify.com/artist/5vGCZz8J0jZ5URIGoZkC3Y) | [Napoli...in smoking, vol\. 4](https://open.spotify.com/album/6voHe2KKZ6r55r0obEyYvi) | 4:05 |
 
-Snapshot ID: `MTYyODg1MzU4NSwwMDAwMDAwMGRlNzc0M2NmOTZkMzcwMTZiMTg5NzVmZThhZjIzMjgw`
+Snapshot ID: `MTYyODg1MzU4NSwwMDAwMDAwMGVhYzI2MDQ3Y2EwNGZlYWI4YjQwZGU2YTcyNGM4NDBl`

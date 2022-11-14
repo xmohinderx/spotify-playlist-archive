@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-246 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+247 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Kind of Freak \- Jafunk Remix](https://open.spotify.com/track/0hpsO7RHd5pQrUkzl2Psom) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Kind of Freak \(Jafunk Remix\)](https://open.spotify.com/album/2CN0jwmD1faV4TyiYzjH5e) | 3:29 | 2022-03-04 | 2022-10-29 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 |  |
 | [LAX](https://open.spotify.com/track/4I0s9c8rjPVm4QoFtnW2lb) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [LAX](https://open.spotify.com/album/6oEF57MFdCxeKkPz31mS2m) | 3:45 | 2020-11-20 | 2022-04-09 |
-| [Lazy Days](https://open.spotify.com/track/4GE7EoMLS2ZH7iTHmHxSHh) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Lazy Days](https://open.spotify.com/album/67VKxRsawvj6mHRA3WScgr) | 4:28 | 2022-10-21 |  |
+| [Lazy Days](https://open.spotify.com/track/4GE7EoMLS2ZH7iTHmHxSHh) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Lazy Days](https://open.spotify.com/album/67VKxRsawvj6mHRA3WScgr) | 4:28 | 2022-10-21 | 2022-11-14 |
+| [Lazy Days](https://open.spotify.com/track/5D01593yrUBdq1wUP2RStq) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [STR4TASFEAR](https://open.spotify.com/album/7mMTBm5ktIU92g85RoYLdX) | 4:28 | 2022-10-21 |  |
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-17 |  |
 | [Lesson](https://open.spotify.com/track/3cR97t8jvOLzIUU4s4mWS4) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Lesson](https://open.spotify.com/album/7aKXdUrAXVwHSrO0Alw479) | 4:10 | 2021-10-15 | 2022-10-29 |
 | [Life's Been Good To Me](https://open.spotify.com/track/70maYMm40ytuPewZ63bzd6) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Life's Been Good To Me](https://open.spotify.com/album/06uPzH5sNiyThjWFLLc48O) | 5:20 | 2021-10-22 | 2022-07-02 |

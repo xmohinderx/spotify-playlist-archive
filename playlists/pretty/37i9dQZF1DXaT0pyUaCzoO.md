@@ -78,6 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 | 68 | [Africa](https://open.spotify.com/track/50IyPT0QemwtCYaGolWn2j) | [Uncle Devin](https://open.spotify.com/artist/1qr8l7v727Gt0PLXMuVnpN) | [Drum Tales!](https://open.spotify.com/album/1o2BByN9FycCqhttUYLrlj) | 5:00 |
 | 69 | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Glory \(From the Motion Picture Selma\)](https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx) | 4:32 |
 | 70 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 |
-| 71 | [Strength Courage & Wisdom](https://open.spotify.com/track/7IjfQIaYYcbuSRWXVk2dGd) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Family R&B](https://open.spotify.com/album/0tM9RV7esd0TcfOphblrrw) | 4:57 |
+| 71 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 |
 
-Snapshot ID: `MTYzMTUzNzQ1NiwwMDAwMDAwMDFhZmE5YTllMDNmZDQwOTMwYTgwMjdlZDNlZmUxYThh`
+Snapshot ID: `MTYzMTUzNzQ1NiwwMDAwMDAwMDUyNzZmYjQ3ZmJmYmYyZmY1NjJlYTBmYTU4ZDM0NjFj`

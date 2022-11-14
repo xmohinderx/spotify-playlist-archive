@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,347 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,588 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 | 37 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
 | 38 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 |
 | 39 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
-| 40 | [Vas a Llorar \(No Sé Querer\)](https://open.spotify.com/track/4OKJ7kjaHDpwZg3mnwgPfb) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Vas a Llorar \(No Sé Querer\)](https://open.spotify.com/album/1ZvfV3hGMOXtTiZkrMq4up) | 3:45 |
+| 40 | [Vas a Llorar \(No Sé Querer\)](https://open.spotify.com/track/41CUvYi99wtIMvGdrWB4wj) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:45 |
 | 41 | [No Me Doy Por Vencido](https://open.spotify.com/track/1eLRga2SlL8WNMe3IbwP3q) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Romances](https://open.spotify.com/album/6cFUspXBAwzoLZfMLrQPlc) | 3:57 |
 | 42 | [Te estás olvidando de mí](https://open.spotify.com/track/3AKyURJxA2IRJwxjkZggC8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te estás olvidando de mí](https://open.spotify.com/album/5xBZq1HDeIt56vtLU1eMAY) | 3:02 |
 | 43 | [Jueves](https://open.spotify.com/track/1P6Hp9P2IejrmC8ssAQNPQ) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Nuestra Casa a la Izquierda del Tiempo](https://open.spotify.com/album/7kkgWcMLYlOJXWudVS66Wp) | 4:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8dqv8mDRBy.md) - [plain]
 | 59 | [Tu mirada en mi](https://open.spotify.com/track/2KktXDl8ImxzmhF2dkhDA2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Mundos Opuestos](https://open.spotify.com/album/3wEMYca7zqRh3KCTDXPJcl) | 3:42 |
 | 60 | [Vengo Del Futuro](https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:16 |
 
-Snapshot ID: `MTY2NzUzODAwMCwwMDAwMDAwMGQzMzE1NjY2ZWUwYmJiODZlZDQ5NTc1OTY5MmQxZDk5`
+Snapshot ID: `MTY2NzUzODAwMCwwMDAwMDAwMGIyMzdhN2M1MWY2NGNmOGJjYTQ2OGRhM2IyNjlhYjE1`

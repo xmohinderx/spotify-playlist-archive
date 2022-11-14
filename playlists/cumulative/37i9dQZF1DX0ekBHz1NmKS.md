@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-597 songs - 1 day 7 hr 46 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+598 songs - 1 day 7 hr 48 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Naked Love](https://open.spotify.com/track/0tBKRyjgUWvU7zNjYqnoDz) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Naked Love](https://open.spotify.com/album/2x1WdqyybAl3oe9hGMG074) | 3:16 | 2022-05-05 | 2022-07-28 |
 | [Neon Lights](https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Neon Lights](https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE) | 3:29 | 2022-05-12 |  |
 | [Never Enough](https://open.spotify.com/track/7dzSmIEjI8AO2ET2SLMUlw) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Never Enough](https://open.spotify.com/album/3njKzpqfXbFpiZoSzPZeMe) | 3:06 | 2021-12-16 | 2022-02-15 |
+| [New World Coming](https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [New World Coming](https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE) | 2:05 | 2022-11-10 |  |
 | [Nightwalker](https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Nightwalker](https://open.spotify.com/album/1mHq9ulE1PvexkZnpv5Lrs) | 2:32 | 2021-12-16 | 2022-05-13 |
 | [Nine Minutes](https://open.spotify.com/track/6LtAO6yClMpD5rDpKl6D0p) | [Clara Malby](https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH) | [Nine Minutes](https://open.spotify.com/album/6IXocBzWyc3zqMBX63rOlQ) | 3:08 | 2022-06-02 | 2022-06-24 |
 | [NO HOTEL](https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [NO HOTEL](https://open.spotify.com/album/0iP3oGotyq8PNwVHm9o2fJ) | 2:26 | 2022-04-01 | 2022-04-21 |
@@ -602,7 +603,7 @@
 | [Änglavakt](https://open.spotify.com/track/61inXZujdBrTs0WJiPjfjJ) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Änglavakt](https://open.spotify.com/album/69Qc9CUMoBx3TbqvFdCkRO) | 3:03 | 2022-02-26 | 2022-07-29 |
 | [Ännu mer](https://open.spotify.com/track/7Df3phKqcBZKauErNZmGdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ännu mer](https://open.spotify.com/album/2JwKCHjZQBVIAN30auXm6O) | 3:04 | 2022-11-04 |  |
 | [Äntligen](https://open.spotify.com/track/0rDkGAmFy3mjGOg2E6AmZi) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [Äntligen](https://open.spotify.com/album/4h2sdTMIPJwARCNCIGuvzL) | 4:02 | 2022-06-23 | 2022-07-09 |
-| [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 |  |
+| [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/track/459dyx2K2WuQRWxT3g8lwg) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ÄR DU INTE TRÖTT PÅ ATT VARA DU?](https://open.spotify.com/album/4D3HtYzfE4oQXrEODIQkmI) | 2:59 | 2022-05-05 | 2022-11-14 |
 | [Åh maj](https://open.spotify.com/track/5ybpiXNHx0H2FqAEOeUrwU) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL) | [Åh maj](https://open.spotify.com/album/6g02MYlKBLLsOPQVsELSVP) | 2:50 | 2022-05-30 | 2022-07-27 |
 | [Överdos](https://open.spotify.com/track/3Ty4UGx4epTWK3Yt1IFHRV) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui), [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Överdos](https://open.spotify.com/album/0GkO6ZGHN2mFjshFAGvphH) | 2:25 | 2021-12-16 | 2022-02-04 |
 

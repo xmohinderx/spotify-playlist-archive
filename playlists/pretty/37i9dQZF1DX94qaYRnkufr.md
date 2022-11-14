@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 
 > The essential tracks by the Dutch <a href="spotify:artist:60d24wfXkVzDSfLS6hyCjZ">DJ and producer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,299 likes - 89 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,350 likes - 89 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 41 | [Together](https://open.spotify.com/track/6nLctpnQJiPTxkaSgbPKiw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Seven](https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk) | 3:41 |
 | 42 | [Ocean \(feat\. Khalid\)](https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ocean \(feat\. Khalid\)](https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH) | 3:36 |
 | 43 | [Breach \(Walk Alone\)](https://open.spotify.com/track/5UHrKSQhNs96msAx8LPVwS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [BYLAW EP](https://open.spotify.com/album/5dv1oLETxdsYOkS2Sic00z) | 2:58 |
-| 44 | [The Only Way Is Up](https://open.spotify.com/track/2SmCu3r71QerMlxbOopdQX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/2XuubqlDwvySO4Xn7acM68) | 4:18 |
+| 44 | [The Only Way Is Up](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:18 |
 | 45 | [Pizza](https://open.spotify.com/track/5oAgI7Pzg6vxuKrfapg3Pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Pizza](https://open.spotify.com/album/2GNtmwsvrBPWHl8aaOXJMp) | 4:15 |
 | 46 | [Dreamer](https://open.spotify.com/track/0wUxh6XMc698xPCfgBaPRV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Mike Yung](https://open.spotify.com/artist/4UffC3o3JiLSg7pa5DpQbp) | [Dreamer](https://open.spotify.com/album/4D13M99kn4kSlPt5ZtYy8R) | 3:13 |
 | 47 | [Game Over](https://open.spotify.com/track/5Zpe48RJ5Vs1YuFRodYdeS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [LOOPERS](https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409) | [Game Over](https://open.spotify.com/album/28DX5MHDKHdqLJ4UUHmzve) | 2:35 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94qaYRnkufr.md) - [plain]
 | 88 | [Error 404](https://open.spotify.com/track/3IrPSIZXepPwIoKLQ4ADad) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Error 404](https://open.spotify.com/album/5FmOWKM0D2K4awi5bAwIwn) | 5:33 |
 | 89 | [Tremor \- Sensation 2014 Anthem](https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:54 |
 
-Snapshot ID: `MTY2NDcyNjI5NCwwMDAwMDAwMDUwZTA0YmZlMjIwNWQwOTQwNzU1MjIyMWYzNGYwMGZh`
+Snapshot ID: `MTY2NDcyNjI5NCwwMDAwMDAwMGU2NDYyNTFkODAyNTU3ZDhhZjUyNTEyYjg3ZTk1OGM2`

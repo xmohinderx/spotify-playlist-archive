@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 463534,
+  "num_followers": 464339,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGU4NjQ3NWY3NDVjNWQwNmJjOTI4OGUwZTlkYjc1MjE4",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDVhNGMxZDMwM2IxNDgyMzM2NTg0MGQ5OTY2YjkzMTJm",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
+      "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "A Dave Brubeck Christmas",
-        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
       },
       "artists": [
         {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 212400,
-      "name": "To Us Is Given",
-      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
+      "duration_ms": 200461,
+      "name": "Christmas Calling (Jolly Jones)",
+      "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -375,18 +375,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
         }
       ],
-      "duration_ms": 160290,
-      "name": "Christmas Don't Be Late",
-      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
+      "duration_ms": 212400,
+      "name": "To Us Is Given",
+      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
     },
     {
-      "added_at": "2022-10-21 04:01:00",
+      "added_at": "2021-11-12 15:48:58",
       "album": {
         "name": "I Dream Of Christmas",
         "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 200461,
-      "name": "Christmas Calling (Jolly Jones)",
-      "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
+      "duration_ms": 160290,
+      "name": "Christmas Don't Be Late",
+      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Breaking It Up!",
-        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
-      },
-      "artists": [
-        {
-          "name": "Louis Prima",
-          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Shake Hands with Santa Claus - Mono Recording",
-      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas in the Rockies",
         "url": "https://open.spotify.com/album/0YXb7Wfn8T0HOvc0ZQblc8"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 226917,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/5GDMoDTI2iqYlykNq5hw6l"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Breaking It Up!",
+        "url": "https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX"
+      },
+      "artists": [
+        {
+          "name": "Louis Prima",
+          "url": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Shake Hands with Santa Claus - Mono Recording",
+      "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Big Band Christmas",
         "url": "https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 133893,
       "name": "We Wish You The Merriest",
       "url": "https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Let's Share Christmas",
+        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
+      },
+      "artists": [
+        {
+          "name": "Don Sebesky",
+          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -757,20 +773,36 @@
       "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Let's Share Christmas",
-        "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
+        "name": "Christmas Is Coming (2022 Stereo Mix)",
+        "url": "https://open.spotify.com/album/4fCX1f8zki8U4kUHRfcuUP"
       },
       "artists": [
         {
-          "name": "Don Sebesky",
-          "url": "https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY"
+      "duration_ms": 205410,
+      "name": "Christmas Is Coming - 2022 Mix",
+      "url": "https://open.spotify.com/track/2iMeTjonLEIV8lx07EFpSo"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "A Visit From St. Nicholas",
+        "url": "https://open.spotify.com/album/665z0eJtFybjWpF1tjgVFj"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 381057,
+      "name": "A Visit From St. Nicholas",
+      "url": "https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -793,52 +825,36 @@
       "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "A Visit From St. Nicholas",
-        "url": "https://open.spotify.com/album/665z0eJtFybjWpF1tjgVFj"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 381057,
-      "name": "A Visit From St. Nicholas",
-      "url": "https://open.spotify.com/track/1Plru2OsTMH5W2O9fyFKsg"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Christmas Is Coming (2022 Stereo Mix)",
-        "url": "https://open.spotify.com/album/4fCX1f8zki8U4kUHRfcuUP"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 205410,
-      "name": "Christmas Is Coming - 2022 Mix",
-      "url": "https://open.spotify.com/track/2iMeTjonLEIV8lx07EFpSo"
-    },
-    {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Jazz Christmas Songs By The Fire",
-        "url": "https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg"
+        "name": "My Christmas Night",
+        "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
       },
       "artists": [
         {
-          "name": "Scott Leonard Jazz Band",
-          "url": "https://open.spotify.com/artist/3soQqRQIgqqYLTR62pZ8mK"
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Claudia Zannoni",
+          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Roberto Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz"
         }
       ],
-      "duration_ms": 201375,
-      "name": "Have Yourself A Merry Little Christmas - Fireplace",
-      "url": "https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4"
+      "duration_ms": 248052,
+      "name": "My Christmas Night",
+      "url": "https://open.spotify.com/track/49LTYbjanIrYyKgUKA2s5R"
     }
   ],
   "unique_name": "Christmas Jazz",

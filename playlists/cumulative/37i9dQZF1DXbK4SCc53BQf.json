@@ -89,6 +89,24 @@
     {
       "album": {
         "name": "Al Taller del Maestro",
+        "url": "https://open.spotify.com/album/5zA0BCRlgbhR7bBbDcrQsi"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312666,
+      "name": "Al Taller del Maestro",
+      "url": "https://open.spotify.com/track/5OX1HvUXMIgUg507al1WbW"
+    },
+    {
+      "album": {
+        "name": "Al Taller del Maestro",
         "url": "https://open.spotify.com/album/4u6CuWNHKdv07TnoTQ2aE1"
       },
       "artists": [
@@ -349,7 +367,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 232254,
       "name": "Dios Te Bendiga",
       "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"

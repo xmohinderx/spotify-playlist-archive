@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Photo: Tiësto, Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,229 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,304 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 97 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 |
 | 98 | [Sad Ghost](https://open.spotify.com/track/45fNZIKK6NYTLq5nNvTTyx) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sad Ghost](https://open.spotify.com/album/0BKbLRyigNvoZIBcCw1fcH) | 3:07 |
 | 99 | [Do I make you nervous?](https://open.spotify.com/track/1FC511SYR7SXb1qrBr3oq0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Do I make you nervous?](https://open.spotify.com/album/5zjEJwtQGYfo08aaYiZsYZ) | 2:32 |
-| 100 | [WHEN WE WERE KIDS](https://open.spotify.com/track/7uhsjlaoUkiCe9mpvG90pJ) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [ENDLESS](https://open.spotify.com/album/7dKuJH9pxoEOGkMfYiY2PB) | 3:18 |
+| 100 | [WHEN WE WERE KIDS](https://open.spotify.com/track/08RcqKgGxRBnaqAsgm07DI) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [WHEN WE WERE KIDS](https://open.spotify.com/album/3umxF4s0UtsmJ1yOjDBICp) | 3:18 |
 
-Snapshot ID: `MTY2ODIxMjE3NCwwMDAwMDAwMDc1NmMzOTYxNjcwMWFiMGFkYTM4MTBkZDZmNTdlMjJm`
+Snapshot ID: `MTY2ODIxMjE3NCwwMDAwMDAwMGFmZmJhYjQ5Yzk5ODc0NTZlOTE0ZmE5ZWM1NzBkM2Y4`

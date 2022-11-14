@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,586 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,615 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 34 | [Look Out](https://open.spotify.com/track/4eBxXC8Gknerc35BsQ424w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 4:19 |
 | 35 | [Put That On My Set \(feat\. A$AP Rocky & Skepta\)](https://open.spotify.com/track/2kwxN1whHc0YR0cBHR5iOi) | [A$AP Mob](https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cozy Tapes: Vol\. 1 Friends \-](https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc) | 3:21 |
 | 36 | [Tour Bus Massacre](https://open.spotify.com/track/7tk3A7ykNdNPRhJHzaZZnJ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Blacklisted](https://open.spotify.com/album/1w9JFLfJEGPibnydqQlPAO) | 3:05 |
-| 37 | [Lush](https://open.spotify.com/track/7aqXyUkthMNteQz3bm1QCq) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 2:48 |
+| 37 | [Lush](https://open.spotify.com/track/29UcBXrnY3sOsj7Rk9i8NC) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Lush](https://open.spotify.com/album/3IohPToAbg1vSgsX6BnIg6) | 2:46 |
 | 38 | [Over the Top](https://open.spotify.com/track/5o54tiWbHESJ5RHBIbRnvi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 2:51 |
 | 39 | [Can You Hear Me? \(Ayayaya\) \(feat\. Skepta, Jme & Ms D\)](https://open.spotify.com/track/0zmMSFU9c46I2mmw34a4XF) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [MSD](https://open.spotify.com/artist/6SoJMemX8iYocIPrGioXYv), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Noughties Hits](https://open.spotify.com/album/38d7EZ8T6z6DHZhaBtymB1) | 3:52 |
 | 40 | [Energy](https://open.spotify.com/track/7IMqgNhzeFbxK0kOwNgybQ) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Energy](https://open.spotify.com/album/2hIvVt0wi9fFvX5wV8lfRa) | 3:12 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 61 | [Coming Soon](https://open.spotify.com/track/7F52tArntesgjZT9t8rp6L) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Makonnen & Ceon](https://open.spotify.com/artist/0r7BTt9apQmeFMiFM10CYn) | [Coming Soon](https://open.spotify.com/album/5SRuNtAVE7SZ0GgUHvbIQC) | 3:40 |
 | 62 | [Make Peace Not War](https://open.spotify.com/track/1YHC7vYpLhkUMftjYJFUat) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Make Peace Not War](https://open.spotify.com/album/1TMGC0h58KA11cE9yZfq9b) | 3:14 |
 
-Snapshot ID: `MTU1OTI1NzI2MCwwMDAwMDAwMGE0NTZlNDc1N2YzZTdkMDRhMjBjY2E2YTI4MTk2N2Vl`
+Snapshot ID: `MTU1OTI1NzI2MCwwMDAwMDAwMDQxNTdmMjE4YTA0YjM5ZDAxZDM4ZDc5YWQzODQ0MzAz`

@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-115 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
+116 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/2pF9f5Ff26sFMxb5DKpzBz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,12 @@
 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 | 2022-05-18 |  |
 | [Across The Ocean, But Not Yet](https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh) | [Madeleine Cocolas](https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB) | [Ithaca](https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS) | 5:41 | 2022-05-18 | 2022-07-29 |
 | [Adkrog](https://open.spotify.com/track/7wpp45hkCqB7Atc4ZHCcg8) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV) | [Adkrog](https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC) | 4:16 | 2022-05-18 | 2022-07-29 |
-| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-07-01 |  |
+| [Adkrog \(feat\. Gareth Jones\)](https://open.spotify.com/track/7eRpn6OQ7U5KOMrcomSy0C) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO) | [SEIM](https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8) | 4:16 | 2022-07-01 | 2022-11-14 |
 | [Affirmation Pt\. II](https://open.spotify.com/track/2k1u3DMlWX82JcaLy88Xvr) | [Sally Decker](https://open.spotify.com/artist/4a4XbzVUadFOng9sQsvp7l), [Briana Marela](https://open.spotify.com/artist/35iTyTjBjpcGsXWRui2ZvX), [Emily Cardwell](https://open.spotify.com/artist/5ypl6CBT7VZfDjDEnMExOH) | [In the Tender Dream](https://open.spotify.com/album/6mOXe8Zou8L1DUvebPX2G6) | 3:27 | 2022-05-18 | 2022-07-29 |
 | [Afraid](https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/41CXQpu3hZG8s5t6UQO1Eg) | 3:46 | 2022-05-18 | 2022-07-28 |
 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 | 2022-07-01 |  |
 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 | 2022-05-18 | 2022-07-29 |
+| [ahead](https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [ahead](https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ) | 2:04 | 2022-11-11 |  |
 | [All Things Devour \- Botany Remix](https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO), [Botany](https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81) | [All Things Devour \(Botany Remix\)](https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70) | 5:26 | 2022-05-18 | 2022-07-23 |
 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 | 2022-05-18 | 2022-07-29 |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-09-07 |  |

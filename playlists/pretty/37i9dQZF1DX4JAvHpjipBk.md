@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Rihanna, Wizkid, Lil Tjay, Julia Michaels, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,987,382 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,987,946 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 98 | [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 |
 | 99 | [The Art Of Not Telling Anyone](https://open.spotify.com/track/7upmlUPKE350KZFAplnzrt) | [Howevever](https://open.spotify.com/artist/0OBmQ0rKcwQQS31X1kDpdY) | [The Art Of Not Telling Anyone](https://open.spotify.com/album/2fj5Gws816jnwDf60PmnAL) | 5:07 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDQ2MzU1N2YxZGRlZTNlNDc3MWVlNjMxMjRlNWEzZjg4`
+Snapshot ID: `MTY2ODM1NDY0NiwwMDAwMDAwMGNmYmJiNzM3MTI0ZDgwNWYyOThhNjQ2ZDg0MTVmMTYx`

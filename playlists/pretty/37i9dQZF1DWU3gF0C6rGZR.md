@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,849 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,931 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 82 | [Ocupen Su Localidad / Hoy Puede Ser un Gran Dia \- En el Luna Park \- Argentina](https://open.spotify.com/track/56vU1zf9Dz8ySx6zhu3pI3) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Serrat & Sabina \(En El Luna Park \- Argentina\)](https://open.spotify.com/album/1lzXpjoeiViNubwrLq5nDC) | 5:30 |
 | 83 | [Y Si Amanece por Fin](https://open.spotify.com/track/549MXL7AHiCGDGtzE13uNX) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:35 |
 | 84 | [Ara Que Tinc Vint Anys](https://open.spotify.com/track/3sbFL6MOViiY2cmVeRLTWY) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Ara Que Tinc Vint Anys](https://open.spotify.com/album/67773pV5RK9l7mfnfjqHNS) | 2:31 |
-| 85 | [Tiramisu de Limon](https://open.spotify.com/track/4W9jNeSYxoe10Dtqb8w0xr) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:09 |
+| 85 | [Tiramisu de Limon](https://open.spotify.com/track/0x8BlHc0tPoiY8zAzsD2Wa) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Vinagre Y Rosas](https://open.spotify.com/album/2KhZpzpA0WTSIeJfPvHoD6) | 4:11 |
 | 86 | [Esos Locos Bajitos \- En Directo](https://open.spotify.com/track/0n5ovSsvaK2vgz40oSg9Qm) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [El Simbolo y el Cuate](https://open.spotify.com/album/2GknfWNukaXr5gTMRrkfL8) | 4:11 |
 | 87 | [A Mis Cuarenta y Diez \- Directo](https://open.spotify.com/track/1npWsipDCzTEemCdmx6LrS) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 6:39 |
 | 88 | [Temps Era Temps \(with Quico Pi de la Serra\)](https://open.spotify.com/track/3G9pubPryHhTewQs0yiktH) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Quico Pi de la Serra](https://open.spotify.com/artist/4UxtpuDQoNjkxJ42Z6Qilt) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [El Titiritero \- Directo México](https://open.spotify.com/track/3PjTUuYX87fitBBaRhFaVa) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat en Bellas Artes \(Directo México\)](https://open.spotify.com/album/7kOxIx5NZ9dFbArJFMNZIY) | 4:21 |
 | 100 | [Mas de Cien Mentiras \- En Directo](https://open.spotify.com/track/4Nt5ZxHaMELMnGmrL5pn6v) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 3:23 |
 
-Snapshot ID: `MTYyOTcxNDc5MCwwMDAwMDAwMDFjYjlhNzNiN2FkZmZkZTI4YzNmYWUwN2YxMzllZTRj`
+Snapshot ID: `MTYyOTcxNDc5MCwwMDAwMDAwMDc4ZGIwYTUwOGU3ZDkwZjY3YTZlZjBjOGRhNmEzMzZk`

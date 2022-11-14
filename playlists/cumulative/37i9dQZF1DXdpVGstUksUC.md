@@ -4,12 +4,12 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-261 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+262 songs - 1 day 0 hr 22 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/0kEBeGMX8HgjATVTHFh9Kh) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/7jGvR8HjLR59JfuapPJDud) | 5:18 | 2021-11-30 | 2022-07-29 |
-| [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 | 2022-04-28 |  |
+| [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 | 2022-04-28 | 2022-11-14 |
 | [12 Years in the Tomb](https://open.spotify.com/track/0rRIVceDUSlJW00h3IT7x1) | [Saint Vitus](https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn) | [12 Years in the Tomb](https://open.spotify.com/album/1sVawfDBLJPGgAtsmxy99h) | 5:23 | 2022-01-14 | 2022-01-28 |
 | [2 Wheel Nation](https://open.spotify.com/track/3MY1UKqJnow2BDZmfnhe8S) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [III](https://open.spotify.com/album/0AY1owklM5PB1t2lwuBjel) | 5:23 | 2021-11-30 | 2022-02-11 |
 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 | 2021-11-30 |  |
@@ -139,6 +139,7 @@
 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 | 2021-11-30 |  |
 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 | 2021-11-30 | 2022-07-19 |
 | [Leftovers](https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO) | 3:50 | 2022-04-28 |  |
+| [Let the Devil In](https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Woodland Rites](https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro) | 5:00 | 2022-10-14 |  |
 | [Let the Devil In](https://open.spotify.com/track/21rITaX79TuUXMxCQRdgB6) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Let the Devil In](https://open.spotify.com/album/1ia1XTFIDxefTkgoLGXoWo) | 5:00 | 2021-11-30 | 2022-08-14 |
 | [Levantado](https://open.spotify.com/track/5TJCXFm2oBmRyIJklBDt26) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Maera](https://open.spotify.com/album/4PptTF7Wq8f3HtlIsPU8vq) | 3:36 | 2021-11-30 | 2022-07-28 |
 | [Lonely Lyle](https://open.spotify.com/track/390fYdvfqp2CRdeqonosQv) | [Big Business](https://open.spotify.com/artist/5o1BnhK2ziS42PCJMuiGd6) | [Battlefields Forever](https://open.spotify.com/album/5c92XNwoGcrQ4rWUX2M3aK) | 9:18 | 2021-11-30 | 2022-02-13 |
@@ -169,7 +170,7 @@
 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 | 2021-11-30 |  |
 | [Omens And Portents 1: The Driver](https://open.spotify.com/track/6XGLiFTNkatlSjGimT0tGU) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [The Bees Made Honey In The Lion's Skull](https://open.spotify.com/album/7JjgvQWsLpIAvwgj2QtxAP) | 9:07 | 2021-11-30 | 2022-07-26 |
 | [Orchard](https://open.spotify.com/track/3bZG5LMoqBiXDwSSi2p2VN) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Soma](https://open.spotify.com/album/1uT455zoyeabAFnd8er1F3) | 6:37 | 2022-02-22 | 2022-03-18 |
-| [Our Mother Ash](https://open.spotify.com/track/06X9h0zkeEncfohssytDp8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Trails & Passes](https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr) | 3:14 | 2022-10-14 |  |
+| [Our Mother Ash](https://open.spotify.com/track/06X9h0zkeEncfohssytDp8) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Trails & Passes](https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr) | 3:14 | 2022-10-14 | 2022-11-14 |
 | [Our Mother Ash](https://open.spotify.com/track/2sWzJDMSkqLs3qTdtaFU9F) | [Greenleaf](https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7) | [Trails & Passes](https://open.spotify.com/album/40C3PckrvT1kl1Dildufk8) | 3:14 | 2021-11-30 | 2022-07-26 |
 | [Palomino](https://open.spotify.com/track/6tf6e3oeJAqEJkBt0TtqWP) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Mobile Babylon](https://open.spotify.com/album/6MvRYMRNRsWPA96s6RchdW) | 3:45 | 2021-11-30 | 2022-07-29 |
 | [Palomino](https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po) | [Jolly Jumpers](https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW) | [Mobile Babylon](https://open.spotify.com/album/26RaBDkrbF2tZkn3eojKmO) | 3:45 | 2022-04-28 |  |
@@ -231,7 +232,7 @@
 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 | 2021-11-30 |  |
 | [The Left Hand Path](https://open.spotify.com/track/5aIn4HiXK6MSnxHuC10kNm) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [The Left Hand Path](https://open.spotify.com/album/7eRyUB84hcmm5v4npGfMjD) | 6:51 | 2022-10-14 |  |
 | [The Lost Art Of Keeping A Secret](https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R \- Deluxe Edition](https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto) | 3:36 | 2021-11-30 |  |
-| [The Regulator](https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Edition\)](https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8) | 5:25 | 2022-04-28 | 2022-11-11 |
+| [The Regulator](https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Edition\)](https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8) | 5:25 | 2022-04-28 |  |
 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 | 2021-11-30 | 2022-07-27 |
 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 | 2021-11-30 | 2022-07-14 |
 | [The Willow](https://open.spotify.com/track/2xL00osDc8ThgyQfNUbBrs) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 3:41 | 2021-11-30 | 2022-02-14 |

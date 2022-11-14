@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 
 > Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE/PROJECT GEASS・MBS　Character Design © 2006 CLAMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,681 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,741 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05YNpFuDzLK.md) - [plain]
 | 41 | [Madder Sky](https://open.spotify.com/track/3nnWqdILtY4y8lRwFWt3te) | [Kotaro Nakagawa](https://open.spotify.com/artist/799szdFb1vmNTMYNDRjmo8) | [CODE GEASS Lelouch of the Rebellion R2 Original Motion Picture Soundtrack 1](https://open.spotify.com/album/7K6HBIP6UWOBYbPw9dTaj5) | 2:56 |
 | 42 | [The Master](https://open.spotify.com/track/1F40AeZQaerwAPy2kKVcFD) | [Kotaro Nakagawa](https://open.spotify.com/artist/799szdFb1vmNTMYNDRjmo8) | [CODE GEASS Lelouch of the Rebellion R2 Original Motion Picture Soundtrack 1](https://open.spotify.com/album/7K6HBIP6UWOBYbPw9dTaj5) | 2:03 |
 | 43 | [No Choice But To Fight](https://open.spotify.com/track/1rx42qnXkwokP9FzbJEw0u) | [Ichiko Hashimoto](https://open.spotify.com/artist/4wTSNilt4EsffHSJrcnwbQ) | [CODE GEASS Akito the Exiled Original Motion Picture Soundtrack 1](https://open.spotify.com/album/5Ev0jcgJU0cr2aQHX57xlb) | 3:19 |
-| 44 | [Stories](https://open.spotify.com/track/6oLdsKc3HYsBgmMKhwoOlK) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [CODE GEASS Lelouch of the Rebellion Original Motion Picture Soundtrack 1](https://open.spotify.com/album/2L4B0cobrQ4MN2RvsuvJRx) | 5:19 |
+| 44 | [Stories](https://open.spotify.com/track/1nS1lUTYXp6gO3ssPSKGU1) | [Hitomi](https://open.spotify.com/artist/63W3HOGwdbtIHC6LWG2Obc) | [Angel Feather Voice](https://open.spotify.com/album/6Fmcfn2D9qlWAW1JpOX5og) | 5:19 |
 | 45 | [Reincarnation](https://open.spotify.com/track/12srKVFG1yH6NgwUDkZEb1) | [C.C\. \(CV: Yukana \)](https://open.spotify.com/artist/691JYAhPBHp8g0EwVoTDSa) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 3:37 |
 | 46 | [Back to Zero](https://open.spotify.com/track/1DgCZzMrcroQTWWaALo1ey) | [Lelouch \(CV: Jun Fukuyama \)](https://open.spotify.com/artist/28W6ugaQgusYHGOLU168c0) | [CODE GEASS Lelouch of the Rebellion CODE BLACK+](https://open.spotify.com/album/4p7rhqRaSDuov2a5v0arKu) | 5:22 |
 | 47 | [Never End](https://open.spotify.com/track/2lAg8s3QxxgsTLReuocXGY) | [Lelouch \(CV: Jun Fukuyama \)](https://open.spotify.com/artist/28W6ugaQgusYHGOLU168c0) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:36 |
 | 48 | [Hare Nochi Natsuno Ame](https://open.spotify.com/track/3gbLkvIDHDEhVyI5Qw3vgU) | [Shirley \(CV: Tomiko Orikasa \)](https://open.spotify.com/artist/4oyLv4lmkKLcW9jBnGuqiU) | [CODE GEASS Lelouch of the Rebellion Character Song Best](https://open.spotify.com/album/0QgYZkEZ7hUlKrZKyrZTh1) | 4:54 |
 | 49 | [Tennshi\-teki Kenpo 4jo](https://open.spotify.com/track/3x1z93295mcnEZsTkfCuqh) | [Tien Zi \(CV: Tamaki Matsumoto \)](https://open.spotify.com/artist/2IdIiAuUpBAxUuzLxqdb0D) | [CODE GEASS Lelouch of the Rebellion R2 Sound Variety R18](https://open.spotify.com/album/2podOQX7M5J1FsjN4u2W6V) | 3:23 |
 
-Snapshot ID: `MTY2NDY0NDMwOCwwMDAwMDAwMDBiZDhjOTAwMDc4OTEzMDgyYjc0MzFlYmUxMWQzNGY0`
+Snapshot ID: `MTY2NDY0NDMwOCwwMDAwMDAwMDI4ZTVmZDI0Y2YwNTJjMzIwMmY1OWE2NjMzODUyZmFh`

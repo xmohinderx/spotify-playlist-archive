@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Minimalism, electronica and modern classical to concentrate to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,235 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,212 likes - 73 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 31 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/6kvjFChxzePaNR3WOr5krg) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/7HYUrYCfTTILVubFZtXFUf) | 2:06 |
 | 32 | [Nucleus](https://open.spotify.com/track/10VDlhdsvk4DH3jdbGKhwJ) | [Ivy Rue](https://open.spotify.com/artist/48wkAWDOLtRePHhfZA2TTH) | [Mandala](https://open.spotify.com/album/2msxQYAcX6bsWYnXbpGEm5) | 2:48 |
 | 33 | [This Delicate Place \(Scaled Down Version\)](https://open.spotify.com/track/51sciSNx3f1TEXcAmL06j9) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Partly Cloudy](https://open.spotify.com/album/7xQ1rPbeUkKIDufhz2JY1B) | 2:40 |
-| 34 | [Denouement \(Scaled Down Version\)](https://open.spotify.com/track/47NH3o8N8jfKZXXWwj4okO) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [KEEN: Complete Concentration Vol\. 1](https://open.spotify.com/album/6wae1HkPxiUmb3ntigcqXR) | 2:20 |
+| 34 | [Denouement \(Scaled Down Version\)](https://open.spotify.com/track/3vA3SbxqOxYPTooFbfBXKS) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Berceuse](https://open.spotify.com/album/15VZije9stogPCIQ9iVRag) | 2:20 |
 | 35 | [Night Dive](https://open.spotify.com/track/11WOlDMShdSUaqgWY7g0aZ) | [Aro Aro](https://open.spotify.com/artist/3vu7Ij17FpvXQcwn3HlYci) | [Night Dive](https://open.spotify.com/album/1UD8U6n2uHCU823C7JoAxr) | 3:00 |
 | 36 | [Catastrophically in love with you](https://open.spotify.com/track/4CVtPhfKMyA8ST6ZQhJvZY) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [Catastrophically in love with you](https://open.spotify.com/album/5voGDlolvDOOgzmjuJKLBH) | 2:57 |
 | 37 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 72 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 73 | [Allisone](https://open.spotify.com/track/43CBnlr309XH9gyu8cIHSl) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Peacefulness](https://open.spotify.com/album/58J3xBeGSPRKHsuNV9mIRF) | 3:31 |
 
-Snapshot ID: `MTY1NzAxMzc0NSwwMDAwMDAwMDZkNzg4MDBkYzY5ZmM4NjUyZWFkMDA1OTgwZjcxMGQ1`
+Snapshot ID: `MTY1NzAxMzc0NSwwMDAwMDAwMDEyZjhlNGZiNjkxMjBmZmM3ZTdmNDc5MTljNzY2MTRk`

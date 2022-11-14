@@ -9,9 +9,9 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 | 2021-07-30 |  |
-| [All Around Me](https://open.spotify.com/track/4RgROifXVgxP6c8VETwWSq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Female Rockers](https://open.spotify.com/album/1GXtqtmRnjLjxZVzuzOpGS) | 3:18 | 2021-07-30 |  |
+| [All Around Me](https://open.spotify.com/track/4RgROifXVgxP6c8VETwWSq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Female Rockers](https://open.spotify.com/album/1GXtqtmRnjLjxZVzuzOpGS) | 3:18 | 2021-07-30 | 2022-11-14 |
 | [All Around Me](https://open.spotify.com/track/7k9iVpyeR5ybSPSkvmAP6K) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf \(Re\-Release\)](https://open.spotify.com/album/0XvHcGX9MJXt9Cx1Iml7WS) | 3:18 | 2021-07-30 | 2022-07-29 |
-| [All Around Me](https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 3:18 | 2021-07-30 | 2022-11-11 |
+| [All Around Me](https://open.spotify.com/track/1zN6ynJG4PdR61YWv4PQ3Y) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 3:18 | 2021-07-30 |  |
 | [Already Over](https://open.spotify.com/track/3SP1LUtLle97QNFvFFopnG) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [End Of Silence](https://open.spotify.com/album/3ntOXFMHUPIedU3l2QNE0n) | 4:24 | 2021-07-30 |  |
 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 | 2021-07-30 |  |
 | [Anthem Of The Lonely](https://open.spotify.com/track/1bKRtH1leT7y003VikaXUc) | [Nine Lashes](https://open.spotify.com/artist/6L5kgEyFIlckHbMdRM2KXQ) | [World We View](https://open.spotify.com/album/5hNY9GQIaQR7MOelvlY0qu) | 4:01 | 2021-07-30 |  |

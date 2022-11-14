@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas portuguesas, como Nena, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,196 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,204 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 2 | [Gosto de Ti](https://open.spotify.com/track/0URRusm12WUA5EJMYcm6TJ) | [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT) | [Gosto de Ti](https://open.spotify.com/album/0ZCgWUnepwEV4OTHsqbODM) | 2:48 |
 | 3 | [Tinder](https://open.spotify.com/track/0o4JAwhrCzcZqL7sQW36eX) | [Rainhas do AutoEngano](https://open.spotify.com/artist/6RkaXEbfSEylGKXwkH4Z9g) | [Tinder](https://open.spotify.com/album/41eP49CYT8cBnAWcV1T3cg) | 3:08 |
 | 4 | [Islet \- Radio Edit](https://open.spotify.com/track/5nKjJ4unohKnpltad388sU) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz) | [Islet](https://open.spotify.com/album/74eA5ZXi2cBmtaYyxf1cgp) | 2:24 |
-| 5 | [Fuck Up Person](https://open.spotify.com/track/6F6gfbhqgoTEzDcpDt6LgT) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Fuck Up Person](https://open.spotify.com/album/6K4cXrRcWBLBJrZWyFFP0X) | 4:15 |
+| 5 | [Fuck Up Person](https://open.spotify.com/track/6VragNqSp2liUsisozixzH) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 4:15 |
 | 6 | [Viagem](https://open.spotify.com/track/5Dm2g14kWvGBpofQxpE96r) | [Isaura](https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F) | [Viagem](https://open.spotify.com/album/1sKvHdpTKVMVyAjlDsVwRo) | 3:37 |
 | 7 | [Positivity](https://open.spotify.com/track/4hgTa7vvzCt3YoL9VzPjU2) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Good Company](https://open.spotify.com/album/1WKHgFnVXim0GYVfkOXgFR) | 3:14 |
 | 8 | [Fidalgo](https://open.spotify.com/track/0MMgqdOL4k8MrAPv6GTm3t) | [Eneida Marta](https://open.spotify.com/artist/0vdtQahAxzU1jvuyer6ppS) | [Family](https://open.spotify.com/album/7ncvnP1iGl6GbuA5PnjGNQ) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Lugar Certo](https://open.spotify.com/track/1DBRiPLbtu6YTQeJR4P5Yf) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Lugar Certo](https://open.spotify.com/album/1c69CJyxlwgGOqruz6BpOy) | 2:55 |
 | 50 | [Noves Fora](https://open.spotify.com/track/4LpOxUil42PZAOoeeDfR6H) | [Tête\-À\-Tête](https://open.spotify.com/artist/5xOyuyN3kyuWu9MYfRvrZP) | [Noves Fora](https://open.spotify.com/album/5cQX5y0FMwy75UOV0IZhwG) | 3:02 |
 
-Snapshot ID: `MTY2NzM0NzIwMCwwMDAwMDAwMGFiNTZlMTE4YWIzZjQ5NDcwYjA3ZDUyY2M4ZDZlYTY1`
+Snapshot ID: `MTY2NzM0NzIwMCwwMDAwMDAwMGZhZDIwZjQwOTZjZWNmODUzMjM1NDg1NjY4NDMxYTcw`

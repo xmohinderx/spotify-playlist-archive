@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,122,513 likes - 187 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,599 likes - 187 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 66 | [Habits \(Stay High\) \- Acoustic](https://open.spotify.com/track/51mEBRXAf292tpAVZ3HW8b) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Habits \(Stay High\) \[Acoustic\]](https://open.spotify.com/album/1cAXKf2868B8hajiiU0HYv) | 2:33 |
 | 67 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 |
 | 68 | [No Tears Left To Cry](https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [No Tears Left To Cry](https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y) | 3:58 |
-| 69 | [Better \- Acoustic](https://open.spotify.com/track/5FgALOtk8mekV6LFF6gzC5) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Acoustic chill 2020](https://open.spotify.com/album/46hH4VHo5r4juSC3POdSTm) | 2:44 |
+| 69 | [Better \- Acoustic](https://open.spotify.com/track/2CLB1qOBXhCNAfW7PDZlO9) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Better \(Acoustic\)](https://open.spotify.com/album/79K0o7jdqLIlXUKyhsVjQm) | 2:44 |
 | 70 | [Firestone \- Live Acoustic Version](https://open.spotify.com/track/4gek9UL5WceAq1qiZlhmGM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Firestone \(Live Acoustic Version\)](https://open.spotify.com/album/2LkJP9u5oUPaum7gBHBKJy) | 3:46 |
 | 71 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 |
 | 72 | [Somebody \- Acoustic](https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh) | 2:48 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 105 | [Ambulance \- Acoustic](https://open.spotify.com/track/5l1HfxucMgMyl79DcJyYCF) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Ambulance \(Acoustic\)](https://open.spotify.com/album/4xHptK08Nad1HlL6BQb39Z) | 3:18 |
 | 106 | [Before You Go \- Acoustic](https://open.spotify.com/track/3s5OWUD1uDxTKOvM7FNF8q) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Before You Go \(Acoustic\)](https://open.spotify.com/album/7xaCqATAVdhEEbXkJ5WSVn) | 3:33 |
 | 107 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
-| 108 | [spark \- acoustic version](https://open.spotify.com/track/1Bf6t21wDuopvxEjEG0Axx) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/6i4Fr88uQpqbLsbhP0i2bo) | 3:35 |
+| 108 | [spark \- Acoustic Version](https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [the love that you want \(Acoustic\)](https://open.spotify.com/album/14hXoTfUY2iXfr65WvMWou) | 3:35 |
 | 109 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
 | 110 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 |
 | 111 | [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 |
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 153 | [forgive](https://open.spotify.com/track/0cM5MPgaVH4aHrxA85s7Gm) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [forgive](https://open.spotify.com/album/4yhwtGTDnJvodkXpbXBEGV) | 2:42 |
 | 154 | [Circles \- Acoustic](https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Circles \(Acoustic\)](https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru) | 3:24 |
 | 155 | [Two Commas](https://open.spotify.com/track/7fLgbqsbl6DpOyIUak0ATf) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Two Commas](https://open.spotify.com/album/16NsVCcpShBwp7eddHZGPt) | 3:34 |
-| 156 | [Sorry I'm Gone](https://open.spotify.com/track/6COA6vUTp6ElKpEMfJUDq8) | [Kyle Lionhart](https://open.spotify.com/artist/3VLXw7Phdo2mLlUoB5B59j), [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Sorry I'm Gone](https://open.spotify.com/album/32VtRj64SYPRTqiNGNQChC) | 3:47 |
+| 156 | [Sorry I'm Gone](https://open.spotify.com/track/60r0gseRNjgAfF3EiiRFXL) | [Kyle Lionhart](https://open.spotify.com/artist/3VLXw7Phdo2mLlUoB5B59j), [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Too Young](https://open.spotify.com/album/1abOgtHlHVN4INBipRQmds) | 3:47 |
 | 157 | [Simple Days](https://open.spotify.com/track/18hzcFq9jqdTlI3D8WmOdy) | [Jack & Tim](https://open.spotify.com/artist/1fgrPRvmKUdRM6nwm3skRB) | [Simple Days](https://open.spotify.com/album/4zWB8j5CBMeEbmkFFY9c8W) | 3:12 |
 | 158 | [Hey Mr\. Music Man](https://open.spotify.com/track/47TOrAWRuedFKPdnOOeLqw) | [Tainted Lady](https://open.spotify.com/artist/5vDofI5lIB1H73lH1y0eQ7) | [Sounds Like Freedom // Feels Like War](https://open.spotify.com/album/0NacDa1cGrR8tEsY22nycf) | 3:58 |
 | 159 | [Black Car \(feat\. ALMA\) \- Acoustic](https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Black Car \(feat\. ALMA\) \[Acoustic\]](https://open.spotify.com/album/69sad8MZUsNa9b6F6BGgZe) | 3:36 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 186 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 |
 | 187 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/0VsGaRXR5WAzpu51unJTis) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 4:03 |
 
-Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDgwZTUzMmE5NDUxNjNkN2UyNGI2NzM1MGI5ZTViODhj`
+Snapshot ID: `MTY2ODE0Mjg2MCwwMDAwMDAwMDc3ZmJkYTUwY2QwZjViODU0NTY0YjM0OWY0ODlhZjdm`

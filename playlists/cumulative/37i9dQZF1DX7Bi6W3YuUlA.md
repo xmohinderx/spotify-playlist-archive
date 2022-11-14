@@ -4,7 +4,7 @@
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Chance The Rapper featuring visual artist Naïla Opiangah
 
-271 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
+272 songs - 13 hr 45 min - [published](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Clocked In \(feat\. Aklesso & Derek Minor\)](https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Clocked In \(feat\. Aklesso & Derek Minor\)](https://open.spotify.com/album/35vRMyqv8TeWFwCuSRlaCt) | 4:26 | 2021-12-11 |  |
 | [COME THROUGH](https://open.spotify.com/track/3t2VmTs6GNkPEGwB7wkOyh) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [COME THROUGH](https://open.spotify.com/album/0dzCgr7LibMlrqYcoHKYdb) | 2:12 | 2021-12-11 | 2022-07-28 |
 | [Day By Day](https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9) | [Wauve](https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO) | [Day By Day](https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB) | 3:22 | 2021-12-11 |  |
-| [Deep End \- Remix](https://open.spotify.com/track/1cQDM0YfAhbSmUbn5372dA) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Restoration: The Deluxe Album](https://open.spotify.com/album/5Sskfr26AzgFTIeEYrQ4CP) | 2:39 | 2021-12-11 |  |
+| [Deep End \- Remix](https://open.spotify.com/track/1cQDM0YfAhbSmUbn5372dA) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Restoration: The Deluxe Album](https://open.spotify.com/album/5Sskfr26AzgFTIeEYrQ4CP) | 2:39 | 2021-12-11 | 2022-11-14 |
 | [Defiant Ones](https://open.spotify.com/track/73a7reFim6WWvHzTYGLrml) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [The Void](https://open.spotify.com/album/20WrjYeVSjGl63VsOtprdb) | 3:40 | 2021-12-11 | 2022-07-26 |
 | [Did It A Lot](https://open.spotify.com/track/0aWSgTAwjT51ekMgcVD29j) | [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [Did It A Lot](https://open.spotify.com/album/6s0xVTtuhEMLzJesr88KO2) | 4:38 | 2021-12-11 | 2022-07-12 |
 | [Die For You \- the warehouse sessions](https://open.spotify.com/track/3MBqpiYpy3UVAZfhYy8RLI) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Die For You \(the warehouse sessions\)](https://open.spotify.com/album/33LGn7uYy3JljgJ9N8C7Yq) | 2:58 | 2021-12-11 | 2022-07-29 |
@@ -175,6 +175,7 @@
 | [Narcoleptik \(feat\. KMO Shamaal\)](https://open.spotify.com/track/7r9MGAOe3wW8RBZ6X5MLTt) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [KMO Shamaal](https://open.spotify.com/artist/5vUfgLjBf86CYCg2WH9X9Q) | [Narcoleptik](https://open.spotify.com/album/5BJxFfMmrOxvdVjdrpJxRw) | 2:30 | 2021-12-11 | 2022-07-22 |
 | [Never Change](https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Never Change](https://open.spotify.com/album/5RWc74ZeXbwi0xMYyg8Elc) | 3:01 | 2021-12-11 | 2022-09-21 |
 | [New Legends](https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/0GPmI4EBn4BrmjlyQordOu) | 4:16 | 2021-12-11 | 2022-07-22 |
+| [New Legends](https://open.spotify.com/track/3QJTmlay3nLxhp0ol14N3l) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [New Legends](https://open.spotify.com/album/18nkh2pT8cwaheJfw9p9ju) | 4:16 | 2022-05-28 |  |
 | [New Level](https://open.spotify.com/track/28YWHjBQY8Thn65P7wnF4O) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [New Level](https://open.spotify.com/album/4aA8CI2CJv5gffAePjQAOe) | 2:36 | 2022-03-25 | 2022-07-29 |
 | [NO GOOD](https://open.spotify.com/track/0Q6pNJvgICuD2XjWAq3tqT) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [NO GOOD](https://open.spotify.com/album/2yXbdKXRbLV1zVRguS35kl) | 2:57 | 2022-03-19 |  |
 | [Not Gon' Do \(Acoustic\)](https://open.spotify.com/track/4hFTc150gq4Ue23UGmcQkr) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Not Gon' Do \(Acoustic\)](https://open.spotify.com/album/6F6rBDWKBwCKU7FENgQQ2u) | 2:54 | 2021-12-11 | 2022-03-21 |

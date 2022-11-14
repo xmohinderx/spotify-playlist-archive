@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7CaxNgoCg.md) - [plain]
 
 > Celebrating 60 years of Motown with the music that broke barriers and moved the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,580 likes - 29 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,647 likes - 29 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
 | 2 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/0YJvN0CZyGDmP5YHwKrcQh) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [The Motown Anthology](https://open.spotify.com/album/1fjkvzSRhpyznCG75yG3zx) | 3:01 |
-| 3 | [Nowhere To Run \- "16 Big Hits" Stereo Version](https://open.spotify.com/track/1O7F1Mx4L4bSPi1j1pnjuy) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [A Collection Of 16 Original Big Hits Vol\. 5](https://open.spotify.com/album/2uPn55DVq4sZhcFLjVrPlS) | 2:55 |
+| 3 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
 | 4 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 |
 | 5 | [Shotgun](https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Shotgun](https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc) | 2:56 |
 | 6 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 2:41 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7CaxNgoCg.md) - [plain]
 | 28 | [Church](https://open.spotify.com/track/6PmnGYDsruYLBNY4Rpx4t9) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:47 |
 | 29 | [Something To Talk About](https://open.spotify.com/track/5Ctp29E4N078VPralCQJBb) | [JAMESDAVIS](https://open.spotify.com/artist/0OvzaC9mrjvTpbNQtqrze7) | [Something To Talk About](https://open.spotify.com/album/0Bb5wrXFtmpV3YRrLNwBI6) | 3:35 |
 
-Snapshot ID: `MTU2MTQ5NzQxNywwMDAwMDAwMDE1OWExZWEzNzljOWU5MDc3YzVjYTY4MWFjYWZiN2Rm`
+Snapshot ID: `MTU2MTQ5NzQxNywwMDAwMDAwMDdiZDkxMjQ0MTY1NTQwMGY0OTg3NzUyNTMyYWUwOGVh`

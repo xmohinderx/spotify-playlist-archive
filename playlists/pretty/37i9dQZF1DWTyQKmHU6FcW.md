@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 
 > Elvis Presley's most romantic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,991 likes - 36 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,165 likes - 36 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 18 | [For Ol' Times Sake](https://open.spotify.com/track/7DSUykao1FtU4vfFReDsfd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Raised On Rock](https://open.spotify.com/album/2ZRE01JESBDtXwXckqGZY6) | 3:36 |
 | 19 | [Hurt](https://open.spotify.com/track/4ugBXQVxTzKLmdCRL7yRRa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis Presley Boulevard, Memphis, Tennessee](https://open.spotify.com/album/6Kc8A5gqFZjDUeq77xSAK6) | 2:07 |
 | 20 | [You Don't Know Me](https://open.spotify.com/track/1EOsMbGG8ej3tTDQ735Ch7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:29 |
-| 21 | [Crying In the Chapel](https://open.spotify.com/track/2f0Ecc2xim1koaWNpbKP9a) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Hound Dog & Other Hits](https://open.spotify.com/album/3B6LFPHllN9PdGlMY93BRB) | 2:23 |
+| 21 | [Crying In the Chapel](https://open.spotify.com/track/2inb1KNU2bGIkldLsuDb83) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [How Great Thou Art](https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt) | 2:25 |
 | 22 | [There Goes My Everything](https://open.spotify.com/track/0LoDU83vAUpVxYfJvyxxRc) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Imperials Quartet](https://open.spotify.com/artist/1B1WOhGxd1FFRPVlnUAcOu) | [Elvis Country](https://open.spotify.com/album/5nFIESxbIeBxoREzNMzzbN) | 3:10 |
 | 23 | [And I Love You So](https://open.spotify.com/track/62p6cgUc0cdguS1DttbfKU) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Today \(Legacy Edition\)](https://open.spotify.com/album/1NABHde4P06V7SyuYRRm2x) | 3:39 |
 | 24 | [She Wears My Ring](https://open.spotify.com/track/74qkAezgb0SxD5IWUC7vF5) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis At Stax](https://open.spotify.com/album/3EHxFLhmgSGEBmJ7tFXwRz) | 3:21 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyQKmHU6FcW.md) - [plain]
 | 35 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/4FjkmQ9JYaIeh1NxeLEO80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:46 |
 | 36 | [I Can't Stop Loving You \- Live at Convention Center Arena, San Antonio, TX \- April 18, 1972](https://open.spotify.com/track/27UvL4m5Si1QmlXdBIEaVt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: Close Up](https://open.spotify.com/album/3kBT5ef0KWAuZokS4IWV7C) | 2:25 |
 
-Snapshot ID: `MTY2MTE4NzMwOCwwMDAwMDAwMDAxODQ0Y2NlNTQ2Y2EwNTdjYzFhOWI2YWMxNDJmNjMy`
+Snapshot ID: `MTY2MTE4NzMwOCwwMDAwMDAwMDAzZTIxMjdlMzIwOTFjN2M5NzFkNGZkZTM4ZTRmOTE1`

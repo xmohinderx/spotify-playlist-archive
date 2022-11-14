@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 35261,
+  "num_followers": 35280,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMGJmNjgyNGZlZTM3NDA2NmY5ZmI0OGM4ZmFjMDc5YjY4",
+  "snapshot_id": "MTY2Njk5MDY4OCwwMDAwMDAwMDU1NTA0MGI3MjY0YWFjYmUzYjMyMGIxMWJhMmQyMzI1",
   "tracks": [
     {
       "added_at": "2022-10-28 20:58:08",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 191250,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 167550,
-      "name": "Nothing Lasts Forever",
-      "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Thinking of You (Spotify Singles)",
         "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 272125,
       "name": "Thinking of You (Spotify Singles)",
       "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 167550,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "froge.mp3",
         "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 178520,
       "name": "say it",
       "url": "https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 202090,
+      "name": "have a great day",
+      "url": "https://open.spotify.com/track/5EKvSbDk01gFTw8IQNFzUz"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 175508,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -931,6 +931,22 @@
       "duration_ms": 191739,
       "name": "1,000,000 X Better",
       "url": "https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Through the Phone",
-        "url": "https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2"
-      },
-      "artists": [
-        {
-          "name": "Wild Youth",
-          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
-        }
-      ],
-      "duration_ms": 204680,
-      "name": "Through the Phone",
-      "url": "https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "New Wave EP",
         "url": "https://open.spotify.com/album/1OMjY32vTsGglfWPaM2wte"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 190680,
       "name": "New Wave",
       "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Through the Phone",
+        "url": "https://open.spotify.com/album/6cozhiaZ4S8vZ8nRgJMAf2"
+      },
+      "artists": [
+        {
+          "name": "Wild Youth",
+          "url": "https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Through the Phone",
+      "url": "https://open.spotify.com/track/7wTV32F69jrY1myCj5jok2"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "Godlight",
-        "url": "https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 247050,
-      "name": "Godlight",
-      "url": "https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 171228,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
+        "name": "Godlight",
+        "url": "https://open.spotify.com/album/5EDTEEhMBHthUxOIYmXN5N"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 247050,
+      "name": "Godlight",
+      "url": "https://open.spotify.com/track/3t42QATkLwV44TjezAuOnt"
     },
     {
       "added_at": "2022-10-28 20:58:08",
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
+        "name": "unbreak ur heart",
+        "url": "https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "duration_ms": 203367,
+      "name": "unbreak ur heart",
+      "url": "https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW"
+    },
+    {
+      "added_at": "2022-10-28 20:58:08",
+      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
       },
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2022-10-28 20:58:08",
       "album": {
-        "name": "unbreak ur heart",
-        "url": "https://open.spotify.com/album/3hrfzsCJwiyWh17y6RuYJt"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "duration_ms": 203367,
-      "name": "unbreak ur heart",
-      "url": "https://open.spotify.com/track/1qQk95hRxQ19H2hVnDXeoW"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
         "name": "Meet You There",
         "url": "https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 246750,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7"
-    },
-    {
-      "added_at": "2022-10-28 20:58:08",
-      "album": {
-        "name": "Never Get It Right",
-        "url": "https://open.spotify.com/album/2Mm9b3ZroxmIaDgEZybjhe"
-      },
-      "artists": [
-        {
-          "name": "Ines Rae",
-          "url": "https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Never Get It Right",
-      "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
     },
     {
       "added_at": "2022-10-28 20:58:08",

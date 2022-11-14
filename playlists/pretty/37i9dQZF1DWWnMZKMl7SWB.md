@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,392 likes - 216 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,411 likes - 216 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 90 | [40 Love](https://open.spotify.com/track/3HCoyY47D7po1xC1y7HsBU) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [40 Love](https://open.spotify.com/album/69geYIK32L6nCd4Btqdeh6) | 3:00 |
 | 91 | [Deserter](https://open.spotify.com/track/1YPsBcPaUgzDLVMnkNjezF) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:30 |
 | 92 | [Travellers](https://open.spotify.com/track/1bJIEtBbAA5RKl6vo6v0es) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Travellers](https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe) | 3:20 |
-| 93 | [Weather](https://open.spotify.com/track/71ZFs7nzJHstB2dNcQ3aG8) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Weather \(Nitemoves Remix\)](https://open.spotify.com/album/1gq8jZDjMm5uxTRyIXHf8r) | 4:14 |
+| 93 | [Weather](https://open.spotify.com/track/0NCMkuygdC7IOBXLFHgRkv) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Weather](https://open.spotify.com/album/1mRyfDR7Dc55GbC8V3kVis) | 4:14 |
 | 94 | [Bunny](https://open.spotify.com/track/0TPI2OKla5SwqlPU2nG4OF) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Bunny](https://open.spotify.com/album/4iGt8DHG73tfq2iNPkT5YS) | 3:34 |
 | 95 | [Lost in America Part II](https://open.spotify.com/track/0QyOt78rIAlyyaceTVVhOG) | [Daniel Kadawatha](https://open.spotify.com/artist/2eDGCAUPtznGnGKQ2uP3GZ) | [Lost In America Part II](https://open.spotify.com/album/64DKeK03lXDQ8iZIjf95xG) | 3:33 |
 | 96 | [The Sky and What Is Under It](https://open.spotify.com/track/3NxK9CxOfeBxgr1DIVAzOv) | [Brookii](https://open.spotify.com/artist/52qnChybMeZVRp2wkEkJEx) | [Yellow Canary](https://open.spotify.com/album/4gotqRZ4J2wD9AZDyrGQOr) | 4:05 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 142 | [Vale](https://open.spotify.com/track/58FsmlVRQxpjFmXF8vSKMT) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:07 |
 | 143 | [Take over You \- Perttu Remix](https://open.spotify.com/track/7EcCQa5yVa8pMXM0B43rxw) | [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Joey Cass](https://open.spotify.com/artist/2jb5SbSrV4BSAq7Z8Vyrpl), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Take over You \(Remixes\)](https://open.spotify.com/album/43SzTI9Ti7QFl4LZ0WAF6I) | 3:33 |
 | 144 | [So Close](https://open.spotify.com/track/68M7htN4l1TC3mKXoUVKrf) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [So Close](https://open.spotify.com/album/3i2q9STmiRxp7w06YVZJXJ) | 4:08 |
-| 145 | [Other Side](https://open.spotify.com/track/57Q7zmxICTDl0u9YixIrv6) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [Other Side](https://open.spotify.com/album/1iPODVbgxk7ZdZOmcqe3uW) | 3:11 |
+| 145 | [Other Side](https://open.spotify.com/track/0S5as2olu01E5lXXhdVTLA) | [C Duncan](https://open.spotify.com/artist/0x3sTIYnP56TnL6bbyMU2i) | [The Midnight Sun](https://open.spotify.com/album/5vF91mAcXrjETeE4UabePg) | 3:15 |
 | 146 | [Memorand](https://open.spotify.com/track/1JL0mPAwcHB5nYba61C1s2) | [Monitor](https://open.spotify.com/artist/5OUfsZqqBlsVtWIzayDPF5) | [Memorand](https://open.spotify.com/album/3fkwq5Um4ELQXvDKFZ85DT) | 3:27 |
 | 147 | [Walrus](https://open.spotify.com/track/408aMcbMo6TfoEHCfKLsjM) | [D.D Dumbo](https://open.spotify.com/artist/29PVoYGQeFwXgX9vIlnHmR) | [Utopia Defeated](https://open.spotify.com/album/1aSWcjJx8UxTIHWcPNNQLb) | 3:10 |
 | 148 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 182 | [at arm's length...](https://open.spotify.com/track/6geDM5zG9jFMKLn0DorBC4) | [momü](https://open.spotify.com/artist/6fqCoZCxjMrwtuvciQnzKn) | [at arm's length...](https://open.spotify.com/album/6uhDfffzqQcCF2lIjh1YpY) | 2:47 |
 | 183 | [Passing Trains](https://open.spotify.com/track/01oZjrRICAL5l0sSFqpb5D) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [All That Must Be](https://open.spotify.com/album/52LJO0cNeBErBohaxNZ0t4) | 3:13 |
 | 184 | [Silver](https://open.spotify.com/track/72CTYTm92JiZjJfZwHrV4n) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bloom](https://open.spotify.com/album/3gro4alLqMrRFroQO5jAqu) | 3:54 |
-| 185 | [Serious Mood](https://open.spotify.com/track/5qPul0sZ3IrqrjBZl52u0F) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/6bKeiwUBQJtsP5gfJdGbtV) | 3:38 |
+| 185 | [Serious Mood](https://open.spotify.com/track/1ZgQnD9g6koKGpBUmYDBNq) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/1AiJtsc3rR17zE9lgh6Sg6) | 3:38 |
 | 186 | [I Promise](https://open.spotify.com/track/2FG1ayvioaTgtj8dhcZGCV) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [Thomas White](https://open.spotify.com/artist/4g03rM1dkEDxd2nrURVNML), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [I Promise](https://open.spotify.com/album/6RQ3my9LG8W8uO90TZlHhe) | 3:13 |
 | 187 | [Noth](https://open.spotify.com/track/035epJwRLJQLXbQ7XtPFEf) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Noth](https://open.spotify.com/album/6832kAHzTWaKroYt2Dk8dE) | 3:12 |
 | 188 | [Nico](https://open.spotify.com/track/1KiTPYOFaYU5aSIwpvZUHr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC) | [Culture](https://open.spotify.com/album/4GUidWgIFuLfcr8btReanA) | 7:23 |
@@ -219,10 +219,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 209 | [Nightfall](https://open.spotify.com/track/6bmCFy256PgDmS7feDNp69) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Nightfall](https://open.spotify.com/album/03jwEEmv0efetAenFebML3) | 2:18 |
 | 210 | [Moments](https://open.spotify.com/track/5fFqxdgVb6XRHN8VEoKh6I) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:48 |
 | 211 | [Body Language \- Interpretation](https://open.spotify.com/track/2zjDsffctRXJyVLfaxnvWJ) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/01VSZEe3mkHLzNSPMRoAdX) | 5:00 |
-| 212 | [SHE](https://open.spotify.com/track/0Tje6rIYmo8uOL7Gzt1qte) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [SHE](https://open.spotify.com/album/52oKPPvYBAvjWGLkMy3CWd) | 3:38 |
+| 212 | [SHE](https://open.spotify.com/track/2u8GDlTkOd3bLSXJM8ZmXg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:38 |
 | 213 | [Beautiful Escape](https://open.spotify.com/track/5MChi9fdCbTIWDJPPUuuW6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 4:36 |
 | 214 | [Finally Moving](https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [Taking up Your Precious Time](https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY) | 4:37 |
 | 215 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 216 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMDhmZmI1NjIyOWYyODIzYWY4N2VjNWI0OTQzOGRmOTQ5`
+Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMGU5ZTZiYTZiNjQ0NjBmNTAzMzAzNGQ3YWI5ZjM5ZTU4`

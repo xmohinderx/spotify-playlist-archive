@@ -1398,6 +1398,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/6bAIlsbRdXH1evUZN9KovK"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237150,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2gpQT3UwG8hR3CYEjcnTc4"
+    },
+    {
+      "album": {
         "name": "Baby (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
       },
@@ -6429,7 +6451,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 139691,
       "name": "Haja Col\u00edrio Lambad\u00e3o",
       "url": "https://open.spotify.com/track/45hY2L2lrx7EuYGSikrKVJ"
@@ -6483,7 +6505,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -9903,7 +9925,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 148900,
       "name": "M\u00e9dia Boa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
@@ -10849,6 +10871,24 @@
       "duration_ms": 140160,
       "name": "O Que Eu N\u00e3o Sei",
       "url": "https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ"
+    },
+    {
+      "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225713,
+      "name": "O Que \u00c9 Que H\u00e1 - Faixa B\u00f4nus - Ao Vivo",
+      "url": "https://open.spotify.com/track/72hvnSG5YSHC219mCHWhMJ"
     },
     {
       "album": {
@@ -14001,7 +14041,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 112941,
       "name": "Soca Fofo",
       "url": "https://open.spotify.com/track/2Dr1TBlRFIXJUPEgQVh5Zq"

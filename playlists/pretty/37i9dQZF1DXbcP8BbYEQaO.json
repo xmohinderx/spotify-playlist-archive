@@ -1,12 +1,12 @@
 {
   "description": "in the evening the real me comes alive",
-  "num_followers": 158770,
+  "num_followers": 158871,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwODE2MywwMDAwMDAwMGY4MDUzY2Q3MzIwYWRlMjJlNGU3ZTU0NTQxZjQ4NzBm",
+  "snapshot_id": "MTY2ODIwODE2MywwMDAwMDAwMDk5NTQyZmNiNmI3MGI3ZTZlZWYxOTNlNWJmYTI4YTk1",
   "tracks": [
     {
       "added_at": "2022-11-11 23:09:23",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 188168,
+      "name": "VERDE MENTA",
+      "url": "https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -603,6 +619,22 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
         "name": "Sting",
         "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
       },
@@ -619,18 +651,18 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 184000,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -699,22 +731,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 344580,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "VERDE MENTA",
-      "url": "https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "Night Call (Deluxe)",
-        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "Night Call",
-      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "Night Call (Deluxe)",
+        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "Night Call",
+      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "pl4yg1rl",
-        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "pl4yg1rl",
-      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Naked in Manhattan",
         "url": "https://open.spotify.com/album/2aA0deq09WgAaMzIpQcv4p"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 211057,
       "name": "Naked in Manhattan",
       "url": "https://open.spotify.com/track/74oXlQPr6x05HDrGVaiYXZ"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "pl4yg1rl",
+        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "pl4yg1rl",
+      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "I Do You",
-        "url": "https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "I Do You",
-      "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Temper",
         "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
       },
@@ -1223,6 +1207,26 @@
       "duration_ms": 206666,
       "name": "Temper",
       "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "Slow Dancing (The Remixes)",
+        "url": "https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        },
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Slow Dancing - Hazel English Remix",
+      "url": "https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "Slow Dancing (The Remixes)",
-        "url": "https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK"
+        "name": "I Do You",
+        "url": "https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        },
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 175320,
-      "name": "Slow Dancing - Hazel English Remix",
-      "url": "https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1"
+      "duration_ms": 224080,
+      "name": "I Do You",
+      "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
     }
   ],
   "unique_name": "night pop",

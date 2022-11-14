@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: Mbuzi Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,372 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,373 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 6 | [Ala](https://open.spotify.com/track/2nOBa9BLxyDOev8sM82LrH) | [Dantez 254](https://open.spotify.com/artist/5PAyWgcMgE0bHnYfUvOfD7), [VDJ Jones](https://open.spotify.com/artist/2krpMe7d1u2IS22K6ZUAAL), [Rekles](https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k), [Odi wa Murang'a](https://open.spotify.com/artist/1IfYutMrYWR1qwXZ5HeRO1), [Trio Mio](https://open.spotify.com/artist/6Yt7Wg1vDhcLmn5H2OKrCc) | [Ala](https://open.spotify.com/album/06KAfehoPTlITfvPeUKGhH) | 3:00 |
 | 7 | [Daktari](https://open.spotify.com/track/1laXrxT3dSBAbdNZIpFeZB) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Daktari](https://open.spotify.com/album/54DjbmpPY8Cc4sRaywOIeG) | 3:08 |
 | 8 | [Pandemik](https://open.spotify.com/track/5SivHfqrdnPLa98KrgnQfj) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Pandemik](https://open.spotify.com/album/4rv96ZT2mMF8kFdWMbfklg) | 2:49 |
-| 9 | [Lewa](https://open.spotify.com/track/6fzOceWdejD07oJwMM6WnG) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Kabagazi](https://open.spotify.com/artist/5eyHBFX9iqlzI3l5b0MCDN), [Oneboy](https://open.spotify.com/artist/47oldowktpKnQKl9xfr1rN) | [Lewa](https://open.spotify.com/album/4zKFeJySjj7iUwzMT22dI6) | 4:09 |
+| 9 | [Lewa](https://open.spotify.com/track/2pat0RTkN9lQEDlaToECKN) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Kabagazi](https://open.spotify.com/artist/5eyHBFX9iqlzI3l5b0MCDN), [Oneboy](https://open.spotify.com/artist/47oldowktpKnQKl9xfr1rN) | [Lewa](https://open.spotify.com/album/3fR1jsqwbUaE2pv2MaLx0j) | 4:09 |
 | 10 | [Foto Moto](https://open.spotify.com/track/2IiGcYQ1bRUn8UcAK7WbUm) | [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Noti Flow](https://open.spotify.com/artist/1iEI7tRZgaXjPrpPj6cAM6) | [Foto Moto](https://open.spotify.com/album/4qVUxFALYtE0ZfgYLN3gAQ) | 3:06 |
 | 11 | [Sipangwingwi](https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Sipangwingwi](https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn) | 3:26 |
 | 12 | [Thao](https://open.spotify.com/track/4Rgajil2UKIbWkl0Kb4Dlc) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q) | [Thao](https://open.spotify.com/album/0XHbpeZvEQrOTnyfstIxO5) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JL4x1IApCd.md) - [plain]
 | 99 | [Bad Manners](https://open.spotify.com/track/4yLLLdUwGvmK5XipEGu3Tw) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7) | [Bad Manners](https://open.spotify.com/album/25TTGozgEjwVcY4TG6YgUv) | 4:39 |
 | 100 | [HIVI NA HIVO](https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [HIVI NA HIVO](https://open.spotify.com/album/2qkkyBXKPpsFw4Lkb0qafh) | 3:07 |
 
-Snapshot ID: `MTY2NTE0MDQzMSwwMDAwMDAwMDZhYTQ5ZGM3ZTQ2ZWU3N2E4ZTQ0ZGQ5ZGE2NDgxMWU0`
+Snapshot ID: `MTY2NTE0MDQzMSwwMDAwMDAwMGQ2MDg4ODQyMzYxYWMxNjIxZDk3ZTQxNjFjNmE5M2Jm`

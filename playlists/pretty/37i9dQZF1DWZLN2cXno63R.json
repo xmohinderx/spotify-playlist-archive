@@ -1,12 +1,12 @@
 {
   "description": "Take yourself to Havana with some Cuban Salsa and Caf\u00e9 favourites.",
-  "num_followers": 141459,
+  "num_followers": 141625,
   "original_name": "Caf\u00e9 Cubano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5OTY4NSwwMDAwMDAwMDZhY2QzMTliMzg0ODEwMDI2ZTIwMGI0ZjVhYjNmNTlm",
+  "snapshot_id": "MTY1OTY5OTY4NSwwMDAwMDAwMDM5MTQ1MTE0Y2YzMmE5YTk0Y2U0MzVmNDQ2YThjNDIx",
   "tracks": [
     {
       "added_at": "2022-08-05 11:41:25",
@@ -91,18 +91,26 @@
     {
       "added_at": "2022-08-05 11:41:25",
       "album": {
-        "name": "Most Famous Cuban Classics",
-        "url": "https://open.spotify.com/album/1kao2oyiNJfXeBBlFBUnID"
+        "name": "World Dance: Cuba",
+        "url": "https://open.spotify.com/album/7bUTs0Sq3rDoCy2UZ9bZtP"
       },
       "artists": [
         {
-          "name": "Jorge & Techi",
-          "url": "https://open.spotify.com/artist/0daYP8307xgJTIKZ2PSmcr"
+          "name": "Jorge Anibal Mendoza",
+          "url": "https://open.spotify.com/artist/56YAAzaH2jKV3F2vlBODKt"
+        },
+        {
+          "name": "Teresa Gonz\u00e1les Feldmann",
+          "url": "https://open.spotify.com/artist/3FTIC0VPS6p22gX0Mh7Wc4"
+        },
+        {
+          "name": "Pablo Carcamo",
+          "url": "https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS"
         }
       ],
       "duration_ms": 222625,
-      "name": "Man\u00edsero",
-      "url": "https://open.spotify.com/track/5fsLDSwv6jasPM9gcInmi1"
+      "name": "El manisero",
+      "url": "https://open.spotify.com/track/5Us6WiDjBOTyabRsOeKafH"
     },
     {
       "added_at": "2022-08-05 11:41:25",
@@ -439,38 +447,18 @@
     {
       "added_at": "2022-08-05 11:41:25",
       "album": {
-        "name": "From Cuba",
-        "url": "https://open.spotify.com/album/0UkomEFUMvyRjo5cbdNsAm"
+        "name": "Con Un Poco De Ayuda",
+        "url": "https://open.spotify.com/album/2uZom9MDeqLCQA3AOm1vcJ"
       },
       "artists": [
         {
-          "name": "The Real Maestros",
-          "url": "https://open.spotify.com/artist/4VMdLVoiCHsu8gNEWzNVm6"
-        },
-        {
-          "name": "P\u00edo Leiva",
-          "url": "https://open.spotify.com/artist/7vf3cusT4A12yB9wu0714H"
-        },
-        {
-          "name": "Mayito Rivera",
-          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
-        },
-        {
-          "name": "Luis Frank Arias",
-          "url": "https://open.spotify.com/artist/5wBACEQjA6fxwh1wz7c96V"
-        },
-        {
-          "name": "Telmary",
-          "url": "https://open.spotify.com/artist/5HgcoxgOLZfWfiuzjdlhyw"
-        },
-        {
-          "name": "Osdalgia",
-          "url": "https://open.spotify.com/artist/07k4rO9r8H2IlBP98C6jI5"
+          "name": "The Sons Of Buena Vista",
+          "url": "https://open.spotify.com/artist/5v7FgnzkIKDUOIXwEloKf1"
         }
       ],
-      "duration_ms": 260800,
+      "duration_ms": 257040,
       "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/1HrtoRjIFmGStq47TuPkok"
+      "url": "https://open.spotify.com/track/3fN0SB5OWTLCzgEuqfaK2s"
     },
     {
       "added_at": "2022-08-05 11:41:25",
@@ -755,8 +743,8 @@
     {
       "added_at": "2022-08-05 11:41:25",
       "album": {
-        "name": "Esta es mi Rumba",
-        "url": "https://open.spotify.com/album/2WkdKPVgqZMYniBLn7waS9"
+        "name": "Esta Es Mi Rumba",
+        "url": "https://open.spotify.com/album/08goQFOlOClDPtGQZl7d2o"
       },
       "artists": [
         {
@@ -768,9 +756,9 @@
           "url": "https://open.spotify.com/artist/67yMeHb5yvyDRabVSMZu8Z"
         }
       ],
-      "duration_ms": 252908,
-      "name": "El Gallo de Mor\u00f3n",
-      "url": "https://open.spotify.com/track/3wS4LArgjvAsfM6EyiLx3J"
+      "duration_ms": 254920,
+      "name": "El Gallo De Moron",
+      "url": "https://open.spotify.com/track/4u9ncLvMpp4mEyoE9ZC3Gh"
     },
     {
       "added_at": "2022-08-05 11:41:25",
@@ -839,8 +827,8 @@
     {
       "added_at": "2022-08-05 11:41:25",
       "album": {
-        "name": "Discover Son",
-        "url": "https://open.spotify.com/album/1ibDcG4M5PWiiYlcgoykbL"
+        "name": "The Most Popular Songs from Cuba",
+        "url": "https://open.spotify.com/album/4C3zYZy8KynpglX602ev5l"
       },
       "artists": [
         {
@@ -850,7 +838,7 @@
       ],
       "duration_ms": 236773,
       "name": "El traguito",
-      "url": "https://open.spotify.com/track/4456Rvvbo49r7WlSHAVqeW"
+      "url": "https://open.spotify.com/track/4JZl2QBkPqALZhq9gR9NXJ"
     },
     {
       "added_at": "2022-08-05 11:41:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 
 > The legendary producer and songwriting duo: Kenneth Gamble and Leon A\. Huff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,546 likes - 106 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,617 likes - 106 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 | 26 | [Take Good Care of Yourself](https://open.spotify.com/track/5atFgDE8TM07EhCKkBIPlq) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 3:23 |
 | 27 | [The Love I Lost \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 6:24 |
 | 28 | [Expressway to Your Heart](https://open.spotify.com/track/5WtrLNpSjwp45LI70E1R4N) | [The Soul Survivors](https://open.spotify.com/artist/77oyFDj00Afu8tjXDy5CDs) | [Expressway to Your Heart](https://open.spotify.com/album/6Gk9qbSPYre0ZXFvymdEtw) | 2:20 |
-| 29 | [Drowning in the Sea of Love](https://open.spotify.com/track/2ogX2W8jx36eFp25smqmKX) | [Joe Simon](https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py) | [The Power of Joe Simon](https://open.spotify.com/album/0NwrhmnomlCDbVX24bFvtT) | 3:25 |
+| 29 | [Drowning in the Sea of Love](https://open.spotify.com/track/1hbf8AWhIfIQk8V9KqTRAl) | [Joe Simon](https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py) | [Drowning in the Sea of Love](https://open.spotify.com/album/3KXu9WiHi6HlxXM9aZtdQU) | 3:23 |
 | 30 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
 | 31 | [Stay With Me](https://open.spotify.com/track/1MjBD3zaGPd4HJHSJjG9Dx) | [The Futures](https://open.spotify.com/artist/2pvqnXr6K5FZmqbgvibDE3) | [From Philly With Love](https://open.spotify.com/album/37iNGYqlN7m1FNLNmapKAy) | 3:55 |
 | 32 | [Something For Nothing \(feat\. Thom Bell\)](https://open.spotify.com/track/2mE2c3I140k7ji0BsNrSAI) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [Thom Bell](https://open.spotify.com/artist/5egxBktj5MbsJPxHkjH8nB) | [MFSB](https://open.spotify.com/album/13BJu1z2R5jGyvnftVVFG5) | 2:57 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXutrsZUdv7b.md) - [plain]
 | 105 | [I Met Him On A Sunday](https://open.spotify.com/track/1BbuB46ewGPlZYSLtcdANi) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV), [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Gonna Take A Miracle](https://open.spotify.com/album/6867EFvLm4xENyg1pdcRdh) | 1:49 |
 | 106 | [Someday You'll Be My Love](https://open.spotify.com/track/5z07SkVTBDO44PMBRwTpHs) | [Kenny Gamble](https://open.spotify.com/artist/0TEdanYTgQdUgNBPjK2vXI), [Tommy Bell](https://open.spotify.com/artist/3lyFG7yieZVPFKpHIzaosB) | [Ain't Nothin But A House Party](https://open.spotify.com/album/6Zd5nGmHAPgw1o1GsRE4zw) | 2:25 |
 
-Snapshot ID: `MTY1MTU4MzE4MSwwMDAwMDAwMDZmMDE5MTY5M2VlZDM5ZDUwOTE5YTYyODNlOTU0OTZm`
+Snapshot ID: `MTY1MTU4MzE4MSwwMDAwMDAwMDViOWMyYTNkMDhiMjMyNjMwZmU5OTViYjg0NDc0NjVm`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 98586,
+  "num_followers": 98619,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMDhkOGZmYWU5ZGVkODVlNGNmMzg4MDYyZjExMGU3YzE3",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGE1NTUzZjliY2VjNTg4ODA1YmQ1MTVlOTFjODk2NDBh",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 229087,
+      "name": "Gravy",
+      "url": "https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Oxigeno",
         "url": "https://open.spotify.com/album/0tAVNYIxC7TpHEdkmZRtHE"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 207966,
-      "name": "El Que Reina",
-      "url": "https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -119,6 +119,22 @@
       "duration_ms": 264826,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/6xuPzzkawDA8P9vnRxWNSN"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 207966,
+      "name": "El Que Reina",
+      "url": "https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -159,22 +175,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Historia",
-        "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "El Cristiano No Se Enoja",
-      "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "No Fallar\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 380571,
       "name": "No Fallar\u00e1 (Remix)",
       "url": "https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Historia",
+        "url": "https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "El Cristiano No Se Enoja",
+      "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -283,6 +299,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Tengo Victoria",
+      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
       },
@@ -303,22 +335,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Tengo Victoria",
-      "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
@@ -335,26 +351,6 @@
       "duration_ms": 170614,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Dependo de Ti",
-        "url": "https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Sierra",
-          "url": "https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0"
-        },
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 195459,
-      "name": "Dependo de Ti",
-      "url": "https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -391,6 +387,26 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Dependo de Ti",
+        "url": "https://open.spotify.com/album/651OlbSCsMTaxCRqVgGkIG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Sierra",
+          "url": "https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "Dependo de Ti",
+      "url": "https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Contigo Todo Es Posible",
         "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
-      },
-      "artists": [
-        {
-          "name": "Raza For Christ",
-          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "Fue Por Ti",
-      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Oveja Entre Lobos",
         "url": "https://open.spotify.com/album/2Tctk4AH3KtYpgHFpB6n0A"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 235389,
       "name": "Mi Fe",
       "url": "https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
+      },
+      "artists": [
+        {
+          "name": "Raza For Christ",
+          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "Fue Por Ti",
+      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -775,18 +791,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
-        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
       "artists": [
         {
-          "name": "Nicold Frias",
-          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
         }
       ],
-      "duration_ms": 259626,
-      "name": "Un adorador",
-      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+      "duration_ms": 232360,
+      "name": "Le Llaman Jesus",
+      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -823,6 +839,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Los \u00c9xitos De Marcos Witt En Bachata",
+        "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
+      },
+      "artists": [
+        {
+          "name": "Nicold Frias",
+          "url": "https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Un adorador",
+      "url": "https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "En Accion",
         "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
       },
@@ -835,42 +867,6 @@
       "duration_ms": 282760,
       "name": "En Tu Presencia",
       "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
-        }
-      ],
-      "duration_ms": 232360,
-      "name": "Le Llaman Jesus",
-      "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Lo Que Dice El Alma",
-        "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
-      },
-      "artists": [
-        {
-          "name": "Josue Escogido",
-          "url": "https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK"
-        },
-        {
-          "name": "Yariel y Omy",
-          "url": "https://open.spotify.com/artist/57rWlpin8dSDoSuO0bcr0f"
-        }
-      ],
-      "duration_ms": 257230,
-      "name": "El Mismo De Ayer",
-      "url": "https://open.spotify.com/track/14vPeVOX4it5xXsTKqQlIC"
     }
   ],
   "unique_name": "Baila Con Dios",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,704 likes - 101 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,974 likes - 101 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 19 | [Klé](https://open.spotify.com/track/54aJYTjYCQj6PoabMUGciv) | [Tom Diakité](https://open.spotify.com/artist/5xMaTGRQqjr7dj4YSADneO), [Uckadela](https://open.spotify.com/artist/1abdUt9foYanfxqiJ3buZj) | [Fala](https://open.spotify.com/album/6sUOxZPxWKs2KFVPQcC9Ap) | 4:21 |
 | 20 | [Warico](https://open.spotify.com/track/5GTYdbtzQpudmlo3Madhjf) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 3:25 |
 | 21 | [Atse Tewodros](https://open.spotify.com/track/21RdOi6iAjdIJK9yx8TYrG) | [Gabriella Ghermandi](https://open.spotify.com/artist/65kOUo79VAnY3KLSlkA620), [Yohannes Afework](https://open.spotify.com/artist/4sg8WHFt697sqaEvEmsySU), [Endris Hassan](https://open.spotify.com/artist/3S22bs2bLpIpscRmxjYSEe), [Michele Giuliani](https://open.spotify.com/artist/7MwNSA8qsLd0kBBtfbxAts), [Marcello Piarulli](https://open.spotify.com/artist/43JPaMurizq1fa9KKdnbKa), [Fasika Hailu](https://open.spotify.com/artist/20E2ikHhvy0jFgbcV9pqPf), [Cesare Pastanella](https://open.spotify.com/artist/5QqlZTWbIONXML0zihecw5) | [Celebrating Emperor Tewodros II](https://open.spotify.com/album/4oVxYRZO3pHTIhEd9g6hR1) | 6:06 |
-| 22 | [Imbukula](https://open.spotify.com/track/49SD731vKkB8DOy1Rqr340) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [Discover Music from Africa](https://open.spotify.com/album/6NzbFxFvkvUCoRn2YmjLXj) | 4:45 |
+| 22 | [Imbukula](https://open.spotify.com/track/3UMbW5c5Zgg6gqWPFS1T6I) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [I am a child of the 80s](https://open.spotify.com/album/3iAUsJ7jLcWvpn1gUmMTL2) | 4:45 |
 | 23 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/1RQv52rbKYfSKVkPfCvxxw) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 |
 | 24 | [Kora by Night](https://open.spotify.com/track/2hU4x98c0LUwRUqjJE4ujy) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Kora Fo](https://open.spotify.com/album/5cBxRTB0SAwp8EWUcQKXQh) | 3:45 |
 | 25 | [Sarama](https://open.spotify.com/track/7jDvPH18QP0Y35l20cjYgy) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 5:01 |
@@ -108,6 +108,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 98 | [Kába](https://open.spotify.com/track/6pzyjHjE0HlaK9fYrMAuIH) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz), [Dramane Dembélé](https://open.spotify.com/artist/4ocTJVYKPWlU6NmQO0Ybuj), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Christi Joza Orisha](https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2), [Robert Sadin](https://open.spotify.com/artist/5JWMejpVKhv7pYahgWSXSr) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 4:36 |
 | 99 | [Wanita](https://open.spotify.com/track/6cBLK1pC202FMxthSKg1NN) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:39 |
 | 100 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 |
-| 101 | [Makambo](https://open.spotify.com/track/1KhDeUDKgkPPGTi2yLh42C) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [African Tranquility: The Contemplative Soul of Africa](https://open.spotify.com/album/5yct2YFar38IONhbcTzWjm) | 5:01 |
+| 101 | [Makambo](https://open.spotify.com/track/2F9aMslwYQurvgv7DGS7S5) | [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Exile \(Real World Gold\)](https://open.spotify.com/album/3wDdQn9tgxEIjjo1pnc7X7) | 5:00 |
 
-Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMDY0ZmZjYWY0N2JmY2Q1ZmJjNTU5ZmQwZDg5NWNmMjY3`
+Snapshot ID: `MTY1OTY5OTk2MCwwMDAwMDAwMDc5ODNhMGFiNjExZmRlZWI1OTNjNzU5N2ZlZWQ5ODM1`

@@ -4,7 +4,7 @@
 
 > ft\. angelus
 
-1,515 songs - 2 day 20 hr 45 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
+1,516 songs - 2 day 20 hr 48 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,8 @@
 | [hopele555](https://open.spotify.com/track/4E517TOQVETDAHzKmgmcDa) | [Oolacile](https://open.spotify.com/artist/3z8SEnYy9gIRNrSVNJieXx) | [hopele555 \(baka dub\)](https://open.spotify.com/album/1mURshbfeNnAySGWStmN9p) | 3:48 | 2021-02-26 | 2021-09-24 |
 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 | 2022-10-14 |  |
 | [Horse Girl](https://open.spotify.com/track/0Pimw3RrTWSrI26BLJd0GA) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/3rkPyVBtMAuwIiRbnv1kYE) | 3:06 | 2022-09-30 | 2022-11-02 |
-| [Horse Girl](https://open.spotify.com/track/1EqDSe1As5tdf5plS0yl7a) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/4MHDJJydXzMbuJkMaLP5Ic) | 3:06 | 2022-09-30 |  |
+| [Horse Girl](https://open.spotify.com/track/1EqDSe1As5tdf5plS0yl7a) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/4MHDJJydXzMbuJkMaLP5Ic) | 3:06 | 2022-09-30 | 2022-11-14 |
+| [Horse Girl](https://open.spotify.com/track/6xaTMOrUsaTl96eGYZh6fB) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Wyoming](https://open.spotify.com/album/4h9sWVwjvC9z7Kv6c4ilXa) | 3:06 | 2022-09-30 |  |
 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 | 2022-07-29 |  |
 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 | 2020-10-13\* | 2021-02-26 |
 | [Hotel Cigarette](https://open.spotify.com/track/3DXTmAwIeByAshD5OYAlkK) | [internetboy](https://open.spotify.com/artist/0ZJw6xiDo3vtQXMZpDg3fW), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Hotel Cigarette](https://open.spotify.com/album/4AaTlbymFXMtL7UGdVt0jP) | 3:43 | 2022-09-30 | 2022-11-12 |

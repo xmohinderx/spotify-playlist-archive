@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé\. Photo : Françoise Hardy
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,006 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,042 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 3 | [Itsi bitsi petit bikini](https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 2:16 |
 | 4 | [Souvenirs, souvenirs](https://open.spotify.com/track/1DDdDbmbEDsFXEXgxBmvFQ) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Souvenirs, Souvenirs](https://open.spotify.com/album/55wZUMJJK62Yb1QoQK7imL) | 2:09 |
 | 5 | [Harley Davidson](https://open.spotify.com/track/0wXKL7dVWwl8LZjbhKMGPr) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot Show 67](https://open.spotify.com/album/0uhqJFy7MI5yJHdgofylnN) | 2:28 |
-| 6 | [J'entends siffler le train \- Remastered](https://open.spotify.com/track/1PtsUo7Zsadub2T4anyF6O) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [J'entends siffler le train \(Remastered\)](https://open.spotify.com/album/3inxzMkdAUx94zJDaB5HcC) | 3:20 |
+| 6 | [J'entends siffler le train](https://open.spotify.com/track/487LFx8UVLxUsDAdetnCp2) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [les plus belles chansons](https://open.spotify.com/album/0dvnB0KschqGz0ezdnWsmO) | 3:23 |
 | 7 | [Zou bisou bisou](https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw) | [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Twistin’ The Rock, Vol\. 9](https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg) | 2:15 |
 | 8 | [Viens danser le twist](https://open.spotify.com/track/5QLZEGOnjRYhqjAii9JAaP) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:04 |
 | 9 | [L'école est finie \- Version stéréo](https://open.spotify.com/track/4Kgq5PpWPsqMLOId5CvoYF) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Sheila \(Compilation 2006\)](https://open.spotify.com/album/6ixot8kh9JC9usgdNBKkZB) | 2:39 |
 | 10 | [Salut les copains](https://open.spotify.com/track/0h1Yfiy1LEHsyQTzGIZklu) | [Gilbert Bécaud](https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0) | [Salut les copains](https://open.spotify.com/album/5FDxqiMUFTJvINVP4N6K7K) | 2:36 |
-| 11 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/3v2OihRftMdzfWpNpQ1AD5) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Cocorico](https://open.spotify.com/album/5NZezzDJYpvvQHWWXCpB05) | 2:24 |
+| 11 | [Dans mes bras oublie ta peine](https://open.spotify.com/track/38FNGeI74jlw6S9kXLtzsy) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Romance](https://open.spotify.com/album/5uplCXh4kyfX3JnC8t76Cd) | 2:24 |
 | 12 | [Ma biche](https://open.spotify.com/track/2xwpd8oRBZiEmCdRvhnzTl) | [Frank Alamo](https://open.spotify.com/artist/3NrXcUsQ2zK1oze56zlKUM) | [Les Annees Barclay](https://open.spotify.com/album/574E4sQjG1V6mpuFrVWIpl) | 2:21 |
 | 13 | [Retiens la nuit](https://open.spotify.com/track/4dBzCMkzbZlEqgPitN3TgE) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [L'album de sa vie 100 titres](https://open.spotify.com/album/1UZ7nohagyt799Vw0vUU4c) | 2:55 |
 | 14 | [Mirza](https://open.spotify.com/track/0cV7Y3WH3iwsZTjibVyck1) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 2:24 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 16 | [Belles belles belles](https://open.spotify.com/track/1Q6j1dx7pXzuLZLAexFWuQ) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 2:12 |
 | 17 | [Et moi, et moi, et moi](https://open.spotify.com/track/4XSRqScl0RWxFjOQID8QCW) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Et moi, et moi, et moi](https://open.spotify.com/album/3UPrsSEE9KIjy0Hln8Swkn) | 2:55 |
 | 18 | [Siffler sur la colline](https://open.spotify.com/track/3gvUS6JaXzbXNihHQlRWBW) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 |
-| 19 | [Mes mains sur tes hanches](https://open.spotify.com/track/5J1vSiDuzEbnkfRLw6T19H) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [L' essentiel](https://open.spotify.com/album/3fQ3ExJgpL6A0AVw4oL53f) | 2:58 |
+| 19 | [Mes mains sur tes hanches](https://open.spotify.com/track/4chX3KwIY3BJBqsnXpgDSy) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Singles + Faces B 1964\-1966](https://open.spotify.com/album/5hMPMHP3ks0km3jDp5xGnF) | 2:57 |
 | 20 | [Aline](https://open.spotify.com/track/3Sju0jbR35bTfajNgbkgFy) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best of \(Collector\)](https://open.spotify.com/album/5vp7Y6bJSUc2maDl3SFywe) | 2:50 |
 | 21 | [La plus Belle pour Aller Danser](https://open.spotify.com/track/1V8V3UYeX2Est81MMucvJC) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [A Nashville](https://open.spotify.com/album/1MmmmrUViWnOkzlxLTYQzq) | 2:29 |
 | 22 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 31 | [Daniela \(de quoi te mêles\-tu Daniela\)](https://open.spotify.com/track/5BnU92BVLCUKNmcWvxoXwp) | [Les Chaussettes Noires](https://open.spotify.com/artist/6KXdUNa8QT8Sty4k5G2LqK) | [Twistin' The Rock Story / Vol 5](https://open.spotify.com/album/2d5t4obzjRCFHHV5i2LJ1a) | 2:32 |
 | 32 | [L'idole des jeunes](https://open.spotify.com/track/0S4HOFZx606Zv6bEutTEez) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Anthologie Vol\. 1](https://open.spotify.com/album/12b1tVAedPdmKuBrIYhJBi) | 2:28 |
 | 33 | [Il est cinq heures, Paris s'éveille](https://open.spotify.com/track/2CLeotsLhEUu0qkj56vbUj) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Il est cinq heures](https://open.spotify.com/album/6uZABwQhmEllK5otzX9ONK) | 2:55 |
-| 34 | [La javanaise](https://open.spotify.com/track/3ZOmDC01bMYi8PcdeQ2zgD) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Les plus belles chansons françaises](https://open.spotify.com/album/1FGF4A3hrzH1YBHTNoVKrU) | 2:29 |
+| 34 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
 | 35 | [Butterfly](https://open.spotify.com/track/72rLswhYvQz9LRx3LogMIW) | [Danyel Gerard](https://open.spotify.com/artist/18wc7xvm8Ti7rqoLtf6jIU) | [Butterfly](https://open.spotify.com/album/72O3ydJomCcEjETdt0UtIq) | 3:25 |
 | 36 | [Le petit pain au chocolat](https://open.spotify.com/track/2VRLDyUSV5krEJOjFwsWas) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Èlysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 3:23 |
 | 37 | [Les elucubrations d'Antoine](https://open.spotify.com/track/6898KjBwWLdsJUH1Tu9rI7) | [Antoine](https://open.spotify.com/artist/6LGRPT9Uf7dteB6CAFPDV1) | [Trésors 60's](https://open.spotify.com/album/406ITkSun3uzXzUwqLKneX) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 | 49 | [La nuit n'en finit plus](https://open.spotify.com/track/7axtIlOwGp7VqvfOQf6Mhb) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:55 |
 | 50 | [Un verre de whisky](https://open.spotify.com/track/5vZyhXFTYPEjKJ8gilY5Pt) | [Monty](https://open.spotify.com/artist/4OYkihLZO32dDQHd7wUI6z) | [Monty Tendres Années 60](https://open.spotify.com/album/4r1cDqQztqmJ5lpxKiTsrP) | 2:13 |
 
-Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDk1MDdlNGE3NTEyYjM2ZDM3ZjFiY2U2NTc1MmRlNjhj`
+Snapshot ID: `MTY1NjQwOTU0MywwMDAwMDAwMDI5OGQ4OThlZTJkMDE1NWIzY2U4ZjQ4MDgwNjJmMGY4`

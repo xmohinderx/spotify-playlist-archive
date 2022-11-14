@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,657 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,729 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 9 | [52nd Street Theme \- Rudy Van Gelder Edition/1998 Digital Remaster](https://open.spotify.com/track/0oDgc718NJn7CyiClFRExR) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 2:49 |
 | 10 | [Ande \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 6:42 |
 | 11 | [Un Poco Loco \- Rudy Van Gelder Edition / Remastered 1998](https://open.spotify.com/track/5SocjOFFwNyWGLwAzPfLFh) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:46 |
-| 12 | [I Got Rhythm](https://open.spotify.com/track/29e5iLMydpu1LynhZrS1QI) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Verve Jazz Masters 50](https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA) | 3:09 |
+| 12 | [I Got Rhythm](https://open.spotify.com/track/3p4C7vCwkqOD3bSlh96pls) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [The Hard Swing](https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz) | 3:07 |
 | 13 | [I'll Remember April \- Live At The Haig, Los Angeles / 1953](https://open.spotify.com/track/29zRXtgeTBTUZFDFBCxFyg) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Konitz Meets Mulligan](https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh) | 4:15 |
 | 14 | [The Chase](https://open.spotify.com/track/3YBfGF2pPZu3FXM5D2mzyd) | [Tadd Dameron Sextet](https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe) | [The Complete Blue Note and Capitol Recordings](https://open.spotify.com/album/3zTHq5cj2KLev9c7eFJ7CI) | 2:46 |
 | 15 | [Cookin' At The Continental](https://open.spotify.com/track/1U1vBvFOfGJP2MLwj1OmOH) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Best Of Horace Silver](https://open.spotify.com/album/3G0Y7RBOXTJ7HOtW2Umcmh) | 4:54 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 44 | [Invisible](https://open.spotify.com/track/2lwlScELPERmPJzsemoone) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:15 |
 | 45 | [Love For Sale](https://open.spotify.com/track/2HlT0tEiELR2wLgsJhBHYV) | [Sonny Criss](https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe) | [This Is Criss!](https://open.spotify.com/album/5RddAbKe6UJ22nodgQ6vPB) | 6:25 |
 
-Snapshot ID: `MTYzMDMzNjI2NSwwMDAwMDAwMDkyY2EzMThhZjc2NzIyODI3NmNhZWFlZmZjZWFiZjIx`
+Snapshot ID: `MTYzMDMzNjI2NSwwMDAwMDAwMDNkZmMxZjFmZWNkOGM5NjBhODIxNTM2OWU4YWY3OWQ3`

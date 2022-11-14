@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqr1os0aCxH.md) - [plain]
 
 > POV: sipping tea in the parlour with your BFF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,653 likes - 30 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,719 likes - 30 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqr1os0aCxH.md) - [plain]
 | 22 | [Les cloches de Genève](https://open.spotify.com/track/6RSmwzh8naNv2pSgcldW37) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [André Laplante](https://open.spotify.com/artist/3wBPUdIKGpmOpm6EvuLKMj) | [Années de pèlerinage \- Suisse](https://open.spotify.com/album/0JaZH9gdpKr7mBLYgScpSm) | 6:13 |
 | 23 | [Poldark Prelude](https://open.spotify.com/track/2ZiKX8sUWhINzoprZAWTzl) | [Anne Dudley](https://open.spotify.com/artist/41dLItQx3PSyP6n1AMd87b), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Poldark: Music from the TV Series \(Deluxe Version\)](https://open.spotify.com/album/4swL8BznFgV5IhDRFyB7bO) | 3:41 |
 | 24 | [Sidney and Charlotte Dance](https://open.spotify.com/track/4Dg3T3W6yESLFXKsfQGoDI) | [Ruth Barrett](https://open.spotify.com/artist/48ZoDch2iKE7FZEYY67DPB) | [Sanditon \(Original Television Soundtrack\)](https://open.spotify.com/album/7zbe6VlYuPAYeoQ9o1FQWW) | 2:22 |
-| 25 | [Theme \- From "Emma"](https://open.spotify.com/track/4UU5OMdwhOyHSSXU6GjKLd) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Varèse Sarabande: 40 Years of Great Film Music 1978\-2018](https://open.spotify.com/album/4KutdJWvtiOQwTbGxK2DXU) | 2:58 |
+| 25 | [Theme \- From "Emma"](https://open.spotify.com/track/06mi7oiYv5pftvpFU784jc) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Hollywood '96 \(Themes From The Year's Biggest Films\)](https://open.spotify.com/album/0iEDyEwaKcNRLGpHz5vOZH) | 2:59 |
 | 26 | [My Father's Favourite](https://open.spotify.com/track/0LrA0EtiJsr4tDHIGw82OW) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ), [Tony Hymas](https://open.spotify.com/artist/6A479xP05787vKnE5MtLSG), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Sense & Sensibility \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5cdzYLI2HbFMJsqyt028Gq) | 5:27 |
 | 27 | [Tosca: "Vissi d'arte" \- Instrumental Version](https://open.spotify.com/track/1sLdtvscJQJU0m8lE3UgGv) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Orchestra Filarmonica Ucraina](https://open.spotify.com/artist/7dCm81ernkaCetMxzdV62i), [Silvano Frontalini](https://open.spotify.com/artist/4hB6gspHUv7YlN9c6ViLhN) | [Arias for Dramatic Soprano\. Only Music \(Instrumental Version\)](https://open.spotify.com/album/5SPcQRuuEdXJCPWD8ZYTOj) | 2:40 |
 | 28 | [Mr\. Turner's Waltz](https://open.spotify.com/track/1bV9N9F9QHilS9ZusAL6VM) | [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [EMMA\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2QwIcZ1a1FuDUw8i0u1dGS) | 2:09 |
 | 29 | [You Would Be My Wife](https://open.spotify.com/track/2RF6jQVYX0p1LhPwLuU6QN) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lw4LFv3wp9ONOeMmGjARK) | 2:19 |
 | 30 | [6 Violin Sonatas, Op\. 10b No\. 2 in G Major, J\. 100: II\. Adagio](https://open.spotify.com/track/1AC5wU2t8UR1EY8wZ04AG0) | [Carl Maria von Weber](https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2), [Nino Gvetadze](https://open.spotify.com/artist/3XqWi96WK0NxAhtHng8HSl), [Frederieke Saeijs](https://open.spotify.com/artist/0wIhjnC9Lud8D2rLRoFACQ) | [6 Violin Sonatas, Op\. 10b](https://open.spotify.com/album/0WzJucZMyYoL1WsW0ub4Ul) | 3:04 |
 
-Snapshot ID: `MTY2NDgwNDc5NiwwMDAwMDAwMDcyZDJlNmIxNzYwZjcyOWEwYTU0OWZlOWQ5MGYwN2I0`
+Snapshot ID: `MTY2NDgwNDc5NiwwMDAwMDAwMGNhN2NkNmFjMmZjNTE1ODI5ZDRiYmQ1ZjEwMTU4ZGFh`

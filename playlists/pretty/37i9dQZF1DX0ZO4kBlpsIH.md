@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,899 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,187 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 9 | [Wenn Mademoiselle dich kusst](https://open.spotify.com/track/5y5mJLGym2sSuuZbTf2saN) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:43 |
 | 10 | [Cris](https://open.spotify.com/track/4Ndlor6i2ikO2tOzB8LVZH) | [Roberto Lucanero](https://open.spotify.com/artist/5OVJFCX7ri0EaYLqz58NQp) | [Cris](https://open.spotify.com/album/5x3cqAMsUcM9YvAG1Xeo6N) | 3:44 |
 | 11 | [Cumbia Cantina](https://open.spotify.com/track/78R2ykINPnIYzQqCg5Kbys) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:52 |
-| 12 | [Corinne](https://open.spotify.com/track/4gMJ2J8BwYlOjQ52GwRkdZ) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 4:02 |
+| 12 | [Corinne](https://open.spotify.com/track/1CEjw6vteEMITpEl15WseM) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 4:02 |
 | 13 | [Besame Mucho](https://open.spotify.com/track/4iAKfuXxtvBuBilApPvf06) | [Claudio Ranalli](https://open.spotify.com/artist/4Z6NDRwXM5rrKuzKcthNeu) | [Fantastica Fisarmonica 16 Beguine](https://open.spotify.com/album/03DkoUckKFcBpv90GlnQ1n) | 3:33 |
 | 14 | [Retour des cirendelles](https://open.spotify.com/track/0UVkdpZULq33lmF8HPt1UD) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 4:13 |
 | 15 | [Reine de musette \(Valse\)](https://open.spotify.com/track/0zpr01yVgTrjoC2jJgIFMl) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [l'essentiel 2003](https://open.spotify.com/album/1iSZEiigZrhfcOAQkWFAH8) | 2:53 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 19 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 |
 | 20 | [Reve d'accordeonist](https://open.spotify.com/track/1Lz7wiD9KaBS7zptRQJbWk) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:52 |
 | 21 | [Boum musette](https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa) | [Joss Baselli](https://open.spotify.com/artist/2Goh2SVD0hBxz9qMrtBTkt) | [La foule \(Collection "Les archives de l'accordéon"\)](https://open.spotify.com/album/00Q6aSetTUHYYFZygpEdv7) | 2:24 |
-| 22 | [Sensibilité musette](https://open.spotify.com/track/2wliHjwY0veVidLVYLQdhv) | [Stephanie Methot](https://open.spotify.com/artist/4oOUhXHZsHcKj3jhQbHvhe) | [Ambience Musette \(Special Non\-Stop One Hour French Style Ballroom Dance Session\)](https://open.spotify.com/album/6cGIKPQxlbs031DRgFLluL) | 2:22 |
+| 22 | [Sensibilité musette](https://open.spotify.com/track/23c4owlvn3O72bWlHx1Kb5) | [S\. Methot](https://open.spotify.com/artist/4lOTDWfZfMZXrFZvSkVyyj) | [Ambiance Musette pour danser \(1 heure special dance non stop\)](https://open.spotify.com/album/0k1oqRUt0ayrqDn1R6xGas) | 2:22 |
 | 23 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 2:40 |
 | 24 | [Au Vieux Bal Musette](https://open.spotify.com/track/2XZaBz843U00YVkOJLHtGx) | [André Verchuren](https://open.spotify.com/artist/6rT4bZhhSQC6dCT33qgShE) | [Une Belle Histoire](https://open.spotify.com/album/5mPHOeyteMkcXXo8by5LGG) | 2:33 |
 | 25 | [Reine de musette](https://open.spotify.com/track/2dr7w26T5aMdtgX3RGd7Ez) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp), [Marcel Azzola](https://open.spotify.com/artist/0c2ZORZQaJWxtkJq4850Wg) | [Et ça tournait \- Anthologie de la chanson musette](https://open.spotify.com/album/67hLFIMVNgg2mDLOXVHwqs) | 2:32 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 29 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/6wsyd1VUuZjHZkXiHNHWhT) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:18 |
 | 30 | [Reve Gourmand](https://open.spotify.com/track/0b9ALLd6ZEhV8hmQTgK5ZL) | [Danielle Pauly](https://open.spotify.com/artist/0hC7AX4YRg5MLRI4uaLUHY) | [Fleur Du Jura: French Accordian Music](https://open.spotify.com/album/48HHZfooRAnAVKQqG8o9iW) | 2:44 |
 | 31 | [Sunbeam Bossa](https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx) | [Bossa Nórdica](https://open.spotify.com/artist/68CfKFCbNNQaqy75ZgwF4h) | [Sunbeam Bossa](https://open.spotify.com/album/1REO43jYtdKeP22HeTGMX8) | 3:05 |
-| 32 | [Volo degli angeli](https://open.spotify.com/track/2TJkVa5tsLykNaU5OGpbfD) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:58 |
+| 32 | [Volo degli angeli \(Flight of the Angels\)](https://open.spotify.com/track/6iIsE9H3kmwV2mhvUBf9rn) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:58 |
 | 33 | [En douce](https://open.spotify.com/track/1PIHtaW0aFcOd7W8HtiyBm) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [L'air de Paris](https://open.spotify.com/album/1D5A3USZd7Cz0TMLBn6AYa) | 2:24 |
 | 34 | [Arc de Triomphe](https://open.spotify.com/track/523gSUSIfg3v88dW9Xp4Bq) | [Paris Café Society](https://open.spotify.com/artist/5jjHcJSJq9lyKfh4j6mNro) | [French Café: A Parisian Gypsy Jazz Swing Experience](https://open.spotify.com/album/3QxCtZ0twLj5FpJr7cyCLp) | 2:43 |
 | 35 | [Germaine](https://open.spotify.com/track/75Oxiew9UEAJNgBfemFLPR) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 3:25 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 51 | [Brise Napolitaine \- 1956](https://open.spotify.com/track/5tsAXJsDCzJL9mOLW09xX0) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Valse Musette](https://open.spotify.com/album/3IstTjNFAMomssd6s9g8XX) | 2:25 |
 | 52 | [Magnitsky Mazurka](https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP) | [Blue Reed](https://open.spotify.com/artist/45G3AXF6o34v567mxogrb9) | [Vol.1](https://open.spotify.com/album/5OjLE6UwpRwpVmWlNrGgM1) | 4:47 |
 
-Snapshot ID: `MTY1OTY5NjMzNywwMDAwMDAwMGZiNGYyMDU1NWEzNTIwYTE1MWU5NTA4MTNiMTZiOTg4`
+Snapshot ID: `MTY1OTY5NjMzNywwMDAwMDAwMDJjMTM2NTFlNjE1ZDkzYWE5NWU3ZWVlMjE5YTZhNWU2`

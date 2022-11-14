@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 159053,
       "name": "Deep End - Remix",
       "url": "https://open.spotify.com/track/1cQDM0YfAhbSmUbn5372dA"
@@ -3571,6 +3571,24 @@
       "duration_ms": 256000,
       "name": "New Legends",
       "url": "https://open.spotify.com/track/0JhFxi0sJDJd1JrNvTw3QA"
+    },
+    {
+      "album": {
+        "name": "New Legends",
+        "url": "https://open.spotify.com/album/18nkh2pT8cwaheJfw9p9ju"
+      },
+      "artists": [
+        {
+          "name": "Melvillous",
+          "url": "https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "New Legends",
+      "url": "https://open.spotify.com/track/3QJTmlay3nLxhp0ol14N3l"
     },
     {
       "album": {

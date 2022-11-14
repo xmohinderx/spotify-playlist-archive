@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 
 > <a href="spotify:artist:4cvdQRyHmkSQSakUrW2oxv"> Michael Bibi</a>'s favorite tracks\. Updated regularly\. Curated by Michael Bibi\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,593 likes - 97 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,653 likes - 97 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 80 | [Toxic Love](https://open.spotify.com/track/7BRNTtEOvXQ9wYrvpMY1Eg) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Summer on Mars EP](https://open.spotify.com/album/17W4wQ4UPpxlCr9VJ379MN) | 6:32 |
 | 81 | [Gemini](https://open.spotify.com/track/5dwjQsS2ezI4NDnokvK7IM) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [In Between](https://open.spotify.com/album/2dxytgIq0LQjqSoprWoHdU) | 9:07 |
 | 82 | [Psycho Killer \- Original OG Mix](https://open.spotify.com/track/5MlEf3IMZMZdCehq6PhAuJ) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr), [Charlie Sputnik](https://open.spotify.com/artist/0gzDPfSntesPB6zpECNovz) | [Psycho Killer](https://open.spotify.com/album/3bO4dmoC1vhXTf2uvuMW4t) | 6:50 |
-| 83 | [Fresh](https://open.spotify.com/track/4H2WZu9uvKb0hHl3YisWIc) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [The Best Of](https://open.spotify.com/album/1PEYFDbpGAOH0jUUeqlFOS) | 6:56 |
+| 83 | [Fresh](https://open.spotify.com/track/03MPDq8THNtAfi5h7quHlV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Get Up and Boogie \(Incl\. DJ Mix\)](https://open.spotify.com/album/4LTh974nPod5Q50ANvCNya) | 6:56 |
 | 84 | [Disco Rout \- Younger Rebinds Remix 2](https://open.spotify.com/track/6UzSvM2MsETALQ1gJUIzCu) | [Legowelt](https://open.spotify.com/artist/0cG9dZ6X8YfLeGe24QWMwM), [Younger Rebinds](https://open.spotify.com/artist/7iT223wY8z6eHRvZOU6JTl) | [Disco Rout Remixes](https://open.spotify.com/album/6JR1BLhNeL02VSEkRGDrct) | 5:45 |
 | 85 | [Eva Mendes \- Original Mix](https://open.spotify.com/track/6AhD2OsZ3CcJAv2DySvMWE) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [Eva Mendes EP](https://open.spotify.com/album/6m7PElp48tTwYw9XLrXdKd) | 6:10 |
 | 86 | [Sweepstake \- Original Mix](https://open.spotify.com/track/2oZSHNqsyvAlUuhpSxZ5ij) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Sweepstake EP](https://open.spotify.com/album/1VYO9ML8qqUfpUUhf95HVk) | 6:18 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0YHdTEui7J.md) - [plain]
 | 96 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 |
 | 97 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 
-Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMGZjZWUyZTM3MjAxYjM5NjNhOTEyMDA3MjNmMzdlYjQz`
+Snapshot ID: `MTYyODgwOTIwMCwwMDAwMDAwMDNlNzRiOTk5N2ZkNWM0YTJiZGQ4YzAxZDJkNzA1MDY3`

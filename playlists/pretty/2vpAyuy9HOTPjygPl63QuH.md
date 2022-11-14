@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,397 likes - 20 songs - 1 hr 11 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,404 likes - 20 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 11 | [Never Say Never](https://open.spotify.com/track/1lamYQInWLWWadZ0WJr77I) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Never Say Never](https://open.spotify.com/album/05RILyqqydSjfCP9LK54yX) | 2:33 |
 | 12 | [Fears In The Fire \(feat\. Camden Cox\)](https://open.spotify.com/track/1CjY6ANoDxJ20dh0DfD1qE) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Fears In The Fire \(feat\. Camden Cox\)](https://open.spotify.com/album/7lRpIFJzeeNNfRjgdFeLTR) | 3:05 |
 | 13 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 |
-| 14 | [T.Y.S.D\. \(Throw Your Soul Down\) \- HoneyLuv Remix](https://open.spotify.com/track/1PVROc2q2huRGb1sd0FJWw) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [T.Y.S.D\. \(Throw Your Soul Down\)](https://open.spotify.com/album/3pogOmNSH3PIO1bNbz7d28) | 3:15 |
+| 14 | [T.Y.S.D\. \(Throw Your Soul Down\) \- HoneyLuv Remix](https://open.spotify.com/track/1PVROc2q2huRGb1sd0FJWw) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [T.Y.S.D\. \(Throw Your Soul Down\) \[Remix EP\]](https://open.spotify.com/album/3pogOmNSH3PIO1bNbz7d28) | 3:15 |
 | 15 | [Gucci Slides \(feat\. Kxne\)](https://open.spotify.com/track/6MwhinAqaHVxC3HLJnwH3i) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Gucci Slides \(feat\. Kxne\)](https://open.spotify.com/album/5aa8Tlc6DqqDN390FN2mDx) | 2:23 |
 | 16 | [Masochism](https://open.spotify.com/track/3cG6s2duWYp3kEuTYahaKx) | [Forbid](https://open.spotify.com/artist/2ohXUD9RjzrInO4lKKSXJ0) | [Masochism](https://open.spotify.com/album/10deBp9LWZkpCXXUj3fZpM) | 3:13 |
 | 17 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 |

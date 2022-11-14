@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 
 > Let it simmer with some smooth R&amp;B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,660 likes - 25 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,661 likes - 25 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 13 | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0kF6MdXhjQeYhZ2kogCIsx) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [She Came II Give It II U \(feat\. Nicki Minaj\)](https://open.spotify.com/album/3gUHo30KyBxq9lBS2hnGLW) | 4:02 |
 | 14 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 15 | [Feelin \- Original Mix](https://open.spotify.com/track/6XLSATCZY8hLodpoQrfx27) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Jess](https://open.spotify.com/artist/0vzlcDC7qhbx7pm9ExsQV7) | [Foreign Language \(Remixes\)](https://open.spotify.com/album/13vTyQaEtmVgYKrFthfNnx) | 6:16 |
-| 16 | [Maniac](https://open.spotify.com/track/7qcRswMSwnIOf15DKWgnil) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/5VdwbfSeTPfhbT97peJ0Nz) | 4:47 |
+| 16 | [Maniac](https://open.spotify.com/track/1zczShrEjQLIsXgty7XFFE) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Casablanca Reworks](https://open.spotify.com/album/754XEdGEvq4MzdghPJxBfx) | 4:47 |
 | 17 | [Nighttiming](https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV) | [Coconut Records](https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y) | [Nighttiming](https://open.spotify.com/album/4FeD2BdcaGX75b5X1gvvsg) | 2:48 |
 | 18 | [Too Cool To Dance](https://open.spotify.com/track/72Nl5JkVhoHtmPkNeyLaSy) | [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Too Cool To Dance](https://open.spotify.com/album/2Ab6Yk3XbReGj62BGl3YN5) | 3:09 |
 | 19 | [Peaches N Cream \(feat\. Charlie Wilson\)](https://open.spotify.com/track/7Fk0zNC7vGdoDwePPgByKh) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Peaches N Cream \(feat\. Charlie Wilson\)](https://open.spotify.com/album/0tKHgjptFpCMWQyKrwThXF) | 4:44 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VCBlAzi9Ve.md) - [plain]
 | 24 | [Fiona Coyne](https://open.spotify.com/track/6XkEIIZs0oMUNwaVwHXSZ0) | [Skylar Spence](https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL) | [Prom King](https://open.spotify.com/album/7dR9fq3NnKFZDBDU44DTXv) | 4:09 |
 | 25 | [Go Bang](https://open.spotify.com/track/5bnBF6QS1kZj3WOVZ8KqOB) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Go Bang](https://open.spotify.com/album/6Cd6ifsiUF0A2PVr8aJTeX) | 11:04 |
 
-Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMDhlNzY1ODM4YzBlMjM2YTVmZjgxNzRjMDBjMWQ3NTMw`
+Snapshot ID: `MTUyNTkwMjI5NCwwMDAwMDAwMDk1YzViOTMyODk4YzY1YjdlZjkzODNjMTYyZTcyOGVj`

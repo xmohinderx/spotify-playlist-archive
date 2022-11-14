@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 
 > Welcome to the LOOΠΔverse\. Are you making an 'Orbit' around LOOΠΔ?
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,473 likes - 113 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,524 likes - 113 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,15 +74,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 64 | [You and Me Together](https://open.spotify.com/track/5K8aKuDFrWIHyNiPH1slWv) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:07 |
 | 65 | [Fairy Tale](https://open.spotify.com/track/2TUQSG8OGC1cg1uMyJrJks) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:07 |
 | 66 | [OOPS!](https://open.spotify.com/track/1PI5Nlv1bJESN0H1wBa7Pe) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[12:00\]](https://open.spotify.com/album/3obToaukLcPbCLPPmWFzQi) | 2:42 |
-| 67 | [Valentine Girl](https://open.spotify.com/track/08JjmBX616ab0JvtrulPfQ) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Live](https://open.spotify.com/album/24xMv1Q8SdNoCrKoKUPQJD) | 3:10 |
+| 67 | [Valentine Girl](https://open.spotify.com/track/4UN3kpjB0RoGXUx2zyNzK0) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:10 |
 | 68 | [Everyday I Love You](https://open.spotify.com/track/5HGeTj4lVdLGed5c358q1f) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [ViVi](https://open.spotify.com/album/3eg9jvcmafP60bG9YffJn8) | 3:28 |
 | 69 | [Everyday I Need You](https://open.spotify.com/track/089ima1riL9o88kUlCgFCp) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7), [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [ViVi](https://open.spotify.com/album/3eg9jvcmafP60bG9YffJn8) | 3:07 |
 | 70 | [Love & Evil](https://open.spotify.com/track/0HT726L1FN7csp0DmTfwhU) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 1:02 |
-| 71 | [Sonatine](https://open.spotify.com/track/41jbCSLDcNYRrB2QdmRGZ7) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/281w9uEYedgiWy5atZBZWQ) | 3:17 |
+| 71 | [Sonatine](https://open.spotify.com/track/6LOPo5liG9RE6pBKTVUoEm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:17 |
 | 72 | [Rain 51db](https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm) | [LOOΠΔ 1/3](https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy) | [Love & Evil](https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue) | 3:21 |
 | 73 | [Eclipse](https://open.spotify.com/track/26K21MUaPDTnzHqtiiffFv) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/5BTKWSg65wQMCj0CnPSx34) | 3:51 |
 | 74 | [Twilight](https://open.spotify.com/track/1QzbeeShhAATdT87ssWtK4) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Kim Lip](https://open.spotify.com/album/5BTKWSg65wQMCj0CnPSx34) | 3:06 |
-| 75 | [Singing in the Rain](https://open.spotify.com/track/4uwDQJ76uGBkuP6OpLQia2) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4Jux7c6OjyQHtK12AH3NEA) | 3:31 |
+| 75 | [Singing in the Rain](https://open.spotify.com/track/1uNTfm5WZVGdig95SAXajH) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:31 |
 | 76 | [Love Letter](https://open.spotify.com/track/3GAKRdjL6Snq9C7u5tMC01) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [JinSoul](https://open.spotify.com/album/4aihvbWq3RQ1TAR2awMsqi) | 3:08 |
 | 77 | [Puzzle](https://open.spotify.com/track/0Y1oSjd9U7Qy5t7EDjAjPq) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Choerry](https://open.spotify.com/album/7zWV8dHkh06EclukKh1jVh) | 3:40 |
 | 78 | [ODD](https://open.spotify.com/track/3GRwM20EPVWjKoVsNsHjrj) | [LOOΠΔ / ODD EYE CIRCLE](https://open.spotify.com/artist/5KPaeBm0fVfCSZLydp9jdy) | [Mix & Match](https://open.spotify.com/album/1a8lndLvlxQsRyiLdKPtze) | 0:45 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcVhobq00UmD.md) - [plain]
 | 112 | [Ding Ding Dong](https://open.spotify.com/track/5wXl54GxirvUdS9ne70mC7) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 2:58 |
 | 113 | [As Time Goes](https://open.spotify.com/track/5AL7gnyJ5qpsZB4cVCJgQZ) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [Meow the secret boy \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/4m71LoXK1OfvkOlWkYmWFk) | 3:06 |
 
-Snapshot ID: `MTY1NTk3MTE2NywwMDAwMDAwMDExZjE2MmE5ZDY3MTU5NThkYzBhN2NmZGNlNDYyNjA0`
+Snapshot ID: `MTY1NTk3MTE2NywwMDAwMDAwMDZiNzkyZGJlN2RkNTRkNDYxYTI5NjM5NWNkODMwZWU3`

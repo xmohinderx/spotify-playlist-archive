@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 3260,
+  "num_followers": 3269,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDI0N2VmM2MyOTg0ZmQwZmMwNDk4YTVmNzZhNDQ0YzAz",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDE4NjVmMjkyNjM2YjE0ZDczNjA5MjcwMjcwOWI5NmY5",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "\uc2a4\ud1a0\ucee4 Stalker",
-      "url": "https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Full Album RED PLANET",
         "url": "https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 219481,
       "name": "Hard To Love \ub098\ub9cc \uc548\ub418\ub294 \uc5f0\uc560",
       "url": "https://open.spotify.com/track/4J5FI3nckt6wiZhTl9RM8N"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "\uc2a4\ud1a0\ucee4 Stalker",
+      "url": "https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -151,6 +151,22 @@
       "duration_ms": 220352,
       "name": "Because I only see you",
       "url": "https://open.spotify.com/track/2Akf1x68EZPx7H8zGlBWtR"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "My Mister (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 274836,
+      "name": "An Ordinary Day",
+      "url": "https://open.spotify.com/track/2RzUXBM4M82BfsGriLx8mk"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "I'm",
         "url": "https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 213222,
       "name": "\uad6c\uc560 (\u6c42\u611b) Propose",
       "url": "https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -519,50 +535,18 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
+        "name": "Second Story",
+        "url": "https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
         }
       ],
-      "duration_ms": 219986,
-      "name": "Where Love Begins",
-      "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "RE:PLAYLIST Vol.3",
-        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264921,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+      "duration_ms": 315506,
+      "name": "\ub3d9\uacbd",
+      "url": "https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -583,6 +567,38 @@
       "duration_ms": 181377,
       "name": "Jewel (feat. KURO)",
       "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Eccentric chef moon (Original Television Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/4EkBnlmbEgidsqTkDDvT2U"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Where Love Begins",
+      "url": "https://open.spotify.com/track/5lqYdK4KCkhJnng32ef1Qe"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -619,6 +635,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
+        "name": "RE:PLAYLIST Vol.3",
+        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264921,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
       },
@@ -647,22 +679,6 @@
       "duration_ms": 219440,
       "name": "to him",
       "url": "https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "My Mister (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5jsArQaKt70bDxikvK7wbX"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 274836,
-      "name": "An Ordinary Day",
-      "url": "https://open.spotify.com/track/0X3uu5ca6O6vy4h7AGT6u3"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -699,22 +715,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "\ud654\ubd84",
-        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
-      },
-      "artists": [
-        {
-          "name": "Alex",
-          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
-      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Subtitle",
         "url": "https://open.spotify.com/album/3b7lh3a4DfFxPCCKm7baGT"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 194563,
       "name": "Zzack sarang",
       "url": "https://open.spotify.com/track/3mvnSG5sJLUTHiyXap5xgo"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "\ud654\ubd84",
+        "url": "https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS"
+      },
+      "artists": [
+        {
+          "name": "Alex",
+          "url": "https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr"
+        }
+      ],
+      "duration_ms": 270680,
+      "name": "\ud654\ubd84 - \uc54c\ub809\uc2a4 Version",
+      "url": "https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -815,22 +831,6 @@
       "duration_ms": 229031,
       "name": "Unrequited Love",
       "url": "https://open.spotify.com/track/4qCoekl5BaHK9aYc54C2tX"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/0zUSlyzOMtllEdGzQXQHex"
-      },
-      "artists": [
-        {
-          "name": "\uc720\ubbf8 Youme",
-          "url": "https://open.spotify.com/artist/4y8PoupChBX11WsE6lUy3C"
-        }
-      ],
-      "duration_ms": 270880,
-      "name": "\uc0ac\ub791\uc740 \uc5b8\uc81c\ub098 \ubaa9 \ub9c8\ub974\ub2e4 Love Is Always Thirsty",
-      "url": "https://open.spotify.com/track/3DfZJ4RowfA7OjSIQYSDoI"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

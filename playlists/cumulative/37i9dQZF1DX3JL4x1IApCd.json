@@ -1463,6 +1463,36 @@
     {
       "album": {
         "name": "Lewa",
+        "url": "https://open.spotify.com/album/3fR1jsqwbUaE2pv2MaLx0j"
+      },
+      "artists": [
+        {
+          "name": "Parroty",
+          "url": "https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Kabagazi",
+          "url": "https://open.spotify.com/artist/5eyHBFX9iqlzI3l5b0MCDN"
+        },
+        {
+          "name": "Oneboy",
+          "url": "https://open.spotify.com/artist/47oldowktpKnQKl9xfr1rN"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249469,
+      "name": "Lewa",
+      "url": "https://open.spotify.com/track/2pat0RTkN9lQEDlaToECKN"
+    },
+    {
+      "album": {
+        "name": "Lewa",
         "url": "https://open.spotify.com/album/3H2iozjzpWpcr8E0gDuZw2"
       },
       "artists": [
@@ -1515,7 +1545,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 249469,
       "name": "Lewa",
       "url": "https://open.spotify.com/track/6fzOceWdejD07oJwMM6WnG"

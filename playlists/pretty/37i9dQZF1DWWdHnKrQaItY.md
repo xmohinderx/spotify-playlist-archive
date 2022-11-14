@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,947 likes - 65 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,953 likes - 65 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 33 | [Shake Your Body Down](https://open.spotify.com/track/6vaxOLlCcMwkQnpsHsH4ee) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Ultimate Laurie Berkner Band Collection](https://open.spotify.com/album/76WdfWymaHkKBU84g37Mmb) | 3:06 |
 | 34 | [Clap Your Hands](https://open.spotify.com/track/663LGTeJco27vlEHFZsy3v) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 1:43 |
 | 35 | [Let's Keep Moving](https://open.spotify.com/track/4doYgE8TlEMCmIvhqs3B6w) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 8](https://open.spotify.com/album/1kfmTVqOcHscZTl35tYmIe) | 1:25 |
-| 36 | [Get The Wiggles Out](https://open.spotify.com/track/6oOtlxIlmxsARoUvITYflr) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Get The Wiggles Out](https://open.spotify.com/album/4St0QB4U9IoNF9DJYQipEz) | 2:15 |
+| 36 | [Get The Wiggles Out](https://open.spotify.com/track/5kz0I5eAnc908Gxv8MMwKf) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Dance, Move & Groove!](https://open.spotify.com/album/0pDk4yAlwOyU5iE3WUO4N9) | 2:15 |
 | 37 | [Jump For Joy](https://open.spotify.com/track/5CmMQ6ATyBqdh48pIPSSWG) | [Birdie](https://open.spotify.com/artist/3HK0Kzy8QxtqXRSIjwYV8L) | [My Family Tree](https://open.spotify.com/album/0055NV6qBdM0bnNMGhiCIg) | 2:23 |
 | 38 | [Do the Funky Robot](https://open.spotify.com/track/7sLSjSDi92sRcG7L9xvkTv) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 3:16 |
 | 39 | [Getting Stronger](https://open.spotify.com/track/0kjTDM7NqT2XPJI3Xbi10c) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: In a Big Warehouse](https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq) | 1:27 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 46 | [Robo Dancing](https://open.spotify.com/track/5lIo031iOkz2v9kKVbT5lA) | [Money Mark](https://open.spotify.com/artist/6I2891HPq8zEnBEuwc5iAP) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/1KkCmh4A9k1U4znzSvqAEB) | 1:28 |
 | 47 | [Wiggy Wiggles Freeze Dance](https://open.spotify.com/track/2d85Zcuzp4zMrSZS19qHnS) | [Hap Palmer](https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ) | [Two Little Sounds \- Fun with Phonics and Numbers](https://open.spotify.com/album/0MGC1gffi0HGqPZxRiidGi) | 1:37 |
 | 48 | [I'm Gonna Catch You](https://open.spotify.com/track/4IW9N2bPYoIaFH4QwkW9Ib) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Under A Shady Tree](https://open.spotify.com/album/6f7pFWEwVTTivCKpD9F54q) | 3:26 |
-| 49 | [Boy With Luv](https://open.spotify.com/track/3l3j8aCAqBBOhTlxmRH6Pw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Toddler and Children Singalong Vol\. 5](https://open.spotify.com/album/5fAi7hYLR44BJ2MEJutE28) | 3:26 |
+| 49 | [Boy With Luv](https://open.spotify.com/track/7GZmO8tmQ1MAskqokLzsFN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 3:26 |
 | 50 | [Afro Circus/I Like To Move It](https://open.spotify.com/track/5xYwXcbCwdmLeOweJtJhEx) | [Chris Rock](https://open.spotify.com/artist/36eSjIksD6fehqxyDUHDA3), [Danny Jacob](https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS) | [Madagascar 3: Europe's Most Wanted \(Music From The Motion Picture\)](https://open.spotify.com/album/3xBGPEOCh0In2UbR8Do8jC) | 2:41 |
 | 51 | [Party Rock Anthem](https://open.spotify.com/track/2oNJsgvVdw5YSqhn91p9Ta) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 21](https://open.spotify.com/album/272fQpCPOG9CcFHXs7dZyd) | 3:25 |
 | 52 | [STRETCH 2](https://open.spotify.com/track/2YqN1h7IdAWI11t9tTZwXt) | [Coach Kody](https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9) | [Get Active \(Movement Songs For Kids\)](https://open.spotify.com/album/0chaqHXFo1yKizeENc7Ak7) | 1:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 64 | [Dorothy's Dance Party](https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 2:12 |
 | 65 | [Happy Tappin' with Elmo](https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 1:30 |
 
-Snapshot ID: `MTY0ODE1MzYxMiwwMDAwMDAwMDViZTY3MmUyZTc4OTFmNmJhMTYxOWVlNzcwZjIwY2I4`
+Snapshot ID: `MTY0ODE1MzYxMiwwMDAwMDAwMGU2MWNlYTFmMjFlNDE3Yzg2MGZkODAwMGUxNTYwYmMx`

@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 346000,
+  "num_followers": 346093,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA5MjQwMCwwMDAwMDAwMDZlOGUyN2M0M2U5NDcyZmU0OWUyMGQ0MzU4NDlkZWJm",
+  "snapshot_id": "MTY2ODA5MjQwMCwwMDAwMDAwMDJiNGYzYzIyZjdjZThhOGM0YjA1ZWZlMmZlZjRiYThi",
   "tracks": [
     {
       "added_at": "2022-11-10 15:00:00",
@@ -35,8 +35,8 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "Suzume",
-        "url": "https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
@@ -48,9 +48,9 @@
           "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
         }
       ],
-      "duration_ms": 236390,
+      "duration_ms": 238560,
       "name": "Suzume",
-      "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -207,8 +207,8 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "KANATA HALUKA",
-        "url": "https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
@@ -218,7 +218,7 @@
       ],
       "duration_ms": 355706,
       "name": "KANATA HALUKA",
-      "url": "https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv"
+      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws"
       },
       "artists": [
         {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+      "duration_ms": 211592,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws"
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
       "artists": [
         {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
         }
       ],
-      "duration_ms": 211592,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap"
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2022-11-10 15:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-11-10 15:00:00",
       "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
+    },
+    {
+      "added_at": "2022-11-10 15:00:00",
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 197135,
       "name": "Lights (feat. Blu)",
       "url": "https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn"
-    },
-    {
-      "added_at": "2022-11-10 15:00:00",
-      "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD"
     },
     {
       "added_at": "2022-11-10 15:00:00",

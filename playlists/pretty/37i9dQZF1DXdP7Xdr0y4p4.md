@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover: The Guardians
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,341 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,345 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 60 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 |
 | 61 | [Over And Over](https://open.spotify.com/track/7Ls6kzTQupYI8fFZpIUVOR) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm) | [Yesterday...A Decade Of Favorites](https://open.spotify.com/album/6U0rivrrxj5NwfEaWabiys) | 3:51 |
 | 62 | [When God Ran](https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [When God Ran](https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9) | 5:12 |
-| 63 | [Lift Up His Name](https://open.spotify.com/track/7r8qBJUKq4udMMrpOFNwjf) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Daywind 30: 30 Years Of Southern Gospel Excellence](https://open.spotify.com/album/4uBSJsvF2byS5gRlvTiavx) | 3:27 |
+| 63 | [Lift up His Name](https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 3:25 |
 | 64 | [Favorite Song of All](https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd) | [The Erwins](https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD) | [Favorites: On Repeat](https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM) | 4:30 |
 | 65 | [Sweeter as the Days Go By](https://open.spotify.com/track/7G6WP9xJHIa18Kr6hFKPoI) | [Canton Junction](https://open.spotify.com/artist/7HuVvxJh7p17tDsVFYIUx9) | [Show Me Your Way](https://open.spotify.com/album/2iiRvEnI8qJCBmxfKZfeDT) | 5:34 |
 | 66 | [Good News From Jerusalem \(Demonstration in C\-C\#\-D\)](https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Good News From Jerusalem \(Made Popular by Tribute Quartet\) \[Performance Track\]](https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [Steppin' out in Faith](https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [A New Chapter](https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN) | 3:18 |
 | 80 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
 
-Snapshot ID: `MTY2MTU3OTQzMCwwMDAwMDAwMDhmODlmMmZhYTM1YjczZjY1ZDQ0NThiYjYzZDVkMDI5`
+Snapshot ID: `MTY2MTU3OTQzMCwwMDAwMDAwMGMyYjk5MjNiOGRmZjk0NDZjN2RjMDU3ZjYyNGNjMjE0`

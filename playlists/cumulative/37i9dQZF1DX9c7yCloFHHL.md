@@ -4,7 +4,7 @@
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Daniel Avery on cover.
 
-761 songs - 2 day 15 hr 49 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
+762 songs - 2 day 15 hr 53 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,8 @@
 | [Ionia](https://open.spotify.com/track/1gPjq1nfvaRIwCJ7wj4A4m) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 5:33 | 2022-03-30 | 2022-07-29 |
 | [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 | 2021-12-24 | 2022-03-04 |
 | [Isolation](https://open.spotify.com/track/7ygNROfZxFFR2mqduFznDE) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Isolation](https://open.spotify.com/album/40vv998tsWsVCYKG6bQfzE) | 2:06 | 2022-01-14 | 2022-03-12 |
-| [IV\. Spoken – Trumpet, Keys, Gongs & Birds](https://open.spotify.com/track/6eTo4DHliFnBTC9JzkQogT) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [IV\. Spoken – Trumpet, Keys, Gongs & Birds](https://open.spotify.com/album/6wnDQqdXjE0A44XMmLzbpb) | 4:13 | 2022-11-12 |  |
+| [IV\. Spoken – Trumpet, Keys, Gongs & Birds](https://open.spotify.com/track/1UgaXRApFnxmlQJDTQMK4X) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Archipelago: Source Materials](https://open.spotify.com/album/47so72VqSKQJ8sW10RtJGe) | 4:13 | 2022-11-14 |  |
+| [IV\. Spoken – Trumpet, Keys, Gongs & Birds](https://open.spotify.com/track/6eTo4DHliFnBTC9JzkQogT) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [IV\. Spoken – Trumpet, Keys, Gongs & Birds](https://open.spotify.com/album/6wnDQqdXjE0A44XMmLzbpb) | 4:13 | 2022-11-12 | 2022-11-14 |
 | [JUL](https://open.spotify.com/track/3TzgitEMIDOUpEOoKHHunH) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [JUL](https://open.spotify.com/album/0f58eLxUijuP7rbISU10df) | 5:01 | 2021-12-24 | 2022-07-28 |
 | [JUL](https://open.spotify.com/track/4RIJQDx8lM9fPDDdBH4YUh) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [FLUR](https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8) | 5:01 | 2022-07-01 | 2022-09-17 |
 | [June 26th](https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Missing Pages](https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c) | 5:39 | 2021-12-24 | 2022-02-11 |

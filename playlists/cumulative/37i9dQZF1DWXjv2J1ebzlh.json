@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 203373,
       "name": "54-46 That's My Number",
       "url": "https://open.spotify.com/track/5UDsHnUvshUv5EuPhDTRqb"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 191986,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/5GfJ6GdcJRe7HAUaqbUsm7"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 377253,
       "name": "Ag\u00fazate",
       "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 377253,
       "name": "Ag\u00fazate",
       "url": "https://open.spotify.com/track/1hiPIfaYAgX4jYx6GEMoGZ"
@@ -3479,7 +3479,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 189626,
       "name": "Bak \u015eu Adama A\u015f\u0131k Oldu",
       "url": "https://open.spotify.com/track/377XKUiU2s0Y6jVDSypffA"
@@ -3497,7 +3497,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 188760,
       "name": "Bak \u015eu Adama A\u015f\u0131k Oldum",
       "url": "https://open.spotify.com/track/274CHMX3hHMmnLyhDRal83"
@@ -3515,7 +3515,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 420482,
       "name": "Bakara",
       "url": "https://open.spotify.com/track/2ailHynfA9LmNF7Q7nExZb"
@@ -3551,7 +3551,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 421760,
       "name": "Bakara",
       "url": "https://open.spotify.com/track/5Sl1RVQbD9PigheYMG7yAP"
@@ -3569,10 +3569,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 312986,
       "name": "Bal",
       "url": "https://open.spotify.com/track/12q47DxU96xOrC7Io9D9tQ"
+    },
+    {
+      "album": {
+        "name": "Dost 2",
+        "url": "https://open.spotify.com/album/4AqNq8liYqYhoOKBHbUsZu"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312986,
+      "name": "Bal",
+      "url": "https://open.spotify.com/track/6k5V1UHTZoaQ5ULkIEYACx"
     },
     {
       "album": {
@@ -3805,7 +3823,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 139786,
       "name": "Barbwire",
       "url": "https://open.spotify.com/track/08AgWZrFlRzUVNkQbY5o0Y"
@@ -3841,7 +3859,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 139800,
       "name": "Barbwire",
       "url": "https://open.spotify.com/track/721gOZLv37ghhlp36s3lSK"
@@ -4715,7 +4733,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 157400,
       "name": "Butsana mama",
       "url": "https://open.spotify.com/track/5h0eXs2LfZYdxZYcIebDKa"
@@ -4733,7 +4751,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 159720,
       "name": "Butsana mama",
       "url": "https://open.spotify.com/track/1TKn3bI19d3JNDsCSBI7AM"
@@ -6833,7 +6851,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 130160,
       "name": "Couleur caf\u00e9",
       "url": "https://open.spotify.com/track/5wU2HvqNDljN1GhTvOxWye"
@@ -6851,7 +6869,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 131306,
       "name": "Couleur caf\u00e9",
       "url": "https://open.spotify.com/track/7hua4VP55y0pxmHZoVkyiB"
@@ -7651,7 +7669,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 377293,
       "name": "Cumbia Sobre El Mar",
       "url": "https://open.spotify.com/track/7KooLjzPsWw4TT12acawEB"
@@ -8101,7 +8119,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 327893,
       "name": "Dalkavuk - Bar\u0131\u015f K Edit",
       "url": "https://open.spotify.com/track/0vNFCqtFXELQ7k9N8xHUUL"
@@ -8209,7 +8227,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 274160,
       "name": "Dance",
       "url": "https://open.spotify.com/track/1uWMf9lRF7BpS7i9ldErsF"
@@ -8227,7 +8245,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 274160,
       "name": "Dance",
       "url": "https://open.spotify.com/track/5v07ixxqjQWApqv99bpSGA"
@@ -9221,7 +9239,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 309360,
       "name": "Drum Song",
       "url": "https://open.spotify.com/track/7cUNaICNJdu1L5Kx6OoirO"
@@ -9239,7 +9257,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 310040,
       "name": "Drum Song",
       "url": "https://open.spotify.com/track/1MbIiINcF2KPIHvEPoEz7m"
@@ -9293,7 +9311,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 246034,
       "name": "Dub Azucar",
       "url": "https://open.spotify.com/track/5GDcoQYmNc6o7ng1ergzpd"
@@ -9311,7 +9329,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 246034,
       "name": "Dub Azucar",
       "url": "https://open.spotify.com/track/7LltLIY52mTxtQbIRgyHSt"
@@ -9453,7 +9471,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 324880,
       "name": "D\u00f6nme Dolap - Bar\u0131\u015f K Edit",
       "url": "https://open.spotify.com/track/2PjshjuWufS163feNzxWIi"
@@ -9941,7 +9959,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 269292,
       "name": "El Benson",
       "url": "https://open.spotify.com/track/5ietQvTA31qcp8S9NnJzyk"
@@ -9977,7 +9995,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 269292,
       "name": "El Benson",
       "url": "https://open.spotify.com/track/6wo4ZoZ5UWFRUHUPcDJdGu"
@@ -11999,7 +12017,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 283960,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/0cxYw6qavU847HqwyO3Sg4"
@@ -12029,7 +12047,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
@@ -12127,7 +12145,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 171960,
       "name": "Gaita de las Flores",
       "url": "https://open.spotify.com/track/65sHEuMM0VnDX7pSnYv0Eg"
@@ -12153,7 +12171,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 172040,
       "name": "Gaita de las Flores",
       "url": "https://open.spotify.com/track/1qs9yHYx5tOfSU4scO7HGd"
@@ -13229,7 +13247,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 196573,
       "name": "Haile Selassie",
       "url": "https://open.spotify.com/track/0nExrcxUsBtu7n5qRmA2hL"
@@ -13265,7 +13283,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 196573,
       "name": "Haile Selassie",
       "url": "https://open.spotify.com/track/3UrybU9m63H1fMfyFQN9LC"
@@ -13535,7 +13553,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 243053,
       "name": "Heaven and Hell",
       "url": "https://open.spotify.com/track/5NsYkl3g1aI314Ui5Tu5fi"
@@ -13571,7 +13589,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 243053,
       "name": "Heaven and Hell",
       "url": "https://open.spotify.com/track/6ozxplTAjWO0BlUxN8ia0A"
@@ -15025,7 +15043,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 536586,
       "name": "Je Ne Bois Pas Beaucoup",
       "url": "https://open.spotify.com/track/3LxwjlS9Kuy6D8m6ALX8xQ"
@@ -15043,7 +15061,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 536586,
       "name": "Je Ne Bois Pas Beaucoup",
       "url": "https://open.spotify.com/track/6uNZW8Xdarpdm7kjw3oOla"
@@ -16357,7 +16375,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 225893,
       "name": "L'enfant et la gazelle",
       "url": "https://open.spotify.com/track/1opJUefF9voKdJt8K25a2O"
@@ -16393,7 +16411,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 226066,
       "name": "L'enfant Et La Gazelle",
       "url": "https://open.spotify.com/track/6C9mgLq3jQlBEopTZPUN8r"
@@ -18377,7 +18395,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 177680,
       "name": "Lluvia con Nieve",
       "url": "https://open.spotify.com/track/15WX2LYmLXvIiDeP9SYdlG"
@@ -18395,7 +18413,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 177680,
       "name": "Lluvia con Nieve",
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
@@ -18695,7 +18713,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 497741,
       "name": "Love And Death",
       "url": "https://open.spotify.com/track/3BOdGLbcBTSy1Hy376Zvzd"
@@ -18739,7 +18757,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 497917,
       "name": "Love And Death",
       "url": "https://open.spotify.com/track/46ih8KXV6NYKtNTe0Ku6uW"
@@ -20169,7 +20187,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 222666,
       "name": "Mentira (Chega De Mentira)",
       "url": "https://open.spotify.com/track/2F79mAPt1qPENDvq0njWoP"
@@ -20187,7 +20205,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 223293,
       "name": "Mentira (Chega De Mentira)",
       "url": "https://open.spotify.com/track/611fDM69jrdLN8bIdFcAIb"
@@ -21531,7 +21549,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 151911,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/4SbvQTh5gpBhapUoYB3Ytp"
@@ -21549,7 +21567,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 152226,
       "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
       "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
@@ -23767,7 +23785,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
@@ -23785,7 +23803,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6zfHMITd04oOvf9V01GtyD"
@@ -24423,7 +24441,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 157640,
       "name": "Put Yourself in My Place",
       "url": "https://open.spotify.com/track/0IxYQuPU4gqR4mBgGMjrEN"
@@ -24459,7 +24477,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 157686,
       "name": "Put Yourself In My Place",
       "url": "https://open.spotify.com/track/2uUnOQFVW6UKf2ijbhAsUW"
@@ -27819,7 +27837,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 156666,
       "name": "Take It Easy My Brother Charles",
       "url": "https://open.spotify.com/track/0LzogMw3Ir4xsItbqkF9a2"
@@ -29513,7 +29531,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 197160,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/6TEypdEtUZx6BW9hxsRQYk"
@@ -29531,7 +29549,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 200426,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/41dv2yJDlnhrhFUTeM3jOq"

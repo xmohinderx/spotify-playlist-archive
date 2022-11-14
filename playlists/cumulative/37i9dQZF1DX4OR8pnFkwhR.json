@@ -4933,7 +4933,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 154823,
       "name": "This Way",
       "url": "https://open.spotify.com/track/3kvSdSr7h0KOn7FDFhAXLT"
@@ -6357,6 +6357,24 @@
       "duration_ms": 193709,
       "name": "\u30aa\u30fc\u30eb\u30b0\u30ea\u30fc\u30f3",
       "url": "https://open.spotify.com/track/2o38jQDB10QLiIvKCrS26F"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
+        "url": "https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
+      "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
     },
     {
       "album": {

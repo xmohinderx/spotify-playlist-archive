@@ -4,7 +4,7 @@
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-58 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
+59 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Car Wash](https://open.spotify.com/track/1tJtx09XQnxaynZLOaTNfZ) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/0MRZwmzgulNr9oSGomArxL) | 5:12 | 2019-02-26 |  |
 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/1ygacgsmdK4Y1WQcJuZQHb) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Body By Jake: Sweating Disco Dance Party \(BPM 108\-128\)](https://open.spotify.com/album/4HUQKX2KZzR18h4sG5FUrG) | 3:35 | 2019-02-26 |  |
 | [Feel's Like I'm in Love \(Remastered 2022\)](https://open.spotify.com/track/4BsfjNW3pyRIk5hWiQXKjE) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feel's Like I'm in Love \(Remastered 2022\)](https://open.spotify.com/album/2yOFiqdWuDz5b5jV53LjJp) | 4:16 | 2019-02-26 | 2022-11-06 |
-| [Feels Like I'm in Love](https://open.spotify.com/track/0dsUKfqkGb3vz8KJLTXYaT) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/10m4rfrIkemhsdlUpeZYwY) | 4:16 | 2019-02-26 |  |
+| [Feels Like I'm in Love](https://open.spotify.com/track/0dsUKfqkGb3vz8KJLTXYaT) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/10m4rfrIkemhsdlUpeZYwY) | 4:16 | 2019-02-26 | 2022-11-14 |
 | [Feels Like I'm in Love](https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love](https://open.spotify.com/album/2Qg2gDjtzgtCVcokMRS7Wv) | 4:16 | 2019-02-26 | 2022-10-07 |
+| [Feels Like I'm in Love \- 2022 Remaster](https://open.spotify.com/track/0zDxwumKmmwzNPYeEQMulS) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love \(2022 Remaster\)](https://open.spotify.com/album/2cmLplrGf2m2oxZbuYn5JK) | 4:16 | 2019-02-26 |  |
 | [Feels Like I'm in Love \- 2022 Remaster](https://open.spotify.com/track/5mOv9WIt9p0ZhT2MY9lJ73) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Feels Like I'm in Love \(2022 Remaster\)](https://open.spotify.com/album/4rdXOpwgZSj42oKAquG5h7) | 4:16 | 2019-02-26 | 2022-11-11 |
 | [Feels Like I'm In Love \- Original Radio Mix](https://open.spotify.com/track/0MF3XV3L0oGokmU8qxYMba) | [Kelly Marie](https://open.spotify.com/artist/5lD4NOWjS7yf69zIK46Chy) | [Disco Funk Dancefloor](https://open.spotify.com/album/4fu0SxgVPem0Np43iLEPWN) | 4:20 | 2019-02-26 | 2022-07-29 |
 | [Finally](https://open.spotify.com/track/59KZqNdwnWMV7xerB0ZsNZ) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Girls Triple Set](https://open.spotify.com/album/3ramZfkjeHAh42iok8oz9h) | 3:42 | 2019-02-26 | 2022-07-29 |

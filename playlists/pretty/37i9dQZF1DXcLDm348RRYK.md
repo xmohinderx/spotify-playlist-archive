@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,304 likes - 63 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,290 likes - 63 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 8 | [These Moments](https://open.spotify.com/track/2LSfUlr1YPUgHE3QLpBxPK) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo), [Van Larkins](https://open.spotify.com/artist/7kP1fOzswDN61C3oV3JMJH) | [These Moments](https://open.spotify.com/album/19BrnNH9dPJ6ZArTijLG8E) | 5:02 |
 | 9 | [Grace](https://open.spotify.com/track/1OKOxWlAVObOEN0JtkixBg) | [Calum Graham](https://open.spotify.com/artist/6VUCcZ6HiQQ39DhxV4bSeA), [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo) | [Grace](https://open.spotify.com/album/4Du4xwLQ38zxqKbze10SG3) | 6:45 |
 | 10 | [Inland](https://open.spotify.com/track/1RsGSuyt886XVgVuQohFbv) | [Stuart McCallum](https://open.spotify.com/artist/2JCWJ9OPSNy5Ywkjdzv3Za) | [Solitude Part ii](https://open.spotify.com/album/2BnF7SsA9RUHefjl7YNGDe) | 4:09 |
-| 11 | [Song for a Rainy Morning](https://open.spotify.com/track/6e0cbQRPW4VevA7XrLgQV3) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [Song for a Rainy Morning](https://open.spotify.com/album/7tGP5jWcumq9IrrQUkYiGM) | 2:10 |
+| 11 | [Song for a Rainy Morning](https://open.spotify.com/track/0PBGWP4sUKjOFBsl8zrs3A) | [Tommy Emmanuel](https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM) | [The Best of Tommysongs](https://open.spotify.com/album/6TQi8KKUIRgoMtIx5bsa4k) | 2:10 |
 | 12 | [Feels like May](https://open.spotify.com/track/456gUGH6n2UnPB3mqbGpq6) | [Ivo Vollering](https://open.spotify.com/artist/3l6zKGErropi9dRa5XgI5o) | [Feels like May](https://open.spotify.com/album/3D1pIp0atZPzsndPn97GnS) | 3:03 |
 | 13 | [Hiding Place For The Moon](https://open.spotify.com/track/2zYHV1Nwgqs0c6raLjz0in) | [Antoine Dufour](https://open.spotify.com/artist/15kzFPO1n6iK1GqFaTDDBo), [Van Larkins](https://open.spotify.com/artist/7kP1fOzswDN61C3oV3JMJH), [Trevor Gordon Hall](https://open.spotify.com/artist/2xoJcYGouJF836dsZbf0en) | [Hiding Place for the Moon](https://open.spotify.com/album/1PE1V8CiVNQyYS0kpFCB8U) | 4:56 |
 | 14 | [Kim's Guitar](https://open.spotify.com/track/0dSJ4pZnwP7q3ZKStBZYu2) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Kim's Guitar](https://open.spotify.com/album/4FRse4y1CS6vIwAgOKDZQF) | 2:48 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 | 62 | [Rylynn](https://open.spotify.com/track/5hN8B7iH9FsMgZFkyJtVcC) | [Don Ross](https://open.spotify.com/artist/3NQRIqPwnKZJ4KLKGSkl2Y), [Andy McKee](https://open.spotify.com/artist/0X73orYGQwzjF9lSYSE3Aj) | [The Thing That Came From Somewhere](https://open.spotify.com/album/4xrdRzR1WRxZjtLGxR1Pt0) | 5:54 |
 | 63 | [Blinded by Sunshine](https://open.spotify.com/track/2LdMVnYJrvDL2HGajCDzXa) | [Casper Esmann](https://open.spotify.com/artist/6HAdDbfnR8PXoiGqU5cJeD) | [Blinded by Sunshine](https://open.spotify.com/album/6fZrrNfreBmXblDjliOTB1) | 3:00 |
 
-Snapshot ID: `MTY0ODc4NTcyMCwwMDAwMDAwMDExYjQ0YmZkOTBiMWYyZWZjYWM4NGU1OTk4MTJmNzA4`
+Snapshot ID: `MTY0ODc4NTcyMCwwMDAwMDAwMDBiYjI2MzhjNWNiZmE1Y2NlZGJkNzk3ZDJiNTIxMmVi`

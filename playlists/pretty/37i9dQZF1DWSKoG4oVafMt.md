@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jas
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,037 likes - 157 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,126 likes - 157 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 19 | [Solitaire](https://open.spotify.com/track/7lM5z5YFdIuAUwnumqToHL) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Solitaire](https://open.spotify.com/album/6TKjg5iROAg06oD7m1IOSb) | 3:06 |
 | 20 | [Teri Bewafai](https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Teri Bewafai](https://open.spotify.com/album/32GB0B0w1MC5qOfU9jwzBi) | 3:41 |
 | 21 | [Baith Kol](https://open.spotify.com/track/1k7rYDge3QkW428fFhXTKK) | [Pooja M Suresh](https://open.spotify.com/artist/2kyyWFCwV1iTPxo69lZXid), [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Namyoho Studios](https://open.spotify.com/artist/4s3S5ufnXrulmx1a4xIftH) | [Baith Kol](https://open.spotify.com/album/0w1a5AEJ2PYA433M414kMZ) | 3:40 |
-| 22 | [Attitude](https://open.spotify.com/track/1doASRJQuXt97FMqJgn4aK) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Babe Bhangra Paunde Ne \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63zguPGRWX1sxdCc4Jl2MF) | 2:49 |
+| 22 | [Attitude \(From "Babe Bhangra Paunde Ne"\)](https://open.spotify.com/track/5pcPJPmlRG4L1yqPJd2g3o) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG) | [Attitude \(From "Babe Bhangra Paunde Ne"\) \- Single](https://open.spotify.com/album/72JdGkMg4jhAaooXKIYmah) | 2:49 |
 | 23 | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/track/1jUdVhaRk0PwJCK5PvDTsq) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Hypnotize \(From "Honeymoon"\)](https://open.spotify.com/album/6Ry57BDPUmf63YyjKWGZsz) | 2:37 |
 | 24 | [Nikke Nikke Chaa](https://open.spotify.com/track/6uPemGQUbxNIeBKKgbveXK) | [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Nikke Nikke Chaa](https://open.spotify.com/album/2yWvNW53jxW9TTt4wSXyBT) | 2:54 |
 | 25 | [Chandigarh Shehar](https://open.spotify.com/track/5ucWVRFoIeMQWaZAIQrizf) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Chandigarh Shehar](https://open.spotify.com/album/1rXQeaAZ16j5qwPQJwJzzq) | 2:47 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 156 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 |
 | 157 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 |
 
-Snapshot ID: `MTY2ODE2NzQ3MywwMDAwMDAwMGVhMGY2ZWZlNjk4ZDhmYWI3YTQyMGYwMDhiM2I1NTQ2`
+Snapshot ID: `MTY2ODE2NzQ3MywwMDAwMDAwMDZhNDg1MWVlYzc1MWE0MzNhY2Y2NTdmNDIzYWY4MDJi`

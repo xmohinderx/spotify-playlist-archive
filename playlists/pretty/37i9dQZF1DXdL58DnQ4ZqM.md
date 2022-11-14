@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,600 likes - 161 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,614 likes - 161 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,15 +15,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 5 | [Patio Groove](https://open.spotify.com/track/2zxUKcmp7jkVX5JnUpOCDF) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Rock Solid](https://open.spotify.com/album/4pjzzCLYxJEVFrQuSzOOIV) | 3:53 |
 | 6 | [Romeo & Juliette](https://open.spotify.com/track/3uRcseZCwhzvGo91e2T2cA) | [Luc Serra](https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7) | [Movie Dreams](https://open.spotify.com/album/2qlbhPiugoSPveNoxaymwe) | 3:21 |
 | 7 | [Maricas River](https://open.spotify.com/track/2CCzjqJllhhu2vYIzrQdwN) | [Tommi Cuore](https://open.spotify.com/artist/4WU7o63S7gxuTIw6WaRYR2) | [Maricas River](https://open.spotify.com/album/0wI702aVBSvuzyCZpd4NhM) | 4:03 |
-| 8 | [Stay Lo Get Go \- Chill Original](https://open.spotify.com/track/3a6NDuesWXRxyMggVIwVe7) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [Once In A dream](https://open.spotify.com/album/0QaawGzGKcp7KYhiucUtgV) | 3:13 |
+| 8 | [Stay Lo Get Go \- Chill Original](https://open.spotify.com/track/3wJOPLmX9cqFmaDLo3Cz2i) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [The Album](https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO) | 3:13 |
 | 9 | [Reborn](https://open.spotify.com/track/7jybpMVEBsO0onHoe6FVHq) | [Jellis](https://open.spotify.com/artist/1WQB3MUY8am8dxKhfQWM1p), [Subsets](https://open.spotify.com/artist/1kdM4ZjjkM45gj9HAZeNdb) | [Café del Mar ChillWave 2](https://open.spotify.com/album/2fWfWSjb8qj2uzJfWfQCt5) | 3:56 |
 | 10 | [Le Gamin](https://open.spotify.com/track/5OPfz39MohfnQfrONOsKxS) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [Le Gamin](https://open.spotify.com/album/3w3KLSyaAqbRKkJwMNWUyT) | 2:16 |
 | 11 | [Dreamin About You](https://open.spotify.com/track/1onjYykeSU1hzu5eH2BIJu) | [Gaudeix](https://open.spotify.com/artist/1TIyHgc4lFrfKNUlLLAB7z) | [Dreamin About You](https://open.spotify.com/album/4viHpSlScOMfO1pfU8Pbdi) | 2:52 |
-| 12 | [The Infinite Dreamer](https://open.spotify.com/track/4odbcaedPGwbFm2BH2GlSD) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [KEEN: Trending on YouTube \- Chill Vol\. 1](https://open.spotify.com/album/4t942nA0eNxalQM4iZdZaM) | 2:12 |
+| 12 | [The Infinite Dreamer](https://open.spotify.com/track/43Y7cnIa7LPQrS0afeNATx) | [Chill Cole](https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z) | [Café Dreamer](https://open.spotify.com/album/6siP7PSQJ6No7B9ZgV8ynZ) | 2:12 |
 | 13 | [Reaching for Casterly](https://open.spotify.com/track/6NyF7cfh2R8z0E8y02rC7M) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [Chillout Bar Lounge 2018](https://open.spotify.com/album/5aWawUi1KRsV0dfdpL7dW0) | 2:57 |
 | 14 | [Clouds](https://open.spotify.com/track/51qdf2XksX7V5YfhS4VghX) | [Mentalism](https://open.spotify.com/artist/7uxVLIxwB1UHlBT96DAJdj) | [Clouds](https://open.spotify.com/album/1KYeDdVmd8NEzg0siza8gv) | 2:27 |
 | 15 | [Apps Blues](https://open.spotify.com/track/6R2uB1qjMmsak7jWdJ5Vq0) | [Nippon Nights](https://open.spotify.com/artist/4AXl0l47abG5iXfQcrxQrY) | [Apps Blues](https://open.spotify.com/album/5MLyCgYSPqz8kyQdwfYA71) | 4:05 |
-| 16 | [Balihai Baby](https://open.spotify.com/track/6YPMlwzFYbLLb8t1U59Oz7) | [Dubchek](https://open.spotify.com/artist/3AUPQIzno2JKVmQwNi4YcG) | [Balihai Baby](https://open.spotify.com/album/2BrijOHc9qZXLvtS8Gsieh) | 4:36 |
+| 16 | [Balihai Baby](https://open.spotify.com/track/6MenZrnPbtADXE2XGHS5xL) | [Dubchek](https://open.spotify.com/artist/3AUPQIzno2JKVmQwNi4YcG) | [Balihai Baby](https://open.spotify.com/album/5yLfoTJZEGXWOoSvXMg1pu) | 4:36 |
 | 17 | [Chasing Visions](https://open.spotify.com/track/1zHftfTRiXiIgMcqRPk3iV) | [vvano](https://open.spotify.com/artist/12TCUeqwMVMOjFL9akYnY3) | [Xilo](https://open.spotify.com/album/0QcYuKCdB1FJDaZhGoItmO) | 3:24 |
 | 18 | [Brazeo](https://open.spotify.com/track/5gspPS4AV8sCXlhyFY9ofJ) | [Rosi Peloni](https://open.spotify.com/artist/1VgCv8r28xEc11pDhmJSWf) | [Brazeo](https://open.spotify.com/album/4vIXNOaSwvOBwr7NPaCsI0) | 3:19 |
 | 19 | [Crickets](https://open.spotify.com/track/0sBbfmqP4MpoZsvq37VsLz) | [Crickets](https://open.spotify.com/artist/1hFcRBAzklriMv95BvgUW5) | [Behind the surface](https://open.spotify.com/album/2YEiAdVlpZgcINgBZJP03n) | 4:03 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 69 | [Diamond Shine](https://open.spotify.com/track/69IOxGl9w4WiqmlFIND2es) | [Swan](https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH) | [Diamond Shine](https://open.spotify.com/album/39VycsZHuUVQtv9cIPpnFp) | 5:18 |
 | 70 | [Deep Feelings](https://open.spotify.com/track/5Own2KkXmnsn6Zn2O88OA3) | [Swan](https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH) | [Diamond Shine](https://open.spotify.com/album/39VycsZHuUVQtv9cIPpnFp) | 4:49 |
 | 71 | [Never End](https://open.spotify.com/track/0FUeG3eOGyEfWROLIGSPXT) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Glowstick \- The Album](https://open.spotify.com/album/1I6sRGwWvojREESocowdhT) | 4:03 |
-| 72 | [The Light](https://open.spotify.com/track/4DgoAdHom50mXdHCf4C7m5) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Calm Morning \(Vol 1\)](https://open.spotify.com/album/7wp3TBMnrHG1SnbcQCWkFk) | 3:42 |
+| 72 | [The Light](https://open.spotify.com/track/12HKslyaKnXAVifrF70ryA) | [Estelle Blanca](https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM) | [Dreamer Lounge](https://open.spotify.com/album/5tMWJnbD4bwaZYQKq2Chke) | 3:42 |
 | 73 | [Dreaming](https://open.spotify.com/track/4gTRdw2hjTIDKhDDQk7Gq0) | [Space Lounge](https://open.spotify.com/artist/1AFrS3YAYSd8LMU2HgWdXx) | [Dreaming](https://open.spotify.com/album/2cmDzCpicqmlcVG7iwuROY) | 3:26 |
 | 74 | [Endless Love](https://open.spotify.com/track/59HAtchJOOTprpA4Oeszzu) | [Willgoth Oakenfold](https://open.spotify.com/artist/2vO13ONMqZR7ij3pH1MCBg) | [Endless Love](https://open.spotify.com/album/6JAKChex22NqBKDhZDbrOf) | 4:28 |
 | 75 | [Mallorca Moods](https://open.spotify.com/track/1gurDGg0Tto5KLFfBZj9hV) | [Cafe Del Sol](https://open.spotify.com/artist/03YpEReI6FM5Mrdp2IPUt6) | [The Ibiza Collection 'Cafe Del Sol'](https://open.spotify.com/album/6DVV5DK8Ea4tcoGVo2qHs4) | 4:41 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 80 | [Lonely Without You \- Lounge Mix](https://open.spotify.com/track/4o1RssDenoMgEJJFRtHvHi) | [Upstairs2](https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA) | [Next Level](https://open.spotify.com/album/1JTH38Ry2pGdUamaFMAGvx) | 4:02 |
 | 81 | [Time\-Lapse](https://open.spotify.com/track/4TL41Gc9hRmMVYjqhN49IV) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Pendulum](https://open.spotify.com/album/2u7vqLhu6Ql3rnAfI8QzWE) | 4:57 |
 | 82 | [Send a Wish](https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [Send a Wish](https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS) | 2:46 |
-| 83 | [Drops Of Dreams](https://open.spotify.com/track/0f7u5Cp71LafeVU51HIFAy) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Chill Out Radio](https://open.spotify.com/album/4Krz9PFhDHBtrnZ28tBvgr) | 3:51 |
+| 83 | [Drops Of Dreams](https://open.spotify.com/track/1DYLa9idZZUYnzFTxvTH1D) | [NkisOk](https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo) | [Springflower](https://open.spotify.com/album/4sdUHMMnfxbhtpnoXYah4w) | 3:51 |
 | 84 | [Sound of Atlantis](https://open.spotify.com/track/5BsfqfbTZ1V2tJ943bghrc) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/35pV2MFavSWb27Z9cmtr0D) | 5:13 |
 | 85 | [Tiki Lounge](https://open.spotify.com/track/4odotQ8rEu2r7DoDZ44SJP) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/35pV2MFavSWb27Z9cmtr0D) | 5:01 |
 | 86 | [Buena Vista \- Chill Club mix](https://open.spotify.com/track/3HTw3pfAVfgkhjTMAFQ2nQ) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/35pV2MFavSWb27Z9cmtr0D) | 4:57 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 90 | [The Wait](https://open.spotify.com/track/1DmSYZcZeyQFlyK8P1m022) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [The Wait](https://open.spotify.com/album/0XEsAcQHS96pDLpjoWmmJU) | 3:52 |
 | 91 | [Waterfront \- Focus Version](https://open.spotify.com/track/5hjZLLuxbMa4p7VW36b2v8) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Waterfront \- The Album](https://open.spotify.com/album/3BuWOmXlmi06aL2v5dscvM) | 4:30 |
 | 92 | [Riding the Atmosphere](https://open.spotify.com/track/3j4scocrCM0YsilKfiv2k9) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Weightless](https://open.spotify.com/album/6PIS1rRdF2JoMCpFT1EPdY) | 4:45 |
-| 93 | [Winter in F Minor](https://open.spotify.com/track/7vFFTAgxGdbXWtU172wHvh) | [The Upstairs](https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC) | [Chill Out Radio](https://open.spotify.com/album/4Krz9PFhDHBtrnZ28tBvgr) | 4:05 |
+| 93 | [Winter in F Minor](https://open.spotify.com/track/24NCLrEUe2334ecjl1gND4) | [The Upstairs](https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC) | [Winter in F Minor](https://open.spotify.com/album/4Gjy7hoD0jYeCO03BwVkLa) | 4:05 |
 | 94 | [Moments Of A Dream](https://open.spotify.com/track/5En2jtVebO2nbzLIweepUF) | [The Upstairs](https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC) | [Winter in F Minor](https://open.spotify.com/album/4Gjy7hoD0jYeCO03BwVkLa) | 4:59 |
 | 95 | [Bó mù](https://open.spotify.com/track/63YWo4K7hQtobw6kzFBmPg) | [SHÚ\-DÀO](https://open.spotify.com/artist/2pK7SnKX2ZCMVWU7ulHSWP) | [Yin Garden](https://open.spotify.com/album/3reh7rFyDljJ3hTJ0JSbAL) | 3:12 |
 | 96 | [Limbo](https://open.spotify.com/track/3fnAQeFKgQKsgNylfxBdc7) | [GlobulDub](https://open.spotify.com/artist/5gigjnekB1RsPwKKitalWD) | [Hip\-Hop Symposium, Vol\. 3 \(Childhood\)](https://open.spotify.com/album/50PVjxN9VnL451ll774Xfd) | 3:35 |
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 126 | [Peaceful Sunset Sounds](https://open.spotify.com/track/2BTW6twIyRHQUWZJXc6wk9) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/35pV2MFavSWb27Z9cmtr0D) | 4:04 |
 | 127 | [Terme di Caracalla](https://open.spotify.com/track/7rPWpqAcS9yArMDgx8GBRu) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/1C80Aq7DectmhLK5pKAgMc) | 3:44 |
 | 128 | [Purple Heart](https://open.spotify.com/track/2anhOZpTaoB2Ej5ULsHZ5Q) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:38 |
-| 129 | [Someone To Love](https://open.spotify.com/track/1HtuH4KkH5pUU38956P6BJ) | [J\. Moore](https://open.spotify.com/artist/1bQ74eG6gWVQg5nPkMhKfV) | [This Is Music For RELAXING, Vol\. 2](https://open.spotify.com/album/7wcpVNsT1wJEVuKLKKtrKo) | 4:21 |
+| 129 | [Someone To Love](https://open.spotify.com/track/69UaRMXN4fHeTl52MrsEiO) | [J\. Moore](https://open.spotify.com/artist/1bQ74eG6gWVQg5nPkMhKfV) | [Atmosphere Mood](https://open.spotify.com/album/0Dt0D2Y09ovWZDRu7nyM2s) | 4:21 |
 | 130 | [Divine Sorrow](https://open.spotify.com/track/24WR9VLI7XK7PzUU37njkb) | [Barfalk](https://open.spotify.com/artist/2uUFr8KWQGrg4XQ86wxxqO) | [Atmosphere Mood](https://open.spotify.com/album/0Dt0D2Y09ovWZDRu7nyM2s) | 4:27 |
 | 131 | [Bilitis](https://open.spotify.com/track/4MapiBIqUDowqFALnqSqrm) | [Luc Serra](https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7) | [Movie Dreams](https://open.spotify.com/album/2qlbhPiugoSPveNoxaymwe) | 4:23 |
 | 132 | [Born To Be Yours \- Chill Out Version](https://open.spotify.com/track/0Ib4RmPN4e8WmEYwtc94av) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Born To Be Yours](https://open.spotify.com/album/7gAsbwcqVhQJSDk7uypt8x) | 4:24 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 160 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 |
 | 161 | [In motion](https://open.spotify.com/track/1irdRdvQJyyQA7J4ZNxzm2) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:00 |
 
-Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDkzYTJiZDQ3YWMzNWM0M2QzOGI1YWVhMzg2M2Y3ZmZj`
+Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDZjYjFmYmFlMzlmYTY2NjU1ODM1NDBjNzZjNTVlZjQ5`

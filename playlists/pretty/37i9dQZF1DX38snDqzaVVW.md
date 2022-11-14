@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Salim\-Sulaiman, Ayisha Abdul Basith, Salim Merchant
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,301 likes - 54 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,321 likes - 54 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 29 | [Al Hassidi Terei](https://open.spotify.com/track/4T86ekCWvGFiFxoa1fLssp) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:43 |
 | 30 | [Amzagh](https://open.spotify.com/track/56HN4bEP56M0qCGOArBap2) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Tamotaït](https://open.spotify.com/album/4BQzQk1C37UOLCnYko29Gd) | 4:17 |
 | 31 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
-| 32 | [Allah Wakbarr](https://open.spotify.com/track/1W1SJMfXUYIWDqE4CjYKwj) | [Ofo The Black Company](https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI) | [African Football Anthems, Vol\. 2](https://open.spotify.com/album/4ID456HcSB3l360tYIEWzV) | 3:30 |
+| 32 | [Allah Wakbarr](https://open.spotify.com/track/0OZuyF5vpDnlugDqwUivf9) | [Ofo The Black Company](https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI) | [Allah Wakbarr](https://open.spotify.com/album/0RSCRrXDarngfb85RoFR2i) | 3:32 |
 | 33 | [Kara Toprak](https://open.spotify.com/track/7KBwZWuhVfscYVgWMhazEW) | [Aşık Veysel](https://open.spotify.com/artist/7rVsiFwBEEmTNoStle68F3) | [Aşık Veysel Arşiv 1](https://open.spotify.com/album/11uWjOHcCLBGJTSHXoLlgE) | 8:37 |
 | 34 | [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:26 |
 | 35 | [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 53 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 54 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MTY2NTA2MjU1MSwwMDAwMDAwMDBmYzc1NGZlNzFhN2UzOGE1ZTRhOTIyOGM5YzgxMGIz`
+Snapshot ID: `MTY2NTA2MjU1MSwwMDAwMDAwMDdiNGNkMmEyNWEyM2ExMjkyMTJkNGI2MTUzNDExYTg5`

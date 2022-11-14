@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 
 > A complete collection of Chopin's Nocturnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,799 likes - 21 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,838 likes - 21 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 | 10 | [Nocturne No\. 9 in B, Op\. 32 No\. 1](https://open.spotify.com/track/1SItHiHPqABSEgLckb1WHd) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Chopin The Complete Nocturnes](https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t) | 5:09 |
 | 11 | [Nocturne No\. 10 in A\-Flat Major, Op\. 32, No\. 2](https://open.spotify.com/track/5uIEO6lSBDTyKXVnoJ0BWs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:49 |
 | 12 | [Nocturne No\. 7 in C\-Sharp Minor, Op\. 27 No\. 1](https://open.spotify.com/track/6TkDRZTjNLZZcrSQyjUSZZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Nocturnes; Four Ballades](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) | 5:26 |
-| 13 | [Chopin: Nocturne No.1 in B flat minor, Op.9 No.1](https://open.spotify.com/track/6jgH6vB3M5wUCvy46vZnba) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [The Moonlight Sonata](https://open.spotify.com/album/1jeKChsYJLpa5X41zoRTGv) | 5:34 |
+| 13 | [Nocturne No\. 1 in B flat minor, Op\. 9 No\. 1](https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nelson Freire](https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3) | [Chopin: The Nocturnes](https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD) | 5:34 |
 | 14 | [Nocturne in C Minor, Op\. 48 No\. 1](https://open.spotify.com/track/5ODw6izhdCUXePU8P8nAz6) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Ingrid Fliter](https://open.spotify.com/artist/7iUbgcO0RSM8jJHbXNnrdq) | [Chopin: Nocturnes](https://open.spotify.com/album/0LrAzPzajLZ4Zmit30UILX) | 6:09 |
 | 15 | [Nocturne No\. 14 in F\-Sharp Minor, Op\. 48 No\. 2](https://open.spotify.com/track/2QD0F6WGobTHPgqDQZTtcP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Chopin: Nocturnes](https://open.spotify.com/album/3zHkuOkUqIgRwCcVnbX9qf) | 7:12 |
 | 16 | [Nocturne No\. 1 in B flat minor, Op\. 9 No\. 1](https://open.spotify.com/track/4LvznnwnusIRjRmbCpKboR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Chopin The Complete Nocturnes](https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t) | 7:15 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 | 20 | [Nocturne No\. 6 in G Minor, Op\. 15, No\. 3](https://open.spotify.com/track/7Fs8VvfKUBq9QULOmXDvJ3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:26 |
 | 21 | [Nocturne No\. 12 in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/6EriOgK7cLzYsnNEHTnY36) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes, Vol\. 2](https://open.spotify.com/album/3WnONXHPKROuUtLFKvtPQT) | 5:43 |
 
-Snapshot ID: `MTY2MDkwNDk4NiwwMDAwMDAwMGRhZDRiYTI5ZGRlZjJjYTJiZjA2YzgxZDA3NjAzYzA0`
+Snapshot ID: `MTY2MDkwNDk4NiwwMDAwMDAwMGM4Yjg0ZTExODFkMGNiNTdlMDVkMzgzNDA3MjBiYWJm`

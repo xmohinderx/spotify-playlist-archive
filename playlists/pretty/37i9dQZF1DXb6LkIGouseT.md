@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,451 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,507 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 54 | [Courtship Song](https://open.spotify.com/track/3bzc0xRyNkeXvESUvE2VYr) | [Robert Mirabal](https://open.spotify.com/artist/3rCzOTPZysU7pjOi6fmwJg) | [Music From A Painted Cave](https://open.spotify.com/album/1m5WXwfbkc1Jbw9Kh1H4RE) | 3:59 |
 | 55 | [Deer Spirits Welcome the Dawn](https://open.spotify.com/track/3nfeZM8TXJWjAA8fWVNtsO) | [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Ritual Mesa](https://open.spotify.com/album/5ENn6kbZmmmaZvTWdabIAa) | 2:09 |
 | 56 | [Awakening Of The Beauty Within](https://open.spotify.com/track/4YPnMiG3qbVhQv4gqHhpJ3) | [Kelvin Mockingbird](https://open.spotify.com/artist/3YTqSZPBF9lDp06TvqzdDv) | [Sacred Fire](https://open.spotify.com/album/5BxGr6annQoAOQx2UP4tqv) | 9:43 |
-| 57 | [Ancient Wisdom](https://open.spotify.com/track/0BBoA5gIspd1uPe5MtTWhe) | [Alice Gomez](https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ) | [Spirit Prayer: Best of Native American Flute](https://open.spotify.com/album/3NhLLltbvnhL1tDXlB6CLm) | 3:36 |
+| 57 | [Ancient Wisdom](https://open.spotify.com/track/1wvN1iKjY3wMr1mxKH2euD) | [Alice Gomez](https://open.spotify.com/artist/3MrlGi7epLyRUbC9F6p3XQ) | [Healer's Suite](https://open.spotify.com/album/6YXTvGErZJOIEmyuKuIzCr) | 3:36 |
 | 58 | [Sky](https://open.spotify.com/track/6UenLLk6evUCGRTJydVYvv) | [J\. Reuben Silverbird](https://open.spotify.com/artist/2dRWH3NPjbiZIFKc0sLUta) | [Shaman Spirit](https://open.spotify.com/album/1m0UCKvB5mbW0hFYdc6KDm) | 4:47 |
 | 59 | [Native Flute Symphony \- The Journey](https://open.spotify.com/track/0MpgQBGeLGD0HrYYZcAKLM) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Vision Seeker \- A Journey in Native Flute, Drum & Voice](https://open.spotify.com/album/2afkInoGkt2kqrMnWhs0na) | 4:08 |
 | 60 | [Of Shadow and Light](https://open.spotify.com/track/60EPxhYda9FZCgzhxbi3h8) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Hidden Medicine](https://open.spotify.com/album/1NZuFkLtkaStYMRRLXk12a) | 4:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
 
-Snapshot ID: `MTY2NjgyMTEwNSwwMDAwMDAwMGJiOWE4ZWY2MTAzYjZhNWQ2ZmU2NmU4MGE3MDU1M2Yz`
+Snapshot ID: `MTY2NjgyMTEwNSwwMDAwMDAwMDJhMzIxNjEyN2I0YmY2YTY2OGYzMTQ0Mzc5NmE3Y2M4`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,256 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,258 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [deep end](https://open.spotify.com/track/3LYSQacvVpDkPkxzuWEBUc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 |
 | 2 | [Verklighet](https://open.spotify.com/track/3v4lScmKmSCSSOpq0d3S4n) | [Slowgold](https://open.spotify.com/artist/2Urxw4X90ya3LA8KqV2WIX) | [Mörkare](https://open.spotify.com/album/5zDICSnC15J4BwvSfANMIA) | 4:41 |
-| 3 | [watch you sleep.](https://open.spotify.com/track/1D8dzHLebfGYyBbfkUQTW5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [chapter 2](https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb) | 3:00 |
+| 3 | [watch you sleep.](https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [watch you sleep.](https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE) | 3:00 |
 | 4 | [Ruin](https://open.spotify.com/track/1n0iHqATRnMzoxsIGmzIoR) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Sun](https://open.spotify.com/album/1IoiJGsAHdL0OL9IOjTflm) | 4:32 |
 | 5 | [Falcons](https://open.spotify.com/track/7dL2Lsa6b6wfX5IzkdWGlY) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Docks](https://open.spotify.com/album/7tIJdci876Nai32nnhU5Nu) | 3:54 |
 | 6 | [The walker](https://open.spotify.com/track/5nTGyhsQmk8NHlg71ZEmmo) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 4:16 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 18 | [Mustn't Hurry](https://open.spotify.com/track/26sRCxeINy71HF6Jxvwk9o) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge](https://open.spotify.com/album/3UHMhYzYnfTBEuDxb1JmxC) | 4:17 |
 | 19 | [Cry](https://open.spotify.com/track/55of3FNGaCpt5scLKZyas3) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [Cry](https://open.spotify.com/album/0wFkZ4pDDUJg2IiOpYiEjc) | 4:31 |
 | 20 | [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 |
-| 21 | [SuMmEr BrEaK](https://open.spotify.com/track/4EkDW7pOGTWGlT6xIzc0t9) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [SuMmEr BrEaK](https://open.spotify.com/album/3VzPqfYb4IYeZIXTvaRdG0) | 2:40 |
+| 21 | [SuMmEr BrEaK](https://open.spotify.com/track/0h4e9wtvP1KK7rWP6ceZTE) | [ShitKid](https://open.spotify.com/artist/6TnRsbEEAkxaOYJLcEWd5m) | [\[DETENTION\]](https://open.spotify.com/album/3gC6SaURhsOVtsvTTlJvWE) | 2:40 |
 | 22 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 23 | [Kommer hända](https://open.spotify.com/track/434fDjhJpR9lTPsVeVUCYL) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Kommer hända](https://open.spotify.com/album/088wZCNH0tgX5AGQqgj4EN) | 3:02 |
 | 24 | [The Barrel \- Edit](https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo) | 3:39 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 26 | [New Boo](https://open.spotify.com/track/7oFef7lgYDeQDTS65hyFOi) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [Lovers That Come and Go](https://open.spotify.com/album/6JXySkDpQcjRWuUihBUdEk) | 3:26 |
 | 27 | [Gemini Feed](https://open.spotify.com/track/1je8teAQYtOnzG7c10MTw5) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Gemini Feed](https://open.spotify.com/album/08TBfp6GDtlh8W8m82yi6l) | 3:06 |
 | 28 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 |
-| 29 | [Hurt Me](https://open.spotify.com/track/4VzsPe0dBP2TlCixBySlmF) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Common Culture, Vol\. VI](https://open.spotify.com/album/5POaAwJzc1QmcqFuvrfNGr) | 3:52 |
+| 29 | [Hurt Me](https://open.spotify.com/track/7fApw5FcXz2wAEMaIwT52E) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Long Way Home](https://open.spotify.com/album/5h5HjSBjZ2dAuGxGL6L2EB) | 3:51 |
 | 30 | [RAPIN\*](https://open.spotify.com/track/0LV28Z8dSU1lAel1YJx7AY) | [Jenny Wilson](https://open.spotify.com/artist/3axEmcxTibioxD1rZi1IOB) | [RAPIN\*](https://open.spotify.com/album/5SrFOas4DlOLutsWlFNesD) | 3:24 |
 | 31 | [Somebody Special](https://open.spotify.com/track/2hI8UCINh2fK8Z0uIkntxF) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 3:20 |
 | 32 | [How Can I Move On](https://open.spotify.com/track/1RLMmRRd8q0qWYc4eTgHR6) | [Marlene Oak](https://open.spotify.com/artist/6lkyBHzdF3MZmPZNJb5UCV) | [Silver Moon](https://open.spotify.com/album/7I2LnG5b6sIBG3Ut5RswR1) | 3:28 |
 | 33 | [Nameless, Faceless](https://open.spotify.com/track/2AUzpScdGwIZplM9y8nkbx) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Nameless, Faceless](https://open.spotify.com/album/6Zq2H87KhAd6WGfeSxKHAG) | 3:14 |
-| 34 | [Youth](https://open.spotify.com/track/6qLLFgywJ33KvxXAQIf6Xt) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [A Long Way Down \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2fpTGzqv5Cl2L590tw08zE) | 4:08 |
+| 34 | [Youth](https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:13 |
 | 35 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 |
 | 36 | [End Of Time](https://open.spotify.com/track/4gZ2txLgh6J3nAxQ3vQHdT) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [End Of Time](https://open.spotify.com/album/1lNhOO3dWsC6VoRDML3kGh) | 3:22 |
 | 37 | [Don't Talk](https://open.spotify.com/track/4nKSjOkQ4CHJ11rR3jhySj) | [Jennie Abrahamson](https://open.spotify.com/artist/6Q6y2vf2DZm7yLWHKQr7Bx) | [Reverseries](https://open.spotify.com/album/4F9FZPhAlHcVEz4Hr7RXHH) | 6:39 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 50 | [Silvana](https://open.spotify.com/track/6O2N7tE7ivFrpyx4QNbdMS) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Silvana](https://open.spotify.com/album/4XjErE5yed7xjgfCwZcezm) | 3:28 |
 | 51 | [Shut Up Kiss Me](https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [MY WOMAN](https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm) | 3:22 |
 | 52 | [Mouth to Mouth](https://open.spotify.com/track/5KxKFdP10B76t6R2JGiLuG) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Mouth to Mouth](https://open.spotify.com/album/6M6ZXKXa6cbrdLJkgJudTY) | 3:29 |
-| 53 | [Mind](https://open.spotify.com/track/6le001QnP5N3OB9TNGkWPz) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mind](https://open.spotify.com/album/3T9F85Fw1HB7latqhMRIUI) | 4:10 |
-| 54 | [Demands](https://open.spotify.com/track/645WCVfrWZ65pwFKVLpm2G) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Demands / Onkel](https://open.spotify.com/album/6W7U6V1fc1CtaMuGNGsSej) | 2:59 |
+| 53 | [Mind](https://open.spotify.com/track/1As7Zf2pOE7cfGWbocErVW) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love in the Milky Way](https://open.spotify.com/album/2d55NIkawwo5HMMendu9vI) | 4:10 |
+| 54 | [Demands](https://open.spotify.com/track/2KYRuoSR708PWRDaj2SZaa) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Demands](https://open.spotify.com/album/15TiYodj3ZURwhUEy38bWB) | 2:59 |
 | 55 | [Lifetime](https://open.spotify.com/track/2u0AwpPXxQY2PJNvYGQYXQ) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lifetime](https://open.spotify.com/album/3X3lBxcaYEMEv0kjOQv9ht) | 5:08 |
 | 56 | [Weekend](https://open.spotify.com/track/5XyQPpTMFzzxB7R0Rpz1u3) | [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Weekend](https://open.spotify.com/album/6oJyvqAMhh4PL3ahlAPQ9f) | 3:26 |
 | 57 | [Die Distance](https://open.spotify.com/track/4gpmrcdIW76OyhtdzBYWe8) | [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [Die Distance](https://open.spotify.com/album/558cUeJzOL02b1Cma9ODyg) | 3:19 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 76 | [Wasting My Young Years](https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:24 |
 | 77 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 |
 | 78 | [TKO](https://open.spotify.com/track/7KCvbMfHeYrBzK1HrZQt0N) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [This Island](https://open.spotify.com/album/2FEvlkKxysgljyanzduLFe) | 3:24 |
-| 79 | [Riverside](https://open.spotify.com/track/7idJS1YOV1eABaJE8iQsEK) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics \(Deluxe Edition\)](https://open.spotify.com/album/3Mj2AdZblvorS19tdG95hZ) | 3:48 |
+| 79 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
 | 80 | [Julian](https://open.spotify.com/track/14OaHFutbeEsrZHKFU6u5J) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Julian](https://open.spotify.com/album/1nWnYpb5kID77uEc1OViP0) | 3:45 |
 | 81 | [Under Stars](https://open.spotify.com/track/30W1d4YTsHE7BrMKVWHmEJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/7i0BM1tVVFz4moEvse4gyb) | 3:19 |
 | 82 | [Back to Reality](https://open.spotify.com/track/1hOBDeJAnRyR6rfVXgNQtd) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/5iTRb9dJLLhSeCuEQ7XRfk) | 3:39 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMDM2ZTcxM2RkMmNmNjQ0NTBkZDdiMDg3MmUxOWMyMjFh`
+Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGYxNDUyZTc0ZjFkMGY5MGMyYjFjYmVmZThjOWQ2Zjkx`

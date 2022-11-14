@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 24291,
+  "num_followers": 24306,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDhlMTkzMmNhYWE4NzQwOTc5YzBmOGU4YzU3ODZlMjZl",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDhmY2IwODk1N2E4ZjQzNGQ1ZTlhMWFhMTk2OWNlMmQz",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -27,6 +27,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "No.1 (Jubil\u00e4ums Edition)",
+        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
+      },
+      "artists": [
+        {
+          "name": "Silent Circle",
+          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
+        }
+      ],
+      "duration_ms": 217669,
+      "name": "Touch in the Night - Radio Version",
+      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Must Be Love (feat. Electric Fields)",
         "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "No.1 (Jubil\u00e4ums Edition)",
-        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
-      },
-      "artists": [
-        {
-          "name": "Silent Circle",
-          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
-        }
-      ],
-      "duration_ms": 217669,
-      "name": "Touch in the Night - Radio Version",
-      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "2015 - 2017",
-        "url": "https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 367619,
-      "name": "Pool Party Music",
-      "url": "https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Graceland - The Remixes",
         "url": "https://open.spotify.com/album/34ORSj2qrkkwUUwQJMcV1d"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 377173,
       "name": "That Was Your Mother - Gui Boratto Remix",
       "url": "https://open.spotify.com/track/7qB5mBa997C6ddiCgmsfU4"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "2015 - 2017",
+        "url": "https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 367619,
+      "name": "Pool Party Music",
+      "url": "https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -311,18 +311,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "The Spirit",
-        "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
+        "name": "Players Theme",
+        "url": "https://open.spotify.com/album/6Ce256upxpicVQuZCebMlo"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
         }
       ],
-      "duration_ms": 135865,
-      "name": "The Spirit",
-      "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
+      "duration_ms": 305306,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/0QHgoeTQNQmyA1bNoUhZD3"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -343,6 +343,38 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "...Balla!",
+        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 262456,
+      "name": "Ma quale idea",
+      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "The Spirit",
+        "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 135865,
+      "name": "The Spirit",
+      "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -359,22 +391,6 @@
       "duration_ms": 386426,
       "name": "Bad Luck (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "...Balla!",
-        "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 262456,
-      "name": "Ma quale idea",
-      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -431,22 +447,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Mars 500",
-        "url": "https://open.spotify.com/album/7lfXilxttazWRwNcThahfc"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 412257,
-      "name": "Mars 500",
-      "url": "https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "All 'N All",
         "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 191200,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Mars 500",
+        "url": "https://open.spotify.com/album/7lfXilxttazWRwNcThahfc"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 412257,
+      "name": "Mars 500",
+      "url": "https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -515,6 +531,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Searching to Find the One",
+        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
+      },
+      "artists": [
+        {
+          "name": "Unlimited Touch",
+          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
+        }
+      ],
+      "duration_ms": 413573,
+      "name": "I Hear Music in the Streets",
+      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "Boxed Out",
         "url": "https://open.spotify.com/album/6EULCikvblF2HZCE7lM3CK"
       },
@@ -531,22 +563,6 @@
       "duration_ms": 284308,
       "name": "64 Ways",
       "url": "https://open.spotify.com/track/2f63FfjixxnXfQhEZJcrOr"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Searching to Find the One",
-        "url": "https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q"
-      },
-      "artists": [
-        {
-          "name": "Unlimited Touch",
-          "url": "https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm"
-        }
-      ],
-      "duration_ms": 413573,
-      "name": "I Hear Music in the Streets",
-      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -867,22 +883,6 @@
       "duration_ms": 354365,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Is It All Over My Face?",
-        "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
-      },
-      "artists": [
-        {
-          "name": "Loose Joints",
-          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
-        }
-      ],
-      "duration_ms": 427990,
-      "name": "Is It All Over My Face? - Female Version",
-      "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
     }
   ],
   "unique_name": "Rooftop Sunset",

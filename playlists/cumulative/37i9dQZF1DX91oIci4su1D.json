@@ -2244,6 +2244,28 @@
     },
     {
       "album": {
+        "name": "Down to Love",
+        "url": "https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH"
+      },
+      "artists": [
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230551,
+      "name": "Down to Love",
+      "url": "https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori"
+    },
+    {
+      "album": {
         "name": "dreamcore",
         "url": "https://open.spotify.com/album/59P9rAUO9S4VUuZRPgpCCx"
       },
@@ -5091,7 +5113,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 267375,
       "name": "Little Pieces",
       "url": "https://open.spotify.com/track/21C2aEhXEdso5iOsLGFKL7"
@@ -7197,7 +7219,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 263661,
       "name": "Quantum Eraser",
       "url": "https://open.spotify.com/track/4iBtkALF5a2yMOUOb0EhSi"
@@ -8179,7 +8201,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 227493,
       "name": "Sink Or Swim",
       "url": "https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD"

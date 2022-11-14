@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 宮野真守
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,436 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,440 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 42 | [Adolescence](https://open.spotify.com/track/2OVkxlBoVKBYo3ZjaJSjnz) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Adolescence](https://open.spotify.com/album/7u5BqBGPH70vfUZh6HTjo9) | 3:54 |
 | 43 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 |
 | 44 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 |
-| 45 | [Pokerface](https://open.spotify.com/track/4GveOt59Hk6tKeDIbkG7ae) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/4dELVIOLcAs8JBT0vHGDIN) | 3:55 |
+| 45 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 |
 | 46 | [Deneb and Spica](https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Deneb and Spica](https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g) | 4:27 |
 | 47 | [イッパイアッテナ](https://open.spotify.com/track/1Dk02TAykLIuwesDG2G2jx) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [イッパイアッテナ](https://open.spotify.com/album/4BLiWKbbYPgtSBN7gMioP2) | 3:56 |
 | 48 | [HOLY TALE](https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:58 |
 | 49 | [Dgaf \- S\-quad](https://open.spotify.com/track/1Pf3nj0VJyU5Inx71BicLw) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [Dgaf \(S\-quad\)](https://open.spotify.com/album/25GeWfdU4YzEVh9IiedLSt) | 3:07 |
 | 50 | [CROSS A LINE](https://open.spotify.com/track/4XavZrAn9OxuRDz0mbOidg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 5:20 |
 
-Snapshot ID: `MTY2NzM2MDc5NiwwMDAwMDAwMDkwZGM0YWRjYjk0YzEwNGJjZjQzMmI0NmE4Nzk4NjU1`
+Snapshot ID: `MTY2NzM2MDc5NiwwMDAwMDAwMGVhNjIwOGIyNWQ5NjdiZTAxZDBhZjkyYWIzZGMzYzhm`

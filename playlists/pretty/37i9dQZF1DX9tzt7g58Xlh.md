@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 
 > Rock on with their latest releases from 'Mercury – Act 1 & 2'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,130 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,349 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 | 45 | [Next To Me](https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:50 |
 | 46 | [Walking The Wire](https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:52 |
 | 47 | [Shots \- Broiler Remix](https://open.spotify.com/track/4XLm8FNvaTlmTAZmSrrV82) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC) | [Shots EP](https://open.spotify.com/album/5R4Ak5SlTSaVnXNZQQ5CX2) | 3:11 |
-| 48 | [Monster](https://open.spotify.com/track/1AdAroOR68qKl0bNAxe1yK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Rockout Workout](https://open.spotify.com/album/2MW9Aaf1gDZwwkJDPoMxEn) | 4:10 |
+| 48 | [Monster](https://open.spotify.com/track/2Xaw1RrXP3mdooKWysuRJ8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 4:09 |
 | 49 | [Rise Up](https://open.spotify.com/track/3zT2616WcD9Df5m21OsCX0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:51 |
 | 50 | [I Bet My Life](https://open.spotify.com/track/15DrrIod12Tc2IoMaHiwlQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 3:12 |
 | 51 | [Only](https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:00 |
 | 52 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
-| 53 | [Bleeding Out](https://open.spotify.com/track/2EEBiWjfZLTXj27eJMGQUS) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Study Time](https://open.spotify.com/album/0dWvW7aljXdOHwu4YuK8ZZ) | 3:43 |
+| 53 | [Bleeding Out](https://open.spotify.com/track/6NaBDHz9C7Uz9Z9CwLXQin) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:41 |
 | 54 | [Who We Are](https://open.spotify.com/track/2x2SotEkKozaFh6H1aVnOZ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 4:09 |
 | 55 | [Roots](https://open.spotify.com/track/4GITtbZtRCQXhWLMXrWXHt) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Roots](https://open.spotify.com/album/6SW9d1zYefC5SUzPsJFUMU) | 2:54 |
 | 56 | [Born To Be Yours](https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg) | 3:13 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 | 71 | [Tiptoe](https://open.spotify.com/track/3dw0A0cbqT6Oy2V8KfGwIT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:13 |
 | 72 | [I’ll Make It Up To You](https://open.spotify.com/track/0FfX0nofboxZjP0diT1eFv) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 4:22 |
 
-Snapshot ID: `MTY2MDgzMDAxOSwwMDAwMDAwMDlkZDk1MTk4NDE4YTIzNjY3OTY4NTE4OGFiNjRhMzVj`
+Snapshot ID: `MTY2MDgzMDAxOSwwMDAwMDAwMDIwMjk3NTBlMWY3MDgzNzI3YTVkNTkzZDM4NmEzMGVk`

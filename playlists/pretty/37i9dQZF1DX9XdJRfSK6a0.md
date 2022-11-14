@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 
 > This Sunday, let's tune out the words.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,017 likes - 45 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,020 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 20 | [Dance Of The Diaper Fairy](https://open.spotify.com/track/0AhfcYWLB9EGHcRHn4KsWB) | [Per Störby Jutbring](https://open.spotify.com/artist/5HKQ1eZfmajJNGC12Nj7xB) | [Dance of the Diaper Fairy](https://open.spotify.com/album/7840SsBEk2QXTF1BL0BTCT) | 5:07 |
 | 21 | [Intro](https://open.spotify.com/track/2tJ5nxeNIFTNGSqyFvG8Ov) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 2:20 |
 | 22 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 |
-| 23 | [Översiktskarta över Kullahusområdet](https://open.spotify.com/track/02Xo5XF04TVIv9qRZ0nmkC) | [Jäverling ◇ von Euler](https://open.spotify.com/artist/1VPqh7tyQEXc2W8KBCRPMv) | [Översiktskarta över Kullahusområdet](https://open.spotify.com/album/0kgP9QWdFLOMLEGQlCM7AB) | 4:52 |
+| 23 | [Översiktskarta över Kullahusområdet](https://open.spotify.com/track/0Dp7TRe1s5HO4x030JJhay) | [Jäverling ◇ von Euler](https://open.spotify.com/artist/1VPqh7tyQEXc2W8KBCRPMv) | [Musik inspirerad av Kullahusets Hemlighet \(Sten Eklund, 1971\)](https://open.spotify.com/album/2CK5KTbCcFBF2O2s9IRMvF) | 4:52 |
 | 24 | [Hungry Face](https://open.spotify.com/track/6Uq3IHAmOz3gSunhvJqqmp) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Les Revenants](https://open.spotify.com/album/5jrJqqSHL1rVxUxnBZW7Ta) | 2:24 |
 | 25 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
 | 26 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XdJRfSK6a0.md) - [plain]
 | 44 | [Me Voy a Morir de Tanto Amor](https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Lucía y el Sexo \(Banda Sonora Original\)](https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv) | 2:39 |
 | 45 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 |
 
-Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMGFiN2JiZmY0MDQ3ZmU1MTc3ZjI1N2M3ZDU0MjYwYjJk`
+Snapshot ID: `MTY2NDI3MDQ4MiwwMDAwMDAwMDQ2MTBlNDhkODExMjU4NjFjNmM0ODlkZjI2OTU1OTFk`

@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-76 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
+77 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 | 2020-11-24 |  |
 | [Agua Viva](https://open.spotify.com/track/5SwdX9b2laNcqtfCM4U491) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/07810vBHlKJsbSYUesp68P) | 3:39 | 2020-11-24 | 2022-07-29 |
 | [Al Taller del Maestro](https://open.spotify.com/track/54CynAndjIh7EPZgbtrTDs) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller Del Maestro](https://open.spotify.com/album/7rHmQdyQkVqyt7w2HmRRM4) | 5:12 | 2020-11-24 | 2022-11-11 |
+| [Al Taller del Maestro](https://open.spotify.com/track/5OX1HvUXMIgUg507al1WbW) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller del Maestro](https://open.spotify.com/album/5zA0BCRlgbhR7bBbDcrQsi) | 5:12 | 2020-11-24 |  |
 | [Al Taller del Maestro](https://open.spotify.com/track/7kJa3VuFpzlbzqHh0Jd54L) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller del Maestro](https://open.spotify.com/album/4u6CuWNHKdv07TnoTQ2aE1) | 5:12 | 2020-11-24 | 2022-07-29 |
 | [Ancla](https://open.spotify.com/track/5OkXPEznoByT1MPBlRkmpG) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Ancla](https://open.spotify.com/album/7LX8tXMflp3SkBxWub7SZn) | 3:27 | 2020-11-24 | 2022-07-29 |
 | [Ancla](https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m) | [Ancla](https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38) | 3:27 | 2020-11-24 |  |
@@ -25,7 +26,7 @@
 | [De Vuelta](https://open.spotify.com/track/58soAAGUis6dWUAir2CVY9) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [De Vuelta](https://open.spotify.com/album/6ZbWg7zKqSDAn41W6QhxWm) | 3:26 | 2020-11-24 | 2022-07-24 |
 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 | 2020-11-24 |  |
 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 | 2020-11-24 |  |
-| [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 | 2020-11-24 |  |
+| [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 | 2020-11-24 | 2022-11-14 |
 | [Dios Te Bendiga](https://open.spotify.com/track/6waMZni4HkrCDSXmrAhI3N) | [Willy Rodríguez](https://open.spotify.com/artist/1nwqmVoGXHGiQ5oH8uyVZr) | [Dios Te Bendiga](https://open.spotify.com/album/4Em7QdQKljK0UbChRwlAHk) | 3:52 | 2020-11-24 | 2022-07-29 |
 | [El Maestro de Galilea](https://open.spotify.com/track/6zLxr6n6tFeqmh2uNmBGGd) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:46 | 2020-11-24 |  |
 | [Empezar de Nuevo](https://open.spotify.com/track/6VFytIFJB96QQWVIYUkjPW) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Diseño Original](https://open.spotify.com/album/1k2T2Xm7K8XRGQX6UZNTbg) | 4:11 | 2020-11-24 | 2022-07-29 |

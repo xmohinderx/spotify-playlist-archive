@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182679,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
+    },
+    {
+      "album": {
         "name": "How It Feels to Be Lost",
         "url": "https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 184285,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 216411,
       "name": "Antisocialist",
       "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 197213,
       "name": "Face the Fire",
       "url": "https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 188341,
       "name": "Flowers in the Attic",
       "url": "https://open.spotify.com/track/3xxAuZK7ejUKDG092N5L2M"
@@ -4085,7 +4103,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
@@ -5679,7 +5697,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 214344,
       "name": "Synthetic Sympathy",
       "url": "https://open.spotify.com/track/6IzY4FSs1vsPjjkeFJNIkL"
@@ -5751,7 +5769,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-14",
       "duration_ms": 178154,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"

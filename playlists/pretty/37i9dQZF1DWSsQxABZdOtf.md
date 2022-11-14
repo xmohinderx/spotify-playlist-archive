@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,587 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,617 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 7 | [BAD GIRLS](https://open.spotify.com/track/5wncXWwO8rytQ51P5BitXq) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [GOOD GIRLS // BAD GIRLS](https://open.spotify.com/album/2agPB4353LtTag4Lu5PWx7) | 5:03 |
 | 8 | [House Check \(feat\. Big Skeez\)](https://open.spotify.com/track/17EnxDe0uKvyoyvjOC1B3P) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu) | [House Check \(feat\. Big Skeez\)](https://open.spotify.com/album/6ccAVqrPvfCEpoHCgLQehl) | 4:28 |
 | 9 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 |
-| 10 | [When You Hear The Bassline](https://open.spotify.com/track/3Rrbkk9I0uyqt5khMH4IGB) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Guns Don't Kill People...Lazers Do](https://open.spotify.com/album/690h3YPCXOCE022G31IUaH) | 3:18 |
+| 10 | [When You Hear The Bassline](https://open.spotify.com/track/7Apfq5pmWkC4zGOTW6HN5P) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Guns Don't Kill People...Lazers Do \(Deluxe\)](https://open.spotify.com/album/4DvCigoRqkEXZg496IgZiv) | 3:18 |
 | 11 | [Let Me Love U](https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Let Me Love U](https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p) | 3:09 |
 | 12 | [Petroleum](https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Petroleum / Hidden Land](https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5) | 3:18 |
 | 13 | [Intentions](https://open.spotify.com/track/2gNYF7hcGCugn9lH5fjnZw) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 | 70 | [Speedy Gs](https://open.spotify.com/track/5FHLW4748Qp01kvyPjbODM) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5) | [Speedy Gs](https://open.spotify.com/album/34mNJp5MMW4GiyY82f2iEo) | 3:46 |
 
-Snapshot ID: `MTY2MjYxNjU1MiwwMDAwMDAwMDM0MmNjNmYwMDYzOTIyOWEzYjgwZTk3ZjNhMTI1MTQ3`
+Snapshot ID: `MTY2MjYxNjU1MiwwMDAwMDAwMGMwZjQwNzhmYzk4N2FiNWE2MDRiYzdlMWU5NDQ1ZjE0`
