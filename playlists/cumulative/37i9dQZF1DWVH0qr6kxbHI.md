@@ -4,7 +4,7 @@
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-87 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/7AgCSFXvd2y5oOtuGeyQLl)
+88 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/7AgCSFXvd2y5oOtuGeyQLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Como Yo Te Amo \- Remasterizado](https://open.spotify.com/track/3pBmaSZCoLF0drPRuf85O5) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Canciones Entrañables \(Remasterizado\)](https://open.spotify.com/album/5w7W7a6Khy2SK7WHVcnBoV) | 4:40 | 2022-04-28 |  |
 | [Corazón Contento](https://open.spotify.com/track/3toNVh3Z8sEjtr7iWTcDTo) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Música de Siempre](https://open.spotify.com/album/5eRapx0Noxyn9D0KvQEECn) | 2:59 | 2022-11-03 | 2022-11-13 |
 | [Corazón Contento](https://open.spotify.com/track/5r5hCjNjWdmQTHtHBZ7ghy) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [De Marisol A Pepa Flores](https://open.spotify.com/album/73Wl1DZw4FCGwGNdATSCIO) | 3:00 | 2022-04-28 | 2022-07-29 |
-| [Corazón Contento \- Remasterizado](https://open.spotify.com/track/5jk6aPg83cKYzT2QoIe3zq) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Las Canciones de las Películas Vol\. 2 \(Remasterizado 2022\)](https://open.spotify.com/album/2IloYHn18pQabdcCrZw0iR) | 3:00 | 2022-04-28 |  |
+| [Corazón Contento \- Remasterizado](https://open.spotify.com/track/5jk6aPg83cKYzT2QoIe3zq) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Las Canciones de las Películas Vol\. 2 \(Remasterizado 2022\)](https://open.spotify.com/album/2IloYHn18pQabdcCrZw0iR) | 3:00 | 2022-04-28 | 2022-11-15 |
+| [Corazón Contento \- Remasterizado](https://open.spotify.com/track/6J3Cz3Ok2oI7sXebhGNKt3) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Marisol \(1976\) \[Remasterizado 2022\]](https://open.spotify.com/album/1NpMIQUpPephDPD92I77jg) | 3:01 | 2022-11-03 |  |
 | [Cuando Te Beso](https://open.spotify.com/track/5XqlTeL5oyxqSJsD6D7XVP) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [La Orilla de Mi Pelo](https://open.spotify.com/album/6NtCvKJZsZG1QqCJVMeOhy) | 3:35 | 2022-04-28 |  |
 | [Cántame](https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Mis Mejores Canciones, Vol\. I](https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF) | 4:01 | 2022-04-28 |  |
 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 | 2022-04-28 |  |

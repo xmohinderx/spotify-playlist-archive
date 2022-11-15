@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest out now in Hip Hop... Cover: <a href=\"https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55?si=ahHSlLIER9uhSN7KxaU8rA\">ANATII</a>",
-  "num_followers": 50566,
+  "num_followers": 50582,
   "original_name": "Hip Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExNzU0MCwwMDAwMDAwMDE2YTI4NzNiNDhkZThlNzc4NWM3NThlYjczMzI5ZTlj",
+  "snapshot_id": "MTY2ODQyMzYwMCwwMDAwMDAwMDM2NDA5MzRiNjUyNWFkMGFjMzQwNTRlMTQzNjIzMzkx",
   "tracks": [
     {
       "added_at": "2022-10-27 22:03:15",
@@ -85,42 +85,6 @@
       "url": "https://open.spotify.com/track/4P57GgKxNDM9VodgJQloR2"
     },
     {
-      "added_at": "2022-09-19 08:45:29",
-      "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
-    },
-    {
-      "added_at": "2022-10-21 07:56:23",
-      "album": {
-        "name": "Aston Martin Truck",
-        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Aston Martin Truck",
-      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
-    },
-    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "Amadlozi",
@@ -141,6 +105,22 @@
       "url": "https://open.spotify.com/track/4pHdZenBKRDOpredaVILeG"
     },
     {
+      "added_at": "2022-10-21 07:56:23",
+      "album": {
+        "name": "Aston Martin Truck",
+        "url": "https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Aston Martin Truck",
+      "url": "https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR"
+    },
+    {
       "added_at": "2022-11-10 21:59:00",
       "album": {
         "name": "In My Head",
@@ -157,6 +137,26 @@
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
+      "added_at": "2022-09-19 08:45:29",
+      "album": {
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
       "added_at": "2022-10-13 21:59:00",
       "album": {
         "name": "Poland",
@@ -171,6 +171,26 @@
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Thick Slim",
+        "url": "https://open.spotify.com/album/6WEZcTDnJU20YkwHy0LdVZ"
+      },
+      "artists": [
+        {
+          "name": "Ney",
+          "url": "https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL"
+        },
+        {
+          "name": "Nadia Nakai",
+          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+        }
+      ],
+      "duration_ms": 132389,
+      "name": "Thick Slim",
+      "url": "https://open.spotify.com/track/2w1hYUkNR6j5CvxmNpwTgi"
     },
     {
       "added_at": "2022-08-29 18:40:05",
@@ -207,6 +227,30 @@
       "duration_ms": 501648,
       "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
+    },
+    {
+      "added_at": "2022-08-18 21:59:00",
+      "album": {
+        "name": "SETE (feat. Young Stunna & Blxckie)",
+        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "SETE (feat. Young Stunna & Blxckie)",
+      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
     },
     {
       "added_at": "2022-09-09 08:48:33",
@@ -269,50 +313,6 @@
       "url": "https://open.spotify.com/track/1q88oYGqJzfDp250KGrdKs"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 261543,
-      "name": "On BS",
-      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
-    },
-    {
-      "added_at": "2022-08-18 21:59:00",
-      "album": {
-        "name": "SETE (feat. Young Stunna & Blxckie)",
-        "url": "https://open.spotify.com/album/7ceVgKif2FV49HL1u7qxlG"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "SETE (feat. Young Stunna & Blxckie)",
-      "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
-    },
-    {
       "added_at": "2022-10-06 21:59:00",
       "album": {
         "name": "Only Built For Infinity Links",
@@ -353,24 +353,40 @@
       "url": "https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut"
     },
     {
-      "added_at": "2022-11-03 21:59:00",
+      "added_at": "2022-10-13 21:59:00",
       "album": {
-        "name": "Thick Slim",
-        "url": "https://open.spotify.com/album/6WEZcTDnJU20YkwHy0LdVZ"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
-          "name": "Ney",
-          "url": "https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL"
-        },
-        {
-          "name": "Nadia Nakai",
-          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 132389,
-      "name": "Thick Slim",
-      "url": "https://open.spotify.com/track/2w1hYUkNR6j5CvxmNpwTgi"
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": "2022-11-04 05:16:57",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -509,6 +525,22 @@
       "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
     },
     {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "Thun",
+      "url": "https://open.spotify.com/track/6tSemeCMDHYp5gqmKDJcn2"
+    },
+    {
       "added_at": "2022-09-22 21:59:00",
       "album": {
         "name": "Pardon My Arrogance",
@@ -529,20 +561,24 @@
       "url": "https://open.spotify.com/track/5lSqaq9zJN90ut2JOoddUW"
     },
     {
-      "added_at": "2022-10-13 21:59:00",
+      "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+      "duration_ms": 261543,
+      "name": "On BS",
+      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -585,50 +621,6 @@
       "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
     },
     {
-      "added_at": "2022-05-12 21:59:00",
-      "album": {
-        "name": "NEVER RIDE",
-        "url": "https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k"
-      },
-      "artists": [
-        {
-          "name": "MashBeatz",
-          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
-        },
-        {
-          "name": "Thato Saul",
-          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        }
-      ],
-      "duration_ms": 146040,
-      "name": "NEVER RIDE",
-      "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Ivyson Army Tour Mixtape",
-        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        },
-        {
-          "name": "Case-Klowzed",
-          "url": "https://open.spotify.com/artist/7gVgCsUONh0i70WAvyOlkG"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Extravagant",
-      "url": "https://open.spotify.com/track/2s2OJc3jYCGPIkA2nWkkn0"
-    },
-    {
       "added_at": "2022-10-13 21:59:00",
       "album": {
         "name": "Only Built For Infinity Links",
@@ -657,6 +649,138 @@
       "url": "https://open.spotify.com/track/6PvHZ5vVjUhngh0t3pIsPc"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "THE4MULA",
+        "url": "https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "duration_ms": 61666,
+      "name": "plug call [freestyle]",
+      "url": "https://open.spotify.com/track/7txdJp6dC3U7P4FSxzOOYV"
+    },
+    {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Ivyson Army Tour Mixtape",
+        "url": "https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Case-Klowzed",
+          "url": "https://open.spotify.com/artist/7gVgCsUONh0i70WAvyOlkG"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Extravagant",
+      "url": "https://open.spotify.com/track/2s2OJc3jYCGPIkA2nWkkn0"
+    },
+    {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/73wpA6cBZPGR7MFFLet4xz"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/13VvjrXWYzG9lWViL8Y9vM"
+    },
+    {
+      "added_at": "2022-09-22 21:59:00",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+    },
+    {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 178328,
+      "name": "3AM on Glenwood",
+      "url": "https://open.spotify.com/track/1MTXYvJ9TSqg9x6WPCDx2n"
+    },
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 446822,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/6KNNqqLaousABh4LeVhdJ9"
+    },
+    {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "Novelist Of Distinction",
+        "url": "https://open.spotify.com/album/2Ef7S0utz4z51W8NhwVUfn"
+      },
+      "artists": [
+        {
+          "name": "Tebogo Wa Pitori",
+          "url": "https://open.spotify.com/artist/4fmXw46U61bjoK3AL2xw9y"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Milli",
+      "url": "https://open.spotify.com/track/1aZDZjXRiAScYxLT9ZaRMI"
+    },
+    {
       "added_at": "2022-10-06 21:59:00",
       "album": {
         "name": "Bottle Girls (feat. Polo G & Almighty Jay)",
@@ -681,20 +805,112 @@
       "url": "https://open.spotify.com/track/0bytLQW2lHZf8QcSaXnGMc"
     },
     {
-      "added_at": "2022-11-03 21:59:00",
+      "added_at": "2022-05-12 21:59:00",
       "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+        "name": "NEVER RIDE",
+        "url": "https://open.spotify.com/album/17BYlFgYEGoqNwJsiM4B4k"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
         }
       ],
-      "duration_ms": 446822,
-      "name": "2007",
-      "url": "https://open.spotify.com/track/6KNNqqLaousABh4LeVhdJ9"
+      "duration_ms": 146040,
+      "name": "NEVER RIDE",
+      "url": "https://open.spotify.com/track/3DFw8WqtxcGtUP8X1o4Yti"
+    },
+    {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Legit",
+      "url": "https://open.spotify.com/track/0N7KYoFclzCaF5COp7BIlH"
+    },
+    {
+      "added_at": "2022-10-21 07:56:23",
+      "album": {
+        "name": "Take Shots (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 281985,
+      "name": "Take Shots (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "Champion Music 2",
+        "url": "https://open.spotify.com/album/0Z4cLn4fZtEJ2psku88wNx"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        }
+      ],
+      "duration_ms": 150376,
+      "name": "uKuphi",
+      "url": "https://open.spotify.com/track/1fzhy3XEQEXUYff6jvbf40"
+    },
+    {
+      "added_at": "2022-09-15 21:59:00",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -733,78 +949,6 @@
       "url": "https://open.spotify.com/track/7f9XO1APC9O2o0CSOCcqMJ"
     },
     {
-      "added_at": "2022-10-21 07:56:23",
-      "album": {
-        "name": "HeartBrokeChild",
-        "url": "https://open.spotify.com/album/5zXW47NY9nAD1W4yTLS3nV"
-      },
-      "artists": [
-        {
-          "name": "wewantwraiths",
-          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "Balenciaga Blue",
-      "url": "https://open.spotify.com/track/248u8QedAIIYCppep2g7oI"
-    },
-    {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "THE4MULA",
-        "url": "https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 61666,
-      "name": "plug call [freestyle]",
-      "url": "https://open.spotify.com/track/7txdJp6dC3U7P4FSxzOOYV"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 158431,
-      "name": "Backstage Passes (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
-    },
-    {
       "added_at": "2022-10-13 21:59:00",
       "album": {
         "name": "Hide & Seek",
@@ -821,64 +965,60 @@
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
-      "added_at": "2022-10-06 21:59:00",
+      "added_at": "2022-10-21 07:56:23",
       "album": {
-        "name": "Do It Again (feat. 2Rare)",
-        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
+        "name": "DEADLINES: FREE P2",
+        "url": "https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
         },
         {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
         }
       ],
-      "duration_ms": 213206,
-      "name": "Do It Again (feat. 2Rare)",
-      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+      "duration_ms": 192000,
+      "name": "BIGGER THAN ME",
+      "url": "https://open.spotify.com/track/2T8zFhRIoj0v4sD9YoZDW8"
+    },
+    {
+      "added_at": "2022-11-14 11:00:00",
+      "album": {
+        "name": "Give You What You Want",
+        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159330,
+      "name": "Give You What You Want",
+      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
     },
     {
       "added_at": "2022-10-21 07:56:23",
       "album": {
-        "name": "So Icy Boyz 22",
-        "url": "https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
-          "name": "Sett",
-          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Break Out Dat Cake",
-      "url": "https://open.spotify.com/track/2WjrrTmJ7ZsZFvCSQy7bYY"
-    },
-    {
-      "added_at": "2022-10-21 07:56:23",
-      "album": {
-        "name": "Take Shots (feat. Tory Lanez)",
-        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 281985,
-      "name": "Take Shots (feat. Tory Lanez)",
-      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -903,130 +1043,6 @@
       "duration_ms": 127895,
       "name": "Aye",
       "url": "https://open.spotify.com/track/4lByLTRLVrAwzaWs8td5pV"
-    },
-    {
-      "added_at": "2022-11-04 05:16:57",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Major Distribution",
-      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
-    },
-    {
-      "added_at": "2022-10-21 07:56:23",
-      "album": {
-        "name": "DEADLINES: FREE P2",
-        "url": "https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir"
-      },
-      "artists": [
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "BIGGER THAN ME",
-      "url": "https://open.spotify.com/track/2T8zFhRIoj0v4sD9YoZDW8"
-    },
-    {
-      "added_at": "2022-10-21 07:56:23",
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 167977,
-      "name": "Forever (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
-    },
-    {
-      "added_at": "2022-09-09 08:48:33",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/2Hl9b2l48h1c2oAQG4ob0a"
-      },
-      "artists": [
-        {
-          "name": "Dj Clen",
-          "url": "https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo"
-        },
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        },
-        {
-          "name": "Jay Jody",
-          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
-        },
-        {
-          "name": "Marcus Harvey",
-          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/3z1B33YJDUYr9Show1dceh"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
-    },
-    {
-      "added_at": "2022-10-06 21:59:00",
-      "album": {
-        "name": "Let\u2019s Go (feat. Aitch)",
-        "url": "https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 159031,
-      "name": "Let\u2019s Go (feat. Aitch)",
-      "url": "https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j"
     }
   ],
   "unique_name": "Hip Hop Circle",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 62367,
+  "num_followers": 62374,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDBhOGQ5MjRhZWQ1OWUzMzkxOGUzMGViZjdkYWJhM2Zi",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDgwYTZiMjIyMmQ0OTY5YzJjOTBkMzBiYTQxMzk4Mjkw",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -183,6 +183,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
       },
@@ -219,26 +239,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Otro Perdedor",
         "url": "https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/0cinWAQ7frmYmKWQq2wdKO"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 178378,
-      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
-      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -295,6 +279,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+        "url": "https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Se Ve\u00eda Venir",
         "url": "https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy"
       },
@@ -307,26 +307,6 @@
       "duration_ms": 152135,
       "name": "Se Ve\u00eda Venir",
       "url": "https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "Dime C\u00f3mo Quieres",
-      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -387,6 +367,42 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ahi\u0301 Donde Me Ven",
+      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Bot\u00e1nica",
         "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "Ahi\u0301 Donde Me Ven",
-      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Por Tu Maldito Amor",
         "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
       },
@@ -447,22 +447,6 @@
       "duration_ms": 236480,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Aqu\u00ed Abajo",
-        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -503,6 +487,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Ella Que\u0301 Te Dio",
+      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Tus Desprecios",
         "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
@@ -519,6 +523,22 @@
       "duration_ms": 142819,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -575,58 +595,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 228989,
-      "name": "Ella Que\u0301 Te Dio",
-      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Que Digan Lo Que Digan",
-        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "Que Digan Lo Que Digan",
-      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Vivo en el 6",
-        "url": "https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 192185,
-      "name": "Vivo en el 6",
-      "url": "https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Ganas De Verte",
         "url": "https://open.spotify.com/album/1F0OQrdweimPVk3119NKVM"
       },
@@ -659,6 +627,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Vivo en el 6",
+        "url": "https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 192185,
+      "name": "Vivo en el 6",
+      "url": "https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Que Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Que Digan Lo Que Digan",
+      "url": "https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Amor Ilegal",
-        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Amor Ilegal",
-      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Muchachita",
-        "url": "https://open.spotify.com/album/1h7jNF4sKtT7NQtJn7v0j3"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Muchachita",
-      "url": "https://open.spotify.com/track/1L9O9z8CIG22aKrpPeHVeV"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Amor y Veneno",
         "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 209732,
       "name": "Amor y Veneno",
       "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Muchachita",
+        "url": "https://open.spotify.com/album/1h7jNF4sKtT7NQtJn7v0j3"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/1L9O9z8CIG22aKrpPeHVeV"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 206440,
       "name": "Triste",
       "url": "https://open.spotify.com/track/5HJQxI2xwe0tCmNcv0v8Dm"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "El Mejor Regalo",
+        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 163381,
+      "name": "El Mejor Regalo",
+      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1267,6 +1283,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Olv\u00eddalo",
+        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Ven Porque Te Necesito",
-        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Mala Racha",
         "url": "https://open.spotify.com/album/5c2EQotM6xXKB6A7dSEFzv"
       },
@@ -1331,50 +1347,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "El Mejor Regalo",
-        "url": "https://open.spotify.com/album/63FUo6H8jIIIOAAm231spd"
+        "name": "Ven Porque Te Necesito",
+        "url": "https://open.spotify.com/album/4S0KgxfZKGheQqeV11vkqX"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 163381,
-      "name": "El Mejor Regalo",
-      "url": "https://open.spotify.com/track/6KvOWCCY4MHKpeKl49AYAS"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Olv\u00eddalo",
-        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "Olv\u00eddalo",
-      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Es Mejor Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Es Mejor Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
+      "duration_ms": 185560,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/6pcm2wQRgnXeRUQWT0KPfM"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 197720,
       "name": "Amarlas Es Un Placer",
       "url": "https://open.spotify.com/track/79TGd2i6kti3xxiVP5wDWU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Es Mejor Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Es Mejor Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "La Derrota",
-        "url": "https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I"
-      },
-      "artists": [
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Ya no me importa",
         "url": "https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 174640,
       "name": "Ya no me importa",
       "url": "https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "La Derrota",
+        "url": "https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Pero Me Acuerdo de Ti",
-        "url": "https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 255759,
-      "name": "Pero Me Acuerdo de Ti",
-      "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "El Diluvio",
         "url": "https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP"
       },
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Siempre Te Voy A Recordar",
-        "url": "https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh"
+        "name": "Pero Me Acuerdo de Ti",
+        "url": "https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
         }
       ],
-      "duration_ms": 187960,
-      "name": "Siempre Te Voy A Recordar",
-      "url": "https://open.spotify.com/track/2QW4BERfECAthx967SSNy5"
+      "duration_ms": 255759,
+      "name": "Pero Me Acuerdo de Ti",
+      "url": "https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Siempre Te Voy A Recordar",
+        "url": "https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 187960,
+      "name": "Siempre Te Voy A Recordar",
+      "url": "https://open.spotify.com/track/2QW4BERfECAthx967SSNy5"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Algo Que Contar",
         "url": "https://open.spotify.com/album/5Pv9gYFl5grUjFv53YppDH"
       },
@@ -1815,22 +1815,6 @@
       "duration_ms": 154944,
       "name": "Algo Que Contar",
       "url": "https://open.spotify.com/track/4aQ2F1tvhcKYoefTiQAha0"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1851,22 +1835,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Qu\u00e9 Ganas",
-        "url": "https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv"
-      },
-      "artists": [
-        {
-          "name": "ADA OLEA",
-          "url": "https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz"
-        }
-      ],
-      "duration_ms": 188637,
-      "name": "Qu\u00e9 Ganas",
-      "url": "https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Con Permiso",
         "url": "https://open.spotify.com/album/4F1faolK6mjkIExXIH8maZ"
       },
@@ -1883,6 +1851,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Qu\u00e9 Ganas",
+        "url": "https://open.spotify.com/album/0eKAvkHF0t0nCuOrIuTlyv"
+      },
+      "artists": [
+        {
+          "name": "ADA OLEA",
+          "url": "https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz"
+        }
+      ],
+      "duration_ms": 188637,
+      "name": "Qu\u00e9 Ganas",
+      "url": "https://open.spotify.com/track/1ssx2hBmMP49NiNE6QxhQV"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Quiero Confesarte",
         "url": "https://open.spotify.com/album/6fVcCypXww1kG7sDDtqIJe"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 155365,
       "name": "Quiero Confesarte",
       "url": "https://open.spotify.com/track/3Di4B1oh9jcluoLRV2CnRU"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7mccDUNdVOGhegPqSc3hGm"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/2lSxeetRgtPeFU67Rh5IIC"
     },
     {
       "added_at": "2022-07-29 04:00:00",

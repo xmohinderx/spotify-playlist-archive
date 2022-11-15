@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 79726,
+  "num_followers": 79738,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMGEzMzNjOTMyYWIxMTNmMWQ3YzJkM2FmNzkxMjVlZGYx",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMGZiOGVjOTgwYzRkMTFlYzUzMjc4MjM4NDE2ZjJjNDky",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/25kTcpm09oAgqvPWdREsw5"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Cent\u00e9simo Humano",
         "url": "https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
+        "name": "Amor Biling\u00fce",
+        "url": "https://open.spotify.com/album/2r5lhBiWdmah14tIjGxDfg"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Ekhymosis",
+          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
         }
       ],
-      "duration_ms": 206746,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/25kTcpm09oAgqvPWdREsw5"
+      "duration_ms": 231262,
+      "name": "De Madrugada",
+      "url": "https://open.spotify.com/track/2BTIyjyThg5vaXiWBh9Vxj"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -319,22 +335,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Amor Biling\u00fce",
-        "url": "https://open.spotify.com/album/2r5lhBiWdmah14tIjGxDfg"
-      },
-      "artists": [
-        {
-          "name": "Ekhymosis",
-          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
-        }
-      ],
-      "duration_ms": 231262,
-      "name": "De Madrugada",
-      "url": "https://open.spotify.com/track/2BTIyjyThg5vaXiWBh9Vxj"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Productos Desaparecidos",
         "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
       },
@@ -351,42 +351,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Sigo",
-        "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199294,
-      "name": "Sigo",
-      "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Perro Come Perro",
-        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        },
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
-        }
-      ],
-      "duration_ms": 197334,
-      "name": "Perro Come Perro",
-      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "B (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
       },
@@ -399,6 +363,22 @@
       "duration_ms": 201853,
       "name": "Todo Va a Arder",
       "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Sigo",
+        "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 199294,
+      "name": "Sigo",
+      "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -455,6 +435,26 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Perro Come Perro",
+        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 197334,
+      "name": "Perro Come Perro",
+      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Polvo Eres",
         "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 227665,
       "name": "Emociones",
       "url": "https://open.spotify.com/track/1yDCUaF1tojw8WjZUpY0Lp"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
-      },
-      "artists": [
-        {
-          "name": "Consulado Popular",
-          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -503,18 +487,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB"
       },
       "artists": [
         {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+          "name": "Consulado Popular",
+          "url": "https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR"
         }
       ],
-      "duration_ms": 212009,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
+      "duration_ms": 191533,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -555,6 +539,22 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Hacia la Noche",
+      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Manglares (B-Sides) - EP",
         "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
       },
@@ -639,38 +655,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL"
-      },
-      "artists": [
-        {
-          "name": "Seis Peatones",
-          "url": "https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh"
-        }
-      ],
-      "duration_ms": 270687,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Hacia la Noche",
-      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Pnmt Corrosion",
         "url": "https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 215600,
       "name": "Izquierdo",
       "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/04hrxeWIyytJq6HtLXVDZL"
+      },
+      "artists": [
+        {
+          "name": "Seis Peatones",
+          "url": "https://open.spotify.com/artist/3ttS9nRJO3PdwxRlMKmFGh"
+        }
+      ],
+      "duration_ms": 270687,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0O8Hjr6LlqMVQSRE6tuSNL"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "El Pasado Fue Mejor (feat. Don Tetto)",
         "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 180880,
       "name": "El Pasado Fue Mejor (feat. Don Tetto)",
       "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Analog\u00eda de una Laguna",
-        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+        "name": "Anaranjado, Pt. 1",
+        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
       "artists": [
         {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
         }
       ],
-      "duration_ms": 210217,
-      "name": "Analog\u00eda de una Laguna",
-      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
+      "duration_ms": 276986,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -899,18 +899,34 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Anaranjado, Pt. 1",
-        "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
+        "name": "Sangre de Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
         }
       ],
-      "duration_ms": 276986,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+      "duration_ms": 211746,
+      "name": "Sangre de Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Analog\u00eda de una Laguna",
+        "url": "https://open.spotify.com/album/723DfEBve0LRScRimGdq9c"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 210217,
+      "name": "Analog\u00eda de una Laguna",
+      "url": "https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Sangre de Pr\u00f3fugo",
-        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Sangre de Pr\u00f3fugo",
-      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 179239,
       "name": "Lejos De Aqui",
       "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+      },
+      "artists": [
+        {
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+        }
+      ],
+      "duration_ms": 175724,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -995,22 +1011,6 @@
       "duration_ms": 253150,
       "name": "Pimpinella",
       "url": "https://open.spotify.com/track/2AWR5s0EOIKrmKjh77hTDF"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
     }
   ],
   "unique_name": "Rock Colombia",

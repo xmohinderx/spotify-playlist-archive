@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 598034,
+  "num_followers": 598080,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGQ4ZWRkNTVlZTNmMTg4NGJlMDYzMzlkZTkwOWY5YjU2",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGEyOTVmYjEwN2UwMGViMTdkNGNiZGI0ZGUyOGM5ZmI0",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
@@ -427,30 +427,6 @@
       "duration_ms": 242446,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 204414,
-      "name": "La Ni\u00f1a de la Escuela",
-      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -475,6 +451,30 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 204414,
+      "name": "La Ni\u00f1a de la Escuela",
+      "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "EL BARCO",
-      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Sin Pijama",
         "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Ram Pam Pam",
         "url": "https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -623,46 +603,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "fue mejor (feat. SZA)",
-        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 230964,
-      "name": "fue mejor (feat. SZA)",
-      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "ESTILAZO",
-        "url": "https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "ESTILAZO",
-      "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -679,6 +619,26 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Ay, DiOs M\u00edo!",
         "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
@@ -691,22 +651,6 @@
       "duration_ms": 189653,
       "name": "Ay, DiOs M\u00edo!",
       "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "MAFIOSA",
-        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 266217,
-      "name": "MAFIOSA",
-      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -731,6 +675,82 @@
       "duration_ms": 191250,
       "name": "WOW BB",
       "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "fue mejor (feat. SZA)",
+        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Mayores",
+        "url": "https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Mayores",
+      "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "ESTILAZO",
+        "url": "https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "ESTILAZO",
+      "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "MAFIOSA",
+        "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 266217,
+      "name": "MAFIOSA",
+      "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -783,26 +803,6 @@
       "duration_ms": 202733,
       "name": "Los Besos",
       "url": "https://open.spotify.com/track/6QSu3mgC8kUYtEDoBBQcJG"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Mayores",
-        "url": "https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Mayores",
-      "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Bella Ciao",
+        "url": "https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 160177,
+      "name": "Bella Ciao",
+      "url": "https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Las Nenas (feat. La Duraca)",
         "url": "https://open.spotify.com/album/46To3XT2EvHUnLPF08E8SI"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Minifalda",
         "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 178946,
       "name": "Minifalda",
       "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -979,22 +995,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Bella Ciao",
-        "url": "https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 160177,
-      "name": "Bella Ciao",
-      "url": "https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Sue\u00f1os de Dal\u00ed",
+        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 147083,
+      "name": "Traumada",
+      "url": "https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Kany Garc\u00eda",
         "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 233906,
       "name": "Hoy Ya Me Voy (feat. Franco de Vita)",
       "url": "https://open.spotify.com/track/7vw2L7CJS7uXSX5gOty4Nt"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Sue\u00f1os de Dal\u00ed",
-        "url": "https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 147083,
-      "name": "Traumada",
-      "url": "https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Los Consejos",
-        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "diamantes y espinas",
         "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 213920,
       "name": "algo as\u00ed",
       "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Los Consejos",
+        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Amores",
+        "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 191106,
+      "name": "Quiero Que Me Quieras",
+      "url": "https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Extranjera",
         "url": "https://open.spotify.com/album/4nw8mW9zWzm6mtD0UXeqJK"
       },
@@ -1679,38 +1695,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Amores",
-        "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 191106,
-      "name": "Quiero Que Me Quieras",
-      "url": "https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/5IHFako3q44jxyEM2CyZed"
-      },
-      "artists": [
-        {
-          "name": "Nana Mendoza",
-          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
-        }
-      ],
-      "duration_ms": 221595,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/4uLJm8nrmgjCT6ftc8GycM"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Tiempo al Viento",
         "url": "https://open.spotify.com/album/6dkswbCeR0hMDIc1Szi8eK"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 187546,
       "name": "Tiempo al Viento",
       "url": "https://open.spotify.com/track/36Tj1v1i7rzdMPOm59mC0l"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/5IHFako3q44jxyEM2CyZed"
+      },
+      "artists": [
+        {
+          "name": "Nana Mendoza",
+          "url": "https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA"
+        }
+      ],
+      "duration_ms": 221595,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/4uLJm8nrmgjCT6ftc8GycM"
     },
     {
       "added_at": "2022-08-31 07:13:59",

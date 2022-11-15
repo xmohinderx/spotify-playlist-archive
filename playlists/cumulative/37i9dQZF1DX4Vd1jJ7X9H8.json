@@ -393,6 +393,28 @@
     {
       "album": {
         "name": "By Your Side",
+        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
+      },
+      "artists": [
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        },
+        {
+          "name": "Irfane",
+          "url": "https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV"
+    },
+    {
+      "album": {
+        "name": "By Your Side",
         "url": "https://open.spotify.com/album/5i0gpUvEkQtwHWVkqh7MZK"
       },
       "artists": [
@@ -403,7 +425,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 215786,
       "name": "Baby I'm Yours - feat. Irfrane",
       "url": "https://open.spotify.com/track/7oGwQOTkMB9Sk3DIKJLd5F"

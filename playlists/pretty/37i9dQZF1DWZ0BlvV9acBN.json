@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 108775,
+  "num_followers": 108813,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDRmZTIwMDRjNmEwZDMzNzFhZjllMmE2ODNlOWE1ZTlh",
+  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDEyMTBiZTI3NmFlMGNlZTVjOTI1YTNmZjMwMWNmNWE0",
   "tracks": [
     {
       "added_at": "2022-10-14 14:07:40",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Ele \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 382608,
-      "name": "OH! Se Fendesses - Ao Vivo",
-      "url": "https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "De Malas Prontas",
         "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 394353,
       "name": "De Malas Prontas",
       "url": "https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 382608,
+      "name": "OH! Se Fendesses - Ao Vivo",
+      "url": "https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -223,26 +223,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Tudo Fica Bem",
-        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Tudo Fica Bem",
-      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Retrato",
         "url": "https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8"
       },
@@ -275,22 +255,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Lembre-se 80's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Baile das M\u00e1scaras",
         "url": "https://open.spotify.com/album/2DXK8ESfAJ14eUn2NZ3l3t"
       },
@@ -303,6 +267,26 @@
       "duration_ms": 215754,
       "name": "Baile das M\u00e1scaras",
       "url": "https://open.spotify.com/track/5IGQBVvlJrovuvK6LxuwO0"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Tudo Fica Bem",
+        "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Tudo Fica Bem",
+      "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -347,6 +331,22 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
+        "name": "Lembre-se 80's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -359,54 +359,6 @@
       "duration_ms": 341789,
       "name": "Eu Vou Amanhecer - Ao Vivo",
       "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Luz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 220128,
-      "name": "Luz - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Lembre-se 80's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder - Ao Vivo",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Mauro",
-        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 250475,
-      "name": "Escolho Ser Fiel",
-      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -431,18 +383,34 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+        "name": "Mauro",
+        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+      "duration_ms": 250475,
+      "name": "Escolho Ser Fiel",
+      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Luz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1TXYUnt8wrLDvKfROV0bxF"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 220128,
+      "name": "Luz - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JMaIeyJ1Fa4ASLJCZRW6i"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -459,38 +427,6 @@
       "duration_ms": 380250,
       "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
       "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Lembre-se 90's (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
-      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 403932,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -527,6 +463,38 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Lembre-se 80's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
         "name": "Mente Brilhante",
         "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
@@ -559,6 +527,38 @@
       "duration_ms": 219513,
       "name": "Quando Isso Passar",
       "url": "https://open.spotify.com/track/2hD21MSLIAwxupDM0LhedM"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 403932,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
+        "name": "Lembre-se 90's (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
         "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 274005,
       "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+      "duration_ms": 261500,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Cad\u00ea o Amor",
-        "url": "https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3"
-      },
-      "artists": [
-        {
-          "name": "Rozeniltton",
-          "url": "https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 273362,
-      "name": "Cad\u00ea o Amor",
-      "url": "https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 353791,
       "name": "Hoje Tem Cor",
       "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Cad\u00ea o Amor",
+        "url": "https://open.spotify.com/album/6rMHFQzDWTR36LTwAaJXG3"
+      },
+      "artists": [
+        {
+          "name": "Rozeniltton",
+          "url": "https://open.spotify.com/artist/0ZYS2lwZJgVcrsDeCgtOIS"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 273362,
+      "name": "Cad\u00ea o Amor",
+      "url": "https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
         "name": "Recome\u00e7o",
         "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 173026,
       "name": "Meu Valor",
       "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Tudo Muda Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/72sIaqNgznTJCbLOSXMncf"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/7p7x7OL8D73ujzsNHF7jHR"
-        }
-      ],
-      "duration_ms": 216427,
-      "name": "Tudo Muda Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Trindade",
         "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 769852,
       "name": "Trindade",
       "url": "https://open.spotify.com/track/3rtLD5pPNKASw1t4MRnIW3"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Tudo Muda Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/72sIaqNgznTJCbLOSXMncf"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/7p7x7OL8D73ujzsNHF7jHR"
+        }
+      ],
+      "duration_ms": 216427,
+      "name": "Tudo Muda Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/63bD9D793ZOOHhFbf0Ot96"
     },
     {
       "added_at": "2022-10-14 14:07:40",

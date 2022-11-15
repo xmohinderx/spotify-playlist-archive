@@ -243,6 +243,24 @@
     {
       "album": {
         "name": "Eleven Eleven",
+        "url": "https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98746,
+      "name": "Gimme Something",
+      "url": "https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37"
+    },
+    {
+      "album": {
+        "name": "Eleven Eleven",
         "url": "https://open.spotify.com/album/3PJteMhucKgoqwI5D9Xh4u"
       },
       "artists": [
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 98746,
       "name": "Gimme Something",
       "url": "https://open.spotify.com/track/3FL68SOwNkA0InUiFOY4GG"

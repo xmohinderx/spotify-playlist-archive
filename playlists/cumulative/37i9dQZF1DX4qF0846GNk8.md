@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر!  <br/> الغلاف: عصام صاصا
 
-111 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
+112 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/6wRFf7uC9LQg9LaJkbdbju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-16 |  |
 | [Lama Bagy](https://open.spotify.com/track/52APJS24l96Jn7AJHrkSWh) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Lama Bagy](https://open.spotify.com/album/11ub4kmdxgA8bSu7MfRco9) | 1:50 | 2022-09-20 | 2022-10-17 |
 | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/track/6cTjz8NSpckBwPwSmrILZd) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Mahragan Ana 3amk \( El Wa7sh Galko \)](https://open.spotify.com/album/4kiupm5N7gg9BD22G03eVC) | 3:29 | 2022-10-24 |  |
+| [On Fire](https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [On Fire](https://open.spotify.com/album/5slczLOKT1ESCYUN6CNBQc) | 2:37 | 2022-11-14 |  |
 | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [Salamat Ala Nas Amaloly Ekhwat](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 | 2022-07-19 |  |
 | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/album/3Ou7kxBQqBBdxQHMXLFGgL) | 4:34 | 2021-12-16 | 2022-07-29 |
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-16 |  |
@@ -57,7 +58,7 @@
 | [خصمي بكيفه مكتفه \- انا مش بتكسف يا ابلتي](https://open.spotify.com/track/3Kroxt7mnIUfSDFGpWF5yJ) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [خصمي بكيفه مكتفه \(انا مش بتكسف يا ابلتي\)](https://open.spotify.com/album/369scONG77YROb5sy7AnTt) | 4:33 | 2022-03-30 | 2022-06-03 |
 | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/track/1C6pNXiVfcKO49JttTv0xJ) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [خطر \(ياللي سيرتي تعباك\)](https://open.spotify.com/album/6nXBRUkDo8ttEm2DItn3sY) | 4:00 | 2021-12-16 |  |
 | [خطوة اجباري](https://open.spotify.com/track/06h6dQDVdXjnIOXGXabW02) | [نور النبوي](https://open.spotify.com/artist/2lvyyBvz0mMzl57uxbzQ15), [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [خطوة اجباري](https://open.spotify.com/album/74il7VqlKq7JEM1oiTrIm5) | 1:50 | 2022-06-06 |  |
-| [ريموت التلفزيون](https://open.spotify.com/track/5pRjLuLXO60pawAqCspZWD) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA), [سامر المدني](https://open.spotify.com/artist/54C1fQ9Rt2FqXgr2hd0bxJ) | [ريموت التلفزيون](https://open.spotify.com/album/0aGaB56SqGQioDn1AvxDbR) | 2:28 | 2022-10-16 |  |
+| [ريموت التلفزيون](https://open.spotify.com/track/5pRjLuLXO60pawAqCspZWD) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA), [سامر المدني](https://open.spotify.com/artist/54C1fQ9Rt2FqXgr2hd0bxJ) | [ريموت التلفزيون](https://open.spotify.com/album/0aGaB56SqGQioDn1AvxDbR) | 2:28 | 2022-10-16 | 2022-11-15 |
 | [ريموت التلفيزيون \- امسكو وانا هعمل اعمى](https://open.spotify.com/track/7DUPgXQK4NvmRrPFlVhfx2) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [ريموت التلفيزيون \(امسكو وانا هعمل اعمى\)](https://open.spotify.com/album/4ayeNoazhIEgP5drJ1Dl5P) | 3:09 | 2022-07-19 |  |
 | [شقطت منك حبيبتك ياعم](https://open.spotify.com/track/1BApx7glGPbKRZ4Tqomd2f) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [شقطت منك حبيبتك ياعم](https://open.spotify.com/album/7qWys684xM31U3iRKfQKyl) | 6:02 | 2021-12-16 | 2022-06-10 |
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [يوسف سوسته](https://open.spotify.com/artist/5jpOJNLKX0WO5HD5Ku8FiD) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-16 | 2022-07-20 |

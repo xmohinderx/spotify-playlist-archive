@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 230860,
       "name": "3inehom Mesawsa",
       "url": "https://open.spotify.com/track/1jlbsu52lXFfz9rE6VWwId"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 302307,
       "name": "Amour \u00e9ternel",
       "url": "https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 264554,
       "name": "Bagi Nwali Milliardaire",
       "url": "https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 329430,
       "name": "Bye Bye lmiziria",
       "url": "https://open.spotify.com/track/3KjVFfbEZPUj1076iJHdLA"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 392521,
       "name": "Cha3ra Wendir Avc",
       "url": "https://open.spotify.com/track/4212sW8gzoojsEClN5LI8L"
@@ -666,6 +666,24 @@
     },
     {
       "album": {
+        "name": "Galbek Hnin",
+        "url": "https://open.spotify.com/album/1MOev2y0PJadIp52sXjwW2"
+      },
+      "artists": [
+        {
+          "name": "Cheb Momo",
+          "url": "https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240096,
+      "name": "Galbek Hnin",
+      "url": "https://open.spotify.com/track/4KDcEc96txreeEubzdDPbD"
+    },
+    {
+      "album": {
         "name": "Ghazali",
         "url": "https://open.spotify.com/album/1BD51EjGSTPgMyfQoA6VwG"
       },
@@ -774,6 +792,28 @@
     },
     {
       "album": {
+        "name": "Haki Swalhek Haki",
+        "url": "https://open.spotify.com/album/7BsoFUPCQRWcLKOtZ63XND"
+      },
+      "artists": [
+        {
+          "name": "Cheb Mourad",
+          "url": "https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs"
+        },
+        {
+          "name": "DJ ILyas",
+          "url": "https://open.spotify.com/artist/0I1NTt5GRa9pE7jT3q1KmP"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204695,
+      "name": "Haki Swalhek Haki",
+      "url": "https://open.spotify.com/track/16ggzT3QSUDvyU2ZIC7W9z"
+    },
+    {
+      "album": {
         "name": "Harb Ahlia",
         "url": "https://open.spotify.com/album/0rwO5csrugYNREOZya0waC"
       },
@@ -785,7 +825,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 212939,
       "name": "Harb Ahlia",
       "url": "https://open.spotify.com/track/51ma99eBjCpUuDJeIquhgX"
@@ -843,7 +883,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 266008,
       "name": "Homa Dayrine Haka",
       "url": "https://open.spotify.com/track/3I3ZjOzrVyyF3OS4MvOyy7"
@@ -879,7 +919,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 480679,
       "name": "Jabetli Ljah",
       "url": "https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j"
@@ -915,7 +955,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 281257,
       "name": "Jarima Iliktrouniya",
       "url": "https://open.spotify.com/track/20tf9xOw4V0y0wHgoLfTE7"
@@ -969,7 +1009,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 308006,
       "name": "Khada3a Sp\u00e9cialiste",
       "url": "https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg"
@@ -1049,7 +1089,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 257584,
       "name": "Khrajtili Contra",
       "url": "https://open.spotify.com/track/3E57drIDddFObDyBhY057V"
@@ -1195,6 +1235,24 @@
       "duration_ms": 339010,
       "name": "Lokan jiti mra msagma",
       "url": "https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi"
+    },
+    {
+      "album": {
+        "name": "M3aya Makmltiche",
+        "url": "https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI"
+      },
+      "artists": [
+        {
+          "name": "Bilal Sghir",
+          "url": "https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309923,
+      "name": "M3aya Makmltiche",
+      "url": "https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC"
     },
     {
       "album": {
@@ -1457,7 +1515,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 306432,
       "name": "Manich Adouk",
       "url": "https://open.spotify.com/track/0LFZgd1oDmLTDJMFXfICTZ"
@@ -1482,6 +1540,24 @@
     },
     {
       "album": {
+        "name": "Cheb Bello",
+        "url": "https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0"
+      },
+      "artists": [
+        {
+          "name": "Cheb Bello",
+          "url": "https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345697,
+      "name": "Manich Kima Bakri",
+      "url": "https://open.spotify.com/track/5dlisfuyJayuJXCDMEeov3"
+    },
+    {
+      "album": {
         "name": "Maniche Ghaya",
         "url": "https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o"
       },
@@ -1493,7 +1569,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 282749,
       "name": "Maniche Ghaya",
       "url": "https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B"
@@ -1663,7 +1739,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 298032,
       "name": "Nakareen El Khir",
       "url": "https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36"
@@ -1735,7 +1811,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 265500,
       "name": "Nti Daout El Kheir",
       "url": "https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6"
@@ -1847,7 +1923,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 323893,
       "name": "Tmanit El Mout",
       "url": "https://open.spotify.com/track/5NCwmr04Im459JN0IoODsP"
@@ -1901,7 +1977,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 278100,
       "name": "Twahachtek Omri",
       "url": "https://open.spotify.com/track/1QcJ7OsYeuhFsCzKyy1j4L"
@@ -2078,6 +2154,28 @@
     },
     {
       "album": {
+        "name": "\u062f\u064a\u0631\u0648\u0644\u0648 \u0627\u0644\u062d\u0646\u0629",
+        "url": "https://open.spotify.com/album/0ubTeMJ7J02UwlDY51oT4C"
+      },
+      "artists": [
+        {
+          "name": "Cheb Mehdi",
+          "url": "https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE"
+        },
+        {
+          "name": "DJ Ismail Bba",
+          "url": "https://open.spotify.com/artist/6CSGZBcKW5hL7rkJzMuFge"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386264,
+      "name": "\u062f\u064a\u0631\u0648\u0644\u0648 \u0627\u0644\u062d\u0646\u0629",
+      "url": "https://open.spotify.com/track/7ylB5uC2u03oOIdt7ssFhy"
+    },
+    {
+      "album": {
         "name": "\u0631\u0627\u0646\u064a \u0639\u0644\u064a\u0643\u0645 \u0646\u0645\u0639\u0646\u064a",
         "url": "https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ"
       },
@@ -2107,7 +2205,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 241110,
       "name": "\u0631\u0648\u062d\u0648 \u0644\u064a\u0647\u0627 \u0641\u064a\u062a \u0634\u0627\u0628 \u0639\u0628\u0627\u0633",
       "url": "https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi"

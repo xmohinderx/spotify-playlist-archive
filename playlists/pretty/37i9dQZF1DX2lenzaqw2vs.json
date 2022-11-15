@@ -1,12 +1,12 @@
 {
   "description": "LGBTQ+ artists and allies join this fiesta. \nCover: Nicole Zignago",
-  "num_followers": 123886,
+  "num_followers": 123887,
   "original_name": "Latin Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGY1ZGI4ZDE4MjFhMTlhNmI4NGU2YjI4M2I3NzkxODYw",
+  "snapshot_id": "MTY1NzA0ODgwNCwwMDAwMDAwMGFkMWMwYmE1YTc3Y2I0NTkxZmZkNDQ2YTNlN2Y5MGIx",
   "tracks": [
     {
       "added_at": "2022-07-05 19:20:04",
@@ -191,6 +191,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 339611,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "LA COMBI VERSACE",
-      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -319,22 +299,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Agosto",
-      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Sin Pijama",
         "url": "https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB"
       },
@@ -351,6 +315,26 @@
       "duration_ms": 188560,
       "name": "Sin Pijama",
       "url": "https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "LA COMBI VERSACE",
+      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -507,6 +491,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "El Disco de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 172127,
-      "name": "Yo Perreo Sola",
-      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "fue mejor (feat. SZA)",
         "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
@@ -651,6 +635,38 @@
       "duration_ms": 158826,
       "name": "ESTILAZO",
       "url": "https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -703,22 +719,6 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 157248,
-      "name": "B\u00fascame",
-      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Descanso Dominical (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
       },
@@ -883,18 +863,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Paradinha",
-        "url": "https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa"
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 141316,
-      "name": "Paradinha",
-      "url": "https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs"
+      "duration_ms": 157248,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/05Qmn8QFzBhRNzSvgBP3YF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -911,6 +895,22 @@
       "duration_ms": 252221,
       "name": "Castillos de arena",
       "url": "https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Paradinha",
+        "url": "https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 141316,
+      "name": "Paradinha",
+      "url": "https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Amo",
+        "url": "https://open.spotify.com/album/1PdnW5psXz3OJuQviWMTjb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 236293,
+      "name": "Libre ya de amores",
+      "url": "https://open.spotify.com/track/3mNK26y57iajGgBnyvzJgp"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7wQzePffBw59BtLjJULfel"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Amo",
-        "url": "https://open.spotify.com/album/1PdnW5psXz3OJuQviWMTjb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 236293,
-      "name": "Libre ya de amores",
-      "url": "https://open.spotify.com/track/3mNK26y57iajGgBnyvzJgp"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Tiburones (Remix)",
         "url": "https://open.spotify.com/album/6DA3B00tS2tz6kaSlxyjrK"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 209373,
       "name": "Tiburones - Remix",
       "url": "https://open.spotify.com/track/73HSOVmGMA0Qfo4ujlM1GF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173255,
-      "name": "I'd Rather Have Sex",
-      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173255,
+      "name": "I'd Rather Have Sex",
+      "url": "https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Eternamente Bella",
         "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 255506,
       "name": "Plata Ta T\u00e1",
       "url": "https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "50ft.",
-        "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 185910,
-      "name": "50ft.",
-      "url": "https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "50ft.",
+        "url": "https://open.spotify.com/album/029JHv262PSXojxqywHDwr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 185910,
+      "name": "50ft.",
+      "url": "https://open.spotify.com/track/1wiphSU5URcMkpMoGK5mFO"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Mar",
         "url": "https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2"
       },
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Brabo",
-          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
-        }
-      ],
-      "duration_ms": 174988,
-      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
-      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -1403,6 +1379,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 237365,
+      "name": "Amar As\u00ed",
+      "url": "https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1423,34 +1415,26 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Monstruo",
-        "url": "https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt"
+        "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+        "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 154013,
-      "name": "Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/465cCQFJkrfroDREqB7sej"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB"
-      },
-      "artists": [
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        },
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Brabo",
+          "url": "https://open.spotify.com/artist/5K5J6RbtOXM5E39QQLhNKT"
         }
       ],
-      "duration_ms": 237365,
-      "name": "Amar As\u00ed",
-      "url": "https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C"
+      "duration_ms": 174988,
+      "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
+      "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Puerto Rican Mami",
-        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Puerto Rican Mami",
-      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -1503,6 +1471,38 @@
       "duration_ms": 180400,
       "name": "Me, Myself",
       "url": "https://open.spotify.com/track/3GCPuPA5qv2kjLw0PAVgQH"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Puerto Rican Mami",
+        "url": "https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Puerto Rican Mami",
+      "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "Monstruo",
+        "url": "https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 154013,
+      "name": "Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/465cCQFJkrfroDREqB7sej"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "HUGITO",
-        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
-      },
-      "artists": [
-        {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "VA HABLAR",
-      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
-    },
-    {
-      "added_at": "2022-07-05 19:20:04",
-      "album": {
         "name": "Toy en la calle 90'",
         "url": "https://open.spotify.com/album/6Ma1rCv2N5w2DpQ7IKxq0s"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 211111,
       "name": "Shake Me",
       "url": "https://open.spotify.com/track/3HHjh2PfayANYTxbrFOaM0"
+    },
+    {
+      "added_at": "2022-07-05 19:20:04",
+      "album": {
+        "name": "HUGITO",
+        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+      },
+      "artists": [
+        {
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "VA HABLAR",
+      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2351,22 +2351,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "TODOELORO",
-        "url": "https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV"
+        "name": "Como un Drag\u00f3n",
+        "url": "https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc"
       },
       "artists": [
         {
-          "name": "Frank Lucas",
-          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
         }
       ],
-      "duration_ms": 171500,
-      "name": "TODOELORO",
-      "url": "https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY"
+      "duration_ms": 168734,
+      "name": "Como un Drag\u00f3n",
+      "url": "https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2387,18 +2383,22 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Como un Drag\u00f3n",
-        "url": "https://open.spotify.com/album/47LV3jJu8o4ae64QMQRCpc"
+        "name": "TODOELORO",
+        "url": "https://open.spotify.com/album/0EZYcrne4QFOaWsoJlBICV"
       },
       "artists": [
         {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 168734,
-      "name": "Como un Drag\u00f3n",
-      "url": "https://open.spotify.com/track/1dqOeCbuvkeLltsLEsrCdM"
+      "duration_ms": 171500,
+      "name": "TODOELORO",
+      "url": "https://open.spotify.com/track/1aqCFWZIR1i8AMh5mpUNLY"
     },
     {
       "added_at": "2022-07-05 19:20:04",
@@ -2591,26 +2591,18 @@
     {
       "added_at": "2022-07-05 19:20:04",
       "album": {
-        "name": "Feeling Good (Pauza Remix)",
-        "url": "https://open.spotify.com/album/7EOBTLrvjTNFnD5Oil88v1"
+        "name": "Shutup",
+        "url": "https://open.spotify.com/album/6DkNaHrTgYNr6WJqTWHOb4"
       },
       "artists": [
         {
-          "name": "The Angels",
-          "url": "https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz"
-        },
-        {
-          "name": "Shrii",
-          "url": "https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo"
-        },
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+          "name": "LoMaasBello",
+          "url": "https://open.spotify.com/artist/4q1yvWG9gjwwUM0Z51sIMK"
         }
       ],
-      "duration_ms": 326557,
-      "name": "Feeling Good - PAUZA Remix",
-      "url": "https://open.spotify.com/track/0IRwdJpyUYeBdn3DGJHkF5"
+      "duration_ms": 192941,
+      "name": "Shutup",
+      "url": "https://open.spotify.com/track/4teYxzh9n4jVpwzL9EQlp2"
     }
   ],
   "unique_name": "Latin Pride",

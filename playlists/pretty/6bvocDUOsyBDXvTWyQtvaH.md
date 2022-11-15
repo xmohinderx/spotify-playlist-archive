@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 
 > Lo\-Fi, Beats, for Study and Focus..\. but around the Holidays.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,809 likes - 28 songs - 1 hr 13 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 5,811 likes - 28 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/6bvocDUOsyBDXvTWyQtvaH.md) - [plain]
 | 27 | [Nujabes Christmas Party](https://open.spotify.com/track/5y11yVtii5tzfBRbgcc8fs) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [The Engelwood Christmas Special Rewrapped](https://open.spotify.com/album/0bfOqXk3H5wqzpBizvUhRG) | 1:37 |
 | 28 | [Dear Santa Claus](https://open.spotify.com/track/4vhAcTSD4Cw8vXjtxcmuzB) | [Stapes](https://open.spotify.com/artist/4ON4zcOAOAY55jGZUEb1Wb) | [A Lofi Jazz Christmas](https://open.spotify.com/album/0R5QjKFNUVGMjeH4YIUVca) | 2:16 |
 
-Snapshot ID: `MTA4NSxlOGQyZWIyOTIyODAwNzA4YzU3NzJiOTBlYzAzNmE5MGQ2Y2JmY2Zl`
+Snapshot ID: `MTA4Nyw4NzhjZmNjZTU3MDA3Yjg2YjlkMzVlMTEzOWUzNjA5OWI3NzM5Nzgx`

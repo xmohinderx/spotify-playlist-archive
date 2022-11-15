@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,641 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,647 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 31 | [See Me](https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7) | [Small Doctor](https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See Me](https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq) | 2:59 |
 | 32 | [Sekkle & Bop \(feat\. Popcaan\)](https://open.spotify.com/track/6MNFebzmVKDYvgjxSQcAfq) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dre Skull](https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Sekkle & Bop](https://open.spotify.com/album/36cRjKRxYLQlSbenG5wuej) | 2:36 |
 | 33 | [Tall Shade](https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Tall Shade](https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS) | 2:59 |
-| 34 | [Fààjí](https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fààjí](https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt) | 2:29 |
-| 35 | [Tony Montana](https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tony Montana](https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL) | 2:33 |
+| 34 | [Tony Montana](https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tony Montana](https://open.spotify.com/album/1lntDqc2Wxb1iRERQIzYaL) | 2:33 |
+| 35 | [Fààjí](https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fààjí](https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt) | 2:29 |
 | 36 | [Oh My Gawd \(feat\. Nicki Minaj & K4mo\)](https://open.spotify.com/track/5CHXbSS76okOT6NeuEY9gr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd \(feat\. Nicki Minaj & K4mo\)](https://open.spotify.com/album/2zTCpBjXqGaZwwdSCSXc2R) | 3:00 |
 | 37 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
 | 38 | [Going Out Of My Way](https://open.spotify.com/track/0neHNQl5W4XqAarFxCnni7) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Abracadabra](https://open.spotify.com/track/1Jrrjn30MNNzetRHTwGxvw) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Abracadabra](https://open.spotify.com/album/5XasIPDB4ageL0kjrEukzE) | 3:15 |
 | 50 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 |
 
-Snapshot ID: `Mjc4MDU5MDcsMDAwMDAwMDA1MTljYTJiZWNmOGJiM2ZiNjVkMDFlOTE3NDNhNzg5MA==`
+Snapshot ID: `Mjc4MDcyMjcsMDAwMDAwMDA3OWNlZGZjMTZhN2M3MDE5MzAxZDEwYjEyMjg2ZjdlYg==`

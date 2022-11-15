@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: skaiwater.
 
-185 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+186 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Hula Hoop](https://open.spotify.com/track/6GvqVPaFlnIR1FMaBJrKk9) | [Brenmar](https://open.spotify.com/artist/713RoDl16muftBPRdCXGAX), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Award](https://open.spotify.com/album/577KGCdAfnAoAIu4MBUb3V) | 3:46 | 2022-03-18 | 2022-11-09 |
 | [I Need You, Pt\. 2](https://open.spotify.com/track/2TII48JCtfW8JNfsVMP0yJ) | [Quilll](https://open.spotify.com/artist/0ybxWFFP0ce6hKr8FODFk8) | [I Need You, Pt\. 2](https://open.spotify.com/album/6zrBRU2V83i49vC0850xdT) | 1:51 | 2022-02-11 | 2022-07-28 |
 | [I Want You \- DJ Sliink Remix](https://open.spotify.com/track/34i6YUs9Lh4pgj8IeMgcyI) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [I Want You vs\. Operator Remixes](https://open.spotify.com/album/1yjzstFXwiy1XDvaYdvz5y) | 2:59 | 2022-02-11 | 2022-07-13 |
-| [I'm A Feak \- Original Mix](https://open.spotify.com/track/36R18vBB91woI7YHbEykdF) | [ClubHeadSLiiM](https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk) | [New Jersey Club vol.2](https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW) | 2:44 | 2022-02-11 |  |
+| [I'm A Feak \- Original Mix](https://open.spotify.com/track/36R18vBB91woI7YHbEykdF) | [ClubHeadSLiiM](https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk) | [New Jersey Club vol.2](https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW) | 2:44 | 2022-02-11 | 2022-11-15 |
 | [Imma Bounce It](https://open.spotify.com/track/2cKjkMNv4VRvL6kC77OTP7) | [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G), [Lila Simone](https://open.spotify.com/artist/2pQyFVF2MBx5bb2MmWZSXv) | [Holla At Me Like, Vol\. 2](https://open.spotify.com/album/0Wfl2JP1WIs2Bp0Rmc5ZsW) | 2:43 | 2022-02-11 | 2022-07-29 |
 | [In Lavonnah We Trust](https://open.spotify.com/track/0OU6IIg55B0t3GEl3eGWpN) | [Dj L\-Banga](https://open.spotify.com/artist/5CRIOUlKKUQpcdHXgv91dK), [DopeGrlBaby](https://open.spotify.com/artist/5v8wqAY6LGOMBeO9m62bqk) | [In Lavonnah We Trust](https://open.spotify.com/album/3VA3bcBKuI7Pnww08U4AP9) | 1:16 | 2022-02-11 | 2022-07-29 |
 | [Jersey](https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Jersey](https://open.spotify.com/album/5EnJvSStUdPIIARqHW0LAG) | 2:23 | 2022-02-11 | 2022-07-28 |
@@ -193,5 +193,6 @@
 | [When We Vibe \- DeFalco Remix](https://open.spotify.com/track/59IH8DOmxiE2bfMl4SBVAv) | [Noa James](https://open.spotify.com/artist/03lFyWOEdgNdHvpdxZbfC6), [Eugene O'Neil](https://open.spotify.com/artist/6KwtNpi7qRdWa0TR2S6HUW) | [When We Vibe \(DeFalco Remix\)](https://open.spotify.com/album/3tHIvRqrICU2PBLQnaRIpB) | 2:28 | 2022-02-11 | 2022-07-29 |
 | [WHO YOU TOUCH](https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Face of the What](https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL) | 1:48 | 2022-09-16 |  |
 | [Why You Think You're Fierce \- Original Mix](https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 2:11 | 2022-02-11 |  |
+| [World Cup](https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb) | [World Cup](https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE) | 4:16 | 2022-11-14 |  |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1095908,
+  "num_followers": 1096274,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDBkZmQxNDRkYzVjMGY3ZmE0NTRjM2IxNWMzOThjN2Nl",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDg1YmE0MTc5OTUwNWVmYzNhNDc0ZjRiZjkyN2Y1NTI2",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
@@ -123,18 +139,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -155,50 +171,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+        "name": "Use Your Illusion II",
+        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 269973,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
+      "duration_ms": 336000,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -215,6 +199,38 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -251,18 +267,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Come What(ever) May [10th Anniversary Edition]",
-        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
       "artists": [
         {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 282946,
-      "name": "Through Glass",
-      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
+      "duration_ms": 354880,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -283,18 +299,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Use Your Illusion II",
-        "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
+        "name": "Come What(ever) May [10th Anniversary Edition]",
+        "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr"
+      "duration_ms": 282946,
+      "name": "Through Glass",
+      "url": "https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -395,18 +411,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Appetite For Destruction (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 354880,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
+      "duration_ms": 210480,
+      "name": "To Be With You - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -423,22 +439,6 @@
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "To Be With You - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "Fade To Black (Remastered)",
+      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Stone Sour",
         "url": "https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 308906,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "Fade To Black (Remastered)",
-      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 334066,
       "name": "Seize the Day",
       "url": "https://open.spotify.com/track/7HKRWMTErKh56EIBeFcmdf"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 275212,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/57nTFMsSiVATCDPZm9JF4S"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 265160,
       "name": "You're All I Need",
       "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/57nTFMsSiVATCDPZm9JF4S"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -875,6 +891,22 @@
       "duration_ms": 231118,
       "name": "Under Your Scars",
       "url": "https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -911,54 +943,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Balls To Picasso (2001 Remastered Version)",
         "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 266728,
-      "name": "Too Late For Love",
-      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 266728,
+      "name": "Too Late For Love",
+      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Kiss of Death",
         "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
       },
@@ -1099,38 +1099,6 @@
       "duration_ms": 261186,
       "name": "God Was Never on Your Side",
       "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Stained Class",
-        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 409800,
-      "name": "Beyond the Realms of Death",
-      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Have You Ever Needed Someone So Bad",
-      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1151,18 +1119,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Rock And Roll Over",
-        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+        "name": "Stained Class",
+        "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Hard Luck Woman",
-      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
+      "duration_ms": 409800,
+      "name": "Beyond the Realms of Death",
+      "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1199,6 +1167,38 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 324026,
+      "name": "Have You Ever Needed Someone So Bad",
+      "url": "https://open.spotify.com/track/0nf9RjoFTcOzTIXtmzhRuH"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Rock And Roll Over",
+        "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Hard Luck Woman",
+      "url": "https://open.spotify.com/track/1vcZBUX6P6FHXzG2mUfmCE"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Karmacode",
         "url": "https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT"
       },
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Evolution (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "A Reason to Fight",
-      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 348800,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Evolution (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "A Reason to Fight",
+      "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria - Remastered 2017",
-      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 214373,
       "name": "I Won't Forget You - Remastered",
       "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria - Remastered 2017",
+      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Ohne dich",
-      "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Deadwing",
         "url": "https://open.spotify.com/album/2oQE67Gnc1GoMqoumvjPwN"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 258586,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/0OtXJQBLb7wPXL2XyN2cFW"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 271173,
+      "name": "Ohne dich",
+      "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Contraband",
         "url": "https://open.spotify.com/album/5pJSDIgzal89ksQUzcGGFE"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 271440,
       "name": "Fall to Pieces",
       "url": "https://open.spotify.com/track/4A9O9e4iTm4bYnOPSzWaGb"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
     },
     {
       "added_at": "2022-04-15 17:44:09",

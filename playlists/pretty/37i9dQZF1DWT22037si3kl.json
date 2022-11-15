@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Druhh e Drehh",
-  "num_followers": 66750,
+  "num_followers": 66883,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDAwYzU4MGMyZTBlNWE2Mjk4YmVjZGVhOTllNjhmMTc3",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDU4Zjk4ODZkZTg2YzUxZTBiMjE4YzA3NTVhNGYxM2Uw",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -223,26 +223,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Balmain",
-        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Balmain",
-      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "N\u00c9 SEGREDO",
         "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 155771,
       "name": "N\u00c9 SEGREDO",
       "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
+      },
+      "artists": [
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Progresso",
-        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
+        "name": "Facilitei",
+        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
       },
       "artists": [
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 161311,
-      "name": "Progresso",
-      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
+      "duration_ms": 212000,
+      "name": "Facilitei",
+      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -819,22 +823,18 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Facilitei",
-        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
+        "name": "Progresso",
+        "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Facilitei",
-      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
+      "duration_ms": 161311,
+      "name": "Progresso",
+      "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
     },
     {
       "added_at": "2022-11-11 03:01:00",

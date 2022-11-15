@@ -9686,6 +9686,24 @@
     },
     {
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/4gQHDKTolva19r36snfw8T"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127231,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/6excfi52hCKksRlRt55VH2"
+    },
+    {
+      "album": {
         "name": "Motorola Era",
         "url": "https://open.spotify.com/album/64fJWEf59MjKIvSHdZFhni"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 57192,
+  "num_followers": 57242,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMDRlZGE1N2RlNDdmYzVhOGJkOTMxNDFkYThiZGMzYTYy",
+  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMGQzNmY1MTUzNjIxOTkxOTNlOWM2MzQyNzZhOTExY2U3",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "4 Canciones",
         "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
@@ -227,6 +227,38 @@
       "duration_ms": 254840,
       "name": "No Puedo Vivir Sin Ti",
       "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Por la Raja de Tu Falda",
+      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -255,34 +287,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+        "name": "Caja de Canciones",
+        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
       },
       "artists": [
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Por la Raja de Tu Falda",
-      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+      "duration_ms": 225813,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -299,22 +315,6 @@
       "duration_ms": 191586,
       "name": "Lady Madrid",
       "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Caja de Canciones",
-        "url": "https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Una Peque\u00f1a Parte Del Mundo",
+        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "C\u00f3mo hablar",
+      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Las 100 mejores canciones del Pop Espa\u00f1ol, Vol. 3",
         "url": "https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Una Peque\u00f1a Parte Del Mundo",
-        "url": "https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT"
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
       },
       "artists": [
         {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 241266,
-      "name": "C\u00f3mo hablar",
-      "url": "https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE"
+      "duration_ms": 251453,
+      "name": "Sincericidio",
+      "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -555,22 +571,6 @@
       "duration_ms": 192757,
       "name": "La quiero a morir",
       "url": "https://open.spotify.com/track/7rSBUr661iFb9ndIJS0xUR"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "Sincericidio",
-      "url": "https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
-        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
-      },
-      "artists": [
-        {
-          "name": "Los Delinquentes",
-          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "A la luz del Lorenzo",
-      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 219813,
       "name": "El talism\u00e1n",
       "url": "https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
+        "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
+      },
+      "artists": [
+        {
+          "name": "Los Delinquentes",
+          "url": "https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd"
+        }
+      ],
+      "duration_ms": 251720,
+      "name": "A la luz del Lorenzo",
+      "url": "https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "De Ley",
+        "url": "https://open.spotify.com/album/3ZzjYCQIk6eQKdcIllvk05"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 263840,
+      "name": "Sabor, Sabor",
+      "url": "https://open.spotify.com/track/4zMJYmYSTZBNn1YdZVznSS"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "25 a\u00f1os de agropop",
         "url": "https://open.spotify.com/album/7cRpRaqiri5rQWGG1JtOnS"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 242626,
       "name": "Ojal\u00e1 no te hubiera conocido nunca (feat. Muchachito Bombo Infierno)",
       "url": "https://open.spotify.com/track/3xsPBE62YoXqXdPZwF918R"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "De Ley",
-        "url": "https://open.spotify.com/album/3ZzjYCQIk6eQKdcIllvk05"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 263840,
-      "name": "Sabor, Sabor",
-      "url": "https://open.spotify.com/track/4zMJYmYSTZBNn1YdZVznSS"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "El Toro y la Luna (20 Aniversario)",
+        "url": "https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN"
+      },
+      "artists": [
+        {
+          "name": "Los Centellas",
+          "url": "https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG"
+        }
+      ],
+      "duration_ms": 218647,
+      "name": "El Toro y la Luna - 20 Aniversario",
+      "url": "https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "Esencial Rosario",
         "url": "https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 193800,
       "name": "Avisa a tu madre (feat. Tarque)",
       "url": "https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "El Toro y la Luna (20 Aniversario)",
-        "url": "https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN"
-      },
-      "artists": [
-        {
-          "name": "Los Centellas",
-          "url": "https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG"
-        }
-      ],
-      "duration_ms": 218647,
-      "name": "El Toro y la Luna - 20 Aniversario",
-      "url": "https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug"
     },
     {
       "added_at": "2022-01-25 22:47:02",

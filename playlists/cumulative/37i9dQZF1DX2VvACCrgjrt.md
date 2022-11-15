@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: DJ Snake
 
-360 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+361 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Bite](https://open.spotify.com/track/5m4RtoYq9DYg3lojdW5tqW) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Bite](https://open.spotify.com/album/3PBWBOWJxmjdwZUuhiL32U) | 4:23 | 2021-10-29 | 2022-03-16 |
 | [Black Suede](https://open.spotify.com/track/54wmMYk0uxF7UabA6DTiG7) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Black Suede](https://open.spotify.com/album/2YwXQ7eOVhsx34XoU6gvqZ) | 2:55 | 2021-10-29 | 2021-12-30 |
 | [Blow](https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [Blow](https://open.spotify.com/album/6J5g8rg1KJag4xQ08F53AR) | 2:09 | 2022-09-09 |  |
+| [Blow](https://open.spotify.com/track/05oGtv3kNxsX8zTejIrO1u) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Blow / Moving](https://open.spotify.com/album/3C6IMkUGDNmTkmgnBzABrV) | 3:40 | 2022-11-11 |  |
 | [Bold](https://open.spotify.com/track/35ioSWQeKnwsyYga5tZTBM) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d) | [Auspex EP](https://open.spotify.com/album/6yOb0ocejs7jg4yrQh3FeC) | 4:46 | 2022-01-21 | 2022-04-23 |
 | [Boom](https://open.spotify.com/track/0MQZi4FRmLn45J0wkjVE5J) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [D'Aaron Anthony](https://open.spotify.com/artist/2N9oU1WYKGpnSNEBNC3Sqf) | [Boom](https://open.spotify.com/album/2mjYoaMqoYClRhzVHjTPcm) | 2:50 | 2021-10-29 | 2022-02-03 |
 | [Booty Luv](https://open.spotify.com/track/2I07fB3T6OGh27C0v72drF) | [Usica](https://open.spotify.com/artist/4O37vhuEVqgweNqT2RoKlT), [Vissex](https://open.spotify.com/artist/1smi2YnuyyQbyq8enjyiUh) | [Booty Luv](https://open.spotify.com/album/4p4r5tXvXrktXTI4otCQBC) | 2:42 | 2021-10-29 | 2021-12-28 |
@@ -200,7 +201,7 @@
 | [Light](https://open.spotify.com/track/4GSw4yF9VovMBsegcAnLZy) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Pastello](https://open.spotify.com/artist/613f3U6uFS1jmo5NNvnle7) | [Light](https://open.spotify.com/album/49GE9dJiS2eMaxHhGYUNwn) | 2:37 | 2022-03-18 | 2022-07-24 |
 | [Light Show](https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [Light Show](https://open.spotify.com/album/5AejAkCVG5O9NpfMLKA1SH) | 2:40 | 2021-10-29 | 2022-01-05 |
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-06-24 |  |
-| [Like I Do](https://open.spotify.com/track/7JBD5qv7cyDNKK9NuZoOrN) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Like I Do](https://open.spotify.com/album/0vXwZFAWGvb87C0HfztBLd) | 3:25 | 2022-07-08 |  |
+| [Like I Do](https://open.spotify.com/track/7JBD5qv7cyDNKK9NuZoOrN) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Like I Do](https://open.spotify.com/album/0vXwZFAWGvb87C0HfztBLd) | 3:25 | 2022-07-08 | 2022-11-15 |
 | [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-09-16 |  |
 | [Lit](https://open.spotify.com/track/5iRHH6jgRk0JLTX0lmMRwk) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [JC Stormz](https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV) | [Weird Times](https://open.spotify.com/album/4totTVKPMuKn4akaWB64jt) | 3:52 | 2021-10-29 | 2022-01-19 |
 | [LO\*E DR\*G](https://open.spotify.com/track/1JfryJlUV7RuCdTOSSVbwN) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [LO\*E DR\*G](https://open.spotify.com/album/6WJVvCCjwcavVVMM9oOfdY) | 3:01 | 2021-10-29 | 2022-05-28 |

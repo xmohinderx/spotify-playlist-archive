@@ -4,7 +4,7 @@
 
 > 150%
 
-98 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+99 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [don't wanna be your friend \- sped up](https://open.spotify.com/track/5ttbjSyoPvv9saJkeZt8o3) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't wanna be your friend \(sped up\)](https://open.spotify.com/album/6RyvFQGGH111be3sSSjdas) | 2:30 | 2022-11-11 |  |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-09 |  |
 | [dumb dumb \- sped up](https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette \(bonus\)](https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k) | 1:42 | 2022-09-30 |  |
+| [Evergreen \(You Didn’t Deserve Me At All\) \- Sped Up Version](https://open.spotify.com/track/5RQ1oQUUWBv2urYLF0xWzz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Evergreen \(You Didn’t Deserve Me At All\) \[Sped Up Version\]](https://open.spotify.com/album/58KKKV44FFFTgg1fT8De7m) | 3:17 | 2022-11-14 |  |
 | [Fall In Love Alone \- Sped Up Version](https://open.spotify.com/track/24iWUKHLXE4ZDkAj0GK4kt) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone \(Sped Up Version\)](https://open.spotify.com/album/4cTiISMNquBWO0LE3a8tRD) | 2:38 | 2022-10-26 |  |
 | [Faster \(Sped Up\)](https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Sped Up\)](https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce) | 2:26 | 2022-06-24 |  |
 | [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 | 2022-06-09 | 2022-07-29 |

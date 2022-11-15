@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 327187,
+  "num_followers": 327274,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDQ0Y2M1ZDQ5NGEwYjE0YzRjNmY5NWY4MWU5YmZiYTFk",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGUzZWEyY2RiZDBiZWZkNWY0YjhmODJkNzRkNTNiMDc2",
   "tracks": [
     {
       "added_at": "2022-04-15 04:56:09",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Cenotes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Gk9ZPx40L9vCMS2okBUTZ"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 240000,
       "name": "Ma\u00f1ana Tepotzlan",
       "url": "https://open.spotify.com/track/0uSBIec5LeDbZtyKjVzCLx"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -733,7 +733,39 @@
       "url": "https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3"
     },
     {
-      "added_at": "2022-11-14 01:38:55",
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 273846,
+      "name": "Presagio",
+      "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
+    },
+    {
+      "added_at": "2022-11-15 01:36:25",
       "album": {
         "name": "El pavo real",
         "url": "https://open.spotify.com/album/1U651FMxGylI8PoQysziz6"
@@ -755,34 +787,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
+        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
       },
       "artists": [
         {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
-      },
-      "artists": [
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        },
         {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 273846,
-      "name": "Presagio",
-      "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
+      "duration_ms": 260504,
+      "name": "Tarpuricusum Sarata - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -803,26 +823,6 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
-        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
-      },
-      "artists": [
-        {
-          "name": "Luzmila Carpio",
-          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 260504,
-      "name": "Tarpuricusum Sarata - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
         "name": "Los Guasang\u00fa (Cerrero Remix)",
         "url": "https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 311554,
       "name": "Los Guasang\u00fa - (Cerrero Remix)",
       "url": "https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5"
     },
     {
       "added_at": "2022-04-15 04:56:09",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-04-15 04:56:09",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
-      },
-      "artists": [
-        {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Sendero del Monte",
-      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
-    },
-    {
-      "added_at": "2022-04-15 04:56:09",
-      "album": {
         "name": "Ostriconi",
         "url": "https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 285990,
       "name": "Sakoneta",
       "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
+    },
+    {
+      "added_at": "2022-04-15 04:56:09",
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
+      },
+      "artists": [
+        {
+          "name": "Mateo Kingman",
+          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Sendero del Monte",
+      "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
     },
     {
       "added_at": "2022-04-15 04:56:09",

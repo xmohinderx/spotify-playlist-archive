@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 77325,
+  "num_followers": 77370,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAwMjA2NywwMDAwMDAwMDRiYThlZmZkYzY5ZjAzNjU0YTM2ZTA0M2I2NjI0ODUz",
+  "snapshot_id": "MTY2ODAwMjA2NywwMDAwMDAwMDFkOTBmNjdkMGNiZjlhN2YyNTNjZmMxMGE2NDJjYTQ0",
   "tracks": [
     {
       "added_at": "2022-11-09 13:54:27",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "No Mind",
+        "url": "https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 135269,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
+    },
+    {
       "added_at": "2022-09-15 12:23:59",
       "album": {
         "name": "Nutrition",
@@ -127,22 +143,6 @@
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "No Mind",
-        "url": "https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 135269,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj"
     },
     {
       "added_at": "2022-09-21 01:59:31",
@@ -273,6 +273,22 @@
       "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 192674,
+      "name": "S.O",
+      "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
+    },
+    {
       "added_at": "2022-08-03 03:12:27",
       "album": {
         "name": "Sons Of",
@@ -323,22 +339,6 @@
       "duration_ms": 397000,
       "name": "Yulquen",
       "url": "https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Kelly Lee Owens",
-        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 192674,
-      "name": "S.O",
-      "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "These Days Don't Exist",
         "url": "https://open.spotify.com/album/35KsUlRwLpWdta35Pknegr"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 225136,
       "name": "Dream Walk",
       "url": "https://open.spotify.com/track/7rO0THNPmucJEdOaMhAHgy"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/0ioIXXMV89w0qC39FpxYnL"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/2Y1z54YDD3qkrPvxW5NhJZ"
     },
     {
       "added_at": "2022-09-21 02:21:07",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
+      "added_at": "2021-11-25 22:12:36",
+      "album": {
+        "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "duration_ms": 947500,
+      "name": "Gravity that Binds",
+      "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Tar (Jan Jelinek Remix)",
@@ -657,38 +673,6 @@
       "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
-      "added_at": "2021-11-25 22:12:36",
-      "album": {
-        "name": "Patterns Of Consciousness",
-        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
-      },
-      "artists": [
-        {
-          "name": "Caterina Barbieri",
-          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
-        }
-      ],
-      "duration_ms": 947500,
-      "name": "Gravity that Binds",
-      "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Weather the Storm",
@@ -727,18 +711,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -755,6 +739,22 @@
       "duration_ms": 326829,
       "name": "Soft Gaiden",
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        }
+      ],
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2022-09-07 00:43:17",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
     },
     {
-      "added_at": "2022-08-31 03:57:27",
-      "album": {
-        "name": "J\u00e4rnn\u00e4tter",
-        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
-      },
-      "artists": [
-        {
-          "name": "Civilistj\u00e4vel!",
-          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
-        }
-      ],
-      "duration_ms": 687536,
-      "name": "A2",
-      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
-    },
-    {
       "added_at": "2022-02-25 05:11:21",
       "album": {
         "name": "April Dub",
@@ -873,6 +857,22 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
+      "added_at": "2022-08-31 03:57:27",
+      "album": {
+        "name": "J\u00e4rnn\u00e4tter",
+        "url": "https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        }
+      ],
+      "duration_ms": 687536,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg"
+    },
+    {
       "added_at": "2022-04-12 01:36:14",
       "album": {
         "name": "lavender's love",
@@ -887,38 +887,6 @@
       "duration_ms": 160000,
       "name": "lavender's love",
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Street Talk",
-        "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 229367,
-      "name": "Street Talk",
-      "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
-      },
-      "artists": [
-        {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
-        }
-      ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2022-02-25 03:33:17",
@@ -939,18 +907,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Toska",
-        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
       },
       "artists": [
         {
-          "name": "Goya",
-          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
         }
       ],
-      "duration_ms": 342005,
-      "name": "Toska",
-      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -987,6 +955,38 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 229367,
+      "name": "Street Talk",
+      "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Toska",
+        "url": "https://open.spotify.com/album/4D39jrL55p5sgjoUmc1Cer"
+      },
+      "artists": [
+        {
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/6PQ2kZoooRoz3ZPhy8vkfc"
+        }
+      ],
+      "duration_ms": 342005,
+      "name": "Toska",
+      "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "Several Shades of the Same Color",
         "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 303302,
       "name": "Liminal States",
       "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Underwater Lament",
+      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1037,22 +1053,6 @@
       "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "The Alias Sessions",
-        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 320933,
-      "name": "Underwater Lament",
-      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
-    },
-    {
       "added_at": "2022-08-24 01:27:39",
       "album": {
         "name": "Eve",
@@ -1083,22 +1083,6 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1135,6 +1119,22 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "No era s\u00f3lida",
+        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 138405,
+      "name": "Seca",
+      "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "FlimFlam",
         "url": "https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD"
       },
@@ -1219,38 +1235,6 @@
       "duration_ms": 191000,
       "name": "FlimFlam",
       "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "No era s\u00f3lida",
-        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 138405,
-      "name": "Seca",
-      "url": "https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB"
-    },
-    {
-      "added_at": "2022-09-07 00:44:33",
-      "album": {
-        "name": "4 Ya Kiss / 4 Ya Bliss",
-        "url": "https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 247488,
-      "name": "4 Ya Kiss",
-      "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
     },
     {
       "added_at": "2022-09-27 21:44:48",
@@ -1287,6 +1271,22 @@
       "duration_ms": 213708,
       "name": "Vale Da Lua",
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2022-09-07 00:44:33",
+      "album": {
+        "name": "4 Ya Kiss / 4 Ya Bliss",
+        "url": "https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 247488,
+      "name": "4 Ya Kiss",
+      "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
     },
     {
       "added_at": "2022-02-25 03:47:46",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blooms",
-        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
-      },
-      "artists": [
-        {
-          "name": "Sau Poler",
-          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
-        }
-      ],
-      "duration_ms": 346479,
-      "name": "Blooms",
-      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Ficciones Del Tr\u00f3pico",
         "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 269142,
       "name": "Phasma Gigas",
       "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blooms",
+        "url": "https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz"
+      },
+      "artists": [
+        {
+          "name": "Sau Poler",
+          "url": "https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu"
+        }
+      ],
+      "duration_ms": 346479,
+      "name": "Blooms",
+      "url": "https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/0hIeSMoFkgvG8psoNtOrsZ"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Glass Bird Movement",
-        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
-      },
-      "artists": [
-        {
-          "name": "Isan",
-          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
-        }
-      ],
-      "duration_ms": 338734,
-      "name": "Every Since And Then",
-      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
-    },
-    {
       "added_at": "2021-12-23 15:50:34",
       "album": {
         "name": "Plonk",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+        "name": "Glass Bird Movement",
+        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
       },
       "artists": [
         {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+          "name": "Isan",
+          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
         }
       ],
-      "duration_ms": 270539,
-      "name": "Marking Time",
-      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
+      "duration_ms": 338734,
+      "name": "Every Since And Then",
+      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1523,6 +1507,22 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 270539,
+      "name": "Marking Time",
+      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
-      },
-      "artists": [
-        {
-          "name": "Facta",
-          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
-        }
-      ],
-      "duration_ms": 237750,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
     },
     {
       "added_at": "2022-04-29 18:23:46",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Felt compute, might delete",
-        "url": "https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8"
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
       "artists": [
         {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
         }
       ],
-      "duration_ms": 229811,
-      "name": "Felt compute, might delete",
-      "url": "https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7"
+      "duration_ms": 223750,
+      "name": "Summer Places",
+      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1673,20 +1673,20 @@
       "url": "https://open.spotify.com/track/5g1o2X09PYouRGkp13SaQu"
     },
     {
-      "added_at": "2022-02-25 03:59:46",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+        "name": "Felt compute, might delete",
+        "url": "https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "Jas Shaw",
+          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+      "duration_ms": 229811,
+      "name": "Felt compute, might delete",
+      "url": "https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7"
     }
   ],
   "unique_name": "Refractions",

@@ -4,7 +4,7 @@
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-317 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
+318 songs - 13 hr 59 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,8 +205,9 @@
 | [Optimistic](https://open.spotify.com/track/5GaORbyqST28rLeRLiv0D8) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Optimistic](https://open.spotify.com/album/5HiMm2uyr1V0EeNOd6iDJX) | 2:14 | 2022-09-20 |  |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-02-15 |  |
 | [Otherwise](https://open.spotify.com/track/3thkCuWvpE3yU7PtZiPGXs) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Otherwise](https://open.spotify.com/album/3G6irmF2ZuYVEhY9EgfPaO) | 2:04 | 2021-12-07 | 2022-09-21 |
-| [Ouroboros](https://open.spotify.com/track/0Y7oJGAHEvArgcPao3N8KB) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Poussières](https://open.spotify.com/album/7K4rnl9fViO7JlJht9GkLk) | 2:30 | 2022-10-14 |  |
+| [Ouroboros](https://open.spotify.com/track/0Y7oJGAHEvArgcPao3N8KB) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Poussières](https://open.spotify.com/album/7K4rnl9fViO7JlJht9GkLk) | 2:30 | 2022-10-14 | 2022-11-15 |
 | [Ouroboros](https://open.spotify.com/track/2xtRlDiWDZw7B6JsdIdaER) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Ouroboros](https://open.spotify.com/album/6P3XbmpjAD9ifrBPTUp6uV) | 2:30 | 2022-08-09 | 2022-11-09 |
+| [Ouroboros](https://open.spotify.com/track/4qNuc1K8MD4s0GLSHAu03s) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Ouroboros](https://open.spotify.com/album/5J3UvkyE0vGtt6BvqOU242) | 2:30 | 2022-10-14 |  |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 |  |
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 |  |
 | [Partenza](https://open.spotify.com/track/2QnEeS0SxgJR9RrMGB2dnm) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Partenza](https://open.spotify.com/album/1acWCWktmQRrpvqNdnrib1) | 1:52 | 2022-07-19 |  |

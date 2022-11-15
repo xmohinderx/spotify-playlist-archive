@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 2702,
+  "num_followers": 2714,
   "original_name": "BBQ Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDVjNWYzZWVkMWNiMzI4NmI3NzI1N2E4MzQ0ZGVmYTdi",
+  "snapshot_id": "MTY2MzAwMDcwMSwwMDAwMDAwMDRmZDFmOGMyZjdlOWViNjk3OTBjMGQxYmQwYjJjMDEz",
   "tracks": [
     {
       "added_at": "2022-09-12 16:38:21",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "The Excello Singles Anthology",
         "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 152076,
       "name": "Jumper Hanging Out On the Line",
       "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Yonder Wall",
+      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "The \"Killer\" Rocks On",
         "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
       },
@@ -235,18 +251,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
         }
       ],
-      "duration_ms": 202266,
-      "name": "Yonder Wall",
-      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -279,26 +299,6 @@
       "duration_ms": 185693,
       "name": "Potato Chips",
       "url": "https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Too Bad Jim",
-        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 112600,
       "name": "I Hear You Knocking - Remastered 2002",
       "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Too Bad Jim",
+        "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/5hIQCctZj7Y1wuIo5UkU90"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
-        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Crawfish Fiesta - Remastered",
-      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 368706,
       "name": "I Just Want To Make Love To You",
       "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Crawfish Fiesta (Remastered with Bonus Track)",
+        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Crawfish Fiesta - Remastered",
+      "url": "https://open.spotify.com/track/7plpvSLmnPIfd7GLY47pIn"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
+        "name": "Blues Roots",
+        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Two Bugs And A Roach",
+      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
         "name": "Sax Star: Maxwell's Best, Vol. 1",
         "url": "https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 176226,
       "name": "Alligator Meat",
       "url": "https://open.spotify.com/track/2VYgcMVVoACB1hj3dfoQtn"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Blues Roots",
-        "url": "https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Two Bugs And A Roach",
-      "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -995,34 +995,18 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "Atomic Cocktail - Legendary Slim Gaillard",
-        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
       },
       "artists": [
         {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Atomic Cocktail",
-      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
-    },
-    {
-      "added_at": "2022-09-12 16:38:21",
-      "album": {
-        "name": "Greatest Country Blues",
-        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "Robbie-Doby Boogie",
-      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-09-12 16:38:21",
       "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
+        "name": "Greatest Country Blues",
+        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
       },
       "artists": [
         {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
         }
       ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
+      "duration_ms": 142933,
+      "name": "Robbie-Doby Boogie",
+      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
     },
     {
       "added_at": "2022-09-12 16:38:21",
@@ -1087,6 +1071,22 @@
       "duration_ms": 156746,
       "name": "She Cooks Me Cabbage",
       "url": "https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm"
+    },
+    {
+      "added_at": "2022-09-12 16:38:21",
+      "album": {
+        "name": "Atomic Cocktail - Legendary Slim Gaillard",
+        "url": "https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Atomic Cocktail",
+      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
     },
     {
       "added_at": "2022-09-12 16:38:21",

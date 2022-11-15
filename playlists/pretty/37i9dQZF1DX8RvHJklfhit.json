@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics. Cover: Salt Cathedral, Ximena Sari\u00f1ana",
-  "num_followers": 131143,
+  "num_followers": 131209,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMGFhYTZlNjA4NzEyNDFlY2RlODBlNzNjODZkMTg0ZWY2",
+  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMGNhODcxOTA0MmRkNDg5NzJlMjA4NDAzNThlNzg3Njhh",
   "tracks": [
     {
       "added_at": "2022-08-05 16:11:36",
@@ -183,54 +183,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "V\u00e1monos De Viaje",
-      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 211021,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "La Trenza",
         "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
@@ -251,6 +203,22 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC"
       },
@@ -263,6 +231,22 @@
       "duration_ms": 312000,
       "name": "Lo Que Siento",
       "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "V\u00e1monos De Viaje",
+      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 211021,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 127272,
       "name": "Ugotme",
       "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -347,22 +363,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 211200,
       "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 124954,
+      "name": "Unbothered",
+      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -415,38 +431,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Am\u00e9rica Supers\u00f3nica",
-        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Lo Mejor, Lo Peor",
-      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 124954,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 170000,
       "name": "American Spirits",
       "url": "https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Am\u00e9rica Supers\u00f3nica",
+        "url": "https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Lo Mejor, Lo Peor",
+      "url": "https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 250073,
       "name": "Malas Amistades",
       "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "EP I",
         "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 248371,
       "name": "M\u00e9tele",
       "url": "https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1035,6 +1035,22 @@
       "duration_ms": 195693,
       "name": "Despues De Almuerzo Parte 3",
       "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1099,22 +1115,6 @@
       "duration_ms": 242906,
       "name": "En Mis Genes",
       "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Land Of Aloha",
-        "url": "https://open.spotify.com/album/5JKHmRXRC91d5zyNVGRAaw"
-      },
-      "artists": [
-        {
-          "name": "Miss Garrison",
-          "url": "https://open.spotify.com/artist/6KW0KNqfkuSKryF7e7hONY"
-        }
-      ],
-      "duration_ms": 244125,
-      "name": "Land Of Aloha",
-      "url": "https://open.spotify.com/track/1RUds23AaBMhgRO5ospAsh"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Fumar, beber y romper",
         "url": "https://open.spotify.com/album/3ekLLKNOGHzmykral1CHYO"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 170033,
       "name": "Fumar, beber y romper",
       "url": "https://open.spotify.com/track/3H01uYpXsFi3N1L4w5DP2Y"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Land Of Aloha",
+        "url": "https://open.spotify.com/album/5JKHmRXRC91d5zyNVGRAaw"
+      },
+      "artists": [
+        {
+          "name": "Miss Garrison",
+          "url": "https://open.spotify.com/artist/6KW0KNqfkuSKryF7e7hONY"
+        }
+      ],
+      "duration_ms": 244125,
+      "name": "Land Of Aloha",
+      "url": "https://open.spotify.com/track/1RUds23AaBMhgRO5ospAsh"
     },
     {
       "added_at": "2022-08-05 16:11:36",

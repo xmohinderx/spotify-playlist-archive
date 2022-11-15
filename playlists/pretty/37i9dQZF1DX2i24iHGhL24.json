@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 81047,
+  "num_followers": 81164,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGM0NzhmOWQ2YzcyMTYyYjJkNWZjNmM0OTc3MGM3Nzc3",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDdjOThhMjBmMDkzYjc2MjZiZjI0YWNjNDlkMGI2NmYx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Wouldn't It Be Nice",
         "url": "https://open.spotify.com/album/0K1UyE6v9I3AnwN7trOWVW"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 152181,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/7GTpcLYxaSs1dg4NXZpscp"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "July (Bedroom Session)",
-        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "July - Bedroom Session",
-      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 254834,
       "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "July (Bedroom Session)",
+        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "July - Bedroom Session",
+      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 319750,
+      "name": "Sign Of The Times - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
@@ -1112,17 +1128,17 @@
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT"
+        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 319750,
-      "name": "Sign Of The Times - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN"
+      "duration_ms": 173482,
+      "name": "so into you - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173482,
-      "name": "so into you - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 194595,
-      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
-      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "All Too Well",
         "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
-        "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
+        "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+        "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 178284,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
+      "duration_ms": 194595,
+      "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
+      "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1271,6 +1255,22 @@
       "duration_ms": 251805,
       "name": "Soak up the Sun - Unplugged",
       "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Forever Young (From The McDonald's Christmas Advert 2020)",
+        "url": "https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Where My Girls At",
-        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
       "artists": [
         {
-          "name": "VENUS",
-          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 164526,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Where My Girls At",
+        "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
+      },
+      "artists": [
+        {
+          "name": "VENUS",
+          "url": "https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID"
+        }
+      ],
+      "duration_ms": 164526,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 238439,
       "name": "Complicated - Spotify Singles",
       "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
-      },
-      "artists": [
-        {
-          "name": "Dan Caplen",
-          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "No Letting Go - Acoustic",
-      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "If I Ain't Got You",
         "url": "https://open.spotify.com/album/05xqadEYFt4VvusqQACQ4E"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 190169,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/60Upg4NK79iFTP77w9O6E7"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
+      },
+      "artists": [
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "No Letting Go - Acoustic",
+      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Night Changes",
+        "url": "https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 225721,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Cruel Summer (Acoustic Version)",
         "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 141880,
       "name": "Montero (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Night Changes",
-        "url": "https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 225721,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2551,6 +2551,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 248449,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/3dzUlxbwuGbnH0p1TOOTdZ"
       },
@@ -2567,22 +2583,6 @@
       "duration_ms": 209130,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/2wEyNde0HsqvTpP6yphfQU"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248449,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Heat Waves (Acoustic)",
-        "url": "https://open.spotify.com/album/6OV0ZnJFjoYz7cbNWPy8qx"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        }
-      ],
-      "duration_ms": 141265,
-      "name": "Heat Waves (Acoustic)",
-      "url": "https://open.spotify.com/track/2wZnPyFXOFw1zXU4G7y9ab"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 233865,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Heat Waves (Acoustic)",
+        "url": "https://open.spotify.com/album/6OV0ZnJFjoYz7cbNWPy8qx"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        }
+      ],
+      "duration_ms": 141265,
+      "name": "Heat Waves (Acoustic)",
+      "url": "https://open.spotify.com/track/2wZnPyFXOFw1zXU4G7y9ab"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2983,22 +2983,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Undercover Heartbreak EP",
-        "url": "https://open.spotify.com/album/6KJAw3Oq1GxFudELGregkh"
-      },
-      "artists": [
-        {
-          "name": "Saibh Skelly",
-          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
-        }
-      ],
-      "duration_ms": 250765,
-      "name": "I Hate U, I Love U",
-      "url": "https://open.spotify.com/track/3JPkmsyibgVTfk8z5QabEs"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv"
       },
@@ -3011,6 +2995,22 @@
       "duration_ms": 189242,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Undercover Heartbreak EP",
+        "url": "https://open.spotify.com/album/6KJAw3Oq1GxFudELGregkh"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "duration_ms": 250765,
+      "name": "I Hate U, I Love U",
+      "url": "https://open.spotify.com/track/3JPkmsyibgVTfk8z5QabEs"
     },
     {
       "added_at": "2022-10-28 04:01:00",

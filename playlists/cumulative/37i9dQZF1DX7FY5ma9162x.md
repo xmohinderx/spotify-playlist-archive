@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: The Weeknd
 
-504 songs - 1 day 4 hr 8 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
+505 songs - 1 day 4 hr 10 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Touch & Go](https://open.spotify.com/track/0t4knmBuw14LysanDonPrj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Touch & Go](https://open.spotify.com/album/3cwNClu6TT9TA8QKCqXq9J) | 4:15 | 2022-04-01 | 2022-04-20 |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2022-04-01 | 2022-07-28 |
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2022-04-01 |  |
-| [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2022-10-21 |  |
+| [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2022-10-21 | 2022-11-15 |
 | [Tragic](https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Tragic](https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz) | 3:27 | 2022-03-11 | 2022-07-27 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-11-04 |  |
 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 | 2022-04-01 |  |
@@ -488,6 +488,7 @@
 | [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-03-11 | 2022-07-28 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2022-03-11 | 2022-07-29 |
 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-28 | 2022-10-31 |
+| [WFM](https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:16 | 2022-11-11 |  |
 | [What About Me \(feat\. Post Malone\)](https://open.spotify.com/track/6lTLgWznUomxzmQpkqGPdF) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [What About Me](https://open.spotify.com/album/7pF6wc46cfpWuBaiURj5OD) | 3:36 | 2022-04-01 | 2022-04-19 |
 | [What I Know Now \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3wImXdE4bliIVSEl3lVue1) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [What I Know Now \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6KBUruH0wOrtNVgAxLopbt) | 3:00 | 2022-04-01 | 2022-04-18 |
 | [What I Like](https://open.spotify.com/track/7lM9dI6wRfmA2KxQlYQdIE) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [What I Like](https://open.spotify.com/album/4YzrdjLTsezWLutVAFOTzO) | 2:39 | 2022-04-01 | 2022-07-12 |

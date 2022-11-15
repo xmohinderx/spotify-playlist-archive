@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 224608,
       "name": "AHHH",
       "url": "https://open.spotify.com/track/6FuKGUQdfjtLOX3PTLtiFM"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 226268,
       "name": "Little Bit of Love",
       "url": "https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 207466,
       "name": "Over Her Over Here",
       "url": "https://open.spotify.com/track/1OdqwStwNBN4xWEGQjpceQ"
@@ -2219,7 +2219,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
@@ -2452,6 +2452,24 @@
     },
     {
       "album": {
+        "name": "Silver Tongues",
+        "url": "https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Silver Tongues",
+      "url": "https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB"
+    },
+    {
+      "album": {
         "name": "Singing Your Name",
         "url": "https://open.spotify.com/album/2jGthLeFRDBzxy75dzGxj3"
       },
@@ -2557,6 +2575,24 @@
       "duration_ms": 174719,
       "name": "so done",
       "url": "https://open.spotify.com/track/0CJujB84MFibxHqxFQVLu1"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152375,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2"
     },
     {
       "album": {

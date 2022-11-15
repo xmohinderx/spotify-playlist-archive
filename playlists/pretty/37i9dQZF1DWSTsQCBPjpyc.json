@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 16376,
+  "num_followers": 16409,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMDYwNDg4ZTNlMjE2YmU4MDEyODRjNjk5NDliYmRiNzhh",
+  "snapshot_id": "MTY2Nzg0ODEyMSwwMDAwMDAwMGJjYWU1NGNmNmE3MjhjOTVlZjljODMyNDIzOTQzODNk",
   "tracks": [
     {
       "added_at": "2022-11-07 19:08:41",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Back To Bogalusa",
-        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 266226,
-      "name": "Grape Jelly",
-      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "I Wanna Get Funky",
         "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
       },
@@ -491,6 +475,38 @@
       "duration_ms": 464373,
       "name": "Crosscut Saw",
       "url": "https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Back To Bogalusa",
+        "url": "https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 266226,
+      "name": "Grape Jelly",
+      "url": "https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -525,20 +541,20 @@
       "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         }
       ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -555,22 +571,6 @@
       "duration_ms": 228667,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 244623,
-      "name": "Same Ole Feeling",
-      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Cover To Cover",
         "url": "https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5"
       },
@@ -651,6 +635,26 @@
       "duration_ms": 246360,
       "name": "The Moon Is Full",
       "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "LaDonna Gales",
+          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Take Me Just As I Am",
+      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -685,26 +689,6 @@
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "LaDonna Gales",
-          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Take Me Just As I Am",
-      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Deluxe Edition",
@@ -723,18 +707,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Iceman",
-        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 332560,
-      "name": "Put The Shoe On The Other Foot",
-      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
+      "duration_ms": 244623,
+      "name": "Same Ole Feeling",
+      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -771,6 +755,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Iceman",
+        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Put The Shoe On The Other Foot",
+      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Give It Back",
         "url": "https://open.spotify.com/album/4jUaphuhb3mO9p6wJG5MML"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Satisfaction Guaranteed",
-        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "A Man's Got To Do What A Man's Got To Do",
-      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Shine Bright",
         "url": "https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 273213,
       "name": "Pots And Pans",
       "url": "https://open.spotify.com/track/2P9jpTryQV7mu7ufOryj59"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Satisfaction Guaranteed",
+        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "A Man's Got To Do What A Man's Got To Do",
+      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-364 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+365 songs - 1 day 2 hr 15 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Feel](https://open.spotify.com/track/1suJTW6qNyv8wrJrhl66GB) | [Mötel](https://open.spotify.com/artist/0t2BvVv6gU4bPa0OFvcTJN) | [Feel](https://open.spotify.com/album/10fs3d44oj8OzWWsAj9eCB) | 3:33 | 2022-04-01 | 2022-04-21 |
 | [Fever](https://open.spotify.com/track/0SoAEe3qrUmjh9YRX4FFbO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb), [BRESDEN](https://open.spotify.com/artist/0djds6pkICcQcfaxmK3cSj) | [Fever](https://open.spotify.com/album/0sTuNWvCX4Wn5zDiflJ7Qz) | 4:16 | 2022-02-04 | 2022-06-14 |
 | [Fire](https://open.spotify.com/track/3XPDYyo2I9dIa2uhgcZhgn) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/1MkCO0adu22r0yPTkhzwjM) | 2:10 | 2022-08-12 | 2022-10-18 |
+| [Fire](https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Fire](https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW) | 2:10 | 2022-11-11 |  |
 | [Firebird](https://open.spotify.com/track/4HeTO68jodyeWHHIgdytwr) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Jukebox 80s](https://open.spotify.com/artist/2O6IhsrW35MUzqmq5UVVKl) | [Firebird](https://open.spotify.com/album/72ophLrmWPbHAt8j56YHdF) | 3:38 | 2022-04-01 | 2022-04-21 |
 | [Firefall](https://open.spotify.com/track/0T01wlTfTkUZNGEDBVUfaC) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Firefall](https://open.spotify.com/album/00Tng0eDtbtLgpoc2i3i8L) | 2:48 | 2022-07-22 |  |
 | [Flashbacks \(Arcade High Remix\)](https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY) | [W O L F C L U B](https://open.spotify.com/artist/4dCDYKtFTMnKCI9PvEwMQX), [Dora Pereli](https://open.spotify.com/artist/4bExAkknCNKbPxTFkSe7uC), [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Flashbacks \(Arcade High Remix\)](https://open.spotify.com/album/26Tng1aHqxHkbmhiRf11yT) | 3:52 | 2022-09-23 |  |
@@ -322,7 +323,7 @@
 | [Tenshi](https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Tenshi](https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7) | 4:15 | 2022-07-15 |  |
 | [Terraform](https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [New & Improved](https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa) | 5:08 | 2022-02-04 |  |
 | [Territory](https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:22 | 2021-10-15 |  |
-| [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 |  |
+| [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 | 2022-11-15 |
 | [Test Pilot](https://open.spotify.com/track/03RyqN0APr814lnjzziKtT) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/317tn0rmvrIfQOYemUNRM5) | 4:04 | 2022-07-22 |  |
 | [Test Pilot](https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/4Ovn7lQ2W3agN3KvqgaXFx) | 4:04 | 2021-10-15 | 2022-07-29 |
 | [The Arcane Arts](https://open.spotify.com/track/5sPkgogsCQFYKnYZMwkODz) | [Arcis](https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM) | [Adamo](https://open.spotify.com/album/6Y9N6GkECmc6F8oSsW9vQ5) | 2:52 | 2022-02-04 | 2022-07-27 |

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: クレナズム \(Culenasm\)
 
-665 songs - 1 day 18 hr 42 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+666 songs - 1 day 18 hr 46 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 | 2022-09-15 |  |
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-07-28 | 2022-08-18 |
-| [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 |  |
+| [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 | 2022-11-15 |
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
 | [Nocturne](https://open.spotify.com/track/236ak0krOCdUlhMFuP2Ujl) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [Nocturne](https://open.spotify.com/album/1ht11fyfCbL9Do56Icrc3S) | 4:15 | 2022-09-27 | 2022-10-05 |
 | [Now Back](https://open.spotify.com/track/08PdBo2T8kdaZ2ZIK28SMd) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [ベイビィ・ベッドルーム・パンク](https://open.spotify.com/album/3W23YvRkjCaoJycK3mD71W) | 3:01 | 2022-10-18 | 2022-11-02 |
@@ -614,6 +614,7 @@
 | [知らんがな](https://open.spotify.com/track/1mQGacq4Go5Ho1U34hxlQ5) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [知らんがな](https://open.spotify.com/album/7iZ3BSlDIYv1QtaCp5zosX) | 3:38 | 2022-06-07 | 2022-07-19 |
 | [知らんけど](https://open.spotify.com/track/4RmQudx1XKp4l1IkwQcRpk) | [mihoro\*](https://open.spotify.com/artist/6klHctW8dryXG9b5RrCLmV) | [知らんけど](https://open.spotify.com/album/0HyPt0GRzwr6VvPdcTCY8v) | 3:56 | 2022-06-02 | 2022-06-07 |
 | [知らんぺったんゴリラ](https://open.spotify.com/track/5x6qXYhjiEyLQzwKEQIAlJ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [知らんぺったんゴリラ](https://open.spotify.com/album/3578skEb0Nqt2WkKallFy1) | 2:15 | 2022-06-27 | 2022-06-29 |
+| [祝日天国](https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [祝日天国](https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D) | 4:01 | 2022-11-08 |  |
 | [神様](https://open.spotify.com/track/7pTzcynk2FjT23kYssUHdw) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [THE ZOMBIE](https://open.spotify.com/album/0Dw5E1BFl1yRCs7U36x5XN) | 3:52 | 2022-06-14 | 2022-07-19 |
 | [祥月](https://open.spotify.com/track/7pw4Ae2KKbwo86OPbrm7i8) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [祥月](https://open.spotify.com/album/65J8BQK0PRT8qmqZdz53Hz) | 4:17 | 2022-06-02 | 2022-06-28 |
 | [私たちってかわいそう?](https://open.spotify.com/track/2fpBndy4bPFRPTJxBmmQ7l) | [ゆ～すほすてる](https://open.spotify.com/artist/3EI9Wy1WFeNy9dbZofQeKW) | [私たちってかわいそう?](https://open.spotify.com/album/1RNTBlSFkj1JAcS4GOY4Bj) | 3:58 | 2022-06-14 | 2022-06-29 |

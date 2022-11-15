@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 269140,
+  "num_followers": 269216,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MDk5MywwMDAwMDAwMDI3ZjAzM2FmZTdhNWEyNGQ3MTJkYjI0NDI1Y2M4ODky",
+  "snapshot_id": "MTY2ODE3MDk5MywwMDAwMDAwMGU4MjU4NjdmNDFkY2QxMjVjOGQ5MzdjYjZiZDE5YjE2",
   "tracks": [
     {
       "added_at": "2022-11-11 12:49:53",
@@ -39,22 +39,6 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/4xltF6S9PBtKQls0vTMCZJ"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/0ZqmOWkT2TI6UIbeqPXRgK"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/7xQ7j0RjNCkkkAeJfFhdaX"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 280400,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/5FHITxNz6XuYTfSnyqMVGR"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "The Antidote Is in the Poison",
-        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 352692,
-      "name": "The Antidote Is in the Poison",
-      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
         "name": "Just The Same",
         "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 217760,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "The Antidote Is in the Poison",
+        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 352692,
+      "name": "The Antidote Is in the Poison",
+      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "Shapes",
-        "url": "https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW"
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
       },
       "artists": [
         {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 263960,
-      "name": "Odysea",
-      "url": "https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB"
+      "duration_ms": 218680,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -623,6 +623,22 @@
       "duration_ms": 291293,
       "name": "Wave Decay",
       "url": "https://open.spotify.com/track/4lBKAEQXVzaicd1FLy83Lu"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "Shapes",
+        "url": "https://open.spotify.com/album/7uTAl4dESGV2JyvUONqURW"
+      },
+      "artists": [
+        {
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Odysea",
+      "url": "https://open.spotify.com/track/6ZyAq6U841lb0ukP5TibWB"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -707,6 +723,42 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
         "name": "Who Am I (eh-eh)",
         "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
       },
@@ -759,6 +811,42 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
+        "name": "Berlin 1 (Rework)",
+        "url": "https://open.spotify.com/album/0EEWlwUdioPbc0vDHfKIRj"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        },
+        {
+          "name": "Louis VI",
+          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Berlin 1 - Rework",
+      "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 349629,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -799,78 +887,6 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/15R2xjP52mnJkWztc1pgCo"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 349629,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
-        "name": "Next Spring",
-        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Next Spring",
-      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
-        "name": "Berlin 1 (Rework)",
-        "url": "https://open.spotify.com/album/0EEWlwUdioPbc0vDHfKIRj"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        },
-        {
-          "name": "Louis VI",
-          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Berlin 1 - Rework",
-      "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
         "name": "It's All Relative",
         "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 218680,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
         "name": "Between Two Waves",
         "url": "https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 192715,
       "name": "Lost in Thought",
       "url": "https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
-        "name": "love + war",
-        "url": "https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h"
-      },
-      "artists": [
-        {
-          "name": "cktrl",
-          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
-        }
-      ],
-      "duration_ms": 205032,
-      "name": "love + war (ft. Ophie)",
-      "url": "https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -975,22 +959,6 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "TECHNICOLOUR",
-        "url": "https://open.spotify.com/album/3953o6S4WGOWqDB7Z9VtyX"
-      },
-      "artists": [
-        {
-          "name": "The Comet Is Coming",
-          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
-        }
-      ],
-      "duration_ms": 209071,
-      "name": "TECHNICOLOUR",
-      "url": "https://open.spotify.com/track/4EtLZjAnvpdKoZ5qeYrdNQ"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
         "name": "piano joint",
         "url": "https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG"
       },
@@ -1031,18 +999,34 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "Through The Noise (Chant No. 2)",
-        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+        "name": "love + war",
+        "url": "https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "cktrl",
+          "url": "https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Through The Noise (Chant No. 2)",
-      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+      "duration_ms": 205032,
+      "name": "love + war (ft. Ophie)",
+      "url": "https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "TECHNICOLOUR",
+        "url": "https://open.spotify.com/album/3953o6S4WGOWqDB7Z9VtyX"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        }
+      ],
+      "duration_ms": 209071,
+      "name": "TECHNICOLOUR",
+      "url": "https://open.spotify.com/track/4EtLZjAnvpdKoZ5qeYrdNQ"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -1059,6 +1043,22 @@
       "duration_ms": 308600,
       "name": "Youth",
       "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "Through The Noise (Chant No. 2)",
+        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Through The Noise (Chant No. 2)",
+      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
         "name": "la danse",
         "url": "https://open.spotify.com/album/6HHA2Wth4o5ntz3GZ4O0XL"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 177136,
       "name": "la danse",
       "url": "https://open.spotify.com/track/1UbfKuIjG38PR3MpjVsbyX"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "We Give Thanks",
-      "url": "https://open.spotify.com/track/6clBGIQRBtCnmMGeHM2g75"
     },
     {
       "added_at": "2022-11-11 12:49:53",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
-        "name": "Two For Mistake",
-        "url": "https://open.spotify.com/album/7lQnb1YRhpJnlX86NYqq7N"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 372548,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
         "name": "Kyoto Rain",
         "url": "https://open.spotify.com/album/1J90rzB7mwUMMZHphgoS4z"
       },
@@ -1331,6 +1315,42 @@
     {
       "added_at": "2022-11-11 12:49:53",
       "album": {
+        "name": "Two For Mistake",
+        "url": "https://open.spotify.com/album/7lQnb1YRhpJnlX86NYqq7N"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 372548,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "No Confusion (feat. Kojey Radical)",
+      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
+    },
+    {
+      "added_at": "2022-11-11 12:49:53",
+      "album": {
         "name": "Abraham",
         "url": "https://open.spotify.com/album/2wpSHnqMJKaFNCuIjDMYJ0"
       },
@@ -1343,30 +1363,6 @@
       "duration_ms": 256250,
       "name": "Abraham",
       "url": "https://open.spotify.com/track/7nDjW1FNWo17X6M6Cz5iI6"
-    },
-    {
-      "added_at": "2022-11-11 12:49:53",
-      "album": {
-        "name": "Days Like This",
-        "url": "https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh"
-      },
-      "artists": [
-        {
-          "name": "Safiyyah",
-          "url": "https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu"
-        },
-        {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Nikhil Beats",
-          "url": "https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR"
-        }
-      ],
-      "duration_ms": 218969,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx"
     }
   ],
   "unique_name": "Jazz UK",

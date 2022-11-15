@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-345 songs - 21 hr 57 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+346 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Mean To Me](https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Don´t Blame Me](https://open.spotify.com/album/4oK8sCHJ3rsqYt7rpbXqSb) | 3:12 | 2022-06-28 |  |
 | [Memories Of You](https://open.spotify.com/track/4k8Z615BSY2DPSARJS11Se) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Cherokee](https://open.spotify.com/album/5vCWIYXs2CiCuAVgVGF3Ny) | 4:45 | 2022-06-28 | 2022-10-08 |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-06-28 |  |
-| [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-06-28 |  |
+| [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-06-28 | 2022-11-15 |
 | [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 | 2022-06-28 |  |
 | [Misty Morning](https://open.spotify.com/track/1QwunZ0xkzaVuGG9hFT8pC) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Misty Morning](https://open.spotify.com/album/54sGdyKt7MxfWnOaaK95Jj) | 3:13 | 2022-06-28 | 2022-10-08 |
 | [Momentum](https://open.spotify.com/track/3BqL7IYqbFJH4dOVeMB0cA) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Momentum](https://open.spotify.com/album/1bS4W2eeB2M2cmw72Istwu) | 3:32 | 2022-06-28 |  |
@@ -346,6 +346,7 @@
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-30 | 2022-10-08 |
 | [Windless Days](https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Straight Forward](https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ) | 2:48 | 2022-06-28 | 2022-10-08 |
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-10-27 |  |
+| [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-07 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-28 | 2022-10-08 |
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2022-06-28 | 2022-10-08 |

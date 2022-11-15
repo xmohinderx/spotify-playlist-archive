@@ -4,11 +4,12 @@
 
 > Cool vibes from the African continent.
 
-147 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+150 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 |  |
+| [ADAUGO](https://open.spotify.com/track/6lxai3ZSpU2UctunwrCjvp) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ADAUGO](https://open.spotify.com/album/7FA8ItLt3NvvgL8ZExtpih) | 3:51 | 2022-11-14 |  |
 | [Africa](https://open.spotify.com/track/0HOdXa3PPnJhNRBlgO7Jhr) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ) | [Africa](https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH) | 2:33 | 2022-08-12 | 2022-09-02 |
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 | 2022-07-01 |
 | [Alive](https://open.spotify.com/track/3a1aICYwrm7nwHfFT9Aomm) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Alive](https://open.spotify.com/album/6FPn7GfYm4qUXtlnXp6gLq) | 2:34 | 2021-12-02 |  |
@@ -108,6 +109,7 @@
 | [OMG](https://open.spotify.com/track/5mHJrT793MaOfEf3pHM7cN) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon) | [OMG](https://open.spotify.com/album/4RGIttt0mc1TFsYSvigowx) | 3:02 | 2022-03-24 | 2022-04-29 |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 |  |
 | [Oshe \(feat\. The Cavemen.\)](https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:38 | 2021-11-18 |  |
+| [Overthinking](https://open.spotify.com/track/0PhhA3xoYyhUQEMsUaJSsW) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Overthinking](https://open.spotify.com/album/7omcOY3k8mqGaaoW3gUELy) | 2:38 | 2022-11-14 |  |
 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 | 2021-10-11 |  |
 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 | 2022-03-03 |  |
 | [Pull Up](https://open.spotify.com/track/0h8Nv1NG9K7vAuknah3ODJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Pull Up](https://open.spotify.com/album/4B0u29SVDo8LjBhSPeIQ42) | 3:07 | 2021-10-11 | 2022-07-29 |
@@ -134,6 +136,7 @@
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-06-09 |  |
 | [Sondela \- Edit](https://open.spotify.com/track/0JSPN8S57bYOL3LSLm5yvN) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Sondela](https://open.spotify.com/album/5iTVgdXWbN2wticVSkTFsv) | 3:58 | 2021-10-11 |  |
 | [Soweto Blues](https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Soweto Blues](https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40) | 4:58 | 2021-10-11 |  |
+| [Special \(feat\. Don Toliver\)](https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:23 | 2022-11-14 |  |
 | [Spend Some Time](https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Spend Some Time](https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg) | 2:48 | 2021-10-11 |  |
 | [Sugar](https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Sugar](https://open.spotify.com/album/4zZ2eYh53WkCkY0ixzKZEf) | 3:38 | 2021-12-09 | 2022-07-26 |
 | [Summer Bunny](https://open.spotify.com/track/725WKeorPfCOA52X6QE4Uw) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Summer Bunny](https://open.spotify.com/album/488FJXx0HPDnNvNlOB1sAA) | 3:00 | 2021-11-25 | 2022-02-25 |

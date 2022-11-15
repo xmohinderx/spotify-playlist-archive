@@ -4135,7 +4135,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 224000,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/0T8j68rUIsDchV9JIuwOfw"
@@ -13127,6 +13127,24 @@
       "duration_ms": 159360,
       "name": "Wanna Love",
       "url": "https://open.spotify.com/track/6tOfHz0qCh7WNoTqCtcFQk"
+    },
+    {
+      "album": {
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/07JjhUiTinOcb02BCBd2QL"
+      },
+      "artists": [
+        {
+          "name": "Mineo",
+          "url": "https://open.spotify.com/artist/1pgSJtH1TwIAxeSn4vSJJR"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205075,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/1Jg65EDU6dZXiqjRb1OXlE"
     },
     {
       "album": {

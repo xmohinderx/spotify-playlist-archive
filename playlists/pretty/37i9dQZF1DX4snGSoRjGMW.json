@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 5686,
+  "num_followers": 5700,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGU2ZTEyZjcwZWFhOTRkOTY0N2I0OTgwYjlmNDJhZDdi",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDM3MTczNzM3NTVjYjhlMWY3ZWY2MzAwOGE3MDk2ODMw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 329386,
+      "name": "None Of Us Are Free",
+      "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Deep In The Heart",
         "url": "https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba"
       },
@@ -171,18 +187,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Don't Give Up On Me",
-        "url": "https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK"
+        "name": "Robert Cray & Hi Rhythm",
+        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
       },
       "artists": [
         {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        },
+        {
+          "name": "Hi Rhythm",
+          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
         }
       ],
-      "duration_ms": 329386,
-      "name": "None Of Us Are Free",
-      "url": "https://open.spotify.com/track/1MBgaJoraHR7RHgAV58QU4"
+      "duration_ms": 231666,
+      "name": "The Same Love That Made Me Laugh",
+      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -219,26 +239,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Robert Cray & Hi Rhythm",
-        "url": "https://open.spotify.com/album/1V2hyT0B0LtWmFtdhIbVdI"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        },
-        {
-          "name": "Hi Rhythm",
-          "url": "https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "The Same Love That Made Me Laugh",
-      "url": "https://open.spotify.com/track/4pNHUObYXKqIL8dt176TLK"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Keep On Believing",
         "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
       },
@@ -271,18 +271,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
+        "name": "Don't Hurt No More",
+        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "Buddy Ace",
+          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
         }
       ],
-      "duration_ms": 257560,
-      "name": "Guitar Man",
-      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
+      "duration_ms": 207106,
+      "name": "Chockin' Kind",
+      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Don't Hurt No More",
-        "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2"
       },
       "artists": [
         {
-          "name": "Buddy Ace",
-          "url": "https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 207106,
-      "name": "Chockin' Kind",
-      "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
+      "duration_ms": 257560,
+      "name": "Guitar Man",
+      "url": "https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Wanted",
-        "url": "https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ"
-      },
-      "artists": [
-        {
-          "name": "Denise LaSalle",
-          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
-        }
-      ],
-      "duration_ms": 287480,
-      "name": "Bone It Like You Own It",
-      "url": "https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Doin' The Funky Thing",
         "url": "https://open.spotify.com/album/3Bht3SLGHo8rJVrYlSkc7v"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 313813,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/6JsbedmV8u4I6ZxxM14xhu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Wanted",
+        "url": "https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ"
+      },
+      "artists": [
+        {
+          "name": "Denise LaSalle",
+          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
+        }
+      ],
+      "duration_ms": 287480,
+      "name": "Bone It Like You Own It",
+      "url": "https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/1LSC4TKKoJCbpAEsyvRmkQ"
     },
     {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Fire It Up",
-        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cropper",
-          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
-        }
-      ],
-      "duration_ms": 222620,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Cheatin' Habit",
@@ -459,6 +443,22 @@
       "duration_ms": 281200,
       "name": "Kick My Cheatin' Habits",
       "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cropper",
+          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+        }
+      ],
+      "duration_ms": 222620,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4eWh67wskXcVPXFdSSlrQS"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Royal Blue",
-        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Bring Me Some Water",
-      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Leaving Mood",
         "url": "https://open.spotify.com/album/4YBT9ZGhAe1vHUEEvt16kX"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Royal Blue",
+        "url": "https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Bring Me Some Water",
+      "url": "https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "I'll Sing the Blues for You",
         "url": "https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Into the Mystic",
-        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
-      },
-      "artists": [
-        {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 184306,
-      "name": "Soul Deep",
-      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Makin Love is Good For You (Expanded Edition)",
         "url": "https://open.spotify.com/album/563MMooudFTTaYPBW4ODvY"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 227706,
       "name": "Makin' Love Is Good For You",
       "url": "https://open.spotify.com/track/3V4cXvtMvp38DRAa666XRp"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Into the Mystic",
+        "url": "https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y"
+      },
+      "artists": [
+        {
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
+        }
+      ],
+      "duration_ms": 184306,
+      "name": "Soul Deep",
+      "url": "https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Miss Lavelle",
-        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
-      },
-      "artists": [
-        {
-          "name": "Lavelle White",
-          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Yes, I've Been Crying",
-      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
@@ -707,22 +691,6 @@
       "duration_ms": 330426,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Eccentric Soul: The Saadia Label",
-        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
-      },
-      "artists": [
-        {
-          "name": "Joey Gilmore",
-          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Girl Your Best Friend Done Took Your Place",
-      "url": "https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -763,18 +731,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Hit That Thing",
-        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
+        "name": "Miss Lavelle",
+        "url": "https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB"
       },
       "artists": [
         {
-          "name": "Bobby Wayne",
-          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
+          "name": "Lavelle White",
+          "url": "https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz"
         }
       ],
-      "duration_ms": 437360,
-      "name": "Whisper Away",
-      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
+      "duration_ms": 234760,
+      "name": "Yes, I've Been Crying",
+      "url": "https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -795,18 +763,34 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Tiger in a Cage",
-        "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
+        "name": "Eccentric Soul: The Saadia Label",
+        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
       },
       "artists": [
         {
-          "name": "Johnny Rawls",
-          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
         }
       ],
-      "duration_ms": 265053,
-      "name": "Reckless Heart",
-      "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
+      "duration_ms": 175800,
+      "name": "Girl Your Best Friend Done Took Your Place",
+      "url": "https://open.spotify.com/track/7hpfCSScaK9u7Lq6pZRMvC"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hit That Thing",
+        "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wayne",
+          "url": "https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA"
+        }
+      ],
+      "duration_ms": 437360,
+      "name": "Whisper Away",
+      "url": "https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -823,6 +807,22 @@
       "duration_ms": 206466,
       "name": "On The Surface",
       "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Tiger in a Cage",
+        "url": "https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rawls",
+          "url": "https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM"
+        }
+      ],
+      "duration_ms": 265053,
+      "name": "Reckless Heart",
+      "url": "https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Keep On Believing",
-        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
-      },
-      "artists": [
-        {
-          "name": "Lou Pride",
-          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "I Can't Hold It",
-      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Hit That Thing",
         "url": "https://open.spotify.com/album/46rNncqCqYequ72xyfnD55"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 320666,
       "name": "On The Drift",
       "url": "https://open.spotify.com/track/5IlAb89iBEgBzd27yyQLOX"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN"
+      },
+      "artists": [
+        {
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "I Can't Hold It",
+      "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 416163,
+  "num_followers": 416235,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDg2ZmFkYjI4NGUyNjYwZTAzMDQ4YmVhNGRiYWU3ZDU5",
+  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMGMxZmY1ZjQzNTEwZGZjMzIzMjdkMGJlYzUyYWNjN2Ex",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Kill For Love",
+        "url": "https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 322994,
+      "name": "Into The Black",
+      "url": "https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Blue Film",
         "url": "https://open.spotify.com/album/7D8AeZSOdO2eO2Htuyubd8"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 183333,
       "name": "What Would You Do",
       "url": "https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Kill For Love",
-        "url": "https://open.spotify.com/album/2Fp5KBgyC0ac2oitVlsJhY"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 322994,
-      "name": "Into The Black",
-      "url": "https://open.spotify.com/track/7MXlRIl901aXfJ2oSGn0E2"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 163342,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "The Fifth",
         "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
       },
@@ -1003,22 +987,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Eternal Flame",
-        "url": "https://open.spotify.com/album/0IytbN5ftjevadORXnCFOD"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
       },
       "artists": [
         {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        },
-        {
-          "name": "Mahogany",
-          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
         }
       ],
-      "duration_ms": 162546,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/7kqlAbUuU1v9w5LN1nOO2q"
+      "duration_ms": 163342,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1039,6 +1019,26 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/0IytbN5ftjevadORXnCFOD"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/7kqlAbUuU1v9w5LN1nOO2q"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Henry / I'm On Fire",
-        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187241,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 300684,
       "name": "Hammond Song",
       "url": "https://open.spotify.com/track/4CQ7wd8WopTHgKGr3vVPiJ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Henry / I'm On Fire",
+        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 187241,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
-      },
-      "artists": [
-        {
-          "name": "Jake McMullen",
-          "url": "https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Anthem +3",
         "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
       },
       "artists": [
         {
-          "name": "Korey Dane",
-          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
+          "name": "Jake McMullen",
+          "url": "https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN"
         }
       ],
-      "duration_ms": 274185,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+      "duration_ms": 307026,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
+      },
+      "artists": [
+        {
+          "name": "Korey Dane",
+          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
+        }
+      ],
+      "duration_ms": 274185,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Avant Gardener",
         "url": "https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 259749,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Savior Complex",
-        "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Savior Complex",
-      "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1631,6 +1615,22 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Savior Complex",
+        "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Savior Complex",
+      "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
     },
     {
       "added_at": "2022-03-22 14:40:29",

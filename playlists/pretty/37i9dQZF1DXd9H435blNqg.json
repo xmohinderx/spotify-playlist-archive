@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 25603,
+  "num_followers": 25700,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDNiOGIxOTdmZTdjZTIzZjc2ODU2NTIwNDNiZGM0NGI0",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDhiMzIzNjBmNzEyOTFjYWY0MGFmNjQyODNlMDllMzhi",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -75,18 +75,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
       "artists": [
         {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -107,18 +107,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
       },
       "artists": [
         {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
         }
       ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Ain't Too Worried Yet",
         "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 192351,
       "name": "Tears Of Blue To Gold",
       "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Don't Tell Me No Lies",
+        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 147423,
+      "name": "Don't Tell Me No Lies",
+      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Chocolate Samurai",
+        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Chocolate Samurai",
-        "url": "https://open.spotify.com/album/0iAF0Ac7k0qAZ5AkugkgBX"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/4UtHodK1fk12jrvPi2pCcP"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "The Difference Between Me & You",
         "url": "https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G"
       },
@@ -775,6 +775,26 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Have You Lost Your Mind yet?",
+        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 225551,
+      "name": "Searching for Captain Save a Hoe",
+      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/1zVOWqWdzJILGp06SBmTel"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 225551,
-      "name": "Searching for Captain Save a Hoe",
-      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
     },
     {
       "added_at": "2022-08-31 19:45:43",

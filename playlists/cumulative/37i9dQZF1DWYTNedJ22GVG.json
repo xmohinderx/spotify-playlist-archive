@@ -2644,6 +2644,24 @@
     },
     {
       "album": {
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/5t3fyEkZRQRszVQj6MOpRg"
+      },
+      "artists": [
+        {
+          "name": "Willow City",
+          "url": "https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185994,
+      "name": "The Magic Of Christmas",
+      "url": "https://open.spotify.com/track/6rkkl3MkLjTODElUll6Y84"
+    },
+    {
+      "album": {
         "name": "Christmas Party",
         "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
       },

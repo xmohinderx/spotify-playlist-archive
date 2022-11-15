@@ -1,12 +1,12 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 21424,
+  "num_followers": 21504,
   "original_name": "Instrumental Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMGFkMTY1YTYyZjU1MzE4ZjE5NDA5MjE0OTVkNzJjYzcz",
+  "snapshot_id": "MTY2NTc2MjkyNywwMDAwMDAwMGQ3OTE2MTNiNzRjZWU3OTg1YjdhZjMwNmJhYjliZjI5",
   "tracks": [
     {
       "added_at": "2022-10-14 15:55:27",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Rude Mood",
-      "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Stand Back!",
         "url": "https://open.spotify.com/album/76xRltIuAfERRJwWp1Fbbe"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 201000,
       "name": "Christo Redemptor",
       "url": "https://open.spotify.com/track/2KmDMUum37jq4TFaHXD3JY"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Rude Mood",
+      "url": "https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
-      },
-      "artists": [
-        {
-          "name": "Brian Grey",
-          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
-        }
-      ],
-      "duration_ms": 279232,
-      "name": "Smooth Night",
-      "url": "https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Super Session (with Al Kooper & Stephen Stills)",
         "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 255066,
       "name": "Blues for Nothing",
       "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS"
+        }
+      ],
+      "duration_ms": 279232,
+      "name": "Smooth Night",
+      "url": "https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "The Pious Bird of Good Omen",
-        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 94506,
-      "name": "Jigsaw Puzzle Blues",
-      "url": "https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "The Pious Bird of Good Omen",
+        "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 94506,
+      "name": "Jigsaw Puzzle Blues",
+      "url": "https://open.spotify.com/track/10dvdybqPKvTS38X4VTqkg"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Screamin' the Blues",
-        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
-      },
-      "artists": [
-        {
-          "name": "Screamin' Jay Hawkins",
-          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Sweet Ginny",
-      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 158493,
       "name": "Extra Jimmies",
       "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Screamin' the Blues",
+        "url": "https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Sweet Ginny",
+      "url": "https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea"
     },
     {
       "added_at": "2022-10-14 15:55:27",
@@ -719,26 +719,6 @@
     {
       "added_at": "2022-10-14 15:55:27",
       "album": {
-        "name": "Mercy Me",
-        "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        },
-        {
-          "name": "The Broadcasters",
-          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
-        }
-      ],
-      "duration_ms": 463400,
-      "name": "Blues For Duke Robillard",
-      "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
-    },
-    {
-      "added_at": "2022-10-14 15:55:27",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 500586,
       "name": "Overall Junction",
       "url": "https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF"
+    },
+    {
+      "added_at": "2022-10-14 15:55:27",
+      "album": {
+        "name": "Mercy Me",
+        "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
+        }
+      ],
+      "duration_ms": 463400,
+      "name": "Blues For Duke Robillard",
+      "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
     },
     {
       "added_at": "2022-10-14 15:55:27",

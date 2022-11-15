@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 245450,
+  "num_followers": 245517,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGE4NDUwNDIzMWYyZmI1NGFhM2Q1MzY2ODMxM2IzMWMw",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGE1YzBkYjFkYzhiMDk2YWRkYjkwNjJmNDFmYjUxNTg0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -125,20 +125,20 @@
       "url": "https://open.spotify.com/track/5mY8nk4BPdPmX3MBCaXUWK"
     },
     {
-      "added_at": "2022-09-30 16:41:21",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Kill Her Freak Out",
-        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Kill Her Freak Out",
-      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/3MtmuBO41qbBp9qkg7o1Hh"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
+      "added_at": "2022-09-30 16:41:21",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Kill Her Freak Out",
+        "url": "https://open.spotify.com/album/3em3bEmd56ykqk9Hc8TYt1"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
+      "duration_ms": 260013,
+      "name": "Kill Her Freak Out",
+      "url": "https://open.spotify.com/track/52k45PRM4dPM8r4JLsmfVo"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 195773,
       "name": "Big Wheel",
       "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "The Man Who Sees Tomorrow / Lodarore",
         "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 211733,
       "name": "The Man Who Sees Tomorrow",
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/0p62EsX82Xd24KmMhORtwC"
-      },
-      "artists": [
-        {
-          "name": "Rachael Jenkins",
-          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/2PMo0BYsGBY2TgHJ5Gm4oT"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 249137,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/0p62EsX82Xd24KmMhORtwC"
+      },
+      "artists": [
+        {
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/2PMo0BYsGBY2TgHJ5Gm4oT"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 307613,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0xhHw3EIyZ05mboRXpJWxs"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 307613,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0xhHw3EIyZ05mboRXpJWxs"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 252291,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "People Pleaser",
-        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 252291,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 308706,
+      "name": "If It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
         }
       ],
-      "duration_ms": 308706,
-      "name": "If It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
+      "duration_ms": 192000,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 206950,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Silk",
-        "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
-      },
-      "artists": [
-        {
-          "name": "Giselle",
-          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Silk",
-      "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
     },
     {
       "added_at": "2022-09-16 04:00:00",

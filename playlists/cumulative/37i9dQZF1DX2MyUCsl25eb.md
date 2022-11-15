@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-461 songs - 1 day 2 hr 52 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
+462 songs - 1 day 2 hr 55 min - [published](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Freedom \(Johnny's Song\)](https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Freedom \(Johnny's Song\)](https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw) | 4:12 | 2022-05-13 | 2022-05-20 |
 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 | 2021-08-04 | 2022-04-02 |
 | [FWM](https://open.spotify.com/track/4Ny0MeVGtYFmnl78RfnAB0) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [FWM](https://open.spotify.com/album/3cioLrdzn84o1AFhznp3AO) | 2:42 | 2022-09-02 | 2022-09-10 |
-| [get over you](https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [get over you](https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU) | 2:53 | 2022-09-30 | 2022-11-14 |
+| [get over you](https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [get over you](https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU) | 2:53 | 2022-09-30 |  |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 | 2022-07-29 |
 | [Get What You Want](https://open.spotify.com/track/6sUOIfXOVPadEdWa3Otr0Y) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Get What You Want](https://open.spotify.com/album/1QujFDWoU7kZy31k7r5vwd) | 4:31 | 2022-02-04 | 2022-07-18 |
 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 | 2022-08-12 |  |
@@ -213,6 +213,7 @@
 | [I Just Don't Think I'll Ever Get Over You](https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Transcendental Highway](https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m) | 5:28 | 2021-08-04 | 2022-04-21 |
 | [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-16 | 2022-11-02 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |
+| [I Just Want a Lover](https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:21 | 2022-09-16 |  |
 | [I Love You](https://open.spotify.com/track/0KEJPuUHG7rKPwGgoIEOJt) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:01 | 2022-09-23 | 2022-10-01 |
 | [I Went Hunting](https://open.spotify.com/track/2X0B89nchlocmZ12zyYd7H) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [I Went Hunting](https://open.spotify.com/album/1P1G2eyoP4UphHDjRiol6T) | 3:45 | 2022-06-03 | 2022-09-10 |
 | [I Won't Let You Go](https://open.spotify.com/track/6Tzq8VMhkc2Oq1SBlHtKNS) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland \(Deluxe Edition\)](https://open.spotify.com/album/2yKAk0fUsuKDpAHUEvQzbB) | 3:18 | 2022-09-16 | 2022-09-24 |
@@ -333,7 +334,7 @@
 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 | 2022-10-28 |  |
 | [Purple Haze](https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Purple Haze](https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm) | 3:25 | 2022-05-13 | 2022-07-29 |
 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 | 2021-08-04 | 2022-08-13 |
-| [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-07-01 |  |
+| [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-07-01 | 2022-11-15 |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2021-08-04 | 2022-08-13 |
 | [Ready to Go](https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:07 | 2022-06-24 | 2022-10-07 |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-06-24 | 2022-09-15 |
@@ -370,7 +371,7 @@
 | [SOME TIME\(S\)](https://open.spotify.com/track/3si68QloSfvdnNopCbtbh2) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 7: SOME TIME\(S\)](https://open.spotify.com/album/5jNH3x7fryq5BaPt1YhcYJ) | 2:11 | 2022-01-21 | 2022-07-06 |
 | [Somebody Else](https://open.spotify.com/track/4eaW9mt8VdDWqtC9CRUhLm) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Somebody Else](https://open.spotify.com/album/7BG5k1KQgcjVwB7knOwhHQ) | 3:13 | 2022-02-25 | 2022-04-17 |
 | [Somebody's Nobody](https://open.spotify.com/track/3Bc5XUS5sTHtAde1ZA2FzC) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Somebody's Nobody](https://open.spotify.com/album/5tuZ5QFAdNcQqd6ghXAfbb) | 3:42 | 2022-06-24 | 2022-07-02 |
-| [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 |  |
+| [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 | 2022-11-15 |
 | [Something New](https://open.spotify.com/track/1i5cR4r7eiPcl1X8JYPDFu) | [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Something New](https://open.spotify.com/album/0WJ9MrW2T4ogWvBoH6u4iI) | 4:34 | 2022-04-22 | 2022-07-29 |
 | [Something To Hold](https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Something To Hold](https://open.spotify.com/album/58WEkFrueGp8HFOZlJKRdw) | 4:31 | 2021-10-22 | 2022-07-28 |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2022-08-26 | 2022-09-03 |

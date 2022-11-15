@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-960 songs - 2 day 3 hr 56 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+961 songs - 2 day 3 hr 59 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 | 2022-11-10 |  |
 | [Dengo](https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Digo Ou Não Digo](https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O) | 2:33 | 2022-05-31 | 2022-06-01 |
 | [Der Zug hat keine Bremse \- Mallorcastyle Edition](https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Malle Anja](https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd) | [Der Zug hat keine Bremse \(Mallorcastyle Edition\)](https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ) | 3:27 | 2022-07-19 | 2022-07-31 |
-| [Deritaku](https://open.spotify.com/track/5lJZk0unuxPH3sp9NQr7Rh) | [David Bayu](https://open.spotify.com/artist/3jeN1xOULuoVF6284LDaQO) | [Di Dalam Jiwa](https://open.spotify.com/album/1kyeyIhAss4ijrem8biNIh) | 4:37 | 2022-11-06 |  |
+| [Deritaku](https://open.spotify.com/track/5lJZk0unuxPH3sp9NQr7Rh) | [David Bayu](https://open.spotify.com/artist/3jeN1xOULuoVF6284LDaQO) | [Di Dalam Jiwa](https://open.spotify.com/album/1kyeyIhAss4ijrem8biNIh) | 4:37 | 2022-11-06 | 2022-11-15 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-30 | 2022-05-07 |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-24 | 2022-06-15 |
 | [Deserto \(Ao Vivo\)](https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Deserto \(Ao Vivo\)](https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW) | 4:28 | 2022-10-10 | 2022-10-31 |
@@ -736,6 +736,7 @@
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2021-12-27 | 2022-01-08 |
 | [Sahabat Dulu \- From Layangan Putus](https://open.spotify.com/track/0zwz8FMlxFZXdnMHhLNvx5) | [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Sahabat Dulu \(From Layangan Putus\)](https://open.spotify.com/album/5abXZR2GOqONPOc7ZuYoEO) | 4:03 | 2022-01-13 | 2022-02-03 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2021-12-27 | 2022-02-09 |
+| [Sakladığın Bir Şeyler Var](https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sakladığın Bir Şeyler Var](https://open.spotify.com/album/4Q9gbvetq0DATn0W7OIfZ8) | 3:16 | 2022-11-14 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-04-15 | 2022-05-15 |
 | [Sana Çıkıyor Yollar \- Kaderimin Oyunu Orijinal Dizi Müziği](https://open.spotify.com/track/7dvt5DT77W7neWuCfCUOYV) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Sana Çıkıyor Yollar \(Kaderimin Oyunu Orijinal Dizi Müziği\)](https://open.spotify.com/album/6GR9ERCXRTQ8edXsSuX7wi) | 3:49 | 2022-03-02 | 2022-03-16 |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2022-09-08 | 2022-09-21 |

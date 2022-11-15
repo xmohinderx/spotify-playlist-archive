@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: لمياء المالكي
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,906 likes - 52 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,956 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 43 | [Ohbak Men Alsefr](https://open.spotify.com/track/0TnZyPBrljwrLbDcTPV2sm) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Ohbak Men Alsefr](https://open.spotify.com/album/7siwoCTPM0vqvG6yEr5Q5v) | 3:57 |
 | 44 | [Men Twadaana](https://open.spotify.com/track/32PvqSteo1Soty0xd4Ojkk) | [Marwan Fagi](https://open.spotify.com/artist/6jX88gTjWQ2vmswdN1n5TH) | [Men Twadaana](https://open.spotify.com/album/34XzgcFeoIZ2h3cMjpFQLQ) | 7:51 |
 | 45 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 |
-| 46 | [FAWDA](https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [Fawda](https://open.spotify.com/album/3GuiCyLeLuDUCpLuxjt16U) | 3:20 |
-| 47 | [Asher Safha](https://open.spotify.com/track/6LS75pBeHxcJ9rUYecFz33) | [Ibrahim Al Hakmi](https://open.spotify.com/artist/5tW4IIHdo0QDx1KvTu03yc) | [Asher Safha](https://open.spotify.com/album/5jjwXhLhOAbqXFGkibas73) | 4:51 |
-| 48 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 |
-| 49 | [ولا غلطة](https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [ولا غلطة](https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33) | 4:35 |
-| 50 | [Sameet Ashyaa](https://open.spotify.com/track/7eGawwsI0Q5h6OKuU73Ozq) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Sameet Ashyaa](https://open.spotify.com/album/7qZ1IHHWxO103OVGTKuQll) | 4:52 |
-| 51 | [Wahshni](https://open.spotify.com/track/7qXJDw6ucdCPRPXYSDRdBX) | [Essa Alwad](https://open.spotify.com/artist/5EZ7zMZU3c0JMHq0yczerM) | [Wahshni](https://open.spotify.com/album/6NHVn2BIPCjj5mHuWLqLKV) | 4:03 |
-| 52 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 |
+| 46 | [Asher Safha](https://open.spotify.com/track/6LS75pBeHxcJ9rUYecFz33) | [Ibrahim Al Hakmi](https://open.spotify.com/artist/5tW4IIHdo0QDx1KvTu03yc) | [Asher Safha](https://open.spotify.com/album/5jjwXhLhOAbqXFGkibas73) | 4:51 |
+| 47 | [La Teharef](https://open.spotify.com/track/5aBHfsSGRuPxPdu3JPEusq) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [لا تحرف](https://open.spotify.com/album/3GQwWZK3ojppjzPkRGj7x5) | 3:54 |
+| 48 | [ولا غلطة](https://open.spotify.com/track/1Htw7lMJaoL7Wg1o1oh3rK) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [ولا غلطة](https://open.spotify.com/album/4BBuPUUSsT8qkatKvZJb33) | 4:35 |
+| 49 | [Sameet Ashyaa](https://open.spotify.com/track/7eGawwsI0Q5h6OKuU73Ozq) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Sameet Ashyaa](https://open.spotify.com/album/7qZ1IHHWxO103OVGTKuQll) | 4:52 |
+| 50 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 |
 
-Snapshot ID: `MTY2ODExMjcyOSwwMDAwMDAwMGMxN2M0MWQ3NjZjZTRmMTk0MDMwZWU1ZWU0YzJmMTUz`
+Snapshot ID: `MTY2ODQzMTk4MiwwMDAwMDAwMGY5ZTc0OGY3NGMxYTNhNzUwODQxMDc2MGQ5YWFmMTRm`

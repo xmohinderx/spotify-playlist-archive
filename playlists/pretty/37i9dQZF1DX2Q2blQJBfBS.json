@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 12562,
+  "num_followers": 12965,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDNhYmNmM2QwZGE1NjJlMmI2NDQ2OWViYjY0MTE0ODlj",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGZlZTUwZWFkNTQzODIzNTc5YjJlZDYzZGZkMjA1OTVk",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Whos The Man ? Soundtrack",
+        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Party And Bullshit",
+      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "This Thing Of Ours 2",
         "url": "https://open.spotify.com/album/0bFVjwPABfPBSWimES0TJ6"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 286693,
       "name": "They Reminisce Over You (T.R.O.Y.)",
       "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Whos The Man ? Soundtrack",
-        "url": "https://open.spotify.com/album/2lka9gSjkghBBSjktHnN6o"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Party And Bullshit",
-      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Da Dirty 30",
+        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
+      },
+      "artists": [
+        {
+          "name": "Cru",
+          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Just Another Case",
+      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Reachin' (A New Refutation Of Time And Space)",
         "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Pieces of a Man",
-        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 208570,
-      "name": "Understood",
-      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
+      "duration_ms": 270653,
+      "name": "Paris, Tokyo",
+      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -791,18 +807,18 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Da Dirty 30",
-        "url": "https://open.spotify.com/album/38qjFxaMcaV2ldcjFAxsus"
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/2YUoojiwp6nk5mBAUbEz9a"
       },
       "artists": [
         {
-          "name": "Cru",
-          "url": "https://open.spotify.com/artist/5ABjqwkg5LEPICnTeoeXKf"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Just Another Case",
-      "url": "https://open.spotify.com/track/60KWmDnLE9jB9dHVkhlu3P"
+      "duration_ms": 208570,
+      "name": "Understood",
+      "url": "https://open.spotify.com/track/0TUK4LKkHVHdsLwscQckX6"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -823,22 +839,6 @@
       "duration_ms": 161971,
       "name": "Black Balloons Reprise",
       "url": "https://open.spotify.com/track/2csZLnXBMuw6ETZuRxdUZF"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Lupe Fiasco's The Cool",
-        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Paris, Tokyo",
-      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
     },
     {
+      "added_at": "2022-09-02 18:33:39",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Flying High",
@@ -1173,22 +1189,6 @@
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
-      "added_at": "2022-09-02 18:33:39",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Liquid Swords",
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/6NTceGKsDLTYehlyRbYp6O"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Lyrics to Go",
+      "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
+    },
+    {
       "added_at": "2022-08-05 12:00:00",
       "album": {
         "name": "48",
@@ -1235,22 +1251,6 @@
       "duration_ms": 159236,
       "name": "48 (feat. Pink Siifu)",
       "url": "https://open.spotify.com/track/5miJWaIbJqBnoybPj4B5ys"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Lyrics to Go",
-      "url": "https://open.spotify.com/track/6YRZngBVAy2FgUQWk3lwL1"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1569,26 +1569,6 @@
       "url": "https://open.spotify.com/track/1xrJeIsj8aeAH6BTwo8UIt"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
-      "album": {
-        "name": "Intros, Outros & Interludes",
-        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
-      },
-      "artists": [
-        {
-          "name": "Domo Genesis",
-          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "Victories & Losses",
-      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
-    },
-    {
       "added_at": "2022-07-22 04:00:00",
       "album": {
         "name": "Beep",
@@ -1613,6 +1593,26 @@
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
+      "added_at": "2022-08-05 12:00:00",
+      "album": {
+        "name": "Intros, Outros & Interludes",
+        "url": "https://open.spotify.com/album/6EPg4n0tIsQpXmfAnpLHzq"
+      },
+      "artists": [
+        {
+          "name": "Domo Genesis",
+          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Victories & Losses",
+      "url": "https://open.spotify.com/track/2K6ZrSKialsq4WWq4Em7xk"
+    },
+    {
       "added_at": "2022-07-08 12:00:00",
       "album": {
         "name": "Lyrics to GO, Vol. 3",
@@ -1627,30 +1627,6 @@
       "duration_ms": 68830,
       "name": "Cherry Beach",
       "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
-    },
-    {
-      "added_at": "2022-10-14 13:44:02",
-      "album": {
-        "name": "Duck Czn: Tiger Style",
-        "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        },
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Juju Gotti",
-          "url": "https://open.spotify.com/artist/3TYhHJh2wilFc8Dl0imwiu"
-        }
-      ],
-      "duration_ms": 142824,
-      "name": "Love is Luh",
-      "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1687,6 +1663,30 @@
       "duration_ms": 146573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+    },
+    {
+      "added_at": "2022-10-14 13:44:02",
+      "album": {
+        "name": "Duck Czn: Tiger Style",
+        "url": "https://open.spotify.com/album/79dXRvICjB1MEh59eKYKTi"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        },
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Juju Gotti",
+          "url": "https://open.spotify.com/artist/3TYhHJh2wilFc8Dl0imwiu"
+        }
+      ],
+      "duration_ms": 142824,
+      "name": "Love is Luh",
+      "url": "https://open.spotify.com/track/3hdiBpmtZ1hjhB8WidoFAa"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1781,22 +1781,6 @@
       "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "Balens Cho (Hot Candles)",
-        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
-      },
-      "artists": [
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "LABOU",
-      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
-    },
-    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Looking for Water (feat. Boldy James)",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
+        "name": "Balens Cho (Hot Candles)",
+        "url": "https://open.spotify.com/album/3lYDlFILOCtV39ompt2uRs"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LABOU",
+      "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/6qO0jpRkTTdJBpfvAjeg5x"
       },
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Poppin' Wheelies",
-        "url": "https://open.spotify.com/album/3yRpcAJk3hnmF4jBSCOT8P"
-      },
-      "artists": [
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        },
-        {
-          "name": "Sugg Savage",
-          "url": "https://open.spotify.com/artist/1Yi0bXcg8GmWccv2pJ1pow"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Poppin' Wheelies",
-      "url": "https://open.spotify.com/track/58kmtIUjA2VI4tJQQLxxAB"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "To Kill A Sunrise",
         "url": "https://open.spotify.com/album/0inJD6mDF0x5zIAv774uE2"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 222439,
       "name": "The Cold",
       "url": "https://open.spotify.com/track/68cmih5OJnacarGh9wPnpw"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Poppin' Wheelies",
+        "url": "https://open.spotify.com/album/3yRpcAJk3hnmF4jBSCOT8P"
+      },
+      "artists": [
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        },
+        {
+          "name": "Sugg Savage",
+          "url": "https://open.spotify.com/artist/1Yi0bXcg8GmWccv2pJ1pow"
+        }
+      ],
+      "duration_ms": 177946,
+      "name": "Poppin' Wheelies",
+      "url": "https://open.spotify.com/track/58kmtIUjA2VI4tJQQLxxAB"
     },
     {
       "added_at": "2022-08-12 12:00:00",

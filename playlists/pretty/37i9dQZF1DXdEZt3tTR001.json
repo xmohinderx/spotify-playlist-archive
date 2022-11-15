@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 84995,
+  "num_followers": 85133,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExOTMyMywwMDAwMDAwMGI1NzA5ZjEwMTM0YjVlODA3MjYyZDdmZWJhZmJmNzk0",
+  "snapshot_id": "MTY2ODExOTMyMywwMDAwMDAwMGU5NzVmNWViMTNiYTllZDNlNGY4NzVkYTExMGYwZDM1",
   "tracks": [
     {
       "added_at": "2022-11-04 03:52:39",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
         "name": "Love Soul",
         "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
-        "name": "Fortunate",
-        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 301160,
-      "name": "Fortunate",
-      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 240306,
       "name": "This Woman's Work - Remastered 2021",
       "url": "https://open.spotify.com/track/741OE401HO7ZCaPhEqCZ7w"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 198137,
-      "name": "Falling Higher",
-      "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
         "name": "How Could I Forget You",
         "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214054,
       "name": "How Could I Forget You",
       "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 198137,
+      "name": "Falling Higher",
+      "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "A Real Romantic",
-        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
       "artists": [
         {
-          "name": "ELIZA",
-          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 269354,
-      "name": "Livid",
-      "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
+      "duration_ms": 255880,
+      "name": "If",
+      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+        "name": "A Real Romantic",
+        "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
         }
       ],
-      "duration_ms": 255880,
-      "name": "If",
-      "url": "https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m"
+      "duration_ms": 269354,
+      "name": "Livid",
+      "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
     },
     {
       "added_at": "2022-11-04 03:52:39",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-11-04 03:52:39",
       "album": {
-        "name": "Best Of Both Worlds",
-        "url": "https://open.spotify.com/album/7xapjTJctomHjCQI8bNSXP"
-      },
-      "artists": [
-        {
-          "name": "Davina",
-          "url": "https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/6IitCjxg3AQvuQEdN3gzl6"
-    },
-    {
-      "added_at": "2022-11-04 03:52:39",
-      "album": {
         "name": "Keep Your Head Up",
         "url": "https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 163725,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"
+    },
+    {
+      "added_at": "2022-11-04 03:52:39",
+      "album": {
+        "name": "Best Of Both Worlds",
+        "url": "https://open.spotify.com/album/7xapjTJctomHjCQI8bNSXP"
+      },
+      "artists": [
+        {
+          "name": "Davina",
+          "url": "https://open.spotify.com/artist/13gLWDdUjHWnK0XWn3gZMP"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/6IitCjxg3AQvuQEdN3gzl6"
     },
     {
       "added_at": "2022-11-04 03:52:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Lucrecia Dalt Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,886 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,933 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 27 | [The Fifty](https://open.spotify.com/track/07VqE9HRlrZeWj72Ka4FKA) | [Cameron Morse](https://open.spotify.com/artist/5w17BTK3HRhjZoyqe47yIl) | [The Truth Is](https://open.spotify.com/album/6df4g0WHHjokEWvS7LJCp8) | 6:42 |
 | 28 | [Flux](https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Flux](https://open.spotify.com/album/47OhENaoLcx2paWK9GgzUR) | 1:41 |
 | 29 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 |
-| 30 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
-| 31 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
-| 32 | [Our Wretched Fantasy](https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP) | 3:30 |
+| 30 | [Ola De Luz](https://open.spotify.com/track/32sj28mo2pbqzDjW4ZvsuH) | [OKRAA](https://open.spotify.com/artist/1ZfxnR3DTdddhuKtkIGIKU) | [1994](https://open.spotify.com/album/1p75jJjxx7Eu2nlAlQEtGE) | 10:45 |
+| 31 | [Our Wretched Fantasy](https://open.spotify.com/track/5lstHySnldFN68oPjVdp4E) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Heaven Come Crashing](https://open.spotify.com/album/15hyxv55DQ8mUaqQVLlrBP) | 3:30 |
+| 32 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
 | 33 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
 | 34 | [First Fall](https://open.spotify.com/track/6AN0JXPYfKBBt0448z4gIo) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [First Fall](https://open.spotify.com/album/7JBiWEAj1vO4zIY5q0WzF5) | 4:10 |
 | 35 | [deaf](https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg) | [TAKA](https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm) | [Theory](https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy) | 3:58 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 37 | [Castlefields](https://open.spotify.com/track/07MubErPyTNwhPmls9B2ov) | [Tara Clerkin](https://open.spotify.com/artist/1YcBnLLKFvHMwI50zfdCq6), [Sunny Joe Paradisos](https://open.spotify.com/artist/5Ie1d2b7AKpOYCG2SLb3mI) | [Castlefields](https://open.spotify.com/album/6GNyX4SyIOgdubONONUvGh) | 8:14 |
 | 38 | [DOG](https://open.spotify.com/track/3ZAuPoxTsFsMfY9cNxyFYy) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/0wiBZdQc7wQA1s6oOZmlNx) | 1:44 |
 | 39 | [Liquid Planta Seeds](https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Cosmic Planta](https://open.spotify.com/album/4wVoG2nw1uzxfsY8mD3ard) | 3:24 |
-| 40 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 |
-| 41 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
-| 42 | [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 |
+| 40 | [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 |
+| 41 | [Exile on Ærø](https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 4:25 |
+| 42 | [UMMA \- Arssalendo Remix](https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0) | [BLUEM](https://open.spotify.com/artist/1eFOTBAGM0w0SH7jnTYSd1), [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [UMMA \(Remix\)](https://open.spotify.com/album/2sCXqX8nII3Qk3ms7k4n9F) | 3:17 |
 | 43 | [Strawberry Moon](https://open.spotify.com/track/1l36C1nispFZoAkCFcrZ5j) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Strawberry Moon](https://open.spotify.com/album/2f7enrxh25CxKTecl5wfhi) | 3:07 |
 | 44 | [Sleeping Tiger on the Bund 蓄势待发 \- Flora Wong Remix](https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Flora Wong](https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu) | [Sleeping Tiger on the Bund 蓄势待发 \(Flora Wong Remix\)](https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov) | 3:21 |
 | 45 | [Order](https://open.spotify.com/track/475IphfrYFRjHxnPHBnLX1) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/1fFU85M8LbkuMS28rHI3zn) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 |
 | 50 | [Spopolatore](https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI) | [Valerio Tricoli](https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD) | [Say Goodbye To The Wind](https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ) | 25:44 |
 
-Snapshot ID: `MTY2ODAwMTg4MCwwMDAwMDAwMGY0YTA3MmM5ZTc4Mjg0OWJlNWQzOGY5OTMwYjJlMTk3`
+Snapshot ID: `MTY2ODAwMTg4MCwwMDAwMDAwMDMxOWFhOTc4NzAyYzQwZjdhZTU1YWJkOGU3ZjJmMGU2`

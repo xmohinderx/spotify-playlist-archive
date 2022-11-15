@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Clarity Moon",
+        "url": "https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV"
+      },
+      "artists": [
+        {
+          "name": "Liam Steed",
+          "url": "https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Clarity Moon",
+      "url": "https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi"
+    },
+    {
+      "album": {
         "name": "Calming Water",
         "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
       },
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 255578,
       "name": "Reinstatement",
       "url": "https://open.spotify.com/track/4BbjIfCfHRMnqfrzLNaYsx"

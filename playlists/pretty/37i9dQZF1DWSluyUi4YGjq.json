@@ -1,29 +1,13 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 21422,
+  "num_followers": 21442,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMGY5YTU3ZjkwMDUyZWU3MjQwNGZmYTE5ZWI4YTUxMWVk",
+  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMDdlNDA4OGFiNTU1MTgxYThjMWVlNWRlNDBiNTg5MjBm",
   "tracks": [
-    {
-      "added_at": "2022-09-29 00:07:21",
-      "album": {
-        "name": "Belinda Says / Very Online Guy",
-        "url": "https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 165445,
-      "name": "Belinda Says",
-      "url": "https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR"
-    },
     {
       "added_at": "2021-11-25 22:10:49",
       "album": {
@@ -71,22 +55,6 @@
       "duration_ms": 206533,
       "name": "Ease",
       "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
-    },
-    {
-      "added_at": "2022-11-14 01:06:14",
-      "album": {
-        "name": "T.W.I.N.",
-        "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 187654,
-      "name": "T.W.I.N.",
-      "url": "https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -283,22 +251,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
       },
@@ -311,6 +263,38 @@
       "duration_ms": 200441,
       "name": "Pulling Our Weight",
       "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/2N2vs5kpPy5Lcqnn8PYYdy"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -347,22 +331,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/2N2vs5kpPy5Lcqnn8PYYdy"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Everything Else Matters",
         "url": "https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL"
       },
@@ -375,6 +343,22 @@
       "duration_ms": 248744,
       "name": "Holy Forest",
       "url": "https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4"
+    },
+    {
+      "added_at": "2022-09-29 00:07:21",
+      "album": {
+        "name": "Belinda Says / Very Online Guy",
+        "url": "https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 165445,
+      "name": "Belinda Says",
+      "url": "https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -427,6 +411,22 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
         "name": "LSD and the Search for God",
         "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Happy Songs for Happy Zombies",
+        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
       },
       "artists": [
         {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
+      "duration_ms": 204202,
+      "name": "Blaster",
+      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
       "added_at": "2022-01-07 19:52:45",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Happy Songs for Happy Zombies",
-        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
-      },
-      "artists": [
-        {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
-        }
-      ],
-      "duration_ms": 204202,
-      "name": "Blaster",
-      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -585,22 +569,6 @@
       "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
-      "added_at": "2022-09-21 00:43:29",
-      "album": {
-        "name": "The world within our bedrooms",
-        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "Frame Of Reference",
-      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Sway",
@@ -617,6 +585,22 @@
       "url": "https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx"
     },
     {
+      "added_at": "2022-09-21 00:43:29",
+      "album": {
+        "name": "The world within our bedrooms",
+        "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "Frame Of Reference",
+      "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+    },
+    {
       "added_at": "2022-09-21 00:37:05",
       "album": {
         "name": "You Will Never Know Why",
@@ -631,6 +615,22 @@
       "duration_ms": 281746,
       "name": "Air Supply",
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+      "duration_ms": 235565,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -695,22 +695,6 @@
       "duration_ms": 125333,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2022-05-03 02:08:01",
@@ -793,6 +777,22 @@
       "url": "https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83"
     },
     {
+      "added_at": "2022-11-15 01:04:49",
+      "album": {
+        "name": "T.W.I.N.",
+        "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 187654,
+      "name": "T.W.I.N.",
+      "url": "https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Citrus",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
     },
     {
-      "added_at": "2022-04-22 18:11:35",
-      "album": {
-        "name": "Giving The World Away",
-        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
-      },
-      "artists": [
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 270226,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Pure Mood",
@@ -855,6 +839,22 @@
       "duration_ms": 259957,
       "name": "Stare at the Sun",
       "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
+    },
+    {
+      "added_at": "2022-04-22 18:11:35",
+      "album": {
+        "name": "Giving The World Away",
+        "url": "https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Wait to Pleasure",
-        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
-      },
-      "artists": [
-        {
-          "name": "No Joy",
-          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
-        }
-      ],
-      "duration_ms": 206023,
-      "name": "Hare Tarot Lies",
-      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Winks & Kisses: Crackled",
         "url": "https://open.spotify.com/album/7vk2rJgOvtYV5GXsU3wdKB"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 396253,
       "name": "Shirley Temple Tidal Wave",
       "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Wait to Pleasure",
+        "url": "https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "duration_ms": 206023,
+      "name": "Hare Tarot Lies",
+      "url": "https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
-      },
-      "artists": [
-        {
-          "name": "Slow Crush",
-          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/79dOItYSIbHwx59fsP3nIu"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 191901,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/3Jm7MsbwpxMS51YDb7EyEj"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
+      },
+      "artists": [
+        {
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
     },
     {
+      "added_at": "2022-01-14 02:28:22",
+      "album": {
+        "name": "For you, Adroit it but soft",
+        "url": "https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "While My Waves Wonder",
+      "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Always, Sometimes, Seldom, Never",
@@ -1427,22 +1443,6 @@
       "duration_ms": 211707,
       "name": "Surprise",
       "url": "https://open.spotify.com/track/6kLVZ6ck4U6AljgTMUYhEe"
-    },
-    {
-      "added_at": "2022-01-14 02:28:22",
-      "album": {
-        "name": "For you, Adroit it but soft",
-        "url": "https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm"
-      },
-      "artists": [
-        {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "While My Waves Wonder",
-      "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/5cTWjmahOp7R6KGy7cAhmM"
     },
     {
-      "added_at": "2022-09-29 01:17:03",
-      "album": {
-        "name": "\u76f8\u5c0d\u6027\u975c\u6b62",
-        "url": "https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi"
-      },
-      "artists": [
-        {
-          "name": "Codie",
-          "url": "https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Mobius",
-      "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Love Comes In Waves",
@@ -1587,6 +1571,22 @@
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
+    },
+    {
+      "added_at": "2022-09-29 01:17:03",
+      "album": {
+        "name": "\u76f8\u5c0d\u6027\u975c\u6b62",
+        "url": "https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi"
+      },
+      "artists": [
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Mobius",
+      "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
     },
     {
       "added_at": "2021-10-19 01:47:29",

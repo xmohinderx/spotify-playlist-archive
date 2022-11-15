@@ -454,6 +454,28 @@
     },
     {
       "album": {
+        "name": "Nimbus",
+        "url": "https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx"
+      },
+      "artists": [
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        },
+        {
+          "name": "Feathervane",
+          "url": "https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Arcus",
+      "url": "https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC"
+    },
+    {
+      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/27XE3ZqaYVHk90dFLDJMLv"
       },
@@ -1114,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Nimbus",
+        "url": "https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx"
+      },
+      "artists": [
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Cirrus",
+      "url": "https://open.spotify.com/track/5ckFfWq62GHZVuhQiilShT"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0lqnYWgBm6wxmvTPwwjduy"
       },
@@ -1267,6 +1307,28 @@
       "duration_ms": 148297,
       "name": "CRY",
       "url": "https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu"
+    },
+    {
+      "album": {
+        "name": "Malva",
+        "url": "https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2"
+      },
+      "artists": [
+        {
+          "name": "Flexible Fire",
+          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
+        },
+        {
+          "name": "Etza",
+          "url": "https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Cyan",
+      "url": "https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV"
     },
     {
       "album": {
@@ -1638,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Nimbus",
+        "url": "https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx"
+      },
+      "artists": [
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1f0eSdVvOwkGMHL4NmL6dK"
+    },
+    {
+      "album": {
         "name": "Drift Away",
         "url": "https://open.spotify.com/album/6syTBBVYJJ9Tlp4sBAW2k4"
       },
@@ -1861,7 +1941,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 156000,
       "name": "fallen",
       "url": "https://open.spotify.com/track/7aiv9KI14BSQ1syfHIvmdF"
@@ -2783,7 +2863,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 182686,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y"
@@ -4539,7 +4619,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 164008,
       "name": "Reason",
       "url": "https://open.spotify.com/track/62BS0SmeL2LGgpiTTcFYQ0"
@@ -6583,7 +6663,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 202000,
       "name": "Zazim Beyhad (We Move Together)",
       "url": "https://open.spotify.com/track/2CAejyWEtCiscWvgvCYSDK"

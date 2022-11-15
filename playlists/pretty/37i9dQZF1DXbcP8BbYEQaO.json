@@ -1,12 +1,12 @@
 {
   "description": "in the evening the real me comes alive",
-  "num_followers": 158871,
+  "num_followers": 159106,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwODE2MywwMDAwMDAwMDk5NTQyZmNiNmI3MGI3ZTZlZWYxOTNlNWJmYTI4YTk1",
+  "snapshot_id": "MTY2ODIwODE2MywwMDAwMDAwMDk0MTEwYTRjMjJmNjA4YTcwNWIzMjlmYmE5NTJlYTUx",
   "tracks": [
     {
       "added_at": "2022-11-11 23:09:23",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 124959,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 124959,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Yuck",
-      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "How Long (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 199314,
       "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "PIECES",
-        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 166680,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 163116,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 166680,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
       },
       "artists": [
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 172563,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
+      "duration_ms": 188168,
+      "name": "VERDE MENTA",
+      "url": "https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -487,6 +487,22 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -531,22 +547,6 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "VERDE MENTA",
-      "url": "https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "Sting",
-        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Sting",
-      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 282386,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "Sting",
+        "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Sting",
+      "url": "https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 159608,
-      "name": "See You In My Dreams",
-      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "Night Call (Deluxe)",
-        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz"
       },
       "artists": [
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 170319,
-      "name": "Night Call",
-      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -883,6 +867,22 @@
       "duration_ms": 155327,
       "name": "ICARUS",
       "url": "https://open.spotify.com/track/4flE50KratI5sjuZfrAYyi"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "Night Call (Deluxe)",
+        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "Night Call",
+      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
-        "name": "Lost In The Moment",
-        "url": "https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ"
-      },
-      "artists": [
-        {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
-        }
-      ],
-      "duration_ms": 153214,
-      "name": "Lost In The Moment",
-      "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 238019,
       "name": "Sirens (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
+        "name": "Lost In The Moment",
+        "url": "https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "duration_ms": 153214,
+      "name": "Lost In The Moment",
+      "url": "https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa"
     },
     {
       "added_at": "2022-11-11 23:09:23",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-11-11 23:09:23",
       "album": {
+        "name": "Slow Dancing (The Remixes)",
+        "url": "https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        },
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Slow Dancing - Hazel English Remix",
+      "url": "https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1"
+    },
+    {
+      "added_at": "2022-11-11 23:09:23",
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 206666,
       "name": "Temper",
       "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
-    },
-    {
-      "added_at": "2022-11-11 23:09:23",
-      "album": {
-        "name": "Slow Dancing (The Remixes)",
-        "url": "https://open.spotify.com/album/6A6pDT6OjxQdERBJcyLPgK"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        },
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Slow Dancing - Hazel English Remix",
-      "url": "https://open.spotify.com/track/0GJoAMeJgACw4P4hczLxQ1"
     },
     {
       "added_at": "2022-11-11 23:09:23",

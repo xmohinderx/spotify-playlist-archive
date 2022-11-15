@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "ADAUGO",
+        "url": "https://open.spotify.com/album/7FA8ItLt3NvvgL8ZExtpih"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "ADAUGO",
+      "url": "https://open.spotify.com/track/6lxai3ZSpU2UctunwrCjvp"
+    },
+    {
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/5oVYOWGSA1iXbviwW3SnTH"
       },
@@ -2128,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/7omcOY3k8mqGaaoW3gUELy"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158385,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/0PhhA3xoYyhUQEMsUaJSsW"
+    },
+    {
+      "album": {
         "name": "Pana",
         "url": "https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz"
       },
@@ -2665,6 +2701,28 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Special (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4"
     },
     {
       "album": {

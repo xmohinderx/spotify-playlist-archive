@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 20682,
+  "num_followers": 20719,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMDc2ZTZhYTZhZGMwNWNlMjNlMDQzMWYwZDFlNWU0NmNl",
+  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMDY3OGQyN2QxMGZiY2YwNDEyNDU2YzQ1NjhkOWM1YzZm",
   "tracks": [
     {
       "added_at": "2022-10-11 14:49:50",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Blue Haze",
+        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Tune-Up",
+      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Milestones",
         "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
@@ -215,22 +231,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Blue Haze",
-        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quartet",
-          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Tune-Up",
-      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Blue's Moods",
         "url": "https://open.spotify.com/album/0GwJHqjwlCjcdIXeV7yELw"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 353800,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/76oiXjka5OXZJ4eqSQIDfY"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 625293,
+      "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -263,18 +279,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "The Sidewinder (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
+        "name": "Harry James in Hi-Fi",
+        "url": "https://open.spotify.com/album/10CSPZT502I5RgbPtgweEp"
       },
       "artists": [
         {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
         }
       ],
-      "duration_ms": 625293,
-      "name": "The Sidewinder - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3"
+      "duration_ms": 188853,
+      "name": "It's Been A Long, Long Time",
+      "url": "https://open.spotify.com/track/1LLYCeMIhQgZKDP0nHh0hh"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -307,22 +323,6 @@
       "duration_ms": 586400,
       "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
       "url": "https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Harry James in Hi-Fi",
-        "url": "https://open.spotify.com/album/10CSPZT502I5RgbPtgweEp"
-      },
-      "artists": [
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "It's Been A Long, Long Time",
-      "url": "https://open.spotify.com/track/1LLYCeMIhQgZKDP0nHh0hh"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -411,18 +411,50 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Quiet Kenny",
-        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
       },
       "artists": [
         {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
         }
       ],
-      "duration_ms": 524346,
-      "name": "Blue Friday - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
+      "duration_ms": 394506,
+      "name": "Journey to the Stars",
+      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Relaxin' with Nick",
+        "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 459186,
+      "name": "Relaxin' with Nick",
+      "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -459,6 +491,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Quiet Kenny",
+        "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 524346,
+      "name": "Blue Friday - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934",
         "url": "https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm"
       },
@@ -475,38 +523,6 @@
       "duration_ms": 161933,
       "name": "Weather Bird",
       "url": "https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 394506,
-      "name": "Journey to the Stars",
-      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Relaxin' with Nick",
-        "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 459186,
-      "name": "Relaxin' with Nick",
-      "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -531,8 +547,24 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+      },
+      "artists": [
+        {
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+        }
+      ],
+      "duration_ms": 267560,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
       },
       "artists": [
         {
@@ -540,25 +572,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 352666,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Bitches Brew",
-        "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 1204066,
-      "name": "Pharaoh's Dance",
-      "url": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX"
+      "duration_ms": 520173,
+      "name": "Blue room",
+      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -579,18 +595,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+        "name": "Bitches Brew",
+        "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
       },
       "artists": [
         {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 267560,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/4cbO7bZIfQPyHhzhe6S1c9"
+      "duration_ms": 1204066,
+      "name": "Pharaoh's Dance",
+      "url": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -643,22 +659,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Sketches of Spain",
         "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Jumpin' With Jonah",
         "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 193333,
       "name": "Moten Swing - Remastered",
       "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 520173,
-      "name": "Blue room",
-      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 357213,
-      "name": "I'll Close My Eyes",
-      "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Oscar Peterson Trio Plus One",
         "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 357213,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Towards Language",
         "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 336138,
       "name": "Groundswell",
       "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 303522,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1155,22 +1171,6 @@
       "duration_ms": 363360,
       "name": "Russian Melody",
       "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 303522,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "With The Swedish All Stars Vol. 1",
         "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
       },
@@ -1339,22 +1323,34 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "The Reason Why Vol. 3",
-        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
       "artists": [
         {
-          "name": "Goran Kajfes",
-          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
-        },
-        {
-          "name": "Goran Kajfes Subtropic Arkestra",
-          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
         }
       ],
-      "duration_ms": 533573,
-      "name": "Trance Dance",
-      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 336266,
+      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+        "name": "The Reason Why Vol. 3",
+        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
       },
       "artists": [
         {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+          "name": "Goran Kajfes",
+          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
+        },
+        {
+          "name": "Goran Kajfes Subtropic Arkestra",
+          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
         }
       ],
-      "duration_ms": 336266,
-      "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
+      "duration_ms": 533573,
+      "name": "Trance Dance",
+      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1463,6 +1463,34 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Leosia",
+        "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Sta\u0144ko",
+          "url": "https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7"
+        },
+        {
+          "name": "Bobo Stenson",
+          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
+        },
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Tony Oxley",
+          "url": "https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03"
+        }
+      ],
+      "duration_ms": 367093,
+      "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
+      "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Simply Stated",
         "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
@@ -1491,34 +1519,6 @@
       "duration_ms": 514293,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Leosia",
-        "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Sta\u0144ko",
-          "url": "https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7"
-        },
-        {
-          "name": "Bobo Stenson",
-          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
-        },
-        {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Tony Oxley",
-          "url": "https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03"
-        }
-      ],
-      "duration_ms": 367093,
-      "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
-      "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "From The Top (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
-      },
-      "artists": [
-        {
-          "name": "Pete Candoli",
-          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
-        }
-      ],
-      "duration_ms": 224103,
-      "name": "Drumette",
-      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 418642,
       "name": "Sweet Peach Tree",
       "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "From The Top (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
+      },
+      "artists": [
+        {
+          "name": "Pete Candoli",
+          "url": "https://open.spotify.com/artist/3TFKq65ZFZ0z6XlRrYcoc7"
+        }
+      ],
+      "duration_ms": 224103,
+      "name": "Drumette",
+      "url": "https://open.spotify.com/track/5o0uD2izxq86fjwCOp56B9"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 448386,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Hot Lips Page: Feelin' High & Happy",
-        "url": "https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78"
-      },
-      "artists": [
-        {
-          "name": "Hot Lips Page",
-          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "Blowin up Breeze",
-      "url": "https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 413333,
       "name": "You're Getting To Be A Habit With Me",
       "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Hot Lips Page: Feelin' High & Happy",
+        "url": "https://open.spotify.com/album/2s6GKLeKyXwO1Ik993Wz78"
+      },
+      "artists": [
+        {
+          "name": "Hot Lips Page",
+          "url": "https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz"
+        }
+      ],
+      "duration_ms": 163986,
+      "name": "Blowin up Breeze",
+      "url": "https://open.spotify.com/track/5hY6A0IfpPM5KqhZwAkcYu"
     },
     {
       "added_at": "2022-10-11 14:49:50",

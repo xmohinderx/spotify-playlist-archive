@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=rOqqDWfMQSOIkZiMVxQlAw"> Dami Oniru </a>
 
-282 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
+283 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/3abyZu302ITz5DM9hnTS7F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [LET YOU DOWN](https://open.spotify.com/track/3yderveAUP3QqHSadNZ5iq) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [LET YOU DOWN](https://open.spotify.com/album/0xjETjDt8P1ch5DHYAMjZA) | 2:59 | 2022-01-27 | 2022-04-08 |
 | [Let's Be Dead Together](https://open.spotify.com/track/1I14Z5NNXIdsmjgLi1jBKV) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:19 | 2022-03-03 | 2022-03-25 |
 | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/track/18u3kmdgJPVWGuVF4C5xXR) | [Summit Boahen](https://open.spotify.com/artist/5C7WgwClUDG17aFZnAw3kU), [Loyce](https://open.spotify.com/artist/4N65Lgra8mZF22JBr9YP7i) | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/album/0h9gmISOKBEDFdBq4bX5Qx) | 3:22 | 2022-04-28 | 2022-05-06 |
+| [Like A Drug](https://open.spotify.com/track/4P3SdMBru2cLGydexxaINn) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Good Regardless](https://open.spotify.com/album/1oC0d7wt2woFHFQiD0d9bu) | 4:00 | 2022-11-14 |  |
 | [Like That](https://open.spotify.com/track/4HapX62jAiKegF3rzNkirV) | [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js) | [Like That](https://open.spotify.com/album/2ScVPpkCELgEgbTupECpGe) | 2:00 | 2021-10-08 | 2022-03-18 |
 | [Like That](https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali](https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw) | 2:56 | 2022-11-04 |  |
 | [London](https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Never Gunna Be the Same](https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3) | 2:45 | 2021-02-26 | 2022-02-11 |
@@ -208,7 +209,7 @@
 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 | 2021-07-30 | 2022-06-24 |
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 |  |
 | [Retro 1981s](https://open.spotify.com/track/4pKf0Pqsga4bZGWUTaK2s8) | [Aussie Maze](https://open.spotify.com/artist/69eajei2vJW3Va81eefyZ9) | [Retro 1981s](https://open.spotify.com/album/2DVZsdZv6RCEbrG2UzfIVb) | 1:55 | 2022-02-10 | 2022-03-12 |
-| [RING RING \(feat\. Tay Iwar\)](https://open.spotify.com/track/1DqkGssR98fA9ms2ut4dj5) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:07 | 2022-10-28 |  |
+| [RING RING \(feat\. Tay Iwar\)](https://open.spotify.com/track/1DqkGssR98fA9ms2ut4dj5) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:07 | 2022-10-28 | 2022-11-15 |
 | [Rolling Loud](https://open.spotify.com/track/6ySKC2g5tI9PE26OrUs3XN) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Rolling Loud](https://open.spotify.com/album/4CLuWbSzme2RhzTCZuPL8t) | 2:32 | 2022-09-01 |  |
 | [Rude](https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Savage Bitch Juice](https://open.spotify.com/album/5la6d2QxYKs6N2KWDCNmhr) | 2:32 | 2021-11-04 | 2022-08-06 |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 |  |

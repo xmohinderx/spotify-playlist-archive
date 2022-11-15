@@ -4,7 +4,7 @@
 
 > Christmas classics from your favourite Blues artists.
 
-113 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
+115 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,12 @@
 | [Christmas Blues](https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC) | [Washboard Pete](https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 2:37 | 2022-11-09 |  |
 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 | 2022-11-09 |  |
 | [Christmas Boogie \(One Little Kiss\)](https://open.spotify.com/track/78YBLISfvGcnRlMQQpdR6L) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Rockin' Christmas Blues](https://open.spotify.com/album/1rbvFnaPwSM2XF5VOy7qJT) | 6:54 | 2021-12-14 |  |
+| [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 | 2022-11-14 |  |
 | [Christmas Comes But Once A Year](https://open.spotify.com/track/1dW0NVuJJ1iIvJFUoWSDJ6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 4:14 | 2021-12-14 |  |
 | [Christmas Fais Do Do](https://open.spotify.com/track/16SCezdG30uProf3A5Wqja) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 3:15 | 2021-12-14 |  |
-| [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 | 2022-11-09 |  |
-| [Christmas Morning Blues](https://open.spotify.com/track/1O8t2pHd3gurIbOhPkWk8h) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/17AJmShSJtRTsPnt0lAfsA) | 3:25 | 2022-11-09 |  |
+| [Christmas in Your Arms](https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4) | [Bad Temper Joe](https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6) | [Christmas in Your Arms](https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A) | 2:43 | 2022-11-15 |  |
+| [Christmas Morning \(10\-29\-52\)](https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V) | [Titus Turner](https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2) | [Classics: 1949\-1954](https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s) | 2:42 | 2022-11-09 | 2022-11-15 |
+| [Christmas Morning Blues](https://open.spotify.com/track/1O8t2pHd3gurIbOhPkWk8h) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/17AJmShSJtRTsPnt0lAfsA) | 3:25 | 2022-11-09 | 2022-11-15 |
 | [Christmas Morning Blues](https://open.spotify.com/track/4WamHw3fBlpAo4Y1AdOkM5) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:25 | 2021-12-14 | 2022-07-29 |
 | [Christmas Morning Blues](https://open.spotify.com/track/6e8lXv6mEUNwhqnD2qYYuH) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [Lord Have Mercy](https://open.spotify.com/album/0zdntBA5tJss6YSMH8pey8) | 3:24 | 2022-11-09 | 2022-11-14 |
 | [Christmas Morning Blues](https://open.spotify.com/track/5gIXMjdqGoRoILyzFH65Pi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Bluebird Recordings](https://open.spotify.com/album/6zDy9OWPCw9CAS89vWQM0X) | 3:23 | 2021-12-14 | 2022-07-29 |

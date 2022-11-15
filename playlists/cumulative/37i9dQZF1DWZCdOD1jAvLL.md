@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: ROSSY
 
-338 songs - 18 hr 50 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+339 songs - 18 hr 52 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 | 2022-03-25 | 2022-06-25 |
 | [Bubblin](https://open.spotify.com/track/4zB2zfoyaKdZl0v9IfHUKL) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Bubblin](https://open.spotify.com/album/4rXzTuShibQto3yWnBrApV) | 3:29 | 2022-02-11 | 2022-06-25 |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 | 2022-06-25 |
-| [Burn](https://open.spotify.com/track/1mlk3vLtVptfxRcnx3avyH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Burn](https://open.spotify.com/album/6RybNqYFHu5cxoOsGlo4yj) | 3:41 | 2022-07-15 |  |
+| [Burn](https://open.spotify.com/track/1mlk3vLtVptfxRcnx3avyH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Burn](https://open.spotify.com/album/6RybNqYFHu5cxoOsGlo4yj) | 3:41 | 2022-07-15 | 2022-11-15 |
 | [Burnin'](https://open.spotify.com/track/7hlKyOcn8npRpIl1SGsgOG) | [Marzetti](https://open.spotify.com/artist/2nB7Ws9EvumfMMm6E6YbGA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Burnin'](https://open.spotify.com/album/36MXx1SbuFEpfGR6C9XVgH) | 4:05 | 2022-06-03 | 2022-08-20 |
 | [Bust It](https://open.spotify.com/track/3jRf1CgbwS6KK8loU2P7sg) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Bust It](https://open.spotify.com/album/0cxkIWSWJSCN8ld8sUnaWO) | 3:18 | 2022-01-14 | 2022-01-22 |
 | [B€NZ](https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [B€NZ](https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z) | 4:05 | 2022-08-05 |  |
@@ -118,6 +118,7 @@
 | [Ghost](https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Ghost](https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM) | 2:52 | 2022-01-21 | 2022-05-07 |
 | [Ghost \- Cloverdale Remix](https://open.spotify.com/track/4sd13Wkerj62pdgkMHBBUd) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB) | [Ghost \- Cloverdale Remix](https://open.spotify.com/album/77cGlrjC62YXn9wHJK0xRW) | 3:24 | 2022-05-06 | 2022-06-25 |
 | [Gimme More](https://open.spotify.com/track/34j6PD501kYByTTjWtYjOl) | [Jaksan](https://open.spotify.com/artist/62kJlPY22K322WwqspIIec) | [Gimme More](https://open.spotify.com/album/1iDSLPZqq0diRa0tMPFR97) | 3:35 | 2022-04-22 | 2022-08-06 |
+| [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-11-14 |  |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2022-01-14 | 2022-01-22 |
 | [Goodies](https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [FUSE](https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs) | [Goodies](https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc) | 2:27 | 2022-04-15 | 2022-08-20 |
 | [Hangin' On](https://open.spotify.com/track/3LQyJ9kVci9YF7lwGjA5kr) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [Hangin' On](https://open.spotify.com/album/03LpYJHSH796oQGk3qlA5i) | 3:38 | 2022-06-17 | 2022-09-17 |

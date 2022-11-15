@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-139 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
+140 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4o6XO2GYxXq6UTestyjLGC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,8 +126,9 @@
 | [The Kingdom](https://open.spotify.com/track/714swlrTc262NA0j13C7gY) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [The Kingdom](https://open.spotify.com/album/78MZv7N1OSPNXk431T19sI) | 2:55 | 2022-10-04 |  |
 | [The Peacemakers](https://open.spotify.com/track/3onZszNqI3upQotSr4HtTE) | [Hill](https://open.spotify.com/artist/1hdkvBtRdOW4SPsnxCXOjK) | [The Mount](https://open.spotify.com/album/0wv44MyPxj3pFQTQlyHa7j) | 4:44 | 2022-04-26 |  |
 | [The Shortest Flight](https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [The Shortest Flight](https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06) | 1:58 | 2022-05-11 |  |
+| [The Wave](https://open.spotify.com/track/2954gxDvLc1xEXEZ5EReNK) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Savage Waters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BOpSC4KSgViq7DSgJfoXG) | 3:30 | 2022-10-04 |  |
 | [The Wave](https://open.spotify.com/track/4fxtF5b3iOn3JWLbdveFfd) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [The Wave](https://open.spotify.com/album/103ti78Ywi3lqQygXDfS9Q) | 3:32 | 2022-05-11 | 2022-07-29 |
-| [The Wave](https://open.spotify.com/track/4rlY6t4sZyguT9HAQ2BLzS) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [The Wave](https://open.spotify.com/album/54WoGKFUUOlELx0Acc7XYE) | 3:32 | 2022-07-28 |  |
+| [The Wave](https://open.spotify.com/track/4rlY6t4sZyguT9HAQ2BLzS) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [The Wave](https://open.spotify.com/album/54WoGKFUUOlELx0Acc7XYE) | 3:32 | 2022-07-28 | 2022-11-15 |
 | [Unmoored](https://open.spotify.com/track/1SAs5oYs3N6U2S0Y2JJ3iV) | [Fog Chaser](https://open.spotify.com/artist/660gTWIyoCKgut2Yt9aDaC) | [Unmoored](https://open.spotify.com/album/1iKvwFy2Lmt7yzP1WOGItD) | 2:30 | 2022-04-13 |  |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-11 |  |
 | [Video Tape \- From "Surface"](https://open.spotify.com/track/7zTaLLMF9A170FfPtBaL3m) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Video Tape \(From "Surface"\)](https://open.spotify.com/album/3qFNuf0WssUVPXTPdrxGho) | 2:17 | 2022-07-29 |  |

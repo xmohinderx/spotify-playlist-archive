@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Rauleeto
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,717 likes - 334 songs - 18 hr 18 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,715 likes - 334 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 |
 | 2 | [DIME QUIÉN????](https://open.spotify.com/track/2WtLhvwJX3czRVuFtUgZ6i) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DIME QUIÉN????](https://open.spotify.com/album/25ZfxHhTlts1ZmvU7jJChV) | 2:44 |
 | 3 | [Éxtasis](https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Éxtasis](https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451) | 3:11 |
-| 4 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
-| 5 | [Fumo Weed](https://open.spotify.com/track/7aq3DaRLjfjmz0yhtHvian) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Fumo Weed](https://open.spotify.com/album/1kmhu1HJpoJeHBVHWay4OW) | 2:28 |
-| 6 | [Todo Lo Olvidamos](https://open.spotify.com/track/6MV3R86mvpWQTTDoyy3mvN) | [Yennis](https://open.spotify.com/artist/3s7NHfZvVaqP2dnLfqk6ND) | [Todo Lo Olvidamos](https://open.spotify.com/album/4Zg16RzacQxNOhfhuri3aC) | 2:32 |
-| 7 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 |
-| 8 | [Bebiendo Sola](https://open.spotify.com/track/0wIIVkpeRLjoGAYkeYXevR) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:59 |
+| 4 | [Bebiendo Sola](https://open.spotify.com/track/0wIIVkpeRLjoGAYkeYXevR) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:59 |
+| 5 | [Se Rumora](https://open.spotify.com/track/0CoXRdJsAoElmYCXldiVIg) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:23 |
+| 6 | [Fumo Weed](https://open.spotify.com/track/7aq3DaRLjfjmz0yhtHvian) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Fumo Weed](https://open.spotify.com/album/1kmhu1HJpoJeHBVHWay4OW) | 2:28 |
+| 7 | [Todo Lo Olvidamos](https://open.spotify.com/track/6MV3R86mvpWQTTDoyy3mvN) | [Yennis](https://open.spotify.com/artist/3s7NHfZvVaqP2dnLfqk6ND) | [Todo Lo Olvidamos](https://open.spotify.com/album/4Zg16RzacQxNOhfhuri3aC) | 2:32 |
+| 8 | [Psycho B\*\*ch](https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Psycho B\*\*ch](https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u) | 2:47 |
 | 9 | [Los del Vacile](https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Los del Vacile](https://open.spotify.com/album/56E7fOtgpDD6FoMm5qtN3Z) | 3:33 |
 | 10 | [Confieso](https://open.spotify.com/track/2ydzr3NKng0u0JZUm0DpKK) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Catarsis](https://open.spotify.com/album/6aliVhXmEKLUNe6SzwSJac) | 3:31 |
 | 11 | [Misión Cumplida](https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Misión Cumplida](https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc) | 3:11 |
@@ -343,4 +343,4 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 333 | [Reloj](https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Reloj](https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk) | 3:51 |
 | 334 | [11 PM](https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 2:55 |
 
-Snapshot ID: `MzUzMCwwMTk2MDJjY2NiOGUxYTNhZjNiYzIzYjE1YzQzMWRmNmI0MzM0MzA1`
+Snapshot ID: `MzUzMSwxOGMyZjU3NTNiNTNiZDk3ZGY3ZWM1Y2EwMWFkYzE0YWIyZjkzMTM1`

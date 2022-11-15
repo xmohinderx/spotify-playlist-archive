@@ -4,7 +4,7 @@
 
 > Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SAAY\)
 
-449 songs - 1 day 0 hr 29 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
+450 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,10 +182,11 @@
 | [Gunner](https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF) | [Sasha](https://open.spotify.com/artist/6avsZQ2pnMpzZimJAn5dFN) | [Gunner](https://open.spotify.com/album/7bVEPchL7QCLHtcnqG8dwm) | 2:56 | 2022-04-19 | 2022-04-21 |
 | [haPPiness](https://open.spotify.com/track/6PZTv0EvVzo6fhgW5ROdHU) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [haPPiness](https://open.spotify.com/album/0ZFcJGKiDF7qr3WiTpUSLn) | 3:31 | 2022-04-19 | 2022-07-18 |
 | [Happy New Year](https://open.spotify.com/track/4eNbLN9Hara5j8WgE6SOo3) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Happy New Year](https://open.spotify.com/album/2OPxnNNxWaSmTWxQVsIWz6) | 2:48 | 2022-05-11 | 2022-06-22 |
-| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 |  |
+| [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2022-11-15 |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2022-04-19 | 2022-07-29 |
 | [Hello \(Feat\. MINHYUK LEE \(HUTA\)\)](https://open.spotify.com/track/6MCyFFKPrmTLQGPtW9H34W) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd), [MINHYUK LEE \(HUTA\)](https://open.spotify.com/artist/0joPKRVT2TAG2puWLPGkbx) | [Hello](https://open.spotify.com/album/0cnfSAKHuz3pahoqIpen8V) | 2:57 | 2022-04-19 | 2022-04-21 |
 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 | 2022-07-27 | 2022-08-03 |
+| [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 | 2022-11-14 |  |
 | [Hold Up \(Feat\. Coogie, SUMIN\)](https://open.spotify.com/track/58tAqnrajLvveMP8BU5BQL) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Hold Up \(Feat\. Coogie, SUMIN\)](https://open.spotify.com/album/7xnU08kbo8GgEufUbYLM7a) | 3:11 | 2022-05-02 | 2022-05-12 |
 | [HOLO](https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1) | 2:58 | 2022-07-27 |  |
 | [HOLO](https://open.spotify.com/track/7Acvy2L38SCipAeMPOK8Ro) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [HOLO](https://open.spotify.com/album/6PY5EutFgpr9GLeaagGBda) | 2:58 | 2022-04-22 | 2022-05-27 |

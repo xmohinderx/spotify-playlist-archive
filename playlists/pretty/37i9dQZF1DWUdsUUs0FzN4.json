@@ -1,12 +1,12 @@
 {
   "description": "Bienvenidxs al mundo del bellaqueo, con Ghetto Kids.",
-  "num_followers": 4583,
+  "num_followers": 4585,
   "original_name": "Reggaet\u00f3n Chakal\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5OTc2MCwwMDAwMDAwMDZiOWI4MjVhMjJjNGExYjVkNjljODI0ZmFjMjk3Zjk1",
+  "snapshot_id": "MTY2NzQ5OTc2MCwwMDAwMDAwMDg4NThiN2RmMWZmZWJiZGZmM2Q5NWFhYmE1YjE5Yzdj",
   "tracks": [
     {
       "added_at": "2022-09-27 22:49:43",
@@ -155,6 +155,30 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
+        "name": "Tra Tra Tra Remix",
+        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Tra Tra Tra Remix - Remix",
+      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
         "name": "Boricua Reggaeton Clasicos de Barrio, Vol. 1",
         "url": "https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl"
       },
@@ -203,30 +227,6 @@
       "duration_ms": 110788,
       "name": "Lento",
       "url": "https://open.spotify.com/track/6bMSP5IyrfELhfMy93KPYT"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
-        "name": "Tra Tra Tra Remix",
-        "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Tra Tra Tra Remix - Remix",
-      "url": "https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -299,94 +299,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Bien Beb\u00e9",
-        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 163469,
-      "name": "Bien Beb\u00e9",
-      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
-        "name": "Toketeo",
-        "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Toketeo",
-      "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
-        "name": "Metele",
-        "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
-      },
-      "artists": [
-        {
-          "name": "DJ Yelkrab",
-          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Ranking Stone",
-          "url": "https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH"
-        }
-      ],
-      "duration_ms": 195625,
-      "name": "Metele",
-      "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Divergentes Inc.",
-          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
-        }
-      ],
-      "duration_ms": 211542,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Lluvia De Micheladas",
         "url": "https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw"
       },
@@ -415,26 +327,90 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Se Menea",
-        "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
+        "name": "Metele",
+        "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
         },
         {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
         },
         {
-          "name": "Chino El Gorila",
-          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+          "name": "Ranking Stone",
+          "url": "https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH"
         }
       ],
-      "duration_ms": 219611,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53"
+      "duration_ms": 195625,
+      "name": "Metele",
+      "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Toketeo",
+        "url": "https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Toketeo",
+      "url": "https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Divergentes Inc.",
+          "url": "https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -479,6 +455,30 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
+        "name": "Se Menea",
+        "url": "https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        },
+        {
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
         "name": "Perra",
         "url": "https://open.spotify.com/album/6bM4paaoMiNzCBcD5sGDH6"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Date Date",
-        "url": "https://open.spotify.com/album/2uclE8FZd2pzAH77DQVVr1"
-      },
-      "artists": [
-        {
-          "name": "EPA COLOMBIA",
-          "url": "https://open.spotify.com/artist/2IhzfygetoEC4ELz0vop6Q"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Date Date",
-      "url": "https://open.spotify.com/track/4JcuKNOS0F59j9jxZXSDP9"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Cumbiatronik",
         "url": "https://open.spotify.com/album/1PCXjPBVHXl8pHMsY96yMF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 192424,
       "name": "Cumbiatronik",
       "url": "https://open.spotify.com/track/1PooFwkjYMobQx9qCozXhb"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Date Date",
+        "url": "https://open.spotify.com/album/2uclE8FZd2pzAH77DQVVr1"
+      },
+      "artists": [
+        {
+          "name": "EPA COLOMBIA",
+          "url": "https://open.spotify.com/artist/2IhzfygetoEC4ELz0vop6Q"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Date Date",
+      "url": "https://open.spotify.com/track/4JcuKNOS0F59j9jxZXSDP9"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Suena Perreo",
-        "url": "https://open.spotify.com/album/3TwLgYFKn6hC7nHqjxi3Kj"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "Michael G",
-          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
-        }
-      ],
-      "duration_ms": 205408,
-      "name": "Suena Perreo",
-      "url": "https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "EL Diablo",
         "url": "https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 164781,
       "name": "EL Diablo",
       "url": "https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Suena Perreo",
+        "url": "https://open.spotify.com/album/3TwLgYFKn6hC7nHqjxi3Kj"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Michael G",
+          "url": "https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3"
+        }
+      ],
+      "duration_ms": 205408,
+      "name": "Suena Perreo",
+      "url": "https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -875,6 +875,30 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
+        "name": "Baja",
+        "url": "https://open.spotify.com/album/77vo9DDNZ9uYym1opTF8yE"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 203181,
+      "name": "Baja",
+      "url": "https://open.spotify.com/track/0ZqOX97C7KnilyWo1ljzZ4"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
         "name": "Flow Soltera",
         "url": "https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy"
       },
@@ -923,26 +947,18 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Baja",
-        "url": "https://open.spotify.com/album/77vo9DDNZ9uYym1opTF8yE"
+        "name": "Llego El Perreo",
+        "url": "https://open.spotify.com/album/4Vb6NhgiW727CjOYxrlFnP"
       },
       "artists": [
         {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+          "name": "Dj Bekman",
+          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
         }
       ],
-      "duration_ms": 203181,
-      "name": "Baja",
-      "url": "https://open.spotify.com/track/0ZqOX97C7KnilyWo1ljzZ4"
+      "duration_ms": 212802,
+      "name": "Perreo Como Antes",
+      "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -963,22 +979,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Llego El Perreo",
-        "url": "https://open.spotify.com/album/4Vb6NhgiW727CjOYxrlFnP"
-      },
-      "artists": [
-        {
-          "name": "Dj Bekman",
-          "url": "https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F"
-        }
-      ],
-      "duration_ms": 212802,
-      "name": "Perreo Como Antes",
-      "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "A Mover Ese Booty (feat. n-Yel)",
         "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
       },
@@ -995,30 +995,6 @@
       "duration_ms": 157347,
       "name": "A Mover Ese Booty (feat. n-Yel)",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
-        "name": "Pa Perrear",
-        "url": "https://open.spotify.com/album/4RzG9rY0Pku47U3VmkhhYd"
-      },
-      "artists": [
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "Chel Maya",
-          "url": "https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh"
-        },
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pa Perrear",
-      "url": "https://open.spotify.com/track/6CRAqSjXP06jy67jdLrTyp"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -1047,6 +1023,30 @@
       "duration_ms": 215201,
       "name": "Adicta al Perreo",
       "url": "https://open.spotify.com/track/419c5nJnQB8W7u6IZqfFZ7"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Pa Perrear",
+        "url": "https://open.spotify.com/album/4RzG9rY0Pku47U3VmkhhYd"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Chel Maya",
+          "url": "https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh"
+        },
+        {
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pa Perrear",
+      "url": "https://open.spotify.com/track/6CRAqSjXP06jy67jdLrTyp"
     }
   ],
   "unique_name": "Reggaet\u00f3n Chakal\u00f3n",

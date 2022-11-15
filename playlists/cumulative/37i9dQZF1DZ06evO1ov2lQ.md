@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-118 songs - 9 hr 59 min - [published](https://open.spotify.com/playlist/0PYzRsbgIkQ9NNBTqc5aff)
+119 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/0PYzRsbgIkQ9NNBTqc5aff)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Gravity Assist](https://open.spotify.com/track/5LadeNyOAJoxnHGriRc4il) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 7:02 | 2022-07-14 | 2022-10-20 |
 | [Gravity Assist](https://open.spotify.com/track/464ZqN4UqyJTbibnQfsBeG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 7:04 | 2022-05-29 | 2022-07-15 |
 | [Green Reflections](https://open.spotify.com/track/2IydONo9wzrZ7aQLQVzHf9) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:31 | 2022-05-29 | 2022-11-13 |
-| [Heat Leak](https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:56 | 2022-05-29 |  |
+| [Heat Leak](https://open.spotify.com/track/0WgbqjvVFSYLHWtDYJ1hgj) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 4:56 | 2022-05-29 | 2022-11-15 |
 | [Hilsondis](https://open.spotify.com/track/0UvJBrmxR8w99nLN6RCxvo) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Hilvarenbeek Recordings](https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx) | 5:12 | 2022-09-14 | 2022-09-16 |
 | [Houses on the Hill](https://open.spotify.com/track/4tvFYcymXNBbi3qpYGtjOu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 5:39 | 2022-09-21 | 2022-09-23 |
 | [Hyperborea](https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 5:45 | 2022-05-30 |  |
@@ -119,6 +119,7 @@
 | [Turned to Stone](https://open.spotify.com/track/4CbTLWfGY3bxBaEylVfxLJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Joan Lorring](https://open.spotify.com/artist/5SJyvsQqcxNC5QHAFrAj6b) | [Black Mesa \(feat\. Joan Lorring\)](https://open.spotify.com/album/4ukHNc9dfGDEPds0zkXfG0) | 3:38 | 2022-05-29 |  |
 | [Twin Decks](https://open.spotify.com/track/4rhZ726UASilAJG9vSJqGZ) | [Arne Nordheim](https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Nordheim Transformed](https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX) | 2:46 | 2022-06-01 | 2022-10-24 |
 | [Two Ocean Plateau](https://open.spotify.com/track/1ygMskatKHmaYZRqU80klz) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:07 | 2022-09-28 | 2022-09-30 |
+| [Two Ocean Plateau](https://open.spotify.com/track/2PJAh9IeZhEDWMa08xZVIf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou](https://open.spotify.com/album/2AHktHVC0TOMkb42I40BpS) | 3:10 | 2022-11-14 |  |
 | [Uva\-Ursi](https://open.spotify.com/track/40QwZW5GcnjtwuPRJEM9bx) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 3:01 | 2022-08-26 | 2022-08-28 |
 | [Uva\-Ursi \- Alternative Version](https://open.spotify.com/track/6IquI7T08Gp6ylSpOtCMyp) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata \[Alternative Versions\]](https://open.spotify.com/album/1LKkDKteFePHRCNCtBhcPN) | 2:07 | 2022-10-20 |  |
 | [Warmed By the Drift](https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 6:50 | 2022-05-29 |  |

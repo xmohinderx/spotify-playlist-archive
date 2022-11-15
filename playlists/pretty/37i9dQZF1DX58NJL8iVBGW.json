@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 521532,
+  "num_followers": 521700,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGIzNjNmZGQ1YzBmNjgwMjVmYzlhMWE2YjlmZWZkODEy",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDU0ZGJhYzY5ZjM3MWE4Mjc3MDA4MTA4MzdiYWEyMGYx",
   "tracks": [
     {
       "added_at": "2022-06-06 19:18:28",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
-      },
-      "artists": [
-        {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Black Is the Color",
         "url": "https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 138440,
       "name": "Bobby Reid",
       "url": "https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/4VIDVd87GQcBSbofvDp8Pj"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Whiskey Shivers",
-        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Shivers",
-          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -575,6 +559,38 @@
       "duration_ms": 246177,
       "name": "An Honest Man",
       "url": "https://open.spotify.com/track/01Cr7MlISmoh8gMlZBjpko"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "The Devil Dancing",
+        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Danger and Dread",
+      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Whiskey Shivers",
+        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Shivers",
+          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -599,22 +615,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "The Devil Dancing",
-        "url": "https://open.spotify.com/album/7mlBE7JyEDy9DwL5U4hLou"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Danger and Dread",
-      "url": "https://open.spotify.com/track/2bpWyCj94RZBXCMdvkV0Mt"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Parker Millsap",
         "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 234000,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "duration_ms": 111186,
+      "name": "Dreamcatchers",
+      "url": "https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -651,22 +667,6 @@
       "duration_ms": 175153,
       "name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO Series True Detective]",
       "url": "https://open.spotify.com/track/3tEL74JlN4OT9YPoNx5eRI"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P"
-      },
-      "artists": [
-        {
-          "name": "Odetta Hartman",
-          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
-        }
-      ],
-      "duration_ms": 111186,
-      "name": "Dreamcatchers",
-      "url": "https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Devil Don't You Fool Me",
-        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 170985,
-      "name": "Devil Don't You Fool Me",
-      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "More Primitive",
         "url": "https://open.spotify.com/album/46Txpy91R2fAPBLTEVpz82"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 125493,
       "name": "Diggin A Grave",
       "url": "https://open.spotify.com/track/5uR72lBzHxcf2YlbK8iRp1"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Devil Don't You Fool Me",
+        "url": "https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 170985,
+      "name": "Devil Don't You Fool Me",
+      "url": "https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Put Your Needle Down",
-        "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 282133,
-      "name": "Iuka",
-      "url": "https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Heatstroke/The Wind and the War",
         "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Put Your Needle Down",
+        "url": "https://open.spotify.com/album/3pinz3pk3eno43xbwqWvok"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 282133,
+      "name": "Iuka",
+      "url": "https://open.spotify.com/track/574zpZaSSWXMhk0eDzHrDn"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "A Mountain Is a Mouth",
-        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
+        "name": "Filthy Dirty South",
+        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
       "artists": [
         {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Crabapples",
-      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
+      "duration_ms": 346333,
+      "name": "Filthy Dirty South",
+      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Filthy Dirty South",
-        "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
+        "name": "A Mountain Is a Mouth",
+        "url": "https://open.spotify.com/album/40jiaGBNJkFMiRW0yzcfYH"
       },
       "artists": [
         {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
         }
       ],
-      "duration_ms": 346333,
-      "name": "Filthy Dirty South",
-      "url": "https://open.spotify.com/track/2VifjGJJ8d0yGUk1LHn81y"
+      "duration_ms": 156706,
+      "name": "Crabapples",
+      "url": "https://open.spotify.com/track/2cpDIcN0TiGLUptEYsT4Bh"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1439,6 +1439,22 @@
       "duration_ms": 178080,
       "name": "My Church Is Black",
       "url": "https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Anna & Elizabeth",
+        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
+      },
+      "artists": [
+        {
+          "name": "Anna & Elizabeth",
+          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
+        }
+      ],
+      "duration_ms": 88293,
+      "name": "Long Time Travelin'",
+      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "Anna & Elizabeth",
-        "url": "https://open.spotify.com/album/71F0gAJ6JYuYhAr98mcoVZ"
-      },
-      "artists": [
-        {
-          "name": "Anna & Elizabeth",
-          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
-        }
-      ],
-      "duration_ms": 88293,
-      "name": "Long Time Travelin'",
-      "url": "https://open.spotify.com/track/2oYGqILoEyt0cTncwjEHk2"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "Digging Up Birds: A Collection of Rarities & Others",
         "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-06-06 19:18:28",
       "album": {
-        "name": "I Am The Man Thomas",
-        "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
-      },
-      "artists": [
-        {
-          "name": "The Devil Makes Three",
-          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
-        }
-      ],
-      "duration_ms": 159101,
-      "name": "I Am The Man Thomas",
-      "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
-    },
-    {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
         "name": "The Longest Day",
         "url": "https://open.spotify.com/album/0Y4z9ikteEZYLf46b80f81"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 270228,
       "name": "Highway 9",
       "url": "https://open.spotify.com/track/5T5BIueWzBI6TMDpsyST4z"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "I Am The Man Thomas",
+        "url": "https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8"
+      },
+      "artists": [
+        {
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
+        }
+      ],
+      "duration_ms": 159101,
+      "name": "I Am The Man Thomas",
+      "url": "https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK"
     },
     {
       "added_at": "2022-06-06 19:18:28",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe"
     },
     {
-      "added_at": "2022-06-06 19:18:28",
-      "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Blood Money (Anniversary Edition)",
@@ -1599,6 +1583,22 @@
       "duration_ms": 292112,
       "name": "All The World Is Green - Live",
       "url": "https://open.spotify.com/track/3vjbT3AQnw4iKXAs2Nb6Xn"
+    },
+    {
+      "added_at": "2022-06-06 19:18:28",
+      "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2022-06-06 19:18:28",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 133570,
+  "num_followers": 133603,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDk5MWM5ZGM5ZjVmNjZmM2JjM2E5OGNiNmM5YjA0NTcy",
+  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDkxZGEzMDBhMmY4MGMwOGU5YzZhZDJlYjM3YjQ4ZjJl",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Like I'm Gonna Lose You",
-        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 232338,
-      "name": "Like I'm Gonna Lose You",
-      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
         "url": "https://open.spotify.com/album/2MOs2gBy14kW9jYXbv2A3O"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 265363,
       "name": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
       "url": "https://open.spotify.com/track/3zl7j5ua8mF4JDYuxrfo01"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Like I'm Gonna Lose You",
+        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 232338,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "My Only One (No Hay Nadie M\u00e1s)",
-        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "My Only One (No Hay Nadie M\u00e1s)",
-      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -715,6 +695,58 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "\u56a3\u5f20",
+        "url": "https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM"
+      },
+      "artists": [
+        {
+          "name": "En",
+          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
+        }
+      ],
+      "duration_ms": 253994,
+      "name": "\u56a3\u5f20",
+      "url": "https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "My Only One (No Hay Nadie M\u00e1s)",
+        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "My Only One (No Hay Nadie M\u00e1s)",
+      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 160736,
+      "name": "17",
+      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -731,22 +763,6 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\u56a3\u5f20",
-        "url": "https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM"
-      },
-      "artists": [
-        {
-          "name": "En",
-          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
-        }
-      ],
-      "duration_ms": 253994,
-      "name": "\u56a3\u5f20",
-      "url": "https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -771,22 +787,6 @@
       "duration_ms": 264614,
       "name": "Maana Ke Hum Yaar Nahin",
       "url": "https://open.spotify.com/track/1O3WfEwaSpsgZ6tw8jNT8I"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 160736,
-      "name": "17",
-      "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "tere bina (Acoustic)",
-        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
-      },
-      "artists": [
-        {
-          "name": "Zaeden",
-          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "tere bina - Acoustic",
-      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -903,6 +883,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "tere bina (Acoustic)",
+        "url": "https://open.spotify.com/album/0DiiqwlK2RmAOq7MTlqEqW"
+      },
+      "artists": [
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "tere bina - Acoustic",
+      "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "What If I Told You That I Love You",
-        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "What If I Told You That I Love You",
-      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Dahan",
         "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 297500,
       "name": "Dahan",
       "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "What If I Told You That I Love You",
+        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "What If I Told You That I Love You",
+      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Learning To Live Without You",
-        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "Learning To Live Without You",
-      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Maula",
         "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 237882,
       "name": "Maula",
       "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Learning To Live Without You",
+        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "Learning To Live Without You",
+      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
         "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 219689,
       "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
       "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hacia Adentro",
-        "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Accetto Miracoli",
         "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 225386,
       "name": "In Mezzo A Questo Inverno",
       "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Hacia Adentro",
+        "url": "https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Love song",
-        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
+        "name": "0",
+        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
       },
       "artists": [
         {
-          "name": "J-JUN",
-          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 230213,
-      "name": "Tender love",
-      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
+      "duration_ms": 238386,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
+        "name": "Love song",
+        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
       },
       "artists": [
         {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
         }
       ],
-      "duration_ms": 238386,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
+      "duration_ms": 230213,
+      "name": "Tender love",
+      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
-        }
-      ],
-      "duration_ms": 194951,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
       },
@@ -2179,6 +2159,26 @@
       "duration_ms": 222329,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/7edEUxDTzj9pbHSIVHDyJ5"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+        }
+      ],
+      "duration_ms": 194951,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Maghihintay",
         "url": "https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",

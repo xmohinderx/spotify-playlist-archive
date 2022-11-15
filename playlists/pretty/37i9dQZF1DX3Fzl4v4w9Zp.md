@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Margo Price
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,854 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,945 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 39 | [Years](https://open.spotify.com/track/6BSPlPR4Pxz6WnUIBlrWWQ) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 2:59 |
 | 40 | [The Downward Road](https://open.spotify.com/track/5C9y3R4oWlShFgvNqr6egt) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1), [Demeanor](https://open.spotify.com/artist/4HlLzCWkEJQvvWRkjt5J0r) | [The Downward Road](https://open.spotify.com/album/0v9Fn7MgEKL8tfprlJX5Ld) | 3:36 |
 | 41 | [Tumble and Fall](https://open.spotify.com/track/2Uh4NCdcI7sWNbWfhxw73Q) | [Daniel Tashian](https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz) | [Tumble and Fall](https://open.spotify.com/album/6PNfy7JIdJWbw8XXIETapU) | 3:26 |
-| 42 | [Blood Harmony](https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 4:05 |
+| 42 | [Blood Harmony](https://open.spotify.com/track/7bIJA0XRb8iysNCyaZISB3) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 4:05 |
 | 43 | [All I Needed](https://open.spotify.com/track/15TlVyJLpMysa7g9FSS0No) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [All I Needed](https://open.spotify.com/album/0tfD1g8c7W0tun48L9ZK7U) | 2:59 |
 | 44 | [Trickaroo](https://open.spotify.com/track/4yjzbksh5X1nmKQ18hnVXA) | [Chris Kasper](https://open.spotify.com/artist/6Ood49EuwB8rTyIduHjSZr) | [Trickaroo](https://open.spotify.com/album/2WEgA4UNSA25Gw3O9w3rc0) | 3:19 |
 | 45 | [Roll Away \(Like a Stone\)](https://open.spotify.com/track/27XhypqVeaRNo4lf3CeM1k) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [Butch Walker as..\. Glenn](https://open.spotify.com/album/0FIk2aeXbMu4MmSJ8x0upW) | 4:46 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
 | 150 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGE5OTRiOTUzNDA2Njc0MTM2NWFjYzUyOTQzNTY5NzA1`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDkyMWI0ZTI4NDBjM2YwNGZjYzA4YTUwYjkxNDgwMWVj`

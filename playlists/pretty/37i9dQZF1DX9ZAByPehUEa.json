@@ -1,12 +1,12 @@
 {
   "description": "A happy place.",
-  "num_followers": 51029,
+  "num_followers": 51070,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3NTA5NCwwMDAwMDAwMGI0MDE3MWVjOGY4ZDliNTM1ZmE2N2ZlNjI4YWY2YzQw",
+  "snapshot_id": "MTY2Njk3NTA5NCwwMDAwMDAwMGI2YjBiZjZhYWExZjIwNWUwYmY1ODI4NTZlNWU5NWY4",
   "tracks": [
     {
       "added_at": "2022-09-02 13:11:22",
@@ -65,30 +65,6 @@
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
-      "added_at": "2022-11-14 01:37:06",
-      "album": {
-        "name": "My Life (feat. Joe Killington)",
-        "url": "https://open.spotify.com/album/2ozXsht9lh1koItgP8cl9d"
-      },
-      "artists": [
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Joe Killington",
-          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "My Life (feat. Joe Killington)",
-      "url": "https://open.spotify.com/track/5IhCWukOzeazDOHKCKARki"
-    },
-    {
       "added_at": "2022-09-02 13:11:22",
       "album": {
         "name": "Rasputin",
@@ -109,20 +85,48 @@
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
-      "added_at": "2022-11-14 01:37:06",
+      "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "Don't Feed The Tiger",
-        "url": "https://open.spotify.com/album/03fHImPEUer93Z6lGgAaJE"
+        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
       "artists": [
         {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
         }
       ],
-      "duration_ms": 342500,
-      "name": "Don't Feed The Tiger",
-      "url": "https://open.spotify.com/track/5mox0C7W3zCyMImxzt5tgb"
+      "duration_ms": 157205,
+      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Everybody Wants To Party",
+        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "duration_ms": 184838,
+      "name": "Everybody Wants To Party",
+      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -201,20 +205,28 @@
       "url": "https://open.spotify.com/track/4TIXxw9SWztF4eKgPN9Law"
     },
     {
-      "added_at": "2022-11-14 01:37:06",
+      "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "Hello Chic",
-        "url": "https://open.spotify.com/album/2jwn2dK8RhqYcuSj5GXFhw"
+        "name": "Ask Me / Mesmerize",
+        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
       },
       "artists": [
         {
-          "name": "Mela Femmina",
-          "url": "https://open.spotify.com/artist/3xd5OCys1geIO36hsmS4Xb"
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 266040,
-      "name": "Hello Chic",
-      "url": "https://open.spotify.com/track/3ryT08hgJsNIRKslnjdgeq"
+      "duration_ms": 193795,
+      "name": "Ask Me",
+      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -239,74 +251,6 @@
       "duration_ms": 195507,
       "name": "Soul Full (feat. Joe Killington)",
       "url": "https://open.spotify.com/track/4o8bcX3KzqCI09Xf4a37mJ"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 157205,
-      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Everybody Wants To Party",
-        "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        }
-      ],
-      "duration_ms": 184838,
-      "name": "Everybody Wants To Party",
-      "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Ask Me / Mesmerize",
-        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "Ask Me",
-      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -349,22 +293,6 @@
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
-      "added_at": "2022-11-14 01:37:06",
-      "album": {
-        "name": "Kunafa King",
-        "url": "https://open.spotify.com/album/6qtjLtPlebdQ5j8QmXDVyf"
-      },
-      "artists": [
-        {
-          "name": "Moving Still",
-          "url": "https://open.spotify.com/artist/4VVwqrM50CuVgB7yKHkl8Q"
-        }
-      ],
-      "duration_ms": 248727,
-      "name": "Kunafa King",
-      "url": "https://open.spotify.com/track/67Do8TlrqHxuiIcHTlQuLs"
-    },
-    {
       "added_at": "2022-09-02 13:11:22",
       "album": {
         "name": "Techno Disco Tool (Radio Edit)",
@@ -379,26 +307,6 @@
       "duration_ms": 194307,
       "name": "Techno Disco Tool - Radio Edit",
       "url": "https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Surrender (feat. PRICIE)",
-        "url": "https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "PRICIE",
-          "url": "https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ"
-        }
-      ],
-      "duration_ms": 237875,
-      "name": "Surrender (feat. PRICIE)",
-      "url": "https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -419,22 +327,6 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/6fK2iNnPSjak23iOthPngs"
-      },
-      "artists": [
-        {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
-        }
-      ],
-      "duration_ms": 403000,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1pfhurHQnm3xRFYjiNUIWK"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
         "name": "Let Me Love U",
         "url": "https://open.spotify.com/album/2IvjJ52cELQb89dchfEG7p"
       },
@@ -447,42 +339,6 @@
       "duration_ms": 189506,
       "name": "Let Me Love U",
       "url": "https://open.spotify.com/track/0GXeIYIvVgQIwAZ70Udnxb"
-    },
-    {
-      "added_at": "2022-11-14 01:37:06",
-      "album": {
-        "name": "Lubek",
-        "url": "https://open.spotify.com/album/0ZCrHhYJmmKSRMqWi0FYDr"
-      },
-      "artists": [
-        {
-          "name": "Aniso Tropics",
-          "url": "https://open.spotify.com/artist/4RgCH0IiMGFrkrBUww33ul"
-        }
-      ],
-      "duration_ms": 413926,
-      "name": "Lubek",
-      "url": "https://open.spotify.com/track/6NYJCaipqD2Q0KgRmFXJ2t"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
-      },
-      "artists": [
-        {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "Holybrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
-        }
-      ],
-      "duration_ms": 213815,
-      "name": "Glitter Fonk",
-      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -527,6 +383,26 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
+        "name": "Surrender (feat. PRICIE)",
+        "url": "https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "PRICIE",
+          "url": "https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ"
+        }
+      ],
+      "duration_ms": 237875,
+      "name": "Surrender (feat. PRICIE)",
+      "url": "https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
         "name": "Hipcats",
         "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
       },
@@ -543,6 +419,22 @@
       "duration_ms": 129836,
       "name": "Hipcats",
       "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/6fK2iNnPSjak23iOthPngs"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "duration_ms": 403000,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1pfhurHQnm3xRFYjiNUIWK"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -587,22 +479,22 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
-        "name": "Must Be Love (feat. Electric Fields)",
-        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
       "artists": [
         {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
         },
         {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+          "name": "Holybrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 270145,
-      "name": "Must Be Love (feat. Electric Fields)",
-      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -647,6 +539,26 @@
       "duration_ms": 213387,
       "name": "Everything's Gonna Be Alright (feat. London Community Gospel Choir)",
       "url": "https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Must Be Love (feat. Electric Fields)",
+        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 270145,
+      "name": "Must Be Love (feat. Electric Fields)",
+      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -795,6 +707,30 @@
     {
       "added_at": "2022-09-02 13:11:22",
       "album": {
+        "name": "All 4 Love (feat. Tasty Lopez)",
+        "url": "https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Rene Amesz",
+          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
+        },
+        {
+          "name": "Tasty Lopez",
+          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
+        }
+      ],
+      "duration_ms": 205645,
+      "name": "All 4 Love (feat. Tasty Lopez)",
+      "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
         "name": "The Vision",
         "url": "https://open.spotify.com/album/7G3RYP4Wc2vtFHihpR8HXN"
       },
@@ -819,30 +755,6 @@
       "duration_ms": 298416,
       "name": "Heaven (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw"
-    },
-    {
-      "added_at": "2022-09-02 13:11:22",
-      "album": {
-        "name": "All 4 Love (feat. Tasty Lopez)",
-        "url": "https://open.spotify.com/album/5nG14C8xNuwcroL5obo4dq"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Rene Amesz",
-          "url": "https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m"
-        },
-        {
-          "name": "Tasty Lopez",
-          "url": "https://open.spotify.com/artist/6bGjAU1yRMvrVDQsN9Awc0"
-        }
-      ],
-      "duration_ms": 205645,
-      "name": "All 4 Love (feat. Tasty Lopez)",
-      "url": "https://open.spotify.com/track/0ib3Pdvgp2ZDk6nO1DC3sJ"
     },
     {
       "added_at": "2022-09-02 13:11:22",
@@ -975,6 +887,102 @@
       "duration_ms": 163294,
       "name": "Sky's the Limit - Edit",
       "url": "https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Pink Flamingo Rhythm Revue",
+          "url": "https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp"
+        }
+      ],
+      "duration_ms": 210820,
+      "name": "Money Money",
+      "url": "https://open.spotify.com/track/5Y1hXyy0XdX8R3sY3FAR3q"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
+        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Tutto va bene quando facciamo l'amore",
+      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Never The Same",
+        "url": "https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB"
+    },
+    {
+      "added_at": "2022-09-02 13:11:22",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Je Vulesse",
+      "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
+    },
+    {
+      "added_at": "2022-11-15 01:34:19",
+      "album": {
+        "name": "My Life (feat. Joe Killington)",
+        "url": "https://open.spotify.com/album/2ozXsht9lh1koItgP8cl9d"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Joe Killington",
+          "url": "https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "My Life (feat. Joe Killington)",
+      "url": "https://open.spotify.com/track/5IhCWukOzeazDOHKCKARki"
     }
   ],
   "unique_name": "DISCOLAND",

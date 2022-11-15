@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 
 > The soundtrack to your festive get\-together!
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,652 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,047 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 35 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/2WRGElMRMJG8BsivwviL80) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Elvis Presley Christmas Duets](https://open.spotify.com/album/0dZHOzNT3CYfHmK2yOW7oV) | 1:56 |
 | 36 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 |
 | 37 | [Lonely This Christmas](https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [The Very Best Of Mud](https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4) | 3:33 |
-| 38 | [Merry X\-Mas Everybody](https://open.spotify.com/track/1eNJp0IUniVnnz9bcnke5v) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Santa Songs](https://open.spotify.com/album/6KI13Kc1iR2zvckXe7GP6U) | 3:37 |
+| 38 | [Merry X\-Mas Everybody](https://open.spotify.com/track/6kyh0ADHai0OjNrleA9ZIw) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Christmas](https://open.spotify.com/album/2QOXihEHXgubvkbBYBPHkQ) | 3:38 |
 | 39 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 | 40 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
 | 41 | [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26MMm9GTjCc.md) - [plain]
 | 49 | [Run Rudolph Run](https://open.spotify.com/track/2fpZlIhqXByz1IJke9B4zY) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Snowed In](https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V) | 3:12 |
 | 50 | [12 Days of Christmas](https://open.spotify.com/track/6E4NFTOYOUPKnTCYXsLWWT) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq), [Tanglewood Festival Chorus](https://open.spotify.com/artist/4iVuajOueZR7rvn5PbkZM0), [Keith Lockhart](https://open.spotify.com/artist/3xXehPffJ4rtaaCbqDwVJ3) | [12 Days of Christmas](https://open.spotify.com/album/1RQHki0FSyJHcBCj22z0Hw) | 9:16 |
 
-Snapshot ID: `MTY2Njk2NzE1MiwwMDAwMDAwMGU3NzI4N2VhZTRjNDk2NzYzZjhjZjMxMWRjNWNkYjM0`
+Snapshot ID: `MTY2Njk2NzE1MiwwMDAwMDAwMGM3MzFiMmE0NWRiNjhhYzRhYzIyMDQ3NjQ3NjFhMDll`

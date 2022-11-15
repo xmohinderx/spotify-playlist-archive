@@ -1,12 +1,12 @@
 {
   "description": "Country that made country cool! Cover: Vince Gill",
-  "num_followers": 1392450,
+  "num_followers": 1393103,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3MDg5MywwMDAwMDAwMGE4YmQ3MWQxNDIwMmFkNTYwNjkzNTc0MmVmMzYyMzAy",
+  "snapshot_id": "MTY2MTk3MDg5MywwMDAwMDAwMGRiNWYyN2M4MDlhOGI2MTU1NmUxNzBhMWI5OWUyNTBk",
   "tracks": [
     {
       "added_at": "2022-08-31 18:34:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Indian Outlaw",
+      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 199040,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
-        "name": "Hard Workin' Man",
-        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Hard Workin' Man",
-      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -911,18 +911,34 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Indian Outlaw",
-      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
+      "duration_ms": 183960,
+      "name": "No One Needs To Know",
+      "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Hard Workin' Man",
+        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Hard Workin' Man",
+      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -939,22 +955,6 @@
       "duration_ms": 133853,
       "name": "If I Could Make a Living",
       "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
-        "name": "Blue Clear Sky",
-        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "I Can Still Make Cheyenne",
-      "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+        "name": "Blue Clear Sky",
+        "url": "https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG"
       },
       "artists": [
         {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
+      "duration_ms": 256066,
+      "name": "I Can Still Make Cheyenne",
+      "url": "https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+      },
+      "artists": [
+        {
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "No One Needs To Know",
-      "url": "https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "No Ordinary Man",
-        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 247626,
-      "name": "The Keeper Of The Stars",
-      "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
+      "duration_ms": 178893,
+      "name": "Brand New Man",
+      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
+        "name": "No Ordinary Man",
+        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
       "artists": [
         {
-          "name": "Ricochet",
-          "url": "https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Daddy's Money",
-      "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
+      "duration_ms": 247626,
+      "name": "The Keeper Of The Stars",
+      "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1539,34 +1539,34 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Ricochet",
+          "url": "https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+      "duration_ms": 183493,
+      "name": "Daddy's Money",
+      "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
     },
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 178893,
-      "name": "Brand New Man",
-      "url": "https://open.spotify.com/track/6JKwnVUYVF8LHamgZ5dFL1"
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1587,34 +1587,18 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "One Step At A Time",
-        "url": "https://open.spotify.com/album/2btiLFlL9jzIIHbId5cufS"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 210866,
-      "name": "I Just Want To Dance With You",
-      "url": "https://open.spotify.com/track/4cdAXfguhQHYFkvuuzye1m"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1683,22 +1667,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Terri Clark",
-        "url": "https://open.spotify.com/album/2uxYbAeebAr68avY0b9vv0"
-      },
-      "artists": [
-        {
-          "name": "Terri Clark",
-          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Better Things To Do",
-      "url": "https://open.spotify.com/track/29V94tQgMoSJjbzuTliPj6"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1711,6 +1679,22 @@
       "duration_ms": 223973,
       "name": "One Way Ticket (Because I Can)",
       "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Terri Clark",
+        "url": "https://open.spotify.com/album/2uxYbAeebAr68avY0b9vv0"
+      },
+      "artists": [
+        {
+          "name": "Terri Clark",
+          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Better Things To Do",
+      "url": "https://open.spotify.com/track/29V94tQgMoSJjbzuTliPj6"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
         "name": "Toby Keith 35 Biggest Hits",
         "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Lonestar",
         "url": "https://open.spotify.com/album/2IwKTl4PY4Nh1WA7R0Qbwq"
       },
@@ -1859,22 +1843,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Greatest Hits: Mark Chesnutt",
-        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1887,6 +1855,22 @@
       "duration_ms": 169546,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Greatest Hits: Mark Chesnutt",
+        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -1907,22 +1891,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/30DhSd45CPtwx14Kw6SpfL"
       },
@@ -1935,6 +1903,22 @@
       "duration_ms": 210866,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/3z7aMSuKqrPQluiJro3Gqt"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -2007,22 +1991,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Be Good At It",
-        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "The Shake",
-      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
       },
@@ -2035,6 +2003,22 @@
       "duration_ms": 215600,
       "name": "A Broken Wing",
       "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Be Good At It",
+        "url": "https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "The Shake",
+      "url": "https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -2055,22 +2039,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
-      },
-      "artists": [
-        {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Only Here For A Little While",
-      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "The Essential Mary Chapin Carpenter",
         "url": "https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9"
       },
@@ -2083,6 +2051,22 @@
       "duration_ms": 243106,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Only Here For A Little While",
+      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -2115,22 +2099,6 @@
       "duration_ms": 183853,
       "name": "Then What?",
       "url": "https://open.spotify.com/track/1TjtrBIx7fPUBjDXL9svN1"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 227640,
-      "name": "No Doubt About It",
-      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -2199,6 +2167,22 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+      },
+      "artists": [
+        {
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+        }
+      ],
+      "duration_ms": 227640,
+      "name": "No Doubt About It",
+      "url": "https://open.spotify.com/track/2iehL6Q3m5NUDanDT2IKwT"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
@@ -2231,22 +2215,6 @@
     {
       "added_at": "2022-08-31 18:34:53",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
-    },
-    {
-      "added_at": "2022-08-31 18:34:53",
-      "album": {
         "name": "Calm Before the Storm",
         "url": "https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR"
       },
@@ -2259,6 +2227,22 @@
       "duration_ms": 220106,
       "name": "I Do",
       "url": "https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2022-08-31 18:34:53",
@@ -2419,6 +2403,22 @@
       "duration_ms": 206506,
       "name": "I Think About You",
       "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
+    },
+    {
+      "added_at": "2022-08-31 18:34:53",
+      "album": {
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     }
   ],
   "unique_name": "90s Country",

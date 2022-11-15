@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Achis achis los mariachis! ",
-  "num_followers": 13829,
+  "num_followers": 13848,
   "original_name": "Mariachi Loco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMDM5NmU3YmI0YzdlOWQ5M2JjYzhhZjRlODc5ZDFjYWNj",
+  "snapshot_id": "MTY0MzE1NTI0MiwwMDAwMDAwMDQ5YWIzNWMzNjQ4YTEwM2Y0NTEwZjVhYzU1ZGUwYzA5",
   "tracks": [
     {
       "added_at": "2022-01-26 00:00:42",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "15 \u00c9xitos: Corridos Famosos",
-        "url": "https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 222737,
-      "name": "Juan Charrasqueado",
-      "url": "https://open.spotify.com/track/58dUntpcd9w1JKpFdUmtoT"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Que Seas Muy Feliz",
         "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
       },
@@ -231,6 +215,38 @@
       "duration_ms": 179266,
       "name": "Yo...El Aventurero",
       "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "15 \u00c9xitos: Corridos Famosos",
+        "url": "https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 222737,
+      "name": "Juan Charrasqueado",
+      "url": "https://open.spotify.com/track/58dUntpcd9w1JKpFdUmtoT"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 209184,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -267,54 +283,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
-        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "M\u00e9xico Lindo Y Querido",
-      "url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 209184,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
-        "name": "Yo No Fui",
-        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "Yo No Fui",
-      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Cien a\u00f1os... pensando en ti",
         "url": "https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc"
       },
@@ -327,22 +295,6 @@
       "duration_ms": 190133,
       "name": "Carta a Eufemia",
       "url": "https://open.spotify.com/track/0Y2OF1xhhOkC7PlI1M00wq"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
-        "name": "Rancheras de Relajo",
-        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 178689,
-      "name": "Ay, Chabela",
-      "url": "https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -363,18 +315,50 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "Fiesta Mexicana Con Mariachi (USA)",
-        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
+      "duration_ms": 146920,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/6ef95vgK7yUu6Bg61m2BsJ"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Yo No Fui",
+        "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 178689,
+      "name": "Ay, Chabela",
+      "url": "https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -395,18 +379,18 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8"
+        "name": "Vicente Fernandez La Leyenda Viviente (Digi-Pack)",
+        "url": "https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW"
       },
       "artists": [
         {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 146920,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/6ef95vgK7yUu6Bg61m2BsJ"
+      "duration_ms": 212573,
+      "name": "M\u00e9xico Lindo Y Querido",
+      "url": "https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -423,6 +407,22 @@
       "duration_ms": 221780,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Fiesta Mexicana Con Mariachi (USA)",
+        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
+        "name": "Rancheras Vol. 2",
+        "url": "https://open.spotify.com/album/7LYxHUJ2DHQg9Wd7sxfbA2"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 164040,
+      "name": "El copet\u00edn",
+      "url": "https://open.spotify.com/track/2ZliolI7CuxldpgXgMOuYR"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
         "name": "Joan Sebastian Con El Mariachi Vargas",
         "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
@@ -551,6 +567,22 @@
       "duration_ms": 175438,
       "name": "Torito Serrano",
       "url": "https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 173940,
+      "name": "Alta Y Delgadita",
+      "url": "https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -587,22 +619,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "Antonio Aguilar",
-        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 173940,
-      "name": "Alta Y Delgadita",
-      "url": "https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Mariachi Loco: 30 Pegaditas",
         "url": "https://open.spotify.com/album/2sZm194vZ5Tm8sH6I8vNLK"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 141973,
       "name": "Que Se Mueran los Feos",
       "url": "https://open.spotify.com/track/46GSlzR2O4cceIOBImlAnJ"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
-        "name": "Rancheras Vol. 2",
-        "url": "https://open.spotify.com/album/7LYxHUJ2DHQg9Wd7sxfbA2"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "El copet\u00edn",
-      "url": "https://open.spotify.com/track/2ZliolI7CuxldpgXgMOuYR"
     },
     {
       "added_at": "2022-01-26 00:00:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-01-26 00:00:42",
       "album": {
-        "name": "Rancheras & Mariachi",
-        "url": "https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk"
-      },
-      "artists": [
-        {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
-        }
-      ],
-      "duration_ms": 140921,
-      "name": "El G\u00fciri G\u00fciri",
-      "url": "https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw"
-    },
-    {
-      "added_at": "2022-01-26 00:00:42",
-      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 214439,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/1sglM2aQR5DikqDqj2W8N9"
+    },
+    {
+      "added_at": "2022-01-26 00:00:42",
+      "album": {
+        "name": "Rancheras & Mariachi",
+        "url": "https://open.spotify.com/album/3ToEMff8iNoGuVuOPQXnMk"
+      },
+      "artists": [
+        {
+          "name": "Luis P\u00e9rez Meza",
+          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
+        }
+      ],
+      "duration_ms": 140921,
+      "name": "El G\u00fciri G\u00fciri",
+      "url": "https://open.spotify.com/track/17rmz3Z7kpqQruM9PGbySw"
     },
     {
       "added_at": "2022-01-26 00:00:42",

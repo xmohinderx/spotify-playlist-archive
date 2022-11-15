@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-175 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
+176 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/19Yucfs77zcStAoxcERWEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [hello \(and it's christmas\)](https://open.spotify.com/track/4iOY6He4lZz2yjoSPzHLgT) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [hello \(and it's christmas\)](https://open.spotify.com/album/1A6tOTrSyOd9SjkgVAYQoZ) | 2:38 | 2021-12-03 | 2022-07-26 |
 | [Here We Come A\-Caroling](https://open.spotify.com/track/7qCP7q2x6LgxFM9bTUDQT2) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Here We Come A\-Caroling](https://open.spotify.com/album/5IAQ5BCCMopi0xZ7vbnCkL) | 2:47 | 2021-11-12 | 2022-07-25 |
 | [Holiday](https://open.spotify.com/track/1mrjKX3NVAtq1FGg7CzFbZ) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/4dPnPke5bEw0O12dgO7VkB) | 4:08 | 2021-11-12 | 2022-07-29 |
-| [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-11-12 |  |
+| [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2021-11-12 | 2022-11-15 |
 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 | 2021-11-12 |  |
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-12 |  |
 | [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-15 |  |
@@ -160,6 +160,7 @@
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-11-12 | 2022-10-13 |
 | [two queens in a king sized bed](https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII) | 3:10 | 2021-11-12 |  |
 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 | 2021-11-12 | 2022-07-28 |
+| [Under the Lights](https://open.spotify.com/track/0nPlaMV86iDMDKAXueGEFV) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Under the Lights](https://open.spotify.com/album/2nZd5rmiopzDpXS435mn2T) | 2:45 | 2022-11-11 |  |
 | [Vegetarian Christmas](https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Vegetarian Christmas](https://open.spotify.com/album/1RRAz0Fa380MOhzVgJylCP) | 3:31 | 2021-11-12 | 2022-07-28 |
 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-11-12 | 2022-11-07 |
 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2021-11-12 |  |

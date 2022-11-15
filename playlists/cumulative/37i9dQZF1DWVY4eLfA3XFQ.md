@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Chris Lake
 
-674 songs - 1 day 14 hr 19 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
+675 songs - 1 day 14 hr 23 min - [published](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Fight Dirty](https://open.spotify.com/track/4VHWqX5JH8GEtQ4ZGyZStN) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Fight Dirty](https://open.spotify.com/album/1iws5DmCyPrr5BElY4CPHl) | 3:00 | 2021-11-26 | 2022-01-06 |
 | [Find A Way](https://open.spotify.com/track/5THxirvtOzQQoUL9wLldgP) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Find A Way](https://open.spotify.com/album/1N2ao678nFxSdmM7hbTHzs) | 1:53 | 2022-09-09 |  |
 | [FIND ME IN DA CLUB !!!](https://open.spotify.com/track/5uyg0qKiHRRsa0ykPAcQTN) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [FIND ME IN DA CLUB !!!](https://open.spotify.com/album/6V1569aJfxbqjcFnMt3izF) | 2:25 | 2022-04-13 | 2022-06-22 |
-| [Find My Way](https://open.spotify.com/track/0T8j68rUIsDchV9JIuwOfw) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Find My Way](https://open.spotify.com/album/34csmfjmBsLxnii2PIYiev) | 3:44 | 2022-09-05 |  |
+| [Find My Way](https://open.spotify.com/track/0T8j68rUIsDchV9JIuwOfw) | [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Find My Way](https://open.spotify.com/album/34csmfjmBsLxnii2PIYiev) | 3:44 | 2022-09-05 | 2022-11-15 |
 | [Foggy Geezer](https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Foggy Geezer](https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG) | 3:04 | 2022-06-24 | 2022-08-20 |
 | [For One Night](https://open.spotify.com/track/4PDxk8IXTMxbRlSv7Cx2Hb) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [For One Night](https://open.spotify.com/album/4rFPkGiWzoaLl59j11Ruj4) | 2:53 | 2022-08-05 | 2022-11-12 |
 | [For The Same Man \- Nic Fanciulli Remix](https://open.spotify.com/track/5FxE7lQoBhfdW3h9P8qDdO) | [B Beat Girls](https://open.spotify.com/artist/5m6iVyo0EmmzDe7xxyp10a), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [For The Same Man \(Nic Fanciulli Remix\)](https://open.spotify.com/album/4zW1H6EF5S6bAY5bipHck4) | 3:34 | 2022-05-13 | 2022-08-06 |
@@ -643,6 +643,7 @@
 | [Walking](https://open.spotify.com/track/123zeArT5tWf1bQ5slqkwW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Running](https://open.spotify.com/album/16Kon7rTm0D4jOwEu2me2c) | 5:03 | 2021-12-10 | 2022-03-12 |
 | [WANNA KNOW](https://open.spotify.com/track/6uqwALchj4EBNgoOwbZjT7) | [DW](https://open.spotify.com/artist/03xgJUfFga1c5R2kS10GRX) | [WANNA KNOW](https://open.spotify.com/album/6ZrNOaPIhvrCDX7cKfa2lb) | 3:01 | 2021-11-26 | 2022-01-06 |
 | [Wanna Love](https://open.spotify.com/track/6tOfHz0qCh7WNoTqCtcFQk) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Vizzyz](https://open.spotify.com/artist/7EkfZ1ZoFllrSVCS6lCpAm) | [Wanna Love](https://open.spotify.com/album/74vB8lBpNR6qfuOREt3odM) | 2:39 | 2021-11-26 | 2022-04-02 |
+| [Want My Love](https://open.spotify.com/track/1Jg65EDU6dZXiqjRb1OXlE) | [Mineo](https://open.spotify.com/artist/1pgSJtH1TwIAxeSn4vSJJR) | [Want My Love](https://open.spotify.com/album/07JjhUiTinOcb02BCBd2QL) | 3:25 | 2022-11-14 |  |
 | [Want To Love](https://open.spotify.com/track/4eadst9pPSuPYa6ZC79DBj) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Want To Love](https://open.spotify.com/album/74yfold8G3wvVYm1pyxS0T) | 3:25 | 2021-12-17 | 2022-03-12 |
 | [Wasteland \(feat\. Little Boots\)](https://open.spotify.com/track/4DgTU3kxMj4VdDDTFqlIf0) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Wasteland \(feat\. Little Boots\)](https://open.spotify.com/album/4rDSanKbdv6i3X9xgCVYbP) | 3:01 | 2021-11-26 | 2022-03-26 |
 | [Wasting Time](https://open.spotify.com/track/7qIU50XAzFBYENwo5L5AeV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Wasting Time](https://open.spotify.com/album/4CuSM5CQQKVwm29LXBnvEo) | 3:43 | 2022-04-08 | 2022-06-25 |

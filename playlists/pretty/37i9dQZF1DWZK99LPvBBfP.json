@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 135572,
+  "num_followers": 135685,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDgxZTAyNzhlOTg1MTA2NTM0ZGQ2ZWNmYmI4OTY5OTc2",
+  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMGFhNWVhMmY5MTY1MGMyMjlhYWY0N2QxODMzZjAwNjE0",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 450912,
       "name": "Pjanoo - Club Mix",
       "url": "https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC"
     },
     {
       "added_at": "2022-04-13 15:02:41",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Chime",
-        "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "Chime - Edit",
-      "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Chime",
+        "url": "https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "Chime - Edit",
+      "url": "https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5"
     },
     {
       "added_at": "2022-04-13 15:02:41",

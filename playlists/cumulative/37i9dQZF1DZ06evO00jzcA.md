@@ -4,10 +4,11 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/0STv48kztmKltDvms2WfHH)
+75 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/0STv48kztmKltDvms2WfHH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [100,000 Years](https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:22 | 2022-11-14 |  |
 | [2,000 Man](https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:55 | 2022-10-12 |  |
 | [A Million To One](https://open.spotify.com/track/3Z7AIA7ZjItaRZvkE2Kxs2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:11 | 2022-01-11 | 2022-03-27 |
 | [All Hell's Breakin' Loose](https://open.spotify.com/track/5YbJw4lz5qmYCQgmykL9YF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up](https://open.spotify.com/album/0dD1SMOKBDV1qBadcovw30) | 4:34 | 2022-01-11 |  |
@@ -47,7 +48,7 @@
 | [I Was Made For Loving You \- Live In Virginia Beach, 7/25/2004](https://open.spotify.com/track/0ccElJ2DgEv9UZ7UJECWU0) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [I Was Made For Loving You \(Live In Virginia Beach, 7/25/2004\)](https://open.spotify.com/album/0V1xM8wrgG8jHBqqyhIT6b) | 6:12 | 2022-02-12 | 2022-08-19 |
 | [I Will Be There](https://open.spotify.com/track/08bLStHHiSJdVwmCJoraPL) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Carnival Of Souls: The Final Sessions](https://open.spotify.com/album/7HZxqRi5rwLpyPkJJ4DKaK) | 3:49 | 2022-01-12 | 2022-01-14 |
 | [I'll Fight Hell To Hold You](https://open.spotify.com/track/5BWARDGvGMtVPJO8WDvaLP) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:09 | 2022-01-12 | 2022-10-19 |
-| [I've Had Enough \(Into The Fire\)](https://open.spotify.com/track/64Ld8TSuVoOGMqiXZ1xg7t) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:51 | 2022-01-11 |  |
+| [I've Had Enough \(Into The Fire\)](https://open.spotify.com/track/64Ld8TSuVoOGMqiXZ1xg7t) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:51 | 2022-01-11 | 2022-11-15 |
 | [Keep Me Comin'](https://open.spotify.com/track/7aBBsIarYUU1vTgPVKQ0D4) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 3:55 | 2022-01-12 | 2022-10-13 |
 | [King Of The Night Time World](https://open.spotify.com/track/3gsoInre1B3i1PJUmhvDYH) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 3:19 | 2022-01-11 |  |
 | [Let Me Go, Rock 'N Roll \- Live In Veterans Memorial Auditorium, Des Moines / 1977](https://open.spotify.com/track/6MEYbafwyChkm22SFKzPs7) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Let Me Go, Rock 'N Roll \(Live\)](https://open.spotify.com/album/3ujn2PCWC7RluCsKlMfhfL) | 3:01 | 2022-07-10 | 2022-09-13 |

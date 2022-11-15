@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-405 songs - 1 day 6 hr 56 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+406 songs - 1 day 7 hr 1 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Dissonance](https://open.spotify.com/track/24r2tiw6Ywi28T07oSbk0S) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/2wdEqqIVyVyiVVByRKduOr) | 5:32 | 2022-02-17 | 2022-07-29 |
 | [Dissonance](https://open.spotify.com/track/5MmEgl5zr8lTmu30HO00Fw) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/1YI0DOkY7g3M4fsMYuMycJ) | 5:32 | 2022-07-08 | 2022-07-30 |
 | [Distant Light](https://open.spotify.com/track/0dpN2BrkuBkpayGK55o70X) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Universal](https://open.spotify.com/album/2u24rPh4PG59tEqJy2qEaH) | 4:13 | 2022-02-17 | 2022-10-29 |
-| [Disturbed](https://open.spotify.com/track/5JexpLUHY3HriFPMzbO0aQ) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Disturbed](https://open.spotify.com/album/0dhYot6jIkDIPw5nMJIHWl) | 4:41 | 2022-02-17 |  |
+| [Disturbed](https://open.spotify.com/track/5JexpLUHY3HriFPMzbO0aQ) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN) | [Disturbed](https://open.spotify.com/album/0dhYot6jIkDIPw5nMJIHWl) | 4:41 | 2022-02-17 | 2022-11-15 |
 | [Down Town Dub](https://open.spotify.com/track/4bC6kRiriuqVWM4D2UgIUW) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn) | [Down Town Dub / Tumble](https://open.spotify.com/album/42jIA73ix0bgwNw8slzbOx) | 5:36 | 2022-02-17 |  |
 | [Dread & Buried \- Congi Remix](https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp) | [Origin One](https://open.spotify.com/artist/1EKZ8G8paqscrKD9uZMOor), [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Deeply Remixed, Vol\. 2](https://open.spotify.com/album/1rD87trISV6lwx6QJ5TRpp) | 3:54 | 2022-02-17 |  |
 | [Dreamer](https://open.spotify.com/track/1fuLBcbyY3mYcKAjzb6jLD) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Dreamer](https://open.spotify.com/album/0Zvw2kNrsvYmsPIo8ouBbA) | 4:37 | 2022-02-17 | 2022-10-08 |
@@ -173,6 +173,7 @@
 | [Juan40](https://open.spotify.com/track/2mLnO19YpsMZ7KOdsBWMi5) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Juan40](https://open.spotify.com/album/2xPmwMIOGyWFwK99q4YKou) | 4:13 | 2022-07-08 |  |
 | [Juce](https://open.spotify.com/track/199zSCFLQLcXyY9Zgxfp7p) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/1BrXQYAL1k8owmS9OUf1zK) | 5:12 | 2022-07-08 | 2022-07-30 |
 | [Juce](https://open.spotify.com/track/1YLCRZDFbNNdBJc53jUfF9) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/6Quzmmpf3RmbIWPzRIYXsd) | 5:12 | 2022-02-17 | 2022-07-27 |
+| [Jupiter](https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X) | [Khiva](https://open.spotify.com/artist/3cH0fKXiWesYFzqJwiWlAD), [JLEON](https://open.spotify.com/artist/2p2IYURbU7AcYh4R0l44E6) | [Jupiter](https://open.spotify.com/album/0NAa97MkEXhRuHBaZQO6AN) | 4:41 | 2022-11-15 |  |
 | [Just 9](https://open.spotify.com/track/6UnDwA5llAiBExm9nlqato) | [Content](https://open.spotify.com/artist/14PVoXMAznefQRGFVrBRAA), [Krudkutter](https://open.spotify.com/artist/4uacqKlQmCHQz7VWgt0qKQ) | [ENC018](https://open.spotify.com/album/6hhZw4V8DX3FRilPlX92IX) | 4:06 | 2022-02-17 | 2022-07-28 |
 | [Justice](https://open.spotify.com/track/3CFoYq5cPKpGyIralOL9Hv) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR) | [Justice](https://open.spotify.com/album/3hleBq4VrHXrh1sosMD3qR) | 5:07 | 2022-02-17 | 2022-06-11 |
 | [Kadian Dub](https://open.spotify.com/track/7yUtCbaiVrdm4waoRWGD90) | [Oxossi](https://open.spotify.com/artist/33KoTOB6gxLIYPsAfkPx9z) | [Buried EP](https://open.spotify.com/album/0bsMSLPogL3jS9MjePyq94) | 4:33 | 2022-02-17 | 2022-07-30 |

@@ -2,7 +2,7 @@
 
 ### [AfroTech Now](https://open.spotify.com/playlist/37i9dQZF1DXb6pBzjNjXR1)
 
-> AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here\. Cover: <a href="https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM?si=zSdVEImKTAWqxRQej11leg">Atmos Blaq</a>
+> AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here.
 
 72 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
 

@@ -4,7 +4,7 @@
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Elvis Presley.
 
-120 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
+123 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Deck The Halls](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2021-10-01 |  |
 | [Deck The Halls \- Remastered 1999](https://open.spotify.com/track/6SG3f2G67BowVOe13BZ38l) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Noël jazz 2022](https://open.spotify.com/album/0X92R9KRPSAf7DgaAbYshe) | 1:08 | 2022-11-09 | 2022-11-14 |
 | [Deck The Halls \- Remastered 1999](https://open.spotify.com/track/5WUx1mTgFVIPSIeWf1NXEl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song](https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O) | 1:09 | 2021-10-01 | 2022-07-29 |
+| [Do You Hear What I Hear? \- Remastered 2006](https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:45 | 2022-11-14 |  |
 | [Frosty The Snowman \- Remastered 2006](https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:13 | 2021-10-01 |  |
 | [Glow](https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 3:29 | 2021-10-01 |  |
 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:36 | 2021-10-01 |  |
@@ -45,6 +46,7 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3FBelB9y5TwsdJMLPYBsbs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 3:02 | 2021-10-01 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lI6RZIYu6zfBVbVzoUDlv) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [My Favorite Things: Christmas Songs](https://open.spotify.com/album/1Ls3IQbWcXIkMV6sBzpUVl) | 3:02 | 2022-11-09 | 2022-11-13 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7yUx5eB7jvq8wuhhOn3Nas) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 3:02 | 2021-10-01 | 2022-07-29 |
+| [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 | 2022-11-14 |  |
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 1:55 | 2022-09-27 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 1:59 | 2021-10-01 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/24R1qc77L7eb38XKBFIfEN) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Before Christmas](https://open.spotify.com/album/2NCP9hd23zIKGnjueQT3SR) | 3:03 | 2021-10-01 |  |
@@ -128,5 +130,6 @@
 | [Winter Wonderland](https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 2:13 | 2021-10-01 |  |
 | [Winter Wonderland](https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 2:13 | 2021-10-01 | 2022-07-29 |
 | [Winter Wonderland](https://open.spotify.com/track/5bxgpUBahu6edFTi2ZBZx9) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Relaxing Christmas Music](https://open.spotify.com/album/3fhZuGARTqvmMDsMljRHzP) | 2:13 | 2022-11-09 | 2022-11-13 |
+| [Winter Wonderland \- Remastered 2006](https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:24 | 2022-11-14 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 11207,
+  "num_followers": 11286,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzM5MCwwMDAwMDAwMDgxOTk4NzAyNDljYjJlNDg4YmY5NWJiY2Y3N2ZkNTRi",
+  "snapshot_id": "MTY2NzQ2NzM5MCwwMDAwMDAwMGZkNmM1MjllOTgwZmQ3YTIxZTBhODZjNjRiMGU3NThi",
   "tracks": [
     {
       "added_at": "2022-11-03 09:23:10",
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -243,42 +223,22 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
         },
         {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
-        }
-      ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -299,6 +259,26 @@
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -355,6 +335,26 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 216559,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -451,6 +435,22 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
+        "name": "MaRz&B",
+        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 185169,
+      "name": "Chrome Hearts",
+      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -495,6 +511,22 @@
       "duration_ms": 277928,
       "name": "Love Kills",
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "Neo Seoul",
+        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "duration_ms": 195891,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -515,38 +547,6 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "MaRz&B",
-        "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 185169,
-      "name": "Chrome Hearts",
-      "url": "https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "Neo Seoul",
-        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        }
-      ],
-      "duration_ms": 195891,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 240904,
-      "name": "Future Love",
-      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
         "name": "SET",
         "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 178186,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 240904,
+      "name": "Future Love",
+      "url": "https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -667,22 +667,6 @@
       "duration_ms": 217922,
       "name": "SWEATY",
       "url": "https://open.spotify.com/track/32uPe16qlUS05lWN2c37mf"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 210344,
-      "name": "I Don\u2019t Disappoint",
-      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -723,6 +707,22 @@
       "duration_ms": 213282,
       "name": "Down (Feat. DUT2)",
       "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 210344,
+      "name": "I Don\u2019t Disappoint",
+      "url": "https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
+        "name": "Remained scent",
+        "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
+      },
+      "artists": [
+        {
+          "name": "BB",
+          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+        }
+      ],
+      "duration_ms": 186755,
+      "name": "Remained scent",
+      "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+    },
+    {
+      "added_at": "2022-11-03 09:23:10",
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-11-03 09:23:10",
       "album": {
-        "name": "Remained scent",
-        "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
       "artists": [
         {
-          "name": "BB",
-          "url": "https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 186755,
-      "name": "Remained scent",
-      "url": "https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf"
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
       "added_at": "2022-11-03 09:23:10",
@@ -931,22 +947,6 @@
       "duration_ms": 213000,
       "name": "I want to (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
-    },
-    {
-      "added_at": "2022-11-03 09:23:10",
-      "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
       "added_at": "2022-11-03 09:23:10",

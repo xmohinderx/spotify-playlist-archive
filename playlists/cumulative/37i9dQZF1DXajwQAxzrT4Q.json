@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 164000,
       "name": "I'm A Feak - Original Mix",
       "url": "https://open.spotify.com/track/36R18vBB91woI7YHbEykdF"
@@ -3883,6 +3883,24 @@
       "duration_ms": 131291,
       "name": "Why You Think You're Fierce - Original Mix",
       "url": "https://open.spotify.com/track/66buYvYepobfo8eL6zkvJ0"
+    },
+    {
+      "album": {
+        "name": "World Cup",
+        "url": "https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256704,
+      "name": "World Cup",
+      "url": "https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXajwQAxzrT4Q"

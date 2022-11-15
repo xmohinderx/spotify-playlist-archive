@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Showtek x sonofsteve
 
-379 songs - 18 hr 27 min - [published](https://open.spotify.com/playlist/5y4MrJJ7gKnIUTSID8FBc6)
+380 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/5y4MrJJ7gKnIUTSID8FBc6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Ridiculous](https://open.spotify.com/track/7gI3L0bry3gOER6UeS9Vke) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Ridiculous](https://open.spotify.com/album/5EJRspOV5Vykj7jTgLT7d3) | 2:20 | 2022-06-03 | 2022-06-20 |
 | [Rio Rio \(feat\. Martina Camargo\)](https://open.spotify.com/track/0vnbMEahl3Lj1AixLnCGje) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Paolo Pellegrino](https://open.spotify.com/artist/3ewQZ4iDkC9CQzceitueXe), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Rio Rio \(feat\. Martina Camargo\)](https://open.spotify.com/album/2lLotYOtvUOqdVCzor6XNZ) | 2:51 | 2022-10-14 | 2022-10-28 |
 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 | 2022-09-23 | 2022-10-07 |
+| [Rockstar Baby \(feat\. Mougleta\) \- Wave Wave Remix](https://open.spotify.com/track/7lytyerryTHos5s2HCZj0E) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Rockstar Baby \(feat\. Mougleta\) \[Wave Wave Remix\]](https://open.spotify.com/album/6BDRtcW7YTOW3rVJAluYrz) | 3:08 | 2022-11-14 |  |
 | [Round My Head](https://open.spotify.com/track/61wzyaAmDXaWZYh5jPCXWN) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Round My Head](https://open.spotify.com/album/0F62xYMoFWR5Nqm6Bzc0eZ) | 2:26 | 2022-07-22 | 2022-08-06 |
 | [Rule The World](https://open.spotify.com/track/2OO4JgzAo7E4FxUs1LnAAE) | [Valy Mo](https://open.spotify.com/artist/2GOqvtSlw1DetJcV3p0fYH), [Sebastian Park](https://open.spotify.com/artist/7ocJ11nNy4Qm8jlOZSYT9t) | [Rule The World](https://open.spotify.com/album/0K58fGam3zrNqk33ah7Q3I) | 3:13 | 2022-07-08 | 2022-07-23 |
 | [Run](https://open.spotify.com/track/4nBYQdZuNW5JH1KHUTf7jE) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Run](https://open.spotify.com/album/5dBqstmpc8iFubg3KjEF2J) | 2:57 | 2022-07-15 | 2022-07-30 |

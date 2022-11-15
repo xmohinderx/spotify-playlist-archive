@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Nas\)
 
-829 songs - 1 day 18 hr 25 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+830 songs - 1 day 18 hr 27 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Modern Problem](https://open.spotify.com/track/79HxZf9djlyJ3tgNsZwEkf) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Modern Problem](https://open.spotify.com/album/6nK6jXwPvD5hSH5H1aFoVv) | 3:40 | 2022-08-11 | 2022-09-02 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-01 | 2022-08-19 |
 | [Morë Tonight \(with Nigo\)](https://open.spotify.com/track/0ED7MSs8EDSxkdhYMtpoQA) | [Teriyaki Boyz](https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Morë Tonight](https://open.spotify.com/album/4FzBrynqUIPouMcC0g1O3w) | 3:38 | 2022-03-18 | 2022-04-15 |
+| [Motion](https://open.spotify.com/track/6excfi52hCKksRlRt55VH2) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Motion](https://open.spotify.com/album/4gQHDKTolva19r36snfw8T) | 2:07 | 2022-11-10 |  |
 | [Motorola Era](https://open.spotify.com/track/1zJji00l6MIBJ8elu1a9zC) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Motorola Era](https://open.spotify.com/album/64fJWEf59MjKIvSHdZFhni) | 2:46 | 2022-01-20 | 2022-02-04 |
 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 | 2022-09-16 | 2022-10-28 |
 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 | 2022-08-11 | 2022-09-16 |

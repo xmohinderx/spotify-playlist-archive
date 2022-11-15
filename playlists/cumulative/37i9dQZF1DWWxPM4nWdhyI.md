@@ -4,7 +4,7 @@
 
 > All his biggest hits, in one place.
 
-76 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
+77 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Boa Me \(feat\. Ed Sheeran & Mugeez\)](https://open.spotify.com/track/5iYqXLSwFkrsgXl53pAnhd) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [New Africa Nation](https://open.spotify.com/album/0KU0gyxTRTN36CyjO8fWPL) | 3:00 | 2022-04-22 |  |
 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 | 2021-12-03 |  |
 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 | 2021-12-03 |  |
+| [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-11-14 |  |
 | [Collide](https://open.spotify.com/track/5sv0WnUs74Orn6GoPmC5im) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:30 | 2021-12-03 |  |
 | [Cross Me \(feat\. Chance the Rapper & PnB Rock\)](https://open.spotify.com/track/543bCW2ruMPmxUBWirQ3MR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Cross Me \(feat\. Chance the Rapper & PnB Rock\)](https://open.spotify.com/album/5MKInakULmoBNApeB2ZB3A) | 3:26 | 2021-12-03 |  |
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2021-12-03 |  |

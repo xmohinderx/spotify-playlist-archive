@@ -2,7 +2,7 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> In this haus of Maxxinistas we only listen to Ava Max on loop\.  If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>.
+> Screaming, crying, throwing up!  If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\.  Cover: Ava Max
 
 339 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 

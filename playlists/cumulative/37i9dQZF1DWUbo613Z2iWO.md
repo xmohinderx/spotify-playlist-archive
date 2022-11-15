@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Khamari
 
-422 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+423 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [Taj Mahal](https://open.spotify.com/track/5VAxNirVOEJXjY6cWhAcOy) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Fanclub](https://open.spotify.com/album/2aUAe6i5say6qqCczPvoXd) | 3:36 | 2022-07-15 |  |
 | [Talk](https://open.spotify.com/track/2aSXyr2Oe8wsLAmu9vXRp6) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Talk](https://open.spotify.com/album/30iqgFepgpkIF9uV1lgvCD) | 2:01 | 2022-08-12 | 2022-08-27 |
 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 | 2022-07-15 |  |
-| [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 |  |
+| [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 | 2022-09-16 | 2022-11-15 |
+| [Talkin](https://open.spotify.com/track/59a8CMQljChNGgqXCQ0H4G) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 1:57 | 2022-09-16 |  |
 | [Tarantino](https://open.spotify.com/track/23ms6zeO6s63b7pLum9s87) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Tarantino](https://open.spotify.com/album/0gogCIBdXMS2ZR3FtWqAav) | 2:34 | 2022-06-24 | 2022-08-06 |
 | [Tears Never Cried](https://open.spotify.com/track/2cMIsECKegmYU4WVasg5bV) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Tears Never Cried](https://open.spotify.com/album/0R35ySKkj8Rtevwq8pCSVA) | 3:26 | 2022-08-12 | 2022-08-20 |
 | [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |

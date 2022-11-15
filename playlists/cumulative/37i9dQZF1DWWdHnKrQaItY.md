@@ -4,7 +4,7 @@
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-99 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/1jY7LJwYF6jzt4YuqIk0Gc)
+100 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/1jY7LJwYF6jzt4YuqIk0Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [If You’re Happy And You Know It](https://open.spotify.com/track/5GppFsE03nmnaUha3yyIwH) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Oscar,Kid Chorus](https://open.spotify.com/artist/7CdPfjeINtRWDagKED20xi) | [Sesame Street: Kids’ Favorite Songs 2](https://open.spotify.com/album/6oHa2yd0RrkyVUakFRWBN1) | 2:31 | 2022-03-24 | 2022-07-29 |
 | [Introduction VII](https://open.spotify.com/track/5Sle8jGZo4yVIu73PabtnC) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 0:59 | 2022-03-24 |  |
 | [I’m Gonna Catch You](https://open.spotify.com/track/21Bn1kmDAnZfxj7PRwmfbg) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Movement Songs](https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i) | 3:23 | 2022-03-24 | 2022-11-13 |
+| [Join the Team \(Football Song\)](https://open.spotify.com/track/2E333vDcaSmrkGPEXCHFZx) | [Lingokids](https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O) | [Join the Team \(Football Song\)](https://open.spotify.com/album/4HJGH0YxmKT8MOTxhXvf7k) | 1:58 | 2022-11-14 |  |
 | [Jump For Joy](https://open.spotify.com/track/5CmMQ6ATyBqdh48pIPSSWG) | [Birdie](https://open.spotify.com/artist/3HK0Kzy8QxtqXRSIjwYV8L) | [My Family Tree](https://open.spotify.com/album/0055NV6qBdM0bnNMGhiCIg) | 2:23 | 2022-03-24 |  |
 | [Jump Up!](https://open.spotify.com/track/7LTaySawqIyeb0NJa0Bj7C) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: For Those About to Hop](https://open.spotify.com/album/0Ycbxh5rx0Da1yEAMxp9UQ) | 1:05 | 2022-03-24 |  |
 | [Keep Active](https://open.spotify.com/track/1vnzJdkQvIDmHEraygqYlG) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Keep Active](https://open.spotify.com/album/20u8HsV7iQoGyQIi8xyKd0) | 2:19 | 2022-03-24 |  |

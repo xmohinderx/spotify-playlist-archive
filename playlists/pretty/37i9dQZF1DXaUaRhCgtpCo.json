@@ -1,13 +1,29 @@
 {
-  "description": "May the Force be with you. Find more great Star Wars music <a href=\"https://open.spotify.com/user/official_star_wars\">here</a>.",
-  "num_followers": 453182,
+  "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. Cover: Star Wars: Andor",
+  "num_followers": 453245,
   "original_name": "Best of Star Wars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzY3NDI1OSwwMDAwMDAwMDNkN2ZlMGY5MmJhMjVhNzlmOGQ4ODM0ZTc5NzZkOTA1",
+  "snapshot_id": "MTY2ODQ1NzMyOSwwMDAwMDAwMDZlZmIxNzE0NDdmNTY5ZTJiM2M1NGRiOWFkZWM3OGQ2",
   "tracks": [
+    {
+      "added_at": "2022-11-14 20:22:08",
+      "album": {
+        "name": "The Mandalorian: Season 2 - Vol. 2 (Chapters 13-16) [Original Score]",
+        "url": "https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Open the Door",
+      "url": "https://open.spotify.com/track/1PRgvXplpe5ruTlMP95M8l"
+    },
     {
       "added_at": "2022-10-26 20:08:37",
       "album": {

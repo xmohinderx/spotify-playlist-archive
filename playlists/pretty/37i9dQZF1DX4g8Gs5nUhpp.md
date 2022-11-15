@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Tóc Tiên
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,651 likes - 58 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,725 likes - 58 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
-| 2 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
-| 3 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 |
-| 4 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
+| 1 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
+| 2 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 |
+| 3 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
+| 4 | [quý cô say xỉn \(secret sunday\)](https://open.spotify.com/track/5MkTNoZ8xaMZYh1XMwAPtA) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [CITOPIA](https://open.spotify.com/album/4h8yUXtgFWfqMY7WdK1eIg) | 3:22 |
 | 5 | [Nếu Anh Là Em \(feat\. Hứa Kim Tuyền\)](https://open.spotify.com/track/1G9gGCq1i7smFoaNnAdt8f) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [CONG](https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV) | 4:33 |
 | 6 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Muộii](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
 | 7 | [Tự Tình 2](https://open.spotify.com/track/4AT7ZRCPu3jDxA4Y22IO22) | [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Tự Tình 2](https://open.spotify.com/album/644Tj4OPFEO8PtpgWhbvug) | 4:50 |
 | 8 | [Waiting For You](https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 4:25 |
 | 9 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 |
 | 10 | [Cô Đơn Trên Sofa](https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia) | [Hồ Ngọc Hà](https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ) | [Cô Đơn Trên Sofa](https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5) | 4:23 |
-| 11 | [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 |
-| 12 | [Đông Tây Nam Bắc](https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đông Tây Nam Bắc](https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz) | 6:07 |
+| 11 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
+| 12 | [Anh Nhớ Ra \(feat\. TRANG\)](https://open.spotify.com/track/7eDrdQ7PK9Xm1CZCKWsgmH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 4:36 |
 | 13 | [Tại Vì Sao](https://open.spotify.com/track/5yrPkBvOBvqfSjDhoRzDlO) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Tại Vì Sao](https://open.spotify.com/album/5DZXXrAKNwD0c0Avrs5W9j) | 3:23 |
 | 14 | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/track/5Fmtix3LkYpcXI7nVFpEyC) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/album/4qEl0OfTTPs6x8U2i62hYn) | 5:10 |
 | 15 | [Có Chơi Có Chịu](https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo) | [Có Chơi Có Chịu](https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e) | 3:43 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 57 | [Ghé Qua](https://open.spotify.com/track/0pQ67Kp2kED4ISy1ieGPEq) | [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr), [Tofu](https://open.spotify.com/artist/0Ux2qIQbEeqvv7uYLgHhDH), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh) | [Ghé Qua](https://open.spotify.com/album/5UFpxFhOmg3nb3wWd3p48D) | 3:57 |
 | 58 | [See Tình](https://open.spotify.com/track/3bZGGKrMQLDGg18y2QqKFF) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [See Tình](https://open.spotify.com/album/1AttOIOFrGkOPNSq5mB4pd) | 3:05 |
 
-Snapshot ID: `MTY2NzgzMjk5OSwwMDAwMDAwMDJhNWRmNTdjMTU3YWQ5MjlhZTliMDIyNWM4MzIyNjk1`
+Snapshot ID: `MTY2ODQwNzE3MSwwMDAwMDAwMDdhZTFkYjk5NTE4ZDc4ZGNkYzdmNGRjM2ViZDI0MTdl`

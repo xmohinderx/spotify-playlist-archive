@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5041,
+  "num_followers": 5046,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzM4MSwwMDAwMDAwMDhlNTc3ZjhiNWI4NmIzNzY5YjA1YTgwOTJmNWRkMmYy",
+  "snapshot_id": "MTY2NzQ2NzM4MSwwMDAwMDAwMDgzM2ViNjE2ZWY3MjgyNmIxNmQ2YmNiNWMyY2YwOGJh",
   "tracks": [
     {
       "added_at": "2022-11-03 09:23:01",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-11-03 09:23:01",
       "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Where Is Dream",
+      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
+    },
+    {
+      "added_at": "2022-11-03 09:23:01",
+      "album": {
         "name": "CYAN",
         "url": "https://open.spotify.com/album/54mKbSh20yke318bPZMsjb"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 203425,
       "name": "so this is love",
       "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 6",
-        "url": "https://open.spotify.com/album/7wzFqr0yCbjdcjjKpfBi1B"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Where Is Dream",
-      "url": "https://open.spotify.com/track/1hFOLJ9bQfZu3tlbHaLCGf"
     },
     {
       "added_at": "2022-11-03 09:23:01",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-11-03 09:23:01",
       "album": {
-        "name": "DA DA!",
-        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 225125,
-      "name": "busy guy",
-      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2022-11-03 09:23:01",
+      "album": {
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     },
     {
       "added_at": "2022-11-03 09:23:01",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-11-03 09:23:01",
       "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
-    },
-    {
-      "added_at": "2022-11-03 09:23:01",
-      "album": {
         "name": "Under the Oak Tree (Original Soundtrack), Part. 4",
         "url": "https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 212386,
       "name": "Actor (Feat. pH-1)",
       "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
+    },
+    {
+      "added_at": "2022-11-03 09:23:01",
+      "album": {
+        "name": "NDGGA",
+        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 175412,
+      "name": "NDGGA",
+      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
     },
     {
       "added_at": "2022-11-03 09:23:01",

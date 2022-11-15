@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Cris MJ y Tiago PZK",
-  "num_followers": 508581,
+  "num_followers": 508613,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGFmN2I4ZDMxMDI3ZjU2ZGNjMWE1OGYzYTI4ZDcyYjUw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDA5MTgwYmE1OGY4ZDljOWExMzJmYWUyMGM1YjM2NGYz",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "TORO",
-      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Fumando",
         "url": "https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "TORO",
+      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Qu\u00e9 Prefieres?",
+        "url": "https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 202581,
+      "name": "Qu\u00e9 Prefieres?",
+      "url": "https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Condado",
         "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Qu\u00e9 Prefieres?",
-        "url": "https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 202581,
-      "name": "Qu\u00e9 Prefieres?",
-      "url": "https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "De Pari",
         "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 174250,
       "name": "De Pari",
       "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Reggaetonea",
+        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Amor De Una Noche",
+      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1035,6 +1051,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "RELAX CON MAX - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "RELAX CON MAX - Spotify Singles",
+      "url": "https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Bellacon",
         "url": "https://open.spotify.com/album/6BkZqvJEJ9moiKKP0yXgce"
       },
@@ -1055,34 +1087,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Reggaetonea",
-        "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
+        "name": "Diablo BB",
+        "url": "https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Amor De Una Noche",
-      "url": "https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "RELAX CON MAX - Spotify Singles",
-        "url": "https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "RELAX CON MAX - Spotify Singles",
-      "url": "https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk"
+      "duration_ms": 140869,
+      "name": "Diablo BB",
+      "url": "https://open.spotify.com/track/0BqRxEMRPDOMowx1oWq78o"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 210213,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/1jYmFEVdOkPfhxuYF5fE7S"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Diablo BB",
-        "url": "https://open.spotify.com/album/6tnfBqPEpJrSfQYTpFsyy6"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "Diablo BB",
-      "url": "https://open.spotify.com/track/0BqRxEMRPDOMowx1oWq78o"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "La Pelikula (Remix)",
-        "url": "https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "La Pelikula - Remix",
-      "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "ACTIVA",
         "url": "https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp"
       },
@@ -1203,6 +1179,30 @@
       "duration_ms": 261527,
       "name": "ACTIVA",
       "url": "https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "La Pelikula (Remix)",
+        "url": "https://open.spotify.com/album/79qOAEig6POJvtE10xOVHX"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "La Pelikula - Remix",
+      "url": "https://open.spotify.com/track/6oLtMeZUFmpybUNkbfleYW"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1551,18 +1551,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "ANKHALINO",
-        "url": "https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6"
+        "name": "Pituquita",
+        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
       },
       "artists": [
         {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
+        },
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
         }
       ],
-      "duration_ms": 222693,
-      "name": "LOVID 19",
-      "url": "https://open.spotify.com/track/4pqqnFe8ZIyrYEoGoZLJia"
+      "duration_ms": 183813,
+      "name": "Pituquita",
+      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1599,22 +1603,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Pituquita",
-        "url": "https://open.spotify.com/album/3GWm2HpfyLc6SP05RIDotv"
+        "name": "ANKHALINO",
+        "url": "https://open.spotify.com/album/45jdyAEuBmMpTbwRrZqhK6"
       },
       "artists": [
         {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a"
-        },
-        {
-          "name": "Nero Lvigi",
-          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
         }
       ],
-      "duration_ms": 183813,
-      "name": "Pituquita",
-      "url": "https://open.spotify.com/track/1fIUOBlrCXbAuuGvBubu39"
+      "duration_ms": 222693,
+      "name": "LOVID 19",
+      "url": "https://open.spotify.com/track/4pqqnFe8ZIyrYEoGoZLJia"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Panas",
-        "url": "https://open.spotify.com/album/2ErDXZjybH2hnAwNe6PWzf"
-      },
-      "artists": [
-        {
-          "name": "Kapla y Miky",
-          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 217674,
-      "name": "Panas",
-      "url": "https://open.spotify.com/track/0pw3Dd2IECWlyljlK94yYc"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Despues Siempre Es Tarde",
         "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 228600,
       "name": "La Babygirl",
       "url": "https://open.spotify.com/track/0eyBVedpmRH8s8S2W7lEqM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Panas",
+        "url": "https://open.spotify.com/album/2ErDXZjybH2hnAwNe6PWzf"
+      },
+      "artists": [
+        {
+          "name": "Kapla y Miky",
+          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 217674,
+      "name": "Panas",
+      "url": "https://open.spotify.com/track/0pw3Dd2IECWlyljlK94yYc"
     },
     {
       "added_at": "2022-11-11 05:00:00",

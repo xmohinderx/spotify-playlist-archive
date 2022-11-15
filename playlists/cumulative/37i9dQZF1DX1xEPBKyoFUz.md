@@ -4,7 +4,7 @@
 
 > The return of Kratos and Atreus has arrived! Listen to their playlist while playing God of War Ragnarök \(rated "M" for "mature".\)
 
-310 songs - 18 hr 4 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
+312 songs - 18 hr 14 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Best of You](https://open.spotify.com/track/1sn6iOK93jnp0Hn5BnNOXy) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:14 | 2022-11-09 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2022-11-09 |  |
 | [Blastoff \(feat\. Juice Wrld & Trippie Redd\)](https://open.spotify.com/track/79vHcg0q40NY8PZ6Oyf0pA) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Blastoff \(feat\. Juice Wrld & Trippie Redd\)](https://open.spotify.com/album/0YPVtDqEwrdXCD8TQgkEUd) | 2:54 | 2021-11-03 | 2022-02-19 |
+| [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 | 2022-11-14 |  |
 | [Born To Rule](https://open.spotify.com/track/59M6XSBTIleufOkw2d26GG) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Born To Rule](https://open.spotify.com/album/4X73etcnkRxjYbDFhPbkH4) | 3:34 | 2021-11-03 | 2022-02-19 |
 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 | 2021-11-03 | 2022-02-19 |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2022-11-09 |  |
@@ -103,6 +104,7 @@
 | [Giving Up \(feat\. Jaden Michaels\)](https://open.spotify.com/track/0Tzwjig9HzGTj5Y5a3RdhE) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Giving Up \(feat\. Jaden Michaels\)](https://open.spotify.com/album/79BUBM9tprS60lkRCTVfJL) | 4:09 | 2022-02-18 | 2022-06-04 |
 | [Glitter \(feat\. Ambré Perkins\) \- Netsky Remix](https://open.spotify.com/track/1BXBAmb1lGgPg9nFy4bIdT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Glitter \(feat\. Ambré Perkins\) \[Netsky Remix\]](https://open.spotify.com/album/3Cjs3JXlouexT47pGuqc8F) | 2:53 | 2022-02-18 | 2022-06-04 |
 | [God of War](https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 4:06 | 2022-11-09 |  |
+| [God of War Ragnarök \(feat\. Eivør\)](https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:34 | 2022-11-14 |  |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 | 2022-11-09 |  |
 | [Goin Up](https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Goin Up](https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932) | 2:20 | 2022-06-03 | 2022-09-01 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2022-08-31 | 2022-11-10 |

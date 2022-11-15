@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-369 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/7nowwmXF5288KAzDDzHkBy)
+370 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/7nowwmXF5288KAzDDzHkBy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Automatic \- Orion Sun Remix](https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Automatic \(Orion Sun Remix\)](https://open.spotify.com/album/1F9avZunIAFYCpdQWlUiNZ) | 2:04 | 2021-06-25 | 2022-10-28 |
 | [Automatic Driver \- Tyler, The Creator Remix](https://open.spotify.com/track/59S3SiDxj914oyXd25zt3j) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Automatic Driver \(Tyler, The Creator Remix\)](https://open.spotify.com/album/57PHygGtLqa9kJRE3rUy15) | 3:30 | 2020-12-31 | 2022-07-29 |
 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 | 2022-05-31 | 2022-08-17 |
-| [Baby I'm Yours \- feat\. Irfrane](https://open.spotify.com/track/7oGwQOTkMB9Sk3DIKJLd5F) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [By Your Side](https://open.spotify.com/album/5i0gpUvEkQtwHWVkqh7MZK) | 3:35 | 2020-12-31 |  |
+| [Baby I'm Yours](https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [By Your Side](https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT) | 3:35 | 2022-09-26 |  |
+| [Baby I'm Yours \- feat\. Irfrane](https://open.spotify.com/track/7oGwQOTkMB9Sk3DIKJLd5F) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [By Your Side](https://open.spotify.com/album/5i0gpUvEkQtwHWVkqh7MZK) | 3:35 | 2020-12-31 | 2022-11-15 |
 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 | 2022-05-31 |  |
 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 | 2021-08-27 | 2022-07-24 |
 | [Beautiful Girls](https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/71clfVkkopYLrgweVj2cow) | 3:45 | 2021-08-04 | 2022-04-19 |

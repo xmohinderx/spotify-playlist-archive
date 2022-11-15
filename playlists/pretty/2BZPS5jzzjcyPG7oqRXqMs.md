@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 13,051 likes - 104 songs - 6 hr 52 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 13,052 likes - 104 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 103 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 |
 | 104 | [Hills & Horizons](https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hills & Horizons](https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h) | 3:32 |
 
-Snapshot ID: `MzI0NCxlZTFmNGNiYWM0MWFhMWFkZTc5NDQ2ODdhOWY0YWNhZjczY2NjNzRh`
+Snapshot ID: `MzI0Niw4Yjc2MDhlODIzZDVkMjcwNTlhNDBkMDQ2MjRkYzYzMDViNGEyYzc0`

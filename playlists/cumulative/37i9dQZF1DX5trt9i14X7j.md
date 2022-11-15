@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-155 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
+157 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/6vdqrM7pwsj6HQdLoLegp2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Finding Atlantis](https://open.spotify.com/track/2kC0fQTH2liJqBly67Cjkd) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [Finding Atlantis](https://open.spotify.com/album/7wUQhwrYn9mUrYBUKzNW5v) | 4:27 | 2021-12-08 | 2022-10-22 |
 | [Finding Atlantis](https://open.spotify.com/track/41DRCJywCHC0QyCX71GO9G) | [Cook & Stans](https://open.spotify.com/artist/6NOkAPWWK2Ay28xwJn7ick) | [We're Back Chilling](https://open.spotify.com/album/0LFOKTsuw0YGnGSNUGBL5O) | 4:27 | 2022-10-21 |  |
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2021-12-08 |  |
+| [Fire and Light](https://open.spotify.com/track/1d6BkMki9M6K0yp9OLBzOM) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 1:15 | 2022-11-14 |  |
 | [Flangosh](https://open.spotify.com/track/7p1jTvgw2DdXFn8J2xQN5F) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Suavo EP](https://open.spotify.com/album/2t7KNpVEtm4iNPpiBf6bER) | 4:17 | 2021-12-08 | 2022-06-01 |
 | [For every man saved a victim will be found](https://open.spotify.com/track/23GeR1VGo3QHeS5UWQ5riO) | [Seasonal Affected Beats](https://open.spotify.com/artist/1fpm7q8YoBTXIiS4jJLPbs) | [In Song](https://open.spotify.com/album/5mqKifgMH0rmB37d1ty7vh) | 4:51 | 2021-12-08 |  |
 | [Forces of Attraction](https://open.spotify.com/track/4NpX4g7sdnZtgteu1m2m3S) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:03 | 2022-07-25 |  |
@@ -150,6 +151,7 @@
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2022-05-31 |  |
 | [Sunday Glide](https://open.spotify.com/track/72Qac2FQd9e21XCibSOhfY) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Kermesse](https://open.spotify.com/album/2hPiyh9HOXEEr93AoO9kub) | 5:47 | 2021-12-08 |  |
 | [Swoon](https://open.spotify.com/track/5hASCaq53lZP8aUwiIqZEV) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Recalibrate](https://open.spotify.com/album/2birbZpVxQLhcTht8Mxcnz) | 2:37 | 2021-12-08 |  |
+| [Symmetry Systems \(Emerald\)](https://open.spotify.com/track/1vW8krAHupYxF1xRCfQnkD) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [Symmetry Systems](https://open.spotify.com/album/14T0dIBbXsZtDnaVO2JbEj) | 3:22 | 2022-11-14 |  |
 | [Take Me Back](https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo) | 2:56 | 2022-07-25 |  |
 | [Take Me Back](https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [North Pole](https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX) | 2:56 | 2021-12-08 | 2022-07-29 |
 | [Ten Days Of Blue](https://open.spotify.com/track/2Ktuc6919DC0C0hx1tXDQH) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 7:33 | 2021-12-08 | 2022-06-01 |

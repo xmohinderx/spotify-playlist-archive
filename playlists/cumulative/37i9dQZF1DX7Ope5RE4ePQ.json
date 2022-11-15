@@ -1384,6 +1384,28 @@
     },
     {
       "album": {
+        "name": "Borodin: String Quartet No. 2 - Shostakovich: String Quartet No. 8",
+        "url": "https://open.spotify.com/album/0o1yO7sfhz0SAVzdj63VJS"
+      },
+      "artists": [
+        {
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+        },
+        {
+          "name": "Lucerne String Quartet",
+          "url": "https://open.spotify.com/artist/5630saykRCxtNjIO8GZSOz"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433933,
+      "name": "String Quartet No. 2 in D Major: IV. Finale: Andante - Vivace",
+      "url": "https://open.spotify.com/track/5CzzGwLDUxQTLitqAzHkDU"
+    },
+    {
+      "album": {
         "name": "J. S. Bach: Orchestral Suite No. 3, BWV 1068",
         "url": "https://open.spotify.com/album/1RJrr1yXolWL2qinPz2DTi"
       },

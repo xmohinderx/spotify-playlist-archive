@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ">Ziwe Fumudoh</a>
 
-753 songs - 2 day 0 hr 51 min - [published](https://open.spotify.com/playlist/5AYqsnlUM1hNHFfi6U6U5U)
+754 songs - 2 day 0 hr 54 min - [published](https://open.spotify.com/playlist/5AYqsnlUM1hNHFfi6U6U5U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2022-11-01 |  |
 | [All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:43 | 2022-06-01 | 2022-07-02 |
 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 | 2022-03-01 | 2022-03-22 |
-| [All Hands on Deck](https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:41 | 2022-11-01 |  |
+| [All Hands on Deck](https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:41 | 2022-11-01 | 2022-11-15 |
 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v) | 3:35 | 2022-04-01 | 2022-05-03 |
 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 | 2022-06-01 | 2022-07-02 |
 | [All that I Need](https://open.spotify.com/track/2xfy5uIC4wY5p6oo4tjiJn) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [JCON](https://open.spotify.com/album/7ESfHenLYEtdxK54gCLCQI) | 2:42 | 2022-09-08 | 2022-09-29 |
@@ -552,6 +552,7 @@
 | [Rich Bitch Walk](https://open.spotify.com/track/4ny2dLideSS5RmMkXxM7dE) | [KaMillion](https://open.spotify.com/artist/3ZydLzGMI3JnkcfVrbh6Vn) | [Self Made](https://open.spotify.com/album/28yd3ms9j7oel1irOOiyXF) | 2:25 | 2022-08-01 | 2022-09-02 |
 | [Rich Forever](https://open.spotify.com/track/10WlUIcmFYfvzQSyWfCDEa) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [God Forgives, I Don't \(Deluxe Edition\)](https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV) | 4:53 | 2022-03-01 | 2022-03-22 |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-07-01 | 2022-08-02 |
+| [Rich Sex \(feat\. Lil Wayne\)](https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:12 | 2022-11-01 |  |
 | [Right and a Wrong Way](https://open.spotify.com/track/6gTWAUYQMAQV3Cw2t5kWrx) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Make It Last Forever](https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN) | 5:17 | 2022-02-01 | 2022-03-02 |
 | [Right Here](https://open.spotify.com/track/3UD1XZiA0iP29KI3FuK5Xw) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 | 2022-01-04 | 2022-02-02 |
 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2022-03-21 | 2022-04-02 |

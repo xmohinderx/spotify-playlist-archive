@@ -1,13 +1,53 @@
 {
   "description": "The return of Kratos and Atreus has arrived! Listen to their playlist while playing God of War Ragnar\u00f6k (rated \"M\" for \"mature\".) ",
-  "num_followers": 167765,
+  "num_followers": 168165,
   "original_name": "StartSelect: Kratos and Atreus ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAxMzIwMCwwMDAwMDAwMGE4MmRlM2VmYmNkMDg5MTEzNzc2NjNjM2EzZjBhNDU4",
+  "snapshot_id": "MTY2ODQ2MjcwMCwwMDAwMDAwMGU0ZWVjNjkyNGUxMTUxOGIxN2E0M2MyZWVjYjMxZmI1",
   "tracks": [
+    {
+      "added_at": "2022-11-14 21:51:40",
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu"
+    },
+    {
+      "added_at": "2022-11-14 21:51:40",
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+    },
     {
       "added_at": "2022-11-09 17:00:00",
       "album": {

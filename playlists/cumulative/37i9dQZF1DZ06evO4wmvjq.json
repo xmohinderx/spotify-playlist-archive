@@ -51,6 +51,32 @@
           "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
         }
       ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117400,
+      "name": "5 Preludes, Op. 74: No. 2. Tres lent, contemplatif",
+      "url": "https://open.spotify.com/track/5fvAOnB3TFJWaehSr9L7Dt"
+    },
+    {
+      "album": {
+        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
+        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Cecil Lytle",
+          "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
+        }
+      ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
       "date_removed": "2022-11-03",
@@ -539,7 +565,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 162785,
       "name": "Dwarf",
       "url": "https://open.spotify.com/track/0r3u5kfZhNaIDOYEtcYhul"
@@ -1383,7 +1409,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 336810,
       "name": "Part VIII - Live 1974",
       "url": "https://open.spotify.com/track/15scPBj0oF0GvorNBhPn93"
@@ -1551,7 +1577,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 404000,
       "name": "Remember This, O Mind; II. Only A Day",
       "url": "https://open.spotify.com/track/029dkxx7jlgbuDw17qmYtD"
@@ -1843,7 +1869,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 447063,
       "name": "The Faquir",
       "url": "https://open.spotify.com/track/4Tm5zrS91ImUe2y8HoF09d"
@@ -1923,6 +1949,24 @@
       "duration_ms": 1000000,
       "name": "The Harp of New Albion: III. Riding the Westerleys",
       "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
+    },
+    {
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305200,
+      "name": "The Harp of New Albion: IV. Cadence on the Wind",
+      "url": "https://open.spotify.com/track/4qshB18VkXecfCmAR8bjAJ"
     },
     {
       "album": {

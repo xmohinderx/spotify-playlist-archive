@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Adi Oasis",
-  "num_followers": 425761,
+  "num_followers": 425841,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGU2MGFkZjc1MDQ2NjFkNjA5NmZiMjc4N2EyNjIwZmIz",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDJiZTlkOWQzNDUwMTYxMzA3NjVlZTY2MTc4MGY4NDA3",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 274391,
-      "name": "B-Side",
-      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 199041,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 274391,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Snoop Dogg Presents Death Row Summer 2022",
         "url": "https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Hills",
         "url": "https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0"
       },
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "BIB10",
         "url": "https://open.spotify.com/album/0NBqhQmnLKNHvrB0a3jrK7"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 181080,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/5AaA9XKKc7AKL370qVeWQv"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "L.A.B V",
+        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 310960,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Forbidden Fruit",
         "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 207804,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "L.A.B V",
-        "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 310960,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7ITaZ7T8roiZPN35uhX2FC"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "You Are Everything",
         "url": "https://open.spotify.com/album/6LMTOf2XuRWmkm9O8Bvch8"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 257040,
       "name": "B.N.D",
       "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Pills",
-        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix"
       },
       "artists": [
         {
           "name": "Selah Sue",
           "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 178133,
-      "name": "Pills - Single Version",
-      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
+      "duration_ms": 203840,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1283,22 +1287,6 @@
       "duration_ms": 226198,
       "name": "I Don't Deserve It",
       "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Why Try",
-        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "Why Try",
-      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1343,6 +1331,22 @@
       "duration_ms": 179882,
       "name": "Come Back - Radio Edit",
       "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Why Try",
+        "url": "https://open.spotify.com/album/2WWNv6K3OcWCetb2f85ipL"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 215852,
+      "name": "Why Try",
+      "url": "https://open.spotify.com/track/2SvAkWN0lGYsVqUsMBZCzs"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1395,6 +1399,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Pills - Single Version",
+      "url": "https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Horsepower For The Streets",
         "url": "https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 143040,
       "name": "Horsepower For The Streets",
       "url": "https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/6oNwXGQLCZS42nrdfYeT0I"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "Unify",
+        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/1reNWIGSfItCbAhy9cr1nz"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 352253,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
-        "name": "Unify",
-        "url": "https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/1reNWIGSfItCbAhy9cr1nz"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "All for Love",
-        "url": "https://open.spotify.com/album/4dGWFZ8mzdMYHvoCYCqXno"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
-        }
-      ],
-      "duration_ms": 226764,
-      "name": "All for Love",
-      "url": "https://open.spotify.com/track/7hlqAK5plYyDE19DwtlXVG"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Feels So Good (Don\u2019t It)",
         "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
       },
@@ -1671,6 +1651,26 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
+        "name": "All for Love",
+        "url": "https://open.spotify.com/album/4dGWFZ8mzdMYHvoCYCqXno"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 226764,
+      "name": "All for Love",
+      "url": "https://open.spotify.com/track/7hlqAK5plYyDE19DwtlXVG"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/6db4NbMyKv2N0HGPngeN4a"
       },
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        },
-        {
-          "name": "Maikal X",
-          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 316626,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
+      "duration_ms": 204909,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1723,18 +1719,22 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        },
+        {
+          "name": "Maikal X",
+          "url": "https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA"
         }
       ],
-      "duration_ms": 204909,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH"
+      "duration_ms": 316626,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
     },
     {
       "added_at": "2022-11-03 23:00:00",

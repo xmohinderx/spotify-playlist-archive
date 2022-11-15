@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Margo Price
 
-364 songs - 22 hr 35 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+365 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,9 @@
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2021-12-17 |  |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-01-07 |  |
 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 | 2021-12-17 | 2022-04-02 |
-| [Blood Harmony](https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 4:05 | 2022-08-05 |  |
+| [Blood Harmony](https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 4:05 | 2022-08-05 | 2022-11-15 |
 | [Blood Harmony](https://open.spotify.com/track/2SKhgi7oS1MNE3rSRHcJBA) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Southern Comfort](https://open.spotify.com/album/3TqV8iVdm8DPX4KXMPGiM5) | 4:05 | 2022-10-28 | 2022-11-14 |
+| [Blood Harmony](https://open.spotify.com/track/7bIJA0XRb8iysNCyaZISB3) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 4:05 | 2022-10-28 |  |
 | [Bombs Away](https://open.spotify.com/track/3m7OlAdnoIs3UaAqYkljov) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Bombs Away b/w Paint This Town](https://open.spotify.com/album/4DKp4i0VM9Sp9OOAfsUGmc) | 2:41 | 2022-01-28 | 2022-02-23 |
 | [Borrowed Time](https://open.spotify.com/track/7vkh4rlJZnuQjw1bDCnyU4) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [Borrowed Time](https://open.spotify.com/album/5YfgGuTyYUCjSQ5WBFPGB2) | 3:38 | 2021-12-17 | 2022-08-06 |
 | [Brand New Nowhere](https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK) | 3:17 | 2022-05-13 | 2022-09-24 |

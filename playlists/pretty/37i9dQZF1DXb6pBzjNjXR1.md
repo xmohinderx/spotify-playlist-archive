@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 ### [AfroTech Now](https://open.spotify.com/playlist/37i9dQZF1DXb6pBzjNjXR1)
 
-> AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here\. Cover: <a href="https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM?si=zSdVEImKTAWqxRQej11leg">Atmos Blaq</a>
+> AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 49 | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/track/1H9TYvAoW9ntBwyP8d0Rna) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Lorraine Ditsebe](https://open.spotify.com/artist/7HXnk61pLAf6l4pEr5Sp3w) | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/album/2yfnsIziWvYQ7YDOTrbHFT) | 4:37 |
 | 50 | [Clarity \- Shredded Mix](https://open.spotify.com/track/5oAaNT8wiuSjHoGLIbJnRU) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Clarity \(Shredded Mix\)](https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S) | 5:41 |
 
-Snapshot ID: `MTY2ODExNzU0MCwwMDAwMDAwMGNlYjEwODJhNWQ3Y2I2YzhmYTcwZGFjYmQzYjEyNDA5`
+Snapshot ID: `MTY2ODQxNjA3OSwwMDAwMDAwMDg1YTI0ZGRjYmQzZjZlZmQ2ZWM1MDc0YWVlNDU0MjEw`

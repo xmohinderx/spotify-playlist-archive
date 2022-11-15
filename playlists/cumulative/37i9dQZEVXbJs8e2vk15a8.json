@@ -3451,7 +3451,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 200882,
       "name": "Fluyele",
       "url": "https://open.spotify.com/track/1ePtTnka3dbh3Nw44bl4Sl"
@@ -5288,6 +5288,24 @@
     },
     {
       "album": {
+        "name": "Parked Car Convos",
+        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148640,
+      "name": "Love Songs - Bonus",
+      "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+    },
+    {
+      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -6963,7 +6981,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 127972,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm"
@@ -11133,6 +11151,24 @@
       "duration_ms": 197578,
       "name": "Yes To Heaven",
       "url": "https://open.spotify.com/track/2M0GJ3shQv29JJqqVyc2k8"
+    },
+    {
+      "album": {
+        "name": "Yes To Heaven",
+        "url": "https://open.spotify.com/album/1QqHkfAFnS5S0Pgw1OYdp4"
+      },
+      "artists": [
+        {
+          "name": "Schaale",
+          "url": "https://open.spotify.com/artist/4BS3kept0DSGsf8nR0TTPW"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197578,
+      "name": "Yes To Heaven",
+      "url": "https://open.spotify.com/track/1DybslfPeLSSGMGkxYp9PM"
     },
     {
       "album": {

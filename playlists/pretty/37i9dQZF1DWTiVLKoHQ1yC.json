@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 123018,
+  "num_followers": 123105,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDE3YTg0NTIzMjA5MjU0YmIyY2FjNWQyN2Q3MzAxODMy",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDcxNWI0MmQyMWE3ZGEwMTg1ZTBlOTI3ZjI5MGE2YjRm",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -163,22 +163,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
         },
         {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
         }
       ],
-      "duration_ms": 332146,
-      "name": "Beyond Control",
-      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -195,46 +195,6 @@
       "duration_ms": 323302,
       "name": "Selbst",
       "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Cold Light",
-        "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Cold Light",
-      "url": "https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Sint Maarten",
-        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Delaram Kamareh",
-          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
-        }
-      ],
-      "duration_ms": 271351,
-      "name": "Sint Maarten",
-      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -259,22 +219,62 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
+        "name": "Sint Maarten",
+        "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
       "artists": [
         {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+          "name": "Delaram Kamareh",
+          "url": "https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+      "duration_ms": 271351,
+      "name": "Sint Maarten",
+      "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 332146,
+      "name": "Beyond Control",
+      "url": "https://open.spotify.com/track/5pK2Elt8xOENwe8xAGfASw"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Cold Light",
+        "url": "https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 179060,
+      "name": "Cold Light",
+      "url": "https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Alkantara",
+        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
+      },
+      "artists": [
+        {
+          "name": "Bottai",
+          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
+        }
+      ],
+      "duration_ms": 216393,
+      "name": "Alkantara",
+      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 262249,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Alkantara",
-        "url": "https://open.spotify.com/album/208tzedbu4E8jrZp9dfsZo"
-      },
-      "artists": [
-        {
-          "name": "Bottai",
-          "url": "https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk"
-        }
-      ],
-      "duration_ms": 216393,
-      "name": "Alkantara",
-      "url": "https://open.spotify.com/track/4UnF7mAMF48oueqqhSLrai"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/7ciRUrWcDS2KWQM98ojFyA"
       },
@@ -491,22 +475,18 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Lose Your Head (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Lose Your Head - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -527,6 +507,26 @@
       "duration_ms": 229249,
       "name": "Celestia",
       "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Lose Your Head (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Lose Your Head - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -791,30 +791,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Brightest Lights Remixed",
-        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Kauf",
-          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 295597,
-      "name": "How Often - Ben B\u00f6hmer Remix",
-      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 190084,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Brightest Lights Remixed",
+        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 295597,
+      "name": "How Often - Ben B\u00f6hmer Remix",
+      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Calling For You",
+        "url": "https://open.spotify.com/album/7EsyhR8e3RVPG3zLer0rSU"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "Calling For You",
+      "url": "https://open.spotify.com/track/1TeVwlRyDjhUeXAe9D6jgA"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "2 Late 4 Love (Danny Howard Remix)",
         "url": "https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 219625,
       "name": "2 Late 4 Love - Danny Howard Remix",
       "url": "https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Calling For You",
-        "url": "https://open.spotify.com/album/7EsyhR8e3RVPG3zLer0rSU"
-      },
-      "artists": [
-        {
-          "name": "Trance Wax",
-          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
-        }
-      ],
-      "duration_ms": 203994,
-      "name": "Calling For You",
-      "url": "https://open.spotify.com/track/1TeVwlRyDjhUeXAe9D6jgA"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "A Hero EP",
+        "url": "https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27"
+      },
+      "artists": [
+        {
+          "name": "Khen",
+          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
+        }
+      ],
+      "duration_ms": 458539,
+      "name": "A Hero",
+      "url": "https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/3PxjuDDfOWcW3oQITgX1Ru"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 236350,
       "name": "Still Feel (Home Edit)",
       "url": "https://open.spotify.com/track/0mBdNrpS6UkxDusXE4actk"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "A Hero EP",
-        "url": "https://open.spotify.com/album/1nlDdmEU2i4gUXIqrgSM27"
-      },
-      "artists": [
-        {
-          "name": "Khen",
-          "url": "https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ"
-        }
-      ],
-      "duration_ms": 458539,
-      "name": "A Hero",
-      "url": "https://open.spotify.com/track/79QHYPJf8qI7kjzqEzgFTX"
     },
     {
       "added_at": "2022-01-14 10:50:05",

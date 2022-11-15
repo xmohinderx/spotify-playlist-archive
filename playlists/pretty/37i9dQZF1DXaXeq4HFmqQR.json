@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9813,
+  "num_followers": 9855,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDI2YWU3NGQzMDk0NTNjNjViOTNmZTVhMGY3YjYyYTZj",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDUzZDE3Y2QwMTBlZGU2ZmIyY2NkYTVjY2NkNTRjMDMy",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -107,30 +107,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Brujer\u00edas de Cantina",
-        "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Tunechikidd",
-          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 199430,
-      "name": "2 X 3",
-      "url": "https://open.spotify.com/track/4MAZS1p2qSSAbCJfhmQdzW"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "D\u00c1NDOTE <3",
         "url": "https://open.spotify.com/album/3905vpM8492afQRLpC3oXr"
       },
@@ -155,6 +131,46 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 182384,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Brujer\u00edas de Cantina",
+        "url": "https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 199430,
+      "name": "2 X 3",
+      "url": "https://open.spotify.com/track/4MAZS1p2qSSAbCJfhmQdzW"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 173158,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/1C8XRMbIpfKRbJn58ZNofo"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 182384,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/3LCT2iQ7fCeEdUNwOQEona"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -283,6 +283,26 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "KATANA",
+        "url": "https://open.spotify.com/album/5OOFz37iRTtEwoYYf2bMbg"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Los Reyes Del Parque",
+          "url": "https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR"
+        }
+      ],
+      "duration_ms": 93975,
+      "name": "KATANA",
+      "url": "https://open.spotify.com/track/5JkPjSbLQDkyXWei94y0x5"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Eso Ta Perfecto",
         "url": "https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 172557,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/0jKqTPDMe4esa5OhdHxUHp"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "KATANA",
-        "url": "https://open.spotify.com/album/5OOFz37iRTtEwoYYf2bMbg"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Los Reyes Del Parque",
-          "url": "https://open.spotify.com/artist/1b7hyZ1cAfabiMqIx72gzR"
-        }
-      ],
-      "duration_ms": 93975,
-      "name": "KATANA",
-      "url": "https://open.spotify.com/track/5JkPjSbLQDkyXWei94y0x5"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 206646,
-      "name": "Jui$y",
-      "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Las Mafiosas - Revolution",
         "url": "https://open.spotify.com/album/5kz0JDJCVSq2KqNIZbBasp"
       },
@@ -503,18 +483,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Scarlett O'hara",
-        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
       },
       "artists": [
         {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
         }
       ],
-      "duration_ms": 230750,
-      "name": "Scarlett O'hara",
-      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
+      "duration_ms": 206646,
+      "name": "Jui$y",
+      "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -611,18 +595,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
+        "name": "Scarlett O'hara",
+        "url": "https://open.spotify.com/album/48jZutD3KEySK9Uk6nFsul"
       },
       "artists": [
         {
-          "name": "Anto Bosman",
-          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
         }
       ],
-      "duration_ms": 188076,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
+      "duration_ms": 230750,
+      "name": "Scarlett O'hara",
+      "url": "https://open.spotify.com/track/58pLtST0ONk1IGs4nlyJyC"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 140874,
       "name": "Sat\u00e9lite",
       "url": "https://open.spotify.com/track/2eCjwpx2wI8ThnfVFErqd3"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
+      },
+      "artists": [
+        {
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "18:55",
-        "url": "https://open.spotify.com/album/7CaczIfpWdT9WpFHEvgOSj"
-      },
-      "artists": [
-        {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
-        },
-        {
-          "name": "Fat Jota",
-          "url": "https://open.spotify.com/artist/2YWJCnpzDqJR5BgvPi0839"
-        }
-      ],
-      "duration_ms": 235657,
-      "name": "Te Har\u00e9 Mal",
-      "url": "https://open.spotify.com/track/1UuWh7axz14T9ciaq5tXuy"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Solsticio",
         "url": "https://open.spotify.com/album/6zZel8AncEkpxxhDJ6jmgD"
       },
@@ -783,18 +763,18 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Rayo Polo",
-        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+        "name": "Madre Santa",
+        "url": "https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G"
       },
       "artists": [
         {
-          "name": "Rvyo",
-          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+          "name": "Sarazul",
+          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
         }
       ],
-      "duration_ms": 138060,
-      "name": "Avanzar",
-      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
+      "duration_ms": 208000,
+      "name": "Madre Santa",
+      "url": "https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -819,22 +799,6 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
-        "name": "Madre Santa",
-        "url": "https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G"
-      },
-      "artists": [
-        {
-          "name": "Sarazul",
-          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Madre Santa",
-      "url": "https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
         "name": "Mente Universal",
         "url": "https://open.spotify.com/album/7okrB8FspJxot0uPOw0utc"
       },
@@ -847,6 +811,42 @@
       "duration_ms": 148000,
       "name": "Mente Universal",
       "url": "https://open.spotify.com/track/1CZ2hFUJt8RpGkuDzkTpOg"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "18:55",
+        "url": "https://open.spotify.com/album/7CaczIfpWdT9WpFHEvgOSj"
+      },
+      "artists": [
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        },
+        {
+          "name": "Fat Jota",
+          "url": "https://open.spotify.com/artist/2YWJCnpzDqJR5BgvPi0839"
+        }
+      ],
+      "duration_ms": 235657,
+      "name": "Te Har\u00e9 Mal",
+      "url": "https://open.spotify.com/track/1UuWh7axz14T9ciaq5tXuy"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Rayo Polo",
+        "url": "https://open.spotify.com/album/2RIoUDe3Q75FhFtL2hGdb2"
+      },
+      "artists": [
+        {
+          "name": "Rvyo",
+          "url": "https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n"
+        }
+      ],
+      "duration_ms": 138060,
+      "name": "Avanzar",
+      "url": "https://open.spotify.com/track/1tNc9ssh0OGFWihUzm8Oew"
     },
     {
       "added_at": "2022-11-04 00:00:00",

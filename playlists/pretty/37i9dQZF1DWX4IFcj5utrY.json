@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ?si=DjQm-D4cSD-PuJIJ2pQHpQ\">Kususa</a> and <a href=\"https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt?si=a-5he1luTZWLbLOg3FbESg\">Argento Dust</a>",
-  "num_followers": 54351,
+  "num_followers": 54398,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2MjUzNCwwMDAwMDAwMGFkMjAxNDhiODBlZGYxZGUzNzc4NTM2NDUzYzQ5ZGIx",
+  "snapshot_id": "MTY2ODQyMzk2OSwwMDAwMDAwMGFjMzZiOWIzZDEzOGZiNTcwNzIzYzYzZTMyMjY5Y2Y5",
   "tracks": [
     {
       "added_at": "2022-09-09 02:17:06",
@@ -745,6 +745,30 @@
       "url": "https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn"
     },
     {
+      "added_at": "2022-11-14 11:06:09",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/38ceKeIGseGiz5dAoK4IFk"
+      },
+      "artists": [
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        }
+      ],
+      "duration_ms": 403803,
+      "name": "Angikaze",
+      "url": "https://open.spotify.com/track/5F7npl4FSAFQLsIuW3o7aR"
+    },
+    {
       "added_at": "2022-11-07 15:23:32",
       "album": {
         "name": "Summer Breeze (Fka Mash Remixes)",
@@ -979,30 +1003,6 @@
       "duration_ms": 340832,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/0NXAgDMxY6t7coulYU0PXV"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Reverb7 Vs HALU! (The Remixes)",
-        "url": "https://open.spotify.com/album/7x9hZvWEiBeyZgpDDkV0T0"
-      },
-      "artists": [
-        {
-          "name": "HALU!",
-          "url": "https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z"
-        },
-        {
-          "name": "Reverb7",
-          "url": "https://open.spotify.com/artist/6eWzuNjgNPDhshDsIT0NAy"
-        },
-        {
-          "name": "Tina Masawi",
-          "url": "https://open.spotify.com/artist/1waGvYdujmgKc9cNid89US"
-        }
-      ],
-      "duration_ms": 360975,
-      "name": "Minamato",
-      "url": "https://open.spotify.com/track/73X5KApLsp2GaIKEnJiDJu"
     },
     {
       "added_at": "2022-11-03 21:59:00",

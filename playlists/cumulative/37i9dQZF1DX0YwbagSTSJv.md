@@ -2,7 +2,7 @@
 
 ### [Energy Release](https://open.spotify.com/playlist/37i9dQZF1DX0YwbagSTSJv)
 
-> Let it all go.
+> Let it all go with relaxing ambient music.
 
 138 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [1 Am Reflective](https://open.spotify.com/track/0IjLq8vY7kzTDuqoI8nz9L) | [Sonnu Prufondu](https://open.spotify.com/artist/6JTFXMxmPUAPdynYVBQvWi) | [1 Am Reflective](https://open.spotify.com/album/2Fk7QuGSaeaCDmVMWphuNl) | 3:03 | 2021-12-23 |  |
 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-23 | 2022-10-14 |
-| [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 | 2022-10-07 |  |
+| [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 | 2022-10-07 | 2022-11-15 |
 | [Abditory](https://open.spotify.com/track/0sHAK04QYBqPdPL5BUP4aS) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Abditory](https://open.spotify.com/album/1g8cPZhYVIx3srH6kEduj4) | 2:27 | 2021-12-23 |  |
 | [Abrazo Mirando](https://open.spotify.com/track/4mwBTAuzjtXNsjfUDqe7fn) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Nothing Is Objective](https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu) | 5:14 | 2021-12-23 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-05-19 |  |
@@ -107,7 +107,7 @@
 | [Sacred part one](https://open.spotify.com/track/7qobsQFx45nRS50uSFUcsr) | [Charlie Roscoe](https://open.spotify.com/artist/56YgRdEzNaXYkaaoFXB4q1) | [Sacred](https://open.spotify.com/album/2JRvXNhvAX1entijhW0F4r) | 8:42 | 2021-12-23 | 2022-09-03 |
 | [Safe](https://open.spotify.com/track/2sYLvR1t37NbXZqRI7KS5a) | [Deruinga](https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo) | [Safe](https://open.spotify.com/album/0kVhLQ5BXHeMplSKwtHzGg) | 2:39 | 2022-11-11 |  |
 | [Self Reflection](https://open.spotify.com/track/2VTxY7VSr3SglGky02DHvq) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Beyond Imagination](https://open.spotify.com/album/6F55IABDkakEQqcQAXeAq5) | 3:32 | 2021-12-23 |  |
-| [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |
+| [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 | 2022-11-15 |
 | [Signs & Wonders](https://open.spotify.com/track/0sUyb2pkHIrXiEcF0FSFzy) | [Hazel Shore](https://open.spotify.com/artist/77cBxvbzMnrholixIjtXVR) | [Signs & Wonders](https://open.spotify.com/album/0UR5nR089lZUU9GWmhGZrN) | 2:59 | 2021-12-23 |  |
 | [Silence](https://open.spotify.com/track/5FULRUSFmbfBmxb6maxb83) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Silence](https://open.spotify.com/album/1U5TPgwvxnBLHrfhxMAkJm) | 3:05 | 2022-01-19 | 2022-09-03 |
 | [Sleep](https://open.spotify.com/track/1UYojuIrBcwtyoOEpGYWCy) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Land of Dreams](https://open.spotify.com/album/0ws1Hx2UOl1SPyN84QgWzE) | 3:19 | 2021-12-23 |  |

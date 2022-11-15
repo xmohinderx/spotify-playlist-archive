@@ -2,9 +2,9 @@
 
 ### [Best of Star Wars](https://open.spotify.com/playlist/37i9dQZF1DXaUaRhCgtpCo)
 
-> May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
+> May the Force be with you\. Listen to all the best Star Wars tracks, all in one place\. Cover: Star Wars: Andor
 
-120 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
+121 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 | 2022-06-28 |  |
 | [Obi\-Wan \- From "Obi\-Wan Kenobi"](https://open.spotify.com/track/0UvXARxghc7E5grZSpGArl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan \(From "Obi\-Wan Kenobi"\)](https://open.spotify.com/album/2rP5W8xXmYH2cKTuZVgPUG) | 4:05 | 2022-05-28 |  |
 | [Old Friends](https://open.spotify.com/track/336MNGWifY0wUNdI37pm8Q) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:28 | 2021-05-14 |  |
+| [Open the Door](https://open.spotify.com/track/1PRgvXplpe5ruTlMP95M8l) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 2 \(Chapters 13\-16\) \[Original Score\]](https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx) | 4:52 | 2022-11-14 |  |
 | [Order 66](https://open.spotify.com/track/4pPQxN2GlHsVgAThcfAyK8) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 1:40 | 2022-06-28 |  |
 | [Padmé](https://open.spotify.com/track/4ud5wmcUNNO4f9FkPw3FxA) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \(Seasons One Through Six/Original Soundtrack\)](https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC) | 1:39 | 2021-05-14 |  |
 | [Peace and Purpose](https://open.spotify.com/track/5bhVXcAkmihE4YvKdGimxL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:06 | 2021-05-14 |  |

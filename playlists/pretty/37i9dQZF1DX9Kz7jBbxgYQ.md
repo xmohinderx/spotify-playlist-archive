@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Mitraz
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,814 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,933 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 59 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 |
 | 60 | [Ta Khayala](https://open.spotify.com/track/0NyqnSwYGDbM72PUiRVGjM) | [Irfan Ali Taj](https://open.spotify.com/artist/0wzji6eI2JiZNztAEoXer4), [Anas Alam Khan](https://open.spotify.com/artist/5jBNrNEJZsx9jAmNJtnPkd), [Aziz Kazi](https://open.spotify.com/artist/5fcwlFnNLnw4OSMy6oNdnG) | [Mahal](https://open.spotify.com/album/6kVbEY9BY2Fqqr0St7HaXG) | 5:34 |
 
-Snapshot ID: `MTY2NzQxODUyNywwMDAwMDAwMDlmYWE0MWQ0YTRhMTBjYTFkODVmNzExODQ2MjVjODcw`
+Snapshot ID: `MTY2ODQwNjYzNCwwMDAwMDAwMDNlNTg5NTA2MDJmNGU4NzEyZTRhNTUxNzM5YTg0MmFj`

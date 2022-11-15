@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65577,
+  "num_followers": 65581,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjY4MSwwMDAwMDAwMDM4ODdjZDdkOGE1YzUwNjhhYzJkZTRhZjU2YzU2NDcz",
+  "snapshot_id": "MTY2NTQzNjY4MSwwMDAwMDAwMGNjMTRjZjJiNWFjMGUzNTBiMWJiYzU0YTQ0NzkzYjgz",
   "tracks": [
     {
       "added_at": "2022-10-10 21:18:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
+        "name": "K\u00e4rlek & Revolt",
+        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        }
+      ],
+      "duration_ms": 232586,
+      "name": "12/12",
+      "url": "https://open.spotify.com/track/3F2avOu7brXts7okal0BbK"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
         "name": "Kalibreraren",
         "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
       },
@@ -127,22 +143,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "K\u00e4rlek & Revolt",
-        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 232586,
-      "name": "12/12",
-      "url": "https://open.spotify.com/track/3F2avOu7brXts7okal0BbK"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "Dimman",
         "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
       },
@@ -155,6 +155,22 @@
       "duration_ms": 217142,
       "name": "Dimman",
       "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Pang Pang",
+        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 245052,
+      "name": "Pang Pang",
+      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -179,22 +195,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "You Are My Angel",
-      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
         "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Min Tid",
-        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
-      },
-      "artists": [
-        {
-          "name": "Ras Cricket",
-          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Polisen sla\u030ar",
-      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "Kalibreraren",
         "url": "https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR"
       },
@@ -239,42 +223,6 @@
       "duration_ms": 194988,
       "name": "Spontanitet",
       "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "Pang Pang",
-        "url": "https://open.spotify.com/album/7xkDczPwYypYljYKRKZTjW"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "Pang Pang",
-      "url": "https://open.spotify.com/track/3xW8Zh2zLhuDpkUtSlwaBt"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
-      },
-      "artists": [
-        {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
-        },
-        {
-          "name": "Eek-A-Mouse",
-          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
-        }
-      ],
-      "duration_ms": 260168,
-      "name": "Smugglaren",
-      "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -299,22 +247,54 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Wayback",
-        "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
       },
       "artists": [
         {
-          "name": "O-Hund",
-          "url": "https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo"
-        },
-        {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 208551,
-      "name": "Wayback",
-      "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
+      "duration_ms": 260399,
+      "name": "You Are My Angel",
+      "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Min Tid",
+        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
+      },
+      "artists": [
+        {
+          "name": "Ras Cricket",
+          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Polisen sla\u030ar",
+      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI"
+      },
+      "artists": [
+        {
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+        },
+        {
+          "name": "Eek-A-Mouse",
+          "url": "https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho"
+        }
+      ],
+      "duration_ms": 260168,
+      "name": "Smugglaren",
+      "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -335,34 +315,22 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+        "name": "Wayback",
+        "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Ugly Girls",
-      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
-      },
-      "artists": [
+          "name": "O-Hund",
+          "url": "https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo"
+        },
         {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
         }
       ],
-      "duration_ms": 179251,
-      "name": "In Kommer Ting",
-      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
+      "duration_ms": 208551,
+      "name": "Wayback",
+      "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -379,6 +347,22 @@
       "duration_ms": 273813,
       "name": "Tribulations",
       "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 179251,
+      "name": "In Kommer Ting",
+      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -407,22 +391,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Dancehall",
-        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Som Bob Marley",
-      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "Hei Sommer",
         "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
@@ -443,6 +411,38 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Dancehall",
+        "url": "https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Som Bob Marley",
+      "url": "https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
         "name": "Helt Off",
         "url": "https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 229960,
       "name": "Babylonsjukan",
       "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "Rudeboy Love",
-        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 220201,
-      "name": "Rudeboy Love",
-      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -511,22 +495,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Blacka Rasta",
-        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Sm\u00e5 svarta \u00e4nglar",
-      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "Rotl\u00f6sa Singlar",
         "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
@@ -543,18 +511,18 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "D\u00f6md att bli bed\u00f6md",
-        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+        "name": "Rudeboy Love",
+        "url": "https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn"
       },
       "artists": [
         {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Gillar din vibe",
-      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
+      "duration_ms": 220201,
+      "name": "Rudeboy Love",
+      "url": "https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -579,6 +547,38 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
+        "name": "D\u00f6md att bli bed\u00f6md",
+        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 188773,
+      "name": "Gillar din vibe",
+      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Blacka Rasta",
+        "url": "https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Sm\u00e5 svarta \u00e4nglar",
+      "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
       },
@@ -591,38 +591,6 @@
       "duration_ms": 222000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "\u00d6ver Min D\u00f6da",
-        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 213019,
-      "name": "\u00d6ver Min D\u00f6da",
-      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -679,6 +647,38 @@
       "duration_ms": 156360,
       "name": "Rikslarm",
       "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "\u00d6ver Min D\u00f6da",
+        "url": "https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 213019,
+      "name": "\u00d6ver Min D\u00f6da",
+      "url": "https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+        "name": "G\u00f6r Det \u00c4nd\u00e5",
+        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+      "duration_ms": 212786,
+      "name": "Vakna",
+      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -791,34 +791,18 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "G\u00f6r Det \u00c4nd\u00e5",
-        "url": "https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8"
+        "name": "Br\u00e5da dagar",
+        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
       },
       "artists": [
         {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 212786,
-      "name": "Vakna",
-      "url": "https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
-        "name": "Teaterapan",
-        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 182378,
-      "name": "Teaterapan",
-      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
+      "duration_ms": 254293,
+      "name": "Bulleribock",
+      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -843,6 +827,26 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
+        "name": "ANITYA",
+        "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/1px6WAnyrXvXUx33U9KfIg"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
         "name": "Trodal",
         "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
       },
@@ -859,26 +863,18 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "S\u00e5na \u00f6gon",
-        "url": "https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj"
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
       },
       "artists": [
         {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
-        },
-        {
-          "name": "Naasty",
-          "url": "https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA"
-        },
-        {
-          "name": "Linda Pira",
-          "url": "https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 172000,
-      "name": "S\u00e5na \u00f6gon",
-      "url": "https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU"
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     }
   ],
   "unique_name": "Svensk Reggae",

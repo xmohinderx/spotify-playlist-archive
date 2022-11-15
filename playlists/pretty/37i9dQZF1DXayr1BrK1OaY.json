@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 130361,
+  "num_followers": 130506,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDNmMzMxNWI2NDNmZDNlMWNhNjlmMzViNTQ3MWZlZDZl",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDU1ZjJlNTljMzUwOGM1MjMxY2E1ZjA0N2NlZGM3NWJh",
   "tracks": [
     {
       "added_at": "2021-08-13 04:00:00",
@@ -263,26 +263,6 @@
     {
       "added_at": "2021-04-02 04:01:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": "2022-05-06 04:00:00",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX"
     },
     {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
-    },
-    {
       "added_at": "2022-05-13 04:00:00",
       "album": {
         "name": "Maze",
@@ -659,6 +643,38 @@
     {
       "added_at": "2021-04-02 04:01:00",
       "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": "2021-09-24 04:00:00",
+      "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 197573,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
-    },
-    {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "added_at": "2021-04-06 19:08:31",
@@ -1049,6 +1049,26 @@
       "url": "https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C"
     },
     {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
       "added_at": "2021-04-02 04:01:00",
       "album": {
         "name": "What's Your Pleasure?",
@@ -1083,26 +1103,6 @@
       "duration_ms": 213546,
       "name": "You've Done Enough",
       "url": "https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1213,26 +1213,6 @@
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "I Want You (feat. braev)",
-        "url": "https://open.spotify.com/album/5tsdkY0jtsruBtZ27vVU8a"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 258295,
-      "name": "I Want You (feat. braev)",
-      "url": "https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z"
-    },
-    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "On My Knees (Adriatique Remix)",
@@ -1251,6 +1231,26 @@
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "I Want You (feat. braev)",
+        "url": "https://open.spotify.com/album/5tsdkY0jtsruBtZ27vVU8a"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 258295,
+      "name": "I Want You (feat. braev)",
+      "url": "https://open.spotify.com/track/4erSEnRWE2diyHCfEjzW5Z"
     },
     {
       "added_at": "2022-04-12 16:14:07",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
       "added_at": "2021-05-14 20:36:42",
       "album": {
         "name": "Lone Raver",
@@ -1303,6 +1287,22 @@
       "duration_ms": 257299,
       "name": "Lone Raver",
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
+      "added_at": "2021-08-13 04:00:00",
+      "album": {
+        "name": "Cold Water",
+        "url": "https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "Untroubled",
+      "url": "https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Call On Me (feat. Vancouver Sleep Clinic)",
@@ -1399,22 +1415,6 @@
       "duration_ms": 293122,
       "name": "Call On Me (feat. Vancouver Sleep Clinic)",
       "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
-    },
-    {
-      "added_at": "2021-08-13 04:00:00",
-      "album": {
-        "name": "Cold Water",
-        "url": "https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "Untroubled",
-      "url": "https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7"
     },
     {
       "added_at": "2021-07-30 04:00:00",

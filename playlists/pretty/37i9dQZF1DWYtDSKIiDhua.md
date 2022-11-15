@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Larissa Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,911 likes - 84 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,986 likes - 84 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 4 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 |
 | 5 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 |
 | 6 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
-| 7 | [lovey dovey](https://open.spotify.com/track/7nWo2o7BNTKfBP80yqicdw) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Quiet](https://open.spotify.com/artist/5jc0mLpLdR5mDTmgDct85s) | [lovey dovey](https://open.spotify.com/album/0THgeP4c72At0kZGkhEvqn) | 3:02 |
+| 7 | [lovey dovey](https://open.spotify.com/track/7nWo2o7BNTKfBP80yqicdw) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Quiet](https://open.spotify.com/artist/5OuYv7kVl0ozFp6F30KUBa) | [lovey dovey](https://open.spotify.com/album/0THgeP4c72At0kZGkhEvqn) | 3:02 |
 | 8 | [Honey Filled Skies](https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [BUD](https://open.spotify.com/album/3iHi5YiyGr5Q0ExbRWwWy1) | 3:10 |
 | 9 | [Bag Of You](https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Bag Of You](https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM) | 3:17 |
 | 10 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 |

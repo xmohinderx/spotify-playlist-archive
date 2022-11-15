@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-117 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+118 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [This Song Belongs to You](https://open.spotify.com/track/54kCoe6ix7rXjFym0nqiHh) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 3:10 | 2022-04-15 |  |
 | [Tiny Dino](https://open.spotify.com/track/5eYOfJIwuKCdBEqTtCVK2f) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Ear Snacks: Songs from the Podcast](https://open.spotify.com/album/1SAuvDHBx9WMa3Vo2c6VTu) | 2:18 | 2022-04-15 |  |
 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 | 2022-04-15 |  |
+| [Under My Nose](https://open.spotify.com/track/6xZbvUXNxKEBCDsFrCDNTJ) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [Under My Nose](https://open.spotify.com/album/20wXwI3kIxW7QL0YsI8h3S) | 3:04 | 2022-11-14 |  |
 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 | 2022-04-15 |  |
 | [We Go Together Very Well](https://open.spotify.com/track/4RhmeK90NGyJ5bplwVjj0u) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:04 | 2022-04-15 |  |
 | [We Got This](https://open.spotify.com/track/6WDR423psynPi9xh6DrGAD) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:50 | 2022-04-15 |  |

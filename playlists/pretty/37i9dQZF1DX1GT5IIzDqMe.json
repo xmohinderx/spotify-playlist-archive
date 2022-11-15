@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 70851,
+  "num_followers": 70880,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDQ1MzVmMDBmMWQyNjhhMjk0ZjE5YWJjYjc2OGZkNjRi",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGVkNjVhOWQ4Y2YxY2Q4YjViMmYyMGQ5OWM3YmZlYmI0",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Pennies From Heaven (Remastered)",
+        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Pennies From Heaven (Remastered)",
+      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Pennies From Heaven (Remastered)",
-        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Pennies From Heaven (Remastered)",
-      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -375,54 +375,6 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "A Walk in the Park",
-        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 325880,
-      "name": "A Walk in the Park",
-      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Back To Basics (Part 1)",
-        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        }
-      ],
-      "duration_ms": 361400,
-      "name": "Track Ten",
-      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -463,6 +415,82 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "A Walk in the Park",
+        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 325880,
+      "name": "A Walk in the Park",
+      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Back To Basics (Part 1)",
+        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        }
+      ],
+      "duration_ms": 361400,
+      "name": "Track Ten",
+      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
+        },
+        {
+          "name": "Justin Cholewski",
+          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
+        }
+      ],
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Can You Feel It (Kevin Saunderson Remix)",
         "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
@@ -495,26 +523,6 @@
       "duration_ms": 500807,
       "name": "When We Used To Play - Original Extended Mix",
       "url": "https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -567,6 +575,26 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Clocks / Low Life / Go",
         "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
@@ -579,34 +607,6 @@
       "duration_ms": 334959,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
-        },
-        {
-          "name": "Justin Cholewski",
-          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
-        }
-      ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -643,6 +643,26 @@
       "duration_ms": 383706,
       "name": "Q",
       "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "I Can't Believe",
+        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 369016,
+      "name": "I Can't Believe - Extended Mix",
+      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -691,46 +711,6 @@
       "duration_ms": 400579,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -791,18 +771,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
         }
       ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -823,18 +807,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Patterns the Album",
-        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
+        "name": "On A Journey",
+        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
       },
       "artists": [
         {
-          "name": "Claude Young",
-          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
         }
       ],
-      "duration_ms": 307933,
-      "name": "Ancelyn",
-      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
+      "duration_ms": 271464,
+      "name": "On A Journey",
+      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -855,6 +839,22 @@
       "duration_ms": 209529,
       "name": "Savage & Beyond",
       "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Patterns the Album",
+        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
+      },
+      "artists": [
+        {
+          "name": "Claude Young",
+          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Ancelyn",
+      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
     },
     {
       "added_at": "2022-07-22 08:57:48",

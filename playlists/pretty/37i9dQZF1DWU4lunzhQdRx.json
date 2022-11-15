@@ -1,12 +1,12 @@
 {
   "description": "cry just a little",
-  "num_followers": 35987,
+  "num_followers": 36374,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDQ0MCwwMDAwMDAwMDgxNzIzOTAzMDViZmMxODhlZmE3NWQ0MDA4NDVjYTIx",
+  "snapshot_id": "MTY2NTcyMDQ0MCwwMDAwMDAwMGNhYmIyMWMwZTg0NTM0MmY2NjQ3ZjU3MDBkYmRjNTNk",
   "tracks": [
     {
       "added_at": "2022-10-14 04:07:20",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234515,
+      "name": "White Horse (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
+    },
+    {
+      "added_at": "2022-10-14 04:07:20",
+      "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234515,
-      "name": "White Horse (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3"
-    },
-    {
-      "added_at": "2022-10-14 04:07:20",
-      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-10-14 04:07:20",
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261842,
+      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
+    },
+    {
+      "added_at": "2022-10-14 04:07:20",
+      "album": {
         "name": "The Breaker",
         "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 236333,
       "name": "Whiskey And You",
       "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
-    },
-    {
-      "added_at": "2022-10-14 04:07:20",
-      "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261842,
-      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
     },
     {
       "added_at": "2022-10-14 04:07:20",

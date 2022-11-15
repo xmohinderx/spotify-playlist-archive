@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 216,
+  "num_followers": 219,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMDgzMjkyYjc4NmMyZTgzNzU4Yzk1MGVmNmEwMDRkNDQz",
+  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMDFiZTk4ODU5ODAwZDA1YzlhZmVmMGRhYzM1M2I0Nzk5",
   "tracks": [
     {
       "added_at": "2022-03-31 17:42:20",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0"
     },
     {
-      "added_at": "2022-11-14 01:20:57",
+      "added_at": "2022-11-15 01:19:00",
       "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
-      "added_at": "2022-11-14 01:20:57",
+      "added_at": "2022-11-15 01:19:00",
       "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
@@ -425,6 +425,30 @@
       "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
     },
     {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Sikyegomba",
+        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+        },
+        {
+          "name": "DVJ Pofia",
+          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
+        }
+      ],
+      "duration_ms": 210364,
+      "name": "Sikyegomba",
+      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "Nsudiya",
@@ -463,50 +487,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Sikyegomba",
-        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "DVJ Pofia",
-          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
-        }
-      ],
-      "duration_ms": 210364,
-      "name": "Sikyegomba",
-      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
-        }
-      ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Go Down",
         "url": "https://open.spotify.com/album/0uN5rQ90SWWH083CkSHI3T"
       },
@@ -531,6 +511,54 @@
       "duration_ms": 207229,
       "name": "Go Down",
       "url": "https://open.spotify.com/track/5oWb51bWAgCsxBOlWKZ7IS"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Tick Talk",
+        "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "DJ Lito",
+          "url": "https://open.spotify.com/artist/0iCdCjp95t54X4vw8v2YFR"
+        },
+        {
+          "name": "Sheilah Gashumba",
+          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
+        },
+        {
+          "name": "SlickStuartRoja",
+          "url": "https://open.spotify.com/artist/0nCCjqitG4nNkXdHYfjaN6"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "Tick Talk",
+      "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+        }
+      ],
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -575,34 +603,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Tick Talk",
-        "url": "https://open.spotify.com/album/1QXAYNwiCldVsj5Zb2D3sP"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "DJ Lito",
-          "url": "https://open.spotify.com/artist/0iCdCjp95t54X4vw8v2YFR"
-        },
-        {
-          "name": "Sheilah Gashumba",
-          "url": "https://open.spotify.com/artist/5f5GUoXpzjXpjrkBeMg3H2"
-        },
-        {
-          "name": "SlickStuartRoja",
-          "url": "https://open.spotify.com/artist/0nCCjqitG4nNkXdHYfjaN6"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "Tick Talk",
-      "url": "https://open.spotify.com/track/5lSYksFuC3lKlCAYROEQd0"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Bakuwe",
         "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
@@ -619,42 +619,6 @@
       "duration_ms": 186000,
       "name": "Bakuwe",
       "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
-    },
-    {
-      "added_at": "2022-04-07 20:59:00",
-      "album": {
-        "name": "Bwonjagala",
-        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Fille",
-          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Bwonjagala",
-      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
-    },
-    {
-      "added_at": "2022-05-19 20:59:00",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -689,6 +653,42 @@
       "url": "https://open.spotify.com/track/2ZI4xbS2lfBgsG6P4K4e8s"
     },
     {
+      "added_at": "2022-05-19 20:59:00",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2022-04-07 20:59:00",
+      "album": {
+        "name": "Bwonjagala",
+        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Bwonjagala",
+      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
+    },
+    {
       "added_at": "2022-08-05 09:37:54",
       "album": {
         "name": "Kiziniro",
@@ -715,30 +715,6 @@
       "duration_ms": 222599,
       "name": "Kiziniro",
       "url": "https://open.spotify.com/track/28SmtKCVqNzejIZyFGDaqd"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -779,6 +755,30 @@
       "duration_ms": 188235,
       "name": "Misege",
       "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2022-03-31 17:42:20",

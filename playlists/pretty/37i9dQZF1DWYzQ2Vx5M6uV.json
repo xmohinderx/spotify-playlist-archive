@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 100130,
+  "num_followers": 100174,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDkzOTYwNTU4N2ZmMTM3ZTc1YTljZWUwOTJlNTQxMWQ3",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDc1ZWQwYWRiOWVhY2MwOGE3NGE1NjEyZGYzYjZhOTgw",
   "tracks": [
     {
       "added_at": "2022-09-06 16:11:58",
@@ -455,30 +455,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
-        "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 207980,
-      "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
-      "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
+        "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "duration_ms": 207980,
+      "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
+      "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -687,30 +687,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
-        "name": "Claramente",
-        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 182542,
-      "name": "Claramente",
-      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 158003,
       "name": "Tayari",
       "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
+        "name": "Claramente",
+        "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 182542,
+      "name": "Claramente",
+      "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "GUERRA",
+        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "GUERRA",
+      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Flavors 2",
         "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 194042,
       "name": "Prende",
       "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "GUERRA",
-        "url": "https://open.spotify.com/album/7LMX8MddqoPLWjnm049mkt"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "GUERRA",
-      "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     },
     {
       "added_at": "2022-09-06 16:11:58",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2022-09-06 16:11:58",
       "album": {
+        "name": "AFRICAN LOVER",
+        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "SOLO CON MI CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
+    },
+    {
+      "added_at": "2022-09-06 16:11:58",
+      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
-    },
-    {
-      "added_at": "2022-09-06 16:11:58",
-      "album": {
-        "name": "AFRICAN LOVER",
-        "url": "https://open.spotify.com/album/5uty7nPyWOesMiYlgyRMgC"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SOLO CON MI CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
     },
     {
       "added_at": "2022-09-06 16:11:58",

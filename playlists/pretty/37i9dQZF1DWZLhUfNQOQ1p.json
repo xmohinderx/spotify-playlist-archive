@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGY1ZTRjNGUwZThiNmFhNTIzYThiZGY5MDUzN2UzNzEw",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGZlMWQ1ZjhlODA1NGYyZWY5YmVmZDNjYTg1OGI1ZDYw",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -167,26 +167,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Wicked Hearts",
-        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
-      },
-      "artists": [
-        {
-          "name": "Junge Junge",
-          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
-        },
-        {
-          "name": "Jamie Hartman",
-          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
-        }
-      ],
-      "duration_ms": 189136,
-      "name": "Wicked Hearts",
-      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
       },
@@ -199,6 +179,22 @@
       "duration_ms": 198159,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "The Look of Love",
+        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
+      },
+      "artists": [
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "duration_ms": 194429,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -219,18 +215,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "The Look of Love",
-        "url": "https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf"
+        "name": "Wicked Hearts",
+        "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
       "artists": [
         {
-          "name": "farfetch'd",
-          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+          "name": "Junge Junge",
+          "url": "https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD"
+        },
+        {
+          "name": "Jamie Hartman",
+          "url": "https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo"
         }
       ],
-      "duration_ms": 194429,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A"
+      "duration_ms": 189136,
+      "name": "Wicked Hearts",
+      "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "A Little Bit Closer",
         "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 155294,
       "name": "A Little Bit Closer",
       "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+      },
+      "artists": [
+        {
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -627,18 +627,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
       },
       "artists": [
         {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
         }
       ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "It's alright",
-        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
-      },
-      "artists": [
-        {
-          "name": "Goose Groovy",
-          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
-        }
-      ],
-      "duration_ms": 196676,
-      "name": "It's alright",
-      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Elephant & Castle",
         "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186900,
       "name": "Elephant & Castle",
       "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "It's alright",
+        "url": "https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "It's alright",
+      "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -791,22 +791,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Don't Speak",
-        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
-      },
-      "artists": [
-        {
-          "name": "PANG!",
-          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Purple Summer",
         "url": "https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 232468,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Don't Speak",
+        "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
+      },
+      "artists": [
+        {
+          "name": "PANG!",
+          "url": "https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Surf The Orange Water",
-        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
-      },
-      "artists": [
-        {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Violet Breeze",
-      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 196670,
       "name": "All Good",
       "url": "https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Surf The Orange Water",
+        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Violet Breeze",
+      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
-      },
-      "artists": [
-        {
-          "name": "Vivaldi Verdes",
-          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
-        }
-      ],
-      "duration_ms": 235549,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
       },
@@ -947,22 +931,6 @@
       "duration_ms": 229581,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
-      },
-      "artists": [
-        {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -983,6 +951,54 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa"
+      },
+      "artists": [
+        {
+          "name": "Vivaldi Verdes",
+          "url": "https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc"
+        }
+      ],
+      "duration_ms": 235549,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
+      },
+      "artists": [
+        {
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+        }
+      ],
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Crying Wolf",
         "url": "https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L"
       },
@@ -999,26 +1015,6 @@
       "duration_ms": 218360,
       "name": "Crying Wolf",
       "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Sunrise To Sunset",
-        "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Olivia Sebastianelli",
-          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
-        }
-      ],
-      "duration_ms": 186610,
-      "name": "Wishing Well (feat. Olivia Sebastianelli)",
-      "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
     }
   ],
   "unique_name": "Aperitivo Time",

@@ -1,12 +1,12 @@
 {
   "description": "Le tracce italiane pi\u00f9 romantiche di sempre.",
-  "num_followers": 158689,
+  "num_followers": 158723,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMGU4MDdhNGJhYzQ2YzMwZmZlOWM3MTY5MTFlZDY4OWVl",
+  "snapshot_id": "MTYzMjY4MTUzMywwMDAwMDAwMDUyNjgxOWNiODEyN2M2M2E1YTMzYmM3OGNlNDM1MmEy",
   "tracks": [
     {
       "added_at": "2021-09-26 18:38:53",
@@ -27,6 +27,22 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "La musica non c'\u00e8",
+      "url": "https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 186213,
       "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
       "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "La musica non c'\u00e8",
-      "url": "https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Fuori dall'Hype Ringo Starr",
-        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Ridere",
-      "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Completamente Sold Out",
         "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
@@ -163,50 +147,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+        "name": "Fuori dall'Hype Ringo Starr",
+        "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
       "artists": [
         {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Polaroid 2.0",
-        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
-      },
-      "artists": [
-        {
-          "name": "Carl Brave x Franco126",
-          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Sempre In Due",
-      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
+      "duration_ms": 214733,
+      "name": "Ridere",
+      "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -227,6 +179,38 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Polaroid 2.0",
+        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave x Franco126",
+          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Sempre In Due",
+      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
         "name": "Possibili Scenari",
         "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 293960,
       "name": "Poetica",
       "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Piccola Stella",
+      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -259,18 +259,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
       },
       "artists": [
         {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 282720,
-      "name": "Senza Parole",
-      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
+      "duration_ms": 203872,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -287,6 +287,22 @@
       "duration_ms": 207802,
       "name": "La storia infinita",
       "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 282720,
+      "name": "Senza Parole",
+      "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -355,22 +371,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 203872,
-      "name": "\u00c8 sempre bello",
-      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Stanza Singola",
         "url": "https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "Destri",
-        "url": "https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC"
-      },
-      "artists": [
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        }
-      ],
-      "duration_ms": 185503,
-      "name": "Destri",
-      "url": "https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -427,6 +411,38 @@
       "duration_ms": 222047,
       "name": "Venere e Marte (feat. Marco Mengoni, Frah Quintale)",
       "url": "https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 193624,
+      "name": "Faccio un casino",
+      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Destri",
+        "url": "https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "duration_ms": 185503,
+      "name": "Destri",
+      "url": "https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -527,18 +543,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+        "name": "Mi Fai Stare Bene",
+        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
       },
       "artists": [
         {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Biagio Antonacci",
+          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
         }
       ],
-      "duration_ms": 193624,
-      "name": "Faccio un casino",
-      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
+      "duration_ms": 238413,
+      "name": "Iris (Tra Le Tue Poesie)",
+      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -559,22 +575,6 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Mi Fai Stare Bene",
-        "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
-      },
-      "artists": [
-        {
-          "name": "Biagio Antonacci",
-          "url": "https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Iris (Tra Le Tue Poesie)",
-      "url": "https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
         "name": "Le cose che non ho",
         "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
       },
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-09-26 18:38:53",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Cascare nei tuoi occhi",
-      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -619,6 +619,22 @@
       "duration_ms": 243333,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+    },
+    {
+      "added_at": "2021-09-26 18:38:53",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Cascare nei tuoi occhi",
+      "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
     },
     {
       "added_at": "2021-09-26 18:38:53",
@@ -683,22 +699,6 @@
       "duration_ms": 174725,
       "name": "MIA",
       "url": "https://open.spotify.com/track/1SIl1FBbHmGa4PmJu5q6Lm"
-    },
-    {
-      "added_at": "2021-09-26 18:38:53",
-      "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "La tua canzone",
-      "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
     },
     {
       "added_at": "2021-09-26 18:38:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,194 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,202 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Ready and Willing](https://open.spotify.com/track/7gTzs8ZOry1BSr2aDoMdv4) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection](https://open.spotify.com/album/3CLXR1W9TabxVLY2lZbAS1) | 3:22 |
 | 50 | [I Don't Wanna Know](https://open.spotify.com/track/0EosY41ozajeAz7mCMwo1K) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:30 |
 
-Snapshot ID: `Mjc4MDU5MDcsMDAwMDAwMDAzMzU4YjE3MWNkYjEzNTIzZjkwNDBkZTg5YmY2NTM3ZA==`
+Snapshot ID: `Mjc4MDcyMjcsMDAwMDAwMDA3MGE2NDEzMTYxODU1ODZkMjQxNjIyZDA4NTVhYjBlNQ==`

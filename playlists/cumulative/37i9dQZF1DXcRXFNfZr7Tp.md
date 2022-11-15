@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Tiësto & Tate McRae
 
-705 songs - 1 day 12 hr 41 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
+706 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/3WiuwmFbePnraYS0qJlHtM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [No Drama](https://open.spotify.com/track/5Jq958VQwRyQFujau4TMKD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [No Drama](https://open.spotify.com/album/3LzwUe8NBJtLco5uK6bbGO) | 3:24 | 2020-10-30 | 2020-12-18 |
 | [No Ordinary](https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [No Ordinary](https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu) | 3:04 | 2020-10-13\* | 2020-11-20 |
 | [No Other Way](https://open.spotify.com/track/2NLCLJstWwUxjEc0sgVPtv) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [No Other Way](https://open.spotify.com/album/2r0gxUcjoKqB8WrEEdCwwf) | 2:27 | 2020-10-16 | 2020-11-20 |
+| [No Se Va \- En Vivo](https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/700G54RNkWryfdCZdfyw7A) | 3:14 | 2022-11-14 |  |
 | [No Time For Tears](https://open.spotify.com/track/2Rr1INov0ckj7bLTsk9LV1) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [No Time For Tears](https://open.spotify.com/album/5uFXAG4F9SX86RS5RHWDsx) | 3:16 | 2020-11-27 | 2021-02-12 |
 | [Nobody](https://open.spotify.com/track/7GiozRoMk95aFl1WbrDdjX) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Nobody](https://open.spotify.com/album/0n1BagGDuJad065Qjb7enT) | 2:23 | 2021-01-23 | 2021-05-08 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-09-22 | 2021-11-20 |

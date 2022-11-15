@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 186604,
       "name": "Bubbly - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO"
@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126144,
+      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Halloween",
         "url": "https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1"
       },
@@ -1071,6 +1089,28 @@
       "duration_ms": 152142,
       "name": "Room 13",
       "url": "https://open.spotify.com/track/6eR73pF06smxeq6LtfTAOD"
+    },
+    {
+      "album": {
+        "name": "Winter Wonder Jams",
+        "url": "https://open.spotify.com/album/3Q01tBSLwBMS6LSABcplxd"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Face",
+          "url": "https://open.spotify.com/artist/7xMgxFpLIU8jswCgwGYolN"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48520,
+      "name": "Snowflake Drop",
+      "url": "https://open.spotify.com/track/3GlSbCm2GfBzkvDqACsEXJ"
     },
     {
       "album": {
@@ -1389,6 +1429,24 @@
       "duration_ms": 134270,
       "name": "True Pirates We Be (Extended)",
       "url": "https://open.spotify.com/track/1Ngvtzmvnxchs8vM6aLpnQ"
+    },
+    {
+      "album": {
+        "name": "Dinosaur Songs",
+        "url": "https://open.spotify.com/album/3mZbA0yTM5pDkS32CczH6F"
+      },
+      "artists": [
+        {
+          "name": "Daddy Donut",
+          "url": "https://open.spotify.com/artist/5A2AuQZwTIH1KtbV6g47D4"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78674,
+      "name": "Tyrannosaurus Rex",
+      "url": "https://open.spotify.com/track/57yHuOdWoFzCOfXkM67ezS"
     },
     {
       "album": {

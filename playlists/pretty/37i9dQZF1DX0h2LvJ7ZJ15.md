@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,585 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,980 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 40 | [Wrap Me In Plastic \- Slowed Down Version](https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz) | [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Wrap Me In Plastic](https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6) | 2:27 |
 | 41 | [NOT FAIR \(slowed\)](https://open.spotify.com/track/3X9DJqqtiG2Uh48TDhtMgn) | [YOUNG $ELLOUT](https://open.spotify.com/artist/2P64m7x4cOMI1uLnZnRj8a), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHEN EARTH FALLS](https://open.spotify.com/album/0318U1QvSv1qAr9mfpY0LB) | 3:16 |
 | 42 | [17 \- Slowed + reverb](https://open.spotify.com/track/2Nbhq0jI4SR7whs7YNZEuJ) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [17 \(Slowed + reverb\)](https://open.spotify.com/album/4t2A5pNu44Ow8q3nRRA64X) | 3:29 |
-| 43 | [Losing It \- Slowed and Reverb](https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1) | [ZRobb](https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Please Don’t Kill My Vibes](https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz) | 3:28 |
-| 44 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 |
-| 45 | [Faster \(Slowed & Reverb\)](https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Slowed & Reverb\)](https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16) | 3:19 |
-| 46 | [Bad Habits \(Slowed + Reverb\)](https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr) | [Solstice](https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz) | [Villains \(Slowed + Reverb\)](https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx) | 3:07 |
-| 47 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 |
+| 43 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 |
+| 44 | [Losing It \- Slowed and Reverb](https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1) | [ZRobb](https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Please Don’t Kill My Vibes](https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz) | 3:28 |
+| 45 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 |
+| 46 | [Faster \(Slowed & Reverb\)](https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Slowed & Reverb\)](https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16) | 3:19 |
+| 47 | [Bad Habits \(Slowed + Reverb\)](https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr) | [Solstice](https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz) | [Villains \(Slowed + Reverb\)](https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx) | 3:07 |
 | 48 | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/track/75nT6XIsMfJ1Ul5sF6hlRb) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Use Me \(Slowed + Reverb\)](https://open.spotify.com/album/1dz4vYS8chpVh6qutTn0WT) | 4:39 |
 | 49 | [This December \- slow](https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [This December \(slow\)](https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li) | 3:33 |
 | 50 | [Us and Them](https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx) | [Brothel](https://open.spotify.com/artist/3xYvvJ6tjXyJJdEXBs8qf0), [barnacle boi](https://open.spotify.com/artist/6psDObCnL4BfpwqYzE0Dzu), [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Us and Them](https://open.spotify.com/album/4Hrrad0vv9BbvFjBPYb2xJ) | 2:46 |
 
-Snapshot ID: `MTY2ODE0ODg2MCwwMDAwMDAwMDc3MTEzMjQxNDM3ZTIzNmU5ODUwNzlmOTZjYmY1NjBh`
+Snapshot ID: `MTY2ODE0ODg2MCwwMDAwMDAwMDVlYzdjMDkxOTZmNjRkMDhjOTNlMDM3YWE5ZDQzYmRm`

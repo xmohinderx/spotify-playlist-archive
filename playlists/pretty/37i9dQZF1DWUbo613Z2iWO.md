@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Our favorite R&B artists on the rise! Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,386 likes - 107 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,437 likes - 107 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 60 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 |
 | 61 | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/track/66m6XgZHQfVrrXVfdVOHKG) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy), [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [sub me in \(feat\. Maurice Moore\)](https://open.spotify.com/album/7KgCXOGLEYj6Hd8tDZSBoK) | 3:10 |
 | 62 | [Selfish \(feat\. BEAM\)](https://open.spotify.com/track/0hKlMpG1YsUvUe4TE8qFdB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Selfish \(feat\. BEAM\)](https://open.spotify.com/album/7mNmUp5h4G9vHec9g6Ul3S) | 3:31 |
-| 63 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 |
+| 63 | [Talkin](https://open.spotify.com/track/59a8CMQljChNGgqXCQ0H4G) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 1:57 |
 | 64 | [Streets](https://open.spotify.com/track/1TYByBVUgkH7lndO0YRmbl) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Streets](https://open.spotify.com/album/0JRGXtHtaXzYM4fEhtXJw3) | 2:24 |
 | 65 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 |
 | 66 | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:11 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 106 | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC) | 3:10 |
 | 107 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 
-Snapshot ID: `MTY2ODE4MjIwNCwwMDAwMDAwMDc0ODYxOWNhYTVhYWM3Njc2YzhjZjVmMThjMTRlZDk1`
+Snapshot ID: `MTY2ODE4MjIwNCwwMDAwMDAwMDRlZWIwNzc3MmY2MGQ3MTYxYzkzZmM2MmI4NzEyMmQ1`

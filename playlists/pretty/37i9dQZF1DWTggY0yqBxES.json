@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: TOBi",
-  "num_followers": 895511,
+  "num_followers": 895688,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDc3MDk4OTMwYjRlZTQ0NWFlMTI2MzA5MDRhODUxZmZi",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDQ5Y2QzNDQ4ZTM3YzYwOWU5NDNhODBhMDhkMWMzNDM4",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -131,26 +131,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Forever Story",
-        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 235423,
-      "name": "Bruddanem (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Highs & The Lows",
         "url": "https://open.spotify.com/album/2apZoa0oXih4sM7dDMNi2a"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 255609,
       "name": "The Highs & The Lows",
       "url": "https://open.spotify.com/track/7DKJP7ksSaJn4YyBkcBDii"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 235423,
+      "name": "Bruddanem (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/60pZpM5WjUBQvaQ5E37XW6"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -255,30 +255,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Wraith",
-        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Smoko Ono",
-          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Wraith",
-      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Willing To Trust",
         "url": "https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61"
       },
@@ -299,6 +275,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Never Freestyle",
+        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 266996,
+      "name": "Never Freestyle",
+      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "The Ending",
         "url": "https://open.spotify.com/album/6U97jLY4aY4LCM3WQ17fIv"
       },
@@ -315,18 +307,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Never Freestyle",
-        "url": "https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH"
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT"
       },
       "artists": [
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Smoko Ono",
+          "url": "https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd"
         }
       ],
-      "duration_ms": 266996,
-      "name": "Never Freestyle",
-      "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
+      "duration_ms": 147692,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+      "duration_ms": 144807,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -411,18 +411,34 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Cowboys Live Forever, Outlaws Never Die",
-        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 144807,
-      "name": "Snake",
-      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "For The Squadron",
+        "url": "https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 188854,
+      "name": "For The Squadron",
+      "url": "https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -447,18 +463,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "For The Squadron",
-        "url": "https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI"
+        "name": "Suicide",
+        "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
       },
       "artists": [
         {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
-      "duration_ms": 188854,
-      "name": "For The Squadron",
-      "url": "https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P"
+      "duration_ms": 224937,
+      "name": "Suicide",
+      "url": "https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -479,26 +499,6 @@
       "duration_ms": 180076,
       "name": "Swamp Bitches (with Rico Nasty)",
       "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Suicide",
-        "url": "https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 224937,
-      "name": "Suicide",
-      "url": "https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 102397,
+      "name": "ROUND HERE (PART ONE)",
+      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
         "url": "https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 248000,
       "name": "Strangers (feat. A$AP Rocky and Run The Jewels)",
       "url": "https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
     },
     {
       "added_at": "2022-11-11 05:00:00",

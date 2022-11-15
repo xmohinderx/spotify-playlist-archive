@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,354 likes - 113 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,481 likes - 113 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 55 | [First Light](https://open.spotify.com/track/18NEQwiVgyuM31ADq7xtFq) | [The Boughs](https://open.spotify.com/artist/4GdV4AnvHb7pMOjOW7pikU) | [First Light](https://open.spotify.com/album/3RJ8l8JRI2driMlWlcjwq1) | 3:21 |
 | 56 | [Chasing the Present](https://open.spotify.com/track/5HzT7FpMsxO23zG5oIkzUz) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Chasing the Present \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WOn9LRzQqSsykbPB9AChV) | 3:02 |
 | 57 | [Ritornello \- Ed Carlsen Remix](https://open.spotify.com/track/0PDMv6hhBzCeKT5W0xuDtA) | [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Ritornello \(Ed Carlsen Remix\)](https://open.spotify.com/album/7AGTk1e4gJ1BrUdKoqqqvU) | 3:56 |
-| 58 | [The Wave](https://open.spotify.com/track/4rlY6t4sZyguT9HAQ2BLzS) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [The Wave](https://open.spotify.com/album/54WoGKFUUOlELx0Acc7XYE) | 3:32 |
+| 58 | [The Wave](https://open.spotify.com/track/2954gxDvLc1xEXEZ5EReNK) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Savage Waters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BOpSC4KSgViq7DSgJfoXG) | 3:30 |
 | 59 | [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 |
 | 60 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/5GN6PZdeSyRREY9EbxlaHL) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/6Klc4LbsQR8EOqxiSkglNK) | 3:38 |
 | 61 | [Screensaver Prelude](https://open.spotify.com/track/79atiCDYYYIqo6IDDFRhkL) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [Screensaver Prelude](https://open.spotify.com/album/6TKPRSvknzkg34i1wMPKXw) | 3:51 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 112 | [Flight from the City \- Víkingur Ólafsson Rework](https://open.spotify.com/track/4eaBCGk2bT1spf1CruumMy) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Tarn Travers](https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a), [Christian Badzura](https://open.spotify.com/artist/4o4c7wie7O9R8ju7JWtHsQ) | [Retrospective II \- Rarities](https://open.spotify.com/album/74GQMHXRhgZHMGUoX42pfD) | 6:26 |
 | 113 | [Starwood Choker](https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 6:16 |
 
-Snapshot ID: `MTY2NDg5NjE1NiwwMDAwMDAwMDQ1NWRiODcwNDIyYmU0NjlhNTYwYjdlNTM1Yzc1MjZh`
+Snapshot ID: `MTY2NDg5NjE1NiwwMDAwMDAwMGE4NGNiNGE1YTY3YWZkMDMzYzNjYzIwNWRkMGY4OTFk`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Estevie on cover.",
-  "num_followers": 167654,
+  "num_followers": 167669,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMDRjNDczNDMxZjY1MTQ3YjViMDVlMTM0OGRjZmQxNWMw",
+  "snapshot_id": "MTY2ODAzOTU5MywwMDAwMDAwMGM1MzNiZGY3YjY0Mjk0ZmNlYjNhMzY5ZGVmMGJkMTll",
   "tracks": [
     {
       "added_at": "2022-11-10 00:19:53",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Habla Claro",
-        "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
-      },
-      "artists": [
-        {
-          "name": "Queens Tafari",
-          "url": "https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Habla Claro",
-      "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
         "name": "fluye",
         "url": "https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 225230,
       "name": "lily",
       "url": "https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
+        "name": "Habla Claro",
+        "url": "https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH"
+      },
+      "artists": [
+        {
+          "name": "Queens Tafari",
+          "url": "https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Habla Claro",
+      "url": "https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -611,22 +611,18 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "Dos",
-        "url": "https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n"
+        "name": "Fighting Ghosts",
+        "url": "https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1"
       },
       "artists": [
         {
-          "name": "Flavia Marsano",
-          "url": "https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A"
-        },
-        {
-          "name": "TURIAN BOY",
-          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+          "name": "No Stories",
+          "url": "https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc"
         }
       ],
-      "duration_ms": 174960,
-      "name": "Dos",
-      "url": "https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3"
+      "duration_ms": 193953,
+      "name": "Fighting Ghosts",
+      "url": "https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -647,6 +643,26 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "Dos",
+        "url": "https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n"
+      },
+      "artists": [
+        {
+          "name": "Flavia Marsano",
+          "url": "https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A"
+        },
+        {
+          "name": "TURIAN BOY",
+          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Dos",
+      "url": "https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "Cuando Estemos Juntos",
         "url": "https://open.spotify.com/album/2IhW85V6DWFSaz3NCEA4gz"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 183281,
       "name": "Cuando Estemos Juntos",
       "url": "https://open.spotify.com/track/2ikii4lglZTRIKvBJDwUnq"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "Fighting Ghosts",
-        "url": "https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1"
-      },
-      "artists": [
-        {
-          "name": "No Stories",
-          "url": "https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc"
-        }
-      ],
-      "duration_ms": 193953,
-      "name": "Fighting Ghosts",
-      "url": "https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -899,6 +899,26 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
+        "name": "1 AM: NE\u00d3N",
+        "url": "https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Zanelatto",
+          "url": "https://open.spotify.com/artist/6wT98woXz13q4FNcy1forN"
+        },
+        {
+          "name": "Uawa",
+          "url": "https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF"
+        }
+      ],
+      "duration_ms": 176686,
+      "name": "1 AM: NE\u00d3N",
+      "url": "https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH"
+    },
+    {
+      "added_at": "2022-11-10 00:19:53",
+      "album": {
         "name": "CHEKE-CHEKE",
         "url": "https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt"
       },
@@ -939,22 +959,18 @@
     {
       "added_at": "2022-11-10 00:19:53",
       "album": {
-        "name": "1 AM: NE\u00d3N",
-        "url": "https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR"
+        "name": "Se Hizo De Noche",
+        "url": "https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj"
       },
       "artists": [
         {
-          "name": "Gianluca Zanelatto",
-          "url": "https://open.spotify.com/artist/6wT98woXz13q4FNcy1forN"
-        },
-        {
-          "name": "Uawa",
-          "url": "https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF"
+          "name": "Ciudad Mansa",
+          "url": "https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2"
         }
       ],
-      "duration_ms": 176686,
-      "name": "1 AM: NE\u00d3N",
-      "url": "https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH"
+      "duration_ms": 242602,
+      "name": "Buen Augurio",
+      "url": "https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu"
     },
     {
       "added_at": "2022-11-10 00:19:53",
@@ -971,22 +987,6 @@
       "duration_ms": 162880,
       "name": "Entretiempo",
       "url": "https://open.spotify.com/track/2zLmQmPcRX1OZzlDrNyBDR"
-    },
-    {
-      "added_at": "2022-11-10 00:19:53",
-      "album": {
-        "name": "Se Hizo De Noche",
-        "url": "https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj"
-      },
-      "artists": [
-        {
-          "name": "Ciudad Mansa",
-          "url": "https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2"
-        }
-      ],
-      "duration_ms": 242602,
-      "name": "Buen Augurio",
-      "url": "https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu"
     },
     {
       "added_at": "2022-11-10 00:19:53",

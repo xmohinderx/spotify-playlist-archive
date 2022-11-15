@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,442 likes - 60 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,463 likes - 60 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 37 | [Love Dub](https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf) | [Cooly G](https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq) | [Narst / Love Dub](https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu) | 3:35 |
 | 38 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
 | 39 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
-| 40 | [My Circle \- Remix](https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Cadet](https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [My Circle \(Remix\)](https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS) | 4:20 |
-| 41 | [Stuck On You](https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5) | [PEDRO](https://open.spotify.com/artist/0itKTaTB3xwSl5Na3TdXM5), [Bryte](https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO) | [Da Linha](https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh) | 2:50 |
+| 40 | [Stuck On You](https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5) | [PEDRO](https://open.spotify.com/artist/0itKTaTB3xwSl5Na3TdXM5), [Bryte](https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO) | [Da Linha](https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh) | 2:50 |
+| 41 | [My Circle \- Remix](https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Cadet](https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [My Circle \(Remix\)](https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS) | 4:20 |
 | 42 | [What You Do \(Hottest By Far\)](https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem) | [The Fives](https://open.spotify.com/artist/5EiVAQAe0qLKANwPmUFliS) | [What You Do \(Hottest By Far\)](https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK) | 4:45 |
 | 43 | [Sentah](https://open.spotify.com/track/3ozyBc00Z3ZARwbvSYHBjP) | [Mina](https://open.spotify.com/artist/2KvWE2yC2SS2fck2WOm8Kv), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Sentah](https://open.spotify.com/album/3wkIHYwO7iSF8NGzaS89p2) | 3:08 |
 | 44 | [I'm Leaving \- DJ MA1 Remix](https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Alahna](https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3), [DJ MA1](https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6) | [I'm Leaving](https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r) | 6:10 |
-| 45 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
-| 46 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
-| 47 | [Emotions \(feat\. Nikki\)](https://open.spotify.com/track/7m3jySZj6AMGqoUHm1gLl8) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Zinc](https://open.spotify.com/artist/6rNNzYwIibSLwFxDfXDBeS), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/60unLuchirb55pFWGSi5WX) | 7:05 |
-| 48 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 45 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
+| 46 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
+| 47 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 48 | [Emotions \(feat\. Nikki\)](https://open.spotify.com/track/7m3jySZj6AMGqoUHm1gLl8) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Zinc](https://open.spotify.com/artist/6rNNzYwIibSLwFxDfXDBeS), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/60unLuchirb55pFWGSi5WX) | 7:05 |
 | 49 | [Feeling Funky](https://open.spotify.com/track/764vblH9EXsgdtrSpCGmL6) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Sensei EP](https://open.spotify.com/album/4eOUxNKQxKBdwIAoOpXHDf) | 4:41 |
 | 50 | [Move & Breathe](https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [3:33](https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb) | 3:25 |
 | 51 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Hear Me \- Zomby Mix](https://open.spotify.com/track/1v80nVTvQNItY8JPmwecve) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Zomby](https://open.spotify.com/artist/0e1hn6R8UCfLkpHINwAyXR) | [Remixes 1/2](https://open.spotify.com/album/2lGPdro2bQMgqz5WyJATrZ) | 5:00 |
 | 60 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
 
-Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMGQ2NTU5OTgxMWNjZDQ1MTkyYzc0NTNhNjRhMTBmODFh`
+Snapshot ID: `MTY0OTg2MjE4MiwwMDAwMDAwMGQ0NTNiZjRjNTg0ODJiMTgxNDU2ZDMyYTg1MzYyOGJh`

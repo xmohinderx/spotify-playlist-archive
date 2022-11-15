@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 1207293,
       "name": "Four Meditations for Orchestra",
       "url": "https://open.spotify.com/track/7GwBblLn7dZizslSDypRKT"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 254960,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/6CpzkEGtziYLYBuZS2CgrW"
@@ -1763,7 +1763,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 211053,
       "name": "Private Journeys",
       "url": "https://open.spotify.com/track/2y6nzaCDgERcorRspVXqlQ"
@@ -2141,6 +2141,32 @@
       "duration_ms": 197920,
       "name": "Several Other Notions",
       "url": "https://open.spotify.com/track/2TaE1SwczjqKKVNxINSBQA"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 2)",
+        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329586,
+      "name": "Shear Viscosity",
+      "url": "https://open.spotify.com/track/1ddvHU5FBTRdvoqsNTYKBK"
     },
     {
       "album": {

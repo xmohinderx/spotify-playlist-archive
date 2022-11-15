@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Tóc Tiên
 
-121 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+122 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Querry](https://open.spotify.com/track/6OcOCgmPa1a57xAAF7qKkW) | [QNT](https://open.spotify.com/artist/4LuFOXq87Tg0JSl5U7yxFZ), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ), [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [Querry](https://open.spotify.com/album/2Q4OkyBdAr8dBlhPSMDbBw) | 3:50 | 2022-06-15 | 2022-06-23 |
 | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/track/5Fmtix3LkYpcXI7nVFpEyC) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Quá Khứ Đôi, Hiện Tại Đơn](https://open.spotify.com/album/4qEl0OfTTPs6x8U2i62hYn) | 5:10 | 2022-09-25 |  |
 | [Quên Anh Đi](https://open.spotify.com/track/4pMSLfqswCeDzG2iVmwGkR) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Quên Anh Đi](https://open.spotify.com/album/3FE6u1nOMdVEhfnJKWiCIp) | 4:05 | 2022-08-10 | 2022-09-02 |
+| [quý cô say xỉn \(secret sunday\)](https://open.spotify.com/track/5MkTNoZ8xaMZYh1XMwAPtA) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [CITOPIA](https://open.spotify.com/album/4h8yUXtgFWfqMY7WdK1eIg) | 3:22 | 2022-11-14 |  |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2022-05-27 |  |
 | [Răng Khôn \(feat\. RIN9\)](https://open.spotify.com/track/2c0QMztYu6PCfFrGLqHXIV) | [Phí Phương Anh](https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM), [RIN9](https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf) | [Răng Khôn \(feat\. RIN9\)](https://open.spotify.com/album/2I6WOVWFnwifUUBgedQt6j) | 3:51 | 2022-05-27 | 2022-06-29 |
 | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/track/0IojBwrFi0lwPW1eE3BNdU) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Sau Lưng Anh Có Ai Kìa](https://open.spotify.com/album/36Dvo2mP3FZEERwagzc0YB) | 5:02 | 2022-05-27 | 2022-08-08 |
@@ -127,7 +128,7 @@
 | [Đau Nhất Là Lặng Im](https://open.spotify.com/track/5H7UgZQk2p5x4nmeuDjmE4) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Đau Nhất Là Lặng Im](https://open.spotify.com/album/7eKrlj1Iv6T1jBSRppsFFD) | 4:46 | 2022-05-27 | 2022-06-04 |
 | [Đoạn Kết Mới](https://open.spotify.com/track/7GcnpaGXpoIT3TWYloSsSO) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Đoạn Kết Mới](https://open.spotify.com/album/7w0mZIHzcZYyN60yMdMjYw) | 4:54 | 2022-07-31 | 2022-09-07 |
 | [Đánh Đố \(feat\. Thanh Lam & Tung Duong\)](https://open.spotify.com/track/6XSRHPboYUSCSqbKfl2Iv7) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Lam](https://open.spotify.com/artist/5kG9gxVkkdrskVLhfblCjT), [Tùng Dương](https://open.spotify.com/artist/4rBvN6UImNzcY5abMKdAuw) | [Đánh Đố \(feat\. Thanh Lam & Tung Duong\)](https://open.spotify.com/album/3zi1RVCY8qSVwKBogN62AD) | 4:28 | 2022-06-03 | 2022-06-17 |
-| [Đông Tây Nam Bắc](https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đông Tây Nam Bắc](https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz) | 6:07 | 2022-10-13 |  |
+| [Đông Tây Nam Bắc](https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Đông Tây Nam Bắc](https://open.spotify.com/album/5Dt3Lq7yoQ32mOiG3VRyYz) | 6:07 | 2022-10-13 | 2022-11-15 |
 | [Đường Tôi Chở Em Về](https://open.spotify.com/track/27F22WcGDyl4Z2KylVJkXL) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Đường Tôi Chở Em Về](https://open.spotify.com/album/11usBN9oLbxkDegtx4ilUW) | 4:26 | 2022-05-27 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

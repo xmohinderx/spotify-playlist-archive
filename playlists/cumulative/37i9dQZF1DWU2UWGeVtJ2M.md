@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-266 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
+267 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/70F1v4zvuq5j5onBRYZuyS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 | 2022-06-06 |  |
 | [Feels So Good ◑](https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:48 | 2022-07-25 |  |
 | [Figure Out \(feat\. JAIE\)](https://open.spotify.com/track/0VRbh9c002tLmNm4G1nhWN) | [JAWN](https://open.spotify.com/artist/2yRfs4MG77gLXamZ5RsVRE), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Figure Out \(feat\. JAIE\)](https://open.spotify.com/album/00lQadmdVTecUp147ww5NN) | 3:54 | 2022-06-06 | 2022-07-29 |
+| [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 | 2022-11-14 |  |
 | [fooled me](https://open.spotify.com/track/6Lm144Xy0M9HcLYIzq6ngh) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [fooled me](https://open.spotify.com/album/3tPyajc2IXyzEXk0lODMIQ) | 3:14 | 2022-06-06 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2022-06-27 |  |
 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 | 2022-07-25 |  |
@@ -116,7 +117,7 @@
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2022-08-01 | 2022-10-17 |
 | [Hell or Heaven](https://open.spotify.com/track/34gJMMpzslquGwCDq0bLe1) | [Lara D.](https://open.spotify.com/artist/2rkA2RE0iabEZmEx5QNxtX) | [Hell or Heaven](https://open.spotify.com/album/4HX87TyD4akOXBqt73bb50) | 3:26 | 2022-06-06 | 2022-07-29 |
 | [Hello, I said](https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx) | [Diana Wang](https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3) | [Hello, I said](https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH) | 2:36 | 2022-06-06 | 2022-07-29 |
-| [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 | 2022-10-10 |  |
+| [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 | 2022-10-10 | 2022-11-15 |
 | [Hollow](https://open.spotify.com/track/40jgQMxu1yaQkIRblyswIM) | [Katz](https://open.spotify.com/artist/3g9k2cNSlZn5zbRT2l671q), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Hollow](https://open.spotify.com/album/3MoWDXRBliC5gCdy7n6nFy) | 3:22 | 2022-06-06 | 2022-07-29 |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-06-06 | 2022-07-29 |
 | [Hue](https://open.spotify.com/track/5uvmQ8YPZgdvgcK2HPG1PP) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Hue](https://open.spotify.com/album/0rPUtK4S7CrYaLK88ftb1i) | 2:52 | 2022-06-27 | 2022-07-04 |

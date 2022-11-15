@@ -1184,6 +1184,32 @@
     },
     {
       "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/38ceKeIGseGiz5dAoK4IFk"
+      },
+      "artists": [
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403803,
+      "name": "Angikaze",
+      "url": "https://open.spotify.com/track/5F7npl4FSAFQLsIuW3o7aR"
+    },
+    {
+      "album": {
         "name": "Another Way",
         "url": "https://open.spotify.com/album/5RzOk5vALVcjWFZxkfKGuc"
       },
@@ -7587,7 +7613,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 360975,
       "name": "Minamato",
       "url": "https://open.spotify.com/track/73X5KApLsp2GaIKEnJiDJu"

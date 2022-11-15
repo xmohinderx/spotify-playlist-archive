@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz",
-  "num_followers": 15340,
+  "num_followers": 15452,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMDkwMmQwZGY4Mzg1OWU2Yzk4OGYzZDU2ODU0MDgwZGRj",
+  "snapshot_id": "MTY2NDYwMTQxNCwwMDAwMDAwMGNlYWRjYWE4OGMzZjA3ZjJhY2EzNmFhOTA2ZDI3N2Y0",
   "tracks": [
     {
       "added_at": "2022-10-01 05:16:54",
@@ -515,30 +515,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
-      },
-      "artists": [
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -579,6 +555,30 @@
       "duration_ms": 179500,
       "name": "Siyahamba",
       "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
-      },
-      "artists": [
-        {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Still Blessed",
         "url": "https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 175200,
       "name": "Still Blessed",
       "url": "https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
-      },
-      "artists": [
-        {
-          "name": "SESS",
-          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
-        }
-      ],
-      "duration_ms": 155530,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
-    },
-    {
-      "added_at": "2022-10-01 05:16:54",
-      "album": {
         "name": "Lotta Things",
         "url": "https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
       },
       "artists": [
         {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "SESS",
+          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
         }
       ],
-      "duration_ms": 134217,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
+      "duration_ms": 155530,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -923,6 +903,26 @@
       "duration_ms": 200280,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5FQBGvpjehp8hTnogC4V3Z"
+    },
+    {
+      "added_at": "2022-10-01 05:16:54",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 134217,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
     },
     {
       "added_at": "2022-10-01 05:16:54",
@@ -1067,18 +1067,26 @@
     {
       "added_at": "2022-10-01 05:16:54",
       "album": {
-        "name": "Yakpa",
-        "url": "https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh"
+        "name": "NEVER FORGET",
+        "url": "https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+          "name": "King Dareal",
+          "url": "https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY"
+        },
+        {
+          "name": "K3ndrick",
+          "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
         }
       ],
-      "duration_ms": 163369,
-      "name": "Yakpa",
-      "url": "https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG"
+      "duration_ms": 217959,
+      "name": "NEVER FORGET",
+      "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
     }
   ],
   "unique_name": "AfroGospel",

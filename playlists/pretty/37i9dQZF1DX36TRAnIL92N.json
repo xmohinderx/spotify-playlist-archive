@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 56572,
+  "num_followers": 57022,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MzY2MCwwMDAwMDAwMDEwNzA4OWE0ZmE0ZmQ2NGEwNWQzOTU3MTFkYTI5OTRi",
+  "snapshot_id": "MTY2Njk2MzY2MCwwMDAwMDAwMDI0Zjg5OTg3ZThlNjRmZGQyNzRhNWE4YTJlN2ZlMjI2",
   "tracks": [
     {
       "added_at": "2022-10-28 13:27:40",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
         "name": "Flying Octopus",
         "url": "https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 211617,
       "name": "Flying Octopus",
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "In Trance",
-        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 357305,
-      "name": "In Trance",
-      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
         "name": "We Control",
         "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 231437,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
+        "name": "In Trance",
+        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 357305,
+      "name": "In Trance",
+      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
         "name": "Little Hero",
         "url": "https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/1orZtgQNW26jOxSDSsZ9jK"
       },
       "artists": [
         {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+          "name": "Pomella",
+          "url": "https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v"
         }
       ],
-      "duration_ms": 413538,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd"
+      "duration_ms": 175576,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/5RJHpBHM1gBJYrB9YlFnNG"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -703,22 +719,6 @@
       "duration_ms": 370750,
       "name": "Flash - Marco Faraone Remix",
       "url": "https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/1orZtgQNW26jOxSDSsZ9jK"
-      },
-      "artists": [
-        {
-          "name": "Pomella",
-          "url": "https://open.spotify.com/artist/1solOdc0xZiJ2nDl6vbH9v"
-        }
-      ],
-      "duration_ms": 175576,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/5RJHpBHM1gBJYrB9YlFnNG"
     },
     {
       "added_at": "2022-10-28 13:27:40",

@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Rod Wave, Lil Tjay and more\. Cover: SleazyWorld Go
 
-1,797 songs - 3 day 12 hr 23 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,798 songs - 3 day 12 hr 25 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1670,6 +1670,7 @@
 | [Turbo](https://open.spotify.com/track/0oMCHLbU1IcWfXMHeYSfn1) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 2:59 | 2022-03-04 | 2022-03-12 |
 | [Turnt Shit](https://open.spotify.com/track/5ud1mtFvYKAKhV1aAegFum) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Turnt Shit](https://open.spotify.com/album/0SCsBf7ceu73IdreVGCAZ7) | 2:15 | 2022-03-25 | 2022-04-09 |
 | [Tuxedo](https://open.spotify.com/track/7imWwrAiyfIgLk9HVYrhLB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Tadoe](https://open.spotify.com/artist/7AO1qih2zQeI7WYTQxC5fQ) | [4NEM](https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV) | 3:34 | 2021-12-24 | 2022-01-08 |
+| [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 | 2022-11-14 |  |
 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 | 2022-06-17 | 2022-07-16 |
 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2022-08-05 | 2022-08-13 |
 | [Unacceptable](https://open.spotify.com/track/0Yptvdo4iVZ42hz0m8rGng) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Unacceptable](https://open.spotify.com/album/79v3fsCuDJoEfpMJc6G7fI) | 3:06 | 2022-08-12 | 2022-08-20 |

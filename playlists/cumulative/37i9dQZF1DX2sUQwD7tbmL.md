@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-492 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+493 songs - 1 day 4 hr 3 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-10-14 |  |
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-07-22 | 2022-10-13 |
 | [1901](https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 3:13 | 2021-06-04 | 2022-04-21 |
-| [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-16 |  |
+| [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-16 | 2022-11-15 |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-05-01 | 2022-10-19 |
 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 | 2022-04-13 |  |
 | [A Low](https://open.spotify.com/track/4hyAvXnUZwgOSDGf59fYTG) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host](https://open.spotify.com/album/135aX76dOE47h7XVPuTzEb) | 4:03 | 2022-04-13 | 2022-04-21 |
@@ -462,6 +462,7 @@
 | [Uh Huh](https://open.spotify.com/track/6UQkKezR70jMXymMJgRcOz) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Uh Huh](https://open.spotify.com/album/4TPh9MRbmnPMv0KXYypM5D) | 2:22 | 2021-05-01 | 2022-04-13 |
 | [Uh Huh](https://open.spotify.com/track/5qANDG12SoA2nIbuIJCbDQ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Sentimental Porno](https://open.spotify.com/album/0gqd5J8F5nKG7LXpgmLH4W) | 3:21 | 2021-05-01 | 2022-04-14 |
 | [Undercover Martyn](https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 2:47 | 2022-04-13 | 2022-11-02 |
+| [Undercover Martyn](https://open.spotify.com/track/0bePGTDjn0XuEKoN7rOMvV) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 2:47 | 2022-11-07 |  |
 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 | 2022-03-07 |  |
 | [Unwind](https://open.spotify.com/track/3gvq5SzpE8JjmVycZjDt94) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [All Talk!](https://open.spotify.com/album/6ftm3LlwnabgJYaoydggNP) | 3:21 | 2021-05-01 | 2022-07-29 |
 | [upside down](https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [upside down](https://open.spotify.com/album/4ittGDLkz4slK7qEsgAy0R) | 3:07 | 2022-04-13 | 2022-04-21 |

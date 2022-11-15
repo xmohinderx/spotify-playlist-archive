@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Marizu
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,141 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,349 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 62 | [Little Seed \- Dance Mix](https://open.spotify.com/track/0aRkP3M32J0m3skYRHugrr) | [Kierre Bjorn](https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Little Seed \(Dance Mix\)](https://open.spotify.com/album/4AkT2i0W0a1vQyNCMF75JR) | 3:03 |
 | 63 | [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 |
 | 64 | [Somebody](https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv) | [Mōzi](https://open.spotify.com/artist/5w603RhGuKjuDtIlkQt3E4), [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [Somebody](https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E) | 3:12 |
-| 65 | [This I Know](https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan](https://open.spotify.com/artist/4QRvZa6un8H2yZvhVLQVSg), [Eris](https://open.spotify.com/artist/1t5JWUNgPV06FR9X0Jmkve) | [This I Know](https://open.spotify.com/album/1KT8xnJzurscLm5UpElift) | 2:48 |
+| 65 | [This I Know](https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [This I Know](https://open.spotify.com/album/1KT8xnJzurscLm5UpElift) | 2:48 |
 | 66 | [HOMIE](https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [SAO!](https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Alfa Tavares](https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW) | [HOMIE](https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY) | 2:33 |
 | 67 | [Vans X Adidas](https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Vans X Adidas](https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe) | 3:54 |
 | 68 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 |

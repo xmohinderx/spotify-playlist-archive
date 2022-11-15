@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 152961,
       "name": "BackOutsideBoyz",
       "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 232066,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -2567,7 +2567,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 236795,
       "name": "Circo Loco",
       "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
@@ -4173,7 +4173,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 125419,
       "name": "EF \u00deEIR VILJA BEEF",
       "url": "https://open.spotify.com/track/6uU1QhxwtrnOdALd4K1nBs"
@@ -6043,7 +6043,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 168782,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/0LGDMx5xPSOUFW2BW1vGVb"
@@ -6341,7 +6341,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
@@ -9515,7 +9515,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 199855,
       "name": "Klisja",
       "url": "https://open.spotify.com/track/38KOnmdRLQrizMIFHIwuOA"
@@ -9743,6 +9743,24 @@
       "duration_ms": 263174,
       "name": "La Dolce Vita (Aukalag)",
       "url": "https://open.spotify.com/track/449pbR3WL8LX7f5vvPKRyD"
+    },
+    {
+      "album": {
+        "name": "La Hess",
+        "url": "https://open.spotify.com/album/6Smwlc4hWZRx4ULiH4Uh3I"
+      },
+      "artists": [
+        {
+          "name": "Andos",
+          "url": "https://open.spotify.com/artist/2EBrrS0944AOJbrU3VgdpH"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142288,
+      "name": "La Hess",
+      "url": "https://open.spotify.com/track/7IArjqeyGifRnZ6K6rPOk7"
     },
     {
       "album": {
@@ -16205,7 +16223,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
@@ -19258,6 +19276,24 @@
     },
     {
       "album": {
+        "name": "World Cup",
+        "url": "https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256704,
+      "name": "World Cup",
+      "url": "https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -19867,7 +19903,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 269693,
       "name": "\u00c1str\u00f3s",
       "url": "https://open.spotify.com/track/42BgRqXAu46c2Iz55krZGy"
@@ -20009,6 +20045,28 @@
       "duration_ms": 184285,
       "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
       "url": "https://open.spotify.com/track/1a6CncFFqHUL5jTZo2uo6f"
+    },
+    {
+      "album": {
+        "name": "J\u00f3lagestir Bj\u00f6rgvins: Vins\u00e6lustu l\u00f6gin 1987-2014",
+        "url": "https://open.spotify.com/album/74q62NGs7NP9LrDnlpfbyD"
+      },
+      "artists": [
+        {
+          "name": "Svala",
+          "url": "https://open.spotify.com/artist/2rd4gPVTRgvoI6H4xZiNZH"
+        },
+        {
+          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
+          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243853,
+      "name": "\u00c9g hlakka svo til",
+      "url": "https://open.spotify.com/track/7AVc0FQzRUopEBdSxzpeSQ"
     },
     {
       "album": {
@@ -20513,7 +20571,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 197241,
       "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
       "url": "https://open.spotify.com/track/3RkoMHO82pcLpCosDR7Gbj"
@@ -20647,6 +20705,28 @@
       "duration_ms": 234960,
       "name": "\u00de\u00fa komst me\u00f0 j\u00f3lin til m\u00edn",
       "url": "https://open.spotify.com/track/1a54RSb3qvW6c6RUCQFolK"
+    },
+    {
+      "album": {
+        "name": "\u00c9g kem me\u00f0 j\u00f3lin til \u00fe\u00edn",
+        "url": "https://open.spotify.com/album/7q7HKsORUxIJiOtOPAvfAw"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rgvin Halld\u00f3rsson",
+          "url": "https://open.spotify.com/artist/0bPOOMpOPbgBrsOrt1Sfvi"
+        },
+        {
+          "name": "Ruth Reginalds",
+          "url": "https://open.spotify.com/artist/32NO7A47yiL6am7Dc8Z8AK"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234960,
+      "name": "\u00de\u00fa komst me\u00f0 j\u00f3lin til m\u00edn",
+      "url": "https://open.spotify.com/track/4VTQl8TUosCskPMqTg6thG"
     },
     {
       "album": {

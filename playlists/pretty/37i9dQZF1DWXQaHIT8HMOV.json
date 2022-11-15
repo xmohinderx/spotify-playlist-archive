@@ -1,15 +1,15 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1043,
+  "num_followers": 1045,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMGMzZDc0MTBmNmVmOGIyMTA5NmYyMGI1YjY2NjkxMTc1",
+  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMDIzMGMyYWU3NjIyZDhkYzEwZGQ4OGY3ZDQwNDhiZmUy",
   "tracks": [
     {
-      "added_at": "2022-11-14 01:14:17",
+      "added_at": "2022-11-15 01:12:43",
       "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
@@ -165,6 +165,46 @@
       "url": "https://open.spotify.com/track/2lc0T74YCLtkDoIkUu25lp"
     },
     {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "CHERRY SWEET",
+        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "CHERRY SWEET",
+      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
+    },
+    {
       "added_at": "2022-10-06 21:00:00",
       "album": {
         "name": "Second of All",
@@ -207,62 +247,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "CHERRY SWEET",
-        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "CHERRY SWEET",
-      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Belinda",
         "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
@@ -381,7 +361,7 @@
       "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     },
     {
-      "added_at": "2022-11-14 01:14:17",
+      "added_at": "2022-11-15 01:12:43",
       "album": {
         "name": "BESTIE",
         "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
@@ -411,6 +391,46 @@
       "duration_ms": 189544,
       "name": "Kampala",
       "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
+    },
+    {
+      "added_at": "2022-10-07 10:52:01",
+      "album": {
+        "name": "Biwamiel",
+        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+      },
+      "artists": [
+        {
+          "name": "Udulele",
+          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+        }
+      ],
+      "duration_ms": 155007,
+      "name": "Biwamiel",
+      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -445,26 +465,6 @@
       "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
-      "added_at": "2022-10-07 10:52:01",
-      "album": {
-        "name": "Biwamiel",
-        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
-      },
-      "artists": [
-        {
-          "name": "Udulele",
-          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
-        },
-        {
-          "name": "Umoja",
-          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
-        }
-      ],
-      "duration_ms": 155007,
-      "name": "Biwamiel",
-      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
-    },
-    {
       "added_at": "2022-09-30 11:18:57",
       "album": {
         "name": "Personal",
@@ -479,6 +479,30 @@
       "duration_ms": 190000,
       "name": "Personal",
       "url": "https://open.spotify.com/track/75GrSLQFXf1tWzgHBEUvd9"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Omu",
+        "url": "https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "Omu",
+      "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -515,30 +539,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Omu",
-        "url": "https://open.spotify.com/album/6i4sCnOmNSCkWyrFmPWGv1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 174705,
-      "name": "Omu",
-      "url": "https://open.spotify.com/track/4zP3adRK1v4LD0BZ9nLyVd"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Dorah",
         "url": "https://open.spotify.com/album/5LWMDoSQwKTasHfxYwT5D5"
       },
@@ -559,38 +559,6 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
         "name": "Awo",
         "url": "https://open.spotify.com/album/02qumZkSj4oR8vJ41Vgf2X"
       },
@@ -603,6 +571,22 @@
       "duration_ms": 260075,
       "name": "Akahama",
       "url": "https://open.spotify.com/track/01Cr1AZ70tfTE6LJnh3ndc"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -627,6 +611,22 @@
     {
       "added_at": "2022-09-30 11:18:57",
       "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
         "name": "Baibe",
         "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 254850,
       "name": "Baibe",
       "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
-    },
-    {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Riri",
-        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
     },
     {
       "added_at": "2022-10-07 10:52:01",
@@ -671,6 +655,22 @@
       "duration_ms": 194594,
       "name": "Magic (fik)",
       "url": "https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Riri",
+        "url": "https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo"
     },
     {
       "added_at": "2022-09-30 11:18:57",
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
-      "added_at": "2022-11-14 01:14:17",
+      "added_at": "2022-11-15 01:12:43",
       "album": {
         "name": "Mun G Singles",
         "url": "https://open.spotify.com/album/6xpiZsqFrXT8O5bFIRCXSJ"
@@ -737,23 +737,7 @@
       "url": "https://open.spotify.com/track/0eK5i2ADiozLxvSGCHjeVh"
     },
     {
-      "added_at": "2022-09-30 11:18:57",
-      "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
-      },
-      "artists": [
-        {
-          "name": "Recho Rey",
-          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
-    },
-    {
-      "added_at": "2022-11-14 01:14:17",
+      "added_at": "2022-11-15 01:12:43",
       "album": {
         "name": "Vibes Out The East",
         "url": "https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz"
@@ -775,6 +759,22 @@
       "duration_ms": 235558,
       "name": "Extra Mile",
       "url": "https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq"
+    },
+    {
+      "added_at": "2022-09-30 11:18:57",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/6CXDElxxiujEhPQbwcBXR9"
+      },
+      "artists": [
+        {
+          "name": "Recho Rey",
+          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/0EznsEmD2Ob0W0tw5NewRu"
     },
     {
       "added_at": "2022-09-30 11:18:57",

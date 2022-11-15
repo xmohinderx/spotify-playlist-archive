@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Concentration & Motivation! Focus\-enhancing piano music for your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,407,126 likes - 208 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,407,334 likes - 208 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fluctuation](https://open.spotify.com/track/5lCas1cqz70cDzNTOrjD8K) | [Vittoriano di Grazia](https://open.spotify.com/artist/68dOCHt1KCAYTYsiFNxRsI) | [Fluctuation](https://open.spotify.com/album/2EDTrhwBnKEjH9enTvBBzR) | 2:05 |
-| 2 | [Ouroboros](https://open.spotify.com/track/0Y7oJGAHEvArgcPao3N8KB) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Poussières](https://open.spotify.com/album/7K4rnl9fViO7JlJht9GkLk) | 2:30 |
+| 2 | [Ouroboros](https://open.spotify.com/track/4qNuc1K8MD4s0GLSHAu03s) | [Dominique Charpentier](https://open.spotify.com/artist/2BDEX7NzONc6kAxVXu9lBa) | [Ouroboros](https://open.spotify.com/album/5J3UvkyE0vGtt6BvqOU242) | 2:30 |
 | 3 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 |
 | 4 | [Vliegen \(Flying\)](https://open.spotify.com/track/2EVpp1hacBt6Jr2VO0eDgO) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vliegen \(Flying\)](https://open.spotify.com/album/0Wv9sOPaM6xHGm4KHVlJPO) | 2:29 |
 | 5 | [Anguille Glissante](https://open.spotify.com/track/15Vmk7vlx19lynWPk75UkO) | [Jorulf](https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO) | [Senza Paura](https://open.spotify.com/album/6ZW0TFVFUdFc5M9n7v2X3E) | 2:08 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 207 | [Rannoch Moor](https://open.spotify.com/track/5M9WoeUS6hg8b1YRWMFx0M) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Rannoch Moor](https://open.spotify.com/album/1kXMEkViaETUcA6KQNXuv4) | 1:56 |
 | 208 | [Feuilles d'automne](https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Feuilles d'automne](https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ) | 2:09 |
 
-Snapshot ID: `MTY2NTc0NTU5MSwwMDAwMDAwMDc3NWE3ZTIyMTJlZGE2YzBhZWE2MGVlMWY1MmNhY2Fi`
+Snapshot ID: `MTY2NTc0NTU5MSwwMDAwMDAwMGYzMDVkNDk5NTg2NTEyMzljMTZkYmE1ZDhlNTdiNDMy`

@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 57574,
+  "num_followers": 57589,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDIwZTA4NDhmMTYyM2FjZTg0YzVkYTQzNDNkZWI2ZDg3",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDU0MWIzOGYzMDk3YzRmNjJjOWViYWUyMjYyNGY3MDI3",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "Yours Truly, Angry Mob",
         "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 351626,
       "name": "Common People",
       "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Satan i gatan (Bonus Version)",
-        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Jag kommer",
-      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 263426,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Satan i gatan (Bonus Version)",
+        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Jag kommer",
+      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "The Essential Paul Simon",
-        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Plastic Bertrand",
         "url": "https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 182133,
       "name": "Ca Plane Pour Moi",
       "url": "https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "The Essential Paul Simon",
+        "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 276360,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/6wLr2oR8eqUG5Beleh2Crm"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 228893,
-      "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-      "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Johnossi",
         "url": "https://open.spotify.com/album/79mwxuh2n3TUVp0lGfSoec"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 155373,
       "name": "Man Must Dance",
       "url": "https://open.spotify.com/track/7FxmsmphMyy09gdqGHeqFC"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 228893,
+      "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
+      "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
     },
     {
       "added_at": "2021-06-15 09:25:05",

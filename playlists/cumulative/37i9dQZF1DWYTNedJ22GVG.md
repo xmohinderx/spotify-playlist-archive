@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-156 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
+157 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/4adFmDn6HaaYuB5tODjiNo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [That's Christmas to Me](https://open.spotify.com/track/2U9kDk5mlHYunC7PvbZ8KX) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:02 | 2021-12-07 |  |
 | [The Chipmunk Song \(Christmas Don't Be Late\)](https://open.spotify.com/track/3GCJUgTGtWMHdefIEyN3iD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All I Want For Christmas Is You](https://open.spotify.com/album/4UIjCbV9zBubJIlblCdG2F) | 2:06 | 2021-12-07 |  |
 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 | 2021-12-07 |  |
+| [The Magic Of Christmas](https://open.spotify.com/track/6rkkl3MkLjTODElUll6Y84) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [The Magic Of Christmas](https://open.spotify.com/album/5t3fyEkZRQRszVQj6MOpRg) | 3:05 | 2022-11-14 |  |
 | [The Man with the Bag](https://open.spotify.com/track/3Ca9kAAlWyIyCQaSJhRXyD) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:06 | 2021-12-07 |  |
 | [This Christmas \(Hang All the Mistletoe\)](https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG) | [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:40 | 2021-12-07 |  |
 | [This Christmas \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/2qyscWonOE3DcCWSxCQMHO) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 3:01 | 2021-12-07 |  |

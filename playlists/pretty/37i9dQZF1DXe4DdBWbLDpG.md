@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4DdBWbLDpG.md) - [plain]
 
 > Mecha y las mejores batallas\. Assista los clips y descubre música original de los participantes, solo aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,166 likes - 70 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,171 likes - 70 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

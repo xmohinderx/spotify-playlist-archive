@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14605,
+  "num_followers": 14615,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDk1M2U1NThlYWJiNDg0ZDVlNTAxNDU5ZTRkZmQ1ZjIx",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGVmODQ5OTQ0MmQ3YzVjYjFkOTIxODI0NzY3OTY5NTdk",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -665,34 +665,6 @@
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
     },
     {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "One By One (Remixes)",
-        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "One By One - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
-    },
-    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Talamanca (Robin Schulz Remix)",
@@ -739,6 +711,34 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "One By One (Remixes)",
+        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "One By One - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Get Out My Head (Todd Terry Remix)",
         "url": "https://open.spotify.com/album/6u0OWvS5IO3r4Mi5P3RH46"
       },
@@ -779,26 +779,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Summer 91 (Looking Back) [220 KID Remix]",
-        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Summer 91 (Looking Back) - 220 KID Remix",
-      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Hero (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Summer 91 (Looking Back) [220 KID Remix]",
+        "url": "https://open.spotify.com/album/4h1ag771LJ1N6A41WKJD9L"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Summer 91 (Looking Back) - 220 KID Remix",
+      "url": "https://open.spotify.com/track/1FbXgPKatKyAIz9hgBZhnx"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1539,6 +1539,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Nightlight (The Remixes, Vol. 2)",
+        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Annika Wells",
+          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Nightlight - MOTi Remix",
+      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "One More Time (feat. Alida) [Tobtok Remix]",
         "url": "https://open.spotify.com/album/0Q8dZVc7TzXiwGPy1D259W"
       },
@@ -1567,26 +1591,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Nightlight (The Remixes, Vol. 2)",
-        "url": "https://open.spotify.com/album/29iZ0UJSGBmStGvhvsR0Fv"
+        "name": "Show Me Love (Sander van Doorn Remix)",
+        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         },
         {
-          "name": "Annika Wells",
-          "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Nightlight - MOTi Remix",
-      "url": "https://open.spotify.com/track/5a9mPrXe4KRdpxGaGFJ3HE"
+      "duration_ms": 188437,
+      "name": "Show Me Love - Sander van Doorn Remix",
+      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1615,26 +1639,22 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Show Me Love (Sander van Doorn Remix)",
-        "url": "https://open.spotify.com/album/14o9hg02HHvwsQkuE3UpcC"
+        "name": "Bad Things (Remixes)",
+        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         },
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+          "name": "Kaidro",
+          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
         }
       ],
-      "duration_ms": 188437,
-      "name": "Show Me Love - Sander van Doorn Remix",
-      "url": "https://open.spotify.com/track/0Nxp4aH45UtTeL6pe8t7YQ"
+      "duration_ms": 282162,
+      "name": "Bad Things - Kaidro Remix",
+      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1663,26 +1683,6 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Bad Things (Remixes)",
-        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Kaidro",
-          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
-        }
-      ],
-      "duration_ms": 282162,
-      "name": "Bad Things - Kaidro Remix",
-      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1811,30 +1811,34 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Wasted Love (feat. Lagique) [Remixes]",
-        "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
+        "name": "Hearts on Fire (The Remixes)",
+        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
         },
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
         },
         {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
-      "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
+      "duration_ms": 213878,
+      "name": "Hearts on Fire - CORSAK & Willim Remix",
+      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1867,34 +1871,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Hearts on Fire (The Remixes)",
-        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
+        "name": "Wasted Love (feat. Lagique) [Remixes]",
+        "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
         },
         {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
         },
         {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        },
-        {
-          "name": "Willim",
-          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
         }
       ],
-      "duration_ms": 213878,
-      "name": "Hearts on Fire - CORSAK & Willim Remix",
-      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
+      "duration_ms": 240000,
+      "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
+      "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2235,30 +2235,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        }
-      ],
-      "duration_ms": 221032,
-      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
-      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Moving Blind (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3LbB1aic7E3WR1wSV4Z0XN"
       },
@@ -2279,6 +2255,30 @@
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+        "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Sigag Lauren",
+          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
+        }
+      ],
+      "duration_ms": 221032,
+      "name": "Jaiye (Aluna and Sigag Lauren Remix)",
+      "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2347,34 +2347,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Happy Where We Are (ilan Bluestone Remix)",
-        "url": "https://open.spotify.com/album/512NZa7ZFYp6d3aAjYzP4M"
-      },
-      "artists": [
-        {
-          "name": "Tritonal",
-          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
-        },
-        {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        },
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        },
-        {
-          "name": "Ilan Bluestone",
-          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
-        }
-      ],
-      "duration_ms": 233974,
-      "name": "Happy Where We Are - ilan Bluestone Remix",
-      "url": "https://open.spotify.com/track/4StZuE3DEKcRZYMgdDxJuX"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Cry (with John Martin) [Remixes]",
         "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
       },
@@ -2395,6 +2367,26 @@
       "duration_ms": 233959,
       "name": "Cry (with John Martin) - Trivecta Remix",
       "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "You've Done Enough (with DRAMA) [The Purple Prince Version]",
+        "url": "https://open.spotify.com/album/2bmFRz4d6TzkxrYLF89Mcn"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
+      "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"
     }
   ],
   "unique_name": "mint Remix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Cristiano Araújo, Pedro Sampaio com Pabllo Vittar e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,792,911 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,136 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 57 | [Vai Neymar, Brasil é Tois](https://open.spotify.com/track/2XWPghneRFVCLAs51WuxZ9) | [Dj Rhuivo](https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ), [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [Mc Cosme Salles](https://open.spotify.com/artist/6HQFKcOc4JhfelDpMG5leY), [Neymar Jr](https://open.spotify.com/artist/3bsybkkfGCc6sMToI6gbpL) | [Vai Neymar, Brasil é Tois](https://open.spotify.com/album/33Ft82x96dw4b0PyzsQ5e9) | 2:29 |
 | 58 | [Não Dá Mais Pra Namorar](https://open.spotify.com/track/2WAOp96VjCNPeobkuDJjbq) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r), [Mc Vittin PV](https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB), [DJ Stay](https://open.spotify.com/artist/7HHRhlQb888TBc3k1uAQ6u) | [Não da Mais Pra Namorar](https://open.spotify.com/album/1fPGgLLkRstCZbKI7ImWKG) | 2:05 |
 | 59 | [Toque no Radinho](https://open.spotify.com/track/4KCz6JYsOCIJ90O7Zw19Ul) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Toque no Radinho](https://open.spotify.com/album/0jUF2y324k3JkjotbjyM8Z) | 1:54 |
-| 60 | [Emocionou](https://open.spotify.com/track/4WtWrOHAEAFL7aOWJKQnGN) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [MC Jacaré](https://open.spotify.com/artist/3pfMg9hiGHJt0x9zDhiL7I) | [Emocionou](https://open.spotify.com/album/4N0X1m2Z1J43YLlStQD4wA) | 2:12 |
+| 60 | [Emocionou](https://open.spotify.com/track/4WtWrOHAEAFL7aOWJKQnGN) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Emocionou](https://open.spotify.com/album/4N0X1m2Z1J43YLlStQD4wA) | 2:12 |
 | 61 | [Como é que Termina Desse Jeito?](https://open.spotify.com/track/000p2gDeoG9Pw8R8hM0OdD) | [Kart Love](https://open.spotify.com/artist/7FHGKU22zhtwuitt18w8jN), [Thiago Aquino](https://open.spotify.com/artist/7yPoxj2lXWy7J4ixQHVubk) | [Como é que Termina Desse Jeito?](https://open.spotify.com/album/3dHvpqchGgFB6LMeza5GS6) | 3:12 |
 | 62 | [Fantasma da Saudade](https://open.spotify.com/track/6tZksJaqrbz40GzSax68X8) | [Yury Pressão](https://open.spotify.com/artist/5BZtJagimq2zY5TNXoQSKr) | [Fantasma da Saudade](https://open.spotify.com/album/4bbpzGt6VmuGy2khHjty3G) | 2:22 |
 | 63 | [Vai Maluca](https://open.spotify.com/track/43QWlvrknRQH5OGyNlBVIu) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [Vai Maluca](https://open.spotify.com/album/7l6C6iTQh2RsHLf3Axf8un) | 2:19 |

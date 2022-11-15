@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 82192,
+  "num_followers": 82285,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDQ2ZGM0NmE5MDA1NzU2ZThjZjVlYWJiZDFiZjQ3NDg3",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMGVlZjIwN2MxM2QyYjEzMWI2MWM4YTIyMjcwNTEyM2Fh",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -351,6 +351,26 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Juntos Otra Vez (with Juan Gabriel)",
+        "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "El Destino (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 229040,
       "name": "Caray",
       "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Juntos Otra Vez (with Juan Gabriel)",
-        "url": "https://open.spotify.com/album/3hHk7IdhmA0i7RcbFoVUny"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "El Destino (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/137as1w4u30ZTyLXn5HK69"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 323933,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 260026,
       "name": "El Amor Acaba",
       "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 323933,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Isi",
-      "url": "https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 192266,
       "name": "Que Sea Mi Condena",
       "url": "https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/7lmrAz5HtInzClDe8MXWw1"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Contigo en la Distancia (with Carlos Cuevas)",
+      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 217160,
       "name": "Almohada - Revisitado",
       "url": "https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Contigo en la Distancia (with Carlos Cuevas)",
-      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
     },
     {
       "added_at": "2021-12-29 23:33:57",

@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 516549,
+  "num_followers": 516807,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAxMzI1MCwwMDAwMDAwMDQyMTAyYzU5ZTgzZjcyOGExZDQ3YmI2OTE2ODliNDk5",
+  "snapshot_id": "MTY2ODAxMzI1MCwwMDAwMDAwMDAxY2U4M2I2YTBkOWQ2ODM3MjZhNTc2ODE1ZjM0YWE3",
   "tracks": [
     {
       "added_at": "2022-11-09 17:00:49",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -447,8 +447,8 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+        "name": "Curls",
+        "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
       },
       "artists": [
         {
@@ -456,25 +456,9 @@
           "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
-        "name": "Only For A Moment",
-        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -491,6 +475,22 @@
       "duration_ms": 252080,
       "name": "Permanent Way",
       "url": "https://open.spotify.com/track/4ewgXAEfRGjay6kmYSfbfW"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
         "name": "Oh the Agony, Oh the Ecstasy",
         "url": "https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 265410,
       "name": "August 10",
       "url": "https://open.spotify.com/track/4I59UjiR1vDGGdLmdvFoJO"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
-        "name": "Curls",
-        "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3NLm801woJocONz1NmPJZR"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Running in Circles",
-        "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
-      },
-      "artists": [
-        {
-          "name": "FIL BO RIVA",
-          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
-        }
-      ],
-      "duration_ms": 191358,
-      "name": "Running in Circles",
-      "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -939,6 +923,38 @@
       "duration_ms": 187120,
       "name": "Old Bone",
       "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
+        "name": "Blue Hours",
+        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
+        "name": "Running in Circles",
+        "url": "https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "duration_ms": 191358,
+      "name": "Running in Circles",
+      "url": "https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Blue Hours",
-        "url": "https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 171890,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 209493,
       "name": "Everyone's A Winner",
       "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 171890,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -1315,34 +1315,34 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
         }
       ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+      "duration_ms": 226165,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
     },
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
+        "name": "The Barrel",
+        "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
       },
       "artists": [
         {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 264045,
-      "name": "Spark",
-      "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
+      "duration_ms": 219510,
+      "name": "The Barrel - Edit",
+      "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -1367,34 +1367,18 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "The Barrel",
-        "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 219510,
-      "name": "The Barrel - Edit",
-      "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
-        "name": "Welcome To Kookoo Island",
-        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 226165,
-      "name": "Belo Horizonte",
-      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Love Is Everywhere (Beware)",
-        "url": "https://open.spotify.com/album/0xZgWQ2PZZnFK6T1Lr0OMv"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/4mhvs37yJYqOKs0c6Bunvk"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
         }
       ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy"
+      "duration_ms": 264045,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/6ccpBKLyviHQyhK4o4pbX0"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -1443,6 +1427,22 @@
       "duration_ms": 271593,
       "name": "Rio Grande",
       "url": "https://open.spotify.com/track/0dxauDDDoSPJqmKJlNRjPu"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
+        "name": "Love Is Everywhere (Beware)",
+        "url": "https://open.spotify.com/album/0xZgWQ2PZZnFK6T1Lr0OMv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/4hrJhMznNddR7UThDKHSJy"
     },
     {
       "added_at": "2022-11-09 17:00:49",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-09 17:00:49",
       "album": {
-        "name": "Bicycle Day",
-        "url": "https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH"
-      },
-      "artists": [
-        {
-          "name": "Markus Nikolaus",
-          "url": "https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Bicycle Day",
-      "url": "https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN"
-    },
-    {
-      "added_at": "2022-11-09 17:00:49",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 255970,
       "name": "Riverbank",
       "url": "https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg"
+    },
+    {
+      "added_at": "2022-11-09 17:00:49",
+      "album": {
+        "name": "Bicycle Day",
+        "url": "https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH"
+      },
+      "artists": [
+        {
+          "name": "Markus Nikolaus",
+          "url": "https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Bicycle Day",
+      "url": "https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN"
     },
     {
       "added_at": "2022-11-09 17:00:49",

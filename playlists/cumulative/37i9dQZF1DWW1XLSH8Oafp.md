@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring zorza
 
-452 songs - 1 day 2 hr 19 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+453 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Always Got The Love \- jamesjamesjames Remix](https://open.spotify.com/track/3Tfu5sRgNUEYeTzfKKKZmR) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Always Got The Love \(jamesjamesjames Remix\)](https://open.spotify.com/album/6w4OvArsQ2zozG168lmxOe) | 4:04 | 2022-09-30 |  |
 | [Ancient Downer](https://open.spotify.com/track/25pRvjSVlVm1iSJGdkHVuC) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Ancient Downer](https://open.spotify.com/album/50ahpSbDlD3zgy84B5z1LN) | 4:11 | 2022-04-08 | 2022-06-04 |
 | [ANGEL](https://open.spotify.com/track/6M00AA8X2EZR6xaLFKRdGA) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ANGEL](https://open.spotify.com/album/2PW5mn3I40LZWKhI1AKCgL) | 3:00 | 2022-10-21 |  |
-| [anna jetson \- DJ\_Dave Edit](https://open.spotify.com/track/6qPAi7Ozo4MpVdm9Q4KPF3) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Sunshine Factory \(Remixes\)](https://open.spotify.com/album/3itJjuakoKh9vUynd8N0Iv) | 3:00 | 2022-09-27 |  |
+| [anna jetson \- DJ\_Dave Edit](https://open.spotify.com/track/6qPAi7Ozo4MpVdm9Q4KPF3) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Sunshine Factory \(Remixes\)](https://open.spotify.com/album/3itJjuakoKh9vUynd8N0Iv) | 3:00 | 2022-09-27 | 2022-11-15 |
 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 | 2022-08-05 | 2022-10-15 |
 | [Arrowheads](https://open.spotify.com/track/2G8f1hZYyeXzrTQq9ZzAcQ) | [POSITIVE+](https://open.spotify.com/artist/4A9c47Lp1V2eX8879NNzYr) | [Arrowheads](https://open.spotify.com/album/4SS3rdPGwOVIAUr46Car5q) | 4:46 | 2022-07-11 | 2022-10-15 |
 | [As Ever](https://open.spotify.com/track/1qnbZ096P23wL4Gc4Z4XVp) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL) | [As Ever](https://open.spotify.com/album/0U8w9JKO9Ex1mNz2ZgrTJx) | 4:50 | 2022-05-27 | 2022-11-10 |
@@ -377,6 +377,7 @@
 | [silent cries](https://open.spotify.com/track/3XDiZoc7B2LP6dyYxgImxg) | [Tfwamirite](https://open.spotify.com/artist/2Z5jvAA3r5Sjn4CnlI1mT4) | [silent cries](https://open.spotify.com/album/7J7wBqtYxiYBqYJPiWgovo) | 2:56 | 2022-07-11 | 2022-10-22 |
 | [Skin \- DJ Kuroneko Remix](https://open.spotify.com/track/2qqwfWYuAvnIXJJlzEjWHN) | [AVA AKIRA](https://open.spotify.com/artist/1jg5LFnnLAIEbTc6rb9bgn), [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [Skin \(DJ Kuroneko Remix\)](https://open.spotify.com/album/0tJMHjqYVll9njDLhXptBr) | 4:54 | 2022-06-03 | 2022-07-16 |
 | [SKYMADE](https://open.spotify.com/track/50JcK5tZ2SwHUhQGW3aL0w) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl), [Nanode](https://open.spotify.com/artist/6iWz2UIQJ4lwLBOo6GK4zH) | [SKYMADE](https://open.spotify.com/album/7vgvhGXIYsVANa8YoBQk7w) | 4:02 | 2022-06-17 | 2022-07-23 |
+| [slipping through](https://open.spotify.com/track/3WjnzIoKOXzc6ACN6josm3) | [HolySMS](https://open.spotify.com/artist/1YZZ5nLWbRzX0wzOyV0Woe), [Phossa](https://open.spotify.com/artist/6AU0w0tbAckR0HR5PQ0GCa) | [slipping through](https://open.spotify.com/album/63CB1rmFQCIuyB6uBs06h2) | 3:41 | 2022-11-14 |  |
 | [snow](https://open.spotify.com/track/4lcRjGl7nZheu16dwc9vi1) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [snow](https://open.spotify.com/album/4Uqy5C6jOODfd4ia3vvPYt) | 2:02 | 2022-02-18 | 2022-08-27 |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2021-07-23 | 2022-04-16 |
 | [Solar](https://open.spotify.com/track/3oLuxFWxjCYggpX5MfLXCD) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Solar](https://open.spotify.com/album/0ihYO4WjTtY3i5PyOJPIL5) | 2:39 | 2022-07-08 | 2022-09-17 |

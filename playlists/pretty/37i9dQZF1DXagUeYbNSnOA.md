@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Estevie on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,654 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,669 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 25 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
 | 26 | [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 |
 | 27 | [Hace Tiempo](https://open.spotify.com/track/00bOusre2EknU7gtMdnrs2) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql) | [Hace Tiempo](https://open.spotify.com/album/2yevwO4S3gYsYf1OdZGOPC) | 2:29 |
-| 28 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
-| 29 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
+| 28 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
+| 29 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
 | 30 | [Mejor Que Antes](https://open.spotify.com/track/1DcDGVU97O7KJh57Gwzw67) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Mejor Que Antes](https://open.spotify.com/album/3vmuUl2F4KeU8hgJ3V9zuU) | 4:04 |
 | 31 | [Pajaritos](https://open.spotify.com/track/2FvrZtYr7tALXLRiBxaPfn) | [Pao Pestana](https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53) | [Pajaritos](https://open.spotify.com/album/4Ff50DSqdPxNg0KtnOspjm) | 4:03 |
 | 32 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 35 | [Esperanza verbena](https://open.spotify.com/track/5EkSCUTjc5JkOI6EtJ5gSt) | [Sofía Comas](https://open.spotify.com/artist/4W8QcZ9XWkdnFcMFVwL6Rb) | [Esperanza verbena](https://open.spotify.com/album/4SzOzuwAoK3fXfEiLGAGYs) | 4:15 |
 | 36 | [Mil Palabras](https://open.spotify.com/track/5VmQzCqiEd9JOtTvuI0rar) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Paso a Paso](https://open.spotify.com/album/36uCYKas4A1NhJ5RnP3zeb) | 4:03 |
 | 37 | [Bambi](https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT) | [Koi Pali](https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33) | [Bambi](https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG) | 3:10 |
-| 38 | [Dos](https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Dos](https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n) | 2:54 |
+| 38 | [Fighting Ghosts](https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Fighting Ghosts](https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1) | 3:13 |
 | 39 | [No Me Ves](https://open.spotify.com/track/2LyiWca1jIqGUD0GGro600) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [No Me Ves](https://open.spotify.com/album/6tStrz2JlKWcpcMSuc39gt) | 2:14 |
-| 40 | [Cuando Estemos Juntos](https://open.spotify.com/track/2ikii4lglZTRIKvBJDwUnq) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t), [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Cuando Estemos Juntos](https://open.spotify.com/album/2IhW85V6DWFSaz3NCEA4gz) | 3:03 |
-| 41 | [Fighting Ghosts](https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Fighting Ghosts](https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1) | 3:13 |
+| 40 | [Dos](https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Dos](https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n) | 2:54 |
+| 41 | [Cuando Estemos Juntos](https://open.spotify.com/track/2ikii4lglZTRIKvBJDwUnq) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t), [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Cuando Estemos Juntos](https://open.spotify.com/album/2IhW85V6DWFSaz3NCEA4gz) | 3:03 |
 | 42 | [Perico](https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Perico](https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca) | 3:24 |
 | 43 | [Duele](https://open.spotify.com/track/059RWrtCpHMSO7OF9gO38c) | [Paola Guanche](https://open.spotify.com/artist/2Ws9JynddUXQRogOTAml4G) | [Duele](https://open.spotify.com/album/2W6XLQgCLJbvIYxzIZrFuw) | 3:17 |
 | 44 | [Entre Dioses y Hombres](https://open.spotify.com/track/5t3X8GvRNmJswMbgqYf28v) | [Anna Zechini](https://open.spotify.com/artist/05ZopzejPjuBllmjBPWTKL) | [Entre Dioses y Hombres](https://open.spotify.com/album/4ogy8je9zEM76AP3ZLRAwC) | 3:33 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 52 | [Alegría](https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty) | [Matiu Colin](https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr) | [Alegría](https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f) | 2:22 |
 | 53 | [Sombras](https://open.spotify.com/track/01nlKVa79FmkgQ9oYTQzcC) | [Kids Are Fine](https://open.spotify.com/artist/61BZt7XBK4I6rBigflezos) | [Sombras](https://open.spotify.com/album/3dp6pcPCn6wJ08AyUuAy4F) | 3:26 |
 | 54 | [Es el Final Me Alejo](https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo) | [Hermanas](https://open.spotify.com/artist/6DhjvxaxmaX7X9WGAGnxSr), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Hermanas](https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54) | 3:21 |
-| 55 | [CHEKE\-CHEKE](https://open.spotify.com/track/3f7QZgD4hF83S97OOyqFx2) | [Nico Legon](https://open.spotify.com/artist/61Le1rJ93LGe5oLoe7sGRv), [Julián Barneix](https://open.spotify.com/artist/42MtpIBsOfvk3WbTcFKH4W) | [CHEKE\-CHEKE](https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt) | 4:21 |
-| 56 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
-| 57 | [1 AM: NEÓN](https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH) | [Gianluca Zanelatto](https://open.spotify.com/artist/6wT98woXz13q4FNcy1forN), [Uawa](https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF) | [1 AM: NEÓN](https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR) | 2:56 |
-| 58 | [Entretiempo](https://open.spotify.com/track/2zLmQmPcRX1OZzlDrNyBDR) | [Rosero](https://open.spotify.com/artist/5YhzMroM1y0BHeHqXGMIQu) | [Entretiempo](https://open.spotify.com/album/1b2Y6POFznPEn8svXszWNS) | 2:42 |
-| 59 | [Buen Augurio](https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu) | [Ciudad Mansa](https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2) | [Se Hizo De Noche](https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj) | 4:02 |
+| 55 | [1 AM: NEÓN](https://open.spotify.com/track/5JslaCIr6aVGnIHW0yOfmH) | [Gianluca Zanelatto](https://open.spotify.com/artist/6wT98woXz13q4FNcy1forN), [Uawa](https://open.spotify.com/artist/06z4MA08VK4YIZkAg4iTxF) | [1 AM: NEÓN](https://open.spotify.com/album/5EjGQwnfB6lran0Q9HloZR) | 2:56 |
+| 56 | [CHEKE\-CHEKE](https://open.spotify.com/track/3f7QZgD4hF83S97OOyqFx2) | [Nico Legon](https://open.spotify.com/artist/61Le1rJ93LGe5oLoe7sGRv), [Julián Barneix](https://open.spotify.com/artist/42MtpIBsOfvk3WbTcFKH4W) | [CHEKE\-CHEKE](https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt) | 4:21 |
+| 57 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
+| 58 | [Buen Augurio](https://open.spotify.com/track/6BKs1agUCxFpjTirNDt8zu) | [Ciudad Mansa](https://open.spotify.com/artist/095uXu0mnumMlq9upurkX2) | [Se Hizo De Noche](https://open.spotify.com/album/1rCFKnKPOhco2iSZ1qDWzj) | 4:02 |
+| 59 | [Entretiempo](https://open.spotify.com/track/2zLmQmPcRX1OZzlDrNyBDR) | [Rosero](https://open.spotify.com/artist/5YhzMroM1y0BHeHqXGMIQu) | [Entretiempo](https://open.spotify.com/album/1b2Y6POFznPEn8svXszWNS) | 2:42 |
 | 60 | [Ahogar el Ego](https://open.spotify.com/track/2IaGwPzgIYfwmdPlj7wdgv) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF), [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [Multitasking](https://open.spotify.com/album/1xtG3G7CvelpGjhESJrmuG) | 3:38 |
 
-Snapshot ID: `MTY2ODAzOTU5MywwMDAwMDAwMDRjNDczNDMxZjY1MTQ3YjViMDVlMTM0OGRjZmQxNWMw`
+Snapshot ID: `MTY2ODAzOTU5MywwMDAwMDAwMGM1MzNiZGY3YjY0Mjk0ZmNlYjNhMzY5ZGVmMGJkMTll`

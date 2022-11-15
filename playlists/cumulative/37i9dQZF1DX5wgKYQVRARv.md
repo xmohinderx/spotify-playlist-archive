@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-571 songs - 2 day 1 hr 32 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+572 songs - 2 day 1 hr 36 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Dignity](https://open.spotify.com/track/3cXEaRUuLYDT2hzqLwBJe8) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/0w9RrU2alZeQ1BJwpvpFtP) | 8:22 | 2022-06-24 | 2022-07-08 |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-01-07 |  |
 | [Dinner](https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Dinner](https://open.spotify.com/album/3pl00ZxrKeLIog0Qi8Tm4R) | 4:28 | 2022-05-20 |  |
+| [Disarray](https://open.spotify.com/track/4FhQi9oReeewRdU399Rod3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Neon](https://open.spotify.com/album/2fMZGcHeAcIakWa1uJrULA) | 3:50 | 2022-10-28 |  |
 | [Disciples of the Sun](https://open.spotify.com/track/76KGTHiM04kL0TCowKsGUU) | [Pyramaze](https://open.spotify.com/artist/23jSIm8VfKV2HaQJtfR3PK) | [Disciples of the Sun](https://open.spotify.com/album/5PKrNohOZEdJMSo1FxrTN3) | 3:54 | 2021-12-17 | 2022-01-27 |
 | [Disgrace](https://open.spotify.com/track/5rYSTcp3bc4cunk15qleUQ) | [Upside Crown](https://open.spotify.com/artist/176Ebqa5dZtMZFHldPC8Pe) | [On The Verge Of Oblivion](https://open.spotify.com/album/7wyMsiHIYjgzhrNdlW9G5f) | 3:48 | 2021-12-17 | 2022-01-26 |
 | [Disillusion](https://open.spotify.com/track/01rMNJUjSfJAGig3hXDiIz) | [Loch Vostok](https://open.spotify.com/artist/016GvkOAZuk3P4nMiJ2sX8) | [Disillusion](https://open.spotify.com/album/3dZG3iBI1wB2KlnZjbrvyT) | 4:42 | 2021-12-17 | 2022-07-27 |
@@ -385,7 +386,7 @@
 | [Reptile](https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Reptile](https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4) | 3:44 | 2022-07-13 |  |
 | [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 | 2022-07-13 |  |
 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 |  |
-| [Right In Front of Me](https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [Demeter](https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp) | 3:32 | 2022-06-10 |  |
+| [Right In Front of Me](https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [Demeter](https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp) | 3:32 | 2022-06-10 | 2022-11-15 |
 | [Risset](https://open.spotify.com/track/00fqV46YpTk3w4qrwoBFlf) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [Risset](https://open.spotify.com/album/5qcFZTlyZlKLo1yHrUDgZ9) | 4:49 | 2021-12-17 | 2022-09-03 |
 | [Roundabout](https://open.spotify.com/track/2dDlRT8gT5jCBm5m5qkneI) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Roundabout](https://open.spotify.com/album/7LNKPAcxvswG7jpbH4gkf6) | 8:20 | 2021-12-17 | 2022-09-03 |
 | [Ruins](https://open.spotify.com/track/4l0XPiZ6qbL8ebo8V12oSe) | [Daniel Tompkins](https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt) | [Ruins](https://open.spotify.com/album/7osqubpJYaGwZSSLv2xOpY) | 5:29 | 2021-12-17 | 2022-07-29 |

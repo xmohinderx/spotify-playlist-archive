@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 216000,
       "name": "Always Something",
       "url": "https://open.spotify.com/track/3f0OOLWLpdeDUp3vxv6GEj"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 460800,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
@@ -846,6 +846,24 @@
     },
     {
       "album": {
+        "name": "Circle of Life",
+        "url": "https://open.spotify.com/album/5lUuBsteQKFCLKeHNnZhwe"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483902,
+      "name": "Circle of Life",
+      "url": "https://open.spotify.com/track/2ckwGlnXK4PZ8mo7JYkJ5L"
+    },
+    {
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/77RSDxlKlExpQzlphu88eC"
       },
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 630336,
       "name": "Dig Deep",
       "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
@@ -1720,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "Feelin' / Don't Lose Control",
+        "url": "https://open.spotify.com/album/2lauqd4ZtaiPpgo45tpcQE"
+      },
+      "artists": [
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226352,
+      "name": "Feelin\u2019",
+      "url": "https://open.spotify.com/track/3u7ViRI0Yl94qqln4SH4SG"
+    },
+    {
+      "album": {
         "name": "Feels Good",
         "url": "https://open.spotify.com/album/0nDWkPeHxo5aW66dbNm1PF"
       },
@@ -1735,7 +1771,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 281891,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt"
@@ -2259,7 +2295,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 392000,
       "name": "I Care For You",
       "url": "https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt"
@@ -3936,6 +3972,24 @@
     },
     {
       "album": {
+        "name": "Phanta",
+        "url": "https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1"
+      },
+      "artists": [
+        {
+          "name": "Dejago",
+          "url": "https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416956,
+      "name": "Phanta",
+      "url": "https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr"
+    },
+    {
+      "album": {
         "name": "Pink Jellyfish",
         "url": "https://open.spotify.com/album/0YhElCaOTPeBA54vkOWGcN"
       },
@@ -4310,6 +4364,28 @@
     },
     {
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238874,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj"
+    },
+    {
+      "album": {
         "name": "Running up That Hill",
         "url": "https://open.spotify.com/album/7fKT7JDZJvg0LhaXp9Tltw"
       },
@@ -4557,7 +4633,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 271274,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO"
@@ -4623,6 +4699,24 @@
       "duration_ms": 388000,
       "name": "Smoke - Nicon\u00e9 Remix",
       "url": "https://open.spotify.com/track/71Kq43qAOHuA5Nv8FSpyqX"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "album": {
@@ -4840,6 +4934,28 @@
     },
     {
       "album": {
+        "name": "Future Memories",
+        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383250,
+      "name": "Teleport - Future Mix",
+      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
+    },
+    {
+      "album": {
         "name": "Temperament of the Beat",
         "url": "https://open.spotify.com/album/6dSMmjwuLDTbGrbOJHXysy"
       },
@@ -4953,6 +5069,28 @@
       "duration_ms": 296360,
       "name": "These Things Will Come To Be",
       "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
+    },
+    {
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
+      },
+      "artists": [
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155720,
+      "name": "Through The Night - Radio Edit",
+      "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
     },
     {
       "album": {
@@ -5165,7 +5303,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 280644,
       "name": "Under The Scars",
       "url": "https://open.spotify.com/track/004j8Rc7iHvxgrlsHs1qKG"

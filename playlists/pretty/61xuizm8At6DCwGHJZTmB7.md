@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,853 likes - 111 songs - 10 hr 48 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,866 likes - 111 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 110 | [Bigger Than Impossible \- Live](https://open.spotify.com/track/5kc5L0PpCJRbEoPUves8F1) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Bigger Than Impossible \(Live\)](https://open.spotify.com/album/507PuVlEp6f9nbGBXuEjwc) | 5:22 |
 | 111 | [Keep In Step \- Live](https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Keep In Step \(Live\)](https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24) | 4:03 |
 
-Snapshot ID: `NjcyNCxkNTMxNjQwYWVmZWZmYTU2YjlhMTYzNWVlOTFjNzliN2VmZmRkMmEz`
+Snapshot ID: `NjcyNixlYjE4Y2IyMDViMWZhOGU2OTJmYTEyNjYyMWNmZGYxNmQyODZjOGRl`

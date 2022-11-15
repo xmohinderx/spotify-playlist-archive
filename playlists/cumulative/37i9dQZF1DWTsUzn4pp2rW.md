@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-228 songs - 14 hr 40 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+229 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Something to Celebrate](https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro) | [Kristin Korb](https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN) | [Something to Celebrate](https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD) | 3:02 | 2021-11-19 | 2022-10-08 |
 | [Song Like Ours](https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU) | [Jazzy D](https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR), [Angela Gooden](https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm) | [Song Like Ours](https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q) | 4:58 | 2021-11-19 |  |
 | [Sorry](https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn), [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87) | [Sorry](https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p) | 4:09 | 2021-11-19 |  |
-| [Spaceman](https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 2:33 | 2021-11-19 |  |
+| [Spaceman](https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 2:33 | 2021-11-19 | 2022-11-15 |
 | [Steer Your Way \(feat\. Norah Jones\)](https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Steer Your Way](https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm) | 4:48 | 2022-09-09 |  |
 | [Still Trying](https://open.spotify.com/track/6BJE98pz7MsjxuwmKyjn3d) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Still Trying](https://open.spotify.com/album/1AGqSa9MinrnC9VVhSVcBJ) | 3:49 | 2021-11-19 | 2022-07-29 |
 | [Still Trying](https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb), [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Trying Times](https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti) | 3:49 | 2022-08-11 | 2022-11-13 |
@@ -216,6 +216,7 @@
 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 | 2021-11-19 | 2022-10-27 |
 | [The Very Thought of You](https://open.spotify.com/track/2VCVI7kOR2LnRB4I3urO1i) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [The Very Thought of You](https://open.spotify.com/album/4DqgZIfkIxAxOkERNB1Fuh) | 4:43 | 2021-11-19 | 2022-07-29 |
 | [The Very Thought Of You](https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM) | 4:43 | 2022-07-14 | 2022-10-08 |
+| [There is a place](https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E) | 4:07 | 2022-11-09 |  |
 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 | 2021-11-19 | 2022-11-02 |
 | [They Can’t Take That Away From Me](https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 2:04 | 2021-11-19 |  |
 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:44 | 2021-11-19 |  |

@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-223 songs - 12 hr 21 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
+224 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/4IaW87U8saVqpYKumxtPZo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [God Rest Ye Merry Gentlemen / We Three Kings](https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Barenaked For The Holidays](https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX) | 3:26 | 2021-12-24 |  |
 | [Good King Wenceslas](https://open.spotify.com/track/3pw8zpeohwko3l6RojpeKp) | [Skydiggers](https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb) | [Angels](https://open.spotify.com/album/4iffxTsB6gVyLrDO499z76) | 3:53 | 2021-12-24 | 2022-07-29 |
 | [Good King Wenceslas](https://open.spotify.com/track/67coyu2OnSVJNENhFHLinC) | [Skydiggers](https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb) | [Angels](https://open.spotify.com/album/4eEnHnlWUNeUd6N387IEjn) | 3:53 | 2021-12-24 | 2022-10-30 |
+| [Green Christmas \- Live From The Christmas Special / 2020](https://open.spotify.com/track/10mHaiscbrJhpsTVtJo4e9) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Barenaked For The Holidays \(Deluxe Edition\)](https://open.spotify.com/album/7g6V1Ue3CIrJ6ehtNz8v9b) | 2:43 | 2022-11-15 |  |
 | [Guiding Star](https://open.spotify.com/track/05yxE7z2TEekUP8fZLgzgz) | [Lesley Pike](https://open.spotify.com/artist/16DqobWMJy4MbPqQQYccie), [Daniel Steer](https://open.spotify.com/artist/2dRyEfUptsn5yjJLQTFhTI) | [Guiding Star](https://open.spotify.com/album/4T02BP8QiT0BglnETBQTPq) | 4:18 | 2021-12-24 | 2022-07-27 |
 | [Hangover For Christmas](https://open.spotify.com/track/5PibhDx6l13d6e2kiKOcfW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Hangover For Christmas](https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC) | 3:00 | 2021-12-24 |  |
 | [Happy Holiday](https://open.spotify.com/track/5kuhQjY80oIsygVaOdHV4z) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Old School Yule!](https://open.spotify.com/album/470tIaLwsoJxEczDC7tBQ6) | 3:21 | 2021-12-24 | 2022-07-29 |
@@ -119,7 +120,7 @@
 | [Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing \- Medley / Alternate Version](https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Jingle All The Way \(Alternate Version\)](https://open.spotify.com/album/04IO52eF1aSGDjk6H375SY) | 2:52 | 2021-12-24 | 2022-11-13 |
 | [Jingle Bell Rock](https://open.spotify.com/track/1D7hNc5MALLU7RyjJ1j7NH) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [Jingle Bell Rock](https://open.spotify.com/album/6aopXHhakGmlAGxMB5lmXw) | 2:04 | 2021-12-24 | 2022-07-29 |
 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/796k6Hy4NnPq2TSBieDIwH) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Jolly Old Saint Nicholas](https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq) | 2:11 | 2021-12-24 |  |
-| [Just Like A Shooting Star](https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf) | [Dani and Lizzy](https://open.spotify.com/artist/5QruqADxUmpzY0bT56039j) | [Just Like A Shooting Star](https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk) | 3:14 | 2021-12-24 |  |
+| [Just Like A Shooting Star](https://open.spotify.com/track/1jYDMBqaHAoIRTQ9vv2scf) | [Dani and Lizzy](https://open.spotify.com/artist/5QruqADxUmpzY0bT56039j) | [Just Like A Shooting Star](https://open.spotify.com/album/37GUrisnZNJPmJIEFH6ZMk) | 3:14 | 2021-12-24 | 2022-11-15 |
 | [Just Like Christmas](https://open.spotify.com/track/2gwTSk4cypsnt1nckURmDM) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Just Like Christmas](https://open.spotify.com/album/6nAO8njLZoV7rKfun9I3mI) | 3:00 | 2021-12-24 | 2022-08-07 |
 | [Kissin' In The Cold](https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kissin' In The Cold](https://open.spotify.com/album/1HsifiywuteSStUutGfkpO) | 3:44 | 2021-12-24 |  |
 | [Last Christmas](https://open.spotify.com/track/4BZOnedVMFKnUQ8JEnYjuS) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Last Christmas](https://open.spotify.com/album/6cCptvS7E0y8J5QGq6WJQJ) | 2:56 | 2021-12-24 |  |

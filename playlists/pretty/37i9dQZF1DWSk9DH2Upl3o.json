@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 9570,
+  "num_followers": 9609,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDgwMDIxMDE3Y2JjZjAzZDdmZGY3MzkxYTc1NDM0YTJm",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDVhOThjZmEyYjQ5OTBmNzJkMzNiZGFkZDc2ZGY0OTI3",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Just a Little",
+        "url": "https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7"
+      },
+      "artists": [
+        {
+          "name": "SunSquabi",
+          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+        }
+      ],
+      "duration_ms": 370666,
+      "name": "Just A Little",
+      "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Joyfell",
         "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 565240,
       "name": "Saturday's Children (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Just a Little",
-        "url": "https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7"
-      },
-      "artists": [
-        {
-          "name": "SunSquabi",
-          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
-        }
-      ],
-      "duration_ms": 370666,
-      "name": "Just A Little",
-      "url": "https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "The Arcade",
@@ -347,6 +331,22 @@
       "duration_ms": 193101,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Casino Cabaret",
-        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 448385,
-      "name": "Mr. Scientist",
-      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Not Just a Word",
@@ -563,6 +547,38 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Casino Cabaret",
+        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
+      },
+      "artists": [
+        {
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+        }
+      ],
+      "duration_ms": 448385,
+      "name": "Mr. Scientist",
+      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 339120,
+      "name": "Opelika Yella",
+      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Collisions",
         "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
       },
@@ -593,22 +609,6 @@
       "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 339120,
-      "name": "Opelika Yella",
-      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "River Drift",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Trouble Overnight",
-        "url": "https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle"
-      },
-      "artists": [
-        {
-          "name": "Zach Nugent",
-          "url": "https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn"
-        }
-      ],
-      "duration_ms": 408773,
-      "name": "Trouble Overnight",
-      "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Tracking Buffalo Through the Bathtub",
@@ -655,6 +639,22 @@
       "duration_ms": 532666,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
+    },
+    {
+      "added_at": "2022-09-16 04:01:00",
+      "album": {
+        "name": "Trouble Overnight",
+        "url": "https://open.spotify.com/album/38F1jSais8Vxq0qpKiQQle"
+      },
+      "artists": [
+        {
+          "name": "Zach Nugent",
+          "url": "https://open.spotify.com/artist/3h9hfCvOqWdPszABGZmPUn"
+        }
+      ],
+      "duration_ms": 408773,
+      "name": "Trouble Overnight",
+      "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Extraction",
-        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
-      },
-      "artists": [
-        {
-          "name": "Cytrus",
-          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
-        }
-      ],
-      "duration_ms": 247206,
-      "name": "When Ya Hustle",
-      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Dopapod",
@@ -719,6 +703,22 @@
       "duration_ms": 304826,
       "name": "Nuff",
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Extraction",
+        "url": "https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA"
+      },
+      "artists": [
+        {
+          "name": "Cytrus",
+          "url": "https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q"
+        }
+      ],
+      "duration_ms": 247206,
+      "name": "When Ya Hustle",
+      "url": "https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
     },
     {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Off Leash",
-        "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 462830,
-      "name": "Off Leash",
-      "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
-    },
-    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Adult Entertainment",
@@ -803,6 +787,22 @@
       "duration_ms": 207150,
       "name": "Cottonmouth",
       "url": "https://open.spotify.com/track/05ai1Lup5CO5qLFuytjHVX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Off Leash",
+        "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
+      },
+      "artists": [
+        {
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+        }
+      ],
+      "duration_ms": 462830,
+      "name": "Off Leash",
+      "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
     },
     {
       "added_at": "2022-08-26 04:01:00",

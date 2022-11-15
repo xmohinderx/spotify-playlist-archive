@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 57594,
+  "num_followers": 57719,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2Mjk1NSwwMDAwMDAwMGQ2NDFlNjUzZGJiMDE4MjQ4NWEwYWRjY2NmYjhjNjBl",
+  "snapshot_id": "MTY2NTc2Mjk1NSwwMDAwMDAwMDhmZGJhODYyYmMyNTQ2MjYzN2RkODJhMzYyZTdkMDYx",
   "tracks": [
     {
       "added_at": "2022-10-14 15:55:55",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -291,22 +307,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 464040,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "Roll Away (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -355,22 +371,6 @@
       "duration_ms": 313253,
       "name": "Struggle for Grace",
       "url": "https://open.spotify.com/track/4HmUiFK5bCcKR188c63FIJ"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Someday You'll Have These Blues",
-        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
-      },
-      "artists": [
-        {
-          "name": "Phillip Walker",
-          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Beaumont Blues",
-      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "As Good As It Gets",
         "url": "https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "Someday You'll Have These Blues",
+        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Phillip Walker",
+          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Black Angel Blues",
-      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
+      "duration_ms": 247040,
+      "name": "Beaumont Blues",
+      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -667,6 +651,22 @@
       "duration_ms": 268800,
       "name": "Personal Manager",
       "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Black Angel Blues",
+      "url": "https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD"
     },
     {
       "added_at": "2022-10-14 15:55:55",

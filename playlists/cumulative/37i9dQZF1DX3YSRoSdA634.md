@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-467 songs - 1 day 4 hr 56 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
+468 songs - 1 day 4 hr 59 min - [published](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-08 |  |
 | [Autumn Leaves \- Deluxe Edition](https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:20 | 2021-12-15 |  |
 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 | 2022-04-25 |  |
-| [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2022-01-05 | 2022-11-14 |
+| [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2022-01-05 |  |
 | [Be Okay](https://open.spotify.com/track/1kJ9iysFb93KSeorhV109C) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Be Okay](https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19) | 2:45 | 2022-06-24 | 2022-07-29 |
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2021-12-15 | 2022-07-29 |
 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 | 2021-12-15 |  |
@@ -265,7 +265,7 @@
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-08-05 |  |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2022-08-05 |  |
 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 | 2022-04-14 |  |
-| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2021-12-15 |  |
+| [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2021-12-15 | 2022-11-15 |
 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/7JiIzxFCvrHYxVM1A8stBV) | 3:41 | 2021-12-15 | 2022-07-29 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-08 | 2022-07-29 |
 | [Miss You More](https://open.spotify.com/track/7BZSIG9TyowrVzSdZJpmeI) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:54 | 2021-12-15 | 2022-07-29 |
@@ -278,6 +278,7 @@
 | [Need Somebody \(Acoustic\)](https://open.spotify.com/track/2TukzxmwVW0JkiI8isgUXd) | [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Need Somebody \(Acoustic\)](https://open.spotify.com/album/6nkLk6EeG15an3kbLOJ86x) | 3:12 | 2021-12-15 | 2022-07-29 |
 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 | 2022-07-01 |  |
 | [Need You Now](https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now \(Remix\)](https://open.spotify.com/album/5nzSVa3uk2ctc4ELkld7mj) | 3:56 | 2021-12-15 | 2022-05-13 |
+| [Nerve](https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nerve](https://open.spotify.com/album/0puJioCWJCRTm95h2DmOSl) | 2:58 | 2022-11-14 |  |
 | [Never Be Alone](https://open.spotify.com/track/4LWIp8HAFxpfg37mnxHqCS) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:35 | 2022-07-01 |  |
 | [Never Be Alone](https://open.spotify.com/track/4k5FaS9QHmeJNu7kDNkLnO) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/7BDdBEmGXbKki40g1r4za7) | 3:35 | 2021-12-15 | 2022-07-29 |
 | [Next To Me](https://open.spotify.com/track/2LaCyasH2uVsTPrO3bgLEK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/2iU0cUGlqNhNAPqoY54fMC) | 3:50 | 2022-02-07 | 2022-04-18 |
@@ -452,7 +453,7 @@
 | [Who Are You](https://open.spotify.com/track/5EKm2REw8HdwoadlQKffFJ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii \(Side A\)](https://open.spotify.com/album/5sQIWaXZXAgrpbyMKYKsTp) | 3:04 | 2021-12-15 | 2022-07-26 |
 | [Who We Are](https://open.spotify.com/track/6XCPQygbj33s7OUxlbo6bX) | [Tristan Prettyman](https://open.spotify.com/artist/49RRjdOtssOA73G9NnVeUM) | [Back to Home](https://open.spotify.com/album/6WI8PZgFya82QRcFkvoCc4) | 4:19 | 2022-02-07 | 2022-04-21 |
 | [Why](https://open.spotify.com/track/6z9VXT3rQMzY6zQaQAts2t) | [Skinny Living](https://open.spotify.com/artist/405DvLr0FOuOWYgCt0emff) | [Why](https://open.spotify.com/album/4dduT0AlgUOKKCwKqtzsE1) | 2:54 | 2021-12-15 | 2022-04-19 |
-| [Why Don't You Love Me \(feat\. Demi Lovato\)](https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:31 | 2021-12-15 |  |
+| [Why Don't You Love Me \(feat\. Demi Lovato\)](https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Whatever](https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN) | 3:31 | 2021-12-15 | 2022-11-15 |
 | [Wild Enough](https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Wild Enough](https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4) | 3:06 | 2021-12-15 | 2022-11-13 |
 | [Wild Hearts Can't Be Broken](https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:21 | 2022-02-07 | 2022-04-21 |
 | [Wildfire \- Alternate Version](https://open.spotify.com/track/1afyMOxQCyfxUOSrCkStsy) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [In My Body](https://open.spotify.com/album/1xntJyNQRAflZzEY1QRjLg) | 3:53 | 2021-12-15 | 2022-04-26 |

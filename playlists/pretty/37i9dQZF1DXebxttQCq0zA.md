@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,181 likes - 164 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,648 likes - 164 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 8 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 |
 | 9 | [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 |
 | 10 | [Southward Bound \(432 Hz\)](https://open.spotify.com/track/4kVJriKGhf4s47EnbfIloH) | [Halcyon Wings](https://open.spotify.com/artist/1bMx6u2wXC3Ox3Cld6zyGQ) | [Southward Bound](https://open.spotify.com/album/3i5u5gnGKkgEH6eiqMcYjr) | 2:34 |
-| 11 | [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 |
-| 12 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 |
-| 13 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
-| 14 | [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 |
-| 15 | [A Tu Lado](https://open.spotify.com/track/2774iv7rt5UytxvyYe4z4O) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [A Tu Lado](https://open.spotify.com/album/3rxGCfwUAdQuABxVVYmY3k) | 3:17 |
-| 16 | [After All Was Said](https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg) | [Leander Vaughn](https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl) | [After All Was Said](https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS) | 3:26 |
-| 17 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 |
-| 18 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 |
-| 19 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 |
+| 11 | [Peaceful Dreams](https://open.spotify.com/track/4dXeSoH8k8iq8uQz2ZZZSK) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [The Far Distance](https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks) | 3:27 |
+| 12 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
+| 13 | [Mint Green 528 Hz](https://open.spotify.com/track/7CoNMmP4XciExedSMAQkM4) | [Lo Amber](https://open.spotify.com/artist/6KHAX77UjY8HXrbGJjZNtI) | [Mint Green 528 Hz](https://open.spotify.com/album/7eWrcerVgh2dHudoXMJvzn) | 2:14 |
+| 14 | [A Tu Lado](https://open.spotify.com/track/2774iv7rt5UytxvyYe4z4O) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [A Tu Lado](https://open.spotify.com/album/3rxGCfwUAdQuABxVVYmY3k) | 3:17 |
+| 15 | [After All Was Said](https://open.spotify.com/track/0tgcnoBZDZWnZVqY6gWzDg) | [Leander Vaughn](https://open.spotify.com/artist/6VZhEArsID7ayvhvG7DRGl) | [After All Was Said](https://open.spotify.com/album/4XcoP0aDaP9DtFHNr3OypS) | 3:26 |
+| 16 | [Anachronic](https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Anachronic](https://open.spotify.com/album/4xvH0fR97sPN1K2NXajyLB) | 2:48 |
+| 17 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 |
+| 18 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 |
+| 19 | [Midnight Relief](https://open.spotify.com/track/3lzrmp1ug1AEu5KQ3AkzO6) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Midnight Relief](https://open.spotify.com/album/5S9SpAQQFbgO5edXpXYd8A) | 3:06 |
 | 20 | [A Neutral Place](https://open.spotify.com/track/6Db6Cz42MGCRkM28KHivIy) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [A Neutral Place](https://open.spotify.com/album/5gQ1Y7dwVAIWwTwjzZNZho) | 2:49 |
 | 21 | [A Warm Welcoming 432 Hz](https://open.spotify.com/track/7k3AUCixyOTdwGCc5u0JKN) | [Joni Ende](https://open.spotify.com/artist/1Ufx5KF5HaWoZD6stEKlD4) | [Pearls](https://open.spotify.com/album/3cWfXIIpbZe37wFkG671iP) | 2:48 |
 | 22 | [Timelapses](https://open.spotify.com/track/3M0p85lGZSAirN47876OKc) | [Evelyn Ferrera](https://open.spotify.com/artist/3lWlO9shOnzBgTxgHj3ani) | [Timelapses](https://open.spotify.com/album/6uP3uuCmDm2dd7ZQHNh0uW) | 2:35 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 163 | [Newborn Soul](https://open.spotify.com/track/61I4iLWIWmmx7knqM6f5HL) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:36 |
 | 164 | [Atmosphere](https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:07 |
 
-Snapshot ID: `MTY2ODE3MDQ5OCwwMDAwMDAwMDU4N2M4N2IxOGQwNDljYjk2NzU5YjhjNDQxY2UyZmFk`
+Snapshot ID: `MTY2ODQ0ODg5NiwwMDAwMDAwMDYyMWEzZTA2MGYyNTVhMDZhZjFmYmFlNzZiNDE1NGM5`

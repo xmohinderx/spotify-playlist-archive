@@ -1526,6 +1526,32 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3UqR621qSR4DX3paMUJozM"
+      },
+      "artists": [
+        {
+          "name": "Prismode",
+          "url": "https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH"
+        },
+        {
+          "name": "Solvane",
+          "url": "https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0"
+        },
+        {
+          "name": "Max Joni",
+          "url": "https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245691,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6wWMiWDSwoI8hIVcI0D9S5"
+    },
+    {
+      "album": {
         "name": "Cheat Codes",
         "url": "https://open.spotify.com/album/5MmxsbxHmB0rRsxNW33F13"
       },
@@ -1813,7 +1839,7 @@
           "url": "https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 215040,
@@ -2081,7 +2107,7 @@
           "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 478080,
@@ -4171,7 +4197,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 437647,
       "name": "Home - Mind Against Remix",
       "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
@@ -4439,7 +4465,7 @@
           "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184032,
@@ -4517,7 +4543,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
@@ -4973,7 +4999,7 @@
           "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 255466,
@@ -6878,6 +6904,28 @@
     },
     {
       "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/1esfKP16AKHgk6P5fDuXQX"
+      },
+      "artists": [
+        {
+          "name": "Maksim Dark",
+          "url": "https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu"
+        },
+        {
+          "name": "Arturo (RU)",
+          "url": "https://open.spotify.com/artist/5Mci17S1El2pO6fvVaZ2Fd"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432000,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/3Ri7CVRYHurCnvubOZKZRA"
+    },
+    {
+      "album": {
         "name": "Paji",
         "url": "https://open.spotify.com/album/2Oq4q9VX9Cq0vseM7vtRHj"
       },
@@ -7317,7 +7365,7 @@
           "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 364810,
@@ -8523,7 +8571,7 @@
           "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 206106,
@@ -8649,6 +8697,24 @@
       "duration_ms": 211200,
       "name": "Spicy (feat. Ginger) - Edit",
       "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
+    },
+    {
+      "album": {
+        "name": "Spiral (Edit)",
+        "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221577,
+      "name": "Spiral - Edit",
+      "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
     },
     {
       "album": {
@@ -10731,7 +10797,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-15",
       "duration_ms": 237500,
       "name": "When We Meet Again - Edit",
       "url": "https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X"

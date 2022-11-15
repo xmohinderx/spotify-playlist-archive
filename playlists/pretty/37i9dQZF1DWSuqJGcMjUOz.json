@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDkxOTEwYzc1NzM4NGRkOTg4ZTQ0NGEzMDNhY2EwNTM4",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGJiMDQ1MzU5YWE5MTU5MDM3OGI1YjY0MThhYWY2YTAw",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Encore + pour de vrai",
-        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
-      },
-      "artists": [
-        {
-          "name": "Ichon",
-          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "+ La vie",
-      "url": "https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Encore + pour de vrai",
+        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
+      },
+      "artists": [
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "+ La vie",
+      "url": "https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "COUCOU",
-        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
-      },
-      "artists": [
-        {
-          "name": "Mathieu B\u00e9rub\u00e9",
-          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
-        }
-      ],
-      "duration_ms": 238060,
-      "name": "JOS\u00c9PHINE",
-      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 229560,
       "name": "Les amants de Pomp\u00e9i",
       "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "COUCOU",
+        "url": "https://open.spotify.com/album/6X6qIf2hf4Vc0ocCTnmCwe"
+      },
+      "artists": [
+        {
+          "name": "Mathieu B\u00e9rub\u00e9",
+          "url": "https://open.spotify.com/artist/6lfzvgfMymMyANi1Y2HF4S"
+        }
+      ],
+      "duration_ms": 238060,
+      "name": "JOS\u00c9PHINE",
+      "url": "https://open.spotify.com/track/7pO4njBJfhBX5ASbLQJMAg"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Sans tomber",
-        "url": "https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH"
-      },
-      "artists": [
-        {
-          "name": "Melissa Ouimet",
-          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
-        }
-      ],
-      "duration_ms": 129119,
-      "name": "Sans tomber",
-      "url": "https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 281131,
       "name": "Ton vieux nom",
       "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Sans tomber",
+        "url": "https://open.spotify.com/album/5FG0BYcqY6AVU2FyRH7xkH"
+      },
+      "artists": [
+        {
+          "name": "Melissa Ouimet",
+          "url": "https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth"
+        }
+      ],
+      "duration_ms": 129119,
+      "name": "Sans tomber",
+      "url": "https://open.spotify.com/track/1x5FMvzOMCa01427pWXwdK"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Citoyen d'Am\u00e9rique",
-        "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
-      },
-      "artists": [
-        {
-          "name": "Jacques Michel",
-          "url": "https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Am\u00e8ne-toi chez nous",
-      "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "L'heure mauve",
         "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 225480,
       "name": "Si je pleure",
       "url": "https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Citoyen d'Am\u00e9rique",
+        "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
+      },
+      "artists": [
+        {
+          "name": "Jacques Michel",
+          "url": "https://open.spotify.com/artist/7MBV7HWVAY9naGIoBnJTAv"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Am\u00e8ne-toi chez nous",
+      "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "L\u00e9g\u00e8rement",
-        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
-      },
-      "artists": [
-        {
-          "name": "Rosier",
-          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
-        }
-      ],
-      "duration_ms": 207338,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "SITKA",
         "url": "https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 155626,
       "name": "La grande \u00e9vasion",
       "url": "https://open.spotify.com/track/2aA0QjPKz8BDUHx2JTUVjp"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
+      },
+      "artists": [
+        {
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
+        }
+      ],
+      "duration_ms": 207338,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Je me souviens",
-        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
-      },
-      "artists": [
-        {
-          "name": "Samian",
-          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
-        }
-      ],
-      "duration_ms": 189027,
-      "name": "Je me souviens",
-      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "All\u00f4 Fant\u00f4me",
         "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Je me souviens",
+        "url": "https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso"
+      },
+      "artists": [
+        {
+          "name": "Samian",
+          "url": "https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6"
+        }
+      ],
+      "duration_ms": 189027,
+      "name": "Je me souviens",
+      "url": "https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s"
     },
     {
       "added_at": "2022-05-25 18:00:00",
