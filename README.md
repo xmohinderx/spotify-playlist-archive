@@ -626,6 +626,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Best Indie Songs of the 2010s](/playlists/pretty/37i9dQZF1DWTHM4kX49UKs.md)
 - [Best Jazz Songs of 2021](/playlists/pretty/37i9dQZF1DX5LYxFep0J7E.md)
 - [Best Mellow Pop of 2021](/playlists/pretty/37i9dQZF1DXaASLfu4mBQT.md)
+- [Best New Songs Right Now](/playlists/pretty/74glIVP7azlpKA77RCgyDL.md)
 - [Best Podcasts of the Month](/playlists/pretty/37i9dQZF1DXdlkPQJ1PlTQ.md)
 - [Best R&B Songs of 2021 Canada](/playlists/pretty/37i9dQZF1DWZbHJkHSDOTR.md)
 - [Best Tracks from Tarantino Films](/playlists/pretty/37i9dQZF1DX3b9hbbPi5hD.md)
