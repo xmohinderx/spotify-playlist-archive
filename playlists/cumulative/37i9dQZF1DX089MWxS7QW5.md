@@ -2,7 +2,7 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: meenoi\(미노이\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: merrymerryseoul\(메리메리서울\)\)
 
 132 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 

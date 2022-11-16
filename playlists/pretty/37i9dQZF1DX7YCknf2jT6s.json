@@ -1,6 +1,6 @@
 {
   "description": "New jazz for open minds. Cover: \nMarcus Strickland",
-  "num_followers": 849707,
+  "num_followers": 850001,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
@@ -256,16 +256,16 @@
       },
       "artists": [
         {
+          "name": "Nice Chair",
+          "url": "https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6"
+        },
+        {
           "name": "Claus Waidtl\u00f8w",
           "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
         },
         {
           "name": "Kaspar Vadsholt",
           "url": "https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ"
-        },
-        {
-          "name": "Nice Chair",
-          "url": "https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6"
         }
       ],
       "duration_ms": 425850,
@@ -312,12 +312,12 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
-        },
-        {
           "name": "Rocco Palladino",
           "url": "https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
       "duration_ms": 245853,

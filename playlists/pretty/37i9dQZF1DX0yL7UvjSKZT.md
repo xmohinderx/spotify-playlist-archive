@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Violet Bell
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,975 likes - 132 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,998 likes - 132 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 26 | [He Ain't Me](https://open.spotify.com/track/6YCRCdu2U9ySn4WpjIiYSU) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [He Ain't Me](https://open.spotify.com/album/6s9SrAd8YNrLH2we1nzlAi) | 4:07 |
 | 27 | [Updraft](https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Updraft](https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ) | 5:56 |
 | 28 | [Just Pick One](https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Just Pick One](https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU) | 3:01 |
-| 29 | [Howl](https://open.spotify.com/track/5xXw7MRYMUgO5B1Y2Gka4V) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:53 |
+| 29 | [Howl](https://open.spotify.com/track/0JB90B4sJ9HeF1pRtEkZOf) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:53 |
 | 30 | [I'll Be Lost](https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [I'll Be Lost](https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy) | 3:22 |
 | 31 | [I Don't Know](https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs) | [The Slocan Ramblers](https://open.spotify.com/artist/1F81FTiMCbp4fxZ1EMStbk) | [I Don't Know](https://open.spotify.com/album/7CBdNw7qntXyqBNLWJ4Gll) | 4:07 |
 | 32 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 |
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 128 | [Junkie](https://open.spotify.com/track/6xkRKNcvCyXuOianBHpm2K) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Junkie](https://open.spotify.com/album/12trB8fFs5uPO2oIOvcHwm) | 4:04 |
 | 129 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
 | 130 | [The Horn](https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Lose Me In The Swamp](https://open.spotify.com/album/4WjMjQ7ojwSEaniI6rwMop) | 2:24 |
-| 131 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 |
+| 131 | [Don't Cry](https://open.spotify.com/track/2LciJyqCfI8mHGy1moiHZv) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:21 |
 | 132 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 |
 
-Snapshot ID: `MTY2NTc2NjAyMCwwMDAwMDAwMGFkNzdiYzM4YThmYTE3ZWE5ODExMjE1MGRhNmUyNGUx`
+Snapshot ID: `MTY2NTc2NjAyMCwwMDAwMDAwMGVjNzVhYjhhMGRiMDExNTA4NmQxZGJhZWNmMmZmY2Qz`

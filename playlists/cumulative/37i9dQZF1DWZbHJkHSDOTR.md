@@ -4,7 +4,7 @@
 
 > Our editorial picks for R&B’s best of 2021 in Canada\. Cover: The Weeknd
 
-121 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
+122 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/1GcWFiDe4JYAu3RXzjkMur)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [The Hearse](https://open.spotify.com/track/0rcoSjQLh5QXhCmBYBdNDW) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 2:04 | 2021-12-09 |  |
 | [The Hearse](https://open.spotify.com/track/19RXOH7xG0Po5NaWkNo9AX) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/7rkN6aKoETjoXjtvOUCh0Z) | 2:04 | 2021-12-09 | 2022-07-29 |
 | [The Hearse](https://open.spotify.com/track/4OWwJ7gwDenLKBYfR2QYJC) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [The Hearse](https://open.spotify.com/album/1yXGBtlnQWKE7EoK9Wo42S) | 2:04 | 2021-12-09 | 2022-11-14 |
-| [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/track/5s0R5zybi2MKaJxf0og3hM) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?](https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI) | 3:24 | 2021-12-09 |  |
+| [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/track/5s0R5zybi2MKaJxf0og3hM) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO?](https://open.spotify.com/album/4sih9lWIIKldL1n5kcotjI) | 3:24 | 2021-12-09 | 2022-11-16 |
+| [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/track/7xHpEPNVUnCdiwEbMu62Yz) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:24 | 2021-12-09 |  |
 | [tie down](https://open.spotify.com/track/0usvWKkce3NpnYtU2ETAvw) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [nice](https://open.spotify.com/album/4AXzhjCTkHyzaUaLU0mXHs) | 2:47 | 2021-12-09 |  |
 | [TIME FOR YOU](https://open.spotify.com/track/1DPLs8cVyL1Trlg5Kayua7) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [TIME FOR YOU](https://open.spotify.com/album/7kdjlaRQdB1u6PhdTSgXMC) | 3:23 | 2021-12-09 |  |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2021-12-09 |  |

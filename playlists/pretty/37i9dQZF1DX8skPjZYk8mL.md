@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,337 likes - 369 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,529 likes - 369 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 76 | [Mandy's Song \- Guitar Version](https://open.spotify.com/track/0KomfDHKjVqexfCnVfiu07) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Mandy's Song \(Guitar Version\)](https://open.spotify.com/album/2Td1CuNdeqzmma0FNTjM1f) | 1:50 |
 | 77 | [Cherry Blossom](https://open.spotify.com/track/0o2aRofjUASZegJK5QWamw) | [Juliane Waechter](https://open.spotify.com/artist/7IsD38M0WKhRpntIENOowC) | [Cherry Blossom](https://open.spotify.com/album/3veJInkFZ8qDMJClxGh7DR) | 2:12 |
 | 78 | [Faster than Fairies](https://open.spotify.com/track/6kgiFNyG4GQqaK1LoPHySV) | [Elsa Roberts](https://open.spotify.com/artist/18la3phGP2krkdJmChREK2) | [Faster than Fairies](https://open.spotify.com/album/12Qpv0c9aGPBQDbt1fg5ZH) | 1:45 |
-| 79 | [Drömmarnas Rike](https://open.spotify.com/track/3HBeV22jDNFBLLNfYBt5BT) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarna Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 2:07 |
+| 79 | [Drömmarnas Rike](https://open.spotify.com/track/3HBeV22jDNFBLLNfYBt5BT) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 2:07 |
 | 80 | [A Pimsy Pudding Day](https://open.spotify.com/track/3NCQehJCPnt3O0MrrQNu3t) | [Willoughby Bird](https://open.spotify.com/artist/2SD5Hli44gBRnfLGp85hQF) | [A Pimsy Pudding Day](https://open.spotify.com/album/0pgWWkVxoFOAXrSv45NwuC) | 1:07 |
 | 81 | [Feel Free to Sleep](https://open.spotify.com/track/7fBKXwIpRXfesqArhNu8Sc) | [Odell Aylmer](https://open.spotify.com/artist/6kFti89t1ebLGedez1cGeG) | [Feel Free to Sleep](https://open.spotify.com/album/0g69AegryKvyXLgiQQDlra) | 1:22 |
-| 82 | [Gubben i Månen](https://open.spotify.com/track/58EJ3J0AviZMV0CKLctV44) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarna Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:45 |
+| 82 | [Gubben i Månen](https://open.spotify.com/track/58EJ3J0AviZMV0CKLctV44) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:45 |
 | 83 | [Jabberwocky](https://open.spotify.com/track/3gtSkSSSZj6hgdWkS8dFkg) | [Tinnie Ramone](https://open.spotify.com/artist/69VAc4NZE3mNUtPVw3GHCA) | [Jabberwocky](https://open.spotify.com/album/7zchITsKU6EayGSZOSD5Qf) | 1:42 |
 | 84 | [Lapprika](https://open.spotify.com/track/3uzZub2fRRFP402ZXO7NDI) | [Gretchen Andersen](https://open.spotify.com/artist/6JA3BkprYUjs2sL4u7FBpZ) | [Lapprika](https://open.spotify.com/album/2x2lvMLg9ExFjSKa1FOPH6) | 1:10 |
 | 85 | [Head, Shoulders, Knees & Toes](https://open.spotify.com/track/2dFPxWOCYFfmp9mvdg07v1) | [Melinah Daniels](https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1) | [Head, Shoulders, Knees & Toes](https://open.spotify.com/album/5aUwS3bg7Nv1dBctV0Us09) | 1:10 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 90 | [You Are My Sunshine](https://open.spotify.com/track/1GP1eykR40sLBhjq7bBZUR) | [Melinah Daniels](https://open.spotify.com/artist/73f8r79Tbv2sxdpidr1xx1) | [You Are My Sunshine](https://open.spotify.com/album/3xFCbQQWDscvZBzjvUCgmg) | 1:46 |
 | 91 | [Sleeping Through It All](https://open.spotify.com/track/5QbkOxwPHWJiUIbPcI4xbS) | [Tye Leyton](https://open.spotify.com/artist/0GJuUaABzBIvaczK3MGOIj) | [Sleeping Through It All](https://open.spotify.com/album/44iPl2l5jcAGhPbS8aFm60) | 1:01 |
 | 92 | [Underneath My Bed](https://open.spotify.com/track/6JHCZw34Fv0aRWDz34F0A1) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Underneath My Bed](https://open.spotify.com/album/12lUt0jm0n9MFRAKcgiAhx) | 1:35 |
-| 93 | [Sussa Lilla Pyret](https://open.spotify.com/track/37PeTRwr9iE5yGCVC15EsT) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarna Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:39 |
+| 93 | [Sussa Lilla Pyret](https://open.spotify.com/track/37PeTRwr9iE5yGCVC15EsT) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:39 |
 | 94 | [Here We Go Looby Loo](https://open.spotify.com/track/4NMZDYNYp0AO6JvaeiC2w1) | [Rita James](https://open.spotify.com/artist/1RvUEvUmNBz3SouH9hSzXK) | [Here We Go Looby Loo](https://open.spotify.com/album/5Lc9AiHPtuTU6aOMWtlIf0) | 2:10 |
 | 95 | [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 |
 | 96 | [Golden Slumbers](https://open.spotify.com/track/18yeinKKQE4obQK8bs0iqa) | [Klara Knight](https://open.spotify.com/artist/3uwX4xbHo4oiiOpk6w8xbP) | [Golden Slumbers](https://open.spotify.com/album/4K4z0bQwC8mTyOrOuwdMIH) | 1:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Preto no Branco
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,374 likes - 90 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,603 likes - 90 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

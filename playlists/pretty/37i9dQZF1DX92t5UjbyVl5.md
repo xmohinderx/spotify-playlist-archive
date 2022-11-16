@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 
 > ¿Tienes flow, tienes rimas? Dale play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,288 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,321 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92t5UjbyVl5.md) - [plain]
 | 54 | [Swinging](https://open.spotify.com/track/54KmYR1hYdaJza6zojmx8V) | [Homebody](https://open.spotify.com/artist/6JHNIy8sGnVh5YrdVVAIuY) | [On the Curb](https://open.spotify.com/album/4fVLKFczoIp7aSDft6717w) | 2:54 |
 | 55 | [Time Crunch](https://open.spotify.com/track/0r4MrH7M3vzcnc5vFymQbg) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Territories](https://open.spotify.com/album/0scPscbqvC4mXDqVxLAFEx) | 2:59 |
 | 56 | [This Sixteen \- Street Trap Instrumental Mix](https://open.spotify.com/track/33crnWgH6VDNlctnv8s1eK) | [Thai Beats](https://open.spotify.com/artist/3Lhjv0JgyaXDHezrpfEHrk) | [33 New Rap Beats & Incredible Hip Hop Instrumentals \(Trap Instrumentals\)](https://open.spotify.com/album/2XbCqbXirLilDkj0N1gdOn) | 3:27 |
-| 57 | [Betrayed](https://open.spotify.com/track/02oAGoCGdHnyR6GcKmkSp7) | [Jaeger](https://open.spotify.com/artist/77PxY9mItIkmEo8D2fbfco) | [Betrayed](https://open.spotify.com/album/2tgamCw8AnESKXUmzXfpKc) | 3:34 |
+| 57 | [Betrayed](https://open.spotify.com/track/02oAGoCGdHnyR6GcKmkSp7) | [Jaeger](https://open.spotify.com/artist/3vWZ7hGW88wyByViyiwf8L) | [Betrayed](https://open.spotify.com/album/2tgamCw8AnESKXUmzXfpKc) | 3:34 |
 | 58 | [Foul On the Play \(Instrumental\)](https://open.spotify.com/track/1VgwQjwnsz3Zil9aCZWuO3) | [Swit Beats](https://open.spotify.com/artist/1IkuvaOCCIpxy5x6Tsjlsh) | [Trap Hills: Beats Tape](https://open.spotify.com/album/0KiG4Ltn4EhBlGqB04O0zL) | 2:01 |
 | 59 | [McLaren](https://open.spotify.com/track/6mpABC67wadyf0pFtKPRNW) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [4 Years](https://open.spotify.com/album/3KHjTUhVkXyiB8RiLclf0o) | 2:25 |
 | 60 | [No Hate](https://open.spotify.com/track/5otKKNFJZ9uxT2IAVkC9u9) | [whaTaRWoll Music](https://open.spotify.com/artist/1Z7MTyfennQvKU2hxO5KYO) | [Wrong Game](https://open.spotify.com/album/5MMjKLaASf8ah91ou3IRtV) | 3:41 |

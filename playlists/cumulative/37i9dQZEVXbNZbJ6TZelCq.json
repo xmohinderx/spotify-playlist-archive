@@ -3849,7 +3849,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 154666,
       "name": "Dac\u0103 n-ai bani",
       "url": "https://open.spotify.com/track/62pL0bFEaRUwN5hU2JGFrZ"
@@ -4143,7 +4143,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 161032,
       "name": "Defectul Meu",
       "url": "https://open.spotify.com/track/23S8qffmiX68DFEoaFXQz6"
@@ -6767,7 +6767,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 162224,
       "name": "Hai ca m-ai sedus",
       "url": "https://open.spotify.com/track/51v9SiSHL3DVrEC8QRxQN8"
@@ -8589,7 +8589,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 173750,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07"
@@ -9367,6 +9367,24 @@
       "duration_ms": 151648,
       "name": "Light Yagami",
       "url": "https://open.spotify.com/track/6osHAN7F3P3LgCGui3dtNm"
+    },
+    {
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "album": {
@@ -11411,7 +11429,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Niciodata inapoi (from \"TEAMBUILDING The Movie\")",
       "url": "https://open.spotify.com/track/3uCnYdw2AG9HfWgwNdqmPv"
@@ -14119,7 +14137,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 178823,
       "name": "Sangele Frate Nu Te Face",
       "url": "https://open.spotify.com/track/3DBLUk2LjwjBak3dN3qvRz"
@@ -15263,7 +15281,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 170285,
       "name": "Stai",
       "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"

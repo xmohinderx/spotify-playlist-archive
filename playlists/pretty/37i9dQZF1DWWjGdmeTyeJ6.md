@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Odie Leigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,194 likes - 62 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,195 likes - 62 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Atlantic Records Presents the hottest tracks in hip-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.",
-  "num_followers": 1840,
+  "num_followers": 1841,
   "original_name": "Atlantic Records: Presents",
   "owner": {
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NDg5NiwzZTdkN2Q0ZTE5OGZjNTVhZGQ4ZTNlY2E3MjAzMGQxMDdlNzllYzJk",
+  "snapshot_id": "NDg5OCw4N2IyOGI2NWIyNjc3ZDZlMjUwOGFkZDZkNmVhMzkzMWYzYThlNTNh",
   "tracks": [
     {
       "added_at": "2022-08-05 14:42:54",
@@ -5219,6 +5219,38 @@
       "duration_ms": 167697,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/4F9P5JpkAyoQKuRAsVjwS3"
+    },
+    {
+      "added_at": "2022-11-15 17:49:34",
+      "album": {
+        "name": "I Should Be Home",
+        "url": "https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Moon Man",
+      "url": "https://open.spotify.com/track/2d0PxwVAtHR105A1gGoMKZ"
+    },
+    {
+      "added_at": "2022-11-15 17:50:20",
+      "album": {
+        "name": "I Should Be Home",
+        "url": "https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "I Should Be Home",
+      "url": "https://open.spotify.com/track/5OpXp5NZvzcIrVuUaFlUHE"
     }
   ],
   "unique_name": "Atlantic Records: Presents",

@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-176 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
+177 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/1YYMYSSPR8waukjuI2hnJr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dambalektra](https://open.spotify.com/track/5phRz5C0lbK0y6JReywqCl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:31 | 2022-07-25 | 2022-07-29 |
 | [Dance Body Breaker](https://open.spotify.com/track/3zzY2bdhZ7bld7kLK8ujk3) | [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [Dance Body Breaker](https://open.spotify.com/album/1PI6Zu5jeS6XfktW8gXubq) | 2:06 | 2022-06-16 | 2022-07-29 |
 | [Dapada](https://open.spotify.com/track/1aS9xO7VevYOpOnOu6SjoL) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [Dapada](https://open.spotify.com/album/7kQrviDexyq5ucIFwMXhe7) | 2:53 | 2022-07-22 | 2022-07-29 |
+| [Designer](https://open.spotify.com/track/7F7KrCYzktQutmPOJC3Ba6) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Designer](https://open.spotify.com/album/7tzvON12MgF7hKK8F5AQQx) | 3:01 | 2022-11-15 |  |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-07 |  |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 | 2022-07-07 | 2022-07-29 |
 | [Don't Shout](https://open.spotify.com/track/7F9SLE2RyEJzT8fo0wOvXO) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Don't Shout](https://open.spotify.com/album/63VnNwKfyWmgoaOTTc5LX3) | 3:25 | 2022-10-13 |  |
@@ -81,7 +82,7 @@
 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-08-05 |  |
 | [Iz Going](https://open.spotify.com/track/32ukfuWwtkrKObrpyvTslr) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Iz Going](https://open.spotify.com/album/5N6oiGDjkXCZYCsZGurE08) | 2:44 | 2022-07-14 | 2022-07-21 |
 | [Ja Rule & Ashanti](https://open.spotify.com/track/3Za4EqLSgoBZSK1aIUgrf1) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Ja Rule & Ashanti](https://open.spotify.com/album/4898KXBWwf8yejADeP7yxl) | 2:58 | 2022-07-22 | 2022-07-29 |
-| [Jaiye \(Ihe Geme\)](https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Jaiye \(Ihe Geme\)](https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0) | 3:54 | 2022-07-22 |  |
+| [Jaiye \(Ihe Geme\)](https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Jaiye \(Ihe Geme\)](https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0) | 3:54 | 2022-07-22 | 2022-11-16 |
 | [Jaiye Foreign](https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jaiye Foreign](https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY) | 3:10 | 2022-08-12 |  |
 | [Jiggy](https://open.spotify.com/track/3aBjNACueEZu3S3kXxnNzv) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [Jiggy](https://open.spotify.com/album/1T3JGgaZr91l2pJmr5c9Bx) | 2:24 | 2022-04-28 | 2022-07-26 |
 | [JJC](https://open.spotify.com/track/5DuZrfanbwiEtmU7ZDXaX0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [JJC](https://open.spotify.com/album/4vr2gkRB2OYFzdbAr8sPqN) | 4:57 | 2022-06-09 | 2022-07-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring zorza
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,087 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,449 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 17 | [p\_fg](https://open.spotify.com/track/1NZwS7UVuRACMiPbR4DWOT) | [Aiden Marceron](https://open.spotify.com/artist/7fEzFVP0ArPjriuTGCJIxf) | [ep3](https://open.spotify.com/album/7Cn7FWgA1l6Egp0q8UJoRs) | 3:19 |
 | 18 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
 | 19 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
-| 20 | [Noodle Poodle \- Tommy Villiers Remix](https://open.spotify.com/track/3Iqd1QXYAChLtYDWCMYgBi) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Noodle Poodle \(Tommy Villiers Remix\)](https://open.spotify.com/album/7lYRpV61gd7klERMu7nyaO) | 3:51 |
+| 20 | [Noodle Poodle \- Tommy Villiers Remix](https://open.spotify.com/track/3Iqd1QXYAChLtYDWCMYgBi) | [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Noodle Poodle \(Tommy Villiers Remix\)](https://open.spotify.com/album/7lYRpV61gd7klERMu7nyaO) | 3:51 |
 | 21 | [432 Drip](https://open.spotify.com/track/5YmoINLXV15DcfJNwi1s1v) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa), [Abdel Hady](https://open.spotify.com/artist/7Kz7E6ZDI7TL8DaFwXFSkr) | [432 Drip](https://open.spotify.com/album/2MbDDoLYfcsvb9MsRoVhpl) | 2:56 |
 | 22 | [corpse party](https://open.spotify.com/track/30s7IiT1z4enGd42HlPxE3) | [tomspicy](https://open.spotify.com/artist/7N36dSZ3MAuxqvLlfr35IV) | [Corpse Party](https://open.spotify.com/album/2PWD6755zpide7S2xbYZsy) | 6:14 |
 | 23 | [Mercury](https://open.spotify.com/track/3dynh0NdcrA0w0oHeNYdBt) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm) | [Mercury](https://open.spotify.com/album/4CiALMF3yHdcsPHaLPnEga) | 3:01 |

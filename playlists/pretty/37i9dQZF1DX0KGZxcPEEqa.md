@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,444 likes - 400 songs - 23 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,515 likes - 400 songs - 23 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

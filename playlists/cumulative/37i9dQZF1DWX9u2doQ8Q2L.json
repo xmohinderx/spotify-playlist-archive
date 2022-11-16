@@ -577,8 +577,8 @@
           "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
         },
         {
-          "name": "Ai Furihata",
-          "url": "https://open.spotify.com/artist/1FlASHjqkSDUcJK85EJbsj"
+          "name": "\u964d\u5e61 \u611b",
+          "url": "https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD"
         }
       ],
       "date_added": "2022-11-04",
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 288241,
       "name": "D'Addario",
       "url": "https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 237976,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/5itC9A1VIudCnfVHeBO4ni"
@@ -1475,7 +1475,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 214711,
       "name": "Eyes on Me",
       "url": "https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7"
@@ -1829,6 +1829,32 @@
       "duration_ms": 229302,
       "name": "Gradate",
       "url": "https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX"
+    },
+    {
+      "album": {
+        "name": "Hanabi feat. \u30aa\u30ab\u30e2\u30c8\u30b7\u30e7\u30a6 (Chaki Zulu Remix)",
+        "url": "https://open.spotify.com/album/6ePzCvPeJ1mEUtOi3cv3Pd"
+      },
+      "artists": [
+        {
+          "name": "Ryohu",
+          "url": "https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U"
+        },
+        {
+          "name": "SHO OKAMOTO",
+          "url": "https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU"
+        },
+        {
+          "name": "Chaki Zulu",
+          "url": "https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216444,
+      "name": "Hanabi feat. \u30aa\u30ab\u30e2\u30c8\u30b7\u30e7\u30a6 (Chaki Zulu Remix)",
+      "url": "https://open.spotify.com/track/7DCPmTlXtER3cs2aHXudQp"
     },
     {
       "album": {
@@ -3184,6 +3210,28 @@
     },
     {
       "album": {
+        "name": "Mirage Op.2",
+        "url": "https://open.spotify.com/album/3GXYjkSXN5kDtMdqa5NhVc"
+      },
+      "artists": [
+        {
+          "name": "Mirage Collective",
+          "url": "https://open.spotify.com/artist/468Drn2keEN3vswfh1qHHf"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247787,
+      "name": "Mirage Op.2",
+      "url": "https://open.spotify.com/track/3u3Y1mQWOKICeg1pLOzUO8"
+    },
+    {
+      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws"
       },
@@ -3249,7 +3297,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 273466,
       "name": "Music, Dance & Love",
       "url": "https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9"
@@ -3395,7 +3443,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 216634,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/620i08CTZIo1K9ycN144lg"
@@ -3737,7 +3785,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 219992,
       "name": "popcorn nights",
       "url": "https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF"
@@ -3799,6 +3847,24 @@
       "duration_ms": 210338,
       "name": "puzzle (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp"
+    },
+    {
+      "album": {
+        "name": "Quai",
+        "url": "https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm"
+      },
+      "artists": [
+        {
+          "name": "SADFRANK",
+          "url": "https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410761,
+      "name": "Quai",
+      "url": "https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb"
     },
     {
       "album": {
@@ -5281,6 +5347,24 @@
       "duration_ms": 160363,
       "name": "Too Good To Be True",
       "url": "https://open.spotify.com/track/6lQDD0b8SZn3pvb2p2epFU"
+    },
+    {
+      "album": {
+        "name": "Torisugiteiku",
+        "url": "https://open.spotify.com/album/4rsp9BropcJweaeBbV6gWW"
+      },
+      "artists": [
+        {
+          "name": "Qaijff",
+          "url": "https://open.spotify.com/artist/2ybYclZz8KsmrgwlK8Em1X"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Torisugiteiku",
+      "url": "https://open.spotify.com/track/1P3qOEqKbAYYMJUcKM06dW"
     },
     {
       "album": {
@@ -7507,7 +7591,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 372800,
       "name": "\u6c38\u4e45\u5f57\u661f\u77ed\u6b4c\u6c34",
       "url": "https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ"
@@ -7823,6 +7907,24 @@
       "duration_ms": 209620,
       "name": "\u900f\u660e\u306a\u30ac\u30fc\u30eb -Dye me- (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM"
+    },
+    {
+      "album": {
+        "name": "\u90fd\u5408",
+        "url": "https://open.spotify.com/album/7IZ3zDRZLZQljv701eNySG"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270762,
+      "name": "\u90fd\u5408",
+      "url": "https://open.spotify.com/track/3hEopKpyeGAf9CoaAAU6D8"
     },
     {
       "album": {

@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 166822,
       "name": "Bum Bum Bum",
       "url": "https://open.spotify.com/track/2q0GvAQvk1rEAUEFy1sziH"
@@ -619,6 +619,28 @@
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "album": {
+        "name": "Fall for You",
+        "url": "https://open.spotify.com/album/2G3jm8RTStFVQrki2oNWl5"
+      },
+      "artists": [
+        {
+          "name": "B-RED",
+          "url": "https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214648,
+      "name": "Fall for You",
+      "url": "https://open.spotify.com/track/622AxtXA9LRmXkania0tya"
     },
     {
       "album": {

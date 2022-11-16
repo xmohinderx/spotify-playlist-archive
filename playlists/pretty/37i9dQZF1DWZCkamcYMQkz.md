@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,659 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,825 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [I'm Beginning To See The Light \- Mono Version](https://open.spotify.com/track/3oDZ1hAeCOUo0oJKlqc9sw) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [The Complete Clef & Verve Fifties Studio Recordings](https://open.spotify.com/album/7GLEidBdAgwkHt3tDG5gvT) | 3:08 |
 | 100 | [You Make Me Feel so Young](https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor](https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD) | 2:51 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMDYwYzllZjdlMzA3OTNjYTgwNThhOWU2YTY0MWQ0Yzkx`
+Snapshot ID: `MTY2ODUyMDk5MiwwMDAwMDAwMGEwODVhZmE5Zjc0NDlhYjYyYTc2ZGE4ZWE4NDI4Nzk3`

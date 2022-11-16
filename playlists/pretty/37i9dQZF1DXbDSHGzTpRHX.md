@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,311 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,323 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 67 | [everybody's cool but me](https://open.spotify.com/track/4dfFLWjpgnTcq5StTAa5dK) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [everybody's cool but me](https://open.spotify.com/album/0pfzmfdiultGZ4TdNa8h14) | 3:03 |
 | 68 | [Bummer Summerrr](https://open.spotify.com/track/5d1nXqp2jtg70hT6JYxIYI) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [Everything Matters](https://open.spotify.com/album/0JlHoU7t4nfpzHnzd8stUo) | 3:59 |
 | 69 | [Buttons](https://open.spotify.com/track/1pZ9xYDzyq9KHTVrqBUEsn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/6szHJ15dr9M4oJfOW8XAbH) | 3:36 |
-| 70 | [Sue](https://open.spotify.com/track/0yygnZCAvPeopsfgI1IWFC) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [SEX](https://open.spotify.com/album/5Xz5UbVUN2fqucwGnpwXJg) | 3:22 |
+| 70 | [Sue](https://open.spotify.com/track/0CMUmDILSCGK6U07Bkzp0p) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [SEX](https://open.spotify.com/album/4xUu3G2buom8s1bffx6OCO) | 3:22 |
 | 71 | [Runaway Man](https://open.spotify.com/track/2bbG9OmvZLCsdWoRu7rj2m) | [Olivia Willhite](https://open.spotify.com/artist/70Mu5ttTV5XTLxs4uzF0H0) | [Runaway Man](https://open.spotify.com/album/1kSqEoIqznzirT0Gi4IxzW) | 3:09 |
 | 72 | [Hey There Cowgirl](https://open.spotify.com/track/0FeEyD4FZqDh78DhShxGCx) | [Palm Springsteen](https://open.spotify.com/artist/0uCRjVc8oWaEvazuCMDOXD) | [Hey There Cowgirl](https://open.spotify.com/album/4hqsi3T2wX4ogN2syEH7LR) | 3:38 |
 | 73 | [Talking Heads](https://open.spotify.com/track/1h9dZPr48ANzFAiWDu4lU1) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Talking Heads](https://open.spotify.com/album/0OjT45QCcSSsysP8CoaZf9) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1AQlZoCOk9SHb4nIZF07uf) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CNT44xDuQHv8gKnhd30SQ) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDdlYWZhNDNiYjhkMDg3MGIzMDE1Nzk5M2ZmMzkwYjRl`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGU2Nzk1ZTVkZWNiOTNhMjI2YzM1YWM1OTk1ZWUxYjdh`

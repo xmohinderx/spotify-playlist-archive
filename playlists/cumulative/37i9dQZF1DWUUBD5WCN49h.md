@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=OUWYxk0ySGe5m\_n13WKeQA"> Dami Oniru</a>
 
-123 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
+126 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Loud](https://open.spotify.com/track/7ti7kLqyFSubl97L5jqKQi) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [WONDERGIRL](https://open.spotify.com/album/4Dr0okleRrumtnKtuWkD5a) | 2:27 | 2022-06-30 |  |
 | [Love](https://open.spotify.com/track/08r8dLobzYIZLrlKlf5zzI) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 4:10 | 2022-06-30 |  |
 | [Love Me](https://open.spotify.com/track/5OG3fwH8vjE3pU6FwFVI5x) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Love Me](https://open.spotify.com/album/4NSFkhmvAQIaXL9f1Qw57e) | 3:18 | 2022-09-29 |  |
+| [Love Sick](https://open.spotify.com/track/5jahNLedLxT9dTBcgb6hMn) | [Kwabsmah](https://open.spotify.com/artist/7zHkgmNbakU3qbOTVxYnYT) | [Love Sick](https://open.spotify.com/album/3TnN0O1Q5BPdNzxbHgVncD) | 2:43 | 2022-11-15 |  |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-01 |  |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 |  |
 | [Migraine](https://open.spotify.com/track/3CBPgAhZ8XnRxzLfksRS5Q) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Spy Shitta The EP](https://open.spotify.com/album/2vE9kJqmDwx4yICL2RPbqD) | 3:32 | 2022-10-28 |  |
@@ -86,6 +87,7 @@
 | [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 | 2022-08-05 | 2022-10-29 |
 | [My Killa](https://open.spotify.com/track/1jVC75rTnFC0yhLMIAw16B) | [bigBen](https://open.spotify.com/artist/2x57mfICKFd8AN4TlqatMb), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [My Killa](https://open.spotify.com/album/3rVixIqBYu1raZ9dobQvm7) | 3:38 | 2022-09-23 |  |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 |  |
+| [No More](https://open.spotify.com/track/2jfhUSkLNMYXew3tZIewYk) | [Efe Oraka](https://open.spotify.com/artist/5Q53UO2TC6Nwbx0qVCmcxo) | [No More](https://open.spotify.com/album/2eCjxVZQd6JfqbzjsBVt50) | 2:16 | 2022-11-15 |  |
 | [No One](https://open.spotify.com/track/6fdZJopyom99Ok7TAHVGDi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Runda](https://open.spotify.com/album/1m6ooBo2YrOqpiheYPviP9) | 2:52 | 2022-08-18 |  |
 | [No Religion](https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Religion](https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB) | 2:17 | 2022-11-04 |  |
 | [No Room For Love](https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet](https://open.spotify.com/album/7J6cbhhY4seRJ9d9VUzjnY) | 3:09 | 2022-06-30 |  |
@@ -124,6 +126,7 @@
 | [Things I Know](https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Things I Know](https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP) | 2:50 | 2022-11-04 |  |
 | [time \(with my ex\)](https://open.spotify.com/track/1zIOhLm0hlzXjUrwVEzAbW) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [time \(with my ex\)](https://open.spotify.com/album/6aqajIpRRhwOynuWgi0lvo) | 2:30 | 2022-08-18 | 2022-10-07 |
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-04 |  |
+| [Two Weeks](https://open.spotify.com/track/5QxGoE7pn8Ghbl0N1leBop) | [Yinka](https://open.spotify.com/artist/35eH57prThKuUM0PXgQ8zE) | [Two Weeks](https://open.spotify.com/album/5YHA2bxiQfLfKWbmFiWTZN) | 2:45 | 2022-11-15 |  |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-11-04 |
 | [Uptown Girl](https://open.spotify.com/track/6Dcg4JEZgSS4YOeSpu4S76) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Uptown Girl](https://open.spotify.com/album/6Z7llQEJK2H6PRxK5gOIYs) | 2:34 | 2022-09-29 | 2022-10-29 |
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2022-10-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > simon ❤️ wilhelm
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,852 likes - 582 songs - 1 day 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,121 likes - 582 songs - 1 day 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Voglio Tutto
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,108 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,126 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stanza vuota](https://open.spotify.com/track/5R1sQp1f5wNHWV3p9qfb7V) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido \- EP](https://open.spotify.com/album/3vXZS6gZjYW4R1hn01OosY) | 3:46 |
-| 2 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 |
-| 3 | [Vicenza](https://open.spotify.com/track/2UoqMxVRl4I5IgDRblSToW) | [Folks, stay home](https://open.spotify.com/artist/2HzkhtnJn3OBy557HAwDYH) | [La Tosca dei Cani](https://open.spotify.com/album/40Fngltav0uIo6x6cw20bM) | 4:44 |
-| 4 | [Non lasciarmi andare](https://open.spotify.com/track/0ITzCELsdsvIX4h366BcAf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Non lasciarmi andare](https://open.spotify.com/album/7kBpgxXddJr60AJF1EP5A1) | 4:02 |
-| 5 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
+| 1 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 |
+| 2 | [Vicenza](https://open.spotify.com/track/2UoqMxVRl4I5IgDRblSToW) | [Folks, stay home](https://open.spotify.com/artist/2HzkhtnJn3OBy557HAwDYH) | [La Tosca dei Cani](https://open.spotify.com/album/40Fngltav0uIo6x6cw20bM) | 4:44 |
+| 3 | [Non lasciarmi andare](https://open.spotify.com/track/0ITzCELsdsvIX4h366BcAf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Non lasciarmi andare](https://open.spotify.com/album/7kBpgxXddJr60AJF1EP5A1) | 4:02 |
+| 4 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
+| 5 | [Stanza vuota](https://open.spotify.com/track/5R1sQp1f5wNHWV3p9qfb7V) | [Voglio Tutto](https://open.spotify.com/artist/0l7l0zslmsXWkHCM6hZ34C) | [Stupido EP](https://open.spotify.com/album/3vXZS6gZjYW4R1hn01OosY) | 3:46 |
 | 6 | [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 |
 | 7 | [DIO](https://open.spotify.com/track/5rvSgBzvXLuRHNI6fAXArv) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [DIO](https://open.spotify.com/album/6wWyqa9Ry4Jxne32G7KN9p) | 2:02 |
 | 8 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [looney](https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [dalla terra a marte](https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr) | 3:25 |
 | 55 | [sober](https://open.spotify.com/track/1LmM5Y3OnbNAeTVKg73Jgc) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [I started a garden](https://open.spotify.com/album/11suIFqciw4aNWEBRtJjPj) | 2:39 |
 
-Snapshot ID: `MTY2ODEyMTI2MCwwMDAwMDAwMDZlNDM2OWRmMjRjYmM1NzNiOWU4NjgxZjNjMjJiODk5`
+Snapshot ID: `MTY2ODUyOTA3NSwwMDAwMDAwMDMzMWZjNDAzZjZjOTgxYzVhZTdlZmYyNDBlNTc5NWI3`

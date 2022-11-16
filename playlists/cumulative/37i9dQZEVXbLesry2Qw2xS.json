@@ -102,6 +102,28 @@
     },
     {
       "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/0wRqxfYXrBcDQGgmiuRKmL"
       },
@@ -341,7 +363,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 236676,
       "name": "?mis sa tegid",
       "url": "https://open.spotify.com/track/4VJpJ0g4b0KqF7KZHiwOpV"
@@ -8745,7 +8767,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
@@ -8951,6 +8973,24 @@
       "duration_ms": 151093,
       "name": "KIDS (feat. Emily Roberts) - Single Edit",
       "url": "https://open.spotify.com/track/35sMV8hCbGQuB257M4UGbT"
+    },
+    {
+      "album": {
+        "name": "Kiri k\u00fclmkapi peal / Never let go",
+        "url": "https://open.spotify.com/album/6LnuAFif2uncKoMSxKjZOV"
+      },
+      "artists": [
+        {
+          "name": "STEFAN",
+          "url": "https://open.spotify.com/artist/4PLGCdwxxGsxNXX7G7Spug"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217616,
+      "name": "Kiri k\u00fclmkapi peal",
+      "url": "https://open.spotify.com/track/0xcXTrdFbUDuu7SJHKM1m7"
     },
     {
       "album": {
@@ -12361,7 +12401,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 161000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/4dX6z84NG8Nta1IfwVh9k0"
@@ -17001,7 +17041,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF"

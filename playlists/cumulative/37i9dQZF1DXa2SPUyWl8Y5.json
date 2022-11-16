@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
@@ -3393,7 +3393,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 422079,
       "name": "Mistral",
       "url": "https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm"
@@ -4967,7 +4967,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 414053,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU"
@@ -5029,6 +5029,24 @@
       "duration_ms": 378000,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a"
+    },
+    {
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE"
+      },
+      "artists": [
+        {
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378000,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c"
     },
     {
       "album": {

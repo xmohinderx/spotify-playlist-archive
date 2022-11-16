@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 186920,
       "name": "Choosey",
       "url": "https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR"
@@ -886,6 +886,24 @@
     },
     {
       "album": {
+        "name": "Gold.",
+        "url": "https://open.spotify.com/album/7kAQ6F2mGxn8w5QIMb4cOH"
+      },
+      "artists": [
+        {
+          "name": "Shalom Dubas",
+          "url": "https://open.spotify.com/artist/2ys4tbtUpMQd5eujuaRXSj"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188005,
+      "name": "Gold.",
+      "url": "https://open.spotify.com/track/7yz59RbKk5saaTU57do462"
+    },
+    {
+      "album": {
         "name": "Guns&Roses (QuestionYaHeart)",
         "url": "https://open.spotify.com/album/1Peac33r475KxGeggGxKvP"
       },
@@ -1080,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Smoke Break",
+        "url": "https://open.spotify.com/album/2Q8lB4AzyFrrkg243kfkHn"
+      },
+      "artists": [
+        {
+          "name": "D-Truce",
+          "url": "https://open.spotify.com/artist/0hbjT5EweZ9GzgLl41IJM1"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106516,
+      "name": "Keep it Kewt",
+      "url": "https://open.spotify.com/track/7cNck7tTqRj8X1JEXEw9no"
+    },
+    {
+      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/2QPGrxmEy6Eppt09jFpPMV"
       },
@@ -1169,6 +1205,28 @@
       "duration_ms": 147428,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
+    },
+    {
+      "album": {
+        "name": "Letter From Overseas (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138243,
+      "name": "Letter From Overseas (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
       "album": {
@@ -1457,7 +1515,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
@@ -1695,7 +1753,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 187669,
       "name": "RING RING (feat. Tay Iwar)",
       "url": "https://open.spotify.com/track/1DqkGssR98fA9ms2ut4dj5"
@@ -1869,7 +1927,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 154285,
       "name": "SKI",
       "url": "https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT"
@@ -2359,7 +2417,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 173571,
       "name": "Who U",
       "url": "https://open.spotify.com/track/1NnNx2eoTcUgkwgLUGpbFP"

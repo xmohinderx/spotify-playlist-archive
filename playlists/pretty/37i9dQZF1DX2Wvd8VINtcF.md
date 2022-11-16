@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,629 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,664 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 51 | [Say What You're Gonna Say](https://open.spotify.com/track/47WkCp0ntAuHJPs1NQL0HC) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [NO MORE ICONS?](https://open.spotify.com/album/617mKwqMjXsJqpstYxS2AU) | 3:15 |
 | 52 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
 | 53 | [The visit](https://open.spotify.com/track/1nlpf45g4i27ONz9Ijt5Mo) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [The visit](https://open.spotify.com/album/0WO7ZxHmZHAfQKpVxCBO3a) | 4:07 |
-| 54 | [Set It off, Set It Right](https://open.spotify.com/track/7dNOas2tnukerXZayzDvWL) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Set It Off, Set It Right](https://open.spotify.com/album/66qiOk8rZDXAHPwczdNQag) | 3:39 |
+| 54 | [Set It Off, Set It Right](https://open.spotify.com/track/7dNOas2tnukerXZayzDvWL) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Set It off, Set It Right](https://open.spotify.com/album/66qiOk8rZDXAHPwczdNQag) | 3:39 |
 | 55 | [Love Is My Condition](https://open.spotify.com/track/7JMIWkV5UaYvXFjNk0Dw0B) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition / Away](https://open.spotify.com/album/5Yyqtdm1bLpOij6ISgvG8K) | 3:08 |
 | 56 | [Shlut](https://open.spotify.com/track/4xZYQAp9JlqvS60Yz0ThSe) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shlut](https://open.spotify.com/album/0R4TsD2oRNNCThSzulhk25) | 2:12 |
 | 57 | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/track/14d8Wq66lf1dVeWJHIfkYj) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/album/0tikmnRkujvStXn026TY9J) | 2:19 |

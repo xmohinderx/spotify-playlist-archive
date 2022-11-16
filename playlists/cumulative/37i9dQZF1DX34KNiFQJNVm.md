@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Luan Santana, Cristiano Araújo, Pedro Sampaio com Pabllo Vittar e mais!
 
-3,971 songs - 8 day 12 hr 35 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+3,972 songs - 8 day 12 hr 38 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [BIG](https://open.spotify.com/track/24qAxp2l2C4xiTtKaJxcJ4) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG](https://open.spotify.com/album/17kpttFeNeWB1qafVfJQA6) | 3:36 | 2022-10-14 | 2022-10-22 |
 | [BIG 3x](https://open.spotify.com/track/2o7ymajq3LwyGFq6c67UE6) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [BIG 3x](https://open.spotify.com/album/202ZTsAX1pVxBPTAoF19L8) | 3:11 | 2022-08-05 | 2022-08-13 |
 | [Big Pussy](https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [Big Pussy](https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o) | 2:20 | 2022-11-04 | 2022-11-12 |
-| [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-09-02 |  |
+| [Bigger Than Me](https://open.spotify.com/track/1igXQJ8h25DY4AiVgyGohE) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Bigger Than Me](https://open.spotify.com/album/11Kmry6hzWz0VFAI7s2Iz1) | 3:41 | 2022-09-02 | 2022-11-16 |
 | [Birrinha](https://open.spotify.com/track/6bzqOVS1voAT1rBjKysMg4) | [Guga Nandes](https://open.spotify.com/artist/3vqgT6FvYBxEFbipoT9nYH) | [5 Fases](https://open.spotify.com/album/2L1RTFuu8kXdPlIgy655aA) | 3:06 | 2022-01-21 | 2022-01-29 |
 | [Biscate](https://open.spotify.com/track/353Zk33gicFSOOpaRAGdWr) | [Brenno & Matheus](https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF) | [Biscate](https://open.spotify.com/album/1HkaadCySU0KYKtSJU4qeL) | 2:25 | 2022-07-15 | 2022-07-23 |
 | [Bitch Back \(feat\. FLETCHER\)](https://open.spotify.com/track/2pDWMxjBf4xkIY4nRjVpZC) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Bitch Back](https://open.spotify.com/album/5if1VcWOdT94468kyjgN3Z) | 2:23 | 2022-08-05 | 2022-08-13 |
@@ -3229,6 +3229,7 @@
 | [Sigo na Fé do Pai](https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Sigo na Fé do Pai](https://open.spotify.com/album/5goTGEm2ey7n2DEa2tIcm8) | 4:24 | 2022-02-18 | 2022-02-26 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 | 2022-04-02 |
 | [Silence](https://open.spotify.com/track/3VyagTx2teqJAphMmLOnyR) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [ÜHÜ](https://open.spotify.com/artist/0kX81k87cBgYN7KffDI3fC), [IDKARE](https://open.spotify.com/artist/5zJmiNda7m2OEdn2XNraRw) | [Silence](https://open.spotify.com/album/0QcDDOpvai9WbltcGN1bdd) | 3:27 | 2022-08-19 | 2022-08-27 |
+| [Silver Tongues](https://open.spotify.com/track/29z96EFvG0L1wcj5kkIHzk) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Deluxe\)](https://open.spotify.com/album/1mFBBKRgRpHYJHHlr6wGMj) | 3:25 | 2022-11-15 |  |
 | [Simpatia](https://open.spotify.com/track/0irakLUJU4kcplL27uuHiq) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Bebê Kramer](https://open.spotify.com/artist/6Nfyi7KtjeBJsN503wHqES) | [Simpatia](https://open.spotify.com/album/0NtYWq3YYdZ4zm56aAGW9E) | 4:52 | 2022-03-18 | 2022-03-26 |
 | [Simplesmente Ela](https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ) | 2:41 | 2022-02-11 | 2022-02-19 |
 | [SIMPLY THE BEST](https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [SIMPLY THE BEST](https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ) | 3:56 | 2022-10-28 | 2022-11-05 |

@@ -1188,6 +1188,24 @@
     },
     {
       "album": {
+        "name": "Nonsense (Sped Up Version)",
+        "url": "https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137514,
+      "name": "Nonsense - Sped Up Version",
+      "url": "https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR"
+    },
+    {
+      "album": {
         "name": "numb (feat. blackbear) [slow + reverb / nitecore]",
         "url": "https://open.spotify.com/album/4opM4mMCaGNxJiztRetx5I"
       },

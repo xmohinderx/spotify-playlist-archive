@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Conexión Divina
 
-1,392 songs - 3 day 0 hr 59 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+1,394 songs - 3 day 1 hr 5 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,8 @@
 | [Jgl \- En Vivo](https://open.spotify.com/track/1HP2MFmKdarBACXfQvHfTV) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [En Vivo Desde Obregon](https://open.spotify.com/album/2Qx5HqI4vYglfCKYedmaVR) | 2:46 | 2022-07-01 | 2022-07-09 |
 | [JMV](https://open.spotify.com/track/26ItIrmiOMWWlhSYLxS7OD) | [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [JMV](https://open.spotify.com/album/2WSs7vhI8otrqCPqod7nNp) | 2:54 | 2022-10-14 | 2022-10-22 |
 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 | 2022-09-02 | 2022-09-10 |
-| [Joven Del Estado 26 \(Zutano\)](https://open.spotify.com/track/3K0hDGGwqqhBNxGdNYIzAu) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Seguimos En El Ruedo](https://open.spotify.com/album/3grZSbOEYhcSMdkD5Dd9ey) | 3:05 | 2022-11-11 |  |
+| [Joven Del Estado 26 \(Zutano\)](https://open.spotify.com/track/3K0hDGGwqqhBNxGdNYIzAu) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Seguimos En El Ruedo](https://open.spotify.com/album/3grZSbOEYhcSMdkD5Dd9ey) | 3:05 | 2022-11-11 | 2022-11-16 |
+| [Joven Del Estado 26 \(Zutano\)](https://open.spotify.com/track/3hR7APoVaz6qsa6m6aaKCP) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Seguimos En El Ruedo](https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA) | 3:05 | 2022-11-11 |  |
 | [Juegos De La Vida](https://open.spotify.com/track/4v3KbSCE9m97gZiiOrzqHY) | [Jose Payan](https://open.spotify.com/artist/3bu6KHyIXxHN29fYhOmQZd) | [Juegos De La Vida](https://open.spotify.com/album/07xhz27HyfbXmm1wij2Sps) | 3:14 | 2022-09-09 | 2022-09-17 |
 | [Jugamos Con Fuego](https://open.spotify.com/track/401wPVKSppPPzSweAVBah1) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Jugamos Con Fuego](https://open.spotify.com/album/0SrAVXOgLhYNcNUgCfnmJY) | 3:06 | 2022-11-11 |  |
 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-06-10 | 2022-06-18 |
@@ -802,7 +803,8 @@
 | [Mala Vida](https://open.spotify.com/track/3VNY0JlVe7MbEZIZt4LyUd) | [Jose Payan](https://open.spotify.com/artist/3bu6KHyIXxHN29fYhOmQZd) | [Mala Vida](https://open.spotify.com/album/4Z17ol07oKr7BK1fztfp2k) | 3:05 | 2022-09-16 | 2022-09-24 |
 | [Maldigo](https://open.spotify.com/track/6W0Ma5GW2I9M0lglEM6jDu) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Maldigo](https://open.spotify.com/album/6i7WrK9w34ole8U1Jc7dfn) | 3:02 | 2022-06-10 | 2022-06-18 |
 | [Maldita Costumbre](https://open.spotify.com/track/5qfqdelSyHt7G65NDNp2V3) | [Kate Kristol](https://open.spotify.com/artist/4qCW2u6nAjUzJmyjqTDK9V) | [Maldita Costumbre](https://open.spotify.com/album/6SeKcVgD6d6UucSg0UDcCH) | 2:31 | 2022-09-09 | 2022-09-17 |
-| [Maldita Faja](https://open.spotify.com/track/0D7TQL76NafKk8xg5xC28a) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:33 | 2022-11-11 |  |
+| [Maldita Faja](https://open.spotify.com/track/0D7TQL76NafKk8xg5xC28a) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:33 | 2022-11-11 | 2022-11-16 |
+| [Maldita Faja](https://open.spotify.com/track/3wn456xCRhD8NAVAl7O1U2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:33 | 2022-11-11 |  |
 | [Mami](https://open.spotify.com/track/4LCpAvkUkxraMENrZFOaiF) | [Oscar Villegas](https://open.spotify.com/artist/5svDCvSbuXuUW2aFpXuLJJ), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mami](https://open.spotify.com/album/0PHT3i9BhhR17HzyskYe8v) | 3:34 | 2022-10-21 | 2022-10-29 |
 | [Manny Flores](https://open.spotify.com/track/23hHl7ujNhCXKirOUhPPTm) | [Nuevo Regimiento](https://open.spotify.com/artist/2dYOoYpVWymc4PTl1KR5o6) | [Manny Flores](https://open.spotify.com/album/13adeP5WP72vXLkntMJMbj) | 3:34 | 2022-06-03 | 2022-06-11 |
 | [Manos Al Volante](https://open.spotify.com/track/73yci9TSBPTS8fRcSCfdkC) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Manos Al Volante](https://open.spotify.com/album/6AhKgUX58vah1nMX0xuS9u) | 2:33 | 2022-08-19 | 2022-08-27 |

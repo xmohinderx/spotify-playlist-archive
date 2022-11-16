@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,357 likes - 200 songs - 15 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,018 likes - 200 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

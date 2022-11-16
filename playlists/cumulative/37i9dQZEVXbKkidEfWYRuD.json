@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 124968,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/0EPK3XVvgbe8q0KrS7nEiY"
@@ -4805,7 +4805,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -7471,7 +7471,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 350320,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
@@ -17001,6 +17001,28 @@
       "duration_ms": 120000,
       "name": "\u0428\u041e\u0420\u0422 \u041b\u0410\u0412",
       "url": "https://open.spotify.com/track/7p144Ta4kpKOUwalUZNIvf"
+    },
+    {
+      "album": {
+        "name": "\u0428\u0443\u043a\u0430\u0432 \u0442\u0435\u0431\u0435. \u0417\u043d\u0430\u0439\u0448\u043e\u0432 \u0442\u0435\u0431\u0435",
+        "url": "https://open.spotify.com/album/0eUaHLgfMJjmgIjhvktlaz"
+      },
+      "artists": [
+        {
+          "name": "VovaZiLvova",
+          "url": "https://open.spotify.com/artist/7MFvm8pwjLdmVBZddGNiQH"
+        },
+        {
+          "name": "Morphom",
+          "url": "https://open.spotify.com/artist/1XaPi3wwjPdMMsSw58bgCO"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "\u0428\u0443\u043a\u0430\u0432 \u0442\u0435\u0431\u0435. \u0417\u043d\u0430\u0439\u0448\u043e\u0432 \u0442\u0435\u0431\u0435",
+      "url": "https://open.spotify.com/track/7uHFrsclJjAhONLcc8grZU"
     },
     {
       "album": {

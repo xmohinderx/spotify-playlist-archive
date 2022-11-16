@@ -1,13 +1,69 @@
 {
   "description": "Wet Bed Gang entram na zona. ",
-  "num_followers": 155067,
+  "num_followers": 155084,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyNDgwMCwwMDAwMDAwMDZmMjZmYjFhNjhlZTkzMDcyNDVlYjI2ZTlkYWNmOGUz",
+  "snapshot_id": "MTY2ODUzNDQwMywwMDAwMDAwMDc4MTFmMjJjYTE3YzU5ZWRlMGI4MDMxMTg2NjgwZDc5",
   "tracks": [
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "Gorillaz",
+      "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Chauffeur",
+        "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
+      },
+      "artists": [
+        {
+          "name": "Regula",
+          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 266279,
+      "name": "Chauffeur",
+      "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Oitavo C\u00e9u",
+        "url": "https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182190,
+      "name": "Papaia",
+      "url": "https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw"
+    },
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
@@ -51,26 +107,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Chauffeur",
-        "url": "https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK"
-      },
-      "artists": [
-        {
-          "name": "Regula",
-          "url": "https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 266279,
-      "name": "Chauffeur",
-      "url": "https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Por Enquanto",
         "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
       },
@@ -87,26 +123,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 218288,
-      "name": "Gorillaz",
-      "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Olho de Tigre",
         "url": "https://open.spotify.com/album/0jhj4SwIWQGON36aDMeEwb"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 165555,
       "name": "Bon App\u00e9tit",
       "url": "https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Oitavo C\u00e9u",
-        "url": "https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 182190,
-      "name": "Papaia",
-      "url": "https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1389,7 +1389,7 @@
         },
         {
           "name": "Barata",
-          "url": "https://open.spotify.com/artist/7a2Lv59T1gA2caRYvy11gW"
+          "url": "https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN"
         }
       ],
       "duration_ms": 195125,

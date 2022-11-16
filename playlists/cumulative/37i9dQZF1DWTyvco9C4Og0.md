@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTyvco9C4Og0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTyvco9C4Og0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTyvco9C4Og0)
 
-### [Ídolos del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DWTyvco9C4Og0)
+### [Leyendas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DWTyvco9C4Og0)
 
-> Las leyendas del mariachi están aquí\. Pepe Aguilar en portada.
+> Las leyendas del mariachi están aquí\. Yuridia en portada.
 
 172 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/2V0PHZyuVaI8QUBHcbfV2Z)
 

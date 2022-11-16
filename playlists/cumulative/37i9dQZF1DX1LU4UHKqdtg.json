@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 193586,
       "name": "CHILLIN",
       "url": "https://open.spotify.com/track/3EfwJBSA0uvCH7DgPnMcl6"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 202533,
       "name": "FOREVER 1",
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
@@ -4782,6 +4782,24 @@
     },
     {
       "album": {
+        "name": "POPPY",
+        "url": "https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "POPPY",
+      "url": "https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4Wt2BXLfObF0w0QMrnPy0e"
       },
@@ -5047,7 +5065,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 227706,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/1pzYdhRwUEr8QdQkIjqjuc"
@@ -6376,6 +6394,24 @@
     },
     {
       "album": {
+        "name": "Villain : The End",
+        "url": "https://open.spotify.com/album/1Qm9lf5OrCzl3x9trdVMhD"
+      },
+      "artists": [
+        {
+          "name": "DRIPPIN",
+          "url": "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/1Kb2RNTXZ3PaL2xMDuJgQ6"
+    },
+    {
+      "album": {
         "name": "Be Together",
         "url": "https://open.spotify.com/album/3atcX9xZNV2yqeWqe8UC0T"
       },
@@ -6767,7 +6803,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 192306,
       "name": "Up! (Japanese version)",
       "url": "https://open.spotify.com/track/7m78ItawUTPntyWYjdF8LS"
@@ -6901,6 +6937,24 @@
       "duration_ms": 183426,
       "name": "Villain - Japanese ver.",
       "url": "https://open.spotify.com/track/6a057xQ6MUy1ZdQZTomZ2r"
+    },
+    {
+      "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/4AakPdZL04Ksf0fhcCuXD1"
+      },
+      "artists": [
+        {
+          "name": "VICTON",
+          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR"
     },
     {
       "album": {

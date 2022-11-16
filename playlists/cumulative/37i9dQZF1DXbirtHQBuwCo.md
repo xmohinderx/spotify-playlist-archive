@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: SAAY\)
+> Trendy & Chill 한국 R&B\. Be laid\-back with groovy K\-R&B\. \(Cover: GEMINI\)
 
 450 songs - 1 day 0 hr 32 min - [published](https://open.spotify.com/playlist/3joqGbdyT1iJwODdo3szax)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Roddy Ricch
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,139 likes - 59 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,198 likes - 59 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 21 | [....\. Realest Nigga Eva](https://open.spotify.com/track/08DKx4vVFuSfsHXsa2k5hB) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Killa Cam](https://open.spotify.com/artist/4pr3PuSCMEUzZSTPvxJqt7) | [....\. Realest Nigga Eva](https://open.spotify.com/album/5H3Tv1QA3ZEG4vnL8NoiLp) | 1:38 |
 | 22 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |
 | 23 | [Alone](https://open.spotify.com/track/4QAGZ4ikVFkvEGIXzNFEae) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Alone](https://open.spotify.com/album/1qJNRLLa5s0hhFzRXQYgLF) | 2:38 |
-| 24 | [A\-Wax & O\-Dog](https://open.spotify.com/track/2kQysaEEoS0lC6aecJf6Yl) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [What They Hittin 4](https://open.spotify.com/album/7v0WlaIQ04GDsdTuVd8xS9) | 2:58 |
+| 24 | [A\-Wax & O\-Dog](https://open.spotify.com/track/0rM1ApMWW6RRk7Hbme8omR) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [What They Hittin 4](https://open.spotify.com/album/1vvhGE0zYoGnjQhhx0SWi9) | 2:58 |
 | 25 | [Fantastic](https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fantastic](https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz) | 2:52 |
 | 26 | [In The Air Where It's Fair](https://open.spotify.com/track/7bNb257ZjR97xrZ5O3dhpx) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Cousin Fik](https://open.spotify.com/artist/10R4IEMALwGnHJVPEoumW5) | [In The Air Where It's Fair](https://open.spotify.com/album/2IMKcPrjBSA9DDd3Iq2CMh) | 2:26 |
 | 27 | [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/track/2eWAqyAJWW0gQ5EoXQofLx) | [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [FREDOBAGZ](https://open.spotify.com/artist/0euYOLFecgeOBTuMewENL0) | [PARTY WITH THE GANG \(feat\. P\-LO & FREDOBAGZ\)](https://open.spotify.com/album/3o5dOgyF7CVccsiOqUk7Ob) | 2:29 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 58 | [Settled \(feat\. Russ\)](https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [The Blue Hour](https://open.spotify.com/album/4DTVVsFW3Jhi4Jw8flTAGR) | 3:41 |
 | 59 | [Fire Proof](https://open.spotify.com/track/3QANNgnNhT17Ll4xbPPKpY) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Fire Proof](https://open.spotify.com/album/1lkXpwEqvshMPhGFLm8gJI) | 2:02 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDZiYTQ4NjE3NTdkNjFlY2RkYjQ5YWM3MWQ0M2UzNTYy`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGM2YTRjMmU2MTdhNjE1YTQwODJjMThiODJhNjExMjFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,315 likes - 102 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,745 likes - 102 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 28 | [Back Door Santa](https://open.spotify.com/track/2WhXgMG0rkNekIB98RHfEM) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Back Door Santa](https://open.spotify.com/album/0ZBgME8B93wdLfeR9mVInX) | 2:26 |
 | 29 | [A Change at Christmas \(Say It Isn't So\)](https://open.spotify.com/track/6ElQgnYiLzrsGH4GRJsYBc) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 5:21 |
 | 30 | [Christmas Time \(Is Here Again\)](https://open.spotify.com/track/2jNdOB7P8haPjgvPoYBzkY) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Christmas Time \(Is Here Again\)](https://open.spotify.com/album/0HB7Iia18Csd34x85Apsnb) | 3:56 |
-| 31 | [Snow in Montana](https://open.spotify.com/track/2qNdBOuOlZaML9ZEktD6mi) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS), [Moony](https://open.spotify.com/artist/1FXHK05nyBt3fmMYfQljRi), [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [Snow in Montana](https://open.spotify.com/album/0bwOZcIDnfGPTDN6CGkA1D) | 3:35 |
+| 31 | [Snow in Montana](https://open.spotify.com/track/2qNdBOuOlZaML9ZEktD6mi) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Gabrielle Grace](https://open.spotify.com/artist/04I7vAN53FF1W4I3c0kdnS), [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ), [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [Snow in Montana](https://open.spotify.com/album/0bwOZcIDnfGPTDN6CGkA1D) | 3:35 |
 | 32 | [Christmas Time Is Here](https://open.spotify.com/track/6qsGiwpMUHXo752nUPg1YW) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [this is our Christmas album](https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC) | 2:45 |
 | 33 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 34 | [Little Saint Nick \- 1991 Remix](https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys' Christmas Album](https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3) | 1:58 |

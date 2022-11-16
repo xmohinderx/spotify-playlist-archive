@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > This is a takeover playlist of Lim Jae Beum, the representative vocalist of Korea\. Meet Lim's 10 representative vocal songs at the top of the playlist\. \(대한민국을 대표하는 보컬 임재범의 플레이리스트 테이크오버입니다\. 임재범의 대표 보컬곡 10곡을 플레이리스트 최상단에서 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,896 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,882 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

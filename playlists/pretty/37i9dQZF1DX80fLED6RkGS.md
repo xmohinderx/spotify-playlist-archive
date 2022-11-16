@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G?si=7wf3aHhaQdKrYmro01xT\-Q">Ethic Entertainment </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,869 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,876 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

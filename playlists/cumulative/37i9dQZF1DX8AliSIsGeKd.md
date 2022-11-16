@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Adana Twins
 
-1,013 songs - 3 day 20 hr 41 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+1,014 songs - 3 day 20 hr 46 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Clamato](https://open.spotify.com/track/1jNPV5NpnuC2dtgI7lzQX4) | [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy), [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Michelada Brothers](https://open.spotify.com/album/6AdVgEAX7QaYOElbOqqoxp) | 6:51 | 2022-04-14 | 2022-04-22 |
 | [Clap Clap Clap \- Radio Edit](https://open.spotify.com/track/1QLSLiXvYONze7G0JILyLr) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Clap Clap Clap](https://open.spotify.com/album/2q0eutJbJV1063wEvatjP5) | 4:18 | 2022-08-12 | 2022-08-26 |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/1PuxHPD8l3mm2CbxrMXy8N) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Clara \(the night is dark\)](https://open.spotify.com/album/6nneI0xOh7SR2zvzHcvB5g) | 4:38 | 2022-10-27 | 2022-10-29 |
-| [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 | 2022-10-27 |  |
+| [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 | 2022-10-27 | 2022-11-16 |
+| [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 | 2022-11-11 |  |
 | [Clarity](https://open.spotify.com/track/1sx2rzsTFeqqHRYugGZVIB) | [Atroxx](https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw), [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Clarity](https://open.spotify.com/album/0ve5omxRE21tbmQMb8cA33) | 6:15 | 2022-06-23 | 2022-07-15 |
 | [Clavicle](https://open.spotify.com/track/6x7Dpmy13LxD0scMJlo7y0) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clavicle](https://open.spotify.com/album/72ORLqTAUwh9s0VofE4WCb) | 3:33 | 2022-07-21 | 2022-08-12 |
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-20 | 2022-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWU6Rfto8Ppm.md) - [plain]
 
 > Acuérdate de estos clásicos\. Foto: Daddy Yankee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,806,177 likes - 200 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,808,375 likes - 200 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,011 likes - 115 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,035 likes - 115 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

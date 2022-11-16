@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. El Fantasma & Pepe Aguilar en portada.
 
-268 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+269 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [JGL \- En Vivo Desde El Domo Care Monterrey](https://open.spotify.com/track/1TTOwduhBruFT2l2JCEAXb) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [JGL \(En Vivo Desde El Domo Care Monterrey\)](https://open.spotify.com/album/74FACjFluJEZ4nAjH1hqb3) | 2:56 | 2022-07-29 | 2022-09-03 |
 | [JMV](https://open.spotify.com/track/26ItIrmiOMWWlhSYLxS7OD) | [Grupo Los de Chiwas](https://open.spotify.com/artist/55UyMd1aJojv9xFEg5cLbR) | [JMV](https://open.spotify.com/album/2WSs7vhI8otrqCPqod7nNp) | 2:54 | 2022-10-14 | 2022-10-22 |
 | [Joaquín](https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joaquín](https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi) | 3:29 | 2022-09-02 | 2022-11-05 |
-| [Joven Del Estado 26 \(Zutano\)](https://open.spotify.com/track/3K0hDGGwqqhBNxGdNYIzAu) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Seguimos En El Ruedo](https://open.spotify.com/album/3grZSbOEYhcSMdkD5Dd9ey) | 3:05 | 2022-11-11 |  |
+| [Joven Del Estado 26 \(Zutano\)](https://open.spotify.com/track/3K0hDGGwqqhBNxGdNYIzAu) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Seguimos En El Ruedo](https://open.spotify.com/album/3grZSbOEYhcSMdkD5Dd9ey) | 3:05 | 2022-11-11 | 2022-11-16 |
+| [Joven Del Estado 26 \(Zutano\)](https://open.spotify.com/track/3hR7APoVaz6qsa6m6aaKCP) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Seguimos En El Ruedo](https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA) | 3:05 | 2022-11-11 |  |
 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 | 2022-09-23 | 2022-11-12 |
 | [La Buena Sombra](https://open.spotify.com/track/1H5NbrBxrCY6XLAPc8i831) | [Grupo Escolta](https://open.spotify.com/artist/4ZBmQM7663rZsb4Ir96awl) | [La Buena Sombra](https://open.spotify.com/album/1h6QnIoyC7ddG4eQu1skVt) | 3:06 | 2022-07-15 | 2022-09-03 |
 | [La Cabalgata de San Judas](https://open.spotify.com/track/556HUE8wvrUKHfkg6uk3p0) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [La Cabalgata de San Judas](https://open.spotify.com/album/3cQZlfVxAB3lICkd17FMbR) | 2:28 | 2022-10-28 | 2022-11-12 |

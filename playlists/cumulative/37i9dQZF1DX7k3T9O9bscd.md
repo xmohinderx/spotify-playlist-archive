@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-246 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+247 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Estratagema](https://open.spotify.com/track/0hqCVbE0yN4Ta5o8wJSbOY) | [Strange Color](https://open.spotify.com/artist/31AXponRbJJncqwRJy8CEX) | [Estratagema](https://open.spotify.com/album/1uusJlOWHPGktNiwcNhUEG) | 6:39 | 2021-11-12 | 2022-07-16 |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-03-18 |  |
 | [Fanfare for Effective Freedom](https://open.spotify.com/track/3oVZYXAb0rzN6MELLiFXPa) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV) | [The Common Task](https://open.spotify.com/album/4K3Dv0nnMK10uxpphFNCco) | 7:21 | 2021-11-12 | 2022-07-29 |
+| [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 | 2022-11-15 |  |
 | [Fantôme](https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Fantôme](https://open.spotify.com/album/35LP1ys9GIAUAIrk7XT3RZ) | 5:06 | 2021-11-12 | 2022-07-29 |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-04-12 |  |
 | [Fishbelly 86 Onions](https://open.spotify.com/track/7HiyaZlTkSRWvLrHfBMcqz) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Fishbelly 86 Onions](https://open.spotify.com/album/1rQg83IzxLuBv2WEYywn6c) | 6:02 | 2021-11-12 | 2022-07-29 |
@@ -183,7 +184,7 @@
 | [Roky Said](https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla) | 3:16 | 2021-11-12 |  |
 | [Sally Go Round the Sun](https://open.spotify.com/track/16k2KM42CJEZ8uOC4v1vGV) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Elephant Stone](https://open.spotify.com/album/41HLlu4L2IDH7n9rHk8Yix) | 1:44 | 2021-11-12 |  |
 | [Sally Go Round the Sun](https://open.spotify.com/track/3sU662XXk5o2piJKZGFUdq) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [Elephant Stone](https://open.spotify.com/album/2xUECIo0BalLsOl686J9kt) | 1:44 | 2021-11-12 | 2022-07-29 |
-| [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 | 2021-11-12 |  |
+| [Secrets](https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A Dream of Lasting Peace](https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw) | 3:38 | 2021-11-12 | 2022-11-16 |
 | [See](https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB) | [Hooveriii](https://open.spotify.com/artist/4zmrLVufAWS6bWdSfXfaB7) | [A Round of Applause](https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw) | 4:25 | 2022-08-03 | 2022-09-26 |
 | [See You There](https://open.spotify.com/track/4I9nM23gQdVXJC4x3uR5rF) | [Psychic Ills](https://open.spotify.com/artist/0BdrIHWUDg179f9H7pjJMC) | [One Track Mind](https://open.spotify.com/album/62cOtP1qQXl7KdLHC4AO7R) | 5:03 | 2021-11-12 | 2022-07-06 |
 | [Seven Eight](https://open.spotify.com/track/0ZRcldb8W55uBCrNBXZp1o) | [Ghost Funk Orchestra](https://open.spotify.com/artist/5gZWu16OAMVGmfLFNj0NCT) | [A Song For Paul](https://open.spotify.com/album/0w6knr7boQarN35qErXXeu) | 3:12 | 2021-11-12 |  |

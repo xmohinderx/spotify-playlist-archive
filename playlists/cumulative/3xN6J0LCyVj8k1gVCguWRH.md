@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,815 songs - 4 day 8 hr 54 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,817 songs - 4 day 9 hr 0 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,6 +711,7 @@
 | [High](https://open.spotify.com/track/5gLhzK8Kw9KLF8KsJsrMrd) | [BVRRN](https://open.spotify.com/artist/7Ej3lUk6zjH7k9dUCoKrOO) | [High](https://open.spotify.com/album/3Pjufswnv1AjfTfc7eyL6M) | 3:23 | 2021-04-24 | 2021-05-09 |
 | [Higher](https://open.spotify.com/track/1AeqdOUul6h2wVmqCL9thP) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:27 | 2020-08-20 |  |
 | [Higher](https://open.spotify.com/track/2Priq7Nl29mtteqv6d7EDS) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9) | [Higher](https://open.spotify.com/album/03NCq4nTSumsekvKBKqbDv) | 2:24 | 2021-03-26 | 2021-04-11 |
+| [Higher](https://open.spotify.com/track/5sIRZ8xSKnx4DbdKoudJBB) | [Piper\-Grace](https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj) | [Higher](https://open.spotify.com/album/14o78CbXlh0AHA6FnQTgxW) | 3:03 | 2022-11-15 |  |
 | [HIGHS & lows](https://open.spotify.com/track/2HVtP4lo603ORTZ4ni2vrx) | [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [HIGHS & lows](https://open.spotify.com/album/5NNWjE2uJES2xMglbWDdEG) | 3:38 | 2021-10-16 | 2021-10-31 |
 | [Historia De Un Amor](https://open.spotify.com/track/5D3QuGmdDWtCvMcpVA3l9i) | [Tonina](https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b), [Javier Limón](https://open.spotify.com/artist/001TRduQniM6dsJbQpMsbJ), [Tali Rubinstein](https://open.spotify.com/artist/0UmrGvZDdSKmkq8pLVX9p8) | [Black Angel](https://open.spotify.com/album/1C243tneCDTSgxjZuqr1P5) | 3:41 | 2021-08-28 | 2021-09-11 |
 | [Hit That Low](https://open.spotify.com/track/7iEuUjYJkb6BUJP9bVciPU) | [Jonathan Bo](https://open.spotify.com/artist/1bMsSoqQX7WlyBir8yZ3Wh) | [Hit That Low](https://open.spotify.com/album/6AuZcFXTwXv7shg3FMBQYg) | 3:25 | 2022-07-04 | 2022-07-22 |
@@ -1190,6 +1191,7 @@
 | [Only In America](https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:28 | 2020-11-17 | 2020-12-02 |
 | [Only One](https://open.spotify.com/track/11g4ZLlSgjwNPrlyBhhK5G) | [Blue Sails](https://open.spotify.com/artist/7K8pOBXISyUXE08MVIlt4O) | [Only One](https://open.spotify.com/album/4AcbBkKvqpHJvBwcW7A6Rn) | 4:48 | 2021-01-15 | 2021-01-30 |
 | [Only Us](https://open.spotify.com/track/4hsitJwVkpy8b7wDRzhVel) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Only Us](https://open.spotify.com/album/3gAF3FpWgNZKX3RfpFohQ0) | 3:07 | 2021-07-23 | 2021-08-08 |
+| [Operator, Please](https://open.spotify.com/track/5wadPleekPHv7GjAOEfOZS) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Operator, Please / Seasons of Trouble](https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF) | 3:19 | 2022-11-15 |  |
 | [Orange](https://open.spotify.com/track/78I7REFKs4WPEd0JuQJgxm) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Orange](https://open.spotify.com/album/4gYV6DMYozgUcTT8gORd0y) | 3:13 | 2022-07-15 | 2022-07-31 |
 | [Orange](https://open.spotify.com/track/2V6qzoX7Urn5QcNib1yvrI) | [Sabe Anderson](https://open.spotify.com/artist/6nDI30LMNn69U93QoJ05bt) | [Orange](https://open.spotify.com/album/6VDobIt9k6PzaOdjYp1l4U) | 3:48 | 2022-11-04 |  |
 | [Osprey Park](https://open.spotify.com/track/7CWc1AWtfHpoq8qj2XCDdb) | [Sarah Gross](https://open.spotify.com/artist/58lbHYipYB2JGbElUXeG2p) | [The Riversides EP](https://open.spotify.com/album/0IisQC9f4M5VDz9Koa0ZwY) | 3:02 | 2022-02-04 | 2022-02-20 |

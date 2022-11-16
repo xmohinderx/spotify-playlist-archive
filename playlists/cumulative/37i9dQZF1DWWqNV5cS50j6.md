@@ -4,7 +4,7 @@
 
 > BROCKHAMPTON makes anti pop.
 
-1,187 songs - 2 day 9 hr 31 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
+1,188 songs - 2 day 9 hr 33 min - [published](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-02-25 | 2022-03-12 |
 | [Sabrina \(i am a party\)](https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:19 | 2022-10-08 |  |
 | [SAD GIRLZ LUV MONEY](https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:16 | 2021-07-18 | 2021-10-14 |
+| [Sad Nebula](https://open.spotify.com/track/1Y8wquy34DFMRpjbOiGtxa) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 2:23 | 2022-11-15 |  |
 | [SAD!](https://open.spotify.com/track/21MPugjbKDYlbhskZ6LphE) | [nobody nobody](https://open.spotify.com/artist/2sBt2NOgf7NW9QJw7lOtA1), [plainfacedgirl](https://open.spotify.com/artist/56ndcMHyMOYHVclwDDHXcs) | [SAD!](https://open.spotify.com/album/6SoYF02YEA2JT2WUFqBTcz) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [sad4whattt \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 | 2022-08-16 | 2022-11-10 |
 | [Said](https://open.spotify.com/track/2C3NqGue28mX7oBWKK4CdZ) | [070 Beheard](https://open.spotify.com/artist/2Xw4QVCesV84ikNiw6i8QV), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Said](https://open.spotify.com/album/3t1DhqdAvIXbgZFlIBH5vp) | 4:12 | 2021-03-14 | 2021-05-29 |

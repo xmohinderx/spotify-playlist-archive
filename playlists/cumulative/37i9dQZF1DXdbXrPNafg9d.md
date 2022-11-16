@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Cruza
 
-4,442 songs - 10 day 20 hr 56 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,443 songs - 10 day 20 hr 59 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2291,6 +2291,7 @@
 | [Little League](https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Little League](https://open.spotify.com/album/26WqHeLHlv0Dde7RPYVw9G) | 2:49 | 2022-02-18 | 2022-04-16 |
 | [Little Things](https://open.spotify.com/track/41YZXlOIGKmaa3RJpBn2Qy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Little Things/Sparrow](https://open.spotify.com/album/3ZftJ3ZvQf8Sas1pUVSjZU) | 5:44 | 2021-08-14 | 2021-10-02 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-25 | 2021-11-20 |
+| [Livin in Hell](https://open.spotify.com/track/2kOtoHo90KPbk8AD0pXMGN) | [Your Grandparents](https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq) | [Livin in Hell](https://open.spotify.com/album/0CGPXjEQFjsBLvolwXTONL) | 3:06 | 2022-11-11 |  |
 | [living far away](https://open.spotify.com/track/3LI67DuBMjlhVeg5Z50nHi) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [living far away](https://open.spotify.com/album/0uhIHWuzEYVDrANrfclLzj) | 2:58 | 2021-04-24 | 2021-06-26 |
 | [Living Proof](https://open.spotify.com/track/6bIXN4xCot0hiEfzl2xFZR) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Living Proof](https://open.spotify.com/album/5KxYGbvy6UPe6at4W8hE45) | 4:53 | 2021-07-24 | 2021-09-18 |
 | [Living Room](https://open.spotify.com/track/1Rg572m24H2cjrbzSYhW2g) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Living Room](https://open.spotify.com/album/2mWvsZ54QOniV2kWpDkUBQ) | 3:05 | 2020-01-17 | 2020-03-06 |

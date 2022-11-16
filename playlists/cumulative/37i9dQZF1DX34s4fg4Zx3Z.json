@@ -948,6 +948,28 @@
     },
     {
       "album": {
+        "name": "BABI IM IN LOVE",
+        "url": "https://open.spotify.com/album/4PqfRqbERqTPBNvqWgCbko"
+      },
+      "artists": [
+        {
+          "name": "NP.2",
+          "url": "https://open.spotify.com/artist/0FqdaYWdo1r4esDdZ4wA8n"
+        },
+        {
+          "name": "Poll",
+          "url": "https://open.spotify.com/artist/3xQWxnx3qhT127zrRaRXMN"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210387,
+      "name": "BABI IM IN LOVE",
+      "url": "https://open.spotify.com/track/1eGGGwfiaBdxuGoH1e1Gib"
+    },
+    {
+      "album": {
         "name": "Baby C\u00f3 Th\u1ea5y Em Kh\u00f4ng (feat. Freaky)",
         "url": "https://open.spotify.com/album/4XjZLj5CtLGTv80UM1Y9gK"
       },
@@ -2078,6 +2100,40 @@
     },
     {
       "album": {
+        "name": "Ch\u01a1i",
+        "url": "https://open.spotify.com/album/73n9DFigMSpl0OVOIUlM1n"
+      },
+      "artists": [
+        {
+          "name": "Kh\u00e1c H\u1ecd Records",
+          "url": "https://open.spotify.com/artist/2tC1eJc79vvyIH0sw4mLIZ"
+        },
+        {
+          "name": "X2C",
+          "url": "https://open.spotify.com/artist/4ruBa4DSUymegLyh5MsV6H"
+        },
+        {
+          "name": "LNGY",
+          "url": "https://open.spotify.com/artist/4P85cBAXFfHR7OTBe1wSVk"
+        },
+        {
+          "name": "TraceD",
+          "url": "https://open.spotify.com/artist/5oZsnZpmT2hvUHJDEgy5TH"
+        },
+        {
+          "name": "DJ Tzo",
+          "url": "https://open.spotify.com/artist/7k6G3hJXloo3wmP7wlbmgs"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Ch\u01a1i",
+      "url": "https://open.spotify.com/track/4x21TQ5qMPbyHLktv5daN5"
+    },
+    {
+      "album": {
         "name": "Ch\u01b0a V\u1ec1 \u0110\u01b0\u1ee3c Nh\u00e0",
         "url": "https://open.spotify.com/album/2iwJHXi6LJSEEEAeMiscqd"
       },
@@ -2199,6 +2255,28 @@
       "duration_ms": 226433,
       "name": "Ch\u1eb3ng Ra L\u00e0m Sao",
       "url": "https://open.spotify.com/track/5FwU9GvLChlh6hGBO52gsq"
+    },
+    {
+      "album": {
+        "name": "ch\u1eb3ng th\u1ec3 l\u00e0m kh\u00e1c \u0111i",
+        "url": "https://open.spotify.com/album/2F222kmQe60kBexxfgireh"
+      },
+      "artists": [
+        {
+          "name": "Kidie the soloist*",
+          "url": "https://open.spotify.com/artist/2a29SvBumOQL1oLAfN0itA"
+        },
+        {
+          "name": "Fuse.",
+          "url": "https://open.spotify.com/artist/0cQxe8kFr1SVttZ3AIDxie"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "ch\u1eb3ng th\u1ec3 l\u00e0m kh\u00e1c \u0111i",
+      "url": "https://open.spotify.com/track/3LTKpxispcsNhJHTEQR65K"
     },
     {
       "album": {
@@ -2475,7 +2553,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 213606,
       "name": "COMETHRU",
       "url": "https://open.spotify.com/track/4vbcZrRsrQXgx1moiV0Saz"
@@ -2918,6 +2996,24 @@
     },
     {
       "album": {
+        "name": "C\u00f3 Nhau",
+        "url": "https://open.spotify.com/album/50wsXBvTQ8t2IU5RKBOJcs"
+      },
+      "artists": [
+        {
+          "name": "SimonC",
+          "url": "https://open.spotify.com/artist/6zOVCw3nQ3Yjs6uzNVF2OQ"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "C\u00f3 Nhau",
+      "url": "https://open.spotify.com/track/4dU71Di6wSPcrmCHWiuXVE"
+    },
+    {
+      "album": {
         "name": "C\u00f3 Ph\u1ea3i Em S\u1ee3 Y\u00eau",
         "url": "https://open.spotify.com/album/6c4XR3A54l5rCMfA3LJHE6"
       },
@@ -2947,7 +3043,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 220000,
       "name": "C\u00f3 \u0110\u00e2u Ai Ng\u1edd",
       "url": "https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD"
@@ -4850,6 +4946,36 @@
     },
     {
       "album": {
+        "name": "H\u00e2m N\u1eb7ng",
+        "url": "https://open.spotify.com/album/54rPY70AFYED7BYzez695R"
+      },
+      "artists": [
+        {
+          "name": "KayC",
+          "url": "https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8"
+        },
+        {
+          "name": "Mcee Blue",
+          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
+        },
+        {
+          "name": "Trung Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ"
+        },
+        {
+          "name": "Lu",
+          "url": "https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "H\u00e2m N\u1eb7ng",
+      "url": "https://open.spotify.com/track/1ZvK9NTCmyB0fo1yVxwk7C"
+    },
+    {
+      "album": {
         "name": "H\u00e3y Gi\u1eef Cho Em",
         "url": "https://open.spotify.com/album/20gBtB0yD3C26XhjA0agc6"
       },
@@ -5007,6 +5133,24 @@
       "duration_ms": 294960,
       "name": "H\u1ea1nh Ph\u00fac M\u1edbi",
       "url": "https://open.spotify.com/track/5UJWKVl4jHM0Yxig7RI6dC"
+    },
+    {
+      "album": {
+        "name": "H\u1ea0NH PH\u00daC TR\u00d2N",
+        "url": "https://open.spotify.com/album/2Xo823O8Hy7wGUFrQGc9m5"
+      },
+      "artists": [
+        {
+          "name": "Lang T\u0103ng",
+          "url": "https://open.spotify.com/artist/2IWMsFbcKo1eb4gtgCuOmV"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257174,
+      "name": "H\u1ea1nh ph\u00fac tr\u00f2n",
+      "url": "https://open.spotify.com/track/1ZCCXfXl7FFeYMuMXm4bqn"
     },
     {
       "album": {
@@ -5483,7 +5627,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 132180,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/2bdkfHdbtXdS8jaLwP6kK1"
@@ -11459,7 +11603,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 174216,
       "name": "T\u1eebng",
       "url": "https://open.spotify.com/track/08VxVMoeU8syyF4V1jkcG2"
@@ -11615,7 +11759,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 205333,
       "name": "Va V\u00e0o T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/32bf7GlG2K6I3QcXd2Azdr"
@@ -12009,7 +12153,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 180000,
       "name": "V\u1eabn Nh\u1edb",
       "url": "https://open.spotify.com/track/7nd25ZD4XqmbDoLAcTZ5MM"
@@ -12591,6 +12735,24 @@
       "duration_ms": 196853,
       "name": "\u00c0 M\u00e0 Th\u00f4i (c\u00f3 ng\u01b0\u1eddi lu\u00f4n n\u00f3i...)",
       "url": "https://open.spotify.com/track/1HkqIHTJikkQWXdS0wRIKp"
+    },
+    {
+      "album": {
+        "name": "\u00c1nh Tr\u0103ng \u00d4m M\u1eb7t Tr\u1eddi",
+        "url": "https://open.spotify.com/album/4IypDU7vC78dIm1ulvSINL"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u1ec5n Trung \u0110\u1ee9c",
+          "url": "https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "\u00c1nh Tr\u0103ng \u00d4m M\u1eb7t Tr\u1eddi",
+      "url": "https://open.spotify.com/track/1NrnaQd63f7czk511hYBkL"
     },
     {
       "album": {
@@ -13541,7 +13703,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 172118,
       "name": "\u0110\u1eebng Qua M\u1eb7t Em",
       "url": "https://open.spotify.com/track/6c6E4OUS8NOl5HkuvAF2ji"

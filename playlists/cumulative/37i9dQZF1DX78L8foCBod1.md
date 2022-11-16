@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-124 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
+126 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/2rE5a26Axvv4DWNYd8FyYO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,8 @@
 | [Tranquility](https://open.spotify.com/track/4U5PadmkZvwnEixcCVTuGM) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [iv](https://open.spotify.com/album/5gCI0vdexP2ItOqQnENQ6w) | 4:43 | 2022-06-07 |  |
 | [UNICORN](https://open.spotify.com/track/3YbioJ807KAVVzY3NFdpF5) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [機動戦士ガンダムUC オリジナルサウンドトラック 1](https://open.spotify.com/album/356HeuMTwxtzeeIREkfJTo) | 4:46 | 2022-06-07 | 2022-07-29 |
 | [Unicorn](https://open.spotify.com/track/7q1pK4BgyC0H2Y8t9rh6Qh) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 1](https://open.spotify.com/album/7ylxV9GzV7U6lhQLKnHGWU) | 4:46 | 2022-06-21 |  |
+| [VANE](https://open.spotify.com/track/1o3cQIcJVmhtlTecl2bekc) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VANE](https://open.spotify.com/album/02deSQPU1TA1cmASLBUgWu) | 3:29 | 2022-11-15 |  |
+| [VANE \- English Ver.](https://open.spotify.com/track/2b2ac5Ng0bMnFGpIQ6Xn0k) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VANE \(English Ver.\)](https://open.spotify.com/album/25DRBaekz7SLPO27kHiLUC) | 3:29 | 2022-11-15 |  |
 | [Vigilante](https://open.spotify.com/track/2Hke7HBRTa9rlbSN2gUKNB) | [mpi & Gemie](https://open.spotify.com/artist/23YITgz9JtLap171zsjibc) | [Vigilante](https://open.spotify.com/album/26lu87DIn5RzIAtVDNtvaP) | 3:45 | 2022-06-07 |  |
 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 \~乱世、再び!\~](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 | 2022-06-07 |  |
 | [X.U.](https://open.spotify.com/track/15tzlxIHJKn0axkuhhCvUX) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:43 | 2022-06-21 |  |

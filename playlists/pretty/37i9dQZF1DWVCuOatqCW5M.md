@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- DIVINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,049 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,098 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 13 | [Doob Ja](https://open.spotify.com/track/1Y3W451uvsj7cz5KSaZFjn) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Doob Ja](https://open.spotify.com/album/2yBsjlugV3JzChZtTAARhI) | 4:06 |
 | 14 | [Together Forever](https://open.spotify.com/track/2YMlGrhVHdbXeDejv0R77R) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Together Forever](https://open.spotify.com/album/7q3J5Z39LFEq1HEdOkfdD9) | 3:49 |
 | 15 | [Street Lori](https://open.spotify.com/track/5zX5SGzWkMoMIPv1HKMaFa) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 3:45 |
-| 16 | [Inni Si Gal](https://open.spotify.com/track/4jj4pNTBG060Nqa3EH1agv) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Inni Si Gal \- Single](https://open.spotify.com/album/675AWjsyb446jjoFk4hizO) | 3:22 |
+| 16 | [Inni Si Gal](https://open.spotify.com/track/4jj4pNTBG060Nqa3EH1agv) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Inni Si Gal \- Single](https://open.spotify.com/album/675AWjsyb446jjoFk4hizO) | 3:22 |
 | 17 | [Apna Bana Le](https://open.spotify.com/track/3ATQIPBT5i5LfhUVNIdjBz) | [Imran Raza](https://open.spotify.com/artist/2EEIa2ZLFgsdTXKarNATYl) | [Apna Bana Le](https://open.spotify.com/album/3tkM1ZoTNv9uxmKIFvmbYl) | 2:24 |
 | 18 | [Mehman](https://open.spotify.com/track/6mPet122yXpp6X8iTiNVo9) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Mehman](https://open.spotify.com/album/23LclG4COVNQYBCkdsYieh) | 4:30 |
 | 19 | [Tum Na Aaye](https://open.spotify.com/track/0m84Kkj7oZdqUumOnSOsKP) | [Soham Naik](https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm), [Nilakshi Neog](https://open.spotify.com/artist/1JVksLcSTjb4zgJXRCvqGG) | [Tum Na Aaye](https://open.spotify.com/album/22zkkuFDLTC9OnZ80ed8Ag) | 3:31 |

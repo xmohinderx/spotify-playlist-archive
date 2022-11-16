@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Varisu
 
-350 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+351 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Amma Nah Nah](https://open.spotify.com/track/3GUTLZjsJ7YbZso2pv9m21) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Gulu Gulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KmLcrWoKDFkc5gDADIzue) | 2:04 | 2022-07-28 | 2022-08-25 |
 | [Anandha Thavamae \- From "Driver Jamuna"](https://open.spotify.com/track/39kFc4oPV0LFTNBBg6j4y3) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Kabilan](https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6), [Rajeevi Ganesh](https://open.spotify.com/artist/4W2Peyb7VZa4CHzTkmQS02), [Aravind Srinivas](https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf) | [Anandha Thavamae \(From "Driver Jamuna"\)](https://open.spotify.com/album/6SpBhAhO2tA7cmHYNtG2Ec) | 3:45 | 2022-10-27 | 2022-11-15 |
 | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH) | 3:44 | 2022-07-23 | 2022-09-23 |
+| [Appatha \- From "Naai Sekar Returns"](https://open.spotify.com/track/6mD6M8aaD8yj0KdoKAFR7T) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vaigaipuyal Vadivelu](https://open.spotify.com/artist/0KRF4VuSjVHpIhaxRk0TZa), [Asal Kolar](https://open.spotify.com/artist/4uN7BZV1gttGLJL2YXtxxi) | [Appatha \(From "Naai Sekar Returns"\)](https://open.spotify.com/album/0O3AfpSl9KskcfeTI4jZlF) | 2:55 | 2022-11-15 |  |
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-02-14 | 2022-08-05 |
 | [Arakka Parakka](https://open.spotify.com/track/4OebL7jOyAu08pg75ZkvmC) | [K](https://open.spotify.com/artist/2XP6sMIt93QYAb3mrkl2Hy) | [Panni Kutty \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mNRx0LHYcDI95r3lJtZkv) | 2:25 | 2022-07-01 | 2022-07-08 |
 | [Attack \(From "Liger \(Tamil\)"\)](https://open.spotify.com/track/7cYusGLIcLmJiU8Jrcb47k) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5) | [Attack \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/5oJrJAxF8dDwFQje2dZE1r) | 3:09 | 2022-08-23 | 2022-09-10 |

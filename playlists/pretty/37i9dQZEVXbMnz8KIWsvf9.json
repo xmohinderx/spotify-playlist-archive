@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Thailand.",
-  "num_followers": 133036,
+  "num_followers": 133090,
   "original_name": "Top 50 - Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIxNzU3MzkyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIxODI4MTczLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32 (Consider)",
         "url": "https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "Pauley & Jeen",
         "url": "https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA"
@@ -49,103 +65,7 @@
       "url": "https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/1hmpvMQD6vOAf4dpT67jsP"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        }
-      ],
-      "duration_ms": 210875,
-      "name": "17",
-      "url": "https://open.spotify.com/track/4cxB2603ulZZjod5FwmWy1"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
-        "url": "https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1"
-      },
-      "artists": [
-        {
-          "name": "YourMOOD",
-          "url": "https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
-      "url": "https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e27\u0e32\u0e14\u0e44\u0e27\u0e49 (recall)",
-        "url": "https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 255724,
-      "name": "\u0e27\u0e32\u0e14\u0e44\u0e27\u0e49 - recall",
-      "url": "https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
-      },
-      "artists": [
-        {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
-        "url": "https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 262386,
-      "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
-      "url": "https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "GOT7",
         "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
@@ -161,23 +81,103 @@
       "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
-        "name": "Cigarette Candy & Vanilla Sky",
-        "url": "https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu"
+        "name": "17",
+        "url": "https://open.spotify.com/album/1hmpvMQD6vOAf4dpT67jsP"
       },
       "artists": [
         {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
         }
       ],
-      "duration_ms": 247398,
-      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21 - melt",
-      "url": "https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi"
+      "duration_ms": 210875,
+      "name": "17",
+      "url": "https://open.spotify.com/track/4cxB2603ulZZjod5FwmWy1"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1"
+      },
+      "artists": [
+        {
+          "name": "YourMOOD",
+          "url": "https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e27\u0e32\u0e14\u0e44\u0e27\u0e49 (recall)",
+        "url": "https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 255724,
+      "name": "\u0e27\u0e32\u0e14\u0e44\u0e27\u0e49 - recall",
+      "url": "https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
+        "url": "https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
+      "url": "https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15 (feat. Da Endorphine)",
         "url": "https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v"
@@ -197,7 +197,23 @@
       "url": "https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "Cigarette Candy & Vanilla Sky",
+        "url": "https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 247398,
+      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21 - melt",
+      "url": "https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
         "url": "https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh"
@@ -229,55 +245,7 @@
       "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
-        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
-      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "FIRE BOY",
-        "url": "https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux"
-      },
-      "artists": [
-        {
-          "name": "PP Krit",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "FIRE BOY",
-      "url": "https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
@@ -293,7 +261,55 @@
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "FIRE BOY",
+        "url": "https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux"
+      },
+      "artists": [
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "FIRE BOY",
+      "url": "https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
+        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
+      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
@@ -313,23 +329,7 @@
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 222727,
-      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "Very Very Small",
         "url": "https://open.spotify.com/album/4L24mGqpypY7d94CPDD6PT"
@@ -345,23 +345,23 @@
       "url": "https://open.spotify.com/track/2ZtuVu1WOY5vWHzcpUPEQ2"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
-        "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
-        "url": "https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q"
+        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
         }
       ],
-      "duration_ms": 253820,
-      "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
-      "url": "https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP"
+      "duration_ms": 222727,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -377,7 +377,55 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e15\u0e2d\u0e1a\u0e40\u0e25\u0e22\u0e19\u0e49\u0e32 (What's the matter?)",
+        "url": "https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj"
+      },
+      "artists": [
+        {
+          "name": "LAZ1",
+          "url": "https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz"
+        }
+      ],
+      "duration_ms": 233103,
+      "name": "\u0e44\u0e21\u0e48\u0e15\u0e2d\u0e1a\u0e40\u0e25\u0e22\u0e19\u0e49\u0e32 (What's the matter?)",
+      "url": "https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
+        "url": "https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        }
+      ],
+      "duration_ms": 253820,
+      "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
+      "url": "https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "Q.E.D",
+        "url": "https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "duration_ms": 240008,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48 (My Favorite)",
+      "url": "https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e17\u0e31\u0e01\u0e04\u0e23\u0e31\u0e1a",
         "url": "https://open.spotify.com/album/5JQ7Bn6uJX2Ed94W8gvvJK"
@@ -397,55 +445,7 @@
       "url": "https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "Q.E.D",
-        "url": "https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        }
-      ],
-      "duration_ms": 240008,
-      "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48 (My Favorite)",
-      "url": "https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
-      "url": "https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e15\u0e2d\u0e1a\u0e40\u0e25\u0e22\u0e19\u0e49\u0e32 (What's the matter?)",
-        "url": "https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj"
-      },
-      "artists": [
-        {
-          "name": "LAZ1",
-          "url": "https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz"
-        }
-      ],
-      "duration_ms": 233103,
-      "name": "\u0e44\u0e21\u0e48\u0e15\u0e2d\u0e1a\u0e40\u0e25\u0e22\u0e19\u0e49\u0e32 (What's the matter?)",
-      "url": "https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
         "url": "https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH"
@@ -461,23 +461,23 @@
       "url": "https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
-        "name": "good boy",
-        "url": "https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx"
+        "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB"
       },
       "artists": [
         {
-          "name": "KJ",
-          "url": "https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn"
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
         }
       ],
-      "duration_ms": 201290,
-      "name": "good boy",
-      "url": "https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh"
+      "duration_ms": 179500,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/2uNIKROQ7h7ZxBgO8PtGXA"
@@ -493,7 +493,23 @@
       "url": "https://open.spotify.com/track/4iA3PrcsOt6bmoXTaDXhf3"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "good boy",
+        "url": "https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx"
+      },
+      "artists": [
+        {
+          "name": "KJ",
+          "url": "https://open.spotify.com/artist/5VsLrcMVUw2PUCqAQNPXtn"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "good boy",
+      "url": "https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
         "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
         "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
@@ -525,7 +541,23 @@
       "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
@@ -545,7 +577,23 @@
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B"
@@ -561,7 +609,27 @@
       "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
@@ -577,7 +645,7 @@
       "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "MAS[S]TERPIECE",
         "url": "https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2"
@@ -601,43 +669,23 @@
       "url": "https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+        "name": "Only Monday",
+        "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+      "duration_ms": 264762,
+      "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/3ewJNxY8tVHvX94CAUtg89"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "You (Are) Mean a Lot to Me",
         "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
@@ -653,7 +701,71 @@
       "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
+        "url": "https://open.spotify.com/album/5Q1v7Iw9ObFmdPQJ7eroRi"
+      },
+      "artists": [
+        {
+          "name": "Alyn Wee",
+          "url": "https://open.spotify.com/artist/7DJh9nDNvYCoQnmhGaFJiH"
+        }
+      ],
+      "duration_ms": 238116,
+      "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
+      "url": "https://open.spotify.com/track/1LDG6oNPVWerLLWp2ia78I"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "It's Gonna Be OK",
+        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 288250,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01 (Until Then)",
+      "url": "https://open.spotify.com/track/3crZQarcOagdupRZNzRGWe"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/5hN6ebTHczsMaw9t0ijTXG"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/7AcomvHhlYUB0m9tIX4aC8"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e40\u0e23\u0e37\u0e2d\u0e19\u0e41\u0e1e \u0e0a\u0e38\u0e14\u0e17\u0e35\u0e48 6",
         "url": "https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy"
@@ -673,103 +785,7 @@
       "url": "https://open.spotify.com/track/5tEnHO4CoBczsvjhYgmfuD"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "Only Monday",
-        "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
-      },
-      "artists": [
-        {
-          "name": "Only Monday",
-          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
-        }
-      ],
-      "duration_ms": 264762,
-      "name": "\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07",
-      "url": "https://open.spotify.com/track/3ewJNxY8tVHvX94CAUtg89"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
-        "url": "https://open.spotify.com/album/5Q1v7Iw9ObFmdPQJ7eroRi"
-      },
-      "artists": [
-        {
-          "name": "Alyn Wee",
-          "url": "https://open.spotify.com/artist/7DJh9nDNvYCoQnmhGaFJiH"
-        }
-      ],
-      "duration_ms": 238116,
-      "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
-      "url": "https://open.spotify.com/track/1LDG6oNPVWerLLWp2ia78I"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "It's Gonna Be OK",
-        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 288250,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01 (Until Then)",
-      "url": "https://open.spotify.com/track/3crZQarcOagdupRZNzRGWe"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "SUN",
-        "url": "https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V"
-      },
-      "artists": [
-        {
-          "name": "THE TOYS",
-          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "TOY",
-      "url": "https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
-        "url": "https://open.spotify.com/album/5hN6ebTHczsMaw9t0ijTXG"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
-      "url": "https://open.spotify.com/track/7AcomvHhlYUB0m9tIX4aC8"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 (Hermionong)",
         "url": "https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj"
@@ -785,7 +801,23 @@
       "url": "https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
+      "album": {
+        "name": "SUN",
+        "url": "https://open.spotify.com/album/1hWhflOpUh3IS1UeYHIW8V"
+      },
+      "artists": [
+        {
+          "name": "THE TOYS",
+          "url": "https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "TOY",
+      "url": "https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK"
+    },
+    {
+      "added_at": "2022-11-15 11:49:33",
       "album": {
         "name": "\u0e19\u0e31\u0e01\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn"
@@ -801,52 +833,28 @@
       "url": "https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5"
     },
     {
-      "added_at": "2022-11-14 16:09:52",
+      "added_at": "2022-11-15 11:49:33",
       "album": {
-        "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
-        "url": "https://open.spotify.com/album/24Wza37KFZjHj8xbPoknaK"
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
       },
       "artists": [
         {
-          "name": "Anatomy Rabbit",
-          "url": "https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg"
-        }
-      ],
-      "duration_ms": 235058,
-      "name": "\u0e41\u0e2d\u0e1a\u0e2b\u0e27\u0e31\u0e07",
-      "url": "https://open.spotify.com/track/3qMYr2bVu2HpSKrSJ2zj8K"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
         {
           "name": "BTS",
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
-    },
-    {
-      "added_at": "2022-11-14 16:09:52",
-      "album": {
-        "name": "80 Kisses",
-        "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
-      },
-      "artists": [
-        {
-          "name": "Polycat",
-          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21",
-      "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     }
   ],
   "unique_name": "Top 50 - Thailand",

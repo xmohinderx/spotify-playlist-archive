@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,980 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,206 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 99 | [Beyond The Sea](https://open.spotify.com/track/420JnnbOMAIEyQ4r02E0tR) | [John Tesh](https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r) | [Big Band](https://open.spotify.com/album/3xrL8bvaqzEiCEQ8ioSXzq) | 4:23 |
 | 100 | [There's A Lull In My Life](https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:28 |
 
-Snapshot ID: `MTY2NzkxMzc1NywwMDAwMDAwMDMxMjI4YzEzYTIwZjcwMDVlYWQyMDVkMWYxOTVkYjRj`
+Snapshot ID: `MTY2ODUyMTI3NiwwMDAwMDAwMGNhYzY1NTdhNzZiYTg2NzRjMDVkZjA0NzVjOWRlNjZl`

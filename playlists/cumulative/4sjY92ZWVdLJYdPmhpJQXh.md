@@ -4,7 +4,7 @@
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-301 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/0quS8dxr6kBHmxA95ppCTA)
+303 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/0quS8dxr6kBHmxA95ppCTA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-05-20 |  |
 | [I Hate YoungBoy](https://open.spotify.com/track/3a397RQ7XDv3IhEVHTv8Jq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 4:21 | 2022-08-05 |  |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-04-29 |  |
+| [I Should Be Home](https://open.spotify.com/track/5OpXp5NZvzcIrVuUaFlUHE) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [I Should Be Home](https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM) | 3:00 | 2022-11-15 |  |
 | [I Still Love You](https://open.spotify.com/track/57RfH4AT3kBqvlSkv5WdJy) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [Sad Bird](https://open.spotify.com/album/38YnlQciGtGudiPFp3GCDT) | 3:22 | 2022-05-06 |  |
 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-07-15 |  |
 | [If You Ever](https://open.spotify.com/track/0V21OKHI5LkeRKCxfFkHUN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 3:37 | 2022-10-28 |  |
@@ -194,6 +195,7 @@
 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 | 2022-11-11 |  |
 | [Moment](https://open.spotify.com/track/3RZwiJMiAeiSObHO25qGK1) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Moment](https://open.spotify.com/album/5llzZfuUMShvnGzWL7x07d) | 2:12 | 2022-11-04 |  |
 | [Money, Love & Death](https://open.spotify.com/track/5bmVklahEfXTYdILTP0XFn) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [two](https://open.spotify.com/album/3yEJgyvpFHo7FhnxZyyFz3) | 2:43 | 2022-11-11 |  |
+| [Moon Man](https://open.spotify.com/track/2d0PxwVAtHR105A1gGoMKZ) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [I Should Be Home](https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM) | 3:39 | 2022-11-15 |  |
 | [Morning \(feat\. Vedo\)](https://open.spotify.com/track/48qjuDoMjMzKthlC0U7eUq) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 2:57 | 2022-08-19 |  |
 | [mr\. sunshine](https://open.spotify.com/track/2NJefEQeqDKUdyiy38GFoV) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 0](https://open.spotify.com/album/3wNkf6SHSN19bVxWCNC3Lu) | 2:57 | 2022-11-04 |  |
 | [mr\. sunshine](https://open.spotify.com/track/6x984mI891z1E2sVwYumUx) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 8](https://open.spotify.com/album/5cYaUdDHrHhOIsTlHU9Tbk) | 2:57 | 2022-09-02 |  |

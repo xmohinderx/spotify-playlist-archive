@@ -4,13 +4,13 @@
 
 > Screaming, crying, throwing up!  If you like this, you'll love  <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\.  Cover: Ava Max
 
-339 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+340 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 percent](https://open.spotify.com/track/6tD3yJpporbcCmbcdOoADp) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [10 percent](https://open.spotify.com/album/2xD4eDG2v7bIduuU1LsS3N) | 3:21 | 2022-04-08 | 2022-05-07 |
 | [100% Pure Love](https://open.spotify.com/track/46id9snGVXnL2aUR5nISKC) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [100% Pure Love](https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG) | 3:00 | 2022-11-11 |  |
-| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 |  |
+| [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 | 2022-11-16 |
 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 | 2022-09-30 |  |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-29 |  |
 | [24 Hours](https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [24 Hours](https://open.spotify.com/album/6eoDeTDawu6tl2CgNL2RDS) | 4:01 | 2022-02-15 | 2022-08-27 |
@@ -192,6 +192,7 @@
 | [Llámame](https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Llámame](https://open.spotify.com/album/4CR61ko9dziDieWFFPkGWs) | 3:04 | 2022-05-16 | 2022-06-20 |
 | [Lobby](https://open.spotify.com/track/7DByUXWmz1lQau0HLmdg1v) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Lobby](https://open.spotify.com/album/5gmkGLh7wtVd7LQat5sWbu) | 2:37 | 2022-08-19 |  |
 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 | 2022-08-26 | 2022-09-17 |
+| [Lonely Together \(feat\. Dagny\)](https://open.spotify.com/track/0dfOAWQfRVFYpLnm9OTpxv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 2:58 | 2022-11-15 |  |
 | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/track/6vCcveqr0Hw76YcMVGC16R) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Guilty Empress](https://open.spotify.com/artist/1sqLOPikfBNDEkLPuN8EZh) | [Lose Control \(feat\. Guilty Empress\)](https://open.spotify.com/album/3zfNAvAZz0HxwjaePj0TzQ) | 2:41 | 2022-07-08 | 2022-08-27 |
 | [Lose My Cool \(feat\. Klara Hammarström\)](https://open.spotify.com/track/1uFtzVRVimqjrC8kmy12YI) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Lose My Cool \(feat\. Klara Hammarström\)](https://open.spotify.com/album/0y6005o869Rsc1xmlO4xgW) | 2:55 | 2022-09-02 |  |
 | [Love And Appreciation \- Radio Edit](https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Love And Appreciation \(Radio Edit\)](https://open.spotify.com/album/7HYTTSaO6GJ7OQIi4cb558) | 3:08 | 2022-08-26 | 2022-10-22 |

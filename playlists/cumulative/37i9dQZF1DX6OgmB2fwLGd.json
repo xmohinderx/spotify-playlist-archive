@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "6000 Degrees (AH HA)",
+        "url": "https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH"
+      },
+      "artists": [
+        {
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102872,
+      "name": "6000 Degrees (AH HA)",
+      "url": "https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG"
+    },
+    {
+      "album": {
         "name": "agenda",
         "url": "https://open.spotify.com/album/4IZknU9lFykJaudWhINIDl"
       },
@@ -597,6 +615,24 @@
       "duration_ms": 162253,
       "name": "Arya (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7"
+    },
+    {
+      "album": {
+        "name": "ascend.mp3",
+        "url": "https://open.spotify.com/album/3EbJ2nv3t3hByvhI9Xozcv"
+      },
+      "artists": [
+        {
+          "name": "mimofr",
+          "url": "https://open.spotify.com/artist/6z69NxGmRyHCMFhOZ8H1Va"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256052,
+      "name": "ascend.mp3",
+      "url": "https://open.spotify.com/track/0y0Y3zRApSPsohnnUTrbgl"
     },
     {
       "album": {
@@ -3071,7 +3107,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 113044,
       "name": "Fall Dragon",
       "url": "https://open.spotify.com/track/0xoyOumQBDZC41QdURfglb"
@@ -4687,7 +4723,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 142716,
       "name": "just cant",
       "url": "https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,051 likes - 103 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,050 likes - 103 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 57 | [Let´s Sing \(It´s Christmas Time\)](https://open.spotify.com/track/62ca8P1TbUztfy5g8gDTku) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Let´s Sing \(It´s Christmas Time\)](https://open.spotify.com/album/4dM1NEiihoDlsqYXXXsMy6) | 3:00 |
 | 58 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 |
 | 59 | [Could Be Something](https://open.spotify.com/track/4HDb1668v26juyGCti1eST) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Could Be Something](https://open.spotify.com/album/73Ar0FrguEIPEGIcjG3zhw) | 2:33 |
-| 60 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:54 |
+| 60 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 |
 | 61 | [Olivia](https://open.spotify.com/track/5dkHSMRnI3R7l4OdBjfdj7) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Olivia](https://open.spotify.com/album/4JNp5hfz9OtyUnfO0Xay7R) | 2:49 |
 | 62 | [Hotel Corridors](https://open.spotify.com/track/3S885c3r8pIFKBU9LB8Vb7) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Hotel Corridors](https://open.spotify.com/album/0evwEuXgPU5k5R9iYu6ovq) | 3:24 |
 | 63 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 |

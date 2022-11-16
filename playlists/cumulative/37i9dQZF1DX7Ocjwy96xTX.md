@@ -4,7 +4,7 @@
 
 > Dark and dreamy.
 
-102 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/59LZVsaOz0Y4d0uLOo25Vb)
+103 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/59LZVsaOz0Y4d0uLOo25Vb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:29 | 2022-10-07 | 2022-10-15 |
 | [Dream, Ivory](https://open.spotify.com/track/3QX3hxUM76cNIwzC1gj8vF) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/5j8NY7Vv3mJbbjOjHImyQY) | 3:08 | 2022-09-02 | 2022-10-14 |
 | [Dream, Ivory](https://open.spotify.com/track/6Hzle86uYcpy3QkcCmMKgE) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Dream, Ivory](https://open.spotify.com/album/4aMcxxMheE6r3FC4a4JLhv) | 3:08 | 2022-10-07 |  |
-| [Drifting Away](https://open.spotify.com/track/2pd9iAJGxExQnAWfWEl9fW) | [Makeout City](https://open.spotify.com/artist/5iWTuauN00s391MeG58Idu) | [Drifting Away](https://open.spotify.com/album/0mee2i5MP9DiaxUpDSLU6N) | 1:45 | 2022-09-16 |  |
+| [Drifting Away](https://open.spotify.com/track/2pd9iAJGxExQnAWfWEl9fW) | [Makeout City](https://open.spotify.com/artist/5iWTuauN00s391MeG58Idu) | [Drifting Away](https://open.spotify.com/album/0mee2i5MP9DiaxUpDSLU6N) | 1:45 | 2022-09-16 | 2022-11-16 |
 | [empty](https://open.spotify.com/track/0nx0l4QmVFV7BdNuUELVg2) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [empty](https://open.spotify.com/album/4DqyPkbIaL3uQU5D0S55rv) | 4:30 | 2022-11-10 |  |
 | [Euphoria \(where were you?\)](https://open.spotify.com/track/0ydapNPxo7yMHrM1AeRu4j) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria \(where were you?\)](https://open.spotify.com/album/3DOTGWg00u63y5nXz5TEaG) | 5:28 | 2022-10-07 |  |
 | [Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 4:11 | 2022-09-02 | 2022-10-29 |
@@ -79,6 +79,7 @@
 | [On My Way](https://open.spotify.com/track/74cDV5HXtQmQ1hMfa8JoIK) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [On My Way](https://open.spotify.com/album/1Ny40get2xI8Jrrl4MuOr4) | 3:32 | 2022-10-14 | 2022-10-29 |
 | [Ouroboros](https://open.spotify.com/track/2QvD56anou5rv4XvOVhedR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Ouroboros](https://open.spotify.com/album/5fVDRWLe6Vca96lsXZ1EnY) | 4:00 | 2022-09-09 | 2022-09-17 |
 | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0), [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [Peach Fuzz \(with Cybertrash\)](https://open.spotify.com/album/78t1sCwSRYxl6Zc5H4E1Gf) | 2:33 | 2022-10-28 |  |
+| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-15 |  |
 | [Pity to Love](https://open.spotify.com/track/6lwuZUQaaxT0A3I02DT8Xo) | [Ronboy](https://open.spotify.com/artist/5J92ctx9aRJzNPPzcERnxn) | [Pity to Love](https://open.spotify.com/album/1JFHwLZxsGpKJqyr6vIoIL) | 4:51 | 2022-09-30 |  |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-09-02 |  |
 | [Please](https://open.spotify.com/track/3yR2neLio3L6Jt6xYP0dVd) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 2:56 | 2022-10-14 |  |

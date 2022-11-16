@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 
 > Atlantic Records Presents the hottest tracks in hip\-hop, pop, rock, R&amp;B, indie and more! Updated every Friday.
 
-[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,840 likes - 303 songs - 15 hr 12 min
+[Atlantic Records](https://open.spotify.com/user/atlanticrecords) - 1,841 likes - 305 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,5 +311,7 @@ pretty - [cumulative](/playlists/cumulative/4sjY92ZWVdLJYdPmhpJQXh.md) - [plain]
 | 301 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 |
 | 302 | [Nothing I Won’t Do \(feat\. TMW\)](https://open.spotify.com/track/4vVNebuWcKFSJiSQhTQxGH) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [TMW](https://open.spotify.com/artist/7pT8sFYUdnI4qR493BHY6k) | [Nothing I Won’t Do \(feat\. TMW\)](https://open.spotify.com/album/3HNK1GBkAIXU9aUOoXxXIK) | 2:59 |
 | 303 | [Reborn](https://open.spotify.com/track/4F9P5JpkAyoQKuRAsVjwS3) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Reborn](https://open.spotify.com/album/3KlP88EbXSetW7idNEqSSp) | 2:47 |
+| 304 | [Moon Man](https://open.spotify.com/track/2d0PxwVAtHR105A1gGoMKZ) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [I Should Be Home](https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM) | 3:39 |
+| 305 | [I Should Be Home](https://open.spotify.com/track/5OpXp5NZvzcIrVuUaFlUHE) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [I Should Be Home](https://open.spotify.com/album/00btWJDLFEzJHq7EwuBQbM) | 3:00 |
 
-Snapshot ID: `NDg5NiwzZTdkN2Q0ZTE5OGZjNTVhZGQ4ZTNlY2E3MjAzMGQxMDdlNzllYzJk`
+Snapshot ID: `NDg5OCw4N2IyOGI2NWIyNjc3ZDZlMjUwOGFkZDZkNmVhMzkzMWYzYThlNTNh`

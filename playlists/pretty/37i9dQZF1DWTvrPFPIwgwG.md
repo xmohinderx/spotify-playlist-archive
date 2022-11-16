@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Cassiane, Midian Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,063 likes - 85 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,095 likes - 85 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

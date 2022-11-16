@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Bulleya O",
+        "url": "https://open.spotify.com/album/5OCSQq7aPf6T6sGFe9D2yC"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278671,
+      "name": "Bulleya O",
+      "url": "https://open.spotify.com/track/2nZ09M4GsBPz1KYKGbcpih"
+    },
+    {
+      "album": {
         "name": "Bura Na Mano Yaara",
         "url": "https://open.spotify.com/album/0CYZF1aZl2806nCE4pAiGx"
       },

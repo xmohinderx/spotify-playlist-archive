@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=-AL74FKhRRmrcve4i1U40Q\"> Yaw TOG </a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=byhHllSOSqScaQ5PEWOpPg\"> Sarkodie </a> ",
   "name": "+233 Bars ",
   "published_playlist_ids": [
     "1DNOYlQCXHEP1xefjAcAjP"
@@ -171,6 +171,32 @@
       "duration_ms": 137472,
       "name": "Assignment",
       "url": "https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y"
+    },
+    {
+      "album": {
+        "name": "B.B.B.B",
+        "url": "https://open.spotify.com/album/3lMF0eeWGOMzdt7vE0uKok"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "KwesiSoul",
+          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
+        },
+        {
+          "name": "Papa Atey",
+          "url": "https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181350,
+      "name": "B.B.B.B",
+      "url": "https://open.spotify.com/track/55NYmEvxkb7ipIGieXPsNv"
     },
     {
       "album": {
@@ -484,6 +510,28 @@
     },
     {
       "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Country Side (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/6qPd7nTNkXx4VhmgryxRVH"
       },
@@ -597,7 +645,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 88348,
       "name": "DTMV (Don't Touch My Vision)",
       "url": "https://open.spotify.com/track/66ebvi27vMsoytonqo7A3D"
@@ -751,6 +799,24 @@
       "duration_ms": 185362,
       "name": "First Sermon",
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/7i6x32Uy3C1yxhtCGgJbEE"
+      },
+      "artists": [
+        {
+          "name": "Slim Drumz",
+          "url": "https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189022,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/7miZbXoKKtyj1Zh4rpVjAb"
     },
     {
       "album": {
@@ -1013,7 +1079,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 169549,
       "name": "Ina Jin",
       "url": "https://open.spotify.com/track/5sMl6iTfwS97ZxsuZNpwro"
@@ -1175,7 +1241,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 168515,
       "name": "Maa Abena",
       "url": "https://open.spotify.com/track/7Alc1j3oN8n0JEkMvhMlWd"
@@ -1343,7 +1409,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 279008,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/6wehEcOgdc1ODpxWrJqEQ9"
@@ -1471,7 +1537,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 76956,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0kxSv1wysBlIKcEVo8SCDp"
@@ -1489,7 +1555,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 188186,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn"
@@ -2089,6 +2155,40 @@
       "duration_ms": 231500,
       "name": "Yenda",
       "url": "https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo"
+    },
+    {
+      "album": {
+        "name": "Fa Me Saa",
+        "url": "https://open.spotify.com/album/0sTvbOjO6n9qeHVoapnN5X"
+      },
+      "artists": [
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        },
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
+        },
+        {
+          "name": "Tulenkey",
+          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225288,
+      "name": "Yenpie",
+      "url": "https://open.spotify.com/track/76Qxf2AbkXLFDAeOQYnOct"
     },
     {
       "album": {

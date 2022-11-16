@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Beiro x Pedra x QVXNO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,368 likes - 84 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,377 likes - 84 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 32 | [Wine for me](https://open.spotify.com/track/4x3qG5OWwVBFL7I7uNbiPE) | [Nsnow](https://open.spotify.com/artist/1Algk1jxKZzQc5OF1pDrxL) | [Wine for me](https://open.spotify.com/album/6B9wuurKE6Y6PTNRmzzGvk) | 2:24 |
 | 33 | [Damas dos Opps](https://open.spotify.com/track/6yyirBOiGfQQhuqpIim06A) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Damas dos Opps](https://open.spotify.com/album/2bgd8LSar1o1zWZLgJfwfy) | 3:03 |
 | 34 | [Pecado](https://open.spotify.com/track/037nl4abMdFwJ2WCSjFKyZ) | [Young Double](https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY), [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G) | [Pecado](https://open.spotify.com/album/07WKzgoI77vB9qO4ei7Z40) | 2:44 |
-| 35 | [Sinto](https://open.spotify.com/track/5Uf9UCWdE5mBVI1R3cNuGy) | [Barata Music](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Sinto](https://open.spotify.com/album/0Yvz5ibzYfetFuhy2BcsCL) | 2:52 |
+| 35 | [Sinto](https://open.spotify.com/track/5Uf9UCWdE5mBVI1R3cNuGy) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Sinto](https://open.spotify.com/album/0Yvz5ibzYfetFuhy2BcsCL) | 2:52 |
 | 36 | [Rendez Vous](https://open.spotify.com/track/083SY7cT3XODPbG3rSteh6) | [L\-Ali](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [Rendez Vous](https://open.spotify.com/album/63dhxW3bKwPsh7diCrP9Kh) | 2:12 |
 | 37 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 |
 | 38 | [Evita](https://open.spotify.com/track/0KO2T9EamxOBUHkArxlHC4) | [SAUCYPEPPE](https://open.spotify.com/artist/5XACdFNoLC08t2JRJqmykh) | [Evita](https://open.spotify.com/album/7yGZfqPqtkpgb6Eq4djrMh) | 2:29 |

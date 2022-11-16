@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Adana Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,083 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,201 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 61 | [Ice Raven](https://open.spotify.com/track/4IK547npKWryEQh97Wzsrl) | [Nicolas Masseyeff](https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv) | [Ice Raven](https://open.spotify.com/album/4p2Mk3NmEEn4bFgixImdqN) | 6:47 |
 | 62 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 63 | [Wolkenblau](https://open.spotify.com/track/3CmYPKgC1nilHePu9EQbwg) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [CLARA](https://open.spotify.com/artist/2ZFLmj6YjzSWSMdic3fqCS) | [Wolkenblau](https://open.spotify.com/album/2cntCEOxHrwMa08SlkxPa0) | 3:38 |
-| 64 | [Clara \(the night is dark\)](https://open.spotify.com/track/6LeTQu4NvTnLRRiB8GVFQe) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:38 |
+| 64 | [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 |
 | 65 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 |
 | 66 | [Die Transformation](https://open.spotify.com/track/44IDBp1nDAa1qcoZ6IU7YP) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Die Transformation / Vidy](https://open.spotify.com/album/5rzipv2nMRtGU1AA35Ig6H) | 6:23 |
 | 67 | [MC Tip](https://open.spotify.com/track/7vY3fkvCfJpisPjGpHnl1t) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [MC Tip](https://open.spotify.com/album/2C7Kyc7qBemwdB7WL31nIc) | 5:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Magenta](https://open.spotify.com/track/7dfmRPjeclzvCQaIVnlgpH) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Spektrum 4, pt\. I](https://open.spotify.com/album/3uq8sQrLGEyNZfzRGuo6zF) | 6:26 |
 | 80 | [Phanta](https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr) | [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [Phanta](https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1) | 6:56 |
 
-Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMGNiNzZiNzk3MDI2OTBlOWM3MDUzMmNiMThhODc2MWMw`
+Snapshot ID: `MTY2ODEyNDg2MCwwMDAwMDAwMGJiNThlZDRiNzVkYzU0NDRlYjNlYzcyNDkyNzRhY2E1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Fiersa Besari
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,229 likes - 96 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,242 likes - 96 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 47 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 |
 | 48 | [Body Language](https://open.spotify.com/track/7ChkQmb0PDbfTHI9oOPOlh) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Bittersweet](https://open.spotify.com/album/35TjHF0WpwF49jciFC6Tgi) | 2:36 |
 | 49 | [The Ending](https://open.spotify.com/track/40Q1XFqWsI7JxaPLeaMpnT) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Ending](https://open.spotify.com/album/6U97jLY4aY4LCM3WQ17fIv) | 1:48 |
-| 50 | [The Blessing](https://open.spotify.com/track/0EYUzcvYcL50QKpzX66NJ1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [The Blessing](https://open.spotify.com/album/3nJvkVyvBd8pENcbVC0RUo) | 3:13 |
+| 50 | [The Blessing](https://open.spotify.com/track/0EYUzcvYcL50QKpzX66NJ1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [The Blessing](https://open.spotify.com/album/3nJvkVyvBd8pENcbVC0RUo) | 3:12 |
 | 51 | [Tamaki](https://open.spotify.com/track/1EywXLi9gbYeWA6JXjUh7W) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 4:55 |
 | 52 | [Lights](https://open.spotify.com/track/6oqpdPyUlrvth5trYx0l0y) | [KIM JONGHYEON](https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM) | [MERIDIEM](https://open.spotify.com/album/3a8zl8zbMxiR3VYTQiRs4s) | 3:20 |
 | 53 | [The Girl's Gonna Be Okay](https://open.spotify.com/track/6ivVEMXICHztV9NKeWae2r) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [The Girl's Gonna Be Okay](https://open.spotify.com/album/16JxwBSyrYov9tvE4XUFu4) | 3:10 |

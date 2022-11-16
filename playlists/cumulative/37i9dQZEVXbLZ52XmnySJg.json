@@ -4165,7 +4165,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
@@ -5151,7 +5151,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 235264,
       "name": "Jhaanjar (From \"Honeymoon\")",
       "url": "https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50"
@@ -7714,6 +7714,24 @@
     },
     {
       "album": {
+        "name": "Hustle 2.0",
+        "url": "https://open.spotify.com/album/4tlu5ECRwxyCSyMICmau24"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162896,
+      "name": "Naina Ki Talwar",
+      "url": "https://open.spotify.com/track/5MpM5puyNHPxDEoe1l5ldo"
+    },
+    {
+      "album": {
         "name": "Najaa (From \"Sooryavanshi\")",
         "url": "https://open.spotify.com/album/5zP4OuD73f42dogIjNid68"
       },
@@ -8155,6 +8173,28 @@
       "duration_ms": 174002,
       "name": "Paani Paani",
       "url": "https://open.spotify.com/track/47Rqh5ZSamtIOFi7G6VgFJ"
+    },
+    {
+      "album": {
+        "name": "Pacha Elai (From \"Love Today\")",
+        "url": "https://open.spotify.com/album/5b57LEW0l5UPYSzgIyAnTT"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Mathichiyam Bala",
+          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Pacha Elai (From \"Love Today\")",
+      "url": "https://open.spotify.com/track/4JO0JV8cZ4JnB777tmNKh9"
     },
     {
       "album": {

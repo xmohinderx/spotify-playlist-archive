@@ -2,9 +2,9 @@
 
 ### [Goal !](https://open.spotify.com/playlist/37i9dQZF1DX9ET7mtaGmRc)
 
-> 월드컵 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
+> 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-68 songs - 4 hr 0 min - not published yet
+70 songs - 4 hr 6 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Tatu Bom de Bola \(The Official 2014 FIFA World Cup Mascot Song\)](https://open.spotify.com/track/4ZrPTE0IOnCeT9MXjESVdP) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Tatu Bom de Bola \(The Official 2014 FIFA World Cup Mascot Song\)](https://open.spotify.com/album/4f35WxC3fgS2N6IWrfStkm) | 3:21 | 2022-11-07 |  |
 | [The Cup of Life \(La Copa De La Vida\) \[The Official Song of the World Cup, France '98\]\[English\]](https://open.spotify.com/track/7aUCLXZ4D4UD5sCgIgxqjl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [The Greatest Hits](https://open.spotify.com/album/3k0gbDJ1p2nbqFNHeKVwi4) | 4:31 | 2022-11-07 |  |
 | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/track/5aKcJDDiDTzrmVi6putOnq) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [The Official FIFA World Cup Qatar 2022™ Theme](https://open.spotify.com/album/6dr49Z0zo5oA4mUbgkyYWm) | 1:52 | 2022-11-07 |  |
+| [The Reds and Korea](https://open.spotify.com/track/1VruHDum120zCG67vVi26O) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [The Reds and Korea](https://open.spotify.com/album/1LvMILXSjr6tf5zjopAMPZ) | 3:14 | 2022-11-15 |  |
 | [The Shouts of Reds 2018](https://open.spotify.com/track/30evcBM4ydREwQNgvJFzrH) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3), [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [We, the Reds](https://open.spotify.com/album/3cQ4qBZ7PmUGPERnE8XQGK) | 3:12 | 2022-11-07 |  |
 | [The Time of Our Lives \(with Toni Braxton\) \- Radio Edit](https://open.spotify.com/track/3acRnepopxWR13nxen4Ab7) | [Eloffson](https://open.spotify.com/artist/1VVWlXujtq9JsDd30MC34s), [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Time of Our Lives \(with Toni Braxton\) \[Radio Edit\]](https://open.spotify.com/album/0AfnugaIBI0O3JtCEU3jpg) | 3:20 | 2022-11-07 |  |
 | [The World Is Ours \(Coca\-Cola 2014 World's Cup Anthem\)](https://open.spotify.com/track/3C4w6xn8ywZX6tPY110Avs) | [Aloe Blacc X David Correy](https://open.spotify.com/artist/4Nx36PEzJoS5uSPoYZ7E5B) | [The World Is Ours \(Coca\-Cola 2014 World's Cup Anthem\)](https://open.spotify.com/album/4sIDoxshMRh5RC5XX1DXCd) | 2:54 | 2022-11-07 |  |
@@ -59,6 +60,7 @@
 | [This Is Premier League](https://open.spotify.com/track/49ujze11sPOADic4ssGnrO) | [Premier League Music](https://open.spotify.com/artist/7BO1yFil6IhV5i73zeU9gO) | [This Is Premier League](https://open.spotify.com/album/2YTQepsyrqmSypnw5VKMJr) | 3:24 | 2022-11-07 |  |
 | [Time of Our Lives](https://open.spotify.com/track/1OPLF48hCfqeEjlFP3e8xX) | [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Time of Our Lives](https://open.spotify.com/album/6zCpB7vF0iCE2TGBpG1wv2) | 3:43 | 2022-11-07 |  |
 | [To the Victory 2014](https://open.spotify.com/track/4EFATw5cZpRimq5gKBGd7V) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3), [Mina](https://open.spotify.com/artist/1PMHqOZrnMxCsJJfUnI3y2) | [Red Devil 5th "We are the Reds"](https://open.spotify.com/album/12AGV8Gn7zV6v3rpZEq0vr) | 3:59 | 2022-11-07 |  |
+| [Toast to Victory](https://open.spotify.com/track/26UFAH7nXisVXuXzZTLruH) | [Cho Moon Geun Band](https://open.spotify.com/artist/2053K4zLW7CivPHvamTXkC) | [The Reds and Korea](https://open.spotify.com/album/1LvMILXSjr6tf5zjopAMPZ) | 3:14 | 2022-11-15 |  |
 | [Vardy's On Fire](https://open.spotify.com/track/4ljD5Qa1nz9ybo5hWUgv0m) | [S6](https://open.spotify.com/artist/2HSKcfAPQHuuzbQXQc9Ylp) | [Vardy's On Fire](https://open.spotify.com/album/24hAjtyL09KEgaxScC28aW) | 3:34 | 2022-11-07 |  |
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv) | 3:22 | 2022-11-07 |  |
 | [Wavin' Flag \- Coca\-Cola® Celebration Mix](https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour \(Champion Edition \- Asian Version\)](https://open.spotify.com/album/5NeG7Rk7ZUGVgvIRxPOmJ3) | 3:32 | 2022-11-07 |  |

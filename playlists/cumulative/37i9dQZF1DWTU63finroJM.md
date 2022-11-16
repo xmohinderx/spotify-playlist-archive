@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-877 songs - 2 day 1 hr 10 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+879 songs - 2 day 1 hr 17 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Algo Más](https://open.spotify.com/track/2Nu6wSCiR6W9Z7r9En79ML) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Algo Más](https://open.spotify.com/album/4EsB7A89kaCi7bVHBrs3Jf) | 3:00 | 2022-03-24 | 2022-04-13 |
 | [Alive](https://open.spotify.com/track/2K5PuNGkdskwGFAKNrNNBA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Alive](https://open.spotify.com/album/4vvqE8p4XzrFbS2mdAgihc) | 3:11 | 2022-04-07 | 2022-06-30 |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2022-02-03 | 2022-02-07 |
+| [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-11-15 |  |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-02-03 | 2022-05-03 |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/3x599jtfaReHmd6Ba77PD0) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/0G8o3ih2VPgnY1RUPnu5ck) | 2:40 | 2022-04-12 | 2022-04-20 |
 | [Als Jij Maar Bij Me Bent](https://open.spotify.com/track/5AimUqVfhUXe1jCRanTK72) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Jij Maar Bij Me Bent](https://open.spotify.com/album/5feJik71vEqH5bSdktYTjq) | 2:40 | 2022-09-08 |  |
@@ -683,6 +684,7 @@
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2022-03-24 | 2022-08-02 |
 | [Tiempo](https://open.spotify.com/track/1jzMvdYPdXJdaDyuPvFNxm) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Tiempo](https://open.spotify.com/album/2gdBLzUKj1rG32Gy6U18Ce) | 2:59 | 2022-06-29 | 2022-08-02 |
 | [Tiempo](https://open.spotify.com/track/7jLHNgWVLDpiOwm9Fo0c8e) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Tiempo](https://open.spotify.com/album/49Fs4VncdZrwd4tKbiu6hJ) | 2:59 | 2022-03-24 | 2022-07-29 |
+| [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-11-15 |  |
 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 | 2022-02-03 | 2022-03-18 |
 | [TIME](https://open.spotify.com/track/2z0bFKSQugLCVlgyTGFi2k) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [Astronormous](https://open.spotify.com/artist/10DVqLQppj5k4viGgo33Gj) | [TIME](https://open.spotify.com/album/6Q0NjakOu4W2uEyqgL2GC6) | 2:48 | 2022-03-24 |  |
 | [Timeframe](https://open.spotify.com/track/5MdWlO7u3WlAjLZzNKa2Ra) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Timeframe](https://open.spotify.com/album/4ljSTSK6n9BytmUMakhYlE) | 3:07 | 2022-02-03 |  |

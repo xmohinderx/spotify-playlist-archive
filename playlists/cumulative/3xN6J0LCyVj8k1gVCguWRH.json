@@ -13454,6 +13454,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/14o78CbXlh0AHA6FnQTgxW"
+      },
+      "artists": [
+        {
+          "name": "Piper-Grace",
+          "url": "https://open.spotify.com/artist/7EB0xNGHxFCHYgE5NZHFuj"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183199,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5sIRZ8xSKnx4DbdKoudJBB"
+    },
+    {
+      "album": {
         "name": "HIGHS & lows",
         "url": "https://open.spotify.com/album/5NNWjE2uJES2xMglbWDdEG"
       },
@@ -22721,6 +22739,24 @@
       "duration_ms": 187561,
       "name": "Only Us",
       "url": "https://open.spotify.com/track/4hsitJwVkpy8b7wDRzhVel"
+    },
+    {
+      "album": {
+        "name": "Operator, Please / Seasons of Trouble",
+        "url": "https://open.spotify.com/album/78iOU4PyWExwlwiTrvzyJF"
+      },
+      "artists": [
+        {
+          "name": "Stereo League",
+          "url": "https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199769,
+      "name": "Operator, Please",
+      "url": "https://open.spotify.com/track/5wadPleekPHv7GjAOEfOZS"
     },
     {
       "album": {

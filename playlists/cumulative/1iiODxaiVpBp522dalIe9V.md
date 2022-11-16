@@ -4,7 +4,7 @@
 
 > Hip hop heat from the Lone Star State for when you're feeling unstoppable.
 
-165 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
+166 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/1j5aPaTR4FsrKtjz3zIXQR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 | 2022-09-09 | 2022-10-15 |
 | [Only Option](https://open.spotify.com/track/1S1l2lWd8AKonS1yAqeUto) | [Rizzoo Rizzoo](https://open.spotify.com/artist/2zaB41HXDxNghkA6X0fgXT) | [Only Option](https://open.spotify.com/album/4bNFDi2fYl3LH5mkIu6IdC) | 2:51 | 2022-11-01 |  |
 | [Outside \(Better Days\)](https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI) | 3:35 | 2022-06-02 | 2022-07-02 |
+| [Ova's](https://open.spotify.com/track/0MmJzMzbCbozIdHFPVUBdN) | [LilCJ Kasino](https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5), [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Ova's](https://open.spotify.com/album/3yjv872eBPF1cOJox99tYz) | 3:30 | 2022-11-15 |  |
 | [PASTA](https://open.spotify.com/track/7yCnwyfRq6GSxmivcxnyKp) | [Mighty Bay](https://open.spotify.com/artist/6vAbPprzkLR2v8FpTgyYcV), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [PASTA](https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo) | 2:06 | 2022-08-02 |  |
 | [Plan B](https://open.spotify.com/track/3A4U3uNNsMaI1vWBey3VYH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:43 | 2022-09-09 | 2022-10-14 |
 | [Poppin' Them Tags](https://open.spotify.com/track/22eJd4RvbMXBf7aYVhI92h) | [SMITH](https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Poppin' Them Tags](https://open.spotify.com/album/44LfR2QnA8kybYssWYnkf4) | 3:17 | 2022-11-01 | 2022-11-12 |
@@ -170,7 +171,7 @@
 | [Who Do](https://open.spotify.com/track/5TBEzhlJqpBFwalNZ3FUpx) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Who Do](https://open.spotify.com/album/7hQEAJdHOrnsSVapYVdzmj) | 3:02 | 2022-06-02 | 2022-08-03 |
 | [Who Playin](https://open.spotify.com/track/2gYDj7bibTepM5NgpIi0xf) | [Sauce Gohan](https://open.spotify.com/artist/05tdr8wxoalGhDOMx38FhL), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Mild Sauce](https://open.spotify.com/album/65e2p05icdn9sJey3gRAKi) | 2:42 | 2022-08-02 | 2022-10-14 |
 | [Why Yo Face So Ugly](https://open.spotify.com/track/1pmdSzE3yRNcagg7H59Z7X) | [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Why Yo Face So Ugly](https://open.spotify.com/album/3w9CBT8F4uMHA5Bvc1LBcI) | 2:15 | 2022-11-01 |  |
-| [Witchcraft](https://open.spotify.com/track/6XAke3QcPH0KlGqBMgkUJs) | [LilCJ Kasino](https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5) | [Witchcraft](https://open.spotify.com/album/5j3vXKlDG0GOjiqPRdHKfp) | 1:48 | 2022-10-13 |  |
+| [Witchcraft](https://open.spotify.com/track/6XAke3QcPH0KlGqBMgkUJs) | [LilCJ Kasino](https://open.spotify.com/artist/4pORMflJEUW1OYfNgiMLH5) | [Witchcraft](https://open.spotify.com/album/5j3vXKlDG0GOjiqPRdHKfp) | 1:48 | 2022-10-13 | 2022-11-16 |
 | [Young Don](https://open.spotify.com/track/5Ue9OtM637kDF0nfzwrEGb) | [Sauce Gohan](https://open.spotify.com/artist/05tdr8wxoalGhDOMx38FhL) | [Baby Goat](https://open.spotify.com/album/5wSOVULiFUY3Gak8G4BPX8) | 2:34 | 2022-08-02 | 2022-09-02 |
 | [ZOAP](https://open.spotify.com/track/3Wwba3vQ0RxTr5Qd618aWK) | [Voochie P](https://open.spotify.com/artist/4XxIlRzfz6UtWj0uYTlEy3) | [ZOAP](https://open.spotify.com/album/6UdMrSbIolbyref3Gz365u) | 2:11 | 2022-06-02 | 2022-07-02 |
 

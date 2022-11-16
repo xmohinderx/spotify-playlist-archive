@@ -3638,6 +3638,24 @@
     },
     {
       "album": {
+        "name": "Use Your Illusion I (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/33HYdYXXadqsdZ1NsYmS6o"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535733,
+      "name": "November Rain - 2022 Version",
+      "url": "https://open.spotify.com/track/3q9npStSssk7sZWotiNQLK"
+    },
+    {
+      "album": {
         "name": "November Rain / Double Talkin' Jive / You Could Be Mine",
         "url": "https://open.spotify.com/album/6T4l8HnWFsvFgk3iZEME4p"
       },
@@ -3649,7 +3667,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 535733,
       "name": "November Rain - 2022 Version",
       "url": "https://open.spotify.com/track/5O4Gs450ApGmBTGypjWDeQ"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Sofia Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,823 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,937 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 |
 | 2 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 |
 | 3 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
-| 4 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 |
+| 4 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/5B0fvVktVv9DJJzSzdirzu) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 |
 | 5 | [Amigos \(con Maria Becerra\)](https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Amigos \(con Maria Becerra\)](https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8) | 3:53 |
 | 6 | [Paketum](https://open.spotify.com/track/1Tam1wR5Hm7CudXEcX6dU9) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Paketum](https://open.spotify.com/album/2lN8KHVPTWKxvxpy0qbjz2) | 3:44 |
 | 7 | [Quédate \- Tiësto Remix](https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Quédate \(Tiësto Remix\)](https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr) | 3:52 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 40 | [Los Vecinos](https://open.spotify.com/track/1PoiBbwUYsAFh7mcM6vyo0) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Los Vecinos](https://open.spotify.com/album/4aXaoA27cj0ks3pXBeqmnr) | 3:54 |
 | 41 | [Cuando Estés Aquí](https://open.spotify.com/track/58ZK7DhmrBxqvRSXSXfnS9) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Nuevos Clásicos](https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe) | 3:43 |
 | 42 | [Dejate Llevar](https://open.spotify.com/track/6b01R2UJ9GR8a41KxiaCHQ) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg) | [Dejate Llevar](https://open.spotify.com/album/2lHotGzqgYAjUpvnHibxnX) | 3:11 |
-| 43 | [Maldita Faja](https://open.spotify.com/track/0D7TQL76NafKk8xg5xC28a) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:33 |
+| 43 | [Maldita Faja](https://open.spotify.com/track/3wn456xCRhD8NAVAl7O1U2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:33 |
 | 44 | [Fiesta Fiesta](https://open.spotify.com/track/4FLW7aW6yMF27f2IOciqQl) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Fiesta Fiesta](https://open.spotify.com/album/3s6HszMe7PautbYv2RIpGl) | 3:14 |
 | 45 | [xxxquisito](https://open.spotify.com/track/1xE6u0ypYp72upaTpEM6LK) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [xxxquisito](https://open.spotify.com/album/7hIKeUS1fBtJd51KJ1RkNy) | 2:28 |
 | 46 | [You're More](https://open.spotify.com/track/0eS1MAgdSUVhlqPIWjd7rs) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [You're More](https://open.spotify.com/album/63BCYBSwncSvDn01H7hzBx) | 3:50 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 64 | [Quisiera](https://open.spotify.com/track/1ATWvpA7GUbrOlKBVSZ8wF) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3) | [Quisiera](https://open.spotify.com/album/6ShYzETmmbpmxlvFORLPMW) | 3:51 |
 | 65 | [No Creo Nada](https://open.spotify.com/track/1uMWPVS8n43PyRyJ63B4Cv) | [Pia Paez](https://open.spotify.com/artist/2CDpO7G7EuC9zWtFEhrbeN) | [No Creo Nada](https://open.spotify.com/album/0rJhJ5qZa0tEIAjKV2Cm8c) | 3:20 |
 
-Snapshot ID: `MTY2ODQ3NDYxOSwwMDAwMDAwMGJjZTk0YTliMTE2NGM5NTA5MjRiOTg0ZWViOWIwYTQ2`
+Snapshot ID: `MTY2ODQ3NDYxOSwwMDAwMDAwMDg5YTk3NWU0Njg0NDA2Nzc1NjBhYTU1NTgyOGM2NTU2`

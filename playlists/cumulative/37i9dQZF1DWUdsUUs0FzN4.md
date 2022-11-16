@@ -2,9 +2,9 @@
 
 ### [Reggaetón Chakalón](https://open.spotify.com/playlist/37i9dQZF1DWUdsUUs0FzN4)
 
-> Bienvenidxs al mundo del bellaqueo, con Ghetto Kids.
+> Bienvenidxs al mundo del bellaqueo, con Bellakath.
 
-96 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6uhnpN8l70O9yI67E5CkB2)
+97 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/6uhnpN8l70O9yI67E5CkB2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [El Goloso TikTok](https://open.spotify.com/track/5T1GVe2SqHjI5Gi3G7wLfb) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [El Goloso TikTok](https://open.spotify.com/album/5LvwaFYGu8KDM9XxJ33Rwn) | 3:37 | 2022-03-08 | 2022-07-29 |
 | [Ella Quiere Hmm..\. Haa..\. Hmm..\. \- Yayo Remix](https://open.spotify.com/track/0QN1rkBy3D6j9Yw3Czlcsc) | [Leka el Poeta](https://open.spotify.com/artist/4SdKFy0lyBsw0SHbNH9GXV), [Mishelle Master Boys](https://open.spotify.com/artist/7dOIGNkb49QRgG5VsjXebG), [DJ Yayo](https://open.spotify.com/artist/6sPVGPkxslll1c4pdHvxYh) | [Ella Quiere Hmm..\. Haa..\. Hmm...](https://open.spotify.com/album/0D6DGiSFytv1dzqjAvy05D) | 3:32 | 2022-01-04 |  |
 | [Flow Soltera](https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4), [El Betta](https://open.spotify.com/artist/3FhhcDWeH2qAaHg8Xx4h34), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Flow Soltera](https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy) | 2:53 | 2022-02-23 |  |
+| [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-16 |  |
 | [Goldi Buena](https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE) | [B.OG](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Goldi Buena](https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq) | 3:14 | 2022-01-17 |  |
 | [Inocente](https://open.spotify.com/track/0IlwSd3IcgnHXPmRv89DSm) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Inocente](https://open.spotify.com/album/2RLtOqXbqX6uqaNJ5eb3yC) | 3:22 | 2022-01-04 | 2022-07-29 |
 | [Kikiriki \(Remix\)](https://open.spotify.com/track/4UW8WLhpOaoueGpiBgeqDT) | [Xavi Devine](https://open.spotify.com/artist/5iJmISAR5cLDLOuQYwirYu), [Diego Vela](https://open.spotify.com/artist/3T7Q7B1ozi2NOI1ClulTnI), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Kikiriki \(Remix\)](https://open.spotify.com/album/6IXMB4nKGjF6ZgyKX39v47) | 2:57 | 2022-01-04 | 2022-07-28 |
@@ -66,7 +67,7 @@
 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 | 2022-01-04 |  |
 | [Más Tarde \(Remix\)](https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR) | 3:26 | 2022-03-24 |  |
 | [Oxxo estás ahí?](https://open.spotify.com/track/12QZtyonVLker8V95gYTGB) | [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Oxxo estás ahí?](https://open.spotify.com/album/1H4Hnnwor3aM8Ceeby2c6N) | 2:54 | 2022-01-04 |  |
-| [Pa Perrear](https://open.spotify.com/track/6CRAqSjXP06jy67jdLrTyp) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Pa Perrear](https://open.spotify.com/album/4RzG9rY0Pku47U3VmkhhYd) | 2:44 | 2022-08-19 |  |
+| [Pa Perrear](https://open.spotify.com/track/6CRAqSjXP06jy67jdLrTyp) | [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Chel Maya](https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Pa Perrear](https://open.spotify.com/album/4RzG9rY0Pku47U3VmkhhYd) | 2:44 | 2022-08-19 | 2022-11-16 |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2022-01-04 |  |
 | [Paraguas](https://open.spotify.com/track/6bfh4VUbIokNv6NofW9pIl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Tavo Rayo](https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp), [El Lechero](https://open.spotify.com/artist/4VqMuj3cnJiS3i4k6b1v7s) | [Paraguas](https://open.spotify.com/album/35PFiMBAmkkXxvtcw3LAf8) | 2:46 | 2022-01-04 | 2022-07-25 |
 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 | 2022-01-04 |  |

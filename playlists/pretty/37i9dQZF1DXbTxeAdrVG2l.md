@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTxeAdrVG2l.md) - [plain]
 
 > The biggest songs of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,488,520 likes - 150 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,489,599 likes - 150 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

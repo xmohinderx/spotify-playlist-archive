@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Sofia Reyes
 
-2,779 songs - 6 day 3 hr 5 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
+2,780 songs - 6 day 3 hr 8 min - [published](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1430,10 +1430,11 @@
 | [Malcriada](https://open.spotify.com/track/3X6Pf1ZPEL9QSRiJhUA9hR) | [Tavo Betancourt](https://open.spotify.com/artist/4xnT9AGBIzrElvpsRV7bh3), [Alex Durán](https://open.spotify.com/artist/6OYFLuEBMQCH1IyUykYzvr), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Malcriada](https://open.spotify.com/album/0fT4rgC0jZ2pX0IbP4hmsf) | 3:07 | 2022-03-04 | 2022-03-12 |
 | [MALDAD](https://open.spotify.com/track/4iqGRVj7SFOUpw5CC7aOLL) | [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [MALDAD](https://open.spotify.com/album/5RpUjQrYvUPpv4w0JnaeEl) | 3:18 | 2022-09-23 | 2022-10-01 |
 | [Maldita Actitud](https://open.spotify.com/track/5JB1a5AXqZwDRBWH6NPJhN) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Maldita Actitud](https://open.spotify.com/album/4cNOmK00U8CLa0iOTaP2Cf) | 3:03 | 2022-09-09 | 2022-09-17 |
-| [Maldita Faja](https://open.spotify.com/track/0D7TQL76NafKk8xg5xC28a) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:33 | 2022-11-12 |  |
+| [Maldita Faja](https://open.spotify.com/track/0D7TQL76NafKk8xg5xC28a) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/3HJiHhFjeqes3qEvEVYMR8) | 2:33 | 2022-11-12 | 2022-11-16 |
+| [Maldita Faja](https://open.spotify.com/track/3wn456xCRhD8NAVAl7O1U2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:33 | 2022-11-12 |  |
 | [Maldito Perro](https://open.spotify.com/track/5TReoPr7dcuentpSZx7ZOt) | [La Materialista](https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq) | [Maldito Perro](https://open.spotify.com/album/7FIcsrPPeYlRc68yNZwTeI) | 2:22 | 2022-06-03 | 2022-06-11 |
 | [Malibu](https://open.spotify.com/track/1An91dzcVTS96yP3a7F495) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/5cZ7MgzsFreFseajNN2sph) | 2:31 | 2022-02-25 | 2022-03-05 |
-| [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 | 2022-11-12 |  |
+| [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/5B0fvVktVv9DJJzSzdirzu) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 | 2022-11-12 |  |
 | [Mall In The Closet](https://open.spotify.com/track/0uqldFTjDR790Irg2tdP4J) | [Xian](https://open.spotify.com/artist/1Pbiq4GTu6lgDi1pjQwsY5), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [Mall In The Closet](https://open.spotify.com/album/1nSVEW03Syvlgq3nNkmyET) | 3:12 | 2022-07-22 | 2022-07-30 |
 | [Malo](https://open.spotify.com/track/4xkQvF1yHZFN3lxDFj4qW1) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Malo](https://open.spotify.com/album/2QSruqPqOwNMatpfOPmgEd) | 4:15 | 2022-07-15 | 2022-07-23 |
 | [Malos Hábitos](https://open.spotify.com/track/6xfewMVW0t5WwupAxz8hy9) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn) | [Malos Hábitos](https://open.spotify.com/album/1NJmPGjzHAUHnfYGT8VkTB) | 3:26 | 2022-06-03 | 2022-06-11 |

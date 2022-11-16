@@ -2,7 +2,7 @@
 
 ### [Tirade](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> Rap from hell\. Cover: Night Lovell
+> Rap from hell\. Cover: CORPSE
 
 328 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 

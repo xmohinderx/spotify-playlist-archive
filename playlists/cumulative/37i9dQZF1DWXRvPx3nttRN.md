@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-372 songs - 20 hr 57 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
+373 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/5SMRRjXySBkzQLNwWcY7ex)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 | 2021-03-12 |  |
 | [Feel This Moment](https://open.spotify.com/track/7tTMZYsZKvUD9X2xu6gn9k) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Web Cam Songs](https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1) | 2:46 | 2021-03-12 |  |
 | [Feels Like Home](https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [Feels Like Home](https://open.spotify.com/album/42JXJ942JEQSRjvIj1NYFA) | 4:27 | 2021-03-12 |  |
-| [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 | 2021-03-12 |  |
+| [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 | 2022-04-22 |  |
+| [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 | 2021-03-12 | 2022-11-16 |
 | [For Seasons to Come](https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G) | 3:12 | 2022-04-22 |  |
 | [For Seasons to Come](https://open.spotify.com/track/6SFNnkr1O5SMHkJslzsdST) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [For Seasons to Come](https://open.spotify.com/album/2GtFyJbc3Htf5JJCfLtnuY) | 3:12 | 2021-03-12 | 2022-07-29 |
 | [Forgive Me Friend \- Acoustic Version](https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Forgive Me Friend \(Acoustic Version\)](https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl) | 3:48 | 2021-11-09 |  |

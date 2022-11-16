@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Trampled by Turtles
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,450 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,497 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 96 | [Message From Heaven](https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK) | [Julie and Dan](https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Message From Heaven](https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf) | 3:44 |
 | 97 | [Run To Heaven](https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:10 |
 | 98 | [95 Years](https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8) | [Volume Five](https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX) | [Drifter](https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40) | 2:54 |
-| 99 | [Don't Cry](https://open.spotify.com/track/2irMeKkUB59LWCU7i9XDnj) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 3:21 |
-| 100 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 |
+| 99 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 |
+| 100 | [Last Chance](https://open.spotify.com/track/21TryieQX3eY96LemAyX28) | [Trout Steak Revival](https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd) | [Spirit to the Sea](https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC) | 3:59 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGIzOTA3ZWIxM2QyNzU1ZGEwY2I1OWQ5OTRiMTljMTM3`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDVjYTJmZDMwZWVkZTZjZDc1YTZjNGZkOTM4NGQxZTBi`

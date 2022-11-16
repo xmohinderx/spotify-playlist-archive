@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,039 songs - 2 day 13 hr 25 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+1,040 songs - 2 day 13 hr 27 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,8 +750,9 @@
 | [Sanctuary \- Radio Edit](https://open.spotify.com/track/4tlxyl1P3PtKuRk9EhyTL4) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Lucy Saunders](https://open.spotify.com/artist/6yXkEpQnC8kNDoSHUa3U66) | [Sanctuary](https://open.spotify.com/album/3zyUYqTuLS1tXUZdUQhfAU) | 3:45 | 2019-08-09\* | 2019-08-27 |
 | [Sansa](https://open.spotify.com/track/6gRY4HZcHxx1QWIEpvdAxm) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [100 Reasons To Live](https://open.spotify.com/album/5HicuC798USMxrV1PP4pxX) | 8:31 | 2019-08-09\* | 2019-09-03 |
 | [Satellites](https://open.spotify.com/track/5GKPxzqKQgQpCCOjtFwZ2d) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Satellites](https://open.spotify.com/album/14C2ld3DzVkxsrMMovEuX4) | 3:16 | 2019-08-09\* | 2019-09-14 |
+| [Satellites](https://open.spotify.com/track/6sWsJFiZ7LJm6BqHCpy46V) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Satellites](https://open.spotify.com/album/0n5qFNQKmEvR2midexvkfy) | 2:56 | 2022-10-28 |  |
 | [Satellites](https://open.spotify.com/track/2XqUheri1UqUWzzMGIN2fW) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Satellites](https://open.spotify.com/album/5LUsziW09ak7DdjhsBOyfo) | 2:34 | 2022-05-06 |  |
-| [Satellites \(feat\. Joe Jury\)](https://open.spotify.com/track/18UrmI8xBwVWgVsPxYVL7w) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Satellites \(feat\. Joe Jury\)](https://open.spotify.com/album/5KHpJlXPPwUqiyMAureubo) | 2:56 | 2022-02-25 |  |
+| [Satellites \(feat\. Joe Jury\)](https://open.spotify.com/track/18UrmI8xBwVWgVsPxYVL7w) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Satellites \(feat\. Joe Jury\)](https://open.spotify.com/album/5KHpJlXPPwUqiyMAureubo) | 2:56 | 2022-02-25 | 2022-11-16 |
 | [Savanna \- Radio Mix](https://open.spotify.com/track/5ohYUhE8TBBROkpbBPSG2J) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [Savanna](https://open.spotify.com/album/111MMeKeoUOt17y8WiAGbd) | 3:35 | 2019-08-09\* | 2019-11-23 |
 | [Save Me](https://open.spotify.com/track/4HgPdfsZJa23uioLcQOefo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Save Me](https://open.spotify.com/album/5jDl6mDA5gzgvzGyu7Twij) | 2:46 | 2022-04-29 |  |
 | [Saving My Love](https://open.spotify.com/track/672thZgpcYBR1qow7EOJgC) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Saving My Love](https://open.spotify.com/album/2YHK4d31s4jDsP9cwVeTNt) | 3:29 | 2021-09-25 | 2022-05-14 |

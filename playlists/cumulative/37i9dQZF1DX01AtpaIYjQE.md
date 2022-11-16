@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-137 songs - 9 hr 45 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
+145 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/5MXcZPGditWvob2cP9fj5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,13 +39,15 @@
 | [crossing field](https://open.spotify.com/track/0zxgnfOWkAt0xA30KRoERq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [crossing field](https://open.spotify.com/album/30KYUjwlg4U8Rw3rM0GeFs) | 4:10 | 2022-11-07 | 2022-11-14 |
 | [crossing field \(TOKYO MACHINE Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/36XW0rkpuZ3Fn5WFgYUdT3) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [crossing field \(TOKYO MACHINE Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/6psY9i0aa5qFiY1v7QdJdt) | 3:05 | 2022-05-31 |  |
 | [dawn](https://open.spotify.com/track/1IRwNWiB2aDEoSdUgjJmay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [dawn](https://open.spotify.com/album/5rV3ABHl2JMQeR1U1fiXRh) | 4:06 | 2022-05-31 |  |
+| [dis/connect](https://open.spotify.com/track/1wDxr0NwlusJFkwu6ci8WO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:25 | 2022-11-15 |  |
 | [DOCTOR](https://open.spotify.com/track/0xa7DVXoNzDTqTkMcWOfmE) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo) | 3:04 | 2022-05-31 | 2022-07-29 |
 | [DOCTOR](https://open.spotify.com/track/5UXfC09ZN5Vj1Rm1wckSHh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 3:04 | 2022-05-31 |  |
 | [Empty MERMAiD](https://open.spotify.com/track/0qtSuZT80V4jCabnqRR8aA) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA Best \(Day\)](https://open.spotify.com/album/4ToQg7UHlnVKoESEXoMwgl) | 3:41 | 2022-05-31 | 2022-07-29 |
 | [Empty MERMAiD](https://open.spotify.com/track/6CZvlmGcUhpmbP6yYq0PcL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:41 | 2022-11-07 | 2022-11-14 |
 | [Empty MERMAiD](https://open.spotify.com/track/7f8xZdUZNe5GqQjYlGAAAw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Empty Mermaid \(Limited Edition\)](https://open.spotify.com/album/1ei01xvuPdiMnu58DsvNup) | 3:43 | 2022-05-31 |  |
 | [GL](https://open.spotify.com/track/6ehNNmlPGa1MlG1RyhT0I8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 3:00 | 2022-05-31 |  |
-| [HADASHi NO STEP](https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:45 | 2022-05-31 |  |
+| [HADASHi NO STEP](https://open.spotify.com/track/2chbq2OYbQeg5uDmr0bNhj) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/6zPKHFU11OqxAGDvN0atmV) | 3:42 | 2022-11-15 |  |
+| [HADASHi NO STEP](https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN) | 3:45 | 2022-05-31 | 2022-11-16 |
 | [Headphone Actor](https://open.spotify.com/track/56VTCRO6gYrpICBibMKr7R) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Mekakucity M's 1 \~Mekakucity Actors Vocal & Sound Collection\~](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 3:42 | 2022-05-31 |  |
 | [ID](https://open.spotify.com/track/1S2o6ACZKMJFn9X1RRCds9) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA Best \(Day\)](https://open.spotify.com/album/4ToQg7UHlnVKoESEXoMwgl) | 3:55 | 2022-05-31 | 2022-07-29 |
 | [ID](https://open.spotify.com/track/2kzzRkU42KZenQyRoZDCZi) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Day\-](https://open.spotify.com/album/0Ev8ierP0m0upnX26siq1I) | 3:55 | 2022-11-07 | 2022-11-14 |
@@ -116,6 +118,7 @@
 | [オレンジサイダー](https://open.spotify.com/track/6jpgE7jjkPa9xYYAlwbgsK) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Rally Go Round](https://open.spotify.com/album/5Sd3eRd3s3BjXMJ61OgkUX) | 4:29 | 2022-05-31 | 2022-07-29 |
 | [サプライズ](https://open.spotify.com/track/7KcbHvGRuenSSreBWXBd78) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 5:20 | 2022-05-31 |  |
 | [シフクノトキ](https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シフクノトキ](https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj) | 3:07 | 2022-05-31 |  |
+| [シャンプーソング](https://open.spotify.com/track/2IqjLpWrs5gI2xG2OEFxvx) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:16 | 2022-11-15 |  |
 | [シルシ](https://open.spotify.com/track/2HYXGZkEv3m7RXuvFMKuU6) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シルシ](https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT) | 4:47 | 2022-05-31 |  |
 | [ジェットロケット](https://open.spotify.com/track/1o1Vv2RYHeK2H35bIbvsHa) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ジェットロケット](https://open.spotify.com/album/0keV4717MldvLeZaYqny0b) | 4:51 | 2022-11-07 | 2022-11-13 |
 | [ジェットロケット](https://open.spotify.com/track/3iEuD0GYvjYk8yq5cLCq43) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LOVER"S"MiLE](https://open.spotify.com/album/5awrYb2tP7gzbpWI7d4zwY) | 4:53 | 2022-05-31 | 2022-07-29 |
@@ -134,16 +137,21 @@
 | [再会 \(produced by Ayase\)](https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [再会 \(produced by Ayase\)](https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf) | 4:02 | 2022-05-31 |  |
 | [土曜日のわたしたちは](https://open.spotify.com/track/3oNJin9upticyZf6OuoGwh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [土曜日のわたしたちは](https://open.spotify.com/album/1N97AkG9X4DExcr5PNTxXs) | 4:08 | 2022-10-01 |  |
 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 | 2022-05-31 |  |
+| [悪女のオキテ](https://open.spotify.com/track/29cqealgSJ6M7qSd6ilP6A) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:01 | 2022-11-15 |  |
 | [愛錠](https://open.spotify.com/track/567GpcEdlzyrjzWh4vfRzX) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:05 | 2022-05-31 |  |
-| [明け星](https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:29 | 2022-05-31 |  |
+| [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-11-15 |  |
+| [明け星](https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:29 | 2022-05-31 | 2022-11-16 |
 | [晴レ舞台](https://open.spotify.com/track/6Tcl3oxCmscox51Kpp1vcy) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:59 | 2022-05-31 |  |
-| [炎](https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/2SUuio93gdAHC9BCZPr7bm) | 4:34 | 2022-05-31 |  |
-| [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 | 2022-05-31 |  |
+| [炎](https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/2SUuio93gdAHC9BCZPr7bm) | 4:34 | 2022-05-31 | 2022-11-16 |
+| [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-11-15 |  |
+| [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 | 2022-11-15 |  |
+| [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 | 2022-05-31 | 2022-11-16 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-05-31 |  |
 | [罪人](https://open.spotify.com/track/1XgH1HlY9bLIlRaMihSaoQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0sLZVLJmnkCe6EsJO3tO1a) | 4:11 | 2022-05-31 | 2022-07-29 |
 | [罪人](https://open.spotify.com/track/6sX28h4bshzPlm6TBBAJT2) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ASH](https://open.spotify.com/album/0pSP1RWLlGZPFEeU6an064) | 4:11 | 2022-05-31 |  |
 | [蜜](https://open.spotify.com/track/4SEABLYUzWSKINFxffXeUm) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 3:34 | 2022-05-31 |  |
 | [蜜](https://open.spotify.com/track/52UMC8iDhegD8eU6nplsSK) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/7oPUiFyVwpKOyQ4TIBVg0J) | 3:34 | 2022-05-31 | 2022-07-29 |
 | [赤い罠\(who loves it?\)](https://open.spotify.com/track/0Mu4Yoh1DxMdn24tovjU76) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:12 | 2022-05-31 |  |
+| [逃飛行](https://open.spotify.com/track/4la4G9g7JzxRIDXH6HIJvd) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:52 | 2022-11-15 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,111 likes - 150 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,384 likes - 150 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 120 | [Disco on the Baltic Sea](https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Disco on the Baltic Sea](https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z) | 3:17 |
 | 121 | [Get Better John](https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN) | [Mux Mool](https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr) | [Skulltaste](https://open.spotify.com/album/6Qk8W6vurHFSuxJ0LldW3g) | 3:34 |
 | 122 | [Enigma](https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Solai](https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf) | 3:18 |
-| 123 | [Vahiné](https://open.spotify.com/track/26v6llTYEHKniedyvmjizX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [DeSaintex](https://open.spotify.com/artist/5FhIYONL4oxEAzj6qSqnUR) | [Amour](https://open.spotify.com/album/6CXuOOz7PsLFqEJ26tNEJ4) | 3:49 |
+| 123 | [Vahiné](https://open.spotify.com/track/26v6llTYEHKniedyvmjizX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Antoine Lang](https://open.spotify.com/artist/6VzqME1rYw3Wo30KRu5ncz) | [Amour](https://open.spotify.com/album/6CXuOOz7PsLFqEJ26tNEJ4) | 3:49 |
 | 124 | [Who We Are](https://open.spotify.com/track/0YtKptsHPmje5CEXbwmnPi) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Who We Are](https://open.spotify.com/album/6F520hQ7Mc4QVoFSRggMNS) | 3:13 |
 | 125 | [Kintsugi](https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia) | [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL) | [Metaversal](https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK) | 5:39 |
 | 126 | [Gutterpunk Kids](https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627) | [Sami Matar](https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1) | [District 970](https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd) | 4:13 |

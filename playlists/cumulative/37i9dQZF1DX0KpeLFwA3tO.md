@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Action/Adventure
 
-725 songs - 1 day 12 hr 27 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+726 songs - 1 day 12 hr 30 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,8 @@
 | [Misdirection](https://open.spotify.com/track/1GGoewfqHMPYKDdthiSeUz) | [Bad Breeding](https://open.spotify.com/artist/781vvvQYKgDjg3i90b7vtV) | [Human Capital](https://open.spotify.com/album/1ZnWHabEmhn8bcYz8pKJdG) | 2:18 | 2022-07-28 | 2022-08-19 |
 | [Misdirection](https://open.spotify.com/track/4D9bXvAjQ5F8ObhMlYX5ea) | [Bad Breeding](https://open.spotify.com/artist/781vvvQYKgDjg3i90b7vtV) | [Human Capital](https://open.spotify.com/album/50e9l0RpAg583vCVlUsCOm) | 2:18 | 2022-07-07 | 2022-07-29 |
 | [misfit](https://open.spotify.com/track/1Vxiyk7CfYutoQbR2e38Ur) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [misfit](https://open.spotify.com/album/7n5qd90bV5eXCDv96l188m) | 2:44 | 2021-12-17 | 2022-01-21 |
-| [Misfits](https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Misfits](https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa) | 2:58 | 2022-10-06 |  |
+| [Misfits](https://open.spotify.com/track/0b7hOMh8Md7QaMC9Dhzo4n) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Misfits](https://open.spotify.com/album/4aonTkl1RYvNVzJlOcIVVa) | 2:58 | 2022-10-06 | 2022-11-16 |
+| [Misfits](https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:58 | 2022-11-11 |  |
 | [mistakes that i have made](https://open.spotify.com/track/4AwLl6rRG10VrvWQxMMrCj) | [downcast](https://open.spotify.com/artist/1LAZFjhdVWpuV15E7OyrGf) | [mistakes that i have made](https://open.spotify.com/album/4W6O0zh23EyWLcuWqD9s5f) | 3:12 | 2022-02-25 | 2022-04-08 |
 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 | 2022-10-06 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-12-17 | 2022-01-21 |

@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment \- cover: Reneé Rapp
 
-1,404 songs - 2 day 23 hr 58 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,405 songs - 3 day 0 hr 2 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Do You Ever?](https://open.spotify.com/track/28z5NTRP3n4O0zkZ5WY2sZ) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Do You Ever?](https://open.spotify.com/album/4D7z82Wsbd3yynOjO7XHtd) | 2:30 | 2019-11-01 | 2021-02-13 |
 | [Do You Think About Us?](https://open.spotify.com/track/6s5o5mxQbXEa2hW2SM5NBn) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Do You Think About Us?](https://open.spotify.com/album/6Rltb5R38rbvChgQyWlvQW) | 4:05 | 2019-05-26\* | 2019-08-13 |
 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 | 2021-11-19 | 2022-03-12 |
-| [Don't Blame It On My Boyfriend](https://open.spotify.com/track/3LDRHmtw1tSMtpnhDKRx91) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Don't Blame It On My Boyfriend](https://open.spotify.com/album/0wDnE9lEviiZt0xv1871U5) | 2:54 | 2022-11-11 |  |
+| [Don't Blame It On My Boyfriend](https://open.spotify.com/track/3LDRHmtw1tSMtpnhDKRx91) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Don't Blame It On My Boyfriend](https://open.spotify.com/album/0wDnE9lEviiZt0xv1871U5) | 2:54 | 2022-11-11 | 2022-11-16 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/6LbtLmUbt5MCydSpovIJAw) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/65bVXONatvnkNP5Jy8u3BN) | 4:54 | 2021-07-16 | 2022-01-12 |
 | [Don't Have the Heart](https://open.spotify.com/track/6sTy9DMAYghQnFFUhfpTx7) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Don't Have the Heart](https://open.spotify.com/album/7yRqeDeCpGeDF9le9SEAAX) | 3:18 | 2022-09-30 | 2022-11-14 |
 | [Don't Let Me Down](https://open.spotify.com/track/36fHADliwp4ColP0Gypg5W) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/3e2btgBFWY3kzpobOTRCN2) | 3:20 | 2020-05-06 | 2021-10-13 |
@@ -394,6 +394,7 @@
 | [Fake It](https://open.spotify.com/track/0x3jopI5vshBrfiVUjiC2X) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Fake It](https://open.spotify.com/album/13n0zQiVLZ3gAj8VmMWaST) | 3:41 | 2019-05-26\* | 2019-09-14 |
 | [fall apart](https://open.spotify.com/track/3WSsxt8SeWwrMoSRVNYvLM) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [hold on I still want you](https://open.spotify.com/album/2Qw3h6IV99voV3iKBiNRT8) | 2:35 | 2021-07-16 | 2022-01-08 |
 | [Fall Auf](https://open.spotify.com/track/012iHyRvQQquWQGUTYvDxy) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [Fall Auf](https://open.spotify.com/album/1qdHQo41Vkkgs8HtMk5b96) | 3:11 | 2020-08-20 | 2021-01-15 |
+| [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-11-15 |  |
 | [Fall in Love with You.](https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc) | 2:12 | 2021-11-05 | 2022-06-18 |
 | [Fall to Pieces](https://open.spotify.com/track/6GBYnyMRtW43bVnwJQoiDA) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Fall to Pieces](https://open.spotify.com/album/1DrQpvNKmjlNasyNw47xro) | 2:47 | 2021-02-26 | 2021-08-23 |
 | [Falling Down](https://open.spotify.com/track/3HuLn6B17cpqjwMFRN3kHA) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Falling Down](https://open.spotify.com/album/5eVeHq1vmpc2BvivZzJwxv) | 3:03 | 2019-05-26\* | 2020-02-20 |

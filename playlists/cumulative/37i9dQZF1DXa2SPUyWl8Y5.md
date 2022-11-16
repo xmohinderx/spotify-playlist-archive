@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-320 songs - 1 day 11 hr 52 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
+321 songs - 1 day 11 hr 58 min - [published](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Diversity](https://open.spotify.com/track/5U7zjbm7p4s7N9qX3XifW5) | [Boss Axis](https://open.spotify.com/artist/0LbAebKs7ZKbgtOnIizXLk) | [Diversity](https://open.spotify.com/album/3MFQKYBfpsuiCPSUDciVTa) | 6:51 | 2019-05-26\* | 2019-06-22 |
 | [Dosya](https://open.spotify.com/track/3bKKHo2lQzInMU5aPNO0UY) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7), [Kastis Torrau](https://open.spotify.com/artist/1KDezZmDSr7pT6dh6EGIfF) | [Dosya](https://open.spotify.com/album/28CfhjWRh1lCqaVqS82LBb) | 6:42 | 2019-06-22 | 2020-11-14 |
 | [Draumzer](https://open.spotify.com/track/7jYQpquKgqUdH24HVUhNoB) | [Jonas Rathsman](https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7) | [Draumzer](https://open.spotify.com/album/2PdOXZvmAjoSKMUzHT5AIK) | 8:46 | 2019-05-26\* | 2021-05-28 |
-| [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 | 2022-05-20 |  |
+| [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 | 2022-05-20 | 2022-11-16 |
 | [Eagles](https://open.spotify.com/track/3q4gmVrPTMPL8tDrNFFLmu) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Eagles](https://open.spotify.com/album/687LI57BvGEzBP2lvCmk0D) | 5:07 | 2019-07-05 | 2020-01-04 |
 | [Eagles \- Aalson Remix](https://open.spotify.com/track/7lLjt2Hdnn3Q0EqRgmvBAG) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Aalson](https://open.spotify.com/artist/2tL0yAKQDnj1zb4V9uLeOY) | [Eagles \(Aalson Remix\)](https://open.spotify.com/album/1KC8G5Zg5fRmq3lSv2dvxe) | 8:19 | 2020-01-04 | 2022-04-05 |
 | [Earth](https://open.spotify.com/track/5ZrT1f69ISeELuHAHdYste) | [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Days Of Change](https://open.spotify.com/album/5mFEKLT0INqNsAXwsjJahE) | 7:54 | 2020-11-03 | 2022-07-28 |
@@ -185,7 +185,7 @@
 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 | 2021-12-04 |  |
 | [Miracle](https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz) | [Another Mind](https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4) | [Miracles](https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR) | 7:56 | 2020-11-14 | 2022-07-28 |
 | [Mistral](https://open.spotify.com/track/4qV0Lu1zn2xc50B9RurHKS) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/2V0fmkRovQ5SpKMUIms8V7) | 7:02 | 2022-06-17 | 2022-07-28 |
-| [Mistral](https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/4O9MXpdCBXrKms0EXgEPSj) | 7:02 | 2022-09-30 | 2022-11-13 |
+| [Mistral](https://open.spotify.com/track/6AMaCNAI13urEVAfCpVPtm) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mistral](https://open.spotify.com/album/4O9MXpdCBXrKms0EXgEPSj) | 7:02 | 2022-09-30 |  |
 | [Monkey Mind](https://open.spotify.com/track/1MxeXqqsCYq6wnWHEriBGn) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [Monkey Mind](https://open.spotify.com/album/62vuQpJiSTQWRyyYqSaQVY) | 5:54 | 2019-05-26\* | 2021-01-16 |
 | [Moon River](https://open.spotify.com/track/03bYLN5H3OjZ6CIpBcd4W3) | [Anturage](https://open.spotify.com/artist/60hGAZqZ60I2EhUi0f4j2N), [Saccao](https://open.spotify.com/artist/5zCGgAGz4jIAqCDJ4xDZpT) | [Crop Circles EP](https://open.spotify.com/album/69nm4GujvroTuC1SN1UE1T) | 6:51 | 2019-06-22 | 2019-11-09 |
 | [Moonface](https://open.spotify.com/track/3oWez555ACR3IptrEFYjmz) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Moonface/Zukunft](https://open.spotify.com/album/5Gelq7kJWuYIr0ATVgRbAU) | 7:47 | 2019-05-26\* | 2019-06-21 |
@@ -266,10 +266,11 @@
 | [Sidestep](https://open.spotify.com/track/3MrPab0lPfkPBO9NpwSh9F) | [Thugfucker](https://open.spotify.com/artist/4qSSSfXZFYYw5hU5ywxMcP) | [Interdimensional Journeys](https://open.spotify.com/album/0dGNMXMW4XPKdTuvuc56a3) | 6:36 | 2019-12-27 | 2020-01-05 |
 | [Sidewinder](https://open.spotify.com/track/0hcKU2s5pItCZ3DY0glVQe) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Move to the Vibe](https://open.spotify.com/album/30kMjKQ6Eerumx6xvWUa09) | 7:10 | 2019-12-09 | 2021-04-13 |
 | [Sleepless \- Stephan Bodzin Remix](https://open.spotify.com/track/50MkrUXSXsS1Q1bn95XQcm) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [The Other Remixes](https://open.spotify.com/album/1ESSPoCmi5sY43k4kBHXRJ) | 9:00 | 2019-06-21 | 2019-11-09 |
-| [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 | 2021-07-04 |  |
+| [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 | 2021-07-04 | 2022-11-16 |
 | [Solid Maybe](https://open.spotify.com/track/1whJKLkSxF0q4glZhCFtpJ) | [Steve Bug](https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J) | [Solid Maybe](https://open.spotify.com/album/10ft9WCfq6YnUV2AQaCN13) | 8:26 | 2019-05-26\* | 2021-05-28 |
 | [Solitary Daze](https://open.spotify.com/track/5nbttXsM0PYqyASw0IQ1ux) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/6hNSBxIuFK9LB0rdXAln6s) | 7:43 | 2019-06-22 | 2019-06-28 |
 | [Someone Else](https://open.spotify.com/track/02pzOX3OB9N8psnEpmeD3a) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/4oXObLe6qLx9Z58eIMvRMW) | 6:18 | 2020-06-29 | 2022-10-18 |
+| [Someone Else](https://open.spotify.com/track/4CiVKhMTI6767xO40Tas0c) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Someone Else](https://open.spotify.com/album/0Id2ImUT5LaJT29DLnX9qE) | 6:18 | 2022-09-30 |  |
 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 | 2020-02-19 |  |
 | [Space Chants](https://open.spotify.com/track/0ZykKpfjw56pAQnkvRIFZS) | [Spieltape](https://open.spotify.com/artist/6Et53z8rREv56kKxJi0an6), [Dave Pad](https://open.spotify.com/artist/4wTXdJW4CabMRwP9aGXO42) | [Space Chants](https://open.spotify.com/album/0XQ8IM2Rye1ODNPJ93AepE) | 6:57 | 2019-10-25 | 2022-04-20 |
 | [Spacemodulation](https://open.spotify.com/track/27BlVowSHhpLPtbEBpNGQY) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Spacemodulation](https://open.spotify.com/album/6A5Q4ruj4Y6AyFdMASxd9D) | 7:08 | 2022-06-24 |  |

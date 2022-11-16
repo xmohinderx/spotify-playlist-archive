@@ -4,7 +4,7 @@
 
 > 映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>の公開を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』はこちら</a> © 2022「すずめの戸締まり」製作委員会
 
-70 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/2IqiBMkw1MhLU3qAermgTC)
+71 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2IqiBMkw1MhLU3qAermgTC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [けんかをやめて](https://open.spotify.com/track/2UiO3tzClF7mHiuRyhUt3R) | [Naoko Kawai](https://open.spotify.com/artist/1BMCwAT2geYkKBKjRAJ8Qu) | [けんかをやめて](https://open.spotify.com/album/6JDq7lXrVjiED6fHNjGx1N) | 4:31 | 2022-11-10 |  |
 | [バレンタイン・キッス](https://open.spotify.com/track/27Zq1Uh9ITJwfTaqvqUsfy) | [Sayuri Kokusho](https://open.spotify.com/artist/3Ts5ELxUNyqlHKYJX8uq5t), [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [バレンタイン・キッス](https://open.spotify.com/album/5qxEqwkeJaDCO7vKIB500c) | 3:36 | 2022-11-10 |  |
 | [メインテーマ](https://open.spotify.com/track/5ynaMlHUTnUwcKQQ2wgRdk) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 雲のむこう、約束の場所 Original Sound Track](https://open.spotify.com/album/2ZWQnipGzWgVUWcphJElZ1) | 1:28 | 2022-09-30 |  |
-| [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2022-11-10 |  |
+| [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2022-11-10 | 2022-11-16 |
+| [ルージュの伝言](https://open.spotify.com/track/462O96Nj5zuTA13QAlrd8A) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ルージュの伝言](https://open.spotify.com/album/4rJiEREugS8KDs7oSF35Tt) | 3:02 | 2022-11-15 |  |
 | [夢の中へ \- 2017 Remaster](https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [夢の中へ](https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf) | 2:36 | 2022-11-10 |  |
 | [想い出は遠くの日々](https://open.spotify.com/track/5dzk9bYbpDpSgZxFaP3iBu) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 1:41 | 2022-09-30 |  |
 | [桜花抄](https://open.spotify.com/track/5vgbpz9DQTLPa91f0wxUOH) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [劇場アニメーション 秒速5センチメートル Soundtracks](https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP) | 4:51 | 2022-09-30 |  |

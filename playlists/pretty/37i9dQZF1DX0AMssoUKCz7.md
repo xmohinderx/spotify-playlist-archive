@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,105,997 likes - 200 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,106,159 likes - 200 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 5 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 |
 | 6 | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/track/140XpWSdJ0jZEbLj9iVnPA) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [The Best Days \(feat\. Tabitha\)](https://open.spotify.com/album/2rK1aKulqPu5DydpbYfLnZ) | 2:41 |
 | 7 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 |
-| 8 | [Creep](https://open.spotify.com/track/5hYirmwaIUUGTFwmJl1WXM) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Creep](https://open.spotify.com/album/3R6NTDuC5qqwa03jCCQ8yz) | 2:54 |
-| 9 | [Over You](https://open.spotify.com/track/1ug22meh3YgHra1l314WLA) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Over You](https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw) | 2:21 |
+| 8 | [Over You](https://open.spotify.com/track/1ug22meh3YgHra1l314WLA) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Over You](https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw) | 2:21 |
+| 9 | [5th Avenue](https://open.spotify.com/track/0mpkpO26XkXjT5t3vyl8PA) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [5th Avenue](https://open.spotify.com/album/7s1p2d7VGyvxZKuj9YWxOg) | 3:04 |
 | 10 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 |
-| 11 | [5th Avenue](https://open.spotify.com/track/0mpkpO26XkXjT5t3vyl8PA) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [5th Avenue](https://open.spotify.com/album/7s1p2d7VGyvxZKuj9YWxOg) | 3:04 |
+| 11 | [Creep](https://open.spotify.com/track/0kDI42WWRwsrKAmE7wmQbt) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Creep](https://open.spotify.com/album/1JQOUrnGO8cW4ozVKAIbID) | 2:54 |
 | 12 | [Miracle In The Middle Of My Heart](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8) | [BCX](https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32) | [Miracle In The Middle Of My Heart](https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG) | 2:54 |
 | 13 | [I Won’t Need You](https://open.spotify.com/track/0w16BQtFsrTTesvoWO9zoj) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8), [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [I Won’t Need You](https://open.spotify.com/album/3e1DQ5tYkCUgCNe7b5mXTo) | 2:58 |
 | 14 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 199 | [Illuminate](https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA) | [Illuminate](https://open.spotify.com/album/26kwSfWMnu2W5GVQ4n7obD) | 2:20 |
 | 200 | [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 |
 
-Snapshot ID: `MTY2ODE1NTgyNSwwMDAwMDAwMDA2MDk1NDc4YjRhZGNmYzkyYzczNDg2YjViODgzYzFm`
+Snapshot ID: `MTY2ODE1NTgyNSwwMDAwMDAwMDRjZmUxOWMyYzBiOGI2MmExYjI1ZTU0MWI3MDQ1ZTVh`

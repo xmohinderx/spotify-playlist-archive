@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 ### [Tirade](https://open.spotify.com/playlist/37i9dQZF1DWWXzA48d9shL)
 
-> Rap from hell\. Cover: Night Lovell
+> Rap from hell\. Cover: CORPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,793 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,078 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [WOKE UP](https://open.spotify.com/track/2vpHZfMYlJ98xwVo5NknQ5) | [luvseat](https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs) | [god complex](https://open.spotify.com/album/4MCcSOMcdAnXqE0y2PORQD) | 2:05 |
 | 100 | [Mindset](https://open.spotify.com/track/5nykfNlQXA0CFJpH0rLDxL) | [Baker Ya Maker](https://open.spotify.com/artist/65T6BIrUTcgylCYTXqVxvR) | [The Vault II](https://open.spotify.com/album/5kOE2LtmpW9YqnyeFlmBAx) | 2:48 |
 
-Snapshot ID: `MTY2ODAwNDk4MSwwMDAwMDAwMDhhMzc2YmU0MWNlZmQ3ZmM5MjBjMmMyNjEyNDVmNDA5`
+Snapshot ID: `MTY2ODUyOTk5NCwwMDAwMDAwMGJiOTg5ZDU0NWUyMDdjZjFmM2JiZTM5NjU2ZTJkOTMx`

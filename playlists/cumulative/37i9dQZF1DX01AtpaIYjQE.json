@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "LANDER",
+        "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205720,
+      "name": "dis/connect",
+      "url": "https://open.spotify.com/track/1wDxr0NwlusJFkwu6ci8WO"
+    },
+    {
+      "album": {
         "name": "LANDSPACE",
         "url": "https://open.spotify.com/album/5aKVOZqJWL30JXGpimjifo"
       },
@@ -679,6 +697,24 @@
     {
       "album": {
         "name": "HADASHi NO STEP",
+        "url": "https://open.spotify.com/album/6zPKHFU11OqxAGDvN0atmV"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222126,
+      "name": "HADASHi NO STEP",
+      "url": "https://open.spotify.com/track/2chbq2OYbQeg5uDmr0bNhj"
+    },
+    {
+      "album": {
+        "name": "HADASHi NO STEP",
         "url": "https://open.spotify.com/album/4xyRzR05k9WWz5CmO99GLN"
       },
       "artists": [
@@ -689,7 +725,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 225213,
       "name": "HADASHi NO STEP",
       "url": "https://open.spotify.com/track/7fABbNU3MdFKJxj3FTZysn"
@@ -1968,6 +2004,24 @@
     },
     {
       "album": {
+        "name": "LANDER",
+        "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "\u30b7\u30e3\u30f3\u30d7\u30fc\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2IqjLpWrs5gI2xG2OEFxvx"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30eb\u30b7",
         "url": "https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT"
       },
@@ -2296,6 +2350,24 @@
     },
     {
       "album": {
+        "name": "LANDER",
+        "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181946,
+      "name": "\u60aa\u5973\u306e\u30aa\u30ad\u30c6",
+      "url": "https://open.spotify.com/track/29cqealgSJ6M7qSd6ilP6A"
+    },
+    {
+      "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
       },
@@ -2314,6 +2386,24 @@
     },
     {
       "album": {
+        "name": "\u660e\u3051\u661f",
+        "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "\u660e\u3051\u661f",
+      "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
+    },
+    {
+      "album": {
         "name": "\u660e\u3051\u661f / \u767d\u9280",
         "url": "https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV"
       },
@@ -2325,7 +2415,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 269000,
       "name": "\u660e\u3051\u661f",
       "url": "https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc"
@@ -2361,10 +2451,46 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 274412,
       "name": "\u708e",
       "url": "https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn"
+    },
+    {
+      "album": {
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
+    },
+    {
+      "album": {
+        "name": "\u767d\u9280",
+        "url": "https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264666,
+      "name": "\u767d\u9280",
+      "url": "https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ"
     },
     {
       "album": {
@@ -2379,7 +2505,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 264666,
       "name": "\u767d\u9280",
       "url": "https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H"
@@ -2491,6 +2617,24 @@
       "duration_ms": 252320,
       "name": "\u8d64\u3044\u7f60(who loves it?)",
       "url": "https://open.spotify.com/track/0Mu4Yoh1DxMdn24tovjU76"
+    },
+    {
+      "album": {
+        "name": "LANDER",
+        "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292693,
+      "name": "\u9003\u98db\u884c",
+      "url": "https://open.spotify.com/track/4la4G9g7JzxRIDXH6HIJvd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX01AtpaIYjQE"

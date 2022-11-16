@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > 映画<a href="https://suzume\-tojimari\-movie.jp/">『すずめの戸締まり』</a>の公開を記念して、新海誠監督作品を彩ってきた数多くの名曲をひとつのプレイリストにしました。 <a href="spotify:show:5nlDsmpul9enHhSHgkfPD5">音声版『聴く小説・すずめの戸締まり』はこちら</a> © 2022「すずめの戸締まり」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,717 likes - 66 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,163 likes - 66 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 2 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 |
 | 3 | [Giza Giza Heart no Komoriuta](https://open.spotify.com/track/6B9896DwhyX1IGdVgVNywP) | [The Checkers](https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1) | [Final Tour Budoukan Live](https://open.spotify.com/album/1d15Or6YvXpD6EAlmKlJVY) | 4:27 |
 | 4 | [男と女のラブゲーム](https://open.spotify.com/track/4qVrWEpm4fjdTakJg5Ykk6) | [Mika Hino](https://open.spotify.com/artist/4SnVzUk8sP61RFT8czNxjj), [Kenji Niinuma](https://open.spotify.com/artist/4eZxAuDEWugT2KHS32AIkA) | [日野美歌全曲集 いのりうた](https://open.spotify.com/album/3riEoVadQnLwFFGh94BEAk) | 3:57 |
-| 5 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 |
+| 5 | [ルージュの伝言](https://open.spotify.com/track/462O96Nj5zuTA13QAlrd8A) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ルージュの伝言](https://open.spotify.com/album/4rJiEREugS8KDs7oSF35Tt) | 3:02 |
 | 6 | [SWEET MEMORIES \(Re\-Mix Version\)](https://open.spotify.com/track/6UDky6rmQprD5seH60B8jY) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [ペンギンズ・メモリー「幸福物語」オリジナル・サウンドトラック](https://open.spotify.com/album/7bcgXOWD6gojVuI6joqEtJ) | 4:34 |
 | 7 | [夢の中へ \- 2017 Remaster](https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk) | [Yosui Inoue](https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA) | [夢の中へ](https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf) | 2:36 |
 | 8 | [Sotsugyou](https://open.spotify.com/track/60Oi2EFpU4u0tn94LCub1h) | [Yuki Saitou](https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae) | [Yuki's Best](https://open.spotify.com/album/6wo64DefvXuab2rWWZjEtf) | 4:43 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 65 | [The voices of distant star \~PREVIEW\~](https://open.spotify.com/track/6oTgn5L290FDJfunuzRA3m) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [「ほしのこえ」SOUNDTRACK](https://open.spotify.com/album/7aADsc9Vj2R8ckH6ULg7hf) | 1:11 |
 | 66 | [Main Theme](https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4) | [天門](https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ) | [彼女と彼女の猫 SOUNDTRACKS](https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ) | 1:23 |
 
-Snapshot ID: `MTY2ODM3NDk5OSwwMDAwMDAwMGU0Y2Y2N2E5M2EyYTlkOGVkMTk3NjM0NGE3YWY1YWNk`
+Snapshot ID: `MTY2ODUzNzIxOSwwMDAwMDAwMGJiZWYwNDVhODU0MzJhYzgzMWI3Y2JkZGUwYzY0MDg1`

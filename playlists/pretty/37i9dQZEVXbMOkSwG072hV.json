@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 347087,
+  "num_followers": 347101,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIxNzQ0NDMzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIxODMyNTEwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Iguinho e lulinha Eu te amo tanto",
+        "url": "https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf"
+      },
+      "artists": [
+        {
+          "name": "Piseiro original",
+          "url": "https://open.spotify.com/artist/4SQcSMJpci1m42ekRFUjAe"
+        }
+      ],
+      "duration_ms": 212184,
+      "name": "Eu Te Amo Tanto Iguinho",
+      "url": "https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Evoque Prata",
         "url": "https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE"
@@ -33,7 +49,27 @@
       "url": "https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Dengo",
+        "url": "https://open.spotify.com/album/4YzaJCrhY1JAiPfU1BqgOu"
+      },
+      "artists": [
+        {
+          "name": "Maria Maud",
+          "url": "https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Dengo",
+      "url": "https://open.spotify.com/track/2Udojaa4kCFg7vBbcIEzHK"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Mel do Egito",
         "url": "https://open.spotify.com/album/1K2DSlKbEWe1BYgbIzUck1"
@@ -53,7 +89,23 @@
       "url": "https://open.spotify.com/track/58VUikMywNpRelwEx8khdh"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 214693,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Remix do Tiktok",
         "url": "https://open.spotify.com/album/6nofyA63a36dRmGwr8CmVi"
@@ -77,59 +129,7 @@
       "url": "https://open.spotify.com/track/1Koy2dZb7lNApeGdt9Nr0q"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 214693,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "WORTH NOTHING",
-        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
-      },
-      "artists": [
-        {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 164629,
-      "name": "WORTH NOTHING",
-      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Cantar",
-        "url": "https://open.spotify.com/album/4jY3KTb8z9OZiIM92pTuNe"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "L\u00e1grimas Negras",
-      "url": "https://open.spotify.com/track/78I8jaChZbPu72bIGGPMKk"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "A Pele do Futuro",
         "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
@@ -149,27 +149,43 @@
       "url": "https://open.spotify.com/track/2DgAknj9a6riqm4h7mZdGD"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
-        "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
-        "url": "https://open.spotify.com/album/2iMogSRFO3aYVPaubhxlsT"
+        "name": "Cantar",
+        "url": "https://open.spotify.com/album/4jY3KTb8z9OZiIM92pTuNe"
       },
       "artists": [
         {
-          "name": "Tiago Doid\u00e3o",
-          "url": "https://open.spotify.com/artist/6JyfXyzoX303xiXFwhT9Za"
-        },
-        {
-          "name": "Juliano Maderada",
-          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 202342,
-      "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
-      "url": "https://open.spotify.com/track/3pgKhQdt8MNXUhh9698qmi"
+      "duration_ms": 215440,
+      "name": "L\u00e1grimas Negras",
+      "url": "https://open.spotify.com/track/78I8jaChZbPu72bIGGPMKk"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "WORTH NOTHING",
+        "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
+      },
+      "artists": [
+        {
+          "name": "TWISTED",
+          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 164629,
+      "name": "WORTH NOTHING",
+      "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
@@ -193,7 +209,59 @@
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Iguinho e lulinha Eu te amo tanto",
+        "url": "https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf"
+      },
+      "artists": [
+        {
+          "name": "Piseiro original",
+          "url": "https://open.spotify.com/artist/4SQcSMJpci1m42ekRFUjAe"
+        }
+      ],
+      "duration_ms": 121200,
+      "name": "Se Hoje Eu For Cair Iguinho",
+      "url": "https://open.spotify.com/track/1NepT1lxXl7jItlkvonfG5"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "A Pele do Futuro",
+        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Palavras No Corpo",
+      "url": "https://open.spotify.com/track/1WhWizm70M63k5UVIHX1Fe"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
+        "url": "https://open.spotify.com/album/2iMogSRFO3aYVPaubhxlsT"
+      },
+      "artists": [
+        {
+          "name": "Tiago Doid\u00e3o",
+          "url": "https://open.spotify.com/artist/6JyfXyzoX303xiXFwhT9Za"
+        },
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
+      "url": "https://open.spotify.com/track/3pgKhQdt8MNXUhh9698qmi"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Ai Que Sorte (feat. Dj Wendel Czr)",
         "url": "https://open.spotify.com/album/6kgcMoxeViozOL8JrOrSUk"
@@ -221,7 +289,123 @@
       "url": "https://open.spotify.com/track/3tCHdxdo1mbJBiltEyWtS9"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 260133,
+      "name": "Divino Maravilhoso",
+      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Gal Estratosf\u00e9rica",
+        "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Quando Voc\u00ea Olha Pra Ela",
+      "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Gal Canta Caetano",
+        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Vaca Profana",
+      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 229864,
+      "name": "Chuva de Prata - Ao Vivo",
+      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "N\u00e3o Sei pra Que Fui Socar Forte - Ela Ficou Apaixonada Oh Bct Desgra\u00e7ada",
         "url": "https://open.spotify.com/album/6gNZNKwN2Mk1o2nbCHevd7"
@@ -245,10 +429,10 @@
       "url": "https://open.spotify.com/track/0yH4Yrpmj2dopkwkwee8Fh"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
-        "name": "A Pele do Futuro",
-        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
       },
       "artists": [
         {
@@ -256,132 +440,12 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 239560,
-      "name": "Palavras No Corpo",
-      "url": "https://open.spotify.com/track/1WhWizm70M63k5UVIHX1Fe"
+      "duration_ms": 165800,
+      "name": "Como 2 E 2 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 260133,
-      "name": "Divino Maravilhoso",
-      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal Estratosf\u00e9rica",
-        "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Quando Voc\u00ea Olha Pra Ela",
-      "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 229864,
-      "name": "Chuva de Prata - Ao Vivo",
-      "url": "https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal Canta Caetano",
-        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Vaca Profana",
-      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Felina",
-        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Cheiro da Karolina",
         "url": "https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI"
@@ -397,7 +461,7 @@
       "url": "https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Mega do Akon",
         "url": "https://open.spotify.com/album/6sLUkJ8lvG5naRIOOF0TJC"
@@ -417,58 +481,30 @@
       "url": "https://open.spotify.com/track/48a10s0prwFVvEbGWdVhi7"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
       },
       "artists": [
         {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
-      },
-      "artists": [
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
         }
       ],
-      "duration_ms": 185573,
-      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
-      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+      "duration_ms": 225882,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
-        "name": "Ultimamente Speed",
-        "url": "https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4"
-      },
-      "artists": [
-        {
-          "name": "dreko",
-          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
-        }
-      ],
-      "duration_ms": 130254,
-      "name": "Ultimamente Speed",
-      "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal A Todo Vapor (Live)",
-        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
@@ -476,12 +512,12 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 165800,
-      "name": "Como 2 E 2 - Ao Vivo",
-      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
+      "duration_ms": 198173,
+      "name": "Nao Identificado",
+      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "KICK BACK",
         "url": "https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B"
@@ -497,7 +533,207 @@
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 517480,
+      "name": "Vapor Barato - Ao Vivo",
+      "url": "https://open.spotify.com/track/7y4t07QOezOkyAyJiCbyMK"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Pactos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 183694,
+      "name": "Pactos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "De Caxias Para O Mundo",
+        "url": "https://open.spotify.com/album/3L5FLdFDx6Uzt45OruOR0E"
+      },
+      "artists": [
+        {
+          "name": "DJ CIRILO DE CAXIAS",
+          "url": "https://open.spotify.com/artist/4vU3LV354CpezI42tPRiVN"
+        },
+        {
+          "name": "Kaeny Mc",
+          "url": "https://open.spotify.com/artist/0GM5Kxf1k00U2KzgFznWxi"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Aqui Na Parma Tu Vem Pra Fuder",
+      "url": "https://open.spotify.com/track/2SOeAhvJfh7HsGYPVtGG8H"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Baby (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 187178,
+      "name": "Baby - Ao Vivo",
+      "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 225713,
+      "name": "O Que \u00c9 Que H\u00e1 - Faixa B\u00f4nus - Ao Vivo",
+      "url": "https://open.spotify.com/track/72hvnSG5YSHC219mCHWhMJ"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Maxximum - Gal Costa",
+        "url": "https://open.spotify.com/album/2vpZZURuJCOZHZQjWqrUIe"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 411733,
+      "name": "Vapor Barato (feat. Zeca Baleiro)",
+      "url": "https://open.spotify.com/track/5R2ZDKN9EOQxg2ApKCfTYh"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/6bAIlsbRdXH1evUZN9KovK"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 237150,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2gpQT3UwG8hR3CYEjcnTc4"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
+        "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 137660,
+      "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
+      "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Sorrisin de Puto",
         "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
@@ -517,7 +753,55 @@
       "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 174782,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Duas Tr\u00eas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BboQAcTjqRPn8o4mGWxho"
+      },
+      "artists": [
+        {
+          "name": "Adriano Rhod",
+          "url": "https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF"
+        }
+      ],
+      "duration_ms": 156576,
+      "name": "Duas Tr\u00eas - Ao Vivo",
+      "url": "https://open.spotify.com/track/56eHc9MIkaJJcTGCvwxJCd"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "SARRA NOS MENOR QUE TA DE GLOCK NA CINTURA",
         "url": "https://open.spotify.com/album/7xQwkgNguN6SUKwTNZwNCE"
@@ -541,46 +825,10 @@
       "url": "https://open.spotify.com/track/2N8MJun4bBUDCG92sSlpsS"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Deserto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Deserto (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Caras E Bocas",
+        "url": "https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o"
       },
       "artists": [
         {
@@ -588,168 +836,12 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Nao Identificado",
-      "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
+      "duration_ms": 379386,
+      "name": "Negro Amor (It's All Over Now, Baby Clue)",
+      "url": "https://open.spotify.com/track/3QAVjhDbh7Bv6kUbSNXmdy"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Aqui Na Parma Tu Vem Pra Fuder",
-        "url": "https://open.spotify.com/album/6TLHkb7dghgkYTlmtrZkM8"
-      },
-      "artists": [
-        {
-          "name": "DJ CIRILO DE CAXIAS",
-          "url": "https://open.spotify.com/artist/4vU3LV354CpezI42tPRiVN"
-        },
-        {
-          "name": "Kaeny Mc",
-          "url": "https://open.spotify.com/artist/0GM5Kxf1k00U2KzgFznWxi"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Aqui Na Parma Tu Vem Pra Fuder",
-      "url": "https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Pactos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 183694,
-      "name": "Pactos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Gal A Todo Vapor (Live)",
-        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 517480,
-      "name": "Vapor Barato - Ao Vivo",
-      "url": "https://open.spotify.com/track/7y4t07QOezOkyAyJiCbyMK"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Baby (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 187178,
-      "name": "Baby - Ao Vivo",
-      "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Ondas",
-        "url": "https://open.spotify.com/album/50XZlFgM08Jf1ffJI3OKJJ"
-      },
-      "artists": [
-        {
-          "name": "DJ VINI DA ZO",
-          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
-        },
-        {
-          "name": "MC Lipivox",
-          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
-        },
-        {
-          "name": "MC Davi CPR",
-          "url": "https://open.spotify.com/artist/0Xgfv9czKL7lEuKkRpHq2Y"
-        },
-        {
-          "name": "MC Buraga",
-          "url": "https://open.spotify.com/artist/5OjUzfzhGFTQDWfKiPcxAE"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 177269,
-      "name": "Onda Subaqu\u00e1tica",
-      "url": "https://open.spotify.com/track/2VXYDFkdswv20S7DFZtLXY"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "N\u00e3o Fosse T\u00e3o Tarde",
-        "url": "https://open.spotify.com/album/1ZOX8Vo6kp2UzdSGUCJ2lN"
-      },
-      "artists": [
-        {
-          "name": "LUCASS ABOIADOR",
-          "url": "https://open.spotify.com/artist/2lOMLaD4Ft5EKz7ztDIWtG"
-        }
-      ],
-      "duration_ms": 142988,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde",
-      "url": "https://open.spotify.com/track/15k0jgOtUlgF5117rVSAQi"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 225713,
-      "name": "O Que \u00c9 Que H\u00e1 - Faixa B\u00f4nus - Ao Vivo",
-      "url": "https://open.spotify.com/track/72hvnSG5YSHC219mCHWhMJ"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "M\u00e9dia Boa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 148900,
-      "name": "M\u00e9dia Boa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Papo de Agustinho",
         "url": "https://open.spotify.com/album/6zhoQQ4slrBbrAKrhTycwo"
@@ -769,39 +861,55 @@
       "url": "https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
       "album": {
-        "name": "Tubar\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
+        "name": "Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW"
       },
       "artists": [
         {
-          "name": "Dj LK da Esc\u00f3cia",
-          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
-        },
-        {
-          "name": "Tchakabum",
-          "url": "https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "mc jhenny",
-          "url": "https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6"
-        },
-        {
-          "name": "Mc RF",
-          "url": "https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ"
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 149076,
-      "name": "Tubar\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
+      "duration_ms": 268000,
+      "name": "Deserto (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
     },
     {
-      "added_at": "2022-11-14 12:33:53",
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Sua Estupidez - Ao Vivo",
+      "url": "https://open.spotify.com/track/7IxybxcFyIGvMfgXePwT4U"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
+      "album": {
+        "name": "N\u00e3o Fosse T\u00e3o Tarde",
+        "url": "https://open.spotify.com/album/1ZOX8Vo6kp2UzdSGUCJ2lN"
+      },
+      "artists": [
+        {
+          "name": "LUCASS ABOIADOR",
+          "url": "https://open.spotify.com/artist/2lOMLaD4Ft5EKz7ztDIWtG"
+        }
+      ],
+      "duration_ms": 142988,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde",
+      "url": "https://open.spotify.com/track/15k0jgOtUlgF5117rVSAQi"
+    },
+    {
+      "added_at": "2022-11-15 13:01:50",
       "album": {
         "name": "Eu Gosto Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
@@ -819,150 +927,6 @@
       "duration_ms": 148800,
       "name": "Eu Gosto Assim - Ao Vivo",
       "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
-        "url": "https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 137660,
-      "name": "Novinha do Onlyfans (Tchan Ran Tchan Tchan)",
-      "url": "https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "I love",
-        "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "Nxde",
-      "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Duas Tr\u00eas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BboQAcTjqRPn8o4mGWxho"
-      },
-      "artists": [
-        {
-          "name": "Adriano Rhod",
-          "url": "https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF"
-        }
-      ],
-      "duration_ms": 156576,
-      "name": "Duas Tr\u00eas - Ao Vivo",
-      "url": "https://open.spotify.com/track/56eHc9MIkaJJcTGCvwxJCd"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/6bAIlsbRdXH1evUZN9KovK"
-      },
-      "artists": [
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        },
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 237150,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2gpQT3UwG8hR3CYEjcnTc4"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Maxximum - Gal Costa",
-        "url": "https://open.spotify.com/album/2vpZZURuJCOZHZQjWqrUIe"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 411733,
-      "name": "Vapor Barato (feat. Zeca Baleiro)",
-      "url": "https://open.spotify.com/track/5R2ZDKN9EOQxg2ApKCfTYh"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Mal Sei Falar de Amor",
-        "url": "https://open.spotify.com/album/2p6554PCcGEKWrSLknXpAr"
-      },
-      "artists": [
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Mal Sei Falar de Amor",
-      "url": "https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Balmain",
-        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Balmain",
-      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
-    },
-    {
-      "added_at": "2022-11-14 12:33:53",
-      "album": {
-        "name": "Caras E Bocas",
-        "url": "https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 379386,
-      "name": "Negro Amor (It's All Over Now, Baby Clue)",
-      "url": "https://open.spotify.com/track/3QAVjhDbh7Bv6kUbSNXmdy"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

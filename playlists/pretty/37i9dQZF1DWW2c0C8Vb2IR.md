@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,164 likes - 38 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,218 likes - 38 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 2 | [The Pioneers](https://open.spotify.com/track/6aUm3x3eDyWWi7vn4stopF) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Four](https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr) | 5:42 |
 | 3 | [Mirage](https://open.spotify.com/track/504JluU0SrgimOW69mwCYx) | [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL) | [Mirage](https://open.spotify.com/album/2GFnHs15SPG2ziCriUPA9v) | 3:17 |
 | 4 | [Bluesette](https://open.spotify.com/track/7m3pBEyFnyer2UYo6L1SfQ) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Bluesette](https://open.spotify.com/album/1h0e7A8uNrtArUgFz6f8Il) | 6:11 |
-| 5 | [Secret Love](https://open.spotify.com/track/24Ojhb1QZqe5OlxwPXb56q) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Kaspar Vadsholt](https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ), [Nice Chair](https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6) | [Secret Love](https://open.spotify.com/album/4lyulYMJKX79nZG4m6Ru7p) | 7:05 |
+| 5 | [Secret Love](https://open.spotify.com/track/24Ojhb1QZqe5OlxwPXb56q) | [Nice Chair](https://open.spotify.com/artist/4KRRW8ovgKX51Q7wmirbo6), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Kaspar Vadsholt](https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ) | [Secret Love](https://open.spotify.com/album/4lyulYMJKX79nZG4m6Ru7p) | 7:05 |
 | 6 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/7LL0QkIE3gZLmqUbptVLc2) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Karl\-Henrik Ousbäck](https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV) | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/album/4C9bsmeHvh168BMnqd5stY) | 6:30 |
 | 7 | [Recollect](https://open.spotify.com/track/6DSe1rDxxqyLfdynWGAtKR) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [Andrew Gould](https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0), [Javier Martinez Vallejos](https://open.spotify.com/artist/7A0Hqf5PHDLbxCDmYaz1xI) | [Recollect](https://open.spotify.com/album/0nFj3w1D7t8zz6a5lAepjp) | 3:14 |
 | 8 | [Changing Earth](https://open.spotify.com/track/2qcNwE8poqBYjjqgypWvte) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Changing Earth](https://open.spotify.com/album/7ItHCzSTvv8rxUN1S7NpZW) | 6:27 |

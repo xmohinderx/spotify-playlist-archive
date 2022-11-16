@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuS4aou8qH2.md) - [plain]
 
 > The perfect jams on a perfect summer day\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,966 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,972 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

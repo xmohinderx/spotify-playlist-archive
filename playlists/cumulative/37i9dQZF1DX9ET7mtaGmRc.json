@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-08",
-  "description": "\uc6d4\ub4dc\ucef5 \uc2dc\uc98c\uc774 \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4! \uc2dc\ud569\uc758 \uc5f4\uae30\uac00 \uac00\ub4dd\ud55c \ub178\ub798\ub4e4\uacfc \ud568\uaed8 \ubd89\uc740 \uc545\ub9c8\uac00 \ub418\uc5b4\ubcf4\uc138\uc694!",
+  "description": "\ucd95\uad6c \uc2dc\uc98c\uc774 \ub3cc\uc544\uc654\uc2b5\ub2c8\ub2e4! \uc2dc\ud569\uc758 \uc5f4\uae30\uac00 \uac00\ub4dd\ud55c \ub178\ub798\ub4e4\uacfc \ud568\uaed8 \ubd89\uc740 \uc545\ub9c8\uac00 \ub418\uc5b4\ubcf4\uc138\uc694!",
   "name": "Goal !",
   "published_playlist_ids": [],
   "tracks": [
@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "The Reds and Korea",
+        "url": "https://open.spotify.com/album/1LvMILXSjr6tf5zjopAMPZ"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "The Reds and Korea",
+      "url": "https://open.spotify.com/track/1VruHDum120zCG67vVi26O"
+    },
+    {
+      "album": {
         "name": "We, the Reds",
         "url": "https://open.spotify.com/album/3cQ4qBZ7PmUGPERnE8XQGK"
       },
@@ -1021,6 +1039,24 @@
       "duration_ms": 239000,
       "name": "To the Victory 2014",
       "url": "https://open.spotify.com/track/4EFATw5cZpRimq5gKBGd7V"
+    },
+    {
+      "album": {
+        "name": "The Reds and Korea",
+        "url": "https://open.spotify.com/album/1LvMILXSjr6tf5zjopAMPZ"
+      },
+      "artists": [
+        {
+          "name": "Cho Moon Geun Band",
+          "url": "https://open.spotify.com/artist/2053K4zLW7CivPHvamTXkC"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194784,
+      "name": "Toast to Victory",
+      "url": "https://open.spotify.com/track/26UFAH7nXisVXuXzZTLruH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-552 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+554 songs - 1 day 5 hr 48 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Multicolore](https://open.spotify.com/track/6KEQoLLr2kXLFKjiAFcxlW) | [Bellorum](https://open.spotify.com/artist/1Ylv9zH9EjyMQvIAah6nOh) | [Multicolore](https://open.spotify.com/album/71FiFt0GL3GWW7FQkvTQfS) | 2:04 | 2022-08-05 | 2022-09-07 |
 | [My Circle](https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [My Circle](https://open.spotify.com/album/4kZIQPP4EbHyEuSBzhnbUi) | 2:39 | 2022-01-28 | 2022-02-26 |
 | [Need You Back](https://open.spotify.com/track/1KwIrJg96RHokyebJ0cn5i) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [ben haydn](https://open.spotify.com/artist/6hhSMFSre2tzsoKtm3slxB) | [Need You Back](https://open.spotify.com/album/6bgSbajtMejBA4yHlbb8HA) | 2:27 | 2022-09-09 | 2022-10-22 |
+| [Nemesis Pt\. II](https://open.spotify.com/track/6F6VliXzfgjCsDMAQ37cTQ) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Nemesis Pt\. II](https://open.spotify.com/album/1zePUd3vBR4TDum2iDRhlG) | 2:55 | 2022-11-15 |  |
 | [Never Be Like You \(feat\. Kai\)](https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [kai](https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml) | [Skin](https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5) | 3:54 | 2022-01-14 | 2022-09-15 |
 | [Night Falls](https://open.spotify.com/track/3ZNhFhshMLjGQraO4pvpDR) | [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak) | [Night Falls](https://open.spotify.com/album/6IATtq9O7Y7NzciAsFyIko) | 3:45 | 2022-01-20 | 2022-02-10 |
 | [Nightfall](https://open.spotify.com/track/0O9pNfHfljiS8xURNZLy6H) | [D4RRYL](https://open.spotify.com/artist/7x3qvRA3StSkQIQlZidQma) | [Nightfall](https://open.spotify.com/album/41qoRqe1XSeXBKrGnF4ptj) | 3:05 | 2022-08-19 | 2022-10-08 |
@@ -406,6 +407,7 @@
 | [Remember](https://open.spotify.com/track/5GdLTk6gVqSCk8NU8eZIvW) | [LAUTRE.](https://open.spotify.com/artist/7wfx7Fc5L3L8uvXEv8pCm6) | [Remember](https://open.spotify.com/album/7xt73HGZffNEiLPutiTZTb) | 2:14 | 2022-11-04 |  |
 | [RESISTER \(JVNA Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/152YaiVG53eeWXUvKgBM1e) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [RESISTER \(JVNA Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/384c5wqSM7EsuxG0NnPPEk) | 3:18 | 2022-11-04 |  |
 | [RESONATE](https://open.spotify.com/track/7HtJbNlSTd0DXRaNxLBNox) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [RESONATE](https://open.spotify.com/album/38gQrzZNZLH40xu3xKeeZ9) | 2:48 | 2022-10-07 | 2022-11-05 |
+| [Respect the Selector](https://open.spotify.com/track/3BiSC5gsupFqSVQyqk5zAx) | [Where's Rin](https://open.spotify.com/artist/7MkV3ngSihtUb8nCO57o0F) | [Respect the Selector](https://open.spotify.com/album/4rRfk6PqNBknBy1A8DQWc1) | 2:47 | 2022-11-15 |  |
 | [Revenant](https://open.spotify.com/track/4ZbRH1596F1j9uhSPCToQO) | [E.Y\. Beats](https://open.spotify.com/artist/3LV94vQj0kuUPtaU1gwk4H), [Sarrox](https://open.spotify.com/artist/7Irm9thOhKmS2rYdazKmbB) | [Revenant](https://open.spotify.com/album/3vnTFbB9gysuryQz4PEXUA) | 2:17 | 2022-01-14 | 2022-02-10 |
 | [Rip My Heart Out](https://open.spotify.com/track/12EYzHLOtNpbKP0rqEtscZ) | [HIGHSOCIETY](https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Rip My Heart Out \(feat\. Skyler Cocco\)](https://open.spotify.com/album/3jX1SR354v3ExrrejmwSfE) | 3:51 | 2022-02-18 | 2022-07-02 |
 | [Roof Down](https://open.spotify.com/track/2hRm3384vOFLfMnX06WxYC) | [NOMIS.K](https://open.spotify.com/artist/36hPgyntcoyEcgYDkaKrBc) | [Fragments EP](https://open.spotify.com/album/28gU1VbzdzjgET7fpwgbtv) | 2:54 | 2022-04-22 | 2022-06-04 |

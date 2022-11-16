@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5471jEhaq8X.md) - [plain]
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Natanael Cano, Luis R Conriquez y Gabito Ballesteros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,438 likes - 200 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,522 likes - 200 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

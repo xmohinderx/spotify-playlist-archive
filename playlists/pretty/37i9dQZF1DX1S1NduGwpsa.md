@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Gregory Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,712 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,759 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 3 | [Minor Steps](https://open.spotify.com/track/4Fp9AjTum16YyfrIj7KTPR) | [Sixun](https://open.spotify.com/artist/40sdgj5EVgaQEFFp1PPeFa) | [Unixsity](https://open.spotify.com/album/6KePYHM3ulBUqQiWYcnw0D) | 4:54 |
 | 4 | [Bad Company](https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Bad Company](https://open.spotify.com/album/3MlSmLLpAxtf1C9JMTy230) | 3:38 |
 | 5 | [Soufi dance](https://open.spotify.com/track/3ME7teeBRvZ6mmXcLrlMDF) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [Soufi dance](https://open.spotify.com/album/0gE3wRepREY0CePsnRLwNt) | 4:30 |
-| 6 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
+| 6 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
 | 7 | [Just a friend of mine \- Version piano \- voix](https://open.spotify.com/track/5QhBRVaWlNYiPI6wY1MLCO) | [Vaya Con Dios](https://open.spotify.com/artist/0ODWsmNXtn928qhhEn87C8) | [Just a friend of mine \(Version piano \- voix\)](https://open.spotify.com/album/4B0Z2xiNwQJubhRrAlGqd7) | 3:06 |
 | 8 | [An Ode](https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [An Ode](https://open.spotify.com/album/4BEVT3SXNmALzwZOAONfby) | 5:01 |
 | 9 | [Taboo](https://open.spotify.com/track/00DVBKks7yF8Mii6DSiO9g) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 3:09 |

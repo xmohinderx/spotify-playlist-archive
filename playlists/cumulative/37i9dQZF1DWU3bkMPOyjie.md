@@ -4,7 +4,7 @@
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 20 years.
 
-112 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
+113 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2SdlpqiAcMKgumJj16ODvC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [She Builds Quick Machines](https://open.spotify.com/track/5kwVVnZ8ZjJanBbGmrbHsb) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Libertad](https://open.spotify.com/album/2mFnAf5xnMOs1LBS4qRy5R) | 4:02 | 2022-04-26 |  |
 | [She Builds Quick Machines](https://open.spotify.com/track/6qB8Aa8SnLBgCJI1afxGpJ) | [Velvet Revolver](https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM) | [Libertad](https://open.spotify.com/album/6MY4dyk9U9A5bkxEIk22jj) | 4:02 | 2020-08-18 | 2022-07-29 |
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2020-08-18 |  |
-| [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2020-08-18 |  |
+| [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2020-08-18 | 2022-11-16 |
+| [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 | 2022-04-26 |  |
 | [Summer](https://open.spotify.com/track/0BmJsqTCp4cz2xxaMGVD7n) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/4XEz0W8iQta4jJi8VdbkNv) | 2:40 | 2020-08-18 | 2022-07-29 |
 | [Summer](https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 2:40 | 2022-04-26 |  |
 | [Summer](https://open.spotify.com/track/6e0wuJFX6xtbrqYs7uOW8A) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Summer of Rock](https://open.spotify.com/album/1xAzuWSFHUvwbZQ2WvtHPc) | 2:49 | 2022-04-26 | 2022-11-13 |

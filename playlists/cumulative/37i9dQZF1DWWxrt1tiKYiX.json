@@ -1362,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218449,
+      "name": "Kiss Me - Guitar",
+      "url": "https://open.spotify.com/track/0X2DSuFNxMdw6Gr4XZcTqJ"
+    },
+    {
+      "album": {
         "name": "Kiss Me (Guitar)",
         "url": "https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL"
       },
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 218449,
       "name": "Kiss Me - Guitar",
       "url": "https://open.spotify.com/track/3bNHiYwoKVcflW2tnzQG45"

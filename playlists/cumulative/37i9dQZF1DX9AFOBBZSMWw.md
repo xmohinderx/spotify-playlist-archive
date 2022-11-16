@@ -4,7 +4,7 @@
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-84 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
+85 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dude](https://open.spotify.com/track/4DLEvfk4CixDarTMn1Cn2B) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Dude](https://open.spotify.com/album/5C3o0lN9q3SL5aR4b6Wf3M) | 3:43 | 2021-07-08 |  |
 | [Energy](https://open.spotify.com/track/7IMqgNhzeFbxK0kOwNgybQ) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Energy](https://open.spotify.com/album/2hIvVt0wi9fFvX5wV8lfRa) | 3:12 | 2021-07-08 |  |
 | [Feels Like \(feat\. Stormzy\) \- LOXE Remix](https://open.spotify.com/track/2swyFMOrTT4zkodisWLq93) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [LOXE](https://open.spotify.com/artist/4Jb1EAbXK4BpbQopoeMWKT) | [For All We Know \- The Remixes \- EP](https://open.spotify.com/album/1Yc1t2yclQXZ6djjYMOped) | 3:34 | 2021-07-08 |  |
+| [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 | 2022-11-15 |  |
 | [First Things First](https://open.spotify.com/track/0ix3RUQ76mECOKP6LDPy66) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Gang Signs & Prayer](https://open.spotify.com/album/5fkFWJ9LZizXE4yPenNGuy) | 3:27 | 2021-07-08 |  |
 | [Handsome](https://open.spotify.com/track/766N0mjf1KzAAYsA1eAJaN) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:32 | 2021-07-08 |  |
 | [Hear Dis](https://open.spotify.com/track/0FrsCHJcRLygPDbFbkkFDu) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hear Dis](https://open.spotify.com/album/0OpowfgzPyDSKjQZ0NsdqB) | 3:20 | 2021-07-08 |  |

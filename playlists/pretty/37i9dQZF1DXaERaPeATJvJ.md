@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: Goodnight Electric
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,988 likes - 95 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,007 likes - 95 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 42 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 5:14 |
 | 43 | [Mesin Penenun Hujan](https://open.spotify.com/track/6WObOPPp4yKnwiL6abeA35) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 3:26 |
 | 44 | [Less Afraid](https://open.spotify.com/track/3e88hGhAYY2aBh3YAhlyCz) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 4:01 |
-| 45 | [Tentang Cinta](https://open.spotify.com/track/2yQ7b1nWiSlhVr3c9kxZGB) | [Melancholic Bitch](https://open.spotify.com/artist/6xVkcJWlKGooyShOdqh7ZC) | [Re\-Anamnesis](https://open.spotify.com/album/6U17ll6J80hIzIijDmWu7U) | 3:46 |
+| 45 | [Tentang Cinta](https://open.spotify.com/track/2yQ7b1nWiSlhVr3c9kxZGB) | [Majelis Lidah Berduri](https://open.spotify.com/artist/16iW3hwUVe7LU0bfy5wjpe) | [Re\-Anamnesis](https://open.spotify.com/album/6U17ll6J80hIzIijDmWu7U) | 3:46 |
 | 46 | [Hook Up](https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:20 |
 | 47 | [Firefiles](https://open.spotify.com/track/4Vg4wDdSihxcGQhXHSEzMj) | [risky summerbee & the honeythief](https://open.spotify.com/artist/08nbcEsElBbqPXrXnPVYdy) | [The Place I Wanna Go](https://open.spotify.com/album/1EtoolKNgWx0OoIJNDtZWt) | 3:44 |
 | 48 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 |

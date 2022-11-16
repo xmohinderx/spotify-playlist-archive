@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 176346,
       "name": "Down On The Road",
       "url": "https://open.spotify.com/track/7dfPcDPQI7b4yCSORNxsin"
@@ -5503,7 +5503,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 65666,
       "name": "Urakan.rana",
       "url": "https://open.spotify.com/track/0tqLtqLqRIPtKnnLOA8fSo"
@@ -7406,6 +7406,24 @@
     },
     {
       "album": {
+        "name": "\u9119\u3001\u5929\u56fd",
+        "url": "https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91693,
+      "name": "\u5730\u7344\u3068\u5730\u7344",
+      "url": "https://open.spotify.com/track/4aOQx8r3qqmGXkIT5pbjR3"
+    },
+    {
+      "album": {
         "name": "\u65c5\u8def\u30cb\u5b63\u7bc0\u30ac\u71c3\u30a8\u843d\u30c1\u30eb",
         "url": "https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB"
       },
@@ -8343,6 +8361,24 @@
       "duration_ms": 206933,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op"
+    },
+    {
+      "album": {
+        "name": "ANORAK!",
+        "url": "https://open.spotify.com/album/1COk9YWIlyNkyerTI4OOnB"
+      },
+      "artists": [
+        {
+          "name": "ANORAK!",
+          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124042,
+      "name": "\u8868\u53c2\u9053",
+      "url": "https://open.spotify.com/track/3ulW6i37o4FpqJSlebZflY"
     },
     {
       "album": {

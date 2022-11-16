@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3227,7 +3227,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 200706,
       "name": "Call on me (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz"
@@ -3245,7 +3245,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -3723,7 +3723,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 195560,
       "name": "Chop - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag"
@@ -4113,7 +4113,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 232373,
       "name": "Coup de vieux",
       "url": "https://open.spotify.com/track/63siBeZzxXVaY0uASns1V2"
@@ -9475,7 +9475,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 179986,
       "name": "Kobe",
       "url": "https://open.spotify.com/track/0d9SLQIkIWUFKeKqxVYRlz"
@@ -9515,7 +9515,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
@@ -11771,7 +11771,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 198693,
       "name": "Ma Baby",
       "url": "https://open.spotify.com/track/2jEGvVyqXUxsHAELiW9YuH"
@@ -14861,7 +14861,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 108826,
       "name": "Pichichi Anderson",
       "url": "https://open.spotify.com/track/0RwNWOrgD7nrpf1xaboLcU"
@@ -14901,6 +14901,24 @@
       "duration_ms": 205721,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
+    },
+    {
+      "album": {
+        "name": "Imany Deluxe",
+        "url": "https://open.spotify.com/album/2kxLG2zY19L7YWG5iWLewv"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/17jlkHSNHFu1zUuu8QZyOW"
     },
     {
       "album": {
@@ -16575,7 +16593,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 164720,
       "name": "Saigne",
       "url": "https://open.spotify.com/track/1asVdZ0iYxCfmlIZ97C9z1"
@@ -17540,6 +17558,28 @@
     },
     {
       "album": {
+        "name": "Jusqu\u2019aux \u00e9toiles",
+        "url": "https://open.spotify.com/album/6E1aeHoajWyJO3WtndyTWg"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Guy2bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163920,
+      "name": "Sosa",
+      "url": "https://open.spotify.com/track/7pkVwyLAeuHvIlmxQLyLXv"
+    },
+    {
+      "album": {
         "name": "Extraterrestre",
         "url": "https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks"
       },
@@ -17963,7 +18003,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 198733,
       "name": "S\u00e9cu",
       "url": "https://open.spotify.com/track/4gKK7isWbSb9c0C7i5jsKv"
@@ -20399,7 +20439,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 206840,
       "name": "\u0398. Macarena",
       "url": "https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD"

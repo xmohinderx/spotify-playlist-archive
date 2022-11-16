@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=unNoBURgRqamgVK4iFpzqQ" > Yaw TOG </a>
 
-59 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/2DLSiQlBpHI8M4HICO2Y4A)
+60 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/2DLSiQlBpHI8M4HICO2Y4A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [O Di Dan Dan](https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [O Di Dan Dan](https://open.spotify.com/album/3g0AJa6WAwfArIjzyGR6yh) | 2:15 | 2022-09-29 | 2022-10-31 |
 | [Pa! \(feat\. Thywill & City Boy\)](https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Straight Outta Kumerica 2](https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv) | 2:33 | 2022-08-18 |  |
 | [Perfect Timing](https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek) | 3:28 | 2022-09-01 | 2022-10-14 |
+| [Plan B](https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Plan B](https://open.spotify.com/album/5BKLaEnrvktRKecn5Wqrem) | 3:08 | 2022-11-15 |  |
 | [Radio](https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/3e9ZA55qDYcenxT4REJ14g) | 2:52 | 2022-09-01 |  |
 | [Rockstar](https://open.spotify.com/track/4nnqdKMZmJm6M5UhCjh0Fo) | [Kojo Loki](https://open.spotify.com/artist/0FK086itIMJLIcYnZGf1Bw), [Akola Kituwa](https://open.spotify.com/artist/1kcpQRC6ZsprIfhrtaom5l), [Freeza Gigs](https://open.spotify.com/artist/1fkPHUbvQGPgsHgPHfeKOo) | [Rockstar](https://open.spotify.com/album/1tCD72gxYMjtPcWeuBOBL2) | 3:14 | 2022-10-13 |  |
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 |  |

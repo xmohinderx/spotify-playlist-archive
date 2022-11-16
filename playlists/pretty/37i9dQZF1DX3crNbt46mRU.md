@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,747 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,749 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 56 | [Break My Heart](https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Break My Heart](https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz) | 2:59 |
 | 57 | [Egal](https://open.spotify.com/track/07iN7cgBMDTW7KaheGb0I5) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Liebeskummerparty Deluxe](https://open.spotify.com/album/1Yx0V9A5E33W2RKpsTuRGs) | 2:32 |
 | 58 | [The One](https://open.spotify.com/track/75DRmgr7StSIMJqIDN2jHH) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [The One](https://open.spotify.com/album/2FhG2P32MEmsTHr4t0I7ht) | 2:52 |
-| 59 | [zu viel](https://open.spotify.com/track/5cFvvl1yUliatNKC2kHXZL) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Zu viel](https://open.spotify.com/album/4zdM0aJDVAbxcZSly8fu1F) | 2:49 |
+| 59 | [zu viel](https://open.spotify.com/track/5cFvvl1yUliatNKC2kHXZL) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [zu viel](https://open.spotify.com/album/4zdM0aJDVAbxcZSly8fu1F) | 2:49 |
 | 60 | [Drifting](https://open.spotify.com/track/7npfzObREQFAcwM9GkqC69) | [WE ARE AVA](https://open.spotify.com/artist/5jJAPoKkkgYZyPnnoNLTLw) | [Drifting](https://open.spotify.com/album/0YWtq8MKi57SdJPsop674D) | 2:49 |
 | 61 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 62 | [Desperado](https://open.spotify.com/track/2cWtN3c20WjE08k0cS4cJK) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [L'école de la vie](https://open.spotify.com/album/5xpWrRABn5rpscaaVETrzY) | 3:18 |

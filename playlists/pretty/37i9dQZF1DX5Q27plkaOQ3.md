@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: GHENGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,459 likes - 125 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,616 likes - 125 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

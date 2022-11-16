@@ -4,7 +4,7 @@
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Guns N' Roses
 
-341 songs - 1 day 1 hr 8 min - [published](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
+342 songs - 1 day 1 hr 17 min - [published](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [No One Knows](https://open.spotify.com/track/5WOKM16QJ4ZTVZx4pr63dR) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [00's Hits](https://open.spotify.com/album/6hz9EMJcTYZguDMozXNBnj) | 4:38 | 2022-11-11 | 2022-11-13 |
 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 | 2022-02-17 | 2022-07-29 |
 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 | 2021-12-14 | 2022-06-18 |
-| [November Rain \- 2022 Version](https://open.spotify.com/track/5O4Gs450ApGmBTGypjWDeQ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [November Rain / Double Talkin' Jive / You Could Be Mine](https://open.spotify.com/album/6T4l8HnWFsvFgk3iZEME4p) | 8:55 | 2022-11-11 |  |
+| [November Rain \- 2022 Version](https://open.spotify.com/track/3q9npStSssk7sZWotiNQLK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I \(Deluxe Edition\)](https://open.spotify.com/album/33HYdYXXadqsdZ1NsYmS6o) | 8:55 | 2022-11-11 |  |
+| [November Rain \- 2022 Version](https://open.spotify.com/track/5O4Gs450ApGmBTGypjWDeQ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [November Rain / Double Talkin' Jive / You Could Be Mine](https://open.spotify.com/album/6T4l8HnWFsvFgk3iZEME4p) | 8:55 | 2022-11-11 | 2022-11-16 |
 | [Old Time Rock & Roll](https://open.spotify.com/track/1lhpxZT57yw5toGJtt8fGE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/3IqhO2ukdUkAs83DzamqIJ) | 3:14 | 2021-12-14 | 2022-07-29 |
 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 | 2022-05-06 |  |
 | [Old Time Rock & Roll](https://open.spotify.com/track/2QWkAZ4RZYxyzbNdwtqc2G) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Classic Hits](https://open.spotify.com/album/0zwNzImUq6DykNGghNGffs) | 3:15 | 2022-11-02 | 2022-11-13 |

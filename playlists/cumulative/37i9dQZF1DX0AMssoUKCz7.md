@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-533 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+534 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Cool Kids](https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Cool Kids](https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK) | 2:33 | 2022-09-30 |  |
 | [Could've Been Us](https://open.spotify.com/track/1oNFTQO0z6PuRH1wOOQXPe) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [Could've Been Us](https://open.spotify.com/album/2LLSwLZdGO0ADN1RlpVccS) | 2:12 | 2022-06-03 |  |
 | [Craving \(with IIVES\)](https://open.spotify.com/track/1U0nY63FAriYpItocb4ffX) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf), [IIVES](https://open.spotify.com/artist/76O2G3EjlVtMZWyGJC1UCO) | [Craving \(with IIVES\)](https://open.spotify.com/album/128wERvvsgQTTK9kSFiKTs) | 3:11 | 2022-04-01 | 2022-07-29 |
-| [Creep](https://open.spotify.com/track/5hYirmwaIUUGTFwmJl1WXM) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Creep](https://open.spotify.com/album/3R6NTDuC5qqwa03jCCQ8yz) | 2:54 | 2022-08-05 |  |
+| [Creep](https://open.spotify.com/track/0kDI42WWRwsrKAmE7wmQbt) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Creep](https://open.spotify.com/album/1JQOUrnGO8cW4ozVKAIbID) | 2:54 | 2022-11-11 |  |
+| [Creep](https://open.spotify.com/track/5hYirmwaIUUGTFwmJl1WXM) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Creep](https://open.spotify.com/album/3R6NTDuC5qqwa03jCCQ8yz) | 2:54 | 2022-08-05 | 2022-11-16 |
 | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg) | [LAUWE](https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Cruel Summer \(Marcus Layton Edit\)](https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U) | 2:24 | 2022-08-12 |  |
 | [Crush](https://open.spotify.com/track/7HbwANSdBmfQYCBvBZgvqJ) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Crush](https://open.spotify.com/album/6sZwOcnq4Gb6e82VZ2n6wS) | 3:31 | 2022-02-18 | 2022-10-01 |
 | [Cut Your Teeth \- Kygo Remix](https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Cut Your Teeth \(Kygo Remix\)](https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h) | 6:39 | 2022-01-14 | 2022-09-24 |

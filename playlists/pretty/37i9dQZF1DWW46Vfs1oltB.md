@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > Meet the 10 songs selected by Paloalto at the top of the playlist! You can check the reason for selection through Clips\. \(Cover: Paloalto\) \(팔로알토가 직접 선곡한 10곡을 플레이리스트 상단에서 만나보세요! 선정 이유는 클립스를 통해 확인하실 수 있습니다\. \(커버: 팔로알토\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,672 likes - 113 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,566 likes - 113 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

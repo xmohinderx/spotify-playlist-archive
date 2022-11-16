@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 7604,
+  "num_followers": 7625,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MzM3NiwwMDAwMDAwMGUwYTcwNzA2NjQ5MGU1NmViZjJiMWYxMGJmNDJhN2E5",
+  "snapshot_id": "MTY2ODUwNjE3NSwwMDAwMDAwMDJhZGY1YzFkZDM3MWFlZGQzZjNlNjNlNWM0YzdkYWE0",
   "tracks": [
     {
       "added_at": "2022-09-19 07:27:22",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C"
     },
     {
+      "added_at": "2022-11-15 09:56:15",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/7tzvON12MgF7hKK8F5AQQx"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/7F7KrCYzktQutmPOJC3Ba6"
+    },
+    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Electricity",
@@ -259,30 +275,6 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn"
-    },
-    {
-      "added_at": "2022-02-11 00:00:00",
-      "album": {
-        "name": "Peru (Remix)",
-        "url": "https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 186952,
-      "name": "Peru - Remix",
-      "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -313,20 +305,28 @@
       "url": "https://open.spotify.com/track/5PRGmpPJzsrOXijZdXalVK"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
+      "added_at": "2022-02-11 00:00:00",
       "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+        "name": "Peru (Remix)",
+        "url": "https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+      "duration_ms": 186952,
+      "name": "Peru - Remix",
+      "url": "https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47"
     },
     {
       "added_at": "2022-10-21 06:11:04",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
       "added_at": "2022-08-18 23:00:00",
       "album": {
         "name": "Terminator",
@@ -395,6 +411,22 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2022-10-21 06:11:04",
+      "album": {
+        "name": "Fuku",
+        "url": "https://open.spotify.com/album/1pOAikaQyKcyGpFnor2gdZ"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "duration_ms": 181628,
+      "name": "Fuku",
+      "url": "https://open.spotify.com/track/0EYxr62cSeDetJKoIBaPbq"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -413,20 +445,24 @@
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
-      "added_at": "2022-10-21 06:11:04",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Fuku",
-        "url": "https://open.spotify.com/album/1pOAikaQyKcyGpFnor2gdZ"
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq"
       },
       "artists": [
         {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+          "name": "Small Doctor",
+          "url": "https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 181628,
-      "name": "Fuku",
-      "url": "https://open.spotify.com/track/0EYxr62cSeDetJKoIBaPbq"
+      "duration_ms": 179000,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -465,24 +501,40 @@
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
+      "added_at": "2022-03-29 06:00:35",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/49Lmgrd9o2qRUexQY0ByIq"
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
       "artists": [
         {
-          "name": "Small Doctor",
-          "url": "https://open.spotify.com/artist/6QwPmy9hs9alo36XJ5pwsW"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         },
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 179000,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/2rcQhL2dAXvkD7FnTN9oW7"
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "added_at": "2022-10-07 12:08:55",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7iIWG1sDD904p7EcjKCdpO"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0FvTXHU6xNn1jkjpJ6Mvm1"
     },
     {
       "added_at": "2022-09-09 09:20:13",
@@ -513,54 +565,6 @@
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
     },
     {
-      "added_at": "2022-04-28 23:00:00",
-      "album": {
-        "name": "kolomental",
-        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "kolomental",
-      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
-    },
-    {
-      "added_at": "2022-10-07 12:08:55",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7iIWG1sDD904p7EcjKCdpO"
-      },
-      "artists": [
-        {
-          "name": "Quamina Mp",
-          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0FvTXHU6xNn1jkjpJ6Mvm1"
-    },
-    {
-      "added_at": "2022-07-04 07:22:23",
-      "album": {
-        "name": "The Second Wave Deluxe",
-        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "WeWe",
-      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
-    },
-    {
       "added_at": "2022-10-21 06:11:04",
       "album": {
         "name": "Scatta Scatta",
@@ -577,24 +581,20 @@
       "url": "https://open.spotify.com/track/0n3APmjHt7yTBeHhRB8rcy"
     },
     {
-      "added_at": "2022-03-29 06:00:35",
+      "added_at": "2022-04-28 23:00:00",
       "album": {
-        "name": "Sungba (Remix) [feat. Burna Boy]",
-        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
+        "name": "kolomental",
+        "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+      "duration_ms": 197000,
+      "name": "kolomental",
+      "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
       "added_at": "2022-09-30 06:49:33",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo"
     },
     {
+      "added_at": "2022-07-04 07:22:23",
+      "album": {
+        "name": "The Second Wave Deluxe",
+        "url": "https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "WeWe",
+      "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"
+    },
+    {
       "added_at": "2022-05-12 23:00:00",
       "album": {
         "name": "PALAZZO",
@@ -675,6 +691,22 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2021-06-07 12:50:41",
@@ -727,22 +759,6 @@
       "duration_ms": 258320,
       "name": "In Da Car",
       "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -825,6 +841,22 @@
       "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
     },
     {
+      "added_at": "2022-10-07 12:08:55",
+      "album": {
+        "name": "Gboza",
+        "url": "https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 199934,
+      "name": "Gboza",
+      "url": "https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL"
+    },
+    {
       "added_at": "2022-08-12 05:43:18",
       "album": {
         "name": "Jaiye Foreign",
@@ -843,22 +875,6 @@
       "duration_ms": 190164,
       "name": "Jaiye Foreign",
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
-    },
-    {
-      "added_at": "2022-10-07 12:08:55",
-      "album": {
-        "name": "Gboza",
-        "url": "https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 199934,
-      "name": "Gboza",
-      "url": "https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1151,22 +1167,6 @@
       "duration_ms": 148392,
       "name": "Shakira (feat. Prince Bright)",
       "url": "https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I"
-    },
-    {
-      "added_at": "2022-07-22 04:29:24",
-      "album": {
-        "name": "Jaiye (Ihe Geme)",
-        "url": "https://open.spotify.com/album/6oW8k8yOtMA04ypds2IFC0"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "Jaiye (Ihe Geme)",
-      "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     }
   ],
   "unique_name": "Keep Fit Club ",

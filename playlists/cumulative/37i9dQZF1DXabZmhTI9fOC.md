@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-301 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
+302 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/1eOyuiVdoM5GbYWB3qlTpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Ripe](https://open.spotify.com/track/4Y1v4FAnkAeiohrC1OhBkt) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [Ripe](https://open.spotify.com/album/6x4wwa4w8n5hWQUTAsqVMJ) | 2:36 | 2022-08-19 |  |
 | [Rise Above](https://open.spotify.com/track/1hXiLd0EV2krVVBQaxcjnB) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series Vol\. 8](https://open.spotify.com/album/5kimW3aRgVsPGVIrrAkYCF) | 2:41 | 2022-08-29 |  |
 | [Rise Above](https://open.spotify.com/track/2B3EM5q2DUD2O6hhHPk7fz) | [Veigar Margeirsson](https://open.spotify.com/artist/49qXLlcq9i5zOpvCAo9hVF) | [Rise Above \- Position Music Orchestral Series Vol\. 8](https://open.spotify.com/album/4bLTsw9t2PIjiAg5kIyQQx) | 2:41 | 2022-08-29 | 2022-10-13 |
-| [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/track/3yvHcaY61FpeSiLiHiIST4) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww) | 2:50 | 2022-08-26 |  |
+| [Rule The World](https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World](https://open.spotify.com/album/4tgL0C4pYRxpNLde755TFr) | 2:50 | 2022-08-26 |  |
+| [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/track/3yvHcaY61FpeSiLiHiIST4) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww) | 2:50 | 2022-08-26 | 2022-11-16 |
 | [Rumba](https://open.spotify.com/track/1RgUgBslMNCQXyj3NLGbeU) | [Chew Fu](https://open.spotify.com/artist/6XdUl9SNdiDBbZhZ1B9ubn), [Olvido Ruiz](https://open.spotify.com/artist/1w8i6JUdXNOs31eW3AYxfK), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Legendary](https://open.spotify.com/album/5emuWMuVaITcLEgtuoFUDR) | 3:19 | 2022-07-15 | 2022-08-09 |
 | [Run Wild](https://open.spotify.com/track/5cOG0SW6hwUYfenLpMMy5J) | [REIMS](https://open.spotify.com/artist/3sbhS05fQerlXJSubVoIbX) | [Riot](https://open.spotify.com/album/1DJdcGOOjXzXmHIuKYJ3qz) | 3:10 | 2022-07-25 |  |
 | [Safe Place](https://open.spotify.com/track/7hePUTuP6GORDrsNjEA1vp) | [Aardwolves](https://open.spotify.com/artist/7kLlidqW9webTS3Qgpk0zC), [Olivia Sharpe](https://open.spotify.com/artist/41lRUvwdBoi1RGjZUUvUsH) | [Safe Place](https://open.spotify.com/album/1TtmRSBEXEeYIpxwBuFOTH) | 4:00 | 2022-08-05 |  |

@@ -4,7 +4,7 @@
 
 > Tem rap nacional e muito boom bap na área\. Foto: AmandesNoBeat, Dudu
 
-222 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
+223 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/6ZXp32ynoQutshWQJNTjS2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,8 +147,9 @@
 | [O Último Disco de Mac Miller](https://open.spotify.com/track/6hz4nIESdQPeRBNfkA0UyE) | [Marcello Gugu](https://open.spotify.com/artist/1N91etCdpdhqmu8ARvtCCW), [Carol Moura](https://open.spotify.com/artist/7j5dbuDD3w6wxMZLHGorrz), [Pinotti](https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x) | [O Último Disco de Mac Miller](https://open.spotify.com/album/7bqeNOjqBnYsf1ti1yMAPC) | 3:31 | 2022-09-02 | 2022-09-10 |
 | [O Último Profeta](https://open.spotify.com/track/5oPdfBRbGqoJtkXcYYWXYG) | [Kamikaze do Gueto](https://open.spotify.com/artist/6LrrNReBCYQyeo3LMq1JBo), [Lukas Loko](https://open.spotify.com/artist/2kWVT2K32QqCGkCaO1lmkf), [Pêpa Beatmaker](https://open.spotify.com/artist/0dfJo6kHqLEd8YYukoD5MD) | [O Último Profeta](https://open.spotify.com/album/57sdbk6BU0IIWhNDi53iPA) | 3:41 | 2022-08-12 | 2022-09-03 |
 | [Old Rap](https://open.spotify.com/track/2rKAfftXgnr0dmRkXmxPrJ) | [Bikera Sonora](https://open.spotify.com/artist/2LpTK3UffBph51hdXrDklL) | [Old Rap](https://open.spotify.com/album/2FcuIVnJO5Mb5hW2DRCTva) | 3:12 | 2022-07-08 | 2022-11-12 |
-| [Olhos de Hórus](https://open.spotify.com/track/16DXFTzQ2usExyPF5WWgQh) | [Koba](https://open.spotify.com/artist/3gRpHymy3Kef58CxEIKf6W), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Olhos de Hórus](https://open.spotify.com/album/5EQm9bxCfC7PGsO5giS5iW) | 2:24 | 2022-10-14 |  |
+| [Olhos de Hórus](https://open.spotify.com/track/16DXFTzQ2usExyPF5WWgQh) | [Koba](https://open.spotify.com/artist/3gRpHymy3Kef58CxEIKf6W), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Olhos de Hórus](https://open.spotify.com/album/5EQm9bxCfC7PGsO5giS5iW) | 2:24 | 2022-10-14 | 2022-11-16 |
 | [Owerá Chegou](https://open.spotify.com/track/5SG5ECSzWTHcnKjo7pDKpr) | [OWERÁ](https://open.spotify.com/artist/3kRh9dS4gZMby51rEmFYzE) | [Mbaraeté](https://open.spotify.com/album/2dmdMkuFDqx8dJnPqi7Wkv) | 3:54 | 2022-08-26 | 2022-09-03 |
+| [Pacífico](https://open.spotify.com/track/2ziMuBcKY2oB5VNm15b191) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [DJ RM Brasil](https://open.spotify.com/artist/7BpyfiIScZTN4lsdG0ia0G) | [Pacífico](https://open.spotify.com/album/1jhdTmMTgkkteJgkGbLIYU) | 3:07 | 2022-11-15 |  |
 | [Pegando o Visual](https://open.spotify.com/track/1Cr1at4S53jcuD6NwEbtvc) | [Hiago Klauz](https://open.spotify.com/artist/5foAnk9CmU51aYkFSSxC0v), [Atmo5th](https://open.spotify.com/artist/7lP7yFKu7pNdQVeZ3yk6H8) | [Pegando o Visual](https://open.spotify.com/album/14DB9jnbK1r6C21fpWwNAk) | 3:20 | 2022-03-18 | 2022-05-28 |
 | [pela boca](https://open.spotify.com/track/1zrfj0U9iWuOA7S3K4Adcl) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Roteiro pra Aïnouz \(Vol\. 2\)](https://open.spotify.com/album/2lsICIaiaE3ZOYbX9vm1UL) | 3:50 | 2022-03-18 | 2022-09-10 |
 | [Perro](https://open.spotify.com/track/7migtDNEfPAVjIgCisbvTb) | [Billy Saga](https://open.spotify.com/artist/5cS3QKd8TLls3P1saxYtaz), [Raphão Alaafin](https://open.spotify.com/artist/1OKFuXrEWahihhc9VZ0iSy) | [Corpo Intruso](https://open.spotify.com/album/1ql5N4DVcAuPSzxOmIisTU) | 4:38 | 2022-04-22 | 2022-05-20 |

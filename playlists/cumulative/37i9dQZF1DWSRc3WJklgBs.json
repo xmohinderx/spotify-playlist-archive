@@ -16041,6 +16041,28 @@
     {
       "album": {
         "name": "Satellites",
+        "url": "https://open.spotify.com/album/0n5qFNQKmEvR2midexvkfy"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176078,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/6sWsJFiZ7LJm6BqHCpy46V"
+    },
+    {
+      "album": {
+        "name": "Satellites",
         "url": "https://open.spotify.com/album/5LUsziW09ak7DdjhsBOyfo"
       },
       "artists": [
@@ -16073,7 +16095,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-16",
       "duration_ms": 176078,
       "name": "Satellites (feat. Joe Jury)",
       "url": "https://open.spotify.com/track/18UrmI8xBwVWgVsPxYVL7w"

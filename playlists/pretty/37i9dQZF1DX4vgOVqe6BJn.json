@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 100605,
+  "num_followers": 100958,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzODgyMiwwMDAwMDAwMDYzNTNmNzEzNDRiZjNkZDUyYTA2NGYwODk5NmM3NmE1",
+  "snapshot_id": "MTY2NzgzODgyMiwwMDAwMDAwMDk5NmYyMmYyOTJjMGJkNWE2ZGY3MTJhNTQwYmIyOGZi",
   "tracks": [
     {
       "added_at": "2022-11-04 07:00:00",
@@ -299,22 +299,6 @@
       "duration_ms": 237658,
       "name": "TIERRA ZANTA",
       "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Madan (King)",
-        "url": "https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 183609,
-      "name": "Madan (King)",
-      "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1927,6 +1911,26 @@
       "duration_ms": 167893,
       "name": "I'm Gon' Get You",
       "url": "https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s"
+    },
+    {
+      "added_at": "2022-10-04 18:22:16",
+      "album": {
+        "name": "Leader Of The Pack",
+        "url": "https://open.spotify.com/album/6U2V6suDmD5MxMnUYgSxP4"
+      },
+      "artists": [
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        },
+        {
+          "name": "Ruckspin",
+          "url": "https://open.spotify.com/artist/4xVxQGaT49dkkLwlcayoXg"
+        }
+      ],
+      "duration_ms": 219512,
+      "name": "Leader Of The Pack",
+      "url": "https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6"
     }
   ],
   "unique_name": "FIFA 23 Official Soundtrack",

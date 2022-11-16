@@ -1092,6 +1092,24 @@
     },
     {
       "album": {
+        "name": "2000 - 2004",
+        "url": "https://open.spotify.com/album/0XEVhUvCuqZpSClREEsVlg"
+      },
+      "artists": [
+        {
+          "name": "Frakkur",
+          "url": "https://open.spotify.com/artist/7MsCO5nqwXGWzbEFzpXxMV"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261596,
+      "name": "PP1",
+      "url": "https://open.spotify.com/track/1lZUpqag6NEbHJqOEVKsAz"
+    },
+    {
+      "album": {
         "name": "\u3072\u3068\u3064\u3076\u306e\u6d77",
         "url": "https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz"
       },

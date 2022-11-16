@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover: Jasmine Sandlas
 
-150 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
+151 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/3rqRWyNJwvt55VCcOLZ5lE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/track/1afsdE2fV1sq37wvPHH0EU) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Balma \(feat\. Aastha Gill\)](https://open.spotify.com/album/38AVJUS2z5C5ltLyiACFum) | 2:46 | 2022-08-03 | 2022-09-09 |
 | [Barood Wargi](https://open.spotify.com/track/5BWIrdXMuMewFbyXBntyjA) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Barood Wargi](https://open.spotify.com/album/3mELIQNKJF2jSZmPL086Jm) | 3:51 | 2022-02-01 | 2022-03-08 |
 | [Bol Kaffara Kya Hoga \- Dj Chetas](https://open.spotify.com/track/7r7PJJSvVPCAQK4h0vc7xT) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Farhan Sabri](https://open.spotify.com/artist/2S7i3wOcMLQHH6DwcMHrG9), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Bol Kaffara Kya Hoga \- Dj Chetas](https://open.spotify.com/album/7Ag7XBy1AML6KGE3tHxjJJ) | 3:27 | 2022-02-01 | 2022-05-05 |
+| [Bulleya O](https://open.spotify.com/track/2nZ09M4GsBPz1KYKGbcpih) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Bulleya O](https://open.spotify.com/album/5OCSQq7aPf6T6sGFe9D2yC) | 4:38 | 2022-11-15 |  |
 | [Bura Na Mano Yaara](https://open.spotify.com/track/5JScryXKuz9DwQymFKFPcY) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Shloke Lal](https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um) | [Bura Na Mano Yaara](https://open.spotify.com/album/0CYZF1aZl2806nCE4pAiGx) | 2:38 | 2022-03-07 | 2022-04-06 |
 | [Butterfly Wale \(feat\. Deepti Sadhwani\)](https://open.spotify.com/track/6ORrUc4RmhRGNqW8ZShlLD) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Deepti Sadhwani](https://open.spotify.com/artist/1efaJWQGsuFxK1tItIFdCp) | [Butterfly Wale \(feat\. Deepti Sadhwani\)](https://open.spotify.com/album/03tDfI3ckC5xa4SCIMmKbO) | 3:41 | 2021-12-10 | 2022-02-02 |
 | [CANDY \(Hindi\)](https://open.spotify.com/track/5GeqE3hPE9ld9RNhYm3qec) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [CANDY \(Hindi\)](https://open.spotify.com/album/3eXe9H8Pof3mw0i8iIBgEK) | 3:02 | 2022-03-08 | 2022-08-04 |

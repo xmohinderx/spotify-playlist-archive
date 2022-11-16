@@ -540,6 +540,32 @@
     },
     {
       "album": {
+        "name": "Appatha (From \"Naai Sekar Returns\")",
+        "url": "https://open.spotify.com/album/0O3AfpSl9KskcfeTI4jZlF"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Vaigaipuyal Vadivelu",
+          "url": "https://open.spotify.com/artist/0KRF4VuSjVHpIhaxRk0TZa"
+        },
+        {
+          "name": "Asal Kolar",
+          "url": "https://open.spotify.com/artist/4uN7BZV1gttGLJL2YXtxxi"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Appatha - From \"Naai Sekar Returns\"",
+      "url": "https://open.spotify.com/track/6mD6M8aaD8yj0KdoKAFR7T"
+    },
+    {
+      "album": {
         "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
         "url": "https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt"
       },

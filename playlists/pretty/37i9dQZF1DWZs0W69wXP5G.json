@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover: The Sanderson Sisters",
-  "num_followers": 30341,
+  "num_followers": 30364,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGUzMjNjZmM0OGQ2OTBlNTFiM2UwMzg1OGI0ODY1ZGNk",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM5OGM1NDBkNzE3MjJmZmU4ODk4Zjg5ZTMwMGZiZmQx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1055,10 +1055,14 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Some Lovers (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/1tEyFYVH36zYUYfFK58gPN"
+        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2"
       },
       "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
         {
           "name": "Burt Bacharach",
           "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
@@ -1066,15 +1070,11 @@
         {
           "name": "Steven Sater",
           "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
-        },
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
         }
       ],
       "duration_ms": 159480,
       "name": "Just Walk Away",
-      "url": "https://open.spotify.com/track/6bcF7kirM0zjmDWEzy968G"
+      "url": "https://open.spotify.com/track/7DCQukad5M1Hi43aJUO6Dq"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1119,18 +1119,10 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Some Lovers (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/1tEyFYVH36zYUYfFK58gPN"
+        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2"
       },
       "artists": [
-        {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "Steven Sater",
-          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
-        },
         {
           "name": "Jonathan Groff",
           "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
@@ -1138,11 +1130,19 @@
         {
           "name": "Lea Michele",
           "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
         }
       ],
       "duration_ms": 225720,
       "name": "Love Me for an Hour",
-      "url": "https://open.spotify.com/track/3SyqGwrw1VZjKSe8V1JP5b"
+      "url": "https://open.spotify.com/track/601EBd3YD8bTwCQIH2x8mV"
     },
     {
       "added_at": "2022-10-28 04:01:00",

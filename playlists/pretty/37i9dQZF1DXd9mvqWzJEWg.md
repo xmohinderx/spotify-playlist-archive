@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4xFNz56JhznT2ic3fhEg8n?si=U8XZqDOSTg2TB7KJPL4dtQ">Temple Boys Cpt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,222 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,272 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
