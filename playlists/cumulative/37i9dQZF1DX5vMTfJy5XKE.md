@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-271 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
+272 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/5LfWH4HC2jeu9j5xLz96yV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/0tgPi8xTFx1h8DacZ819SY) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Jingle Bell Rock](https://open.spotify.com/album/1mvW0uhCrlLQCvjP8U38e0) | 2:31 | 2021-12-24 | 2022-07-29 |
 | [Jingle Bell Rock](https://open.spotify.com/track/6kuAR8NorIkZ2q7bSAvk8i) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Jingle Bell Rock](https://open.spotify.com/album/3dVgFCk9L9iGQmKDT0e3jG) | 2:20 | 2022-11-04 | 2022-11-12 |
 | [Jingle Bell Rock](https://open.spotify.com/track/0tTwVivY5U4GxlnTT5vxNb) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 1:56 | 2021-12-24 | 2022-10-24 |
-| [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/7qn4ODYsNqM60NuCp3FbXy) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/album/1xbhKHimtN8dGTqOqf1EUe) | 2:56 | 2022-11-04 |  |
+| [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 2:56 | 2022-11-04 |  |
+| [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/7qn4ODYsNqM60NuCp3FbXy) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/album/1xbhKHimtN8dGTqOqf1EUe) | 2:56 | 2022-11-04 | 2022-11-17 |
 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 | 2021-12-24 | 2022-11-12 |
 | [Jingle Bells](https://open.spotify.com/track/0Rh9uw3Xl29IaZEZYbEyRa) | [Kris Jenner](https://open.spotify.com/artist/4kQM5AwmCV3qiLikmhngET), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Kourtney Kardashian](https://open.spotify.com/artist/38R8cIQwYw8nygI3WU39Qh) | [Jingle Bells](https://open.spotify.com/album/3eFlxTKQwSWX8Ti6ZODYXm) | 1:30 | 2021-12-24 | 2022-09-28 |
 | [Jingle Bells](https://open.spotify.com/track/0zOCEVRQNntm6lw97oJRt5) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Jingle Bells](https://open.spotify.com/album/3Ynv2EAtbbI3w7FWDMmN5N) | 3:17 | 2021-12-24 | 2022-07-29 |

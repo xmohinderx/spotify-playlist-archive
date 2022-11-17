@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 164069,
+  "num_followers": 164134,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDFkNjBkZmNjNmNhOTdmYTQwOWRmZGYzNmZlM2JlYWVm",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGNkYjZkMWU2ZjczYjAyZjc3MGZmNTgwMDY0MjQ2NmRl",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 231133,
       "name": "The Longer The Waiting (The Sweeter The Kiss)",
       "url": "https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "N\u00e6rmere",
+        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 288678,
+      "name": "Stilla",
+      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 224226,
       "name": "Romain's Place",
       "url": "https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "N\u00e6rmere",
-        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 288678,
-      "name": "Stilla",
-      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "The Lingering",
-        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
-      },
-      "artists": [
-        {
-          "name": "Siv Jakobsen",
-          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
-        }
-      ],
-      "duration_ms": 193622,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "The Lingering",
+        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "duration_ms": 193622,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Early Summer Rain",
         "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Jonas Alaska",
-        "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Alaska",
-          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
-        }
-      ],
-      "duration_ms": 224179,
-      "name": "October",
-      "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -743,6 +727,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Jonas Alaska",
+        "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
+        }
+      ],
+      "duration_ms": 224179,
+      "name": "October",
+      "url": "https://open.spotify.com/track/3vBvMNtVbINeQj708jIjqU"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Poetry & Airplanes",
         "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 133184,
+      "name": "The Devil's Tongue",
+      "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -787,22 +803,6 @@
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 133184,
-      "name": "The Devil's Tongue",
-      "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Tommy Tokyo",
-        "url": "https://open.spotify.com/album/0tUMc8Y4q7K0k496h3Cmyk"
-      },
-      "artists": [
-        {
-          "name": "Tommy Tokyo",
-          "url": "https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya"
-        }
-      ],
-      "duration_ms": 216826,
-      "name": "Wings of Good Fortune",
-      "url": "https://open.spotify.com/track/3Yqw90nc4zZJnyAMdqE7Hu"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Grey",
         "url": "https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 232960,
       "name": "Grey",
       "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Tommy Tokyo",
+        "url": "https://open.spotify.com/album/0tUMc8Y4q7K0k496h3Cmyk"
+      },
+      "artists": [
+        {
+          "name": "Tommy Tokyo",
+          "url": "https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya"
+        }
+      ],
+      "duration_ms": 216826,
+      "name": "Wings of Good Fortune",
+      "url": "https://open.spotify.com/track/3Yqw90nc4zZJnyAMdqE7Hu"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Be Here Soon",
+        "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
+      },
+      "artists": [
+        {
+          "name": "iamamiwhoami",
+          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
+        },
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 216328,
+      "name": "Zeven",
+      "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Year of Love",
         "url": "https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 236480,
       "name": "Tran\u00f8y fyr",
       "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Be Here Soon",
-        "url": "https://open.spotify.com/album/76GU37as8GBPpZdauuS6EW"
-      },
-      "artists": [
-        {
-          "name": "iamamiwhoami",
-          "url": "https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP"
-        },
-        {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
-        }
-      ],
-      "duration_ms": 216328,
-      "name": "Zeven",
-      "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
     },
     {
       "added_at": "2022-11-10 23:00:00",

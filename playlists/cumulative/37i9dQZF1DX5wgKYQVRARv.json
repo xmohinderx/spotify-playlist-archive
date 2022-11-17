@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 330261,
       "name": "Bugs - Extended",
       "url": "https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu"
@@ -9889,6 +9889,28 @@
       "duration_ms": 249750,
       "name": "Voices",
       "url": "https://open.spotify.com/track/0n8FH9ZymLlSJyY6bvd0xE"
+    },
+    {
+      "album": {
+        "name": "We Are N\u00f8t Okay",
+        "url": "https://open.spotify.com/album/3Z06ZJrIM5oEIhrJ4Ivjvr"
+      },
+      "artists": [
+        {
+          "name": "Oceans",
+          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
+        },
+        {
+          "name": "Lena Scissorhands",
+          "url": "https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/0oFDhOVgRwk73GVFJ8KtCp"
     },
     {
       "album": {

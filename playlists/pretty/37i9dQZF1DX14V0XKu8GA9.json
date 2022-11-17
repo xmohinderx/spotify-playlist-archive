@@ -1,15 +1,15 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 17825,
+  "num_followers": 17851,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDdmZDAwODYyZGNkNzJhYjU5Yzc4YWFhODdhZTRkMjE1",
+  "snapshot_id": "MTY2NzUwNDM4OSwwMDAwMDAwMDU3OWViZTZkMjYyMmQ0Njc1YTdjZjE2NDAxOGQ3ZDQ3",
   "tracks": [
     {
-      "added_at": "2022-11-16 01:23:02",
+      "added_at": "2022-11-17 01:21:48",
       "album": {
         "name": "Gahdamn",
         "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "Kap On Edge",
-        "url": "https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v"
-      },
-      "artists": [
-        {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Tyra Banks",
-      "url": "https://open.spotify.com/track/3osnsU7jBfDuscsa1yDEfV"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
+        "name": "Kap On Edge",
+        "url": "https://open.spotify.com/album/4d10Uz7cuKkX6jFXWxV30v"
+      },
+      "artists": [
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Tyra Banks",
+      "url": "https://open.spotify.com/track/3osnsU7jBfDuscsa1yDEfV"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
         "name": "She Gon Choose (feat. Lil Weirdo)",
         "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-09-23 15:32:00",
       "album": {
-        "name": "SPIDERCAT",
-        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
-      },
-      "artists": [
-        {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "SPIDERCAT",
-      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
-    },
-    {
-      "added_at": "2022-09-23 15:32:00",
-      "album": {
         "name": "El Idolo",
         "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 128000,
       "name": "El Idolo",
       "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
+    },
+    {
+      "added_at": "2022-09-23 15:32:00",
+      "album": {
+        "name": "SPIDERCAT",
+        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
+      },
+      "artists": [
+        {
+          "name": "Speak",
+          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "SPIDERCAT",
+      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
     },
     {
       "added_at": "2022-09-23 15:32:00",

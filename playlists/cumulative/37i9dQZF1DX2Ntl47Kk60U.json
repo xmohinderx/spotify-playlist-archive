@@ -135,6 +135,24 @@
     {
       "album": {
         "name": "Heartstopper (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/37pRjW4teJk77oZbglQuJx"
+      },
+      "artists": [
+        {
+          "name": "Adiescar Chase",
+          "url": "https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57360,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/1QASQkmXvZaFCTVaRVQVqq"
+    },
+    {
+      "album": {
+        "name": "Heartstopper (Soundtrack From The Netflix Series)",
         "url": "https://open.spotify.com/album/2o3leUqps0lLmKlqfqzRW3"
       },
       "artists": [
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 57360,
       "name": "Encore",
       "url": "https://open.spotify.com/track/2tcnmgYdXZoTpCJGhWFTwf"
@@ -397,10 +415,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 125080,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/1zJjw0R6QzlhtqMNqhvObN"
+    },
+    {
+      "album": {
+        "name": "Heartstopper (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/37pRjW4teJk77oZbglQuJx"
+      },
+      "artists": [
+        {
+          "name": "Adiescar Chase",
+          "url": "https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125080,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/7b7erRIo4wh1wd2ua0jO7O"
     },
     {
       "album": {

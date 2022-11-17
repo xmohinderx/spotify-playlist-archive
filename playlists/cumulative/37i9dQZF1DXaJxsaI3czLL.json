@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "21SS",
+        "url": "https://open.spotify.com/album/53wfpETmJBR5sfAo8O4JuF"
+      },
+      "artists": [
+        {
+          "name": "naomi paris tokyo",
+          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/1B6SBaHIua9BXsL2IrNqj3"
+    },
+    {
+      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -136,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Binetsu (Autumn) / Honesty (Session 1)",
+        "url": "https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298292,
+      "name": "Binetsu (Autumn)",
+      "url": "https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr"
+    },
+    {
+      "album": {
         "name": "LOVE ALL SERVE ALL",
         "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
       },
@@ -187,6 +223,24 @@
       "duration_ms": 285500,
       "name": "Dawn in the Adan",
       "url": "https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt"
+    },
+    {
+      "album": {
+        "name": "eureka",
+        "url": "https://open.spotify.com/album/2NouP8V8x5hoIVazmWEHtQ"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "eureka",
+      "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
     },
     {
       "album": {
@@ -921,7 +975,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
@@ -975,7 +1029,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 401173,
       "name": "\u304a\u3042\u3044\u3053",
       "url": "https://open.spotify.com/track/0ekuGQhxcrmTsFJbwNnNX6"
@@ -1415,7 +1469,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 298292,
       "name": "\u5fae\u71b1 (\u79cb)",
       "url": "https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF"

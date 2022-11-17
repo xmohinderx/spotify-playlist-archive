@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,158 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,160 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/3UXHq6nG3t1223oh8zZrM9) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/119HvKMU8tIao52eIy43X6) | 3:51 |
+| 1 | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/7KVbMauvS8b0BbdsgO1VoK) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/1BCxg9L1D9Q5OZEPtaejEc) | 3:51 |
 | 2 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 |
 | 3 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 4 | [Bennie And The Jets](https://open.spotify.com/track/0LHzd11GIXVmND7TfQnGiy) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [70's Pop Number 1's](https://open.spotify.com/album/5i8kfdER1rHnhzYcQc5KXX) | 5:23 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 51 | [If You Think It's Love](https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG) | 3:23 |
 | 52 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 
-Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDczZmZkNjk4ZWUzZTBhN2VlNmI3YjU5NmY5NWRjMjEz`
+Snapshot ID: `MTY1NzIwOTgxOSwwMDAwMDAwMDQwMjA4MmUzYmI2NzI3MzE2MjhjNjJlZGY2YjVmNmYw`

@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 43142,
+  "num_followers": 43149,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyNDQwMCwwMDAwMDAwMGIwNTY3MTVmMGY4NjI1OGViZDU3Yzk3YzQ5M2EyZWQ4",
+  "snapshot_id": "MTY2ODUyNDQwMCwwMDAwMDAwMGRiNjgzMjgzODVkYjY3ODQ5YTk1MWNkNzRkNWNiNzk3",
   "tracks": [
     {
       "added_at": "2022-11-15 15:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
+        "name": "Buffy",
+        "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Buffy",
+      "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
         "name": "Slowdive",
         "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 210391,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 180057,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7MszbrrMr9wB55yvce9uGZ"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 210391,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5vxr0JMWQuHNlpH0YaJADN"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1195,6 +1211,38 @@
       "duration_ms": 157826,
       "name": "Gluck: \u5996\u7cbe\u306e\u8e0a\u308a",
       "url": "https://open.spotify.com/track/3KCH3uAbvDwaEKdswsspgX"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
+        "name": "Ascent",
+        "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 132235,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2xgE7xh8Q9mMLYWaOuRgn2"
+      },
+      "artists": [
+        {
+          "name": "Masafumi Komatsu",
+          "url": "https://open.spotify.com/artist/6EeYq4J3QdKusSaCarhC80"
+        }
+      ],
+      "duration_ms": 318877,
+      "name": "reflection",
+      "url": "https://open.spotify.com/track/3y3VLtIZsmjb5bTDrfZE5C"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1223,38 +1271,6 @@
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2xgE7xh8Q9mMLYWaOuRgn2"
-      },
-      "artists": [
-        {
-          "name": "Masafumi Komatsu",
-          "url": "https://open.spotify.com/artist/6EeYq4J3QdKusSaCarhC80"
-        }
-      ],
-      "duration_ms": 318877,
-      "name": "reflection",
-      "url": "https://open.spotify.com/track/3y3VLtIZsmjb5bTDrfZE5C"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "Ascent",
-        "url": "https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 132235,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1347,22 +1363,22 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "Memorial",
-        "url": "https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp"
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
       },
       "artists": [
         {
-          "name": "Russian Circles",
-          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
         },
         {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
         }
       ],
-      "duration_ms": 225471,
-      "name": "Memorial (feat. Chelsea Wolfe)",
-      "url": "https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k"
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1391,18 +1407,22 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "Actual Life Piano EP (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes"
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/2169qq2aiycEtmgwEQlwgp"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Russian Circles",
+          "url": "https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF"
+        },
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
         }
       ],
-      "duration_ms": 164750,
-      "name": "Kyle (Northern Line)",
-      "url": "https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR"
+      "duration_ms": 225471,
+      "name": "Memorial (feat. Chelsea Wolfe)",
+      "url": "https://open.spotify.com/track/5Y6u1FBAsYsfUAzBX7ym7k"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1435,18 +1455,18 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "A Quiet Grace",
-        "url": "https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw"
+        "name": "Actual Life Piano EP (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes"
       },
       "artists": [
         {
-          "name": "Josh Alexander",
-          "url": "https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 170629,
-      "name": "A Quiet Grace",
-      "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
+      "duration_ms": 164750,
+      "name": "Kyle (Northern Line)",
+      "url": "https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1471,18 +1491,18 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "TAPE 2/FOMALHAUT",
-        "url": "https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD"
+        "name": "A Quiet Grace",
+        "url": "https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw"
       },
       "artists": [
         {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+          "name": "Josh Alexander",
+          "url": "https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs"
         }
       ],
-      "duration_ms": 189166,
-      "name": "TO BE LOVED",
-      "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
+      "duration_ms": 170629,
+      "name": "A Quiet Grace",
+      "url": "https://open.spotify.com/track/4917GPMOmDwQErO8676NZl"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1499,6 +1519,42 @@
       "duration_ms": 161219,
       "name": "Family Photograph - \u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/0zQ4P8EjgI41B1vXgE1wQp"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
+        "name": "TAPE 2/FOMALHAUT",
+        "url": "https://open.spotify.com/album/640PhElbTyg4yZtb5jpWQD"
+      },
+      "artists": [
+        {
+          "name": "BERWYN",
+          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
+        }
+      ],
+      "duration_ms": 189166,
+      "name": "TO BE LOVED",
+      "url": "https://open.spotify.com/track/2CUR2LpKhtKTa9RlDhVi2q"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
+        "name": "Szymanowski: 9 Preludes, Op. 1: No. 1 in B Minor. Andante ma non troppo",
+        "url": "https://open.spotify.com/album/2a4mPDnGKkY1ZnxhsHIrK0"
+      },
+      "artists": [
+        {
+          "name": "Karol Szymanowski",
+          "url": "https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal"
+        },
+        {
+          "name": "Krystian Zimerman",
+          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+        }
+      ],
+      "duration_ms": 176186,
+      "name": "9 Preludes, Op. 1: No. 1 in B Minor. Andante ma non troppo",
+      "url": "https://open.spotify.com/track/73cFlYu63RLX1qn9qzMXiJ"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1523,8 +1579,8 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "Szymanowski: 9 Preludes, Op. 1: No. 1 in B Minor. Andante ma non troppo",
-        "url": "https://open.spotify.com/album/2a4mPDnGKkY1ZnxhsHIrK0"
+        "name": "Karol Szymanowski: Piano Works",
+        "url": "https://open.spotify.com/album/6iF2vN5SK1pXAn2jdND1Zq"
       },
       "artists": [
         {
@@ -1536,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
         }
       ],
-      "duration_ms": 176186,
-      "name": "9 Preludes, Op. 1: No. 1 in B Minor. Andante ma non troppo",
-      "url": "https://open.spotify.com/track/73cFlYu63RLX1qn9qzMXiJ"
+      "duration_ms": 69053,
+      "name": "Variations on a Polish Folk Theme, Op. 10: Var. 5. Andantino",
+      "url": "https://open.spotify.com/track/07f9skCq3UJKxj7szEoC04"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1567,42 +1623,6 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "Karol Szymanowski: Piano Works",
-        "url": "https://open.spotify.com/album/6iF2vN5SK1pXAn2jdND1Zq"
-      },
-      "artists": [
-        {
-          "name": "Karol Szymanowski",
-          "url": "https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal"
-        },
-        {
-          "name": "Krystian Zimerman",
-          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
-        }
-      ],
-      "duration_ms": 69053,
-      "name": "Variations on a Polish Folk Theme, Op. 10: Var. 5. Andantino",
-      "url": "https://open.spotify.com/track/07f9skCq3UJKxj7szEoC04"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "A Safe Place To Be",
-        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 199152,
-      "name": "I Wanna See You Smile",
-      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
         "name": "\u30d4\u30a2\u30ce\u540d\u66f2\u96c6",
         "url": "https://open.spotify.com/album/45XasnhM03A5fXf12xumR3"
       },
@@ -1623,18 +1643,18 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "vi (almost equal to) ix",
-        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+        "name": "A Safe Place To Be",
+        "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
         }
       ],
-      "duration_ms": 224298,
-      "name": "vi (almost equal to) ix",
-      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+      "duration_ms": 199152,
+      "name": "I Wanna See You Smile",
+      "url": "https://open.spotify.com/track/5DWf4L3ZK5PILo7t2Ruw9G"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1667,6 +1687,74 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/1sAiKu51OyOiuWwFIJYMRi"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/18zLYmXB3BraLD4ckBxoK1"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
+        "name": "river (sketch in chikuma-river)",
+        "url": "https://open.spotify.com/album/7cn0VB36SFreUiqOYe1SIP"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 194664,
+      "name": "river (sketch in chikuma-river)",
+      "url": "https://open.spotify.com/track/7zt6iz0iTTUSUW9c9V6xc6"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
+        "name": "vi (almost equal to) ix",
+        "url": "https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 224298,
+      "name": "vi (almost equal to) ix",
+      "url": "https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
+        "name": "Take Your Time(Haruomi Hosono Remix)",
+        "url": "https://open.spotify.com/album/15Xt6Ru30ddbjQMxTDWRDY"
+      },
+      "artists": [
+        {
+          "name": "D.A.N.",
+          "url": "https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx"
+        },
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 271437,
+      "name": "Take Your Time - Haruomi Hosono Remix",
+      "url": "https://open.spotify.com/track/1DN5nFDJYO0UFKOI9OeiSZ"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -1687,18 +1775,22 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
-        "name": "river (sketch in chikuma-river)",
-        "url": "https://open.spotify.com/album/7cn0VB36SFreUiqOYe1SIP"
+        "name": "Beethoven: Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto (Recorded 2021-2)",
+        "url": "https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
         }
       ],
-      "duration_ms": 194664,
-      "name": "river (sketch in chikuma-river)",
-      "url": "https://open.spotify.com/track/7zt6iz0iTTUSUW9c9V6xc6"
+      "duration_ms": 140266,
+      "name": "Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto - Recorded 2021-2",
+      "url": "https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD"
     },
     {
       "added_at": "2022-11-15 15:00:00",
@@ -1731,78 +1823,6 @@
       "duration_ms": 279840,
       "name": "Savior of the Nations, Come, BWV 659 (Arr. for 4 Cellos)",
       "url": "https://open.spotify.com/track/7Il5v7dknoshlFkQRpIqxm"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "Take Your Time(Haruomi Hosono Remix)",
-        "url": "https://open.spotify.com/album/15Xt6Ru30ddbjQMxTDWRDY"
-      },
-      "artists": [
-        {
-          "name": "D.A.N.",
-          "url": "https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx"
-        },
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 271437,
-      "name": "Take Your Time - Haruomi Hosono Remix",
-      "url": "https://open.spotify.com/track/1DN5nFDJYO0UFKOI9OeiSZ"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
-        "url": "https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU"
-      },
-      "artists": [
-        {
-          "name": "Takare Tadame",
-          "url": "https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0"
-        }
-      ],
-      "duration_ms": 130483,
-      "name": "\u4eba\u751f\u3078\u306e\u53e4\u4ee3\u306e\u30b9\u30c6\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "Beethoven: Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto (Recorded 2021-2)",
-        "url": "https://open.spotify.com/album/3KZ90mieOEXuBAO8EODI34"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
-        }
-      ],
-      "duration_ms": 140266,
-      "name": "Piano Sonata No. 28 in A Major, Op. 101: III. Langsam und sehnsuchtsvoll. Adagio ma non troppo, con affetto - Recorded 2021-2",
-      "url": "https://open.spotify.com/track/2LNs7mkKPbvwKO3qGuK2oD"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2mGGXU9rtoBSgqVKthBSkJ"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 185736,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/5VRGp1W4cpQ0kO3HWLsafP"
     },
     {
       "added_at": "2022-11-15 15:00:00",

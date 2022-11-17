@@ -4,7 +4,7 @@
 
 > Get into the flow and stay focused while writing code with music curated by the JetBrains team.
 
-106 songs - 9 hr 55 min - not published yet
+109 songs - 10 hr 6 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,9 +98,11 @@
 | [Sunday Stroll \(feat\. Clark Smith & Wildabeast\)](https://open.spotify.com/track/0MpW0Za5kwtPciLEPmdx52) | [Late Night Radio](https://open.spotify.com/artist/0FIRQJT2PBffTJEZvipVi2), [Clark Smith](https://open.spotify.com/artist/5uWD3JwI2XpjnGcdSP8Lz3), [Wildabeast](https://open.spotify.com/artist/4UDyP9JrOCJBCUiCc5Eqkv) | [Reflective Tangents](https://open.spotify.com/album/0yKl9t5eOtdm1adCMjdjP5) | 3:48 | 2022-10-18 |  |
 | [Sunrise 79](https://open.spotify.com/track/32odZ1cqYZ7L9c6ztQO95V) | [Joey Fehrenbach](https://open.spotify.com/artist/2jY1xBS6oapp7f9jE7Zxd5) | [Fear of Falling](https://open.spotify.com/album/6ym7G3rPPzog9FF5WeKXN8) | 5:34 | 2022-10-18 |  |
 | [Supersede](https://open.spotify.com/track/6NLilvLw53rJp9M8Vj6oFj) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper \(2015 Remaster\)](https://open.spotify.com/album/3jBcf9rVNv5xe7K9eqTd7Z) | 8:19 | 2022-10-18 |  |
+| [Tell Me Something](https://open.spotify.com/track/7beIY3tP8JUpSyvKXhd6CV) | [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Tell Me Something](https://open.spotify.com/album/6KQZBYZzEfhpNyxjFZOHXe) | 3:41 | 2022-11-16 |  |
 | [Tengen](https://open.spotify.com/track/4STV4CsoxuKn1RlVy2o6Qg) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Tengen](https://open.spotify.com/album/0JdUuMxuEzn6CgHVBwn0uN) | 2:18 | 2022-10-18 |  |
 | [The Descent](https://open.spotify.com/track/459INdwzvu2vElqbndkD6x) | [CharlestheFirst](https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I) | [The Descent](https://open.spotify.com/album/3q7VP5N3TDan6MnxHbKhv1) | 4:05 | 2022-10-18 |  |
 | [The Distance](https://open.spotify.com/track/0uqwYjMkEcAAiPwSTWxzH7) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [The Distance](https://open.spotify.com/album/1jxF2oJOAr5zR9d1PQnR8Y) | 6:11 | 2022-10-18 |  |
+| [The Ocean](https://open.spotify.com/track/7dgkpVYzHEnBKnaaMSbE5p) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [The Ocean](https://open.spotify.com/album/5BadXUBRbBS3LL6M76h2GX) | 3:19 | 2022-11-16 |  |
 | [The Painful Way](https://open.spotify.com/track/6XpA6R9pRVgZcjarViwOm0) | [Darren Korb](https://open.spotify.com/artist/0ZMWrgLff357yxLyEU77a1) | [Hades: Original Soundtrack](https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb) | 6:53 | 2022-10-18 |  |
 | [The Red Horse](https://open.spotify.com/track/4aT3D1XbLSeQFTRC808lwa) | [Bluetech](https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68) | [The 4 Horsemen of the Electrocalypse: The Red Horse](https://open.spotify.com/album/1xyNT2J8BhLwS99H5Nyw1r) | 5:12 | 2022-10-18 |  |
 | [The Sticks](https://open.spotify.com/track/6AuHwmankUT2hQ2kLq4rlp) | [Burnt Friedman](https://open.spotify.com/artist/1Y6bd4Omy7dhr9Bfpc9s3E), [Jaki Liebezeit](https://open.spotify.com/artist/6fquZ594tl1ndTXdKXwvtb) | [Secret Rhythms, Vol\. 2](https://open.spotify.com/album/0Dvya9plI5iVQrN1XYC2ga) | 8:16 | 2022-10-18 |  |
@@ -110,6 +112,7 @@
 | [Trance Sexual \- Original Mix](https://open.spotify.com/track/2w9dOw68gd7HyNpBfuuaoY) | [Fantastic Man](https://open.spotify.com/artist/2eiwJhqnolYJf3iUMLFDpy) | [Rhythm Algorithm](https://open.spotify.com/album/5kJnmQKCGLYHnaIimuN2LS) | 6:47 | 2022-10-18 |  |
 | [Trauma Team](https://open.spotify.com/track/2d58FzVzUULJSy1YRQWB09) | [Vector Seven](https://open.spotify.com/artist/0Aob82fk8XM9qBRhiCvSBO) | [Modified](https://open.spotify.com/album/1aMm5k2Rjl1yd6otxk7gHm) | 4:04 | 2022-10-18 |  |
 | [Vladimir Martynov: The Beatitudes](https://open.spotify.com/track/35bfCo1peMNIjrsrMPm7Aw) | [Vladimir Martynov](https://open.spotify.com/artist/5oLXPtqJveGbowHgv9g0Y8), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Music of Vladimir Martynov](https://open.spotify.com/album/1rI45ExlAyl1beRN0efNcd) | 5:26 | 2022-10-18 |  |
+| [Waiting For Nick At Rick's Café](https://open.spotify.com/track/0FeB1pJvzh2BNDYco2RF6k) | [Dead Combo](https://open.spotify.com/artist/4DbBi3EWMhdHMnX8WqRIev) | [A Bunch of Meninos](https://open.spotify.com/album/3Ofy4arh10pzsm8oT2uAc0) | 3:29 | 2022-11-16 |  |
 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 | 2022-10-18 |  |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2022-10-18 |  |
 | [What Fills the Gap](https://open.spotify.com/track/6jWIrDVUb80fLhMzwVcoaO) | [Will Cady](https://open.spotify.com/artist/2V1PIHNWcKFVhvDXqstJ1X), [Alan Watts](https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b) | [The Awake](https://open.spotify.com/album/5yuTns8sPqrIqqZ9hG67pT) | 4:30 | 2022-10-18 |  |

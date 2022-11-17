@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,249 likes - 38 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,338 likes - 38 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 6 | [Preludes, Book 1: No\. 8\. La fille aux cheveux de lin \(arr\. for guitar\)](https://open.spotify.com/track/3prOOjZVKg5Y8yp4RxIiZY) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Paul Galbraith](https://open.spotify.com/artist/1AORP7RPoxyE8dtP8V6Yr5) | [Debussy, C.: Children's Corner / Piece Pour Le Vetement Du Blesse / Ravel, M.: Ma Mere L'Oye \(Arr\. for Guitar\) \(French Impressions\) \(Gilbraith\)](https://open.spotify.com/album/2QreoeKjIJraazPddIuvVq) | 2:33 |
 | 7 | [Romance \(Arr\. J\. Williams for Guitar & Orchestra\)](https://open.spotify.com/track/6kPqRhYyJuK2jmKGUIjYCZ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [William Goodchild](https://open.spotify.com/artist/6rdlJExUAyM362j8SH6WG8), [John Williams](https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY) | [The Ultimate Guitar Collection](https://open.spotify.com/album/7gGDntw1EndFOxhpTWmmQZ) | 3:17 |
 | 8 | [Fantasy for Guitar Op\. 107: III\. Arietta 1](https://open.spotify.com/track/5EEYKvwrOhDDKTR2yeaxD7) | [Malcolm Arnold](https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e), [Sean Shibe](https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5) | [Dreams and Fancies: English Music for Solo Guitar](https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH) | 2:03 |
-| 9 | [Estrellita](https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Manuel Barrueco](https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE) | [Cantos y Danzas](https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF) | 2:46 |
+| 9 | [Ponce: Estrellita](https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Manuel Barrueco](https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE) | [Cantos y Danzas](https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF) | 2:46 |
 | 10 | [Lakmé: Flower Duet](https://open.spotify.com/track/10RYcLM6seFPApCHvxRoZ7) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Reading and Studying](https://open.spotify.com/album/0UAfu361s41QtSeGArjPYq) | 1:28 |
 | 11 | [The Deer Hunter: Cavatina](https://open.spotify.com/track/0OjeJ8wBPo0AYTMbFp1QBI) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Jason Vieaux](https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO) | [Play](https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h) | 3:45 |
 | 12 | [Adelita](https://open.spotify.com/track/5NAskgmV5OCbHSu7y3dHcy) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [Soul of Spanish Guitar](https://open.spotify.com/album/4A9G71QsLJKKFK5ffodQfZ) | 2:10 |

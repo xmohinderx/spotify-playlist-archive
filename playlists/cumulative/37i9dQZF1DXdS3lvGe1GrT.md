@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Kara Jackson \| Visual Artist: Bailey Elder
 
-268 songs - 16 hr 15 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+269 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Peaches \- Edit](https://open.spotify.com/track/1sqDk9nnLwBYdqoqLFvIyU) | [Alison Sudol](https://open.spotify.com/artist/5JpFdmGP5YVR80hwTyjhW0) | [Peaches](https://open.spotify.com/album/1IiRTkn40I7elX0Xt2qGGY) | 4:01 | 2022-05-25 | 2022-06-16 |
 | [Pop Fly](https://open.spotify.com/track/17Dhcbtm8cE6LZvrP2n7Vy) | [Whitmer Thomas](https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1) | [The Older I Get The Funnier I Was](https://open.spotify.com/album/0Zo2bqwtYROgEczX4jG2W7) | 2:29 | 2022-10-26 |  |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-25 | 2022-10-06 |
-| [Preoccupied](https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj) | 3:31 | 2022-08-31 |  |
+| [Preoccupied](https://open.spotify.com/track/0VS0WcNAoDndMBMyimJxP6) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/4BPLLOB0x9kUsNs3oPCNKU) | 3:31 | 2022-11-09 |  |
+| [Preoccupied](https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj) | 3:31 | 2022-08-31 | 2022-11-17 |
 | [Pretty, Pretty](https://open.spotify.com/track/0NkomCaAB2nVipVGxsTUoy) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Pretty, Pretty](https://open.spotify.com/album/2UaDtdFOC01NAP7U4H34fC) | 3:38 | 2022-08-10 |  |
 | [Prism](https://open.spotify.com/track/76iyiXL6GBHt7Mdb5v9GoN) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Prism](https://open.spotify.com/album/07QRxu8AgGoRmz6qYz7QrH) | 3:10 | 2022-10-12 |  |
 | [Quiet Conversation](https://open.spotify.com/track/6hl4W9aK5lG6gOpOEtIHMc) | [Jacob Humber](https://open.spotify.com/artist/4JJspL8i1Sz6CsowjvNlmL) | [Quiet Conversation](https://open.spotify.com/album/6WxQslCQx5PxOHeO774ltB) | 5:47 | 2022-08-24 |  |

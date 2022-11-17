@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,263 likes - 95 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,399 likes - 95 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

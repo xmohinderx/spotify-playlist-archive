@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 83653,
+  "num_followers": 83707,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMGU4MTAwNTE1ODljMWM3NzgwNDUzNzFhOGFkYjcyYmI4",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDRlZTRhM2JlODEwZDhiNTgwMjgxYWRkZWNkZGRmMTVl",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -163,26 +163,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "What's Up (feat. Jagged Edge)",
-        "url": "https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "What's Up (feat. Jagged Edge)",
-      "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "What's Up (feat. Jagged Edge)",
+        "url": "https://open.spotify.com/album/38mJ5vtciV1TV9xrD1qy4L"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 219729,
+      "name": "What's Up (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Feelings 4 You",
-        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Good Morning Gorgeous (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 174636,
+      "name": "Good Morning Gorgeous (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Empathy",
         "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
       },
@@ -675,22 +695,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Public Displays Of Affection Too",
-        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Whatever Simon Says",
         "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
       },
@@ -707,22 +711,18 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Good Morning Gorgeous (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
+        "name": "Public Displays Of Affection Too",
+        "url": "https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 174636,
-      "name": "Good Morning Gorgeous (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 229879,
+      "name": "Summer in November",
+      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "GODDESS REIGN",
         "url": "https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 229879,
-      "name": "Summer in November",
-      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Bag Lady",
+        "url": "https://open.spotify.com/album/3o3ChnWY8L64Wa7aoQAC8W"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Diana Dzhabbar",
+          "url": "https://open.spotify.com/artist/3PekYiJU6uWvDKASwJpvYR"
+        }
+      ],
+      "duration_ms": 287653,
+      "name": "Bag Lady",
+      "url": "https://open.spotify.com/track/2oW1N8R52n0f3Iwe0HtMFC"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Right Time (feat. Reggie Becton)",
         "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
       },
@@ -1143,22 +1163,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Lessons",
-        "url": "https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv"
-      },
-      "artists": [
-        {
-          "name": "Eric Roberson",
-          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
-        }
-      ],
-      "duration_ms": 250404,
-      "name": "Lessons",
-      "url": "https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI"
       },
@@ -1175,6 +1179,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv"
+      },
+      "artists": [
+        {
+          "name": "Eric Roberson",
+          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
+        }
+      ],
+      "duration_ms": 250404,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Sex, Love & Pain",
         "url": "https://open.spotify.com/album/2ysbGZxi30xemn0KCIDWU1"
       },
@@ -1187,42 +1207,6 @@
       "duration_ms": 231280,
       "name": "My Body",
       "url": "https://open.spotify.com/track/39sfV1mgK48hNDmyZhCg4f"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Bag Lady",
-        "url": "https://open.spotify.com/album/3o3ChnWY8L64Wa7aoQAC8W"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        },
-        {
-          "name": "Diana Dzhabbar",
-          "url": "https://open.spotify.com/artist/3PekYiJU6uWvDKASwJpvYR"
-        }
-      ],
-      "duration_ms": 287653,
-      "name": "Bag Lady",
-      "url": "https://open.spotify.com/track/2oW1N8R52n0f3Iwe0HtMFC"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -1263,26 +1247,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "DNA (Live)",
-        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
-      },
-      "artists": [
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "DNA - Live",
-      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Juslisen (Special Edition)",
         "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
       },
@@ -1311,6 +1275,42 @@
       "duration_ms": 239173,
       "name": "No Love Song",
       "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "DNA (Live)",
+        "url": "https://open.spotify.com/album/7k6K4ZbMmEy7D3EGimHErN"
+      },
+      "artists": [
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
+        },
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "DNA - Live",
+      "url": "https://open.spotify.com/track/37XkILoSS83vbIOkOROd1P"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Imperfections",
-        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
-      },
-      "artists": [
-        {
-          "name": "Sharna Bass",
-          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
-        },
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 110640,
-      "name": "Arz Interlude",
-      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Wait On Me (Pt. 2 / Remix)",
         "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 157640,
       "name": "Wait On Me - Pt. 2 / Remix",
       "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
+      },
+      "artists": [
+        {
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 110640,
+      "name": "Arz Interlude",
+      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
     },
     {
       "added_at": "2022-11-11 03:01:00",

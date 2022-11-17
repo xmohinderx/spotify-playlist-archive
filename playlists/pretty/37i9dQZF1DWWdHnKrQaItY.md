@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,971 likes - 66 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,973 likes - 66 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 17 | [Keep Active](https://open.spotify.com/track/1vnzJdkQvIDmHEraygqYlG) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Keep Active](https://open.spotify.com/album/20u8HsV7iQoGyQIi8xyKd0) | 2:19 |
 | 18 | [Big Band Blippi](https://open.spotify.com/track/011HN8h0MgO6h26EayHjc4) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Dance, Move & Groove!](https://open.spotify.com/album/0pDk4yAlwOyU5iE3WUO4N9) | 2:15 |
 | 19 | [Shark Dance Party](https://open.spotify.com/track/4s8oZhFMG08lR3bIUckeYZ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark Workout](https://open.spotify.com/album/0V5KVEfoY7PbQiG2njjG7I) | 1:19 |
-| 20 | [Let’s Move! Dance Party](https://open.spotify.com/track/78VhKIYlWIn72RqRSY85kM) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:23 |
+| 20 | [Let’s Move! Dance Party](https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:23 |
 | 21 | [Funky Leg](https://open.spotify.com/track/2aq4DbosfzQRYbDKCdatle) | [Shine and the Moonbeams](https://open.spotify.com/artist/5IwCPV7WRS7rIQN41cur1q) | [I Am](https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp) | 2:43 |
 | 22 | [Hide and Seek](https://open.spotify.com/track/0x8qnlBomm4AaM4U0CYMsK) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Hide and Seek](https://open.spotify.com/album/186DtJ2hwhU7n0zCkc7URN) | 2:40 |
 | 23 | [Rise & Rhyme](https://open.spotify.com/track/3XxEPzTOhPEmm7aj60oLQt) | [Culture Queen](https://open.spotify.com/artist/4IfGc40LRbnwom32WYBhJs) | [I Like the Me I See!](https://open.spotify.com/album/5gptuEMTs3RzCeWYvWEyiO) | 2:48 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 65 | [Dorothy's Dance Party](https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 2:12 |
 | 66 | [Happy Tappin' with Elmo](https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 1:30 |
 
-Snapshot ID: `MTY2ODQyOTgwMiwwMDAwMDAwMDA4NjEzYTU3ZWM1MzUwYmFhNDY1NTFlOTNjYjVlODhl`
+Snapshot ID: `MTY2ODQyOTgwMiwwMDAwMDAwMGFlYWY2MTBjNTY5Y2MyOWZlYTM4MzRhMTZlMzUyODRh`

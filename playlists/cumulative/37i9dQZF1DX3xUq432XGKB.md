@@ -4,14 +4,15 @@
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-99 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
+100 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/29grajXOQfVKrBASB6PcZ3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2021-03-16 | 2022-10-19 |
 | [Ache](https://open.spotify.com/track/0nNh57CedtpSjca7uhbrtg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EP1](https://open.spotify.com/album/44keDDETPLFK48WCykPKit) | 5:00 | 2021-03-16 | 2022-10-19 |
 | [ANGEL VOICES](https://open.spotify.com/track/69urju2iS7zKGTxNVLYt5D) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [ANGEL VOICES](https://open.spotify.com/album/3BbIIKqZ8i3NJEDw4dHBr5) | 6:32 | 2022-10-18 |  |
-| [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2022-10-18 |  |
+| [Be Nice 2 Me](https://open.spotify.com/track/7qqDKokSG1AdTT0co9TUhO) | [0505blade](https://open.spotify.com/artist/0Kz2acmNyU0C5qSucA0Ist) | [Be Nice 2 Me](https://open.spotify.com/album/7Anx02Gh6cudTssi1UVeD8) | 2:07 | 2022-10-21 |  |
+| [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2022-10-18 | 2022-11-17 |
 | [Behold](https://open.spotify.com/track/6EGELxGGOmmYJ6kOJfdX9V) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 2:20 | 2022-10-18 |  |
 | [BITE ME](https://open.spotify.com/track/1dDDQM0YvlrdPi6EVmEDun) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [BITE ME](https://open.spotify.com/album/7fuzOyJNaa1i05s94ffpqG) | 3:26 | 2021-03-16 | 2022-10-19 |
 | [Body Pump \- UNIIQU3 Remix](https://open.spotify.com/track/5BMXfwG0l57VbehGPq2Uv2) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Renaissance \(Remixes\)](https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ) | 3:56 | 2021-03-16 | 2022-10-19 |

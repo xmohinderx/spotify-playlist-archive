@@ -1138,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "Forgery",
+        "url": "https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v"
+      },
+      "artists": [
+        {
+          "name": "yupsilon",
+          "url": "https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140873,
+      "name": "Forgery",
+      "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
+    },
+    {
+      "album": {
         "name": "Gerbera",
         "url": "https://open.spotify.com/album/5bW6MAWuSTKFk7cuMLOETR"
       },
@@ -1638,6 +1656,24 @@
     },
     {
       "album": {
+        "name": "Kayoku",
+        "url": "https://open.spotify.com/album/26xOkQ9XkpM47h4kzEuMbu"
+      },
+      "artists": [
+        {
+          "name": "shoose",
+          "url": "https://open.spotify.com/artist/6XLMQoszP8tCQRpYuHp634"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192729,
+      "name": "Kayoku",
+      "url": "https://open.spotify.com/track/1ZPjVQ4u8j2hq0YmP1faS3"
+    },
+    {
+      "album": {
         "name": "kitto kawaranai iro",
         "url": "https://open.spotify.com/album/5A6H1IuZkDPdEl2bed6nDL"
       },
@@ -2103,7 +2139,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 194273,
       "name": "Oz.",
       "url": "https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2"
@@ -7509,7 +7545,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 192729,
       "name": "\u5be1\u6b32",
       "url": "https://open.spotify.com/track/4owtFEC5oxti5csYaDo2bP"

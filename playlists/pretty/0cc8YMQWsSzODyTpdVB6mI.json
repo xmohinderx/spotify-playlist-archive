@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 44181,
+  "num_followers": 44194,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk5NSxjYWE2MjFkYzc4NTQ2YThlMWZjNDIyYTcxNThiZWI1NTI0NzE1MGRj",
+  "snapshot_id": "Mjk5OCwxNGUyMTBhMjZkNDE3M2JmYmIxN2VkODJjOTIxY2E1MjA3YTc3NjA1",
   "tracks": [
+    {
+      "added_at": "2022-11-16 08:46:53",
+      "album": {
+        "name": "TALES_FOR_NIGHTCLUBS_III",
+        "url": "https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 175897,
+      "name": "MY MIND",
+      "url": "https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ"
+    },
     {
       "added_at": "2022-11-11 09:01:37",
       "album": {
@@ -399,26 +415,6 @@
       "duration_ms": 182903,
       "name": "Friday",
       "url": "https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob"
-    },
-    {
-      "added_at": "2022-08-12 08:18:47",
-      "album": {
-        "name": "Ren\u00e9 Laloux",
-        "url": "https://open.spotify.com/album/0Ai0eRRJWnJ8FnZv0IHdLn"
-      },
-      "artists": [
-        {
-          "name": "Hotel",
-          "url": "https://open.spotify.com/artist/1RfaBLjlSEdEMRMaj3dWwc"
-        },
-        {
-          "name": "Prince Matton",
-          "url": "https://open.spotify.com/artist/6QjIoVAOqLki2UAmoD5yuX"
-        }
-      ],
-      "duration_ms": 270199,
-      "name": "Ren\u00e9 Laloux",
-      "url": "https://open.spotify.com/track/74l4tSkfHX8iLW9Kc74ePm"
     },
     {
       "added_at": "2021-11-05 15:47:43",

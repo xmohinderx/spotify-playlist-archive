@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists.",
+  "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: IVE)",
   "name": "Christmas K-Pop",
   "published_playlist_ids": [
     "1yyhOjEH9QwfpQn9ZYLpRJ"
@@ -63,6 +63,32 @@
       "duration_ms": 200267,
       "name": "A Slippery Christmas (Feat. Chan)",
       "url": "https://open.spotify.com/track/06m4f8pAOZbrPSw54xDYPj"
+    },
+    {
+      "album": {
+        "name": "After LIKE (Holiday Remix)",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "CHASE",
+          "url": "https://open.spotify.com/artist/0TkXh99ljRHx80msvYrLyu"
+        },
+        {
+          "name": "DARM",
+          "url": "https://open.spotify.com/artist/0wZluV8sVibEhvFXIlkFtF"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
     },
     {
       "album": {
@@ -845,7 +871,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 324964,
       "name": "For The Reason That it's Christmas (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4\ub77c\ub294 \uc774\uc720)",
       "url": "https://open.spotify.com/track/3ZFQIKZwvk7SnnUWARrGyi"

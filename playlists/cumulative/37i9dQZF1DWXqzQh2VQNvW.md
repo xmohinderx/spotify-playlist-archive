@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-208 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+209 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [What They Want](https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 2:45 | 2022-01-25 | 2022-09-06 |
 | [When A Girl](https://open.spotify.com/track/7jpcFYI4AEimC0kkFwMiJX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [To Anyone Like Me](https://open.spotify.com/album/7G9XvrcExrKTwxMwGLa3W0) | 3:32 | 2022-01-25 | 2022-09-17 |
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2022-01-25 | 2022-07-09 |
-| [WHO MADE YOU GOD?](https://open.spotify.com/track/33RkgvfErKI9QLp3XwQXC3) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WHO MADE YOU GOD?](https://open.spotify.com/album/7vpNvBh0qxPbbvAoVxry82) | 3:27 | 2022-09-23 |  |
+| [WHO MADE YOU GOD?](https://open.spotify.com/track/1nV6Qser13CumN9rCB1t2l) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WHO MADE YOU GOD?](https://open.spotify.com/album/25m4iN0Zy9rn0SAOxrRi8m) | 3:27 | 2022-11-11 |  |
+| [WHO MADE YOU GOD?](https://open.spotify.com/track/33RkgvfErKI9QLp3XwQXC3) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WHO MADE YOU GOD?](https://open.spotify.com/album/7vpNvBh0qxPbbvAoVxry82) | 3:27 | 2022-09-23 | 2022-11-17 |
 | [Why Can't You Love Me Now](https://open.spotify.com/track/104LG5z9LVvErMHYMhFks4) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Why Can't You Love Me Now](https://open.spotify.com/album/7IkGQqLHEe1pr2wqgQcCnA) | 3:32 | 2022-01-25 | 2022-11-12 |
 | [Wind](https://open.spotify.com/track/0U8aNWUJE16QolpQRSSQvK) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Wind](https://open.spotify.com/album/2fPfyteYuKrbdA4qY0k3oL) | 2:17 | 2022-01-25 | 2022-11-12 |
 

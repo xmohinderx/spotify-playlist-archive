@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,774 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,869 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 18 | [Tigueron y Bonitillo](https://open.spotify.com/track/2APOvBpM9UovumcRC11X9X) | [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Tigueron y Bonitillo](https://open.spotify.com/album/6BsIsxWct0WJ1jYS561HuN) | 2:20 |
 | 19 | [Los Chingones](https://open.spotify.com/track/1vJ1Uh9A7v1OKGi96R0E8b) | [El Mega](https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs), [Don Forty Five](https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT), [Dj Kass](https://open.spotify.com/artist/431Pb5EV8KsCBGTw96ZTQ4), [Eleven One](https://open.spotify.com/artist/00hURkEXPcbILpYmjfo9eR) | [Los Chingones](https://open.spotify.com/album/1pjdpYJl4xIOlBkM3hRV1e) | 3:27 |
 | 20 | [Calle](https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Calle](https://open.spotify.com/album/69UK8GlVtjwme70scA812r) | 2:32 |
-| 21 | [PIKETE](https://open.spotify.com/track/69XWB6d8jfp3kHxH4ijpjn) | [Soco Francis](https://open.spotify.com/artist/0ypIUKDpxlUEon3Y7VG8Ij), [CHOCO](https://open.spotify.com/artist/6YJ26RHT3zLf3Qkq9onU0d), [Milo K](https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi), [AleAlba](https://open.spotify.com/artist/28BePZ83jnALNI0uy1l0h8) | [PIKETE](https://open.spotify.com/album/62uKzWqLMKInsY2aU8qJ2y) | 3:13 |
+| 21 | [PIKETE](https://open.spotify.com/track/69XWB6d8jfp3kHxH4ijpjn) | [Soco Francis](https://open.spotify.com/artist/0ypIUKDpxlUEon3Y7VG8Ij), [CHOCO](https://open.spotify.com/artist/6YJ26RHT3zLf3Qkq9onU0d), [Milo K](https://open.spotify.com/artist/4Ay2R2S9e7fW4QzLyBzkWi), [AleAlba](https://open.spotify.com/artist/28BePZ83jnALNI0uy1l0h8), [Xtyler Homie](https://open.spotify.com/artist/55p8anEdxNUBVSYhpkfvIy) | [PIKETE](https://open.spotify.com/album/62uKzWqLMKInsY2aU8qJ2y) | 3:13 |
 | 22 | [Un Uber](https://open.spotify.com/track/0kHmK20ufcy25b8NCJbURg) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Un Uber](https://open.spotify.com/album/4UtReDihY2fUNxrEfKgOMt) | 2:07 |
 | 23 | [Nuevo](https://open.spotify.com/track/5G6AOw6uR9i8vN2luzCeCU) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Nuevo](https://open.spotify.com/album/3fE2JhTySAjvtcb6LiHK6g) | 3:23 |
 | 24 | [Los Hijos De Chucky73](https://open.spotify.com/track/5vTxhnFniSdhBbkHPgUlkg) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Los Hijos De Chucky73](https://open.spotify.com/album/3N17xdBy62gklLjwBegFyr) | 3:07 |

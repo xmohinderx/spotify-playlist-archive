@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain]
 
 > Listen to family\-favorite tunes from the hit series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 896 likes - 68 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 906 likes - 68 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Homophones](https://open.spotify.com/track/4O6evBaK0KOsEMKB7faT5e) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:06 |
+| 1 | [Homophones](https://open.spotify.com/track/02GQZVIcHw22XGMPoO53Ix) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:06 |
 | 2 | [Ask The StoryBots Theme](https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 1 \(Music From The Original Series\)](https://open.spotify.com/album/1SKApykupjLWWole4UiXoT) | 1:00 |
 | 3 | [Tyrannosaurus Rex](https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:22 |
 | 4 | [I'm A Star](https://open.spotify.com/track/2ELPm0STSDhcrxaCxbepXy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:24 |
-| 5 | [Long A, Short A](https://open.spotify.com/track/6spEuWjJ9uowNyRZQXhvwm) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 0:58 |
-| 6 | [Long E, Short E](https://open.spotify.com/track/3ZDqCU5lg8avzLeqyFTXUy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:10 |
-| 7 | [Long I, Short I](https://open.spotify.com/track/0SfSjP3rUgtO9lyBNZ2KR3) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:02 |
+| 5 | [Long A, Short A](https://open.spotify.com/track/0ngdWXhCLnorZ5Lba4jzLs) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 0:58 |
+| 6 | [Long E, Short E](https://open.spotify.com/track/20UUw80eNbsA9AqJSfT1xc) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:10 |
+| 7 | [Long I, Short I](https://open.spotify.com/track/63WSiYW49jMMP2vkvsVTyz) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:02 |
 | 8 | [Long O, Short O](https://open.spotify.com/track/4l7eJHscg5dXFHkcvv4Kn0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:05 |
-| 9 | [Long U, Short U](https://open.spotify.com/track/508v2rlhoEKX3DuYtmrIDp) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:06 |
+| 9 | [Long U, Short U](https://open.spotify.com/track/2Kz0bx1MZAwMQdTxBgOCMj) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:06 |
 | 10 | [Hooray For A](https://open.spotify.com/track/13HH6tvt6HZDlr9wbk8vhm) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots ABC Jamboree](https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit) | 1:06 |
 | 11 | [We Are The Planets](https://open.spotify.com/track/6T6reDGarkisz8OraafLRy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Ask The StoryBots: Season 3 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/51GT17yuHO7LjfxsCv5Ycl) | 1:41 |
 | 12 | [Dance With The Elephant](https://open.spotify.com/track/5beNJ1G7fFrGdFVuzGbY1i) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 |
 | 13 | [The Number 1](https://open.spotify.com/track/3od7ScpSzUrHJUZhFrsItx) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Number Songs](https://open.spotify.com/album/12qiCs4mfr5VBcBdPZGdZs) | 1:03 |
-| 14 | [TH Song](https://open.spotify.com/track/4GlYnnfEOpaoC4uPWKdJKp) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:05 |
-| 15 | [PH Song](https://open.spotify.com/track/6pATWA5ni629WR3f8K2Wvn) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:03 |
+| 14 | [TH Song](https://open.spotify.com/track/7fISEDFqkcp0kmZcLf1K1n) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:05 |
+| 15 | [PH Song](https://open.spotify.com/track/3lmzChu8fzHzJ3AXrk2rJ1) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:03 |
 | 16 | [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 |
 | 17 | [Time To Shine \(Moon\)](https://open.spotify.com/track/09U5srVCG0hdZefpsM1Jr0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Outer Space](https://open.spotify.com/album/08m7XiPnd4Q1qRqZAUB4s4) | 1:38 |
 | 18 | [Velociraptor](https://open.spotify.com/track/3ETv7fjrubVIMxu8aatLBj) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Dinosaurs Songs](https://open.spotify.com/album/6SOJ7P1HeZFSAyX6CXr5FK) | 1:16 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qrEuz2goXu.md) - [plain]
 | 67 | [Try Y](https://open.spotify.com/track/1l4HPf06DnqLKp0OhaUCj2) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots ABC Jamboree](https://open.spotify.com/album/6UnVVc428Wv2DfkDC1lTit) | 1:02 |
 | 68 | [Pig](https://open.spotify.com/track/73uVWxBoBHFxTag6M3yhJx) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Barnyard Animals](https://open.spotify.com/album/403tzoAnsEj45HS4eyNUIZ) | 1:20 |
 
-Snapshot ID: `MTY1OTQ1ODg4MywwMDAwMDAwMDcxNjI3MzA3NGYwN2VkM2QyZjc5NGE4YjVmMTJhYjhi`
+Snapshot ID: `MTY1OTQ1ODg4MywwMDAwMDAwMDNlOGZiYThlZDM0ZTQzODM0YmUwMDUxMzdlNmUzMGMy`

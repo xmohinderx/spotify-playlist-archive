@@ -4,7 +4,7 @@
 
 > Are you afraid of the dark?
 
-201 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
+202 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0SUJWBdRSbTiE40kDxwve2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 | 2021-11-01 |  |
 | [Love Is a Real Place](https://open.spotify.com/track/35a1pcDwARb6heYFO3gkKx) | [The Crayon Set](https://open.spotify.com/artist/5w7xIHvMgSdV2rjkNRVKnW) | [Love Is a Real Place](https://open.spotify.com/album/6x6pxXPd1eRXZzpEFNS2Av) | 3:42 | 2022-10-15 |  |
 | [Messing](https://open.spotify.com/track/2wloteObIm2R5HC1zgijBI) | [Hussy](https://open.spotify.com/artist/6GlHnc09wnTmBC43d5NtL8) | [Hussy](https://open.spotify.com/album/19oTVM7p7W8JA53RL6p8gL) | 3:29 | 2021-11-01 | 2022-09-15 |
-| [Milky](https://open.spotify.com/track/6TEDvriGdoz4bVaCyXCJRY) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/1FftaeMeVTstmjMD09gqlX) | 4:01 | 2022-09-21 |  |
+| [Milky](https://open.spotify.com/track/6SSApQjEIaX0xy8fF9nzjf) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/5wQpv9txTYej5QleKS8ImH) | 4:01 | 2022-11-01 |  |
+| [Milky](https://open.spotify.com/track/6TEDvriGdoz4bVaCyXCJRY) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [En Bloc](https://open.spotify.com/album/1FftaeMeVTstmjMD09gqlX) | 4:01 | 2022-09-21 | 2022-11-17 |
 | [Milky](https://open.spotify.com/track/6HLS4uoqTbEvdUmV8FKGMh) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Milky](https://open.spotify.com/album/3e2ZqbIIombCtqvIMTka3r) | 4:01 | 2021-11-01 | 2022-09-24 |
 | [Miracle of Life](https://open.spotify.com/track/3TVW2JepPAdMWNUQod7pvT) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/6r7NnlJTvrk6n0hGoachzr) | 3:36 | 2021-11-01 | 2022-07-29 |
 | [Miracle of Life](https://open.spotify.com/track/7ypqr1r0iQSrkF9eP21wjh) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Miracle of Life](https://open.spotify.com/album/2zhLqLBVarC5FcaYC3CfZx) | 3:36 | 2022-01-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,882 likes - 19 songs - 49 min 29 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,887 likes - 19 songs - 49 min 29 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmaCKRqSTEw.md) - [plain]
 | 12 | [New York, New York \- Cover](https://open.spotify.com/track/4PKBnHyHqXGjVXFuiGK0Jp) | [Bermuda Kills](https://open.spotify.com/artist/77xksHBmH0nrQ8kTUZmwH6) | [New York, New York \(Cover\)](https://open.spotify.com/album/64Gy446NyhC2CmbVMac8v4) | 3:23 |
 | 13 | [No Sweat](https://open.spotify.com/track/2p1FYe6RRNm7xl3xy6j1gv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [No Sweat](https://open.spotify.com/album/7uMPr1RFVVffsjyQ2j3zWZ) | 2:17 |
 | 14 | [2x2](https://open.spotify.com/track/3h4ssrSHeGLooWrFMJXnYa) | [Kiki Riggs](https://open.spotify.com/artist/11Mgr4ti2uhpmBr6rJmIkB) | [2x2](https://open.spotify.com/album/3aIEiLD66Ud9nOermY8pT3) | 2:02 |
-| 15 | [Vivian Connects The Dots](https://open.spotify.com/track/4gnvkgziSWeOajYAQfg1jT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/4ryUHVYdq9dJXyr1Doc1lD) | 1:38 |
+| 15 | [Vivian Connects The Dots](https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM) | 1:38 |
 | 16 | [First Class Bitch](https://open.spotify.com/track/5wIuzHBxFEM6TXwAvg6Xxo) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [First Class Bitch](https://open.spotify.com/album/7EgYldvSDOCj4DBJm7JJgk) | 3:01 |
 | 17 | [WOW \(Look At Me\)](https://open.spotify.com/track/1zwyg3yZlh4zYk4i5oJAN5) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [WOW \(Look At Me\)](https://open.spotify.com/album/1SlAViaRrfVaDRsSvjoe0f) | 2:26 |
 | 18 | [The Pines](https://open.spotify.com/track/0uTw7TNnYn64XmCAo5jr0c) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 19 | [I'm Good](https://open.spotify.com/track/2JHnZr94NIAJ2Klv8LyeeU) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [I'm Good](https://open.spotify.com/album/7J0ZIqCXonETepPyPf1Eka) | 2:28 |
 
-Snapshot ID: `MTY0NzYzMDAwNywwMDAwMDAwMDMyYjAwNzRhYTI1MjBlOTA2Mjg0ZGQyNjljMzA1YTIz`
+Snapshot ID: `MTY0NzYzMDAwNywwMDAwMDAwMDdhM2UyOGE0ZjdlN2U4YTM2NjUxNWFmODYzMDJiMzUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > When the bassline slaps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,214 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,292 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 50 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg) | [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/2huyFjU98NZADNSnh7uerA) | 2:38 |
 | 51 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
 | 52 | [One Last Dance](https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [One Last Dance](https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2) | 2:29 |
-| 53 | [I Just Wanna Dance](https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD) | 2:34 |
-| 54 | [Lemonade](https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF) | [HIMATE](https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc), [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd) | [Lemonade](https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O) | 2:19 |
-| 55 | [Tóxica](https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tóxica](https://open.spotify.com/album/0yBwP7KmTOqkzhLDzUfQRe) | 2:20 |
+| 53 | [Lemonade](https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF) | [HIMATE](https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc), [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd) | [Lemonade](https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O) | 2:19 |
+| 54 | [Tóxica](https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Tóxica](https://open.spotify.com/album/0yBwP7KmTOqkzhLDzUfQRe) | 2:20 |
+| 55 | [I Just Wanna Dance](https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD) | 2:34 |
 | 56 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 |
 | 57 | [Barking](https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [WISEKIDS](https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2) | [Barking](https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT) | 2:19 |
 | 58 | [redruM \- Robin Schulz Remix](https://open.spotify.com/track/6Jl7TcHDKlM8pBfupmRpwp) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [redruM \(Robin Schulz Remix\)](https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea) | 2:56 |
 | 59 | [Wenn du mich siehst \- RIBELLU Remix](https://open.spotify.com/track/75HcbS3oSzIR5HMD95sDRI) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [RIBELLU](https://open.spotify.com/artist/2cV70GHs4YKfI5OHSy1mJt) | [Wenn du mich siehst \(RIBELLU Remix\)](https://open.spotify.com/album/1Hc0aChcGLmdnkSJSz6sdQ) | 2:18 |
 | 60 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [SØLO](https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
 
-Snapshot ID: `MTY2ODE1OTQyNiwwMDAwMDAwMGMxNjYzZTljZTNlZDBiZWVlYTJjMTM0NzIxOTkxODQ3`
+Snapshot ID: `MTY2ODE1OTQyNiwwMDAwMDAwMDdjMzdhZTAzMWYxZTI4ZmNlY2E4ZjM5Mzg2ODM3N2I5`

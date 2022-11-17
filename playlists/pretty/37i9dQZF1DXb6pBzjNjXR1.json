@@ -1,12 +1,12 @@
 {
   "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here.",
-  "num_followers": 1148,
+  "num_followers": 1176,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQxNjA3OSwwMDAwMDAwMDg1YTI0ZGRjYmQzZjZlZmQ2ZWM1MDc0YWVlNDU0MjEw",
+  "snapshot_id": "MTY2ODYyNDMyOSwwMDAwMDAwMDdiNjRmMTNmMzUyZWZmMWUzYjU4NjcwMjg4MDdmNTlh",
   "tracks": [
     {
       "added_at": "2022-10-31 13:16:35",
@@ -193,6 +193,26 @@
       "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
     },
     {
+      "added_at": "2022-11-16 18:45:28",
+      "album": {
+        "name": "Ngilinde (feat. Mango SA)",
+        "url": "https://open.spotify.com/album/0n0qkaAvQKWrQwwzJuLNWQ"
+      },
+      "artists": [
+        {
+          "name": "YANII",
+          "url": "https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7"
+        },
+        {
+          "name": "Mango SA",
+          "url": "https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Ngilinde (feat. Mango SA)",
+      "url": "https://open.spotify.com/track/7nLwR3QysknGglnJ3zxe83"
+    },
+    {
       "added_at": "2022-10-31 13:16:35",
       "album": {
         "name": "Tout S'en Va",
@@ -235,26 +255,6 @@
       "duration_ms": 320312,
       "name": "Zimbi Iindaba (feat. Natasha M)",
       "url": "https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B"
-    },
-    {
-      "added_at": "2022-10-03 09:30:02",
-      "album": {
-        "name": "Ngilinde",
-        "url": "https://open.spotify.com/album/0DyufT2LS0aq4ErE8s6hCG"
-      },
-      "artists": [
-        {
-          "name": "YANII",
-          "url": "https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7"
-        },
-        {
-          "name": "Mango SA",
-          "url": "https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "Ngilinde",
-      "url": "https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT"
     },
     {
       "added_at": "2022-08-11 21:50:10",

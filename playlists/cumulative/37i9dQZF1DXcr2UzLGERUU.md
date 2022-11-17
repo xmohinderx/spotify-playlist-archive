@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-140 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/1b0fcaaDfDUE8YINvG3jb0)
+141 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/1b0fcaaDfDUE8YINvG3jb0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [I See You](https://open.spotify.com/track/7oSNewCJbMcq89jrMCOWzO) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM), [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 1:45 | 2022-04-01 |  |
 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 | 2022-04-01 |  |
 | [I'll Always Love You](https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6) | 2:53 | 2022-04-01 | 2022-07-29 |
-| [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 | 2022-04-01 |  |
+| [I'll Always Love You](https://open.spotify.com/track/6xY7CmImqIfHHlesaUg2oO) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2TUshFZxuXqiX6KOKoj6CP) | 2:53 | 2022-04-01 | 2022-11-17 |
+| [I'll Always Love You](https://open.spotify.com/track/7nZf4oOrYSOnlDSPiObea9) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH), [Winter River](https://open.spotify.com/artist/3qbipbZdbYVPJUroZzAoLA) | [Netflix Jr\. Jams: Vol\. 3](https://open.spotify.com/album/2Zc0nzqLHanTAqcnlltkEz) | 2:53 | 2022-04-01 |  |
 | [If There Is A Song](https://open.spotify.com/track/5Yvm5MxwVNoLdNgy2zpSEW) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Lullabies for Adults & Children](https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX) | 2:43 | 2022-04-01 |  |
 | [If You Can't Sleep](https://open.spotify.com/track/7AMcaukss7ZzlLDe6bLALN) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/221n4vc2VnAGUyOrhKDNjX) | 2:48 | 2022-04-01 | 2022-07-29 |
 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 | 2022-04-01 |  |

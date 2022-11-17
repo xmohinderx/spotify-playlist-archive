@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from GloRilla, Drake, 21 Savage, NLE Choppa, Masego, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,670 likes - 126 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,747 likes - 126 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

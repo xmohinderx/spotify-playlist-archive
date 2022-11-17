@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 184215,
       "name": "A 120",
       "url": "https://open.spotify.com/track/0QVO7hp0nL0IJXcjz0gRIb"
@@ -1726,6 +1726,24 @@
     },
     {
       "album": {
+        "name": "Born To Be Free",
+        "url": "https://open.spotify.com/album/2vAG98yZyBRSHHgrk95Ssv"
+      },
+      "artists": [
+        {
+          "name": "Joe Mesmar",
+          "url": "https://open.spotify.com/artist/6FcKiLiXqVUbEOAe7hhTua"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431612,
+      "name": "Born To Be Free",
+      "url": "https://open.spotify.com/track/3NxiLykyGpgdC82v2xUJij"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/5aw4wm2nZtKrilz0CcTeD8"
       },
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 201280,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 143971,
       "name": "Darte",
       "url": "https://open.spotify.com/track/01mWlpEyZqCGhBux8Dzgwv"
@@ -3075,7 +3093,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
@@ -7883,7 +7901,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 190749,
       "name": "Me Vas a Recordar",
       "url": "https://open.spotify.com/track/5oL6fZD5C2Yhw2jiiV2vIW"
@@ -12602,6 +12620,24 @@
     },
     {
       "album": {
+        "name": "Touch Your Body",
+        "url": "https://open.spotify.com/album/2CmdgXCdu7yI6Vs6YKVfmp"
+      },
+      "artists": [
+        {
+          "name": "DTB-Sav",
+          "url": "https://open.spotify.com/artist/3YUTHijmsSEKh6T3h10zix"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157487,
+      "name": "Touch Your Body",
+      "url": "https://open.spotify.com/track/1yeOnjlpciOziu5g9JC3za"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -13235,6 +13271,28 @@
       "duration_ms": 192000,
       "name": "Vaina Cara",
       "url": "https://open.spotify.com/track/1jlCndlFWOWUl1YXETLB2h"
+    },
+    {
+      "album": {
+        "name": "Vamo a Toda",
+        "url": "https://open.spotify.com/album/6NneZTwj7ksSZ962iYLIv3"
+      },
+      "artists": [
+        {
+          "name": "The Willsi",
+          "url": "https://open.spotify.com/artist/4MbvF2hlj5qeYCY7QXPzvB"
+        },
+        {
+          "name": "El Mega",
+          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163402,
+      "name": "Vamo a Toda",
+      "url": "https://open.spotify.com/track/4zoKgshm1fTrAHk0SBuvni"
     },
     {
       "album": {

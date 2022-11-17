@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=zd9KdswjToOZz0yATQGsJQ"> Nikita Kering' </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,322 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,361 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 17 | [Scatta Scatta](https://open.spotify.com/track/0n3APmjHt7yTBeHhRB8rcy) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Scatta Scatta](https://open.spotify.com/album/5YnANprNm0DTEVVsJE6bRP) | 3:15 |
 | 18 | [Miniskirt](https://open.spotify.com/track/1xzb7fv8KZpqPnniAOOjG9) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Miniskirt](https://open.spotify.com/album/7hxbgm40CDChTGr1SyVuq6) | 2:45 |
 | 19 | [Soft Life](https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Soft Life](https://open.spotify.com/album/4SMEuZNsSLvJoebKfQYycJ) | 2:48 |
-| 20 | [Want](https://open.spotify.com/track/38AgRYUhjDqgOpnD0S7UaK) | [NINIOLA](https://open.spotify.com/artist/11HOpydR4NOxdsY1zI8DSl) | [Want](https://open.spotify.com/album/6kKAshdIwNJDFwu6dZKYLR) | 2:56 |
+| 20 | [Want](https://open.spotify.com/track/02tjRcuUEbcnRMMe3fpkb6) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Want](https://open.spotify.com/album/3hgQ0OBsoENzX0VCDbVWlJ) | 2:59 |
 | 21 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 |
 | 22 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
 | 23 | [Would You Like That](https://open.spotify.com/track/7l3TCgaa7no82h2jc4jML5) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Would You Like That](https://open.spotify.com/album/186IK7qexy8GehSPPOW5PF) | 2:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 79 | [Kuhle](https://open.spotify.com/track/3zREQOl1i8W37OkMN9ztpN) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Kuhle](https://open.spotify.com/album/6ln73dm4ppPQn2REwrAYRD) | 3:27 |
 | 80 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 |
 
-Snapshot ID: `MTY2ODE0NDkxNiwwMDAwMDAwMDkwOGU1N2FlZGJmM2U3M2Q5M2FlODcxYWU4ODQ4Yzk1`
+Snapshot ID: `MTY2ODE0NDkxNiwwMDAwMDAwMDRhM2Q4NTQxZDZlYWI3ZTgzZGJmZWQ0ZWI0NDdhODU4`

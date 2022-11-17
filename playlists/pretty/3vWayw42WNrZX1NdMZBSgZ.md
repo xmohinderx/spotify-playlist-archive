@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Tokischa, Natanael Cano
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,714 likes - 336 songs - 18 hr 26 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,715 likes - 336 songs - 18 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

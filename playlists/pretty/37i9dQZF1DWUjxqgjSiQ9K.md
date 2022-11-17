@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  Susy Gonzalez
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,823 likes - 102 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,958 likes - 102 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Una Nueva Historia \- Espanhol](https://open.spotify.com/track/40ElYEtYTuKC56EwgJltaL) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Una Nueva Historia \(Espanhol\)](https://open.spotify.com/album/75GTKHL6mcZG5B4Yx6bxG5) | 4:32 |
-| 2 | [Yeshua el Sonido de Libertad](https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Willy Gonzalez](https://open.spotify.com/artist/7jeejZx2yIqAnm6tZZJxk2) | [Yeshua el Sonido de Libertad](https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0) | 5:23 |
+| 2 | [Yeshua el Sonido de Libertad](https://open.spotify.com/track/0LDQ2ouudjOH7d8ECeFAyn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Yeshua el Sonido de Libertad](https://open.spotify.com/album/30TlihsK5Z82paAmsorcB0) | 5:23 |
 | 3 | [No Hay Otro Amor Igual](https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [No Hay Otro Amor Igual](https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe) | 6:15 |
 | 4 | [Acepta \(Live\)](https://open.spotify.com/track/41AA0qum08M6IFG1GcoHNz) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder \(Live\)](https://open.spotify.com/album/745LEHgUFX9cFvF68KVgBx) | 7:53 |
 | 5 | [Tu Reino Está Aquí](https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 5:33 |

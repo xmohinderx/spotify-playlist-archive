@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Darius Rucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,290 likes - 133 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,332 likes - 133 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

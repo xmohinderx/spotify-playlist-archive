@@ -4,7 +4,7 @@
 
 > You're on Spring Break...turn it up and start acting like it!
 
-68 songs - 4 hr 32 min - [published](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
+69 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 | 2014-02-21 |  |
 | [Ain't My B\*tch](https://open.spotify.com/track/2aWaXzlYMeDeqxbnVErhOB) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/2MD9zkmkFbrVyWy23nnAZQ) | 5:04 | 2014-02-21 | 2022-07-29 |
 | [Ain't My B\*tch](https://open.spotify.com/track/7LMeflTW3D3JRKaA2JK9KJ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec) | 5:04 | 2022-07-29 |  |
-| [Asian Hooker](https://open.spotify.com/track/4Jaq2AFMgvXl35t6AjctAn) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67) | 4:02 | 2014-02-21 |  |
+| [Asian Hooker](https://open.spotify.com/track/4Jaq2AFMgvXl35t6AjctAn) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67) | 4:02 | 2014-02-21 | 2022-11-17 |
+| [Asian Hooker](https://open.spotify.com/track/67kTc65roN64YttSu3Go1b) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/4SICJohKsdlQS3AW3Spg84) | 4:02 | 2022-11-17 |  |
 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 | 2014-02-21 |  |
 | [Berzerk](https://open.spotify.com/track/3dkKXwgAmYTf2TwYds2E12) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Berzerk](https://open.spotify.com/album/0xEWUkOA3GI7BJdtzTYRWR) | 3:58 | 2014-02-21 | 2022-07-29 |
 | [Berzerk](https://open.spotify.com/track/10WswZVDTu9dkEzChThMLV) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) | 3:58 | 2022-11-12 | 2022-11-13 |

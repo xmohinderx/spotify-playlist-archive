@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 53628,
+  "num_followers": 53667,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDQ3Mzk1MmFlYzRiOTRjZDkyMGMxMmI5YmUxMGFiZDYx",
+  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDI3ZTZiNzhkNjEwMTE2NDA3MzM1ZTI2OTU5Y2VjMmU3",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
-        "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Por Mujeres Como T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "1 Vida \u2013 3 Historias Despedida De Culiacan (En Vivo Desde Culiacan, Mexico 2012)",
         "url": "https://open.spotify.com/album/504V91nbehQse2zsrqNzHs"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 181613,
       "name": "Porqu\u00e9 No Le Calas - Live",
       "url": "https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "La Familia Aguilar En Vivo (Live At The Plaza De Toro / Mexico City, MX / July 1998)",
+        "url": "https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Por Mujeres Como T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lucero En Vivo Auditorio Nacional",
-        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
+        "name": "Mujeres con Mariachi",
+        "url": "https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 187177,
-      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
+      "duration_ms": 230133,
+      "name": "La Gran Se\u00f1ora - Live",
+      "url": "https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -831,18 +831,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mujeres con Mariachi",
-        "url": "https://open.spotify.com/album/5HOlH78OGhLQx35UudXbPY"
+        "name": "Lucero En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
         }
       ],
-      "duration_ms": 230133,
-      "name": "La Gran Se\u00f1ora - Live",
-      "url": "https://open.spotify.com/track/7tdHYlgbQJUTXACQ1I9cqk"
+      "duration_ms": 187177,
+      "name": "Que Te Ruegue Quien Te Quiera - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0EZCOy96laC9mvbnoogHRz"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Enamorada En Vivo",
-        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 290413,
-      "name": "Tristes Recuerdos - En Vivo",
-      "url": "https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Lucero En Vivo Auditorio Nacional",
         "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 266821,
       "name": "Cielo Rojo - En Vivo Auditorio Nacional",
       "url": "https://open.spotify.com/track/6MXu4vPjcCVKJdPsU0vhyc"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Enamorada En Vivo",
+        "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 290413,
+      "name": "Tristes Recuerdos - En Vivo",
+      "url": "https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9"
     },
     {
       "added_at": "2021-12-29 23:15:19",

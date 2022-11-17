@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,842 likes - 67 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,859 likes - 67 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 59 | [Dehi](https://open.spotify.com/track/3dcxfK2dv5Wx41biEuRiZd) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [Dehi](https://open.spotify.com/album/3JwEPc7W3rVTRv0rfHaHw5) | 4:33 |
 | 60 | [Kaun Karat Tori](https://open.spotify.com/track/5PtXYu9VicndmpxSlBBJiE) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Ricky Mishra](https://open.spotify.com/artist/7mYlkjAhTUxmsmhaQdM9wE) | [Kaun Karat Tori](https://open.spotify.com/album/0Etxqxv754zfzSmIIDCI3S) | 4:57 |
 | 61 | [Entharo Pallavi & Charanam](https://open.spotify.com/track/4RIsoFzJNlHPhDso4oN2wF) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 4:54 |
-| 62 | [Darbari](https://open.spotify.com/track/20bzZEYSjIxfyUUW1McxNC) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl) | 5:16 |
+| 62 | [Darbari](https://open.spotify.com/track/1i3czNhlQb0InQ3NKyvgdd) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/1PAqoTpGkISBuLWYUdrxra) | 5:16 |
 | 63 | [Sakhi Tore Naina](https://open.spotify.com/track/2lY5KsyD4zAHE0c3VjQx1o) | [Alchemy](https://open.spotify.com/artist/3wtbgKMLTqcBw9vDjbyDLP) | [Izhaar](https://open.spotify.com/album/2zJyzV6ipeDC3ljFOWmYND) | 4:37 |
 | 64 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 |
 | 65 | [Malhar Jam](https://open.spotify.com/track/3r3CObkpZZZdE3ku4cAETG) | [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Best of Coke Studio @ MTV Season, 2](https://open.spotify.com/album/1GIBAN61IL1pabms1VRRHK) | 6:08 |
 | 66 | [Luki \- Live](https://open.spotify.com/track/6ZtmKFdnEqyRaOcMKwWRsA) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Remember Shakti: Saturday Night In Bombay](https://open.spotify.com/album/6qD0dBDPOasER1sWmfLjuZ) | 5:38 |
 | 67 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 |
 
-Snapshot ID: `MTY2MzkxMTMxMSwwMDAwMDAwMGMwNjZlM2ExZGRiZTU1OWVkN2RlN2Q3MzlkNDYzZWM1`
+Snapshot ID: `MTY2MzkxMTMxMSwwMDAwMDAwMDk2MjdmZWMyMjcxZGRjNWY0MzA4OTA2MmM0N2Y1OGE4`

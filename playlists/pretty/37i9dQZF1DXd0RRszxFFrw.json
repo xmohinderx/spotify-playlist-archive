@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 42998,
+  "num_followers": 43029,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDAzMzJkNWZjYzM3NDAzNmYwNTM4ZjY0NzEwMDkzOGM5",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDAyN2YxYzEzYTFjM2RhMGE2ZDkxMWFjODUwODJjNzhk",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Sol Luna Tierra",
-        "url": "https://open.spotify.com/album/0AkGAyCe6uqilxSFb0LLbd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Linstead",
-          "url": "https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm"
-        }
-      ],
-      "duration_ms": 320920,
-      "name": "Between Tears",
-      "url": "https://open.spotify.com/track/20Cza13QvCTbsOYD5jTSuy"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Muniesa",
         "url": "https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 126688,
       "name": "Montalba\u0301n",
       "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Sol Luna Tierra",
+        "url": "https://open.spotify.com/album/0AkGAyCe6uqilxSFb0LLbd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Linstead",
+          "url": "https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm"
+        }
+      ],
+      "duration_ms": 320920,
+      "name": "Between Tears",
+      "url": "https://open.spotify.com/track/20Cza13QvCTbsOYD5jTSuy"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Vibrante",
-        "url": "https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Vargas Luna",
-          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
-        }
-      ],
-      "duration_ms": 196111,
-      "name": "Vibrante",
-      "url": "https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 160850,
       "name": "Blue Bossa",
       "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Vibrante",
+        "url": "https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Vargas Luna",
+          "url": "https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O"
+        }
+      ],
+      "duration_ms": 196111,
+      "name": "Vibrante",
+      "url": "https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -339,30 +339,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
       },
@@ -391,6 +367,30 @@
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -523,22 +523,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "A Brand New World",
+        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
       },
       "artists": [
         {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
         }
       ],
-      "duration_ms": 241412,
-      "name": "Bossa de Leblon",
-      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
+      "duration_ms": 142560,
+      "name": "Bossa Bravado",
+      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -559,18 +555,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "A Brand New World",
-        "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
         }
       ],
-      "duration_ms": 142560,
-      "name": "Bossa Bravado",
-      "url": "https://open.spotify.com/track/6okyzUui51pNetfcXT40zu"
+      "duration_ms": 241412,
+      "name": "Bossa de Leblon",
+      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "The Little Island Bossa",
-        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 246128,
-      "name": "The Little Island Bossa",
-      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Re-Foc",
         "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 254933,
       "name": "30 De Marzo",
       "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "The Little Island Bossa",
+        "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 246128,
+      "name": "The Little Island Bossa",
+      "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Ibiza Sunset",
+        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 168432,
+      "name": "Ibiza Sunset",
+      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ibiza Sunset",
-        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
       },
       "artists": [
         {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
         }
       ],
-      "duration_ms": 168432,
-      "name": "Ibiza Sunset",
-      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Estrellita",
         "url": "https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz"
       },
@@ -763,22 +763,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Querencia",
-        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
+        "name": "Senior Emilio",
+        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
       },
       "artists": [
         {
-          "name": "Gerardo Tamez",
-          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
-        },
-        {
-          "name": "Terceto De Guitarras De La Ciudad De Mexico",
-          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
+          "name": "Diego Fernandez",
+          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
         }
       ],
-      "duration_ms": 219786,
-      "name": "Tierra Mestiza",
-      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
+      "duration_ms": 278675,
+      "name": "Senior Emilio",
+      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -799,18 +795,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Senior Emilio",
-        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
       },
       "artists": [
         {
-          "name": "Diego Fernandez",
-          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
+          "name": "Gerardo Tamez",
+          "url": "https://open.spotify.com/artist/6kX0LY1Cv1cE5FbsiSHwCF"
+        },
+        {
+          "name": "Terceto De Guitarras De La Ciudad De Mexico",
+          "url": "https://open.spotify.com/artist/0ny4eZbPXPp631aVhUi7qV"
         }
       ],
-      "duration_ms": 278675,
-      "name": "Senior Emilio",
-      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
+      "duration_ms": 219786,
+      "name": "Tierra Mestiza",
+      "url": "https://open.spotify.com/track/2s4SLxIaORw4KQSMIyMb9l"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Asi lo siento",
-        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
-      },
-      "artists": [
-        {
-          "name": "Rafael Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Vivienne - Rumba",
-      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Ilha Do Amor",
         "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 147179,
       "name": "Ilha Do Amor",
       "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Asi lo siento",
+        "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Vivienne - Rumba",
+      "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
-      },
-      "artists": [
-        {
-          "name": "Ronny Davis",
-          "url": "https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt"
-        }
-      ],
-      "duration_ms": 178515,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Herencia de Valencia",
         "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 198813,
       "name": "Herencia de Valencia",
       "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
+      },
+      "artists": [
+        {
+          "name": "Ronny Davis",
+          "url": "https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt"
+        }
+      ],
+      "duration_ms": 178515,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
     },
     {
       "added_at": "2022-10-27 22:01:00",

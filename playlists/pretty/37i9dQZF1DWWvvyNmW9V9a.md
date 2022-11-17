@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > gasping at Jack Antonoff rolling his eyes singing Taylor, you’ll be fine 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,711,686 likes - 107 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711,967 likes - 107 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

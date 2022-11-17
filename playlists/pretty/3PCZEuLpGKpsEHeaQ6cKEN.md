@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Carola, GUI2IN, Jordan Grace
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,156 likes - 151 songs - 7 hr 50 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 285,145 likes - 151 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

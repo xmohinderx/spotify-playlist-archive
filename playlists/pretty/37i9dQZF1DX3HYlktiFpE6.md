@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,070 likes - 57 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,093 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 46 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 | 47 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 | 48 | [Give Your Heart a Break](https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Anthem Lights Covers](https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7) | 3:36 |
-| 49 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 |
-| 50 | [The Final Countdown](https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:15 |
+| 49 | [The Final Countdown](https://open.spotify.com/track/219eMYSoZBDsGb2ISHc5Xr) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:15 |
+| 50 | [F\*\*k You](https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH) | [The Sockapellas](https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd) | [Pitch Perfect \(More Music From The Motion Picture\) EP](https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS) | 1:12 |
 | 51 | [Grace Kelly \- Studio Version](https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu) | [The Whiffenpoofs](https://open.spotify.com/artist/70kYiT1DhBuwkjGzASOeYV) | [The Sing\-Off: The Best of Season 2](https://open.spotify.com/album/3Kh7U1zy45wEM6yWGvIFcR) | 3:18 |
 | 52 | [A\-Punk](https://open.spotify.com/track/1sCN83vh7rzQ2d7UGAsoga) | [Rockapella](https://open.spotify.com/artist/1AFSUleuDTapVhm5zUf4ix) | [Bang](https://open.spotify.com/album/3y7Sk6v8mTAv1KPNKO4pMV) | 2:21 |
 | 53 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 |
 | 57 | [Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love](https://open.spotify.com/track/191HHrs8Bwa8VZ4IJ2iG67) | [The Dartmouth Aires](https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD) | [The Sing\-Off: Season 3: Episode 7 \- Superstar Medleys](https://open.spotify.com/album/1cb5FqA1gFh91KwvSSujcc) | 3:24 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDEyMTgwM2YyMjE3YmNhMzAyNmQwNTA1ZWQ0MWQ0MzJh`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMGQwODNjYWExYzVhNTUzYmVmNDc3NDdmZDcwYjY1YThh`

@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Be Nice 2 Me",
+        "url": "https://open.spotify.com/album/7Anx02Gh6cudTssi1UVeD8"
+      },
+      "artists": [
+        {
+          "name": "0505blade",
+          "url": "https://open.spotify.com/artist/0Kz2acmNyU0C5qSucA0Ist"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127849,
+      "name": "Be Nice 2 Me",
+      "url": "https://open.spotify.com/track/7qqDKokSG1AdTT0co9TUhO"
+    },
+    {
+      "album": {
         "name": "Icedancer",
         "url": "https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 127791,
       "name": "Be Nice 2 Me",
       "url": "https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf"

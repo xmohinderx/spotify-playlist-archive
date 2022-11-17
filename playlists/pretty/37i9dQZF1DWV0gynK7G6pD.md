@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yo\-Yo Ma, Leonidas Kavakos & Emanuel Ax
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,730 likes - 74 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,847 likes - 74 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

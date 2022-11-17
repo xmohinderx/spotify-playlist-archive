@@ -3792,6 +3792,24 @@
     },
     {
       "album": {
+        "name": "Raymo",
+        "url": "https://open.spotify.com/album/2dRikRUKamdwzVACthVxSY"
+      },
+      "artists": [
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211491,
+      "name": "Jagadhodharana",
+      "url": "https://open.spotify.com/track/4fMipj4CmGkFkzGDO4Cf3h"
+    },
+    {
+      "album": {
         "name": "Love 360",
         "url": "https://open.spotify.com/album/5pxb1Z1cJlWC05Usvg3j9B"
       },
@@ -5537,6 +5555,36 @@
       "duration_ms": 208393,
       "name": "Mellane (From \"Rider\")",
       "url": "https://open.spotify.com/track/5CE4ULqBgzTFQkNA4uD2ln"
+    },
+    {
+      "album": {
+        "name": "Mellusire (From \"Spooky College\") - Single",
+        "url": "https://open.spotify.com/album/7fkUajXaz2PrZacj5k5qgl"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Ghantasala",
+          "url": "https://open.spotify.com/artist/2spmKkD1aaIwksnFrAghRL"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Ku. Ra. Seetharama Sastry",
+          "url": "https://open.spotify.com/artist/4nk4mcxuVLzECl9yhKMiCk"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177322,
+      "name": "Mellusire (From \"Spooky College\")",
+      "url": "https://open.spotify.com/track/2XQ9lc1ym5HJkzGj5DehCp"
     },
     {
       "album": {

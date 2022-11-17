@@ -1116,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "Binetsu (Autumn) / Honesty (Session 1)",
+        "url": "https://open.spotify.com/album/4Tzdk99BwpNhilbHOCaNFp"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298292,
+      "name": "Binetsu (Autumn)",
+      "url": "https://open.spotify.com/track/6XEayKqPPoQ3QBMxihEBTr"
+    },
+    {
+      "album": {
         "name": "\u30eb\u30d1\u30f3\u4e09\u4e16 PART6 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2 \u300eLUPIN THE THIRD PART6~WOMAN\u300f",
         "url": "https://open.spotify.com/album/3UkmyUwXGkks6iSqx2K3vw"
       },
@@ -4126,6 +4144,24 @@
     },
     {
       "album": {
+        "name": "Kawaii Hito",
+        "url": "https://open.spotify.com/album/6wdovcuV96z0LlC5O29qjX"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262010,
+      "name": "Kawaii Hito",
+      "url": "https://open.spotify.com/track/1bAfvEaFFCue0fJ0W4eDiB"
+    },
+    {
+      "album": {
         "name": "Keeps Coming Back",
         "url": "https://open.spotify.com/album/4Q6SuOMw10t4WGayoFEiWq"
       },
@@ -4315,7 +4351,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 220103,
       "name": "Ladder",
       "url": "https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx"
@@ -5379,6 +5415,24 @@
       "duration_ms": 327741,
       "name": "NATSU NO HAMON",
       "url": "https://open.spotify.com/track/7eukm0qtr0iBsVl3R9ktqr"
+    },
+    {
+      "album": {
+        "name": "Seikatsu",
+        "url": "https://open.spotify.com/album/3W01XFOYDBF3zi15bmxQpi"
+      },
+      "artists": [
+        {
+          "name": "Kibayashi",
+          "url": "https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Neko no yume",
+      "url": "https://open.spotify.com/track/3GAFxFe3iUzN63c0iYRKun"
     },
     {
       "album": {
@@ -6567,10 +6621,28 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 186293,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/5F8HtggZffCmQXKkqtg5JX"
+    },
+    {
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/2bUOcoYFVUiN3IKWZOf04G"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/7igHjd1h9RWpKQcUxZsYIr"
     },
     {
       "album": {
@@ -9365,7 +9437,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 262010,
       "name": "\u304b\u308f\u3044\u3044\u4eba",
       "url": "https://open.spotify.com/track/1cTFcZktEb5WMr8acya42L"
@@ -11315,7 +11387,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 193343,
       "name": "\u30c0\u30a4\u30ca\u30de\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP"
@@ -14047,7 +14119,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 298292,
       "name": "\u5fae\u71b1 (\u79cb)",
       "url": "https://open.spotify.com/track/4blBGh56WnJOb2VVubD4yF"
@@ -15277,7 +15349,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 215666,
       "name": "\u732b\u306e\u5922",
       "url": "https://open.spotify.com/track/1WA2bjmq4mIoCE3Bwj5JCb"

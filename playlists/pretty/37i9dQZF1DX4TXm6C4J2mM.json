@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156970,
+  "num_followers": 156962,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGJkMTRmYWM0ZDVlODE5N2RmOGUzYTdiOWMxZmRhZDEw",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMDNjODM1MzUwNzQxNzIzMzA3Mzg1OWM3ODc0YmYwYzI0",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -463,26 +463,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Higher Ground (feat. John Martin)",
-        "url": "https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 206279,
-      "name": "Higher Ground (feat. John Martin)",
-      "url": "https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
         "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Higher Ground (feat. John Martin)",
+        "url": "https://open.spotify.com/album/2wfc0nU4LeUtwyhbkOE6iH"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 206279,
+      "name": "Higher Ground (feat. John Martin)",
+      "url": "https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -655,30 +655,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "2019 Remixed",
-        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 239062,
-      "name": "No Sleep (feat. Bonn) - DubVision Remix",
-      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 162983,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "2019 Remixed",
+        "url": "https://open.spotify.com/album/3z4efVJv1e3GmoR7PybqHR"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 239062,
+      "name": "No Sleep (feat. Bonn) - DubVision Remix",
+      "url": "https://open.spotify.com/track/0mV5JWhyUFANd9qpwLkM8d"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -843,30 +843,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Hold On (feat. Michel Zitron)",
-        "url": "https://open.spotify.com/album/2BxWklE9D6hPhvPgcvLWtZ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "Michel Zitron",
-          "url": "https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw"
-        }
-      ],
-      "duration_ms": 244453,
-      "name": "Hold On (feat. Michel Zitron)",
-      "url": "https://open.spotify.com/track/22zxLxXlXrBIm7XaazHNrg"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Stars Align (with Jolin Tsai)",
         "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 188640,
       "name": "Detroit 3 AM - Radio Edit",
       "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Hold On (feat. Michel Zitron)",
+        "url": "https://open.spotify.com/album/2BxWklE9D6hPhvPgcvLWtZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Michel Zitron",
+          "url": "https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw"
+        }
+      ],
+      "duration_ms": 244453,
+      "name": "Hold On (feat. Michel Zitron)",
+      "url": "https://open.spotify.com/track/22zxLxXlXrBIm7XaazHNrg"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1015,6 +1015,30 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "Marcus Mollyhus",
+          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
+        },
+        {
+          "name": "Conan Mac",
+          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "No One Dies From Love (220 KID Remix)",
         "url": "https://open.spotify.com/album/1GtfedQBKMYZioLiv1LzuZ"
       },
@@ -1051,30 +1075,6 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "Marcus Mollyhus",
-          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
-        },
-        {
-          "name": "Conan Mac",
-          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Goofy",
+        "url": "https://open.spotify.com/album/3CyJoGJ6BwEIRP20sUWrZR"
+      },
+      "artists": [
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        }
+      ],
+      "duration_ms": 200977,
+      "name": "Goofy",
+      "url": "https://open.spotify.com/track/28gMlEbfVbbcyE8JJODT4g"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "Born With It",
         "url": "https://open.spotify.com/album/6LBjVgwft3Uj4FNo4fVk2N"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 153442,
       "name": "In My Head (On My Mind)",
       "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Goofy",
-        "url": "https://open.spotify.com/album/3CyJoGJ6BwEIRP20sUWrZR"
-      },
-      "artists": [
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        }
-      ],
-      "duration_ms": 200977,
-      "name": "Goofy",
-      "url": "https://open.spotify.com/track/28gMlEbfVbbcyE8JJODT4g"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
-        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
-      },
-      "artists": [
-        {
-          "name": "Brynn Elliott",
-          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Tell Me I'm Pretty - Icona Pop Remix",
-      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7tHNPG8gM6Hg1rqrZh8JIU"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 203040,
       "name": "Fingers Crossed - Until Dawn Remix",
       "url": "https://open.spotify.com/track/0wF0hlNRpDDonJsYfZT9sI"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Tell Me I'm Pretty (Icona Pop Remix)",
+        "url": "https://open.spotify.com/album/79eKu1DKlIwvr2HPakP3tI"
+      },
+      "artists": [
+        {
+          "name": "Brynn Elliott",
+          "url": "https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "Tell Me I'm Pretty - Icona Pop Remix",
+      "url": "https://open.spotify.com/track/1mvIcYU3FXLiXIHyX0QqP5"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
+        "name": "Ones You Miss",
+        "url": "https://open.spotify.com/album/6attcIq1peIGvUC29hoaFA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 133669,
+      "name": "Ones You Miss",
+      "url": "https://open.spotify.com/track/31rl8e7IEpHtt3mkjOU4FW"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
         "name": "I'm Just Feelin' (Du Du Du)",
         "url": "https://open.spotify.com/album/2BHIfUecDNOWvsfZODiIJr"
       },
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Ones You Miss",
-        "url": "https://open.spotify.com/album/6attcIq1peIGvUC29hoaFA"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 133669,
-      "name": "Ones You Miss",
-      "url": "https://open.spotify.com/track/31rl8e7IEpHtt3mkjOU4FW"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Something Like That",
         "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
       },
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
-      },
-      "artists": [
-        {
-          "name": "Basixx",
-          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-        },
-        {
-          "name": "TASH",
-          "url": "https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ"
-        }
-      ],
-      "duration_ms": 192397,
-      "name": "If You're Looking for Trouble",
-      "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Million Ways (Remixes)",
         "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 142120,
       "name": "Million Ways - Steve Void Remix",
       "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
+      },
+      "artists": [
+        {
+          "name": "Basixx",
+          "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+        },
+        {
+          "name": "TASH",
+          "url": "https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ"
+        }
+      ],
+      "duration_ms": 192397,
+      "name": "If You're Looking for Trouble",
+      "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1899,6 +1899,26 @@
       "duration_ms": 165815,
       "name": "Kiss My (Uh Oh) - Billen Ted Remix",
       "url": "https://open.spotify.com/track/1owq4K5HuyCa3aVYv6Hj4k"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Where You Wanna Be",
+        "url": "https://open.spotify.com/album/5BZ4f5WKubbOnMNcBp9wL2"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Elena Temnikova",
+          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Where You Wanna Be",
+      "url": "https://open.spotify.com/track/6HILwFdT1NQbp92QO5D1Ni"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1967,26 +1987,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Where You Wanna Be",
-        "url": "https://open.spotify.com/album/5BZ4f5WKubbOnMNcBp9wL2"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Elena Temnikova",
-          "url": "https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Where You Wanna Be",
-      "url": "https://open.spotify.com/track/6HILwFdT1NQbp92QO5D1Ni"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Bad Trip (feat. \u00d8ZMA)",
         "url": "https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr"
       },
@@ -2043,6 +2043,26 @@
       "duration_ms": 176250,
       "name": "Revival - R3HAB Remix",
       "url": "https://open.spotify.com/track/4nSDyc7YOr4JADylhhhAAn"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "Next to Neon",
+          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     },
     {
       "added_at": "2022-11-10 23:00:00",
@@ -2107,26 +2127,6 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/5oT45tItMl80sXZ5GqNP0V"
-      },
-      "artists": [
-        {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "Next to Neon",
-          "url": "https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/6oHDvsaiXRQIpWigtWUP9D"
     }
   ],
   "unique_name": "Tr\u00e4ning",

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-325 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+326 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-10-28 |  |
 | [Animals \- Original Mix](https://open.spotify.com/track/6zWvzwaUh4pTQdRPhuIfA8) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Animals](https://open.spotify.com/album/2j6ldD5rJrksFT9RXAiVsm) | 3:31 | 2022-04-15 | 2022-04-21 |
 | [Annihilation](https://open.spotify.com/track/0TzkG2s7nhpZs0RNSBsAlF) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/36BFn54Z3fFYVBXMCG99qZ) | 4:07 | 2021-05-07 | 2022-10-13 |
+| [Annihilation](https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW) | 4:07 | 2022-07-01 |  |
 | [Antigone \- Yotto Remix](https://open.spotify.com/track/3bRqVtAGCNBRSGupmykCjY) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Antigone \(Yotto Remix\)](https://open.spotify.com/album/3v6ghYAfBsyboRfxXXOFp8) | 4:02 | 2021-05-07 | 2022-07-29 |
 | [Apricus](https://open.spotify.com/track/6AWDF8tp10KFkTZE33VVC4) | [STANDERWICK](https://open.spotify.com/artist/6mLXfZ1OfXde8Iy9BfKoHE) | [Apricus](https://open.spotify.com/album/4DUrEKUrYClLVtMfDqiOiC) | 4:39 | 2021-05-07 | 2022-07-29 |
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 |  |
@@ -215,7 +216,7 @@
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-06-04 |  |
 | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw) | [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Lucas Ariel](https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T) | [Paradise \(feat\. Lucas Ariel\)](https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe) | 3:52 | 2021-05-07 | 2022-11-13 |
 | [Peace Of Mind](https://open.spotify.com/track/1hyfS51nwrYQOCSEVEIfOi) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Peace Of Mind](https://open.spotify.com/album/7HuaK77m1azcfrtBCIpE97) | 2:46 | 2021-05-28 | 2022-07-29 |
-| [Playing Chess](https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess](https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl) | 3:51 | 2022-08-12 |  |
+| [Playing Chess](https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess](https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl) | 3:51 | 2022-08-12 | 2022-11-17 |
 | [Poison](https://open.spotify.com/track/5KBZtEhzSiFyKNjtRSqTpJ) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Poison](https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n) | 3:27 | 2021-05-07 | 2022-07-19 |
 | [Power](https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Power](https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL) | 3:18 | 2021-10-25 |  |
 | [Psyche](https://open.spotify.com/track/3yk6KVpcmIlIYgam4WBPoN) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Psyche](https://open.spotify.com/album/46PO9WQMuvpGbqNP2E6Mx2) | 5:09 | 2021-05-07 | 2022-04-21 |

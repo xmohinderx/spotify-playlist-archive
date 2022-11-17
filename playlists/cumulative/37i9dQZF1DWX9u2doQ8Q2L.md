@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-397 songs - 1 day 0 hr 49 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+398 songs - 1 day 0 hr 53 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-23 | 2022-07-28 |
 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-11 |  |
 | [Gradate](https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [Gradate](https://open.spotify.com/album/1LY3jOgcsqqu0cRFnWSMvj) | 3:49 | 2022-08-13 | 2022-09-30 |
-| [Hanabi feat\. オカモトショウ \(Chaki Zulu Remix\)](https://open.spotify.com/track/7DCPmTlXtER3cs2aHXudQp) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [SHO OKAMOTO](https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Hanabi feat\. オカモトショウ \(Chaki Zulu Remix\)](https://open.spotify.com/album/6ePzCvPeJ1mEUtOi3cv3Pd) | 3:36 | 2022-11-15 |  |
+| [Hanabi feat\. SHO OKAMOTO \(Chaki Zulu Remix\)](https://open.spotify.com/track/3cpOZcZ2WMg8Z6Avni6Olq) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [SHO OKAMOTO](https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Hanabi feat\. SHO OKAMOTO \(Chaki Zulu Remix\)](https://open.spotify.com/album/6xLjv7AdLQVa9yEAluKeIA) | 3:36 | 2022-11-15 |  |
+| [Hanabi feat\. オカモトショウ \(Chaki Zulu Remix\)](https://open.spotify.com/track/7DCPmTlXtER3cs2aHXudQp) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [SHO OKAMOTO](https://open.spotify.com/artist/6Sh87t8almBljHAaBfKzaU), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Hanabi feat\. オカモトショウ \(Chaki Zulu Remix\)](https://open.spotify.com/album/6ePzCvPeJ1mEUtOi3cv3Pd) | 3:36 | 2022-11-15 | 2022-11-17 |
 | [Hana炎](https://open.spotify.com/track/1DarVtvEs9DOwJBeVhCsMO) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [LISACHRIS](https://open.spotify.com/artist/2E738wjchAb3fUOxY3bxMr), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [Hana炎](https://open.spotify.com/album/4uiFrJYts1Rb9X2Kpczrwm) | 4:37 | 2022-07-26 | 2022-08-25 |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-26 | 2022-10-05 |
 | [HAVE A NICE DAY](https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [HAVE A NICE DAY](https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq) | 2:36 | 2022-07-05 | 2022-08-02 |

@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Eyedress
 
-327 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+328 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Darcy](https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr) | 3:24 | 2022-03-30 |  |
 | [Daylight](https://open.spotify.com/track/5ZLP7psIJFSrmAt3bgFCbI) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Daylight](https://open.spotify.com/album/2RvEHb6b7hWDRamSyZP6in) | 3:44 | 2021-02-26 | 2022-07-29 |
 | [Deaf](https://open.spotify.com/track/1bWZNXXL3mQZscxyzO72Ff) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/2yVx5Ark5dEz7YN6tYX4Mu) | 5:12 | 2022-03-30 | 2022-11-10 |
+| [Deaf](https://open.spotify.com/track/4XxcYQq3q2hxjTTKKyiyR4) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/4geKbR4o4eRdaeiGuAcJVu) | 5:12 | 2022-09-13 |  |
 | [Deaf](https://open.spotify.com/track/4mD08TdVCPxyV4xnP5o7Wt) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Wednesday](https://open.spotify.com/album/75iTRwhc1ujZwiTrCdBQOu) | 5:12 | 2021-04-29 | 2022-07-29 |
 | [Death of the Phone Call](https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Huli Ka](https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u) | 1:35 | 2022-03-30 |  |
 | [Death of the Phone Call](https://open.spotify.com/track/1ln5kx19guJDiWooZR3vVL) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Huli Ka](https://open.spotify.com/album/7oxrT1hd2GlIdRiQFmpjqq) | 1:35 | 2022-03-30 | 2022-07-29 |
@@ -242,7 +243,7 @@
 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 | 2020-10-27\* |  |
 | [Raw](https://open.spotify.com/track/4Ot0dM7CB4gr9hVu6Hos3Z) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [Raw](https://open.spotify.com/album/4AICfwXPPvRKBzEaUuO32e) | 3:37 | 2021-04-02 | 2022-07-12 |
 | [Real](https://open.spotify.com/track/6JA93Y4aUHtzZyuxCGOhSm) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [Real](https://open.spotify.com/album/3LDD22obHHlYlxtBlUnj2h) | 3:46 | 2020-10-27\* | 2022-07-29 |
-| [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 |  |
+| [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 | 2022-09-13 | 2022-11-17 |
 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 | 2020-12-11 | 2022-07-27 |
 | [Red Rag To A Bull](https://open.spotify.com/track/3v9dcSB3xTGLoQ7vwdr3I5) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Red Rag To A Bull](https://open.spotify.com/album/7gh3pCCd0TDhLm25VAKlIN) | 2:36 | 2021-10-11 | 2022-04-20 |
 | [Red Stone](https://open.spotify.com/track/68uXJTiiZfSKL2KQrowXAL) | [Ed Dowie](https://open.spotify.com/artist/5fVWsyYSseyTctaZKbzYb5) | [Red Stone](https://open.spotify.com/album/1pLCw41U8oSFSIC37fsi00) | 4:14 | 2021-03-06 | 2022-04-21 |

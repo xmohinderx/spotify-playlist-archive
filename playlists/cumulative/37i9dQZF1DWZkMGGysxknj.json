@@ -2788,6 +2788,24 @@
     },
     {
       "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Opaline",
+      "url": "https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp"
+    },
+    {
+      "album": {
         "name": "Opaline",
         "url": "https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79"
       },
@@ -2799,7 +2817,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 192040,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW"

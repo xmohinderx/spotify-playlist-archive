@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Back In Bahia - Spotify Singles",
+        "url": "https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163366,
+      "name": "Back In Bahia - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ModYZze07tx1R40jykgeL"
+    },
+    {
+      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 166555,
       "name": "YOU BETTA",
       "url": "https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT"

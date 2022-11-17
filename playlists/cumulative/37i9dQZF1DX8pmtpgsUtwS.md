@@ -4,7 +4,7 @@
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-95 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
+96 songs - 7 hr 45 min - [published](https://open.spotify.com/playlist/1CYBz6V53XgiUSKHXNcFvJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Cloud 8.9](https://open.spotify.com/track/6WWHC3W4wFROHcZXfuHBjG) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Uplift](https://open.spotify.com/album/7CbP0jtXR00EFqdBNfh6zy) | 3:00 | 2021-10-31\* |  |
 | [Colour](https://open.spotify.com/track/6MB1AzWyL7v1EQ3yIs2MjI) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:01 | 2021-10-31\* | 2022-06-22 |
 | [Darbari](https://open.spotify.com/track/1MOr3uybB75iYHANe7QQxi) | [Lagori](https://open.spotify.com/artist/1qnNpqNICqHeFjbBLD58M6) | [Lagori](https://open.spotify.com/album/2TC3054e2XIppYE6tCwqcr) | 5:08 | 2021-10-31\* | 2022-05-20 |
-| [Darbari](https://open.spotify.com/track/20bzZEYSjIxfyUUW1McxNC) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl) | 5:16 | 2021-10-31\* |  |
+| [Darbari](https://open.spotify.com/track/1i3czNhlQb0InQ3NKyvgdd) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/1PAqoTpGkISBuLWYUdrxra) | 5:16 | 2022-09-02 |  |
+| [Darbari](https://open.spotify.com/track/20bzZEYSjIxfyUUW1McxNC) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl) | 5:16 | 2021-10-31\* | 2022-11-17 |
 | [Dehi](https://open.spotify.com/track/3dcxfK2dv5Wx41biEuRiZd) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [Dehi](https://open.spotify.com/album/3JwEPc7W3rVTRv0rfHaHw5) | 4:33 | 2021-10-31\* |  |
 | [Entharo Pallavi & Charanam](https://open.spotify.com/track/4RIsoFzJNlHPhDso4oN2wF) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 4:54 | 2021-10-31\* |  |
 | [Feel It](https://open.spotify.com/track/5pXKGk9bj4icfg5HGV3SfC) | [Maya](https://open.spotify.com/artist/5IIPmCIW7FrMIhPjFQqg7U) | [World Music By Indian Maestros](https://open.spotify.com/album/4PBgCpCGwiiLE8xZrOdXH2) | 9:11 | 2021-10-31\* | 2021-12-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Oliver Gigon \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,972 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,973 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 25 | [Blue Sky](https://open.spotify.com/track/20FWUkLNOdmARqd2tbFqlo) | [Natalia Samuel](https://open.spotify.com/artist/7sttpnxwghVxIaD3OsOSQr), [Walo Beatz](https://open.spotify.com/artist/2vzvaFv1GgojxGjV41SwjD) | [Blue Sky](https://open.spotify.com/album/41AjPDPSDzPdr7Rro1Wx1W) | 4:04 |
 | 26 | [Żuję Gumę](https://open.spotify.com/track/1djenfZFrmcsfw22BF1KsV) | [Isho](https://open.spotify.com/artist/6hOtASpOrEI7tOZMx3PvGu) | [Żuję Gumę](https://open.spotify.com/album/1KwZiYHHD7KBW5R35FFLya) | 2:37 |
 | 27 | [Moje Wiersze](https://open.spotify.com/track/3HTGnytfZqONL44eQhAWTu) | [Natina](https://open.spotify.com/artist/06hXmcqapLjcKUwLhQBXOt) | [Moje Wiersze](https://open.spotify.com/album/5fp4nethbdoK7sD23ECqzn) | 3:16 |
-| 28 | [Dzień Bez Marzeń](https://open.spotify.com/track/6dwzMsqt5jpgCEd2dP7yys) | [Pale Mannequin](https://open.spotify.com/artist/0pVNHI6DORQKYn8AK5PIdx) | [Dzień Bez Marzeń](https://open.spotify.com/album/0AcbcxrHPACaPvgMpk2I7N) | 4:34 |
+| 28 | [Dzień bez marzeń](https://open.spotify.com/track/6dwzMsqt5jpgCEd2dP7yys) | [Pale Mannequin](https://open.spotify.com/artist/0pVNHI6DORQKYn8AK5PIdx) | [Dzień bez marzeń](https://open.spotify.com/album/0AcbcxrHPACaPvgMpk2I7N) | 4:34 |
 | 29 | [Głuszec](https://open.spotify.com/track/6P8jBPBss0U9HF2umWArOu) | [jan bąk](https://open.spotify.com/artist/57T9SrFGfjHo6NY7ISoBIr), [Annia](https://open.spotify.com/artist/2n5pRCvF7EdJuPDgeXjvPv) | [Głuszec](https://open.spotify.com/album/04FF6m64ad80nkto0yV1to) | 4:13 |
 | 30 | [Splot](https://open.spotify.com/track/4c75XrGoVOHqs0qbkhBFe6) | [KRYSZTAŁY](https://open.spotify.com/artist/4VqmMCNHEyJjJODxwimnbn) | [Splot](https://open.spotify.com/album/5k6cNcb9z9Iy6WLJILvliU) | 3:26 |
 | 31 | [food&](https://open.spotify.com/track/0wNFl5q5DEjJ9DqG8kIhiA) | [beluga stone](https://open.spotify.com/artist/2JBcOHLQSP5PWHZilq3oOt) | [food&](https://open.spotify.com/album/2yjJRMZGmGRx7Grlr1M2Rm) | 4:08 |

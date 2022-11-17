@@ -4,7 +4,7 @@
 
 > We're here to provide some sonic solace for your grief.
 
-131 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/13QYcLMFMp1jHvwM1Y6Iom)
+132 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/13QYcLMFMp1jHvwM1Y6Iom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 | 2022-02-16 |  |
 | [Slipped Away](https://open.spotify.com/track/1uOiqSUUF8hJwR9ETlqkMu) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/2F4QbvdUPPFyTPrAnxI6xR) | 3:35 | 2018-12-10 | 2022-07-29 |
 | [Slipping Through My Fingers](https://open.spotify.com/track/6TvxPS4fj4LUdjw2es4g21) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Visitors \(Deluxe Edition\)](https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV) | 3:53 | 2022-02-16 |  |
-| [Small Bump](https://open.spotify.com/track/4z1O25cq9g2kuJemmUxc21) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:19 | 2022-02-16 |  |
+| [Small Bump](https://open.spotify.com/track/4z1O25cq9g2kuJemmUxc21) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:19 | 2022-02-16 | 2022-11-17 |
 | [Someone's Watching Over Me](https://open.spotify.com/track/5GjSpnToDJhBx76Vy2tnJT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Hilary Duff](https://open.spotify.com/album/5Nqi3q9QlLL75JTNcN1xu0) | 4:11 | 2018-12-10 | 2022-02-17 |
 | [Somewhere Out There \- From "An American Tail" Soundtrack](https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [An American Tail](https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9) | 3:58 | 2018-12-10 | 2022-07-27 |
 | [Stars](https://open.spotify.com/track/6s7sq2Quh4TxHRfdk6eFxk) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [The Lion The Beast The Beat \(Deluxe Edition\)](https://open.spotify.com/album/2JcoZUEwztDoEKUiqd7Yk9) | 3:35 | 2018-12-10 | 2022-07-29 |
@@ -115,6 +115,7 @@
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-02-16 |  |
 | [The Permanent Rain \- Acoustic Version](https://open.spotify.com/track/3lfJVjr8qaFZ9IBHaPjPjn) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [An Acoustic Performance Of Reach For The Sun](https://open.spotify.com/album/04nbWibWwy1KYViwM7iy6r) | 2:45 | 2018-12-10 | 2022-02-16 |
 | [The Prayer](https://open.spotify.com/track/1sqUqrTCrtxwlefs1FHbl2) | [Carole Bayer Sager](https://open.spotify.com/artist/6yjU0SoX3vxPV7KoopXlWe), [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Sogno](https://open.spotify.com/album/5QTGGXyFKaIAFwCJYLo122) | 4:29 | 2018-12-10 | 2022-06-21 |
+| [The Prayer](https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:28 | 2022-02-16 |  |
 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 | 2022-02-16 |  |
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 | 2022-02-16 |  |
 | [The Wind](https://open.spotify.com/track/1rHMg7t3LICgfTl2OsDn46) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 1:42 | 2022-02-16 | 2022-07-29 |

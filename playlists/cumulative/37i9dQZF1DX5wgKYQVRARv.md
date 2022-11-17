@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Polyphia
 
-572 songs - 2 day 1 hr 36 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+573 songs - 2 day 1 hr 40 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bridges](https://open.spotify.com/track/2eBdWSuKGDDYInmvWeK4AA) | [Arkentype](https://open.spotify.com/artist/4IzmDCzlwnl81Q2rwskK3g) | [Bridges](https://open.spotify.com/album/6lN0FkAKy6vIZA4Zm5WJQw) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Brutal Behavior](https://open.spotify.com/track/6wN8nayh7c9Gon16wLV5wv) | [Jack The Joker](https://open.spotify.com/artist/1lIjN6laJcdd6txiGXvZaq) | [Mors Volta](https://open.spotify.com/album/2mPSd4EHz8RCDYiRcUChGO) | 5:31 | 2021-12-17 | 2022-01-28 |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2022-07-13 |  |
-| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 |  |
+| [Bugs \- Extended](https://open.spotify.com/track/4uvrlMOYncLAa1C4NEHvqu) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Brooke Dougherty](https://open.spotify.com/artist/6alTZVAzJlcTemFugbEjP2) | [Bugs \(Extended\)](https://open.spotify.com/album/78GIi7zGQZagdRRG8a9xG0) | 5:30 | 2021-12-17 | 2022-11-17 |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-12-17 | 2022-07-28 |
 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2022-07-08 | 2022-09-03 |
 | [Cafo](https://open.spotify.com/track/6i8TDqnHN7GF9uU3LJCklq) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Animals as Leaders \- Encore Edition](https://open.spotify.com/album/5hVRBZCUCcU3UIhxNikyhf) | 6:41 | 2022-07-13 |  |
@@ -544,6 +544,7 @@
 | [Vivid](https://open.spotify.com/track/1vnpW0MkecIiL3IkEqkmTj) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/4JmBVe1ha6JOnbqSJKiXaz) | 4:28 | 2022-07-13 | 2022-07-29 |
 | [Vivid](https://open.spotify.com/track/4oOo9YXmxtrzCNOdTN7xI3) | [SikTh](https://open.spotify.com/artist/03mz3G1gu1GPNgAWY4qR2w) | [The Future in Whose Eyes?](https://open.spotify.com/album/3AglitukJSID7M51tDEDdH) | 4:28 | 2022-07-13 |  |
 | [Voices](https://open.spotify.com/track/0n8FH9ZymLlSJyY6bvd0xE) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Voices](https://open.spotify.com/album/4GryeT2FdvAcyWjui8nlOW) | 4:09 | 2021-12-17 | 2022-11-11 |
+| [Voices](https://open.spotify.com/track/0oFDhOVgRwk73GVFJ8KtCp) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [We Are Nøt Okay](https://open.spotify.com/album/3Z06ZJrIM5oEIhrJ4Ivjvr) | 4:09 | 2022-10-28 |  |
 | [Volte Face](https://open.spotify.com/track/64N8yKZtZRV4PaJUyZ0lqD) | [Jack The Joker](https://open.spotify.com/artist/1lIjN6laJcdd6txiGXvZaq) | [Mors Volta](https://open.spotify.com/album/2mPSd4EHz8RCDYiRcUChGO) | 5:59 | 2021-12-17 | 2022-01-27 |
 | [Vortex](https://open.spotify.com/track/2oEpn6b4duhiBlUG24reYw) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Vortex](https://open.spotify.com/album/1s1ll0zKsvf84v44oeBmNy) | 4:02 | 2021-12-17 |  |
 | [Voyager](https://open.spotify.com/track/09lXQ9B8aYrtI9jX5tP8R0) | [Takatak](https://open.spotify.com/artist/1oXLlDl7pxC7GAHD153YOy) | [Voyager](https://open.spotify.com/album/4uT8dqaM15WOBYZUtPomEK) | 5:05 | 2021-12-17 | 2022-07-28 |

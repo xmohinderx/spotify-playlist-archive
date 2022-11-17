@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 21152,
+  "num_followers": 21187,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMDQyYmE0NzVkNDU2NWVlOGE0ZWY4MmEzMGE3MzY2ZWVm",
+  "snapshot_id": "MTY1MDYzNDI0MywwMDAwMDAwMDU0YzM4ZjA0OGFiN2Q4NWFkNjA0NzY5OTUzMTUwOTQz",
   "tracks": [
     {
       "added_at": "2022-04-22 13:30:43",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Night and Day - Take 1",
-      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Jeri Southern Meets Cole Porter",
         "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 179466,
       "name": "Don't Look At Me That Way",
       "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Night and Day - Take 1",
+      "url": "https://open.spotify.com/track/0tFX3mUraX85YPzTwEHWs4"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -323,22 +323,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Beauty And The Beat! (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z"
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Do I Love You? - Live In Miami, FL/1959 / Remastered 2002",
-      "url": "https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix"
+      "duration_ms": 133466,
+      "name": "It's Bad For Me",
+      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -395,18 +391,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
+        "name": "Beauty And The Beat! (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/7b4fckolZouZSA2OnnAl5z"
       },
       "artists": [
         {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 133466,
-      "name": "It's Bad For Me",
-      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+      "duration_ms": 183266,
+      "name": "Do I Love You? - Live In Miami, FL/1959 / Remastered 2002",
+      "url": "https://open.spotify.com/track/2CehTPb4F4syASYv3NmLix"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -423,6 +423,22 @@
       "duration_ms": 203533,
       "name": "You've Got That Thing",
       "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -463,18 +479,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
         }
       ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -491,22 +507,6 @@
       "duration_ms": 169666,
       "name": "Weren't We Fools",
       "url": "https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
-      },
-      "artists": [
-        {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Old Fashioned Garden",
-      "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
+      "duration_ms": 169001,
+      "name": "Rosalie",
+      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -791,6 +791,22 @@
       "duration_ms": 369053,
       "name": "It's All Right With Me",
       "url": "https://open.spotify.com/track/2jr6t4mra4tM2dwp0QePpp"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 165893,
+      "name": "In the Still of the Night",
+      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -827,22 +843,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/5OBKP6D1MyMdnnB0RZ3PL7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 165893,
-      "name": "In the Still of the Night",
-      "url": "https://open.spotify.com/track/62SGxkOggmrZblQ6prK5AI"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Mabel Mercer Sings Cole Porter",
         "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
@@ -859,18 +859,22 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "A Man and His Trombone",
-        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
       "artists": [
         {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb"
         }
       ],
-      "duration_ms": 168442,
-      "name": "Silk Stockings",
-      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
+      "duration_ms": 127360,
+      "name": "Who Wants To Be A Millionaire",
+      "url": "https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -900,9 +904,9 @@
           "url": "https://open.spotify.com/artist/2bbGZ6HJZotKHyzYHKUQhm"
         }
       ],
-      "duration_ms": 169001,
-      "name": "Rosalie",
-      "url": "https://open.spotify.com/track/2UmU67sj5MlaohEIWZv6zv"
+      "duration_ms": 183829,
+      "name": "Old Fashioned Garden",
+      "url": "https://open.spotify.com/track/2bKJZcJNfGZl4CJXGjQNs2"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -923,54 +927,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+        "name": "A Man and His Trombone",
+        "url": "https://open.spotify.com/album/1F4BlMdj4N0qXXM11Of6GI"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Celeste Holm",
-          "url": "https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb"
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
         }
       ],
-      "duration_ms": 127360,
-      "name": "Who Wants To Be A Millionaire",
-      "url": "https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "Night and Day With Cole Porter",
-        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
-      },
-      "artists": [
-        {
-          "name": "Behia Jazz Band",
-          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Achat",
-          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
-        },
-        {
-          "name": "Manu Carr\u00e9",
-          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
-        },
-        {
-          "name": "Philippe Brassoud",
-          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
-        },
-        {
-          "name": "Philippe Cocogne",
-          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Conversation Blues",
-      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
+      "duration_ms": 168442,
+      "name": "Silk Stockings",
+      "url": "https://open.spotify.com/track/5iRLpKazu6D8zoNz1RzCmp"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1023,6 +991,38 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
+        "name": "Night and Day With Cole Porter",
+        "url": "https://open.spotify.com/album/4qagheCzxxQhK22jGY2LEE"
+      },
+      "artists": [
+        {
+          "name": "Behia Jazz Band",
+          "url": "https://open.spotify.com/artist/2ota4coMovWERC4ywnuKi1"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Achat",
+          "url": "https://open.spotify.com/artist/5Wrns8a1qsWVYunrmnulyg"
+        },
+        {
+          "name": "Manu Carr\u00e9",
+          "url": "https://open.spotify.com/artist/5khEP0cfvy3wf6NaiEEqll"
+        },
+        {
+          "name": "Philippe Brassoud",
+          "url": "https://open.spotify.com/artist/1n46ryCFjWCsGxytnD4D3w"
+        },
+        {
+          "name": "Philippe Cocogne",
+          "url": "https://open.spotify.com/artist/20Qd3bXpn4RcR2F5JkJP9L"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Conversation Blues",
+      "url": "https://open.spotify.com/track/1ZKkiLSA1f4oC0igz3kTvR"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
       },
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "High Society (O.S.T - 1956)",
-        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Johnny Green & His Orchestra",
-          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 252818,
-      "name": "I Love You Samantha",
-      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+      "duration_ms": 145533,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1083,18 +1079,54 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Sinatra Sings Cole Porter",
-        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
+        "name": "Mabel Mercer Sings Cole Porter",
+        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Mabel Mercer",
+          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
         }
       ],
-      "duration_ms": 145533,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+      "duration_ms": 182400,
+      "name": "Use Your Imagination",
+      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "High Society (O.S.T - 1956)",
+        "url": "https://open.spotify.com/album/4oqjQquUSco98dlsNLZRFq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Johnny Green & His Orchestra",
+          "url": "https://open.spotify.com/artist/2Edo6eXjeCmuIFAfksW3Z6"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "I Love You Samantha",
+      "url": "https://open.spotify.com/track/2IVRYGcgELRGEUldowroST"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "John Barrowman Swings Cole Porter",
+        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
+      },
+      "artists": [
+        {
+          "name": "John Barrowman",
+          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
+        }
+      ],
+      "duration_ms": 127906,
+      "name": "I Happen To Like New York",
+      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1111,22 +1143,6 @@
       "duration_ms": 221959,
       "name": "Allez-Vous En, Go Away",
       "url": "https://open.spotify.com/track/2XmUvzhQxupKbxHxYf4EBb"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "Mabel Mercer Sings Cole Porter",
-        "url": "https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN"
-      },
-      "artists": [
-        {
-          "name": "Mabel Mercer",
-          "url": "https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Use Your Imagination",
-      "url": "https://open.spotify.com/track/2WonnDNRwgkxG2KazDD658"
     },
     {
       "added_at": "2022-04-22 13:30:43",
@@ -1163,54 +1179,6 @@
     {
       "added_at": "2022-04-22 13:30:43",
       "album": {
-        "name": "Don't Dream of Anybody but Me",
-        "url": "https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Get Out of Town - Med Andra Ord...",
-      "url": "https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "John Barrowman Swings Cole Porter",
-        "url": "https://open.spotify.com/album/3aunFH2Gzswretr3rWLB9k"
-      },
-      "artists": [
-        {
-          "name": "John Barrowman",
-          "url": "https://open.spotify.com/artist/2J3lGdyoJc3p5ceinyjCFQ"
-        }
-      ],
-      "duration_ms": 127906,
-      "name": "I Happen To Like New York",
-      "url": "https://open.spotify.com/track/3m4nAH1cPZHTk4zBDUIMOm"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
-    },
-    {
-      "added_at": "2022-04-22 13:30:43",
-      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4mYSlsuLpaqRNT1b5hloIz"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 193160,
       "name": "When Love Comes Your Way",
       "url": "https://open.spotify.com/track/75WKCf8LCfjsIC042qHBjU"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+    },
+    {
+      "added_at": "2022-04-22 13:30:43",
+      "album": {
+        "name": "Don't Dream of Anybody but Me",
+        "url": "https://open.spotify.com/album/5g9BdZChSpUZ2X3vgGNaTa"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Get Out of Town - Med Andra Ord...",
+      "url": "https://open.spotify.com/track/7jDgC41FKERGLL0RQXc05K"
     },
     {
       "added_at": "2022-04-22 13:30:43",

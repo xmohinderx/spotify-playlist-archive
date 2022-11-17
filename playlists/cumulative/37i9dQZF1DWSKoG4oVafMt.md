@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jas
 
-615 songs - 1 day 9 hr 24 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+616 songs - 1 day 9 hr 27 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Morni](https://open.spotify.com/track/4QdDTR7XcgHfYhpKmkgYL4) | [Pavvy Virk](https://open.spotify.com/artist/1AQZgGdnLJOu37cxZzIkxX) | [Morni](https://open.spotify.com/album/1DTXPbMDvoXGKjRtSkom6j) | 3:20 | 2022-08-31 | 2022-09-03 |
 | [Move On](https://open.spotify.com/track/2fb1j5P2TqUbvpa1u2gfc7) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Move On](https://open.spotify.com/album/5UBI3j3IpxKulky5cSUo5k) | 2:13 | 2022-04-25 | 2022-05-11 |
 | [Mukhda Dikha Do](https://open.spotify.com/track/67mb14eIBHuHol8biNzESH) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Mukhda Dikha Do](https://open.spotify.com/album/5VLVzZXBmfojRzPiWr3yTi) | 3:06 | 2022-03-22 | 2022-04-06 |
+| [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 | 2022-11-16 |  |
 | [Mundraan](https://open.spotify.com/track/047BsbiQMaej8JBT1KjBUe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Mundraan](https://open.spotify.com/album/1PRLIr0sT8RcvTMN92Vcr1) | 3:21 | 2022-03-18 | 2022-04-06 |
 | [Mundri \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/track/6NjBQvSxCCWaZcSuTJOF5v) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Gulrez Akhter](https://open.spotify.com/artist/0pRrQLjQnlQcMfWGk9Mu1g), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Babu Singh Maan](https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d) | [Mundri \(From "Teri Meri Gal Ban Gayi"\)](https://open.spotify.com/album/59WBPxlOSvG7xdS6J6hwwR) | 3:48 | 2022-08-31 | 2022-09-03 |
 | [Musafir](https://open.spotify.com/track/3ePSdJjeQha1iU4a9flZsh) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Shareek 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pPCg7ZLDCM1owPBdTzxyt) | 2:45 | 2022-06-22 | 2022-07-06 |

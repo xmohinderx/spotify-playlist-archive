@@ -4,7 +4,7 @@
 
 > Just chill.
 
-392 songs - 22 hr 39 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+394 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 | 2021-06-07 |  |
 | [Dandelions](https://open.spotify.com/track/5Ah7CDmFosZEwcQHkVXzxq) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [Dandelions](https://open.spotify.com/album/0XvAu6HRgd6Tg5Srbr4Va3) | 2:27 | 2022-09-29 |  |
 | [Devil Eyes](https://open.spotify.com/track/7MiZjKawmXTsTNePyTfPyL) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Providence](https://open.spotify.com/album/1RVXVo1puacM8aQ6hgQahi) | 2:11 | 2019-11-13 | 2022-09-30 |
-| [Diamond](https://open.spotify.com/track/0CDf8A5GogzQdJlTh4L22f) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/314L5eEcSAupRv9pQdKiMj) | 3:23 | 2022-08-19 |  |
+| [Diamond](https://open.spotify.com/track/0CDf8A5GogzQdJlTh4L22f) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/314L5eEcSAupRv9pQdKiMj) | 3:23 | 2022-08-19 | 2022-11-17 |
 | [Diamond](https://open.spotify.com/track/47NI4YCiDHbQ5c78awnGnL) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/1AdGn8BC7x3miVnZiDVW3m) | 3:23 | 2020-05-29 | 2022-10-20 |
 | [Dicking Around](https://open.spotify.com/track/6FGQSNQmdHth8rWT4yXBxU) | [All Things Blue](https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty) | [Dicking Around](https://open.spotify.com/album/5iwgSC9tIV0KdA5feGdkNI) | 4:05 | 2020-08-21 | 2022-01-22 |
 | [Disappear](https://open.spotify.com/track/3l2Tof2jle63mkRXF8MH89) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love](https://open.spotify.com/album/0jO4fXVHqEh3J1OgCfkxoi) | 2:59 | 2020-07-31 | 2022-01-22 |
@@ -193,7 +193,8 @@
 | [killmeinmysleep](https://open.spotify.com/track/77zViu7V0wRnzTafJE6HUH) | [Eli Moon](https://open.spotify.com/artist/7w9kwVf3KJfvBBfE4o6K56) | [killmeinmysleep](https://open.spotify.com/album/1i7rFneH6LmqeeAuy96u4U) | 3:20 | 2020-08-21 | 2022-04-29 |
 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 | 2020-11-18 | 2022-07-29 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-06-10 | 2022-09-17 |
-| [Larabar](https://open.spotify.com/track/40AqvlNZuYdCyo9gbCzOlw) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 2:55 | 2022-08-19 |  |
+| [Larabar](https://open.spotify.com/track/3YFbjJtmJPk71vK9tDohrY) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 2:55 | 2022-08-19 |  |
+| [Larabar](https://open.spotify.com/track/40AqvlNZuYdCyo9gbCzOlw) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 2:55 | 2022-08-19 | 2022-11-17 |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-04 | 2022-10-14 |
 | [Leaving The Canyons \- Radio Edit](https://open.spotify.com/track/1y7qBQRPUsnA1ff3LoK3p5) | [Kennebec](https://open.spotify.com/artist/2SF8LSy53kKd82omO2FHNc), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Leaving the Canyons](https://open.spotify.com/album/6vlOyEcveIrRtQRT7FeaU6) | 3:06 | 2022-10-08 | 2022-11-08 |
 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 | 2020-03-19 | 2022-01-22 |
@@ -223,6 +224,7 @@
 | [Make You Feel](https://open.spotify.com/track/2aufjq2wqMFwGBunVLaxiE) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Make You Feel](https://open.spotify.com/album/79kIGfwT0BTsljM6eCBlff) | 4:52 | 2020-01-28 | 2022-05-12 |
 | [Me and Your Mama](https://open.spotify.com/track/31tf1qEai5o5f4r66Kd0pU) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 6:19 | 2022-05-02 | 2022-06-01 |
 | [Mean](https://open.spotify.com/track/7xrwlO7d0pINF403SwlqeK) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Mean](https://open.spotify.com/album/7kaexmU6w343tzO0lrutvS) | 3:45 | 2020-06-26 | 2022-01-22 |
+| [MERCY](https://open.spotify.com/track/1WFCxAriOtoD8cQvChkllv) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [MERCY](https://open.spotify.com/album/7wyTJUF7oPfDYABCxqZH4P) | 4:26 | 2022-11-16 |  |
 | [Montara](https://open.spotify.com/track/49VM3vCQBFr1wJJw7xByGf) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Montara](https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO) | 3:45 | 2020-04-17 | 2022-01-22 |
 | [Moonboy](https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Moonboy](https://open.spotify.com/album/2LhpR3TL7xqk8N4wJBTGIN) | 2:12 | 2020-08-21 | 2022-08-20 |
 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 | 2022-06-10 | 2022-11-11 |

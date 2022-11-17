@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake and 21Savage",
-  "num_followers": 2463,
+  "num_followers": 2495,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0ODk4OSwwMDAwMDAwMDU3YWViZWJkYmQ0ODJiNGZlNzBkMmE5YjUwNzQ2MTRh",
+  "snapshot_id": "MTY2NzU0ODk4OSwwMDAwMDAwMDM1NGE4ZTllMjM5NGZmMjk3YWFjZmM2ZTZhNzFlYzEw",
   "tracks": [
     {
       "added_at": "2022-11-04 06:27:29",
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM"
     },
     {
-      "added_at": "2022-11-16 01:48:27",
+      "added_at": "2022-11-17 01:45:12",
       "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK"
@@ -983,6 +983,26 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Wid It",
+        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
+      },
+      "artists": [
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 181058,
+      "name": "Wid It",
+      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "blessing me (with Pa Salieu & Skillibeng)",
         "url": "https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 165507,
       "name": "blessing me (with Pa Salieu & Skillibeng)",
       "url": "https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Wid It",
-        "url": "https://open.spotify.com/album/5qsRFx2DlnekN322qt1UZM"
-      },
-      "artists": [
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
-        }
-      ],
-      "duration_ms": 181058,
-      "name": "Wid It",
-      "url": "https://open.spotify.com/track/4Go2u6SexdY2Qxo0oHMIzE"
     },
     {
       "added_at": "2022-07-27 12:30:07",
@@ -1093,26 +1093,6 @@
       "url": "https://open.spotify.com/track/6f8nS2g21RNEL7gNG4WJVT"
     },
     {
-      "added_at": "2022-08-05 07:53:58",
-      "album": {
-        "name": "In Da Car",
-        "url": "https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "In Da Car",
-      "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
-    },
-    {
       "added_at": "2022-07-27 12:30:07",
       "album": {
         "name": "Hustle",
@@ -1135,6 +1115,26 @@
       "duration_ms": 189038,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
+    },
+    {
+      "added_at": "2022-08-05 07:53:58",
+      "album": {
+        "name": "In Da Car",
+        "url": "https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "duration_ms": 258320,
+      "name": "In Da Car",
+      "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
     },
     {
       "added_at": "2022-07-27 12:30:07",

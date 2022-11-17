@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-73 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+74 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Jump](https://open.spotify.com/track/6bENTPZbrycDApVVQAkzEO) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Melanie Faye EP](https://open.spotify.com/album/3kehonQztenD0u318m715k) | 2:26 | 2021-09-08 |  |
 | [Kazuki\_2](https://open.spotify.com/track/4Q9XEpUEHOmhP0ThwFhgSo) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:27 | 2021-09-08 |  |
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-04-01 |  |
-| [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 | 2021-09-08 |  |
+| [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 | 2021-09-08 | 2022-11-17 |
+| [Lost in Paris](https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 3:14 | 2021-09-08 |  |
 | [Lost in Paris](https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lost in Paris](https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC) | 3:14 | 2021-09-08 | 2022-10-13 |
 | [Lovespell](https://open.spotify.com/track/37w7whht8ii8yxGfqkSf1d) | [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [Lovespell](https://open.spotify.com/album/0StAahiWVzY6SqoAKl26CR) | 3:18 | 2021-09-08 |  |
 | [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 3:57 | 2021-09-08 |  |

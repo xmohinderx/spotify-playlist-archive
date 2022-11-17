@@ -1830,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "Vaxis II: A Window of the Waking Mind",
+        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204408,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y"
+    },
+    {
+      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO"
       },
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 205205,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"

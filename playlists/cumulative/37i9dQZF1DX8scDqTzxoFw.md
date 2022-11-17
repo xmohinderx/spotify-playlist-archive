@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-164 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
+165 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/0e2GAgSIxFVmpVZxEgmPmE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [I'm a Lady \- from SMURFS: THE LOST VILLAGE](https://open.spotify.com/track/7MSFoTbgwi5BFpilewAbUo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'm a Lady \(from SMURFS: THE LOST VILLAGE\)](https://open.spotify.com/album/2WmgJ564fx8gNku6JdIjB5) | 2:44 | 2021-10-08 |  |
 | [i'm so tired...](https://open.spotify.com/track/2iwS33Jfev1QBiuhWVWZHY) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 2:42 | 2021-10-08 | 2022-07-29 |
 | [i'm so tired...](https://open.spotify.com/track/0MLLAaSe1dxW4PimqU1zCe) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~DRIVING VIBES\~](https://open.spotify.com/album/7pfWwjZcA9DoJwgj5zDtK8) | 2:42 | 2022-10-14 | 2022-11-14 |
-| [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2022-07-05 |  |
+| [i'm so tired...](https://open.spotify.com/track/4vjpLMyL3ZO6aphdYr8XYw) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:42 | 2022-07-05 | 2022-11-17 |
+| [i'm so tired...](https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 2:42 | 2022-10-14 |  |
 | [If I Can't Have You](https://open.spotify.com/track/2bT1PH7Cw3J9p3t7nlXCdh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:11 | 2021-10-08 |  |
 | [In My Mind Part 3 \(feat\. Georgi Kay\)](https://open.spotify.com/track/1HD8xCyKYt7Bm3P0CbvUbS) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj), [Edgar Vargas](https://open.spotify.com/artist/3IwU7rdLcGw0DY1MATanr0) | [In My Mind Part 3 \(feat\. Georgi Kay\)](https://open.spotify.com/album/4Asu7eu8lZtgyR8PFAnFTq) | 3:13 | 2021-10-08 |  |
 | [KIDZ BOP Never Stop](https://open.spotify.com/track/3Ncmc1ozAqjANGAJhdody8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Never Stop](https://open.spotify.com/album/0LS1fogHuhi7tXmiQTM474) | 2:55 | 2022-08-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,047 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,070 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 37 | [那一瞬間](https://open.spotify.com/track/0DHbVRD1gGwinQ38FtJGIx) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [痛快](https://open.spotify.com/album/5fPY9JLLnYDO0Qq579u844) | 5:30 |
 | 38 | [我說了謊 \- 《你在我心上》電影主題曲](https://open.spotify.com/track/7B6qvkY9cVoly9GKIFRIFm) | [張庭瑚](https://open.spotify.com/artist/3UeFOb0UQEgIbRjYON9Xo2) | [我說了謊 \(《你在我心上》電影主題曲\)](https://open.spotify.com/album/2tDMmzqCJw7oAdh0NyrsRI) | 4:10 |
 | 39 | [一個人生活 \- fun cover](https://open.spotify.com/track/0k7NRFXhU9HSkgNUMI9RkO) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [一個人生活 \(fun cover\)](https://open.spotify.com/album/5me5LH71wRDMJIOmmh0Srg) | 3:00 |
-| 40 | [孤狗](https://open.spotify.com/track/7Ioz4EFmIOYulf9BgPofim) | [桑尼](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [孤狗](https://open.spotify.com/album/7k70wofkqSxr5W5pd4Qnlk) | 3:57 |
+| 40 | [孤狗](https://open.spotify.com/track/7Ioz4EFmIOYulf9BgPofim) | [Sonnie](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [孤狗](https://open.spotify.com/album/7k70wofkqSxr5W5pd4Qnlk) | 3:57 |
 | 41 | [無法抗拒的你](https://open.spotify.com/track/3UIGjEhegNpwGvgGj2vXOd) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [無法抗拒的你](https://open.spotify.com/album/05Ie7yjRI6t4ZMCBHVWlvi) | 5:01 |
 | 42 | [曙光](https://open.spotify.com/track/5SryQm891U9J4DV1Peo4zj) | [Sam Tsen 曾玫傑](https://open.spotify.com/artist/17iX1xqtqu34cVLEMFO0hE) | [曙光](https://open.spotify.com/album/7eZIZzBW4H4595RGbWBRCv) | 3:38 |
 | 43 | [我先开口](https://open.spotify.com/track/3AMTOLZu3OmLbHzLEUWyAG) | [季彦霖](https://open.spotify.com/artist/4DjLJB18lVkqUJtbJj2Xtp) | [我先开口](https://open.spotify.com/album/2o4PYLlib2lQDR7qmH9l2t) | 3:45 |

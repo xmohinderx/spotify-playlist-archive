@@ -2600,6 +2600,28 @@
     },
     {
       "album": {
+        "name": "Falling For Christmas (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+        },
+        {
+          "name": "Ali Tomineek",
+          "url": "https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176279,
+      "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
+      "url": "https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
         "url": "https://open.spotify.com/album/1xbhKHimtN8dGTqOqf1EUe"
       },
@@ -2615,7 +2637,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 176279,
       "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
       "url": "https://open.spotify.com/track/7qn4ODYsNqM60NuCp3FbXy"

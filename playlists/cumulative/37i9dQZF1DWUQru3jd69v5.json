@@ -2880,6 +2880,24 @@
     },
     {
       "album": {
+        "name": "The Globe",
+        "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191486,
+      "name": "Il Ferro di \u010cechov",
+      "url": "https://open.spotify.com/track/0fNKABHyuS6JHqmQyZv3fM"
+    },
+    {
+      "album": {
         "name": "Il male qua",
         "url": "https://open.spotify.com/album/6FXHqJdvs7NyQFIoI61MAo"
       },

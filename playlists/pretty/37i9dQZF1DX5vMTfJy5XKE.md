@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,157 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,444 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 3 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 |
 | 4 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2) | 2:42 |
 | 5 | [What Christmas Means to Me](https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [What Christmas Means to Me](https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0) | 3:11 |
-| 6 | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/7qn4ODYsNqM60NuCp3FbXy) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/album/1xbhKHimtN8dGTqOqf1EUe) | 2:56 |
+| 6 | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 2:56 |
 | 7 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 8 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 |
 | 9 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1x86q4ESOVmMpdoK0FMbya) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 74 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 | 75 | [The Greatest Gift](https://open.spotify.com/track/6GBYT0dqkba3xaXS5BkPKE) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 4:01 |
 
-Snapshot ID: `MTY2ODIxMjg1NSwwMDAwMDAwMGUwN2RkZTBlNzJmZGQ2OGE1MTRlMDk3OTVmNGIxZGZh`
+Snapshot ID: `MTY2ODIxMjg1NSwwMDAwMDAwMDRmOTc0MGY5YjEwNWVmZTU1MmMxN2U0N2ZmYzMxNDVl`

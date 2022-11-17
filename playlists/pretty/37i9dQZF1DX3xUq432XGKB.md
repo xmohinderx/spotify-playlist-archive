@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 
 > Porter Robinson takes over the Guest List, featuring artists on this year's Second Sky lineup! Second Sky takes place October 29th, 2022 and tickets are available <a href="https://secondskyfest.com/">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,827 likes - 56 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,850 likes - 56 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 6 | [ANGEL VOICES](https://open.spotify.com/track/69urju2iS7zKGTxNVLYt5D) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [ANGEL VOICES](https://open.spotify.com/album/3BbIIKqZ8i3NJEDw4dHBr5) | 6:32 |
 | 7 | [Musician](https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:58 |
 | 8 | [PONPONPON](https://open.spotify.com/track/1c6C2wg7PRbPBRRUaEvheC) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [ぱみゅぱみゅレボリューション](https://open.spotify.com/album/0dYoEirIRah6OKJl1okk6Z) | 4:02 |
-| 9 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
+| 9 | [Be Nice 2 Me](https://open.spotify.com/track/7qqDKokSG1AdTT0co9TUhO) | [0505blade](https://open.spotify.com/artist/0Kz2acmNyU0C5qSucA0Ist) | [Be Nice 2 Me](https://open.spotify.com/album/7Anx02Gh6cudTssi1UVeD8) | 2:07 |
 | 10 | [Tums](https://open.spotify.com/track/00HG0BYPrRQQ5S7HVhVNSy) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Tums](https://open.spotify.com/album/71faAIel0uVhPSmu8VJcj7) | 3:37 |
 | 11 | [Stinger](https://open.spotify.com/track/0yrSc38VgNvTRVfzD01oDE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Stinger](https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3) | 3:50 |
 | 12 | [Dreamcatching](https://open.spotify.com/track/07ZJYwSX32GOYOk3tybj2T) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:27 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xUq432XGKB.md) - [plain]
 | 55 | [Furnace Loop](https://open.spotify.com/track/2Afn9DVEGZdNToKzo1HD4I) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Airborne Lard](https://open.spotify.com/album/3d8kb3eoguY0W0rL1Fh9Dy) | 2:51 |
 | 56 | [Pressure](https://open.spotify.com/track/11AZJufpf0EdlyGes9Jgrh) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:29 |
 
-Snapshot ID: `MTY2NjM2NDQwMCwwMDAwMDAwMDU0Y2U3MTYyNzk1NzA0ODA5MDEzYmIwZDJlYzk3ZGVl`
+Snapshot ID: `MTY2NjM2NDQwMCwwMDAwMDAwMDExOWY5ZTMxNmNkNzRmNTI0ZTQ5MjFhODQ3NmZiZTlj`

@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Baker's Dozen",
+        "url": "https://open.spotify.com/album/5lPk6MPBbKW43uH9RFPecD"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228375,
+      "name": "Baker's Dozen",
+      "url": "https://open.spotify.com/track/4bG2bFzJGX3P4igPWaVonz"
+    },
+    {
+      "album": {
         "name": "Bed Head (Acoustic)",
         "url": "https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M"
       },
@@ -1596,6 +1614,24 @@
     },
     {
       "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Opaline",
+      "url": "https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp"
+    },
+    {
+      "album": {
         "name": "Opaline",
         "url": "https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79"
       },
@@ -1607,7 +1643,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 192040,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW"
@@ -1791,7 +1827,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 214221,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K"

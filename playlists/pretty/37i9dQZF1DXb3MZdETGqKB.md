@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Christone "Kingfish" Ingram
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,433 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,491 likes - 79 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 25 | [Lemonades \(feat\. Cam Kimbrough, Luther Dickinson & Chuck Treece\)](https://open.spotify.com/track/72jNvtgMO1NuNFu37h9019) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cam Kimbrough](https://open.spotify.com/artist/5iAM7x8kZR3VvaO2FMDaFq), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:08 |
 | 26 | [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 |
 | 27 | [They Go Low](https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [They Go Low](https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb) | 3:42 |
-| 28 | [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 |
+| 28 | [All Night \- Edit](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 |
 | 29 | [Yada Yada](https://open.spotify.com/track/2IXvJ4KQFzo1TnqMgTk12w) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Yada Yada](https://open.spotify.com/album/2CbfiGqSkYci5rPVgYRUGk) | 2:35 |
 | 30 | [Sweet Hitchhiker](https://open.spotify.com/track/48ElMRo9c1HlS23AuHMRVS) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/62wREHeyhnAmDMkc4oZlgS) | 3:25 |
 | 31 | [My City](https://open.spotify.com/track/2ADuHL3sy2Bjs3S4MwyT1M) | [Kat Riggins](https://open.spotify.com/artist/0gE5H6j7N6LseB5laJ8m1E), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Busta Free](https://open.spotify.com/artist/5KXhE6h6Bp27WXnENy8j9v) | [Progeny](https://open.spotify.com/album/41N9g80QNwWwm9sEdcUw93) | 4:33 |

@@ -372,6 +372,28 @@
     },
     {
       "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86807,
+      "name": "E Wa Woo",
+      "url": "https://open.spotify.com/track/6MMBVy9R8HsAPsDpxpqzX0"
+    },
+    {
+      "album": {
         "name": "Synchro System",
         "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
       },

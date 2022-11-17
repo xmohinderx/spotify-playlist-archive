@@ -393,7 +393,7 @@
     {
       "album": {
         "name": "Inventing Anna (Music From The Netflix Series)",
-        "url": "https://open.spotify.com/album/4ryUHVYdq9dJXyr1Doc1lD"
+        "url": "https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM"
       },
       "artists": [
         {
@@ -408,6 +408,28 @@
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 98579,
+      "name": "Vivian Connects The Dots",
+      "url": "https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0"
+    },
+    {
+      "album": {
+        "name": "Inventing Anna (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/4ryUHVYdq9dJXyr1Doc1lD"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Pierre Charles",
+          "url": "https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
       "duration_ms": 98579,
       "name": "Vivian Connects The Dots",
       "url": "https://open.spotify.com/track/4gnvkgziSWeOajYAQfg1jT"

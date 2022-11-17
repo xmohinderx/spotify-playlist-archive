@@ -1,12 +1,12 @@
 {
   "description": "So you think you got pocket? Cover: Nate Smith",
-  "num_followers": 6822,
+  "num_followers": 6850,
   "original_name": "Pocket",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDcxMzI4OGQyMTNmOTJmOTY2NTk4YzQ2NDIzNGQ1MWU2",
+  "snapshot_id": "MTY2ODYyMDYyMSwwMDAwMDAwMDhhM2U4NGRiNzAxZjU5N2MyNzczYzRkMzYyMmQwZWZj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -123,6 +123,26 @@
       "duration_ms": 345528,
       "name": "Bad Kids To The Back",
       "url": "https://open.spotify.com/track/3nvREfeASA91U3atMsVO3H"
+    },
+    {
+      "added_at": "2022-11-16 17:43:41",
+      "album": {
+        "name": "NOT TiGHT",
+        "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 248894,
+      "name": "NOT TiGHT",
+      "url": "https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar"
     },
     {
       "added_at": "2022-06-01 16:30:45",
@@ -711,22 +731,6 @@
       "duration_ms": 341173,
       "name": "The Joint",
       "url": "https://open.spotify.com/track/64QrWHRvVUuVZoxMYjeL2y"
-    },
-    {
-      "added_at": "2022-06-01 16:30:45",
-      "album": {
-        "name": "Master Plan",
-        "url": "https://open.spotify.com/album/4vs7q8r35pyN3z4VIlSh1h"
-      },
-      "artists": [
-        {
-          "name": "Dave Weckl",
-          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Tower Of Inspiration",
-      "url": "https://open.spotify.com/track/32k2TAk4Ppij5xqCP3Udv2"
     },
     {
       "added_at": "2022-06-01 16:30:45",

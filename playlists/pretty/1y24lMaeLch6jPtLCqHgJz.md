@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain](/playlists/plain/1y24lMaeLch6jPtLCqHgJz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1y24lMaeLch6jPtLCqHgJz)
 
-### [Progressive House 2022 ](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
+### [Progressive House 2022 💨 Festival Songs](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
 
 > The biggest Progressive House anthems of 2022\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,006 likes - 80 songs - 4 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,003 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 79 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
 | 80 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 
-Snapshot ID: `MjA0Myw3MGU4YWQ1ZTQ4NWUwMjU5YTUzZTAyM2Q5NzJiM2MzOGE5NTc1ODQw`
+Snapshot ID: `MjA0NCw1M2ViMTI5ZjhjOTAzNjY2NzkzMzFmMTRjYWEyMWNiYjJmMDk3Zjgz`

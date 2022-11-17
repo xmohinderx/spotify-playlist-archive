@@ -1,12 +1,12 @@
 {
   "description": "Release The Bats! Siouxsie and the Banshees on the cover.",
-  "num_followers": 479837,
+  "num_followers": 480322,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQxMjQ4MCwwMDAwMDAwMGRhMTMyYzU2NTBlODI3MDE5MzFlMjgyMWI5MzYwZWY1",
+  "snapshot_id": "MTY2NDQxMjQ4MCwwMDAwMDAwMGRkZjE5NzRmNjRlYTdhMmU4ZDU5NWU4NmE3MjAxMGQ4",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Love Like Blood",
-      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Scott 3",
         "url": "https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 86333,
       "name": "30 Century Man",
       "url": "https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Love Like Blood",
+      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
     },
     {
       "added_at": "2021-10-15 04:04:50",

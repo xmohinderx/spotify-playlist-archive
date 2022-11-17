@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-238 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
+239 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/7x6tkeswM5zsR8gwqcHjZe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Old Town Road](https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Old Town Road](https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv) | 2:51 | 2021-07-16 |  |
 | [On My Own](https://open.spotify.com/track/7hfA32qNA2m0a0VuNUSwfx) | [Mei River](https://open.spotify.com/artist/64sIuc1VSMcd5xQvcmzvNV) | [On My Own](https://open.spotify.com/album/38cjY4Ucs6AEhxPHhjo6bW) | 2:27 | 2021-07-16 | 2022-07-28 |
 | [One Kiss](https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [One Kiss](https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll) | 2:40 | 2021-07-16 |  |
-| [Opaline](https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Opaline](https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79) | 3:12 | 2021-07-16 |  |
+| [Opaline](https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:12 | 2021-07-16 |  |
+| [Opaline](https://open.spotify.com/track/7qPGnjxHQNIv4zlnk6LxZW) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Opaline](https://open.spotify.com/album/5BxuUnw6ZVs7zgBQ2QKG79) | 3:12 | 2021-07-16 | 2022-11-17 |
 | [Ordinary People](https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Ordinary People](https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR) | 4:13 | 2021-07-16 | 2022-10-13 |
 | [Ordinary People](https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [A World Gone By](https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8) | 4:13 | 2021-07-16 |  |
 | [Paper Thin](https://open.spotify.com/track/6D2ftw6BFEsczHNiqxuhHP) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 4:58 | 2021-07-16 | 2022-07-29 |

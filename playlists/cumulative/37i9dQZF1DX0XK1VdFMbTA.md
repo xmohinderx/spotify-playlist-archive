@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock!
 
-827 songs - 2 day 9 hr 50 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
+829 songs - 2 day 9 hr 57 min - [published](https://open.spotify.com/playlist/0MQTjD16oHAcLkC8Pt5QWL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2022-01-05 |  |
 | [Barbed Wire Love](https://open.spotify.com/track/5vWYEFE5oC9mFrpufdNqb8) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 3:32 | 2022-01-05 |  |
 | [Bargain](https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:33 | 2022-01-05 |  |
-| [Barrytown](https://open.spotify.com/track/53GpNOI1Qe1tx0p6CROgwx) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 3:20 | 2022-01-05 |  |
+| [Barrytown](https://open.spotify.com/track/53GpNOI1Qe1tx0p6CROgwx) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 3:20 | 2022-01-05 | 2022-11-17 |
 | [Beautiful Girls \- 2015 Remaster](https://open.spotify.com/track/7Ly4DzymgujObKg7wWVHZV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen II \(Remastered\)](https://open.spotify.com/album/3w93PGkmXAmEAdJVvmPbzI) | 3:56 | 2022-01-05 |  |
 | [Been down so Long](https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:39 | 2022-01-05 |  |
 | [Beer Drinkers & Hell Raisers \- 2006 Remaster](https://open.spotify.com/track/2ap1hCe7wyOWkMJsnIn0V1) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:25 | 2022-01-05 |  |
@@ -222,6 +222,7 @@
 | [Fire in Cairo \- 2005 Remaster](https://open.spotify.com/track/2kSRY5KlaamLk1w787JVJc) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys \(Deluxe Edition\)](https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC) | 3:23 | 2022-01-05 |  |
 | [Fire in Cairo \- 2005 Remaster](https://open.spotify.com/track/4oKCafQwE4ktbjAoCtLFJ2) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/7qMuRtuE0f9Ct1wRInNT3q) | 3:23 | 2022-01-05 | 2022-11-13 |
 | [Fire In The Hole](https://open.spotify.com/track/4usVYcPlxRgRet6YashdCJ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 3:26 | 2022-01-05 | 2022-11-09 |
+| [Fire In The Hole](https://open.spotify.com/track/1CZR9j4cF4r2uuCpiMdsX5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 3:29 | 2022-01-05 |  |
 | [Firehouse](https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:17 | 2022-01-05 | 2022-11-13 |
 | [Firth of Fifth](https://open.spotify.com/track/5SiNiJz8QZGJdk7WNvADt1) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/7xaM3ah9ZO4BjrcFj5vOZe) | 9:37 | 2022-01-05 | 2022-11-13 |
 | [Firth of Fifth \- New Stereo Mix](https://open.spotify.com/track/6UpMG6BDOd5xecMTu5r3sj) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/1rZGSWC3pMmejDwYG0ZXma) | 9:30 | 2022-01-05 |  |
@@ -461,6 +462,7 @@
 | [Metal Guru](https://open.spotify.com/track/0HoMdjB1XwwMlyPfTV7DEj) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The Slider](https://open.spotify.com/album/3Dg3quPRLDCsEqnzgPl6PE) | 2:29 | 2022-01-05 | 2022-07-29 |
 | [Midnight Man](https://open.spotify.com/track/3jWeD82HOwB25ub77Qguvv) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Thirds](https://open.spotify.com/album/0QoD6z28TltvI4pVY4bEGl) | 3:29 | 2022-01-05 |  |
 | [Midnite Cruiser](https://open.spotify.com/track/3Hp7HkYTFxzMrTJdPXQJI6) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:06 | 2022-01-05 | 2022-11-09 |
+| [Midnite Cruiser](https://open.spotify.com/track/7y5nJToPWMjtJLcLEGxyGf) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 4:12 | 2022-01-05 |  |
 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 | 2022-01-05 | 2022-07-29 |
 | [Miss America](https://open.spotify.com/track/2UpMxlf6h57UsAU77G172s) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 5:02 | 2022-01-05 |  |
 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 | 2022-01-05 |  |
@@ -734,7 +736,7 @@
 | [The Six Teens](https://open.spotify.com/track/46xrHRC88Cg7DquXDvafzw) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Action! The Ultimate Story](https://open.spotify.com/album/1jEk0k3VNGLcezveTCUFfU) | 4:01 | 2022-01-05 | 2022-07-29 |
 | [The Six Teens](https://open.spotify.com/track/49ev3lr9xqla3h2P5Zztt1) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Best Of Sweet](https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG) | 4:04 | 2022-01-05 | 2022-11-13 |
 | [The Six Teens](https://open.spotify.com/track/4JUvMWfJ69MCx6JT8G9pfN) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Desolation Boulevard](https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54) | 4:05 | 2022-01-05 |  |
-| [The Song Is Over](https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 6:16 | 2022-01-05 |  |
+| [The Song Is Over](https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 6:16 | 2022-01-05 | 2022-11-17 |
 | [The Stake](https://open.spotify.com/track/3NpJ94FbjL3HWUiuo6lHZn) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:59 | 2022-01-05 | 2022-07-29 |
 | [The Trees](https://open.spotify.com/track/5cHnoalJPx909Umw8EoroV) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Hemispheres](https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc) | 4:42 | 2022-01-05 |  |
 | [The Wall Street Shuffle](https://open.spotify.com/track/4ZREMqESEEloSWGdxJySKC) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Tenology](https://open.spotify.com/album/5FPOXQ7ssVwLwSxqL4rGYa) | 3:51 | 2022-01-05 |  |

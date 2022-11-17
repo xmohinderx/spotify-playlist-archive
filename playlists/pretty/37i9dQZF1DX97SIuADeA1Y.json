@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 276214,
+  "num_followers": 276292,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE1OTQyNiwwMDAwMDAwMGMxNjYzZTljZTNlZDBiZWVlYTJjMTM0NzIxOTkxODQ3",
+  "snapshot_id": "MTY2ODE1OTQyNiwwMDAwMDAwMDdjMzdhZTAzMWYxZTI4ZmNlY2E4ZjM5Mzg2ODM3N2I5",
   "tracks": [
     {
       "added_at": "2022-11-11 09:37:05",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2022-11-11 09:37:05",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
-      },
-      "artists": [
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        }
-      ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
-    },
-    {
-      "added_at": "2022-11-11 09:37:05",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 140000,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
+    },
+    {
+      "added_at": "2022-11-11 09:37:05",
+      "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+      },
+      "artists": [
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        }
+      ],
+      "duration_ms": 154904,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
     },
     {
       "added_at": "2022-11-11 09:37:05",

@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 247198,
       "name": "BURU",
       "url": "https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn"
@@ -185,7 +185,7 @@
     {
       "album": {
         "name": "filter",
-        "url": "https://open.spotify.com/album/6lKc9qXFV4yFPEtG8tYABC"
+        "url": "https://open.spotify.com/album/7eGTfApTKJKXhCqcpSqBxz"
       },
       "artists": [
         {
@@ -200,6 +200,28 @@
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227234,
+      "name": "filter",
+      "url": "https://open.spotify.com/track/5iZkaBAyiwCL3UrX3kjbyP"
+    },
+    {
+      "album": {
+        "name": "filter",
+        "url": "https://open.spotify.com/album/6lKc9qXFV4yFPEtG8tYABC"
+      },
+      "artists": [
+        {
+          "name": "AKIRA",
+          "url": "https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv"
+        },
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
       "duration_ms": 227234,
       "name": "filter",
       "url": "https://open.spotify.com/track/6Eru2VENyVOoDeVAmH9kiL"
@@ -1127,7 +1149,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 205920,
       "name": "\u6708\u306b\u5420\u3048\u308b",
       "url": "https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ"

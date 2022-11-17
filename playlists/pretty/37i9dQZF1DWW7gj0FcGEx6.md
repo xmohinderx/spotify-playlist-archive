@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,362 likes - 117 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,486 likes - 117 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 30 | [Agojie Return](https://open.spotify.com/track/6Wbzs713mPhSy7YkHdJGYK) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [The Woman King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lABjAqQEaDrHcoap386Lr) | 1:37 |
 | 31 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 |
 | 32 | [Never Grow Up](https://open.spotify.com/track/6wfLlpbzXINlS7bLIw5oOc) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Light & Magic \(Original Soundtrack\)](https://open.spotify.com/album/21Yic6WPqWFWtXOCiZduTM) | 2:47 |
-| 33 | [Aurora](https://open.spotify.com/track/60W0NU4SBa2I2yC7b44Kja) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0WTosvMJLB7LhIWZ6sea1l) | 2:57 |
+| 33 | [Aurora](https://open.spotify.com/track/3lve6DLYGjfrYe2QsoDoeu) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Alma \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0anuS0gAUcyLl9426vSdrU) | 2:57 |
 | 34 | [The Book of Boba Fett](https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:55 |
 | 35 | [Gun Barrel \- From ''No Time To Die'' Soundtrack](https://open.spotify.com/track/2ycHXNy1oD6Syz0pGZzVq7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Gun Barrel \(From ''No Time To Die'' Soundtrack\)](https://open.spotify.com/album/535DREkoMfHdM80zjUJnWL) | 0:55 |
 | 36 | [Ms\. Marvel Suite \- From "Ms\. Marvel"](https://open.spotify.com/track/75yRQ1RE96bpNPhQvcOveR) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel Suite \(From "Ms\. Marvel"\)](https://open.spotify.com/album/1f6HDHbyMsSLFqomt40gmV) | 4:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 46 | [Crimes of the Future](https://open.spotify.com/track/4xumyW5ML8uOvZmDsc8rHL) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Crimes of the Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1KKkhpn8G1lPj6bmb1qMhe) | 2:10 |
 | 47 | [We Will Heal](https://open.spotify.com/track/0602EuPn3xAfSaX0Mz2IAE) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [She Will \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42OuXan0cgtOZsYZlFSXD5) | 3:27 |
 | 48 | [Iris](https://open.spotify.com/track/4NugB1xXN1iWAf0iHhG7Ex) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Operation Mincemeat \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6zWB8arPy9isWEg4januGx) | 1:20 |
-| 49 | [Wedding Day](https://open.spotify.com/track/6FdZa2ipXEDOd6Hw3wE3r6) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Windfall \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/69e7XDQqWy86rMvK7dkBi1) | 2:02 |
+| 49 | [Wedding Day](https://open.spotify.com/track/5HTUwlijsog2BomPCl5P3M) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Windfall \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/2KJkduLAyyzgAmZeTACdnG) | 2:02 |
 | 50 | [Make History](https://open.spotify.com/track/3cs78hXzKzrsx2xexZZYHr) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Night Sky \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2nmesQ2rKBppaPu8kcKf62) | 1:13 |
 | 51 | [Don't Look Up \- Main Title Theme](https://open.spotify.com/track/46Ykbossnav7MND8qCJcGR) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 0:51 |
 | 52 | [Maps](https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 1:48 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 116 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 | 117 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 |
 
-Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMGUwMjIxNDgxNjE4YmE5NDlkNzhiMjE4NWM5MGUxMmQ3`
+Snapshot ID: `MTY2ODEzOTIwMCwwMDAwMDAwMDg1M2Y5ZDAwOTJmZDc5ZGIzN2ZiMWVhZGU4NDNhNWJh`

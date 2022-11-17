@@ -2151,7 +2151,7 @@
     {
       "album": {
         "name": "Netflix Jr. Jams Vol. 4",
-        "url": "https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya"
+        "url": "https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT"
       },
       "artists": [
         {
@@ -2162,6 +2162,24 @@
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 140810,
+      "name": "Trying New Foods",
+      "url": "https://open.spotify.com/track/7Go2RKeKgTkwhZ7i2r931R"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams Vol. 4",
+        "url": "https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
       "duration_ms": 140810,
       "name": "Trying New Foods",
       "url": "https://open.spotify.com/track/7KlXmSL2CAk3qGBxUjqOyc"

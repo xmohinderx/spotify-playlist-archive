@@ -2555,10 +2555,44 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 226666,
       "name": "Escape (feat. Hayla) - John Summit Remix",
       "url": "https://open.spotify.com/track/0UvddYrJK4x5OWfxpSAZNj"
+    },
+    {
+      "album": {
+        "name": "Escape (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3S9GUf0drt2FBoNkwJZQjZ"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Escape - John Summit Remix",
+      "url": "https://open.spotify.com/track/68lTEhMEx4MxDCJypT6bXE"
     },
     {
       "album": {

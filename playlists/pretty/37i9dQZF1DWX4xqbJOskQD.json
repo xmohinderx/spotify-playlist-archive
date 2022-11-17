@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1330,
+  "num_followers": 1332,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDc0ODc2YTRmZGM1ZmQwNDI2OGU0ZmI3MDE5ZjZiMTgz",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDhmMGQ3M2M5OWFmMjdlNjIxOGZlODhiYTZjYjcxYzcy",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Manhattan Transfer",
-        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
-      },
-      "artists": [
-        {
-          "name": "The Manhattan Transfer",
-          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Tuxedo Junction",
-      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The Four Aces' Greatest Hits",
         "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 180840,
       "name": "Three Coins In The Fountain",
       "url": "https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Manhattan Transfer",
+        "url": "https://open.spotify.com/album/2xpz9Rm7NSVyOGN5zBODNx"
+      },
+      "artists": [
+        {
+          "name": "The Manhattan Transfer",
+          "url": "https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Tuxedo Junction",
+      "url": "https://open.spotify.com/track/3NMvVmKyjNGs91aSYje0RZ"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -277,20 +277,24 @@
       "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "Hits Singles: Collectors Series",
-        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
+        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
+        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
       },
       "artists": [
         {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Axel Stordahl And His Orchestra",
+          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
         }
       ],
-      "duration_ms": 151768,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
+      "duration_ms": 191306,
+      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
+      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -325,24 +329,20 @@
       "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
+      "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
-        "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
+        "name": "Hits Singles: Collectors Series",
+        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Axel Stordahl And His Orchestra",
-          "url": "https://open.spotify.com/artist/2Ixy2lmIGGsrbinhHvnFJl"
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
-      "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
+      "duration_ms": 151768,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
     },
     {
       "added_at": "2020-08-17 22:49:59",

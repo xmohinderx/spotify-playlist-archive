@@ -4,7 +4,7 @@
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-221 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/4W1f5QkM0RmmszcjLODvTL)
+222 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/4W1f5QkM0RmmszcjLODvTL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Body And Soul](https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 4:10 | 2022-06-29 | 2022-10-25 |
 | [Bunny](https://open.spotify.com/track/608Il5lMSRS5AK7QUZlVPt) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 5:43 | 2022-01-20 | 2022-10-08 |
 | [But Beautiful](https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 4:40 | 2022-01-20 |  |
-| [But Not For Me](https://open.spotify.com/track/0RylOkUn6emxO9bPwxWqsI) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:51 | 2022-01-20 |  |
+| [But Not For Me](https://open.spotify.com/track/0RylOkUn6emxO9bPwxWqsI) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:51 | 2022-01-20 | 2022-11-17 |
 | [Chicago](https://open.spotify.com/track/5TjO0GOOon3R6YOnRFPwzk) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Best Of Benny Goodman](https://open.spotify.com/album/1I1E1ZUYFDK0Dn4DK5YmrH) | 2:59 | 2022-08-17 |  |
 | [Cocktails for Two \- Remastered](https://open.spotify.com/track/7DAMG7QY6VYazuuYfQVTJl) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Avant\-Garde Jazz \(Remastered\)](https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N) | 3:17 | 2022-02-25 |  |
 | [Come Rain or Come Shine](https://open.spotify.com/track/4LSplRZj1Xk5JUCARpUV8j) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3pmwIzJoyWl2gys1A8jUml) | 3:23 | 2022-01-20 | 2022-11-14 |
@@ -196,6 +196,7 @@
 | [This Can't Be Love](https://open.spotify.com/track/4rp0OVs7GuHu7UF1Pbhrrq) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 2:24 | 2022-01-20 | 2022-08-13 |
 | [This Is Always](https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 3:11 | 2022-01-20 |  |
 | [This Year's Kisses \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [A Musical Romance](https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu) | 3:07 | 2022-04-08 | 2022-10-07 |
+| [Till There Was You](https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Something Nice](https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq) | 2:06 | 2022-11-17 |  |
 | [Time After Time](https://open.spotify.com/track/6M5sixn4EsVnrxBE4RpTNr) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 4:34 | 2022-01-20 |  |
 | [Time After Time \- Vocal Version](https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:46 | 2022-01-20 |  |
 | [Time And Again](https://open.spotify.com/track/3ewiw4NXq7VPVGMzgufYtE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 4:40 | 2022-01-20 | 2022-07-29 |

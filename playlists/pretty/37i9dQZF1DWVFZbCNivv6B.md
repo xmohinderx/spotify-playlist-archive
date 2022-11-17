@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, rimas de la calle, en voz de Gera MX, Jayrick y Rich Vagos
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,047 likes - 98 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,287 likes - 98 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

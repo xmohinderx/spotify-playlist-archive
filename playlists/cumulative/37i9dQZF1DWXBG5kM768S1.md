@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-188 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
+189 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/532FWuTW1QFsPK6DTMO5T1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/19LE8t2JyUMc3JHJglU8Wc) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/67BqKK5qSYV1zs2YH2unlY) | 4:19 | 2022-01-06 | 2022-07-29 |
 | [Det Fine Vi Hadd' Sammen](https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [Jippi](https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u) | 4:19 | 2022-07-14 |  |
 | [Det Hainnle Om Å Leve](https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/1J6HpgChGfFx3Syl6JvObp) | 4:14 | 2021-12-16 | 2022-07-29 |
-| [Det Hainnle Om Å Leve](https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9) | 4:14 | 2022-07-14 |  |
+| [Det Hainnle Om Å Leve](https://open.spotify.com/track/53EbOd2bdKu4oNEkCKAfOX) | [Kine Hellebust](https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec) | [Det Hainnle Om Å Leve \- Mellom Anna](https://open.spotify.com/album/5FnjxMOH7N4FpHcaH0POY9) | 4:14 | 2022-07-14 | 2022-11-17 |
 | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Det jeg vil ha \(fra deg\)](https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i) | 3:23 | 2021-12-16 |  |
 | [Det magiske ordet unnskyld](https://open.spotify.com/track/6DJ0AMxcMofBkTbwPlQ0D6) | [CC Cowboys](https://open.spotify.com/artist/1FKCRRhfazT8IjGqy9QT1X) | [Det magiske ordet unnskyld](https://open.spotify.com/album/56RwG6wvFk4OvYvxk2BXRo) | 3:56 | 2021-12-16 | 2022-07-25 |
 | [Det perfekte teater](https://open.spotify.com/track/7phf2q7m2kxsoiVmiYxq3O) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Fatig ferdamann](https://open.spotify.com/album/3F2HSoRImo4Y890QxndooT) | 3:40 | 2022-01-06 | 2022-04-20 |
@@ -138,6 +138,7 @@
 | [Mysteriet deg](https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [De Beste](https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe) | 3:59 | 2022-02-17 | 2022-07-24 |
 | [Måneskinnsmøyane](https://open.spotify.com/track/4nycvJuvgOsWihHd6S3815) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT) | [Elverhøy](https://open.spotify.com/album/3HguT8PpDjz4e8gEhS1zpy) | 4:06 | 2022-03-23 | 2022-04-21 |
 | [Nordlandsnetter](https://open.spotify.com/track/0Lli0anlVb2OgRMgrIEHpr) | [Kirsti Sparboe](https://open.spotify.com/artist/2sIuZYabYsCOevwupstDNr) | [Et Vennlig Ord](https://open.spotify.com/album/0vBJEktE1gYiq6LEZ13zxT) | 3:29 | 2022-01-06 | 2022-07-05 |
+| [Novemberdag novembernatt](https://open.spotify.com/track/2pnrk0bjGIhgsklVVrKz1v) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Sanger du skal få med KORK](https://open.spotify.com/album/5ss1h2s0lkcXkydRUzIqeA) | 5:22 | 2022-11-10 |  |
 | [Nå er jeg inspirert av Veronica Maggio](https://open.spotify.com/track/6aeoCU2Ub7S82JJ152ROUz) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N) | [Nå er jeg inspirert av Veronica Maggio](https://open.spotify.com/album/0u0bXmYCu6kuGzuZnKN8TZ) | 3:33 | 2022-10-13 |  |
 | [Når Det Er Natt](https://open.spotify.com/track/3YiYknBwDPD3TctjA81hye) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Når det er natt](https://open.spotify.com/album/6edLhz29gflzs0AFYiWqoC) | 3:28 | 2021-12-16 | 2022-07-23 |
 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:51 | 2021-12-16 |  |

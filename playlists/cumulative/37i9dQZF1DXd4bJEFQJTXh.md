@@ -4,7 +4,7 @@
 
 > Turn down the lights, snack on some popcorn, and enjoy these tracks from your family's favorite films.
 
-190 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
+191 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/5VEyXoyPv34EuLVwWwWH7G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Almost There](https://open.spotify.com/track/2GLyruWagsv8o7aGNXboH1) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 2:24 | 2022-03-25 |  |
 | [Better When I'm Dancin'](https://open.spotify.com/track/0BMyRHOFOvHjAEzeNfQIeN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0YEI8tlvSXBOI5sy4WL4zF) | 2:56 | 2022-03-25 |  |
 | [Beyond The Sea](https://open.spotify.com/track/2fjRInUmwqLhgvW9hQtbo6) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 4:26 | 2022-03-25 |  |
-| [Big Mouth](https://open.spotify.com/track/2IdCw3L1uesUcAOA4KqKZB) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/3BU5ehRs8JdDm2bW78tAS5) | 1:50 | 2022-03-25 |  |
+| [Big Mouth](https://open.spotify.com/track/2IdCw3L1uesUcAOA4KqKZB) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/3BU5ehRs8JdDm2bW78tAS5) | 1:50 | 2022-03-25 | 2022-11-17 |
+| [Big Mouth](https://open.spotify.com/track/4kBcn9KBpSpq4eTqNFfK9i) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 1:50 | 2022-03-25 |  |
 | [Brand New Day](https://open.spotify.com/track/5mWJq6BNuI2uizWoQxllnz) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Brand New Day](https://open.spotify.com/album/5MOogZNoZVsofgmG8rla4z) | 2:39 | 2022-03-25 |  |
 | [Broken & Beautiful](https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Broken & Beautiful](https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj) | 3:38 | 2022-03-25 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6zLXWVAskybBaM2L5rCxiG) | [A\*Teens](https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9) | [Lilo & Stitch](https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP) | 3:07 | 2022-03-25 |  |

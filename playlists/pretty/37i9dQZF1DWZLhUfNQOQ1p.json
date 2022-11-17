@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230939,
+  "num_followers": 230931,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGZlMWQ1ZjhlODA1NGYyZWY5YmVmZDNjYTg1OGI1ZDYw",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDk1OWM1MTZhMzk4OTM5N2Y5ODhjMTY0NjI3NWVhNGUx",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -471,26 +471,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "One Last Time",
-        "url": "https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX"
-      },
-      "artists": [
-        {
-          "name": "Tyron Hapi",
-          "url": "https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I"
-        },
-        {
-          "name": "Lucas Marx",
-          "url": "https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV"
-        }
-      ],
-      "duration_ms": 150014,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 172027,
       "name": "Movement",
       "url": "https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
+      },
+      "artists": [
+        {
+          "name": "Zonoma",
+          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
+        },
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 200590,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -543,22 +543,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
       "artists": [
         {
-          "name": "Zonoma",
-          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
-        },
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
         }
       ],
-      "duration_ms": 200590,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -579,22 +575,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Don't Ever Wonder",
         "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 147367,
       "name": "Don't Ever Wonder",
       "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Love Me (Don't Worry)",
+        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Tullio",
+          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Love Me (Don't Worry)",
+      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -643,26 +643,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Love Me (Don't Worry)",
-        "url": "https://open.spotify.com/album/1XCgs6q5reDYnPAC7pNF7l"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Tullio",
-          "url": "https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Love Me (Don't Worry)",
-      "url": "https://open.spotify.com/track/6pi7j1y3hVecCmLsYwSLUx"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Everything Shines",
         "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
       },
@@ -679,22 +659,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Elephant & Castle",
         "url": "https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v"
       },
@@ -707,6 +671,22 @@
       "duration_ms": 186900,
       "name": "Elephant & Castle",
       "url": "https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -743,22 +723,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Never Gonna Give You Up",
-        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
-      },
-      "artists": [
-        {
-          "name": "Mac Beez",
-          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Slow Me Down",
         "url": "https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3"
       },
@@ -771,6 +735,22 @@
       "duration_ms": 219230,
       "name": "Slow Me Down",
       "url": "https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
+      },
+      "artists": [
+        {
+          "name": "Mac Beez",
+          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
+        }
+      ],
+      "duration_ms": 212910,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -983,22 +963,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
-      },
-      "artists": [
-        {
-          "name": "Sol Calor",
-          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
-        }
-      ],
-      "duration_ms": 218584,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Crying Wolf",
         "url": "https://open.spotify.com/album/6lXkNaCZaOwdwc4P0iwn8L"
       },
@@ -1015,6 +979,42 @@
       "duration_ms": 218360,
       "name": "Crying Wolf",
       "url": "https://open.spotify.com/track/44OqP1IyaEBYY2BsSuPbva"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Sunrise To Sunset",
+        "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 186610,
+      "name": "Wishing Well (feat. Olivia Sebastianelli)",
+      "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT"
+      },
+      "artists": [
+        {
+          "name": "Sol Calor",
+          "url": "https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj"
+        }
+      ],
+      "duration_ms": 218584,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ"
     }
   ],
   "unique_name": "Aperitivo Time",

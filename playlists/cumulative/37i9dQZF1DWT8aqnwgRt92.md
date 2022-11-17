@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-348 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+350 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 | 2022-07-19 | 2022-09-21 |
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-20 | 2022-10-28 |
 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Suga Shikao](https://open.spotify.com/artist/6FLRqfzwvP0AmpGhAuTB2e), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-28 | 2022-08-24 |
-| [more<STRONGLY](https://open.spotify.com/track/5qodMWuc9osE51ZwfFQuKY) | [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E) | [more<STRONGLY](https://open.spotify.com/album/4P4Oe532LOoFXWAnWVA1eV) | 5:02 | 2022-11-15 |  |
+| [more<STRONGLY](https://open.spotify.com/track/3i1AGed6mcym5gbF02oPDm) | [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E) | [more<STRONGLY](https://open.spotify.com/album/2b53se6W2pO6rMbQ0OkSao) | 5:01 | 2022-11-15 |  |
+| [more<STRONGLY](https://open.spotify.com/track/5qodMWuc9osE51ZwfFQuKY) | [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E) | [more<STRONGLY](https://open.spotify.com/album/4P4Oe532LOoFXWAnWVA1eV) | 5:02 | 2022-11-15 | 2022-11-17 |
 | [Mortal With You](https://open.spotify.com/track/2Cl3bTLiHuQlQBcZSxJLON) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/2XfXLJFcnPIGiDDQM925Vf) | 3:55 | 2022-07-28 | 2022-09-30 |
 | [Mortal With You](https://open.spotify.com/track/34XLcOAQBpe5sEJXXg7HzO) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Mortal With You](https://open.spotify.com/album/042fxv6U1zEMmJjLREFGw8) | 3:55 | 2022-07-05 | 2022-07-29 |
 | [Move The Soul](https://open.spotify.com/track/06lPpnaKh64CEQ5hXqqQNo) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Move The Soul](https://open.spotify.com/album/18MU560yUVxVIjZ2bZVcmi) | 3:32 | 2022-05-28 | 2022-06-22 |
@@ -145,6 +146,7 @@
 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 | 2022-11-08 |  |
 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 | 2022-10-11 |  |
 | [reincarnation](https://open.spotify.com/track/4zbGE9791M4dGXKqpsVlpk) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [reincarnation](https://open.spotify.com/album/4HRssLJyLPJhObHwlKoZRR) | 3:27 | 2022-05-28 | 2022-06-03 |
+| [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2022-11-15 |  |
 | [RESISTER \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/4v0GYHuqGhYZFBTVRMeOSm) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [RESISTER \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/5Q9mzyYNLaP22U0Ms3IuIc) | 3:46 | 2022-10-25 |  |
 | [Reversal](https://open.spotify.com/track/3EaLX2LusDc6gdjrBtAGSS) | [Argonavis](https://open.spotify.com/artist/6Kf7Pa6m8q3x53NVZgWJFU) | [CYAN](https://open.spotify.com/album/43hgcfzrljkCzbw3OlKWHE) | 4:13 | 2022-05-28 | 2022-07-06 |
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-05-28 | 2022-07-06 |
@@ -293,7 +295,7 @@
 | [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-10-11 |  |
 | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/track/6jcncY7ZCJnPkJmzXgpl6s) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [夏夢ノイジー\(TVSize\)](https://open.spotify.com/album/2H365zwPM4W0fVbvUCEnWx) | 1:36 | 2022-07-07 | 2022-07-29 |
 | [夢想的クロニクル](https://open.spotify.com/track/1gCtuZ1H0PbzBkNY1UIx6n) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [夢想的クロニクル](https://open.spotify.com/album/4NvsZjjP7cG1eTuK7Q1Q6w) | 4:01 | 2022-07-12 | 2022-07-29 |
-| [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 | 2022-11-15 |  |
+| [大脳的なランデブー](https://open.spotify.com/track/2peXRsKoFZMyy30Zi3dhLH) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [大脳的なランデブー](https://open.spotify.com/album/5wJn8Yo0FqeSsvfUgrlXhx) | 2:12 | 2022-11-15 | 2022-11-17 |
 | [天灯](https://open.spotify.com/track/0bfsRP5VUaseeZypS4uZ1j) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇」オープニングテーマ「天灯」](https://open.spotify.com/album/3r04pAxWWkkH8lhG4pX7PF) | 3:40 | 2022-08-23 | 2022-08-25 |
 | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [失恋ソング沢山聴いて 泣いてばかりの私はもう。](https://open.spotify.com/album/5ANkUMQeCcz1yLFKGwIamt) | 4:58 | 2022-07-07 | 2022-10-05 |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-05-28 | 2022-07-13 |

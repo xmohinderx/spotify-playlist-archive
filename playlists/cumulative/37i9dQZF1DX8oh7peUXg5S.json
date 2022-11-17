@@ -2153,7 +2153,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 269133,
       "name": "Manifiesto",
       "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
@@ -2497,6 +2497,24 @@
       "duration_ms": 278800,
       "name": "No Me Canso",
       "url": "https://open.spotify.com/track/1OSCcrTT1lsTZ2GRs4hO59"
+    },
+    {
+      "album": {
+        "name": "Universo Abierto",
+        "url": "https://open.spotify.com/album/6hLgeQhZCKNGsDGgz7oPSM"
+      },
+      "artists": [
+        {
+          "name": "Carlos Chaouen",
+          "url": "https://open.spotify.com/artist/3Xp6HhLVX7bivkjhrAkVUt"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278813,
+      "name": "No Me Canso",
+      "url": "https://open.spotify.com/track/1VPeUoMWXpYZgiVhqJTIOE"
     },
     {
       "album": {

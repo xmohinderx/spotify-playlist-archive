@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2314792,
+  "num_followers": 2315212,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMGMzMzY3ZTZiYWQyY2VmYjFiOWM0MGNiZTlkNzhmMGQ5",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDY5MmNkOWZhOWQyYmM5OWNlNjQ4ZjFjODE5ZmUyNWY0",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -171,8 +171,8 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -255,8 +255,8 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Ngayong Gabi",
-        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 267456,
-      "name": "Ngayong Gabi",
-      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Buruguduystunstugudunstuy",
         "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 182200,
       "name": "Harana",
       "url": "https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Ngayong Gabi",
+        "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 267456,
+      "name": "Ngayong Gabi",
+      "url": "https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Teka Lang",
-        "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
+        "name": "KLWKN",
+        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
       },
       "artists": [
         {
-          "name": "Emman",
-          "url": "https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG"
+          "name": "Music Hero",
+          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
         }
       ],
-      "duration_ms": 196582,
-      "name": "Teka Lang",
-      "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
+      "duration_ms": 256572,
+      "name": "KLWKN",
+      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "KLWKN",
-        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
+        "name": "Teka Lang",
+        "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
       },
       "artists": [
         {
-          "name": "Music Hero",
-          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
+          "name": "Emman",
+          "url": "https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG"
         }
       ],
-      "duration_ms": 256572,
-      "name": "KLWKN",
-      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+      "duration_ms": 196582,
+      "name": "Teka Lang",
+      "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+      },
+      "artists": [
+        {
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        }
+      ],
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Twelve: Fifty One (International Version)",
         "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
       "artists": [
         {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
         }
       ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -639,50 +655,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
-        "name": "Titig",
-        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
-      },
-      "artists": [
-        {
-          "name": "MC Einstein",
-          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        },
-        {
-          "name": "Jekkpot",
-          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        }
-      ],
-      "duration_ms": 259114,
-      "name": "Titig",
-      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Episode III",
         "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
       },
@@ -695,6 +667,22 @@
       "duration_ms": 347120,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Umaga",
+        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -731,18 +719,30 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Umaga",
-        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
+        "name": "Titig",
+        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
       "artists": [
         {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+          "name": "MC Einstein",
+          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        },
+        {
+          "name": "Jekkpot",
+          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
         }
       ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
+      "duration_ms": 259114,
+      "name": "Titig",
+      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -847,18 +847,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Freestyle",
-        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
+        "name": "Tersera",
+        "url": "https://open.spotify.com/album/5ZNxJGEM28nI1M8SKQcXNr"
       },
       "artists": [
         {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
+          "name": "Mayonnaise",
+          "url": "https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq"
+        },
+        {
+          "name": "Star Music",
+          "url": "https://open.spotify.com/artist/3x9i2nnioY7wlQE9oPEHqv"
         }
       ],
-      "duration_ms": 275906,
-      "name": "So Slow",
-      "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
+      "duration_ms": 242453,
+      "name": "Ipagpatawad Mo",
+      "url": "https://open.spotify.com/track/3On64r714N7t1Q4KuqMYlO"
     }
   ],
   "unique_name": "OPM Favorites",

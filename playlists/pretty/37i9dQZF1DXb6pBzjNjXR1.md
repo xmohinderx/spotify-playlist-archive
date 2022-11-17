@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148 likes - 50 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176 likes - 50 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 7 | [Sfede](https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Sfede](https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93) | 5:57 |
 | 8 | [Zion Drummer \- Original Mix](https://open.spotify.com/track/2j7C4hp68UUhEedckS2YQP) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Zion Drummer \(Original Mix\)](https://open.spotify.com/album/1ao43Su0Heg60VgTYmZX7B) | 7:31 |
 | 9 | [Thunderstorm \- Kususa Remix](https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h) | [Team Distant](https://open.spotify.com/artist/44vSsHayaApaYzZuOedry4), [Mr Silk](https://open.spotify.com/artist/6szHPN8sdoI0UDbDqj0tX8), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [Thunderstorm](https://open.spotify.com/album/6o9D2gCHdi1KEyZRK6Q2OX) | 7:02 |
-| 10 | [Tout S'en Va \- Echo Deep Remix](https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog) | [Le Croque](https://open.spotify.com/artist/4hTAcu1A9geS3saiPClAn4), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tout S'en Va](https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv) | 7:34 |
-| 11 | [Zimbi Iindaba \(feat\. Natasha M\)](https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Natasha M](https://open.spotify.com/artist/2j18ZqJBvkcOVF35MWf2Lb) | [Amani EP](https://open.spotify.com/album/3R9b7M812Z2wnN8p6fJtIQ) | 5:20 |
-| 12 | [Ngilinde](https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT) | [YANII](https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7), [Mango SA](https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9) | [Ngilinde](https://open.spotify.com/album/0DyufT2LS0aq4ErE8s6hCG) | 3:59 |
+| 10 | [Ngilinde \(feat\. Mango SA\)](https://open.spotify.com/track/7nLwR3QysknGglnJ3zxe83) | [YANII](https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7), [Mango SA](https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9) | [Ngilinde \(feat\. Mango SA\)](https://open.spotify.com/album/0n0qkaAvQKWrQwwzJuLNWQ) | 3:59 |
+| 11 | [Tout S'en Va \- Echo Deep Remix](https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog) | [Le Croque](https://open.spotify.com/artist/4hTAcu1A9geS3saiPClAn4), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl), [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Tout S'en Va](https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv) | 7:34 |
+| 12 | [Zimbi Iindaba \(feat\. Natasha M\)](https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B) | [Mzux Maen](https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0), [Natasha M](https://open.spotify.com/artist/2j18ZqJBvkcOVF35MWf2Lb) | [Amani EP](https://open.spotify.com/album/3R9b7M812Z2wnN8p6fJtIQ) | 5:20 |
 | 13 | [Misava](https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [MISAVA](https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd) | 4:08 |
 | 14 | [Reasons \- Andrea Oliva Remix](https://open.spotify.com/track/7zwmPye7GEgHouNGGFOG8R) | [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Reasons \(Andrea Oliva Remix\)](https://open.spotify.com/album/0ZVMnMR0dTUWHk8BtDFFPc) | 3:17 |
 | 15 | [iVolovolo](https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Michael King](https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri) | [iVolovolo](https://open.spotify.com/album/5EHqm4YXBZ0kQLObE0c7WR) | 7:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 49 | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/track/1H9TYvAoW9ntBwyP8d0Rna) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Lorraine Ditsebe](https://open.spotify.com/artist/7HXnk61pLAf6l4pEr5Sp3w) | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/album/2yfnsIziWvYQ7YDOTrbHFT) | 4:37 |
 | 50 | [Clarity \- Shredded Mix](https://open.spotify.com/track/5oAaNT8wiuSjHoGLIbJnRU) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Clarity \(Shredded Mix\)](https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S) | 5:41 |
 
-Snapshot ID: `MTY2ODQxNjA3OSwwMDAwMDAwMDg1YTI0ZGRjYmQzZjZlZmQ2ZWM1MDc0YWVlNDU0MjEw`
+Snapshot ID: `MTY2ODYyNDMyOSwwMDAwMDAwMDdiNjRmMTNmMzUyZWZmMWUzYjU4NjcwMjg4MDdmNTlh`

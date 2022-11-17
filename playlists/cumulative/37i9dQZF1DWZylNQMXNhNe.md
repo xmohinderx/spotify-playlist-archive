@@ -4,13 +4,14 @@
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Grag Queen
 
-75 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
+76 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/5WRCap7Po4seHkP0oCl5pD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 | 2022-04-29 |  |
 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 | 2022-04-29 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-22 | 2022-10-08 |
+| [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 | 2022-11-16 |  |
 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 | 2022-04-29 |  |
 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 | 2022-07-22 |  |
 | [Bang Bang](https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Bang Bang](https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V) | 2:54 | 2022-04-29 | 2022-07-29 |
@@ -79,7 +80,7 @@
 | [VIP \*\-\*](https://open.spotify.com/track/2upubCYkDvATo6ZZwHqrp9) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:56 | 2022-04-29 |  |
 | [Volte Sempre](https://open.spotify.com/track/2sfDXK05Z5q5j40nay1qKW) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [Potyguara Bardo](https://open.spotify.com/artist/1GA8PoLYhHREPKuYYB5A3B) | [Volte Sempre](https://open.spotify.com/album/37oV9S4IOlJrva2i2UZpMO) | 2:52 | 2022-04-29 |  |
 | [VRAU](https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:17 | 2022-04-29 |  |
-| [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 | 2022-05-27 |  |
+| [YOU BETTA](https://open.spotify.com/track/1GXq6pCjNVJ7n1VR8WujbT) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [YOU BETTA](https://open.spotify.com/album/7JATn4R1pfGHeKkNftncwI) | 2:46 | 2022-05-27 | 2022-11-17 |
 | [Zíper](https://open.spotify.com/track/5O2eZhQrkzwGzxM6vVBiOZ) | [VILLA](https://open.spotify.com/artist/0YBvFbBw6zspOBX3t0PNGD) | [Zíper](https://open.spotify.com/album/4ifNouvRUwabWCgJPZfE1E) | 2:26 | 2022-07-22 | 2022-09-24 |
 | [Água na Boca](https://open.spotify.com/track/4w5EDVcVBhyiU1dqKSgzmY) | [Henrique Vivazz](https://open.spotify.com/artist/2ePCcIOWC5jMwJpfjPnK0l), [Mattheuza](https://open.spotify.com/artist/0bbl0wt6IHo60LcfCCVLvz), [Gil Germano](https://open.spotify.com/artist/6ngKdUCuSV2MsmsuqlBkmc) | [Água na Boca](https://open.spotify.com/album/7ywcGnANRhRyC2W4RaNjDW) | 1:55 | 2022-04-29 | 2022-05-28 |
 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 | 2022-04-29 |  |

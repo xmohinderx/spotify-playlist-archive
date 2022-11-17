@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 212500,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/4K9QL2YtsACZbgSePiGnvj"
@@ -1833,6 +1833,28 @@
       "duration_ms": 144204,
       "name": "Muhammad Ali",
       "url": "https://open.spotify.com/track/0dfBUVqv6pAwVAGeQNU6dc"
+    },
+    {
+      "album": {
+        "name": "Drmtrk II",
+        "url": "https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144204,
+      "name": "Muhammad Ali - Original Mix",
+      "url": "https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ"
     },
     {
       "album": {

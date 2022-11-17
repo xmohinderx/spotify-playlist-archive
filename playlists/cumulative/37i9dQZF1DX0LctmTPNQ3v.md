@@ -2,9 +2,9 @@
 
 ### [Metal Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0LctmTPNQ3v)
 
-> Time to headbang around the Christmas tree! Cover: Korn
+> Time to headbang around the Christmas tree! Cover: Sabaton
 
-107 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/2p8oEdfFYrJdmMGXY2kQRe)
+108 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/2p8oEdfFYrJdmMGXY2kQRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,10 +58,11 @@
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/53mXlfuRwgddSjap2T9Pp2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Nightmare Revisited](https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp) | 3:37 | 2021-11-26 | 2022-07-29 |
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/4IhcTCymItOCN0d8kSLJFo) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Jack 2 Pack \(The Nightmare Before Christmas\)](https://open.spotify.com/album/7xubspY1zmyTduYWnkGNxT) | 3:37 | 2021-11-26 |  |
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/0AnicM6dcA18BIa9X2rOLM) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:37 | 2021-11-26 | 2022-11-13 |
+| [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2022-11-16 |  |
 | [Mary Did You Know](https://open.spotify.com/track/5mvByjQpP60Peg80DURkXa) | [Lionheart](https://open.spotify.com/artist/1ei3UyhCTygt5lNCVFItam) | [Mary Did You Know](https://open.spotify.com/album/6RvqLASS8YpPUuF41STGR1) | 3:03 | 2021-11-26 |  |
 | [Merry Blah Blah Blah](https://open.spotify.com/track/1OOPUbMuiP64MSWZUNWNJd) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Merry Blah Blah Blah](https://open.spotify.com/album/3uSQOTSTrxjzdCHjwQnDAw) | 4:04 | 2021-11-26 |  |
 | [Merry Christmas \(I Don't Wanna Fight Tonight\) \- Single Version](https://open.spotify.com/track/7GC5vFSuNkGM5XKB1CKIvz) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Merry Xmas](https://open.spotify.com/album/7cofZO39CFEKEf37HtMqrX) | 2:03 | 2021-11-26 | 2022-11-13 |
-| [Merry Christmas \(I Don't Want to Fight Tonight\)](https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 2:03 | 2021-11-26 |  |
+| [Merry Christmas \(I Don't Want to Fight Tonight\)](https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 2:03 | 2021-11-26 | 2022-11-17 |
 | [Merry Christmas \(I Don't Want to Fight Tonight\)](https://open.spotify.com/track/6HA6r647BX7lOIDzQ3PBb9) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 2:09 | 2021-11-26 | 2022-07-29 |
 | [Merry Metal Xmas](https://open.spotify.com/track/3g5HqiqfmsCizFjXnBe9MF) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [Onkel Tom Angelripper](https://open.spotify.com/artist/3w0xdka8OjocXhLRP4YucU) | [Nuclear Blast Showdown Spring 2012](https://open.spotify.com/album/6lchgko0gwHWtfYAhYARpV) | 3:05 | 2021-11-26 | 2022-11-13 |
 | [Merry Metal Xmas](https://open.spotify.com/track/3oQVHS7EC6AzfqSmlRUwse) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl), [Onkel Tom Angelripper](https://open.spotify.com/artist/3w0xdka8OjocXhLRP4YucU) | [Merry Metal Xmas](https://open.spotify.com/album/15n2Te5hsJUpQ0Iuv2Deig) | 3:05 | 2021-11-26 |  |

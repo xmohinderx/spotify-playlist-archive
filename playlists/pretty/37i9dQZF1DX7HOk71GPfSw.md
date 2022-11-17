@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. angelus
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,588 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,688 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [punch back](https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H) | [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [punch back](https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv) | 2:13 |
-| 2 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
-| 3 | [ihy](https://open.spotify.com/track/6Zdr62QDnRlN2wh1ruFUeO) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/00K2bUoUO3r54vyX6fB0qx) | 2:50 |
-| 4 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 |
-| 5 | [UI](https://open.spotify.com/track/7aT7DrYdVsv9r33ZHJhwOD) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 2:49 |
-| 6 | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ) | 2:32 |
-| 7 | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo) | 2:29 |
-| 8 | [THERAPY](https://open.spotify.com/track/3t55Jn2LRmQxNxC0q12uwE) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [THERAPY](https://open.spotify.com/album/2C3cFLc3glI5iLjdZWPsHI) | 3:13 |
-| 9 | [Alprazalam](https://open.spotify.com/track/4RvzSExOo2Pyr9ov8YDMgb) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Alprazalam](https://open.spotify.com/album/54VtfCJS7bCadBgDPeOQ2W) | 3:16 |
-| 10 | [Bad Vibes](https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:43 |
-| 11 | [miss u](https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [Miss U](https://open.spotify.com/album/4x0XH60BafgPP0VscoT5EE) | 3:32 |
+| 1 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
+| 2 | [punch back](https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H) | [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [punch back](https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv) | 2:13 |
+| 3 | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/track/7D4lgMbSs10AQ0zX3ZldJc) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Sophia Black](https://open.spotify.com/artist/3wdXgSpjbbU3tX9KasdxMh) | [ABC \(feat\. Sophia Black\)](https://open.spotify.com/album/4NC0LlM8LuF9ol77V63QtJ) | 2:32 |
+| 4 | [ihy](https://open.spotify.com/track/6Zdr62QDnRlN2wh1ruFUeO) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/00K2bUoUO3r54vyX6fB0qx) | 2:50 |
+| 5 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 |
+| 6 | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo) | 2:29 |
+| 7 | [THERAPY](https://open.spotify.com/track/3t55Jn2LRmQxNxC0q12uwE) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [THERAPY](https://open.spotify.com/album/2C3cFLc3glI5iLjdZWPsHI) | 3:13 |
+| 8 | [Alprazalam](https://open.spotify.com/track/4RvzSExOo2Pyr9ov8YDMgb) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Alprazalam](https://open.spotify.com/album/54VtfCJS7bCadBgDPeOQ2W) | 3:16 |
+| 9 | [Bad Vibes](https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:43 |
+| 10 | [miss u](https://open.spotify.com/track/6Yxg0dq94Q4ZIE4ncHrufi) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [Miss U](https://open.spotify.com/album/4x0XH60BafgPP0VscoT5EE) | 3:32 |
+| 11 | [UI](https://open.spotify.com/track/7aT7DrYdVsv9r33ZHJhwOD) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 2:49 |
 | 12 | [Things I Never Nu](https://open.spotify.com/track/1NAYrYgd473ua418mz32xb) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Second Nature](https://open.spotify.com/album/39g7HzX4s9teKLxwNYebw1) | 3:46 |
 | 13 | [miles \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [miles](https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO) | 2:42 |
 | 14 | [Perfect World](https://open.spotify.com/track/7aYx193NYKW8xAnKTPPWWh) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P), [Miku Hatsune](https://open.spotify.com/artist/3uk3NdQAThh8sFq7z64saw) | [Flowerscent](https://open.spotify.com/album/1xn8J1UkjyVv6LuYrFkC0l) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 | 100 | [THE PPL I'VE BEEN](https://open.spotify.com/track/2agTmza5WSae0blU4Mbfon) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [THE PPL I'VE BEEN](https://open.spotify.com/album/1cjPQ1igIHWCB7SiL30fXW) | 2:33 |
 
-Snapshot ID: `MTY2ODUyOTA1NiwwMDAwMDAwMDlhZjZmZWQ2YjcxOTJiMjZkMmIzZTNhYmQyYTJlYjkx`
+Snapshot ID: `MTY2ODYzMjI2MywwMDAwMDAwMGRhMjc0MWY0ZDNjMmQ2ZmU4ZWVlNGMxOTNiMTU5ZTg2`

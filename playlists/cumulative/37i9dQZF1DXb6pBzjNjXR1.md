@@ -4,7 +4,7 @@
 
 > AfroTech was born in South Africa and it is travelling the world's dancefloors\. Listen to the best in AfroTech here.
 
-72 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
+73 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/2tRmuLmE2qlwUjvVj1bq1z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Misava](https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [MISAVA](https://open.spotify.com/album/6Qs01I9CWfP5gitMZrOQPd) | 4:08 | 2022-08-11 |  |
 | [Muchationa](https://open.spotify.com/track/2g0e7qFlyovwNtaLntN83d) | [HALU!](https://open.spotify.com/artist/71zjmlom6VeFdwJsqLSl2z), [Tina Masawi](https://open.spotify.com/artist/1waGvYdujmgKc9cNid89US) | [Muchationa](https://open.spotify.com/album/4O8aonVNtRVG8lPAfmkLDs) | 5:25 | 2022-09-22 |  |
 | [Nefarious \- Atmospheric Mix](https://open.spotify.com/track/2zRynSzo4zMUtpvgodmeBl) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Ingwenya EP](https://open.spotify.com/album/1ex9FmpXwOQUuCLBSJdskM) | 7:01 | 2022-08-11 | 2022-11-11 |
-| [Ngilinde](https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT) | [YANII](https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7), [Mango SA](https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9) | [Ngilinde](https://open.spotify.com/album/0DyufT2LS0aq4ErE8s6hCG) | 3:59 | 2022-10-03 |  |
+| [Ngilinde](https://open.spotify.com/track/0xeoiu2UtZNx0AQPDULxzT) | [YANII](https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7), [Mango SA](https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9) | [Ngilinde](https://open.spotify.com/album/0DyufT2LS0aq4ErE8s6hCG) | 3:59 | 2022-10-03 | 2022-11-17 |
+| [Ngilinde \(feat\. Mango SA\)](https://open.spotify.com/track/7nLwR3QysknGglnJ3zxe83) | [YANII](https://open.spotify.com/artist/06e5v5ceaBo1dD8G9moem7), [Mango SA](https://open.spotify.com/artist/25hbfaO27EZSGQTymk96D9) | [Ngilinde \(feat\. Mango SA\)](https://open.spotify.com/album/0n0qkaAvQKWrQwwzJuLNWQ) | 3:59 | 2022-11-16 |  |
 | [NGUWE](https://open.spotify.com/track/52nXrFT91veBphtsiY1uhR) | [Prayer Warriors](https://open.spotify.com/artist/2eM3B7NyYxSmpFfLLtl8pn), [Ntsika](https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M), [DrumPope](https://open.spotify.com/artist/3cMf1PUXLtV4tiZUlXsDHj) | [NGUWE](https://open.spotify.com/album/0wY6UcIM25Yd8M9DCQHEUS) | 4:47 | 2022-09-15 |  |
 | [Nkanyezi](https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [My Story](https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge) | 5:04 | 2022-08-11 |  |
 | [Ntinga Ntaka](https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk) | [Supta](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [THALITHA](https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg), [OBIE](https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC) | [Ntinga Ntaka](https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa) | 5:41 | 2022-08-18 |  |

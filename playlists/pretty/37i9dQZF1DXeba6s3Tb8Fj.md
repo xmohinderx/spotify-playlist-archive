@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,049 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,065 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 39 | [Station Blues](https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 3:29 |
 | 40 | [Tenere wer tat zinchegh](https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Ishumar: Musique touarègue de résistance](https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX) | 7:00 |
 | 41 | [Mansana Blues](https://open.spotify.com/track/52ueHtRcJgN8uDjIbOl2kY) | [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [Mansana Blues](https://open.spotify.com/album/7kuJ2YGGNVdt2wAFY2D0D6) | 6:48 |
-| 42 | [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 |
-| 43 | [Fenfo](https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo \(Something To Say\)](https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn) | 4:28 |
+| 42 | [Fenfo](https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fenfo \(Something To Say\)](https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn) | 4:28 |
+| 43 | [Dune Blues](https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6) | [The West African Blues Project](https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y) | 4:10 |
 | 44 | [C'Est Comme Ca](https://open.spotify.com/track/4JrnK6UWX8o6Gu390ezCOX) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Tje Ni Mousso](https://open.spotify.com/album/2gyQndyOXeISkSfhyb1FSG) | 4:40 |
 | 45 | [Tenhert](https://open.spotify.com/track/3eWaUgRTojLlBHfVrETuXD) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Imidiwan: Companions](https://open.spotify.com/album/1T0sA1dBhet0q3KQlklEhL) | 5:28 |
 | 46 | [An Mataf Germanawen](https://open.spotify.com/track/7yWMNLI0W0XQulx62QkzVB) | [Etran Finatawa](https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX) | [The Sahara Sessions](https://open.spotify.com/album/4pmsnCSw9i2y3MP24QZaid) | 4:00 |
 | 47 | [Tchwa](https://open.spotify.com/track/3AF8QpzspG8btjyd4s3bjM) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Wanita](https://open.spotify.com/album/5NAd6WgCPfR8BxEYWaZcEg) | 5:51 |
-| 48 | [The Lighthouse Keeper](https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [The West African Blues Project](https://open.spotify.com/album/510vDsJUph73WMw4GK1x19) | 4:11 |
-| 49 | [Tamalah](https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 6:40 |
+| 48 | [Tamalah](https://open.spotify.com/track/1x3Y5XIrFf01LIqus4kQKI) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Mississippi To Mali](https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T) | 6:40 |
+| 49 | [The Lighthouse Keeper](https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [The West African Blues Project](https://open.spotify.com/album/510vDsJUph73WMw4GK1x19) | 4:11 |
 | 50 | [Tenere Taqhim Tossam](https://open.spotify.com/track/75eLECFLTSH7MawFtzgcDf) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Tassili \(Deluxe Edition\)](https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN) | 4:13 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDUxZDAwNWE2ZWJkN2I0Nzg5OTk1MTg4MDJkODlhOWNl`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDdjOGY5MjIyMjFmNjNlMTQ4ZjRmMzRhNjE1YWM3YTgz`

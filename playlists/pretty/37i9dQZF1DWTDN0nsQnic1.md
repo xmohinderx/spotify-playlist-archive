@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,755 likes - 59 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,794 likes - 59 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 42 | [Cars and Girls](https://open.spotify.com/track/1BbICvFlL56R0CUeckUYLg) | [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8), [So Much Light](https://open.spotify.com/artist/5YBaMP0Pkww9ZGvkVcrpTz) | [Cars and Girls](https://open.spotify.com/album/0pI6Cl27r0xlAkRYClymzF) | 4:32 |
 | 43 | [Flamingo](https://open.spotify.com/track/0tosIMpbs0c3D026bob94l) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 2:56 |
 | 44 | [Green Tea](https://open.spotify.com/track/3uPLVLuSpzg3OV9GXemc9c) | [TJ Whitelaw](https://open.spotify.com/artist/1sMbt5va6mIq23HvL5UX3X) | [Homebody](https://open.spotify.com/album/7qPpmVUWfN0CNderCzieJ8) | 4:00 |
-| 45 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
+| 45 | [Lost in Paris](https://open.spotify.com/track/6LxuNFEU3oIZ5ybBdWbZNT) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 3:14 |
 | 46 | [Portland](https://open.spotify.com/track/7c4iU5qYbzvhcuyKCTHyFt) | [Zoology](https://open.spotify.com/artist/3V1zHjaKSXKbaOEGNHjuPO) | [Portland](https://open.spotify.com/album/04QDnLrtyxjXvcOxHGEwQz) | 3:19 |
 | 47 | [Where I Belong](https://open.spotify.com/track/4BENgHOetl5oLr57teDdKj) | [Rotem Sivan](https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak), [Freakquencee](https://open.spotify.com/artist/1UeGKCrkZ7i8bOYQsNdavS), [Antoine Katz](https://open.spotify.com/artist/2Te4XXBAL2ChbjMAyZjwVC) | [Where I Belong](https://open.spotify.com/album/2PsuF65UNAcSLDQaj3njop) | 2:54 |
 | 48 | [Virga](https://open.spotify.com/track/4AweeJrnbe5I1eiyCkYhAx) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Mylestones](https://open.spotify.com/album/18l4RQQIKcukQ3dh4ewV8Z) | 3:28 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 58 | [Buttermilk](https://open.spotify.com/track/7MJC5ROiAjImSkGm85eIWa) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:25 |
 | 59 | [Trip 5](https://open.spotify.com/track/6sVSbqlpbATtUEOGC4XNLh) | [Heavy Mellow](https://open.spotify.com/artist/59WT73GxJi40AmPXYvJEYx), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Acid R&B Vol\. 1](https://open.spotify.com/album/6I5PK3PCQhOQHRwBHgCVfQ) | 2:22 |
 
-Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMDIzZWM2Y2NjNjM4ZGEyNGUxYTdkMTM3NTVhM2Q5M2Jk`
+Snapshot ID: `MTY2MzkwNTYwMCwwMDAwMDAwMGRkY2QyZWY2OWE4NzU2MWNlM2Y5MjBkNzA3ZDFiYTVm`

@@ -3272,6 +3272,28 @@
     },
     {
       "album": {
+        "name": "F\u00f6rbjudet land",
+        "url": "https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        },
+        {
+          "name": "Lisa Howard",
+          "url": "https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227158,
+      "name": "F\u00f6rbjudet land",
+      "url": "https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD"
+    },
+    {
+      "album": {
         "name": "F\u00f6rd\u00e4rvad",
         "url": "https://open.spotify.com/album/438edHGkbpMmjtI54r0zDh"
       },
@@ -6107,7 +6129,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 153987,
       "name": "MER",
       "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rod Wave, Lil Tjay and more\. Cover: SleazyWorld Go
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,288 likes - 51 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,424 likes - 51 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 22 | [Dark Days](https://open.spotify.com/track/7qh52GiOH91zmNjUUglsee) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Born To Be Free](https://open.spotify.com/album/6PRDIYibnBMXOI5JOJfe4s) | 3:22 |
 | 23 | [Way Too Much Love](https://open.spotify.com/track/327UmjUSBqubQJF0G85Ah8) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Way Too Much Love](https://open.spotify.com/album/5EIIQ8X8H76jHh1ADRNG2O) | 2:36 |
 | 24 | [Ballin](https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ballin](https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE) | 2:56 |
-| 25 | [The Realest](https://open.spotify.com/track/2ED05qAwDX61b89AGuRb1J) | [Eighty8](https://open.spotify.com/artist/0x1JRqu2EZ0k2HDd8LHdbB) | [The Realest](https://open.spotify.com/album/5I9L8kvuNjir05poeWgRQ6) | 2:54 |
+| 25 | [The Realest](https://open.spotify.com/track/2ED05qAwDX61b89AGuRb1J) | [Eighty8](https://open.spotify.com/artist/2Ee4P6HX3wAsehGNIvpZTA) | [The Realest](https://open.spotify.com/album/5I9L8kvuNjir05poeWgRQ6) | 2:54 |
 | 26 | [Keep it Playa](https://open.spotify.com/track/1JBjfBbl1WdRz01inOooWz) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Keep it Playa](https://open.spotify.com/album/3ZqYTwO4j03qVGpXEzv516) | 2:45 |
 | 27 | [Trick](https://open.spotify.com/track/3eL5twPFRGZ9AHsFA4vHAk) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Trick](https://open.spotify.com/album/1Fm7HCVEImfZYYQ64v9F3o) | 3:00 |
 | 28 | [Spinnin \(with B\-Lovee & Cordae\)](https://open.spotify.com/track/1C41orKYTaul2aYazWzQ0E) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Spinnin](https://open.spotify.com/album/3QA6sWUac76SKaQ5mmZtYO) | 2:18 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 34 | [Kap N Gown](https://open.spotify.com/track/4bSKouvmhitKmeNqjTwujY) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Kap N Gown](https://open.spotify.com/album/4NxYE0VCPgKQ2ohXq29T5a) | 2:53 |
 | 35 | [Jeffery's Innocent](https://open.spotify.com/track/2msi6aUT3FldwSxMqj5074) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Pendleton](https://open.spotify.com/album/3WOrW5A7S4dADPx8mSkLMf) | 3:24 |
 | 36 | [Letter 2 Notti](https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Letter 2 Notti](https://open.spotify.com/album/26LCzQxgr9L97slkouEn80) | 2:07 |
-| 37 | [Trying Remix](https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Trying Remix](https://open.spotify.com/album/5plqxzmegAFVguOWw9N9bu) | 3:04 |
+| 37 | [Trying](https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kevin Gates \- Remix](https://open.spotify.com/artist/5S2u7CddoFw7e5UOC8FZWf) | [Trying](https://open.spotify.com/album/5plqxzmegAFVguOWw9N9bu) | 3:04 |
 | 38 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 |
 | 39 | [Life Is Crazy](https://open.spotify.com/track/5PV9Hvxmx1mqFzggHM1yG3) | [Slatt Zy](https://open.spotify.com/artist/2PCrvJNRI8qGLtz9QwL7fq) | [Life Is Crazy](https://open.spotify.com/album/7AKAylwqImFlNVJvJTG4Vb) | 3:14 |
 | 40 | [Plug Motivation](https://open.spotify.com/track/1HocWUnNM0c9YSR5MoTNOG) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Plug Motivation](https://open.spotify.com/album/4Ebrp8jh6IpRzEhOuaekaH) | 2:36 |

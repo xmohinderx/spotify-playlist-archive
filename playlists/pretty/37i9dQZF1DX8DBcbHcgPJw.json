@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: El Polaco & La China.",
-  "num_followers": 1146091,
+  "num_followers": 1146334,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MDAyMCwwMDAwMDAwMDRkNTYwNmNlYjFiOTkxYzI3ZDQ1NWM0NDVmOWU4YTJk",
+  "snapshot_id": "MTY2ODE3MDAyMCwwMDAwMDAwMDNlZmE4NGVlZTljZTMyNWY5MGUzNTZmNThjYWM3NzUz",
   "tracks": [
     {
       "added_at": "2022-11-11 12:26:56",
@@ -571,18 +571,22 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -603,22 +607,18 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Aunque Te Enamores",
-        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 130212,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
-    },
-    {
-      "added_at": "2022-11-11 12:26:56",
-      "album": {
         "name": "Messirve Mix 3",
         "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 156325,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2022-11-11 12:26:56",
+      "album": {
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
+    },
+    {
+      "added_at": "2022-11-11 12:26:56",
+      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 234813,
       "name": "No hay m\u00e1s nada",
       "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
-    },
-    {
-      "added_at": "2022-11-11 12:26:56",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91"
-      },
-      "artists": [
-        {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD"
-    },
-    {
-      "added_at": "2022-11-11 12:26:56",
-      "album": {
         "name": "Si Me Llamas",
         "url": "https://open.spotify.com/album/6zQNch9hnRub7vECxKXiye"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 208800,
       "name": "Si Me Llamas",
       "url": "https://open.spotify.com/track/3966kX7ysRx4oKHShvmSYR"
+    },
+    {
+      "added_at": "2022-11-11 12:26:56",
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1491,8 +1491,8 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "B\u00e9same (Remix)",
-        "url": "https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX"
+        "name": "Pegadito",
+        "url": "https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt"
       },
       "artists": [
         {
@@ -1502,19 +1502,11 @@
         {
           "name": "Lira",
           "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 189510,
-      "name": "B\u00e9same - Remix",
-      "url": "https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG"
+      "duration_ms": 165028,
+      "name": "Pegadito",
+      "url": "https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1547,22 +1539,6 @@
       "duration_ms": 200933,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
-    },
-    {
-      "added_at": "2022-11-11 12:26:56",
-      "album": {
-        "name": "Te Quiero y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 192267,
-      "name": "Te Quiero y Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1603,22 +1579,34 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8"
       },
       "artists": [
         {
-          "name": "Leslie Shaw",
-          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
+      "duration_ms": 170653,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
+    },
+    {
+      "added_at": "2022-11-11 12:26:56",
+      "album": {
+        "name": "Te Quiero y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 192267,
+      "name": "Te Quiero y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1639,18 +1627,22 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
       },
       "artists": [
         {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 170653,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
+      "duration_ms": 166736,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1675,18 +1667,30 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Gracias a Vos",
-        "url": "https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr"
+        "name": "B\u00e9same (Remix)",
+        "url": "https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX"
       },
       "artists": [
         {
           "name": "El Reja",
           "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 129505,
-      "name": "Gracias a Vos",
-      "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
+      "duration_ms": 189510,
+      "name": "B\u00e9same - Remix",
+      "url": "https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1707,22 +1711,6 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
-      },
-      "artists": [
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
-    },
-    {
-      "added_at": "2022-11-11 12:26:56",
-      "album": {
         "name": "Sigue Bailando",
         "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
       },
@@ -1739,6 +1727,22 @@
       "duration_ms": 159980,
       "name": "Sigue Bailando",
       "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
+    },
+    {
+      "added_at": "2022-11-11 12:26:56",
+      "album": {
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
+      },
+      "artists": [
+        {
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
+        }
+      ],
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
     },
     {
       "added_at": "2022-11-11 12:26:56",
@@ -1795,22 +1799,18 @@
     {
       "added_at": "2022-11-11 12:26:56",
       "album": {
-        "name": "Pegadito",
-        "url": "https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt"
+        "name": "Gracias a Vos",
+        "url": "https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr"
       },
       "artists": [
         {
           "name": "El Reja",
           "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
         }
       ],
-      "duration_ms": 165028,
-      "name": "Pegadito",
-      "url": "https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd"
+      "duration_ms": 129505,
+      "name": "Gracias a Vos",
+      "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
     },
     {
       "added_at": "2022-11-11 12:26:56",

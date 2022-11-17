@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,279 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,372 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 88 | [Brown Sugar Queen \[Feat\. Janice\]](https://open.spotify.com/track/4IBA7iay6sycCsopkXqpII) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Brown Sugar Queen \[Feat\. Janice\]](https://open.spotify.com/album/7gd3JStkef9zd2CV9Et7BF) | 3:28 |
 | 89 | [Automatic](https://open.spotify.com/track/3TbdbnsJ7MRhyqayI7s17O) | [Motel Radio](https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7) | [The Garden](https://open.spotify.com/album/0mqEfZEXRTGAqGSAhn9RkK) | 4:23 |
 | 90 | [Lost Myself](https://open.spotify.com/track/75fbzYs01Qy6v7PQFCuRn4) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Guy Garvey](https://open.spotify.com/artist/2j3K3e7Jnnmd2KwlFgCC5u) | [Lost Myself](https://open.spotify.com/album/1IHWQirXUP8rmULByurr7X) | 3:34 |
-| 91 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 |
+| 91 | [Magenta Mountain](https://open.spotify.com/track/23azGRczkSa6JF9JKKiBh2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 6:04 |
 | 92 | [Fractals](https://open.spotify.com/track/0UKXTNaPtUjnRzsBB5VzDe) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Fractals](https://open.spotify.com/album/7eM5PVBVsYQaEh0mfivkcH) | 5:19 |
 | 93 | [Watch And See](https://open.spotify.com/track/6e6Qmot0NxoSLUsEswyXzF) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Watch And See](https://open.spotify.com/album/3HFisd0fW84uP7DAXYXASn) | 4:17 |
 | 94 | [Sad](https://open.spotify.com/track/1K6dPwnP8alsRxVc5ET5Ft) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 99 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 100 | [Playground](https://open.spotify.com/track/5zuOIckVgtIj4azwZ8OQrO) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 4:09 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDA5NzE5NDg5MjYwZDE5ZjM1NWU4MWFlODRiYzgzYjMx`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDdlODAwYTgwNzZlOTdkMmM4ZGM2OGZkNjRkNzFhY2Qy`

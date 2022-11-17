@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Kara Jackson \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,986 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,107 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 80 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 |
 | 81 | [Skips & Rings](https://open.spotify.com/track/0ZTlgV36p87YUL0qSslr04) | [Crane Like the Bird](https://open.spotify.com/artist/1i9TpycvQFCCyoOgqjevil), [Luke Steele](https://open.spotify.com/artist/5GtP5i2ZL7bU7gNuw4AC4e) | [Skips & Rings](https://open.spotify.com/album/4lo79kLIQmIeou8KyV8eR8) | 3:11 |
 | 82 | [Or Else](https://open.spotify.com/track/3qWnYbvyj79oEgnsbMuU6u) | [Marina Allen](https://open.spotify.com/artist/7DT89nkTjnPsXUijqIxgCu) | [Centrifics](https://open.spotify.com/album/1nRvr76njWTqW12K1767PE) | 2:59 |
-| 83 | [Preoccupied](https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj) | 3:31 |
+| 83 | [Preoccupied](https://open.spotify.com/track/0VS0WcNAoDndMBMyimJxP6) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/4BPLLOB0x9kUsNs3oPCNKU) | 3:31 |
 | 84 | [Just Take Love, for Example](https://open.spotify.com/track/79WTsOWzsiCeyhq9OxkqzC) | [Jordie Lane](https://open.spotify.com/artist/5exAkC90ITNJz5trrpuYsa) | [The Empty House Tapes, Vol\. 1](https://open.spotify.com/album/6YK7uXBuM58fpmvc9l1N1Y) | 4:18 |
 | 85 | [The Ghost of Me](https://open.spotify.com/track/5ZfIKnOgvBmHNj8s3g5nKd) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [The Ghost of Me](https://open.spotify.com/album/0SbXNQyZQgx5uyWSL7OVCo) | 3:13 |
 | 86 | [Next Day](https://open.spotify.com/track/03Vty31Dwz76xodLHmRnMj) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Next Day](https://open.spotify.com/album/405aqDgQO7urBQXgW89zRU) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Quiet Conversation](https://open.spotify.com/track/6hl4W9aK5lG6gOpOEtIHMc) | [Jacob Humber](https://open.spotify.com/artist/4JJspL8i1Sz6CsowjvNlmL) | [Quiet Conversation](https://open.spotify.com/album/6WxQslCQx5PxOHeO774ltB) | 5:47 |
 | 100 | [Pretty, Pretty](https://open.spotify.com/track/0NkomCaAB2nVipVGxsTUoy) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Pretty, Pretty](https://open.spotify.com/album/2UaDtdFOC01NAP7U4H34fC) | 3:38 |
 
-Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDhiNDFhNDA2OWM5MTJlNzYyZjI4MmQyZDkzZGVlOThi`
+Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDAxMzIyOGJiOWRhNGRlMmY3ZjE2ZWY5ZjNjYzM4Y2U3`

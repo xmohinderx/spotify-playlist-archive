@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-197 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
+198 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/7yi0VWh6wfRxiXDx9MOyNK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [I Wanna Be Blind](https://open.spotify.com/track/10lLqAbzl56Dcacrke431Q) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Share A View](https://open.spotify.com/album/5pxz1toBQ4J9WIkaXHJprU) | 4:41 | 2021-12-29 | 2022-04-27 |
 | [I Want Your Attention](https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [First Landing](https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51) | 4:46 | 2022-07-25 |  |
 | [I'm Thru](https://open.spotify.com/track/0cIrhTtBUXE4HVoJ24K14Q) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Summer's Blue](https://open.spotify.com/album/1gFEgSIkZGZtwNUjRtTiRJ) | 3:11 | 2021-08-05 | 2022-07-29 |
+| [I'm Thru](https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [Cover art by Hasworld](https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB) | [I'm Thru](https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP) | 3:11 | 2022-10-06 |  |
 | [Immortalized](https://open.spotify.com/track/6Y2mmfzPHzI7DekT5iviyT) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [Immortalized](https://open.spotify.com/album/73UHcgkxUNQNCW8PBZrX5K) | 3:03 | 2021-12-16 | 2022-07-26 |
 | [In My Head](https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Closure & Campari: After Hours](https://open.spotify.com/album/5dkGwwTDSKTiAq8Qp4yWn8) | 2:36 | 2022-05-03 | 2022-07-29 |
 | [Inside Out](https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [SH1NOB1](https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0) | [Inside Out](https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT) | 3:01 | 2022-07-07 |  |
@@ -108,7 +109,7 @@
 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 | 2022-07-07 |  |
 | [JEWELZ](https://open.spotify.com/track/2IFFKj9orAsQOOS0JRhHAW) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [JEWELZ](https://open.spotify.com/album/78dIoWjdZvWcgKNxEgIDL4) | 2:54 | 2021-08-05 |  |
 | [Lars](https://open.spotify.com/track/5egLvHDg7F1x0bPxYEpfaG) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Lars](https://open.spotify.com/album/0ZgVxXY3lQ7FnalTqYgbUr) | 3:03 | 2022-05-03 |  |
-| [Last Laugh](https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj) | [Angelnumber 8](https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i) | [Digital Tribal](https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg) | 2:36 | 2022-03-11 |  |
+| [Last Laugh](https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj) | [Angelnumber 8](https://open.spotify.com/artist/1JQUgMIvUyaBVfCv4FOn4i) | [Digital Tribal](https://open.spotify.com/album/04l7BttBEXWOLVGRNv16zg) | 2:36 | 2022-03-11 | 2022-11-17 |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2021-08-05 |  |
 | [Losing Touch](https://open.spotify.com/track/2b5e6kL0n4jOGfwhRVITig) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/79b1f5kSsTgueh0Ux3JIB2) | 3:55 | 2021-12-14 | 2022-10-13 |
 | [Losing Touch](https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [House of FM](https://open.spotify.com/album/4WilCpAY0oHk9Gxmki8wOI) | 3:55 | 2022-10-06 |  |

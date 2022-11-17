@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG?si=4hPgcoMARkObvNDG0CJSsQ">Costa Titch</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,399 likes - 47 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,409 likes - 47 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

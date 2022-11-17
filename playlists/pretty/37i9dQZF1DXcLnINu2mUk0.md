@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,686 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,736 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 53 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 |
 | 54 | [UP](https://open.spotify.com/track/50etRztTYtGrwhUi0MV7JX) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [UP](https://open.spotify.com/album/79gzyakOLwnxmy7mWW4MZi) | 2:37 |
 | 55 | [Papa](https://open.spotify.com/track/5zDpSgXwGPxoFMzU4ibble) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Papa](https://open.spotify.com/album/3aosEAehvS4wa2kTTTYIuY) | 2:58 |
-| 56 | [Não Reclama](https://open.spotify.com/track/15FPsKZZPKJHepWm7cGssD) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Sacik Brow](https://open.spotify.com/artist/1n07xtEZwz3p8l5o7X8xo5) | [Não Reclama](https://open.spotify.com/album/4zFZjZXGisOmgHhZuvY26D) | 2:46 |
-| 57 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 3:14 |
-| 58 | [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 |
-| 59 | [Teia](https://open.spotify.com/track/0WO2C0embY06EtHVysWPnd) | [PLATES](https://open.spotify.com/artist/5CmHI0ta9VSlRtsi18kcSa), [TAZz](https://open.spotify.com/artist/3tBhm6KQi0f7CI1EbXseEO) | [Teia](https://open.spotify.com/album/2zntZIuVPxbQo5JmYEy6PB) | 2:30 |
-| 60 | [Paralyzed.](https://open.spotify.com/track/02DGElKTTgmjelTjCPIPW5) | [zozyy!](https://open.spotify.com/artist/0ZaZIdgE7KOclOmuPzYJYR) | [Paralyzed.](https://open.spotify.com/album/4Tx03iHA9H5vxY2ZwSjTR5) | 2:12 |
+| 56 | [Teia](https://open.spotify.com/track/0WO2C0embY06EtHVysWPnd) | [PLATES](https://open.spotify.com/artist/5CmHI0ta9VSlRtsi18kcSa), [TAZz](https://open.spotify.com/artist/3tBhm6KQi0f7CI1EbXseEO) | [Teia](https://open.spotify.com/album/2zntZIuVPxbQo5JmYEy6PB) | 2:30 |
+| 57 | [Não Reclama](https://open.spotify.com/track/15FPsKZZPKJHepWm7cGssD) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Sacik Brow](https://open.spotify.com/artist/1n07xtEZwz3p8l5o7X8xo5) | [Não Reclama](https://open.spotify.com/album/4zFZjZXGisOmgHhZuvY26D) | 2:46 |
+| 58 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 3:14 |
+| 59 | [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 |
+| 60 | [Caixa De Pandora](https://open.spotify.com/track/5kqqiREyjP4QA4u1VvlcWj) | [Zalo](https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL) | [Caixa De Pandora](https://open.spotify.com/album/0XK0GP79Ygn7QrdcvehAK8) | 2:44 |
 
-Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDhmYWFlNzM1MDI2Y2FiY2U2OTdlNTE1OWYzYTg5NTUz`
+Snapshot ID: `MTY2ODEyNDgwMCwwMDAwMDAwMDEzY2YyN2YzNGE1MWZiNDQyMjVkZjkwZDRkMDMyOWQy`

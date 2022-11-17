@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: CVLTE / <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。/ Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,199 likes - 69 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,212 likes - 69 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,13 +69,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [FLOATING EYES](https://open.spotify.com/track/5trmKu2TPm87vYS1xqouAj) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:12 |
 | 60 | [World is Mine](https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS) | [鋭児](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [World is Mine](https://open.spotify.com/album/2vDiHS5Dy4cfKmT1O98G5d) | 3:10 |
 | 61 | [もういらない](https://open.spotify.com/track/5lHUcQLVfpvLHcr7X43xiy) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [もういらない](https://open.spotify.com/album/7xZFgZa8BvTmMddFmXNu9K) | 2:46 |
-| 62 | [猫の夢](https://open.spotify.com/track/1WA2bjmq4mIoCE3Bwj5JCb) | [きばやし](https://open.spotify.com/artist/4UybWqTGbkpD8ypqu7DN7e) | [生活](https://open.spotify.com/album/03KHIxSUNxT660ByeQGsOo) | 3:35 |
+| 62 | [Neko no yume](https://open.spotify.com/track/3GAFxFe3iUzN63c0iYRKun) | [Kibayashi](https://open.spotify.com/artist/4ZgrFapwlfgxKheYw5TGws) | [Seikatsu](https://open.spotify.com/album/3W01XFOYDBF3zi15bmxQpi) | 3:35 |
 | 63 | [I Lied](https://open.spotify.com/track/03OxW003ji0wL91AxLhjze) | [Youmentbay](https://open.spotify.com/artist/2sLSgexahLIueH18ra4hhC) | [I Lied](https://open.spotify.com/album/1hP54EuSr6sV80o1Za93KE) | 3:42 |
-| 64 | [フィラメントにキスをして](https://open.spotify.com/track/7a0LJnpnqk2mxHImiCHLUF) | [のの](https://open.spotify.com/artist/545f41KglEPbUYBuZqcwQx) | [ACT TOUGH](https://open.spotify.com/album/1TaBoZHlSDw4FhTtBlMCDy) | 4:33 |
-| 65 | [Celebrity Posters](https://open.spotify.com/track/25aIyrBnJFVidjW3lhFiCj) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Celebrity Posters](https://open.spotify.com/album/4ydRLtFi5sAaW1XqpX4OSn) | 2:29 |
+| 64 | [Kiss the Filament](https://open.spotify.com/track/4RfDyTCyztjpoK63Ue1VGR) | [nono](https://open.spotify.com/artist/48xUoFTEMEyAR1pRSOQQWq) | [Act Tough](https://open.spotify.com/album/0yod2zDDrC55p0qzPnCiqn) | 4:33 |
+| 65 | [Celebrity Posters](https://open.spotify.com/track/6LC26RwOPputpRH54LeVaM) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [Celebrity Posters](https://open.spotify.com/album/6c4o2twxsgWlovXfF6uBUW) | 2:29 |
 | 66 | [いつかのいつも](https://open.spotify.com/track/60FktwaiSGm0Hp6aV9ljyE) | [KADOMACHI](https://open.spotify.com/artist/47sQEcoMUPAZyJlV2hOzvD) | [カド・マル・サンカク](https://open.spotify.com/album/1DSloI4V5v4gXhsmO1xryf) | 3:10 |
 | 67 | [あいこ](https://open.spotify.com/track/429C5mffD678cT8sUm2BZm) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [あいこ](https://open.spotify.com/album/6Cg2eW5eFytybKykpaZtjH) | 3:27 |
 | 68 | [ピント](https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ピント](https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko) | 4:44 |
 | 69 | [悲しみの街、君の涙で滲む](https://open.spotify.com/track/5tdtWyQbPf52cLNgzUsnQX) | [salmon pinknows](https://open.spotify.com/artist/4XoOARduoDp06cIa39cAdh) | [悲しみの街、君の涙で滲む](https://open.spotify.com/album/63igyl4oKgn0GqqhV9FLWk) | 4:32 |
 
-Snapshot ID: `MTY2ODUyNDQwMCwwMDAwMDAwMDM3NGNjOGRlMGY0NzY1MjZkZTc0NDY0MmRlN2E4ODZh`
+Snapshot ID: `MTY2ODUyNDQwMCwwMDAwMDAwMDU3YWJkYzI0MmM3Njk2ZTJkYjA4ZTBkNmQzODc4ZWE3`

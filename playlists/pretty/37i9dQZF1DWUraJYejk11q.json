@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 447179,
+  "num_followers": 447210,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMGZiZjZiZTI2YWYxNmI2ZTJjMDgzYjJiNzRhYWFjNmZj",
+  "snapshot_id": "MTY2ODE0NzYwNywwMDAwMDAwMDA0YWQxMGI3OThmYzIwYTU3NDc0ZTQ2MGNjODJkMGY0",
   "tracks": [
     {
       "added_at": "2022-11-11 06:15:22",
@@ -129,22 +129,6 @@
       "url": "https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803"
     },
     {
-      "added_at": "2022-09-27 23:10:12",
-      "album": {
-        "name": "Right to Riot",
-        "url": "https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT"
-      },
-      "artists": [
-        {
-          "name": "Hagop Tchaparian",
-          "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
-        }
-      ],
-      "duration_ms": 300392,
-      "name": "Right to Riot",
-      "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
-    },
-    {
       "added_at": "2022-07-15 05:29:55",
       "album": {
         "name": "Eat Your Own Ears Recordings EP 1",
@@ -159,6 +143,22 @@
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
+    },
+    {
+      "added_at": "2022-09-27 23:10:12",
+      "album": {
+        "name": "Right to Riot",
+        "url": "https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT"
+      },
+      "artists": [
+        {
+          "name": "Hagop Tchaparian",
+          "url": "https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW"
+        }
+      ],
+      "duration_ms": 300392,
+      "name": "Right to Riot",
+      "url": "https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt"
     },
     {
       "added_at": "2022-09-30 02:46:01",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC"
     },
     {
+      "added_at": "2022-08-24 01:23:50",
+      "album": {
+        "name": "it's a secret / sunflower",
+        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 224470,
+      "name": "sunflower",
+      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
+    },
+    {
       "added_at": "2022-04-22 18:53:10",
       "album": {
         "name": "Tahara",
@@ -253,6 +269,22 @@
       "url": "https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ"
     },
     {
+      "added_at": "2022-08-19 02:33:31",
+      "album": {
+        "name": "Order",
+        "url": "https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer"
+      },
+      "artists": [
+        {
+          "name": "Bon-Psy",
+          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Warm Fuzzies: The Glory",
+      "url": "https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA"
+    },
+    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Transactional Relationship",
@@ -267,22 +299,6 @@
       "duration_ms": 193535,
       "name": "Transactional Relationship",
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
-    },
-    {
-      "added_at": "2022-08-24 01:23:50",
-      "album": {
-        "name": "it's a secret / sunflower",
-        "url": "https://open.spotify.com/album/2rNYQwtk5VPJq9mpswLmF6"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 224470,
-      "name": "sunflower",
-      "url": "https://open.spotify.com/track/3JFCJBNiBsjdnihfqaLnKN"
     },
     {
       "added_at": "2022-10-06 00:12:04",
@@ -333,22 +349,6 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2022-08-19 02:33:31",
-      "album": {
-        "name": "Order",
-        "url": "https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer"
-      },
-      "artists": [
-        {
-          "name": "Bon-Psy",
-          "url": "https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Warm Fuzzies: The Glory",
-      "url": "https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA"
-    },
-    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -387,22 +387,6 @@
       "duration_ms": 199666,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
-    },
-    {
-      "added_at": "2022-09-21 02:18:13",
-      "album": {
-        "name": "Seez",
-        "url": "https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg"
-      },
-      "artists": [
-        {
-          "name": "Herva",
-          "url": "https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1"
-        }
-      ],
-      "duration_ms": 221632,
-      "name": "Xid",
-      "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -473,6 +457,38 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
+      "added_at": "2022-08-03 03:56:04",
+      "album": {
+        "name": "Planta Dance",
+        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Planta Dance",
+      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
+    },
+    {
+      "added_at": "2022-09-21 02:18:13",
+      "album": {
+        "name": "Seez",
+        "url": "https://open.spotify.com/album/0Ndr9hTmX5hWstHAptdaNg"
+      },
+      "artists": [
+        {
+          "name": "Herva",
+          "url": "https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1"
+        }
+      ],
+      "duration_ms": 221632,
+      "name": "Xid",
+      "url": "https://open.spotify.com/track/07UNjhqKdLyboCiAXXdWG2"
+    },
+    {
       "added_at": "2022-06-20 21:26:25",
       "album": {
         "name": "bda creature",
@@ -493,36 +509,20 @@
       "url": "https://open.spotify.com/track/7vmEKyVtkUBfrHzu7mRZ0E"
     },
     {
-      "added_at": "2022-08-03 03:56:04",
+      "added_at": "2022-07-15 05:34:07",
       "album": {
-        "name": "Planta Dance",
-        "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Planta Dance",
-      "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
-    },
-    {
-      "added_at": "2022-08-13 02:30:00",
-      "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
-      },
-      "artists": [
-        {
-          "name": "Dainty",
-          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
-        }
-      ],
-      "duration_ms": 222620,
-      "name": "Tapestry - Edit",
-      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
+      "added_at": "2022-08-13 02:30:00",
       "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84"
       },
       "artists": [
         {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+          "name": "Dainty",
+          "url": "https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr"
         }
       ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
+      "duration_ms": 222620,
+      "name": "Tapestry - Edit",
+      "url": "https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn"
     },
     {
       "added_at": "2022-07-28 05:59:17",
@@ -589,6 +589,26 @@
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
+      "added_at": "2022-03-11 06:17:20",
+      "album": {
+        "name": "The Vaulting Sky",
+        "url": "https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje"
+      },
+      "artists": [
+        {
+          "name": "Eli Keszler",
+          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
+        },
+        {
+          "name": "Kode9",
+          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
+        }
+      ],
+      "duration_ms": 333279,
+      "name": "Static Doesn't Exist - Kode9 Remix",
+      "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
+    },
+    {
       "added_at": "2022-03-30 05:37:06",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -619,26 +639,6 @@
       "duration_ms": 382487,
       "name": "Sweat Sonic",
       "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
-    },
-    {
-      "added_at": "2022-03-11 06:17:20",
-      "album": {
-        "name": "The Vaulting Sky",
-        "url": "https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje"
-      },
-      "artists": [
-        {
-          "name": "Eli Keszler",
-          "url": "https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z"
-        },
-        {
-          "name": "Kode9",
-          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
-        }
-      ],
-      "duration_ms": 333279,
-      "name": "Static Doesn't Exist - Kode9 Remix",
-      "url": "https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I"
     },
     {
       "added_at": "2022-03-30 04:42:42",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"
     },
     {
-      "added_at": "2022-08-31 03:28:18",
-      "album": {
-        "name": "Solar Plexus",
-        "url": "https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A"
-      },
-      "artists": [
-        {
-          "name": "Karakter",
-          "url": "https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Solar Plexus",
-      "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
-    },
-    {
       "added_at": "2022-03-30 05:10:26",
       "album": {
         "name": "tracing Rays [reality glo]",
@@ -751,6 +735,22 @@
       "duration_ms": 262240,
       "name": "tracing Rays [reality glo]",
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
+      "added_at": "2022-08-31 03:28:18",
+      "album": {
+        "name": "Solar Plexus",
+        "url": "https://open.spotify.com/album/4bulJeXa9kmJz5m7t5us4A"
+      },
+      "artists": [
+        {
+          "name": "Karakter",
+          "url": "https://open.spotify.com/artist/0D0rrh5OVFbBgSYYOG5jtL"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Solar Plexus",
+      "url": "https://open.spotify.com/track/0KjraktVUU6osERgW3oF7c"
     },
     {
       "added_at": "2022-02-09 04:02:41",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
-      "added_at": "2022-03-18 05:02:00",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
       "added_at": "2022-01-19 22:44:25",
       "album": {
         "name": "Fwd: Re: late (Ref.: karoshi)",
@@ -831,6 +815,22 @@
       "duration_ms": 361386,
       "name": "Fwd: Re: late (Ref.: karoshi)",
       "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
+      "added_at": "2022-03-18 05:02:00",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
       "added_at": "2022-05-06 03:38:46",

@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia\. Cover: Paky
 
-168 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
+169 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/7z4B5G5t7icaq70XD3Gf3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 | 2022-08-04 | 2022-10-28 |
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-05-09 | 2022-06-24 |
-| [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:25 | 2022-11-10 |  |
+| [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:25 | 2022-11-10 | 2022-11-17 |
+| [PENSAVA](https://open.spotify.com/track/7crSaHFvZ4GjDlNxOlQs9m) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:25 | 2022-11-16 |  |
 | [Pioggia](https://open.spotify.com/track/4Gatggg43ESx92VTeiFNjZ) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos), [Duffy](https://open.spotify.com/artist/1GDpBWbNymzzLV7BHzaTBL) | [Pioggia](https://open.spotify.com/album/3vVqHdErmdhflt7QZXCLoz) | 2:38 | 2022-05-25 | 2022-06-10 |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-09 |  |
 | [Più Forte \(feat\. Salmo\)](https://open.spotify.com/track/0xJrRtWFSGuo3oGOzsB2xa) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 2:05 | 2022-11-07 |  |

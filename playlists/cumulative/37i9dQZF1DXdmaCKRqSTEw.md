@@ -4,7 +4,7 @@
 
 > The official playlist for Inventing Anna\. Watch on Netflix.
 
-22 songs - 59 min 41 sec - [published](https://open.spotify.com/playlist/782XsS9gKEgW2gg5uj85et)
+23 songs - 1 hr 1 min - [published](https://open.spotify.com/playlist/782XsS9gKEgW2gg5uj85et)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Talk About It](https://open.spotify.com/track/66f1ikubGWohX1J5t4BKi9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/5d12zoUFyvETmqljhPEyDC) | 3:24 | 2022-03-18 | 2022-11-13 |
 | [The Pines](https://open.spotify.com/track/0uTw7TNnYn64XmCAo5jr0c) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 | 2022-03-18 |  |
 | [UNSTATUS QUO](https://open.spotify.com/track/5JrGf6LaoUgx94PamvZ4eI) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [UNSTATUS QUO](https://open.spotify.com/album/6TLLBBll0rVoCjHxnGiybO) | 2:57 | 2022-03-18 |  |
-| [Vivian Connects The Dots](https://open.spotify.com/track/4gnvkgziSWeOajYAQfg1jT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/4ryUHVYdq9dJXyr1Doc1lD) | 1:38 | 2022-03-18 |  |
+| [Vivian Connects The Dots](https://open.spotify.com/track/2RtkEH2NxXMBkRWG5yjhZ0) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/1xBVcdm8o7j8sjMTk2sAgM) | 1:38 | 2022-03-18 |  |
+| [Vivian Connects The Dots](https://open.spotify.com/track/4gnvkgziSWeOajYAQfg1jT) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Pierre Charles](https://open.spotify.com/artist/6GEwcVy8uYmMizh1nJl5B5) | [Inventing Anna \(Music From The Netflix Series\)](https://open.spotify.com/album/4ryUHVYdq9dJXyr1Doc1lD) | 1:38 | 2022-03-18 | 2022-11-17 |
 | [WOW \(Look At Me\)](https://open.spotify.com/track/1zwyg3yZlh4zYk4i5oJAN5) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [WOW \(Look At Me\)](https://open.spotify.com/album/1SlAViaRrfVaDRsSvjoe0f) | 2:26 | 2022-03-18 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

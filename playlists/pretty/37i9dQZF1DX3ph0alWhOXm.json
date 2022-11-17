@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 137120,
+  "num_followers": 137156,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMDMzZjFhNTdjY2Y5NTUyYTVjYjYzYTExNDkxZWYwY2Iz",
+  "snapshot_id": "MTY2MzkwNTkwNSwwMDAwMDAwMDRjZDU3NTU4MjUzNzhlZWI5NDRkYmYwMTkzMmUyYzNh",
   "tracks": [
     {
       "added_at": "2022-09-23 04:05:05",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "High Noon",
-        "url": "https://open.spotify.com/album/0uQnXXbHhO6BQ1vFcwMwT8"
-      },
-      "artists": [
-        {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Drink to That All Night",
-      "url": "https://open.spotify.com/track/3M31S6f0z8S3nkFh3eS06W"
-    },
-    {
-      "added_at": "2022-09-23 04:05:05",
-      "album": {
         "name": "They Don't Know",
         "url": "https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203293,
       "name": "Any Ol' Barstool",
       "url": "https://open.spotify.com/track/4T5Z4mbTe7kuGqgLpaRtTh"
+    },
+    {
+      "added_at": "2022-09-23 04:05:05",
+      "album": {
+        "name": "High Noon",
+        "url": "https://open.spotify.com/album/0uQnXXbHhO6BQ1vFcwMwT8"
+      },
+      "artists": [
+        {
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "Drink to That All Night",
+      "url": "https://open.spotify.com/track/3M31S6f0z8S3nkFh3eS06W"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -959,22 +959,26 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Longneck Way To Go",
-        "url": "https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg"
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         },
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Longneck Way To Go",
-      "url": "https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz"
+      "duration_ms": 175229,
+      "name": "YOU'RE DRUNK, GO HOME",
+      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1031,26 +1035,22 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+        "name": "Longneck Way To Go",
+        "url": "https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         },
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 175229,
-      "name": "YOU'RE DRUNK, GO HOME",
-      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
+      "duration_ms": 188400,
+      "name": "Longneck Way To Go",
+      "url": "https://open.spotify.com/track/5GZpFMMargJUqhbLoI94Tz"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "I Don't Believe We've Met",
-        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
+        "name": "Daryle Singletary",
+        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
       },
       "artists": [
         {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+          "name": "Daryle Singletary",
+          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
         }
       ],
-      "duration_ms": 212280,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc"
+      "duration_ms": 165600,
+      "name": "Too Much Fun",
+      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Daryle Singletary",
-        "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
+        "name": "I Don't Believe We've Met",
+        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
       },
       "artists": [
         {
-          "name": "Daryle Singletary",
-          "url": "https://open.spotify.com/artist/1mQ9wgWshECdFsDbT7ATzT"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Too Much Fun",
-      "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
+      "duration_ms": 212280,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Dates In Pickup Trucks",
-        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
         }
       ],
-      "duration_ms": 165520,
-      "name": "Dates In Pickup Trucks",
-      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Dates In Pickup Trucks",
+        "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+      "duration_ms": 165520,
+      "name": "Dates In Pickup Trucks",
+      "url": "https://open.spotify.com/track/5U4iPIXYJ5h6H7zJhx6VVF"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1599,22 +1599,22 @@
     {
       "added_at": "2022-09-23 04:05:05",
       "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
+        "name": "My Very Special Guests",
+        "url": "https://open.spotify.com/album/3am7sXkWVQ9mpldg5KtrUm"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         },
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+      "duration_ms": 130733,
+      "name": "I Gotta Get Drunk (with Willie Nelson)",
+      "url": "https://open.spotify.com/track/2uUhWqoiyp1wKJC81vKaJ4"
     }
   ],
   "unique_name": "Drinkin' Songs",

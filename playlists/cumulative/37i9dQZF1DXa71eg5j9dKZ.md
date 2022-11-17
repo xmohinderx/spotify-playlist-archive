@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: The Blessed Madonna
 
-516 songs - 1 day 14 hr 8 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+517 songs - 1 day 14 hr 12 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Steamin](https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Steamin](https://open.spotify.com/album/00ciJacke9mRfbm616SfWq) | 3:48 | 2022-07-28 | 2022-11-11 |
 | [Steamroller](https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt) | 2:55 | 2022-07-14 | 2022-07-29 |
 | [Sternenhimmel](https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Sternenhimmel](https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe) | 5:34 | 2022-07-28 |  |
+| [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-11-16 |  |
 | [Stuck In Love](https://open.spotify.com/track/6Hw597MDyZYBm9sLP8BTCN) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Stuck In Love](https://open.spotify.com/album/565EdGwHonCa2Gg0s1BZye) | 3:17 | 2022-08-11 | 2022-10-29 |
 | [Sueños](https://open.spotify.com/track/06dNaUoMbDGKFKA3KtSkck) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/2TMsotmVj0zxWshIzzAcdV) | 4:58 | 2022-07-21 | 2022-07-29 |
 | [Sueños](https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa) | [Waleed](https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs) | [Sueños](https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe) | 4:58 | 2022-07-28 |  |

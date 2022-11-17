@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,548 songs - 2 day 22 hr 6 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,549 songs - 2 day 22 hr 7 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,7 +1239,7 @@
 | [Strata](https://open.spotify.com/track/0NkxSU0b1Jsw6yK2mJZru3) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Sketches](https://open.spotify.com/album/056bSw2h1gakzLfQQN85PG) | 4:33 | 2021-03-11 | 2022-04-17 |
 | [Streams](https://open.spotify.com/track/6jP8veGopi7UjFP8Uk5prz) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 2:14 | 2022-03-24 | 2022-04-18 |
 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2021-05-17 | 2022-04-10 |
-| [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-01-06 |  |
+| [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-01-06 | 2022-11-17 |
 | [Sugarcane](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Sugarcane](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 2:24 | 2021-05-04 | 2022-04-15 |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2021-11-28 | 2021-11-28 |
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-03-08 |  |
@@ -1375,6 +1375,7 @@
 | [Time to Heal](https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe) | [Vittoria Emanuelle](https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q) | [Time to Heal](https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP) | 2:34 | 2021-03-07 | 2022-04-17 |
 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 | 2021-03-09 | 2022-07-29 |
 | [Timelapse](https://open.spotify.com/track/1AyZlUfEdW8pBzILc2Zd5D) | [Minnie Scolanti](https://open.spotify.com/artist/6pu5iA6AU2eSYpbyqeOdjr) | [Timelapse](https://open.spotify.com/album/4eobXM7Zc9BmPjpJ5Gg0jf) | 2:02 | 2021-04-24 | 2022-04-18 |
+| [Tjärnheden](https://open.spotify.com/track/2YFtpiy2WoAQVQbM1SIwES) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Fjäderlätt](https://open.spotify.com/album/6zSNVshWnIEmrJX9dkLHZw) | 1:40 | 2022-11-15 |  |
 | [To Be The One You Love](https://open.spotify.com/track/0hlafEijgw0Bx3aDwGIedE) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [To Be The One You Love](https://open.spotify.com/album/0MOBtZlRHAgI5EZic9DqWk) | 1:55 | 2021-03-16 | 2022-07-27 |
 | [To Brodie](https://open.spotify.com/track/5ByK15THRduWp3LYKJrx5p) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [To Brodie](https://open.spotify.com/album/2q5nbVAbsFkfwvdarg2Da2) | 2:16 | 2021-03-17 | 2022-04-14 |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-29 |  |

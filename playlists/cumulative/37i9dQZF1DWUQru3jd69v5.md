@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Néza, Nabi
 
-299 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
+300 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/6nhHRG6xegRC3RJpPdvh9l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [HOLA](https://open.spotify.com/track/1ORbOadvMHNqKlS1xnJdsQ) | [GRIZZLY](https://open.spotify.com/artist/16Y59NBjDPuHryezTmuwhV), [NoSaintz](https://open.spotify.com/artist/3odBaKXT6SGHGqjFUBeXkY) | [HOLA](https://open.spotify.com/album/0BJGDsEgUw0aHaIT7tcqYq) | 2:15 | 2022-06-23 | 2022-07-08 |
 | [HOUMA](https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [HOUMA](https://open.spotify.com/album/5w61uZnYtLBWGxpFcsJLF3) | 2:44 | 2022-05-10 | 2022-06-10 |
 | [Il ballo dei soldi](https://open.spotify.com/track/2797B0k7KNQNfsv8yS3LWr) | [Cristian Margelia](https://open.spotify.com/artist/5VPQZTf2iiPKyDJNKwuKg5), [neezyboy](https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv) | [Il ballo dei soldi](https://open.spotify.com/album/1E0UP75s2950CegI1dgSwg) | 2:19 | 2022-05-10 | 2022-05-20 |
+| [Il Ferro di Čechov](https://open.spotify.com/track/0fNKABHyuS6JHqmQyZv3fM) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 3:11 | 2022-11-16 |  |
 | [Il male qua](https://open.spotify.com/track/3wkumyLVODWI8qlW0fBsG7) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Il male qua](https://open.spotify.com/album/6FXHqJdvs7NyQFIoI61MAo) | 2:28 | 2022-05-10 | 2022-06-03 |
 | [Il mio frére](https://open.spotify.com/track/6Ay1UQZmE1rJj5dcl98z6s) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf) | [Il mio frére](https://open.spotify.com/album/1WbnR7x7I9Vv0rGLnQMlHx) | 2:00 | 2022-06-16 | 2022-07-08 |
 | [Immigrato](https://open.spotify.com/track/322fNeq8hTL7PXlB5XL3tv) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r) | 3:39 | 2022-07-14 | 2022-08-26 |

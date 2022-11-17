@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,337 likes - 101 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,526 likes - 101 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 33 | [Kanou](https://open.spotify.com/track/43jFFMQlyY38tWloRAhdYy) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:53 |
 | 34 | [Isqoqodo](https://open.spotify.com/track/3TM2ZDpXyHjM7WEERiUmbE) | [Insingizi](https://open.spotify.com/artist/6FcmgYayMAYjPOeH3YRc2w) | [Insingizi: Voices of Southern Africa](https://open.spotify.com/album/7gAUCIDKQCEZ26KoQmT68e) | 3:06 |
 | 35 | [Gbê](https://open.spotify.com/track/3uwaKT9AIPP2fhi9pLBALu) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 3:48 |
-| 36 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo \(Real World Gold\)](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 |
+| 36 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 |
 | 37 | [Alain](https://open.spotify.com/track/4zh9PZRWcJEJ9Cw0z0CxcN) | [Nahini Doumbia](https://open.spotify.com/artist/4brKQ2i0hpZVHaqTun4bDP), [Les Espoirs du Mali](https://open.spotify.com/artist/0YcXSgzdEnKIops39bG8qH) | [An African Journey: Music from Cairo to Cape Town](https://open.spotify.com/album/3YqIFceMBk9XesaM3hqdus) | 3:15 |
 | 38 | [Kana\-Sila](https://open.spotify.com/track/7DAPYAB6wRjInP47kQTf3D) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Seckou Keita: 22 Strings](https://open.spotify.com/album/5YWNufb3cz5hYYA9Vv0uve) | 3:50 |
 | 39 | [Tanya](https://open.spotify.com/track/3a8TSMd9ZVUyltsnS1Ahi1) | [Kasumai](https://open.spotify.com/artist/1iSZ7PhPo0z6a8ufDAzopv) | [Senegal Urban Rhythms](https://open.spotify.com/album/7mRh3KBsnccgY39OLezlVs) | 2:25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: SPUK, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: FILLY, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/4pmuwZkuQCrdlLsLPxsqrc"
+      },
+      "artists": [
+        {
+          "name": "JYN",
+          "url": "https://open.spotify.com/artist/0AX2jZaUfUfEDzZnl6QCxG"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/3TdCOswyXJ7o14L97MflDF"
+    },
+    {
+      "album": {
         "name": "Alte Liebe",
         "url": "https://open.spotify.com/album/4bOPG5g094JQGQNTr89okt"
       },
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 248297,
       "name": "Arbeit und Struktur",
       "url": "https://open.spotify.com/track/1xhxXNRDW0FjkCxPQPxVa3"
@@ -795,6 +813,24 @@
       "duration_ms": 175307,
       "name": "Believer",
       "url": "https://open.spotify.com/track/1nmsQfX5xgz6LRr054LCKJ"
+    },
+    {
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/7mTBGOVnDRaC3yl0ih3CHg"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128300,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/4T0pOKQQALRNnoitN7offQ"
     },
     {
       "album": {
@@ -1308,6 +1344,28 @@
     },
     {
       "album": {
+        "name": "Casper",
+        "url": "https://open.spotify.com/album/7BtNhA8Y4jrXmJiQkO1LEp"
+      },
+      "artists": [
+        {
+          "name": "Noah Becker",
+          "url": "https://open.spotify.com/artist/4UE2HkQLGxOkKldlRLMorR"
+        },
+        {
+          "name": "Selassie",
+          "url": "https://open.spotify.com/artist/58QJmBAZsQDVkQKD0vs65C"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203503,
+      "name": "Casper",
+      "url": "https://open.spotify.com/track/4CyHw1RoYwpOV0ccSMaRqs"
+    },
+    {
+      "album": {
         "name": "Catch Me",
         "url": "https://open.spotify.com/album/0zxdBTt9V5UfDeBNpnXTD9"
       },
@@ -1479,6 +1537,24 @@
       "duration_ms": 167942,
       "name": "Cold Lanes",
       "url": "https://open.spotify.com/track/4WMffiJmILOIg1gUlvOSgo"
+    },
+    {
+      "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/0J3iOyB986bTUJsUSZOyxi"
+      },
+      "artists": [
+        {
+          "name": "TEZA",
+          "url": "https://open.spotify.com/artist/58HVoTyHEFyXXPHeaNGUy7"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228501,
+      "name": "COLORS",
+      "url": "https://open.spotify.com/track/1TtwDlSTYBh9N5GOITGOig"
     },
     {
       "album": {
@@ -1695,7 +1771,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 194090,
       "name": "Dance or Die",
       "url": "https://open.spotify.com/track/6pwR4nmKiyLUMsIEe0637M"
@@ -1829,7 +1905,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 131894,
       "name": "demons",
       "url": "https://open.spotify.com/track/4A0A1B95YoiOiFRCIJmTYB"
@@ -2941,7 +3017,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 93176,
       "name": "Gems",
       "url": "https://open.spotify.com/track/5jripRjpdpzIkkhqG6k6jC"
@@ -3415,6 +3491,24 @@
       "duration_ms": 177989,
       "name": "Haut an Haut",
       "url": "https://open.spotify.com/track/43npphURzkZ9nwXcV0EoLN"
+    },
+    {
+      "album": {
+        "name": "Hay Fever in December",
+        "url": "https://open.spotify.com/album/3qj5o0BGIMQ6KOFK3xk96D"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183312,
+      "name": "Hay Fever in December",
+      "url": "https://open.spotify.com/track/3CvhQgyyEetsufUbsTXnfA"
     },
     {
       "album": {
@@ -4277,6 +4371,24 @@
       "duration_ms": 295675,
       "name": "Kaisermantel",
       "url": "https://open.spotify.com/track/1ThZOanS72JqrhCCpfOPXo"
+    },
+    {
+      "album": {
+        "name": "Kaputtes Ger\u00e4t",
+        "url": "https://open.spotify.com/album/5cDBhbM6dLGbPsNOfTEiyP"
+      },
+      "artists": [
+        {
+          "name": "PAULA PAULA",
+          "url": "https://open.spotify.com/artist/1OnyP2j1xYBzswCS7VUz0e"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218018,
+      "name": "Kaputtes Ger\u00e4t",
+      "url": "https://open.spotify.com/track/3hNXkvaZ8DJ4mlaoqy4G5j"
     },
     {
       "album": {
@@ -5355,7 +5467,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 228000,
       "name": "Move",
       "url": "https://open.spotify.com/track/6QOwQePqZlij4xcdVj14DH"
@@ -5643,7 +5755,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 179120,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/75rtz3gDvZGfc6ncSK6YXN"
@@ -6058,6 +6170,24 @@
     },
     {
       "album": {
+        "name": "Phanta",
+        "url": "https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1"
+      },
+      "artists": [
+        {
+          "name": "Dejago",
+          "url": "https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416956,
+      "name": "Phanta",
+      "url": "https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr"
+    },
+    {
+      "album": {
         "name": "Phase",
         "url": "https://open.spotify.com/album/1UBQuDBgQJdmRv7h6PEBvN"
       },
@@ -6433,7 +6563,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 416202,
       "name": "Rave22",
       "url": "https://open.spotify.com/track/7dDyKAq26yih98op1W8OhD"
@@ -7520,6 +7650,24 @@
     },
     {
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY"
+      },
+      "artists": [
+        {
+          "name": "Solatic",
+          "url": "https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425173,
+      "name": "Storyteller",
+      "url": "https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D"
+    },
+    {
+      "album": {
         "name": "Stranger's Eyes",
         "url": "https://open.spotify.com/album/6lP9Myva58kIJfmlS2nW9O"
       },
@@ -8548,6 +8696,24 @@
     },
     {
       "album": {
+        "name": "Verdammt",
+        "url": "https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT"
+      },
+      "artists": [
+        {
+          "name": "Acud",
+          "url": "https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217159,
+      "name": "Verdammt - Radio Edit",
+      "url": "https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i"
+    },
+    {
+      "album": {
         "name": "Verlierer",
         "url": "https://open.spotify.com/album/6dynCf9r1ABitOURv8Abpx"
       },
@@ -9121,7 +9287,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 268352,
       "name": "Wir gehen in die Sonne",
       "url": "https://open.spotify.com/track/6hz6fKj65JsYTSXsbvDr6x"
@@ -9197,7 +9363,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 418364,
       "name": "Worak",
       "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"

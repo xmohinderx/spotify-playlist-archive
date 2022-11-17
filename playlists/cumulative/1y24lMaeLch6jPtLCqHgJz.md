@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1y24lMaeLch6jPtLCqHgJz.md) - cumulative - [plain](/playlists/plain/1y24lMaeLch6jPtLCqHgJz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1y24lMaeLch6jPtLCqHgJz)
 
-### [Progressive House 2022 ](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
+### [Progressive House 2022 💨 Festival Songs](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
 
 > The biggest Progressive House anthems of 2022\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music
 

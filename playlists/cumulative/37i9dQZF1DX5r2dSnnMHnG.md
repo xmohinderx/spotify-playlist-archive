@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-146 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
+147 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Angel](https://open.spotify.com/track/1rA1etw2JosyY4n6b9HE4N) | [Rossy Punky Perfume](https://open.spotify.com/artist/5dW3UqNwzOT9hOdkBqft6w) | [Angel](https://open.spotify.com/album/5i5OSJCQJT3DB5H4uA2PvD) | 3:56 | 2022-06-09 | 2022-07-28 |
 | [Baby I told you](https://open.spotify.com/track/27PvuEGJGW91wrP5q3khDD) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [Baby I told you](https://open.spotify.com/album/4RfQ0urMKBfgd7XF8iQNxc) | 2:44 | 2022-05-11 | 2022-07-26 |
 | [Beyond Love \(Feat\. 10CM\)](https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Beyond Love](https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA) | 3:08 | 2022-05-11 |  |
-| [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 | 2022-05-11 |  |
+| [blooming](https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u) | [Kim Marie](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [blooming](https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3) | 3:59 | 2022-05-11 | 2022-11-17 |
 | [Blue Spring](https://open.spotify.com/track/7cU5VRZbRP0GnZmAoFd7th) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Blue Spring](https://open.spotify.com/album/5Ruwpz7kMKZaPYK4uKWsOI) | 4:24 | 2022-05-11 | 2022-07-28 |
 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 | 2022-05-11 |  |
 | [Bom Bom Bom](https://open.spotify.com/track/0FoKtKGNPE915m45qehcsz) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Love Love Love](https://open.spotify.com/album/6ZgzJf3CVesqKLOFehnCKr) | 3:28 | 2022-05-11 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [SOME](https://open.spotify.com/track/29fqZVcnBDxZZaM5qOcQmR) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/67gYjBoR0VQZbe2wSN7ZfU) | 3:43 | 2022-05-11 | 2022-07-29 |
 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 | 2022-07-04 |  |
 | [Somehow you are 왠지 너는](https://open.spotify.com/track/17xYfVlgC5q36pXP7Eju4A) | [Jaejoo Boys](https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ) | [Somehow you are 왠지 너는](https://open.spotify.com/album/5BvCMIM7DpDMVcd6k5bRRy) | 3:57 | 2022-05-11 | 2022-07-28 |
+| [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 | 2022-09-05 |  |
 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 | 2022-06-09 | 2022-10-26 |
 | [Spring](https://open.spotify.com/track/2rLJ6utcMLvQnVOjQXsURa) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [Song of spring](https://open.spotify.com/album/6wSoAwQbrwKlOn4yroa1CP) | 3:18 | 2022-05-11 | 2022-07-29 |
 | [Spring Attitude](https://open.spotify.com/track/0oX3uukKkz0aBEXl3RxxyC) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s) | 3:16 | 2022-05-11 |  |

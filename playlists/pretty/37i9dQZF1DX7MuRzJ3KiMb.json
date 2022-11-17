@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 35317,
+  "num_followers": 35370,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMGU2NzhjZmI5NGY2NjMyYzM0ZTRkN2M2MTJhNjk1MTU0",
+  "snapshot_id": "MTY2Mzk3NTMyNSwwMDAwMDAwMDg2OTg1NWU2ZGMwNmI0MGU3ZjFkNTBiZjhiNWIyNTk4",
   "tracks": [
     {
       "added_at": "2022-09-23 23:22:05",
@@ -139,22 +139,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Que Te Parece",
-        "url": "https://open.spotify.com/album/18j8Z3zWIibYQe0vwEeiQA"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
       },
       "artists": [
         {
-          "name": "Matias Juarez",
-          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
-        },
-        {
-          "name": "Trapzongo",
-          "url": "https://open.spotify.com/artist/2z2643JYOEICXjihraM16g"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 183058,
-      "name": "Que Te Parece",
-      "url": "https://open.spotify.com/track/0Uyo3tsKFD735CfP3UmOsP"
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -175,18 +171,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+        "name": "Que Te Parece",
+        "url": "https://open.spotify.com/album/18j8Z3zWIibYQe0vwEeiQA"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        },
+        {
+          "name": "Trapzongo",
+          "url": "https://open.spotify.com/artist/2z2643JYOEICXjihraM16g"
         }
       ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+      "duration_ms": 183058,
+      "name": "Que Te Parece",
+      "url": "https://open.spotify.com/track/0Uyo3tsKFD735CfP3UmOsP"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "Aline",
         "url": "https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 156240,
       "name": "Aline",
       "url": "https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "El Mejor Lugar",
-        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
-      },
-      "artists": [
-        {
-          "name": "Juan Vegas",
-          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
-        }
-      ],
-      "duration_ms": 175214,
-      "name": "El Mejor Lugar",
-      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
         "name": "Querernos Bien",
         "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+        "name": "El Mejor Lugar",
+        "url": "https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme"
       },
       "artists": [
         {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+          "name": "Juan Vegas",
+          "url": "https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
+      "duration_ms": 175214,
+      "name": "El Mejor Lugar",
+      "url": "https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -895,6 +879,22 @@
       "duration_ms": 224965,
       "name": "Diez Pasos Hacia Ti - En Vivo",
       "url": "https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm"
     },
     {
       "added_at": "2022-09-23 23:22:05",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-09-23 23:22:05",
       "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2022-09-23 23:22:05",
+      "album": {
         "name": "45 RPM",
         "url": "https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 263906,
       "name": "Para la Eternidad",
       "url": "https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy"
-    },
-    {
-      "added_at": "2022-09-23 23:22:05",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2022-09-23 23:22:05",

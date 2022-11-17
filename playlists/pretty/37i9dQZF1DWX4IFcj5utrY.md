@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ?si=DjQm\-D4cSD\-PuJIJ2pQHpQ">Kususa</a> and <a href="https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt?si=a\-5he1luTZWLbLOg3FbESg">Argento Dust</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,444 likes - 55 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,489 likes - 55 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

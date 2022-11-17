@@ -3085,7 +3085,7 @@
     {
       "album": {
         "name": "Awesome.ep",
-        "url": "https://open.spotify.com/album/2MuVRYEHJpo5keWpkhRATp"
+        "url": "https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1"
       },
       "artists": [
         {
@@ -3096,6 +3096,24 @@
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 302931,
+      "name": "olive drive",
+      "url": "https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC"
+    },
+    {
+      "album": {
+        "name": "Awesome.ep",
+        "url": "https://open.spotify.com/album/2MuVRYEHJpo5keWpkhRATp"
+      },
+      "artists": [
+        {
+          "name": "Laura day romance",
+          "url": "https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
       "duration_ms": 302931,
       "name": "olive drive|\u6a44\u6b16\u601d\u5de1",
       "url": "https://open.spotify.com/track/5OnF0rU4WAzl13h5E15cNy"

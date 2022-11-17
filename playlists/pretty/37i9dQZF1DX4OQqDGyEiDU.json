@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 51457,
+  "num_followers": 51531,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA2NDY5MSwwMDAwMDAwMDljZGEzZGMyNjZkY2JmODlkNGIyNzM1MWY4MWJiZDU4",
+  "snapshot_id": "MTY2ODA2NDY5MSwwMDAwMDAwMDhkODkxMmEyYzcyOTBlYjdmM2I4MTIxMThmZDA1OTEy",
   "tracks": [
     {
       "added_at": "2022-11-08 17:27:16",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
+        "name": "Nayutan Sei Kara No Buttai Y",
+        "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
+      },
+      "artists": [
+        {
+          "name": "Nayutalien",
+          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Alien Alien",
+      "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
         "name": "KAF+YOU KAFU COMPILATION ALBUM \u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
         "url": "https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 163686,
       "name": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30de\u30ad\u30b7\u30de\u30a4\u30b6\u30fc",
       "url": "https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
-        "name": "Nayutan Sei Kara No Buttai Y",
-        "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
-      },
-      "artists": [
-        {
-          "name": "Nayutalien",
-          "url": "https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Alien Alien",
-      "url": "https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v"
     },
     {
       "added_at": "2022-11-08 17:27:16",

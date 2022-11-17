@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-226 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
+228 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/0fsDW9Wxgoj8VFUemuBkg3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Corduroy](https://open.spotify.com/track/27fEdxOjoSUElncwegKiTb) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Corduroy](https://open.spotify.com/album/0fwUb7KbDTiccmTkgaSemE) | 3:58 | 2021-11-12 | 2022-07-29 |
 | [Daydream](https://open.spotify.com/track/3xBIsExqz82twU9FWQjis2) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/1pL5mb1or8AFFUiSVFILNN) | 4:48 | 2022-08-12 |  |
 | [Daydream](https://open.spotify.com/track/4FpGHZhJMpdzhTb3vmYt3H) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Isn't It Nice](https://open.spotify.com/album/5pa0TFv3JUludVq6YlRjYT) | 4:48 | 2021-11-12 | 2022-10-19 |
-| [Decimal](https://open.spotify.com/track/1uliNs1keVwYclj74JX44R) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Decimal / Halloween](https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8) | 2:58 | 2021-11-12 |  |
+| [Decimal](https://open.spotify.com/track/1uliNs1keVwYclj74JX44R) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Decimal / Halloween](https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8) | 2:58 | 2021-11-12 | 2022-11-17 |
+| [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 | 2022-08-12 |  |
 | [Do It for Yourself](https://open.spotify.com/track/4nqvfPLOhsKuKOWLlpWpHO) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 | 2022-03-31 | 2022-04-21 |
 | [Do This To Me](https://open.spotify.com/track/2dgiyjreusbxIacbBkq2Wi) | [Julia Bardo](https://open.spotify.com/artist/1hRs60foVmjwBiSesXnUdi) | [Do This To Me](https://open.spotify.com/album/4gB9m7OYFQ1c0SIDYHsLmY) | 4:20 | 2022-03-31 | 2022-04-20 |
 | [Do This to Me](https://open.spotify.com/track/5UZMirBscG3TgEsX9z4wiG) | [Julia Bardo](https://open.spotify.com/artist/1hRs60foVmjwBiSesXnUdi) | [Do This to Me](https://open.spotify.com/album/7fy2Nc34vbRMVDdULfnWFQ) | 4:20 | 2022-03-31 | 2022-04-21 |
@@ -174,7 +175,7 @@
 | [Rae Street](https://open.spotify.com/track/6u5MwASLtlNlt9f7qUz4c3) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Rae Street](https://open.spotify.com/album/2sMfmZOgdIkr9m9nwautVA) | 4:31 | 2021-11-12 | 2022-07-29 |
 | [Real Cowboys Cry](https://open.spotify.com/track/7bo2CV6g1RhcyMjJrRwntv) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Real Cowboys Cry](https://open.spotify.com/album/271ySYRekd56tvM49qD5S7) | 2:48 | 2022-03-31 | 2022-06-30 |
 | [Red Light Heaven](https://open.spotify.com/track/1Z7bC4OTpjgT8kAvzYcpi6) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Red Light Heaven](https://open.spotify.com/album/7ooLZad20kBd5CeA9Lac26) | 3:29 | 2021-11-12 | 2022-07-25 |
-| [Red Light Heaven](https://open.spotify.com/track/5eFDNtqUJcF7a5wL4zwdhM) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Already, Always](https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ) | 3:29 | 2022-08-12 |  |
+| [Red Light Heaven](https://open.spotify.com/track/5eFDNtqUJcF7a5wL4zwdhM) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Already, Always](https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ) | 3:29 | 2022-08-12 | 2022-11-17 |
 | [Retail Lord](https://open.spotify.com/track/0nLQNxCdGHJowCap24JRtP) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 3:27 | 2021-11-12 | 2022-07-28 |
 | [Right Person, Wrong Time](https://open.spotify.com/track/2JwgUy76BKFXbMVdoL6DZ2) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [Right Person, Wrong Time](https://open.spotify.com/album/4AdWy46LuhYFE3b9v1zfMY) | 3:30 | 2021-11-12 | 2022-07-19 |
 | [Rivers](https://open.spotify.com/track/4zXzJBc9WtJrw2owC5bffi) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Rivers](https://open.spotify.com/album/5LyRyoQoggCjsX3EiU3qCd) | 3:56 | 2022-03-31 | 2022-04-19 |
@@ -192,6 +193,7 @@
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 | 2021-11-12 | 2022-07-29 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/2CxLla7i6lur02aOVMHPMK) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/0GdoJHiw5DpePwcIfPOPHz) | 4:24 | 2022-06-23 |  |
 | [Something Going On](https://open.spotify.com/track/4pjHz7vl4LDOLWtTS7QmDQ) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Something Going On](https://open.spotify.com/album/6FZ17rwKoCdgxsfSvusG0m) | 3:09 | 2021-11-12 | 2022-07-28 |
+| [Something Holy](https://open.spotify.com/track/2YAp3Kb8Xb6iVMk8Zp8jAH) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Peninsula](https://open.spotify.com/album/1zVph8HU5qFkq8bmur2fa2) | 3:18 | 2022-08-12 |  |
 | [Something Holy](https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Something Holy](https://open.spotify.com/album/2RhBeJFBLkhgwmIVFNaQNl) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [Song for Nick Drake](https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP) | 2:57 | 2021-11-12 | 2022-07-28 |
 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2022-06-23 |  |

@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: TOBi
 
-299 songs - 15 hr 9 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+300 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Point God](https://open.spotify.com/track/2GdalCMhRsci19qs8yjCZc) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L), [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Point God](https://open.spotify.com/album/5Rj9y2OkoTogv1La20MgLG) | 2:37 | 2022-06-17 | 2022-07-23 |
 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 | 2021-09-03 | 2022-10-15 |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2021-09-03 | 2022-07-27 |
-| [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 | 2022-02-25 |  |
+| [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 | 2022-02-25 | 2022-11-17 |
 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 | 2022-07-15 | 2022-10-08 |
 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 | 2022-10-28 |  |
 | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Psychedelic Views \(feat\. IDK\)](https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC) | 4:40 | 2021-09-03 | 2022-10-15 |
@@ -219,6 +219,7 @@
 | [Rainforest](https://open.spotify.com/track/4c4KofbmhnfVNJk8pwXCWk) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb) | 2:42 | 2022-10-07 | 2022-10-15 |
 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 | 2021-09-03 | 2022-09-09 |
 | [range brothers \(with Kendrick Lamar\)](https://open.spotify.com/track/0UTyLmkQgPOEIz95OVAJTR) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 5:16 | 2021-09-17 | 2022-02-09 |
+| [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 | 2022-11-11 |  |
 | [riddle](https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [riddle](https://open.spotify.com/album/0z3Iiza1Fz3vbiHkMgi6RW) | 1:48 | 2022-02-04 | 2022-02-12 |
 | [Risky](https://open.spotify.com/track/07nlhOBxH0D4Dwrwa1giAZ) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [Truth Be Told](https://open.spotify.com/album/0iq4VWGYG9Km7d7L0h31At) | 2:44 | 2022-05-27 | 2022-06-28 |
 | [Rollin Wit The Homies \(feat\. Buddy\)](https://open.spotify.com/track/2X1WUhn4giE70wOXg6BTcR) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Rollin Wit The Homies \(feat\. Buddy\)](https://open.spotify.com/album/3Kj2ZkKAGpd81rX3KQy3Wu) | 4:03 | 2022-04-29 | 2022-07-29 |

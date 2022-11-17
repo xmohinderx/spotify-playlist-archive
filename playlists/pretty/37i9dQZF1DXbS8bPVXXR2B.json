@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 177430,
+  "num_followers": 177567,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDAwZjY5OTgwMzAyYWE4YmU2YjAxNzA4ZTI4YWNiMjk3",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMGRmMWVjNmU4YmE4ZjMzYmJhMmUxNjI3ZWVmMDQ1ZDM0",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Relight My Fire (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Relight My Fire - Single Version",
-      "url": "https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Changes (Expanded Edition)",
         "url": "https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 314320,
       "name": "Risin' to the Top",
       "url": "https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Relight My Fire (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "Relight My Fire - Single Version",
+      "url": "https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 337773,
+      "name": "The Magnificent Dance",
+      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "I Want to Feel Your Love",
         "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 400000,
       "name": "I Can't Get Along Without You",
       "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 337773,
-      "name": "The Magnificent Dance",
-      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Summertime Groove",
         "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 352106,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Watchin' Out",
-        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
-      },
-      "artists": [
-        {
-          "name": "Split Decision Band",
-          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
-        }
-      ],
-      "duration_ms": 195114,
-      "name": "Watchin' Out",
-      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 423240,
       "name": "Found a Cure - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin' Out",
+        "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
+      },
+      "artists": [
+        {
+          "name": "Split Decision Band",
+          "url": "https://open.spotify.com/artist/4XEEn0HMV7zxiOm6B5DVLf"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Watchin' Out",
+      "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Al Santiago Presents Yamb\u00fa",
-        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
-      },
-      "artists": [
-        {
-          "name": "Yambu",
-          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "For You (LP)",
         "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 278000,
       "name": "Stop Your Life - Original Album",
       "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Al Santiago Presents Yamb\u00fa",
+        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
+      },
+      "artists": [
+        {
+          "name": "Yambu",
+          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Do It Do It Disco",
         "url": "https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 350164,
       "name": "Do It Do It Disco (Tom Noble Remix)",
       "url": "https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs"
     },
     {
       "added_at": "2022-09-05 16:54:43",

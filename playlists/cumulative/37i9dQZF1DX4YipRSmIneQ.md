@@ -4,7 +4,7 @@
 
 > ur favorite queer bedroom club
 
-202 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+203 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [What the Girlies Lack](https://open.spotify.com/track/16CYKwsnfK1KVL4Z1CghJW) | [Nattalie Blake](https://open.spotify.com/artist/2QJSx4tM6efojkBDxog9FB) | [What the Girlies Lack](https://open.spotify.com/album/3MbNxkKz4xl0uPOWAbkjj1) | 3:29 | 2022-03-16 | 2022-06-23 |
 | [What's the Word \- Wax Wings Remix](https://open.spotify.com/track/6Es4E4HxhijoUHSqNz0Eut) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S), [Wax Wings](https://open.spotify.com/artist/36GCZfnizKMEEkU9k79Sm3) | [What's the Word \(Wax Wings Remix\)](https://open.spotify.com/album/7DNGZ4fefzzTijus6WXMxO) | 3:29 | 2022-10-13 |  |
 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 | 2022-03-16 | 2022-08-10 |
-| [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-16 |  |
+| [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-16 | 2022-11-17 |
+| [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/64xy8ja7i7F0VPmgLUrMCx) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/2Bnzz1MOwqdalLiHpX2mhV) | 2:40 | 2022-10-13 |  |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-03-16 |  |
 | [Your Love \(feat\. Jamie Principle\)](https://open.spotify.com/track/6tvtFyEdNpeurBkT2zNMEL) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [Four Most Cuts Presents \- Frankie Knuckles vs\. Mr Fingers](https://open.spotify.com/album/1OM6ULzT778hgqBI4stbFR) | 6:47 | 2022-03-16 | 2022-04-20 |
 

@@ -2,9 +2,9 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Ray Dalton, Felix Jaehn
+> The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Zombic, Influencerz, Danimal
 
-220 songs - 10 hr 2 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
+221 songs - 10 hr 5 min - [published](https://open.spotify.com/playlist/4Sc3vClwMPjm8ROhpN4cCx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dance Again](https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Dance Again](https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT) | 2:32 | 2021-12-15 | 2022-01-27 |
 | [Dance Tonight](https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Dance Tonight](https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV) | 2:57 | 2021-12-22 | 2022-06-30 |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-01-19 | 2022-04-14 |
+| [Dancing in the Streets](https://open.spotify.com/track/2RyTblYodC8cnGWFxlnSM5) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dancing in the Streets](https://open.spotify.com/album/17J0kT98HZNfm5OrKcCmBS) | 2:28 | 2022-11-16 |  |
 | [Dark Love](https://open.spotify.com/track/79UJlXbJlCkaXZuRHda2h9) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz), [Evelyn](https://open.spotify.com/artist/5zntHEBXOIjmsrPNkdPz12) | [Dark Love](https://open.spotify.com/album/2UrkzKZtqsaLyKBlXywK48) | 2:25 | 2022-01-26 | 2022-04-07 |
 | [Darkness](https://open.spotify.com/track/4zLdEpeSd3PxfkZzkZb46C) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Darkness](https://open.spotify.com/album/7n8VDH3a8qu9yB8JfagRpO) | 2:54 | 2022-02-02 | 2022-05-19 |
 | [Darkroom](https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Darkroom](https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k) | 2:36 | 2022-05-11 | 2022-07-21 |
@@ -167,7 +168,7 @@
 | [Raindrop \(feat\. Shibui\)](https://open.spotify.com/track/7AZHmKLqMIpjvt0nxReVlz) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Raindrop \(feat\. Shibui\)](https://open.spotify.com/album/3vI8rJQBebnZfCsuGODsAe) | 2:26 | 2022-06-01 | 2022-07-14 |
 | [Rooftop](https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Rooftop](https://open.spotify.com/album/3NY5MKyBEE0w2ZGQrANjHQ) | 2:45 | 2022-03-02 | 2022-09-09 |
 | [Sailor's Melody](https://open.spotify.com/track/22yqJ337zbB2u9mB7igNWm) | [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [Sula](https://open.spotify.com/artist/5eZVJzX99tmM2goIPe5rCq) | [Sailor's Melody](https://open.spotify.com/album/4tOpYbxSSHryjfh2q39kvG) | 2:10 | 2021-12-15 | 2022-05-05 |
-| [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 | 2022-05-25 |  |
+| [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 | 2022-05-25 | 2022-11-17 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-04 | 2022-08-11 |
 | [Second Life](https://open.spotify.com/track/02R36WcRcPSbMEhTutnAlt) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Second Life](https://open.spotify.com/album/4WayvrY6aOvXxq0hiSlOBR) | 2:54 | 2021-12-15 | 2022-01-13 |
 | [Smalltown Boy](https://open.spotify.com/track/3QuJ4TqND9JE7cqAkIrgYr) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [Smalltown Boy](https://open.spotify.com/album/22qBsT4FYEV5ZHeFrvIenK) | 2:24 | 2022-03-30 | 2022-08-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8669,
+  "num_followers": 8695,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUwNjEwOSwwMDAwMDAwMDY0MzgzZjQzMTZjYjRhMmQ4MTY4ZWViNmQyODFiZTZm",
+  "snapshot_id": "MTY2ODUwNjEwOSwwMDAwMDAwMDgxNzQ1M2E0NTBjMzk2YWNmMjg4Njg1NThlNWQ0MTkz",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
     },
     {
-      "added_at": "2022-11-16 01:26:24",
+      "added_at": "2022-11-17 01:24:41",
       "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Palmwine Music 2",
-        "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Flash",
-          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
-        }
-      ],
-      "duration_ms": 255157,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 188760,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Palmwine Music 2",
+        "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Flash",
+          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
+        }
+      ],
+      "duration_ms": 255157,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
     },
     {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Bad4u",
-        "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 179762,
-      "name": "Bad4u",
-      "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "APOLLO",
@@ -799,26 +783,6 @@
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
-    },
-    {
-      "added_at": "2022-09-30 06:26:52",
-      "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
-      },
-      "artists": [
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Naomi Achu",
-          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Fight For You",
-      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -839,6 +803,42 @@
       "duration_ms": 185619,
       "name": "Confident",
       "url": "https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu"
+    },
+    {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Bad4u",
+        "url": "https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 179762,
+      "name": "Bad4u",
+      "url": "https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1"
+    },
+    {
+      "added_at": "2022-09-30 06:26:52",
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -877,26 +877,6 @@
       "url": "https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Feelin U",
-        "url": "https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6"
-      },
-      "artists": [
-        {
-          "name": "Mut4y",
-          "url": "https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ"
-        },
-        {
-          "name": "Elhi",
-          "url": "https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Feeling U",
-      "url": "https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti"
-    },
-    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "JUDAH LION",
@@ -917,20 +897,24 @@
       "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Torn Tapestries",
-        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+        "name": "Feelin U",
+        "url": "https://open.spotify.com/album/4OcqHYAYxhyYfSZ81IZpo6"
       },
       "artists": [
         {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+          "name": "Mut4y",
+          "url": "https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ"
+        },
+        {
+          "name": "Elhi",
+          "url": "https://open.spotify.com/artist/4o5e5s9T1cFmu223JUxLVI"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Heartburn (Sooibrand)",
-      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
+      "duration_ms": 201600,
+      "name": "Feeling U",
+      "url": "https://open.spotify.com/track/3z3R7AUrnhoHrmDNvZicti"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -963,6 +947,22 @@
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/0eAudWJz6SUYPA2CGE0Z8H"
     },
     {
-      "added_at": "2022-08-12 05:44:57",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Vanity",
@@ -1055,6 +1039,22 @@
       "duration_ms": 224837,
       "name": "Can You See Her",
       "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
+    },
+    {
+      "added_at": "2022-08-12 05:44:57",
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Brunch",
-        "url": "https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec"
-      },
-      "artists": [
-        {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Brunch",
-      "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Better Days / Wetin Dey",
         "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 187424,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Brunch",
+        "url": "https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Brunch",
+      "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
     },
     {
       "added_at": "2022-06-09 23:00:00",

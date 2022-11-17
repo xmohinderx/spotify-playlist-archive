@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-247 songs - 20 hr 2 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+248 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [I teleported to Acapulco](https://open.spotify.com/track/0TZcrDs4cFHR7plX9F0eVu) | [Øresund Space Collective](https://open.spotify.com/artist/2uvfGz1p9D7bj8MnuRPjlC) | [Slip into the Vortex](https://open.spotify.com/album/6qfXssEj5ifrHYiQfHmgYz) | 9:55 | 2021-11-12 | 2022-07-26 |
 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/2priXi39uori5UwmnwA6oO) | 5:12 | 2021-11-12 |  |
 | [I'll Gladly Place Myself Below You](https://open.spotify.com/track/7fpEayIv2yPcLnbiRLDMWn) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF) | 5:12 | 2021-11-12 | 2022-10-16 |
-| [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-09 |  |
+| [Ice V](https://open.spotify.com/track/36XAknfUMQYgAPfIJkTed0) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice, Death, Planets, Lungs, Mushrooms And Lava](https://open.spotify.com/album/2nPbslvl01lfELsFHTKp0s) | 10:15 | 2022-09-09 |  |
+| [Ice V](https://open.spotify.com/track/3B5G4Twkzamy4ZuOWJbbGk) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Ice V](https://open.spotify.com/album/5Al5fmTyzQNHel55Hc5O7q) | 10:15 | 2022-09-09 | 2022-11-17 |
 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 | 2021-11-12 |  |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 |  |
 | [Imperio](https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [Imperio](https://open.spotify.com/album/4xSIqrDjct43Ts9y0p2Foj) | 3:39 | 2021-11-12 | 2022-06-13 |

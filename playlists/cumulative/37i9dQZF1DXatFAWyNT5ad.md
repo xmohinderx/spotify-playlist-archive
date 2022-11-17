@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-533 songs - 1 day 3 hr 56 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+534 songs - 1 day 3 hr 59 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Local God](https://open.spotify.com/track/3XADz7YwWlGDErHwv5F093) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Local God](https://open.spotify.com/album/50uQ50fSsmddC5xAHLb49w) | 3:00 | 2022-08-05 | 2022-09-09 |
 | [loneliness for love](https://open.spotify.com/track/5Kth6cQqMCY9HSo0GbhjUF) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [loneliness for love](https://open.spotify.com/album/5Ydukmq7CbdVsEKCqCuiXo) | 3:57 | 2022-03-17 | 2022-07-20 |
 | [Lonely](https://open.spotify.com/track/0haXiRi57j2xQo5a3WkzqV) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5274bCsoBGBuqed5yKLi9D) | 3:06 | 2022-07-07 | 2022-11-05 |
+| [Lonely](https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:06 | 2022-11-11 |  |
 | [Lonely](https://open.spotify.com/track/4w6K8eMuWck8OSJ1fdvU9e) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Lonely](https://open.spotify.com/album/3JNyfxEwdH17ld60mPDks7) | 3:06 | 2022-03-24 | 2022-04-17 |
 | [lonely & pathetic](https://open.spotify.com/track/1urRGHiUreDGfEGi6KuudL) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [lonely & pathetic](https://open.spotify.com/album/5M7NWpPGD4n3mUglCoL0y2) | 2:30 | 2022-03-17 | 2022-07-10 |
 | [Long Way Off](https://open.spotify.com/track/2a4K3mAOcvFuVSaKqkQA4I) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:49 | 2022-03-24 | 2022-04-15 |
@@ -513,7 +514,7 @@
 | [W.A.I.S.T.D\. \(what am I supposed to do\)](https://open.spotify.com/track/5xIpDXjT1Dq3IHnQVXPuLi) | [Kristin Sesselja](https://open.spotify.com/artist/5cCNyLzR6LfXj5GXjWnN7B) | [W.A.I.S.T.D\. \(what am I supposed to do\)](https://open.spotify.com/album/2Q7csZfS4J7NyclxV9BcVG) | 2:58 | 2022-03-24 | 2022-04-12 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2022-04-14 | 2022-06-11 |
 | [Walk Away](https://open.spotify.com/track/5VjkLpmGmWsbEZMgrvuamt) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Walk Away](https://open.spotify.com/album/5y83Nst94Qnc0TC3Thlk7J) | 3:03 | 2022-03-24 | 2022-04-21 |
-| [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2022-03-17 |  |
+| [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2022-03-17 | 2022-11-17 |
 | [wannabe](https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [off saint dominique EP](https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD) | 2:32 | 2022-03-17 | 2022-07-15 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-17 | 2022-07-29 |
 | [Wasting Time](https://open.spotify.com/track/5xTObgZhZ8WaKy0Zb0yCwZ) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/1uYnR6GP38pTjEOIMccjcF) | 3:43 | 2022-03-24 | 2022-04-17 |

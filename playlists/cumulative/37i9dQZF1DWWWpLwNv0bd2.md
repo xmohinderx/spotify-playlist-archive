@@ -4,7 +4,7 @@
 
 > Check out the Latest Love Tunes.<br/>Cover : Prince
 
-96 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
+97 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/38XYtSP1ExzP6epxx8rj63)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Vaadi Vaadi \- From "Think Originals"](https://open.spotify.com/track/1HlFW7pdHXBVVMpgldFUky) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Nicholas Samuel](https://open.spotify.com/artist/3frp84DqTsoZ8tgdgzGHqr) | [Vaadi Vaadi \(From "Think Originals"\)](https://open.spotify.com/album/7hEKTiFRftKnqTeOG19Inh) | 3:44 | 2022-06-30 |  |
 | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2gqapLp6Br7jcR1QQNBVFz) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Veyyon Silli \(From "Soorarai Pottru"\)](https://open.spotify.com/album/1oA5gS57LrStSzavWwXZHx) | 5:04 | 2021-11-29 | 2022-06-21 |
 | [Yaaraiyum Ivlo Azhaga \- From "Sulthan"](https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS) | [Yaaraiyum Ivlo Azhaga \(From "Sulthan"\)](https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo) | 4:58 | 2021-11-29 | 2022-10-19 |
+| [Yaaro Yaaro Iva \- From "Pattathu Arasan"](https://open.spotify.com/track/2PLN6smipRqWw3gzKtqoTx) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Mani Amudhavan](https://open.spotify.com/artist/1kSTKro0qSNVuTIzuS6LQa) | [Yaaro Yaaro Iva \(From "Pattathu Arasan"\)](https://open.spotify.com/album/1CbNcQqjEjQfPScUB3MYbp) | 3:37 | 2022-11-16 |  |
 | [Yedharkennai Sandhithai \(From "Kaalangalil Aval Vasantham"\)](https://open.spotify.com/track/22GFLZgrugad8yLVuNk7AD) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA) | [Yedharkennai Sandhithai \(From "Kaalangalil Aval Vasantham"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4ZDRVht7JuzwtcVxrNT9dS) | 1:35 | 2022-09-21 |  |
 | [Yenadi Penne \- From "Yenni Thuniga"](https://open.spotify.com/track/59SkKZjBaM5DdVJx6ySO27) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp) | [Yenadi Penne \(From "Yenni Thuniga"\)](https://open.spotify.com/album/4beUm217qA0jILLRo4ZUTs) | 3:58 | 2021-12-14 | 2022-11-15 |
 

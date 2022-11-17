@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Cruza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,769 likes - 173 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,014 likes - 173 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

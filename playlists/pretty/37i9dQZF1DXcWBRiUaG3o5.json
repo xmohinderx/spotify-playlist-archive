@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1332200,
+  "num_followers": 1332174,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMDE4YjEwMTI5NDYxNDkxOWQ0ODRmMjkzNTY5MmYyOGNi",
+  "snapshot_id": "MTY1MDA0MTgwOSwwMDAwMDAwMGRiZWI1MWFlNmJlODllZWExNzBlYjM0Mjg4M2Q5ODE0",
   "tracks": [
     {
       "added_at": "2022-04-15 16:56:49",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Gloria Duplex",
-        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Ether Garden",
-      "url": "https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 240171,
       "name": "Walk Above the City",
       "url": "https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Gloria Duplex",
+        "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Ether Garden",
+      "url": "https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Slow Tide",
+        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 191916,
+      "name": "Now You Don't",
+      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Here with Me",
         "url": "https://open.spotify.com/album/4pdMeK0Lb79nwLFGqholxm"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 238971,
       "name": "Here with Me",
       "url": "https://open.spotify.com/track/6IF2P93LkyW4GqDQu1yS7H"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "Slow Tide",
-        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 191916,
-      "name": "Now You Don't",
-      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 227488,
-      "name": "In Agreement",
-      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Siren Song",
         "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 183767,
       "name": "Siren Song",
       "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 227488,
+      "name": "In Agreement",
+      "url": "https://open.spotify.com/track/51BXUxZhfG6V51uXNwRHe6"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 205176,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
         "name": "Fire Escape",
         "url": "https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Lice",
-        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 205176,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/0mW58kig39aueBh99f6yGz"
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Theatrics",
-        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
-      },
-      "artists": [
-        {
-          "name": "Puzzle Muteson",
-          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+        "name": "Theatrics",
+        "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Puzzle Muteson",
+          "url": "https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+      "duration_ms": 218332,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "the death of you & i - EP",
-        "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
-      },
-      "artists": [
-        {
-          "name": "isaac gracie",
-          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
-        }
-      ],
-      "duration_ms": 224812,
-      "name": "love (ain\u0092t always so good)",
-      "url": "https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 250453,
       "name": "Splintered",
       "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "the death of you & i - EP",
+        "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
+      },
+      "artists": [
+        {
+          "name": "isaac gracie",
+          "url": "https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb"
+        }
+      ],
+      "duration_ms": 224812,
+      "name": "love (ain\u0092t always so good)",
+      "url": "https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Listen to Formation, Look for the Signs",
-        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
-      },
-      "artists": [
-        {
-          "name": "Nadia Reid",
-          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
-        }
-      ],
-      "duration_ms": 212816,
-      "name": "Call the Days",
-      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Joy of Nothing",
         "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
       },
@@ -1187,6 +1171,38 @@
       "duration_ms": 352240,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/44IdU9nj8Hvxot2NVCQbBM"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/57WPJyUY4nMbWFMLRL0dev"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 173927,
+      "name": "Mother Song",
+      "url": "https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Jericho",
-        "url": "https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2"
-      },
-      "artists": [
-        {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
-        }
-      ],
-      "duration_ms": 173927,
-      "name": "Mother Song",
-      "url": "https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Famous Men",
         "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 207441,
       "name": "Cormorant Bird",
       "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 149607,
+      "name": "Stanley Park (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/1cyhegb61PppegILkP2qch"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3nZnDPx6tHdwMeseOnkGnU"
+        "name": "In My Garden",
+        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+          "name": "Isobel Anderson",
+          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
         }
       ],
-      "duration_ms": 149607,
-      "name": "Stanley Park (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/1cyhegb61PppegILkP2qch"
+      "duration_ms": 186560,
+      "name": "Waiting for You",
+      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "In My Garden",
-        "url": "https://open.spotify.com/album/0ECV8Ah8uUGnJxPjCOjDpe"
+        "name": "God I Hope This Year Is Better Than the Last",
+        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
       },
       "artists": [
         {
-          "name": "Isobel Anderson",
-          "url": "https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Waiting for You",
-      "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1383,22 +1399,6 @@
       "duration_ms": 322478,
       "name": "Dancefloor",
       "url": "https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
-        "name": "God I Hope This Year Is Better Than the Last",
-        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 236849,
-      "name": "God I Hope This Year Is Better Than The Last",
-      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Gems and Bones",
-        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
-      },
-      "artists": [
-        {
-          "name": "The Woodlands",
-          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Long Lost Century",
-      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Gems and Bones",
+        "url": "https://open.spotify.com/album/1HgGpS6VNeQs1R0V3o8TNC"
+      },
+      "artists": [
+        {
+          "name": "The Woodlands",
+          "url": "https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Long Lost Century",
+      "url": "https://open.spotify.com/track/4D33fdArlhQK9NcGTx3EOD"
     },
     {
       "added_at": "2022-04-15 16:56:49",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-04-15 16:56:49",
       "album": {
-        "name": "Year In The Kingdom",
-        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
-      },
-      "artists": [
-        {
-          "name": "J. Tillman",
-          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Howling Light",
-      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
-    },
-    {
-      "added_at": "2022-04-15 16:56:49",
-      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2022-04-15 16:56:49",
+      "album": {
+        "name": "Year In The Kingdom",
+        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
+      },
+      "artists": [
+        {
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Howling Light",
+      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
     },
     {
       "added_at": "2022-04-15 16:56:49",

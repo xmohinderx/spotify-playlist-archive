@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,504 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,544 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 30 | [Shaping Mirrors Like Smoke](https://open.spotify.com/track/59NxjcwDh1fIZdmJx4NGus) | [Himmellegeme](https://open.spotify.com/artist/2zZSkbRgQir9MXLYmV3Aar) | [Variola Vera](https://open.spotify.com/album/1e7obwZMhNKs1uPrC4RTmq) | 5:47 |
 | 31 | [All Candy](https://open.spotify.com/track/5JbG05V0dUyHK6aDEmqsPA) | [Greyhaven](https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL) | [All Candy](https://open.spotify.com/album/34qdi9Fcsoeqy7QXU8K6uN) | 2:56 |
 | 32 | [Nighttime Disguise](https://open.spotify.com/track/2cXtLOiUWyCDebAT65p5cJ) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Aphelion](https://open.spotify.com/album/1FqPZscG7gDH6utCpoWnkG) | 7:04 |
-| 33 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p) | 5:19 |
+| 33 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 34 | [Blood Moon](https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Blood Moon](https://open.spotify.com/album/7CgshNfNl5h5CNYR9RVPKi) | 7:50 |
 | 35 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 |
 | 36 | [Future Memories](https://open.spotify.com/track/7hPKHjWDp2vmPEg6TCtjuP) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [The Quest](https://open.spotify.com/album/5mJQGS0NqD41OGyM77vIX9) | 5:07 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 41 | [Somber Aeons](https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [Unknown Heights](https://open.spotify.com/album/5S4nQWwcdVnWQwjjLUBbzX) | 6:12 |
 | 42 | [If You Deserve It, You Deserve It](https://open.spotify.com/track/4yshCbCvJUSPREjR1iAuni) | [The Seafloor Cinema](https://open.spotify.com/artist/39a4hGdTS669oJBra6j9Ru) | [If You Deserve It, You Deserve It](https://open.spotify.com/album/4TTGDY1fmeNNzDtzDcETzJ) | 3:18 |
 | 43 | [Act Like an Animal](https://open.spotify.com/track/21GyRkGNA6mLudwWvBJWca) | [6:33](https://open.spotify.com/artist/0oBPg2seHzVcAIOpdi1Ojj) | [Act Like an Animal](https://open.spotify.com/album/4qeXRafVd22N0LDAgG4AIa) | 3:51 |
-| 44 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 |
+| 44 | [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 |
 | 45 | [Danger](https://open.spotify.com/track/3UqvyqOpZI0AyYmpO0HEwS) | [Relent](https://open.spotify.com/artist/3BcuUq1rwq2xlcyab2w3lu) | [Heavy](https://open.spotify.com/album/6jnRsK6HHmSL12NuVL1ygi) | 3:48 |
 | 46 | [Oceans of Time](https://open.spotify.com/track/3EKuJFfB1z5QZvZ3QIVkJC) | [Jonas Lindberg & The Other Side](https://open.spotify.com/artist/4cQCLwSvoMEWrtSvneDZBT) | [Miles From Nowhere](https://open.spotify.com/album/5O54oQgo0wvrxakMbfGL5v) | 11:36 |
 | 47 | [The Arsonist](https://open.spotify.com/track/3mw6eplGTzJIW62daXaoz6) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/7EqrrMcMnLF5LZy4tReToj) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 75 | [Inertiatic Esp](https://open.spotify.com/track/16Elz7HJPLZPMylp13ewxv) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 4:23 |
 
-Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDBlZDU5MzlmNzJiZTJhODdmMWM0YWU4ZTVmODI4YTll`
+Snapshot ID: `MTY1MzAyOTg0MSwwMDAwMDAwMDM3MDZkYmQ3Mjg5NWE0NzVkM2Y5YmRkMmEzZjhkMjVh`

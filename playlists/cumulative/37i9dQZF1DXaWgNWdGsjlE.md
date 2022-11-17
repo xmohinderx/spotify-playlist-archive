@@ -4,7 +4,7 @@
 
 > make a mess of it\. Cover: DeathbyRomy
 
-156 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
+157 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/3yPNBCqDIplXzlh2PGS3eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Bat House](https://open.spotify.com/track/5sKOVfR2y34oEul2QQSkFc) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc), [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Bat House](https://open.spotify.com/album/2Srf4Q1lp5VDXZHzsLhdgQ) | 2:42 | 2022-04-08 |  |
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ypHme2lqJbZQjk3LOAqPD) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [BATTERY NOT INCLUDED](https://open.spotify.com/album/1eDCjMOm70DpKkzw2mxfhx) | 2:53 | 2022-04-08 |  |
 | [Behind Closed Doors](https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A), [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Behind Closed Doors](https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ) | 3:03 | 2022-04-08 |  |
-| [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 | 2022-07-01 |  |
+| [Believe the Hype](https://open.spotify.com/track/0YunvVUK70XaDeeTrOUcCt) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype](https://open.spotify.com/album/4LrLxDQQA1MoxU9ZRyL95Q) | 2:47 | 2022-11-08 |  |
+| [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 | 2022-07-01 | 2022-11-17 |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2022-04-08 |  |
 | [BLOOD DIAMOND](https://open.spotify.com/track/2ppPviNexUPjzBGkH7XRlp) | [M.O.B.](https://open.spotify.com/artist/3vSeS3NsnQhceuHCesjx05), [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [BLOOD DIAMOND](https://open.spotify.com/album/4V43ZlyWMR4P9PLBWKO4ZM) | 4:16 | 2022-04-08 |  |
 | [Brainfreeze](https://open.spotify.com/track/4Eb3gMQ7N2dpPNJM3g0BQf) | [XVOTO](https://open.spotify.com/artist/61Tcgk1noIrzpU5cgetCql), [Remi Martin](https://open.spotify.com/artist/54pZFL48mCwQB43MBUZSmK) | [Brainfreeze](https://open.spotify.com/album/7eEbep8JcpiguccrgdNcms) | 4:16 | 2022-04-08 | 2022-07-29 |

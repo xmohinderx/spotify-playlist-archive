@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 315594,
+  "num_followers": 315659,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE4NjAwMCwwMDAwMDAwMGEwNGE2NjM2ZmUxM2QwYjZlNzc1YjFiYzE4MzY4MzU2",
+  "snapshot_id": "MTY2ODE4NjAwMCwwMDAwMDAwMGE4ZTIyYjhmZjQ5ZWFiMGNiN2I1OTQ5ODZlODI4NzRl",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Black Betty - Single",
-        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 189956,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Show Breaks",
         "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 218796,
       "name": "Andrew's Break",
       "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Black Betty - Single",
+        "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 189956,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -549,6 +549,26 @@
       "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
     },
     {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Pressure (Klisch\u00e9e Remix)",
+        "url": "https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        },
+        {
+          "name": "Marina & The Kats",
+          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Pressure - Klisch\u00e9e Remix",
+      "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
+    },
+    {
       "added_at": "2020-11-20 05:02:00",
       "album": {
         "name": "Demon Kitty Rag (Electro Swing Version)",
@@ -563,22 +583,6 @@
       "duration_ms": 215031,
       "name": "Demon Kitty Rag - Electro Swing Version",
       "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Bend the Rules",
-        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Swing It Like Roger",
-      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -711,58 +715,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Cat Came Back",
-        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
-      },
-      "artists": [
-        {
-          "name": "Luca Lento",
-          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
-        },
-        {
-          "name": "Bdd",
-          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "The Cat Came Back - Bdd Remix Edit",
-      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Pressure (Klisch\u00e9e Remix)",
-        "url": "https://open.spotify.com/album/0l4U1q6dwgAYVSQq4YwwlK"
+        "name": "Bend the Rules",
+        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
       },
       "artists": [
         {
           "name": "Klisch\u00e9e",
           "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        },
-        {
-          "name": "Marina & The Kats",
-          "url": "https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Pressure - Klisch\u00e9e Remix",
-      "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "No Swinggity",
-        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "No Swinggity",
-      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
+      "duration_ms": 196586,
+      "name": "Swing It Like Roger",
+      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -785,6 +749,22 @@
       "url": "https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "No Swinggity",
+        "url": "https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio"
+      },
+      "artists": [
+        {
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "No Swinggity",
+      "url": "https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m"
+    },
+    {
       "added_at": "2021-09-10 04:02:00",
       "album": {
         "name": "Parla pi\u00f9 piano / In cerca di te",
@@ -803,6 +783,26 @@
       "duration_ms": 168387,
       "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
       "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Cat Came Back",
+        "url": "https://open.spotify.com/album/42TF70utV7qFaLSyoCoEwx"
+      },
+      "artists": [
+        {
+          "name": "Luca Lento",
+          "url": "https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh"
+        },
+        {
+          "name": "Bdd",
+          "url": "https://open.spotify.com/artist/7w20CldGQizpNe47L0L9FY"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "The Cat Came Back - Bdd Remix Edit",
+      "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -915,26 +915,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Slaughter In the Suburbs",
-        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
-      },
-      "artists": [
-        {
-          "name": "Kid Kasino",
-          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
-        },
-        {
-          "name": "Shea",
-          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
-        }
-      ],
-      "duration_ms": 213015,
-      "name": "Headless Horseman",
-      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "The Shocking Miss Emerald The Remixes",
         "url": "https://open.spotify.com/album/7tBy0oYjfzgquWCaqU8xEx"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 194741,
       "name": "Crazy Out There",
       "url": "https://open.spotify.com/track/2Fzo7oPL6VkhQLnFcZ0Tyf"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Slaughter In the Suburbs",
+        "url": "https://open.spotify.com/album/19OgQG7EqDdFfjPktRfmrJ"
+      },
+      "artists": [
+        {
+          "name": "Kid Kasino",
+          "url": "https://open.spotify.com/artist/0JC4o7RAl3GNs1MbThyuoD"
+        },
+        {
+          "name": "Shea",
+          "url": "https://open.spotify.com/artist/04dvqs3z04paTr2YeAmpe0"
+        }
+      ],
+      "duration_ms": 213015,
+      "name": "Headless Horseman",
+      "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Wake Up Romeo",
+        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "duration_ms": 207793,
+      "name": "Wake Up Romeo",
+      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Anything Goes",
         "url": "https://open.spotify.com/album/7CksdcNEVK5dAl0hbVAhDQ"
       },
@@ -1043,18 +1059,38 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Wake Up Romeo",
-        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+        "name": "My 20s Woman",
+        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
       },
       "artists": [
         {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Phos Toni",
+          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
         }
       ],
-      "duration_ms": 207793,
-      "name": "Wake Up Romeo",
-      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
+      "duration_ms": 186000,
+      "name": "My 20s Woman",
+      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1085,56 +1121,24 @@
       "url": "https://open.spotify.com/track/3F6kQwIiqzYphC1Kv77Ie8"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "My 20s Woman",
-        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
+        "name": "Doorsteps",
+        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+          "name": "Kormac",
+          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
         },
         {
-          "name": "Phos Toni",
-          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
+          "name": "(feat. MC Little Tree)",
+          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
         }
       ],
-      "duration_ms": 186000,
-      "name": "My 20s Woman",
-      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "1925",
-        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
-      },
-      "artists": [
-        {
-          "name": "LVDS",
-          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "1925",
-      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
+      "duration_ms": 328441,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1157,24 +1161,40 @@
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Doorsteps",
-        "url": "https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
       },
       "artists": [
         {
-          "name": "Kormac",
-          "url": "https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
         },
         {
-          "name": "(feat. MC Little Tree)",
-          "url": "https://open.spotify.com/artist/1EnZaceHFbNzOWcMBdgmaI"
+          "name": "Sonia Elisheva",
+          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
         }
       ],
-      "duration_ms": 328441,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
+      "duration_ms": 176000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "1925",
+        "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
+      },
+      "artists": [
+        {
+          "name": "LVDS",
+          "url": "https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "1925",
+      "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Nu Swing Experience",
-        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
-      },
-      "artists": [
-        {
-          "name": "Dj Farrapo",
-          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
-        },
-        {
-          "name": "Cristina Renzetti",
-          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
-        }
-      ],
-      "duration_ms": 164582,
-      "name": "Marcianito - Cristina Renzetti Vocal Version",
-      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "The Electric Swing Circus - Remixed Vol. 1",
         "url": "https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0"
       },
@@ -1247,6 +1247,26 @@
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Nu Swing Experience",
+        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+      },
+      "artists": [
+        {
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
+        },
+        {
+          "name": "Cristina Renzetti",
+          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+        }
+      ],
+      "duration_ms": 164582,
+      "name": "Marcianito - Cristina Renzetti Vocal Version",
+      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1269,24 +1289,20 @@
       "url": "https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
       },
       "artists": [
         {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Sonia Elisheva",
-          "url": "https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7"
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR"
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2021-01-22 10:35:47",
@@ -1305,20 +1321,20 @@
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+        "name": "Re-Charleston (Electro Swing)",
+        "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
       },
       "artists": [
         {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
         }
       ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
+      "duration_ms": 167360,
+      "name": "Re-Charleston (Radio Edit)",
+      "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1341,44 +1357,20 @@
       "url": "https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
+      "added_at": "2021-04-16 04:01:00",
       "album": {
-        "name": "Introducing, Bart&Baker",
-        "url": "https://open.spotify.com/album/4nkLzdBaKeAHz0MqMWDjf9"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
       },
       "artists": [
         {
-          "name": "Bart & Baker",
-          "url": "https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN"
-        },
-        {
-          "name": "Pierre Santini",
-          "url": "https://open.spotify.com/artist/2sERfmcDISRbdIvSwc1srm"
-        },
-        {
-          "name": "Lada Redstar",
-          "url": "https://open.spotify.com/artist/2hvVzDZUDCDV1CMEYefruX"
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
         }
       ],
-      "duration_ms": 209346,
-      "name": "Allez Viens (Via Con Me) [feat. Pierre Santini & Lada Redstar]",
-      "url": "https://open.spotify.com/track/15gUb7QKP6PlbXxxTJm2T4"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Re-Charleston (Electro Swing)",
-        "url": "https://open.spotify.com/album/0zFY28BzgmNsz7EvZp7UKo"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Re-Charleston (Radio Edit)",
-      "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
+      "duration_ms": 182608,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     }
   ],
   "unique_name": "Electro Swing",

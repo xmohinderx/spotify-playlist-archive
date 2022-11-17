@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-164 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/0CXUKaVOYdtwBBmW5qBSmh)
+165 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/0CXUKaVOYdtwBBmW5qBSmh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,13 +96,14 @@
 | [Masochist](https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Death of Me](https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1) | 4:07 | 2022-04-28 |  |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-08-12 |  |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-05-12 | 2022-06-02 |
+| [Metality \- The Vitality Anthem](https://open.spotify.com/track/2rfJ2HBOtQmfiS5sllrgpG) | [Kiichi Chaos](https://open.spotify.com/artist/76s6Ffg2kAhwp9i9ayMhfz) | [Metality \(The Vitality Anthem\)](https://open.spotify.com/album/5Q3XnMwNq0alVnGo0KsSvI) | 5:00 | 2022-11-16 |  |
 | [Moon Over the Castle \- from GRAN TURISMO 7](https://open.spotify.com/track/42xYFBO1ahIWyisI7VVVEh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Moon Over the Castle \(from GRAN TURISMO 7\)](https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya) | 3:07 | 2022-04-28 | 2022-07-29 |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-05-12 |  |
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-05-17 |  |
 | [Nightmares](https://open.spotify.com/track/53WTbZesrfUZSx1pLjDeHR) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Conquer Divide](https://open.spotify.com/album/5nEkWQgWXx2HsesiZIRdbL) | 5:22 | 2022-05-12 | 2022-07-23 |
 | [Of Silk and Straw](https://open.spotify.com/track/76waIQkhQ6MsPsdeIWVIfp) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Pendulum](https://open.spotify.com/album/13U876zv0nFteGZ5ldxEtu) | 3:45 | 2022-04-28 | 2022-07-29 |
 | [Oh My God](https://open.spotify.com/track/5KeMe6s7NC1h9Xg7CgDbYO) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Oh My God](https://open.spotify.com/album/1f2OVhqcB3vM5oev9MiYLx) | 4:12 | 2022-04-28 | 2022-07-24 |
-| [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 | 2022-04-28 |  |
+| [Panic](https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Panic](https://open.spotify.com/album/0OopBWrY0eXqld7UQlRDPj) | 3:20 | 2022-04-28 | 2022-11-17 |
 | [Paramount](https://open.spotify.com/track/3xuOmbJpeVFsMY7dh0Pc3e) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Guardians](https://open.spotify.com/album/3KJ44LRyBaBsZi2eW79pCV) | 4:48 | 2022-04-28 | 2022-07-29 |
 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 | 2022-06-16 |  |
 | [Paranoia](https://open.spotify.com/track/7gYL9E5WN7Nd8l2ZQ1rkKI) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Paranoia](https://open.spotify.com/album/5wJDlY1ydJyfu66a7B1AEO) | 3:20 | 2022-04-28 | 2022-07-27 |

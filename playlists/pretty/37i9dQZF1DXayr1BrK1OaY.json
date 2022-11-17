@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 130661,
+  "num_followers": 130837,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDU1ZjJlNTljMzUwOGM1MjMxY2E1ZjA0N2NlZGM3NWJh",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDJmNGNjODllNGQ0ODMwNDMyYmZhMmViOTFiY2Q5YTUy",
   "tracks": [
     {
       "added_at": "2021-08-13 04:00:00",
@@ -405,26 +405,6 @@
       "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 257430,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
-    },
-    {
       "added_at": "2021-09-24 04:00:00",
       "album": {
         "name": "Breathing",
@@ -447,6 +427,26 @@
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 257430,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
     },
     {
       "added_at": "2022-03-28 21:33:23",
@@ -521,20 +521,24 @@
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
+      "added_at": "2021-04-02 04:01:00",
       "album": {
-        "name": "Black Mascara.",
-        "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
       "artists": [
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 241264,
-      "name": "Black Mascara.",
-      "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
+      "duration_ms": 197573,
+      "name": "Regardless",
+      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -673,24 +677,20 @@
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
+      "added_at": "2022-08-26 04:01:00",
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+        "name": "Black Mascara.",
+        "url": "https://open.spotify.com/album/08Yy2hYrWdfYD6SsWLlixb"
       },
       "artists": [
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Regardless",
-      "url": "https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4"
+      "duration_ms": 241264,
+      "name": "Black Mascara.",
+      "url": "https://open.spotify.com/track/2MdoVJfbVNOsZx9AQ7Eqjh"
     },
     {
       "added_at": "2021-04-06 19:08:31",
@@ -713,26 +713,6 @@
       "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
     },
     {
-      "added_at": "2022-04-22 04:01:00",
-      "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC"
-      },
-      "artists": [
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        },
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 193422,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
-    },
-    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Forever In My Mind",
@@ -751,6 +731,26 @@
       "duration_ms": 152610,
       "name": "Forever In My Mind",
       "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
+    },
+    {
+      "added_at": "2022-04-22 04:01:00",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/0vtn1Mo8J2bj33ujRVXxpC"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 193422,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/4HCN49YHfv7RCYC9d6dtXt"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -817,46 +817,6 @@
       "url": "https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Something I Can Feel",
-        "url": "https://open.spotify.com/album/15ILAVj88X0ZVqpSPN9Mgp"
-      },
-      "artists": [
-        {
-          "name": "Denis First",
-          "url": "https://open.spotify.com/artist/1qVHDR3icC0cD02ofnzEA1"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Something I Can Feel",
-      "url": "https://open.spotify.com/track/0HbwAcxC39MqElV6NO05DQ"
-    },
-    {
-      "added_at": "2022-05-06 04:00:00",
-      "album": {
-        "name": "Alive (with Calle Lehmann)",
-        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Calle Lehmann",
-          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
-        }
-      ],
-      "duration_ms": 222830,
-      "name": "Alive (with Calle Lehmann)",
-      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
-    },
-    {
       "added_at": "2021-05-29 16:02:13",
       "album": {
         "name": "BRONSON",
@@ -885,6 +845,46 @@
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
     },
     {
+      "added_at": "2022-05-06 04:00:00",
+      "album": {
+        "name": "Alive (with Calle Lehmann)",
+        "url": "https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calle Lehmann",
+          "url": "https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm"
+        }
+      ],
+      "duration_ms": 222830,
+      "name": "Alive (with Calle Lehmann)",
+      "url": "https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Something I Can Feel",
+        "url": "https://open.spotify.com/album/15ILAVj88X0ZVqpSPN9Mgp"
+      },
+      "artists": [
+        {
+          "name": "Denis First",
+          "url": "https://open.spotify.com/artist/1qVHDR3icC0cD02ofnzEA1"
+        },
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Something I Can Feel",
+      "url": "https://open.spotify.com/track/0HbwAcxC39MqElV6NO05DQ"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "The Last Dinosaur",
@@ -905,24 +905,24 @@
       "url": "https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
+      "added_at": "2021-04-06 18:41:31",
       "album": {
-        "name": "Heaven Takes You Home (Alternative Mix)",
-        "url": "https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ"
+        "name": "Aftertaste (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
         }
       ],
-      "duration_ms": 209025,
-      "name": "Heaven Takes You Home (feat. Connie Constance) - Alternative Mix",
-      "url": "https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM"
+      "duration_ms": 197082,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
     },
     {
       "added_at": "2022-05-13 04:00:00",
@@ -945,24 +945,24 @@
       "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
     },
     {
-      "added_at": "2021-04-06 18:41:31",
+      "added_at": "2022-09-02 04:01:00",
       "album": {
-        "name": "Aftertaste (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
+        "name": "Heaven Takes You Home (Alternative Mix)",
+        "url": "https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
         }
       ],
-      "duration_ms": 197082,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
+      "duration_ms": 209025,
+      "name": "Heaven Takes You Home (feat. Connie Constance) - Alternative Mix",
+      "url": "https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -995,6 +995,26 @@
       "duration_ms": 202840,
       "name": "Envious",
       "url": "https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2022-03-25 04:00:00",
@@ -1047,26 +1067,6 @@
       "duration_ms": 446510,
       "name": "What's a Girl to Do",
       "url": "https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -1137,26 +1137,6 @@
       "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
     },
     {
-      "added_at": "2021-04-16 16:53:56",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 204567,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
-    },
-    {
       "added_at": "2021-04-02 04:01:00",
       "album": {
         "name": "About Us (feat. EMME)",
@@ -1175,6 +1155,26 @@
       "duration_ms": 286520,
       "name": "About Us (feat. EMME)",
       "url": "https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv"
+    },
+    {
+      "added_at": "2021-04-16 16:53:56",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 204567,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
     },
     {
-      "added_at": "2021-04-02 04:01:00",
-      "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Falling",
@@ -1323,6 +1307,22 @@
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2021-04-02 04:01:00",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2021-04-16 16:53:56",
@@ -1397,6 +1397,22 @@
       "url": "https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7"
     },
     {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "These Things Will Come To Be",
+        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 296360,
+      "name": "These Things Will Come To Be",
+      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
+    },
+    {
       "added_at": "2022-09-02 04:01:00",
       "album": {
         "name": "Call On Me (feat. Vancouver Sleep Clinic)",
@@ -1415,22 +1431,6 @@
       "duration_ms": 293122,
       "name": "Call On Me (feat. Vancouver Sleep Clinic)",
       "url": "https://open.spotify.com/track/6IhHyxeOqS6LKgP2Lawj55"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "These Things Will Come To Be",
-        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 296360,
-      "name": "These Things Will Come To Be",
-      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
     }
   ],
   "unique_name": "crying on the dance floor",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > A young prince and a life\-changing choice \- love or duty? Watch Young Royals Season 2 Now On Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,174 likes - 58 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,688 likes - 58 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 38 | [Club Believer](https://open.spotify.com/track/16GcTUKAsORkkuSUm8AXeO) | [Jeak](https://open.spotify.com/artist/4JUettwlB4WVsbyV4nesPo), [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [Electronic Dance Music](https://open.spotify.com/album/0NQ6fkJ9IQp43f1Bw8SoXY) | 3:17 |
 | 39 | [Thunderbolt](https://open.spotify.com/track/5rzNgwE6vlRNtC2H57BRGg) | [Tiborg](https://open.spotify.com/artist/017LB7BYpa2Bmvzbkg0fHE) | [French Indie Club 4](https://open.spotify.com/album/73oOfWbhYhYwouTRPc2R3i) | 3:44 |
 | 40 | [No Sugar In My Coffee](https://open.spotify.com/track/2sgliG5TcHwAiWQn8ecT71) | [Caught A Ghost](https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93) | [Human Nature](https://open.spotify.com/album/39p98KJBGbgCvKjhU6FJ87) | 3:28 |
-| 41 | [Dreams](https://open.spotify.com/track/5u6MgNV15qYx31XtvdVmOL) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 0:53 |
+| 41 | [Dreams](https://open.spotify.com/track/0fTCmxSBKKxoRZDN5zTQK3) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 0:53 |
 | 42 | [Hands Up High](https://open.spotify.com/track/2dkxx9BNmupg0gzbxvEzFh) | [Adele Roberts](https://open.spotify.com/artist/4AEv9RpfPAr67W04LqWLDb), [Jacob Blair](https://open.spotify.com/artist/2h9etV07SR96Rqt4bnnBAs), [Gabriella Chering](https://open.spotify.com/artist/2OsEN4zzeudHo0ele08NhB), [Charlie Tenku](https://open.spotify.com/artist/5n7I9O1m2Rh5qBE8iVwPv7) | [Punchy Pop](https://open.spotify.com/album/5Q3qG09ss475jkdXPmnlVo) | 2:03 |
 | 43 | [No Tomorrow](https://open.spotify.com/track/4pXInUiIiQsdhJYhSeiYTN) | [Ty Frankel](https://open.spotify.com/artist/4DBLbQhhkjakBkjLK6qKbL), [Stephane Lo Jacomo](https://open.spotify.com/artist/3bnMp3T1YwjA94yYPP0sBn), [Myariah Summers](https://open.spotify.com/artist/5tVWwh2MzuiENd2ufLH6bK) | [Rich Rap Beats](https://open.spotify.com/album/6ZTWmjEPbWS8MHR9yMwwlB) | 2:30 |
 | 44 | [Converter](https://open.spotify.com/track/7kbLgu3ZU8wdigWyxtqOAB) | [Mega Drive](https://open.spotify.com/artist/1WxMvNsfdsGftDZ4oO21L8) | [Mega Drive](https://open.spotify.com/album/1ElCD6TWjAh7XWXaOCc4o6) | 6:42 |
-| 45 | [Banned](https://open.spotify.com/track/0E9PYMiivqgM8q0drwdRIE) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 3:26 |
+| 45 | [Banned](https://open.spotify.com/track/1S0lYrY1p8PlPQdmetePjj) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 3:26 |
 | 46 | [Overcome \- Safari Riot Remix](https://open.spotify.com/track/5THOIfDsTT1EQBQSlPB8SK) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc), [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT) | [Overcome / Evergreen \(Music from the Netflix Series Young Royals\)](https://open.spotify.com/album/56eKOF66c5r2Dhw3pv08ZI) | 3:15 |
 | 47 | [Lights](https://open.spotify.com/track/1dutX7b1fabgcMBZzWJAvw) | [Catalynx](https://open.spotify.com/artist/4cPEmrosnBbtt7XEuOsDxC) | [Galaxies EP](https://open.spotify.com/album/4V4byG2XaWjyO1tmscCQsu) | 9:39 |
 | 48 | [Parte Di Me](https://open.spotify.com/track/07MUsUQo2YJUGTUJHMtvZJ) | [Son Foc](https://open.spotify.com/artist/6dwBt1srcIiRWrnXnSnZod) | [Battaglia Storica](https://open.spotify.com/album/1ebkDifC3m38ZUTZ6YHjXe) | 2:28 |
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 50 | [It Takes A Fool To Remain Sane](https://open.spotify.com/track/5S8EZuiSNFR2N5eG58oISQ) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [We Are The Ark](https://open.spotify.com/album/4zvEPDfNKoC15SoNOAEkBR) | 3:56 |
 | 51 | [Remember](https://open.spotify.com/track/4vJXbym2xwq68Ip4uGP1sy) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Omar Covers](https://open.spotify.com/album/3VKqWgbccERmvm6fH3iIEC) | 2:56 |
 | 52 | [I Heard That Beat Before](https://open.spotify.com/track/60ajhZmRPuzmH9jnayGu5Z) | [Marc Ferrari](https://open.spotify.com/artist/7FYH7enU7w5FUO1uxI9Gmp), [Michael McGregor](https://open.spotify.com/artist/6BndouHJESYwXzhP6y7BkO) | [Dance 5](https://open.spotify.com/album/1ziixXqMWbg91tA9pvL0dA) | 3:02 |
-| 53 | [Sad Love](https://open.spotify.com/track/4x3pKqllzC0MfvCODPK5hS) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:25 |
-| 54 | [Revenge](https://open.spotify.com/track/6R2GToDZxJtArxQDwr4YK8) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:27 |
+| 53 | [Sad Love](https://open.spotify.com/track/7LivawPPGfY0L3nQV1cvJx) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:25 |
+| 54 | [Revenge](https://open.spotify.com/track/47GEdwG8Epe1254AnwKP4e) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:27 |
 | 55 | [Live And Die](https://open.spotify.com/track/48eeeQJmaA6PTs3hVPJbIE) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 5:46 |
 | 56 | [Sankta Lucia](https://open.spotify.com/track/68JHQul9BJoRgsQL24uQUQ) | [Stella \- Solvieg Ågrens Kammarkör](https://open.spotify.com/artist/3BxHMhtalYAEU7Wt1QQr8K) | [Julens stjärna \- Christmas in Sweden](https://open.spotify.com/album/5Mv9u5upMxRPjxd1Zlz5ND) | 3:59 |
 | 57 | [Sunday](https://open.spotify.com/track/4CbvazWOFKIIHZkETS0k6G) | [Gina Dirawi](https://open.spotify.com/artist/2e7ujHEEu6FCr0BwZ6YDTO) | [Meet Me In Jannah](https://open.spotify.com/album/0NTNDTXu2KpTdXEQsUCGZ1) | 3:27 |
-| 58 | [Drama End](https://open.spotify.com/track/7tdukkbRcObCy8nqHXRbgM) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7xG25QpXrPlgiWGXoa15uJ) | 2:44 |
+| 58 | [Drama End](https://open.spotify.com/track/2357fNm3oeHHTLxo5lXRGd) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Young Royals: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0SOkkXQscKe16iqNH2KcCP) | 2:44 |
 
-Snapshot ID: `MTY2Nzk5NzU0OCwwMDAwMDAwMGE4NGQ3MWQ0M2Y4NjdmNGM0OGE3NzgyODFiNDMzNGJl`
+Snapshot ID: `MTY2Nzk5NzU0OCwwMDAwMDAwMDJlMDdhNzc4MjAwZGRiMDBmNjgwNDkzYzMzMTNjMTQx`

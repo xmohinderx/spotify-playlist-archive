@@ -1435,7 +1435,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220332,
-      "name": "Bound (with Blood Orange)",
+      "name": "Bound",
       "url": "https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G"
     },
     {
@@ -6966,6 +6966,24 @@
     },
     {
       "album": {
+        "name": "A Mosh Pit In The Clouds",
+        "url": "https://open.spotify.com/album/7fnkJty0bXBUFiN0sutHC7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207109,
+      "name": "Out For The Weekend",
+      "url": "https://open.spotify.com/track/6DFxVrPvZGn0hdEwLPPapb"
+    },
+    {
+      "album": {
         "name": "EP III",
         "url": "https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn"
       },
@@ -8301,7 +8319,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 162782,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-999 songs - 2 day 3 hr 12 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
+1,000 songs - 2 day 3 hr 15 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [FOYER](https://open.spotify.com/track/7GT9Y7tOMfzEDn6a7he8Fj) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG) | [ODSÚDENÍ NA ÚSPECH](https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2) | 2:32 | 2021-12-16 | 2022-01-15 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-08 | 2021-07-14 |
 | [FREE feat\. MC PRÁZDNA PEŇAŽENKA](https://open.spotify.com/track/5LewZ3G76yLOU8F0f7XiY4) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [BIG BOY FM](https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5) | 3:21 | 2022-06-21 | 2022-07-11 |
+| [FREE KARLO](https://open.spotify.com/track/2fsxqsypWqwKLwMEG5NFo0) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [FREE KARLO](https://open.spotify.com/album/6a65L18ax0PvDDNcersagp) | 3:24 | 2022-11-16 |  |
 | [FREKVENCIA](https://open.spotify.com/track/0oaYDITh6PTG3xB68Fedfc) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [BIG BOY FM](https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5) | 3:14 | 2022-06-21 | 2022-07-25 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-04-25 |
 | [Front 2 Back](https://open.spotify.com/track/21VhZw8GUbgWUD5SNwLPua) | [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [BACK 2 RAVE](https://open.spotify.com/album/70H5FZsAnpWZfLwZpJvogc) | 2:20 | 2022-04-22 | 2022-06-30 |
@@ -744,7 +745,7 @@
 | [Se změnili](https://open.spotify.com/track/6YcoxaTBaSSzEDvQEuJFG6) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Se změnili](https://open.spotify.com/album/6cH2WiCT16enngx84badsG) | 3:06 | 2022-02-03 | 2022-03-06 |
 | [Sem v pořádku](https://open.spotify.com/track/5wpj9Z2QTXIg2OMooLQZut) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY) | [Finesa](https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q) | 3:51 | 2022-06-14 | 2022-06-17 |
 | [SEX](https://open.spotify.com/track/0FxC0jx5qv3Ua2PC0F5atW) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 3:07 | 2021-09-03 | 2021-10-14 |
-| [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-08-08 |  |
+| [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-08-08 | 2022-11-17 |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-25 | 2022-07-03 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2022-07-02 | 2022-10-19 |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-09-11 |

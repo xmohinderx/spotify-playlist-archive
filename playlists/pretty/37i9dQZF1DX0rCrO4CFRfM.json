@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 842515,
+  "num_followers": 842740,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDY5ZTJiOWJjYzNkZjViY2FhODcxMTA5Y2MwMmZhN2E4",
+  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMGEwYjE1OGRhMzcyODA4MTExOWZiNjQ0OGE0YjY3MmMz",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
         "name": "Acoustic Back Porch Jam",
         "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "The Reason (Acoustic) / Right Before Your Eyes",
         "url": "https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 247920,
-      "name": "Control - Acoustic Version",
-      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Keep the Village Alive (Deluxe)",
         "url": "https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 257453,
       "name": "I Wanna Get Lost With You (Acoustic 2015)",
       "url": "https://open.spotify.com/track/1gLVsT8unGZfx1G6DGJyp2"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 247920,
+      "name": "Control - Acoustic Version",
+      "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Bite Me (Acoustic)",
-        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 189003,
-      "name": "Bite Me - Acoustic",
-      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Bite Me (Acoustic)",
+        "url": "https://open.spotify.com/album/65HfGumTbHNFANxNu07PlC"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189003,
+      "name": "Bite Me - Acoustic",
+      "url": "https://open.spotify.com/track/71BPElgdb5MtfIJYGuTWqB"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -611,6 +611,26 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
+        "name": "MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Freak on a Leash (feat. Amy Lee) - Live At MTV Studio, NYC, 2006",
+      "url": "https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -643,22 +663,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
+        "name": "Acoustic at The Ryman (Live)",
+        "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Amy Lee",
-          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
         }
       ],
-      "duration_ms": 235800,
-      "name": "Freak on a Leash (feat. Amy Lee) - Live At MTV Studio, NYC, 2006",
-      "url": "https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604"
+      "duration_ms": 307760,
+      "name": "The Funeral - Live Acoustic",
+      "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -675,22 +691,6 @@
       "duration_ms": 212534,
       "name": "In Bloom (Acoustic)",
       "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
-        "name": "Acoustic at The Ryman (Live)",
-        "url": "https://open.spotify.com/album/7aXRvfGlrAyi8ALrvQBWTR"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 307760,
-      "name": "The Funeral - Live Acoustic",
-      "url": "https://open.spotify.com/track/5t6CC8sf3ffzDozMcboqBx"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "7 (Acoustic)",
         "url": "https://open.spotify.com/album/6IKwv5Fu9q2xAwAIKDlakX"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 252320,
       "name": "7 - Acoustic",
       "url": "https://open.spotify.com/track/2Nz14MtLy82a3togG2EI8l"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2022-09-22 10:17:42",

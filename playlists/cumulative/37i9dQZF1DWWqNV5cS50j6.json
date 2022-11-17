@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 191627,
       "name": "99' pollen",
       "url": "https://open.spotify.com/track/5fFUfa9IruZpJfxaB5owcY"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 96880,
       "name": "AGNES KRUEL",
       "url": "https://open.spotify.com/track/4UzgDdX1pcbUYisiqSaIEF"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 228440,
       "name": "AMERICAN GURL",
       "url": "https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh"
@@ -791,10 +791,32 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 121500,
       "name": "ANECDOTE",
       "url": "https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr"
+    },
+    {
+      "album": {
+        "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
+        "url": "https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne"
+      },
+      "artists": [
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
+      "url": "https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2"
     },
     {
       "album": {
@@ -1251,7 +1273,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 156190,
       "name": "Automobile",
       "url": "https://open.spotify.com/track/3fmgvm6iUYRMSVyKegaAEv"
@@ -1541,7 +1563,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 206946,
       "name": "BAD FRUIT*",
       "url": "https://open.spotify.com/track/0LI2OK0tulkh9mT2NmEBF8"
@@ -2797,7 +2819,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 101647,
       "name": "burbank house",
       "url": "https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml"
@@ -3781,7 +3803,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 166285,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT"
@@ -4831,7 +4853,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 221346,
       "name": "Day 7.5093",
       "url": "https://open.spotify.com/track/3a4jtq7w9N7qOrIjCaxO8v"
@@ -5129,7 +5151,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 150322,
       "name": "DITTO",
       "url": "https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF"
@@ -5621,7 +5643,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 175302,
       "name": "Easy v2",
       "url": "https://open.spotify.com/track/1ZNOwjcEAqka5feaa5dEko"
@@ -5777,7 +5799,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 146298,
       "name": "Escalator",
       "url": "https://open.spotify.com/track/6VKha9kbRxUWQSx7eH7Rxw"
@@ -6219,7 +6241,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 150612,
       "name": "fantasize",
       "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
@@ -6343,6 +6365,24 @@
       "duration_ms": 203572,
       "name": "feel away (feat. James Blake & Mount Kimbie)",
       "url": "https://open.spotify.com/track/20wMPnqHdNdBWaKRaMM7fD"
+    },
+    {
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
     },
     {
       "album": {
@@ -6775,7 +6815,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 195786,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2kVoWT4iY0paZ1I23LMlAA"
@@ -7827,7 +7867,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 176411,
       "name": "GOOD MORNING",
       "url": "https://open.spotify.com/track/0WfLqYGOOSjwbw5iAGCt8k"
@@ -8109,7 +8149,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 187059,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
@@ -8319,7 +8359,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 220000,
       "name": "Haunted Be Thy",
       "url": "https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF"
@@ -8525,7 +8565,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
@@ -10193,7 +10233,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 135516,
       "name": "Indecisive (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9"
@@ -11279,7 +11319,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 109036,
       "name": "LIL BIT",
       "url": "https://open.spotify.com/track/29N9AppxSC5zhz7q7GZcAY"
@@ -11449,7 +11489,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 185752,
       "name": "Loner",
       "url": "https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B"
@@ -11579,7 +11619,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 217991,
       "name": "lost",
       "url": "https://open.spotify.com/track/6XTAG7oS2qTKp9AOmbOczL"
@@ -12111,7 +12151,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 156026,
       "name": "Make It Back",
       "url": "https://open.spotify.com/track/4nfuUtIgpr4MiSURyl51uv"
@@ -12629,7 +12669,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 165453,
       "name": "Michael",
       "url": "https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT"
@@ -13021,7 +13061,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 136363,
       "name": "My Demise",
       "url": "https://open.spotify.com/track/4FLlFDUpEVUM1M8YjAFzMD"
@@ -13151,7 +13191,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 179680,
       "name": "n2o",
       "url": "https://open.spotify.com/track/2mPLs6IBClLRkRjgKoYBHi"
@@ -15331,7 +15371,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 133124,
       "name": "popstar (with angelus)",
       "url": "https://open.spotify.com/track/3Yb3Z1HRrMrBh886cayujG"
@@ -16099,7 +16139,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 138352,
       "name": "Rat Poison",
       "url": "https://open.spotify.com/track/4sDVliV8NOyEPDi0sGuSDM"
@@ -16475,7 +16515,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 140538,
       "name": "ROMEO 1000",
       "url": "https://open.spotify.com/track/12vZzCinJwBsRJlGdqyyMI"
@@ -17015,7 +17055,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 151250,
       "name": "say what u mean (with Riovaz)",
       "url": "https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB"
@@ -19001,7 +19041,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj"
@@ -20913,7 +20953,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 186485,
       "name": "two door tiffany",
       "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
@@ -21697,7 +21737,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 126151,
       "name": "Web",
       "url": "https://open.spotify.com/track/4C79MQWKw9ov99q8AXXBpe"
@@ -22417,7 +22457,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 152000,
       "name": "You the One Fish in the Sea",
       "url": "https://open.spotify.com/track/5TOnnVV8YxB4NnRvavrPHX"
@@ -22687,7 +22727,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 192000,
       "name": "\u200emile \u200eend",
       "url": "https://open.spotify.com/track/1KxxA8990AfM6Fy6OdY9VU"

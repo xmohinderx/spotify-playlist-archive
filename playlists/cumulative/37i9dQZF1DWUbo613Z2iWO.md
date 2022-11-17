@@ -4,7 +4,7 @@
 
 > Our favorite R&B artists on the rise! Cover: Khamari
 
-423 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+424 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Control](https://open.spotify.com/track/2uws8aDdlBAOwoyYnViNXY) | [Krish](https://open.spotify.com/artist/4XfFEOsMvn6hwAVoNKLDqJ) | [Control](https://open.spotify.com/album/4OhMiEgNZgTUAJQw8Any8R) | 2:11 | 2022-03-25 | 2022-04-16 |
 | [corazon \(with French Montana\)](https://open.spotify.com/track/01EFzBpejKX2wzFdMHKGR9) | [ilham](https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [ilham](https://open.spotify.com/album/7mQl8hYhPUwtdyB4jwyO1w) | 2:33 | 2022-09-30 | 2022-11-12 |
 | [Countless Times](https://open.spotify.com/track/5sZGJQjdAAGiqF8AtAMv4f) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Countless Times](https://open.spotify.com/album/7KEabKxhNzFn56xzP3wqva) | 2:45 | 2022-04-08 | 2022-06-18 |
-| [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 | 2022-03-25 |  |
+| [Crazy Down](https://open.spotify.com/track/3zFmqleGOMgKmkXYZH5WID) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Crazy Down](https://open.spotify.com/album/7v64XYcrShDR2SvQiV7mzU) | 3:04 | 2022-03-25 | 2022-11-17 |
+| [Crazy Down](https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 3:04 | 2022-07-15 |  |
 | [CULTURE](https://open.spotify.com/track/2uhU539AYa4pnq7oNU2AT8) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [it takes a village](https://open.spotify.com/album/06dEIh43cQW1uEbSWaso7S) | 3:28 | 2022-04-29 | 2022-07-02 |
 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-09-09 | 2022-09-29 |
 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-09-09 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Carol Biazin\n",
+  "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Pabllo Vittar\n\n",
   "name": "SUPERNOVA",
   "published_playlist_ids": [
     "3wdKHKFrfBQB4tWK10E8xH"
@@ -501,6 +501,24 @@
       "duration_ms": 155874,
       "name": "Atura o Baile (The World Is Yours To Take) - Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022",
       "url": "https://open.spotify.com/track/1QjVcycdvef8b4azmcEdfe"
+    },
+    {
+      "album": {
+        "name": "Back In Bahia - Spotify Singles",
+        "url": "https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163366,
+      "name": "Back In Bahia - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ModYZze07tx1R40jykgeL"
     },
     {
       "album": {
@@ -4865,7 +4883,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 190654,
       "name": "PUNTO 40",
       "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"

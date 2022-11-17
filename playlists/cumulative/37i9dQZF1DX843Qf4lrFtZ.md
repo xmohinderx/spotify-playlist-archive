@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,233 songs - 2 day 15 hr 7 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
+1,234 songs - 2 day 15 hr 11 min - [published](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Another Shot](https://open.spotify.com/track/2jhKxqWIkHiBfjAQcAMERw) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [Another Shot](https://open.spotify.com/album/1vIkXrFV8o2y7BhnlDzqgQ) | 3:12 | 2019-08-02 | 2019-11-09 |
 | [Another You \(feat\. The Vamps\)](https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BLOODLINE](https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Another You \(feat\. The Vamps\)](https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV) | 2:38 | 2021-06-01 | 2021-08-06 |
 | [Antisocial Socialites](https://open.spotify.com/track/5siE2dsOEkxxB8GuyOxPyg) | [Kyan Palmer](https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp), [nicopop.](https://open.spotify.com/artist/7DFChT5ZG46iXGb5z2IxYq), [Yuri Joness](https://open.spotify.com/artist/4Aps5MV0tm2w87FMhnJPs8) | [Antisocial Socialites](https://open.spotify.com/album/7zjokF0bxNC9UKASxkLidq) | 3:29 | 2019-08-01 | 2019-08-09 |
-| [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-01-01 |  |
+| [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 | 2021-01-01 | 2022-11-17 |
 | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-03-24 | 2022-07-29 |
 | [Anything](https://open.spotify.com/track/2kwQaT8FSZFmQwO6Q8pfW0) | [Alex Mattson](https://open.spotify.com/artist/1AqQ7buD0q6SRbQtYQUnou), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Anything](https://open.spotify.com/album/2uZHAqyl41q5Z1WMYa8DdJ) | 3:20 | 2019-07-31 | 2020-01-03 |
 | [Anything](https://open.spotify.com/track/3bYzubBRMy40lCbT9s8fAk) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [Anything](https://open.spotify.com/album/1sNfKJGJspwKyzF1pOlIFo) | 3:27 | 2019-07-30 | 2020-01-03 |
@@ -337,6 +337,7 @@
 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 | 2021-02-28 | 2022-04-21 |
 | [Fake Bitches](https://open.spotify.com/track/0KgHSBgRYCfOVNNptH4WPv) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Fake Bitches](https://open.spotify.com/album/7f0suK2XpncRXkaNTAQ5Nq) | 2:53 | 2022-03-24 | 2022-04-20 |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 | 2022-03-24 | 2022-04-21 |
+| [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-11-17 |  |
 | [Falling](https://open.spotify.com/track/3d9JucRI60arArgQXqtfjJ) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Falling](https://open.spotify.com/album/0aoPXd30dX02Jm9FkDgWUE) | 3:22 | 2019-08-09 | 2020-01-04 |
 | [Fallin’ \(Adrenaline\)](https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Fallin’ \(Adrenaline\)](https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm) | 3:36 | 2020-10-02 | 2022-07-11 |
 | [Farther We Go](https://open.spotify.com/track/59bqd3AvNmW5eunQZx0aWI) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Farther We Go](https://open.spotify.com/album/4O5jSIE5Mko7M6MISLTCgk) | 2:56 | 2020-08-07 | 2022-04-17 |

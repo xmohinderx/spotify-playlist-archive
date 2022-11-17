@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 826257,
+  "num_followers": 826306,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDQ4NDA0NmY4ZTQwNTA4ODhmMjNlYzgxYTg4M2M4OWUw",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGExNzg3YTVhNjYwZGRhYmI0NGZiNjZhMDI1ZjMxZWU0",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Day by Day (Acoustic)",
-        "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 209714,
-      "name": "Day by Day - Acoustic",
-      "url": "https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "White Water",
         "url": "https://open.spotify.com/album/4yZll8f1nGx4qpqKMLe87V"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+        "name": "Day by Day (Acoustic)",
+        "url": "https://open.spotify.com/album/6b4ZNIphC9pI2JD2Ip2b42"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
+      "duration_ms": 209714,
+      "name": "Day by Day - Acoustic",
+      "url": "https://open.spotify.com/track/7zkXBmkaHsRzzSAc60bKNH"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -327,6 +311,22 @@
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
-      },
-      "artists": [
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "July Bones",
-      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "July Bones",
+      "url": "https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Far Out Dust",
-        "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
-      },
-      "artists": [
-        {
-          "name": "Talos",
-          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "To Each His Own",
-      "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Far Out Dust",
+        "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
+      },
+      "artists": [
+        {
+          "name": "Talos",
+          "url": "https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/4m13DJDEVpxD0emJ0glFyQ"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
         }
       ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
+      "duration_ms": 181200,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -895,6 +879,22 @@
       "duration_ms": 232613,
       "name": "Silvery",
       "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Branscombe",
-        "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
-      },
-      "artists": [
-        {
-          "name": "Voka Gentle",
-          "url": "https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx"
-        }
-      ],
-      "duration_ms": 439478,
-      "name": "Branscombe",
-      "url": "https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 268000,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Branscombe",
+        "url": "https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU"
+      },
+      "artists": [
+        {
+          "name": "Voka Gentle",
+          "url": "https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx"
+        }
+      ],
+      "duration_ms": 439478,
+      "name": "Branscombe",
+      "url": "https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Mia Gargaret",
         "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 189320,
       "name": "apathy",
       "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Spirits",
-        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
-      },
-      "artists": [
-        {
-          "name": "French For Rabbits",
-          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Goat",
-      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 247258,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/0DTmI8AV6gVRELVABD2Gl4"
+      },
+      "artists": [
+        {
+          "name": "French For Rabbits",
+          "url": "https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2"
+        }
+      ],
+      "duration_ms": 228533,
+      "name": "Goat",
+      "url": "https://open.spotify.com/track/2YEa3nFylD0cX3RZ48IJol"
     },
     {
       "added_at": "2022-11-11 05:00:00",

@@ -4,7 +4,7 @@
 
 > bops you can always rely on ◡̈
 
-340 songs - 19 hr 13 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
+341 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [glad ur gone](https://open.spotify.com/track/2BhYza30OCp9NUF5Yavo9w) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [glad ur gone](https://open.spotify.com/album/4AaIk7kmUbdOl97epNOoSI) | 4:05 | 2021-12-22 | 2022-07-20 |
 | [Glass House](https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Glass House](https://open.spotify.com/album/0DFolgZClFcvv9kipWMAVD) | 2:51 | 2022-02-04 | 2022-07-07 |
 | [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 | 2021-12-22 | 2022-07-28 |
+| [Go Away](https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:27 | 2022-10-21 |  |
 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 | 2021-12-22 | 2022-07-29 |
 | [Go Your Own Way](https://open.spotify.com/track/4SEKzsw9Gx1vvOxcgHuvzT) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Go Your Own Way](https://open.spotify.com/album/2fGTIN85UwkWGTr3PJn0xR) | 3:25 | 2022-03-31 | 2022-04-21 |
 | [god of the sunsets](https://open.spotify.com/track/5gOyjqIifZ9NqVcaIIlqv7) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [god of the sunsets](https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms) | 2:04 | 2021-12-22 | 2022-07-27 |
@@ -198,7 +199,7 @@
 | [Melon and the Coconut](https://open.spotify.com/track/7MAaZgT2QNnITEwOMQq9Ac) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 2:28 | 2022-02-18 | 2022-06-28 |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-02-24 | 2022-06-22 |
 | [Mine](https://open.spotify.com/track/4nb1IKpcYekqY4enXOdNzm) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Mine](https://open.spotify.com/album/19VC3wBEzuvT9K73l0Jkan) | 3:29 | 2022-02-04 | 2022-07-13 |
-| [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2022-03-31 |  |
+| [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2022-03-31 | 2022-11-17 |
 | [Mood Ring](https://open.spotify.com/track/1I042sygvOn2C5SybTCuJ1) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Mood Ring](https://open.spotify.com/album/4ww2orXklptrpHj4M8xdvy) | 3:45 | 2021-12-22 | 2022-07-29 |
 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2022-07-04 |  |
 | [Moscow](https://open.spotify.com/track/3HbmPWohnWgUgoymNC5ynD) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Moscow](https://open.spotify.com/album/61yNZ0gBmSLT5Qf7pJpHwP) | 3:07 | 2021-12-22 | 2022-07-17 |

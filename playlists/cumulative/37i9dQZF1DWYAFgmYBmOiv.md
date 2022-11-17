@@ -4,7 +4,7 @@
 
 > POV: It's your last night with your high school sweetheart, curated by Jordan Fisher from Hello, Goodbye, and Everything in Between
 
-90 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
+91 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/2G6quvBymHtG9ST7C2NhuC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Drift](https://open.spotify.com/track/1bJulrRtEET3KyjpYpaAlX) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/1JXoCmmLYvbifDmKOOneYM) | 3:30 | 2022-07-07 |  |
 | [Drift](https://open.spotify.com/track/4CfIRbigdkyDGmgHtHONw3) | [Peached](https://open.spotify.com/artist/7ihtWddopw2KlLH90xZQiL) | [Peached](https://open.spotify.com/album/0U1y40quTVSQcDC6IXomkY) | 3:30 | 2022-07-07 | 2022-10-13 |
 | [Energy Fleets](https://open.spotify.com/track/4Cpg4FCnh6tMDhnLx7mZuW) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Man Alive!](https://open.spotify.com/album/7MLDnEVUacleMDICnnAWuF) | 2:34 | 2022-04-14 | 2022-07-08 |
-| [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/3UXHq6nG3t1223oh8zZrM9) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/119HvKMU8tIao52eIy43X6) | 3:51 | 2022-07-07 |  |
+| [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/3UXHq6nG3t1223oh8zZrM9) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/119HvKMU8tIao52eIy43X6) | 3:51 | 2022-07-07 | 2022-11-17 |
+| [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/track/7KVbMauvS8b0BbdsgO1VoK) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Everything I Ever Wanted \(Music from the Netflix Film "Hello, Goodbye, and Everything in Between"\)](https://open.spotify.com/album/1BCxg9L1D9Q5OZEPtaejEc) | 3:51 | 2022-07-07 |  |
 | [Feels Like](https://open.spotify.com/track/2Hyaggl5zUVCwGSbJmkOs3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:29 | 2022-07-07 |  |
 | [Flat Champagne \(feat\. RAY BLK\)](https://open.spotify.com/track/64EF4txbjf2JzhsWx93oCR) | [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Flat Champagne \(feat\. RAY BLK\)](https://open.spotify.com/album/04R3kQlGyk4M2qhnQFiTLR) | 3:33 | 2022-07-07 |  |
 | [For Whom The Bell Tolls \(Remastered\)](https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 5:09 | 2022-04-14 | 2022-07-08 |

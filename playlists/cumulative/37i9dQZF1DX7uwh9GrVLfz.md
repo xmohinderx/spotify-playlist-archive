@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 10\-FEET
 
-469 songs - 1 day 1 hr 43 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+470 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [OFF THE WALL](https://open.spotify.com/track/1UFagrhLahtfM5bpC2a938) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:04 | 2022-05-17 | 2022-07-20 |
 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 | 2022-05-19 |  |
 | [oiの中の蛙](https://open.spotify.com/track/0mjoRduEfRPNAfDtsuSjC0) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [THEガガガSP](https://open.spotify.com/album/2fftHCw5wj2J0qp7gr41nM) | 2:42 | 2022-05-12 | 2022-07-27 |
+| [Omotesando](https://open.spotify.com/track/2VIqACtFptv3Y1Z7rT5zpp) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/3nLvQzElvXxOBAqemV0rqo) | 2:04 | 2022-11-17 |  |
 | [on my way](https://open.spotify.com/track/1pL9q42ZQuu05GaWK2KutY) | [LEGAL RUSH](https://open.spotify.com/artist/3FbEdSZOvGICjM2Qs7pQQ0) | [on my way](https://open.spotify.com/album/5ZLuPHzi4JwaSUsj6P8VDP) | 1:31 | 2022-07-14 | 2022-07-25 |
 | [ONE](https://open.spotify.com/track/5HcNbRIQjX0aakX2hWhywA) | [MAYSON's PARTY](https://open.spotify.com/artist/3RHFm0m7Ni1vl2Lr5sLw5t) | [ONE](https://open.spotify.com/album/4sHlvEakzqFPCVz1v1mgax) | 2:39 | 2022-06-28 | 2022-07-29 |
 | [Open Up My Heart](https://open.spotify.com/track/45KpSMzfMaPpCDfS4zMeCV) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [BLOOMING](https://open.spotify.com/album/2XQmTky0Y8phmyKDurxUDN) | 3:41 | 2022-05-12 |  |
@@ -468,7 +469,7 @@
 | [緊急事態宣言](https://open.spotify.com/track/6orimeDa7Vdc0RC4GDM8jV) | [Wasurete Motels](https://open.spotify.com/artist/0rAymStk4bKXWSNGrCekVw) | [この夜を置いて](https://open.spotify.com/album/3w75dsZ8w2ugbNnYjFRXii) | 2:43 | 2022-07-19 | 2022-08-17 |
 | [薬草](https://open.spotify.com/track/5rD0WQ7FMvGZ5qjM7PoI3r) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [ガッツ・エンターテイメント](https://open.spotify.com/album/2GNuX25X6VpHJ4OsCK2NEr) | 2:21 | 2022-05-19 | 2022-07-18 |
 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 | 2022-05-12 |  |
-| [表参道](https://open.spotify.com/track/3ulW6i37o4FpqJSlebZflY) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/1COk9YWIlyNkyerTI4OOnB) | 2:04 | 2022-11-16 |  |
+| [表参道](https://open.spotify.com/track/3ulW6i37o4FpqJSlebZflY) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/1COk9YWIlyNkyerTI4OOnB) | 2:04 | 2022-11-16 | 2022-11-17 |
 | [証](https://open.spotify.com/track/2NqEXbLw9l78MsFCuxhlHJ) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:46 | 2022-05-24 | 2022-07-29 |
 | [賽を振る](https://open.spotify.com/track/51Kx7vgqkbr68b4yAIBW1t) | [Rudo](https://open.spotify.com/artist/5Q58P9YrOKt4SoUyV9w7Jc) | [賽を振る](https://open.spotify.com/album/3p6DYCR7z0hk6OFqprYmMn) | 4:53 | 2022-05-12 | 2022-07-29 |
 | [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 | 2022-07-21 | 2022-08-19 |

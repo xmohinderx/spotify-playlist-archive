@@ -254,28 +254,6 @@
     },
     {
       "album": {
-        "name": "Cantos y Danzas",
-        "url": "https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Manuel Barrueco",
-          "url": "https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE"
-        }
-      ],
-      "date_added": "2021-06-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166533,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M"
-    },
-    {
-      "album": {
         "name": "Dreams and Fancies: English Music for Solo Guitar",
         "url": "https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH"
       },
@@ -537,6 +515,28 @@
       "duration_ms": 123426,
       "name": "L\u00e1grima",
       "url": "https://open.spotify.com/track/1aMeBqrCnPf1CzRXlKyNFs"
+    },
+    {
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Manuel Barrueco",
+          "url": "https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "Ponce: Estrellita",
+      "url": "https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M"
     },
     {
       "album": {

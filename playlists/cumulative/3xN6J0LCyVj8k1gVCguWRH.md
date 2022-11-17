@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,817 songs - 4 day 9 hr 0 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,818 songs - 4 day 9 hr 4 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [Hate Love Me](https://open.spotify.com/track/0wS4gmk8a7TmfDvc8zAH3i) | [Paper Eros](https://open.spotify.com/artist/75EPhnOsH71y3C8YmPoj82) | [Hate Love Me](https://open.spotify.com/album/0l1l5gpFk5wkkOkoDnkbS3) | 3:09 | 2021-02-26 | 2021-03-14 |
 | [HATE ME TOO](https://open.spotify.com/track/5X98EHVzrOvOMnG735vATY) | [Ben Provencial](https://open.spotify.com/artist/5weUjhew3mKsYMtwxB2a0h) | [HATE ME TOO](https://open.spotify.com/album/55g6cMWkViVYMVfQUJmbCs) | 3:00 | 2022-11-11 |  |
 | [haunted](https://open.spotify.com/track/0iOHFtsdJ5PsLhccXBRCCt) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [haunted](https://open.spotify.com/album/6JD4jR7BhWNbDAvQDFE62d) | 3:43 | 2021-05-24 | 2021-06-01 |
+| [Hazel Frustration](https://open.spotify.com/track/4YBd9sfsb6TDmzUfc53SOU) | [Kindelan](https://open.spotify.com/artist/56dee3PrGYcLKrq1z4XEyY) | [Hazel Frustration](https://open.spotify.com/album/6PBhIFFG8nfDDz5lhnBuB0) | 3:08 | 2022-11-16 |  |
 | [HAZY 66](https://open.spotify.com/track/6BBQZtvDuZmOWao7J3gyvr) | [RC Peters](https://open.spotify.com/artist/4HGlZuZIfrckC4On0xBwip) | [Furlough](https://open.spotify.com/album/2WvccFuISlu7oyHwywdSGV) | 2:59 | 2022-07-01 | 2022-07-19 |
 | [He Said She Said](https://open.spotify.com/track/5fdoU9T5AUNXj9NNWmRGLp) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [He Said She Said](https://open.spotify.com/album/6PU2JJHEfry8nJT8K3BDzL) | 3:09 | 2021-04-24 | 2021-05-09 |
 | [Head's In the Roses](https://open.spotify.com/track/7cUd9jKNcrEzFc6XCdyWLW) | [Jessica Wilde](https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij) | [Head's In the Roses](https://open.spotify.com/album/7sA606v1aM7SvInD8V1ZFe) | 3:12 | 2022-02-27 | 2022-03-17 |
@@ -704,7 +705,7 @@
 | [Here](https://open.spotify.com/track/0u30fnLtlD0lSWKdPd8P7T) | [SILKIN](https://open.spotify.com/artist/0BHnU3S7yoIJvmMzi4IxMt) | [Here](https://open.spotify.com/album/4heIQ4yNXoV8eqA3VADW7p) | 2:20 | 2020-03-28 | 2020-04-07 |
 | [Here by Your Side](https://open.spotify.com/track/1lcnkpkUDHYKviq5RglST3) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US), [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Here by Your Side](https://open.spotify.com/album/0OG967M8Has8Df0Xh1ODc4) | 3:41 | 2022-08-15 | 2022-09-02 |
 | [Hey Josephine](https://open.spotify.com/track/4IQXBBIkCf46pr9VC3FafX) | [Eric Anders](https://open.spotify.com/artist/7wYbNTiiFpJwzAwFk910dl), [Mark O'Bitz](https://open.spotify.com/artist/1l1iTfSE17m7r3FZehWsIR) | [So Far Gone](https://open.spotify.com/album/3ggrK6EY7CEy1r650D666O) | 7:05 | 2022-10-21 | 2022-11-12 |
-| [Hey Jude](https://open.spotify.com/track/3RQ46VWzqXczL2tzbeZ5Cv) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [ØZWALD Sings The Beatles](https://open.spotify.com/album/5ytYhbyedbbZ8PGzAUWdeC) | 3:45 | 2022-09-29 |  |
+| [Hey Jude](https://open.spotify.com/track/3RQ46VWzqXczL2tzbeZ5Cv) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [ØZWALD Sings The Beatles](https://open.spotify.com/album/5ytYhbyedbbZ8PGzAUWdeC) | 3:45 | 2022-09-29 | 2022-11-17 |
 | [HEY YOU GET OUT THE FAST LANE \- REMIX](https://open.spotify.com/track/7o7McB0zcE9PnzIFMmCg78) | [Super Carrera](https://open.spotify.com/artist/1Xy1925qDbe9fbfVc9cn0j) | [HEY YOU GET OUT THE FAST LANE \(REMIX\)](https://open.spotify.com/album/1qkdrwOrjQrMo5LUfpFwOj) | 2:47 | 2022-09-30 | 2022-10-18 |
 | [Hey!](https://open.spotify.com/track/2JLmWnsbcCWVLxHdWe3GVw) | [Vectralux](https://open.spotify.com/artist/00dlRHUJ1mitMDJ1NAVMAa) | [Each Morning and the Morning Thereafter](https://open.spotify.com/album/1DaayVwmX98LMOuA96LOaZ) | 1:51 | 2021-11-20 | 2021-12-05 |
 | [Hiding From Time](https://open.spotify.com/track/5bjKCoPVkFlGrisTf2tsUU) | [Jules](https://open.spotify.com/artist/1qqiy3nqkm9KojCzfmp6Ea) | [Hiding From Time](https://open.spotify.com/album/3uViIT6QAdGOGa9XDNqXvw) | 4:14 | 2022-02-22 | 2022-03-12 |
@@ -1411,7 +1412,7 @@
 | [Skull Cup](https://open.spotify.com/track/2YfNgAiHIBrYqu8plFclq6) | [Dr\. Apeman](https://open.spotify.com/artist/4QKhseyZBnZgBDGhl2yydH) | [Silk Road](https://open.spotify.com/album/2FJdRWMCsR2jAme7ms9v3a) | 2:25 | 2020-04-14 | 2020-04-22 |
 | [Sky's in View](https://open.spotify.com/track/0cWNKUhFHaBpEsCymJo6e3) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Sky's in View](https://open.spotify.com/album/4DJDKcqroJC6nOhOWWZ7Yb) | 2:56 | 2020-05-09 | 2020-05-24 |
 | [Sleeping Dragon](https://open.spotify.com/track/0pbcUYlFRPImubzedyHL76) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Sleeping Dragon](https://open.spotify.com/album/7KWnnxbOjbHiT9ufkbMTL0) | 3:13 | 2020-04-12 | 2020-04-22 |
-| [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 | 2022-10-21 |  |
+| [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 | 2022-10-21 | 2022-11-17 |
 | [Slow Motion](https://open.spotify.com/track/7h9KgsNvOuc6lj8zi0Zxly) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Slow Motion](https://open.spotify.com/album/1mk03tqEaU2aa8yYy4bJh1) | 3:10 | 2022-09-30 | 2022-10-18 |
 | [Slow Ryde](https://open.spotify.com/track/7jVrhKpF6izCOg3FMtBhRA) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [Slow Ryde](https://open.spotify.com/album/7aM4ghgSftw3RxN4PlDEld) | 3:22 | 2021-12-07 | 2022-09-09 |
 | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/track/3Rp8FNCr3yxM3fGFy99LN8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Smile \(feat\. H.E.R.\)](https://open.spotify.com/album/0QzHIYIoMCUnCKwHqZOmqs) | 4:11 | 2020-08-20 |  |

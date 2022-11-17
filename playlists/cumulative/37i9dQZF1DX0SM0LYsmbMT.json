@@ -6310,6 +6310,24 @@
     },
     {
       "album": {
+        "name": "Blurred",
+        "url": "https://open.spotify.com/album/4RJqaf9OqJo0lgnY0dNBgC"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173648,
+      "name": "Blurred",
+      "url": "https://open.spotify.com/track/7eSSlyueH24ku1RwKmKpcD"
+    },
+    {
+      "album": {
         "name": "Blurred Tales",
         "url": "https://open.spotify.com/album/2Npqp2AyrDKwRZYxO2CGfZ"
       },
@@ -16471,7 +16489,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 169853,
       "name": "Evenings",
       "url": "https://open.spotify.com/track/3jSslE7Fop3jOjiPYDpVD0"
@@ -44446,6 +44464,28 @@
     },
     {
       "album": {
+        "name": "Roadmap",
+        "url": "https://open.spotify.com/album/1w4ibNlF67RGfAIM5EIGQR"
+      },
+      "artists": [
+        {
+          "name": "Smeeagain",
+          "url": "https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123496,
+      "name": "Roadmap",
+      "url": "https://open.spotify.com/track/46otNtxw1tp66cO2ZgC6n3"
+    },
+    {
+      "album": {
         "name": "Roads to Anaga",
         "url": "https://open.spotify.com/album/5IX0lrex4iSxF0OLv7vhYc"
       },
@@ -49949,7 +49989,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 170961,
       "name": "Star Trip",
       "url": "https://open.spotify.com/track/01CY7LwNowtoiakTGuTBqa"

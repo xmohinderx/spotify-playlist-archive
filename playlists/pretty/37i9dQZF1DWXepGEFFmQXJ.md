@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Brad Cox
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,761 likes - 87 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,855 likes - 87 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

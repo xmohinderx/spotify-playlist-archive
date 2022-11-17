@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Beto Vega en portada.
 
-161 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
+162 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 | 2022-04-01 | 2022-09-03 |
 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 | 2022-07-08 |  |
 | [De 0 A 100 Checo Pérez](https://open.spotify.com/track/6XtrbXtnk5GdxPENChXqYH) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [De 0 A 100 Checo Pérez](https://open.spotify.com/album/3s73StArPDrvWgF5rn6spA) | 2:42 | 2022-11-11 |  |
-| [De Eso Se Trata](https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [De Eso Se Trata](https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8) | 3:28 | 2022-08-05 |  |
+| [De Eso Se Trata](https://open.spotify.com/track/4flMkf6UihqV8CzBhjPTWY) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [De Eso Se Trata](https://open.spotify.com/album/4xf4CpJ7t9eFdEiWOowDm8) | 3:28 | 2022-08-05 | 2022-11-17 |
 | [Despues De Ti](https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Despues De Ti](https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx) | 2:15 | 2022-07-08 | 2022-08-06 |
 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 | 2022-09-02 |  |
 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 | 2022-09-02 | 2022-10-08 |
@@ -159,6 +159,7 @@
 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 | 2022-09-30 |  |
 | [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2022-09-30 |  |
 | [Vuela y Vuela](https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Vuela y Vuela](https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l) | 3:01 | 2022-08-05 |  |
+| [Y Sigo Ciendo el Perro](https://open.spotify.com/track/57nfgIlZNskOJezJBPKAEw) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3) | [Y Sigo Ciendo el Perro](https://open.spotify.com/album/5rmqwYeEouXAu6QWffDbex) | 3:09 | 2022-11-11 |  |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2022-04-29 | 2022-09-24 |
 | [Ya Los Miraron Pasar](https://open.spotify.com/track/04ETVcXvStIz96bDxqpr2S) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1) | [Ya Los Miraron Pasar](https://open.spotify.com/album/4L4RHzgMeqzU8LeXix4JLh) | 3:07 | 2022-08-05 |  |
 | [Ya No](https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ya No](https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD) | 3:19 | 2022-09-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Manal",
-  "num_followers": 846758,
+  "num_followers": 846737,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMDkxOTFkOTdiZWM4ZWU3YWU0ODVhMWE2MzZmYWE1OTBk",
+  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMGMyYWY0YTA5ZDllNTI3Y2JkYjZmMWRlNzQzNTIzN2Zj",
   "tracks": [
     {
       "added_at": "2022-11-02 04:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Sen Yokken",
-        "url": "https://open.spotify.com/album/7MkcVM5HHkeJV1rT7yrgHW"
-      },
-      "artists": [
-        {
-          "name": "Hande \u00dcnsal",
-          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
-        }
-      ],
-      "duration_ms": 162250,
-      "name": "Sen Yokken",
-      "url": "https://open.spotify.com/track/4NMJzl0n1gdDmCFWtqiRHM"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Escapism. / The Thrill Is Gone.",
         "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Sen Yokken",
+        "url": "https://open.spotify.com/album/7MkcVM5HHkeJV1rT7yrgHW"
+      },
+      "artists": [
+        {
+          "name": "Hande \u00dcnsal",
+          "url": "https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ"
+        }
+      ],
+      "duration_ms": 162250,
+      "name": "Sen Yokken",
+      "url": "https://open.spotify.com/track/4NMJzl0n1gdDmCFWtqiRHM"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "Jee Jeha Karda",
+        "url": "https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "duration_ms": 215565,
+      "name": "Jee Jeha Karda",
+      "url": "https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Jee Jeha Karda",
-        "url": "https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        }
-      ],
-      "duration_ms": 215565,
-      "name": "Jee Jeha Karda",
-      "url": "https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Dati-Dati",
         "url": "https://open.spotify.com/album/0vWLVoS1AcxTICsK49VfUj"
       },
@@ -271,6 +271,26 @@
       "duration_ms": 342202,
       "name": "Dati-Dati",
       "url": "https://open.spotify.com/track/3b1P0s0bbeJhV5ZM5uv2oP"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8"
+      },
+      "artists": [
+        {
+          "name": "Nunu",
+          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
+        },
+        {
+          "name": "TOX1C",
+          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
+        }
+      ],
+      "duration_ms": 143636,
+      "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -307,26 +327,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
-        "url": "https://open.spotify.com/album/7wHnlFe5drIJIPsl9y2qw8"
-      },
-      "artists": [
-        {
-          "name": "Nunu",
-          "url": "https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG"
-        },
-        {
-          "name": "TOX1C",
-          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
-        }
-      ],
-      "duration_ms": 143636,
-      "name": "\u05e1\u05d9\u05d5\u05d5\u05e4\u05dc\u05d4",
-      "url": "https://open.spotify.com/track/3xoOOmHo07QA9Q7ng1aplW"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "906090",
         "url": "https://open.spotify.com/album/20sB19q1UohCToeyAcUNwQ"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 208767,
       "name": "906090",
       "url": "https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
+      },
+      "artists": [
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "duration_ms": 284970,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -375,22 +391,6 @@
       "duration_ms": 197444,
       "name": "DOMOPAK",
       "url": "https://open.spotify.com/track/5rGlJkkDiERrqPP1bJ9mIe"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
-      },
-      "artists": [
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 284970,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Chilla",
+          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
         }
       ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+      "duration_ms": 167720,
+      "name": "Dou\u00e9",
+      "url": "https://open.spotify.com/track/5RA8lfUpypk40aqp1CIYSQ"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Chilla",
-          "url": "https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 167720,
-      "name": "Dou\u00e9",
-      "url": "https://open.spotify.com/track/5RA8lfUpypk40aqp1CIYSQ"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -507,6 +507,22 @@
       "duration_ms": 219166,
       "name": "passo a passo",
       "url": "https://open.spotify.com/track/7sjCw56rjoLqNionnjcRGC"
+    },
+    {
+      "added_at": "2022-11-08 23:00:00",
+      "album": {
+        "name": "3:30",
+        "url": "https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "3:30",
+      "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -609,22 +625,6 @@
       "url": "https://open.spotify.com/track/7LxlPRasB0Wq4hQRDvU4Sz"
     },
     {
-      "added_at": "2022-11-08 23:00:00",
-      "album": {
-        "name": "3:30",
-        "url": "https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK"
-      },
-      "artists": [
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "3:30",
-      "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
-    },
-    {
       "added_at": "2022-11-02 04:01:00",
       "album": {
         "name": "No Me Obligues",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "Romper Platos",
+        "url": "https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 193750,
+      "name": "Romper Platos",
+      "url": "https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "La Folcr\u00f3nica",
         "url": "https://open.spotify.com/album/3cAE3TZQGJELs8gxtFd1eL"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Romper Platos",
-        "url": "https://open.spotify.com/album/5aTKc61hZzHMbSeRtnLB0m"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "Romper Platos",
-      "url": "https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Time to Let Go (feat. Luna Is A Bep)",
         "url": "https://open.spotify.com/album/5WS85NSCkBrCxQQaGkNddk"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 191492,
       "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1fa9QcGSL6hirANbdUVADq"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "duration_ms": 267771,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -841,20 +857,20 @@
       "url": "https://open.spotify.com/track/3nVm63feCNkGcXmuGUjKA3"
     },
     {
-      "added_at": "2022-11-02 04:01:00",
+      "added_at": "2022-11-09 22:14:07",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ"
       },
       "artists": [
         {
-          "name": "Nka",
-          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
         }
       ],
-      "duration_ms": 267771,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ"
+      "duration_ms": 157661,
+      "name": "sideways - Spotify Singles",
+      "url": "https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -915,6 +931,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "\u0e08\u0e1a\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e23\u0e34\u0e48\u0e21 (NOIR)",
+        "url": "https://open.spotify.com/album/2fAogeZdrHM1TGAkOwS8lr"
+      },
+      "artists": [
+        {
+          "name": "Lula",
+          "url": "https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB"
+        }
+      ],
+      "duration_ms": 246642,
+      "name": "\u0e08\u0e1a\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e23\u0e34\u0e48\u0e21 (NOIR)",
+      "url": "https://open.spotify.com/track/2qFkRbhuceZK6doTK3hqz9"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "WATER",
         "url": "https://open.spotify.com/album/6hJLiDi7hCSuLcYhB8cavR"
       },
@@ -931,34 +963,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "\u0e08\u0e1a\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e23\u0e34\u0e48\u0e21 (NOIR)",
-        "url": "https://open.spotify.com/album/2fAogeZdrHM1TGAkOwS8lr"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
       },
       "artists": [
         {
-          "name": "Lula",
-          "url": "https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB"
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
         }
       ],
-      "duration_ms": 246642,
-      "name": "\u0e08\u0e1a\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e40\u0e23\u0e34\u0e48\u0e21 (NOIR)",
-      "url": "https://open.spotify.com/track/2qFkRbhuceZK6doTK3hqz9"
-    },
-    {
-      "added_at": "2022-11-09 22:14:07",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ"
-      },
-      "artists": [
-        {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
-        }
-      ],
-      "duration_ms": 157661,
-      "name": "sideways - Spotify Singles",
-      "url": "https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo"
+      "duration_ms": 184334,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -991,22 +1007,6 @@
       "duration_ms": 171191,
       "name": "Oh my mind",
       "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "SABINA",
-        "url": "https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5"
-      },
-      "artists": [
-        {
-          "name": "Chibi Ichigo",
-          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Kleine Warme Kamer",
-      "url": "https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Majaneen",
-        "url": "https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S"
+        "name": "SABINA",
+        "url": "https://open.spotify.com/album/6IIU6x7AkTHAJtluDZPjy5"
       },
       "artists": [
         {
-          "name": "Banah",
-          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Majaneen",
-      "url": "https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp"
+      "duration_ms": 230880,
+      "name": "Kleine Warme Kamer",
+      "url": "https://open.spotify.com/track/6sT2KR6Kxfgv2Qg1h7E268"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 163500,
       "name": "FAME (feat. Laila Al Habash)",
       "url": "https://open.spotify.com/track/0jNiQhRIRxu6IGapnsQkY4"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Majaneen",
+        "url": "https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S"
+      },
+      "artists": [
+        {
+          "name": "Banah",
+          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Majaneen",
+      "url": "https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp"
     },
     {
       "added_at": "2022-11-02 04:01:00",

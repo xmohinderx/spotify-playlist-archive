@@ -1691,6 +1691,24 @@
     {
       "album": {
         "name": "En Bloc",
+        "url": "https://open.spotify.com/album/5wQpv9txTYej5QleKS8ImH"
+      },
+      "artists": [
+        {
+          "name": "Laundromat",
+          "url": "https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241443,
+      "name": "Milky",
+      "url": "https://open.spotify.com/track/6SSApQjEIaX0xy8fF9nzjf"
+    },
+    {
+      "album": {
+        "name": "En Bloc",
         "url": "https://open.spotify.com/album/1FftaeMeVTstmjMD09gqlX"
       },
       "artists": [
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 241443,
       "name": "Milky",
       "url": "https://open.spotify.com/track/6TEDvriGdoz4bVaCyXCJRY"

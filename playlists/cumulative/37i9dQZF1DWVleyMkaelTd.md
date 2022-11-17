@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-125 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+126 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 | 2022-04-26 |  |
 | [Bossa Incognito](https://open.spotify.com/track/5Hod2xD7H6NzPL6wLJXsjU) | [Sound Of Melancholy](https://open.spotify.com/artist/2HSEkc1P2xE5wKAP8GOb9H) | [Tales From The Forest](https://open.spotify.com/album/5USSfROSIe1sZ3iEqGfT8s) | 2:24 | 2022-04-26 |  |
 | [Bossa pro Vanessa](https://open.spotify.com/track/7K8BoUKKY85S0fZTkAa0qN) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 4:38 | 2022-04-26 | 2022-10-28 |
+| [Brisa](https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Amalgama](https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN) | 6:24 | 2022-11-16 |  |
 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 | 2022-04-26 |  |
 | [Búzios](https://open.spotify.com/track/0UvJGzL2FdEu5Mh37HtQrP) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 4:44 | 2022-04-26 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2022-09-20 |  |

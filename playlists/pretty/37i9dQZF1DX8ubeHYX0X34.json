@@ -1,12 +1,12 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Nusrat Fateh Ali Khan",
-  "num_followers": 29958,
+  "num_followers": 30004,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU2OTU0OSwwMDAwMDAwMDczZjE2M2ZmZmMwYTIxYzU2YjI2ZDc5NGQ1ZjM2OTQ5",
+  "snapshot_id": "MTY2NTU2OTU0OSwwMDAwMDAwMDU4NjBiZTY3ZjliNTc2ZTIwNDc3ZTQ4NTg5NWZmODlm",
   "tracks": [
     {
       "added_at": "2022-10-12 10:12:29",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Humsafar (2011)",
-        "url": "https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH"
-      },
-      "artists": [
-        {
-          "name": "QB",
-          "url": "https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb"
-        }
-      ],
-      "duration_ms": 381848,
-      "name": "Humsafar",
-      "url": "https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Roiyaan",
         "url": "https://open.spotify.com/album/6zyLkzZ4EBmUgBw8UG1cwM"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 296000,
       "name": "Roiyaan",
       "url": "https://open.spotify.com/track/6pIDq4rIuH75nEwNew2dlW"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Humsafar (2011)",
+        "url": "https://open.spotify.com/album/3ZflOKHy3vqNLloGtXjFaH"
+      },
+      "artists": [
+        {
+          "name": "QB",
+          "url": "https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb"
+        }
+      ],
+      "duration_ms": 381848,
+      "name": "Humsafar",
+      "url": "https://open.spotify.com/track/3gBwuyMuSVK9ubjEhoNooA"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Umeed",
-        "url": "https://open.spotify.com/album/1F85DgYW3VUUaruks6xpnq"
-      },
-      "artists": [
-        {
-          "name": "Bilal Khan",
-          "url": "https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI"
-        }
-      ],
-      "duration_ms": 216970,
-      "name": "Bachana",
-      "url": "https://open.spotify.com/track/0EEqTP594cPCt6YYx1dpKh"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Parinda",
         "url": "https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 261537,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Umeed",
+        "url": "https://open.spotify.com/album/1F85DgYW3VUUaruks6xpnq"
+      },
+      "artists": [
+        {
+          "name": "Bilal Khan",
+          "url": "https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI"
+        }
+      ],
+      "duration_ms": 216970,
+      "name": "Bachana",
+      "url": "https://open.spotify.com/track/0EEqTP594cPCt6YYx1dpKh"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Udeekan",
-        "url": "https://open.spotify.com/album/5ffUfUw3ZecHmEYmzYaghP"
-      },
-      "artists": [
-        {
-          "name": "Jawad Kahlown",
-          "url": "https://open.spotify.com/artist/35Xt2FGKZR43L12BPHOm3M"
-        }
-      ],
-      "duration_ms": 279520,
-      "name": "Udeekan",
-      "url": "https://open.spotify.com/track/3CUS0yCQhElBR8YUZ0iPdv"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Aadat",
         "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 287333,
       "name": "Dil Haray Pukaray",
       "url": "https://open.spotify.com/track/2Er9taUNaVTJI6Xt0vFu4P"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Udeekan",
+        "url": "https://open.spotify.com/album/5ffUfUw3ZecHmEYmzYaghP"
+      },
+      "artists": [
+        {
+          "name": "Jawad Kahlown",
+          "url": "https://open.spotify.com/artist/35Xt2FGKZR43L12BPHOm3M"
+        }
+      ],
+      "duration_ms": 279520,
+      "name": "Udeekan",
+      "url": "https://open.spotify.com/track/3CUS0yCQhElBR8YUZ0iPdv"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
-      },
-      "artists": [
-        {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Lamhay",
-      "url": "https://open.spotify.com/track/2jU0vqjU22JCRXYLTcSrKs"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Gunkali (Original Score)",
         "url": "https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW"
       },
@@ -675,22 +659,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Bol Tujhe Kya Chahiye",
-        "url": "https://open.spotify.com/album/4pF6gcm1SuGxeu3Ds9JU8Q"
-      },
-      "artists": [
-        {
-          "name": "Jawad Ahmad",
-          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
-        }
-      ],
-      "duration_ms": 281407,
-      "name": "Bin Tere Kya Hai Jeena",
-      "url": "https://open.spotify.com/track/5H37ud3obrc1uqRbpxIwJX"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/64osvBWt6Mk8l1NECygF2d"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 238000,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/3BlqNZ5Yq9pwuf047YgGwB"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Lamhay",
+      "url": "https://open.spotify.com/track/2jU0vqjU22JCRXYLTcSrKs"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Bol Tujhe Kya Chahiye",
+        "url": "https://open.spotify.com/album/4pF6gcm1SuGxeu3Ds9JU8Q"
+      },
+      "artists": [
+        {
+          "name": "Jawad Ahmad",
+          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
+        }
+      ],
+      "duration_ms": 281407,
+      "name": "Bin Tere Kya Hai Jeena",
+      "url": "https://open.spotify.com/track/5H37ud3obrc1uqRbpxIwJX"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Menu Tere Naal",
-        "url": "https://open.spotify.com/album/0OGbQTatg4K6ku9uIfiv7A"
-      },
-      "artists": [
-        {
-          "name": "Najam Sherzah",
-          "url": "https://open.spotify.com/artist/7kE3mAkSMktMSuLRnr9QXr"
-        }
-      ],
-      "duration_ms": 345213,
-      "name": "Menu Tere Naal",
-      "url": "https://open.spotify.com/track/7yafPTMrC1Cev2zGJ2NWNk"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Peeli Patti Aur Raja Jani Ki Gol Dunya",
         "url": "https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
+        "name": "Menu Tere Naal",
+        "url": "https://open.spotify.com/album/0OGbQTatg4K6ku9uIfiv7A"
+      },
+      "artists": [
+        {
+          "name": "Najam Sherzah",
+          "url": "https://open.spotify.com/artist/7kE3mAkSMktMSuLRnr9QXr"
+        }
+      ],
+      "duration_ms": 345213,
+      "name": "Menu Tere Naal",
+      "url": "https://open.spotify.com/track/7yafPTMrC1Cev2zGJ2NWNk"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
         "name": "Aatish",
         "url": "https://open.spotify.com/album/53blgdAq8q2N5ulBW86ABO"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 227426,
       "name": "Dil Ruba",
       "url": "https://open.spotify.com/track/65PDojUz0VanKRIHCEDddm"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
-        "name": "Nach Punjaban",
-        "url": "https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4"
-      },
-      "artists": [
-        {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
-        }
-      ],
-      "duration_ms": 309266,
-      "name": "Preeto",
-      "url": "https://open.spotify.com/track/77r5p33xjbCAJrS9rQ6z20"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -987,6 +971,22 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
+        "name": "Nach Punjaban",
+        "url": "https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4"
+      },
+      "artists": [
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        }
+      ],
+      "duration_ms": 309266,
+      "name": "Preeto",
+      "url": "https://open.spotify.com/track/77r5p33xjbCAJrS9rQ6z20"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
         "name": "Deewar",
         "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
       },
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
         }
       ],
-      "duration_ms": 386560,
-      "name": "Dholna",
-      "url": "https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN"
+      "duration_ms": 314493,
+      "name": "Ucchayan Majajan Aali",
+      "url": "https://open.spotify.com/track/290a4qvrJNMeJQaxotj9X1"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Nachaan Mein Oday Nall",
-        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
-      },
-      "artists": [
-        {
-          "name": "Abrar Ul Haq",
-          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "Shareekan Nu Agg Lagdi",
-      "url": "https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Aadat",
         "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
       },
@@ -1083,22 +1067,6 @@
     {
       "added_at": "2022-10-12 10:12:29",
       "album": {
-        "name": "Chandni Raatein",
-        "url": "https://open.spotify.com/album/1Ub0yU5Xc7iTG68iirGQZa"
-      },
-      "artists": [
-        {
-          "name": "Ali Haider",
-          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
-        }
-      ],
-      "duration_ms": 388786,
-      "name": "Chandni Raatein",
-      "url": "https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk"
-    },
-    {
-      "added_at": "2022-10-12 10:12:29",
-      "album": {
         "name": "Tera Tay Mera",
         "url": "https://open.spotify.com/album/3ibVkV2cTH3nFCu9pInhB9"
       },
@@ -1111,6 +1079,38 @@
       "duration_ms": 285186,
       "name": "Tera Tay Mera",
       "url": "https://open.spotify.com/track/2ogpBnitWRM6iDUDpbabYS"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Nachaan Mein Oday Nall",
+        "url": "https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd"
+      },
+      "artists": [
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "Shareekan Nu Agg Lagdi",
+      "url": "https://open.spotify.com/track/2zl7lKlPv2rKwy0awC6I5m"
+    },
+    {
+      "added_at": "2022-10-12 10:12:29",
+      "album": {
+        "name": "Chandni Raatein",
+        "url": "https://open.spotify.com/album/1Ub0yU5Xc7iTG68iirGQZa"
+      },
+      "artists": [
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
+        }
+      ],
+      "duration_ms": 388786,
+      "name": "Chandni Raatein",
+      "url": "https://open.spotify.com/track/0n3soc0bTxQslLiMpbgZyk"
     },
     {
       "added_at": "2022-10-12 10:12:29",
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
         }
       ],
-      "duration_ms": 314493,
-      "name": "Ucchayan Majajan Aali",
-      "url": "https://open.spotify.com/track/290a4qvrJNMeJQaxotj9X1"
+      "duration_ms": 386560,
+      "name": "Dholna",
+      "url": "https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

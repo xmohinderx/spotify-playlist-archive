@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-98 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+99 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-11-05 |  |
 | [Might Be on Fire](https://open.spotify.com/track/2CwWU5UFHrIHUuGyN7pf5E) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Might Be on Fire](https://open.spotify.com/album/4ZbbWUSrvTCjuHCgkDA0W7) | 3:07 | 2021-11-05 |  |
+| [MY MIND](https://open.spotify.com/track/7Kgcz89XMfj4WHtm5nd3mJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_III](https://open.spotify.com/album/1rapZi3fPJc3RLRQdxocM7) | 2:55 | 2022-11-16 |  |
 | [No One Knows You Better Than Me](https://open.spotify.com/track/5sRw42rZDyBqUi041yw5q8) | [Runrummer](https://open.spotify.com/artist/2VqvNXdQzKDywenScflYoX) | [No One Knows You Better Than Me](https://open.spotify.com/album/3u7wrsxCG6SfCsz14Kcts4) | 4:23 | 2022-04-04 | 2022-06-14 |
 | [Nympho](https://open.spotify.com/track/7BShG8FX4glHiyOrh7dbET) | [DJ Assault](https://open.spotify.com/artist/3yoyUFgb11DMp1KrsJoQZU) | [Nympho](https://open.spotify.com/album/1IisYeFNyLYwdJdg0eW1V5) | 4:01 | 2021-11-05 |  |
 | [On & On](https://open.spotify.com/track/4szdAoKiSXuatHbwwWRDDz) | [Rush Midnight](https://open.spotify.com/artist/7JhInRTK054LmqV3Ton1z4) | [On & On](https://open.spotify.com/album/2OmNDztyjPcH9yjZlBklbO) | 3:30 | 2022-05-13 | 2022-07-21 |
@@ -77,7 +78,7 @@
 | [Recharge](https://open.spotify.com/track/0jweI4ue2Q3FAcBEiz2Bf0) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Recharge](https://open.spotify.com/album/6JnyLWPrZowsSOvW2yGTbR) | 2:40 | 2022-06-06 | 2022-08-13 |
 | [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2022-04-06 | 2022-06-16 |
 | [Reflection](https://open.spotify.com/track/1WMAmiHJjj3jiQlPMFFdGi) | [Hi Frisco](https://open.spotify.com/artist/6ifRAgjl7vu0M5DsSbtp2i), [CHERITON](https://open.spotify.com/artist/31RwGrkcLmgHGRSOK2gIKB) | [Reflection](https://open.spotify.com/album/6hRNO6aIMwgR1WIdvyCqk5) | 4:15 | 2022-05-11 | 2022-07-21 |
-| [René Laloux](https://open.spotify.com/track/74l4tSkfHX8iLW9Kc74ePm) | [Hotel](https://open.spotify.com/artist/1RfaBLjlSEdEMRMaj3dWwc), [Prince Matton](https://open.spotify.com/artist/6QjIoVAOqLki2UAmoD5yuX) | [René Laloux](https://open.spotify.com/album/0Ai0eRRJWnJ8FnZv0IHdLn) | 4:30 | 2022-08-12 |  |
+| [René Laloux](https://open.spotify.com/track/74l4tSkfHX8iLW9Kc74ePm) | [Hotel](https://open.spotify.com/artist/1RfaBLjlSEdEMRMaj3dWwc), [Prince Matton](https://open.spotify.com/artist/6QjIoVAOqLki2UAmoD5yuX) | [René Laloux](https://open.spotify.com/album/0Ai0eRRJWnJ8FnZv0IHdLn) | 4:30 | 2022-08-12 | 2022-11-17 |
 | [Roses](https://open.spotify.com/track/379cChcS43x1BGboAC6QUI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6fCFZtSy5xJs3t87nPriYZ) | 2:52 | 2021-11-05 |  |
 | [Run](https://open.spotify.com/track/3g8OkwMxW6PJ4CWgEN6R1H) | [Ultraflex](https://open.spotify.com/artist/0GX25ns6c6gNoBmZyb0Sqg) | [Run](https://open.spotify.com/album/0ngsAnIsTVjlXzgRtJcLJg) | 1:58 | 2022-10-07 |  |
 | [Run Away](https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Run Away](https://open.spotify.com/album/61bcm5fOZcG1zLc0XVfSp6) | 3:04 | 2022-04-08 | 2022-06-18 |

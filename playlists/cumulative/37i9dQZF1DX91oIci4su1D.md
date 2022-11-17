@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-485 songs - 1 day 5 hr 55 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
+486 songs - 1 day 5 hr 59 min - [published](https://open.spotify.com/playlist/113TZi416gfSF4o2RXnxHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Animals \- Daxson Remix](https://open.spotify.com/track/3tKusnwyaxuhuDn8B8xAUf) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU), [Jaren](https://open.spotify.com/artist/0YY5XUHt2suAzSiPMLx5Wm), [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Animals \(Daxson Remix + Stripped\)](https://open.spotify.com/album/71nSBHhSueF5HKpa26OgP1) | 3:44 | 2021-12-17 | 2022-03-12 |
 | [Another Sun](https://open.spotify.com/track/5rSEfzAgi00ZY9fG1BDfz4) | [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Another Sun](https://open.spotify.com/album/6jQDqP2royf9weSgoqUOpj) | 4:00 | 2022-06-17 |  |
 | [Anyone But You \- Steve Brian Remix](https://open.spotify.com/track/3r6jXcM19bhtLzzWJLcwrD) | [Illuminor](https://open.spotify.com/artist/3sqmA4WmKDnfG5L2cmJuJ4), [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Anyone But You \(Steve Brian Remix\)](https://open.spotify.com/album/7vhRanK1t2rq5Z8Ofkn016) | 2:50 | 2021-12-17 | 2022-01-15 |
-| [Anything](https://open.spotify.com/track/5WD7n1SmKkZN9OysKjU0QR) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Anything](https://open.spotify.com/album/4VduXgBxMziOHKlcaRJ4mj) | 3:26 | 2022-05-06 |  |
+| [Anything](https://open.spotify.com/track/5WD7n1SmKkZN9OysKjU0QR) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Anything](https://open.spotify.com/album/4VduXgBxMziOHKlcaRJ4mj) | 3:26 | 2022-05-06 | 2022-11-17 |
 | [Apollo](https://open.spotify.com/track/22wxI9qv6irtSyCGhoGGEH) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Apollo](https://open.spotify.com/album/2lgCV2s0B0UqAktpETEssF) | 3:08 | 2022-09-02 | 2022-09-24 |
 | [Apollo](https://open.spotify.com/track/0i5M7tQqE8VoGP9kUrjn0m) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC) | [Apollo](https://open.spotify.com/album/6vjPpNpGLRcl22rzVX11sz) | 2:35 | 2022-02-25 |  |
 | [Aqua](https://open.spotify.com/track/5QkXtfDXyRkcQTGsGHkW80) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [M6](https://open.spotify.com/artist/6jdFALQ8fljXpbb9c9NdNB) | [Aqua](https://open.spotify.com/album/7GJbBBLRY721os3LXqzx0z) | 3:27 | 2022-03-25 |  |
@@ -95,6 +95,7 @@
 | [Colder](https://open.spotify.com/track/1bD4mJMfB4xNOyt6EaxFpg) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Colder](https://open.spotify.com/album/1GAb5vrYO6mt6zdwkvOytZ) | 3:43 | 2021-12-17 | 2022-02-26 |
 | [COLLIDE](https://open.spotify.com/track/1M7h0DxRLM9qctzi9KmdNX) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA) | [COLLIDE](https://open.spotify.com/album/6XvgbHcI3twBpmW6JIVG03) | 3:29 | 2022-09-30 |  |
 | [Colour Me](https://open.spotify.com/track/2WiW6RcpDaCivdk7cofdBA) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Jan Burton](https://open.spotify.com/artist/5ESBqKoYWcMYwlngYyjcOB) | [Horizons \[Part 1\]](https://open.spotify.com/album/2ju1ICgpwj2sMq5VMoMY8i) | 3:57 | 2022-05-20 |  |
+| [Coming Up \(Hold On\)](https://open.spotify.com/track/5JamVoaV0pgr8K90T93Phk) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Coming Up \(Hold On\)](https://open.spotify.com/album/5d82RvjKS1KqBpiuGb3ksx) | 4:16 | 2022-11-17 |  |
 | [Completely](https://open.spotify.com/track/6narPoP1lFtQmKdHeHYXiD) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Completely](https://open.spotify.com/album/1oBKnCIdeXJqHN13zDNDoO) | 2:49 | 2022-03-25 | 2022-10-08 |
 | [Connected](https://open.spotify.com/track/5eAYZBLL3vOUrWrVRaBXtj) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF), [Nikolauss](https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid) | [Connected](https://open.spotify.com/album/6ptKD3K2JuwUhWD6kt3VRu) | 3:33 | 2022-01-21 | 2022-11-02 |
 | [Connected](https://open.spotify.com/track/5fxLr471q7IQa6naTJeRT8) | [GXD](https://open.spotify.com/artist/3XWFA55Hf9Q4YS8AHsfnH8), [James Christian](https://open.spotify.com/artist/3yu4kkjn0ALOKUvhcBx4O1), [Scar](https://open.spotify.com/artist/7HZbKBp2NNdcIu0fm6Qd6P) | [Connected](https://open.spotify.com/album/7340Y23yrYbYQ2E9QDQS3a) | 3:21 | 2022-05-06 | 2022-07-25 |

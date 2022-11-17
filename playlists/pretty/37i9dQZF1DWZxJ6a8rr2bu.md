@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 15 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 |
 | 16 | [Dark Skinned](https://open.spotify.com/track/358NH6zt0bZCCqrL0bMQZ6) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Dark Skinned](https://open.spotify.com/album/1SR9fPVtVwQ37dryvXAowV) | 3:00 |
 | 17 | [Single & Happy \(feat\. Wale & Eric Bellinger\)](https://open.spotify.com/track/6n9G36q0JwCS12oQRXCeMi) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Single & Happy](https://open.spotify.com/album/3Rhqmw9GAShFfVEVP8R0EF) | 3:10 |
-| 18 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 |
+| 18 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 |
 | 19 | [Slowly](https://open.spotify.com/track/1TFciqEaPcxcYkXF7SdsZF) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [It's Different Now](https://open.spotify.com/album/1e41DPRgxbxSqFpPzAAtX3) | 4:12 |
 | 20 | [hoe \(feat\. Miguel\)](https://open.spotify.com/track/4v2AdwK5xJneq1RosH0JJS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:37 |
 | 21 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxJ6a8rr2bu.md) - [plain]
 | 39 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 |
 | 40 | [Someone Else](https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Someone Else](https://open.spotify.com/album/43PrBCExe9DKwdI9TJKAtc) | 3:18 |
 
-Snapshot ID: `MTY0Njc1MzUzMCwwMDAwMDAwMGQ2MWNmNmI3ZWE2ODQwYmFlMDg1MjM3OGY0OTczMjFj`
+Snapshot ID: `MTY0Njc1MzUzMCwwMDAwMDAwMDBlMzIyODNhYzg0ZDU3NDY3OTBkMGI0NzkwZmJiOTNh`

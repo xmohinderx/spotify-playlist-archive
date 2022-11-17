@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-224 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
+225 songs - 14 hr 30 min - [published](https://open.spotify.com/playlist/6KADyqBu5lIdzQAumGvv1d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 | 2022-06-03 |  |
 | [Thirteen](https://open.spotify.com/track/0su1fc4MK1YIqkL4Ai170k) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Thirteen](https://open.spotify.com/album/2ZC6djUXUVRBSPCsuZB4I4) | 3:04 | 2021-12-13 | 2022-07-29 |
 | [This Boy](https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Minnesota Beatle Project, Vol\. 5](https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC) | 2:25 | 2021-12-13 | 2022-07-29 |
-| [This Land Is Your Land](https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9) | 3:40 | 2022-06-03 |  |
+| [This Land Is Your Land](https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9) | 3:40 | 2022-06-03 | 2022-11-17 |
 | [This Land Is Your Land](https://open.spotify.com/track/5VYafNKWKEbNr2BsYoABDo) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [This Land Is Your Land](https://open.spotify.com/album/5gDWqAaDpMooblBYFpUq5l) | 3:40 | 2021-12-13 | 2022-07-28 |
 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 | 2021-12-13 |  |
 | [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2022-06-03 | 2022-11-13 |
@@ -228,6 +228,7 @@
 | [Wonderful \(Recorded Live at Kcsn, Los Angeles\)](https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Deluxe Edition\)](https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql) | 4:57 | 2021-12-13 | 2022-07-29 |
 | [Woodstock](https://open.spotify.com/track/0V6RQwkV91uZgXE86wq5fw) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Woodstock / Green Altar](https://open.spotify.com/album/42kdrZO7qdmQKvoBXXzWwL) | 4:33 | 2022-06-03 |  |
 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [Southern Family](https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi) | 6:13 | 2021-12-13 | 2022-08-27 |
+| [You Asked Me To](https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Live Forever: A Tribute To Billy Joe Shaver](https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4) | 2:51 | 2022-11-11 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Surrounded by the Sound: Ten Covers by Eddie Berman](https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe) | 4:13 | 2022-06-03 |  |
 | [You Can Call Me Al](https://open.spotify.com/track/5ByfgksA7N2f70dnuFABTE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [You Can Call Me Al](https://open.spotify.com/album/2cfSqRUVoq2Q8Ds0upCXM4) | 4:13 | 2021-12-13 | 2022-07-29 |
 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 | 2021-12-13 |  |

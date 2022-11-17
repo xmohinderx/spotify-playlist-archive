@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-217 songs - 12 hr 12 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+218 songs - 12 hr 15 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Lightwave](https://open.spotify.com/track/06s5vykBOEzheEyLq0AZms) | [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB) | [Lightwave](https://open.spotify.com/album/2iJ0fDXeOSlhh7hmmCj1Ux) | 3:36 | 2022-09-12 | 2022-10-08 |
 | [Like a Dream](https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Like a Dream](https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL) | 2:31 | 2021-12-09 |  |
 | [Lilac Luster](https://open.spotify.com/track/5CBIJIcjgIhkzyIMWVXSeh) | [wet n salty](https://open.spotify.com/artist/2Ai8jQFx9LfNmToEgFjDbn) | [Lilac Luster](https://open.spotify.com/album/4lhzopVjTgDpOXIaIlzvLH) | 2:56 | 2022-02-26 | 2022-07-27 |
+| [listen love](https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [listen love](https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O) | 2:47 | 2022-10-07 |  |
 | [Looking for You](https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv) | [Novino](https://open.spotify.com/artist/2lydFKPOl7IKVmYri6X01X) | [Looking for You](https://open.spotify.com/album/67VkngBzXcAsC3qYt0BCYN) | 1:55 | 2021-12-09 |  |
 | [Lost a Little](https://open.spotify.com/track/0jLVrPpkmHpnqaPj6yzSyK) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Communion](https://open.spotify.com/album/230UdUGhv4EIyXMuygaOUK) | 6:40 | 2021-12-09 | 2022-09-11 |
 | [Lost In Stereo](https://open.spotify.com/track/3phEyblS7Zzo4Y5YqKUUl3) | [Summer Sunset Sessions](https://open.spotify.com/artist/1c8FCf2M8heL4Blc9RYZuh) | [Lost In Stereo](https://open.spotify.com/album/3QbxhmL8WPvYzmZEnmtHy5) | 2:38 | 2022-05-20 |  |
@@ -204,7 +205,7 @@
 | [Unfading](https://open.spotify.com/track/0ZnpSil0JjchG4yAuPGqkE) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Unfading](https://open.spotify.com/album/37wVWvWgPPCoZUlgpJ9Z06) | 2:42 | 2021-12-09 |  |
 | [Unhappy Alien](https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ) | [Not Tudor](https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ) | [Unhappy Alien](https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx) | 3:18 | 2021-12-09 | 2022-10-20 |
 | [Utopia](https://open.spotify.com/track/4xRJYmi749eRPbD1TREOB9) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Utopia](https://open.spotify.com/album/6mmkJHEFlPqrtpFwbt5B8V) | 3:05 | 2021-12-09 | 2022-02-27 |
-| [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 |  |
+| [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 | 2022-11-17 |
 | [Vacay lets gooo](https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [Vacay lets gooo](https://open.spotify.com/album/5xUrXJ3vZ3biL78DOEabhH) | 2:01 | 2022-06-02 | 2022-10-18 |
 | [Vanishing](https://open.spotify.com/track/1XePxhd6DqIDSrMcoYc94X) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh) | [Vanishing](https://open.spotify.com/album/75VTXKhMgwXqBz7fyU8XYJ) | 8:08 | 2021-12-09 | 2022-04-23 |
 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 | 2022-09-12 |  |

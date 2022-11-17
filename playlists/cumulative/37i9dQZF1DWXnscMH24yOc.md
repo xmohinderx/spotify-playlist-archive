@@ -4,7 +4,7 @@
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-263 songs - 16 hr 23 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
+264 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 | 2022-03-22 |  |
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-10-21 |  |
 | [Landslide](https://open.spotify.com/track/6P8CsMuJCaqrlr4FDqELUQ) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/5C0nfeG2BdvVO3FlsaXXMv) | 2:50 | 2021-10-21 | 2022-10-24 |
+| [Landslide](https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/1yYNauQukGjifaFLMsPdDO) | 2:50 | 2022-03-22 |  |
 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 | 2022-03-22 | 2022-04-21 |
 | [Latch](https://open.spotify.com/track/0RL9bV2bBVPfVRgoBtP3dJ) | [Moonrise Nation](https://open.spotify.com/artist/3V3ttZhwHpekK6Hcvwv5ju) | [Latch](https://open.spotify.com/album/63pLcJGxLkvqbS5UHnspCa) | 3:27 | 2021-10-21 | 2022-07-29 |
 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 | 2021-10-21 |  |
@@ -221,7 +222,7 @@
 | [Tea, Milk & Honey](https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Tea, Milk & Honey](https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX) | 5:04 | 2021-10-21 | 2022-07-29 |
 | [Thank you for the happiest year of my life](https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6) | [if we were lakes](https://open.spotify.com/artist/06JENrckpSh4wgkXgAAm3z) | [Thank you for the happiest year of my life](https://open.spotify.com/album/6qEadJcKQ41QhPHHl19rMh) | 3:49 | 2022-03-22 |  |
 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 | 2021-10-21 | 2022-07-28 |
-| [The Night We Met](https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15) | 4:03 | 2022-03-22 |  |
+| [The Night We Met](https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15) | 4:03 | 2022-03-22 | 2022-11-17 |
 | [The Night We Met](https://open.spotify.com/track/5wSvem3XjbOc9fRxAVtCV4) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Covers](https://open.spotify.com/album/21JtJgaRKSAy7hByQGOZK1) | 4:03 | 2021-10-21 | 2022-07-29 |
 | [The One I Love](https://open.spotify.com/track/6g6PJLptr9KMSl2bHYanFM) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [All the Way from Michigan Not Mars \[Audio Version\]](https://open.spotify.com/album/6uGZJloonl90f0aeYOa04s) | 2:53 | 2022-03-22 | 2022-04-21 |
 | [The One That Got Away](https://open.spotify.com/track/08QenBY0A0qBS7KbuWDjRv) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8), [Annie Blackman](https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm) | [Sleeping on the Ground](https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9) | 4:10 | 2022-03-22 | 2022-07-29 |

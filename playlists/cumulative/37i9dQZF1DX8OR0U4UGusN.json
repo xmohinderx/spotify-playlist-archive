@@ -1686,6 +1686,28 @@
     },
     {
       "album": {
+        "name": "I'm Thru",
+        "url": "https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "Cover art by Hasworld",
+          "url": "https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191335,
+      "name": "I'm Thru",
+      "url": "https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd"
+    },
+    {
+      "album": {
         "name": "Immortalized",
         "url": "https://open.spotify.com/album/73UHcgkxUNQNCW8PBZrX5K"
       },
@@ -1903,7 +1925,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 156818,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/2cMbR3st2EFMvznwB0ogjj"

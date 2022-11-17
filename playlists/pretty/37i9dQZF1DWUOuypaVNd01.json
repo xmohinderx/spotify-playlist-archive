@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk, LEALL, Major RD, Derxan",
-  "num_followers": 22182,
+  "num_followers": 22266,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDIwZTBiOGY0NmYyNDMwNmMzYWM0MDMxM2U3ODIwOWJj",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMGY5OWE4ZWU2ZDc1NzMyZGJmNDQ5OGYxNmE5MWEzOWFl",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -303,6 +303,26 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 218288,
+      "name": "Gorillaz",
+      "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
         "url": "https://open.spotify.com/album/2AgCmiFrUKSt5e9BplxhSY"
       },
@@ -319,22 +339,6 @@
       "duration_ms": 155942,
       "name": "N\u00f3s \u00e9 Ruim e o Cabelo Ajuda",
       "url": "https://open.spotify.com/track/0WGiVPRKaQHsBVk21nV05K"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Lembro",
-        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Lembro",
-      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -363,22 +367,18 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/6fUyo3fkgWK66QRXO6VCjF"
+        "name": "Lembro",
+        "url": "https://open.spotify.com/album/7eKlRGjlczwo6038CxZfeT"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
         }
       ],
-      "duration_ms": 218288,
-      "name": "Gorillaz",
-      "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
+      "duration_ms": 164571,
+      "name": "Lembro",
+      "url": "https://open.spotify.com/track/7mXmhgvonsRxbKp6Sp2SIZ"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -903,22 +903,18 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "40\u02da.40 Deluxe",
-        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+        "name": "Cora\u00e7\u00e3o Frio",
+        "url": "https://open.spotify.com/album/7oRzNXTvAfZbQtDzUwlDiS"
       },
       "artists": [
         {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Korsain",
-          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+          "name": "VN Vinte",
+          "url": "https://open.spotify.com/artist/6sKmBVVRt06DUHZW0X732j"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Kenner",
-      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+      "duration_ms": 141278,
+      "name": "Cora\u00e7\u00e3o Frio",
+      "url": "https://open.spotify.com/track/6TVycrFApu732EWkGSBtZv"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -943,6 +939,26 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "40\u02da.40 Deluxe",
+        "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Korsain",
+          "url": "https://open.spotify.com/artist/3mzX21OpC0y7SgIOKCSpKL"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Kenner",
+      "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Mente Livre 2.0",
-        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Mente Livre 2.0",
-      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "Esculpido a Machado",
         "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
       },
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Mente Livre 2.0",
+        "url": "https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        }
+      ],
+      "duration_ms": 208111,
+      "name": "Mente Livre 2.0",
+      "url": "https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "O Peso das Barra",
         "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 158923,
       "name": "Serenata",
       "url": "https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Frio",
-        "url": "https://open.spotify.com/album/7oRzNXTvAfZbQtDzUwlDiS"
-      },
-      "artists": [
-        {
-          "name": "VN Vinte",
-          "url": "https://open.spotify.com/artist/6sKmBVVRt06DUHZW0X732j"
-        }
-      ],
-      "duration_ms": 141278,
-      "name": "Cora\u00e7\u00e3o Frio",
-      "url": "https://open.spotify.com/track/6TVycrFApu732EWkGSBtZv"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
+        "name": "Revolver",
+        "url": "https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "duration_ms": 220446,
+      "name": "Revolver",
+      "url": "https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
         "name": "Riqueza",
         "url": "https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 140176,
       "name": "Riqueza",
       "url": "https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
-        "name": "Revolver",
-        "url": "https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb"
-      },
-      "artists": [
-        {
-          "name": "Scooby",
-          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
-        }
-      ],
-      "duration_ms": 220446,
-      "name": "Revolver",
-      "url": "https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd"
     }
   ],
   "unique_name": "Malandro Posturado",

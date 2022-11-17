@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 52748,
+  "num_followers": 52781,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDNhMjhmOWFlMDQ2Y2JiMjg1NzMzM2QwMDljYWE3NTA0",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGU2YjA0ZTU0OTE0MmI3MjQ3ZjgzMzk4NDBhYTM0MzIx",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Lille Vals",
         "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
       },
@@ -103,26 +119,6 @@
       "duration_ms": 235176,
       "name": "Lille Vals",
       "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 214049,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -143,18 +139,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
         }
       ],
-      "duration_ms": 170880,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
+      "duration_ms": 214049,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -187,6 +187,22 @@
       "duration_ms": 232320,
       "name": "Love Divide",
       "url": "https://open.spotify.com/track/6ezKiq5uvUlNlxCzQzZZ9n"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "First Wave",
+        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
+      },
+      "artists": [
+        {
+          "name": "Roland Tings",
+          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
+        }
+      ],
+      "duration_ms": 278755,
+      "name": "First Wave",
+      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -227,22 +243,6 @@
       "duration_ms": 239788,
       "name": "Feels Right - Gerd Janson Remix - Radio Edit",
       "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "First Wave",
-        "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
-      },
-      "artists": [
-        {
-          "name": "Roland Tings",
-          "url": "https://open.spotify.com/artist/0hTV7lch0OcKcMn6RYgOLR"
-        }
-      ],
-      "duration_ms": 278755,
-      "name": "First Wave",
-      "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Enter Castillo",
-        "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
-      },
-      "artists": [
-        {
-          "name": "Dorothys Fortress",
-          "url": "https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "Curb Dog '88",
-      "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Giving Up On (Alan Dixon Remix)",
         "url": "https://open.spotify.com/album/1DBWInKdDJNULdOigOID9t"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 452566,
       "name": "Giving Up On - Alan Dixon Remix",
       "url": "https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Enter Castillo",
+        "url": "https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE"
+      },
+      "artists": [
+        {
+          "name": "Dorothys Fortress",
+          "url": "https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN"
+        }
+      ],
+      "duration_ms": 316097,
+      "name": "Curb Dog '88",
+      "url": "https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -519,6 +519,30 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Sununguka (feat. Zeke Manyika)",
+        "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
+      },
+      "artists": [
+        {
+          "name": "Faze Action",
+          "url": "https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k"
+        },
+        {
+          "name": "Zeke Manyika",
+          "url": "https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "duration_ms": 444514,
+      "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
+      "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Know You",
         "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
       },
@@ -551,22 +575,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -587,6 +595,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Hymnotic",
         "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
       },
@@ -599,30 +623,6 @@
       "duration_ms": 262677,
       "name": "Hymnotic",
       "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Sununguka (feat. Zeke Manyika)",
-        "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
-      },
-      "artists": [
-        {
-          "name": "Faze Action",
-          "url": "https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k"
-        },
-        {
-          "name": "Zeke Manyika",
-          "url": "https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n"
-        },
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
-        }
-      ],
-      "duration_ms": 444514,
-      "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
-      "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -743,6 +743,26 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "You And I (Late Nite Tuff Guy Remix)",
+        "url": "https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl"
+      },
+      "artists": [
+        {
+          "name": "Owl Eyes",
+          "url": "https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f"
+        },
+        {
+          "name": "Late Nite Tuff Guy",
+          "url": "https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK"
+        }
+      ],
+      "duration_ms": 384517,
+      "name": "You And I - Late Nite Tuff Guy Dub Remix",
+      "url": "https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Italo Disco",
         "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 221418,
       "name": "A Rose Between Two Thorns (VERONICA)",
       "url": "https://open.spotify.com/track/2qo8npLusT0JtbIHvkd1zO"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "You And I (Late Nite Tuff Guy Remix)",
-        "url": "https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl"
-      },
-      "artists": [
-        {
-          "name": "Owl Eyes",
-          "url": "https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f"
-        },
-        {
-          "name": "Late Nite Tuff Guy",
-          "url": "https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK"
-        }
-      ],
-      "duration_ms": 384517,
-      "name": "You And I - Late Nite Tuff Guy Dub Remix",
-      "url": "https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax"
     },
     {
       "added_at": "2021-08-27 15:45:01",

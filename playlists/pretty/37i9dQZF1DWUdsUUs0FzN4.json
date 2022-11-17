@@ -1,12 +1,12 @@
 {
   "description": "Bienvenidxs al mundo del bellaqueo, con Bellakath.",
-  "num_followers": 4585,
+  "num_followers": 4593,
   "original_name": "Reggaet\u00f3n Chakal\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDkyNCwwMDAwMDAwMDA3YmJjOGIyOGU4NDU3ZTUwZDFlNmY3MWQ5ZTc3YTk4",
+  "snapshot_id": "MTY2ODU2MDkyNCwwMDAwMDAwMGMxMTNjMGZkOTc0NTcxYTAxYzdiMThhNzkzNWQwM2Uw",
   "tracks": [
     {
       "added_at": "2022-09-27 22:49:43",
@@ -271,18 +271,26 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Tu Pones la Hora y Yo Le Caigo",
-        "url": "https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa"
+        "name": "Metele",
+        "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
       },
       "artists": [
         {
-          "name": "DJ Cobra Monterrey",
-          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
+          "name": "DJ Yelkrab",
+          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
+        },
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Ranking Stone",
+          "url": "https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH"
         }
       ],
-      "duration_ms": 227608,
-      "name": "Tu Pones la Hora y Yo Le Caigo",
-      "url": "https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g"
+      "duration_ms": 195625,
+      "name": "Metele",
+      "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -311,30 +319,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Metele",
-        "url": "https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l"
-      },
-      "artists": [
-        {
-          "name": "DJ Yelkrab",
-          "url": "https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5"
-        },
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Ranking Stone",
-          "url": "https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH"
-        }
-      ],
-      "duration_ms": 195625,
-      "name": "Metele",
-      "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Bien Beb\u00e9",
         "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 163469,
       "name": "Bien Beb\u00e9",
       "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Tu Pones la Hora y Yo Le Caigo",
+        "url": "https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa"
+      },
+      "artists": [
+        {
+          "name": "DJ Cobra Monterrey",
+          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
+        }
+      ],
+      "duration_ms": 227608,
+      "name": "Tu Pones la Hora y Yo Le Caigo",
+      "url": "https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Date Date",
-        "url": "https://open.spotify.com/album/2uclE8FZd2pzAH77DQVVr1"
-      },
-      "artists": [
-        {
-          "name": "EPA COLOMBIA",
-          "url": "https://open.spotify.com/artist/2IhzfygetoEC4ELz0vop6Q"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Date Date",
-      "url": "https://open.spotify.com/track/4JcuKNOS0F59j9jxZXSDP9"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "MODO CHAKALON",
         "url": "https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 159612,
       "name": "MODO CHAKALON",
       "url": "https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Date Date",
+        "url": "https://open.spotify.com/album/2uclE8FZd2pzAH77DQVVr1"
+      },
+      "artists": [
+        {
+          "name": "EPA COLOMBIA",
+          "url": "https://open.spotify.com/artist/2IhzfygetoEC4ELz0vop6Q"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Date Date",
+      "url": "https://open.spotify.com/track/4JcuKNOS0F59j9jxZXSDP9"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Dioza",
-        "url": "https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek"
-      },
-      "artists": [
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Dioza",
-      "url": "https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR"
-    },
-    {
-      "added_at": "2022-09-27 22:49:43",
-      "album": {
         "name": "Flow Soltera",
         "url": "https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 173195,
       "name": "Flow Soltera",
       "url": "https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC"
+    },
+    {
+      "added_at": "2022-09-27 22:49:43",
+      "album": {
+        "name": "Dioza",
+        "url": "https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Dioza",
+      "url": "https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR"
     },
     {
       "added_at": "2022-09-27 22:49:43",
@@ -1015,30 +1015,26 @@
     {
       "added_at": "2022-09-27 22:49:43",
       "album": {
-        "name": "Adicta al Perreo",
-        "url": "https://open.spotify.com/album/770P96PUBd6zyZW74N7LI9"
+        "name": "Pa Perrear",
+        "url": "https://open.spotify.com/album/4RzG9rY0Pku47U3VmkhhYd"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
         },
         {
-          "name": "Los Dolchez",
-          "url": "https://open.spotify.com/artist/1Xt7CAwYqiv9FfzjNCkh54"
+          "name": "Chel Maya",
+          "url": "https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh"
         },
         {
-          "name": "Beat Boss",
-          "url": "https://open.spotify.com/artist/7vxie3B6LM7xVS0Xouujsl"
-        },
-        {
-          "name": "Antar Castro",
-          "url": "https://open.spotify.com/artist/6h2QL0t7n8lYrKOWCJ4A4z"
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
         }
       ],
-      "duration_ms": 215201,
-      "name": "Adicta al Perreo",
-      "url": "https://open.spotify.com/track/419c5nJnQB8W7u6IZqfFZ7"
+      "duration_ms": 164000,
+      "name": "Pa Perrear",
+      "url": "https://open.spotify.com/track/6CRAqSjXP06jy67jdLrTyp"
     }
   ],
   "unique_name": "Reggaet\u00f3n Chakal\u00f3n",

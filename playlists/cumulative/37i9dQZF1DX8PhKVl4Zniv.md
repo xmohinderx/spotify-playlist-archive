@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-71 songs - 6 hr 2 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+72 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Mixed Bag](https://open.spotify.com/track/47kUGRjxvP9bhGEP4uSMZw) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 6:37 | 2022-06-01 |  |
 | [Nate Smith Is the Ace of Aces](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:17 | 2022-06-01 |  |
 | [Not of This World](https://open.spotify.com/track/4sOuSMITxS7US1jjgghF5T) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 5:59 | 2022-06-01 |  |
+| [NOT TiGHT](https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:08 | 2022-11-16 |  |
 | [Obliquely Speaking](https://open.spotify.com/track/32pUQ9rhUitApFWhjBQuAp) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Palindrome](https://open.spotify.com/album/7cKvZbIyBu3C7EIgHDtL8R) | 6:16 | 2022-06-01 |  |
 | [One Day](https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 6:32 | 2022-06-01 |  |
 | [Parusha](https://open.spotify.com/track/2w84sKh0yf9v8iQHfIORJJ) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Passport](https://open.spotify.com/album/3qOYOM60FMN6fO2vgiPnC1) | 4:16 | 2022-06-01 |  |
@@ -69,7 +70,7 @@
 | [The Lost Foot](https://open.spotify.com/track/4tlQXwwmPcemImLrSFxD89) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:24 | 2022-06-01 |  |
 | [The Shakes](https://open.spotify.com/track/3LwmyD2zbdiRUroKoDTLBw) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru) | [Feel.](https://open.spotify.com/album/1Qk8NpiCbHbJQmdXywo5oo) | 3:46 | 2022-06-01 |  |
 | [This Too Shall Pass](https://open.spotify.com/track/5q9E3jb5rjHBcDtDWFxtbM) | [Nine Sparks Riots](https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X), [Avatar Horns](https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA) | [The Lotus and the Swamp](https://open.spotify.com/album/0Ajs51QREa33RFggJkZiXO) | 3:54 | 2022-06-01 |  |
-| [Tower Of Inspiration](https://open.spotify.com/track/32k2TAk4Ppij5xqCP3Udv2) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Master Plan](https://open.spotify.com/album/4vs7q8r35pyN3z4VIlSh1h) | 3:59 | 2022-06-01 |  |
+| [Tower Of Inspiration](https://open.spotify.com/track/32k2TAk4Ppij5xqCP3Udv2) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Master Plan](https://open.spotify.com/album/4vs7q8r35pyN3z4VIlSh1h) | 3:59 | 2022-06-01 | 2022-11-17 |
 | [True Praise](https://open.spotify.com/track/7Ct3wjPwP6vIXyeRufcZJz) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Origin Band](https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:27 | 2022-09-23 |  |
 | [Virtual Life](https://open.spotify.com/track/1Pax97BZgQU2uC5BQSAZBl) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Groove and More](https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9) | 7:19 | 2022-06-01 |  |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2022-06-01 |  |

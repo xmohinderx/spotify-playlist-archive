@@ -2734,6 +2734,24 @@
     },
     {
       "album": {
+        "name": "Frutillas con Crema",
+        "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162605,
+      "name": "Frutillas con Crema",
+      "url": "https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX"
+    },
+    {
+      "album": {
         "name": "Fugitivo",
         "url": "https://open.spotify.com/album/0WhoE9qZgIMwWHsiZFQrDq"
       },
@@ -3467,7 +3485,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 175065,
       "name": "La Ilusi\u00f3n",
       "url": "https://open.spotify.com/track/4Pi4u4y0MNy3Il74fQHy3q"
@@ -4738,6 +4756,24 @@
     },
     {
       "album": {
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
+    },
+    {
+      "album": {
         "name": "La Piel Dura",
         "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
       },
@@ -4965,7 +5001,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 213101,
       "name": "obrador",
       "url": "https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD"

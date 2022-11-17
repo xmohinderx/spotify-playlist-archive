@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 58566,
+  "num_followers": 58646,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMDNkM2ZiN2E3Y2IxOGJhOGQxZDIxYjE3NWVhNmRhZjcx",
+  "snapshot_id": "MTY2MDY4NzU5NSwwMDAwMDAwMGIyMGZjMTAwMzUzMDY5MTI5N2VkOWNkNTY1ZjBmMWFi",
   "tracks": [
     {
       "added_at": "2022-08-16 22:06:35",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "i hope ur miserable until ur dead",
-        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177582,
-      "name": "i hope ur miserable until ur dead",
-      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
         "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "i hope ur miserable until ur dead",
+        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177582,
+      "name": "i hope ur miserable until ur dead",
+      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer\u2019s Hotel }",
-      "url": "https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "I'd Rather Die",
         "url": "https://open.spotify.com/album/6ILcBWgSSwWJaD6kBkjvRW"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "DIE.",
-        "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH"
       },
       "artists": [
         {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 170000,
-      "name": "DIE.",
-      "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
+      "duration_ms": 173304,
+      "name": "{ The Dreamer\u2019s Hotel }",
+      "url": "https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -819,6 +803,22 @@
       "duration_ms": 165539,
       "name": "hangar",
       "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "DIE.",
+        "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "DIE.",
+      "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
     },
     {
       "added_at": "2022-08-16 22:06:35",

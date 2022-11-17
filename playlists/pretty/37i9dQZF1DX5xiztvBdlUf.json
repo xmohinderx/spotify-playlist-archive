@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 535954,
+  "num_followers": 536169,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ2NjgwMCwwMDAwMDAwMDgxNDgyMDNiYmE5YWY5YTc3ZWE5OWRhNDM3MjQxZWFj",
+  "snapshot_id": "MTY2ODQ2NjgwMCwwMDAwMDAwMDNhM2Y4NjNmODcyMmY5NWM1ZDk5ZDRjYzcyYWFiYjY1",
   "tracks": [
     {
       "added_at": "2022-10-28 13:07:34",
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3cwl2Mnq8urylYJNCvLJdZ"
     },
     {
-      "added_at": "2022-11-16 01:33:35",
+      "added_at": "2022-11-17 01:30:27",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
-      "added_at": "2022-11-16 01:33:35",
+      "added_at": "2022-11-17 01:30:27",
       "album": {
         "name": "Circle of Life",
         "url": "https://open.spotify.com/album/5lUuBsteQKFCLKeHNnZhwe"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
     },
     {
-      "added_at": "2022-11-16 01:33:35",
+      "added_at": "2022-11-17 01:30:27",
       "album": {
         "name": "Feelin' / Don't Lose Control",
         "url": "https://open.spotify.com/album/2lauqd4ZtaiPpgo45tpcQE"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
     },
     {
-      "added_at": "2022-11-16 01:33:35",
+      "added_at": "2022-11-17 01:30:27",
       "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/2PLSUN7AZmosnt1D7xNkKV"
@@ -299,6 +299,42 @@
       "duration_ms": 155720,
       "name": "Through The Night - Radio Edit",
       "url": "https://open.spotify.com/track/2gHEGakBTCACE179XoCg2K"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Cenote",
+        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
+      },
+      "artists": [
+        {
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+        }
+      ],
+      "duration_ms": 298335,
+      "name": "Cenote",
+      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
+    },
+    {
+      "added_at": "2022-11-17 01:30:27",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -321,43 +357,7 @@
       "url": "https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl"
     },
     {
-      "added_at": "2022-11-16 01:33:35",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        },
-        {
-          "name": "Ava Silver",
-          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Cenote",
-        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
-      },
-      "artists": [
-        {
-          "name": "Sainte Vie",
-          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
-        }
-      ],
-      "duration_ms": 298335,
-      "name": "Cenote",
-      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
-    },
-    {
-      "added_at": "2022-11-16 01:33:35",
+      "added_at": "2022-11-17 01:30:27",
       "album": {
         "name": "Future Memories",
         "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
-      "added_at": "2022-11-16 01:33:35",
+      "added_at": "2022-11-17 01:30:27",
       "album": {
         "name": "Phanta",
         "url": "https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1"
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Burning Out EP",
+        "url": "https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 324313,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Ode Ireti (Nitefreak Remix)",
         "url": "https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Burning Out EP",
-        "url": "https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 324313,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Trojan Love (Original Club Mix)",
-        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 357283,
-      "name": "Trojan Love - Original Club Mix",
-      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Trojan Love (Original Club Mix)",
+        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 357283,
+      "name": "Trojan Love - Original Club Mix",
+      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 232194,
-      "name": "Night Jaguars",
-      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
@@ -931,22 +915,18 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY"
       },
       "artists": [
         {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+      "duration_ms": 232194,
+      "name": "Night Jaguars",
+      "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -967,6 +947,26 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "What U Doing",
         "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
       },
       "artists": [
         {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
         }
       ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
-        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
-      },
-      "artists": [
-        {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
-        }
-      ],
-      "duration_ms": 446079,
-      "name": "ut i rommet",
-      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "10 Years From Now / Collide",
         "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
       },
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Made of Wood Remixed",
-        "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        },
-        {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        }
-      ],
-      "duration_ms": 397882,
-      "name": "Copal - Super Flu Remix",
-      "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "alone with you (feat. Didi Han)",
         "url": "https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 210607,
       "name": "alone with you (feat. Didi Han)",
       "url": "https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Made of Wood Remixed",
+        "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "duration_ms": 397882,
+      "name": "Copal - Super Flu Remix",
+      "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
+        "name": "Cool Air",
+        "url": "https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        },
+        {
+          "name": "Allie Donelly",
+          "url": "https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Cool Air",
+      "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
         "name": "Downtown EP",
         "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2022-10-28 13:07:34",
       "album": {
-        "name": "Cool Air",
-        "url": "https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        },
-        {
-          "name": "Allie Donelly",
-          "url": "https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Cool Air",
-      "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
       },
@@ -1443,6 +1443,22 @@
       "duration_ms": 219440,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
+    },
+    {
+      "added_at": "2022-10-28 13:07:34",
+      "album": {
+        "name": "Camaleon",
+        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "duration_ms": 359211,
+      "name": "Camaleon",
+      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
     },
     {
       "added_at": "2022-10-28 13:07:34",
@@ -1467,22 +1483,6 @@
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2022-10-28 13:07:34",
-      "album": {
-        "name": "Camaleon",
-        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
-      },
-      "artists": [
-        {
-          "name": "Pablo Fierro",
-          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
-        }
-      ],
-      "duration_ms": 359211,
-      "name": "Camaleon",
-      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
     },
     {
       "added_at": "2022-10-28 13:07:34",

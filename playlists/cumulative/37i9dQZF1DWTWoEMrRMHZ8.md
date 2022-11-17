@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Roberta Campos
 
-336 songs - 20 hr 18 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+337 songs - 20 hr 22 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Avenida da Paixão](https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD) | [Pagui](https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y) | [Laços](https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW) | 2:34 | 2022-04-15 |  |
 | [Baby \- Ao Vivo](https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Baby \(Ao Vivo\)](https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z) | 3:07 | 2021-12-24 |  |
 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 | 2021-12-24 | 2022-06-04 |
+| [Babá Alapalá \- Spotify Singles](https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5) | 4:29 | 2022-11-16 |  |
 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/1oTngaVK9gmKCyFaGsnDdl) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM \(Lado A\)](https://open.spotify.com/album/20dEyKswRqD5YvMO1da8DZ) | 5:03 | 2022-01-27 | 2022-03-09 |
 | [Banho de Cheiro](https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Banho de Cheiro](https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5) | 3:13 | 2022-04-29 | 2022-11-02 |
 | [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 | 2022-10-28 |  |
@@ -291,7 +292,7 @@
 | [Senhora Estrada](https://open.spotify.com/track/04KC2JCZIZewiMRlmwiQPt) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Senhora Estrada](https://open.spotify.com/album/7cKoYGnRccPotp0HiDmUL5) | 3:48 | 2021-12-24 | 2022-05-11 |
 | [Sentido da Vida](https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE) | [Pseudo](https://open.spotify.com/artist/0vSgwGjTHcH6k7FIAChc3N) | [Sentido da Vida](https://open.spotify.com/album/4rTZqc29huKABVedShBX1x) | 3:14 | 2021-12-24 | 2022-01-22 |
 | [Sereia](https://open.spotify.com/track/713dG06QFp61DE5RTaNW2B) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ternura](https://open.spotify.com/album/3RBsKbfJGxvCDOXrCzdDn4) | 3:00 | 2022-04-01 | 2022-05-09 |
-| [Serenidade](https://open.spotify.com/track/39lQ8a5qlLN2YK5SWVXpE0) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 2:25 | 2022-10-07 |  |
+| [Serenidade](https://open.spotify.com/track/39lQ8a5qlLN2YK5SWVXpE0) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 2:25 | 2022-10-07 | 2022-11-17 |
 | [Serial Lover](https://open.spotify.com/track/6rn8qBN3sv8ImQblQFHMrg) | [Sérgio Britto](https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI), [Érika Martins](https://open.spotify.com/artist/4dRD1vu6GiXmDOECHo6p43) | [Serial Lover](https://open.spotify.com/album/57uN0JGRfhevFpJjdw6QP6) | 2:35 | 2022-04-01 | 2022-04-28 |
 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 | 2022-04-01 | 2022-09-03 |
 | [SobreHumano](https://open.spotify.com/track/1NvxtekkTSINREzraxen7q) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Vestido de Amor](https://open.spotify.com/album/7CJ7Ndr2nG8nDQ9VZ1D5mZ) | 3:40 | 2022-09-23 |  |

@@ -4,7 +4,7 @@
 
 > Relax with this Peaceful Indie Ambient mix.
 
-222 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
+223 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/6bqSuckRW2PaqS6qzZhBpE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alps](https://open.spotify.com/track/5eG8QuQKOBvDeCyoOeMkhT) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Alps](https://open.spotify.com/album/66vF1lyJODi4318YV0RSpS) | 3:14 | 2018-11-26 |  |
 | [Alright](https://open.spotify.com/track/3IyFPcP4n7PAlZosBE8S4z) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Alright](https://open.spotify.com/album/3pb1gQzvILTIJz1joJBDor) | 4:39 | 2018-11-26 | 2022-07-29 |
 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 | 2018-11-26 |  |
-| [Andalusia](https://open.spotify.com/track/75LdAXSmYSJkS2aVYBxxDW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Chasing After Shadows..\. Living With the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/1Trf9tr74LtVRBRqAJjnxS) | 7:42 | 2018-11-26 | 2022-11-14 |
+| [Andalusia](https://open.spotify.com/track/75LdAXSmYSJkS2aVYBxxDW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Chasing After Shadows..\. Living With the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/1Trf9tr74LtVRBRqAJjnxS) | 7:42 | 2018-11-26 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2018-11-26 |  |
 | [Arrows](https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 2:29 | 2018-11-26 | 2022-07-29 |
 | [Arrows](https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 2:29 | 2018-11-26 |  |
@@ -33,7 +33,7 @@
 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 | 2018-11-26 |  |
 | [Big Light](https://open.spotify.com/track/1oFDPZh4uxrWsA8KPzH6Op) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/3vRqsMolhZYx3PBD7ETyqD) | 4:48 | 2018-11-26 | 2022-07-29 |
 | [Big Light](https://open.spotify.com/track/6Brl1KblZxDsOSgEuSHBuO) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/0PERfSHIEXbw9sNTxL4qgo) | 4:48 | 2018-11-26 |  |
-| [Bird](https://open.spotify.com/track/1wvEfwDjSc7iZAqCqKKhz2) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird Songs of a Killjoy](https://open.spotify.com/album/1bCtRHoZQt4SUzaMbXUU2d) | 5:17 | 2019-11-08 |  |
+| [Bird](https://open.spotify.com/track/1wvEfwDjSc7iZAqCqKKhz2) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird Songs of a Killjoy](https://open.spotify.com/album/1bCtRHoZQt4SUzaMbXUU2d) | 5:17 | 2019-11-08 | 2022-11-17 |
 | [Bird](https://open.spotify.com/track/2SPPW7Ra8VLOnzQHXfRIOu) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird](https://open.spotify.com/album/6gdMuuforEhKQ3UEf5cb82) | 5:17 | 2019-11-08 | 2022-07-29 |
 | [Bird](https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Bird](https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD) | 3:39 | 2018-11-26 |  |
 | [Bird](https://open.spotify.com/track/6V18xIigW3Om7UyzyRUQEr) | [INDIANS](https://open.spotify.com/artist/5HCCzOAOBjMwHDqHI58VbF) | [Somewhere Else](https://open.spotify.com/album/4pm0EiWck546y46ogvZzyI) | 5:01 | 2018-11-26 | 2022-07-27 |
@@ -156,7 +156,7 @@
 | [Out](https://open.spotify.com/track/307LMAWIYSpyNweOpB1vR3) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chance Of Rain](https://open.spotify.com/album/0ItFk3ohAXF6hiGMHEaUl0) | 1:29 | 2018-11-26 | 2022-11-13 |
 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 | 2018-11-26 |  |
 | [Pillars](https://open.spotify.com/track/2cX0OJh1FENek9cfukulSQ) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [Nashville Indie Spotlight 2014](https://open.spotify.com/album/1qX4JRGUJPyoR9eRInwkKq) | 4:22 | 2018-11-26 | 2022-07-29 |
-| [Please](https://open.spotify.com/track/09C592kGYvxDfJSBnzufCU) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 3:33 | 2018-11-26 |  |
+| [Please](https://open.spotify.com/track/09C592kGYvxDfJSBnzufCU) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Please](https://open.spotify.com/album/4YiQZDTgl11xZyPKnIMhrQ) | 3:33 | 2018-11-26 | 2022-11-17 |
 | [Regenerative Being](https://open.spotify.com/track/1Rz3x1bF09JeEj2cTWH2mg) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Regenerative Being](https://open.spotify.com/album/6XEnKjyRl2J16ViEVwLent) | 7:21 | 2018-11-26 | 2022-07-29 |
 | [Regenerative Being](https://open.spotify.com/track/7kmdM9DytC01GsvctF6beZ) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/3dMHJ1fnsUNjt8LtH8IjMS) | 7:21 | 2018-11-26 |  |
 | [Sapsorrow](https://open.spotify.com/track/2JMQgYjMgCM2I8RTC4BU9b) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Lungs Quicken](https://open.spotify.com/album/2HK44OdvH7XiGLDo0BGlvN) | 2:53 | 2018-11-26 | 2022-11-13 |
@@ -217,6 +217,7 @@
 | [We Have a Map of the Piano](https://open.spotify.com/track/4BLXtLRfhp6GFT9M6aa4Kd) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/75dBvrYOmP8Jrn4FDBiwjQ) | 5:19 | 2018-11-26 | 2022-07-29 |
 | [We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 5:19 | 2018-11-26 |  |
 | [We Will Run](https://open.spotify.com/track/1hQlbRsNxOtave3WLskh61) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/7KQFTx2G2w7IeH9eoZyzwV) | 3:43 | 2018-11-26 | 2022-11-09 |
+| [We Will Run](https://open.spotify.com/track/2HbgS9zVXD1Aix8MYVNqix) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/5Zw4c2g8fmJipfghOr9tBU) | 3:43 | 2018-11-26 |  |
 | [We Will Run](https://open.spotify.com/track/4oWOP5K36jNUkvMxm8q5Bl) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/4mloQGRqd4HvJw1KyRXI8F) | 3:43 | 2018-11-26 | 2022-07-29 |
 | [We're Not Different](https://open.spotify.com/track/11eWOSoWyzWBq863KATd9g) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [We're Not Different](https://open.spotify.com/album/4sumiCZM7yFYigoavApnWE) | 2:55 | 2019-11-08 | 2022-11-13 |
 | [When We Fall](https://open.spotify.com/track/7gePpUawLnGf1l1fnltiIR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:07 | 2018-11-26 |  |

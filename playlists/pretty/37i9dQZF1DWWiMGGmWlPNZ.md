@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiMGGmWlPNZ.md) - [plain]
 
 > Reach inner tranquility with peaceful Hang and ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,180 likes - 78 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,340 likes - 78 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: María Peláe.
 
-442 songs - 23 hr 12 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
+444 songs - 23 hr 21 min - [published](https://open.spotify.com/playlist/4SPK59RDFqqtzfOd6LVbeP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Día de Suerte](https://open.spotify.com/track/5JXZtR2ZU27yLr1jiPVU3o) | [Neva](https://open.spotify.com/artist/07rUqT6UZM6mOPZEiwcASC), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Día de Suerte](https://open.spotify.com/album/1crnDLx4qByvkCfF7WdYBx) | 2:50 | 2022-08-02 | 2022-10-05 |
 | [E\-girl](https://open.spotify.com/track/2iSFVgxi3QrZCRMeklBnMH) | [Ratchet Racer](https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5) | [E\-girl](https://open.spotify.com/album/1bNVXG3Hj1q17yn8mKX7y8) | 2:42 | 2022-05-31 | 2022-07-06 |
 | [El Amor](https://open.spotify.com/track/0ooooAvVoLsXYTbt3kbAUR) | [Primas hermanas](https://open.spotify.com/artist/7nnPCDIOzICk4L4oruTnE8) | [El Amor/Incendio](https://open.spotify.com/album/2nYoXuJ7PnHuScXtr9ZUk3) | 4:42 | 2022-05-03 | 2022-06-01 |
-| [El bolso](https://open.spotify.com/track/3j0iYwJWutm1qPDUmjAHgC) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [El bolso](https://open.spotify.com/album/60XZdkOTaFJDfmlWZW2eEb) | 2:40 | 2022-11-08 |  |
+| [El bolso](https://open.spotify.com/track/3j0iYwJWutm1qPDUmjAHgC) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [El bolso](https://open.spotify.com/album/60XZdkOTaFJDfmlWZW2eEb) | 2:40 | 2022-11-08 | 2022-11-17 |
 | [El día de hoy](https://open.spotify.com/track/26jRf1RDqHeb2CAmfvde3V) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [El día de hoy](https://open.spotify.com/album/0s6LNM8yAgW40jIg95RzTU) | 2:54 | 2022-01-04 | 2022-02-02 |
 | [El Primero](https://open.spotify.com/track/7w4HCyvLPkDfQhpzhtjCka) | [DIANA](https://open.spotify.com/artist/1DR3mdDQ8JSqAS86LAGGb3) | [El Primero](https://open.spotify.com/album/12vz3b5JKX4fE4rlOAXCCU) | 2:51 | 2022-10-04 | 2022-11-09 |
 | [EMERGENCIA \- Presented by PlayStation, Horizon Forbidden West](https://open.spotify.com/track/5Fj753yCLyWL699hiiCgoJ) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [EMERGENCIA \(Presented by PlayStation, Horizon Forbidden West\)](https://open.spotify.com/album/3gnyAB5RtdV38RCk7hW74R) | 3:43 | 2022-03-07 | 2022-04-07 |
@@ -128,6 +128,7 @@
 | [esa también fui yo \(quiero acordarme\)](https://open.spotify.com/track/1Bk4ysybrMJr9K2mTckbr9) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [esa también fui yo \(quiero acordarme\)](https://open.spotify.com/album/0QeEUOXDihRJEHYzlCRVvv) | 3:42 | 2022-05-31 | 2022-07-06 |
 | [Esperanza verbena](https://open.spotify.com/track/5EkSCUTjc5JkOI6EtJ5gSt) | [Sofía Comas](https://open.spotify.com/artist/4W8QcZ9XWkdnFcMFVwL6Rb) | [Esperanza verbena](https://open.spotify.com/album/4SzOzuwAoK3fXfEiLGAGYs) | 4:15 | 2022-10-04 | 2022-11-09 |
 | [Este Lunes](https://open.spotify.com/track/2V4bgc0oUInwNhB85vskSN) | [Merche](https://open.spotify.com/artist/27a2VPd27oQbqE2TdiZVTo) | [20 Conmigo](https://open.spotify.com/album/3DnSXpaANecuOl7OhNA9um) | 3:33 | 2022-03-07 | 2022-04-07 |
+| [Esto Que Tengo Contigo](https://open.spotify.com/track/6ts0Y5m6431qvNIBKJP9Es) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Esto Que Tengo Contigo](https://open.spotify.com/album/3KQlig5elpZToahwrjL3dW) | 4:09 | 2022-11-16 |  |
 | [Expectativa vs realidad](https://open.spotify.com/track/4odfKlMgwZwSlGgHga77Y2) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Expectativa vs realidad](https://open.spotify.com/album/5KshOa8wykpPaaYaS8NRn8) | 2:55 | 2022-09-06 | 2022-11-09 |
 | [Facetime](https://open.spotify.com/track/1BUdv9RQeHVmw41cORxv0B) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Facetime](https://open.spotify.com/album/2OrylPaJjWEJF0r63p78ZO) | 2:30 | 2022-10-04 | 2022-11-09 |
 | [Fama](https://open.spotify.com/track/6wuYSOcP2HxtvH6giNxSfR) | [Natalia](https://open.spotify.com/artist/5eKi0BjYYAf86O6vp4fFN0) | [Fama](https://open.spotify.com/album/4rEbPRxldoiRiwOg3Vxy8x) | 3:17 | 2022-05-31 | 2022-07-06 |
@@ -316,7 +317,7 @@
 | [por qué?](https://open.spotify.com/track/1dDICu7aa6iXNXrhiv7Vpe) | [Cristina Len](https://open.spotify.com/artist/5lgIxzmjmsIDKBOUs999xD), [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [por qué?](https://open.spotify.com/album/44K6osNy0MABOlL0PCUsr5) | 2:39 | 2022-04-06 | 2022-05-04 |
 | [Porno](https://open.spotify.com/track/6Kpj6YomoqsXX9uqvKZXyx) | [Joana Santos](https://open.spotify.com/artist/0GRisUOxNeaGB4XZs7TBRm) | [Porno](https://open.spotify.com/album/7Isj9gOTxyUGQefsbtzH2u) | 2:49 | 2022-01-04 | 2022-02-02 |
 | [Pringada](https://open.spotify.com/track/6N3ZnNsd7gFLH7NYVIeUqm) | [ISLA LAVANDA](https://open.spotify.com/artist/0wG6LKzEDT8CPb6ZyhDES9) | [Pringada](https://open.spotify.com/album/20vCgTHw33kvyWhAzQLyOA) | 2:52 | 2022-10-04 | 2022-11-09 |
-| [Prioridades](https://open.spotify.com/track/7om4w61v1Lh32aN9C5TXEC) | [Ambizius](https://open.spotify.com/artist/0p6FvgFSje7efWY5CPlopK) | [Prioridades](https://open.spotify.com/album/74Hk6zH14Ttkp6rLXThKDM) | 2:56 | 2022-11-08 |  |
+| [Prioridades](https://open.spotify.com/track/7om4w61v1Lh32aN9C5TXEC) | [Ambizius](https://open.spotify.com/artist/0p6FvgFSje7efWY5CPlopK) | [Prioridades](https://open.spotify.com/album/74Hk6zH14Ttkp6rLXThKDM) | 2:56 | 2022-11-08 | 2022-11-17 |
 | [Progesterona](https://open.spotify.com/track/2lN5unpwRpOOCDWHDx0uDZ) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML), [Beth](https://open.spotify.com/artist/6CkxdsUcfqkBviY2N6xsVA) | [Progesterona](https://open.spotify.com/album/5ST4Rd5Sa8D1wgHh6Pf9fn) | 4:26 | 2022-04-06 | 2022-05-04 |
 | [Puerta Çin Yabe](https://open.spotify.com/track/4Cb8gLQISX2JEF2JANRoAe) | [Carmen Xía](https://open.spotify.com/artist/5Y7MbqiDeTSwBPozXw9DXH) | [La Herida](https://open.spotify.com/album/6it2qTVFZ42vQt9oKqgWZH) | 3:36 | 2022-04-06 | 2022-05-04 |
 | [Pulmón](https://open.spotify.com/track/0cawJnGa5dqxVTBakjrfGd) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Pulmón](https://open.spotify.com/album/5oTyIaIFvkOpeCPU4UJ3cl) | 3:49 | 2022-04-06 | 2022-05-04 |
@@ -423,6 +424,7 @@
 | [Valentía](https://open.spotify.com/track/4X9NSSDXUfFslWjIyMRjef) | [Vera Noor](https://open.spotify.com/artist/1nirixcK3111OAkn0b4V7F) | [Valentía](https://open.spotify.com/album/6829MyoBk5Gr2taxTC2wuB) | 3:05 | 2022-05-31 | 2022-07-06 |
 | [Valió La Pena](https://open.spotify.com/track/5voxKzuoilIlJBk2WHnKAN) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Valió La Pena](https://open.spotify.com/album/4tuMSu6V60jGyWxqnaEeXO) | 3:14 | 2022-08-02 | 2022-09-07 |
 | [Vamos a Japón](https://open.spotify.com/track/71i9vKYB6FBqYpIDsoSNjB) | [Paola Pinar](https://open.spotify.com/artist/6zcojbQNDKdTXcexDhLGS5) | [El Oasis](https://open.spotify.com/album/7Fb6sjVfGXZpoTOpBdAahJ) | 2:55 | 2022-11-08 |  |
+| [Vendavales](https://open.spotify.com/track/1Euwn9B6ZoiQqIxJ9Et0pm) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Vendavales](https://open.spotify.com/album/5biAEeUSYDv3b95qm24goo) | 4:51 | 2022-11-16 |  |
 | [VENENO \- Tenemos que hablar](https://open.spotify.com/track/6sK3qRfDsEQEYlt03TRja5) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [VENENO \(Tenemos que hablar\)](https://open.spotify.com/album/3Bn4DjWgxhYD5qevMtQd8u) | 2:28 | 2022-08-02 | 2022-08-10 |
 | [Venerándote](https://open.spotify.com/track/524UPuyQkFxrdyG0uyloP2) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Venerándote](https://open.spotify.com/album/4oVJIFPqFz513dtf6t5jPG) | 3:42 | 2022-01-04 | 2022-02-02 |
 | [Verbenas](https://open.spotify.com/track/5ryuReLd1ZW0R2BCpgiG0W) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Verbenas](https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC) | 4:13 | 2022-09-06 |  |

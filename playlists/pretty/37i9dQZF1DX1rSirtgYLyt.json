@@ -1,12 +1,12 @@
 {
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
-  "num_followers": 11795,
+  "num_followers": 11897,
   "original_name": "Blues Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3ODA5OCwwMDAwMDAwMGUyOGRlNGM4OGJjYjJkZmQxODZhYWRhMGQ4ZGEwZWM4",
+  "snapshot_id": "MTY2ODE3ODA5OCwwMDAwMDAwMDcyNmQzMzNmNWIxNWFkMjYzNGRhYzJiMTE4NmFhYmZk",
   "tracks": [
     {
       "added_at": "2022-10-14 15:54:21",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "Led Zeppelin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 388467,
-      "name": "You Shook Me - Remaster",
-      "url": "https://open.spotify.com/track/2Y1HhOfvtzms7urVKFY67n"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 197946,
       "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
+        "name": "Led Zeppelin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 388467,
+      "name": "You Shook Me - Remaster",
+      "url": "https://open.spotify.com/track/2Y1HhOfvtzms7urVKFY67n"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
         "name": "Hot Tuna",
         "url": "https://open.spotify.com/album/7vDduqV8Ba7Jol7tdS5zEL"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 258800,
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY"
+      "duration_ms": 238306,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -571,6 +555,22 @@
       "duration_ms": 357000,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/67G22I1pYApKc9kr3Y5zyq"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/5WqBaZ1VIieP63wl7l18cY"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Honky Tonk Woman",
-      "url": "https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
         "name": "Can't Quit The Blues",
         "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
       },
@@ -712,6 +696,22 @@
       },
       "artists": [
         {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Honky Tonk Woman",
+      "url": "https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+      },
+      "artists": [
+        {
           "name": "Lucky Peterson",
           "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
         }
@@ -719,6 +719,22 @@
       "duration_ms": 265000,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/32rkgJbRDxBoCocsT6iSrd"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
+        "name": "Other People's Stuff",
+        "url": "https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Stones In My Passway",
+      "url": "https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -755,18 +771,38 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "Other People's Stuff",
-        "url": "https://open.spotify.com/album/3magaLME88Nwqz6ODcKJG9"
+        "name": "All Time Favorites: Lou Ann Barton",
+        "url": "https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Lou Ann Barton",
+          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Stones In My Passway",
-      "url": "https://open.spotify.com/track/3igI8O766elxoGpdpzbiSs"
+      "duration_ms": 174480,
+      "name": "Te Ni Nee Ni Nu",
+      "url": "https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
+        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
+        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Sweet Home Chicago - Mono Rough Mix",
+      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -807,42 +843,6 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
-        "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Sweet Home Chicago - Mono Rough Mix",
-      "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
-        "name": "All Time Favorites: Lou Ann Barton",
-        "url": "https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ"
-      },
-      "artists": [
-        {
-          "name": "Lou Ann Barton",
-          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Te Ni Nee Ni Nu",
-      "url": "https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
         "name": "Blues From The Heart Live (Live)",
         "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
@@ -855,38 +855,6 @@
       "duration_ms": 412963,
       "name": "I\u2019ve Been Loving You Too Long (Live)",
       "url": "https://open.spotify.com/track/5D0ZRPvZOCbR520eCZ5mCs"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
-        "name": "Messing With The Blues",
-        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Need Your Love So Bad",
-      "url": "https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
-        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
-        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "Herbert Harper's Free Press News",
-      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -907,18 +875,18 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "Unplugged At Caffe Calabria",
-        "url": "https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK"
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
       },
       "artists": [
         {
-          "name": "Earl Thomas",
-          "url": "https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2"
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
         }
       ],
-      "duration_ms": 348653,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc"
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -939,6 +907,54 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
+        "name": "Messing With The Blues",
+        "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Need Your Love So Bad",
+      "url": "https://open.spotify.com/track/7hTT6Wfwni319nUkp5fmO7"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
+        "name": "Neckbone Stew",
+        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Wilson",
+          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
+        "name": "Unplugged At Caffe Calabria",
+        "url": "https://open.spotify.com/album/2WzdzAGB2md2dBKPbpC1oK"
+      },
+      "artists": [
+        {
+          "name": "Earl Thomas",
+          "url": "https://open.spotify.com/artist/2RXD3UIiRZuEk1hVfKyPK2"
+        }
+      ],
+      "duration_ms": 348653,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/3psdUK3ZLT8VLl6ZdCyfUc"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
         "name": "All Blues'd Up: Songs of Bob Dylan",
         "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 272080,
       "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
       "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
-        "name": "Mixtape Volume 1",
-        "url": "https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h"
-      },
-      "artists": [
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "Whole Lotta Rosie",
-      "url": "https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
-        "name": "Neckbone Stew",
-        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
+        "name": "Mixtape Volume 1",
+        "url": "https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h"
       },
       "artists": [
         {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
         }
       ],
-      "duration_ms": 263880,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/3ag0SbzIlflUWf1ChhEmhZ"
+      "duration_ms": 211133,
+      "name": "Whole Lotta Rosie",
+      "url": "https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR"
     },
     {
       "added_at": "2022-10-14 15:54:21",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-10-14 15:54:21",
       "album": {
+        "name": "All Blues'd Up: Songs of Bob Dylan",
+        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
+      },
+      "artists": [
+        {
+          "name": "Alvin Youngblood Hart",
+          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Million Miles",
+      "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
+    },
+    {
+      "added_at": "2022-10-14 15:54:21",
+      "album": {
         "name": "Too Much Mustard",
         "url": "https://open.spotify.com/album/3qBcJfdrKT98tvXZqcIqsO"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 223813,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/6ZdCKxcNoLgJfQBCncD2SU"
-    },
-    {
-      "added_at": "2022-10-14 15:54:21",
-      "album": {
-        "name": "All Blues'd Up: Songs of Bob Dylan",
-        "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
-      },
-      "artists": [
-        {
-          "name": "Alvin Youngblood Hart",
-          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
-        }
-      ],
-      "duration_ms": 392586,
-      "name": "Million Miles",
-      "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
     },
     {
       "added_at": "2022-10-14 15:54:21",

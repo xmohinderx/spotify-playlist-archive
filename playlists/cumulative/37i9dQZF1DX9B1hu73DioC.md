@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-552 songs - 1 day 9 hr 48 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+553 songs - 1 day 9 hr 52 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Blue Sea, Red Sea](https://open.spotify.com/track/1TNIPwsB6knLXdlfjjnPTX) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Blue Sea, Red Sea](https://open.spotify.com/album/2U7xjAw0NfmFOUNV3zCV7F) | 3:53 | 2020-10-05\* | 2022-06-25 |
 | [BNR](https://open.spotify.com/track/54uXC93r53jOJFuhMueold) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [BNR & Balloon](https://open.spotify.com/album/5xAIgRLvUIVd0SgVBAlpFl) | 3:01 | 2021-05-03 | 2022-04-20 |
 | [Body Fat \- Edit](https://open.spotify.com/track/4EgOBJmOd71QqAlqFXQxCy) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | [The Anteroom](https://open.spotify.com/album/0hCuM8sgQPmlvgWVvVfiE1) | 3:34 | 2020-10-05\* | 2020-10-06 |
-| [Bound \(with Blood Orange\)](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 | 2022-06-01 |  |
+| [Bound](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 | 2022-06-01 |  |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2021-11-19 | 2022-07-17 |
 | [Butterfly Wings](https://open.spotify.com/track/6ztyTVTG3R8PPHLaFSA3VR) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK) | [Butterfly Wings](https://open.spotify.com/album/6yiwj0mGVdZzzzytu5OUiP) | 3:32 | 2022-04-08 | 2022-07-29 |
 | [By Your Side](https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [By Your Side](https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY) | 4:55 | 2020-10-16 | 2022-04-15 |
@@ -381,6 +381,7 @@
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-03-07 | 2022-07-27 |
 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 | 2020-10-16 | 2022-09-30 |
 | [Ordinary Guy \(feat\. The Mattson 2\)](https://open.spotify.com/track/3NXLWgZATF6TFYP70dEfcA) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [Ordinary Guy \(feat\. The Mattson 2\)](https://open.spotify.com/album/4vhWYLYXmKNljZZckEsiQL) | 3:37 | 2020-12-08 | 2022-06-04 |
+| [Out For The Weekend](https://open.spotify.com/track/6DFxVrPvZGn0hdEwLPPapb) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [A Mosh Pit In The Clouds](https://open.spotify.com/album/7fnkJty0bXBUFiN0sutHC7) | 3:27 | 2022-11-11 |  |
 | [Outside](https://open.spotify.com/track/4TX9ZeGeNol9GYTUqUAUSe) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [EP III](https://open.spotify.com/album/4DAEmnrLvgEYRWOVuAbqOn) | 4:10 | 2021-03-16 | 2022-04-01 |
 | [Outside Sublime](https://open.spotify.com/track/1N4JlfiTYPcC3b1SoVs3qs) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Outside Sublime](https://open.spotify.com/album/6tHq2166Kekr60uJly4sqT) | 3:31 | 2020-10-05\* | 2020-10-06 |
 | [Pack a Punch](https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Pack a Punch](https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8) | 3:42 | 2021-11-19 | 2022-06-04 |
@@ -453,7 +454,7 @@
 | [Speaking Sonar](https://open.spotify.com/track/391urs5Mo2SLm5Cge12K5x) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Speaking Sonar](https://open.spotify.com/album/7Ilx2OLWq4xrqRKRQ0rEm5) | 3:40 | 2020-10-05\* | 2022-04-18 |
 | [spinning](https://open.spotify.com/track/6ZffiEv3Y2eFHktlBBzyyY) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [spinning](https://open.spotify.com/album/3YwzAmxWhq1ojlXPLxqEMN) | 2:27 | 2022-06-01 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-10-07 | 2022-11-13 |
-| [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 | 2022-11-10 |  |
+| [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 | 2022-11-10 | 2022-11-17 |
 | [striptease](https://open.spotify.com/track/17s9ohMleXceK8Qobgl8Zd) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1CD0z7zi1KUO9sRLC83ezo) | 2:40 | 2020-10-05\* | 2022-04-12 |
 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 | 2022-07-25 | 2022-09-30 |
 | [Sublunary du Son](https://open.spotify.com/track/6AxpaKE562EKSJJ9efKIbK) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Tayo And The Dreamer](https://open.spotify.com/album/6WoMTOAyYVn0G068pxzbMH) | 3:44 | 2021-06-25 | 2022-04-15 |

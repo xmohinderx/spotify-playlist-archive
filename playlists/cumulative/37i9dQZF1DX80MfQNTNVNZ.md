@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul
 
-306 songs - 18 hr 32 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
+307 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/0666qp0Lkx0RW5z3dODaAe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2021-12-23 |  |
 | [Isolated](https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Sabrina Mahfouz](https://open.spotify.com/artist/6D8Yw8YdWpwqkJLx0HnEXH) | [Shout Out! To Freedom...](https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq) | 4:13 | 2022-03-24 | 2022-07-26 |
 | [It Run's Through Me](https://open.spotify.com/track/51Q2IPSmoFuDAkMmaYwjjF) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/2g49Kw03cpc5HQygEw450P) | 4:21 | 2022-04-14 | 2022-04-20 |
-| [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-07-28 |  |
+| [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-07-28 | 2022-11-17 |
 | [It's a Moot Point](https://open.spotify.com/track/3Rl8k5Daz5w5zHYSJz5lHA) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7xoKAS8YKaD85hP4FjOKyL) | 4:02 | 2021-12-23 | 2022-07-29 |
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-01-13 | 2022-07-20 |
 | [I’M BLESSED](https://open.spotify.com/track/7fL5eO3jKctiQvxq5140rG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:34 | 2022-02-24 | 2022-04-20 |
@@ -295,6 +295,7 @@
 | [With The Star](https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/0VtXOyIh7WJCKBe3KbRch8) | 3:32 | 2022-03-24 | 2022-07-28 |
 | [Woman](https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/5xLroFHEvbfDUBqsiYgk5Z) | 4:29 | 2021-12-23 | 2022-07-25 |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-07-28 | 2022-11-03 |
+| [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2022-11-10 |  |
 | [wonder](https://open.spotify.com/track/1ypW5tLaTMBIGNCg6Binqx) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [wonder](https://open.spotify.com/album/49u7lhwa4KKPrU6Q95APaz) | 3:11 | 2022-03-24 | 2022-04-21 |
 | [Wonder \(feat\. Channel Tres\)](https://open.spotify.com/track/59nNSdCazna8AwHxfpkGKe) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Wonder](https://open.spotify.com/album/0LaqLZ8fcXDdMWAOcVwvwv) | 3:00 | 2022-03-03 | 2022-07-22 |
 | [Woof \- Kan Sano Remix](https://open.spotify.com/track/1Lx9LCHfi0UZ9faIyjCGa2) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Woof \(Kan Sano Remix\)](https://open.spotify.com/album/4z0YehJZRNqCRfkizYXobK) | 3:44 | 2022-01-13 | 2022-07-25 |

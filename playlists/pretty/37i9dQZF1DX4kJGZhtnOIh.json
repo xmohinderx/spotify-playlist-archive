@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 10428,
+  "num_followers": 10442,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDZmOTZiNTdkNWI5OGM2NzI4ZDkxODk1ODVhMWVmODA2",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDk1YzI1MTQwMWRhZDNhNTY2Y2NlMGY2OWZkODk1MTg4",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -191,22 +191,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -383,6 +383,22 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Detectorists (Original Soundtrack from the TV Series)",
+        "url": "https://open.spotify.com/album/7ARZyHk8iMle3e3iYHtMkx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        }
+      ],
+      "duration_ms": 125944,
+      "name": "Detectorists (Original Soundtrack from the TV Series)",
+      "url": "https://open.spotify.com/track/0jp1YFgWn67BtAVDZRaSqM"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Inside Llewyn Davis: Original Soundtrack Recording",
         "url": "https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 180400,
       "name": "Fare Thee Well (Dink's Song)",
       "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Detectorists (Original Soundtrack from the TV Series)",
-        "url": "https://open.spotify.com/album/7ARZyHk8iMle3e3iYHtMkx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Flynn",
-          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
-        }
-      ],
-      "duration_ms": 125944,
-      "name": "Detectorists (Original Soundtrack from the TV Series)",
-      "url": "https://open.spotify.com/track/0jp1YFgWn67BtAVDZRaSqM"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -663,6 +663,38 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
+        "name": "Palindrome Hunches",
+        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
+      },
+      "artists": [
+        {
+          "name": "Neil Halstead",
+          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Digging Shelters",
+      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Maraqopa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4"
+      },
+      "artists": [
+        {
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Museum of Flight",
+      "url": "https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
@@ -695,22 +727,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Palindrome Hunches",
-        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
-      },
-      "artists": [
-        {
-          "name": "Neil Halstead",
-          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Digging Shelters",
-      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Port Of Morrow",
         "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 241613,
       "name": "It's Only Life",
       "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
-        "name": "Maraqopa (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4"
-      },
-      "artists": [
-        {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Museum of Flight",
-      "url": "https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 362613,
-      "name": "Suffering",
-      "url": "https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/3Q3xd77C966yd3RbQXBGAc"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 222408,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/0R8cy4E7RWoP0oxiYY4GF1"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 362613,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy"
     },
     {
       "added_at": "2018-11-19 19:02:53",

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 108847,
+  "num_followers": 108878,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDEyMTBiZTI3NmFlMGNlZTVjOTI1YTNmZjMwMWNmNWE0",
+  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDEwOTVlMTM1NTA5ZjBlMDljNTgyMDY2NmI5NjYwOWNj",
   "tracks": [
     {
       "added_at": "2022-10-14 14:07:40",
@@ -115,26 +115,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Assume a Responsa",
-        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 259862,
-      "name": "Assume a Responsa",
-      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Daniel (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Assume a Responsa",
+        "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 259862,
+      "name": "Assume a Responsa",
+      "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -447,18 +447,22 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -495,22 +499,18 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
       "artists": [
         {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
         }
       ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Sempre Foi Deus",
-        "url": "https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 205479,
-      "name": "Sempre Foi Deus",
-      "url": "https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Sempre Foi Deus",
+        "url": "https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 205479,
+      "name": "Sempre Foi Deus",
+      "url": "https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
+      },
+      "artists": [
+        {
+          "name": "Salvaon",
+          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+        }
+      ],
+      "duration_ms": 353791,
+      "name": "Hoje Tem Cor",
+      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
         "name": "Hoje",
         "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "LIVE",
-        "url": "https://open.spotify.com/album/3BVK1en3BkNnAhpJxULFD3"
+        "name": "O Mundo ao Seu Redor",
+        "url": "https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K"
       },
       "artists": [
         {
-          "name": "Salvaon",
-          "url": "https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG"
+          "name": "O Maior Clich\u00ea do Mundo",
+          "url": "https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w"
         }
       ],
-      "duration_ms": 353791,
-      "name": "Hoje Tem Cor",
-      "url": "https://open.spotify.com/track/63ICcEPOOPlcSHXzQXQMDH"
+      "duration_ms": 188253,
+      "name": "O Mundo ao Seu Redor",
+      "url": "https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -815,22 +831,6 @@
       "duration_ms": 273362,
       "name": "Cad\u00ea o Amor",
       "url": "https://open.spotify.com/track/2xk6oFh9AYosifwYnbrc1y"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "O Mundo ao Seu Redor",
-        "url": "https://open.spotify.com/album/3Dxe0faYOB7cLrnxnyHq1K"
-      },
-      "artists": [
-        {
-          "name": "O Maior Clich\u00ea do Mundo",
-          "url": "https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "O Mundo ao Seu Redor",
-      "url": "https://open.spotify.com/track/4NKYXoK9cY8l37UGyrws1a"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "Artif\u00edcio",
-        "url": "https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Siss\u00e1",
-          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Artif\u00edcio",
-      "url": "https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Mateus 6:6",
         "url": "https://open.spotify.com/album/68gKXAe1jppn328oF3ElLH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 293793,
       "name": "Mateus 6:6",
       "url": "https://open.spotify.com/track/2xRsrkp44Jcw3G2IgMiU8P"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "Artif\u00edcio",
+        "url": "https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Siss\u00e1",
+          "url": "https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Artif\u00edcio",
+      "url": "https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc"
     },
     {
       "added_at": "2022-10-14 14:07:40",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
-        "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
-      },
-      "artists": [
-        {
-          "name": "Redentto",
-          "url": "https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj"
-        }
-      ],
-      "duration_ms": 265815,
-      "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
+      },
+      "artists": [
+        {
+          "name": "Redentto",
+          "url": "https://open.spotify.com/artist/3C0lKVR5IKZNRh5b9sEwcj"
+        }
+      ],
+      "duration_ms": 265815,
+      "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0yAV4dcvF10aCATM4fRvuQ"
     },
     {
       "added_at": "2022-10-14 14:07:40",

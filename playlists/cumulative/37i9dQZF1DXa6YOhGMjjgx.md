@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-227 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+228 songs - 13 hr 21 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Shadow of Your Love](https://open.spotify.com/track/1YCxiooVRFlMwIhbAhapkE) | [Cut Glass Kings](https://open.spotify.com/artist/6duFEnexUva5UMe40WbV4v) | [Shadow of Your Love](https://open.spotify.com/album/1fbixj23On0ICt9AdM0zsN) | 2:36 | 2021-03-31 | 2022-01-15 |
 | [Shame](https://open.spotify.com/track/2ZtDoXiBgiu72Z2TL13A2E) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Shame](https://open.spotify.com/album/7tZF7C9q6cF37suORW6H05) | 3:20 | 2021-03-31 | 2022-07-29 |
 | [Shame](https://open.spotify.com/track/2cLWsAvGFe41Jz6oJWkRFg) | [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Sego Sucks](https://open.spotify.com/album/2VawrqRSehemq0YlVuZgCB) | 3:20 | 2022-04-29 |  |
-| [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2021-07-23 |  |
+| [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 | 2022-04-29 |  |
+| [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2021-07-23 | 2022-11-17 |
 | [Sick of The Silence](https://open.spotify.com/track/2x9Hr7Fuf9E8Z7vONIHPyM) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Sick of The Silence](https://open.spotify.com/album/1Twv557qLgnS0hpVQLwDYD) | 3:08 | 2021-06-11 | 2022-03-01 |
 | [Simple Dude](https://open.spotify.com/track/3UYxSVaquXGHP1yIovi4g9) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Simple Dude](https://open.spotify.com/album/4KGWHyGZdzH2ST89fUBuSu) | 3:41 | 2021-03-31 | 2022-04-29 |
 | [Smile](https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ) | 3:16 | 2021-04-23 |  |

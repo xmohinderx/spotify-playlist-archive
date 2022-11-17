@@ -4,11 +4,12 @@
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams.
 
-175 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/6a6o9IgsOC0ReR1sjDYBdq)
+176 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6a6o9IgsOC0ReR1sjDYBdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Nights](https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 2:57 | 2022-06-03 |  |
+| [6am](https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [6am](https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm) | 3:41 | 2022-11-16 |  |
 | [97 Bop](https://open.spotify.com/track/4r8EoLjUp9dRe2pCJQlWff) | [Ethan Fields](https://open.spotify.com/artist/2SqxqNtAbLxHG8FB2gGiIJ) | [97 Bop](https://open.spotify.com/album/4vtnejKQkMPFpWDggqDOu7) | 1:26 | 2022-08-26 |  |
 | [A LOT \- Remix](https://open.spotify.com/track/1cxPOIEirHd43X5qeGebUY) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [A LOT \(Remix\)](https://open.spotify.com/album/5vOFnRoNxmsLBm8FyCDdrU) | 2:28 | 2022-06-03 |  |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/4aWuoE57P5KteX0L57OrJs) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Ahora Te Puedes Marchar](https://open.spotify.com/album/6Zyd6ygLsqstLeSZm5HeOW) | 2:30 | 2022-08-26 |  |

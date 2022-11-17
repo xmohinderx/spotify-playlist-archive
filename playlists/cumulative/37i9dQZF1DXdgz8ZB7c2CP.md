@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-293 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+294 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Please Come Home](https://open.spotify.com/track/1RiuDvXUH1rBwqeFL5BsZi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Muzique, Vol\. 01](https://open.spotify.com/album/5N7LpR0MjS0lroJ0lKiGbq) | 3:52 | 2021-09-10 |  |
 | [Please Come Home](https://open.spotify.com/track/5EOUYFfFbyPXtZOiuRKTpU) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Jead](https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf) | [Please Come Home](https://open.spotify.com/album/1JmOtdJu3CZKowtgdNIOX8) | 3:52 | 2021-09-10 | 2022-08-13 |
 | [Polar Concept](https://open.spotify.com/track/2wvzaSq1yvCA4zsBNPcROH) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Out Here With You](https://open.spotify.com/album/5z46MYq0tPYeWfjmdY4pzV) | 6:31 | 2021-08-06 | 2022-07-28 |
-| [Possibilities](https://open.spotify.com/track/3GJP6nsQ2BVQErSsxrRDgB) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Possibilities](https://open.spotify.com/album/6z0UK4WmK0vrxVkbBR04do) | 2:55 | 2021-08-20 |  |
+| [Possibilities](https://open.spotify.com/track/3GJP6nsQ2BVQErSsxrRDgB) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Possibilities](https://open.spotify.com/album/6z0UK4WmK0vrxVkbBR04do) | 2:55 | 2021-08-20 | 2022-11-17 |
 | [Pray and Hope](https://open.spotify.com/track/0tnZM5l1sTFSdUtUMw1rbN) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [Pray and Hope](https://open.spotify.com/album/6NER7TVKffZPpQYGkWdJUM) | 3:49 | 2021-08-06 | 2022-07-29 |
 | [Promises](https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Andie](https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr) | [Promises](https://open.spotify.com/album/7c2P9D7n2ve73GhVHeOHVb) | 3:56 | 2022-01-28 | 2022-07-29 |
 | [Pyramids](https://open.spotify.com/track/3GC4bcTbJoOmg4VC187pkf) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Pyramids](https://open.spotify.com/album/0L72MVflu6L0iIaVVaI7Aa) | 2:44 | 2021-08-06 | 2022-07-29 |
@@ -252,6 +252,7 @@
 | [Synth Grass](https://open.spotify.com/track/2Gt94qSL9EImDLGm6Jlu3S) | [Knapsack](https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI) | [Synth Grass](https://open.spotify.com/album/40C56PM2hPldlAxI8zSsSS) | 3:04 | 2021-08-06 |  |
 | [T0NITE](https://open.spotify.com/track/4B5J06BQR5OCy8NwvqgRBN) | [HELLHEIM](https://open.spotify.com/artist/4y0E0pMRFCgOkesrCPtUmU) | [T0NITE](https://open.spotify.com/album/7CDwsplCHROyARa7H91RS1) | 2:03 | 2021-08-06 |  |
 | [Temper](https://open.spotify.com/track/4g1xsVqnjBArKZ7SpESOtw) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [LIA](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Temper](https://open.spotify.com/album/5puSuAFMWXFnf9aauxtvOO) | 3:58 | 2022-06-17 |  |
+| [The Gallery](https://open.spotify.com/track/0osP6pSaVm56Q14TYPu87N) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Alex Arcoleo](https://open.spotify.com/artist/1Al565vLrClijuyyPwapim) | [Rooms on the Ark](https://open.spotify.com/album/0LpX8r0fnVqDIDlNeDdfR5) | 3:30 | 2021-08-06 |  |
 | [The Gallery](https://open.spotify.com/track/709Id9rqQlqUKubz0dCN7S) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Alex Arcoleo](https://open.spotify.com/artist/6JkBbOaS3boYr0jIeSj5eM) | [Rooms on the Ark](https://open.spotify.com/album/7p3Oql1lQymTJCpW9N7KoQ) | 3:30 | 2021-08-06 | 2022-10-10 |
 | [The Letter Blue \- Branchez Remix](https://open.spotify.com/track/1N0x6QjETxN1cvvgp2KRyn) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [The Letter Blue \(Branchez Remix\)](https://open.spotify.com/album/0UC2uTSWx1s7UsCu3AmaDn) | 2:30 | 2022-03-25 | 2022-10-13 |
 | [The Letter Blue \- Branchez Remix](https://open.spotify.com/track/6Ybtd0fwLZnOqU4Kd8etj9) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Branchez](https://open.spotify.com/artist/4T5kpUiQUVJhuf9YT28qlf) | [The Letter Blue \(Branchez Remix\)](https://open.spotify.com/album/3udh5dS7iw2eBYZOqEitQj) | 2:30 | 2022-03-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. In cover, Deda.",
-  "num_followers": 28641,
+  "num_followers": 28663,
   "original_name": "Radici Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTI2MCwwMDAwMDAwMDdmZDgwYTIwMTEyNGEyYzA0N2UxNThiODkyYTFjMDky",
+  "snapshot_id": "MTY2ODEyMTI2MCwwMDAwMDAwMDY1YTQ5MTg5MTNkNjY5MWMyZWE1ZDRhOTJhMjJiNDg5",
   "tracks": [
     {
       "added_at": "2022-11-10 23:01:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
+        "name": "Vita bona",
+        "url": "https://open.spotify.com/album/59LESgxshdM9gDepqGWBol"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 259586,
+      "name": "Quanno me ne so juto",
+      "url": "https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
         "name": "Ti Pretendo XXX",
         "url": "https://open.spotify.com/album/4Z7I16kiaaZSRolYWpqjtW"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 221380,
       "name": "Ti Pretendo XXX",
       "url": "https://open.spotify.com/track/2G4Abb0ddI9jPYn4pt59XM"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "Vita bona",
-        "url": "https://open.spotify.com/album/59LESgxshdM9gDepqGWBol"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "Quanno me ne so juto",
-      "url": "https://open.spotify.com/track/6tqzzgxUFNEOozRR3YFWLY"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -578,15 +578,11 @@
         {
           "name": "Fabri Fibra",
           "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Sulla Giostra",
-      "url": "https://open.spotify.com/track/01l8BJl6CoFQaR3RFliOD9"
+      "duration_ms": 158786,
+      "name": "Brutto Figlio Di",
+      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -742,11 +738,15 @@
         {
           "name": "Fabri Fibra",
           "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 158786,
-      "name": "Brutto Figlio Di",
-      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
+      "duration_ms": 205026,
+      "name": "Sulla Giostra",
+      "url": "https://open.spotify.com/track/01l8BJl6CoFQaR3RFliOD9"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
+        "name": "SPECIALIST",
+        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 145446,
+      "name": "SPECIALIST",
+      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 275000,
       "name": "F35",
       "url": "https://open.spotify.com/track/4Mk8TVosV7qvFZhHWaaTto"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "SPECIALIST",
-        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 145446,
-      "name": "SPECIALIST",
-      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Brokenspeakers",
-          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
-        }
-      ],
-      "duration_ms": 242378,
-      "name": "Casse rotte (feat. Brokenspeakers)",
-      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/5ojuD49ScbKa49NyxyaqMx"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
       },
       "artists": [
         {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Brokenspeakers",
+          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
         }
       ],
-      "duration_ms": 266933,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+      "duration_ms": 242378,
+      "name": "Casse rotte (feat. Brokenspeakers)",
+      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1071,6 +1055,22 @@
       "duration_ms": 237965,
       "name": "Smackdown",
       "url": "https://open.spotify.com/track/5yLmfZy36qHMJMyuuiSCiJ"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
+        "name": "Rebus",
+        "url": "https://open.spotify.com/album/0Otjtd9sT4ZwhzX7AirKC6"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Bugie Bianche",
+      "url": "https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "Rebus",
-        "url": "https://open.spotify.com/album/0Otjtd9sT4ZwhzX7AirKC6"
+        "name": "Iron Maiden",
+        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
       },
       "artists": [
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+          "name": "Axos",
+          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Bugie Bianche",
-      "url": "https://open.spotify.com/track/4pMLcSYJgxfWtE5P7rpHPq"
+      "duration_ms": 158076,
+      "name": "Iron Maiden",
+      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "Iron Maiden",
-        "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
-      },
-      "artists": [
-        {
-          "name": "Axos",
-          "url": "https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Iron Maiden",
-      "url": "https://open.spotify.com/track/5CHWWIk5gnZ5TQb5XK4fRN"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
         "name": "SFIGA",
         "url": "https://open.spotify.com/album/4dIsIgbAgNPt2v1VmBBOLE"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 288066,
       "name": "Il cielo su Roma",
       "url": "https://open.spotify.com/track/3RoqLs6Yg8BZmPQY5V3RhQ"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1551,42 +1551,6 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/5lVNbfwUszjl6opsZw29J5"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Pitta",
-          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "DINDIRINDINA",
-      "url": "https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1615,22 +1579,38 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "Tenere conto",
-        "url": "https://open.spotify.com/album/4muUoDu0KQrEqdLqezozvh"
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
       "artists": [
         {
-          "name": "Nex Cassel",
-          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
-        },
-        {
-          "name": "Gianni Bismark",
-          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Tenere conto",
-      "url": "https://open.spotify.com/track/4N7LPsWFruYR8bGLM96grV"
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/5lVNbfwUszjl6opsZw29J5"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "DINDIRINDINA",
+      "url": "https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1671,30 +1651,42 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
-        "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
+        "name": "Tenere conto",
+        "url": "https://open.spotify.com/album/4muUoDu0KQrEqdLqezozvh"
       },
       "artists": [
         {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+          "name": "Nex Cassel",
+          "url": "https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe"
         },
         {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Dj Tsura",
-          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
+          "name": "Gianni Bismark",
+          "url": "https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa"
         }
       ],
-      "duration_ms": 162151,
-      "name": "Still From The '90s (The Manifesto) - Reloaded Version",
-      "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
+      "duration_ms": 180740,
+      "name": "Tenere conto",
+      "url": "https://open.spotify.com/track/4N7LPsWFruYR8bGLM96grV"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
+        "name": "Sotto effetto stono",
+        "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        },
+        {
+          "name": "Danny Losito",
+          "url": "https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf"
+        }
+      ],
+      "duration_ms": 276933,
+      "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
+      "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1743,22 +1735,30 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "Sotto effetto stono",
-        "url": "https://open.spotify.com/album/63h7JtAfYi7W0e4lbGtzEE"
+        "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
+        "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
       "artists": [
         {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
         },
         {
-          "name": "Danny Losito",
-          "url": "https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf"
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Dj Tsura",
+          "url": "https://open.spotify.com/artist/7lne06t55Q9jZAR7Cg81lD"
         }
       ],
-      "duration_ms": 276933,
-      "name": "Solo lei ha quel che voglio (feat. Danny Losito)",
-      "url": "https://open.spotify.com/track/6XuUJwcaTMdDS7rsasMNaM"
+      "duration_ms": 162151,
+      "name": "Still From The '90s (The Manifesto) - Reloaded Version",
+      "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "Max",
-        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 391960,
       "name": "La porra",
       "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
+        "name": "Max",
+        "url": "https://open.spotify.com/album/1sKawxjqrnRx2nxwyEZnc5"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1fUPNsShDuLfKvnetAMm6l"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Danno E Masito",
+          "url": "https://open.spotify.com/artist/0RwwVSLbtwrboAdbOPwYv6"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Coltelli",
+      "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
+    },
+    {
+      "added_at": "2022-11-10 23:01:00",
+      "album": {
         "name": "Sotto lo stesso effetto",
         "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 246818,
       "name": "Daimon",
       "url": "https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Danno E Masito",
-          "url": "https://open.spotify.com/artist/0RwwVSLbtwrboAdbOPwYv6"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Coltelli",
-      "url": "https://open.spotify.com/track/5FYJs2NzhioUpt8pJ6BnHo"
     },
     {
       "added_at": "2022-11-10 23:01:00",
@@ -2031,26 +2031,30 @@
     {
       "added_at": "2022-11-10 23:01:00",
       "album": {
-        "name": "PRIVACY",
-        "url": "https://open.spotify.com/album/4dy87Gd8cTMyalaP6ai6ub"
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+        "url": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
       },
       "artists": [
         {
-          "name": "Dj Jay-K",
-          "url": "https://open.spotify.com/artist/2mWisenxMzbl3s05FYo3QE"
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
         },
         {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
         },
         {
-          "name": "MV Killa",
-          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
         }
       ],
-      "duration_ms": 181451,
-      "name": "PRIVACY",
-      "url": "https://open.spotify.com/track/2aSttgBmRJyhI6LLLgEkqO"
+      "duration_ms": 261810,
+      "name": "Black Rain, pt. 2",
+      "url": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
     },
     {
       "added_at": "2022-11-10 23:01:00",

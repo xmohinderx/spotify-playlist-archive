@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 629159,
+  "num_followers": 629299,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg1OTI4NiwwMDAwMDAwMGI2ODAxOGNlNTZmZTQ4YmU3NTE4NGQyZGIyODY2MGIy",
+  "snapshot_id": "MTY2Nzg1OTI4NiwwMDAwMDAwMDEyZWRkNzdkYjcxNzYyNDNjZmVhYmMwYmFhMzkwYWJh",
   "tracks": [
     {
       "added_at": "2022-10-07 05:00:00",
@@ -237,7 +237,7 @@
         }
       ],
       "duration_ms": 196905,
-      "name": "Disarm - Remastered",
+      "name": "Disarm - 2011 Remaster",
       "url": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM"
     },
     {
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Lifeless Stars",
-        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 197129,
-      "name": "Lifeless Stars",
-      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Blackbird",
         "url": "https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 259133,
       "name": "Watch Over You",
       "url": "https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 293640,
+      "name": "Ashes of Eden",
+      "url": "https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+        "name": "Lifeless Stars",
+        "url": "https://open.spotify.com/album/0L3360c90nToRVL7FOBCOU"
       },
       "artists": [
         {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
         }
       ],
-      "duration_ms": 293640,
-      "name": "Ashes of Eden",
-      "url": "https://open.spotify.com/track/7HjNOz8Y7H7uSySXuHNg1Y"
+      "duration_ms": 197129,
+      "name": "Lifeless Stars",
+      "url": "https://open.spotify.com/track/4cZ6TAFCJEThyxwWZvBUQJ"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Saving Abel",
-        "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
+        "name": "This Is War",
+        "url": "https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx"
       },
       "artists": [
         {
-          "name": "Saving Abel",
-          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 235613,
-      "name": "Drowning (Face Down)",
-      "url": "https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a"
+      "duration_ms": 372133,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7FLVnDMOZXKRFgRM3C4aUG"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "This Is War",
-        "url": "https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx"
+        "name": "Saving Abel",
+        "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Saving Abel",
+          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
         }
       ],
-      "duration_ms": 372133,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7FLVnDMOZXKRFgRM3C4aUG"
+      "duration_ms": 235613,
+      "name": "Drowning (Face Down)",
+      "url": "https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 218990,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 292280,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3OE4VBO845k24R8ZzuMpvj"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 218990,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "How Did You Love - Piano Version",
-      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "UNDEN!ABLE",
         "url": "https://open.spotify.com/album/5H9cH0ZFEwiJQFPCXiXzxd"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 274164,
       "name": "Love Falls",
       "url": "https://open.spotify.com/track/4fFx9gzhfhSNu71e4tveEN"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "How Did You Love - Piano Version",
+      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Perdida",
         "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 261880,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Nothing More",
-        "url": "https://open.spotify.com/album/4aBbor9Sqi43RqUcc9g18G"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Here's To The Heartache",
-      "url": "https://open.spotify.com/track/144VTMTXicEwTOJQPcrpAF"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
         "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 215946,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2tUhCTpGeEfssyYTeu0chm"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Nothing More",
+        "url": "https://open.spotify.com/album/4aBbor9Sqi43RqUcc9g18G"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Here's To The Heartache",
+      "url": "https://open.spotify.com/track/144VTMTXicEwTOJQPcrpAF"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Crossfade",
-        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
-      },
-      "artists": [
-        {
-          "name": "Crossfade",
-          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
         "name": "Everybody Wants",
         "url": "https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Light Me Up",
-        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
+        "name": "Crossfade",
+        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Crossfade",
+          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
         }
       ],
-      "duration_ms": 212186,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
+      "duration_ms": 179120,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 167893,
       "name": "There For You",
       "url": "https://open.spotify.com/track/1zv1uaP9iNiayFjeprolnB"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi"
+        "name": "Doomsday (Piano Reprise)",
+        "url": "https://open.spotify.com/album/3qugOscI33flKHeUONCfLh"
       },
       "artists": [
         {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 232181,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g"
+      "duration_ms": 245856,
+      "name": "Doomsday - Piano Reprise",
+      "url": "https://open.spotify.com/track/5uH7FUDrEoEk7ii23XIxQD"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1483,34 +1483,18 @@
     {
       "added_at": "2022-10-07 05:00:00",
       "album": {
-        "name": "Doomsday (Piano Reprise)",
-        "url": "https://open.spotify.com/album/3qugOscI33flKHeUONCfLh"
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/7CHjGNDrCPUppVXm3lX2Gi"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
         }
       ],
-      "duration_ms": 245856,
-      "name": "Doomsday - Piano Reprise",
-      "url": "https://open.spotify.com/track/5uH7FUDrEoEk7ii23XIxQD"
-    },
-    {
-      "added_at": "2022-10-07 05:00:00",
-      "album": {
-        "name": "Luxury Disease",
-        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 207395,
-      "name": "When They Turn the Lights On",
-      "url": "https://open.spotify.com/track/4mkWTl38qBjTMcBMwri6Nx"
+      "duration_ms": 232181,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/25cgB8QvrmNetiG5Q0YB3g"
     },
     {
       "added_at": "2022-10-07 05:00:00",
@@ -1547,6 +1531,22 @@
       "duration_ms": 254642,
       "name": "Quiet Now",
       "url": "https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI"
+    },
+    {
+      "added_at": "2022-10-07 05:00:00",
+      "album": {
+        "name": "Luxury Disease",
+        "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 207395,
+      "name": "When They Turn the Lights On",
+      "url": "https://open.spotify.com/track/4mkWTl38qBjTMcBMwri6Nx"
     },
     {
       "added_at": "2022-10-07 05:00:00",

@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-106 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
+108 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/3ztjRpgCKn1hLb0zkDuLj3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Right Way Back](https://open.spotify.com/track/3ErQbRuLdafRrhIf8Ceefa) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Discover Crown Lands](https://open.spotify.com/album/2H8QnNAriPg1S0X5R45Itq) | 3:51 | 2022-05-20 |  |
 | [Right Way Back](https://open.spotify.com/track/46qQdaM52TFsJRqNG5Rbh7) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Context: Fearless Pt\. I](https://open.spotify.com/album/5Hv75h9ATVdHeQgKvrXFTI) | 3:51 | 2022-05-20 | 2022-07-29 |
 | [Right Way Back](https://open.spotify.com/track/6zbBYMUZHrURYziUfFVgJw) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Love Me & Love Me](https://open.spotify.com/album/7ELqN2yBpbH9ToLbmFVeXA) | 3:51 | 2022-05-20 | 2022-11-13 |
-| [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p) | 5:19 | 2022-05-20 |  |
+| [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p) | 5:19 | 2022-05-20 | 2022-11-17 |
+| [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 | 2022-05-20 |  |
 | [Roulette Dares \(The Haunt Of\) \- Unfinished Original Recordings Of De\-Loused In The Comatorium](https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Landscape Tantrums \(Unfinished Original Recordings Of De\-Loused In The Comatorium\)](https://open.spotify.com/album/3X3xy01oWmdpRSJIttm4NT) | 6:37 | 2022-05-20 |  |
 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 | 2022-05-20 |  |
 | [Sand Castles](https://open.spotify.com/track/61b16dlE40IM8FM6Gu9hH1) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Sand Castles](https://open.spotify.com/album/0oeoxRoLlixMZXxM6G60es) | 5:15 | 2022-05-20 | 2022-07-29 |
@@ -85,7 +86,8 @@
 | [Seed II](https://open.spotify.com/track/5lAmFZVvhNIPNXZepRV6jj) | [Coridian](https://open.spotify.com/artist/0lR9RQShdwXD9IW4V7veyR) | [Eldur](https://open.spotify.com/album/5dHZIxKULdDDF2QfXGADVN) | 3:20 | 2022-05-20 |  |
 | [Shaping Mirrors Like Smoke](https://open.spotify.com/track/59NxjcwDh1fIZdmJx4NGus) | [Himmellegeme](https://open.spotify.com/artist/2zZSkbRgQir9MXLYmV3Aar) | [Variola Vera](https://open.spotify.com/album/1e7obwZMhNKs1uPrC4RTmq) | 5:47 | 2022-05-20 |  |
 | [Shiram](https://open.spotify.com/track/0uGaVwnmp6LyyzVqiwIonY) | [The Brandy Alexanders](https://open.spotify.com/artist/3oavfsOsh6xtZwNAg15zp0) | [Shiram](https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1) | 2:45 | 2022-05-20 |  |
-| [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2022-05-20 |  |
+| [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 | 2022-05-20 |  |
+| [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2022-05-20 | 2022-11-17 |
 | [Signals \- Volkor X Remix](https://open.spotify.com/track/7HiKQJaqIq2iEODIG3tzKq) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW), [Volkor X](https://open.spotify.com/artist/5Us4fLalowFjzrjC85k4Xq) | [Signals \(Volkor X Remix\)](https://open.spotify.com/album/4TMeLSX3GtPMh4t2zDzfTA) | 4:59 | 2022-05-20 |  |
 | [Somber Aeons](https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [Unknown Heights](https://open.spotify.com/album/5S4nQWwcdVnWQwjjLUBbzX) | 6:12 | 2022-05-20 |  |
 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 | 2022-05-20 |  |

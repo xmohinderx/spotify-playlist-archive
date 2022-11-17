@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Complete Collection](https://open.spotify.com/playlist/37i9dQZF1DWTUm9HjVUKnL)
 
-> Spotify Singles\. Like nothing you’ve heard before\. Cover: Cat Burns.
+> Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
 1,005 songs - 2 day 13 hr 23 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 

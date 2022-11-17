@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Banda Rafaga En Vivo! , Vol.1",
+        "url": "https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "La Otra Espa\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa"
+    },
+    {
+      "album": {
         "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },

@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-214 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+216 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,8 @@
 | [Aventura](https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Aventura](https://open.spotify.com/album/6l5rSSzTUsCkKjtFzSu3Wr) | 2:53 | 2022-03-22 | 2022-05-10 |
 | [Azul](https://open.spotify.com/track/3eB6Imewes3kokhBvnbKjf) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mahmundi](https://open.spotify.com/album/2kGS8bXhlbxaDSkPbYuSsN) | 4:30 | 2022-03-22 | 2022-04-21 |
 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 | 2022-02-04 |  |
+| [Babá Alapalá \- Spotify Singles](https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh) | [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Babá Alapalá \- Spotify Singles](https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5) | 4:29 | 2022-11-16 |  |
+| [Back In Bahia \- Spotify Singles](https://open.spotify.com/track/6ModYZze07tx1R40jykgeL) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Back In Bahia \- Spotify Singles](https://open.spotify.com/album/50V1qiuLjfFRvgJ9c4Bup3) | 2:43 | 2022-11-16 |  |
 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 | 2022-06-24 |  |
 | [Batucadinho](https://open.spotify.com/track/1NhN20qGNXzXWdzsK7bQTG) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Dos Santos](https://open.spotify.com/album/6HhJcF7yFhjgc0uSuPPMVa) | 3:38 | 2022-03-22 | 2022-05-21 |
 | [Beatriz \- Acústico](https://open.spotify.com/track/04pdJOK2kixNEr5mATTCJh) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Beatriz \(Acústico\)](https://open.spotify.com/album/4r2rfGSKsoBziLl976ahHk) | 3:04 | 2022-04-01 | 2022-04-20 |
@@ -38,7 +40,7 @@
 | [Besteira](https://open.spotify.com/track/01DihPKWcCgJazoqZPfq0s) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Besteira](https://open.spotify.com/album/3hOEphZEIj8V8UyrIMDLn6) | 3:33 | 2022-02-04 |  |
 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 | 2022-02-04 |  |
 | [Boca Cheia](https://open.spotify.com/track/3F02D31yVHSs5OoOkSvirT) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Indee](https://open.spotify.com/artist/6F8T5BrVPsND7NOzCBLZu5) | [Boca](https://open.spotify.com/album/5W174N4vOGoC6GEsILKWZn) | 3:35 | 2022-03-22 | 2022-04-20 |
-| [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2022-02-04 |  |
+| [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2022-02-04 | 2022-11-17 |
 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 | 2022-02-04 |  |
 | [Brother, Father, Sister And Mother](https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia](https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER) | 3:19 | 2022-03-22 | 2022-04-17 |
 | [Bédi Beat](https://open.spotify.com/track/4u1GfVTNwHmHx6DAD50ZL1) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/1gU6xYQZFJH4ClJcpS1W4w) | 3:20 | 2022-04-01 | 2022-04-20 |
@@ -207,7 +209,7 @@
 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 | 2022-07-22 |  |
 | [Todo Carinho](https://open.spotify.com/track/1YMOsfWZpOtaH6uKH4UACe) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/1gU6xYQZFJH4ClJcpS1W4w) | 4:29 | 2022-02-04 | 2022-07-26 |
 | [Trem pra Ninguém](https://open.spotify.com/track/345jue5JEXr9yMyFQvOIro) | [Marcelle](https://open.spotify.com/artist/4BoUSYWtar1aoYzjbvbLex) | [Equivocada](https://open.spotify.com/album/6sr5987WDx10JBXeAihxSI) | 6:12 | 2022-02-04 | 2022-06-29 |
-| [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 | 2022-02-04 |  |
+| [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 | 2022-02-04 | 2022-11-17 |
 | [Tudo Trocado \- Acústico](https://open.spotify.com/track/584Mm2GiAkRpvX27eel5LI) | [Dingo Bells](https://open.spotify.com/artist/3pnpaEYzaDj5zJluhXbVrG) | [Acústico](https://open.spotify.com/album/7zVTnQJTj9r19AqAu7kHNv) | 3:24 | 2022-02-04 | 2022-07-14 |
 | [Vamo Nessa](https://open.spotify.com/track/5saQVDB2mjXrG1Reydn8R5) | [ZéVitor](https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4) | [Vamo Nessa](https://open.spotify.com/album/2kZfJddWKGPy1rkt9DbrpA) | 4:00 | 2022-03-22 | 2022-06-03 |
 | [Veneno \(Veleno\)](https://open.spotify.com/track/0xHCij5oGSgaaQf7qWnATZ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Veneno \(Veleno\)](https://open.spotify.com/album/6hDnXpjZawrXJYGyUU905K) | 4:59 | 2022-02-04 | 2022-07-29 |

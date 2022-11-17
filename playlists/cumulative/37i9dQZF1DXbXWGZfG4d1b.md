@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-390 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
+392 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/5DJyLFy40DvmyjCdjcX5ce)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Fluir](https://open.spotify.com/track/5qKiEzT74lSMBdyPOtnlPb) | [Hipnotica](https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY) | [Clásico](https://open.spotify.com/album/6SBMBonYpCmJUIPlwSnL6G) | 3:52 | 2022-06-03 |  |
 | [Fortalecido](https://open.spotify.com/track/3sq9PDYOoEU37aQRzqtycs) | [Los Monos de la China](https://open.spotify.com/artist/0c1o1fAr8LhpZ8r0reNajD) | [Fortalecido](https://open.spotify.com/album/3anfHh0hIxjOdhZQWa8P3j) | 4:09 | 2022-07-01 | 2022-07-13 |
 | [Fotos y Videos](https://open.spotify.com/track/4FqqOPeMZDiHXkDWakgjN5) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Fotos y Videos](https://open.spotify.com/album/0SlIh51qhhnp3FcqYqCLCL) | 2:56 | 2022-06-03 | 2022-07-29 |
+| [Frutillas con Crema](https://open.spotify.com/track/5DTDzZkWhNVBs30SR2C4dX) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Frutillas con Crema](https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1) | 2:42 | 2022-11-11 |  |
 | [Fugitivo](https://open.spotify.com/track/1yu5P0Y8Usmf9K6Jj6PJ6e) | [Killer Burritos](https://open.spotify.com/artist/44HbZgVV4ohYTXfuQIf4Kn) | [Fugitivo](https://open.spotify.com/album/0WhoE9qZgIMwWHsiZFQrDq) | 3:09 | 2022-07-01 | 2022-07-26 |
 | [Fumar de día](https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 2:58 | 2022-06-03 |  |
 | [Funeral de la planta](https://open.spotify.com/track/73GWGyo979e4uK0HLTYfJa) | [Isla De Encanta](https://open.spotify.com/artist/1svCUR9EYGxi1WJyojzSeu), [Pedro Dalton](https://open.spotify.com/artist/0sqVUoBycukC8qHLfWFFwI), [Pau O'Bianchi](https://open.spotify.com/artist/5IrM3Od3zegOvSvaonotxU) | [Vol.2](https://open.spotify.com/album/0oDPMeUqQHLdWyp9nLq9jQ) | 3:54 | 2022-07-01 | 2022-07-26 |
@@ -192,7 +193,7 @@
 | [La Espesura](https://open.spotify.com/track/2XGSDaK7QO6R4qCUgYfGNq) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:26 | 2022-07-01 | 2022-09-15 |
 | [La Flor](https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [La Flor](https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH) | 3:06 | 2022-06-03 |  |
 | [La Habitación II](https://open.spotify.com/track/15fLGGV39q6EX9FgtSW7UA) | [Las Armas Bs\. As.](https://open.spotify.com/artist/6DW99ulUSSJHyUzdNJuimJ) | [La Habitación II](https://open.spotify.com/album/73epKHQzLXZPfDClYxvAMJ) | 3:59 | 2022-07-01 | 2022-07-28 |
-| [La Ilusión](https://open.spotify.com/track/4Pi4u4y0MNy3Il74fQHy3q) | [Mauro Conforti & La Vida Marciana](https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr), [Haien](https://open.spotify.com/artist/3hZeDi28TENOJwzyYR1dxu) | [La Ilusión](https://open.spotify.com/album/5DVRGgvC9qX7k7dZPz8ok7) | 2:55 | 2022-10-12 |  |
+| [La Ilusión](https://open.spotify.com/track/4Pi4u4y0MNy3Il74fQHy3q) | [Mauro Conforti & La Vida Marciana](https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr), [Haien](https://open.spotify.com/artist/3hZeDi28TENOJwzyYR1dxu) | [La Ilusión](https://open.spotify.com/album/5DVRGgvC9qX7k7dZPz8ok7) | 2:55 | 2022-10-12 | 2022-11-17 |
 | [La Luna](https://open.spotify.com/track/6b2XIKwoVZhFEKgTkOJ5Ro) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/5s8iUnO355PDLfFjSVEDGa) | 3:43 | 2022-06-03 | 2022-07-29 |
 | [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 | 2022-07-15 |  |
 | [La Lógica de lo Incierto](https://open.spotify.com/track/6C1Ruv5uBST7eo52BUGTvz) | [Pulmón](https://open.spotify.com/artist/4repoujJm9DMrwgtasadzY) | [La Lógica de lo Incierto](https://open.spotify.com/album/5r7i03BY8ywqp72Kw988OG) | 3:55 | 2022-07-01 | 2022-07-16 |
@@ -259,6 +260,7 @@
 | [Nevada](https://open.spotify.com/track/28I7nwBGoXFmV5AxaHhBTM) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Nevada](https://open.spotify.com/album/6lxOY4q9aKzlvB9wLbySpA) | 3:24 | 2022-06-03 | 2022-07-27 |
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-06-03 | 2022-07-25 |
 | [No Es Conveniente](https://open.spotify.com/track/7rZWAnx3FHYlJqicefewhM) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Contratiempo](https://open.spotify.com/album/6ADCYLJRvLJPc1xxgaDNOv) | 3:17 | 2022-07-01 | 2022-07-28 |
+| [No Es Culpa del Frío](https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Es Culpa del Frío](https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b) | 3:45 | 2022-11-11 |  |
 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 | 2022-07-15 | 2022-07-29 |
 | [No Le Des Mas Vuelta](https://open.spotify.com/track/4OhELc8ny8Uel5nciZZ1Sq) | [Leandro Lopatin](https://open.spotify.com/artist/6MOOqOsT16VsoZOwZpttXX) | [No Le Des Mas Vuelta](https://open.spotify.com/album/6JwnT7GtY8En4h5n9xDMxD) | 3:45 | 2022-06-03 | 2022-07-25 |
 | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/track/3M0w5JH8ETjLiQ6rTHcguA) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [No Me Conoce \(Post\-Punk\)](https://open.spotify.com/album/4vlMKyXU850kEr8a7BSgzt) | 3:54 | 2022-06-03 |  |
@@ -271,7 +273,7 @@
 | [Nuestra Historia](https://open.spotify.com/track/66ec2jZu3jLS4bt8VJZjqU) | [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Nuestra Historia](https://open.spotify.com/album/2AnQrfhr5hmAhB4ijW3Zyd) | 4:50 | 2022-07-01 | 2022-07-28 |
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2022-10-28 |  |
 | [Nunca Supe](https://open.spotify.com/track/29qW7YVKI1axBPqyPwX9ck) | [Mementto](https://open.spotify.com/artist/4V8yNockJPs4Ofk3pw2ymA) | [Nunca Supe](https://open.spotify.com/album/2BZY8ROagjCOhVEQIH9aBw) | 2:54 | 2022-06-03 | 2022-07-28 |
-| [obrador](https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [gigaaaante](https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo) | 3:33 | 2022-07-15 |  |
+| [obrador](https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [gigaaaante](https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo) | 3:33 | 2022-07-15 | 2022-11-17 |
 | [Obrador](https://open.spotify.com/track/7G5FlmUe9w4y9dToGFnpmQ) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Gigaaaante](https://open.spotify.com/album/0roPQkz7OJqTTB2dRw85e8) | 3:33 | 2022-06-03 | 2022-08-26 |
 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-07-01 | 2022-07-09 |
 | [Otra forma](https://open.spotify.com/track/06W9ONsbAAHO1RTs88kfMs) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Otra forma](https://open.spotify.com/album/37LU9PVNtRRrKAlN46XqMu) | 3:41 | 2022-06-03 | 2022-07-28 |

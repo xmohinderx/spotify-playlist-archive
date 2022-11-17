@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Larissa Lambert is our new RADAR artist to watch!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,107 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,117 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 5 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 |
 | 6 | [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 |
 | 7 | [Candy](https://open.spotify.com/track/79hX5auHsaio6gDOQcmeDy) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Candy](https://open.spotify.com/album/1670DOyCe1tpTfBNuOswI9) | 3:05 |
-| 8 | [Gone Without a Trace](https://open.spotify.com/track/3FiDuroMXcMhEELDhsGf9p) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Gone Without a Trace](https://open.spotify.com/album/14UUC7JJM4HtlHmRsApk18) | 3:02 |
+| 8 | [Gone Without a Trace](https://open.spotify.com/track/4fFFpyXVskyIZYV7zi0eoc) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [The Year of February](https://open.spotify.com/album/0zOFA5clNhMCA3ffYcS5RI) | 3:02 |
 | 9 | [Exit](https://open.spotify.com/track/3mOVlLxsQ5LHBqPJl4djqU) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Exit](https://open.spotify.com/album/0NM4Gbbp3Hz1dj6pulp9R6) | 2:15 |
 | 10 | [Best Friend](https://open.spotify.com/track/2gwfFTCzAdIW927SH6x3Pi) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Best Friend](https://open.spotify.com/album/3RQfcYVC3DERYdq5AY8iXi) | 3:18 |
 | 11 | [10's & 8's \(no 4's or 5's\)](https://open.spotify.com/track/26JfqluzJmS53ICnM7ADP7) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [burnt ur clothes & changed the addy](https://open.spotify.com/album/1glKNCGA70lAvykhx0Onr2) | 2:45 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 64 | [Jinx](https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Jinx](https://open.spotify.com/album/1sOBPFuUVC0B1wFvVifEVp) | 2:46 |
 | 65 | [Believe](https://open.spotify.com/track/7KSNAoH0zVnpb6bV7xezaX) | [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [Believe](https://open.spotify.com/album/3fphy1gARezaH2Xb96v5kQ) | 4:01 |
 
-Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMGM4MmM3YTgzODZkZmU0YWFjZTY3NDZhNDRmZjJkOTZj`
+Snapshot ID: `MTY2ODA4NTIwMCwwMDAwMDAwMGE1MGI4NGI2NTQ1MTU0NGIzNWUyZGY2NTdhNzVkZjhk`

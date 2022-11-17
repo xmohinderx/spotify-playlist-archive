@@ -276,6 +276,28 @@
     },
     {
       "album": {
+        "name": "Believe the Hype",
+        "url": "https://open.spotify.com/album/4LrLxDQQA1MoxU9ZRyL95Q"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167834,
+      "name": "Believe the Hype",
+      "url": "https://open.spotify.com/track/0YunvVUK70XaDeeTrOUcCt"
+    },
+    {
+      "album": {
         "name": "Believe the Hype (feat. Oli Sykes)",
         "url": "https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u"
       },
@@ -291,7 +313,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 167834,
       "name": "Believe the Hype (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB"

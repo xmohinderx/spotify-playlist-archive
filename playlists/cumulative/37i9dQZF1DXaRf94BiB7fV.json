@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: Nitika Rajkumar, Artwork: Isu Kim",
+  "description": "The best new music by Indian Indie artists, updated every Wednesday. Cover: THE RUNWAY, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 209652,
       "name": "Aana Tera",
       "url": "https://open.spotify.com/track/39ofWJYwWdzqXrs5appd5i"
@@ -3837,7 +3837,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 280250,
       "name": "Humnasheen",
       "url": "https://open.spotify.com/track/6tZ4vuMAQBfC7wjuu3lXTY"
@@ -4620,6 +4620,24 @@
     },
     {
       "album": {
+        "name": "Jab Se Aaya Tu",
+        "url": "https://open.spotify.com/album/4bvD0sVOGHsRvnrXxA5gOh"
+      },
+      "artists": [
+        {
+          "name": "Rohan Kamath",
+          "url": "https://open.spotify.com/artist/2Ni9NexOwtEehPqRXNSdlM"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Jab Se Aaya Tu",
+      "url": "https://open.spotify.com/track/49G28WSz9bWMLZWGLPxDE5"
+    },
+    {
+      "album": {
         "name": "Jab Tak Zinda Hain",
         "url": "https://open.spotify.com/album/3GI8brqP2qbHzgF2DoXcax"
       },
@@ -4749,6 +4767,28 @@
       "duration_ms": 157333,
       "name": "Jawab",
       "url": "https://open.spotify.com/track/3JxLiczxK0jAcRcKhC3iWb"
+    },
+    {
+      "album": {
+        "name": "Jeans Pe Titlian",
+        "url": "https://open.spotify.com/album/4eOGuFJ5KQkrmSlf3JUhmX"
+      },
+      "artists": [
+        {
+          "name": "Amlan Majumder",
+          "url": "https://open.spotify.com/artist/7x80oFaTODYBDeklVavWlI"
+        },
+        {
+          "name": "Boidurjyo Chowdhury",
+          "url": "https://open.spotify.com/artist/5J2VqDAwkgM5OrZWbWpdOT"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Jeans Pe Titlian",
+      "url": "https://open.spotify.com/track/4yt3WQnV8XgVQXgydvarlh"
     },
     {
       "album": {
@@ -9373,7 +9413,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 398487,
       "name": "Sabra",
       "url": "https://open.spotify.com/track/1XTmU27elAyFrt6fYk2EwU"
@@ -9621,6 +9661,32 @@
       "duration_ms": 225306,
       "name": "Sargoshi",
       "url": "https://open.spotify.com/track/25tQCb0l4IVT5WSPHTBBZj"
+    },
+    {
+      "album": {
+        "name": "Sargoshiyan",
+        "url": "https://open.spotify.com/album/5ke44cmpHCCM7IXYmRduzZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Kaushal",
+          "url": "https://open.spotify.com/artist/7dV7iZWMeDOqgktgz1oLNe"
+        },
+        {
+          "name": "Muheet Bharti",
+          "url": "https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214102,
+      "name": "Sargoshiyan",
+      "url": "https://open.spotify.com/track/7xTWkH8LXyFQoqQpTFhT7P"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is a takeover playlist of Lim Jae Beum, the representative vocalist of Korea. Meet Lim's 10 representative vocal songs at the top of the playlist. (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec \uc784\uc7ac\ubc94\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 \ud14c\uc774\ud06c\uc624\ubc84\uc785\ub2c8\ub2e4. \uc784\uc7ac\ubc94\uc758 \ub300\ud45c \ubcf4\uceec\uace1 10\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 \ucd5c\uc0c1\ub2e8\uc5d0\uc11c \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 306882,
+  "num_followers": 306858,
   "original_name": "v o K a l : Lim Jae Beum Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0NjE3MywwMDAwMDAwMDUxNDhlZDI5ZjA2YTZkZWM2ZTI4MTM5YTdiMGI1MDdl",
+  "snapshot_id": "MTY2ODE0NjE3MywwMDAwMDAwMGU1ZGI4NjY5OWRiMzk1MTNhNTEzODY1MTkxNGZiMTRj",
   "tracks": [
     {
       "added_at": "2022-11-11 05:56:13",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
-    },
-    {
-      "added_at": "2022-11-11 05:56:13",
-      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "added_at": "2022-11-11 05:56:13",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
-        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "I Can\u2019t",
-      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
-    },
-    {
-      "added_at": "2022-11-11 05:56:13",
-      "album": {
         "name": "love",
         "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 213275,
       "name": "comedy",
       "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
+    },
+    {
+      "added_at": "2022-11-11 05:56:13",
+      "album": {
+        "name": "I Can\u2019t (Re:WIND 4MEN Vol.02)",
+        "url": "https://open.spotify.com/album/4ZUX84xu3LpbFHtgyJdoF6"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "I Can\u2019t",
+      "url": "https://open.spotify.com/track/5o5yvRKiygg9Nh4Uvo0VTH"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs"
+        "name": "DOCTOR LAWYER (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Link",
-      "url": "https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW"
+      "duration_ms": 244040,
+      "name": "An Unfamiliar Day",
+      "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/0ruypxhtFg28qk7uJDSozs"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/6O3EdGPasHMi44JWmyi0nW"
+    },
+    {
+      "added_at": "2022-11-11 05:56:13",
+      "album": {
         "name": "The Story of Us",
         "url": "https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 216000,
       "name": "The Story of Us",
       "url": "https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k"
-    },
-    {
-      "added_at": "2022-11-11 05:56:13",
-      "album": {
-        "name": "DOCTOR LAWYER (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "An Unfamiliar Day",
-      "url": "https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "Red Moon: Beyond The Light",
-        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
         }
       ],
-      "duration_ms": 244173,
-      "name": "The Eternal Moment",
-      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
+      "duration_ms": 214346,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+        "name": "Red Moon: Beyond The Light",
+        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
       },
       "artists": [
         {
-          "name": "Jang Jane",
-          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
+      "duration_ms": 244173,
+      "name": "The Eternal Moment",
+      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "Autumn Memories",
-        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
+        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Autumn Memories (with Lee Seok Hoon)",
-      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
+      "duration_ms": 234269,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1507,22 +1503,6 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 234269,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
-    },
-    {
-      "added_at": "2022-11-11 05:56:13",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2022-11-11 05:56:13",
+      "album": {
+        "name": "Autumn Memories",
+        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Autumn Memories (with Lee Seok Hoon)",
+      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2022-11-11 05:56:13",
+      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/64UpaMQNLdwF1JD0JDaWor"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2022-11-11 05:56:13",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
       },
       "artists": [
         {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+      "duration_ms": 224480,
+      "name": "I Can't Help It (Prod. Jungkey)",
+      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
     },
     {
       "added_at": "2022-11-11 05:56:13",
@@ -1631,22 +1647,6 @@
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
-    },
-    {
-      "added_at": "2022-11-11 05:56:13",
-      "album": {
-        "name": "I Can't Help It",
-        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "I Can't Help It (Prod. Jungkey)",
-      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
     },
     {
       "added_at": "2022-11-11 05:56:13",

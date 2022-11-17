@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack oficial de la Liga Mexicana de Beisbol \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
-  "num_followers": 1897,
+  "num_followers": 1908,
   "original_name": "Liga Mexicana de Beisbol - Playlist Oficial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjU3MDkyMSwwMDAwMDAwMDc1Y2UyYjhjODEyY2QyYWY4ZGM1MTZiNGYzNWU3Y2Y2",
+  "snapshot_id": "MTY2MjU3MDkyMSwwMDAwMDAwMDgxNjg0YWNmMjZjMjY2ZjZhNWEyYzhiZTJjNzY0YTQ4",
   "tracks": [
     {
       "added_at": "2022-09-07 17:15:21",
@@ -355,22 +355,18 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -423,18 +419,22 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "De Mil Maneras",
+        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Sonora Siguaray",
+          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
         }
       ],
-      "duration_ms": 187022,
-      "name": "La Quebradora",
-      "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
+      "duration_ms": 246733,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 187022,
+      "name": "La Quebradora",
+      "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
         "name": "Zool\u00f3gico Tropical",
         "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
-        "name": "De Mil Maneras",
-        "url": "https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8"
-      },
-      "artists": [
-        {
-          "name": "Sonora Siguaray",
-          "url": "https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Payaso de rodeo",
-        "url": "https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S"
-      },
-      "artists": [
-        {
-          "name": "Caballo Dorado",
-          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Payaso de rodeo",
-      "url": "https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "K\u00f3digos",
         "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 227368,
       "name": "K\u00f3digos",
       "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Payaso de rodeo",
+        "url": "https://open.spotify.com/album/1NMqmkX9KhLoy5fXxtiS5S"
+      },
+      "artists": [
+        {
+          "name": "Caballo Dorado",
+          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Payaso de rodeo",
+      "url": "https://open.spotify.com/track/0EVcfyLGhkvm2RMXMWI456"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Play Ball",
+      "url": "https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
         "name": "El Soltero",
         "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 146146,
       "name": "Cangrejito Playero",
       "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D"
-      },
-      "artists": [
-        {
-          "name": "Caballo Dorado",
-          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "No rompas mi coraz\u00f3n - Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Rock or Bust",
-        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4yr1klPd996H8VREqxZw7D"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Caballo Dorado",
+          "url": "https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm"
         }
       ],
-      "duration_ms": 167133,
-      "name": "Play Ball",
-      "url": "https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz"
+      "duration_ms": 220960,
+      "name": "No rompas mi coraz\u00f3n - Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/01sw4YF783cqydsJQbJCwT"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "El Caballito de Palo",
-        "url": "https://open.spotify.com/album/1Vd88MWsLVH2BSjwDztRgB"
-      },
-      "artists": [
-        {
-          "name": "Joseph Fonseca",
-          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
-        }
-      ],
-      "duration_ms": 225149,
-      "name": "El Caballito de Palo",
-      "url": "https://open.spotify.com/track/2YedEu7sfD4HcmmLhjecNI"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 171826,
       "name": "El Bigote",
       "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "El Caballito de Palo",
+        "url": "https://open.spotify.com/album/1Vd88MWsLVH2BSjwDztRgB"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fonseca",
+          "url": "https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0"
+        }
+      ],
+      "duration_ms": 225149,
+      "name": "El Caballito de Palo",
+      "url": "https://open.spotify.com/track/2YedEu7sfD4HcmmLhjecNI"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "M\u00e1rchate Y Olv\u00eddame",
-        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Las Mulas De Moreno",
-      "url": "https://open.spotify.com/track/6E8hIsnaOcyzWScHmA27v2"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
         "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Fondo Fondo",
-        "url": "https://open.spotify.com/album/5KQtr7BEmt8TH8IcUw27eP"
+        "name": "M\u00e1rchate Y Olv\u00eddame",
+        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 181670,
-      "name": "Fondo Fondo",
-      "url": "https://open.spotify.com/track/3qPp2UgTYiGXxphydlrXSF"
+      "duration_ms": 158786,
+      "name": "Las Mulas De Moreno",
+      "url": "https://open.spotify.com/track/6E8hIsnaOcyzWScHmA27v2"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -2091,6 +2075,22 @@
       "duration_ms": 190521,
       "name": "Venimos del Desierto",
       "url": "https://open.spotify.com/track/7fBJbfwWRSCje16iboEAF7"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Fondo Fondo",
+        "url": "https://open.spotify.com/album/5KQtr7BEmt8TH8IcUw27eP"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 181670,
+      "name": "Fondo Fondo",
+      "url": "https://open.spotify.com/track/3qPp2UgTYiGXxphydlrXSF"
     },
     {
       "added_at": "2022-09-07 17:15:21",

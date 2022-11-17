@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-128 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
+129 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Oração \- Pense & Dance](https://open.spotify.com/track/5PRyGNj1hZEanG7KsaehdF) | [Lechuga Zafiro](https://open.spotify.com/artist/59CKhQjneZAPQKYcylrsVd), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Oração \(Pense & Dance\)](https://open.spotify.com/album/0IQcYNXQhSoJdpml6mUQY2) | 3:41 | 2021-11-16 |  |
 | [Ovulate](https://open.spotify.com/track/1uQpno2vQshMH4gjMKE539) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [The Bastard Tapes, Vol\. 3](https://open.spotify.com/album/0MLw49zSV4Y5ZrlJURaHAt) | 2:46 | 2021-11-16 |  |
 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 | 2022-06-09 |  |
-| [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 | 2022-01-28 |  |
+| [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 | 2022-06-09 |  |
+| [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 | 2022-01-28 | 2022-11-17 |
 | [Peng Black Girls](https://open.spotify.com/track/4pRaCcnpz979CNaMiOS1tS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Peng Black Girls](https://open.spotify.com/album/2bflMoQjvDfL59NRUMHylP) | 3:30 | 2021-11-16 |  |
 | [Period Tgzrmx](https://open.spotify.com/track/1QPxqYZsV9iangZD8F5cIb) | [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA) | [Period Tgzrmx](https://open.spotify.com/album/7GcapSaq8Sr44Nk0qJwz8l) | 1:52 | 2021-11-16 |  |
 | [Personal](https://open.spotify.com/track/0ysIMlVNmEuXU6qudDc0vm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Personal](https://open.spotify.com/album/1kLSUqwq5RtP16K0KgLCVr) | 2:32 | 2022-01-28 |  |

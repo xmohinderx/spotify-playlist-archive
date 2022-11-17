@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-297 songs - 1 day 3 hr 50 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
+298 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Autumn in New York](https://open.spotify.com/track/2skpUMopTEdxq57d3UlPCh) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 2:59 | 2022-07-21 |  |
 | [Autumn in New York](https://open.spotify.com/track/5OC0qjcuBnOHNjqMCgLE8v) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [Autumn in New York](https://open.spotify.com/album/1Lghm5aLmjNNf2pOl4bYFg) | 2:59 | 2021-11-10 | 2022-07-29 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2021-08-20 | 2022-06-01 |
+| [Autumn Leaves](https://open.spotify.com/track/2M5EVZsjXDyj532rLybsHt) | [Rasmus H Thomsen Trio](https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1), [Krydda Sundström](https://open.spotify.com/artist/6dI8O0N6q3qFU8OgvgpEIm), [Oskar Cederblad](https://open.spotify.com/artist/2FglkJbc16UM02HY1VovVM) | [Autumn Leaves](https://open.spotify.com/album/6LXuAUGcglKV3b4zEwbDqJ) | 4:01 | 2022-11-15 |  |
 | [Autumn Nocturne](https://open.spotify.com/track/6Jws7Ip1lI09JNDGppRHRv) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 6:52 | 2020-05-02\* | 2022-10-08 |
 | [Autumn Nocturne](https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 4:54 | 2020-05-02\* |  |
 | [Avec le temps](https://open.spotify.com/track/5uBpbSDljWMFtKxMYHsmpY) | [Giovanni Guidi](https://open.spotify.com/artist/0VAje6P3IhEGip401fqMAY) | [Avec le temps](https://open.spotify.com/album/5fdgxokqyJvryTNsva6nwr) | 6:33 | 2020-05-02\* | 2022-11-13 |
@@ -275,7 +276,7 @@
 | [This Is Not About You](https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [This is Not About You](https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI) | 3:50 | 2021-11-20 | 2022-11-13 |
 | [Those Peaceful Nights](https://open.spotify.com/track/3uL5MKK614H6AfCx2BKBqV) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 7:15 | 2022-03-10 | 2022-11-13 |
 | [Time After Time](https://open.spotify.com/track/3EeUl7XZAqrU2NoDTZjfdU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Very Best Of Jazz \- John Coltrane](https://open.spotify.com/album/7obpFoOlTlIsZzj1DQnqjy) | 7:42 | 2020-05-03 | 2022-06-29 |
-| [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2022-07-21 |  |
+| [Time After Time](https://open.spotify.com/track/0ZciyueIR3Jl1gh4lbiLsk) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust](https://open.spotify.com/album/4xqrPtNB1AmM2qFLOCZ1GW) | 7:43 | 2022-07-21 | 2022-11-17 |
 | [Trilly \- Variation](https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV) | [Giovanni Guidi Trio](https://open.spotify.com/artist/5AjiK2OwwKdIAZddY1gCgy) | [This Is The Day](https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2) | 4:57 | 2020-05-02\* | 2022-11-13 |
 | [True Sorry](https://open.spotify.com/track/5EzGOkUwkRUXYAyvjlEHah) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Illusions](https://open.spotify.com/album/67cksuMf5EvK5pu1DwGeFi) | 4:51 | 2020-10-27 | 2021-05-28 |
 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 | 2020-05-02\* |  |

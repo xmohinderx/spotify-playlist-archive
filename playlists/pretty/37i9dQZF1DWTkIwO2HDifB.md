@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Evoque Prata e os funks mais 🔑 do Brasil\. Foto: Mc Menor HR, Mc Menor SG, DJ Escobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,015,242 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,018,286 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

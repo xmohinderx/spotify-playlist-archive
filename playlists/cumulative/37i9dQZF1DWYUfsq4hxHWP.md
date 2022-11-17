@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Austin Snell, Artwork: Fanélie Muselier
 
-1,053 songs - 2 day 9 hr 37 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+1,056 songs - 2 day 9 hr 45 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Crazy](https://open.spotify.com/track/07DlFY6pnS648Vc7YbuvYF) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [Crazy](https://open.spotify.com/album/0gq8bTb8rOlRdERUHfcBGd) | 3:34 | 2022-10-19 |  |
 | [Crush](https://open.spotify.com/track/5mqGsaVbv5wvTzTnaDGbZu) | [Heidi Pack](https://open.spotify.com/artist/6TZ7AaC4Qs2RNdaPorBiPD) | [Crush](https://open.spotify.com/album/1C4bzjf9llY2sD3MfXfZDV) | 2:49 | 2022-09-21 |  |
 | [Cry Boy](https://open.spotify.com/track/2SBXLUgAAlFSI5Tb8edWgR) | [Averie Bielski](https://open.spotify.com/artist/676QIPEG5lmdat856mRPo7) | [Cry Boy](https://open.spotify.com/album/21Cfl4VL0RJ9ddMGnbnQ1p) | 4:11 | 2022-01-26 | 2022-03-10 |
+| [Cryin with the Windows Down](https://open.spotify.com/track/6D4dXlcyHDxOyXnXWKJ9Tw) | [Faren Rachels](https://open.spotify.com/artist/2HweKwi0jfedpODDq7r2XN) | [Cryin with the Windows Down](https://open.spotify.com/album/02YAoH9abnCY0SwOQQ88Im) | 3:05 | 2022-11-16 |  |
 | [Cut Myself Off](https://open.spotify.com/track/19GU9XHaVRunMfm9ZqOSpS) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Cut Myself Off](https://open.spotify.com/album/14I6ubYKauqbrlnppuUmZf) | 2:51 | 2022-03-23 | 2022-05-05 |
 | [Damaged](https://open.spotify.com/track/6DBAe3qH1fvPo3tAnyoVIx) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [I Hope She Hears These](https://open.spotify.com/album/0itWFpjULmnQUTvN7ScOAh) | 3:30 | 2022-08-17 | 2022-09-29 |
 | [Damn BNA](https://open.spotify.com/track/4xy8deDKHgp1OvboICH9ja) | [Bryan Frazier](https://open.spotify.com/artist/4XGE8POlT42DvWQzgs4rid) | [Damn BNA](https://open.spotify.com/album/23Ac8X6veyiqj46Gbv6lRm) | 3:12 | 2022-06-08 | 2022-07-21 |
@@ -527,7 +528,8 @@
 | [Just Have One](https://open.spotify.com/track/2DBxzBcbl7FyCybl2GJ3ki) | [Garrett Jacobs](https://open.spotify.com/artist/3kmcskeWk7KtY0iryNLt1f) | [Just Have One](https://open.spotify.com/album/5OYdBnyOBDaK7PENqeNw2I) | 3:02 | 2022-09-21 |  |
 | [Just Like July](https://open.spotify.com/track/6AV8mVeFUk0seEUx9m04zL) | [Anslee Davidson](https://open.spotify.com/artist/3mlqM4lAX2Su8FRDw4E3K7) | [Just Like July](https://open.spotify.com/album/3B0vTKdSiAYKG3zp49qzTM) | 3:14 | 2022-07-06 | 2022-08-04 |
 | [Just Like You](https://open.spotify.com/track/2BRlhxcuUsGP8xkYlNy3mY) | [Kali Arcaris](https://open.spotify.com/artist/6GLZpLl64nlqfxnnP1Czjg) | [Just Like You](https://open.spotify.com/album/2FR7gaT9MkZ8nw135URdyC) | 3:26 | 2022-02-02 | 2022-03-17 |
-| [K\-Town](https://open.spotify.com/track/3BAogSa0X0qnB11TFNOm7o) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 2:22 | 2022-10-19 |  |
+| [K\-Town](https://open.spotify.com/track/16uG4MpdBJNDsYdGw3KFkN) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 2:22 | 2022-11-16 |  |
+| [K\-Town](https://open.spotify.com/track/3BAogSa0X0qnB11TFNOm7o) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 2:22 | 2022-10-19 | 2022-11-17 |
 | [Katlyn's Song](https://open.spotify.com/track/3ddiGynXoh8qrAFO4CfIyx) | [Josey Lovett](https://open.spotify.com/artist/0cp7pWaSP70GMJwJTjuQ4q) | [Katlyn's Song](https://open.spotify.com/album/25HoDPKvALzqp783uGPKX0) | 4:18 | 2022-05-18 | 2022-06-30 |
 | [Keep on Keepin' On](https://open.spotify.com/track/3tmP1cd3GjRGqw7Eaj6rVZ) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Keep on Keepin' On](https://open.spotify.com/album/4dCUlzZpMqmJ8QbNjZOPJ4) | 2:58 | 2022-11-02 |  |
 | [Keeping Me Up All Night](https://open.spotify.com/track/3IjDghaXh385kOYVTQJ7rr) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Keeping Me Up All Night](https://open.spotify.com/album/4q3MfAPYMT68yrthrSD68x) | 3:29 | 2022-08-26 | 2022-10-06 |
@@ -755,6 +757,7 @@
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-01-19 | 2022-03-03 |
 | [Same Thing She Told Me](https://open.spotify.com/track/6l0r13fJCdDCU3Em9HadTb) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Same Thing She Told Me](https://open.spotify.com/album/3TZ1NW8Q7QUE6CDlkcUoGo) | 3:22 | 2022-08-03 | 2022-09-15 |
 | [Save Me From This Song](https://open.spotify.com/track/2nmFjRhx7NHV7jgU2SktZh) | [Marla](https://open.spotify.com/artist/4KGccd6ADo9fqCxcoX0SYX) | [Save Me From This Song](https://open.spotify.com/album/4NWpCjygqmwKr1BdrkzfYR) | 3:03 | 2022-11-02 |  |
+| [Say Less](https://open.spotify.com/track/3YXL4FpyqlLfACVcUbAtdQ) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [Say Less](https://open.spotify.com/album/0RMjE7LvFcd3f6v6psfcuQ) | 2:58 | 2022-11-16 |  |
 | [See You Around](https://open.spotify.com/track/13dkT23gxdSw2OeyRsvVCk) | [Taylor O'connor](https://open.spotify.com/artist/7LNDemvuWwHv4u6jtP3u6k) | [See You Around](https://open.spotify.com/album/5Y2JU0tXLNKnQQATJUzMaO) | 3:37 | 2022-01-12 | 2022-02-24 |
 | [See You There](https://open.spotify.com/track/4Rq0NZOK37DF6m6YuKH3d8) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [See You There](https://open.spotify.com/album/0uuNqhVoi6GJnbi8VZIb3Y) | 3:01 | 2022-07-20 | 2022-08-18 |
 | [Seein' Straight](https://open.spotify.com/track/3jUiuzTVVpkZBpAZQLZwXm) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Seein' Straight](https://open.spotify.com/album/0jFg1PQIUFpXU8yJ4RHPzI) | 3:53 | 2022-07-27 | 2022-09-09 |

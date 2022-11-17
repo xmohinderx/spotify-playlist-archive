@@ -1,12 +1,12 @@
 {
   "description": "Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 157363,
+  "num_followers": 157731,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQzMjA4OCwwMDAwMDAwMDBhNDg5NTAyNGFjMzlkODUxMjEyNjFlNzQzMzc5YjIw",
+  "snapshot_id": "MTY2ODQzMjA4OCwwMDAwMDAwMGM5MWY0YzAxMTI0YjNmOGJjM2E2NjdiMWVjMzllMGFl",
   "tracks": [
     {
       "added_at": "2022-11-14 13:21:28",
@@ -563,6 +563,30 @@
     {
       "added_at": "2022-11-14 13:21:28",
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
+    },
+    {
+      "added_at": "2022-11-14 13:21:28",
+      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2022-11-14 13:21:28",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
     },
     {
       "added_at": "2022-11-14 13:21:28",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-11-14 13:21:28",
       "album": {
+        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 168165,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
+    },
+    {
+      "added_at": "2022-11-14 13:21:28",
+      "album": {
         "name": "Bahia",
         "url": "https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 162857,
       "name": "Bahia",
       "url": "https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy"
-    },
-    {
-      "added_at": "2022-11-14 13:21:28",
-      "album": {
-        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 168165,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
     },
     {
       "added_at": "2022-11-14 13:21:28",
@@ -947,38 +947,6 @@
     {
       "added_at": "2022-11-14 13:21:28",
       "album": {
-        "name": "Melhor Op\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0heyA9Zjcf7j9w1ixRclKW"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Melhor Op\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7fiZYdnWf2HOrFCZbX0yEz"
-    },
-    {
-      "added_at": "2022-11-14 13:21:28",
-      "album": {
         "name": "Atura o Baile (The World Is Yours To Take) [Funk Remix / Budweiser Anthem Of The FIFA World Cup 2022]",
         "url": "https://open.spotify.com/album/393QpUdoGU8jMCJgF4s99B"
       },
@@ -1011,6 +979,54 @@
     {
       "added_at": "2022-11-14 13:21:28",
       "album": {
+        "name": "Melhor Op\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0heyA9Zjcf7j9w1ixRclKW"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Melhor Op\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7fiZYdnWf2HOrFCZbX0yEz"
+    },
+    {
+      "added_at": "2022-11-14 13:21:28",
+      "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2022-11-14 13:21:28",
+      "album": {
         "name": "Travessia - Spotify Singles",
         "url": "https://open.spotify.com/album/6fFIFnaCrSYWUeyK4HItVL"
       },
@@ -1023,30 +1039,6 @@
       "duration_ms": 205128,
       "name": "Travessia - Spotify Singles",
       "url": "https://open.spotify.com/track/07O5hhA4N5vxPwCq6U5ukg"
-    },
-    {
-      "added_at": "2022-11-14 13:21:28",
-      "album": {
-        "name": "Dias Antes de Mandrake",
-        "url": "https://open.spotify.com/album/3gMr7Z43VxFxQuCkRiHoX8"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Mc Manu do Marap\u00e9",
-          "url": "https://open.spotify.com/artist/1JCg59vLEjwBCqfste2zTy"
-        }
-      ],
-      "duration_ms": 177151,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/3hojhd3mfC37BMVVKrG1B4"
     },
     {
       "added_at": "2022-11-14 13:21:28",
@@ -1087,18 +1079,26 @@
     {
       "added_at": "2022-11-14 13:21:28",
       "album": {
-        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+        "name": "Dias Antes de Mandrake",
+        "url": "https://open.spotify.com/album/3gMr7Z43VxFxQuCkRiHoX8"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Mc Manu do Marap\u00e9",
+          "url": "https://open.spotify.com/artist/1JCg59vLEjwBCqfste2zTy"
         }
       ],
-      "duration_ms": 176920,
-      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+      "duration_ms": 177151,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3hojhd3mfC37BMVVKrG1B4"
     },
     {
       "added_at": "2022-11-14 13:21:28",

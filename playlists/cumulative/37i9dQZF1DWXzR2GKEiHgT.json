@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol"
+      },
+      "artists": [
+        {
+          "name": "Exotic Wave Sounds",
+          "url": "https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Astonishing Waves",
+      "url": "https://open.spotify.com/track/68i4DiObcwpjfsFcGmH2rn"
+    },
+    {
+      "album": {
         "name": "At Sea",
         "url": "https://open.spotify.com/album/3WA6b9wPZOuvqj94C2iW6i"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 148483,
       "name": "Beach Calmness",
       "url": "https://open.spotify.com/track/1PZoHdDM71mzOFW1T6H03y"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 106997,
       "name": "By the Sea",
       "url": "https://open.spotify.com/track/6I4kL4BehbZ96Yz3SKpll8"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 180777,
       "name": "Calm Pouring Ocean",
       "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 167705,
       "name": "Calm Waves pt. 1",
       "url": "https://open.spotify.com/track/7IulohcnhFlYLhx8VWaTmE"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 177051,
       "name": "Comforting Waves",
       "url": "https://open.spotify.com/track/0ldqimy3HlwCAdSSzU76VN"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 175313,
       "name": "Florida Rain Storm",
       "url": "https://open.spotify.com/track/41ngfIhPv1DkwHozVjH5Yc"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 155324,
       "name": "High Water Waves",
       "url": "https://open.spotify.com/track/0f8iKTCQLqoiw4vEfQaRZ9"
@@ -1135,7 +1153,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 154090,
       "name": "Ice Cold Ocean",
       "url": "https://open.spotify.com/track/0In0VHQsOFefbgAKscxvsr"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 191780,
       "name": "Monsun Rain Fall",
       "url": "https://open.spotify.com/track/07WLrVRWqGSg3NG3K5B9FC"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 191780,
       "name": "Monsun Thunderstorm",
       "url": "https://open.spotify.com/track/63qps2UseM4TTaciTdeK59"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 159010,
       "name": "Private Beach",
       "url": "https://open.spotify.com/track/6g1xE17djSI1Frb3n9VRif"
@@ -2147,6 +2165,24 @@
       "duration_ms": 212000,
       "name": "Roaring Waves",
       "url": "https://open.spotify.com/track/2gsm5ZQynDsHLAJKm8Iyj1"
+    },
+    {
+      "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rocking Waves",
+      "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
     },
     {
       "album": {
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 147534,
       "name": "Soft Rolling Waves",
       "url": "https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe"
@@ -2521,7 +2557,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 187000,
       "name": "Soothing Seawater",
       "url": "https://open.spotify.com/track/0H9JWLx8IE96p29qz0Mbej"
@@ -2809,7 +2845,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 162038,
       "name": "Summer Night By The Sea",
       "url": "https://open.spotify.com/track/6LDwyydIaHcrWxfonI0mIH"
@@ -2863,7 +2899,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 165057,
       "name": "Super Soothing Evening Waves",
       "url": "https://open.spotify.com/track/6L8AUW3COyY7Z2Ww1RIEVH"
@@ -2899,7 +2935,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 161539,
       "name": "The Ocean Is Talking",
       "url": "https://open.spotify.com/track/6s4SKfHInCaacxaJU4FHAk"
@@ -2953,7 +2989,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 184772,
       "name": "Three Minutes By The Ocean",
       "url": "https://open.spotify.com/track/0Rq7hjlS4yPq2VW2DsRLy6"
@@ -2989,7 +3025,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 225211,
       "name": "Thunderstorm In The Cabin",
       "url": "https://open.spotify.com/track/5PmVqECxxW8pix05pb5gjv"
@@ -3187,7 +3223,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 184759,
       "name": "Wave Sounds From Your Favorite Beach",
       "url": "https://open.spotify.com/track/2R6HB9DiSAxq08vj5dj9B3"
@@ -3284,6 +3320,24 @@
     },
     {
       "album": {
+        "name": "Waves From Around The World",
+        "url": "https://open.spotify.com/album/2Z05lMBeRFW6YsoRsXSbbW"
+      },
+      "artists": [
+        {
+          "name": "Mega Exotic Wave Sounds",
+          "url": "https://open.spotify.com/artist/2tyKKR4JcKONjx7FwVvUF2"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140925,
+      "name": "Waves Crashing At The Morning",
+      "url": "https://open.spotify.com/track/3VKlyYs7Kn8TxuExd2mRqW"
+    },
+    {
+      "album": {
         "name": "Peaceful Rivers, Rains, Waves",
         "url": "https://open.spotify.com/album/4G0FQMpqDIYcEiXL2X4AVv"
       },
@@ -3349,7 +3403,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 138672,
       "name": "Waves Crashing Relax",
       "url": "https://open.spotify.com/track/4M1nbhmkmAVyptAnd8dc8c"
@@ -3457,7 +3511,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 168180,
       "name": "Waves In The Morning Light",
       "url": "https://open.spotify.com/track/3OLmiKhYJzFhVR4HfzzS4G"

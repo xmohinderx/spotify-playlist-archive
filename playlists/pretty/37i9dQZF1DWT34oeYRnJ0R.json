@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: paopao",
-  "num_followers": 695958,
+  "num_followers": 695950,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMDk4N2FkYWM4YzU2Mzg0MzIzYTI3NjRiNzNmMGFhZjU4",
+  "snapshot_id": "MTY2NTM1NTUzNywwMDAwMDAwMDNhYzA0ODQ5NTIwNjRhYThlYjk2MGRjMGNiZWVkOGEx",
   "tracks": [
     {
       "added_at": "2022-10-09 22:45:37",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
+        "name": "lo que pas\u00f3",
+        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "lo que pas\u00f3",
+      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
         "name": "Cheers to the Best Memories",
         "url": "https://open.spotify.com/album/1WNwlBvoohUFZcJt3uLrd4"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 176030,
       "name": "Somebody That You Don't Know (feat. Rauw Alejandro)",
       "url": "https://open.spotify.com/track/2wHNBYCfnVNEXCOORj4tyV"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "lo que pas\u00f3",
-        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "lo que pas\u00f3",
-      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
         "name": "do you come here often?",
         "url": "https://open.spotify.com/album/1kRRlIpttyseZ2jP8nyGi0"
       },
@@ -939,22 +923,34 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "oop",
-        "url": "https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4"
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
       "artists": [
         {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
-        },
-        {
-          "name": "Kat Dahlia",
-          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 142784,
-      "name": "oop",
-      "url": "https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY"
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "Qu\u00edtame",
+        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Qu\u00edtame",
+      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -975,18 +971,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "Qu\u00edtame",
-        "url": "https://open.spotify.com/album/4t4yVRlJv2ontF1Ec0pGw8"
+        "name": "oop",
+        "url": "https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4"
       },
       "artists": [
         {
-          "name": "Michi",
-          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        },
+        {
+          "name": "Kat Dahlia",
+          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Qu\u00edtame",
-      "url": "https://open.spotify.com/track/2XsgggjzR8FnjROqMcLuCa"
+      "duration_ms": 142784,
+      "name": "oop",
+      "url": "https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1159,28 +1159,24 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
       },
       "artists": [
         {
           "name": "Immasoul",
           "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         }
       ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+      "duration_ms": 164093,
+      "name": "12AM",
+      "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
     },
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "el vuelo",
-        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
+        "name": "esc\u00e1pate",
+        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
       },
       "artists": [
         {
@@ -1188,9 +1184,9 @@
           "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 185293,
-      "name": "el vuelo",
-      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+      "duration_ms": 171477,
+      "name": "esc\u00e1pate",
+      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00"
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
       "artists": [
         {
           "name": "Immasoul",
           "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         }
       ],
-      "duration_ms": 164093,
-      "name": "12AM",
-      "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2022-10-09 22:45:37",
       "album": {
-        "name": "esc\u00e1pate",
-        "url": "https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f"
+        "name": "el vuelo",
+        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
       "artists": [
         {
@@ -1304,25 +1304,9 @@
           "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 171477,
-      "name": "esc\u00e1pate",
-      "url": "https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m"
-    },
-    {
-      "added_at": "2022-10-09 22:45:37",
-      "album": {
-        "name": "Me Recuerda a Ti",
-        "url": "https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20"
-      },
-      "artists": [
-        {
-          "name": "GioBulla",
-          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Me Recuerda a Ti",
-      "url": "https://open.spotify.com/track/1Fngw0WPdqz5jRasncUjZS"
+      "duration_ms": 185293,
+      "name": "el vuelo",
+      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
     },
     {
       "added_at": "2022-10-09 22:45:37",
@@ -1339,6 +1323,22 @@
       "duration_ms": 172044,
       "name": "9 Times Outta 10",
       "url": "https://open.spotify.com/track/6lPCFkM3CZxabYWDTgwtwB"
+    },
+    {
+      "added_at": "2022-10-09 22:45:37",
+      "album": {
+        "name": "Me Recuerda a Ti",
+        "url": "https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20"
+      },
+      "artists": [
+        {
+          "name": "GioBulla",
+          "url": "https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Me Recuerda a Ti",
+      "url": "https://open.spotify.com/track/1Fngw0WPdqz5jRasncUjZS"
     },
     {
       "added_at": "2022-10-09 22:45:37",

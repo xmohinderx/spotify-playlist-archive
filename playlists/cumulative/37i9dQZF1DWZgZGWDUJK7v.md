@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: The Year We Turned 29\(아홉수 우리들\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-96 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+97 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [To be honest I still love you](https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq) | [Suki](https://open.spotify.com/artist/2moEpVrvwnQKjR9ZaDgbVk) | [The Crush Of Spring OST Part.6](https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI) | 3:36 | 2022-06-13 |  |
 | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ) | 3:40 | 2022-05-09 |  |
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-09 |  |
+| [Way too young](https://open.spotify.com/track/6rjglTg4ddjLWzpwJz7cMp) | [Geum Nara](https://open.spotify.com/artist/3768yyysXGqQOcJMi1GvZ7) | [Coffee Fox Kim Sam Wol \(Original Soundtrack\), Pt.11](https://open.spotify.com/album/3y7lANNak9KN0BLeNFIWEs) | 3:20 | 2022-11-16 |  |
 | [What I want](https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [What I want \(From "Odd Girl Out" \[Original Soundtrack\]\)](https://open.spotify.com/album/3lWs144DBXJa8j6hERrwQK) | 3:58 | 2022-05-09 |  |
 | [When We Were Young](https://open.spotify.com/track/7EbqPyHFpXmcTTewbsX9hz) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [When We Were Young \(Good Doctor X XIA\)](https://open.spotify.com/album/5PF1OECcTJ7s3XhEHr1lNd) | 3:18 | 2022-08-25 |  |
 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-10 |  |

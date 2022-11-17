@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 61154,
+  "num_followers": 61207,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDkzNjg3OTBiOWYyMzRlZGY4ODVjMjVmNGI1MjRhMzMz",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDBjNDVmMTQ2MjdkMzU2YzQyNWQwN2U0N2I0ZjAxMjU5",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "Introducing George Guzman",
-        "url": "https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb"
-      },
-      "artists": [
-        {
-          "name": "George Guzman",
-          "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Marilu",
-      "url": "https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
         "name": "Joey",
         "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 452373,
       "name": "That's How Rumors Start",
       "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Introducing George Guzman",
+        "url": "https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb"
+      },
+      "artists": [
+        {
+          "name": "George Guzman",
+          "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "Marilu",
+      "url": "https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -505,24 +505,24 @@
       "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
+      "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Con Todos los Hierros: Everything But The Kitchen Sink",
-        "url": "https://open.spotify.com/album/4VXR5GVsHxY0dXM0XwK9rX"
+        "name": "En Fiesta Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
       },
       "artists": [
         {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
         },
         {
-          "name": "Cortijo Y Su Combo",
-          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Arrecot\u00edn Arrecot\u00e1n",
-      "url": "https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf"
+      "duration_ms": 170813,
+      "name": "Seis Chorreao",
+      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
     }
   ],
   "unique_name": "Boogaloo Essentials",

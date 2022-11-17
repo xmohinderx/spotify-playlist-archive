@@ -1,12 +1,12 @@
 {
   "description": "Your favorite holiday tunes, like you've never heard before. Cover: Meghan Trainor ",
-  "num_followers": 687530,
+  "num_followers": 688183,
   "original_name": "Spotify Singles: Holiday Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzkyNTgyMywwMDAwMDAwMGY1ZDFjY2VjMzg5ZWQ0MzZlYjUzY2Y4MWExY2M1ZmIw",
+  "snapshot_id": "MTY2ODYzNDQwNCwwMDAwMDAwMDA3ZTMzNGM4MzQ4MTZmNWViMWJiMjkwMTA3NDk1NGE3",
   "tracks": [
     {
       "added_at": "2022-11-08 16:43:43",
@@ -23,6 +23,146 @@
       "duration_ms": 194311,
       "name": "White Christmas - Spotify Singles - Christmas, Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Must Be Santa (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 311423,
+      "name": "Must Be Santa - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Christmas Tree Farm - Spotify Singles",
+        "url": "https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 214709,
+      "name": "Christmas Tree Farm - Spotify Singles",
+      "url": "https://open.spotify.com/track/3agFbERmZM62th15YW4Iru"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "After LIKE (Holiday Remix)",
+        "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        },
+        {
+          "name": "CHASE",
+          "url": "https://open.spotify.com/artist/0TkXh99ljRHx80msvYrLyu"
+        },
+        {
+          "name": "DARM",
+          "url": "https://open.spotify.com/artist/0wZluV8sVibEhvFXIlkFtF"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "After LIKE - Holiday Remix",
+      "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+        "url": "https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL"
+      },
+      "artists": [
+        {
+          "name": "Lasse Skriver",
+          "url": "https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "It Must Have Been Love (Christmas for the Broken Hearted) - Spotify Singles: Holiday",
+      "url": "https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Driving Home for Christmas (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 221398,
+      "name": "Driving Home for Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl"
+    },
+    {
+      "added_at": "2022-11-16 05:59:11",
+      "album": {
+        "name": "Blanca Navidad (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 159579,
+      "name": "Blanca Navidad - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Triste Navidad - Spotify Singles",
+        "url": "https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Triste Navidad - Spotify Singles",
+      "url": "https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D"
+    },
+    {
+      "added_at": "2022-11-16 05:57:13",
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "Shchedrivka - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC"
     },
     {
       "added_at": "2022-11-08 16:43:43",

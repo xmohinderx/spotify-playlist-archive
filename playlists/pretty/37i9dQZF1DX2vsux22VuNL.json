@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Elana Dara",
-  "num_followers": 239105,
+  "num_followers": 239271,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU1MzI5NywwMDAwMDAwMDJjNGI2MDI4NWI0ODBkZDJhMTYyNDI5ZDc2YTZjOTYy",
+  "snapshot_id": "MTY2ODU1MzI5NywwMDAwMDAwMGRhMjRjZWFjYzFlNDM2MDIyYjhiNWIyZjVkOTEyZTk3",
   "tracks": [
     {
       "added_at": "2022-11-04 03:00:00",
@@ -183,6 +183,30 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Aperta Start",
+        "url": "https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Aperta Start",
+      "url": "https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj"
       },
@@ -207,30 +231,6 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Aperta Start",
-        "url": "https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "Aperta Start",
-      "url": "https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
     },
     {
-      "added_at": "2022-11-16 01:26:03",
+      "added_at": "2022-11-17 01:23:48",
       "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
     },
     {
-      "added_at": "2022-11-16 01:26:03",
+      "added_at": "2022-11-17 01:23:48",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR"
@@ -431,30 +431,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Final de Semana",
-        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 201682,
-      "name": "Final de Semana",
-      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Penelope",
         "url": "https://open.spotify.com/album/71htdEQmQqPoSQwdTR0auD"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 171513,
       "name": "Penelope",
       "url": "https://open.spotify.com/track/66qOxO7krWQpQWZPi1IzQo"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Final de Semana",
+        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 201682,
+      "name": "Final de Semana",
+      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
     },
     {
-      "added_at": "2022-11-16 01:26:03",
+      "added_at": "2022-11-17 01:23:48",
       "album": {
         "name": "Ca\u00f3tico",
         "url": "https://open.spotify.com/album/34JUsBa5YJgfglrO4Sum50"
@@ -607,34 +607,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Ap\u00ea 1001",
-        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ap\u00ea 1001",
-      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "EITA MENINA",
         "url": "https://open.spotify.com/album/4NIEzSSeFxaLxa66ENiqaE"
       },
@@ -671,6 +643,34 @@
       "duration_ms": 244999,
       "name": "Amor Bandido",
       "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Ap\u00ea 1001",
+        "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ap\u00ea 1001",
+      "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -807,6 +807,34 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Sussurros",
+        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Sussurros",
+      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Onde Voc\u00ea Mora",
         "url": "https://open.spotify.com/album/5zYpZmVSr81MqPSyyDEpHq"
       },
@@ -835,34 +863,6 @@
       "duration_ms": 253354,
       "name": "Onde Voc\u00ea Mora",
       "url": "https://open.spotify.com/track/7qpSEfTO2686bD0th4KEEM"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Sussurros",
-        "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Sussurros",
-      "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Enigma",
-        "url": "https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        }
-      ],
-      "duration_ms": 240503,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Salserin #1 - Para",
         "url": "https://open.spotify.com/album/375MzJOkgq1Dp7PNW0MOF9"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 210429,
       "name": "Salserin #1 - Para",
       "url": "https://open.spotify.com/track/4803QEhCk7Oq6J6sJEY9GB"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "duration_ms": 240503,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Saideira",
+        "url": "https://open.spotify.com/album/4J6Rgtq5kdNafv4X9hj5az"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "duration_ms": 182708,
+      "name": "Saideira",
+      "url": "https://open.spotify.com/track/23WPF6PxByuFrUep6T4jEI"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1327,30 +1343,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Eu vim pra Somar",
-        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
-      },
-      "artists": [
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Eu vim pra Somar",
-      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Queria Te Ver",
         "url": "https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8"
       },
@@ -1375,38 +1367,46 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Saideira",
-        "url": "https://open.spotify.com/album/4J6Rgtq5kdNafv4X9hj5az"
+        "name": "Eu vim pra Somar",
+        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        }
-      ],
-      "duration_ms": 182708,
-      "name": "Saideira",
-      "url": "https://open.spotify.com/track/23WPF6PxByuFrUep6T4jEI"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK 3030",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
         },
         {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
         }
       ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+      "duration_ms": 223448,
+      "name": "Eu vim pra Somar",
+      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2022-11-17 01:23:48",
+      "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
+      },
+      "artists": [
+        {
+          "name": "Onze:20",
+          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 197083,
+      "name": "Efeito Brasa",
+      "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1431,6 +1431,26 @@
       "duration_ms": 139200,
       "name": "Malandra Treinada",
       "url": "https://open.spotify.com/track/2sPKxr3t0kXHcVvHCfgxoV"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK 3030",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1479,6 +1499,26 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Sei Bem",
+        "url": "https://open.spotify.com/album/41ba4fpxK4zXQ6EE0zM3F0"
+      },
+      "artists": [
+        {
+          "name": "Tiago Mac",
+          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 124235,
+      "name": "Sei Bem",
+      "url": "https://open.spotify.com/track/0D3GViDNdKaFlHwaSEFhOu"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Marrenta",
         "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
       },
@@ -1515,6 +1555,22 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
+        "name": "Dif\u00edcil Lembrar, n\u00e9?",
+        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "Dif\u00edcil Lembrar, n\u00e9?",
+      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
         "name": "Como \u00c9 Que Faz",
         "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
       },
@@ -1527,26 +1583,6 @@
       "duration_ms": 160747,
       "name": "Como \u00c9 Que Faz",
       "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Sei Bem",
-        "url": "https://open.spotify.com/album/41ba4fpxK4zXQ6EE0zM3F0"
-      },
-      "artists": [
-        {
-          "name": "Tiago Mac",
-          "url": "https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 124235,
-      "name": "Sei Bem",
-      "url": "https://open.spotify.com/track/0D3GViDNdKaFlHwaSEFhOu"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1571,42 +1607,6 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2022-11-16 01:26:03",
-      "album": {
-        "name": "V\u00eanus",
-        "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
-      },
-      "artists": [
-        {
-          "name": "Onze:20",
-          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 197083,
-      "name": "Efeito Brasa",
-      "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Dif\u00edcil Lembrar, n\u00e9?",
-        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 155452,
-      "name": "Dif\u00edcil Lembrar, n\u00e9?",
-      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Altamira #14 - Medo",
         "url": "https://open.spotify.com/album/4KrCWuExqb7Xjxi8dQ7ukz"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 276705,
       "name": "Ac\u00fastico Altamira #14 - Medo",
       "url": "https://open.spotify.com/track/4IfMGfaZCGFEfzFizozRco"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-11-04 03:00:00",
       "album": {
-        "name": "Incompreens\u00edvel",
-        "url": "https://open.spotify.com/album/5ruFS6omFm5SYUeQc3WDaM"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Rossi",
-          "url": "https://open.spotify.com/artist/4ffbPlugxavkW9jARlpNBA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Incompreens\u00edvel",
-      "url": "https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
         "name": "\u00daltima Mensagem",
         "url": "https://open.spotify.com/album/4qMQhFYLjAzYvFkxvVJOR4"
       },
@@ -1759,22 +1743,6 @@
       "duration_ms": 174482,
       "name": "\u00daltima Mensagem",
       "url": "https://open.spotify.com/track/0aiIX2aJenYmGFw1BWUyxc"
-    },
-    {
-      "added_at": "2022-11-04 03:00:00",
-      "album": {
-        "name": "Calo na Garganta",
-        "url": "https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 268201,
-      "name": "Calo na Garganta",
-      "url": "https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy"
     },
     {
       "added_at": "2022-11-04 03:00:00",
@@ -1815,6 +1783,38 @@
       "duration_ms": 177909,
       "name": "Seu Dia",
       "url": "https://open.spotify.com/track/1Pikvtc3HOtqLeij6AVDGz"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Calo na Garganta",
+        "url": "https://open.spotify.com/album/0Me3dnywxrJaEYJupOKnZv"
+      },
+      "artists": [
+        {
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
+        }
+      ],
+      "duration_ms": 268201,
+      "name": "Calo na Garganta",
+      "url": "https://open.spotify.com/track/74DqyBE9PKIcTEeFNBC3Jy"
+    },
+    {
+      "added_at": "2022-11-04 03:00:00",
+      "album": {
+        "name": "Incompreens\u00edvel",
+        "url": "https://open.spotify.com/album/5ruFS6omFm5SYUeQc3WDaM"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rossi",
+          "url": "https://open.spotify.com/artist/4ffbPlugxavkW9jARlpNBA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Incompreens\u00edvel",
+      "url": "https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi"
     },
     {
       "added_at": "2022-11-04 03:00:00",

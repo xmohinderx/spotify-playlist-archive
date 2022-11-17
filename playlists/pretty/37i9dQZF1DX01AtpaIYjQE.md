@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,079 likes - 87 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,169 likes - 87 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 |
-| 2 | [一斉ノ喝采](https://open.spotify.com/track/4XP3BtzCEjRYff2K0M1HkY) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [一斉ノ喝采](https://open.spotify.com/album/4df4MRoP9eRvvx6TwnhRyK) | 3:33 |
+| 1 | [往け](https://open.spotify.com/track/0IvfMAxkx2lbAfJUYmwS7J) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:49 |
+| 2 | [一斉ノ喝采](https://open.spotify.com/track/1rZxzheHxWqFG7f58kXZrm) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:33 |
 | 3 | [dis/connect](https://open.spotify.com/track/1wDxr0NwlusJFkwu6ci8WO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:25 |
 | 4 | [シャンプーソング](https://open.spotify.com/track/2IqjLpWrs5gI2xG2OEFxvx) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:16 |
-| 5 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
-| 6 | [白銀](https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [白銀](https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy) | 4:24 |
-| 7 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
+| 5 | [明け星](https://open.spotify.com/track/4zfiFwHNwOH0iNKTSGp4kx) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:27 |
+| 6 | [白銀](https://open.spotify.com/track/7qWVkBPOykbDGQ2D51tYiq) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:23 |
+| 7 | [炎](https://open.spotify.com/track/3YXGSpMR27cthwFJfwd5DY) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:37 |
 | 8 | [逃飛行](https://open.spotify.com/track/4la4G9g7JzxRIDXH6HIJvd) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:52 |
-| 9 | [HADASHi NO STEP](https://open.spotify.com/track/2chbq2OYbQeg5uDmr0bNhj) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [HADASHi NO STEP](https://open.spotify.com/album/6zPKHFU11OqxAGDvN0atmV) | 3:42 |
-| 10 | [シフクノトキ](https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シフクノトキ](https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj) | 3:07 |
-| 11 | [土曜日のわたしたちは](https://open.spotify.com/track/3oNJin9upticyZf6OuoGwh) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [土曜日のわたしたちは](https://open.spotify.com/album/1N97AkG9X4DExcr5PNTxXs) | 4:08 |
+| 9 | [HADASHi NO STEP](https://open.spotify.com/track/6s1WMXoUhEpgWcBYCRJq2n) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:42 |
+| 10 | [シフクノトキ](https://open.spotify.com/track/57zh02Y7xMlLY6FEdOquFu) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:08 |
+| 11 | [土曜日のわたしたちは](https://open.spotify.com/track/0h0VPPZ99UwmOy3gylbrAk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:10 |
 | 12 | [悪女のオキテ](https://open.spotify.com/track/29cqealgSJ6M7qSd6ilP6A) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:01 |
-| 13 | [dawn](https://open.spotify.com/track/1IRwNWiB2aDEoSdUgjJmay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [dawn](https://open.spotify.com/album/5rV3ABHl2JMQeR1U1fiXRh) | 4:06 |
-| 14 | [NEW ME](https://open.spotify.com/track/0essQdYYWaolOQq1MfVZ2o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [NEW ME](https://open.spotify.com/album/1XhChLG0SmRFUKRvfws0JU) | 4:21 |
+| 13 | [dawn](https://open.spotify.com/track/2JhZFAnx6fJMuQhbdfmQAC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:05 |
+| 14 | [NEW ME](https://open.spotify.com/track/0dFOw1Zip1KGCAC70MNtLC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:24 |
 | 15 | [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:08 |
 | 16 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
 | 17 | [Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:11 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01AtpaIYjQE.md) - [plain]
 | 86 | [リングアベル](https://open.spotify.com/track/1PfPiEZ093M5oxinl5TAoO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Catch the Moment](https://open.spotify.com/album/5mr96wuap8SvgVr9YnfUry) | 4:45 |
 | 87 | [cancellation](https://open.spotify.com/track/2PaBbS561Wft9NqEz1lSvE) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:11 |
 
-Snapshot ID: `MTY2ODUyNDQwMCwwMDAwMDAwMGU0ZGU4YTViMWU0NTQyNzllNmQ1MjhiMWJmMGUwN2M1`
+Snapshot ID: `MTY2ODUyNDQwMCwwMDAwMDAwMDE3NjE5OTU1NTNlNDY1ZTE1YzVlZmVmZWViODE1ODZh`

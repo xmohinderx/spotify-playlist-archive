@@ -1616,6 +1616,24 @@
     },
     {
       "album": {
+        "name": "Metality (The Vitality Anthem)",
+        "url": "https://open.spotify.com/album/5Q3XnMwNq0alVnGo0KsSvI"
+      },
+      "artists": [
+        {
+          "name": "Kiichi Chaos",
+          "url": "https://open.spotify.com/artist/76s6Ffg2kAhwp9i9ayMhfz"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300500,
+      "name": "Metality - The Vitality Anthem",
+      "url": "https://open.spotify.com/track/2rfJ2HBOtQmfiS5sllrgpG"
+    },
+    {
+      "album": {
         "name": "Moon Over the Castle (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/3ZgYohcrHNEN6kEDRhUmya"
       },
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-17",
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/2OPcwNyO1CmKwlqiP0Y4DT"

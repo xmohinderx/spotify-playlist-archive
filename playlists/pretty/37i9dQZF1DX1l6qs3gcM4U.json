@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos x Nenny.  ",
-  "num_followers": 144898,
+  "num_followers": 145024,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyNDgwMCwwMDAwMDAwMGU3ODg2MTQ0MzE1MjFhZjFmYWM2YmQwMTk3NjM0NjQw",
+  "snapshot_id": "MTY2ODEyNDgwMCwwMDAwMDAwMDA5YmZkODAzZTg3ODNkYTkxZThkNTk5YTVmZWI5YjM3",
   "tracks": [
     {
       "added_at": "2022-11-11 00:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Akanadja",
         "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 182023,
       "name": "Akanadja",
       "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -471,22 +471,18 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
       },
       "artists": [
         {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        },
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
         }
       ],
-      "duration_ms": 183092,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -511,18 +507,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+        "name": "Tudo por Amor",
+        "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
       },
       "artists": [
         {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Kataleya",
+          "url": "https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP"
         }
       ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+      "duration_ms": 206290,
+      "name": "Tudo por Amor",
+      "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -543,22 +543,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Tudo por Amor",
-        "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/2moMpJNDCjO18fma2HUBo2"
       },
       "artists": [
         {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
         },
         {
-          "name": "Kataleya",
-          "url": "https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP"
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
         }
       ],
-      "duration_ms": 206290,
-      "name": "Tudo por Amor",
-      "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
+      "duration_ms": 183092,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -635,6 +635,38 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
+        "name": "Novinha",
+        "url": "https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 189850,
+      "name": "Novinha",
+      "url": "https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Batom",
+        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 212147,
+      "name": "Batom",
+      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
         "name": "Tudo de Novo",
         "url": "https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz"
       },
@@ -671,22 +703,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Batom",
-        "url": "https://open.spotify.com/album/6w1tgURgujpFVofGsctRC7"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 212147,
-      "name": "Batom",
-      "url": "https://open.spotify.com/track/7L77rpmvDOZw735WrQ6lV2"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/4qj9obJTYNr27vbvyFb6GX"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Novinha",
-        "url": "https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN"
+        "name": "Fala so",
+        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
       },
       "artists": [
         {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
         }
       ],
-      "duration_ms": 189850,
-      "name": "Novinha",
-      "url": "https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf"
+      "duration_ms": 206086,
+      "name": "Fala so",
+      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -735,22 +751,6 @@
       "duration_ms": 221462,
       "name": "Vais Me Perder",
       "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Fala so",
-        "url": "https://open.spotify.com/album/59O63s5iVmOQH7AWS67tqA"
-      },
-      "artists": [
-        {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Fala so",
-      "url": "https://open.spotify.com/track/5dCIpLHT7gTABbt7DoWEEk"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Jeito Dela",
-        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
-      },
-      "artists": [
-        {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Jeito Dela",
-      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "N\u00e3o vai l\u00e1",
         "url": "https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 187000,
       "name": "N\u00e3o vai l\u00e1",
       "url": "https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Jeito Dela",
+        "url": "https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Jeito Dela",
+      "url": "https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "\u00c9 Golo",
-        "url": "https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q"
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
       },
       "artists": [
         {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
         }
       ],
-      "duration_ms": 216000,
-      "name": "\u00c9 Golo",
-      "url": "https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz"
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
+        "name": "\u00c9 Golo",
+        "url": "https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "\u00c9 Golo",
+      "url": "https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
         "name": "Zolana",
         "url": "https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn"
       },
@@ -991,38 +1007,6 @@
       "duration_ms": 234971,
       "name": "Kuyuyu",
       "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Puro",
-      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 190190,
       "name": "No Bad Vibez",
       "url": "https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Africana",
         "url": "https://open.spotify.com/album/17vDciwK52wtjT5rFjmlXt"
       },
@@ -1131,26 +1131,6 @@
       "duration_ms": 200940,
       "name": "Africana",
       "url": "https://open.spotify.com/track/39GEvvoMVqRnxpy69XGRvT"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
-        "name": "Sempre Sonhei (feat. Yasmine)",
-        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 239189,
-      "name": "Sempre Sonhei (feat. Yasmine)",
-      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1171,6 +1151,26 @@
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Sempre Sonhei (feat. Yasmine)",
+        "url": "https://open.spotify.com/album/28CIGKGLowlhWdHy7G8IHO"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 239189,
+      "name": "Sempre Sonhei (feat. Yasmine)",
+      "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Saudades",
-        "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
-      },
-      "artists": [
-        {
-          "name": "\u00c9rica Boaventura",
-          "url": "https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg"
-        }
-      ],
-      "duration_ms": 249497,
-      "name": "Saudades",
-      "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "J\u00e1 N\u00e3o Sei",
         "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 258324,
       "name": "Me Leva Contigo",
       "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Saudades",
+        "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
+      },
+      "artists": [
+        {
+          "name": "\u00c9rica Boaventura",
+          "url": "https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg"
+        }
+      ],
+      "duration_ms": 249497,
+      "name": "Saudades",
+      "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
     },
     {
       "added_at": "2022-11-11 00:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-11-11 00:00:00",
       "album": {
-        "name": "Lambuxa na Bo",
-        "url": "https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k"
-      },
-      "artists": [
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 183889,
-      "name": "Lambuxa na Bo",
-      "url": "https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan"
-    },
-    {
-      "added_at": "2022-11-11 00:00:00",
-      "album": {
         "name": "Sinto Falta",
         "url": "https://open.spotify.com/album/10aek1HVhJYomxdvkC7jyq"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 202397,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
+    },
+    {
+      "added_at": "2022-11-11 00:00:00",
+      "album": {
+        "name": "Lambuxa na Bo",
+        "url": "https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k"
+      },
+      "artists": [
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 183889,
+      "name": "Lambuxa na Bo",
+      "url": "https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan"
     },
     {
       "added_at": "2022-11-11 00:00:00",

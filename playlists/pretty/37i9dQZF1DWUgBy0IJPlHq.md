@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Sturgill Simpson
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,294 likes - 131 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,549 likes - 131 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

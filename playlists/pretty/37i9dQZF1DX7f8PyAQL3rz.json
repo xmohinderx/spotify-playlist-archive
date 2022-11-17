@@ -1,12 +1,12 @@
 {
   "description": "tropa do faf\u00e1 quem n\u00e3o gosta de nois t\u00e1 podre por dentro",
-  "num_followers": 981525,
+  "num_followers": 983601,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE3MjQzNiwwMDAwMDAwMGEwYjRhNGZjNzk5YzcyZjY4YzE5NjMwZjkyOWZiZDdh",
+  "snapshot_id": "MTY2ODE3MjQzNiwwMDAwMDAwMDYzNTk5ZWE2ZWRhYTFkMDU1N2YwNGY3NzM0YWI2Y2Yx",
   "tracks": [
     {
       "added_at": "2022-11-11 13:13:56",
@@ -951,6 +951,30 @@
     {
       "added_at": "2022-11-11 13:13:56",
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
+    },
+    {
+      "added_at": "2022-11-11 13:13:56",
+      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2022-11-11 13:13:56",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
     },
     {
       "added_at": "2022-11-11 13:13:56",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-11-11 13:13:56",
       "album": {
-        "name": "Bem Melhor",
-        "url": "https://open.spotify.com/album/6ZixmbQx5Rjm4H6wYkPrsp"
-      },
-      "artists": [
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Bem Melhor",
-      "url": "https://open.spotify.com/track/14SljsjDUvcK8xLAJrR7qW"
-    },
-    {
-      "added_at": "2022-11-11 13:13:56",
-      "album": {
         "name": "Revela\u00e7\u00e3o do Ano",
         "url": "https://open.spotify.com/album/69pD9wpbdbNMmcX2x4zgQR"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 135529,
       "name": "Revela\u00e7\u00e3o do Ano",
       "url": "https://open.spotify.com/track/5fKjpVyB8HIK9Gm1pV3PJm"
+    },
+    {
+      "added_at": "2022-11-11 13:13:56",
+      "album": {
+        "name": "Bem Melhor",
+        "url": "https://open.spotify.com/album/6ZixmbQx5Rjm4H6wYkPrsp"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Bem Melhor",
+      "url": "https://open.spotify.com/track/14SljsjDUvcK8xLAJrR7qW"
     },
     {
       "added_at": "2022-11-11 13:13:56",

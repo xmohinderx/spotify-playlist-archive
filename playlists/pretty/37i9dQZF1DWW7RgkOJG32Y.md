@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\. Cover: Scotty McCreery
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,275 likes - 82 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,550 likes - 82 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

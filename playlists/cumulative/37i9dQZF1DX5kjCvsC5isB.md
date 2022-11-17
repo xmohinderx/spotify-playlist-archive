@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Maggie Lindemann
 
-281 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
+282 songs - 14 hr 49 min - [published](https://open.spotify.com/playlist/1gH63Zpl7ewTwMhhkAimLS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Messed Up](https://open.spotify.com/track/51EU0HEsjbN3YudW5oPj08) | [KIITA](https://open.spotify.com/artist/1Z1d9w6X8vxMyZvM19a7vy) | [Messed Up](https://open.spotify.com/album/314gXwQOtMHSVDRzz6Jq43) | 2:54 | 2021-07-30 | 2022-04-02 |
 | [Modern Toy](https://open.spotify.com/track/5IdJI5FndzoRsmOwQ4iWqb) | [Glove](https://open.spotify.com/artist/4QbWweBoGYV4uFUQZeK1cy) | [Modern Toy](https://open.spotify.com/album/0WIiKL8HBB0muzYn5wHThY) | 3:34 | 2021-10-01 | 2022-01-22 |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-11-05 | 2022-01-15 |
-| [Monday](https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Monday](https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost) | 2:56 | 2021-09-24 |  |
+| [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 | 2022-10-07 |  |
+| [Monday](https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Monday](https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost) | 2:56 | 2021-09-24 | 2022-11-17 |
 | [MONEY](https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:14 | 2022-06-24 |  |
 | [MONEY](https://open.spotify.com/track/6uEwHhQjA253wuQQ6KDMAj) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MONEY](https://open.spotify.com/album/5kVYC2LhvuwUxVhfLQ9i6T) | 3:14 | 2022-04-01 | 2022-06-25 |
 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 | 2021-07-30 |  |

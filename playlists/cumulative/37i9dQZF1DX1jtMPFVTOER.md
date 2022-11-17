@@ -2,7 +2,7 @@
 
 ### [Orbit](https://open.spotify.com/playlist/37i9dQZF1DX1jtMPFVTOER)
 
-> Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
+> Explore a genre bending universe centered around jazz\. Cover: DOMi & JD BECK
 
 349 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/1HzUqJHRCll2EIj4taxTFD)
 

@@ -4,7 +4,7 @@
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-54 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
+55 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Lay You Down](https://open.spotify.com/track/13TQfKDmXDvX5yzMvWQrL0) | [Lava Beds](https://open.spotify.com/artist/7FEMD29hZQ6IbmiYeBGCp9) | [Lay You Down](https://open.spotify.com/album/6M46CX6OyPqjh8ha7P15IX) | 3:24 | 2022-05-02 |  |
 | [Lead the Way](https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Raya and the Last Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0) | 3:43 | 2022-05-02 |  |
 | [Like A G6](https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf) | [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq), [The Cataracs](https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Free Wired](https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC) | 3:36 | 2022-05-02 |  |
-| [Maari Chhalangein](https://open.spotify.com/track/4fydYbrpBui9SXKYULtR3A) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sharvi Yadav](https://open.spotify.com/artist/5FovFzu7i0uqQqfaOCsDrC) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/0ehinjQRe63YhGszSbru6U) | 3:05 | 2022-05-02 |  |
+| [Maari Chhalangein](https://open.spotify.com/track/3nghPyipNDY6nUkBI43o6R) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sharvi Yadav](https://open.spotify.com/artist/5FovFzu7i0uqQqfaOCsDrC) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/3JOw3bfb877iP3VYjdzKCY) | 3:05 | 2022-05-02 |  |
+| [Maari Chhalangein](https://open.spotify.com/track/4fydYbrpBui9SXKYULtR3A) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sharvi Yadav](https://open.spotify.com/artist/5FovFzu7i0uqQqfaOCsDrC) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/0ehinjQRe63YhGszSbru6U) | 3:05 | 2022-05-02 | 2022-11-17 |
 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2022-05-02 |  |
 | [Money \(That's What I Want\)](https://open.spotify.com/track/1tfP05y0ckTfB2UgQpyjkF) | [Cheryl K](https://open.spotify.com/artist/72S8utiGyj05Psv1PVN1iG) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:12 | 2022-05-02 |  |
 | [Movie Star \- From "Jem And The Holograms" Soundtrack](https://open.spotify.com/track/42EYhSOLtJG0jIkvClqQ1s) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Jem And The Holograms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tTLJCkq4iv578yMmHiosv) | 3:18 | 2022-05-02 |  |

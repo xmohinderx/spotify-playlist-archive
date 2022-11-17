@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,443 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,450 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 | 19 | [The Woman That Loves You](https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:24 |
 | 20 | [Back to Life \- 80s Remix](https://open.spotify.com/track/3c4e5bs1Y9txBubMx2al9G) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Aris Archontis](https://open.spotify.com/artist/68lL5Kw5BipzxpiYgW9xtD) | [Back to Life \(from "Bumblebee"\)](https://open.spotify.com/album/5uaGbt3JKOTJRBcB2EYf4x) | 3:13 |
 | 21 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 |
-| 22 | [Maari Chhalangein](https://open.spotify.com/track/4fydYbrpBui9SXKYULtR3A) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sharvi Yadav](https://open.spotify.com/artist/5FovFzu7i0uqQqfaOCsDrC) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/0ehinjQRe63YhGszSbru6U) | 3:05 |
+| 22 | [Maari Chhalangein](https://open.spotify.com/track/3nghPyipNDY6nUkBI43o6R) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sharvi Yadav](https://open.spotify.com/artist/5FovFzu7i0uqQqfaOCsDrC) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/3JOw3bfb877iP3VYjdzKCY) | 3:05 |
 | 23 | [Shine Your Way](https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [The Croods \(Music from the Motion Picture\)](https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI) | 3:27 |
 | 24 | [Reflection](https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 2:26 |
 | 25 | [Warm Blood](https://open.spotify.com/track/6o4QVHyYmzzAPtUC1E7vHC) | [Meg & Dia](https://open.spotify.com/artist/77YbJ4a9IlKX18ck6qoot1) | [Happysad](https://open.spotify.com/album/41uP4i1kVz3a3DaDQGy5Oc) | 3:38 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 | 51 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 52 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 
-Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMDRiMDUxMWIxMjFlMzJkYWNjNmViNzY5YzQ3NmNhYmJk`
+Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMDNmMTk0YTU1NWI1ZTMzNTgxZTY1MGExOTM3MTIyYWUw`

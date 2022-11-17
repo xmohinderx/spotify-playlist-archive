@@ -4,7 +4,7 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-65 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
+66 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/2K6YrqQzm2uYcrfoftG3PK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Dangerous](https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [This Time](https://open.spotify.com/album/0QiYLU8SrwXQAleQaOgTP2) | 3:51 | 2018-09-14 | 2022-07-29 |
 | [Dangerous](https://open.spotify.com/track/0SCcYTx5we9EKTPvEXxld5) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Dangerous \(Touch Sensitive Remix\)](https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N) | 3:51 | 2022-09-27 | 2022-11-13 |
 | [Dangerous](https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9) | [Umii](https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [This Time](https://open.spotify.com/album/5d1GP0Dl62bgaOQ8euQJAn) | 3:51 | 2018-09-14 |  |
-| [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 | 2018-09-14 |  |
+| [Disco Yes](https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:40 | 2022-09-27 |  |
+| [Disco Yes](https://open.spotify.com/track/61Ivix5DTnDPVjp1dgLyov) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:40 | 2018-09-14 | 2022-11-17 |
 | [Easy Money](https://open.spotify.com/track/17FYfMKpJJP4uP6B8qv90o) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Easy Money](https://open.spotify.com/album/3n2oIsnzSfEV3j5gnHQvC5) | 2:57 | 2018-09-14 |  |
 | [Everybody's Someone in LA](https://open.spotify.com/track/0Bq786zqpKxYNeos7Tn5Kk) | [nite swim](https://open.spotify.com/artist/4JoqKyiPAsXMuc8mkF25Ju) | [Everybody's Someone in LA](https://open.spotify.com/album/2YbuSwRKkaFbT6Q6Tm9O9D) | 2:40 | 2018-09-14 |  |
 | [Fresh! \(feat\. Flamingosis\)](https://open.spotify.com/track/0xyZGdpkODxuHeitZUpHPO) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Fresh!](https://open.spotify.com/album/6osa0X7YiamMzT7mf1VBGW) | 2:42 | 2018-09-14 |  |
