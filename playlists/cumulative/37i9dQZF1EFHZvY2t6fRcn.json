@@ -1414,6 +1414,24 @@
     },
     {
       "album": {
+        "name": "Give Or Take",
+        "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204489,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/1Ky8xo7X6SeebLT1Co4RXX"
+    },
+    {
+      "album": {
         "name": "Good Cry",
         "url": "https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv"
       },

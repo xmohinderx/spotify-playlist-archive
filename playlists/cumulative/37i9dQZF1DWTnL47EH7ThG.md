@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-279 songs - 16 hr 20 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
+280 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/6Gyhwl4zabmnYK0KJz2zgo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,8 @@
 | [Roll The Dice \(feat\. Stamina MC & Lily Allen\)](https://open.spotify.com/track/0gO2I7dgwORBIys7ZtIYw8) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Stamina MC](https://open.spotify.com/artist/4Dj3ahDCFjotIV1O5Ung6o) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:28 | 2022-02-04 | 2022-10-28 |
 | [Run it](https://open.spotify.com/track/5VCsDSmSNkmIP7RaFYSMGZ) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt), [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Run it](https://open.spotify.com/album/5Kmk9a1DIxzpf0ebPMkYYQ) | 2:42 | 2022-04-26 | 2022-09-18 |
 | [Run It \(feat\. Smiles Davis\)](https://open.spotify.com/track/3AxNeTEdM7bzJV1RUDKFn6) | [Vanessa Tha Finessa](https://open.spotify.com/artist/7d55wy6vEfabtFevi23pZt), [Smiles Davis](https://open.spotify.com/artist/6vjhuQY1IzfsaJJIKskfZD) | [Run It \(feat\. Smiles Davis\)](https://open.spotify.com/album/1RZ1l15cKdDNt66Wp1G6N3) | 2:42 | 2022-04-26 |  |
-| [Sailor Moon](https://open.spotify.com/track/0hupW3Cw3A9c8ML99wD6dk) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sailor Moon](https://open.spotify.com/album/00HB0qHMboKP6DCQVfibRW) | 3:27 | 2022-02-04 |  |
+| [Sailor Moon](https://open.spotify.com/track/0hupW3Cw3A9c8ML99wD6dk) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sailor Moon](https://open.spotify.com/album/00HB0qHMboKP6DCQVfibRW) | 3:27 | 2022-02-04 | 2022-11-18 |
+| [Sailor Moon](https://open.spotify.com/track/2RHPq8fADOfM0XANORv8Ow) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:27 | 2022-02-04 |  |
 | [Same Old Ways](https://open.spotify.com/track/4kgKjHMIDWri9XHjyxSbpy) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 2:43 | 2022-07-18 |  |
 | [SAS CRISE](https://open.spotify.com/track/4FUhCO72hcdrMl5VUsYozL) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [ALAYZHA SKY](https://open.spotify.com/artist/1ys0QHSVytn5whGulnol2f), [Ghost](https://open.spotify.com/artist/1J5CMCxIRPfdVGb4B23mgf) | [SAS CRISE](https://open.spotify.com/album/0Agr5yS006IXzRfj81s1hx) | 1:32 | 2022-04-26 |  |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-04-26 | 2022-10-28 |

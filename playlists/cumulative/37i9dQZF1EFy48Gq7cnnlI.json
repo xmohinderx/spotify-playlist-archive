@@ -1310,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "The Hardest Love",
+        "url": "https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182457,
+      "name": "Scares Me",
+      "url": "https://open.spotify.com/track/2dSU3oIyt2hz3L4s8JE2Hj"
+    },
+    {
+      "album": {
         "name": "lonesome",
         "url": "https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ"
       },

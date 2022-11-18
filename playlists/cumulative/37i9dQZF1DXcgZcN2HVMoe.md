@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-671 songs - 1 day 16 hr 4 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
+672 songs - 1 day 16 hr 7 min - [published](https://open.spotify.com/playlist/7Fr5GUMZQ3Hygddnz1fMLN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Count On Me \(Alt\. Version\)](https://open.spotify.com/track/59qgTMCf7xt5HECdmYkQsN) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Count On Me \(Alt\. Version\)](https://open.spotify.com/album/6ivjtNTiHtxtjruHX1BJLp) | 3:04 | 2021-12-17 | 2022-07-11 |
 | [cover girl \- autumn](https://open.spotify.com/track/3QSFvMlRODYxTKeMP3I0VM) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [cover girl \(autumn\)](https://open.spotify.com/album/2TfdtsJVEAkip8ftIeLe05) | 3:21 | 2021-12-17 | 2022-04-21 |
 | [Cups and Balloons](https://open.spotify.com/track/72TIFgfDu1MLMuDAfuUgu8) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cups and Balloons](https://open.spotify.com/album/5NuQaD1CXWZq2RfnFQphIG) | 4:04 | 2022-01-24 | 2022-04-21 |
-| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 |  |
+| [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-07-22 | 2022-11-18 |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-12-17 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/1GqkGxG9T904AiKa6VgdRn) | [Oshima Brothers](https://open.spotify.com/artist/349lepk5mVwAKROMAP13Mg) | [Dance With Me](https://open.spotify.com/album/3jondhdBF68JYenWMCIOI4) | 3:25 | 2021-12-17 | 2022-07-29 |
 | [Daylight](https://open.spotify.com/track/0cVrv8dZAhs19LKGX61EvS) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Daylight](https://open.spotify.com/album/3NdmyGu5zVDaihh0BGFnNx) | 3:52 | 2022-01-24 | 2022-04-06 |
@@ -249,6 +249,7 @@
 | [heartbeat](https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:31 | 2022-07-22 |  |
 | [heartbeat](https://open.spotify.com/track/2firPG9DQoxNvslHjw9RvR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [heartbeat](https://open.spotify.com/album/2ZJPChgq8zw1IeVONS6TDB) | 4:32 | 2021-12-17 | 2022-07-29 |
 | [Heartbreak Money](https://open.spotify.com/track/0pDOQdtIIdLUZF87ga8tOk) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Heartbreak Money](https://open.spotify.com/album/2sEOgcQYdR6JPZRQT7bn4K) | 3:19 | 2022-01-24 | 2022-04-19 |
+| [heavenly light \(work tape\)](https://open.spotify.com/track/2trTIGZiPMmKmz5MPWlgdG) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [heavenly light \(work tape\)](https://open.spotify.com/album/2LUo6oFDSN7qzgRd3CxBlg) | 3:11 | 2022-07-29 |  |
 | [heavenly light \(work Tape\)](https://open.spotify.com/track/3EVNmodyyDaO7fjN31gsPc) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [heavenly light \(work tape\)](https://open.spotify.com/album/328WJu773rJ6hWMxzonp0M) | 3:11 | 2021-12-17 | 2022-10-15 |
 | [Hello Ramona](https://open.spotify.com/track/4N4HzoD9Dp7b8eGqDfBreY) | [Chase McBride](https://open.spotify.com/artist/6RlaScSXjYLYi4RAq4FgCX) | [Hello Ramona](https://open.spotify.com/album/54hcOJOTswayrQFhDwhbUY) | 3:46 | 2021-12-17 | 2022-07-29 |
 | [Here Comes the Flood](https://open.spotify.com/track/3lz94fxTt6BHRjpzV3SvsH) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Here Comes the Flood](https://open.spotify.com/album/2fWY1arRSsfAETPsurkxkb) | 4:16 | 2022-01-24 | 2022-04-17 |

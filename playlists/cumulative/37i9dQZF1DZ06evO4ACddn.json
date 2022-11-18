@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "Dust & Bones",
+        "url": "https://open.spotify.com/album/3GHMDiFyBUSZWhLBiBiHK4"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187257,
+      "name": "Bottled Time",
+      "url": "https://open.spotify.com/track/5AOTvul1pG5guRXeWvq1Za"
+    },
+    {
+      "album": {
+        "name": "Dust & Bones",
         "url": "https://open.spotify.com/album/0ZfE9R2b4E0cP0O2A58nZ3"
       },
       "artists": [
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 187257,
       "name": "Bottled Time",
       "url": "https://open.spotify.com/track/6S3jt0KW7ZAxUOP360WEDE"

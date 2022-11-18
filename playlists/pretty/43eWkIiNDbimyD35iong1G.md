@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 87,153 likes - 124 songs - 7 hr 30 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 87,163 likes - 124 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

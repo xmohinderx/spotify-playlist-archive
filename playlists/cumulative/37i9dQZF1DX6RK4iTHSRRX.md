@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-89 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/6RRs5bEtQw4P8pKlBia6m7)
+90 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/6RRs5bEtQw4P8pKlBia6m7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,10 @@
 | [Angels We Have Heard on High \(Instrumental Version\)](https://open.spotify.com/track/3C8XP7qT206OMKCDeQqfcw) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Instrumental Guitar Christmas: My Favorite Things](https://open.spotify.com/album/6OA9nToeEzQoPRaCSsG1zl) | 3:23 | 2021-12-22 | 2022-07-29 |
 | [As With Gladness, Men of Old](https://open.spotify.com/track/4yNTeRykWyZ1hWMdOe4Bte) | [William Chatterton Dix](https://open.spotify.com/artist/2IwHgG8anIJ3bbgGAii8ip), [Conrad Kocher](https://open.spotify.com/artist/1asseq1Wwf4J4wrXW9rhmw), [Don Latarski](https://open.spotify.com/artist/18XXuKLx7w4kSDD1w2AFct) | [Guitars on Holiday](https://open.spotify.com/album/7Muq0oRBrXjCwc2CUlSket) | 3:23 | 2021-12-22 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 | 2021-12-22 |  |
-| [Away in a Manger](https://open.spotify.com/track/1A4J7RKNdJaIelW5wKTNAi) | [Holiday Guitar](https://open.spotify.com/artist/3k870ZizPxSR9UtSDH8Ana) | [Holiday Guitar \- The Christmas Song](https://open.spotify.com/album/2sWZwYz3Wn48pEwHcUOW2K) | 2:03 | 2021-12-22 |  |
+| [Away in a Manger](https://open.spotify.com/track/1A4J7RKNdJaIelW5wKTNAi) | [Holiday Guitar](https://open.spotify.com/artist/3k870ZizPxSR9UtSDH8Ana) | [Holiday Guitar \- The Christmas Song](https://open.spotify.com/album/2sWZwYz3Wn48pEwHcUOW2K) | 2:03 | 2021-12-22 | 2022-11-18 |
 | [Away in a Manger](https://open.spotify.com/track/2N33YR9NGL3nOBCEerRtee) | [Holiday Guitar Music](https://open.spotify.com/artist/6mfctThAqQpelIVZTpVpz3) | [Holiday Guitar Music \- Go Tell It On a Mountain](https://open.spotify.com/album/4vVq5TODq2b00lsnibiNDQ) | 2:03 | 2021-12-22 | 2022-11-13 |
 | [Away in a Manger](https://open.spotify.com/track/12nyhPSvqh4RM5ybXIM866) | [Instrumental Songs Group](https://open.spotify.com/artist/15C9Crg8SeCzlrgW3MEfyv) | [Classic Christmas Instrumental Guitar](https://open.spotify.com/album/5BjfmfUBXyPqdFKvn4avz7) | 2:03 | 2021-12-22 | 2022-07-29 |
+| [Away In A Manger](https://open.spotify.com/track/3DFJrpeXcfHYqcgGrG3hH3) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Away In A Manger](https://open.spotify.com/album/1fN61RyMySef8OmA0D9OIZ) | 2:39 | 2022-11-18 |  |
 | [Carol of the Strings \(Bells\)](https://open.spotify.com/track/2z2V8OB5R8X6vnvc1qbTzZ) | [Charles Phalen](https://open.spotify.com/artist/4R4WCRL8hcqtTTJVrtUhc3) | [Carols for a Yuletide](https://open.spotify.com/album/4uoyb4fOo3JQIdN4fjMMLy) | 1:56 | 2021-12-22 |  |
 | [Christmas Carol](https://open.spotify.com/track/0uiSMWDBiiqrpHjW5lqkF6) | [Lisa Helmer](https://open.spotify.com/artist/62OhntIcWQWg4e0MDjaHzo) | [Christmas Carol](https://open.spotify.com/album/5SZhU7s68sNUzZQmRB8apz) | 3:13 | 2021-12-22 |  |
 | [Christmas Love](https://open.spotify.com/track/6eNcbP82DP0tLKSZV0ZA7L) | [Sarah Songbourn](https://open.spotify.com/artist/1oefGJtzFrnJGtxr0WCHD6) | [Coldest Winter](https://open.spotify.com/album/4rU7Fcx5T2WCgV52RqV71M) | 2:59 | 2022-11-11 |  |

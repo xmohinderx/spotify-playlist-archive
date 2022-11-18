@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-123 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/1rXcx4WvqwbQUqwLDBHKJH)
+124 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/1rXcx4WvqwbQUqwLDBHKJH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,9 @@
 | [Teach Me Tonight](https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury, Vol.4 \(1954\-1956\)](https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB) | 2:47 | 2021-04-07 |  |
 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 | 2021-04-07 |  |
 | [Tennessee Waltz](https://open.spotify.com/track/79IQQOy0OsMf2XjFu50gGL) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [20th Century Masters: The Millennium Collection: Best Of Patti Page](https://open.spotify.com/album/1RNK8lyGBaq1PS5EIxK4vJ) | 3:02 | 2022-05-30 | 2022-11-13 |
+| [Tennessee Waltz](https://open.spotify.com/track/0CtbDuvvGLTLSFQ3GcQgEk) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [The Patti Page Collection: The Mercury Years, Volume 1](https://open.spotify.com/album/6UoTP4eval115JObrelnEr) | 3:02 | 2022-05-30 |  |
 | [Tennessee Waltz](https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Rockin' Gals Of The 1950's](https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4) | 3:03 | 2021-04-07 | 2022-07-29 |
-| [Tennessee Waltz](https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 3:05 | 2022-05-30 |  |
+| [Tennessee Waltz](https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 3:05 | 2022-05-30 | 2022-11-18 |
 | [The Black Hills of Dakota](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 | 2021-04-07 | 2022-07-29 |
 | [The Black Hills of Dakota](https://open.spotify.com/track/5BWhyqnBtuh67TGr9TJpi7) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:59 | 2022-05-30 |  |
 | [The Black Hills of Dakota](https://open.spotify.com/track/7mgCPn8i1wclG7eb0CPGzi) | [Orquesta Alhambra](https://open.spotify.com/artist/6QWLGmhvl8ojUQqe610UkT) | [Grandes Musicales: Calamity Jane](https://open.spotify.com/album/2VHgBieaimaPblrEfBS3jo) | 2:59 | 2022-05-30 | 2022-11-13 |

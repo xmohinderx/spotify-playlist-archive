@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17](https://open.spotify.com/track/0poYizJ4mnXIG3Rnrc8USh) | [YOURCODENAMEIS:MILO](https://open.spotify.com/artist/4NxevFKr3yFvhjmHzx9LiC) | [Ignoto](https://open.spotify.com/album/34UIoBrgmO1KXzxM8ZZu7P) | 3:16 | 2021-12-15 | 2022-01-04 |
-| [17 Years](https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/0r6EoPFFRcsVjQWsqmBSwC) | 3:03 | 2022-11-02 | 2022-11-17 |
+| [17 Years](https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/0r6EoPFFRcsVjQWsqmBSwC) | 3:03 | 2022-11-02 |  |
 | [17 Years](https://open.spotify.com/track/0CMEuj4U1A5hvZWhVwwEOR) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/572ZIrqiAkorfgaZQ0Y78e) | 3:03 | 2021-12-15 | 2022-07-29 |
 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 | 2022-11-02 |  |
 | [9 Volter](https://open.spotify.com/track/4K2Yn301eqRDarK6qpImmt) | [Colour Of Fire](https://open.spotify.com/artist/5ej8t8W7sivheDVZ9RtrAN) | [Pearl Necklace](https://open.spotify.com/album/5Yr4hHvdsDJ7lUjDT0QfMf) | 2:47 | 2022-01-28 | 2022-07-28 |
@@ -151,7 +151,7 @@
 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 | 2021-12-15 |  |
 | [Loser](https://open.spotify.com/track/5jJtTHIf1NMtYNhVVqXnjR) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Loser](https://open.spotify.com/album/0BrOQwhdwCktoB5NYlYFDu) | 2:31 | 2021-12-15 | 2022-07-25 |
 | [Losing My Touch](https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Forever Whatever](https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS) | 3:58 | 2021-12-15 |  |
-| [Low](https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ) | [Gates](https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6) | [Bloom and Breathe](https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f) | 4:07 | 2021-12-15 |  |
+| [Low](https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ) | [Gates](https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6) | [Bloom and Breathe](https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f) | 4:07 | 2021-12-15 | 2022-11-18 |
 | [Make Yourself](https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:03 | 2022-11-02 |  |
 | [McFearless](https://open.spotify.com/track/0obzF8a4DaF3XrlOB16xlx) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:09 | 2021-12-15 | 2022-01-04 |
 | [Medicine](https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Infinite Pleasure](https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY) | 4:07 | 2022-10-11 |  |

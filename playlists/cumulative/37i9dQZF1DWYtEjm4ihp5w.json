@@ -32,6 +32,32 @@
     },
     {
       "album": {
+        "name": "\u0664in (Act 3)",
+        "url": "https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv"
+      },
+      "artists": [
+        {
+          "name": "Don Bigg",
+          "url": "https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Obie Trice",
+          "url": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229094,
+      "name": "Allaho Akbar",
+      "url": "https://open.spotify.com/track/2Omr2NN6IRfzxnXlGw7dSs"
+    },
+    {
+      "album": {
         "name": "B2",
         "url": "https://open.spotify.com/album/3DVy3TLaPqGLAZOehbbgXD"
       },
@@ -561,7 +587,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 224941,
       "name": "Lawal (3reft Trap)",
       "url": "https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc"
@@ -641,6 +667,24 @@
       "duration_ms": 181301,
       "name": "L\u2019allemagne - Bonus",
       "url": "https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28"
+    },
+    {
+      "album": {
+        "name": "MACHAKIL",
+        "url": "https://open.spotify.com/album/67myjm0ApsCdgyBAiVFQ1x"
+      },
+      "artists": [
+        {
+          "name": "Hassa1",
+          "url": "https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "MACHAKIL",
+      "url": "https://open.spotify.com/track/2PFX4PymQztndGtLbVADWG"
     },
     {
       "album": {
@@ -735,7 +779,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 184530,
       "name": "Ndokk-ha",
       "url": "https://open.spotify.com/track/3dovliAqBRD4CIhCD2uYyH"

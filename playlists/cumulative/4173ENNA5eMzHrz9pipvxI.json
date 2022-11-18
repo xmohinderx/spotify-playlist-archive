@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Showtek x sonofsteve",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: NERVO",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/1y4jWk6gl9MVSusP2xpixy"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/1JpJXN0XW7Y72GbYAEIFbE"
+    },
+    {
+      "album": {
         "name": "Cathedral (Piece Of Me) [feat. JEN]",
         "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
       },
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 230243,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/4CDn8zSzY7loktyALeKGpk"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 162545,
       "name": "Danger (feat. KARRA)",
       "url": "https://open.spotify.com/track/4bGaXaCUu8Jho3VJgqH9Xm"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 147096,
       "name": "DESPERADO",
       "url": "https://open.spotify.com/track/353uz5NorsHukIiCYrISJy"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 160645,
       "name": "Feel & Forget",
       "url": "https://open.spotify.com/track/56oXT2MqvEaiQX0ccg6AO3"
@@ -2353,6 +2371,24 @@
       "duration_ms": 210000,
       "name": "Free",
       "url": "https://open.spotify.com/track/5zsEgQCTV8cXpqB9QRQYUO"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
       "album": {
@@ -3022,6 +3058,28 @@
     },
     {
       "album": {
+        "name": "I Knew It Was You",
+        "url": "https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175928,
+      "name": "I Knew It Was You",
+      "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
+    },
+    {
+      "album": {
         "name": "I Mean Never (feat. Mikalyn)",
         "url": "https://open.spotify.com/album/3UkBIxp0vcnL6X8ItIMdCm"
       },
@@ -3316,6 +3374,28 @@
     },
     {
       "album": {
+        "name": "Is Someone Looking for Me (feat. Ace Paloma)",
+        "url": "https://open.spotify.com/album/2rPs208CWsCwRT1CO0kuDu"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Ace Paloma",
+          "url": "https://open.spotify.com/artist/6HN00p27Vd4vs4cDvuBzqd"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184838,
+      "name": "Is Someone Looking for Me (feat. Ace Paloma)",
+      "url": "https://open.spotify.com/track/6CTbQBYHle6Faip4SNVlSC"
+    },
+    {
+      "album": {
         "name": "It Ain't Over",
         "url": "https://open.spotify.com/album/6mnMEPmqeXNG5xRt2iP3oQ"
       },
@@ -3529,7 +3609,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 186774,
       "name": "Juno",
       "url": "https://open.spotify.com/track/2o3SdgwbZ1pVRza1KYLk6J"
@@ -3658,6 +3738,32 @@
     },
     {
       "album": {
+        "name": "KOMNAARMETOE",
+        "url": "https://open.spotify.com/album/3LGJyIxQR0RHcFpjYjfWHl"
+      },
+      "artists": [
+        {
+          "name": "Ibranovski",
+          "url": "https://open.spotify.com/artist/5ASWBtbVe1yfxjrCuREQ4p"
+        },
+        {
+          "name": "Willie Wartaal",
+          "url": "https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131414,
+      "name": "KOMNAARMETOE",
+      "url": "https://open.spotify.com/track/1BXeCo71ZZWXfMPmU7bpWs"
+    },
+    {
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/6anUG6krraOoAkPDOz8W9J"
       },
@@ -3756,6 +3862,32 @@
     },
     {
       "album": {
+        "name": "Left & Right (MXRCVRY Remix)",
+        "url": "https://open.spotify.com/album/6G9QKvnZMdNp3cXiMwXdXm"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "MXRCVRY",
+          "url": "https://open.spotify.com/artist/7fcxzGqZfSRGOZp2KyCxpf"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Left & Right (MXRCVRY Remix)",
+      "url": "https://open.spotify.com/track/3dHucT6ZXMhHQNqRW7AkKb"
+    },
+    {
+      "album": {
         "name": "Lele",
         "url": "https://open.spotify.com/album/207HUz7goXfcassusuQ8sZ"
       },
@@ -3789,7 +3921,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 207096,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/5BSPI1F6BngQRKEO7etZJR"
@@ -3873,6 +4005,28 @@
       "duration_ms": 209523,
       "name": "Like Before",
       "url": "https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR"
+    },
+    {
+      "album": {
+        "name": "Lions Roar (feat. Philip Strand)",
+        "url": "https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177111,
+      "name": "Lions Roar (feat. Philip Strand)",
+      "url": "https://open.spotify.com/track/7DCJZlDIubI1B2z4EoZ7VD"
     },
     {
       "album": {
@@ -4133,7 +4287,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 160000,
       "name": "Low (LUNAX Remix)",
       "url": "https://open.spotify.com/track/4MUMWxe9088SuTFKpprQ57"
@@ -4683,7 +4837,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 134400,
       "name": "Muy Fuente (ESH Edit)",
       "url": "https://open.spotify.com/track/5hXBlkIQc9Dx802ZIoxWxJ"
@@ -5853,7 +6007,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 188571,
       "name": "Rockstar Baby (feat. Mougleta) - Wave Wave Remix",
       "url": "https://open.spotify.com/track/7lytyerryTHos5s2HCZj0E"
@@ -5879,6 +6033,28 @@
       "duration_ms": 146880,
       "name": "Round My Head",
       "url": "https://open.spotify.com/track/61wzyaAmDXaWZYh5jPCXWN"
+    },
+    {
+      "album": {
+        "name": "Rude Boy",
+        "url": "https://open.spotify.com/album/1I28SZ74p1LngWLhtS4VNj"
+      },
+      "artists": [
+        {
+          "name": "Bijou",
+          "url": "https://open.spotify.com/artist/3cNIn4o65yBImKGe9lVuRr"
+        },
+        {
+          "name": "PAJANE",
+          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/65h5CykM8uuCkAXvzadztl"
     },
     {
       "album": {
@@ -6171,7 +6347,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 132539,
       "name": "Shake Milk",
       "url": "https://open.spotify.com/track/09Ey0Bc5MIvfKfGPtg7BH6"
@@ -6351,7 +6527,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 199680,
       "name": "Solar",
       "url": "https://open.spotify.com/track/66jq8nhahv1FDsFuXScI1P"
@@ -6523,7 +6699,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 185917,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/1ZTZF1JRSGshdsPxIOMuvU"
@@ -7003,6 +7179,24 @@
       "duration_ms": 195483,
       "name": "Telling",
       "url": "https://open.spotify.com/track/7icDRzCiGiydoNkjpNBRaG"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx"
     },
     {
       "album": {
@@ -7581,7 +7775,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 183750,
       "name": "Together",
       "url": "https://open.spotify.com/track/72RR2wlzXKiTr1gJxl2QWW"
@@ -8147,7 +8341,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 201259,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1N4oYn99JACDd6qZt6x1lp"
@@ -8319,7 +8513,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 162872,
       "name": "YOU - Remix",
       "url": "https://open.spotify.com/track/0R9CSoQix3XaF5bI3LBzww"
@@ -8385,7 +8579,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"

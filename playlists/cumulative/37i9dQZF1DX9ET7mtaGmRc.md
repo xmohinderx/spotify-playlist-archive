@@ -4,7 +4,7 @@
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-71 songs - 4 hr 9 min - not published yet
+72 songs - 4 hr 20 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [World Cup Song](https://open.spotify.com/track/7mxl9m75K2o7bo15OuoElC) | [Clon](https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag) | [The Best Of CLON 2002](https://open.spotify.com/album/0ioMNxyCTVsyaVYczSEMNp) | 3:34 | 2022-11-07 |  |
 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 | 2022-11-07 |  |
 | [Zone](https://open.spotify.com/track/0xl5SmrxNAmwc92Ihv9e5s) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [John Wolf](https://open.spotify.com/artist/3DN7OJUQmcj8YAwNaOaiEZ) | [Zone](https://open.spotify.com/album/75hxVfkeyfCso8XCFZQRim) | 3:19 | 2022-11-07 |  |
-| [승리를 위하여](https://open.spotify.com/track/5hJjj5WR9HmJEexGnYp0aV) | [트랜스픽션](https://open.spotify.com/artist/5FSeqOsgxtddAsJns9KiUb) | [Reds, Go Together](https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA) | 3:28 | 2022-11-07 |  |
+| [ZUMO Remix \(feat\. Dr.Lee, ROH YUNHA, T.A.K., Loopy, Don Mills, 27RING, Park Jongyoon, D\-Hack, PUFF DAEHEE, toigo, LIV, kaogaii, Layone, twlv, NY BABY & LEESTAR\)](https://open.spotify.com/track/69kZOztXJ7zwUhev46vJBS) | [Rhythm Power](https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW), [Dr.Lee](https://open.spotify.com/artist/5S9wxilR9XcbrfGNDpBL4Q), [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [tak](https://open.spotify.com/artist/3lbmBu9EHCKygjVrgQcH9y), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [27RING](https://open.spotify.com/artist/0BDMR6H7cA6Px5UhrVROKr), [Park Jongyoon](https://open.spotify.com/artist/00YDtUTHlWNEYMsrhFiZlS), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR), [PUFF DAEHEE](https://open.spotify.com/artist/1gWPSik8gr9wvO91sZxh6D), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [LIV](https://open.spotify.com/artist/7GuqRx9ETEuSkxSj4YmUBv), [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [NY BABY](https://open.spotify.com/artist/3R7tdO9UwP87gMDY7K1yxY), [LEESTAR](https://open.spotify.com/artist/0yXFOaZZgM48LjZWwn2QT4) | [ZUMO Remix](https://open.spotify.com/album/7ko2STn5AB10q5PwSPCdYU) | 10:12 | 2022-11-17 |  |
+| [승리를 위하여](https://open.spotify.com/track/5hJjj5WR9HmJEexGnYp0aV) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Reds, Go Together](https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA) | 3:28 | 2022-11-07 |  |
 | [오! 필승 코리아](https://open.spotify.com/track/4Xn90HhpSSXtsHEQMbEdTv) | [버즈](https://open.spotify.com/artist/0ekkC4Hy7Ki03yVHhTWiws) | [Reds, Go Together](https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA) | 3:47 | 2022-11-07 |  |
 | [월드컵 브라보 Song](https://open.spotify.com/track/5Mkehd147fQk77Ccpxl7bo) | [봄여름가을겨울](https://open.spotify.com/artist/0eEjepwGVqU2v3zfudzxHr) | [Reds, Go Together](https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA) | 2:51 | 2022-11-07 |  |
 | [자블라니 잡아라 \(월드컵 송\)](https://open.spotify.com/track/5zXpUdv0Cza07qRkYk1DA2) | [Norazo](https://open.spotify.com/artist/6qKi9ZFq7JiwMy2LvMAqNp) | [환골탈태](https://open.spotify.com/album/36ALg5Qe21g7v5CHxJwxHl) | 3:17 | 2022-11-07 |  |

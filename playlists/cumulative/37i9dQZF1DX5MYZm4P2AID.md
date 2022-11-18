@@ -4,7 +4,7 @@
 
 > The official playlist for Outer Banks now\. Watch now only on Netflix.
 
-104 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
+105 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/42hRPo9Ei0Ev8ulb9zaxKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Raspberry Jam](https://open.spotify.com/track/73wHgYAe6ASiFrX4Qc8edX) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Self Discovery for Social Survival](https://open.spotify.com/album/7FfRted2sZrQGqBU0Bpw0m) | 3:48 | 2021-10-26 | 2022-11-13 |
 | [Rest In Blue](https://open.spotify.com/track/3dHHhmghmAy4iQQ4hEnu6U) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/799SiIngfx9kQtEC1jcert) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 4:20 | 2021-10-26 |  |
 | [Sabina](https://open.spotify.com/track/1dp5tXL7hVHsvXtzZcHFvi) | [Sugar Fed Leopards](https://open.spotify.com/artist/6HLiQWOzcEJnXU221EPLSD) | [Sweet Spots](https://open.spotify.com/album/2SKnD5LUr5wOf3xVRItGY6) | 2:39 | 2021-10-26 |  |
-| [Sandman](https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF) | 3:12 | 2021-10-26 |  |
+| [Sandman](https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8) | 3:12 | 2021-10-26 |  |
+| [Sandman](https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF) | 3:12 | 2021-10-26 | 2022-11-18 |
 | [Something That You're Missing](https://open.spotify.com/track/1feFU0PFJYCySHLBxZUZ8V) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/26WIJQq5d9NkiE2mPNvjJ8) | 2:50 | 2021-10-26 | 2022-07-29 |
 | [Something That You're Missing](https://open.spotify.com/track/24QqUt4VHZIYg5LYnl4MeA) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/24tZ8bH69NK3fmxSuQ10UO) | 2:50 | 2021-10-26 | 2022-10-14 |
 | [Something That You're Missing](https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/5Lw6V8cz834Wa097FaphAn) | 2:50 | 2021-10-26 |  |

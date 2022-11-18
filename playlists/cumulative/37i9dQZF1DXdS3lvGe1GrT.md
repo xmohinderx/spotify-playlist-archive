@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Kara Jackson \| Visual Artist: Bailey Elder
 
-269 songs - 16 hr 18 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+270 songs - 16 hr 22 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 | 2022-08-24 |  |
 | [Coop Running Through the Halls](https://open.spotify.com/track/5FszTomTWNyVVOGWwrLJX9) | [Jack M\. Senff](https://open.spotify.com/artist/4ZVwJlIgvmh6DTxPnf28x3) | [Low Spirit](https://open.spotify.com/album/0a807me7Pk3YZuTENtPnWo) | 3:08 | 2022-06-15 | 2022-10-27 |
 | [Copilot](https://open.spotify.com/track/585vhTzFBQuUGui6SWULfp) | [Blue Wilson](https://open.spotify.com/artist/2sw2UaTtDQzgWd7CPWKDsW) | [Future Street](https://open.spotify.com/album/6HwDO9qabmM2QgkXrwLeXW) | 4:47 | 2022-05-25 | 2022-06-30 |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2022-11-09 |  |
 | [Cowboy Gangster Politician](https://open.spotify.com/track/5Flo7FMi6Lmaf8ybgtudop) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/02pCzByRtQ5rdOZdnqlhqt) | 3:52 | 2022-09-28 | 2022-10-26 |
-| [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 | 2022-09-28 |  |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 | 2022-09-28 | 2022-11-18 |
 | [Coyote](https://open.spotify.com/track/12AFcU2wS4AVy51SmOGuhE) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Coyote](https://open.spotify.com/album/4sZ02TuLWp3oQu9pOmNSdN) | 2:53 | 2022-08-31 |  |
 | [Cuffley](https://open.spotify.com/track/6mDnYUHKENd6FHiMziKKYk) | [Alexander William](https://open.spotify.com/artist/2NqshbL4WoWDXM5VE1hKXc) | [Cuffley](https://open.spotify.com/album/1AaZpONeWcNlLiE6IyyleD) | 3:56 | 2022-06-15 | 2022-09-22 |
 | [Cycle](https://open.spotify.com/track/6qD6zcjxBsVQotCS2uquHQ) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj), [Horace Bray](https://open.spotify.com/artist/2jIZEoSCmhxiHyA1rMc01u) | [Cycle](https://open.spotify.com/album/5HKaMVfEnGNYJVKrRHo8NZ) | 3:45 | 2022-05-25 | 2022-08-04 |

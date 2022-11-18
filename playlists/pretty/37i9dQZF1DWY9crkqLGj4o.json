@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 304246,
+  "num_followers": 304359,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDM1YjY5OWRhNDkwY2M1ZmJhNmVlZDU0ZTYzM2I1YWU1",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMGNkZjYyYjczNTdkMzdiNDUwNGZlYjc0YWM2OTc1ODg2",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
-      },
-      "artists": [
-        {
-          "name": "Giselli Cristina",
-          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
-        }
-      ],
-      "duration_ms": 287826,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Que Amor \u00c9 Esse",
         "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 420977,
       "name": "Que Amor \u00c9 Esse",
       "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
+      },
+      "artists": [
+        {
+          "name": "Giselli Cristina",
+          "url": "https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B"
+        }
+      ],
+      "duration_ms": 287826,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Me Leva Pra Casa",
-        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
-      },
-      "artists": [
-        {
-          "name": "Israel Subira",
-          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
-        }
-      ],
-      "duration_ms": 465885,
-      "name": "Me Leva Pra Casa",
-      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Livres ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1nOKQhet5BeWlwtzkNbc8C"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
+        "name": "Me Leva Pra Casa",
+        "url": "https://open.spotify.com/album/0DKs487I9gQrOq97t6kVfD"
       },
       "artists": [
         {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+          "name": "Israel Subira",
+          "url": "https://open.spotify.com/artist/40jSo4jgm07gMbHPJWnaFU"
         }
       ],
-      "duration_ms": 495026,
-      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
-      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
+      "duration_ms": 465885,
+      "name": "Me Leva Pra Casa",
+      "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 277680,
       "name": "Mesmo Sem Entender - Ao Vivo",
       "url": "https://open.spotify.com/track/65XnT7szSYXvWi2qnmzy7o"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "N\u00e3o Me Deixes Desistir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kxrkqjf3Uco8exfyGqxN6"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 495026,
+      "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
+      "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 245063,
-      "name": "Deus Cuida de Mim",
-      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Como \u00c1guia.",
         "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 260620,
       "name": "Cicatrizes",
       "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 245063,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+        "name": "Toque no Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 411000,
-      "name": "Minha Morada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU"
+      "duration_ms": 324853,
+      "name": "Te Louvarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "Minha Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Tudo a Ver Com Ele",
         "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Toque no Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 324853,
-      "name": "Te Louvarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4AgLJxOkacISI93JYPNUtp"
     },
     {
       "added_at": "2022-04-15 03:00:00",

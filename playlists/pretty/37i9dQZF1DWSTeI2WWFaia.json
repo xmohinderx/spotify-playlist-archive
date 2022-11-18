@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 637437,
+  "num_followers": 637431,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0ODEzNywwMDAwMDAwMDNlMDRjMDY0ZTZlZGM0YjUxN2ZiYmQ0YzFkZDc0YTA5",
+  "snapshot_id": "MTY2ODE0ODEzNywwMDAwMDAwMDlhNTliYTE1ZmMzNWNmNGFkOTAzNmYwYTYzMjdjODY0",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
-      "added_at": "2022-11-17 01:05:05",
+      "added_at": "2022-11-18 01:08:09",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
     },
     {
-      "added_at": "2022-11-17 01:05:05",
+      "added_at": "2022-11-18 01:08:09",
       "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/2OwdxUvQBCjolqKBZYXI0v"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
     },
     {
-      "added_at": "2022-11-17 01:05:05",
+      "added_at": "2022-11-18 01:08:09",
       "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
@@ -231,26 +231,6 @@
       "duration_ms": 156972,
       "name": "Ghetto Reporter",
       "url": "https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Fast Life",
-        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
-      },
-      "artists": [
-        {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 117211,
-      "name": "Fast Life",
-      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -293,7 +273,27 @@
       "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
     },
     {
-      "added_at": "2022-11-17 01:05:05",
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fast Life",
+        "url": "https://open.spotify.com/album/2wLlsWj3lhE79LCLmcL1on"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 117211,
+      "name": "Fast Life",
+      "url": "https://open.spotify.com/track/3sQujgsglVZVKDvvpape8z"
+    },
+    {
+      "added_at": "2022-11-18 01:08:09",
       "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/6cRRJmCi1WIvTSEBmrjj6j"
@@ -495,6 +495,26 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
+        "name": "Plain Sight",
+        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
+      },
+      "artists": [
+        {
+          "name": "Vado",
+          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Plain Sight",
+      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
         "name": "A Quarter Til",
         "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Plain Sight",
-        "url": "https://open.spotify.com/album/6CzfmHmWBWTbtmjHvbNrjB"
-      },
-      "artists": [
-        {
-          "name": "Vado",
-          "url": "https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8"
-        },
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Plain Sight",
-      "url": "https://open.spotify.com/track/3Ah4pozwJaRxSCpBpe5feb"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -616,7 +616,7 @@
           "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 184526,
+      "duration_ms": 160774,
       "name": "Lobster Omelette (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/47lSZVLBTQz5rilIsZR7M2"
     },

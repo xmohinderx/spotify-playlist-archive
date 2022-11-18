@@ -740,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/4KAX3VjLEYw48Z2zIoAj0Z"
+      },
+      "artists": [
+        {
+          "name": "Syntact",
+          "url": "https://open.spotify.com/artist/07Wf444cHLc9Qju8MhHD2f"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5p6r0N9T6Z9dhjKYklLLqY"
+    },
+    {
+      "album": {
         "name": "Electric (jeonghyeon Remix)",
         "url": "https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8"
       },

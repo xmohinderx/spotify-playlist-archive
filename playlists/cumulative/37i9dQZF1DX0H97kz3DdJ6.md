@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-102 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+103 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Adeus Tokio](https://open.spotify.com/track/55CuhrJrgyPhPx9bBpt0EU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk) | [Bem\-vindo, Setembro!](https://open.spotify.com/album/3YuTVbf1OYCGqXrlRnBqLb) | 2:32 | 2022-07-22 |  |
 | [Ainda Lembro](https://open.spotify.com/track/3RkTmbR7D01mq46FNp1mI0) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Ainda Lembro](https://open.spotify.com/album/2tG0W9n2wjwG8x0eA6LpZY) | 2:26 | 2022-05-20 |  |
 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 | 2022-05-20 |  |
+| [alguém](https://open.spotify.com/track/6UDPt5g8OZtUHIQDUGztQc) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:08 | 2022-11-17 |  |
 | [Amanhã](https://open.spotify.com/track/7C1CvniWykrusLwitFH7WK) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Amanhã](https://open.spotify.com/album/5EeiFSXE4afZ0F5s06rRF8) | 3:00 | 2022-05-20 |  |
 | [Amenizar](https://open.spotify.com/track/2CcBndSk67PNfDZNlP1Lxw) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Amenizar](https://open.spotify.com/album/2kZOSp08IjUyvABagI7otX) | 3:34 | 2022-05-20 | 2022-06-25 |
 | [Amores Nascem e Morrem](https://open.spotify.com/track/6sYoOLkoTCerRMgfHh8J65) | [NOVENOVE](https://open.spotify.com/artist/4t2AqdHzMvBMeaFrPrCEmj) | [Amores Nascem e Morrem](https://open.spotify.com/album/7KH7FYJCl0AUq5yHM3vSgy) | 3:16 | 2022-05-20 |  |

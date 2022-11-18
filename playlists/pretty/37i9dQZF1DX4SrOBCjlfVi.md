@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rod Wave, Lil Tjay and more\. Cover: SleazyWorld Go
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,424 likes - 51 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,447 likes - 51 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 34 | [Kap N Gown](https://open.spotify.com/track/4bSKouvmhitKmeNqjTwujY) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Kap N Gown](https://open.spotify.com/album/4NxYE0VCPgKQ2ohXq29T5a) | 2:53 |
 | 35 | [Jeffery's Innocent](https://open.spotify.com/track/2msi6aUT3FldwSxMqj5074) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Pendleton](https://open.spotify.com/album/3WOrW5A7S4dADPx8mSkLMf) | 3:24 |
 | 36 | [Letter 2 Notti](https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [Letter 2 Notti](https://open.spotify.com/album/26LCzQxgr9L97slkouEn80) | 2:07 |
-| 37 | [Trying](https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kevin Gates \- Remix](https://open.spotify.com/artist/5S2u7CddoFw7e5UOC8FZWf) | [Trying](https://open.spotify.com/album/5plqxzmegAFVguOWw9N9bu) | 3:04 |
+| 37 | [Trying \(feat\. Kevin Gates\) \- Remix](https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Trying \(feat\. Kevin Gates\) \[Remix\]](https://open.spotify.com/album/5plqxzmegAFVguOWw9N9bu) | 3:04 |
 | 38 | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/track/2qUPj0b3PYLJJoscQvhMUr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Red Lights \(feat\. Hello O'shay\)](https://open.spotify.com/album/16yQV8L8zdacH4xEjbODda) | 3:12 |
 | 39 | [Life Is Crazy](https://open.spotify.com/track/5PV9Hvxmx1mqFzggHM1yG3) | [Slatt Zy](https://open.spotify.com/artist/2PCrvJNRI8qGLtz9QwL7fq) | [Life Is Crazy](https://open.spotify.com/album/7AKAylwqImFlNVJvJTG4Vb) | 3:14 |
 | 40 | [Plug Motivation](https://open.spotify.com/track/1HocWUnNM0c9YSR5MoTNOG) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Plug Motivation](https://open.spotify.com/album/4Ebrp8jh6IpRzEhOuaekaH) | 2:36 |

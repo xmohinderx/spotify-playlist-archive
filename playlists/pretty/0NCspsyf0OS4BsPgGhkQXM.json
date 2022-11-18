@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs - cover featuring NGHTMRE.",
-  "num_followers": 2026451,
+  "num_followers": 2026626,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI2OTksY2JmZTAzY2RiMjc4M2I3MjAwMTkzOGRlZWQxMTQzZDZhMjk4NzQ4Yg==",
+  "snapshot_id": "MTI3MDMsNjIxOWE5NjYzZDE3NWYxN2RiNmExZWRiY2U0MzRhNDFhMGQwMTRmZA==",
   "tracks": [
     {
       "added_at": "2022-11-10 23:02:21",
@@ -297,6 +297,26 @@
       "url": "https://open.spotify.com/track/4eRKLoekIhUlkwkszb928L"
     },
     {
+      "added_at": "2022-11-17 17:02:53",
+      "album": {
+        "name": "Walk On Water (with Danni Carra)",
+        "url": "https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "duration_ms": 182844,
+      "name": "Walk On Water (with Danni Carra)",
+      "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"
+    },
+    {
       "added_at": "2022-11-10 18:24:36",
       "album": {
         "name": "Oceans",
@@ -359,6 +379,26 @@
       "duration_ms": 238344,
       "name": "Islands (with Nina Sung)",
       "url": "https://open.spotify.com/track/32NZubSyu1uxe8N1Btqtlk"
+    },
+    {
+      "added_at": "2022-11-17 17:06:58",
+      "album": {
+        "name": "Perimeter",
+        "url": "https://open.spotify.com/album/0PN6lUmXCNRRx5Z55Cnw5X"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "Zack Gray",
+          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
+        }
+      ],
+      "duration_ms": 210527,
+      "name": "Perimeter",
+      "url": "https://open.spotify.com/track/4bcOaSoyeVbPpiElUuI9Cd"
     },
     {
       "added_at": "2022-11-10 18:24:36",

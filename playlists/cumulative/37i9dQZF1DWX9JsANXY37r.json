@@ -3441,6 +3441,24 @@
     {
       "album": {
         "name": "Making Time",
+        "url": "https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Woon",
+          "url": "https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Sharpness",
+      "url": "https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA"
+    },
+    {
+      "album": {
+        "name": "Making Time",
         "url": "https://open.spotify.com/album/1piHywE1K1xbS3fTTVrdBC"
       },
       "artists": [
@@ -3983,7 +4001,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 262317,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6PijBqDTCJtL6VlFO0orTm"

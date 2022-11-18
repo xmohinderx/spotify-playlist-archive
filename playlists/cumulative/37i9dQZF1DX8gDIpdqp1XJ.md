@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-642 songs - 1 day 18 hr 50 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+643 songs - 1 day 18 hr 53 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Keep It Buried](https://open.spotify.com/track/11G2LLH4uKTLVgDTsHTvCm) | [Sam Jr.](https://open.spotify.com/artist/70i6mCDJ5pvhYoJThIi4lO) | [Keep It Buried](https://open.spotify.com/album/169QLR0vEStVt1QXNO6pe5) | 5:07 | 2022-03-08 | 2022-06-25 |
 | [Keep On Dreamin'](https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Keep On Dreamin'](https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5) | 4:26 | 2022-10-14 |  |
 | [Keeps Bringing Me Back](https://open.spotify.com/track/4S5c2QVqS8etrXvsUhLKbf) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Keeps Bringing Me Back](https://open.spotify.com/album/5aKL2F7KfujJtkyGTBXPoY) | 3:55 | 2021-04-02 | 2022-07-08 |
+| [Kepler\-22b](https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Omnium Gatherum](https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7) | 3:12 | 2022-10-24 |  |
 | [Kepler\-22b](https://open.spotify.com/track/4RpYwhok6EenNByjlMupsd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Kepler\-22b](https://open.spotify.com/album/2Y9ms6z4ZoXXmLDlzjH8SP) | 3:12 | 2022-04-22 | 2022-07-30 |
 | [Kids in the Sky](https://open.spotify.com/track/0h2WwCbmMoNPKtcxo0WSnq) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 3:38 | 2021-04-02 | 2022-04-21 |
 | [Kiss Me](https://open.spotify.com/track/0CHC2sFuMqPvCuwZsLK4Ks) | [JUICEB☮X](https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR) | [Kiss Me](https://open.spotify.com/album/69Hza7qOdkjhn47C3jaEKB) | 3:53 | 2022-03-08 | 2022-06-23 |
@@ -460,7 +461,7 @@
 | [Remaining Light](https://open.spotify.com/track/0WKO0qWoZAcai9Dw78vuge) | [Absolutely Free](https://open.spotify.com/artist/5DD56TbdQI5Xe9c8YSiTj5) | [Remaining Light](https://open.spotify.com/album/0bpEOLrNxcb91OXbhu1uSW) | 5:45 | 2021-09-17 | 2022-04-21 |
 | [Reset](https://open.spotify.com/track/5QaAMG5SdD0OKmV3VVo7Wo) | [Colyer](https://open.spotify.com/artist/1L0pwxF6zglm74nG2gBWw5) | [Reset](https://open.spotify.com/album/6LgkETeWZxBGgEThkiALNi) | 4:58 | 2022-04-22 | 2022-10-08 |
 | [Revelator](https://open.spotify.com/track/0xVwkfyPh0brDtlmtdIb2d) | [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Revelator](https://open.spotify.com/album/7zI8PDMo7i9ZZcIBL7BK1d) | 3:05 | 2022-03-04 | 2022-06-15 |
-| [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-12-14 |  |
+| [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-12-14 | 2022-11-18 |
 | [Ruby Sparks](https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [After School Club](https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ) | 4:14 | 2022-09-02 | 2022-11-17 |
 | [Ruby Sparks](https://open.spotify.com/track/5XTmYM921b7aXDzINhhykP) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Ruby Sparks](https://open.spotify.com/album/5gV0W63JWYVOspHQjb3ycY) | 4:14 | 2022-07-22 | 2022-10-14 |
 | [Running Backwards](https://open.spotify.com/track/6tkb9q3f7elJ1u5p8AFNCX) | [Sleeping Jesus](https://open.spotify.com/artist/2HdmMDI7Kl4mUZdB6m4mp4) | [Running Backwards](https://open.spotify.com/album/7KoFuplb07ujpTafyNwcvP) | 3:00 | 2022-07-11 | 2022-07-16 |

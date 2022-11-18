@@ -4,7 +4,7 @@
 
 > Amigo, ven te invito una copa...
 
-100 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
+101 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/4wWNt6GsmMvcFRUsO8irNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [La Copa Rota](https://open.spotify.com/track/5IfAlOMySAH08t03DopAoZ) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Coleccion Original: José Feliciano](https://open.spotify.com/album/5wDSxbDiNT3iraQnVhWrD0) | 2:38 | 2020-09-10 |  |
 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 | 2020-09-10 |  |
 | [La Playa](https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 4:07 | 2020-09-10 |  |
+| [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 | 2020-09-10 |  |
 | [Lamento De Amor](https://open.spotify.com/track/5kDPDm0gcfooyijmjA5awt) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Mi Colección](https://open.spotify.com/album/6VIYUeOfCiok6sf333btqs) | 3:17 | 2020-09-10 | 2022-07-29 |
 | [Lamento De Amor](https://open.spotify.com/track/135qndcLI4bZH0kIzPvSEv) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Lo Más Romántico De](https://open.spotify.com/album/0FQFtta26n66zaWT77QKF7) | 3:17 | 2020-09-10 | 2022-11-13 |
-| [Lamento De Amor \- Versión Banda](https://open.spotify.com/track/1tPPuhWAPxzOXKoLz6MiCs) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Sus Grandes Éxitos Con Banda \(Vol\. 1\)](https://open.spotify.com/album/0BXF2Fwc4FXyC9vq9IvgDS) | 3:10 | 2020-09-10 |  |
+| [Lamento De Amor \- Versión Banda](https://open.spotify.com/track/1tPPuhWAPxzOXKoLz6MiCs) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Sus Grandes Éxitos Con Banda \(Vol\. 1\)](https://open.spotify.com/album/0BXF2Fwc4FXyC9vq9IvgDS) | 3:10 | 2020-09-10 | 2022-11-18 |
 | [Lo Que No Fue No Será](https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Lo Pasado Pasado](https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq) | 3:33 | 2020-09-10 | 2022-07-29 |
 | [Lo Que No Fue No Será](https://open.spotify.com/track/1lpgZHye3BoScIcKpnQRW8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 3:33 | 2020-09-10 |  |
 | [Lo Que No Fue No Será](https://open.spotify.com/track/4nopwvxfTJjX0QRb3OmfRu) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [25 Aniversario, Vol\. 1](https://open.spotify.com/album/3QCYYcASmJZYOKbTYBrXbw) | 3:34 | 2020-09-10 | 2022-11-13 |

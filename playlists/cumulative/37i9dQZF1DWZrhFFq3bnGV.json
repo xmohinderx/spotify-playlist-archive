@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Joey Alexander ",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Rafi Muhammad",
   "name": "Jazz Anak Negeri",
   "published_playlist_ids": [
     "50nx8bYWnlzdoNtPoX5a5I"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 276367,
       "name": "Kejar Waktu",
       "url": "https://open.spotify.com/track/1Eo6TNhL7ydD7HFHPFc9bE"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 154666,
       "name": "Late Motion",
       "url": "https://open.spotify.com/track/6i0NdwSm1upF6v8Sd89jIO"
@@ -1429,6 +1429,24 @@
       "duration_ms": 203976,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl"
+    },
+    {
+      "album": {
+        "name": "Laughter Master",
+        "url": "https://open.spotify.com/album/2PV9HDLaFPcepNYU6iJDY8"
+      },
+      "artists": [
+        {
+          "name": "Rafi Muhammad",
+          "url": "https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329592,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/4OssZd7mNskFiUZ40ukFkx"
     },
     {
       "album": {

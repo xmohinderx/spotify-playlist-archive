@@ -4,7 +4,7 @@
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-319 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
+321 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Cry, Cry, Cry \- Long Version](https://open.spotify.com/track/7DP5q4CQMx5hf4K5RnVVYP) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 3:03 | 2020-10-11 |  |
 | [C’Mon Everybody](https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:58 | 2020-10-11 |  |
 | [Devil Woman](https://open.spotify.com/track/5qwJb7o2X9HUFEV3ohX2v6) | [Buddy Knox](https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb) | [Buddy Knox](https://open.spotify.com/album/3ouDZeOVznhaMMOvZcukTc) | 2:12 | 2020-10-11 |  |
-| [Dixie Fried](https://open.spotify.com/track/67a41MrXPrrSM3OeqoxMkM) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Original Golden Hits](https://open.spotify.com/album/6UYgHKeG16ICKNm52dVnJi) | 2:24 | 2020-10-11 |  |
+| [Dixie Fried](https://open.spotify.com/track/2BJtt5HqkcG4OLcbLjl7GB) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [I'm Sorry I'm Not Sorry / Dixie Fried](https://open.spotify.com/album/1SkMfz25b6W2iml8HjtJ5j) | 2:24 | 2020-10-11 |  |
+| [Dixie Fried](https://open.spotify.com/track/67a41MrXPrrSM3OeqoxMkM) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Original Golden Hits](https://open.spotify.com/album/6UYgHKeG16ICKNm52dVnJi) | 2:24 | 2020-10-11 | 2022-11-18 |
 | [Dixie Fried](https://open.spotify.com/track/5W07idwf58ahnvoPgYb2xI) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [Most Wanted 50s Rockabilly](https://open.spotify.com/album/69V0tr8soM6T7zu9ZviP5s) | 2:24 | 2020-10-11 | 2022-11-13 |
 | [Dixie Fried](https://open.spotify.com/track/20IsGvRnqdzzotrQeJ6GRb) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:27 | 2020-10-11 | 2022-07-29 |
 | [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 | 2020-10-11 |  |
@@ -306,7 +307,8 @@
 | [We Wanna Boogie](https://open.spotify.com/track/0zUrqiVhuc5siPuEGmi3l6) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [The Legendary Sun Classics](https://open.spotify.com/album/0E8tCnwPe4rOHSRMzyIVpq) | 2:23 | 2020-10-11 |  |
 | [Who Do You Love \- Single Version; Remastered](https://open.spotify.com/track/4BiwW4Yu4v2QFO47XnTi6p) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rhino Hi\-Five: Rockin' Bones: 1950s Punk & Rockabilly](https://open.spotify.com/album/2Ot4oR9l5JVrgQxAhWKgTT) | 2:40 | 2020-10-11 |  |
 | [Who Slapped John?](https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 1:58 | 2020-10-11 |  |
-| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 | 2020-10-11 |  |
+| [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 | 2020-10-11 |  |
+| [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 | 2020-10-11 | 2022-11-18 |
 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/6hOUpZRMnj6xhAh3r1UyvF) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:55 | 2020-10-11 | 2022-07-29 |
 | [Whole Lotta Shakin' Going on](https://open.spotify.com/track/78bUBAJE8G62Rj3B6qDspV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Original Sun Recordings](https://open.spotify.com/album/3MOt6Q0Npv4YQe7pcJxgH7) | 2:55 | 2020-10-11 | 2022-11-13 |
 | [Will You Willyum](https://open.spotify.com/track/2JwFHbxbntN3dWNqnQOqqT) | [Janis Martin](https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq) | [The Female Elvis \- Complete Recordings 1956\-60](https://open.spotify.com/album/4nlorgXh8XETUXvBfx2Loy) | 1:56 | 2020-10-11 | 2022-07-29 |

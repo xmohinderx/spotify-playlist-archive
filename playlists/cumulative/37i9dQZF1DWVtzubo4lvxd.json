@@ -2390,6 +2390,24 @@
     },
     {
       "album": {
+        "name": "late night bumps, Vol. 1",
+        "url": "https://open.spotify.com/album/5HMngAXSRRcbc3wJstGpuV"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75446,
+      "name": "reefers",
+      "url": "https://open.spotify.com/track/3lf0ibMyyCIbV1iHAtNgn4"
+    },
+    {
+      "album": {
         "name": "sunshine",
         "url": "https://open.spotify.com/album/2IwVdi0kbIlmkf16UpP71I"
       },
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 77519,
       "name": "St. Clements",
       "url": "https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq"

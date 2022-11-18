@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G?si=7wf3aHhaQdKrYmro01xT-Q\">Ethic Entertainment </a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP?si=nNMrzwyiTe2P_3y00xhTkQ\">Maandy </a> and <a href=\"https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u?si=P_ibN3lPRXKA12JffrSK0g\">Mejja </a>",
   "name": "Gengetone Fire",
   "published_playlist_ids": [
     "7MvfVmuw7tyjVzEqBd5mPq"
@@ -259,6 +259,24 @@
       "duration_ms": 181603,
       "name": "Apewe Mic",
       "url": "https://open.spotify.com/track/1ihwva2Geog94pHxDUinYq"
+    },
+    {
+      "album": {
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/64YiygXtvR7rw1KmkoMeOd"
+      },
+      "artists": [
+        {
+          "name": "Bussa J",
+          "url": "https://open.spotify.com/artist/1QIbS7iQAGVsFmOhOMGIYd"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/3JUlWwEE1F1sa8aHalyBCH"
     },
     {
       "album": {
@@ -3182,6 +3200,28 @@
     },
     {
       "album": {
+        "name": "Ni Wetu",
+        "url": "https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Ni Wetu",
+      "url": "https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF"
+    },
+    {
+      "album": {
         "name": "Kitenge",
         "url": "https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke"
       },
@@ -4693,7 +4733,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 211252,
       "name": "Unaonaje",
       "url": "https://open.spotify.com/track/3fBqp1yQcxVy16aLHcl6mg"
@@ -4803,7 +4843,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 199909,
       "name": "WABABA",
       "url": "https://open.spotify.com/track/2yK919ZuJ54CQscoSVCPAQ"

@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Budjerah
 
-646 songs - 1 day 10 hr 53 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+648 songs - 1 day 11 hr 1 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/7fF6u8BlXiA3bJKDuJMKRR) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [I Wanna Be Yours](https://open.spotify.com/album/4OyXl2VWIP5hzOMog09KcK) | 3:12 | 2019-11-01 | 2020-02-12 |
 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 | 2021-08-14 |  |
 | [I Want You](https://open.spotify.com/track/27YIj9tDdBuyi9lORpYMtd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [I Want You](https://open.spotify.com/album/1XyvOXTp2gqK5gfMbjDk84) | 3:05 | 2019-08-27\* | 2019-11-11 |
+| [I Want You \(To Be My Woman\) \[feat\. DOPE LEMON\]](https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:01 | 2022-11-18 |  |
 | [I Wish I Could Hate You](https://open.spotify.com/track/2z4mORt9qfkn3EN3iu3jqw) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Wish I Could Hate You](https://open.spotify.com/album/6NAIW55XE5VCP1Da1dV2Bw) | 2:22 | 2022-08-05 |  |
 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 | 2020-10-02 | 2021-05-12 |
 | [i'm sorry](https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [i'm sorry](https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B) | 3:44 | 2022-10-21 |  |
@@ -574,6 +575,7 @@
 | [The List](https://open.spotify.com/track/1Nm13xmpLsLvFsUp4vR8ED) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The List](https://open.spotify.com/album/0ycKvTCeXMxiZy8xkiworC) | 3:19 | 2020-05-15 | 2021-05-12 |
 | [The Look \(feat\. Kehlani\)](https://open.spotify.com/track/3POcBJvOCO5Xeov9F3cpgh) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [WHO HURT YOU?](https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur) | 3:36 | 2022-08-12 |  |
 | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/track/4rEAtHXza0kdANkTLUwXM1) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/album/7zmo9jWL7G4xj6oSLXRq0v) | 2:58 | 2020-04-24 | 2021-05-12 |
+| [The One](https://open.spotify.com/track/33eVOcvtORnJTj5NCqyC4L) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [The One](https://open.spotify.com/album/1iIO7Ft3S5Yq6ZG7mb87qs) | 3:20 | 2022-11-18 |  |
 | [The Stranger](https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:11 | 2020-03-27 | 2021-05-12 |
 | [The Sweet Escape](https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [The Sweet Escape](https://open.spotify.com/album/3jCd27MDogNResJz6axMOP) | 2:46 | 2020-12-04 |  |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-10-16 |  |

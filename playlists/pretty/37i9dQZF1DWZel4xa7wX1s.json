@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89396,
+  "num_followers": 89392,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMDUxMWFhOWVjM2RiNmI3ODU2ZGMxZjdmNThmNjU5YWVi",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGMyNWRjZjNhMTAxZjJkYTg4MTNmNWM2NzgzMDYyZGVl",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -607,26 +607,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
+        "name": "Let's Go Sunshine",
+        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
         }
       ],
-      "duration_ms": 221054,
-      "name": "Prove You Wrong",
-      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
+      "duration_ms": 203081,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -647,18 +639,26 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Let's Go Sunshine",
-        "url": "https://open.spotify.com/album/60n4GXgyCv2a7rBfgVu9Pe"
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 203081,
-      "name": "Four Leaf Clover",
-      "url": "https://open.spotify.com/track/3B6jRbaUWN5qdNerXPVgIl"
+      "duration_ms": 221054,
+      "name": "Prove You Wrong",
+      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -711,22 +711,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "WHO (Deluxe)",
-        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 269933,
-      "name": "Ball and Chain",
-      "url": "https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "My Love Goes On (feat. Joss Stone)",
         "url": "https://open.spotify.com/album/3Cq3SXwDWPgfurTBArted5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 216800,
       "name": "My Love Goes On (feat. Joss Stone)",
       "url": "https://open.spotify.com/track/0irDfV3ctQGVN69ograYiK"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "WHO (Deluxe)",
+        "url": "https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 269933,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -919,22 +919,6 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
         "name": "Chip Tooth Smile",
         "url": "https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 175573,
       "name": "We Were Beautiful",
       "url": "https://open.spotify.com/track/7xkcFfIfRWPbdiuUU2jvZG"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/0OyJRO76yPcp9woysD5VT6"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/0JahrDBriRtoaO473f00rk"
     },
     {
       "added_at": "2019-11-29 09:37:55",

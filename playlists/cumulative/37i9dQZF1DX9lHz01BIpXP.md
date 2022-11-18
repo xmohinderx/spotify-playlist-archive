@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop Cover: <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA">Jack Parow</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ\-u8gnmqQaUJ8A">Loufi</a>
 
-54 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
+55 songs - 3 hr 4 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,13 +36,14 @@
 | [Koue Bier](https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c) | [KUIERKOORS](https://open.spotify.com/artist/7DVnGxt0tHeDtdj4vNttOw) | [Koue Bier](https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK) | 3:59 | 2022-09-08 |  |
 | [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 |  |
 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 | 2022-09-08 |  |
-| [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT) | [John James](https://open.spotify.com/artist/5fN5sHxJksgQWx8eR3Bglv), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/album/01PgqcjuqlaxBSPpslFvSl) | 4:17 | 2022-09-08 |  |
+| [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT) | [John James](https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/album/01PgqcjuqlaxBSPpslFvSl) | 4:17 | 2022-09-08 |  |
 | [Mal](https://open.spotify.com/track/63Q6SWhpOsG1KnCZZTGPjy) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Mal](https://open.spotify.com/album/41DsSF0XlDJlNPaZTMRaTw) | 2:11 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/1psMgy1yY92I0iEDmiEtmT) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Meisies & Partytjies](https://open.spotify.com/album/6zuBf5TT5VdAvijbdb3oCT) | 3:42 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/2gesUnuudnlfvTFeuIF8Rw) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:42 | 2022-09-08 | 2022-11-10 |
 | [Mermaid](https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [Mermaid](https://open.spotify.com/album/0aXpcLp49iI5h6y3MhSKDY) | 3:13 | 2022-10-27 |  |
+| [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 | 2022-11-17 |  |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 |  |
-| [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 |  |
+| [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 | 2022-11-18 |
 | [Playa](https://open.spotify.com/track/1rNz535f5FjsnATLQQbSvN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 3:26 | 2022-09-08 |  |
 | [Pot Jie Kos](https://open.spotify.com/track/4q26B1ucwbE6DgGytVBXpV) | [Brasse Vannie Kaap](https://open.spotify.com/artist/6nkhSnCQetHUVMEaZNpuvj) | [Super Power](https://open.spotify.com/album/0WS0M32uGuEKQL1KilDYFQ) | 3:32 | 2022-09-08 |  |
 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 | 2022-09-08 |  |

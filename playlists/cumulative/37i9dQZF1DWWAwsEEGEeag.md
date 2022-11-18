@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-122 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
+123 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/1hQIUdoAweSwm2MugCosGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Fou](https://open.spotify.com/track/7eAp3ZgBPzmXo0bwnmFELp) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo](https://open.spotify.com/album/7gE23KRzNbXeB6nZmQVqa3) | 5:09 | 2022-06-24 |  |
 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 | 2022-06-24 |  |
 | [Fretless](https://open.spotify.com/track/6AaP0JsyCSAKg1bX5JbkL1) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl) | [WONDERFUL](https://open.spotify.com/album/2srL6pvV34ddtQwyDJJJMr) | 3:02 | 2022-06-24 |  |
-| [Funky Thang](https://open.spotify.com/track/5zVB1UcrO52SUONu7h7F7U) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Funky Thang](https://open.spotify.com/album/1WklZZRCVoqJCKGoYmeJfr) | 2:40 | 2022-06-24 |  |
+| [Funky Thang](https://open.spotify.com/track/3VBYPu6aJaCgtlHx3Avxbk) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Funky Thang](https://open.spotify.com/album/7eIlzpI54AnqKhPJOHrgzK) | 2:40 | 2022-09-23 |  |
+| [Funky Thang](https://open.spotify.com/track/5zVB1UcrO52SUONu7h7F7U) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Funky Thang](https://open.spotify.com/album/1WklZZRCVoqJCKGoYmeJfr) | 2:40 | 2022-06-24 | 2022-11-18 |
 | [Gainsbourg](https://open.spotify.com/track/78LCyYqnfKvUq9ke5oZkIY) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Gainsbourg](https://open.spotify.com/album/15UrQv2Y3bLPt6rSovqtLl) | 3:15 | 2022-06-24 |  |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-06-24 |  |
 | [Good Thing \(feat\. A\-Sho\)](https://open.spotify.com/track/7E1zd4pKf1VkWrbyO8jzwO) | [Heartstreets](https://open.spotify.com/artist/4e4lcwPxcGOe7k5gxGiS1a), [A\-SHO](https://open.spotify.com/artist/1nMwu5ui0X2XYTRKGmCFJz) | [Why Make Sense](https://open.spotify.com/album/4Ky4NOOAsfW8pIna26QR3f) | 3:28 | 2022-06-24 |  |

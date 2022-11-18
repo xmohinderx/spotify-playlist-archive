@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Conexión Divina
 
-1,394 songs - 3 day 1 hr 5 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
+1,395 songs - 3 day 1 hr 7 min - [published](https://open.spotify.com/playlist/6A73JfWm3me5kCdLBJY6VI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Experto En Decepciones](https://open.spotify.com/track/4xWEdNkUip24ov7lstxkxN) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [Experto En Decepciones](https://open.spotify.com/album/6Wa9YxhFBdc11s1p1wAoxO) | 2:57 | 2022-07-01 | 2022-07-09 |
 | [F.E.A](https://open.spotify.com/track/3FwCmriaWEz1xMV6f2QcIj) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [F.E.A](https://open.spotify.com/album/14ULMI2zo608MDFmVr0x61) | 2:46 | 2022-07-01 | 2022-07-09 |
 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 | 2022-08-05 | 2022-08-13 |
+| [Falsa Gente](https://open.spotify.com/track/1Ooz8HRmBPQL21zp8np4tU) | [Eduardo Soto](https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR) | [Falsa Gente](https://open.spotify.com/album/1wpBEDMtb3okiqxTsu26Yx) | 2:40 | 2022-11-11 |  |
 | [Falso Amigo](https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Falso Amigo](https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL) | 3:15 | 2022-08-05 | 2022-08-13 |
 | [Falsos Amigos](https://open.spotify.com/track/2nGWImaU1ylme2DOUdCsYx) | [Jony Ramírez](https://open.spotify.com/artist/2xccuJvlTVuMVsQT2wevDe) | [Falsos Amigos](https://open.spotify.com/album/2GhHrl65wHYyOdYCK3zsep) | 2:23 | 2022-08-12 | 2022-08-20 |
 | [Fantasía](https://open.spotify.com/track/1D5HnuXg2AsAXhOEFBRUQw) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Fantasía](https://open.spotify.com/album/5BGImUdjnrOYJsix9CJs5h) | 2:22 | 2022-10-14 | 2022-10-22 |

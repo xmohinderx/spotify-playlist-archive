@@ -4,7 +4,7 @@
 
 > Calm ambient music with gentle nature sounds.
 
-229 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
+234 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Calming Seashore](https://open.spotify.com/track/4msQl50RTvdYVaak2Z99Fc) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Tones of Nature](https://open.spotify.com/album/10RrCngn0oIs8S0KyYKTRW) | 3:42 | 2021-12-17 |  |
 | [Canals](https://open.spotify.com/track/1pK2SvpHrWrWFse9qxuj9f) | [Orphoria](https://open.spotify.com/artist/0WTxtKGnW3poFGHyG9Hcpg) | [Solar Sail](https://open.spotify.com/album/5LnqmFMVmIut3nRotPDWzc) | 2:49 | 2021-12-17 |  |
 | [Cave by the Ocean](https://open.spotify.com/track/6EvWjiZZhu8gYmAp52sT4X) | [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Songs in the Key of Earth, Vol\. 1](https://open.spotify.com/album/0TSj3QARPm9cNkEd6GyjbD) | 1:40 | 2021-12-17 |  |
+| [Celestine](https://open.spotify.com/track/6KQhAeR6HvQQYvt9yjzyyi) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [Celestine](https://open.spotify.com/album/2ORpkbhfYy0U63WSvNG7Ke) | 3:28 | 2022-11-17 |  |
 | [Chrystal Waters](https://open.spotify.com/track/0STNzJ42S02Ep6mcnwLfMW) | [Astral View](https://open.spotify.com/artist/7pq8kxpU61rnrS73yuK1xF) | [Chrystal Waters](https://open.spotify.com/album/5tNpDpbw7T6GlJOodIAQjO) | 3:08 | 2021-12-17 |  |
 | [City Sun](https://open.spotify.com/track/3cP0lItvdmwHLQsFtTSczu) | [Mochas](https://open.spotify.com/artist/4GimdSN8NMDW7LYdSHtjIH) | [City Sun](https://open.spotify.com/album/6CU4QLegDqC55dF4860RhK) | 2:51 | 2021-12-17 | 2022-05-06 |
 | [Colors Of The Wind](https://open.spotify.com/track/0YL8kXuNOcOF8curSrGOEw) | [Alex Patel](https://open.spotify.com/artist/4e90KIWr9PXRvOsvB7kdnb) | [Colors Of The Wind](https://open.spotify.com/album/1Ta8HPmo20jBMUCyah11oC) | 3:05 | 2021-12-17 |  |
@@ -50,6 +51,7 @@
 | [Conscious Jorney](https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Benny Bernstein](https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM) | 2:34 | 2021-12-17 |  |
 | [Delta Spirit](https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Spiritualizer](https://open.spotify.com/album/1CnFJVEozeGpXtd6ih5ldP) | 2:40 | 2022-03-04 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2021-12-17 |  |
+| [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2022-11-17 |  |
 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 | 2021-12-17 |  |
 | [Dreaming in Ripples](https://open.spotify.com/track/2zAv5GHvNjAsI4mjyoorl4) | [Waterbank](https://open.spotify.com/artist/3t3TG0tFaugTkBnweCFfYj) | [Dreaming in Ripples](https://open.spotify.com/album/2leD4uGfAO7gG3BIQczYh4) | 2:33 | 2022-02-16 |  |
 | [Dreamland](https://open.spotify.com/track/211hZI5K811BcZfTja8AlB) | [August Deware](https://open.spotify.com/artist/4JkwQIDvHhzRTVVs6JcxjZ) | [Dreamland](https://open.spotify.com/album/6xaWRgNprlSqfJ8AmOd5ax) | 2:51 | 2021-12-17 |  |
@@ -88,6 +90,7 @@
 | [Greater](https://open.spotify.com/track/1aF9Um0aHpzysJw1tKJB1S) | [YON](https://open.spotify.com/artist/2cOdd5qCI4APHYIfwOXges) | [Greater](https://open.spotify.com/album/21C8zODk6vFYHTiijWp8Jw) | 3:24 | 2021-12-17 |  |
 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 | 2021-12-17 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2022-04-21 |  |
+| [Hidden Beneath](https://open.spotify.com/track/0CAM5wnpSHAptTtUxZOrcf) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Hidden Beneath](https://open.spotify.com/album/6NjV1KQgjapRXeel5llObx) | 3:28 | 2022-11-17 |  |
 | [Hourglass](https://open.spotify.com/track/65MkFWA6FFrNfc33xuMy2N) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Hourglass](https://open.spotify.com/album/12LBbLeQwB7FHwGSqiWr03) | 3:27 | 2021-12-17 |  |
 | [Imagine Peace \- Meditation](https://open.spotify.com/track/2i3FV4l3oX8SG4hn1zJ1QK) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Imagine Peace \(Delta Waves\)](https://open.spotify.com/album/42FfOOiJgnOqDWWgUUoD8P) | 6:14 | 2022-10-14 |  |
 | [Impulser](https://open.spotify.com/track/6gdtCejkpEErLHR45XmaGj) | [Maja Balder](https://open.spotify.com/artist/2HxNtfNbAA1Pxjx9BHu1GB) | [Impulser](https://open.spotify.com/album/1Xg3GRD8PQLbxO6d5BjIjm) | 3:28 | 2021-12-17 |  |
@@ -130,6 +133,7 @@
 | [Move With the World](https://open.spotify.com/track/4rdGFY7PaFbiYdtt0XFFcb) | [Andrei Floarea](https://open.spotify.com/artist/78IHxPt2btrcsBlXX7HR0P) | [Waters of the Bay](https://open.spotify.com/album/5K3iTNfIAGAOForUufQNcp) | 4:04 | 2021-12-17 |  |
 | [Muladhara](https://open.spotify.com/track/4vMnOPRUEdAFs5rnP4LKw5) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Muladhara](https://open.spotify.com/album/4FKAGCHvPmK61ph3NK54bH) | 1:37 | 2022-09-30 |  |
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Blissful Drones](https://open.spotify.com/artist/3cABDOr2C1puyZ9wro5vvZ) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
+| [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Jourado Sky](https://open.spotify.com/artist/5QY48b9fOopYTVlgfkcBqp) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 | 2022-11-17 |  |
 | [Night Waves](https://open.spotify.com/track/2Al8nAkIepCfSlWDJMSanz) | [Summer Sea](https://open.spotify.com/artist/1lmCmB56gK4BS9i1Y6lLhP) | [Night Waves](https://open.spotify.com/album/6yuXpqdYcXc8EPHikT59rD) | 3:40 | 2021-12-17 | 2022-07-09 |
 | [Nightfall at Whitehaven Beach](https://open.spotify.com/track/0X1tKaN8UN1r4DRxOtocSr) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Nightfall at Whitehaven Beach](https://open.spotify.com/album/4Nn0t0INwyLJnM4SuJqJ9Q) | 3:19 | 2021-12-17 |  |
 | [No Beginning No End](https://open.spotify.com/track/08Ud09yKK3KT1ylfWzBF8p) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [No Beginning No End](https://open.spotify.com/album/4hJS4JLgD3kkTlHfotsYCh) | 3:05 | 2021-12-17 |  |
@@ -148,6 +152,7 @@
 | [Peaceful Calmness](https://open.spotify.com/track/6RutZE4FLbhhYQEMcgDhwI) | [Matusi](https://open.spotify.com/artist/12flZad77ham3NKTUXIIXL) | [Peaceful Calmness](https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm) | 3:09 | 2022-05-19 |  |
 | [Peaceful Memories](https://open.spotify.com/track/3xeXkQ3g2J1kBo5ex8uM2H) | [Ralph Torin](https://open.spotify.com/artist/3TUD0Es8JW7gx1FLgHukxx) | [Abstract Textures](https://open.spotify.com/album/7uLEzZ94QeZma7UYAwU77N) | 3:37 | 2021-12-17 |  |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2021-12-17 |  |
+| [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 | 2022-11-17 |  |
 | [Phantoms](https://open.spotify.com/track/6hy4E7w34T5hAEtYQlYMXG) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Quest for Peace](https://open.spotify.com/album/6VXYvrJOtOrDp8ypj6nnmd) | 3:23 | 2021-12-17 |  |
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2022-05-05 |  |
 | [Praeniteo](https://open.spotify.com/track/33o8qJ9gYei7lJe7FT2ZTY) | [Chasing The Eclipse](https://open.spotify.com/artist/7srCM8fl9JtX1OT0ZORcIC) | [Praeniteo](https://open.spotify.com/album/55m0KrbmCCLoyFfXWEhpEL) | 2:34 | 2022-04-13 |  |

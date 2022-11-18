@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Wunderhorse",
+  "description": "The best in current indie rock. Cover: Chilli Jesson",
   "name": "pulp",
   "published_playlist_ids": [
     "6icr08W6LxkqPUtZpmcgvv"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 161551,
       "name": "Can't Get In",
       "url": "https://open.spotify.com/track/0RTuA2AWVjFw0MURes4kse"
@@ -941,6 +941,24 @@
       "duration_ms": 161551,
       "name": "Can't Get In",
       "url": "https://open.spotify.com/track/3WvkThjf7gG0VAKAJqtSd7"
+    },
+    {
+      "album": {
+        "name": "Carolina Reaper",
+        "url": "https://open.spotify.com/album/6kkeTinxEaRFMyVYsOItnL"
+      },
+      "artists": [
+        {
+          "name": "Chilli Jesson",
+          "url": "https://open.spotify.com/artist/0P82gDbkEJK1FBV6vKZLqc"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218334,
+      "name": "Carolina Reaper",
+      "url": "https://open.spotify.com/track/4O717610RkQp7cpTdVfmko"
     },
     {
       "album": {
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 188147,
       "name": "Commander Trainwreck",
       "url": "https://open.spotify.com/track/5QSX6X9d0wSn6JLWHCrpsR"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 181279,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/0EK5CqqFEUSr5HgBt1Lnpt"
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 255263,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/3kMn5466igLcIipucTOrSt"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 256489,
       "name": "Fight For It",
       "url": "https://open.spotify.com/track/0CGhN1JJHfo99I27rRgs1P"
@@ -1863,6 +1881,24 @@
       "duration_ms": 183041,
       "name": "Finally Trying",
       "url": "https://open.spotify.com/track/6uHdG26Q6sU3nNRhkw1kj2"
+    },
+    {
+      "album": {
+        "name": "Fingers of Steel",
+        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "album": {
@@ -2219,7 +2255,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 157000,
       "name": "Gr8 Timing!",
       "url": "https://open.spotify.com/track/2jGNWnhAg5G7GbjJB6jQ3I"
@@ -2579,7 +2615,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 176266,
       "name": "How Are You Feeling?",
       "url": "https://open.spotify.com/track/2ctbvOJeepAPf51RoeBE4m"
@@ -3040,6 +3076,24 @@
     },
     {
       "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
+      "album": {
         "name": "Kids 1995",
         "url": "https://open.spotify.com/album/70LOOk3n3ZDNtAvJ6JJ6aP"
       },
@@ -3195,7 +3249,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 226320,
       "name": "last july",
       "url": "https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt"
@@ -3670,6 +3724,24 @@
     },
     {
       "album": {
+        "name": "No Rule",
+        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325888,
+      "name": "No Rule",
+      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
+    },
+    {
+      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
@@ -3995,7 +4067,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 226140,
       "name": "Point of You",
       "url": "https://open.spotify.com/track/4sq6yGk8Njg37wvEdwWOVY"
@@ -4057,7 +4129,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 190552,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/5zFlp5CJqy3NPOYF1FXEYF"
@@ -4183,7 +4255,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 247293,
       "name": "Remains",
       "url": "https://open.spotify.com/track/3Wn9UtA4Ij8HLtDLvmpaUi"
@@ -4507,7 +4579,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 226660,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/4kTqlmaXQSBVwdf63ExuFi"
@@ -4795,7 +4867,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 128000,
       "name": "Step Mum",
       "url": "https://open.spotify.com/track/5WUWMhGe3d2Uok2AGQBBcv"
@@ -5393,7 +5465,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 270017,
       "name": "True Colours (Sometime I'll Get Through)",
       "url": "https://open.spotify.com/track/42SeGdgNjDJxzuc9YRVOn6"
@@ -5555,7 +5627,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 181043,
       "name": "Weird Me Out",
       "url": "https://open.spotify.com/track/5P0iRet3L91fC6SipKKsPl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,340 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,344 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 107 | [Accadde a Bali](https://open.spotify.com/track/4mE5PiEkFkqkG2haNY35rP) | [Arawak](https://open.spotify.com/artist/49h2ZvYkhZts64fbW9xhw7) | [Accadde a…](https://open.spotify.com/album/1YRqbAqtizgF7tvNoTZIJj) | 2:26 |
 | 108 | [Gumbo](https://open.spotify.com/track/1jNKPJk2YBNTqPI18WNK1F) | [Manast LL'](https://open.spotify.com/artist/4QlK9TAWuQCx1kO0P0pWIs), [Tony Stone](https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn), [Rizzy Wallace](https://open.spotify.com/artist/2YeS5Cbz7d2NIjPeh3su3q) | [The Gumbo Tape](https://open.spotify.com/album/5RmiF4fWu9fWRtSEykeiN0) | 3:09 |
 | 109 | [Muscles](https://open.spotify.com/track/6XfVnaSupc4Nd2vQ3kI3kh) | [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [Digging the Blogosphere, Vol\. 2](https://open.spotify.com/album/3hbfZcaJ8csC4a2a4sObDS) | 3:12 |
-| 110 | [Sailor Moon](https://open.spotify.com/track/0hupW3Cw3A9c8ML99wD6dk) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sailor Moon](https://open.spotify.com/album/00HB0qHMboKP6DCQVfibRW) | 3:27 |
+| 110 | [Sailor Moon](https://open.spotify.com/track/2RHPq8fADOfM0XANORv8Ow) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:27 |
 | 111 | [Love You Good](https://open.spotify.com/track/58WmdSCHCnmlcR89SEoJ3K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:53 |
 | 112 | [5STAR](https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [5STAR](https://open.spotify.com/album/6AyJAGUMwWM0jNmZiLvP8R) | 2:40 |
 | 113 | [daooooh!!](https://open.spotify.com/track/4Zbn36RaOWhweL605MALMj) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Alone Together](https://open.spotify.com/album/3Z295aI1J54wiMXVkj21wu) | 1:39 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 149 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 | 150 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 |
 
-Snapshot ID: `MTY2Njk4NTI3NywwMDAwMDAwMGUzZWI2ZDU1OGNkZWJjZTVjNTFkYWZkZDA1N2YyOWRm`
+Snapshot ID: `MTY2Njk4NTI3NywwMDAwMDAwMGU5OGQ0NmU1MGM4Zjk0NGQ5ZTJlYzY1YjYzYTZmMjdh`

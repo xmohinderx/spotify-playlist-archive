@@ -1186,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7JVqev38x90LU4bq85nAqM"
+      },
+      "artists": [
+        {
+          "name": "Maisy Anderson",
+          "url": "https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104978,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4c0elNnVTcM5E9SXxnVlF4"
+    },
+    {
+      "album": {
         "name": "Great Moments",
         "url": "https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4"
       },
@@ -1780,6 +1798,24 @@
     },
     {
       "album": {
+        "name": "Lilac Morning",
+        "url": "https://open.spotify.com/album/2xnOqaHP1YzVvckOvOZeKZ"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Lilac Morning",
+      "url": "https://open.spotify.com/track/3DrBORXqiYfJiL2uwilZGG"
+    },
+    {
+      "album": {
         "name": "Little Memories",
         "url": "https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0"
       },
@@ -2191,6 +2227,24 @@
       "duration_ms": 150447,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ"
+    },
+    {
+      "album": {
+        "name": "New Horizon",
+        "url": "https://open.spotify.com/album/63IzCevH0NXpuyWn1hVRJW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Grill",
+          "url": "https://open.spotify.com/artist/2BjCVkZGxXlhLIYRoQTgA7"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "New Horizon",
+      "url": "https://open.spotify.com/track/0KhYa12Tp63ShTjYRg5BKO"
     },
     {
       "album": {
@@ -3685,6 +3739,24 @@
       "duration_ms": 272951,
       "name": "You Will Never Understand",
       "url": "https://open.spotify.com/track/2c5HAbpl8XOnc4a5LybluN"
+    },
+    {
+      "album": {
+        "name": "You're The Inspiration",
+        "url": "https://open.spotify.com/album/4PTyfdexQ5OAvTkdaE2jqU"
+      },
+      "artists": [
+        {
+          "name": "Abel Davies",
+          "url": "https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140643,
+      "name": "You're The Inspiration",
+      "url": "https://open.spotify.com/track/0VDgKAQVZC9Hx6OKvgYaHG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUvZBXGjNCU4"

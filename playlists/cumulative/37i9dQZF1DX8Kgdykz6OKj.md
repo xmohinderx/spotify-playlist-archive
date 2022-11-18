@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-277 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
+278 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,11 +133,12 @@
 | [Indecisive](https://open.spotify.com/track/7xEVZoHDUdKHCplThmLnBS) | [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV), [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [Indecisive](https://open.spotify.com/album/5bUb2AMjzU6JLGgEMsvZ5D) | 1:57 | 2021-12-16 | 2022-05-08 |
 | [Insert A \(Mental Relaxation\)/Medicine](https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL), [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Jazzmatazz: The New Reality](https://open.spotify.com/album/4muPpXUkiFbHhEQG7OugQV) | 4:19 | 2022-04-11 | 2022-04-21 |
 | [Inside Story](https://open.spotify.com/track/6RlOErsYeuuCFXYyrzX5gy) | [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv) | [Inside Story](https://open.spotify.com/album/247iOX33pOefLiLwEDgoGa) | 4:32 | 2022-01-20 | 2022-04-15 |
-| [Intentions](https://open.spotify.com/track/0OYFaHBEW8Rk2q6ejmXaUg) | [Yogisoul](https://open.spotify.com/artist/5xKsyOnA918Jvy4FyqOPMm), [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [By Nights](https://open.spotify.com/album/49fB4UB3t4X8D21LTGTkqa) | 2:58 | 2022-10-13 |  |
+| [Intentions](https://open.spotify.com/track/0OYFaHBEW8Rk2q6ejmXaUg) | [Yogisoul](https://open.spotify.com/artist/5xKsyOnA918Jvy4FyqOPMm), [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [By Nights](https://open.spotify.com/album/49fB4UB3t4X8D21LTGTkqa) | 2:58 | 2022-10-13 | 2022-11-18 |
 | [Intentions](https://open.spotify.com/track/3PAcjMxxAD6FPh72f3H6aG) | [Yogisoul](https://open.spotify.com/artist/5xKsyOnA918Jvy4FyqOPMm), [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [By Nights](https://open.spotify.com/album/79H7ayEa4rkB51ONAVezUF) | 2:58 | 2022-01-07 | 2022-07-28 |
 | [Invocation](https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:14 | 2021-12-16 |  |
 | [Irreversible](https://open.spotify.com/track/4GODOFCGfppXsod6Jogh5R) | [EllMatic](https://open.spotify.com/artist/6DyhWc1O1h5v5olTLhKv3M), [MpDrees24](https://open.spotify.com/artist/64pPHAyVpCJBYmDpsNEnOM) | [Practice Makes Perfect](https://open.spotify.com/album/0LAddiAmugmRMt6fCvBnrx) | 2:51 | 2021-12-16 |  |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-04-11 | 2022-11-17 |
+| [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-10-13 |  |
 | [It's Alright](https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9) | 2:56 | 2022-07-28 |  |
 | [It's Alright](https://open.spotify.com/track/6565wKrasU4x0H3jhZJIrd) | [2nd Exit](https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y) | [2nd Exit](https://open.spotify.com/album/3OZksagLNqEbzxPgR26xry) | 2:56 | 2021-12-16 | 2022-07-29 |
 | [It's Nice Outside](https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt) | [Anti Lilly](https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn), [Phoniks](https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH) | [It's Nice Outside](https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g) | 2:15 | 2021-12-16 | 2022-11-14 |

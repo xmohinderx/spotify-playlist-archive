@@ -4,7 +4,7 @@
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-83 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
+85 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/5RO5a2jSnqzqLXwCB7WB9q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Make It Rain](https://open.spotify.com/track/6eoilldRAmDz7IOEvFizIW) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [From Muscle Shoals](https://open.spotify.com/album/7Llh51MCW3JF6e7A56E5qq) | 4:51 | 2022-07-13 |  |
 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 | 2022-07-13 |  |
 | [Midnight Blues](https://open.spotify.com/track/2n5LevrNK3JbN1WWtXuLD6) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 4:58 | 2022-07-13 |  |
+| [Midnight Lover](https://open.spotify.com/track/7z3eZPbuOAoqrLnGCWTqXu) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 7:46 | 2022-11-17 |  |
 | [New Stranger Blues \- Bonus Track](https://open.spotify.com/track/3c0a8SEFFik5s3OUTn1KXP) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 5:39 | 2022-07-13 |  |
 | [Nice And Warm](https://open.spotify.com/track/4jnPYue0wHJbvze1tl7t3j) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB) | [Nice And Warm](https://open.spotify.com/album/2Qswbfz2bk23yZwS546NoG) | 7:18 | 2022-07-13 |  |
 | [No Mercy In This Land](https://open.spotify.com/track/3nYxmHOm3zQXjSpgYAT2Nn) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:45 | 2022-07-13 |  |
@@ -87,6 +88,7 @@
 | [The Thrill Is Gone](https://open.spotify.com/track/3cg0dJfrQB66Qf2YthPb6G) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 5:01 | 2022-07-13 |  |
 | [Too Old To Think \- Mono Version](https://open.spotify.com/track/4ZjO0jrpBUmiC7iqDg8x7Q) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:51 | 2022-07-13 |  |
 | [Trouble In Mind](https://open.spotify.com/track/7173kTEVvoggnlkfzK04V5) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 3:38 | 2022-07-13 |  |
+| [Vibraphone Blues](https://open.spotify.com/track/1ClCgQ5wG7US1Q8U7YOokD) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [You Better Know It!!!](https://open.spotify.com/album/6uGX7ozBLgPKWwKEhxm5pV) | 5:07 | 2022-11-17 |  |
 | [Walking The Backstreets And Crying](https://open.spotify.com/track/5YU67a01EqyrZGlxqmVuCV) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Walkin' The Back Streets](https://open.spotify.com/album/2eePvHHhgO81Wqf19eyhC9) | 6:18 | 2022-07-13 |  |
 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 | 2022-07-13 |  |
 | [Worried Life Blues](https://open.spotify.com/track/1PK26pBnYQRIMx21xLbMY4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:25 | 2022-07-13 |  |

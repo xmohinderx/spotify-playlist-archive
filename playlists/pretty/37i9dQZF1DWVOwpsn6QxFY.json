@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked indie to nourish the ears.",
-  "num_followers": 107142,
+  "num_followers": 107136,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMDVhZDE3ZjU2YTRkNDdjNjhmYWJlOTAzYTU5MDI5MTMz",
+  "snapshot_id": "MTY2MDMyODAyOCwwMDAwMDAwMDkwNWUzOWJlMjI2NzI5NDJhMjFiZGRkYmY0YjkzNTAw",
   "tracks": [
     {
       "added_at": "2022-08-12 18:13:48",
@@ -343,22 +343,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "It's Still Cool If You Don't",
-        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 237413,
-      "name": "It's Still Cool If You Don't",
-      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Big Fan of the Sesh, Vol. 1",
         "url": "https://open.spotify.com/album/2oD72e7o7hvjaxRI75foFR"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 180949,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/7dIlxKSQKC2ND5ortIfAxM"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "It's Still Cool If You Don't",
+        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 237413,
+      "name": "It's Still Cool If You Don't",
+      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "0151",
+        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "duration_ms": 281594,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 227293,
       "name": "Let There Be Light Again",
       "url": "https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "0151",
-        "url": "https://open.spotify.com/album/1nCEkf3saNVR9irE8vwy9q"
-      },
-      "artists": [
-        {
-          "name": "The Night Caf\u00e9",
-          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
-        }
-      ],
-      "duration_ms": 281594,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/0JvKn6XJ3vvoWHU6ahVdRt"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Magnifier",
-        "url": "https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 194841,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
         "name": "Roccastrada",
         "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 272933,
       "name": "Roccastrada",
       "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
+        "name": "Magnifier",
+        "url": "https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 194841,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Isn't It Nice",
+        "url": "https://open.spotify.com/album/1pL5mb1or8AFFUiSVFILNN"
+      },
+      "artists": [
+        {
+          "name": "Hearing Aid Beige",
+          "url": "https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk"
+        }
+      ],
+      "duration_ms": 288229,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3xBIsExqz82twU9FWQjis2"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Gotta Get through Til Monday",
         "url": "https://open.spotify.com/album/7zHuAhLpqnYhgAZ19SmwBb"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Isn't It Nice",
-        "url": "https://open.spotify.com/album/1pL5mb1or8AFFUiSVFILNN"
+        "name": "Lover (Don\u2019t Let Me Down)",
+        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
       "artists": [
         {
-          "name": "Hearing Aid Beige",
-          "url": "https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 288229,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3xBIsExqz82twU9FWQjis2"
+      "duration_ms": 250794,
+      "name": "Lover (Don't Let Me Down)",
+      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -1103,22 +1119,6 @@
       "duration_ms": 204240,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "Lover (Don\u2019t Let Me Down)",
-        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 250794,
-      "name": "Lover (Don't Let Me Down)",
-      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
+        "name": "Peninsula",
+        "url": "https://open.spotify.com/album/1zVph8HU5qFkq8bmur2fa2"
+      },
+      "artists": [
+        {
+          "name": "Jealous of the Birds",
+          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Something Holy",
+      "url": "https://open.spotify.com/track/2YAp3Kb8Xb6iVMk8Zp8jAH"
+    },
+    {
+      "added_at": "2022-08-12 18:13:48",
+      "album": {
         "name": "Nightjar and the Nightingale",
         "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 271533,
       "name": "Nightjar And The Nightingale",
       "url": "https://open.spotify.com/track/24b6nKhfTwjV3loZHkFUli"
-    },
-    {
-      "added_at": "2022-08-12 18:13:48",
-      "album": {
-        "name": "The Less I Knew",
-        "url": "https://open.spotify.com/album/0mPYANCi1rAEvSQspvRnXs"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Heads Look Like Drums",
-      "url": "https://open.spotify.com/track/5LdYarV4vC2SZJeeTJJ8fa"
     },
     {
       "added_at": "2022-08-12 18:13:48",
@@ -1283,34 +1283,34 @@
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "Peninsula",
-        "url": "https://open.spotify.com/album/1zVph8HU5qFkq8bmur2fa2"
+        "name": "The Less I Knew",
+        "url": "https://open.spotify.com/album/0mPYANCi1rAEvSQspvRnXs"
       },
       "artists": [
         {
-          "name": "Jealous of the Birds",
-          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 198160,
-      "name": "Something Holy",
-      "url": "https://open.spotify.com/track/2YAp3Kb8Xb6iVMk8Zp8jAH"
+      "duration_ms": 184600,
+      "name": "Heads Look Like Drums",
+      "url": "https://open.spotify.com/track/5LdYarV4vC2SZJeeTJJ8fa"
     },
     {
       "added_at": "2022-08-12 18:13:48",
       "album": {
-        "name": "The Flow",
-        "url": "https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 214306,
-      "name": "The Flow",
-      "url": "https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW"
+      "duration_ms": 188615,
+      "name": "Mortals",
+      "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
     }
   ],
   "unique_name": "Garden Indie",

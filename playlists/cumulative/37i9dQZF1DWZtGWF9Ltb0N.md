@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-408 songs - 1 day 7 hr 8 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
+409 songs - 1 day 7 hr 14 min - [published](https://open.spotify.com/playlist/57h9HtsEemkCa7bAGRYHTN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Crime Scene](https://open.spotify.com/track/3GSsl9WfC2Lt3UDkvTcdWJ) | [Bisweed](https://open.spotify.com/artist/6egUhNySE0htFQzdHxO6Nw) | [Cyclops EP](https://open.spotify.com/album/1Xevyp5MXk67ZfnjFKc1WT) | 5:01 | 2022-02-17 | 2022-07-30 |
 | [Cross Polarity](https://open.spotify.com/track/2XRCWJ4ETKWRaWTTb9C3XH) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Cross Polarity](https://open.spotify.com/album/7bOMUf3vohmdiwxC6NkKwJ) | 5:35 | 2022-07-08 |  |
 | [Cross Polarity](https://open.spotify.com/track/57Lxdv7Q7wpnSeAqegE457) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Cross Polarity](https://open.spotify.com/album/4VE5vC2Dii6ZAPSz7kh0RG) | 5:35 | 2022-02-17 | 2022-07-29 |
+| [Croydon House](https://open.spotify.com/track/6Yo78tKJzSXFveeyvjjY2E) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Croydon House](https://open.spotify.com/album/4LIIXzv0jOygIHKLbQ8IoV) | 6:08 | 2022-11-18 |  |
 | [Cryptic](https://open.spotify.com/track/0EiQqkpqOxGJOEZ1ynRcoi) | [Congi](https://open.spotify.com/artist/6q8R4RVlc4DZ1XElNLj6Ag) | [Congi Selection](https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n) | 5:52 | 2022-02-17 |  |
 | [Crystals](https://open.spotify.com/track/7mmElHLJIXL42Z3FE511xs) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj), [Dank Frank](https://open.spotify.com/artist/3aHIls4WqKcj1qxEjThqd2) | [Crystals / Quiet Violence](https://open.spotify.com/album/5jYkfkbg55RuaKrP9Jzfij) | 3:01 | 2022-07-15 |  |
 | [Cup of Peace](https://open.spotify.com/track/6LVqceIyxq92QRPTEi0Jvr) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [EP 2](https://open.spotify.com/album/42mEguV4uPSTAPj2ayvvrJ) | 3:39 | 2022-02-17 |  |
@@ -346,7 +347,7 @@
 | [Stories](https://open.spotify.com/track/5V9gc3VQiKi91nv8em3Fpl) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [The Villain's Journey](https://open.spotify.com/album/3Aa3qjAMVEUSlf5h6YwWaF) | 3:31 | 2022-02-17 |  |
 | [Strange Call](https://open.spotify.com/track/1ssN5Ja0kDaBQ3wwmYPIuR) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [The Phantasm](https://open.spotify.com/album/19zKSt4cHrS1rE4wbO4bnH) | 4:41 | 2022-02-17 | 2022-07-29 |
 | [Stutter](https://open.spotify.com/track/5DbSkf9xg9f9M5A95zWoCZ) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Stutter](https://open.spotify.com/album/0j9BE8m8iJ9m0ZvjVYLnbX) | 3:42 | 2022-07-01 | 2022-07-30 |
-| [Submit](https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Submit](https://open.spotify.com/album/1F72TQHGzX9Qciy0Fe0E2n) | 3:09 | 2022-02-17 |  |
+| [Submit](https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Submit](https://open.spotify.com/album/1F72TQHGzX9Qciy0Fe0E2n) | 3:09 | 2022-02-17 | 2022-11-18 |
 | [Sufferin'](https://open.spotify.com/track/69Ot9SflmUSyZYIGhhbxKP) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Megumi](https://open.spotify.com/artist/5ft4oJjrmtzmjlfMVxNYRU) | [Sufferin'](https://open.spotify.com/album/7DkG1ul2Z4BQfodvbOGWYZ) | 4:16 | 2022-02-17 | 2022-04-15 |
 | [Super Echo](https://open.spotify.com/track/7pS9hknuGptkIKXxk23cfP) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Like a Nuclear Bomb](https://open.spotify.com/album/4hAgBdP83bpgCmP3uTuePg) | 3:46 | 2022-02-17 | 2022-07-30 |
 | [Supreme](https://open.spotify.com/track/3ysoysyiTgfQearPlE8KA7) | [Chief Kaya](https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A) | [Supreme](https://open.spotify.com/album/1jZ8U851Y3ETw67lq5tr6W) | 5:01 | 2022-07-01 |  |

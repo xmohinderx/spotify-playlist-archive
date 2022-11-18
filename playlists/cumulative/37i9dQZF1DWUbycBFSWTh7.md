@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-127 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
+128 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/3ANSrl5vN5o8myn56mbngK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Slow Down \- James Cole Remix](https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [James Cole](https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM) | [Slow Down \(James Cole Remix\)](https://open.spotify.com/album/3zrP0lDAbH8sF4219tbsX4) | 6:57 | 2022-09-15 |  |
 | [Space de Choux](https://open.spotify.com/track/4M3GFudO4wzzGZDNY1IyGh) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [Space de Choux](https://open.spotify.com/album/2L7CjsaNoVp41LLZGylOrK) | 7:08 | 2022-09-15 |  |
 | [Stay \- DJ Counselling Remix](https://open.spotify.com/track/1SPTWV7OQv6d6p959p5JOd) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Daybreak \(Remixes\)](https://open.spotify.com/album/3AnjOfNe0zMzRLgItEIK1J) | 4:47 | 2022-09-15 |  |
+| [Strange Movement](https://open.spotify.com/track/0Uiixt84V1yXi45RSMF7VG) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [H2O](https://open.spotify.com/album/3NnIy6ztlNs1iSoRFOCEH2) | 4:57 | 2022-11-17 |  |
 | [Stretch Out Like The World \- Timmy Regisford Instrumental Mix](https://open.spotify.com/track/3edzhI4XT2KcwGh41XIrpv) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN), [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [Stretch Out Like The World \(Timmy Regisford Instrumental Mix\)](https://open.spotify.com/album/1INRl1q8mqtP1R09JGjGDC) | 5:38 | 2022-09-15 |  |
 | [Take Out \- Original Mix](https://open.spotify.com/track/3ZXvEowCBdlYMKmfeZW5rF) | [25 Places](https://open.spotify.com/artist/2HzPIOCKMoZReg1bH2kZLb) | [Take Out](https://open.spotify.com/album/3GDsQeh9yPYrlQsGKYQqat) | 7:31 | 2022-09-15 |  |
 | [Tension](https://open.spotify.com/track/0qZPmHc2U0iseqxaiwJNpj) | [Leeman Brothers](https://open.spotify.com/artist/6jFrCZ2nJ8iEBdtgZpMRLV) | [Tension ep](https://open.spotify.com/album/1Scr29TOev6JrqO4oo29sH) | 6:09 | 2022-09-15 |  |

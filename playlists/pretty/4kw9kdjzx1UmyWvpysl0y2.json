@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127186,
+  "num_followers": 127175,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc4NywyMzYxNGNkZWVhNTQ4ZDYwZGJiZjk5NTQzMjUwZDU5NDY2MGVkMjU1",
+  "snapshot_id": "Mzc4OCxmNWM0Y2E2ZTlkN2ZkNTEyMWIyODc1OGE4YmIzMTA0ZjJiYWQ3OWY5",
   "tracks": [
+    {
+      "added_at": "2022-11-17 20:02:38",
+      "album": {
+        "name": "Collecting Thoughts",
+        "url": "https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        }
+      ],
+      "duration_ms": 205738,
+      "name": "Collecting Thoughts",
+      "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
+    },
     {
       "added_at": "2022-11-16 19:19:43",
       "album": {

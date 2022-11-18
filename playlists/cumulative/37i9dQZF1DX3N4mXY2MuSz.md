@@ -4,7 +4,7 @@
 
 > Holiday classics from your favourite punks\. Cover: Neck Deep
 
-180 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
+182 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/0LsEqOOLiAoH7HfToPQ8Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Christmas At My House](https://open.spotify.com/track/3tNGeh2arYnVYQTsyQs51E) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Christmas At My House](https://open.spotify.com/album/2B0f5yFrMJjxVHKZr9Hvhv) | 3:10 | 2021-11-19 | 2022-07-29 |
 | [Christmas Brings Me Down](https://open.spotify.com/track/1I4qVaU1b7qPwUYdOgzaP7) | [Sparks The Rescue](https://open.spotify.com/artist/07DRdecWdrPljDGClOl3nL) | [Tis The Season to Be Fearless](https://open.spotify.com/album/1aunad4duE4Okwq8ATBy2j) | 3:21 | 2021-11-19 | 2022-07-28 |
 | [Christmas Brings Me Down](https://open.spotify.com/track/6JT5mL6HCTBIFWeYNMfexd) | [Sparks The Rescue](https://open.spotify.com/artist/07DRdecWdrPljDGClOl3nL) | [Tis The Season To Be Fearless](https://open.spotify.com/album/7LEZCqGn4YQ5NsO1pj2E6a) | 3:21 | 2021-11-19 | 2022-11-13 |
-| [Christmas by the Phone](https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 3:01 | 2021-11-19 |  |
+| [Christmas by the Phone](https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 3:01 | 2021-11-19 | 2022-11-18 |
 | [Christmas by the Phone](https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/2t4N4Udqvzos6nzccOHBbl) | 3:01 | 2021-11-19 | 2022-10-13 |
 | [Christmas Canon](https://open.spotify.com/track/0O4vuJynWVVdyvoHvZtnk3) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [The Christmas Attic](https://open.spotify.com/album/6DsIXONf5oi48VDiCVG1bu) | 4:17 | 2021-11-19 |  |
 | [Christmas Cards](https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv) | [Spoke Too Soon](https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx) | [Christmas Cards](https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R) | 4:06 | 2021-11-19 | 2022-07-27 |
@@ -83,6 +83,7 @@
 | [Get This Christmas Right](https://open.spotify.com/track/52PxV5MwXOVcNocge2Ay1W) | [Jaret and Kelly](https://open.spotify.com/artist/2mmcv7y7k8bhULYGQUiZHT) | [Get This Christmas Right](https://open.spotify.com/album/1trvEENbl7mzhG6t6FQoy1) | 2:11 | 2021-11-19 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:39 | 2021-11-19 |  |
 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 | 2021-11-19 |  |
+| [Groovy Xmas](https://open.spotify.com/track/0i1eZMzUmrYHOqRroYacfx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Groovy Xmas](https://open.spotify.com/album/6fplrLXf8m4APlZ1nInkXW) | 2:13 | 2022-11-18 |  |
 | [Happy Holidays, You Bastard](https://open.spotify.com/track/5lE1g5Qsi1stIjYh8O5FC1) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 0:42 | 2021-11-19 |  |
 | [Happy Holidays, You Bastard](https://open.spotify.com/track/6Zj6aoi8gOioPuJmQoC7bN) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/4kuOpGJb8CBMT4Egr9UroK) | 0:42 | 2021-11-19 | 2022-07-27 |
 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 | 2021-11-19 |  |
@@ -119,6 +120,7 @@
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/68Lhef10In5tjhXg5jPotf) | [Issues](https://open.spotify.com/artist/2FHVFWxdcKsUpaxf52ihWN) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:48 | 2021-11-19 | 2022-07-29 |
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:19 | 2021-11-19 |  |
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work \(Deluxe Version\)](https://open.spotify.com/album/2ZF3l2HMjlP7KR2Na2ClY7) | 3:19 | 2021-11-19 | 2022-07-29 |
+| [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 | 2022-11-18 |  |
 | [Mr\. Winter](https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | […And A Happy New Year](https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP) | 3:21 | 2021-11-19 |  |
 | [Mr\. Winter](https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [..\. And A Happy New Year \- EP](https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK) | 3:21 | 2021-11-19 | 2022-07-29 |
 | [My December](https://open.spotify.com/track/0fxGA5lxrdYNYoE7yJxTNZ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 4:20 | 2021-11-19 |  |
@@ -147,7 +149,7 @@
 | [Skank For Christmas](https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:48 | 2021-11-19 |  |
 | [Sleigh Ride](https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 3:12 | 2021-11-19 | 2022-07-28 |
 | [Snow](https://open.spotify.com/track/4DOeT5Ilj6zK1F4HUxzXK8) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Snow](https://open.spotify.com/album/7CqngDsr2lfnXeZfgaNVI5) | 3:36 | 2021-11-19 | 2022-07-29 |
-| [Snow](https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Snow](https://open.spotify.com/album/29BjO5ddpVEfIn9vtlNXi2) | 3:36 | 2021-11-19 |  |
+| [Snow](https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Snow](https://open.spotify.com/album/29BjO5ddpVEfIn9vtlNXi2) | 3:36 | 2021-11-19 | 2022-11-18 |
 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 | 2021-11-19 |  |
 | [Spirit In My House](https://open.spotify.com/track/4SU6JMTMcMg9e1K3Ic5kdD) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Christmas Spirit...In My House](https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv) | 2:02 | 2021-11-19 | 2022-07-28 |
 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 | 2021-11-19 |  |

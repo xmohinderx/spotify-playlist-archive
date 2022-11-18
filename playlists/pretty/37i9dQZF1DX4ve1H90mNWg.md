@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Monaleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,832 likes - 62 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,854 likes - 62 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 14 | [OMW](https://open.spotify.com/track/6qQaMp90byJsvxSZpr7giU) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [OMW](https://open.spotify.com/album/7xrrxzWwXkWABoMN3pOdGZ) | 2:38 |
 | 15 | [I Know](https://open.spotify.com/track/4iPk2FPM9hZYHqtQsfEz6m) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [I Know](https://open.spotify.com/album/0sPpOYWKeLPeppdKyZy9W4) | 3:17 |
 | 16 | [What Kinda](https://open.spotify.com/track/6tK23xx5yhFkDKcw0qN66C) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Lebra Jolie](https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6) | 3:01 |
-| 17 | [Trying](https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kevin Gates \- Remix](https://open.spotify.com/artist/5S2u7CddoFw7e5UOC8FZWf) | [Trying](https://open.spotify.com/album/5plqxzmegAFVguOWw9N9bu) | 3:04 |
+| 17 | [Trying \(feat\. Kevin Gates\) \- Remix](https://open.spotify.com/track/6wnxSlwXdqPD5nUyOIxyKu) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Trying \(feat\. Kevin Gates\) \[Remix\]](https://open.spotify.com/album/5plqxzmegAFVguOWw9N9bu) | 3:04 |
 | 18 | [Fear Not](https://open.spotify.com/track/14g2io0sZY4AYutoSAdRlM) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Fear Not](https://open.spotify.com/album/5ndqea5vR6ub8yO4rD7wSr) | 3:17 |
 | 19 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 |
 | 20 | [SIMPLE \(feat\. I DONT KNOW HOW BUT THEY FOUND ME\)](https://open.spotify.com/track/3IppKdrpeNTGGxmPyo9clr) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:51 |

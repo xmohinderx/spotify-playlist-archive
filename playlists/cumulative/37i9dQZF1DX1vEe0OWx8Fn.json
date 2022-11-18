@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 170000,
       "name": "DIE.",
       "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
@@ -1315,6 +1315,24 @@
       "duration_ms": 185117,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/0vl7pdzy0g0mHpgK9LDbVA"
+    },
+    {
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128983,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV"
     },
     {
       "album": {

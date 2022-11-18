@@ -1,53 +1,13 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 7931,
+  "num_followers": 7933,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMDcyYTRlOTI3YWQxMTg1ZDU1YTZiYWE5NzA4YWUxZGQ4",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGZlOGU3OWQzYjJkZjUxZTY1YzBlMmY3YmY5Yzk2NTA1",
   "tracks": [
-    {
-      "added_at": "2022-10-13 20:59:00",
-      "album": {
-        "name": "Catch-22",
-        "url": "https://open.spotify.com/album/0ESSUNRDWfFE7oaqpjTaUV"
-      },
-      "artists": [
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        },
-        {
-          "name": "Gabbie",
-          "url": "https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3"
-        }
-      ],
-      "duration_ms": 181745,
-      "name": "Catch-22",
-      "url": "https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18"
-    },
-    {
-      "added_at": "2022-11-10 20:59:00",
-      "album": {
-        "name": "Undecided",
-        "url": "https://open.spotify.com/album/2pzZkaAv5t0mBpNv84VWjm"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        },
-        {
-          "name": "Don Gz",
-          "url": "https://open.spotify.com/artist/4g6Xas4wNpTp3cA9Tm4ypK"
-        }
-      ],
-      "duration_ms": 184033,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/1UqEp3SM2PBTXlgXqURS2V"
-    },
     {
       "added_at": "2022-10-27 20:59:00",
       "album": {
@@ -69,6 +29,22 @@
       "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
     },
     {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 234861,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
+    },
+    {
       "added_at": "2022-01-27 20:59:00",
       "album": {
         "name": "Camille",
@@ -83,22 +59,6 @@
       "duration_ms": 158000,
       "name": "Camille",
       "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
-    },
-    {
-      "added_at": "2022-09-08 20:59:00",
-      "album": {
-        "name": "What To Expect When Expecting",
-        "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
-      },
-      "artists": [
-        {
-          "name": "Flier",
-          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "What To Expect When Expecting",
-      "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
     },
     {
       "added_at": "2022-09-22 20:59:00",
@@ -119,6 +79,38 @@
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "added_at": "2022-09-08 20:59:00",
+      "album": {
+        "name": "What To Expect When Expecting",
+        "url": "https://open.spotify.com/album/2VkmTYOfZ1zTHQBhfK1Rbf"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "What To Expect When Expecting",
+      "url": "https://open.spotify.com/track/3O9GGQXx5mi1ekYoCJbgXk"
+    },
+    {
+      "added_at": "2022-10-13 20:59:00",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
       "added_at": "2022-11-10 20:59:00",
@@ -191,18 +183,22 @@
     {
       "added_at": "2022-10-13 20:59:00",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+        "name": "Catch-22",
+        "url": "https://open.spotify.com/album/0ESSUNRDWfFE7oaqpjTaUV"
       },
       "artists": [
         {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        },
+        {
+          "name": "Gabbie",
+          "url": "https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3"
         }
       ],
-      "duration_ms": 259071,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
+      "duration_ms": 181745,
+      "name": "Catch-22",
+      "url": "https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18"
     },
     {
       "added_at": "2022-03-17 20:59:00",
@@ -219,6 +215,22 @@
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
+      "added_at": "2022-02-11 09:38:38",
+      "album": {
+        "name": "Never Left",
+        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
+      },
+      "artists": [
+        {
+          "name": "Cxnrvd",
+          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
+        }
+      ],
+      "duration_ms": 172363,
+      "name": "Never Left",
+      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
     },
     {
       "added_at": "2022-08-05 10:24:50",
@@ -239,6 +251,30 @@
       "duration_ms": 157403,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp"
+    },
+    {
+      "added_at": "2022-08-05 10:24:50",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
+      },
+      "artists": [
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        },
+        {
+          "name": "See Through Solomon",
+          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
+        },
+        {
+          "name": "KHAN KHALII",
+          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
     },
     {
       "added_at": "2022-07-29 05:35:45",
@@ -309,30 +345,6 @@
       "url": "https://open.spotify.com/track/6xbMVHYWWtfbNNgLeACExm"
     },
     {
-      "added_at": "2022-08-05 10:24:50",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE"
-      },
-      "artists": [
-        {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
-        },
-        {
-          "name": "See Through Solomon",
-          "url": "https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7"
-        },
-        {
-          "name": "KHAN KHALII",
-          "url": "https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934"
-    },
-    {
       "added_at": "2022-07-08 07:28:44",
       "album": {
         "name": "Fireflies",
@@ -347,6 +359,22 @@
       "duration_ms": 141333,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC"
+    },
+    {
+      "added_at": "2022-06-24 08:58:58",
+      "album": {
+        "name": "Quick Fix",
+        "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
+      },
+      "artists": [
+        {
+          "name": "Matt Ngesa",
+          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
+        }
+      ],
+      "duration_ms": 193584,
+      "name": "Quick Fix",
+      "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
     },
     {
       "added_at": "2022-07-08 07:28:44",
@@ -399,26 +427,6 @@
       "duration_ms": 218863,
       "name": "olivine",
       "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
-    },
-    {
-      "added_at": "2022-04-01 09:26:34",
-      "album": {
-        "name": "Patient",
-        "url": "https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 179318,
-      "name": "Patient",
-      "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
     },
     {
       "added_at": "2021-12-09 20:59:00",
@@ -513,22 +521,6 @@
       "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
     },
     {
-      "added_at": "2022-06-24 08:58:58",
-      "album": {
-        "name": "Quick Fix",
-        "url": "https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV"
-      },
-      "artists": [
-        {
-          "name": "Matt Ngesa",
-          "url": "https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35"
-        }
-      ],
-      "duration_ms": 193584,
-      "name": "Quick Fix",
-      "url": "https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub"
-    },
-    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "Passenger 555",
@@ -619,22 +611,6 @@
       "duration_ms": 139041,
       "name": "The Yeah Yeah",
       "url": "https://open.spotify.com/track/24pqG5Vg6ImGrIPlWrlfLe"
-    },
-    {
-      "added_at": "2022-02-11 09:38:38",
-      "album": {
-        "name": "Never Left",
-        "url": "https://open.spotify.com/album/1S9nZvo7L2skkCIx6QxlNN"
-      },
-      "artists": [
-        {
-          "name": "Cxnrvd",
-          "url": "https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ"
-        }
-      ],
-      "duration_ms": 172363,
-      "name": "Never Left",
-      "url": "https://open.spotify.com/track/5NmZh4HWwcrABFobXleIF6"
     },
     {
       "added_at": "2022-03-25 05:44:05",
@@ -747,6 +723,22 @@
       "duration_ms": 222000,
       "name": "This Depression Thing",
       "url": "https://open.spotify.com/track/5sdWuECOLbdWDzfYe9qOhm"
+    },
+    {
+      "added_at": "2022-02-04 03:01:04",
+      "album": {
+        "name": "Diamond in the Trenches",
+        "url": "https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47"
+      },
+      "artists": [
+        {
+          "name": "The.wav",
+          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
+        }
+      ],
+      "duration_ms": 308934,
+      "name": "Kilimanjaro",
+      "url": "https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH"
     },
     {
       "added_at": "2022-03-25 05:44:05",
@@ -893,22 +885,6 @@
       "url": "https://open.spotify.com/track/1ERuwIudqIjDkwDBKADD8V"
     },
     {
-      "added_at": "2022-02-04 03:01:04",
-      "album": {
-        "name": "Diamond in the Trenches",
-        "url": "https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47"
-      },
-      "artists": [
-        {
-          "name": "The.wav",
-          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
-        }
-      ],
-      "duration_ms": 308934,
-      "name": "Kilimanjaro",
-      "url": "https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH"
-    },
-    {
       "added_at": "2021-10-15 19:38:29",
       "album": {
         "name": "Cigarette",
@@ -923,6 +899,22 @@
       "duration_ms": 253150,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ"
+    },
+    {
+      "added_at": "2021-10-15 19:38:29",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
       "added_at": "2021-11-25 20:59:00",
@@ -959,6 +951,38 @@
       "duration_ms": 168344,
       "name": "Switch Energy",
       "url": "https://open.spotify.com/track/7ihOawZIhBgY3txKEIGauf"
+    },
+    {
+      "added_at": "2022-02-04 03:01:04",
+      "album": {
+        "name": "I Love the Way You",
+        "url": "https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72"
+      },
+      "artists": [
+        {
+          "name": "Basthma",
+          "url": "https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv"
+        }
+      ],
+      "duration_ms": 133833,
+      "name": "I Love the Way You",
+      "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
+    },
+    {
+      "added_at": "2022-02-24 20:59:00",
+      "album": {
+        "name": "Love Can Turn the World",
+        "url": "https://open.spotify.com/album/1kvwgPA8Rr7AV7IKF7SsVK"
+      },
+      "artists": [
+        {
+          "name": "Jehovah Shalom Acapella",
+          "url": "https://open.spotify.com/artist/0O7IVIdPRDMFsuhu5GS7ZL"
+        }
+      ],
+      "duration_ms": 191947,
+      "name": "Love Can Turn the World",
+      "url": "https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU"
     },
     {
       "added_at": "2021-10-29 06:04:39",
@@ -1089,22 +1113,6 @@
       "url": "https://open.spotify.com/track/6cNt6K8BTWyX3ntnMBHjgt"
     },
     {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
-    },
-    {
       "added_at": "2022-03-10 20:59:00",
       "album": {
         "name": "Ex Wako Hawezi",
@@ -1135,22 +1143,6 @@
       "duration_ms": 74437,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/35meyoYQd5k0mDKpk6RlAW"
-    },
-    {
-      "added_at": "2022-02-24 20:59:00",
-      "album": {
-        "name": "Love Can Turn the World",
-        "url": "https://open.spotify.com/album/1kvwgPA8Rr7AV7IKF7SsVK"
-      },
-      "artists": [
-        {
-          "name": "Jehovah Shalom Acapella",
-          "url": "https://open.spotify.com/artist/0O7IVIdPRDMFsuhu5GS7ZL"
-        }
-      ],
-      "duration_ms": 191947,
-      "name": "Love Can Turn the World",
-      "url": "https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU"
     },
     {
       "added_at": "2022-01-13 13:38:18",
@@ -1199,22 +1191,6 @@
       "duration_ms": 130923,
       "name": "Pleasure Riddim",
       "url": "https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS"
-    },
-    {
-      "added_at": "2022-02-04 03:01:04",
-      "album": {
-        "name": "I Love the Way You",
-        "url": "https://open.spotify.com/album/2Knjxzw1OL1HuKuzJvFt72"
-      },
-      "artists": [
-        {
-          "name": "Basthma",
-          "url": "https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv"
-        }
-      ],
-      "duration_ms": 133833,
-      "name": "I Love the Way You",
-      "url": "https://open.spotify.com/track/5Eun2OrvZnSvzpPK5Wg5OD"
     },
     {
       "added_at": "2021-10-15 19:38:29",

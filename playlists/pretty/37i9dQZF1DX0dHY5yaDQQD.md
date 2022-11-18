@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,734 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,741 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 49 | [Issa Revenge](https://open.spotify.com/track/0ehrDpPGhgKJgZjtCeOG5j) | [CRYSTALLMESS](https://open.spotify.com/artist/5b4g39OmFtyQcwYLSHCvsC), [Nadsat](https://open.spotify.com/artist/234fDLEWLwgINiSqe7Pk2J) | [Issa Revenge](https://open.spotify.com/album/4BBO41wG3Z1DTJ3ndJDAGB) | 4:22 |
 | 50 | [WTF IS GOING ON ?!!](https://open.spotify.com/track/2dSBesGwgrqtShbND6Iyfx) | [DUSTIN NGO 春風](https://open.spotify.com/artist/3Fabf8KEvf8dM7zFMgQ44d) | [Nhạc Gãy Tổng Hợp Số 1](https://open.spotify.com/album/1YS8Yd8Q1PBs8MaDUc6mvS) | 2:15 |
 | 51 | [Flow 2000 3d1t](https://open.spotify.com/track/030ANS2a0fz7ZHOYgJ4QqX) | [DJ これからの緊急災害](https://open.spotify.com/artist/21JvpQxHFjIw2kTpjO6fJt) | [Lik3 a Sw1tchbl4d3](https://open.spotify.com/album/1XmynSr6kh5h0gOhyHW8bC) | 3:10 |
-| 52 | [Black Ops 2 \- umru Remix](https://open.spotify.com/track/0o9BiuhZ8FSr3G1M3AgRup) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Unlimited Ammo: Infinity \(Remix\)](https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9) | 3:01 |
+| 52 | [Black Ops 2 \(umru Remix\)](https://open.spotify.com/track/0o9BiuhZ8FSr3G1M3AgRup) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Unlimited Ammo: Infinity \(Remix\)](https://open.spotify.com/album/0hRCrpv98LWp86pYFGg1G9) | 3:01 |
 | 53 | [Penicillin Duck](https://open.spotify.com/track/1g2x6EJ0mgmwgrfU0ockwr) | [ZULI](https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF) | [All Caps](https://open.spotify.com/album/1sXHoAxzB4MG62AaSDPToo) | 4:13 |
 | 54 | [55 Year Old Daughter](https://open.spotify.com/track/0uaot4aji2ZwZWO6tH77Vw) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Giant Swan](https://open.spotify.com/album/3sQ4kRPmlOz4DehzdZkdvz) | 2:57 |
 | 55 | [44th Cloud Lavender](https://open.spotify.com/track/6ad2tz4WOhula9kBxNB1jP) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 4:33 |

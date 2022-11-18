@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: Big Yasa
 
-82 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
+83 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/5uX6eRgTlxUUU0p5d2ahrD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [CHECKLIST](https://open.spotify.com/track/4vSPH1x7oYohAUEoYehl2b) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [CHECKLIST](https://open.spotify.com/album/1AtdGKcZ4hjcWTBDGDRpD2) | 3:25 | 2022-08-04 |  |
 | [Clear The Frequency](https://open.spotify.com/track/6osRDw4VDDEiNP7xidJHQi) | [P\-Tah](https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM) | [Clear The Frequency](https://open.spotify.com/album/2VFQnjljSxSBlK4NLZ33mE) | 4:44 | 2022-10-21 |  |
 | [Coastin](https://open.spotify.com/track/3Q6sRzzw2IIUDhEAag9Ah4) | [R.I.Z.E](https://open.spotify.com/artist/4eW4BZAP0bK32vgLIe1IqO) | [Coastin](https://open.spotify.com/album/037ahJTrsQ4PuEvFUHljwQ) | 2:29 | 2022-05-27 | 2022-11-11 |
-| [Day In The Life](https://open.spotify.com/track/4ZO9Y99uojl291TjD2U0eJ) | [JackyBoyD](https://open.spotify.com/artist/6RqBs6Cc37m6dBDYfUlmoC) | [Day In The Life](https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk) | 3:06 | 2022-06-30 |  |
+| [Day In The Life](https://open.spotify.com/track/4ZO9Y99uojl291TjD2U0eJ) | [JackyBoyD](https://open.spotify.com/artist/6RqBs6Cc37m6dBDYfUlmoC) | [Day In The Life](https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk) | 3:06 | 2022-06-30 | 2022-11-18 |
 | [Dice](https://open.spotify.com/track/5SJxfCadODTEdgO9ooKOmR) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Topmali180](https://open.spotify.com/artist/6MrIAMGDktCB2Gib8xcWSV) | [Dice](https://open.spotify.com/album/78nK71bAefWTNdu7mXmdcG) | 2:31 | 2022-07-14 |  |
 | [Digdat](https://open.spotify.com/track/0gDRCCJF7ywar5zq3Qrv56) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 4:02 | 2022-11-10 |  |
 | [Doing It Major](https://open.spotify.com/track/5SWH1zFKXIwNL50sStm7Ei) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Doing It Major](https://open.spotify.com/album/6LhgJz1N20khvZ9P45nqFN) | 3:11 | 2022-07-07 |  |
@@ -55,6 +55,7 @@
 | [Nairobi Pengz](https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [CHONJO](https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C) | 3:42 | 2022-07-07 |  |
 | [No Likes](https://open.spotify.com/track/25d8CR1991gkMBoGXYPqYC) | [Jodye Faneto](https://open.spotify.com/artist/3v6SQTs83vlDVAIcQgs1r6) | [No Likes](https://open.spotify.com/album/0LQxQUpfkRDBTfykCRXzwr) | 2:20 | 2022-06-23 | 2022-10-07 |
 | [no limits](https://open.spotify.com/track/642GFCw2GgE1Vc9c3RZjEI) | [PEPA](https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [NinjaRacy E.T.](https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I) | [no limits](https://open.spotify.com/album/6noNnHm5ItLugU4JG9DOGL) | 4:11 | 2022-06-16 |  |
+| [Nothing on me](https://open.spotify.com/track/5rUYXNXWLrHo8qBottDDoY) | [Spree](https://open.spotify.com/artist/4GIVrLdpTW0R3sOO63XPPP), [B3nnar](https://open.spotify.com/artist/1vcRqGnpFNtvP7P2CEKwJ5), [djprodluigi](https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI) | [Nothing on me](https://open.spotify.com/album/3aPYu7iLvBQ8TasHIaBrCs) | 2:31 | 2022-11-17 |  |
 | [Pale Westi](https://open.spotify.com/track/21LNoPtgH50h5RARs7SV1s) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [Pale Westi](https://open.spotify.com/album/4FCrFtIretOPfiqLKComqn) | 1:51 | 2022-05-12 |  |
 | [Pop Out](https://open.spotify.com/track/0XLWcdwnbkaq1sxbNXJBNs) | [Lewis KE](https://open.spotify.com/artist/5EWEp45uBW3TNr3v0F0bT3), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi) | [Pop Out](https://open.spotify.com/album/3DKxIMMpgRakBLeaXEs0JG) | 3:09 | 2022-05-05 |  |
 | [Pree](https://open.spotify.com/track/4Xek10EqPWioGjOWsPjZtA) | [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Pree](https://open.spotify.com/album/5mFZ4Rof0UCr3iDYvVKS4z) | 3:17 | 2022-04-14 | 2022-11-14 |

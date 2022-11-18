@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Warren Zeiders",
-  "num_followers": 482730,
+  "num_followers": 482800,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMyOTYzNSwwMDAwMDAwMGNlMzdhNDE5NmVkODg4YmFhNDNlNWQyZjY5NTJjZjE4",
+  "snapshot_id": "MTY2NzMyOTYzNSwwMDAwMDAwMDVhNzIxZjQ5ZGI0OTA4ZGQ5MjVmY2U4OWU2N2ZjN2Rh",
   "tracks": [
     {
       "added_at": "2022-11-01 19:07:15",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
+        "name": "Never Change",
+        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
         "name": "What Do I Know (feat. HARDY)",
         "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 208418,
       "name": "What Do I Know (feat. HARDY)",
       "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "Never Change",
-        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Never Change",
-      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "Frayed At Both Ends",
-        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        }
-      ],
-      "duration_ms": 268162,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
         "name": "Whole World Gone Crazy",
         "url": "https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 184760,
       "name": "Whole World Gone Crazy",
       "url": "https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "Frayed At Both Ends",
+        "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        }
+      ],
+      "duration_ms": 268162,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-11-01 19:07:15",
       "album": {
-        "name": "Long Shots",
-        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
-      },
-      "artists": [
-        {
-          "name": "Tim Montana",
-          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Stronger Than You",
-      "url": "https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 180453,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "Long Shots",
+        "url": "https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs"
+      },
+      "artists": [
+        {
+          "name": "Tim Montana",
+          "url": "https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Stronger Than You",
+      "url": "https://open.spotify.com/track/2ybneV0OTObEyiOMxq0yMc"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -1591,6 +1591,22 @@
       "duration_ms": 202383,
       "name": "Varsity Type",
       "url": "https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD"
+    },
+    {
+      "added_at": "2022-11-01 19:07:15",
+      "album": {
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx"
+      },
+      "artists": [
+        {
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 254090,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
     },
     {
       "added_at": "2022-11-01 19:07:15",
@@ -1631,22 +1647,6 @@
       "duration_ms": 207215,
       "name": "Payback (feat. The Cadillac Three)",
       "url": "https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX"
-    },
-    {
-      "added_at": "2022-11-01 19:07:15",
-      "album": {
-        "name": "For the Birds",
-        "url": "https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx"
-      },
-      "artists": [
-        {
-          "name": "Read Southall Band",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 254090,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
     },
     {
       "added_at": "2022-11-01 19:07:15",

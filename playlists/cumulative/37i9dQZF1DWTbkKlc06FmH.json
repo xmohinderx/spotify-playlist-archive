@@ -1998,6 +1998,32 @@
     },
     {
       "album": {
+        "name": "Strides Remixes",
+        "url": "https://open.spotify.com/album/41gXeGhbitx4bPs69Epqof"
+      },
+      "artists": [
+        {
+          "name": "Nariaki Obukuro",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        },
+        {
+          "name": "KOHEI JAPAN",
+          "url": "https://open.spotify.com/artist/5eiKcPuWYFwDQBL5v4LmfL"
+        },
+        {
+          "name": "Hugo LX",
+          "url": "https://open.spotify.com/artist/2seENlEi5S6kopQzmVyOzn"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Work - Hugo LX Remix",
+      "url": "https://open.spotify.com/track/1ayRQg1gtG6tInfzgeaMxi"
+    },
+    {
+      "album": {
         "name": "World's End (feat. Julia Wu, 5lack)",
         "url": "https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk"
       },
@@ -2129,7 +2155,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"

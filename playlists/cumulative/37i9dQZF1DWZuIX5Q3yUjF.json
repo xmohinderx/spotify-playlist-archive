@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Nane'",
+  "description": "Il meglio dell'R&B italiano. Cover: Heartman",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -1285,10 +1285,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 160444,
       "name": "Fratelli & Sogni",
       "url": "https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd"
+    },
+    {
+      "album": {
+        "name": "Per te",
+        "url": "https://open.spotify.com/album/3Gk7tnA6FkViwwgjMTBhJW"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "FUCKBOY",
+      "url": "https://open.spotify.com/track/4yZ5MdzVJGG2W1EmOQQvaa"
     },
     {
       "album": {
@@ -1482,6 +1500,24 @@
     },
     {
       "album": {
+        "name": "IO NON HO PAURA",
+        "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198519,
+      "name": "IL MIO NOME",
+      "url": "https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD"
+    },
+    {
+      "album": {
         "name": "IL TEMPO DELLE MELE",
         "url": "https://open.spotify.com/album/53LDnyr7TtRNLu6dMIEN8w"
       },
@@ -1657,6 +1693,24 @@
       "duration_ms": 157384,
       "name": "Karma",
       "url": "https://open.spotify.com/track/0aHzuh1etGgRDpK4enI5T0"
+    },
+    {
+      "album": {
+        "name": "Kat\u00e1basis",
+        "url": "https://open.spotify.com/album/0pS2dH0gx79Nw8z2BbJGZD"
+      },
+      "artists": [
+        {
+          "name": "Livrea",
+          "url": "https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218566,
+      "name": "Kat\u00e1basis",
+      "url": "https://open.spotify.com/track/4oB1ITrhWrneUtt96y7eVZ"
     },
     {
       "album": {
@@ -1903,7 +1957,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 138546,
       "name": "Like a melody",
       "url": "https://open.spotify.com/track/5QougSlOCoMqyHAVzK5Qc0"
@@ -3005,7 +3059,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 173360,
       "name": "Respirare",
       "url": "https://open.spotify.com/track/5Oi2WD7QCm7QauxSCfkCla"

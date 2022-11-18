@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Abby Sage, Artwork: Robin Clifford Ellis
 
-1,001 songs - 2 day 6 hr 33 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+1,002 songs - 2 day 6 hr 36 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [23rd Street](https://open.spotify.com/track/2aaiBUwcWHkAgpn1UNNHFc) | [Companion](https://open.spotify.com/artist/3xsRxXPgnP6NdckQPo1doE) | [Second Day Of Spring](https://open.spotify.com/album/0z5stKBwZ19uFVrixkTbus) | 3:03 | 2022-06-29 | 2022-08-04 |
 | [3\-2\-Wake Up](https://open.spotify.com/track/7n4BWIL8UhenxMJNpzO3J6) | [Darkbird](https://open.spotify.com/artist/0iiltWiiNfnJEh1sUL3bWk) | [3\-2\-Wake Up](https://open.spotify.com/album/4iNZNabgsBvw83PK0GhLjP) | 3:49 | 2022-02-09 | 2022-03-10 |
 | [4am](https://open.spotify.com/track/3DLhIFONTMbC70Pim6wFX7) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [4am](https://open.spotify.com/album/6gg9pFAiI2Ddo0RmVvMwbT) | 3:13 | 2022-02-22 | 2022-03-17 |
+| [4leaf clover](https://open.spotify.com/track/1bLqjhjblTmsVwCxd3Dldy) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [4leaf clover](https://open.spotify.com/album/0VF9mTrMYx8CcpP6gZ4DJS) | 2:36 | 2022-11-17 |  |
 | [5am](https://open.spotify.com/track/0zll7ar6NSz8VUN0gciDak) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC), [JOE L](https://open.spotify.com/artist/276rQ7r59LD3mS6oL5RMVb) | [5am](https://open.spotify.com/album/593CwiXVevpgpE30WGQqyp) | 2:42 | 2022-02-22 | 2022-03-17 |
 | [7 Minutes](https://open.spotify.com/track/0eycjgeDkWHpJ5mEcOxll5) | [The Komets](https://open.spotify.com/artist/4ACTgWHhFRo3ZbxRpBXUSj) | [7 Minutes](https://open.spotify.com/album/3p5TZDLCmRc55Vl9rQx6nr) | 3:44 | 2022-04-27 | 2022-05-26 |
 | [87 Days](https://open.spotify.com/track/0gZoK6Q1RJ46fyeC2Ib0r2) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [From Then 'til Now](https://open.spotify.com/album/3zj3M9adqCVVP07vYWgMQh) | 3:41 | 2021-12-01 | 2022-01-13 |
@@ -784,7 +785,7 @@
 | [Ski Goggles](https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Ski Goggles](https://open.spotify.com/album/5euW1q7o3akFcGbk3XPU8V) | 2:47 | 2022-07-27 | 2022-08-16 |
 | [SLEEP MANIA](https://open.spotify.com/track/47KDPNdNKqsezS9FUdAwPD) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB) | [SLEEP MANIA](https://open.spotify.com/album/5IeMXMIpV8EeB5dc4FOUOV) | 2:48 | 2022-03-22 | 2022-04-13 |
 | [Sleepwalking](https://open.spotify.com/track/5yQF5Hb7HxOO7QG995WfAd) | [Creature Canyon](https://open.spotify.com/artist/2dNInv9DAqXZhseHpSHbV6) | [Sleepwalking](https://open.spotify.com/album/4b7lHLbaaHy0BkyhKDg85k) | 4:06 | 2022-08-03 | 2022-09-07 |
-| [Slip Away](https://open.spotify.com/track/0xPQyxQvXp4BuMksPEfX0Q) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Slip Away](https://open.spotify.com/album/08qZZlKOJwaRNprLnYcYcg) | 3:30 | 2022-10-12 |  |
+| [Slip Away](https://open.spotify.com/track/0xPQyxQvXp4BuMksPEfX0Q) | [Cleo Reed](https://open.spotify.com/artist/1gLcT6lcN6AHTRdpRSXAyi) | [Slip Away](https://open.spotify.com/album/08qZZlKOJwaRNprLnYcYcg) | 3:30 | 2022-10-12 | 2022-11-18 |
 | [slow love](https://open.spotify.com/track/6FBTEVZ0To0VUUKcQHfjDu) | [neek](https://open.spotify.com/artist/2SMBWRC5ACqTXfhAxkJBjk) | [slow love](https://open.spotify.com/album/6ZVelQ4MzwZtmUterPhrVu) | 3:58 | 2022-05-04 | 2022-06-09 |
 | [Small Dog](https://open.spotify.com/track/4Q3w6nbaXJ5Osg1F1sim4E) | [Nic Howell](https://open.spotify.com/artist/7BbIblHwCDZXHdzAxA7f1v) | [Cheap Perfume](https://open.spotify.com/album/35erM8pmLhC2ud6IOVKLKu) | 2:20 | 2022-06-15 | 2022-06-30 |
 | [Smello Coffee](https://open.spotify.com/track/7I0f1ZuxL5hj4zAMhYfhVR) | [Teal Peel](https://open.spotify.com/artist/3FxTu2bdWpjdTV7axOuZSz) | [Smello Coffee](https://open.spotify.com/album/19z5CTEg4X1SN7sSypMuHN) | 4:08 | 2022-04-09 | 2022-05-05 |

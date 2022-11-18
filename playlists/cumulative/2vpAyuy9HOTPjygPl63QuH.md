@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-567 songs - 1 day 8 hr 52 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+568 songs - 1 day 8 hr 56 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Jack On The Line](https://open.spotify.com/track/3am9Xqm1H9bEpcl6g4m7tI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Jack On The Line](https://open.spotify.com/album/4IGGQibQn3uUOhCQOLtwFS) | 4:23 | 2022-11-11 |  |
 | [Jumpman](https://open.spotify.com/track/3sWJfExp0jAqvOlfoAfpFA) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [It's Ecstasy EP](https://open.spotify.com/album/0iY9cBd95XTzOSxuUykGsZ) | 3:18 | 2022-06-11 | 2022-06-18 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-29 | 2022-08-06 |
+| [Killa](https://open.spotify.com/track/37GCh90TStv9F0iodwER3w) | [Tombo](https://open.spotify.com/artist/0SsH1YtxJq7HTAsI7DIoqE) | [Amazons](https://open.spotify.com/album/6OqbMo65FexUwWTcwmVAZU) | 3:52 | 2022-11-17 |  |
 | [Killer Bee](https://open.spotify.com/track/3vq4X1cphzASnVAPR3Tfqg) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [Chyra](https://open.spotify.com/artist/0O6GiRrnADewkp91ELz39s) | [Killer Bee](https://open.spotify.com/album/2wggVJCG8JFzXKHg14zkyl) | 2:46 | 2022-09-30 | 2022-10-08 |
 | [Kilos](https://open.spotify.com/track/0SO1znGNPqLM3PW1hmYVNv) | [Tombz](https://open.spotify.com/artist/6lib5PryDEdaqbVKPgIMbC), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 5:31 | 2022-06-03 | 2022-06-11 |
 | [Kink](https://open.spotify.com/track/5xlvJqEqgz0r54vX3IeqnG) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [Josh Tobias](https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt) | [Kink](https://open.spotify.com/album/22hHpWWORlMgmXH0GTcQAH) | 4:21 | 2022-07-09 | 2022-07-16 |

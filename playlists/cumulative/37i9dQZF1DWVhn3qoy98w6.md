@@ -4,7 +4,7 @@
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Leftee.
 
-1,314 songs - 2 day 22 hr 3 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
+1,315 songs - 2 day 22 hr 5 min - [published](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Auténtico](https://open.spotify.com/track/2kVgqWdKbgmAqg6ovLmbW7) | [Battosai](https://open.spotify.com/artist/0IuuB4NgA0AT19Mxrifl7N) | [Auténtico](https://open.spotify.com/album/0nv46i74XqJSNIYpLknC5P) | 3:32 | 2022-02-15 | 2022-02-24 |
 | [ave maría](https://open.spotify.com/track/7MxMOA5TYpJsifAeBusyHT) | [BAJOCERO](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [acelera](https://open.spotify.com/album/3FFMVKas91S9VSjiY4BKYz) | 2:39 | 2022-11-15 |  |
 | [Aviadors que van en barca](https://open.spotify.com/track/6My7JMXlWlD4zFFTq4Nkx2) | [Nil Boladeras](https://open.spotify.com/artist/027KZ7aXmHoCpwbWSbLWfe) | [Aviadors que van en barca](https://open.spotify.com/album/3hOEsKAR6k2aCAGJtrHrDk) | 4:05 | 2022-05-31 | 2022-06-08 |
-| [Ayuso, protégeme](https://open.spotify.com/track/0thLyZKPQTkd2lShbETkqM) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A) | [Ayuso, protégeme](https://open.spotify.com/album/4tcQgrF1UcHmFQgnX97NTP) | 2:33 | 2022-11-15 |  |
+| [Ayuso, protégeme](https://open.spotify.com/track/0thLyZKPQTkd2lShbETkqM) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A) | [Ayuso, protégeme](https://open.spotify.com/album/4tcQgrF1UcHmFQgnX97NTP) | 2:33 | 2022-11-15 | 2022-11-18 |
+| [Ayuso, protégeme](https://open.spotify.com/track/0s8jEkSIVtzwskgpvKyYpU) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A) | [Ayuso, protégeme](https://open.spotify.com/album/4ndOBcymR7L2epIYnMUZqy) | 2:36 | 2022-11-15 |  |
 | [Azul](https://open.spotify.com/track/7aP9DEr5YQ91NzJM936Vb0) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Azul](https://open.spotify.com/album/3BwfhYolVprFxzh02eqmDA) | 3:26 | 2022-06-29 | 2022-07-13 |
 | [Azul Clarito](https://open.spotify.com/track/0sRWG1AsvwogsUy8aF41y6) | [MINIÑO](https://open.spotify.com/artist/34iawz1efpYTtZCNtO2jEr) | [Azul Clarito](https://open.spotify.com/album/2kegdZGaX0qcEBQMd0H0ZE) | 3:48 | 2022-05-31 | 2022-06-08 |
 | [Baby, Te Dejo por Mi](https://open.spotify.com/track/49gJOhDCLOQxvILJjU4uBB) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Baby, Te Dejo por Mi](https://open.spotify.com/album/62EAYB7gfU5rtr268sVjDj) | 2:50 | 2022-03-22 | 2022-04-06 |

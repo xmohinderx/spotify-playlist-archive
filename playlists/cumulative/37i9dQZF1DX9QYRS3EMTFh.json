@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash",
+  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -27,6 +27,24 @@
       "duration_ms": 173250,
       "name": "10 / 10",
       "url": "https://open.spotify.com/track/2YB3aHdfTB6SZpYp1iBCfI"
+    },
+    {
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160584,
+      "name": "6ex In The Morning",
+      "url": "https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC"
     },
     {
       "album": {
@@ -117,7 +135,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 184449,
       "name": "Avant go\u00fbt",
       "url": "https://open.spotify.com/track/4XRBMlqaCdMYBSheh4iODC"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 209345,
       "name": "Dancehall Wine",
       "url": "https://open.spotify.com/track/1UFUC9QOnQQPf6g5cAdsWX"
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 218666,
       "name": "Hot",
       "url": "https://open.spotify.com/track/3Dkktj1u1EwcBmjs0djQKB"
@@ -2852,6 +2870,28 @@
     },
     {
       "album": {
+        "name": "Shine Bright",
+        "url": "https://open.spotify.com/album/6cuYpHerue7oNk3PqcKQqz"
+      },
+      "artists": [
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        },
+        {
+          "name": "Fernandez",
+          "url": "https://open.spotify.com/artist/2Lx8uvkJwO86Mmh72z10pR"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125441,
+      "name": "Shine Bright",
+      "url": "https://open.spotify.com/track/60l9cfnaUop1NJGgpiQ7UA"
+    },
+    {
+      "album": {
         "name": "Skeleton Cartier",
         "url": "https://open.spotify.com/album/0nlrjWXIKkwMHTXxm5oiZZ"
       },
@@ -2885,10 +2925,28 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 146303,
       "name": "Slap",
       "url": "https://open.spotify.com/track/5CwSPRRv1pgwekI2OjT8D7"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6lpMl9Tl9wSNbStPEHtCGK"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/4tdlXdW4Agcp0EGX9otdDK"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1HZsyQS1sPugJ0UTJgTGof"
     },
     {
       "album": {
@@ -3137,6 +3195,24 @@
       "duration_ms": 168704,
       "name": "The Harder They Fall",
       "url": "https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2FhG2P32MEmsTHr4t0I7ht"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/75DRmgr7StSIMJqIDN2jHH"
     },
     {
       "album": {
@@ -3493,7 +3569,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 172889,
       "name": "W\u00e8 Miz\u00e8",
       "url": "https://open.spotify.com/track/0hI7JD8frCt87GwiIakjox"

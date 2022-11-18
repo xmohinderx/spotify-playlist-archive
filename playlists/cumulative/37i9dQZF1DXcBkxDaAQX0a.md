@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-258 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+259 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Part Of Me \(feat\. Laura Whiteside\)](https://open.spotify.com/track/4AcUMxbQD2adktrJv1SKQn) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 3:09 | 2022-04-04 | 2022-11-13 |
 | [A Spot on the Wall \- Acoustic](https://open.spotify.com/track/1MO50WyxNLzm2IId68yMcp) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [A Spot on the Wall \(Acoustic\)](https://open.spotify.com/album/5TwBOiGfawfH7m3U5xCfIM) | 4:40 | 2021-02-08 | 2022-06-14 |
 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 | 2022-04-04 |  |
-| [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 | 2022-04-04 |  |
+| [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 | 2022-04-04 | 2022-11-18 |
 | [Ache](https://open.spotify.com/track/19QanLbRIRwDnOGmH4u8Ny) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/20136PdgjDFuN5yAt1F8sj) | 1:53 | 2021-02-08 | 2022-06-10 |
 | [Act Appalled \- Acoustic](https://open.spotify.com/track/493qSqzAV2AcyBt2J2Ge6W) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:20 | 2022-04-04 | 2022-04-19 |
 | [Agree to Disagree \- Acoustic](https://open.spotify.com/track/0y4MhPQnBLxVqcSPgzOstx) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 3:10 | 2021-02-08 | 2022-07-28 |
@@ -111,6 +111,7 @@
 | [Here to Stay \(feat\. Jason Lancaster\)](https://open.spotify.com/track/43KXYgtkGWYDCrGFHtA6bR) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW), [Jason Lancaster](https://open.spotify.com/artist/2qelzpB6RrJtn77f5yWmES) | [Roll with the Punches](https://open.spotify.com/album/4WZpkWKbtLvynUx18Qj3RQ) | 3:40 | 2021-02-08 | 2022-07-22 |
 | [Here's My Heart](https://open.spotify.com/track/1AbzTccQuui3IwbnVwftEa) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/5lCufKbpVThibmkM9shaPw) | 3:35 | 2022-04-04 | 2022-11-06 |
 | [Here's My Heart](https://open.spotify.com/track/6rbpUABUBE8zYt55TPkExf) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/3xW3SMzotqRHc41JhvLXuy) | 3:35 | 2021-02-08 | 2022-07-29 |
+| [Here's My Heart](https://open.spotify.com/track/1V4ks332ryWHKyBv67mdSG) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Beautiful Mess](https://open.spotify.com/album/0wf7JnnpOSRkgfVfbXEfwZ) | 3:35 | 2022-04-04 |  |
 | [Home \(Acoustic\)](https://open.spotify.com/track/3vrsru0OyYNPaMq6ROrAGE) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Home \(Acoustic\)](https://open.spotify.com/album/2tPB1LQ4o3lnPRDJNwtP2f) | 3:32 | 2021-02-08 | 2022-04-25 |
 | [Honey \(Acoustic\)](https://open.spotify.com/track/0x7ePgub9XJoAdnbWmhnv7) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Blush B\-Sides](https://open.spotify.com/album/4fzyP5Z4YjxW8AciECqlWn) | 3:24 | 2021-02-08 | 2022-04-16 |
 | [How Big Is Your Brain?](https://open.spotify.com/track/0Jeam6MrHArvfYeMubagfZ) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [How Big Is Your Brain?](https://open.spotify.com/album/4OIMqMkZJKDDUhMGpEalaj) | 3:05 | 2021-02-08 | 2022-07-29 |

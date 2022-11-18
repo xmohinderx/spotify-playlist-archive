@@ -82,6 +82,32 @@
     },
     {
       "album": {
+        "name": "Strides Remixes",
+        "url": "https://open.spotify.com/album/41gXeGhbitx4bPs69Epqof"
+      },
+      "artists": [
+        {
+          "name": "Nariaki Obukuro",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        },
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        },
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Butter - Hidden Spheres Remix",
+      "url": "https://open.spotify.com/track/30WL8qJoF0RUOOwmkALa7T"
+    },
+    {
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -187,7 +213,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 389240,
       "name": "Feet Down South",
       "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
@@ -1117,7 +1143,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 203000,
       "name": "The Rings Of Saturn",
       "url": "https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP"
@@ -1339,6 +1365,28 @@
       "duration_ms": 201413,
       "name": "Voiceless",
       "url": "https://open.spotify.com/track/7nN1LUAJUDuGJyDawcok6v"
+    },
+    {
+      "album": {
+        "name": "Walk Thru Water",
+        "url": "https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194185,
+      "name": "Walk Thru Water",
+      "url": "https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr"
     },
     {
       "album": {

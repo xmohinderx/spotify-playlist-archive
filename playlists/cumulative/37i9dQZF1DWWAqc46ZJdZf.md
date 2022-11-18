@@ -4,7 +4,7 @@
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-107 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/6NlI2j08Q0MMp7vJMFMQPV)
+108 songs - 7 hr 20 min - [published](https://open.spotify.com/playlist/6NlI2j08Q0MMp7vJMFMQPV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Say It Loud \- I'm Black And I'm Proud \- Pt\. 1](https://open.spotify.com/track/5HvVoij9zaVGoyspI2LlwU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Get On Up \- The James Brown Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6f8C6KCkU3ybGalzVqbXY8) | 2:50 | 2021-04-29 | 2022-07-28 |
 | [Self](https://open.spotify.com/track/0nKiPnnqn6bfn8sPOZJGs8) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/3mpA4v2tvEM5aAYtNGnbzD) | 1:34 | 2021-04-29 | 2022-09-09 |
 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 | 2022-02-14 | 2022-11-17 |
+| [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 | 2022-02-14 |  |
 | [Slippin' Into Darkness](https://open.spotify.com/track/1jcTfIiBUz35bBqgHYItP6) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Greatest Hits](https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3) | 3:47 | 2022-02-14 |  |
 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 | 2021-04-29 |  |
 | [Something's Gotta Give](https://open.spotify.com/track/2kQ8Ge6E9ycl0bcYaAiMYg) | [Sonna](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf), [Voices for Change](https://open.spotify.com/artist/4DTRY3LBAV2LvLVrmdmR6s) | [Something's Gotta Give](https://open.spotify.com/album/5M284Ov6B8hAgsUxahuBZ8) | 2:20 | 2021-04-29 | 2022-07-29 |
@@ -110,7 +111,7 @@
 | [Time's A Wastin](https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:40 | 2021-04-29 |  |
 | [To Be Young, Gifted and Black](https://open.spotify.com/track/6B3H7aue15Ntp6sfQaH7wE) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:41 | 2021-04-29 | 2022-07-27 |
 | [Tribe](https://open.spotify.com/track/3genAqdJAms2ifNFdbC4EO) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:33 | 2021-04-29 |  |
-| [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 | 2022-02-14 |  |
+| [True To The Game](https://open.spotify.com/track/01XVwBiMgmGt5Q3GO1YNp9) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 4:10 | 2022-02-14 | 2022-11-18 |
 | [True To The Game](https://open.spotify.com/track/44xsa6cvJWeoWPm3dA1mdP) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/0VoorTgcwMRROTmmZlxPSG) | 4:10 | 2021-04-29 | 2022-07-28 |
 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 | 2021-04-29 |  |
 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 | 2022-02-14 |  |

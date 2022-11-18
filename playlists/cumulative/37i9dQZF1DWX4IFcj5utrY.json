@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ?si=DjQm-D4cSD-PuJIJ2pQHpQ\">Kususa</a> and <a href=\"https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt?si=a-5he1luTZWLbLOg3FbESg\">Argento Dust</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p?si=br9etiveQvuwlbVvKDBaKw\">Karyendasoul</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 180967,
       "name": "All About You",
       "url": "https://open.spotify.com/track/4iHkBDuwhzJEsflOGMoEt2"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 189943,
       "name": "All We Need",
       "url": "https://open.spotify.com/track/0BX8McdXCfHgHrKizHIJRE"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 235797,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1CRYG96CwRWvOjM4Vd6cBm"
@@ -1897,7 +1897,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 423000,
       "name": "Black Heirs",
       "url": "https://open.spotify.com/track/0gmfpk6bZKowpKyBkcbPZL"
@@ -3499,7 +3499,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 227875,
       "name": "Eames",
       "url": "https://open.spotify.com/track/3r5yQFuuIk3upZiZPWbqH7"
@@ -3733,7 +3733,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 193278,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/0sh6JAgzoiQxz8bqr6ovwp"
@@ -3835,7 +3835,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 392195,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/3QYlfmOYcG8ZhkvzU63Riv"
@@ -4249,7 +4249,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 254000,
       "name": "Gino Brown Dance Ritual Radio Edit - Radio",
       "url": "https://open.spotify.com/track/6O8Wjd9P6GBJzgqxjerwkS"
@@ -5650,6 +5650,54 @@
     },
     {
       "album": {
+        "name": "INSIMBI",
+        "url": "https://open.spotify.com/album/5PAqpzzysS2EFGSIw31bfL"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        },
+        {
+          "name": "Michael King",
+          "url": "https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400843,
+      "name": "INSIMBI",
+      "url": "https://open.spotify.com/track/3DEc9RODI7HlxccYKaRtpT"
+    },
+    {
+      "album": {
+        "name": "Intaba",
+        "url": "https://open.spotify.com/album/7ccgr91EmN603qALfyGkdb"
+      },
+      "artists": [
+        {
+          "name": "DJ Manzo Sa",
+          "url": "https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "Tumisho",
+          "url": "https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388326,
+      "name": "Intaba",
+      "url": "https://open.spotify.com/track/4KtwO2thHzIOEymDArz314"
+    },
+    {
+      "album": {
         "name": "Into Flight",
         "url": "https://open.spotify.com/album/5wGGJToL5nuQCe5XHFADBk"
       },
@@ -6501,7 +6549,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 278918,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/012cLSsw2dl0JypSYqR2k9"
@@ -6523,6 +6571,32 @@
       "duration_ms": 200160,
       "name": "Late Night Phone Call",
       "url": "https://open.spotify.com/track/1LniG5wUZtxdnqMztM1KU8"
+    },
+    {
+      "album": {
+        "name": "Lately (Enoo Napa Remix)",
+        "url": "https://open.spotify.com/album/1W3AZPRGLHOCyjgtgJNzFM"
+      },
+      "artists": [
+        {
+          "name": "Cincity",
+          "url": "https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen"
+        },
+        {
+          "name": "Jody Vivian",
+          "url": "https://open.spotify.com/artist/1G8fwWtfAJ3E092HPah9Rq"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418001,
+      "name": "Lately - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/3oPdHhzFrMs6EDdupUwCfD"
     },
     {
       "album": {
@@ -6824,6 +6898,28 @@
     },
     {
       "album": {
+        "name": "Let Me Be",
+        "url": "https://open.spotify.com/album/6hjJ7p3THJCGg8cfoWYsut"
+      },
+      "artists": [
+        {
+          "name": "Comado",
+          "url": "https://open.spotify.com/artist/31LJ0uC7qKB2s3x8P00MKo"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/3cPXzpTSrOM1VJFm6Gwaym"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321235,
+      "name": "Liyangibiza",
+      "url": "https://open.spotify.com/track/1bdY01PMB01vNkGjBk2Xvt"
+    },
+    {
+      "album": {
         "name": "MoAfurika",
         "url": "https://open.spotify.com/album/3qEcNXHSt7AxDEYQsYSY2E"
       },
@@ -7093,7 +7189,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 302666,
       "name": "Mabebuza",
       "url": "https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL"
@@ -8048,6 +8144,36 @@
     },
     {
       "album": {
+        "name": "My Intentions",
+        "url": "https://open.spotify.com/album/3TK63BqeRAkTrwTK9N57M1"
+      },
+      "artists": [
+        {
+          "name": "TorQue MuziQ",
+          "url": "https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK"
+        },
+        {
+          "name": "Cincity",
+          "url": "https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Tee Jay",
+          "url": "https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402042,
+      "name": "My Intentions",
+      "url": "https://open.spotify.com/track/03ZCukkFExJxMeT420qP4T"
+    },
+    {
+      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/5KfHfNi0qULYg2NBNlfgOx"
       },
@@ -8225,7 +8351,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 340832,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/0NXAgDMxY6t7coulYU0PXV"
@@ -11071,7 +11197,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 212256,
       "name": "Synchro System (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
@@ -11490,6 +11616,24 @@
     },
     {
       "album": {
+        "name": "THE OTHER SIDE",
+        "url": "https://open.spotify.com/album/7MXM2V7gwh6oaF2x3uJgSo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Michael",
+          "url": "https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196935,
+      "name": "THE OTHER SIDE",
+      "url": "https://open.spotify.com/track/2IGFXMQdh2AlVdPyd6woaR"
+    },
+    {
+      "album": {
         "name": "Planet Dee EP 6",
         "url": "https://open.spotify.com/album/2vaCe0WWr4J22L1DpOQbvR"
       },
@@ -11519,7 +11663,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 204761,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
@@ -12259,7 +12403,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 296471,
       "name": "Uhuru (feat. Bukeka)",
       "url": "https://open.spotify.com/track/1X6CBRZFpjQE2igZ7xvGIl"
@@ -12355,6 +12499,28 @@
       "duration_ms": 240000,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/51lWECWDAl58OrMWFf7x2i"
+    },
+    {
+      "album": {
+        "name": "Umthandazo",
+        "url": "https://open.spotify.com/album/1jq2mKT01GdpCrSv4Ko7Go"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371000,
+      "name": "Umthandazo",
+      "url": "https://open.spotify.com/track/4m3OLxVFU9Ba1QTFByKqPr"
     },
     {
       "album": {
@@ -12810,6 +12976,28 @@
     },
     {
       "album": {
+        "name": "We Deserve To Dream",
+        "url": "https://open.spotify.com/album/5lhGLu6ggkllVThRXsFxMI"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "We Deserve To Dream",
+      "url": "https://open.spotify.com/track/2IsAQ0jG5kfDTNuKGhSLC6"
+    },
+    {
+      "album": {
         "name": "We Get Deep",
         "url": "https://open.spotify.com/album/1XKrn1fyc6v3QDd5nfF59E"
       },
@@ -12825,6 +13013,28 @@
       "duration_ms": 421422,
       "name": "We Get Deep",
       "url": "https://open.spotify.com/track/5WIJ5QIdWvcgJx5TncBxvo"
+    },
+    {
+      "album": {
+        "name": "We Here To Stay",
+        "url": "https://open.spotify.com/album/0KQw9FxgEPvZ0wxrIK1FRm"
+      },
+      "artists": [
+        {
+          "name": "TiMO ODV",
+          "url": "https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt"
+        },
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222926,
+      "name": "We Here To Stay",
+      "url": "https://open.spotify.com/track/6bQcDKEMFB0s7CRhnFsoK0"
     },
     {
       "album": {

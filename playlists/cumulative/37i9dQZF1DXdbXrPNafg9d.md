@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Cruza
 
-4,443 songs - 10 day 20 hr 59 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,444 songs - 10 day 21 hr 2 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2084,7 +2084,8 @@
 | [Jericho Beach](https://open.spotify.com/track/53jyTLOaSpjitcwV3kwczg) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Jericho Beach](https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6) | 2:56 | 2022-10-21 |  |
 | [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 | 2022-03-25 | 2022-05-07 |
 | [Jerusalem, New York, Berlin](https://open.spotify.com/track/7lQgoAWAFAo0XW7dW2TL1y) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 2:54 | 2019-05-26\* | 2019-06-15 |
-| [jessamine](https://open.spotify.com/track/5g7nMNMPb5X7EvA0njrNQp) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [jessamine](https://open.spotify.com/album/1HWrTH3CeF5SyxrdJTk09C) | 2:31 | 2022-10-21 |  |
+| [jessamine](https://open.spotify.com/track/3tyb330XAhtwkykFWS378z) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:31 | 2022-10-21 |  |
+| [jessamine](https://open.spotify.com/track/5g7nMNMPb5X7EvA0njrNQp) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [jessamine](https://open.spotify.com/album/1HWrTH3CeF5SyxrdJTk09C) | 2:31 | 2022-10-21 | 2022-11-18 |
 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/3cpv2bUnUzSZPaSVACXzdJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Jesus Christ 2005 God Bless America](https://open.spotify.com/album/5h2gHGAvkdm3sf2mtAE4Ub) | 4:24 | 2020-04-03 | 2020-05-08 |
 | [Jesus Freak Lighter](https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Jesus Freak Lighter](https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP) | 2:32 | 2022-09-09 | 2022-10-29 |
 | [Jetfuel](https://open.spotify.com/track/5eafDVBKvnfPcXgJlMoecB) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Jetfuel](https://open.spotify.com/album/3uvbj6LtPgPLa8vsosQCuG) | 2:45 | 2019-10-04 | 2019-11-01 |

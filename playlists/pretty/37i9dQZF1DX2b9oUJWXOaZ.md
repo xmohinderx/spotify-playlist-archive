@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,450 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,448 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 | 5 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 |
 | 6 | [Go East](https://open.spotify.com/track/2TIfjhW3HCHlaTVBKi4UYX) | [Jason Chu](https://open.spotify.com/artist/4iYrlt4ga3CGYF7Z2mUDxV), [Scott Robert Jung](https://open.spotify.com/artist/2cxeIvkUhY3DN8LIkzvWVD) | [Warrior \(Cinemax Original Series Soundtrack\)](https://open.spotify.com/album/2eEhADd3alWOguMQNwUqtw) | 2:47 |
 | 7 | [Tightrope](https://open.spotify.com/track/7Ltp6C8WcxLmpqmXqv7G8n) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Nick Isham](https://open.spotify.com/artist/3INQD45A4I7hWypSUOLyB6) | [The Cleaning Lady: Season 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vUcnfXZ25zPRTM1VkN42u) | 2:50 |
-| 8 | [Shine On Me](https://open.spotify.com/track/0iaoW62UMzZp6H3sxwfJs2) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Mohd\. Fazil](https://open.spotify.com/artist/29mWTwI1lF55p3pcBBxWVs) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/0ehinjQRe63YhGszSbru6U) | 2:55 |
+| 8 | [Shine On Me](https://open.spotify.com/track/3GJ1OhV8wIunMD9Wjl0FOR) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Mohd\. Fazil](https://open.spotify.com/artist/29mWTwI1lF55p3pcBBxWVs) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/3JOw3bfb877iP3VYjdzKCY) | 2:55 |
 | 9 | [Money \(That's What I Want\)](https://open.spotify.com/track/1tfP05y0ckTfB2UgQpyjkF) | [Cheryl K](https://open.spotify.com/artist/72S8utiGyj05Psv1PVN1iG) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:12 |
 | 10 | [Rock With You](https://open.spotify.com/track/0pvSLqJpsU3QrbIZR84uHY) | [Ekolu](https://open.spotify.com/artist/3DK8L6LNTwmg5l3KfzgcRx) | [Rock With You](https://open.spotify.com/album/2vbqleugguJdzAcDaBdOu1) | 3:42 |
 | 11 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2b9oUJWXOaZ.md) - [plain]
 | 51 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
 | 52 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 
-Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMDNmMTk0YTU1NWI1ZTMzNTgxZTY1MGExOTM3MTIyYWUw`
+Snapshot ID: `MTY1MTQ2NDAwMCwwMDAwMDAwMGFmODRkZDYwZjhhZDRmZGRhOTQwZDU1MzkyZjM5N2Qy`

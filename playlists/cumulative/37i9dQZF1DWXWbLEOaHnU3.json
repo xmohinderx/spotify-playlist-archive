@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 393529,
       "name": "11:11",
       "url": "https://open.spotify.com/track/0nJu3is8rdbac8Lk04XgBJ"
@@ -730,6 +730,28 @@
     },
     {
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "album": {
         "name": "Center of The Earth",
         "url": "https://open.spotify.com/album/47d6kw7PHqwJAtv490FrVV"
       },
@@ -1219,7 +1241,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 560571,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
@@ -1817,7 +1839,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 288000,
       "name": "Half Of It",
       "url": "https://open.spotify.com/track/5qjj4GCSAEbnuqPGrWsNpT"
@@ -2021,7 +2043,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 192000,
       "name": "I'm A Mess",
       "url": "https://open.spotify.com/track/6eibj2ctKHTZfQX9H1ILYn"
@@ -2266,6 +2288,32 @@
     },
     {
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/0vt5DRienv08e0qdHHttMx"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Crazy Box",
+          "url": "https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP"
+        },
+        {
+          "name": "Synergetic Emotion",
+          "url": "https://open.spotify.com/artist/2trhW3xI0aOtr47Ued1RFK"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/3un6ZcPSm9w1YQ5oTlZTmY"
+    },
+    {
+      "album": {
         "name": "Locos",
         "url": "https://open.spotify.com/album/7fiOw6vOVbQ0sUwwE5Gq4L"
       },
@@ -2337,6 +2385,32 @@
       "duration_ms": 267107,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
+    },
+    {
+      "album": {
+        "name": "Low (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Low (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4MUMWxe9088SuTFKpprQ57"
     },
     {
       "album": {
@@ -2495,7 +2569,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 190285,
       "name": "Move",
       "url": "https://open.spotify.com/track/1V6KX61KpHJ9Z4mtGeroUO"
@@ -2810,6 +2884,28 @@
     },
     {
       "album": {
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/66mIQU9Et5l2adfdWAQQLD"
+      },
+      "artists": [
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/5Vx0adNfQ9acNFltwiXd2Z"
+    },
+    {
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/4zSo7sKtXB6ptXa9Z6c8U6"
       },
@@ -2935,7 +3031,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 351304,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4pRfuQTMVQQRYs039HEY0X"
@@ -3052,6 +3148,24 @@
     },
     {
       "album": {
+        "name": "Psychosis",
+        "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
+      },
+      "artists": [
+        {
+          "name": "Kore-G",
+          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206653,
+      "name": "Psychosis",
+      "url": "https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE"
+    },
+    {
+      "album": {
         "name": "Raanjhan (Volcano on Mars Remix)",
         "url": "https://open.spotify.com/album/2npjCxeaomyl2lvDMMvRfr"
       },
@@ -3151,7 +3265,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 293913,
       "name": "Rebellion (Bingo Bango Remix)",
       "url": "https://open.spotify.com/track/5gwK7cLjxrlgwRsioRbI2P"

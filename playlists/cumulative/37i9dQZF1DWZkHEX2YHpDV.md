@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Magnolia Park
 
-857 songs - 1 day 21 hr 47 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+858 songs - 1 day 21 hr 51 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,7 +731,8 @@
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-20 |  |
 | [The Gang Goes on Tour](https://open.spotify.com/track/6HtB7SRYxhjkBWwH65efHB) | [Perspective, a Lovely Hand to Hold](https://open.spotify.com/artist/3qkkGyICBaalgQCknHchEb) | [The Gang Goes on Tour](https://open.spotify.com/album/1m788ExciajqSQv88DQlJw) | 3:27 | 2022-03-25 | 2022-05-01 |
 | [THE GREAT UNKNOWN](https://open.spotify.com/track/7nPZBAP0E7wBrN1nkBrEzG) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [THE GREAT UNKNOWN](https://open.spotify.com/album/0UsBybiDCddtAxzRVmofta) | 3:25 | 2022-03-25 | 2022-06-13 |
-| [The Liars Club](https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club](https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se) | 3:48 | 2022-06-24 |  |
+| [The Liars Club](https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club](https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se) | 3:48 | 2022-06-24 | 2022-11-18 |
+| [The Liars Club](https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:48 | 2022-11-04 |  |
 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 | 2021-12-10 | 2022-07-23 |
 | [The Modern State](https://open.spotify.com/track/47STbRwpu9PwnBPfhrxyNH) | [The Young Hearts](https://open.spotify.com/artist/6sbDFRTzVhnTYfgmVP0DVX) | [The Modern State](https://open.spotify.com/album/70AlvIbrkB0IULPLnyzSWG) | 3:22 | 2021-12-10 | 2022-06-10 |
 | [The New Sensation](https://open.spotify.com/track/5nsJzJbDoa5ifocayORlbe) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU) | 3:50 | 2022-03-25 | 2022-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Kara Jackson \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,107 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,118 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 2 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
 | 3 | [Take Back](https://open.spotify.com/track/6mkuQSWIwrS0y9ozfNIEhB) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 4:09 |
 | 4 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 |
-| 5 | [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 |
+| 5 | [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 |
 | 6 | [Leaving Here Still](https://open.spotify.com/track/2xg67Ol355l9tdOuFBR9o2) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Leaving Here Still](https://open.spotify.com/album/33roqMYsJwxhI0U3qmVlgh) | 4:21 |
 | 7 | [Faking It](https://open.spotify.com/track/3PSPDMZbCzvaovmIK4bRHM) | [Kelsey Magnuson](https://open.spotify.com/artist/2h9EKVSheiIO237gWqKAXr) | [Don't Budge](https://open.spotify.com/album/5kM2sAcK30Lv4Pm0Yf7Hqx) | 5:08 |
 | 8 | [Morning](https://open.spotify.com/track/0xQISVRlAtWi1xnDKzfyBt) | [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [From a Warm Valley](https://open.spotify.com/album/5eEU9cEbcVeR3ltneidPD3) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Quiet Conversation](https://open.spotify.com/track/6hl4W9aK5lG6gOpOEtIHMc) | [Jacob Humber](https://open.spotify.com/artist/4JJspL8i1Sz6CsowjvNlmL) | [Quiet Conversation](https://open.spotify.com/album/6WxQslCQx5PxOHeO774ltB) | 5:47 |
 | 100 | [Pretty, Pretty](https://open.spotify.com/track/0NkomCaAB2nVipVGxsTUoy) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Pretty, Pretty](https://open.spotify.com/album/2UaDtdFOC01NAP7U4H34fC) | 3:38 |
 
-Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDAxMzIyOGJiOWRhNGRlMmY3ZjE2ZWY5ZjNjYzM4Y2U3`
+Snapshot ID: `MTY2ODAxMzIwMCwwMDAwMDAwMDIzYTc3MzU0NDAxMDc4NWZkYjczZGNkZDc3ODVkYmFl`

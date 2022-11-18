@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 202099,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW"
@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6IDsS2a6HUON1OfACGIqib"
+      },
+      "artists": [
+        {
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314657,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2OAzE4s5M3sZAljAr6F85v"
+    },
+    {
+      "album": {
         "name": "Drowning in the Sound",
         "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
       },
@@ -681,6 +699,24 @@
       "duration_ms": 238317,
       "name": "Gimme Shelter",
       "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
+    },
+    {
+      "album": {
+        "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+        "url": "https://open.spotify.com/album/1Lcwr8J57hqXtEyIrqvP7V"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271616,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/0eXANhdovGOlPMikFproly"
     },
     {
       "album": {
@@ -1013,7 +1049,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 251034,
       "name": "Judas",
       "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"

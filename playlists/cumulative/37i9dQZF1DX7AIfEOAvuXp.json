@@ -3201,10 +3201,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 218204,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/1l0cPiIm4i7AX7wukAP1GE"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/52PWKHv0TTjr3cnP0kIl1Q"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218204,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/7cajJ4GyXX8nfiWgxyHPIX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7AIfEOAvuXp"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM?si=wALkXQdlR4CuEzeJPArGAA\">Nobuhle</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=qaNX0RYJRNWq1vARukqArA\">Makhadzi</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -1028,6 +1028,32 @@
     },
     {
       "album": {
+        "name": "Eloyi",
+        "url": "https://open.spotify.com/album/2f2yc2LzFe6KpXRXADDhMj"
+      },
+      "artists": [
+        {
+          "name": "DJ Ngwazi",
+          "url": "https://open.spotify.com/artist/1G8HHPk0dZaahLJQPySFCi"
+        },
+        {
+          "name": "Joocy",
+          "url": "https://open.spotify.com/artist/1EWAox5Fl2AquoNhbMPgtM"
+        },
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340553,
+      "name": "Eloyi",
+      "url": "https://open.spotify.com/track/5eQgeOV8yayNjWywNdhmgO"
+    },
+    {
+      "album": {
         "name": "Indlela",
         "url": "https://open.spotify.com/album/69bzQJaAvMR92psMY098UI"
       },
@@ -1123,6 +1149,24 @@
       "duration_ms": 220514,
       "name": "Emsebenzini",
       "url": "https://open.spotify.com/track/6goYtFau1jzp7GZAwDQPcu"
+    },
+    {
+      "album": {
+        "name": "Words of Hope",
+        "url": "https://open.spotify.com/album/78D6xzkUvdpGiVSMvckSOM"
+      },
+      "artists": [
+        {
+          "name": "Q Twins",
+          "url": "https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280975,
+      "name": "Esfubeni",
+      "url": "https://open.spotify.com/track/7eIGgeSfeC3FHd2xiZ6cks"
     },
     {
       "album": {
@@ -1505,7 +1549,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 297142,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5ASJP2jny5QJo9pQnq1Yca"
@@ -1619,6 +1663,24 @@
       "duration_ms": 238826,
       "name": "I'm gonna be alright",
       "url": "https://open.spotify.com/track/6ZxZCtgXbgMhlnOA6zbHIX"
+    },
+    {
+      "album": {
+        "name": "Idliso",
+        "url": "https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK"
+      },
+      "artists": [
+        {
+          "name": "Nozi",
+          "url": "https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305840,
+      "name": "Idliso",
+      "url": "https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK"
     },
     {
       "album": {
@@ -1891,6 +1953,32 @@
       "duration_ms": 210000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2F5IXlnz0CcA5pbLPfkvNp"
+    },
+    {
+      "album": {
+        "name": "Intaba",
+        "url": "https://open.spotify.com/album/7ccgr91EmN603qALfyGkdb"
+      },
+      "artists": [
+        {
+          "name": "DJ Manzo Sa",
+          "url": "https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "Tumisho",
+          "url": "https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388326,
+      "name": "Intaba",
+      "url": "https://open.spotify.com/track/4KtwO2thHzIOEymDArz314"
     },
     {
       "album": {
@@ -3335,7 +3423,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 354782,
       "name": "Ndibiziwe",
       "url": "https://open.spotify.com/track/5EbxfvjMjPUqZWVe8LXHFs"
@@ -3852,6 +3940,28 @@
     },
     {
       "album": {
+        "name": "African Queen 2.0",
+        "url": "https://open.spotify.com/album/57d2o9ABnFTKWX3xuYGFe9"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200786,
+      "name": "Njalo",
+      "url": "https://open.spotify.com/track/7n1OBXJqXbBjCxRBDHIZmM"
+    },
+    {
+      "album": {
         "name": "Karabo",
         "url": "https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc"
       },
@@ -4191,7 +4301,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 212900,
       "name": "Outro (Impi)",
       "url": "https://open.spotify.com/track/5CZbzl4YZhDIzee6vnZwKN"
@@ -4685,7 +4795,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 287999,
       "name": "Shwi noMtekhala",
       "url": "https://open.spotify.com/track/2vNY4si9cmfylF4dMtTx3i"
@@ -5496,6 +5606,24 @@
     },
     {
       "album": {
+        "name": "Ukwenza Yenza",
+        "url": "https://open.spotify.com/album/6QtJ8eJh0QJzFAO4kK5dTX"
+      },
+      "artists": [
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227870,
+      "name": "Ukwenza Yenza",
+      "url": "https://open.spotify.com/track/50AGGGpb9w9O7WvCvllZki"
+    },
+    {
+      "album": {
         "name": "Amagalelo",
         "url": "https://open.spotify.com/album/1KdQjmlYYh74SahJmDNGSV"
       },
@@ -5699,7 +5827,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 224417,
       "name": "Usisthandwa Sami (feat. Cnethemba Gonelo)",
       "url": "https://open.spotify.com/track/48dRoLcBWnagYHROIK7Ehe"
@@ -6137,7 +6265,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 202790,
       "name": "Wena Wedwa",
       "url": "https://open.spotify.com/track/5xjVGlEkaEiPsJWWFuauQX"
@@ -6239,6 +6367,24 @@
       "duration_ms": 222786,
       "name": "Yelele",
       "url": "https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa"
+    },
+    {
+      "album": {
+        "name": "Zalabantu",
+        "url": "https://open.spotify.com/album/7c1cpXqDVvvqdRHeefOiLH"
+      },
+      "artists": [
+        {
+          "name": "Azana",
+          "url": "https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240652,
+      "name": "Zalabantu",
+      "url": "https://open.spotify.com/track/3FCn8KMTSUkcxG7WGiu49r"
     },
     {
       "album": {

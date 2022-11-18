@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-212 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
+213 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 | 2022-06-09 |  |
 | [Quien encendió la luz](https://open.spotify.com/track/7uI0ZH9w4Fzldb0dj7gngZ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Quien encendió la luz](https://open.spotify.com/album/5195FGFR87Ixc9EjKwpbbu) | 3:26 | 2022-06-09 | 2022-10-15 |
 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [¿Quién Puso Más?](https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G) | 3:05 | 2022-10-27 |  |
+| [Quiero Abrazarte Tanto](https://open.spotify.com/track/6OYqF9iZag2MJMOg4Kvpui) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Quiero Abrazarte Tanto](https://open.spotify.com/album/2V4EI6HII2SYldfqTZd4pL) | 3:01 | 2022-11-17 |  |
 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 | 2022-06-09 |  |
 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [El Hombre Del Traje Gris](https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ) | 4:57 | 2022-06-09 |  |
 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 | 2022-06-09 |  |
@@ -191,7 +192,7 @@
 | [Sólo Le Pido a Dios \- En Directo](https://open.spotify.com/track/3v69Qrb3FP1xM8xL6K2baG) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Iconos Argentinos](https://open.spotify.com/album/5Q0z1n2x6SEfRlX6W708ek) | 4:39 | 2022-11-10 | 2022-11-13 |
 | [Tal Vez Te Acuerdes de Mí \(feat\. Nina\) \- Sesiones Moraima](https://open.spotify.com/track/1BTW41We9BwKKjchLHcGu8) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Nina](https://open.spotify.com/artist/3796XXTZdSCnaQQFO4OC9F) | [Sesiones Moraima](https://open.spotify.com/album/5dQcSYzzVjAb7gC3reVEvH) | 2:39 | 2022-11-10 | 2022-11-13 |
 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 | 2022-08-19 |  |
-| [Te Quiero Porque Te Quiero \(Fandangos\)](https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Te Quiero Porque Te Quiero \(Fandangos\)](https://open.spotify.com/album/4Hh0e0hN5P3Ch6FOZrHx58) | 3:22 | 2022-10-14 |  |
+| [Te Quiero Porque Te Quiero \(Fandangos\)](https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Te Quiero Porque Te Quiero \(Fandangos\)](https://open.spotify.com/album/4Hh0e0hN5P3Ch6FOZrHx58) | 3:22 | 2022-10-14 | 2022-11-18 |
 | [Te sigo soñando \(feat\. Luz Casal\) \- En Estudio Uno](https://open.spotify.com/track/3A0nxq1JYftweBELu8rxP0) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Te sigo soñando \(feat\. Luz Casal\) \[En Estudio Uno\]](https://open.spotify.com/album/52nuQBcfmXxwM5LRXNscI9) | 4:16 | 2022-06-09 | 2022-07-29 |
 | [Tierra](https://open.spotify.com/track/6mR0ZA4DxvAHBihaXgI3oD) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Atlántico](https://open.spotify.com/album/0gROV7KbeA7uF7XAgHtDpX) | 3:58 | 2022-06-09 | 2022-11-13 |
 | [Tinta y Tiempo](https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 4:09 | 2022-06-30 | 2022-09-23 |

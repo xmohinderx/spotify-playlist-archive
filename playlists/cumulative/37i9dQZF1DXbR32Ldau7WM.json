@@ -2220,6 +2220,24 @@
     },
     {
       "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5Qkw9pXEw3swmDQRmB1xQg"
       },
@@ -2725,7 +2743,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 236659,
       "name": "PANDORA",
       "url": "https://open.spotify.com/track/0t5oZjUlb7aWEA5Hq0NAHT"
@@ -4031,7 +4049,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 187266,
       "name": "U",
       "url": "https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6"
@@ -5417,6 +5435,24 @@
       "duration_ms": 253866,
       "name": "\u30d0\u30ab\u30b5\u30d0\u30a4\u30d0\u30fc V",
       "url": "https://open.spotify.com/track/4BjsxmjxBTSRb6U35osAKB"
+    },
+    {
+      "album": {
+        "name": "\u30d1\u30e9\u30a4\u30be",
+        "url": "https://open.spotify.com/album/4k4xXaItazEgYLDAA9xxc4"
+      },
+      "artists": [
+        {
+          "name": "PENICILLIN",
+          "url": "https://open.spotify.com/artist/7JMKZglYmjZYT9hi7K6weT"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238633,
+      "name": "\u30d1\u30e9\u30a4\u30be-30th ver.-",
+      "url": "https://open.spotify.com/track/4ES7shczPGyUegYpBOxScV"
     },
     {
       "album": {

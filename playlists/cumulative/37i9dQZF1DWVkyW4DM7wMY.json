@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 179318,
       "name": "Patient",
       "url": "https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih"
@@ -2627,7 +2627,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 184033,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/1UqEp3SM2PBTXlgXqURS2V"
@@ -2787,6 +2787,24 @@
       "duration_ms": 231724,
       "name": "Your Secret",
       "url": "https://open.spotify.com/track/3fdwsco6xvuzUjIMuxxdoY"
+    },
+    {
+      "album": {
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234861,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVkyW4DM7wMY"

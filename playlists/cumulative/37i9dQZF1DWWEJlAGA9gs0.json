@@ -4246,6 +4246,32 @@
     },
     {
       "album": {
+        "name": "Beethoven - Classics for Commuting",
+        "url": "https://open.spotify.com/album/7Fh9ZUG9ysg5kFs0SB2KgL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Terry Davies",
+          "url": "https://open.spotify.com/artist/3NgsK1tWaHynBkdHN4ZBA9"
+        },
+        {
+          "name": "Members Of The London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1rnHt5XG7VPH2jgec03HcE"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302986,
+      "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
+      "url": "https://open.spotify.com/track/08azG1JwwVnkwCMd5focAU"
+    },
+    {
+      "album": {
         "name": "Beethoven - Winter Vibes",
         "url": "https://open.spotify.com/album/6cxeJ3bFGJjKDvzcFaHBk1"
       },
@@ -4265,7 +4291,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 302986,
       "name": "Speaking Unto Nations (Beethoven Symphony no 7 - II )",
       "url": "https://open.spotify.com/track/0PiKaKQ6gtovR4DtVg8aNn"

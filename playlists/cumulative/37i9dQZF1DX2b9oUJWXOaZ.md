@@ -4,7 +4,7 @@
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-55 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
+56 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Rocket to the Moon \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/7z6wKPYntTIAPLNOZRQq3t) | [Cathy Ang](https://open.spotify.com/artist/3qLXQKIfWi7roh2tmVRjzn) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:48 | 2022-05-02 |  |
 | [Sexy Girl \(Feat\. Young Clipp\)](https://open.spotify.com/track/5whA0zAVS9SfmAhjDGvDe1) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [JayR](https://open.spotify.com/album/28lHKDjYQbtfNNUmm4cIua) | 3:53 | 2022-05-02 |  |
 | [She Was Mine \(feat\. Jesse Barrera\)](https://open.spotify.com/track/6NV8bM1StHDcWMoTVWix1J) | [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Red Roses](https://open.spotify.com/album/6ISDySfxUPnC2y5axWCY3u) | 4:08 | 2022-05-02 |  |
-| [Shine On Me](https://open.spotify.com/track/0iaoW62UMzZp6H3sxwfJs2) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Mohd\. Fazil](https://open.spotify.com/artist/29mWTwI1lF55p3pcBBxWVs) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/0ehinjQRe63YhGszSbru6U) | 2:55 | 2022-05-02 |  |
+| [Shine On Me](https://open.spotify.com/track/0iaoW62UMzZp6H3sxwfJs2) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Mohd\. Fazil](https://open.spotify.com/artist/29mWTwI1lF55p3pcBBxWVs) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/0ehinjQRe63YhGszSbru6U) | 2:55 | 2022-05-02 | 2022-11-18 |
+| [Shine On Me](https://open.spotify.com/track/3GJ1OhV8wIunMD9Wjl0FOR) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Mohd\. Fazil](https://open.spotify.com/artist/29mWTwI1lF55p3pcBBxWVs) | [Skater Girl \(Music from the Netflix Film\)](https://open.spotify.com/album/3JOw3bfb877iP3VYjdzKCY) | 2:55 | 2022-05-02 |  |
 | [Shine Your Way](https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [The Croods \(Music from the Motion Picture\)](https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI) | 3:27 | 2022-05-02 |  |
 | [Square Peg](https://open.spotify.com/track/2JzO1Z2HEmKj3qOksjbTUL) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn) | [Yellow Rose \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5rQupxMfZaIIOlQiIqGdoU) | 4:05 | 2022-05-02 |  |
 | [The Power Of Now](https://open.spotify.com/track/4cDZTA6lEVEmtOxaLDUCWy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 3:21 | 2022-05-02 |  |

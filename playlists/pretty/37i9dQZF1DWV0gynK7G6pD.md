@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yo\-Yo Ma, Leonidas Kavakos & Emanuel Ax
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,847 likes - 74 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,858 likes - 74 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 22 | [Concert No\. 4 in A Minor, Op\. 6, HWV 322: IV\. Allegro](https://open.spotify.com/track/2pQt5J8RKf8NqXYEuyR7oV) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Accademia Bizantina](https://open.spotify.com/artist/7vu3z34rL6rJiJVJyi9CfD), [Ottavio Dantone](https://open.spotify.com/artist/5CwK5oXgjqjjcU5JSo8200), [Alessandro Tampieri](https://open.spotify.com/artist/2DJffugObXpUaqIDbOkXM6) | [Handel: Concerti Grossi, Op\. 6](https://open.spotify.com/album/2GqZtUWNn2k6wngqIHHOD3) | 2:52 |
 | 23 | [13 Preludes, Op\. 32: No\. 5 in G Major](https://open.spotify.com/track/7ubsk5pDzq1EWX8oVR3cCh) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [George Xiaoyuan Fu](https://open.spotify.com/artist/6tQissAhe4I0cIuX7bkAqT) | [Mirrors](https://open.spotify.com/album/177hqDSBdWgL4tZrz8ZinI) | 3:15 |
 | 24 | [Da pacem Domine](https://open.spotify.com/track/1IonkDaHCLPkFQynQxbj3P) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Goldmund Quartet](https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t) | [Da pacem domine](https://open.spotify.com/album/11VsW38fltRiR5GUyMVxwM) | 4:31 |
-| 25 | [Recuerdos de la Alhambra](https://open.spotify.com/track/1v3g6XpZuhzfNtoR2DHUtk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Recuerdos de la Alhambra](https://open.spotify.com/album/4TXU1nhEKIMGIwffdla3Pn) | 4:37 |
+| 25 | [Tárrega: Recuerdos de la Alhambra](https://open.spotify.com/track/1v3g6XpZuhzfNtoR2DHUtk) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Recuerdos de la Alhambra](https://open.spotify.com/album/4TXU1nhEKIMGIwffdla3Pn) | 4:37 |
 | 26 | [Violin Sonata No\. 1 in A Minor, Op\. 105: II\. Allegretto](https://open.spotify.com/track/06Eu6jbIneq13MGaooUV3d) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Andrew Wan](https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF), [Charles Richard\-Hamelin](https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5) | [Schumann: The Three Violin Sonatas](https://open.spotify.com/album/7vVdhc0XZlfcEQvll0KkcR) | 4:08 |
 | 27 | [The First Noel](https://open.spotify.com/track/1IfiGB6bV8hLzlDnvn8T0x) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [The First Noel](https://open.spotify.com/album/697UW8Hd3Gkhn8Y3rShFKf) | 2:18 |
 | 28 | [Tut ils fideivels](https://open.spotify.com/track/0YlJWmY7zeDYVCJgxsYwY4) | [Gion Antoni Derungs](https://open.spotify.com/artist/3p0wJclYPL8HSt6HCzvmTJ), [Schweizer Vokalconsort](https://open.spotify.com/artist/7thqTa7a91X21lv90i7GNe), [Marco Amherd](https://open.spotify.com/artist/53SnlsJ3IZhvxmc1kTlf3X) | [Gion Antoni Derungs: Tut Ils Fideivels](https://open.spotify.com/album/4ijNk15bcv5xpeFeThFW0t) | 2:47 |

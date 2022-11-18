@@ -672,6 +672,24 @@
     },
     {
       "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/1FVtCp6xQpGoxrTJcUJ5jz"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193435,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/39rdOcmqMFRCoxaFLSXB00"
+    },
+    {
+      "album": {
         "name": "Eins sein",
         "url": "https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6"
       },
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 166534,
       "name": "Third Wheel",
       "url": "https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn"

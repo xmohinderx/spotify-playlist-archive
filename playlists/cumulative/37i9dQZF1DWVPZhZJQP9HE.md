@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sandy
 
-233 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+235 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 | 2021-12-01 |  |
 | [Adiye Agalvizhiye](https://open.spotify.com/track/0thiJnUuAP9G2TlZL9UTRW) | [S.D.Sadikh Hassan](https://open.spotify.com/artist/5WwXNl9tjuWWjdOtCZiwye), [Yuvan Murugan](https://open.spotify.com/artist/0PY0HrnlOHqWQ7jsMfJexC) | [Adiye Agalvizhiye](https://open.spotify.com/album/2T79AU8FksRMTAM1B7qo32) | 4:53 | 2022-06-16 | 2022-07-01 |
 | [Adiye Kaantha](https://open.spotify.com/track/1fF4euXpLnQDb0cJx04AVC) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Adiye Kaantha](https://open.spotify.com/album/4rQ2NDh6anTQNnaYOM72Mq) | 3:30 | 2022-05-13 | 2022-07-15 |
+| [Adiye Kovakaari](https://open.spotify.com/track/1cd6y5tZxAskdOsLHrLMHw) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Aathis AK](https://open.spotify.com/artist/2m7FpQ4Kznt7cGjd9hIH01) | [Adiye Kovakaari](https://open.spotify.com/album/66hUlCpK7XHg15xiLhF8OI) | 3:15 | 2022-11-17 |  |
 | [Ailasa](https://open.spotify.com/track/3mJ2SqmXIDbn5XECaqN1jj) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 3:03 | 2022-05-06 |  |
 | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/track/6G7k6xe58N8JefYH5ORnj7) | [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/album/2rkjcrUFSFPX4YX2ISUCoz) | 0:59 | 2022-06-30 | 2022-07-15 |
 | [Amour](https://open.spotify.com/track/7kXPJDaooCMfvpkneNGisa) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Amour \- Single](https://open.spotify.com/album/4Bn40LxjQ00XGFhFCJhAmR) | 3:27 | 2022-03-09 | 2022-11-17 |
@@ -111,6 +112,7 @@
 | [Maaratha](https://open.spotify.com/track/4P925v6rzm2z44dvO3PfFA) | [Joseph Selvam Jabin](https://open.spotify.com/artist/6py2Rlpssqme51MNtCe0LY) | [Maaratha](https://open.spotify.com/album/5k9uhn6PZjW02bnYfUZhrb) | 3:47 | 2022-08-23 | 2022-11-17 |
 | [Maaya Arivai \- Remix](https://open.spotify.com/track/1AXcnHTuFnoanimGHrSroC) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01) | [Maaya Arivai \(Remix\)](https://open.spotify.com/album/3R0rrxE7ZltdYSiBhprJv8) | 1:37 | 2022-08-05 |  |
 | [Maayam Seithaai Poovae \- From "Think Indie"](https://open.spotify.com/track/2QLaEmLzz4tfHtdxmMHbqX) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Maayam Seithaai Poovae \(From "Think Indie"\)](https://open.spotify.com/album/6yjQ1vNDcwSsXp1VFKpezr) | 4:04 | 2022-05-05 | 2022-10-11 |
+| [Madhubala \- Tamil](https://open.spotify.com/track/5WNXPdJZ1Pp0rp7T9GJM9g) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Madhubala \(Tamil\)](https://open.spotify.com/album/6TYjxDUedDYXzChCyQVQCd) | 5:11 | 2022-11-17 |  |
 | [Malar](https://open.spotify.com/track/23oT1fb1GhQD0kSeLpVtHv) | [Ashwin Aryan](https://open.spotify.com/artist/7w7JsEht5xieUuMnFgLNZ1) | [Malar](https://open.spotify.com/album/05IECVozPGpijuQFN2a9wI) | 3:35 | 2022-10-14 | 2022-11-15 |
 | [Manadhin Oru Paadhi](https://open.spotify.com/track/6hSH5IxsxMEJXCI7TrBx1g) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Manadhin Oru Paadhi](https://open.spotify.com/album/3UadsOOLsAcCKDMQkUcejb) | 3:08 | 2022-08-11 |  |
 | [Manase](https://open.spotify.com/track/34jtyX2BPoKqQZ4bSAE0bZ) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Manase](https://open.spotify.com/album/4MRB2WTVMGk4aa3yCwzEvZ) | 3:04 | 2022-10-28 |  |

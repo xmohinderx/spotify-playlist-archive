@@ -4,7 +4,7 @@
 
 > We hear you.
 
-513 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+514 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2022-10-14 |  |
 | [ceilings](https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 3:02 | 2022-04-18 | 2022-10-14 |
 | [Chandelier](https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe) | 2:07 | 2021-04-02 | 2022-05-15 |
-| [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 | 2021-04-02 |  |
+| [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 | 2021-04-02 | 2022-11-18 |
 | [City](https://open.spotify.com/track/5TK9UrM3qEiBQ3il3SJNVq) | [DBMK](https://open.spotify.com/artist/6EByikTHjqFtWxos3Iaqik) | [Jump in The Dark](https://open.spotify.com/album/68HQv5uWkIq2NCyBPz5BvR) | 2:46 | 2021-04-02 | 2022-07-29 |
 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 | 2022-05-25 |  |
 | [Coffee](https://open.spotify.com/track/0nEBkkncupxOtcAnPaDbXL) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [Coffee](https://open.spotify.com/album/57tmzyON2vD8yekL5268Ue) | 3:22 | 2021-04-30 | 2022-07-28 |
@@ -369,6 +369,7 @@
 | [Pyjama Pants](https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:58 | 2021-04-02 | 2022-04-21 |
 | [Quarantined from My Love](https://open.spotify.com/track/0jltLZz2X5uuBNY4ujWafX) | [ohsobrkn](https://open.spotify.com/artist/15wE1qOqrPevLWIdBcJCce), [Emily Blair](https://open.spotify.com/artist/5KL9hyiHa9MfHAcNilcxIG) | [Quarantined from My Love](https://open.spotify.com/album/4xMh9HxSM6EDDtR0dCFaIX) | 2:03 | 2021-04-02 | 2022-04-20 |
 | [regrets](https://open.spotify.com/track/0qxcxet7ALr8LEB04dCila) | [TruePilot](https://open.spotify.com/artist/4JpIqUnQzJYoA34LWoj3ll) | [regrets](https://open.spotify.com/album/4i9QRMfbCwO76ed4hm6n63) | 3:36 | 2021-04-02 | 2022-04-03 |
+| [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-11-18 |  |
 | [Revolution](https://open.spotify.com/track/1sxDU5SNvAVTgAGQE5AlEF) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f), [TAESAN](https://open.spotify.com/artist/2Zz9U4J4t6H3G0HdYVX0uY) | [Revolution](https://open.spotify.com/album/6GWLc3CMoq85iAqc4Yurtv) | 2:14 | 2022-03-23 | 2022-04-21 |
 | [Right Before My Eyes \- Unpeeled](https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:40 | 2022-10-14 | 2022-11-09 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2022-11-08 |  |

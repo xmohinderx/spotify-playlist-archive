@@ -1,12 +1,12 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: Big Yasa",
-  "num_followers": 5764,
+  "num_followers": 5766,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMGZjYTZjODgxYmFlZDJjNjQ3YjliOTZmMmU0M2ZjNjY5",
+  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMGExM2VjNjYxMzJhMGUzZDMzOTNjN2RkMzQyMjY4MWZh",
   "tracks": [
     {
       "added_at": "2022-10-21 09:24:29",
@@ -69,26 +69,6 @@
       "url": "https://open.spotify.com/track/10thswSmwybPgn21eIk2Dm"
     },
     {
-      "added_at": "2022-11-10 20:59:00",
-      "album": {
-        "name": "All of That",
-        "url": "https://open.spotify.com/album/7nfbXw2EV9Cm6z4qHTVZSi"
-      },
-      "artists": [
-        {
-          "name": "Alma Ras",
-          "url": "https://open.spotify.com/artist/6Pxg2gGOy1rDZJIeiEmsLp"
-        },
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        }
-      ],
-      "duration_ms": 209674,
-      "name": "All of That",
-      "url": "https://open.spotify.com/track/2LRw8JPGlBgNSpI6EtF27p"
-    },
-    {
       "added_at": "2022-09-09 05:15:59",
       "album": {
         "name": "Ceduction",
@@ -109,36 +89,24 @@
       "url": "https://open.spotify.com/track/1oZYyR3EWPOPTyrZXIQuey"
     },
     {
-      "added_at": "2022-09-29 20:59:00",
-      "album": {
-        "name": "Woo",
-        "url": "https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM"
-      },
-      "artists": [
-        {
-          "name": "Boutross",
-          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
-        }
-      ],
-      "duration_ms": 120805,
-      "name": "Woo",
-      "url": "https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq"
-    },
-    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+        "name": "All of That",
+        "url": "https://open.spotify.com/album/7nfbXw2EV9Cm6z4qHTVZSi"
       },
       "artists": [
         {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+          "name": "Alma Ras",
+          "url": "https://open.spotify.com/artist/6Pxg2gGOy1rDZJIeiEmsLp"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
         }
       ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
+      "duration_ms": 209674,
+      "name": "All of That",
+      "url": "https://open.spotify.com/track/2LRw8JPGlBgNSpI6EtF27p"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -155,6 +123,74 @@
       "duration_ms": 167889,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO"
+    },
+    {
+      "added_at": "2022-06-23 20:59:00",
+      "album": {
+        "name": "Mbona?",
+        "url": "https://open.spotify.com/album/4VCwHlYHoyBL86bpXbORGh"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "duration_ms": 233009,
+      "name": "Mbona?",
+      "url": "https://open.spotify.com/track/5hJ9UhvS0IFU2docn62NAq"
+    },
+    {
+      "added_at": "2022-09-29 20:59:00",
+      "album": {
+        "name": "Woo",
+        "url": "https://open.spotify.com/album/6JKsNhNlPwfClt6j5ueIJM"
+      },
+      "artists": [
+        {
+          "name": "Boutross",
+          "url": "https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y"
+        }
+      ],
+      "duration_ms": 120805,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/2X4y4atdcQXSaWn8aBSJZq"
+    },
+    {
+      "added_at": "2022-07-07 20:59:00",
+      "album": {
+        "name": "CHONJO",
+        "url": "https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C"
+      },
+      "artists": [
+        {
+          "name": "Wangechi",
+          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        }
+      ],
+      "duration_ms": 222761,
+      "name": "Nairobi Pengz",
+      "url": "https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg"
+    },
+    {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
     },
     {
       "added_at": "2022-10-06 20:59:00",
@@ -185,40 +221,28 @@
       "url": "https://open.spotify.com/track/3LCisn5gOFXlwHR6CCJH1h"
     },
     {
-      "added_at": "2022-06-23 20:59:00",
+      "added_at": "2022-11-17 20:59:00",
       "album": {
-        "name": "Mbona?",
-        "url": "https://open.spotify.com/album/4VCwHlYHoyBL86bpXbORGh"
+        "name": "Nothing on me",
+        "url": "https://open.spotify.com/album/3aPYu7iLvBQ8TasHIaBrCs"
       },
       "artists": [
         {
-          "name": "Khaligraph Jones",
-          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
-        }
-      ],
-      "duration_ms": 233009,
-      "name": "Mbona?",
-      "url": "https://open.spotify.com/track/5hJ9UhvS0IFU2docn62NAq"
-    },
-    {
-      "added_at": "2022-07-07 20:59:00",
-      "album": {
-        "name": "CHONJO",
-        "url": "https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C"
-      },
-      "artists": [
-        {
-          "name": "Wangechi",
-          "url": "https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6"
+          "name": "Spree",
+          "url": "https://open.spotify.com/artist/4GIVrLdpTW0R3sOO63XPPP"
         },
         {
-          "name": "Scar Mkadinali",
-          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+          "name": "B3nnar",
+          "url": "https://open.spotify.com/artist/1vcRqGnpFNtvP7P2CEKwJ5"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
         }
       ],
-      "duration_ms": 222761,
-      "name": "Nairobi Pengz",
-      "url": "https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg"
+      "duration_ms": 151968,
+      "name": "Nothing on me",
+      "url": "https://open.spotify.com/track/5rUYXNXWLrHo8qBottDDoY"
     },
     {
       "added_at": "2022-08-04 20:59:00",
@@ -393,6 +417,34 @@
       "url": "https://open.spotify.com/track/2Mtk2PU62wsaU6f9qnEh3p"
     },
     {
+      "added_at": "2021-10-29 09:41:36",
+      "album": {
+        "name": "EXPOSED (Munga`s Revenge)",
+        "url": "https://open.spotify.com/album/7EdsRJcXSbgaulhtzYN14n"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        },
+        {
+          "name": "SirBwoy",
+          "url": "https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC"
+        },
+        {
+          "name": "Sewersydaa",
+          "url": "https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Geri Inengi",
+      "url": "https://open.spotify.com/track/3mMCfqlXkDzH8jE9mjIu7d"
+    },
+    {
       "added_at": "2022-07-14 20:59:00",
       "album": {
         "name": "RUN IT BACK",
@@ -519,34 +571,6 @@
       "duration_ms": 259578,
       "name": "Makin Music",
       "url": "https://open.spotify.com/track/4Z5DU441GzVl5OVxUl8xmU"
-    },
-    {
-      "added_at": "2021-10-29 09:41:36",
-      "album": {
-        "name": "EXPOSED (Munga`s Revenge)",
-        "url": "https://open.spotify.com/album/7EdsRJcXSbgaulhtzYN14n"
-      },
-      "artists": [
-        {
-          "name": "Wakadinali",
-          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
-        },
-        {
-          "name": "SirBwoy",
-          "url": "https://open.spotify.com/artist/2YGz5XZZOcYA9TjDacv2aC"
-        },
-        {
-          "name": "Sewersydaa",
-          "url": "https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm"
-        },
-        {
-          "name": "Scar Mkadinali",
-          "url": "https://open.spotify.com/artist/3RCoJbqdoT2wavPdNCob2T"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Geri Inengi",
-      "url": "https://open.spotify.com/track/3mMCfqlXkDzH8jE9mjIu7d"
     },
     {
       "added_at": "2022-05-05 20:59:00",
@@ -833,46 +857,6 @@
       "url": "https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr"
     },
     {
-      "added_at": "2022-06-30 20:59:00",
-      "album": {
-        "name": "Day In The Life",
-        "url": "https://open.spotify.com/album/5YHWe62ygI6WMaBqGb1rOk"
-      },
-      "artists": [
-        {
-          "name": "JackyBoyD",
-          "url": "https://open.spotify.com/artist/6RqBs6Cc37m6dBDYfUlmoC"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Day In The Life",
-      "url": "https://open.spotify.com/track/4ZO9Y99uojl291TjD2U0eJ"
-    },
-    {
-      "added_at": "2022-10-21 09:24:29",
-      "album": {
-        "name": "Grey Area",
-        "url": "https://open.spotify.com/album/40ypmPHlpIm79GuddqFHHJ"
-      },
-      "artists": [
-        {
-          "name": "Hotbox Music",
-          "url": "https://open.spotify.com/artist/44z1matIs5ROgNVylWtckK"
-        },
-        {
-          "name": "Asum Garvey",
-          "url": "https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7"
-        },
-        {
-          "name": "Trabolee",
-          "url": "https://open.spotify.com/artist/1kNYzaA18sVDtVp96CjXgJ"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Grey Area",
-      "url": "https://open.spotify.com/track/6mtiCdPpaaJxMX3tckWfnS"
-    },
-    {
       "added_at": "2022-06-02 20:59:00",
       "album": {
         "name": "GVNG",
@@ -1013,22 +997,6 @@
       "url": "https://open.spotify.com/track/5ste4YU4bN6h6MMqwZm8tz"
     },
     {
-      "added_at": "2022-06-02 20:59:00",
-      "album": {
-        "name": "Make Amends",
-        "url": "https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER"
-      },
-      "artists": [
-        {
-          "name": "Amaz",
-          "url": "https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr"
-        }
-      ],
-      "duration_ms": 171951,
-      "name": "Make Amends",
-      "url": "https://open.spotify.com/track/5F2xI5nPDnatDJvNtP06NA"
-    },
-    {
       "added_at": "2022-05-19 20:59:00",
       "album": {
         "name": "EXPOSED (Munga`s Revenge)",
@@ -1071,50 +1039,6 @@
       "duration_ms": 210750,
       "name": "WHO?",
       "url": "https://open.spotify.com/track/4qgRm4l0ns4cClQyIsOJ1c"
-    },
-    {
-      "added_at": "2022-06-16 20:59:00",
-      "album": {
-        "name": "no limits",
-        "url": "https://open.spotify.com/album/6noNnHm5ItLugU4JG9DOGL"
-      },
-      "artists": [
-        {
-          "name": "PEPA",
-          "url": "https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh"
-        },
-        {
-          "name": "Boeyylee",
-          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
-        },
-        {
-          "name": "NinjaRacy E.T.",
-          "url": "https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I"
-        }
-      ],
-      "duration_ms": 251120,
-      "name": "no limits",
-      "url": "https://open.spotify.com/track/642GFCw2GgE1Vc9c3RZjEI"
-    },
-    {
-      "added_at": "2022-03-17 20:59:00",
-      "album": {
-        "name": "Mazza",
-        "url": "https://open.spotify.com/album/5xk0cKFFkH0cZtSnufyU6a"
-      },
-      "artists": [
-        {
-          "name": "Big yasa",
-          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
-        },
-        {
-          "name": "Kombat",
-          "url": "https://open.spotify.com/artist/3lWesKnd7TQsvcI6MpHB6o"
-        }
-      ],
-      "duration_ms": 174930,
-      "name": "Mazza",
-      "url": "https://open.spotify.com/track/1kAL4G6ScoiGFB1YWRKtj7"
     },
     {
       "added_at": "2022-04-14 20:59:00",
@@ -1167,6 +1091,90 @@
       "duration_ms": 111542,
       "name": "Pale Westi",
       "url": "https://open.spotify.com/track/21LNoPtgH50h5RARs7SV1s"
+    },
+    {
+      "added_at": "2022-06-02 20:59:00",
+      "album": {
+        "name": "Make Amends",
+        "url": "https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER"
+      },
+      "artists": [
+        {
+          "name": "Amaz",
+          "url": "https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr"
+        }
+      ],
+      "duration_ms": 171951,
+      "name": "Make Amends",
+      "url": "https://open.spotify.com/track/5F2xI5nPDnatDJvNtP06NA"
+    },
+    {
+      "added_at": "2022-03-17 20:59:00",
+      "album": {
+        "name": "Mazza",
+        "url": "https://open.spotify.com/album/5xk0cKFFkH0cZtSnufyU6a"
+      },
+      "artists": [
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        },
+        {
+          "name": "Kombat",
+          "url": "https://open.spotify.com/artist/3lWesKnd7TQsvcI6MpHB6o"
+        }
+      ],
+      "duration_ms": 174930,
+      "name": "Mazza",
+      "url": "https://open.spotify.com/track/1kAL4G6ScoiGFB1YWRKtj7"
+    },
+    {
+      "added_at": "2022-10-21 09:24:29",
+      "album": {
+        "name": "Grey Area",
+        "url": "https://open.spotify.com/album/40ypmPHlpIm79GuddqFHHJ"
+      },
+      "artists": [
+        {
+          "name": "Hotbox Music",
+          "url": "https://open.spotify.com/artist/44z1matIs5ROgNVylWtckK"
+        },
+        {
+          "name": "Asum Garvey",
+          "url": "https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7"
+        },
+        {
+          "name": "Trabolee",
+          "url": "https://open.spotify.com/artist/1kNYzaA18sVDtVp96CjXgJ"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Grey Area",
+      "url": "https://open.spotify.com/track/6mtiCdPpaaJxMX3tckWfnS"
+    },
+    {
+      "added_at": "2022-06-16 20:59:00",
+      "album": {
+        "name": "no limits",
+        "url": "https://open.spotify.com/album/6noNnHm5ItLugU4JG9DOGL"
+      },
+      "artists": [
+        {
+          "name": "PEPA",
+          "url": "https://open.spotify.com/artist/4HqvlMEqy26JdJ99TagjWh"
+        },
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        },
+        {
+          "name": "NinjaRacy E.T.",
+          "url": "https://open.spotify.com/artist/4H0GbCa3OpIs47U1Qio42I"
+        }
+      ],
+      "duration_ms": 251120,
+      "name": "no limits",
+      "url": "https://open.spotify.com/track/642GFCw2GgE1Vc9c3RZjEI"
     }
   ],
   "unique_name": "254 Flow",

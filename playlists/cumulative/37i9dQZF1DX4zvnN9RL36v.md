@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-102 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
+103 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [선을 그어 주던가](https://open.spotify.com/track/3DO8WRX72c1Z5hduVL1Nd5) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [DEAR : X](https://open.spotify.com/album/3Ucc9SxHC26eAcEUkeV7ks) | 2:40 | 2022-03-07 |  |
 | [속마음](https://open.spotify.com/track/21w5C0MykvabNnmjBQmRpw) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/52Z4wLYAfshFsIDD7YUvNN) | 4:41 | 2022-03-07 | 2022-07-29 |
 | [속마음](https://open.spotify.com/track/2B7WPx3oj3XhkSYdt7TCzd) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV) | 4:41 | 2022-06-09 | 2022-08-19 |
+| [순이 Sooni \- I'm your fanatic girl](https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [4X4](https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7) | 4:07 | 2022-08-18 |  |
 | [스토커 Stalker](https://open.spotify.com/track/2xms6U7ngGDBYJ4RnRTPyz) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 4:12 | 2022-03-07 |  |
 | [시소](https://open.spotify.com/track/71AZPBFBiujzaVMzvZUQjL) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 2:59 | 2022-03-07 | 2022-08-19 |
 | [애쓰지 않는 너를 보며 Nothing From You](https://open.spotify.com/track/1Dlo50wK9wLfcHzG6tUNOk) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [스무살의 가을 Autumn](https://open.spotify.com/album/5COe5BZdAtmtdTh9s3jHOI) | 2:57 | 2022-03-07 | 2022-07-29 |
@@ -104,7 +105,7 @@
 | [짝사랑](https://open.spotify.com/track/5f4njgyIwbtswRgyR9dkpz) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Dizzy Blue](https://open.spotify.com/artist/0yaEp8jeamvr1BM1wuQuyt), [Flaboi](https://open.spotify.com/artist/10lBXlAJSTYkswS8X6A9nV) | [Seoul Vibes Pt\. 10](https://open.spotify.com/album/7C8e7Qw70E9UpjjXcYGiMD) | 4:22 | 2022-03-07 | 2022-07-29 |
 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 | 2022-03-07 |  |
 | [짝사랑 Zzack Sarang](https://open.spotify.com/track/7oy7LuhLhI40jdCPLp8Ui8) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/0XW9i8hTybWNZdkbqZTMwF) | 3:14 | 2022-03-07 | 2022-07-29 |
-| [할 말 Something to say](https://open.spotify.com/track/7gdttvt383pkL2so39JgzX) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [쏘쏘 so\-so](https://open.spotify.com/album/4XU6JkCwfKDD12NV74MkKq) | 3:11 | 2022-03-07 |  |
+| [할 말 Something to say](https://open.spotify.com/track/7gdttvt383pkL2so39JgzX) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [쏘쏘 so\-so](https://open.spotify.com/album/4XU6JkCwfKDD12NV74MkKq) | 3:11 | 2022-03-07 | 2022-11-18 |
 | [해가 지기 전에](https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [매드독 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM) | 3:09 | 2022-06-09 |  |
 | [화분](https://open.spotify.com/track/4MCeRSrPZsGalXvCIOHKRG) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/44kpTZZDeFOVqjiRedSNK0) | 4:39 | 2022-03-07 | 2022-07-29 |
 | [화분](https://open.spotify.com/track/5nbqTPcYfcr3NbbNrC3AHb) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:39 | 2022-06-09 | 2022-11-13 |

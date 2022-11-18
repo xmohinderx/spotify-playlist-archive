@@ -1996,6 +1996,24 @@
     },
     {
       "album": {
+        "name": "I Will Worship",
+        "url": "https://open.spotify.com/album/1Yzm9l3a0c46rVo3lRR2r1"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232960,
+      "name": "I Will Worship",
+      "url": "https://open.spotify.com/track/3c9VN31K4tglWcw5p1TMFa"
+    },
+    {
+      "album": {
         "name": "Confessio - Irish American Roots",
         "url": "https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS"
       },

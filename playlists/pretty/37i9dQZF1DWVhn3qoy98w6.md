@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Leftee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,168 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,172 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 3 | [Dame Tiempo](https://open.spotify.com/track/4cQGCLkgXeFv8O5UPjhHSU) | [OLIVO](https://open.spotify.com/artist/5h1IxmAGVLR7unbVEjtXDF) | [Dame Tiempo](https://open.spotify.com/album/4DELAkvM1fKQWoOVK63cbe) | 2:46 |
 | 4 | [Cristal](https://open.spotify.com/track/6l0b47wNDme1Q819NxElVO) | [navxja](https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh), [Niki Lauda](https://open.spotify.com/artist/4kfc1pf5G8ghcBeywO6UI9) | [Un Bloody Mary, por Favor](https://open.spotify.com/album/6U4vaNH4OSBjkNSPVlAXLQ) | 3:32 |
 | 5 | [ave maría](https://open.spotify.com/track/7MxMOA5TYpJsifAeBusyHT) | [BAJOCERO](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [acelera](https://open.spotify.com/album/3FFMVKas91S9VSjiY4BKYz) | 2:39 |
-| 6 | [Ayuso, protégeme](https://open.spotify.com/track/0thLyZKPQTkd2lShbETkqM) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A) | [Ayuso, protégeme](https://open.spotify.com/album/4tcQgrF1UcHmFQgnX97NTP) | 2:33 |
+| 6 | [Ayuso, protégeme](https://open.spotify.com/track/0s8jEkSIVtzwskgpvKyYpU) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A) | [Ayuso, protégeme](https://open.spotify.com/album/4ndOBcymR7L2epIYnMUZqy) | 2:36 |
 | 7 | [El Espacio](https://open.spotify.com/track/0TmZVTEL5GCmRACUxHPtyB) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [El Espacio](https://open.spotify.com/album/7atNYBIUMArdKumGhltA4s) | 3:15 |
 | 8 | [1 Millón](https://open.spotify.com/track/66xk3Nm6PQqquUicihBzzD) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [1 Millón](https://open.spotify.com/album/0zuwpjhzY3Wi8vVlIE0h3g) | 3:19 |
 | 9 | [Granada](https://open.spotify.com/track/2PNFx0BBZpmK1uBm9On8tw) | [Los Marcianos](https://open.spotify.com/artist/22vPwyMSQGGxwRKounapT9), [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [Granada](https://open.spotify.com/album/2ahPIh1leGLmuF1uIU7idK) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [A Vida](https://open.spotify.com/track/2hllQJ8cdgqtFF4HM15ysi) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7), [Grande Amore](https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ) | [A Vida](https://open.spotify.com/album/7jbeOUhCyhmMNsuTjalRAM) | 2:17 |
 | 50 | [creo q la vida es muerte](https://open.spotify.com/track/48fcpciUTB6jkSv750t7Mr) | [Fedra](https://open.spotify.com/artist/6HQEJXnpcTf5tgnqfujaW2) | [creo q la vida es muerte](https://open.spotify.com/album/5oIoXlIQM80TXaFOxyD5Ai) | 2:13 |
 
-Snapshot ID: `MTY2ODU1MzIwMCwwMDAwMDAwMDQ1NzEzZTE4Y2RhNTg0ODFmZTRjMjcxMjY4ZTI5ODAx`
+Snapshot ID: `MTY2ODU1MzIwMCwwMDAwMDAwMDZmNGVkMzU5MzFjNTM2MDRmMjhlZGEwNGU0MjM2M2Zh`

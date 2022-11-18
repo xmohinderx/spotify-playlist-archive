@@ -192,6 +192,28 @@
     },
     {
       "album": {
+        "name": "All We'll Ever Be",
+        "url": "https://open.spotify.com/album/4uF4locIHfXWMzS5moNdjs"
+      },
+      "artists": [
+        {
+          "name": "Ghost Riders",
+          "url": "https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG"
+        },
+        {
+          "name": "Cam Noble",
+          "url": "https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193928,
+      "name": "All We'll Ever Be",
+      "url": "https://open.spotify.com/track/2xbI4Uh1ExxhHJQbklARMs"
+    },
+    {
+      "album": {
         "name": "Along The Way",
         "url": "https://open.spotify.com/album/2AjS8t5O4Q6hQUaAtLmgdt"
       },
@@ -1445,7 +1467,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 178214,
       "name": "Get Even",
       "url": "https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F"
@@ -1593,7 +1615,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 195000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1V580djyyXDniHemhjL906"
@@ -2463,6 +2485,24 @@
       "duration_ms": 240906,
       "name": "Like No Tomorrow",
       "url": "https://open.spotify.com/track/48vb30d7J5EiOkU2Leru8i"
+    },
+    {
+      "album": {
+        "name": "Livin' The Dream",
+        "url": "https://open.spotify.com/album/34W2QQF9MntXEY5VK6HM8r"
+      },
+      "artists": [
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Livin' The Dream",
+      "url": "https://open.spotify.com/track/7wzBIZ2654ZJK8iu6bPolW"
     },
     {
       "album": {
@@ -4194,6 +4234,28 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/4MxEcVj0VyK0BUXls2kTC6"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "FIREROSE",
+          "url": "https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222272,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6i0oiyiSHqWiWTNNsOF8yi"
+    },
+    {
+      "album": {
         "name": "Tokyo",
         "url": "https://open.spotify.com/album/4MqS9aaFo8l3Y9CBLUS7Vb"
       },
@@ -4623,7 +4685,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 166906,
       "name": "Wine Me Up",
       "url": "https://open.spotify.com/track/3ZJbbe2uezoIchAt5UbE52"

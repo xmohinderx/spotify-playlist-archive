@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 98199,
+  "num_followers": 98224,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGViY2RkNWNiNjE4Y2NhYmNlOTQ3YjNjNjk0MmI0ZjU3",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGM0YmNlZWE0MWFkMmY4MTI2ZDAwNzY0YTNhNTE3OTcx",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Me And My Guitar",
-      "url": "https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
@@ -535,6 +519,22 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Me And My Guitar",
+      "url": "https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7"
     },
     {
       "added_at": "2016-03-18 21:56:19",

@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 315659,
+  "num_followers": 315652,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE4NjAwMCwwMDAwMDAwMGE4ZTIyYjhmZjQ5ZWFiMGNiN2I1OTQ5ODZlODI4NzRl",
+  "snapshot_id": "MTY2ODE4NjAwMCwwMDAwMDAwMDJlODUxOTEyODYxZDRjNzZiYTRiNjRkZGM1ZmQyZjNh",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
+        "name": "Show Breaks",
+        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
+      },
+      "artists": [
+        {
+          "name": "AlgoRythmik",
+          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+        }
+      ],
+      "duration_ms": 218796,
+      "name": "Andrew's Break",
+      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
         "name": "Horny",
         "url": "https://open.spotify.com/album/0LW05xK1vo6bD99JLZV52P"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 210708,
       "name": "Horny - Electro Swing Version",
       "url": "https://open.spotify.com/track/5KdJVf0tqurkIDdBEbIJVG"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Show Breaks",
-        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
-      },
-      "artists": [
-        {
-          "name": "AlgoRythmik",
-          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
-        }
-      ],
-      "duration_ms": 218796,
-      "name": "Andrew's Break",
-      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
     },
     {
-      "added_at": "2020-11-20 05:02:00",
-      "album": {
-        "name": "Demon Kitty Rag (Electro Swing Version)",
-        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
-      },
-      "artists": [
-        {
-          "name": "Tori & Dean",
-          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
-        }
-      ],
-      "duration_ms": 215031,
-      "name": "Demon Kitty Rag - Electro Swing Version",
-      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Atlantic Ballroom",
@@ -603,6 +587,22 @@
       "duration_ms": 193639,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/4KMIxYB3OX5GvKGH2XXOiq"
+    },
+    {
+      "added_at": "2020-11-20 05:02:00",
+      "album": {
+        "name": "Demon Kitty Rag (Electro Swing Version)",
+        "url": "https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ"
+      },
+      "artists": [
+        {
+          "name": "Tori & Dean",
+          "url": "https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX"
+        }
+      ],
+      "duration_ms": 215031,
+      "name": "Demon Kitty Rag - Electro Swing Version",
+      "url": "https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
-      },
-      "artists": [
-        {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
-        }
-      ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
-    },
-    {
       "added_at": "2021-01-22 10:35:47",
       "album": {
         "name": "Rose",
@@ -1319,6 +1303,22 @@
       "duration_ms": 213120,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2CYKdqyzyGOK57fU9akmhI"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+      },
+      "artists": [
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1337,26 +1337,6 @@
       "url": "https://open.spotify.com/track/6vQwuQSRhj9ZCQHEb7qet2"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Cinnamon Girl",
-        "url": "https://open.spotify.com/album/3lH4gaKdQ12d4OewBkaVWl"
-      },
-      "artists": [
-        {
-          "name": "[dunkelbunt]",
-          "url": "https://open.spotify.com/artist/16LvTqpD4wlfFb4EBcW0x3"
-        },
-        {
-          "name": "Boban i Marko Marcovic Orkestar",
-          "url": "https://open.spotify.com/artist/2rInuyXccSp12zFAmKZBH1"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG"
-    },
-    {
       "added_at": "2021-04-16 04:01:00",
       "album": {
         "name": "Don't Stop",
@@ -1371,6 +1351,22 @@
       "duration_ms": 182608,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     }
   ],
   "unique_name": "Electro Swing",

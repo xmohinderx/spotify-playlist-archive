@@ -3026,6 +3026,28 @@
     },
     {
       "album": {
+        "name": "Quiero Abrazarte Tanto",
+        "url": "https://open.spotify.com/album/2V4EI6HII2SYldfqTZd4pL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6OYqF9iZag2MJMOg4Kvpui"
+    },
+    {
+      "album": {
         "name": "Silvio",
         "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
       },
@@ -3621,7 +3643,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 202803,
       "name": "Te Quiero Porque Te Quiero (Fandangos)",
       "url": "https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP"

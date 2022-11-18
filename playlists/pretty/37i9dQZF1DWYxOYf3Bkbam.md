@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,818 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,814 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 56 | [Camino a Tres Cruces](https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T) | [La Barra Chamamecera](https://open.spotify.com/artist/1hvnr5FFhhQdJkOsHnj75d) | [Los Enganchados del Chamamé](https://open.spotify.com/album/4WiLEMQHo7KNDKDKbXO2vK) | 2:11 |
 | 57 | [Poncho Soro](https://open.spotify.com/track/0N5vO8qRLqPmbFFMz0fAiO) | [Los Del Mailín](https://open.spotify.com/artist/57npkvLwQmcP4Jh9vEJ86o) | [14 Exitos De Oro](https://open.spotify.com/album/0TnVgnauPO8YZXWGnC3lmr) | 2:17 |
 | 58 | [Estación Solari / La Mal Peinada / El Curuzucuateño \- En Vivo](https://open.spotify.com/track/3Yc00UqGAZi5TipPSqHrxM) | [El Angel De Las 2 Hileras](https://open.spotify.com/artist/7DTPEQlrd18ycCOpiVG3a5) | [Chamamé para las Bailantas \(En Vivo\)](https://open.spotify.com/album/42K8yPrtPSTl0euZc5mSPV) | 7:25 |
-| 59 | [Adiós Ciudad de Mercedes](https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z) | [Los Sena](https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv) | [Reyes de la Alegría](https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ) | 2:10 |
-| 60 | [Lluvia Correntina](https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU) | [Mateo Villalba](https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc) | [Antología](https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM) | 3:19 |
-| 61 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
+| 59 | [Lluvia Correntina](https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU) | [Mateo Villalba](https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc) | [Antología](https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM) | 3:19 |
+| 60 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
+| 61 | [Adiós Ciudad de Mercedes](https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z) | [Los Sena](https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv) | [Reyes de la Alegría](https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ) | 2:10 |
 | 62 | [Allá por Capivará / De Oreja a Oreja / Puerta de los Cerros](https://open.spotify.com/track/0wWeQZqhCbXEIFEji96kic) | [Maxi Bravo Arde Chamame](https://open.spotify.com/artist/5AbgxJSizZTrjThFK9k4yS), [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Allá por Capivará / De Oreja a Oreja / Puerta de los Cerros](https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6) | 5:13 |
 | 63 | [Bien picadito](https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN) | [Los Taitas](https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:48 |
 | 64 | [La Fiesta Del Chamamé](https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [Sobredosis De Chamame](https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH) | 4:56 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
 | 90 | [El Gallo Negro](https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:03 |
 
-Snapshot ID: `MTY2Mzg3NzQxNywwMDAwMDAwMDU3NmU2NDg3MTc0NzUzNzRkMDdlNDU1YmVkMzZmMjY4`
+Snapshot ID: `MTY2Mzg3NzQxNywwMDAwMDAwMDJjOTA4N2YwZjZlMWJhZmM1YzEwODI2OTIyOGQ1NmY0`

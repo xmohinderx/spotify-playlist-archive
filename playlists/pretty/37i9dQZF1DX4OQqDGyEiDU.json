@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 51531,
+  "num_followers": 51569,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODA2NDY5MSwwMDAwMDAwMDhkODkxMmEyYzcyOTBlYjdmM2I4MTIxMThmZDA1OTEy",
+  "snapshot_id": "MTY2ODA2NDY5MSwwMDAwMDAwMGVlOWQxNjg0ZDJlOGIyYTc1MGQ0ZDJjNTM5ZDgyYTM5",
   "tracks": [
     {
       "added_at": "2022-11-08 17:27:16",
@@ -427,22 +427,18 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
-        "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-        "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc"
       },
       "artists": [
         {
-          "name": "Giga",
-          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
-        },
-        {
-          "name": "\u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-          "url": "https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1"
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
         }
       ],
-      "duration_ms": 235096,
-      "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
-      "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
+      "duration_ms": 141882,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs"
     },
     {
       "added_at": "2022-11-08 17:27:16",
@@ -463,18 +459,22 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
-        "name": "OFFICIAL ORANGE",
-        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+        "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
       "artists": [
         {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "\u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+          "url": "https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1"
         }
       ],
-      "duration_ms": 198706,
-      "name": "\u30de\u30c8\u30ea\u30e7\u30b7\u30ab - ORIGINAL",
-      "url": "https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS"
+      "duration_ms": 235096,
+      "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
     },
     {
       "added_at": "2022-11-08 17:27:16",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
+        "name": "OFFICIAL ORANGE",
+        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "\u30de\u30c8\u30ea\u30e7\u30b7\u30ab - ORIGINAL",
+      "url": "https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
         "name": "\u6700\u60aa",
         "url": "https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 197931,
       "name": "\u30d3\u30bf\u30fc\u30c1\u30e7\u30b3\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
-        "name": "QUEEN",
-        "url": "https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "QUEEN",
-      "url": "https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs"
     },
     {
       "added_at": "2022-11-08 17:27:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
-        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
         "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
         "url": "https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD"
       },
@@ -603,6 +587,38 @@
       "duration_ms": 250359,
       "name": "\u30c4\u30ae\u30cf\u30ae\u30b9\u30bf\u30c3\u30ab\u30fc\u30c8",
       "url": "https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
+        "name": "ENVY BABY",
+        "url": "https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 135789,
+      "name": "ENVY BABY",
+      "url": "https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
+        "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+        "url": "https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "\u7802\u306e\u60d1\u661f feat.\u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F"
     },
     {
       "added_at": "2022-11-08 17:27:16",
@@ -635,22 +651,6 @@
       "duration_ms": 294400,
       "name": "\u5c11\u5973\u30ec\u30a4",
       "url": "https://open.spotify.com/track/6bxGVlcX900tLZiZl5mFOR"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
-        "name": "ENVY BABY",
-        "url": "https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 135789,
-      "name": "ENVY BABY",
-      "url": "https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk"
     },
     {
       "added_at": "2022-11-08 17:27:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-08 17:27:16",
       "album": {
-        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
-      },
-      "artists": [
-        {
-          "name": "hachi",
-          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
-    },
-    {
-      "added_at": "2022-11-08 17:27:16",
-      "album": {
         "name": "\u30c7\u30b9\u307a\u30ec\u30fc\u30c8",
         "url": "https://open.spotify.com/album/2wKuX8N0UVlwsBxFVPVIso"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 173333,
       "name": "\u30c7\u30b9\u307a\u30ec\u30fc\u30c8",
       "url": "https://open.spotify.com/track/2HkSkpTUMolgOJldoaWFII"
+    },
+    {
+      "added_at": "2022-11-08 17:27:16",
+      "album": {
+        "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "duration_ms": 205155,
+      "name": "\u30c9\u30fc\u30ca\u30c4\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml"
     },
     {
       "added_at": "2022-11-08 17:27:16",

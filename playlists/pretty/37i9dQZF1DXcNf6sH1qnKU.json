@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 333923,
+  "num_followers": 334111,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMGM4NWEyNTc4MzMyOTk3NWYxNzUzYzA5Y2E0NjVhNDE1",
+  "snapshot_id": "MTY2MDAwNDkyMiwwMDAwMDAwMDQ1M2FiYzU1OWU5ZDQ5ODJhMDM4ZGFkMGI0YjNmZmU1",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "The Waves",
-        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
-      },
-      "artists": [
-        {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Love Fade",
-      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Melody's Echo Chamber",
         "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 226400,
       "name": "Some Time Alone, Alone",
       "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "The Waves",
+        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Love Fade",
+      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -635,18 +635,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Blood (Remastered)",
-        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
       },
       "artists": [
         {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
         }
       ],
-      "duration_ms": 194226,
-      "name": "You And Your Sister - Remastered",
-      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
+      "duration_ms": 401111,
+      "name": "No-One in the World",
+      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -683,18 +683,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
+        "name": "Blood (Remastered)",
+        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
       },
       "artists": [
         {
-          "name": "Locust",
-          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
         }
       ],
-      "duration_ms": 401111,
-      "name": "No-One in the World",
-      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
+      "duration_ms": 194226,
+      "name": "You And Your Sister - Remastered",
+      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
     },
     {
       "added_at": "2021-10-01 10:38:06",

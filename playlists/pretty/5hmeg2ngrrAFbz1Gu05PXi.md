@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code with music curated by the JetBrains team.
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 1,938 likes - 109 songs - 10 hr 6 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 1,946 likes - 109 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 3 | [Reblazhenstva](https://open.spotify.com/track/1qxFzEjIcX3Dxj4jlw7FH9) | [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4), [Max Loderbauer](https://open.spotify.com/artist/66xtPavg2eAxglfIKmPWHP) | [RE: ECM](https://open.spotify.com/album/7dKtn3RL0K3sAXV4CFC4b6) | 7:40 |
 | 4 | [The Sticks](https://open.spotify.com/track/6AuHwmankUT2hQ2kLq4rlp) | [Burnt Friedman](https://open.spotify.com/artist/1Y6bd4Omy7dhr9Bfpc9s3E), [Jaki Liebezeit](https://open.spotify.com/artist/6fquZ594tl1ndTXdKXwvtb) | [Secret Rhythms, Vol\. 2](https://open.spotify.com/album/0Dvya9plI5iVQrN1XYC2ga) | 8:16 |
 | 5 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
-| 6 | [Finally Moving](https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [Taking up Your Precious Time](https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY) | 4:37 |
-| 7 | [Tell Me Something](https://open.spotify.com/track/7beIY3tP8JUpSyvKXhd6CV) | [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Tell Me Something](https://open.spotify.com/album/6KQZBYZzEfhpNyxjFZOHXe) | 3:41 |
+| 6 | [Tell Me Something](https://open.spotify.com/track/7beIY3tP8JUpSyvKXhd6CV) | [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Tell Me Something](https://open.spotify.com/album/6KQZBYZzEfhpNyxjFZOHXe) | 3:41 |
+| 7 | [Finally Moving](https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [Taking up Your Precious Time](https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY) | 4:37 |
 | 8 | [Runaway \(feat\. Roberta Sweed, Norma Jean Bell & Pitch Black City\)](https://open.spotify.com/track/67do51JLVgOHkbuqo0vDGO) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Roberta Sweed](https://open.spotify.com/artist/2tqavMzq5TU1RsZTkJbdqc), [Norma Jean Bell](https://open.spotify.com/artist/3BIfTkA05Y2CZGcmKZhg5v), [Pitch Black City](https://open.spotify.com/artist/6FaX9a4kazNGpb6otDIMLK) | [Black Mahogani](https://open.spotify.com/album/224OuhZ1LThmaYGhD8ikq6) | 11:48 |
 | 9 | [Trance Sexual \- Original Mix](https://open.spotify.com/track/2w9dOw68gd7HyNpBfuuaoY) | [Fantastic Man](https://open.spotify.com/artist/2eiwJhqnolYJf3iUMLFDpy) | [Rhythm Algorithm](https://open.spotify.com/album/5kJnmQKCGLYHnaIimuN2LS) | 6:47 |
 | 10 | [22:41](https://open.spotify.com/track/1wvwpqp33lJ90fMOZ9odG3) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [太鼓](https://open.spotify.com/album/7oBQawcEH4AvrUb1IgSI0p) | 4:37 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 108 | [Waiting For Nick At Rick's Café](https://open.spotify.com/track/0FeB1pJvzh2BNDYco2RF6k) | [Dead Combo](https://open.spotify.com/artist/4DbBi3EWMhdHMnX8WqRIev) | [A Bunch of Meninos](https://open.spotify.com/album/3Ofy4arh10pzsm8oT2uAc0) | 3:29 |
 | 109 | [The Ocean](https://open.spotify.com/track/7dgkpVYzHEnBKnaaMSbE5p) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [The Ocean](https://open.spotify.com/album/5BadXUBRbBS3LL6M76h2GX) | 3:19 |
 
-Snapshot ID: `MTc4LDZmMDJhZmZlODQwZTZmZjJiOTZhMzgwNjgyZDk5NmRlMzYwMmU2YWQ=`
+Snapshot ID: `MTc5LDc5YWVmYTlmZTBlMTFkYmU0ZDk4MGQ5NWFjY2RmNTA1MDEyYTE1Y2U=`

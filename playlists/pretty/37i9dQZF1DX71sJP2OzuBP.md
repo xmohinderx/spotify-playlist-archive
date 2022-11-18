@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,070 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,088 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 22 | [用最好的自己去遇見](https://open.spotify.com/track/5Z2qCoTIUcVIzWUQYYMT5t) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [用最好的自己去遇見](https://open.spotify.com/album/7E88oErEBMHNo7jOuTRv4u) | 3:29 |
 | 23 | [想和你看五月的晚霞](https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [華與浪漫](https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT) | 3:53 |
 | 24 | [定居月球](https://open.spotify.com/track/0FSAC5eYeDgpIn9rPqzmU6) | [申宇琳](https://open.spotify.com/artist/5Po9NiAH22qTtvYiCaYqA0), [張簡君偉](https://open.spotify.com/artist/1DhebhCKHTpQ3Jx65HXsIU) | [定居月球](https://open.spotify.com/album/1kRB0hNSBDYKLNMaPLZWN2) | 3:19 |
-| 25 | [I Heard You](https://open.spotify.com/track/0AZk9y3RghBK7bCbW3jXkY) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [I Heard You](https://open.spotify.com/album/6DahZHcpYZYMghQwRWSiG2) | 4:05 |
+| 25 | [I Heard You](https://open.spotify.com/track/5WqScUHIGmu58YSI4Zw9h9) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [He Says, She Says](https://open.spotify.com/album/4J10tX4X1ygODR1tZraVeS) | 4:05 |
 | 26 | [don't lmk](https://open.spotify.com/track/1ApQEG6RxJq3IHI504AEdd) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [don't lmk](https://open.spotify.com/album/78xiJxWg0YcNHNDqRYEaKD) | 3:23 |
 | 27 | [恋爱动物](https://open.spotify.com/track/7zpjpxAvHGPpxG0c397Fnd) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [恋爱动物](https://open.spotify.com/album/0fMi5PizYxs0zjUClDQMk5) | 3:08 |
 | 28 | [听雨说](https://open.spotify.com/track/16GE6UB5S24IrvqmahU7CA) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [听雨说](https://open.spotify.com/album/2vkr0ahxqn49EdITMEJyAD) | 3:14 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [otherside](https://open.spotify.com/track/0n7aNLcLoQPPBcY9AryzoQ) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [otherside](https://open.spotify.com/album/1KKqUdqRr4bwWaiT6wEKOq) | 2:42 |
 | 110 | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/track/3eab5IX1gKr3UOfk3zV06e) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [破碎的完整 \(《她和她的她》主題曲\)](https://open.spotify.com/album/5Y6JkAQCHC2TYmkzMNzPwi) | 4:06 |
 
-Snapshot ID: `MTY2ODQwMDIyNSwwMDAwMDAwMDI2ZTEwZjlhMWVjODIzMTg5MmJhYWI2YzdkNTFlNTAx`
+Snapshot ID: `MTY2ODQwMDIyNSwwMDAwMDAwMDQ3NDUwOTI3YjgwMjc5MDM2YzRkYTI3MjQ1MTQyY2Zk`

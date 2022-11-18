@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-140 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
+141 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/6rk0W0ToMFunC493qbnQno)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Codependent](https://open.spotify.com/track/1RXysmMeZ1jvYgkpkCyYfi) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Codependent](https://open.spotify.com/album/3NosjY2LAVIVBUEVSDVAG8) | 3:19 | 2021-12-10 |  |
 | [Cold Water Swimming](https://open.spotify.com/track/2ht5pkjS9mcShiPGcOmfM3) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/083ZuJO8xStRW0sXozuPhm) | 4:26 | 2021-12-10 | 2022-07-29 |
 | [Cold Water Swimming](https://open.spotify.com/track/374adq7PAbI94qttz6042w) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Big Town](https://open.spotify.com/album/1wd2T40dHkTMouyq9SddCd) | 4:26 | 2022-10-14 | 2022-11-12 |
-| [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 | 2022-06-10 |  |
+| [Cold Water Swimming](https://open.spotify.com/track/49wSfSRPw3wdtu2Vqus9uU) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/08NjE6ObCCFjSLQIeCx88c) | 4:26 | 2022-10-14 |  |
+| [Cold Water Swimming](https://open.spotify.com/track/5MlWwkMy6lgwB2TB8HqiZY) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Cold Water Swimming](https://open.spotify.com/album/7bEp87pqJ47BMJCfvANfSP) | 4:26 | 2022-06-10 | 2022-11-18 |
 | [Colour TV](https://open.spotify.com/track/317hD6kkvxNc65HSqoXfCk) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T) | [The Hole Around My Head](https://open.spotify.com/album/7pDgsunvwPnJ78x1UCAixY) | 4:15 | 2021-12-10 | 2022-11-09 |
 | [Colour TV](https://open.spotify.com/track/3uVGXeJ3xPTuEnnNeFx2hu) | [Will Varley](https://open.spotify.com/artist/6sKGpXFS8bI6lKbRfhl52T) | [The Hole Around My Head](https://open.spotify.com/album/0K2xOWPzXD7pYOcTrF0JLt) | 4:15 | 2022-10-14 |  |
 | [Control Freak](https://open.spotify.com/track/5V0TpRVcz59uTWCZhObIj0) | [Wil Owen](https://open.spotify.com/artist/10uUkliqnFLVUvdZSROgaP) | [Control Freak](https://open.spotify.com/album/0BO0643aYpi1fi3eRP0wn0) | 3:27 | 2022-04-01 |  |

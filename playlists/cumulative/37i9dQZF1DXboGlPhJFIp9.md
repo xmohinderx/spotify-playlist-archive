@@ -4,7 +4,7 @@
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-103 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
+104 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/3oJlWxouvmQCoHhx3LLhbO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 | 2022-05-13 |  |
 | [Floral Hymn](https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Echo Ark](https://open.spotify.com/album/4PUBYJiKEdJKdMwqHSeilt) | 3:35 | 2022-05-13 |  |
 | [Forward Momentum](https://open.spotify.com/track/1CdiqrBad8rjxuriEcUGU7) | [Sobrante](https://open.spotify.com/artist/6EdMmAogESKj2fFzAGM8yE) | [Friends](https://open.spotify.com/album/7duzFBoBK7inOjkfa74spr) | 2:58 | 2022-05-13 |  |
+| [Fulfillment](https://open.spotify.com/track/6oX1TzgDmZQfQywfNBKx9J) | [Briére](https://open.spotify.com/artist/0yDkxn6hxSnJ9jtlcY8xfq) | [Fulfillment](https://open.spotify.com/album/3X1hYyV8Sv3KpkT8RtLMQU) | 3:04 | 2022-11-18 |  |
 | [Going In Circles](https://open.spotify.com/track/6Fkjd2eFXuHC8tGGn2eLBo) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [Going In Circles](https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z) | 2:29 | 2022-09-09 |  |
 | [Golden Hours](https://open.spotify.com/track/2roySwrcc0FUTKV1JNUwle) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Golden Hours](https://open.spotify.com/album/5BJW6pgJ5dKnPMmvhy622K) | 2:57 | 2022-10-28 |  |
 | [Hazy](https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ) | [Gina Wahler](https://open.spotify.com/artist/2qYWM0svFgRslCfVj36xcC) | [Hazy](https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2) | 3:04 | 2022-05-13 |  |

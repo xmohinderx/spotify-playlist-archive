@@ -1378,6 +1378,32 @@
     },
     {
       "album": {
+        "name": "Barra Brava",
+        "url": "https://open.spotify.com/album/3rp2P3Gt2XXPgtt860lklK"
+      },
+      "artists": [
+        {
+          "name": "Kris Winther",
+          "url": "https://open.spotify.com/artist/2GZeZUYvAiZYRRBRBpOjrG"
+        },
+        {
+          "name": "Dolla$Bae",
+          "url": "https://open.spotify.com/artist/1Ilfo4izUrAl2d7jlj6V8i"
+        },
+        {
+          "name": "DJ Black",
+          "url": "https://open.spotify.com/artist/6fQmO1Ho6EAGZpRBHnyp5m"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Barra Brava",
+      "url": "https://open.spotify.com/track/63W1J9kATzxUMbINhRwn3D"
+    },
+    {
+      "album": {
         "name": "Be Okay",
         "url": "https://open.spotify.com/album/5VXh2yi3JTIRgn1zaeQe19"
       },
@@ -2037,7 +2063,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 213333,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
@@ -8446,6 +8472,24 @@
     },
     {
       "album": {
+        "name": "Jul Igjen",
+        "url": "https://open.spotify.com/album/4z6Hs5VBs7EeZ0xhbuTubA"
+      },
+      "artists": [
+        {
+          "name": "Baddies",
+          "url": "https://open.spotify.com/artist/3xyExNQNROZjTvur6Za2DW"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156699,
+      "name": "Jul Igjen",
+      "url": "https://open.spotify.com/track/79F0DcbZ9C0ODhUk3rKNop"
+    },
+    {
+      "album": {
         "name": "Jul uten pappa",
         "url": "https://open.spotify.com/album/0L1pFoLihsDcjHhnjtH3IT"
       },
@@ -12717,7 +12761,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 242026,
       "name": "Pussy & Millions (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"

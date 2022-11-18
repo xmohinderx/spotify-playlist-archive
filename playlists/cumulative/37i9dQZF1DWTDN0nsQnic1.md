@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-74 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
+75 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/2cOIoz7kl4h0oUp84atVFL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Lost in Paris](https://open.spotify.com/track/6lxcWIvMQK3yezxwFfZcKZ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lost in Paris](https://open.spotify.com/album/3OGqx2jmVKVkKOIOxGjOQC) | 3:14 | 2021-09-08 | 2022-10-13 |
 | [Lovespell](https://open.spotify.com/track/37w7whht8ii8yxGfqkSf1d) | [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [Lovespell](https://open.spotify.com/album/0StAahiWVzY6SqoAKl26CR) | 3:18 | 2021-09-08 |  |
 | [Morning Dew](https://open.spotify.com/track/51AcBAVVnSQ3S4ojp3jzcs) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Morning Dew](https://open.spotify.com/album/65XZ1fxe3AgVnC8WHVcJFW) | 3:57 | 2021-09-08 |  |
-| [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 | 2021-09-08 |  |
+| [Movie](https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 5:57 | 2021-09-08 |  |
+| [Movie](https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 5:57 | 2021-09-08 | 2022-11-18 |
 | [Negai](https://open.spotify.com/track/4G4wIWnQXvJzdBifQwx749) | [Zoology](https://open.spotify.com/artist/3V1zHjaKSXKbaOEGNHjuPO) | [Negai](https://open.spotify.com/album/69QyT4Q2OvYPQG5zZ2Nh8A) | 3:16 | 2021-09-08 |  |
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/5iIZTr2dlpGW0w2K4pwLR2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Boys & Girls Mixtape](https://open.spotify.com/album/09GalPugs4ZBrI0rrLQPf6) | 3:43 | 2021-09-08 |  |
 | [Pasta Shinjuku](https://open.spotify.com/track/3GaJtMgcVrxwoIanmLrYaL) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_2](https://open.spotify.com/album/3SFbd4P6g9jDfDBzNF17zH) | 1:46 | 2021-09-08 |  |

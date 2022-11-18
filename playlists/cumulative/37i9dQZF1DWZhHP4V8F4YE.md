@@ -4,7 +4,7 @@
 
 > Viral hits in Africa
 
-75 songs - 4 hr 14 min - not published yet
+75 songs - 4 hr 15 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-11-01 | 2022-11-16 |
 | [Kuna Kuna](https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Thee Exit Band](https://open.spotify.com/artist/5tCS32hMdQWpx8gJJsR673) | [Kuna Kuna](https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT) | 3:32 | 2022-11-01 |  |
 | [Kwikwi](https://open.spotify.com/track/6RdkggWArMBHrxBmKTvsaj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Kwikwi](https://open.spotify.com/album/4Ylrz9HbGlQnEKHCe511nJ) | 3:11 | 2022-11-01 |  |
-| [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:08 | 2022-11-15 |  |
+| [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:18 | 2022-11-15 |  |
 | [Last Memory](https://open.spotify.com/track/1fvCggAYrW0VtCljtqv4h2) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 2:42 | 2022-11-08 | 2022-11-16 |
 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 | 2022-11-01 |  |
 | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/track/6bNPaXLR7BRZbg28hNgiBi) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Love \(feat\. Adekunle Gold\)](https://open.spotify.com/album/44zzNErcfsYL8RYQaQ8uEw) | 3:08 | 2022-11-01 | 2022-11-16 |

@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/75BVMsLafH4P1ASO6zNJiX"
+      },
+      "artists": [
+        {
+          "name": "Lance Takamiya",
+          "url": "https://open.spotify.com/artist/7FaPxwleV4FLc7PRiyUYmS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155309,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/3Ie4uk9C62GHK3ysmXffS5"
+    },
+    {
+      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/2cIzqQRsQJrIHerW1Dz99a"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 148137,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/1qh4crx5pT2dWNM1fhAyeR"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 138000,
       "name": "Cu\u00e9ntame Tu Vida",
       "url": "https://open.spotify.com/track/2vUJZddP9b4k5XsJIaYm1L"
@@ -721,10 +739,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 152695,
       "name": "East Wind",
       "url": "https://open.spotify.com/track/1GVjLE6wFF2JRb1SIGPcFA"
+    },
+    {
+      "album": {
+        "name": "Two Songs Catalan",
+        "url": "https://open.spotify.com/album/4Xtai1HjDE81I4yVDPvTa8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Llobet Sol\u00e9s",
+          "url": "https://open.spotify.com/artist/0Ag2rHCb9q0jmQ6Jaj1GUT"
+        },
+        {
+          "name": "Klaus J\u00e4ckle",
+          "url": "https://open.spotify.com/artist/6sTIfHzHqWPEkBI7Dna7Uc"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135566,
+      "name": "El Testament D'amelia",
+      "url": "https://open.spotify.com/track/70jgcZJGcxOgSTnlR08T1s"
     },
     {
       "album": {
@@ -797,6 +837,24 @@
       "duration_ms": 119101,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/5lOKbdXWK4QLLsQLX3CPg9"
+    },
+    {
+      "album": {
+        "name": "Etude In D Minor",
+        "url": "https://open.spotify.com/album/36qa9cBmSgujPIuwLYFkep"
+      },
+      "artists": [
+        {
+          "name": "Joseph Sullinger",
+          "url": "https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137951,
+      "name": "Etude In D Minor",
+      "url": "https://open.spotify.com/track/4dW2zO3EDtlRAtNWP9UMsC"
     },
     {
       "album": {
@@ -1369,7 +1427,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 119594,
       "name": "Light of Seven",
       "url": "https://open.spotify.com/track/0RLxH84fjtDbLbflloUiQG"
@@ -2147,6 +2205,24 @@
       "duration_ms": 146550,
       "name": "Siesta In Siena",
       "url": "https://open.spotify.com/track/78rXRY4lBgvKEh7nwDYOrw"
+    },
+    {
+      "album": {
+        "name": "Siljan",
+        "url": "https://open.spotify.com/album/4YFJAfMjn3OaP8uVwcG3M7"
+      },
+      "artists": [
+        {
+          "name": "Astrid Everdahl",
+          "url": "https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118670,
+      "name": "Siljan",
+      "url": "https://open.spotify.com/track/3O4ggwuKhya6gBULrBtoyU"
     },
     {
       "album": {

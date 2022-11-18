@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-216 songs - 20 hr 29 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+217 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [I Am Not Alone \- Radio Version](https://open.spotify.com/track/3RBnnfWA4Q2AqNuwTDdDgz) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [I Am Not Alone \(Radio Version\)](https://open.spotify.com/album/2aCi5rvU3I7XslcZ5YyjjG) | 3:57 | 2022-05-27 |  |
 | [I See You](https://open.spotify.com/track/2SXrg51ciQMurVKgwTpatg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I See You](https://open.spotify.com/album/4ZLqUbhVPHmY5QD1gbYEij) | 3:48 | 2022-02-17 | 2022-09-30 |
 | [I Will Praise \- Live](https://open.spotify.com/track/2sXOJ3WxrGVqEUKJd8PWg2) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Jesus People \(Live\)](https://open.spotify.com/album/10V5LjCgIz8fGay7cUGI8r) | 4:32 | 2022-02-17 | 2022-03-16 |
+| [I Will Worship](https://open.spotify.com/track/3c9VN31K4tglWcw5p1TMFa) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [I Will Worship](https://open.spotify.com/album/1Yzm9l3a0c46rVo3lRR2r1) | 3:52 | 2022-11-17 |  |
 | [Immigrant's Song](https://open.spotify.com/track/3lI4991HkNIdynqUFvxqOx) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Confessio \- Irish American Roots](https://open.spotify.com/album/2WJ82jOdDTCssz6m04yMsS) | 4:08 | 2022-03-11 | 2022-04-05 |
 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 | 2022-04-05 | 2022-04-09 |
 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 | 2022-04-05 |  |

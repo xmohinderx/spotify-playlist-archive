@@ -2,7 +2,7 @@
 
 ### [Alternative 70s](https://open.spotify.com/playlist/37i9dQZF1DXb3ZjVksUlfu)
 
-> The defining alternative hits from a decade that changed music\. Cover: Betty Davis
+> The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
 150 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/3zvAdE4a3Njp8LHOT6ZD6s)
 

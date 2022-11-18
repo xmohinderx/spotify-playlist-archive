@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-139 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+140 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Party](https://open.spotify.com/track/5tOjlYLXI4AE864bDVUSPr) | [Xprso.](https://open.spotify.com/artist/1I03YcaWBX2r9nElPWcoH7), [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ), [MR\. LU\*](https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF) | [Nairobass](https://open.spotify.com/album/5KMoui4VUMYmpAT10xLjWU) | 3:34 | 2021-10-15 |  |
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 |  |
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2021-10-15 | 2022-03-18 |
-| [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-04-01 |  |
+| [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-04-01 | 2022-11-18 |
 | [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 | 2022-07-29 |
 | [Perfection // T r u s t](https://open.spotify.com/track/72d92oIlrhVcRILDWSk20R) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/5Kiuk1QzG3PmhDucI9M3Nw) | 4:00 | 2021-10-15 | 2022-10-14 |
 | [Pleasure Riddim](https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Pleasure Riddim](https://open.spotify.com/album/5RSh4SiFXncnAnheuqLp7i) | 2:10 | 2022-02-04 |  |
@@ -138,7 +138,7 @@
 | [Twisted](https://open.spotify.com/track/7pjYCOtz5ATpc1OQKSWT1H) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Twisted](https://open.spotify.com/album/6bXBekfJuGWf9UFpuS2dXt) | 4:10 | 2022-03-17 |  |
 | [Ulimwengu](https://open.spotify.com/track/64zBPVf9WtiHqdfbDxwB6b) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk), [Eric Wainaina](https://open.spotify.com/artist/5kUd6m1kXPaPjEqqxdNVMz), [Vini Ngugi](https://open.spotify.com/artist/2VzrXzhmSSXZ8c7XFbWhVh) | [Ulimwengu](https://open.spotify.com/album/0pHDjBRfb4L627oXuzgB3e) | 4:06 | 2021-10-29 | 2022-02-25 |
 | [Umenikaa](https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Umenikaa](https://open.spotify.com/album/7v45xHHxfssCfbXswZZp8R) | 3:15 | 2021-10-15 | 2022-06-24 |
-| [Undecided](https://open.spotify.com/track/1UqEp3SM2PBTXlgXqURS2V) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ), [Don Gz](https://open.spotify.com/artist/4g6Xas4wNpTp3cA9Tm4ypK) | [Undecided](https://open.spotify.com/album/2pzZkaAv5t0mBpNv84VWjm) | 3:04 | 2022-11-10 |  |
+| [Undecided](https://open.spotify.com/track/1UqEp3SM2PBTXlgXqURS2V) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ), [Don Gz](https://open.spotify.com/artist/4g6Xas4wNpTp3cA9Tm4ypK) | [Undecided](https://open.spotify.com/album/2pzZkaAv5t0mBpNv84VWjm) | 3:04 | 2022-11-10 | 2022-11-18 |
 | [Utamu](https://open.spotify.com/track/2EjQMKID7FnvokZw4jsrxL) | [Salma Munde](https://open.spotify.com/artist/7lCJm1afLs1UDUnk1GtriQ) | [Utamu](https://open.spotify.com/album/4e4CGnTY9p4BUKUaNMQO3F) | 3:29 | 2021-10-15 | 2022-06-03 |
 | [Walk Away](https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [Next Phase](https://open.spotify.com/album/6MUDZLoEXVwgZbLW30zVsE) | 3:04 | 2021-11-04 | 2022-05-06 |
 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 | 2021-10-15 | 2022-04-28 |
@@ -147,5 +147,6 @@
 | [Yearning \(Holy Waters\)](https://open.spotify.com/track/0pIjPNbkjUrhpJ3VMlSIQE) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [The Waters](https://open.spotify.com/album/6sddINYuCb3Rfm6XH1WIMD) | 3:58 | 2021-10-15 | 2022-05-06 |
 | [Yesu Bambi \- Acoustic](https://open.spotify.com/track/2DfjhHcH0ZPxP2l6WKcSFu) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Yesu Bambi \(Acoustic\)](https://open.spotify.com/album/1rvEvZJWpif6hAjpUHst8n) | 2:43 | 2021-10-29 | 2022-06-03 |
 | [Your Secret](https://open.spotify.com/track/3fdwsco6xvuzUjIMuxxdoY) | [Kingsley Ndegwa](https://open.spotify.com/artist/3tsG1yXbIKihK5LVPIaEz4) | [Your Secret](https://open.spotify.com/album/4iW3k6TT4RfCE6flNgbxPC) | 3:51 | 2021-10-15 | 2022-02-12 |
+| [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2022-11-17 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

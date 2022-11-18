@@ -4,7 +4,7 @@
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: The Watcher.
 
-53 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
+54 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/4bN0zeSuBKVuYpNOMsD9q1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Come, Darkness](https://open.spotify.com/track/5r2JA0GXmQcGAcbmEmvrE2) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Midnight Mass: S1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0U3MqHjDSol66lKrSKcwVK) | 4:14 | 2022-07-15 |  |
 | [Cry Little Sister](https://open.spotify.com/track/3FgmRSXJrHXoECwBgf2qXM) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Nightbooks \(Music from the Netflix Film\)](https://open.spotify.com/album/6VbWfq61YDRAb8w1n1EJp5) | 4:16 | 2021-10-25 |  |
 | [Devil's Book](https://open.spotify.com/track/4pommbixAqdhdME3eEzeTr) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 2:30 | 2021-10-25 |  |
-| [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/track/28qQYsp1hPSe0FkvygCiyt) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/album/1IHrpPROMXGwIryFdC93sN) | 2:49 | 2022-07-15 |  |
+| [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/track/28qQYsp1hPSe0FkvygCiyt) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/album/1IHrpPROMXGwIryFdC93sN) | 2:49 | 2022-07-15 | 2022-11-18 |
 | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/track/31mIUfv7vmIhSoD5krSCUZ) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/album/5KYAFaZYTJygT3fDNswDp3) | 2:49 | 2021-10-25 | 2022-07-29 |
+| [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/track/6mlhUMCssHfg3k7johV45r) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Do As You're Told \(Music from the Netflix Film A Babysitter's Guide to Monster Hunting\)](https://open.spotify.com/album/6SGqaQcJD2HXZcok7bC1Km) | 2:49 | 2022-07-15 |  |
 | [Dragging Her to Hell](https://open.spotify.com/track/5mCfF0BPG9tlOiSwJxOiy2) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7yWKI7rz3Yz7JkyDSz8Woy) | 3:19 | 2022-07-15 |  |
 | [Dragging Her to Hell](https://open.spotify.com/track/7cw2VGEHPhItqrfBRuPFdb) | [Mark Korven](https://open.spotify.com/artist/2sb1FcIeDcKtv7UC03gRr8) | [No One Gets Out Alive \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1FQ0xeAThHmRWGTxzBBgVK) | 3:19 | 2021-10-25 | 2022-11-17 |
 | [Drive Through the Corn Maze](https://open.spotify.com/track/579f5PTnQL6wrIDep9zZB5) | [Zachary Dawes](https://open.spotify.com/artist/1CZejX1UWfKLW0BncrZDc5) | [There's Someone Inside Your House \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5hDQs95Btp56nOGMWV099y) | 0:54 | 2022-07-15 |  |

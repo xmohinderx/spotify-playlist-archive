@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:VERIVERY\(베리베리\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,913 likes - 333 songs - 19 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,933 likes - 333 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [CHASE](https://open.spotify.com/artist/0TkXh99ljRHx80msvYrLyu), [DARM](https://open.spotify.com/artist/0wZluV8sVibEhvFXIlkFtF) | [After LIKE \(Holiday Remix\)](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 |
+| 1 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 |
 | 2 | [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/track/41aK2m09u10TnlKHOyHH1C) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/album/0Bp0eaX0UqiJ1kvMNwJ5NX) | 4:25 |
 | 3 | [Rollercoaster](https://open.spotify.com/track/7uwNVnaOswnVGJ5v8e2bQk) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Pit\-a\-Pat](https://open.spotify.com/album/4ivrWy4dTl3eOAEOfFXnM0) | 3:14 |
 | 4 | [STAR \(feat\. Goopy\)](https://open.spotify.com/track/6b8tXW0y4rpqivYp9iTquR) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX), [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [BIGONEISTHENAME](https://open.spotify.com/album/1siUsKN5o9Xuu5qkTcsW6b) | 2:53 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 9 | [home \(Feat\. Korean\)](https://open.spotify.com/track/0EyGUDmehvBiZ6RQDtn7Ai) | [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y), [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [home](https://open.spotify.com/album/73QaRFhvRzb5s2XyBC5aqO) | 2:39 |
 | 10 | [STEP \(Feat\. Kim Seungmin\)](https://open.spotify.com/track/7JBp689KpbTpQHDU3a48RQ) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [STEP \(Feat\. Kim Seungmin\)](https://open.spotify.com/album/3GbGfwVA5vZMzXPQsgFUER) | 3:06 |
 | 11 | [Perfect Stranger](https://open.spotify.com/track/1skL8GBuJJeOfeEajNa2zM) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Perfect Stranger](https://open.spotify.com/album/2FmTZzxf9mYy8OV1i1gzUy) | 3:34 |
-| 12 | [MAGIC](https://open.spotify.com/track/2IBwamLEmcx3xb5yaGxu35) | [ARTBEAT](https://open.spotify.com/artist/0KaFFV6jV3PbXV4wIcXhwV) | [ARTBEAT 1ST MINI ALBUM : MAGIC](https://open.spotify.com/album/5Vrbj9cIW8ghz0gxue9nV2) | 2:55 |
+| 12 | [MAGIC](https://open.spotify.com/track/2IBwamLEmcx3xb5yaGxu35) | [ARTBEAT](https://open.spotify.com/artist/3gk4e5MsuqJYjKdakIN8Dk) | [ARTBEAT 1ST MINI ALBUM : MAGIC](https://open.spotify.com/album/5Vrbj9cIW8ghz0gxue9nV2) | 2:55 |
 | 13 | [Candle \- EDM Remix](https://open.spotify.com/track/5C0ibZfq100MMMByKLqFFG) | [Xbf](https://open.spotify.com/artist/61qs4x1f4a7FfV3Yqr7LW0), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1), [TPA](https://open.spotify.com/artist/4nWTnnYvLRayR3nwU2xbNx) | [Candle \(EDM Remix\)](https://open.spotify.com/album/3NWR8Ek6E6KkhiQI2K8vva) | 3:08 |
 | 14 | [Wander \(Feat\. PAR, Soon\)](https://open.spotify.com/track/5RVPQTQZmunowjEH1nwGrA) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [PAR](https://open.spotify.com/artist/1CU8XgfpL0uNU3p8FEK7eS), [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Wander](https://open.spotify.com/album/7pKjce8EQrxAXdF4442wOO) | 3:39 |
 | 15 | [HOLD ON](https://open.spotify.com/track/2pqfTqDU05ZtVtxAjV9n4p) | [Conut](https://open.spotify.com/artist/6TkT01hX9OeitLFMVUnS0H) | [Cozic Therapy](https://open.spotify.com/album/5GFZw1AAoyd5FOgY0qmloX) | 3:36 |

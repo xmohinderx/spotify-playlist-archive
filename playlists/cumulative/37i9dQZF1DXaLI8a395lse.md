@@ -2,7 +2,7 @@
 
 ### [Alternative 90s](https://open.spotify.com/playlist/37i9dQZF1DXaLI8a395lse)
 
-> Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: Skin of Skunk Anansie
+> Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: my bloody valentine
 
 241 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/3piEMU8FoPNQ3REnUsiVrc)
 

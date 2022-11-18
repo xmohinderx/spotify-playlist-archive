@@ -1,12 +1,12 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w\"> Johnny Drille </a> ",
-  "num_followers": 68348,
+  "num_followers": 68354,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDg1MDVkNTIyNWI2ZGU2YmE5MzVjOTEwNjg4NjZkMjRh",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMGFhZmE3NjRlNGI4NjRiMDYzM2Y5NDc4NDAzNzcyMjJh",
   "tracks": [
     {
       "added_at": "2020-08-28 11:04:16",
@@ -77,24 +77,20 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
+      "added_at": "2022-11-17 21:59:00",
       "album": {
-        "name": "Silaha",
-        "url": "https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu"
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
       },
       "artists": [
         {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "KASHA",
-          "url": "https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By"
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
         }
       ],
-      "duration_ms": 260668,
-      "name": "Silaha",
-      "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
+      "duration_ms": 234861,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
     },
     {
       "added_at": "2022-05-19 23:00:00",
@@ -197,6 +193,42 @@
       "url": "https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN"
     },
     {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Silaha",
+        "url": "https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "KASHA",
+          "url": "https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Silaha",
+      "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
+    },
+    {
+      "added_at": "2022-03-03 23:00:00",
+      "album": {
+        "name": "Worry <",
+        "url": "https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
+    },
+    {
       "added_at": "2022-05-12 23:00:00",
       "album": {
         "name": "Some Nights I Dream of Doors",
@@ -231,22 +263,6 @@
       "duration_ms": 223260,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7CDgFr0gMqKCIQkWF7LL0s"
-    },
-    {
-      "added_at": "2022-03-03 23:00:00",
-      "album": {
-        "name": "Worry <",
-        "url": "https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Present",
-      "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
     },
     {
       "added_at": "2022-02-11 00:00:00",
@@ -767,22 +783,6 @@
       "duration_ms": 228535,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/472INKIBYOfxaYOagwN1f6"
-    },
-    {
-      "added_at": "2021-09-09 23:00:00",
-      "album": {
-        "name": "Satin Cassette",
-        "url": "https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV"
-      },
-      "artists": [
-        {
-          "name": "Turunesh",
-          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
-        }
-      ],
-      "duration_ms": 265510,
-      "name": "Rum & Butter",
-      "url": "https://open.spotify.com/track/1UVy3p0uQqnWi9kndjhNCC"
     },
     {
       "added_at": "2022-03-31 23:00:00",

@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-152 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
+153 songs - 7 hr 49 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2022-03-04 |  |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0nEcDFFNqdmnbTiGy6RE2Y) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dear Maria, Count Me In](https://open.spotify.com/album/4d9USCbWpkz3AabIzGqRb5) | 3:02 | 2022-08-16 | 2022-11-13 |
 | [December](https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:38 | 2021-12-07 |  |
-| [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 | 2021-11-19 |  |
+| [DIE.](https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [DIE.](https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB) | 2:50 | 2021-11-19 | 2022-11-18 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-11-19 |  |
 | [Dirty Tampon](https://open.spotify.com/track/3QI6lpysfZtQhYHA3uxOqz) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Dirty Tampon](https://open.spotify.com/album/1X5ReXGnhD6dHnWDCEt8Xc) | 3:19 | 2021-11-19 | 2022-07-28 |
 | [Domino](https://open.spotify.com/track/0jj3MYhHUFU4JVe9dPvmwS) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Domino](https://open.spotify.com/album/72EobttZ7IZvNTHWFpklWB) | 3:34 | 2022-03-04 | 2022-07-28 |
@@ -77,6 +77,7 @@
 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 | 2021-11-19 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-11-19 | 2022-11-13 |
 | [Heavy](https://open.spotify.com/track/0vl7pdzy0g0mHpgK9LDbVA) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Heavy](https://open.spotify.com/album/7uXrBLU63hlBn4LS13mMf8) | 3:05 | 2021-11-19 | 2022-07-18 |
+| [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2022-08-16 |  |
 | [Her](https://open.spotify.com/track/7AKWV3l6tVrhLj9nstvdHg) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Her](https://open.spotify.com/album/5M8n87fIB9ystGFr2q1teu) | 2:08 | 2021-11-19 | 2022-07-28 |
 | [hope for the underrated youth](https://open.spotify.com/track/24qhW8fqWyrMHqkBfM2HPk) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 4:00 | 2021-11-19 |  |
 | [i always lose :/](https://open.spotify.com/track/69fra6WaruN2FxUO0RLh6K) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [i always lose :/](https://open.spotify.com/album/57bu09wy7hZC2SVYrbjvmA) | 2:13 | 2022-02-04 | 2022-07-29 |

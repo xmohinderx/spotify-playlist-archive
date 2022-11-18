@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Khan",
+        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177878,
+      "name": "Huyu Hapa",
+      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
+    },
+    {
+      "album": {
         "name": "I Miss You (feat. Zuchu)",
         "url": "https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD"
       },
@@ -411,7 +429,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 275957,
       "name": "Mapenzi",
       "url": "https://open.spotify.com/track/5j3kPTLuJu2xH7tGjrmAYr"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 146024,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 200130,
       "name": "Naoa",
       "url": "https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs"
@@ -867,6 +885,24 @@
       "duration_ms": 181786,
       "name": "Nishazoea",
       "url": "https://open.spotify.com/track/2aZEeQqaEcQzwOXKSrDw7s"
+    },
+    {
+      "album": {
+        "name": "Love Freaks",
+        "url": "https://open.spotify.com/album/1ZSYlH5K7t5wNnM1jq45zT"
+      },
+      "artists": [
+        {
+          "name": "Lafrik",
+          "url": "https://open.spotify.com/artist/5218C7zgbDGmoMXmf852Fr"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245812,
+      "name": "Nitakupenda",
+      "url": "https://open.spotify.com/track/06REPrp2fBDzLX2v7rQW2h"
     },
     {
       "album": {

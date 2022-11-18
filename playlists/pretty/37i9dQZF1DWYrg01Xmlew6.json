@@ -1,39 +1,83 @@
 {
   "description": "Il meglio da Napoli e dalla scena campana. Cover: Geolier, Lazza",
-  "num_followers": 143390,
+  "num_followers": 143418,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTI2MCwwMDAwMDAwMDIwNWExZjBiZGRlY2U4MTA0YzgwMWIyNjBmYmI5ZDYz",
+  "snapshot_id": "MTY2ODcyOTY2MCwwMDAwMDAwMDI5YTI5MTVhMDU1ZTgwYjUwYjc1NDQ0OTY4NWZhYTUy",
   "tracks": [
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
-        "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
-        "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
       },
       "artists": [
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 179863,
-      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
-      "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
+      "duration_ms": 165666,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
+      "album": {
+        "name": "A' vita senz' e te (Me fa paura)",
+        "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 142798,
+      "name": "A' vita senz' e te (Me fa paura)",
+      "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
+    },
+    {
+      "added_at": "2022-11-18 00:01:00",
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "La Notte di San Lorenzo",
+      "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
+    },
+    {
+      "added_at": "2022-11-18 00:01:00",
+      "album": {
+        "name": "SUL IJ E TE",
+        "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
+      },
+      "artists": [
+        {
+          "name": "VTR",
+          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "duration_ms": 136721,
+      "name": "SUL IJ E TE",
+      "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
+    },
+    {
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Blow (feat. Yung Snapp & MV Killa)",
         "url": "https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR"
@@ -57,43 +101,7 @@
       "url": "https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "Dove Volano Le Aquile",
-        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "La Notte di San Lorenzo",
-      "url": "https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "SUL IJ E TE",
-        "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
-      },
-      "artists": [
-        {
-          "name": "VTR",
-          "url": "https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1"
-        },
-        {
-          "name": "O'Tsunami",
-          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
-        }
-      ],
-      "duration_ms": 136721,
-      "name": "SUL IJ E TE",
-      "url": "https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1",
         "url": "https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK"
@@ -121,7 +129,7 @@
       "url": "https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Sul'A Mia (feat. Enzo Dong)",
         "url": "https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn"
@@ -145,7 +153,7 @@
       "url": "https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
@@ -169,7 +177,7 @@
       "url": "https://open.spotify.com/track/0xKBCd6EttVyRv1Sdgo9PX"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "999",
         "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
@@ -185,23 +193,31 @@
       "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
-        "name": "A' vita senz' e te (Me fa paura)",
-        "url": "https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI"
+        "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
+        "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
       },
       "artists": [
         {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 142798,
-      "name": "A' vita senz' e te (Me fa paura)",
-      "url": "https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I"
+      "duration_ms": 179863,
+      "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
+      "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "P Secondigliano (2020 Remaster)",
         "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/1901MP4sFYR617bT4hNcyW"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Freestyle Pack",
         "url": "https://open.spotify.com/album/3TnUcY9yhAJR81udv7RYXS"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/3i6eW7nR7Cw9Hiqc1kz4IH"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "MILLIONAIRE (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/0AFuYaehOV5NKGPvmxc4t2"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/3EWOOws0Ssrzo3vVFKn5M2"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Che Stai Dicenn (feat. Paky)",
         "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/24xrkSLeA7Y6Ypb4ZSXwJ2"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Cuore Rotto",
         "url": "https://open.spotify.com/album/5BXkveR4dh0YJpV75rtPNY"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "AMMOR MIJ",
         "url": "https://open.spotify.com/album/0QZ00E9iR0fIunn67EqPos"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/7I0YF083HMLrLVhEo3zp8B"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "SOMEBODY",
         "url": "https://open.spotify.com/album/08H4mUl6AWTV51W1bRkPmp"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/1z4ijeGJocaJ7Uw0LC8VHw"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
@@ -413,31 +429,7 @@
       "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "Cuore",
-        "url": "https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY"
-      },
-      "artists": [
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 202588,
-      "name": "Cuore",
-      "url": "https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6TfVxDaXGqSapRvP7TQETU"
@@ -453,7 +445,7 @@
       "url": "https://open.spotify.com/track/4b5wNTRKC0DhtvTFjohhBK"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -469,7 +461,7 @@
       "url": "https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Montana",
         "url": "https://open.spotify.com/album/0wfHDwNuPkzAdbcbSK8p8U"
@@ -485,7 +477,7 @@
       "url": "https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "WE THE SQUAD Vol. 1 (SUMMER EDITION)",
         "url": "https://open.spotify.com/album/0Nq6NPJOm3pNG20k5ZY3yk"
@@ -517,7 +509,7 @@
       "url": "https://open.spotify.com/track/0nJNtKjTDOr3uZeRH9ue8W"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "GESCAL",
         "url": "https://open.spotify.com/album/722mXX4yzovAHZo9K6gag9"
@@ -533,7 +525,7 @@
       "url": "https://open.spotify.com/track/3i9FbuHPNwzERPtut6ZdgW"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Popp ice",
         "url": "https://open.spotify.com/album/56vxL1JVFKyqGybNEmQgdV"
@@ -557,7 +549,7 @@
       "url": "https://open.spotify.com/track/2S0vyxbeTnlEvCWRsLVfI2"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -577,7 +569,7 @@
       "url": "https://open.spotify.com/track/6OeLYmeWpUwT4n4s7cX201"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Tredici",
         "url": "https://open.spotify.com/album/2ZxTZlVQ0eZCeZP6BCTD7O"
@@ -597,7 +589,7 @@
       "url": "https://open.spotify.com/track/4TVsoRS3ziac6VczSnN8vD"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
@@ -629,7 +621,7 @@
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "VIENI",
         "url": "https://open.spotify.com/album/0sgWDwkBePNAxRQsYniAiY"
@@ -645,7 +637,7 @@
       "url": "https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Vita Mala",
         "url": "https://open.spotify.com/album/4pNRTiRNThpQ4gGIfOMsQC"
@@ -661,31 +653,7 @@
       "url": "https://open.spotify.com/track/5NxBsDKGOv6ebjuVYoqqkv"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "Baby \u00e8 tutt' normal'",
-        "url": "https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI"
-      },
-      "artists": [
-        {
-          "name": "O'Tsunami",
-          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
-        },
-        {
-          "name": "Nathys",
-          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
-        },
-        {
-          "name": "LOWA",
-          "url": "https://open.spotify.com/artist/50s5PUzlEIuQz606N3hSM1"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Baby \u00e8 tutt' normal'",
-      "url": "https://open.spotify.com/track/4jZ86LWK5gWKmPvFT8vjfF"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -701,7 +669,7 @@
       "url": "https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
@@ -721,7 +689,7 @@
       "url": "https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "TU TE NE VAI",
         "url": "https://open.spotify.com/album/6o0sKqOu3vA5p5wmmMmlYn"
@@ -741,7 +709,7 @@
       "url": "https://open.spotify.com/track/2JMQnaRl0Vr4XFbVYGmKZ5"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "AMBIZIONE",
         "url": "https://open.spotify.com/album/4Z1gtHqJwPjN0htfLDqcuV"
@@ -761,7 +729,7 @@
       "url": "https://open.spotify.com/track/2wqYVzWlHrIkEoI8YgkyOP"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "LIBERATO II",
         "url": "https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ"
@@ -777,7 +745,7 @@
       "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Rivoluzione",
         "url": "https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal"
@@ -793,7 +761,7 @@
       "url": "https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X"
@@ -817,23 +785,7 @@
       "url": "https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
-      "album": {
-        "name": "CHI S MOV",
-        "url": "https://open.spotify.com/album/5bfoRPpcH9ageXHInpChQr"
-      },
-      "artists": [
-        {
-          "name": "Hosawa",
-          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "CHI S MOV",
-      "url": "https://open.spotify.com/track/74NGmB3Wos02vi3JuuH3am"
-    },
-    {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Hablan De Mi (Italian Remix)",
         "url": "https://open.spotify.com/album/0aQXInlM4AiI6fBMUZcaJh"
@@ -853,7 +805,7 @@
       "url": "https://open.spotify.com/track/0UZKdNZkW6s9b2iesaTPYD"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "OMBRELLO",
         "url": "https://open.spotify.com/album/4lsRAH0c7Bi7mFSRReZQMk"
@@ -869,7 +821,7 @@
       "url": "https://open.spotify.com/track/7yxJ1UAV4FrpGsOiQrp1WV"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "MIRANAPOLI !",
         "url": "https://open.spotify.com/album/7Lpk370d7OaHa0L3SluvvS"
@@ -893,7 +845,7 @@
       "url": "https://open.spotify.com/track/0uguXoThv1UhkGHHZAsNcq"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Potere",
         "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
@@ -909,7 +861,23 @@
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
+      "album": {
+        "name": "So' modelle",
+        "url": "https://open.spotify.com/album/2UBHfDmK9TKkdeblSJFhYQ"
+      },
+      "artists": [
+        {
+          "name": "Awhon",
+          "url": "https://open.spotify.com/artist/2dftGrrSw0rHzZOizviG0G"
+        }
+      ],
+      "duration_ms": 134094,
+      "name": "So' modelle",
+      "url": "https://open.spotify.com/track/0LkhmgypJYiRMU6NC3lrAl"
+    },
+    {
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Mi Regalo Mas Bonito (con Peppe Soks & O'Tsunami) [Remix]",
         "url": "https://open.spotify.com/album/2aKR0fJ0eCxMGstVCRnpNh"
@@ -937,7 +905,7 @@
       "url": "https://open.spotify.com/track/1YbkSzTkIpQ743BrmdT1wH"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Ammor Malat",
         "url": "https://open.spotify.com/album/0pLAW1kmhZ5qiaYLy7e7Fe"
@@ -957,7 +925,7 @@
       "url": "https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "LIBERATO",
         "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
@@ -973,7 +941,7 @@
       "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "NO MONEY MORE LOVE",
         "url": "https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l"
@@ -993,7 +961,7 @@
       "url": "https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w"
     },
     {
-      "added_at": "2022-11-10 23:01:00",
+      "added_at": "2022-11-18 00:01:00",
       "album": {
         "name": "Doje Vote",
         "url": "https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW"

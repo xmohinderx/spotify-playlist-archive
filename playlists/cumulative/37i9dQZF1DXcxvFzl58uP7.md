@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-792 songs - 1 day 17 hr 9 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+793 songs - 1 day 17 hr 11 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [As Tears Go By](https://open.spotify.com/track/2wZbRBClr67Qf56MgiwgBe) | [Billy Uomo](https://open.spotify.com/artist/5sy7urwVs9FG9U82yvwmkY) | [As Tears Go By](https://open.spotify.com/album/0Pg1LEI3c2P07h0I5yHAHY) | 3:31 | 2019-07-31 | 2021-05-28 |
 | [Asthma](https://open.spotify.com/track/3Dg3AZOd8xL6hQ3CHRB83h) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Asthma](https://open.spotify.com/album/7hPfdQW6kT0l2prcJsV7c8) | 3:15 | 2022-03-04 | 2022-07-28 |
 | [at least i'm pretty](https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/2OAHHz54HY0g1vLBr23Gmg) | 1:46 | 2021-05-01 | 2022-11-13 |
+| [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 | 2022-09-14 |  |
 | [Attics](https://open.spotify.com/track/05FVRJPZh0SKr2z1eCVmcl) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Attics](https://open.spotify.com/album/3lsaKcnn59z0vG00fFQW97) | 3:34 | 2019-07-30\* | 2019-09-30 |
 | [Avery](https://open.spotify.com/track/3d93pRHHPjkrDE5Jn4G7Yl) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/2sD6iY7aOhjFC2Dxqt4h1Q) | 3:14 | 2021-02-27 | 2022-07-26 |
 | [B Cool \(feat\. Melanie Faye\)](https://open.spotify.com/track/6EErYXgsGBMkwpITHuKuCI) | [Magroove](https://open.spotify.com/artist/2lQGcaLp3ezZpGB8YebPfW), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [B Cool \(feat\. Melanie Faye\)](https://open.spotify.com/album/6fO5h6PVau3fDSC4vD0Gv6) | 3:19 | 2019-07-30\* | 2021-05-22 |
@@ -458,7 +459,7 @@
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-06-14 |  |
 | [Medicine](https://open.spotify.com/track/7lLtAjBc4Fkaw0FkBQWlSX) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:00 | 2021-02-07 | 2022-07-27 |
 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 | 2020-07-23 | 2021-05-28 |
-| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 |  |
+| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 | 2022-11-18 |
 | [Metamodernity](https://open.spotify.com/track/61GiMDN1kUiEQK6zHGMdnx) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/5HkW3pBnVMbKRaWbizrIMN) | 2:42 | 2019-07-31 | 2021-08-28 |
 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 | 2022-02-10 |  |
 | [Michelle](https://open.spotify.com/track/512KrOic5RhnnHYn0F1gBv) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [For We Are Distant](https://open.spotify.com/album/7knkJrs3ILgOPtzSfD68YT) | 3:42 | 2021-02-27 | 2022-07-29 |

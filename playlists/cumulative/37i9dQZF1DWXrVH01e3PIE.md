@@ -4,7 +4,7 @@
 
 > C.R.O & LIT killah en la casa del Trap de Argentino.
 
-162 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+163 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Domi](https://open.spotify.com/track/67kjv99FL46VKDIwWYomJF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Domi](https://open.spotify.com/album/7MBwpKH5vzLKG4LNxm8Vj2) | 2:57 | 2022-01-21 | 2022-11-12 |
 | [Dreamsfreebars](https://open.spotify.com/track/4CdYp2FYwarB2soaxirdBJ) | [Coqeéin Montana](https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Dreamsfreebars](https://open.spotify.com/album/097LCm108BUqKZ2SNbVfwY) | 3:20 | 2022-03-11 | 2022-06-18 |
 | [DUDADE](https://open.spotify.com/track/1mjHyr9e7uP0QisX3y7a6T) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [DUDADE](https://open.spotify.com/album/7FIFYG9XiHhS9b3J3ARn2M) | 2:03 | 2022-01-21 |  |
+| [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-17 |  |
 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 | 2022-01-21 |  |
 | [El Amanecer](https://open.spotify.com/track/48H3BsuIXKMYRTuFtxkRhh) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Antezana 247 \(Deluxe Edition\)](https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH) | 3:17 | 2022-07-07 |  |
 | [EMPEZANDO DESDE CERO](https://open.spotify.com/track/02GvcCUIygtzQHaZRcuPBX) | [Juan Solo](https://open.spotify.com/artist/6HA8sy3Y2plABMUscgbDRC), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [DISTOPÍA](https://open.spotify.com/album/76pGPt58PuyQrugKnLD0eO) | 2:37 | 2022-11-11 |  |

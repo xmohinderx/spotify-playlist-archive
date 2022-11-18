@@ -4,7 +4,7 @@
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: The Golden Spoon \(금수저\)\)
 
-457 songs - 1 day 3 hr 44 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+459 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Long Night](https://open.spotify.com/track/0I8hTfSm5qjhZEoiMCn6PG) | [CANDO](https://open.spotify.com/artist/06KgokwCwsWO8f1h1pzPcV) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.13](https://open.spotify.com/album/3exZxXUMD14KCbb7Pa6XsS) | 3:09 | 2022-06-28 | 2022-10-08 |
 | [A season of us](https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/1bWCEocci2kyEpWLdOjVRW) | 3:54 | 2022-06-13 | 2022-08-19 |
 | [A Sorrowful Memory](https://open.spotify.com/track/1OXu0ppB1dUwwKMF9Un4q9) | [Ha Dong Yeon](https://open.spotify.com/artist/37HjETdZEtntIoddJLvk0C) | [Jinxed at First \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6qfCrcFoQZSuKIoYvS0jn1) | 3:33 | 2022-07-08 | 2022-11-04 |
+| [A Strange Day](https://open.spotify.com/track/1haYZ64GiDq3vU36S4BZEN) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Summer Strike, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5aDe6PUvWurZOsXZLc4ia8) | 3:54 | 2022-11-17 |  |
 | [a timid man](https://open.spotify.com/track/1BGUaTYefC9CrZFY879TKQ) | [울랄라세션](https://open.spotify.com/artist/4r4f4hYXqvB1xGMxm6JcF7) | [현재는 아름다워 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2hHoAvZ5gRhBLHv9A0xFOf) | 3:32 | 2022-05-03 | 2022-06-29 |
 | [A\-HA!](https://open.spotify.com/track/6el4XbyoMmyROFLiuOB374) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [@User not found \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/1giStiJ8OKWYDqMYFxsCLs) | 3:34 | 2022-01-14 | 2022-04-22 |
 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 | 2022-06-18 | 2022-09-06 |
@@ -225,6 +226,7 @@
 | [Let Me Know](https://open.spotify.com/track/3qKPtn84YkRQCndcAvyK59) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Melancholia, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3ty2YK023rkEYBgFsZJQdH) | 2:55 | 2021-12-19 | 2022-03-30 |
 | [LET U GO](https://open.spotify.com/track/7IAVZhz6eNcEiq3lzHyU6V) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [If You Wish Upon Me OST Part.7](https://open.spotify.com/album/7aBIeDEQcUwNHjJJ4YckZa) | 4:17 | 2022-09-19 |  |
 | [Let's Live for Today \(Single from Pachinko: Season 1\) \[Apple TV+ Original Series Soundtrack\]](https://open.spotify.com/track/0c3ANespplAKrkGzNvXjyt) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Let's Live for Today \(Single from Pachinko: Season 1\) \[Apple TV+ Original Series Soundtrack\]](https://open.spotify.com/album/6uo6H9JiX6ZeiHE0aHTdFt) | 1:25 | 2022-05-03 | 2022-07-05 |
+| [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/track/41aK2m09u10TnlKHOyHH1C) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Letter \(Ditto X YOUNHA\)](https://open.spotify.com/album/0Bp0eaX0UqiJ1kvMNwJ5NX) | 4:25 | 2022-11-17 |  |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-05 |  |
 | [Like A Fire](https://open.spotify.com/track/4r5yP2Idjw4nULXbDsXLJs) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Best Mistake 3 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/3NBgBgdwGLCcuLmjSnlXGR) | 3:57 | 2022-02-03 | 2022-04-22 |
 | [Like a Star](https://open.spotify.com/track/4KtYxw90PrXeB6SyrEQJT2) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YUMI's Cells, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3UK9qJdiuyXvhf7nNBWe2o) | 4:00 | 2021-12-19 | 2022-01-04 |

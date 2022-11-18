@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-205 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+206 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Blaze](https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 6:21 | 2020-11-13 |  |
 | [Boardwalk](https://open.spotify.com/track/3J80Xk9JJgygAlTWmaWEQA) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Boardwalk](https://open.spotify.com/album/7mlPg2FJZbUWhn4ghRXaIn) | 4:04 | 2022-03-25 | 2022-07-29 |
 | [Boiling Pot](https://open.spotify.com/track/561DcDl3hPXFdW9bI7mTbn) | [The Winston Brothers](https://open.spotify.com/artist/0zCVxM6Xe6ueD8pzot3nbr) | [Boiling Pot](https://open.spotify.com/album/0hYWNyPQg7ntchVk83CeDF) | 3:11 | 2021-04-23 | 2022-07-29 |
+| [Bounce, Pts\. I + II](https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9) | 5:33 | 2020-11-13 |  |
 | [Bounce: pts I + II](https://open.spotify.com/track/4CewWsIgEbKcSBtrgi0T9o) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/6U0q62N1S9dRXLNDE6PigD) | 5:33 | 2020-11-13 | 2022-07-29 |
 | [Bounce: pts I + II](https://open.spotify.com/track/2Xt6ANxPp2Ds41E3CWYiSV) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [KINFOLK: Postcards from Everywhere](https://open.spotify.com/album/5ZZ16e0qQpQRMWeHc6uAnl) | 5:33 | 2020-11-13 | 2022-11-07 |
 | [Broasted Or Fried](https://open.spotify.com/track/0OdjZKTMbT5MyP1xrwAsHI) | [Funkallisto](https://open.spotify.com/artist/596zIbd1W04tLPLkFT3q41) | [Live A Ponte Sisto](https://open.spotify.com/album/6f3eNyHGDyc94yn5wStBYV) | 5:43 | 2020-11-13 |  |
@@ -205,7 +206,7 @@
 | [Village Life](https://open.spotify.com/track/0QWgR4xiWCzEWE2pXMdXEd) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [2017](https://open.spotify.com/album/69SrXrzMk4yilsHSUp0qqI) | 4:39 | 2020-11-13 | 2022-04-21 |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
 | [War Room](https://open.spotify.com/track/2BiCZnAgLZ70mQvSCDReH3) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [War Room](https://open.spotify.com/album/0ou3fGmWHOUMMomjdGeucP) | 4:31 | 2020-11-13 | 2022-07-25 |
-| [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 | 2022-08-26 |  |
+| [Watchu Want](https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Watchu Want](https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh) | 2:40 | 2022-08-26 | 2022-11-18 |
 | [Way Of The Haggis](https://open.spotify.com/track/2UCnlNredMUv69xZ6kVs1D) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [Keep On Movin'](https://open.spotify.com/album/0YIl9Rl3emtKP2qnjjmM72) | 4:28 | 2020-11-13 | 2022-04-21 |
 | [We Need Love](https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [We Need Love](https://open.spotify.com/album/3XbT6tlyYKnWYbNLAG6kYp) | 3:00 | 2021-06-25 | 2022-05-19 |
 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 | 2020-11-13 |  |

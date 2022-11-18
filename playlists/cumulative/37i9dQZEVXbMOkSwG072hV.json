@@ -764,6 +764,28 @@
     },
     {
       "album": {
+        "name": "AMEIANOITE",
+        "url": "https://open.spotify.com/album/6FFId2lzLb6mUkKaCdQSvB"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165996,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/0K3u2t8YNuJ5NR9lKC1frv"
+    },
+    {
+      "album": {
         "name": "Ameno Amapiano Remix (You Wanna Bamba)",
         "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
       },
@@ -1453,7 +1475,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/2gpQT3UwG8hR3CYEjcnTc4"
@@ -1475,7 +1497,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 187178,
       "name": "Baby - Ao Vivo",
       "url": "https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE"
@@ -1907,7 +1929,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Balmain",
       "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
@@ -3069,8 +3091,8 @@
           "url": "https://open.spotify.com/artist/4OgpoVCB5dqTzLGZ9e5VS4"
         },
         {
-          "name": "Mc Natralhinha",
-          "url": "https://open.spotify.com/artist/5xJ7beydxSU0mxwV9kDhpx"
+          "name": "Natralhinha",
+          "url": "https://open.spotify.com/artist/7y3vKgYCZCwmae66l0bL43"
         },
         {
           "name": "MC PR",
@@ -3081,7 +3103,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174720,
-      "name": "Cara de Tralha (feat. Mc Natralhinha & MC PR)",
+      "name": "Cara de Tralha (feat. Natralhinha & MC PR)",
       "url": "https://open.spotify.com/track/1Koy2dZb7lNApeGdt9Nr0q"
     },
     {
@@ -3487,7 +3509,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 165800,
       "name": "Como 2 E 2 - Ao Vivo",
       "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
@@ -4313,7 +4335,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 260133,
       "name": "Divino Maravilhoso",
       "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
@@ -5381,7 +5403,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "Eu Vou Tacar x Essas Hora da Noite",
       "url": "https://open.spotify.com/track/5vOLqik7QlFD5eq3otyXBm"
@@ -6227,7 +6249,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
@@ -6321,6 +6343,24 @@
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/0e5UZadoZ5me957hKsxRYh"
+    },
+    {
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
     },
     {
       "album": {
@@ -6585,7 +6625,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -8209,6 +8249,36 @@
       "duration_ms": 187009,
       "name": "Magr\u00e3o Avan\u00e7ado Dou pra Ela Balinha (Ui\u00ea)",
       "url": "https://open.spotify.com/track/3zjCy6dvTpiH5QCZoMEhOU"
+    },
+    {
+      "album": {
+        "name": "Magr\u00e3o Speaks To Me",
+        "url": "https://open.spotify.com/album/72ILEn9GW2DJRV84cMFPeJ"
+      },
+      "artists": [
+        {
+          "name": "WAGNERIZ",
+          "url": "https://open.spotify.com/artist/0sDVPVFdqUqqn4VaeEq7lO"
+        },
+        {
+          "name": "DJ Thiago Mendes",
+          "url": "https://open.spotify.com/artist/5C5pMqUon5cF0FQgX12bQr"
+        },
+        {
+          "name": "DJ J\u00falia Zambonin",
+          "url": "https://open.spotify.com/artist/5zeRf6IErwfMVJJF0tsSQ1"
+        },
+        {
+          "name": "Funk 24Por48",
+          "url": "https://open.spotify.com/artist/7aefR8cSVlXf8rUIqMY2mb"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Magr\u00e3o Speaks To Me",
+      "url": "https://open.spotify.com/track/0ZDgFtdCTfhvvu6E5sLofH"
     },
     {
       "album": {
@@ -10023,7 +10093,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 148900,
       "name": "M\u00e9dia Boa - Ao Vivo",
       "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
@@ -10119,7 +10189,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 198173,
       "name": "Nao Identificado",
       "url": "https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi"
@@ -10137,7 +10207,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 379386,
       "name": "Negro Amor (It's All Over Now, Baby Clue)",
       "url": "https://open.spotify.com/track/3QAVjhDbh7Bv6kUbSNXmdy"
@@ -10305,6 +10375,24 @@
       "duration_ms": 183870,
       "name": "No Ouvidinho",
       "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN"
     },
     {
       "album": {
@@ -11001,7 +11089,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 225713,
       "name": "O Que \u00c9 Que H\u00e1 - Faixa B\u00f4nus - Ao Vivo",
       "url": "https://open.spotify.com/track/72hvnSG5YSHC219mCHWhMJ"
@@ -12549,7 +12637,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 267266,
       "name": "Quando Voc\u00ea Olha Pra Ela",
       "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
@@ -14371,7 +14459,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 244000,
       "name": "Sua Estupidez - Ao Vivo",
       "url": "https://open.spotify.com/track/7IxybxcFyIGvMfgXePwT4U"
@@ -15745,7 +15833,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
@@ -15981,7 +16069,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 130254,
       "name": "Ultimamente Speed",
       "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
@@ -16177,7 +16265,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 284160,
       "name": "Vaca Profana",
       "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
@@ -16449,7 +16537,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 411733,
       "name": "Vapor Barato (feat. Zeca Baleiro)",
       "url": "https://open.spotify.com/track/5R2ZDKN9EOQxg2ApKCfTYh"
@@ -16467,7 +16555,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 517480,
       "name": "Vapor Barato - Ao Vivo",
       "url": "https://open.spotify.com/track/7y4t07QOezOkyAyJiCbyMK"
@@ -17177,6 +17265,24 @@
       "duration_ms": 164629,
       "name": "WORTH NOTHING",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
+    },
+    {
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260361,
+      "name": "Would've, Could've, Should've",
+      "url": "https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F"
     },
     {
       "album": {

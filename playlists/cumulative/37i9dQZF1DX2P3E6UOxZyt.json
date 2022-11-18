@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2022 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u9396\u5b9a\u83ef\u8a9e\u6a02\u58c7\u7684\u6700\u5f37\u65b0\u8072\u4ee3\uff01\u5927\u63a8\u6f5b\u529b\u7121\u9650\u7684\u4e9e\u6d32\u8072\u52e2\u529b\uff01Cover: Marz23",
+  "description": "2022 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u9396\u5b9a\u83ef\u8a9e\u6a02\u58c7\u7684\u6700\u5f37\u65b0\u8072\u4ee3\uff01\u5927\u63a8\u6f5b\u529b\u7121\u9650\u7684\u4e9e\u6d32\u8072\u52e2\u529b\uff01Cover: \u674e\u4f73\u6b61 (KarFun)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "published_playlist_ids": [
     "4F7NjOso9HiGHjthWcrZL4"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 152262,
       "name": "Fake - Acoustic Version",
       "url": "https://open.spotify.com/track/0hagkIZQFKujNEPWguCCVq"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 156716,
       "name": "Killin' Me (aNueNue MC\u8272\u5f69\u5409\u4ed6\u5ba3\u50b3\u66f2)",
       "url": "https://open.spotify.com/track/5PpPbVrs8A420BrabyPOGa"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 138461,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4UqLJ5I3ErvzJVFG0JQ66w"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 212181,
       "name": "Maybe Maybe",
       "url": "https://open.spotify.com/track/55e4I1RfHjQT1XAf7glB2J"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 201250,
       "name": "Over the Sea",
       "url": "https://open.spotify.com/track/0yxq8tWNMnEuVLrubXpZuW"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 166008,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2NeOlhNFjlGymQiv7BmXoa"
@@ -1630,6 +1630,28 @@
     },
     {
       "album": {
+        "name": "\u0391\u03c6\u03c1\u03bf\u03b4\u03af\u03c4\u03b7",
+        "url": "https://open.spotify.com/album/3sGumso7JlqiWbKQReAzmW"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        },
+        {
+          "name": "\u6797\u5955\u78a9",
+          "url": "https://open.spotify.com/artist/7xywz1UywWdW98s6N05KE3"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233222,
+      "name": "\u0391\u03c6\u03c1\u03bf\u03b4\u03af\u03c4\u03b7",
+      "url": "https://open.spotify.com/track/58s2FsMYLHbm2gnIqDqsH8"
+    },
+    {
+      "album": {
         "name": "\u8a31\u5149\u6f22",
         "url": "https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp"
       },
@@ -1945,7 +1967,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 253484,
       "name": "\u4f60\u70ba\u4e86\u6211\u6490\u628a\u5098",
       "url": "https://open.spotify.com/track/4EaJwA6CPIV30CX6mpHwbP"
@@ -2141,7 +2163,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 232810,
       "name": "\u518d\u4e00\u6b21 - \u91d1\u915270\u9031\u5e74\u5e74\u5ea6\u6b4c\u66f2",
       "url": "https://open.spotify.com/track/26gJgtHNxELrk6bkW7XZEw"
@@ -2315,7 +2337,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 182857,
       "name": "\u53ea\u8981\u59b3\u559c\u6b61",
       "url": "https://open.spotify.com/track/451RJJ6kEmtr4uM3Ygw0Be"
@@ -2761,6 +2783,36 @@
       "duration_ms": 278696,
       "name": "\u5b78\u4e0d\u6703\u9577\u5927\u7684\u5927\u4eba",
       "url": "https://open.spotify.com/track/1FhtKqGMSPRtIptB6nklqN"
+    },
+    {
+      "album": {
+        "name": "\u5bb6\u5ead\u65b9\u6848",
+        "url": "https://open.spotify.com/album/4vK12YC2VrAdF1nZxo3ohr"
+      },
+      "artists": [
+        {
+          "name": "Jinbo",
+          "url": "https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC"
+        },
+        {
+          "name": "CED",
+          "url": "https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC"
+        },
+        {
+          "name": "DJ SON666",
+          "url": "https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2"
+        },
+        {
+          "name": "\u4eca\u590f\u767c\u5927",
+          "url": "https://open.spotify.com/artist/5EHylzqelrbsAPMOTGf4aL"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "\u5bb6\u5ead\u65b9\u6848",
+      "url": "https://open.spotify.com/track/0ZT5S8Lar8M3lImE0ryeTF"
     },
     {
       "album": {
@@ -3257,7 +3309,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 182745,
       "name": "\u6211\u611b\u4f60",
       "url": "https://open.spotify.com/track/2qa98iyNAiwMHUVJKBdPtI"
@@ -3741,7 +3793,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 140864,
       "name": "\u6f02\u5411\u5317\u65b9",
       "url": "https://open.spotify.com/track/4MG4NuRAiA3mDb29LMEMbH"
@@ -4439,6 +4491,24 @@
       "duration_ms": 265000,
       "name": "\u8d70\u6563",
       "url": "https://open.spotify.com/track/5fpUpJyan6L055gFMRDUjG"
+    },
+    {
+      "album": {
+        "name": "\u8d70\u706b\u5165\u9b54",
+        "url": "https://open.spotify.com/album/3rlAXztfNzVLQCzF4sqQ8F"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "\u8d70\u706b\u5165\u9b54",
+      "url": "https://open.spotify.com/track/2SKm58ftM7thZyASEfQN0G"
     },
     {
       "album": {

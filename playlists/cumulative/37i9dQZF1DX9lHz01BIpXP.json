@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop Cover: <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA\">Jack Parow</a>\n",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ-u8gnmqQaUJ8A\">Loufi</a>\n",
   "name": "Afrikaanse Hip Hop",
   "published_playlist_ids": [
     "2L0hHi2CI7ZbUGqYTWQUQ1"
@@ -610,7 +610,7 @@
       "artists": [
         {
           "name": "John James",
-          "url": "https://open.spotify.com/artist/5fN5sHxJksgQWx8eR3Bglv"
+          "url": "https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n"
         },
         {
           "name": "Loufi",
@@ -710,6 +710,28 @@
     },
     {
       "album": {
+        "name": "Moola",
+        "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184407,
+      "name": "Moola",
+      "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
+    },
+    {
+      "album": {
         "name": "Ek Belowe, Demos (pt. 1)",
         "url": "https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj"
       },
@@ -739,7 +761,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 212727,
       "name": "Ongerep",
       "url": "https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy"

@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-63 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/450gAMxXNrHrJlyvpSxLfT)
+64 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/450gAMxXNrHrJlyvpSxLfT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Idi Ebube \- Afro Vocal Mix](https://open.spotify.com/track/0XdZvB7vHZu2XTNtwCEXwJ) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo), [Morris Revy](https://open.spotify.com/artist/0rUXMRIDIpyGKuIgHVNmIv) | [Idi Ebube](https://open.spotify.com/album/0u1qFOYm1O7JSk589nl8om) | 7:31 | 2022-08-01 |  |
 | [Izitha \- Atmospheric Mix](https://open.spotify.com/track/5U2veelF6LA2qDIJSoCEyG) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Izitha \(Atmospheric Mix\)](https://open.spotify.com/album/4znAMAvgZt1F1tKNUloEMX) | 8:34 | 2022-08-01 |  |
 | [Jaber \- Ed\-Ward Remix](https://open.spotify.com/track/1NkrKRit8SntjduFYM3Xgp) | [Dylan\-S](https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O), [Vivian Olang](https://open.spotify.com/artist/6tijV8KQtaL3zuvmapVtJe), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Jaber](https://open.spotify.com/album/5PLzdlkgI3Ie4aFEvoNJQP) | 6:38 | 2022-08-01 |  |
-| [Jama](https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym) | [David Hopperman](https://open.spotify.com/artist/0VAX7m33WhAKE1Q5b8Mq7q), [Savage Roses](https://open.spotify.com/artist/0K7YbgQP1R1qPt3ZMXxzcl), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Jama](https://open.spotify.com/album/4sAc7tRe15p3J3VV4Uu77A) | 5:30 | 2022-11-11 |  |
+| [Jama](https://open.spotify.com/track/4p1ypYoh4DugiJjBBJhnym) | [David Hopperman](https://open.spotify.com/artist/0VAX7m33WhAKE1Q5b8Mq7q), [Savage Roses](https://open.spotify.com/artist/0K7YbgQP1R1qPt3ZMXxzcl), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Jama](https://open.spotify.com/album/4sAc7tRe15p3J3VV4Uu77A) | 5:30 | 2022-11-11 | 2022-11-18 |
 | [Kamweretho](https://open.spotify.com/track/6NozWuL6Hclo1rPq66Ndbt) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [Kamweretho](https://open.spotify.com/album/1yV5WlSsJQGBnFynhpNG4i) | 6:22 | 2022-08-01 |  |
 | [Kiti \- Original Mix](https://open.spotify.com/track/3tXI0KZSLrAGhhU9CUftTZ) | [Nawfel](https://open.spotify.com/artist/6GOC5kFP9ItbuvthbJIZH5), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kiti](https://open.spotify.com/album/0hAFNjxCsakZQUbT4oCMn6) | 6:26 | 2022-08-11 |  |
 | [Kivuna](https://open.spotify.com/track/3XpQVMKhYmwWjoGt2FnpLs) | [BlvckMoon](https://open.spotify.com/artist/4J4eD0siKaZRlyIRZ48Den), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Kivuna](https://open.spotify.com/album/7u1wlB6W9kjTdb64OsQAzI) | 7:43 | 2022-08-19 |  |
@@ -31,6 +31,7 @@
 | [Let You Go](https://open.spotify.com/track/40Gm65yAOslqngyo6D5zx2) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Let You Go](https://open.spotify.com/album/0T994555ifp7stu6IRkqlW) | 3:09 | 2022-08-01 |  |
 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/7uV160vuTXhZ1PZr2Oa95l) | 8:12 | 2022-08-01 |  |
 | [Let's Pretend \- Tube & Berger Remix](https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Let's Pretend \(Remixes\)](https://open.spotify.com/album/1amhFmHKiaNXQZ3AtW9AcJ) | 8:12 | 2022-08-01 | 2022-10-16 |
+| [Lwandle](https://open.spotify.com/track/28Wq5lknJHU4p4vlKOyXKX) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Pixie L](https://open.spotify.com/artist/38qnDEjuo43UZMmxZRcK6G) | [Pyramids](https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb) | 4:32 | 2022-11-17 |  |
 | [Mahaba](https://open.spotify.com/track/5Nk6J6i8aA7kno0hhtCMCB) | [ODASOUL](https://open.spotify.com/artist/2ow3ArrKeVgP3MhDtWOnjo) | [Mahaba](https://open.spotify.com/album/2Ok1ptSfkGhzmIavtvY4p4) | 6:47 | 2022-08-01 |  |
 | [MaMirenza](https://open.spotify.com/track/7j2hOS24pyOMXdeOEX26TA) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [MaMirenza](https://open.spotify.com/album/6EhldcthsK2HUqwSZMGm97) | 3:34 | 2022-08-01 |  |
 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 | 2022-08-01 |  |

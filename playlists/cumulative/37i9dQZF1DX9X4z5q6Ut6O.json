@@ -1320,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Antolog\u00eda Musical",
+        "url": "https://open.spotify.com/album/176ksjtFEAIhMgTYpQDjGG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250226,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/4eNLuoafPyzrELjWc9T3VE"
+    },
+    {
+      "album": {
         "name": "Y Que Quede Claro",
         "url": "https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU"
       },
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 250240,
       "name": "Sobre Mis Pies",
       "url": "https://open.spotify.com/track/1Hwa4ULKX8lrKMgFpgS5Ph"

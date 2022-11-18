@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,036 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,035 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 45 | [You Do You](https://open.spotify.com/track/0Nek8bANm0dzO0vI9mmnJG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [You Do You](https://open.spotify.com/album/6Tk1TJLX2NJUJ03cjxTykN) | 2:34 |
 | 46 | [Chaud](https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Maison](https://open.spotify.com/album/6a0kpW3K2zVsjnusyitG8Z) | 3:06 |
 | 47 | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Lay Your Head On Me \(feat\. Marcus Mumford\)](https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V) | 3:19 |
-| 48 | [Bénis](https://open.spotify.com/track/1Zx3yz24uK4mbutGuRykbG) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Génies en herbe](https://open.spotify.com/album/5CEsGFsDODbl9XIaiW03lD) | 3:40 |
-| 49 | [Walk On Water](https://open.spotify.com/track/1gb1bIRb1iNuJRnZB2XxS5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Kat Nestel](https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E) | [Walk On Water](https://open.spotify.com/album/5KeZpqMjrFxCoba637xQEh) | 3:32 |
+| 48 | [Walk On Water](https://open.spotify.com/track/1gb1bIRb1iNuJRnZB2XxS5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Kat Nestel](https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E) | [Walk On Water](https://open.spotify.com/album/5KeZpqMjrFxCoba637xQEh) | 3:32 |
+| 49 | [Bénis](https://open.spotify.com/track/1Zx3yz24uK4mbutGuRykbG) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Génies en herbe](https://open.spotify.com/album/5CEsGFsDODbl9XIaiW03lD) | 3:40 |
 | 50 | [Dancing In The Dark](https://open.spotify.com/track/1y9zOwyUjX3koxCsJ50VhA) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Dancing In The Dark](https://open.spotify.com/album/4D7F5kCUk9ME8Ip7mCcFb9) | 3:04 |
 | 51 | [Woosh](https://open.spotify.com/track/1yjxDosub6RIHotGYZBWuR) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [ZayZay](https://open.spotify.com/album/7x3LCLU2w00wLSHOUbTcRB) | 2:57 |
 | 52 | [High On You](https://open.spotify.com/track/6aTW3yrl33mThi0v6Z88Oq) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [High On You](https://open.spotify.com/album/40UNLOijHxkFEHVuCxqkiC) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 74 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 | 75 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDcxOWYwMmRlMDcxZTk3NzUyMWY1MjZmYzM1MzU2ZjNj`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDBjN2Y4YTNmZTZmZmE3NmMyMjE2MjM3MGE4M2U1YTdi`

@@ -4,14 +4,16 @@
 
 > Groove to your family's favorite tracks from Netflix Jr\. Jams.
 
-35 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/1gC7jsmddkF2yDrgierimn)
+40 songs - 1 hr 47 min - [published](https://open.spotify.com/playlist/1gC7jsmddkF2yDrgierimn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Action!](https://open.spotify.com/track/4VSdkLjHs7arQUoCyxTQ2h) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/2I5iRdflbKjzrBadnhUUKX) | 2:36 | 2022-08-19 |  |
 | [Action!](https://open.spotify.com/track/4cIatWQ19eqVidOQq8HqON) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 2:36 | 2022-08-19 | 2022-11-17 |
-| [Bedtime Stories](https://open.spotify.com/track/5xgBtctAMKBLzbFn6UPyr2) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:20 | 2022-03-03 |  |
-| [Brush Your Teeth](https://open.spotify.com/track/015QIu0XQyo6M0rHUXPLmN) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 1:29 | 2022-03-03 |  |
+| [Bedtime Stories](https://open.spotify.com/track/2x6UI2qPGH8UJ1Dd6hMR6l) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:20 | 2022-08-19 |  |
+| [Bedtime Stories](https://open.spotify.com/track/5xgBtctAMKBLzbFn6UPyr2) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:20 | 2022-03-03 | 2022-11-18 |
+| [Brush Your Teeth](https://open.spotify.com/track/015QIu0XQyo6M0rHUXPLmN) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 1:29 | 2022-03-03 | 2022-11-18 |
+| [Brush Your Teeth](https://open.spotify.com/track/3neIWarw2da7neX8fDMWsi) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 1:29 | 2022-08-19 |  |
 | [Calm Body, Calm Mind](https://open.spotify.com/track/1ZJXE9HVLtVpcAIVGN0ouz) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 3:17 | 2022-03-03 | 2022-11-17 |
 | [Calm Body, Calm Mind](https://open.spotify.com/track/7BuMcS6Ym4VQsGzMpJ0lIK) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 3:17 | 2022-08-19 |  |
 | [Clean Up](https://open.spotify.com/track/12kYxC3LBisWWjlkIBRNJI) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 5](https://open.spotify.com/album/0YXxCsNjl2rb2pirWoy6v0) | 3:15 | 2022-08-19 | 2022-11-17 |
@@ -40,8 +42,11 @@
 | [Trying New Foods](https://open.spotify.com/track/7KlXmSL2CAk3qGBxUjqOyc) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:20 | 2022-03-03 | 2022-11-17 |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/3txvpQLGkFNvQv3TRFZt5G) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:10 | 2022-08-19 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/4EQJGKRbbiFXmbqqO4uLB3) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:10 | 2022-03-03 | 2022-11-17 |
-| [Wash Your Hands Band](https://open.spotify.com/track/2HtTrP47xipDabsg44Ttas) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:38 | 2022-03-03 |  |
-| [You're A Star](https://open.spotify.com/track/5XKxjgX5qFGH8fzWe2rWfW) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:46 | 2022-03-03 |  |
-| [Zoom! Beep! \(Vehicles Song\)](https://open.spotify.com/track/7EBLHzvpsEqKvY4IJApvzP) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 2:11 | 2022-03-03 |  |
+| [Wash Your Hands Band](https://open.spotify.com/track/2HtTrP47xipDabsg44Ttas) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:38 | 2022-03-03 | 2022-11-18 |
+| [Wash Your Hands Band](https://open.spotify.com/track/4m92BYji23YHvv00N5XAXL) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:38 | 2022-08-19 |  |
+| [You're A Star](https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:46 | 2022-08-19 |  |
+| [You're A Star](https://open.spotify.com/track/5XKxjgX5qFGH8fzWe2rWfW) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/1PzABZqe93ZpL887oyqYiK) | 2:46 | 2022-03-03 | 2022-11-18 |
+| [Zoom! Beep! \(Vehicles Song\)](https://open.spotify.com/track/5Z2oDrMUuTKQmygwDPPHI8) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9) | 2:11 | 2022-08-19 |  |
+| [Zoom! Beep! \(Vehicles Song\)](https://open.spotify.com/track/7EBLHzvpsEqKvY4IJApvzP) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 2](https://open.spotify.com/album/3fxFtmskqAyKJbjvhcq1CT) | 2:11 | 2022-03-03 | 2022-11-18 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

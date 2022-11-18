@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 1680,
+  "num_followers": 1694,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDZhMjMwYWU4ODYxYmMyYzg2OTg4OWM4NWEzZTk0ZTJi",
+  "snapshot_id": "MTY2NDY0MTAzNywwMDAwMDAwMDYwZjYxNDU4NjVjNjAxMTQ4MTk1MmZkMmYxYzU2N2Jm",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 156662,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Trip At Knight (Complete Edition)",
         "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 188025,
       "name": "Matt Hardy 999 (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1HsOTiVqdN7PB1zOS2bcsO"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 156662,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0"
     },
     {
       "added_at": "2022-10-01 16:17:17",

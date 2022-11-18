@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,366 songs - 3 day 22 hr 39 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,367 songs - 3 day 22 hr 44 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,7 +696,7 @@
 | [Lighthouse](https://open.spotify.com/track/53PwI2yj0cxMFEUHLhAAqn) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [RBBTS](https://open.spotify.com/artist/3dA4z26BqCdMWynoHMK5l8) | [Lighthouse](https://open.spotify.com/album/69NKk42DoIVb4S7kjQ83BL) | 4:00 | 2022-03-11 | 2022-05-07 |
 | [Lightning](https://open.spotify.com/track/4e0sZbqXMRlG34LTJ28V8t) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Lightning](https://open.spotify.com/album/64GKBx96A8r4lemjXrnR2o) | 2:51 | 2020-07-03 | 2020-10-09 |
 | [Lights](https://open.spotify.com/track/4OOKWdVW2Cdivlu6aWPrOE) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Lights](https://open.spotify.com/album/3pSvYQF8Vr93F200rXHdiZ) | 3:21 | 2020-08-06 | 2021-08-28 |
-| [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-06-10 |  |
+| [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-06-10 | 2022-11-18 |
 | [Like an Animal](https://open.spotify.com/track/1W1Ac2SNPI2PTDW6b11KKC) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:01 | 2020-05-18 | 2020-07-03 |
 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/5ohHvvkCpt7XhuulfRajXm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Kindred Spirits](https://open.spotify.com/album/4sv5wZjZMPWQ9KvZ6PQZzQ) | 5:18 | 2020-05-18 | 2020-07-03 |
 | [Like Water \(feat\. Mohna\)](https://open.spotify.com/track/4sXYqjoe1AZM6tpQKMuLFR) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mohna](https://open.spotify.com/artist/3azqDB8c8zEOTBscxif1gU) | [Like Water \(feat\. Mohna\)](https://open.spotify.com/album/7mflwNRugPkBldVVtGGIga) | 3:35 | 2020-03-16 | 2020-10-09 |
@@ -1180,6 +1180,7 @@
 | [Temporary Love](https://open.spotify.com/track/2ArO7GJPukDnhRvRfhB58n) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Temporary Love](https://open.spotify.com/album/4rR6MzkvCQw8P72RKJu7en) | 4:04 | 2022-07-01 |  |
 | [Temporary Love \- il:lo Remix](https://open.spotify.com/track/0kSMKULRPj7nQwAr0MNcfJ) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Temporary Love \(il:lo Remix\)](https://open.spotify.com/album/6GFBT61WCtKTmM5qbkEK3z) | 5:17 | 2022-07-01 |  |
 | [Temporary Love \- il:lo Remix](https://open.spotify.com/track/4gSIbyOjmtFOYgJYax0xpy) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Temporary Love \(il:lo Remix\)](https://open.spotify.com/album/7kl5K9V6DTpbD00kXn6t9K) | 5:17 | 2021-07-09 | 2022-07-29 |
+| [Temptation](https://open.spotify.com/track/1qRSmPYphBuAZR7RjbfaCa) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Temptation](https://open.spotify.com/album/5dG49c8MhEyWmZ7ukcrQmu) | 4:53 | 2022-11-11 |  |
 | [The Act of Hesitation](https://open.spotify.com/track/787zdEiofzLaXxMX0HXVPI) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Krrum](https://open.spotify.com/artist/1qxSVLNqRcdhXPkE6suUlN) | [The Act of Hesitation](https://open.spotify.com/album/7taf75ZPSE9Aai4yN7xeSI) | 3:31 | 2020-05-18 | 2020-10-09 |
 | [The Best Part](https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [The Best Part](https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU) | 4:10 | 2021-07-16 |  |
 | [The Blues](https://open.spotify.com/track/0v1XJjO4PXdfNMGqjKewsf) | [Niklas Ibach](https://open.spotify.com/artist/2LyxhWXFqUt5Zbe0KSW38j), [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD) | [The Blues](https://open.spotify.com/album/6lyKa86myArsLsix1mxe26) | 3:43 | 2020-05-22 | 2020-07-03 |

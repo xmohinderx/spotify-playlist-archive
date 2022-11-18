@@ -56,6 +56,24 @@
     },
     {
       "album": {
+        "name": "27 / Hologram",
+        "url": "https://open.spotify.com/album/4jsoh2EPJ5Jyo1xJSzepCu"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192477,
+      "name": "27",
+      "url": "https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m"
+    },
+    {
+      "album": {
         "name": "2725",
         "url": "https://open.spotify.com/album/4WKG31FVxhajs25iZoqRFk"
       },
@@ -2404,6 +2422,24 @@
     },
     {
       "album": {
+        "name": "God Turn Me Into A Flower",
+        "url": "https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ"
+    },
+    {
+      "album": {
         "name": "Yellow (Deluxe)",
         "url": "https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz"
       },
@@ -2815,7 +2851,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 262611,
       "name": "Home",
       "url": "https://open.spotify.com/track/1spaVEd0xNQTvWhfxd1e4s"
@@ -6363,7 +6399,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 220141,
       "name": "TECTONIC PLATES",
       "url": "https://open.spotify.com/track/5dy9zUa1y7I15hEyC2LSPj"

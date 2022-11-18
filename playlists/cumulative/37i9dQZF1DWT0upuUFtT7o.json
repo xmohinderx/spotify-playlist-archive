@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "4leaf clover",
+        "url": "https://open.spotify.com/album/0VF9mTrMYx8CcpP6gZ4DJS"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156210,
+      "name": "4leaf clover",
+      "url": "https://open.spotify.com/track/1bLqjhjblTmsVwCxd3Dldy"
+    },
+    {
+      "album": {
         "name": "5am",
         "url": "https://open.spotify.com/album/593CwiXVevpgpE30WGQqyp"
       },
@@ -14203,7 +14221,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 210479,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/0xPQyxQvXp4BuMksPEfX0Q"

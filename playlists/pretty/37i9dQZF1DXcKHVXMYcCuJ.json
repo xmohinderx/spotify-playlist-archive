@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 78578,
+  "num_followers": 78608,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQwOTUwOCwwMDAwMDAwMDRlOTBlZmM2ZjA5ZjE3ZjgxYzE0ZWU3ZDllZDIyOTU5",
+  "snapshot_id": "MTY2NzQwOTUwOCwwMDAwMDAwMGU1ZWY4ZTFmZGRjYTc4OTFhODdmYjc5MzQ3N2JlMjU0",
   "tracks": [
     {
       "added_at": "2022-11-02 15:40:45",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Fantastic Planet",
-        "url": "https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I"
-      },
-      "artists": [
-        {
-          "name": "Failure",
-          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "Another Space Song",
-      "url": "https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Betty",
         "url": "https://open.spotify.com/album/3RmEvRS56AW6bkVihyMK0q"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 233000,
       "name": "Milquetoast",
       "url": "https://open.spotify.com/track/6IsnrcSZvmmd5db8QpQb91"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Fantastic Planet",
+        "url": "https://open.spotify.com/album/5hbxMCegyQPhpycfjtlW6I"
+      },
+      "artists": [
+        {
+          "name": "Failure",
+          "url": "https://open.spotify.com/artist/3grvcGPaLhfrD5CYsecr4j"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "Another Space Song",
+      "url": "https://open.spotify.com/track/50iBJRkGjjht3RiwD0VqLA"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "From the Leaves of Your Garden",
-        "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
-      },
-      "artists": [
-        {
-          "name": "Modern Color",
-          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
-        }
-      ],
-      "duration_ms": 190672,
-      "name": "Pale",
-      "url": "https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Shed",
         "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 136826,
       "name": "Shed",
       "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "From the Leaves of Your Garden",
+        "url": "https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq"
+      },
+      "artists": [
+        {
+          "name": "Modern Color",
+          "url": "https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l"
+        }
+      ],
+      "duration_ms": 190672,
+      "name": "Pale",
+      "url": "https://open.spotify.com/track/7kxowOW75vOFqsdXd1TW31"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Anymore",
-        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Come Down",
-      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "spin",
         "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 203546,
       "name": "June",
       "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Four of Arrows",
-        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Asymmetry (Deluxe)",
         "url": "https://open.spotify.com/album/1b6IlVlHRzbkcAWIpXaW37"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 205148,
       "name": "Lily",
       "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Four of Arrows",
+        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
-      },
-      "artists": [
-        {
-          "name": "Superchunk",
-          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
-        }
-      ],
-      "duration_ms": 281173,
-      "name": "Driveway to Driveway",
-      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 309136,
       "name": "Around The Railing",
       "url": "https://open.spotify.com/track/2Fcz9olH3OgfFMj3auXTjA"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/0T2L6XRR1LrH1zLEzGaO0A"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Driveway to Driveway",
+      "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Celebrity Mansions",
-        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "United By Fate",
         "url": "https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Workbook",
-        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
       },
       "artists": [
         {
-          "name": "Bob Mould",
-          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 212066,
-      "name": "See A Little Light",
-      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
+      "duration_ms": 273200,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1659,6 +1643,22 @@
       "duration_ms": 167466,
       "name": "Where Are You Now?",
       "url": "https://open.spotify.com/track/7w53ucikSIdig3nLCi29a9"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Workbook",
+        "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
+      },
+      "artists": [
+        {
+          "name": "Bob Mould",
+          "url": "https://open.spotify.com/artist/0fWvSXbvztkeHEnEuYvU2A"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "See A Little Light",
+      "url": "https://open.spotify.com/track/7LdKMBKthcdBnAqlAIGqCB"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 230817,
-      "name": "Swallow",
-      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "The Haze",
         "url": "https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 195079,
       "name": "The Big What If",
       "url": "https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 230817,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Philophobia",
-        "url": "https://open.spotify.com/album/7FBIJfH1Ks0YIvAOMbXy08"
-      },
-      "artists": [
-        {
-          "name": "Amber Run",
-          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Neon Circus",
-      "url": "https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Dear Seattle",
         "url": "https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 260750,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Philophobia",
+        "url": "https://open.spotify.com/album/7FBIJfH1Ks0YIvAOMbXy08"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Neon Circus",
+      "url": "https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Forever Whatever",
-        "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
-      },
-      "artists": [
-        {
-          "name": "October Drift",
-          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
-        }
-      ],
-      "duration_ms": 238345,
-      "name": "Losing My Touch",
-      "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Handsome",
         "url": "https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 192160,
       "name": "Needles",
       "url": "https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Forever Whatever",
+        "url": "https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS"
+      },
+      "artists": [
+        {
+          "name": "October Drift",
+          "url": "https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS"
+        }
+      ],
+      "duration_ms": 238345,
+      "name": "Losing My Touch",
+      "url": "https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "My Friends",
-        "url": "https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG"
-      },
-      "artists": [
-        {
-          "name": "The Dead Love",
-          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
-        }
-      ],
-      "duration_ms": 175648,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Airplane",
         "url": "https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R"
       },
@@ -2143,18 +2127,18 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "The Difference In Good And Bad Dreams",
-        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+        "name": "My Friends",
+        "url": "https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG"
       },
       "artists": [
         {
-          "name": "Daylight",
-          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+          "name": "The Dead Love",
+          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
         }
       ],
-      "duration_ms": 162721,
-      "name": "Damp",
-      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
+      "duration_ms": 175648,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2171,6 +2155,22 @@
       "duration_ms": 270634,
       "name": "Kangaroo Pocket",
       "url": "https://open.spotify.com/track/0xDOL7sItKiKMw7hdyUwas"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "The Difference In Good And Bad Dreams",
+        "url": "https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt"
+      },
+      "artists": [
+        {
+          "name": "Daylight",
+          "url": "https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv"
+        }
+      ],
+      "duration_ms": 162721,
+      "name": "Damp",
+      "url": "https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
+        "name": "Catch Without Arms",
+        "url": "https://open.spotify.com/album/1csjcf2pCTJiKFdYgVgmA9"
+      },
+      "artists": [
+        {
+          "name": "Dredg",
+          "url": "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "Not That Simple",
+      "url": "https://open.spotify.com/track/5iIM6ZOdCF4P7Gsgiajz73"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
         "name": "Year Of The Rabbit",
         "url": "https://open.spotify.com/album/5OoDVRouHLJ1CzyV2mzaQc"
       },
@@ -2303,18 +2319,18 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Catch Without Arms",
-        "url": "https://open.spotify.com/album/1csjcf2pCTJiKFdYgVgmA9"
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
       },
       "artists": [
         {
-          "name": "Dredg",
-          "url": "https://open.spotify.com/artist/1DsdDxHs1zAwOgWDPgNS7l"
+          "name": "Bryan's Magic Tears",
+          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
         }
       ],
-      "duration_ms": 296333,
-      "name": "Not That Simple",
-      "url": "https://open.spotify.com/track/5iIM6ZOdCF4P7Gsgiajz73"
+      "duration_ms": 302811,
+      "name": "Ghetto Blaster",
+      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2351,22 +2367,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "4 AM",
-        "url": "https://open.spotify.com/album/5y7cA3fKM9W47MIfAdG2Uq"
-      },
-      "artists": [
-        {
-          "name": "Bryan's Magic Tears",
-          "url": "https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST"
-        }
-      ],
-      "duration_ms": 302811,
-      "name": "Ghetto Blaster",
-      "url": "https://open.spotify.com/track/4ZTGfdpt0uJCXPogKP74fK"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Worlds Apart",
         "url": "https://open.spotify.com/album/4edJ05VuSNvslwhH5EKard"
       },
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Bloom and Breathe",
-        "url": "https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f"
-      },
-      "artists": [
-        {
-          "name": "Gates",
-          "url": "https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Smiling Shame",
         "url": "https://open.spotify.com/album/00A7uvYuwJgAyeXu76rDib"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 216643,
       "name": "Smiling Shame",
       "url": "https://open.spotify.com/track/53ujnmrXFTtWs79zS2qMjF"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Chew",
+        "url": "https://open.spotify.com/album/0r6EoPFFRcsVjQWsqmBSwC"
+      },
+      "artists": [
+        {
+          "name": "Muskets",
+          "url": "https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH"
+        }
+      ],
+      "duration_ms": 183583,
+      "name": "17 Years",
+      "url": "https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB"
     }
   ],
   "unique_name": "Alternative Rock's Most Precious Gems",

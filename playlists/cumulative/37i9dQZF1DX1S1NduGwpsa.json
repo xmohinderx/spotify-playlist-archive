@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Photo : Gregory Porter",
+  "description": "The best jazz new releases. Photo : Salena Jones",
   "name": "Jazz Club",
   "published_playlist_ids": [
     "3rs0g3vcnj4aI2NKRtpM5z"
@@ -141,7 +141,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 271213,
       "name": "Agua Bon",
       "url": "https://open.spotify.com/track/2axGzA5gZeiYTvUekKZ32a"
@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Buzzing Bee",
+        "url": "https://open.spotify.com/album/6ihVmKIaIiiJVKdhRDs6dV"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Buzzing Bee",
+      "url": "https://open.spotify.com/track/6avafXggIzFap9c21A63iZ"
+    },
+    {
+      "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
       },
@@ -453,6 +471,36 @@
       "duration_ms": 206291,
       "name": "Cheek To Cheek - Live",
       "url": "https://open.spotify.com/track/2La0saPUOcHbSuiF8ubrkx"
+    },
+    {
+      "album": {
+        "name": "New Standards Vol. 1",
+        "url": "https://open.spotify.com/album/3fn7tQJA1sjZuZbxPiqlWF"
+      },
+      "artists": [
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/6Z4mLnrdfPccaoJvIMhBSu"
+        },
+        {
+          "name": "Negah Santos",
+          "url": "https://open.spotify.com/artist/4tGfzkCl6BfAKAqIUopTQc"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361840,
+      "name": "Circling",
+      "url": "https://open.spotify.com/track/3JfEAQCzK3IjvhdwECQEs8"
     },
     {
       "album": {
@@ -877,7 +925,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 190773,
       "name": "E Basta - Vincent Peirani",
       "url": "https://open.spotify.com/track/5TJfACNTfIZGwX36a5gONX"
@@ -1293,7 +1341,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 161120,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy"
@@ -1417,7 +1465,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 340290,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/4iEcGcD063MCmTuCOt1oXq"
@@ -1559,7 +1607,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 322413,
       "name": "Just One of Those Things",
       "url": "https://open.spotify.com/track/5lXB6VECoq3guxWmuCmBOL"
@@ -2079,6 +2127,36 @@
       "duration_ms": 184981,
       "name": "On Green Dolphin Street",
       "url": "https://open.spotify.com/track/0MHAUC8TiE8lD8ciIZ9Zga"
+    },
+    {
+      "album": {
+        "name": "Ondes of chakras",
+        "url": "https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377231,
+      "name": "Ondes of Chakras",
+      "url": "https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf"
     },
     {
       "album": {
@@ -2611,12 +2689,12 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Rocco Palladino",
-          "url": "https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS"
-        },
-        {
           "name": "Marco Bernardis",
           "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        },
+        {
+          "name": "Rocco Palladino",
+          "url": "https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS"
         }
       ],
       "date_added": "2022-10-27",
@@ -2927,6 +3005,28 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "album": {
+        "name": "The Only Thing Missing Is You",
+        "url": "https://open.spotify.com/album/7e3oiSXfu7UJcW18gZLrwB"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        },
+        {
+          "name": "The SWR Big Band",
+          "url": "https://open.spotify.com/artist/4WnYuKbhxAKXJ8yAvvOsfW"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288231,
+      "name": "The Only Thing Missing Is You",
+      "url": "https://open.spotify.com/track/6ZJE1w4rnFmr5QvkhoblIh"
     },
     {
       "album": {
@@ -3387,6 +3487,24 @@
       "duration_ms": 294776,
       "name": "Walton St",
       "url": "https://open.spotify.com/track/37vqYc0prYUPrH4sPRWxlV"
+    },
+    {
+      "album": {
+        "name": "Warm In December",
+        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161210,
+      "name": "Warm In December",
+      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
     },
     {
       "album": {

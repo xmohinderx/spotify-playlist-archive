@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "In Our Hearts",
+        "url": "https://open.spotify.com/album/3Hlhrov3Um9vBbd8dkibLI"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199931,
+      "name": "In Our Hearts",
+      "url": "https://open.spotify.com/track/2coh2rbFkh7L77h6TH5stT"
+    },
+    {
+      "album": {
         "name": "Is It Really Over",
         "url": "https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa"
       },
@@ -2633,6 +2651,24 @@
       "duration_ms": 228390,
       "name": "State I'm In",
       "url": "https://open.spotify.com/track/4aUHLZXBqkGETnyJm6vavF"
+    },
+    {
+      "album": {
+        "name": "State of War",
+        "url": "https://open.spotify.com/album/6MSFc7cbKx1FJnicqd3VeE"
+      },
+      "artists": [
+        {
+          "name": "LYS",
+          "url": "https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170487,
+      "name": "State of War - Acoustic",
+      "url": "https://open.spotify.com/track/6SCBrXqS49Cg8FO3sZerw5"
     },
     {
       "album": {

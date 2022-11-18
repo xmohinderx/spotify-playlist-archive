@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, Major RD, BIN",
-  "num_followers": 83011,
+  "num_followers": 83052,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDU3YTJhN2M3NWJmODIwM2Y2MzQ4MzAzOTdjYWQ4ZGI3",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMGRlMTE0NGNkNzViOTQ4MTM4MzBiN2I3NDlmNDY2MDk1",
   "tracks": [
     {
       "added_at": "2022-11-04 15:53:38",
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
     },
     {
-      "added_at": "2022-11-17 01:40:09",
+      "added_at": "2022-11-18 01:43:45",
       "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-11-04 15:53:38",
       "album": {
-        "name": "Baile do Cinga do 12",
-        "url": "https://open.spotify.com/album/4oNGK5AvVExXsSQ72lppjo"
-      },
-      "artists": [
-        {
-          "name": "MC Gontijo",
-          "url": "https://open.spotify.com/artist/1WmcR9CzK9NuKE0vB94PAY"
-        },
-        {
-          "name": "Dj Sati Marconex",
-          "url": "https://open.spotify.com/artist/4QQEsGPD4wmoh9hIsKkQuN"
-        }
-      ],
-      "duration_ms": 181881,
-      "name": "Baile do Cinga do 12",
-      "url": "https://open.spotify.com/track/5GH9iPvJd3RlOBlMM2R3ME"
-    },
-    {
-      "added_at": "2022-11-04 15:53:38",
-      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+    },
+    {
+      "added_at": "2022-11-04 15:53:38",
+      "album": {
+        "name": "Baile do Cinga do 12",
+        "url": "https://open.spotify.com/album/4oNGK5AvVExXsSQ72lppjo"
+      },
+      "artists": [
+        {
+          "name": "MC Gontijo",
+          "url": "https://open.spotify.com/artist/1WmcR9CzK9NuKE0vB94PAY"
+        },
+        {
+          "name": "Dj Sati Marconex",
+          "url": "https://open.spotify.com/artist/4QQEsGPD4wmoh9hIsKkQuN"
+        }
+      ],
+      "duration_ms": 181881,
+      "name": "Baile do Cinga do 12",
+      "url": "https://open.spotify.com/track/5GH9iPvJd3RlOBlMM2R3ME"
     },
     {
       "added_at": "2022-11-04 15:53:38",
@@ -703,6 +703,38 @@
     {
       "added_at": "2022-11-04 15:53:38",
       "album": {
+        "name": "Pelo Momento",
+        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Pelo Momento",
+      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
+    },
+    {
+      "added_at": "2022-11-04 15:53:38",
+      "album": {
         "name": "Giro dos Artistas",
         "url": "https://open.spotify.com/album/7dIiISUj9IcEcbcbABOEXq"
       },
@@ -735,38 +767,6 @@
       "duration_ms": 338823,
       "name": "Giro dos Artistas",
       "url": "https://open.spotify.com/track/0Pjd5h1ZOSyhSwZrDeCIXg"
-    },
-    {
-      "added_at": "2022-11-04 15:53:38",
-      "album": {
-        "name": "Pelo Momento",
-        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Pelo Momento",
-      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
     },
     {
       "added_at": "2022-11-04 15:53:38",
@@ -1321,7 +1321,7 @@
       "url": "https://open.spotify.com/track/4rGzXzn5pUmf96MnX185pH"
     },
     {
-      "added_at": "2022-11-17 01:40:09",
+      "added_at": "2022-11-18 01:43:45",
       "album": {
         "name": "Vizinha",
         "url": "https://open.spotify.com/album/3lxlmv6DyGzPKFeFO2OmRs"
@@ -1381,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4ya6fQpmRWfJUPjR78cZsP"
     },
     {
-      "added_at": "2022-11-17 01:40:09",
+      "added_at": "2022-11-18 01:43:45",
       "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/5EI8eV0OKeXo3kEkW3QwsU"

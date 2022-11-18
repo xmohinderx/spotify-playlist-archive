@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Varisu
 
-355 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+356 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Naan Pizhai](https://open.spotify.com/track/6lQ7RWoymp53169COo4fLN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Kaathuvaakula Rendu Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2bRyFTzMb2iz6yIlcon1uz) | 4:03 | 2022-04-28 | 2022-10-11 |
 | [Naan Poranthathume](https://open.spotify.com/track/4WXyaygmBa3gk06jFQiXBA) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Naan Poranthathume \(From "Janakiram"\)](https://open.spotify.com/album/11YX9UagMdT9fK8oS6Ft5f) | 4:56 | 2022-07-20 | 2022-07-27 |
 | [Naattu Koothu](https://open.spotify.com/track/5hoLkHSL6rBFIxy038srNi) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [RRR](https://open.spotify.com/album/6YYSjBGYBDtc5km4NeMHL0) | 3:34 | 2022-05-11 | 2022-08-05 |
+| [Nalla Irumaa \(From "DSP"\)](https://open.spotify.com/track/0JwMT9HTLxoHvmUah7BMGT) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Senthil Ganesh](https://open.spotify.com/artist/5r2as9TFFeuCfRL71BUkTA), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP), [Vijay Muthupandi](https://open.spotify.com/artist/4IJfevJjFBOHeYCA6dJbh6), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Nalla Irumaa \(From "DSP"\)](https://open.spotify.com/album/0WseWQ9FB9yjuGBNSDkw88) | 4:13 | 2022-11-17 |  |
 | [Natchathiram Nagargirathu](https://open.spotify.com/track/1vzOAqyprXwN1Yw5vxBaQV) | [Tenma](https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Natchathiram Nagargirathu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QgQOj0xKEHOEQzHvjj2ml) | 4:53 | 2022-08-23 | 2022-09-10 |
 | [Natpu \(From "RRR"\)](https://open.spotify.com/track/3ZZYz8ttm10Jjjvn454m9v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Maragathamani](https://open.spotify.com/artist/2P9o9u4Q287Hs2vyCBV3S2) | [Natpu \(From "RRR"\)](https://open.spotify.com/album/5ZtUECQU7q7hIGV0k7fph8) | 5:40 | 2022-03-28 | 2022-06-29 |
 | [Nee Nee Pothumae](https://open.spotify.com/track/3i0yxlrHlvhYhfeuDM1Lw7) | [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Padmapriya Raghavan](https://open.spotify.com/artist/2E5sS9FjfJBCgckaoajQSm) | [JIIVI 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/30bPNoqbwWINvnwFSux6IP) | 5:16 | 2022-08-16 | 2022-08-23 |

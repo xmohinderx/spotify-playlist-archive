@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-150 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+152 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ansia](https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:06 | 2022-03-03 | 2022-07-15 |
 | [Augusto Caliente](https://open.spotify.com/track/0TMULfbEnuUoOytRvWcLMI) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Rumba De Rambla](https://open.spotify.com/album/10pjbovsMmRO6b4YjSrqKR) | 3:08 | 2022-03-03 |  |
 | [Autumn](https://open.spotify.com/track/0ansjnBkSFKDqlQ0KaTydJ) | [Kee Marcello](https://open.spotify.com/artist/5yBVDQGDI58X71bTYrle3o), [Freddie Hultana](https://open.spotify.com/artist/2kbBom27w5NJydUVB2SonR) | [The Four Seasons](https://open.spotify.com/album/6ekmiW4L7zlzHgAqWKbImP) | 2:03 | 2022-03-03 | 2022-07-15 |
+| [Ave Maria](https://open.spotify.com/track/23WyiE0ihlkTTkPZm0wndZ) | [Andrea Chiarini](https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3) | [Ave Maria](https://open.spotify.com/album/7itZ0Ps9FuYl3nG1jCmDK0) | 2:05 | 2022-11-18 |  |
 | [Back In Vienna](https://open.spotify.com/track/7f5KoA0YwUSblUJJ1Fhgq3) | [Carey Bestwood](https://open.spotify.com/artist/2retIxvtHYYB3JXjfYLAOW) | [Back In Vienna](https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu) | 2:00 | 2022-03-03 |  |
 | [Bahia Dream](https://open.spotify.com/track/164gnhOiZDQsSa3VbSPeRw) | [Reynaldo Delgado](https://open.spotify.com/artist/104TOFsmSso5sw7ynQ4vhE) | [Bahia Dream](https://open.spotify.com/album/3ZQlm3syeRzlmascVX9l3N) | 2:18 | 2022-03-03 |  |
 | [Barracas Bird](https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Barracas Bird](https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8) | 2:43 | 2022-03-03 |  |
@@ -114,6 +115,7 @@
 | [Quiereme Corazon Quiereme](https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Quiereme Corazon Quiereme](https://open.spotify.com/album/7z9wIysqZqoUNFso68D3zK) | 2:54 | 2022-03-03 |  |
 | [Rancho](https://open.spotify.com/track/46BVf0OGrdgbuowxPpwviH) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Rancho](https://open.spotify.com/album/5NWhm7lJDMiKryYAWeW2U9) | 2:49 | 2022-03-03 |  |
 | [Recuerdos de la Alhambra](https://open.spotify.com/track/0txa5FMG04o9M0dxnX4HcT) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Renata Tarragó](https://open.spotify.com/artist/3sjJiSSbYmyfArQYwNtMa4) | [Homenaje a Tárrega](https://open.spotify.com/album/5wpauqKN8pjYclujgFr7ng) | 3:41 | 2022-03-03 | 2022-07-09 |
+| [Reflejos](https://open.spotify.com/track/1nxLbKEbdPi2ZkdRjWQ02J) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Reflejos](https://open.spotify.com/album/7ccrSzeUWfeNjIqkYXhIBE) | 3:05 | 2022-11-18 |  |
 | [Resignation](https://open.spotify.com/track/2tpGrTd5ecgGHoK95fdA0C) | [Joe Pisto](https://open.spotify.com/artist/02EHqe9onqarB5sxNiLdOf) | [Resignation](https://open.spotify.com/album/28oamvo15O6DTsIx49l8y3) | 1:55 | 2022-10-28 |  |
 | [Roberto el Rebelde](https://open.spotify.com/track/6S7hOpmy4lzJmExEFSOnP6) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:27 | 2022-03-03 |  |
 | [Runaway](https://open.spotify.com/track/0VwA4OOrK4K0qrfaFBHCoi) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Runaway](https://open.spotify.com/album/2R6ToEr49KC9zrmE3zevdV) | 2:50 | 2022-03-03 |  |

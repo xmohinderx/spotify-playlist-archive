@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Fulfillment",
+        "url": "https://open.spotify.com/album/3X1hYyV8Sv3KpkT8RtLMQU"
+      },
+      "artists": [
+        {
+          "name": "Bri\u00e9re",
+          "url": "https://open.spotify.com/artist/0yDkxn6hxSnJ9jtlcY8xfq"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184124,
+      "name": "Fulfillment",
+      "url": "https://open.spotify.com/track/6oX1TzgDmZQfQywfNBKx9J"
+    },
+    {
+      "album": {
         "name": "Going In Circles",
         "url": "https://open.spotify.com/album/6Brv2ew17Cu7gTBZho5P3Z"
       },

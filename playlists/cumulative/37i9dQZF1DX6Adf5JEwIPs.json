@@ -10350,6 +10350,24 @@
     },
     {
       "album": {
+        "name": "Falsa Gente",
+        "url": "https://open.spotify.com/album/1wpBEDMtb3okiqxTsu26Yx"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Soto",
+          "url": "https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160098,
+      "name": "Falsa Gente",
+      "url": "https://open.spotify.com/track/1Ooz8HRmBPQL21zp8np4tU"
+    },
+    {
+      "album": {
         "name": "Falso Amigo",
         "url": "https://open.spotify.com/album/7iKG6XMWGzrz8OpST6DjRL"
       },

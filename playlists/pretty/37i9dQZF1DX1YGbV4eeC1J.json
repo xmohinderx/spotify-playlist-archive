@@ -1,29 +1,13 @@
 {
   "description": "Exceptionally vivid icebreaker in your love pursuit.",
-  "num_followers": 5148,
+  "num_followers": 5166,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODExMzk0MCwwMDAwMDAwMDI1MmZmNWQzNWI5ODQ4MDA0NmY0ZDNmMzNlZmM1MzE4",
+  "snapshot_id": "MTY2ODcxODc0MCwwMDAwMDAwMDMxZWQzNWVkNDM1N2I0MGM3MjMxZDQ2ZGJiMzYwZWI5",
   "tracks": [
-    {
-      "added_at": "2022-10-27 20:59:00",
-      "album": {
-        "name": "Nitaubeba",
-        "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Nitaubeba",
-      "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
-    },
     {
       "added_at": "2022-05-26 21:59:00",
       "album": {
@@ -43,6 +27,38 @@
       "duration_ms": 181978,
       "name": "Jeraha",
       "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
+    },
+    {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Khan",
+        "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 177878,
+      "name": "Huyu Hapa",
+      "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
+    },
+    {
+      "added_at": "2022-10-27 20:59:00",
+      "album": {
+        "name": "Nitaubeba",
+        "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Nitaubeba",
+      "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
     },
     {
       "added_at": "2022-05-26 21:59:00",
@@ -75,26 +91,6 @@
       "duration_ms": 194000,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
-    },
-    {
-      "added_at": "2022-11-10 20:59:00",
-      "album": {
-        "name": "Jinadi",
-        "url": "https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp"
-      },
-      "artists": [
-        {
-          "name": "Malkia Karen",
-          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
-        },
-        {
-          "name": "Country Wizzy",
-          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
-        }
-      ],
-      "duration_ms": 158275,
-      "name": "Jinadi",
-      "url": "https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps"
     },
     {
       "added_at": "2022-11-07 08:36:06",
@@ -133,6 +129,22 @@
       "url": "https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Love Freaks",
+        "url": "https://open.spotify.com/album/1ZSYlH5K7t5wNnM1jq45zT"
+      },
+      "artists": [
+        {
+          "name": "Lafrik",
+          "url": "https://open.spotify.com/artist/5218C7zgbDGmoMXmf852Fr"
+        }
+      ],
+      "duration_ms": 245812,
+      "name": "Nitakupenda",
+      "url": "https://open.spotify.com/track/06REPrp2fBDzLX2v7rQW2h"
+    },
+    {
       "added_at": "2022-08-04 20:59:00",
       "album": {
         "name": "Inauma",
@@ -169,6 +181,26 @@
       "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
     },
     {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "Jinadi",
+        "url": "https://open.spotify.com/album/7pS8jFmqBRfhGk7tgFz2Cp"
+      },
+      "artists": [
+        {
+          "name": "Malkia Karen",
+          "url": "https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        }
+      ],
+      "duration_ms": 158275,
+      "name": "Jinadi",
+      "url": "https://open.spotify.com/track/4mtx6cKVqYS3C6AqmckWps"
+    },
+    {
       "added_at": "2022-05-26 21:59:00",
       "album": {
         "name": "The African Princess",
@@ -183,6 +215,22 @@
       "duration_ms": 233183,
       "name": "Ninogeshe",
       "url": "https://open.spotify.com/track/2OKwqx3CX9dpU43iW6ycVP"
+    },
+    {
+      "added_at": "2022-05-26 21:59:00",
+      "album": {
+        "name": "Katerina",
+        "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
+      },
+      "artists": [
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "duration_ms": 275487,
+      "name": "Katerina",
+      "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
     },
     {
       "added_at": "2022-08-25 20:59:00",
@@ -257,22 +305,6 @@
       "url": "https://open.spotify.com/track/5xIH3YUZQb4XKsZREACXhL"
     },
     {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "Katerina",
-        "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
-      },
-      "artists": [
-        {
-          "name": "Bruce Melodie",
-          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
-        }
-      ],
-      "duration_ms": 275487,
-      "name": "Katerina",
-      "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
-    },
-    {
       "added_at": "2022-08-18 20:59:00",
       "album": {
         "name": "Closer",
@@ -291,6 +323,30 @@
       "duration_ms": 198367,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W"
+    },
+    {
+      "added_at": "2022-05-26 21:59:00",
+      "album": {
+        "name": "Nakufa",
+        "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
+      },
+      "artists": [
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Amlyoto",
+          "url": "https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP"
+        }
+      ],
+      "duration_ms": 295285,
+      "name": "Nakufa",
+      "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
     },
     {
       "added_at": "2022-09-22 20:59:00",
@@ -387,26 +443,66 @@
     {
       "added_at": "2022-05-26 21:59:00",
       "album": {
-        "name": "Nakufa",
-        "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
+        "name": "Karata 3",
+        "url": "https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4"
       },
       "artists": [
         {
-          "name": "Okello Max",
-          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
-        },
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        },
-        {
-          "name": "Amlyoto",
-          "url": "https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP"
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
         }
       ],
-      "duration_ms": 295285,
-      "name": "Nakufa",
-      "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
+      "duration_ms": 197727,
+      "name": "Mapenzi",
+      "url": "https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx"
+    },
+    {
+      "added_at": "2022-05-26 21:59:00",
+      "album": {
+        "name": "Mapenzi Hisia",
+        "url": "https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "duration_ms": 222145,
+      "name": "Mapenzi Hisia",
+      "url": "https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I"
+    },
+    {
+      "added_at": "2022-05-26 21:59:00",
+      "album": {
+        "name": "Sina Neno",
+        "url": "https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "duration_ms": 184945,
+      "name": "Sina Neno",
+      "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
+    },
+    {
+      "added_at": "2022-05-26 21:59:00",
+      "album": {
+        "name": "Nipepee",
+        "url": "https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 206054,
+      "name": "Nipepee",
+      "url": "https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp"
     },
     {
       "added_at": "2022-08-04 20:59:00",
@@ -493,70 +589,6 @@
       "url": "https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg"
     },
     {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "Karata 3",
-        "url": "https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4"
-      },
-      "artists": [
-        {
-          "name": "Ibraah",
-          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Mapenzi",
-      "url": "https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx"
-    },
-    {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "Mapenzi Hisia",
-        "url": "https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I"
-      },
-      "artists": [
-        {
-          "name": "Otile Brown",
-          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
-        }
-      ],
-      "duration_ms": 222145,
-      "name": "Mapenzi Hisia",
-      "url": "https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I"
-    },
-    {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "Sina Neno",
-        "url": "https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD"
-      },
-      "artists": [
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "Sina Neno",
-      "url": "https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv"
-    },
-    {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "Nipepee",
-        "url": "https://open.spotify.com/album/12AXAhxziLLk6R33nyxejH"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 206054,
-      "name": "Nipepee",
-      "url": "https://open.spotify.com/track/6Cpbvi6GoTfDBYkObnuNNp"
-    },
-    {
       "added_at": "2022-09-08 20:59:00",
       "album": {
         "name": "Ceduction",
@@ -625,22 +657,6 @@
       "url": "https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn"
     },
     {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "Moyo",
-        "url": "https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Mdee",
-          "url": "https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7"
-        }
-      ],
-      "duration_ms": 146024,
-      "name": "Moyo",
-      "url": "https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd"
-    },
-    {
       "added_at": "2022-07-15 06:55:56",
       "album": {
         "name": "Enough",
@@ -655,22 +671,6 @@
       "duration_ms": 217523,
       "name": "Enough",
       "url": "https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr"
-    },
-    {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "Asante",
-        "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
-      },
-      "artists": [
-        {
-          "name": "Gilad",
-          "url": "https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ"
-        }
-      ],
-      "duration_ms": 275957,
-      "name": "Mapenzi",
-      "url": "https://open.spotify.com/track/5j3kPTLuJu2xH7tGjrmAYr"
     },
     {
       "added_at": "2022-05-26 21:59:00",
@@ -855,22 +855,6 @@
       "duration_ms": 196674,
       "name": "Unanifaa",
       "url": "https://open.spotify.com/track/3q81v91aFYkdrEYqJxB5PD"
-    },
-    {
-      "added_at": "2022-05-26 21:59:00",
-      "album": {
-        "name": "V the Album",
-        "url": "https://open.spotify.com/album/6bTnVI9B98ircUnv8UYXuy"
-      },
-      "artists": [
-        {
-          "name": "Brown Mauzo",
-          "url": "https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf"
-        }
-      ],
-      "duration_ms": 200130,
-      "name": "Naoa",
-      "url": "https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs"
     },
     {
       "added_at": "2022-08-11 20:59:00",

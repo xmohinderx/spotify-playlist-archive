@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 61082,
+  "num_followers": 61125,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDEwZGVmZDE3MDQ1NTk2NzM5OTRjZjY0MDY5ZjcxMTQ1",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGU3OGQ4YmFkZmVmM2RiNmQ4MjFmYjk0MjhiNTExYWFl",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -383,22 +383,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
-      },
-      "artists": [
-        {
-          "name": "Cro-Magnon",
-          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
-        }
-      ],
-      "duration_ms": 432217,
-      "name": "Patchwork Jazz",
-      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "White Light",
         "url": "https://open.spotify.com/album/1EVEmfVskivH7bbA6OVS45"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 345520,
       "name": "Warsaw - White Light Version",
       "url": "https://open.spotify.com/track/4SzoQuDQIEm8saHC85w8CT"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
+      },
+      "artists": [
+        {
+          "name": "Cro-Magnon",
+          "url": "https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy"
+        }
+      ],
+      "duration_ms": 432217,
+      "name": "Patchwork Jazz",
+      "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "stuff i used to do",
+        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 141304,
+      "name": "Charlie can't dance",
+      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Box Energy",
         "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 210449,
       "name": "TAKE YOUR LIFE",
       "url": "https://open.spotify.com/track/2nl2twiYDrw6PAT4cy2Uev"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "stuff i used to do",
-        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 141304,
-      "name": "Charlie can't dance",
-      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
     },
     {
       "added_at": "2021-10-22 11:07:27",

@@ -1459,7 +1459,7 @@
     {
       "album": {
         "name": "Bad Behavior",
-        "url": "https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF"
+        "url": "https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8"
       },
       "artists": [
         {
@@ -1470,6 +1470,24 @@
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192255,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu"
+    },
+    {
+      "album": {
+        "name": "Bad Behavior",
+        "url": "https://open.spotify.com/album/7nfhqcOW8XRHZvvocev5ZF"
+      },
+      "artists": [
+        {
+          "name": "BRONCHO",
+          "url": "https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
       "duration_ms": 192255,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki"

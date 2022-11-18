@@ -1,13 +1,45 @@
 {
   "description": "Dive into the full collection of Spotify Singles recordings. Cover: Cat Burns. ",
-  "num_followers": 214284,
+  "num_followers": 214287,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYxNzYxNywwMDAwMDAwMGJiYzhjMWI0OTQ1ZDhmYWVhNTE5Yjk4MWQwOWQ4Njcz",
+  "snapshot_id": "MTY2ODcxMDU0NiwwMDAwMDAwMDc4ZmQ1MjdkMDVlN2Y1ZDEyZWMyNzg2OTM4MGU4OTNm",
   "tracks": [
+    {
+      "added_at": "2022-11-17 18:42:26",
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 186822,
+      "name": "help herself (dnb remix) - spotify single",
+      "url": "https://open.spotify.com/track/79tCD94biwEmzQ3g0Yqe5c"
+    },
+    {
+      "added_at": "2022-11-17 18:42:26",
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
+    },
     {
       "added_at": "2022-11-16 16:53:37",
       "album": {

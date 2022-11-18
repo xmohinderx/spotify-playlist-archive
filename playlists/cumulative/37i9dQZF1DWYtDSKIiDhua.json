@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Larissa Lambert",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: GEMINI ",
   "name": "mood.",
   "published_playlist_ids": [
     "26MnmTp5Ay0CeKf3X2PBvn"
@@ -41,6 +41,24 @@
       "duration_ms": 168679,
       "name": "18",
       "url": "https://open.spotify.com/track/0qSmFeAKOrdob7yZIhaoVq"
+    },
+    {
+      "album": {
+        "name": "A Friend",
+        "url": "https://open.spotify.com/album/6vJJQBcmrKG3hX5iU8Idaq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "A Friend",
+      "url": "https://open.spotify.com/track/6nlR5KZygfAXcwUH96kONw"
     },
     {
       "album": {
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 194886,
       "name": "Better",
       "url": "https://open.spotify.com/track/5z2hntBNASWRvUGP8BQng6"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 200301,
       "name": "CITY (ft. RUYA)",
       "url": "https://open.spotify.com/track/1OcrTN0ff9dLwoTY2O4uYX"
@@ -1200,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm"
       },
@@ -1343,7 +1379,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 187066,
       "name": "G Love (feat. Nippa)",
       "url": "https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9"
@@ -1668,6 +1704,24 @@
     },
     {
       "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "Hola",
+      "url": "https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
@@ -1879,6 +1933,24 @@
       "duration_ms": 168648,
       "name": "i wanna be with you",
       "url": "https://open.spotify.com/track/6jvoDWyfrYTYycHkUSnJaw"
+    },
+    {
+      "album": {
+        "name": "I.L.S.M (I Love Sadness More)",
+        "url": "https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "I.L.S.M",
+      "url": "https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee"
     },
     {
       "album": {
@@ -2183,7 +2255,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 134279,
       "name": "Letter To Ur N(ex)t",
       "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
@@ -3337,7 +3409,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 220760,
       "name": "Psychic",
       "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
@@ -3625,6 +3697,28 @@
       "duration_ms": 221482,
       "name": "Side",
       "url": "https://open.spotify.com/track/3YNgpO4qcJ84ZGftgmysKv"
+    },
+    {
+      "album": {
+        "name": "SIDEWAYS",
+        "url": "https://open.spotify.com/album/5joS2rXWzVhtXiBk4DOkJL"
+      },
+      "artists": [
+        {
+          "name": "ki mi",
+          "url": "https://open.spotify.com/artist/4d39hDGApIZV3x5obwnVpZ"
+        },
+        {
+          "name": "Kinsan",
+          "url": "https://open.spotify.com/artist/36W2yCB3Ay3GUKkP52ZXfz"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81029,
+      "name": "SIDEWAYS",
+      "url": "https://open.spotify.com/track/5IhciPDXGz7MGrHKJwexjr"
     },
     {
       "album": {
@@ -4515,7 +4609,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 205301,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1"
@@ -4777,10 +4871,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 186093,
       "name": "You're Almost There",
       "url": "https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9"
+    },
+    {
+      "album": {
+        "name": "Your Sadness",
+        "url": "https://open.spotify.com/album/0whU1PMy78jJL1uaO7cGx5"
+      },
+      "artists": [
+        {
+          "name": "Jeong Jia",
+          "url": "https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200863,
+      "name": "Your Sadness",
+      "url": "https://open.spotify.com/track/7jAwJRWO4SLmu7JGFmhl07"
     },
     {
       "album": {

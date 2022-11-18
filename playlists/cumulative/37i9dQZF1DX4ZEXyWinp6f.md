@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-285 songs - 1 day 1 hr 36 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
+286 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Detroit Snackbar Dreamer](https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Stuntman](https://open.spotify.com/album/10lmr6WvEA5l9simbL8pbg) | 6:33 | 2021-02-25 | 2022-09-17 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2022-07-29 |
 | [Dietrofront](https://open.spotify.com/track/3wiXVSR84GM7qZnorfK7md) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Dietrofront](https://open.spotify.com/album/5VyZvAfaPCj6MVASqP7FnD) | 6:17 | 2020-11-21 | 2022-07-29 |
+| [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 | 2021-10-20 |  |
 | [Dream//Expanse](https://open.spotify.com/track/1eZkqX08AurtH7oDQIZjda) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Form//Less](https://open.spotify.com/album/4xdbtpK47a0l2QpEpUAEh1) | 6:20 | 2020-12-03 | 2022-07-29 |
 | [Duet 2](https://open.spotify.com/track/6V98lrVuD5LClmIyoDT0jV) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [Duets \| Golden Gate Bridge](https://open.spotify.com/album/177n1B4zIvOyy0UUBSJajw) | 5:02 | 2021-07-26 | 2022-07-29 |
 | [Electric Garden](https://open.spotify.com/track/0ahbYEKQ71Jur2y1O6M9GI) | [Conrad Schnitzler](https://open.spotify.com/artist/79f49kyfxgPm1WF8EHz2vf) | [Ballet Statique](https://open.spotify.com/album/7srWOayQ40gjqHdc0UpNNa) | 12:49 | 2021-02-25 | 2021-03-06 |
@@ -173,7 +174,7 @@
 | [Mineral](https://open.spotify.com/track/5l4XtEgfT0li1rjMxWWgfH) | [Camedor](https://open.spotify.com/artist/2Tiv6XRYSJm0WUy7447n3c) | [Portal](https://open.spotify.com/album/6qoTf6fG9Q3CqTXHvhZgrC) | 4:58 | 2020-07-07\* | 2022-07-29 |
 | [Moderato](https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 3:57 | 2021-10-07 |  |
 | [Mono No Aware 1.1](https://open.spotify.com/track/2Sd2YWMCCJUrYHRDlioiXO) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/6WcmuATLX8bEwJETYwaH3J) | 5:39 | 2020-10-20 | 2022-07-27 |
-| [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 | 2021-10-20 |  |
+| [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 | 2021-10-20 | 2022-11-18 |
 | [Moon Dance](https://open.spotify.com/track/7FM0p2F07jhQknBY7svHjb) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Switched On Ra](https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn) | 7:41 | 2022-02-21 | 2022-07-28 |
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2021-01-27 | 2022-07-16 |
 | [Motel \(Remastered\)](https://open.spotify.com/track/5kHLaixDc1OE8zytSqe8TK) | [Theremyn\_4](https://open.spotify.com/artist/5R37WmSrdy1f75boRjwLXU) | [Fluorescente Verde en el Patio \(Edición Especial 20 Aniversario\)](https://open.spotify.com/album/0gEv3PyCGNVrPBTOn8ulWI) | 5:02 | 2020-09-08 | 2021-03-23 |

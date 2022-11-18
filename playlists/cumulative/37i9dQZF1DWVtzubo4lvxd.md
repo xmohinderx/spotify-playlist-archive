@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-200 songs - 8 hr 3 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+201 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Popsicle](https://open.spotify.com/track/4ckgfk6svzgE1FmYWbJiCl) | [Funk Andrews](https://open.spotify.com/artist/7qHVz54RdRADqyKWnvmYUh) | [Popsicle](https://open.spotify.com/album/5B0i573qDyP4p5fMp1zLvJ) | 2:26 | 2022-04-15 | 2022-07-25 |
 | [Puff Lah](https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:53 | 2022-04-15 |  |
 | [Rainy Sunset](https://open.spotify.com/track/25vxIGdd9SRtYCQGnTWXdu) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Balcony Nights](https://open.spotify.com/album/5vcxv6HYrkhPaZxROaoomB) | 1:36 | 2022-04-15 | 2022-07-29 |
+| [reefers](https://open.spotify.com/track/3lf0ibMyyCIbV1iHAtNgn4) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 1](https://open.spotify.com/album/5HMngAXSRRcbc3wJstGpuV) | 1:15 | 2022-04-15 |  |
 | [reunion](https://open.spotify.com/track/0TRS0L5H57ETh3S8hzrVrJ) | [Egger](https://open.spotify.com/artist/52VGhCTWuqf5fIdUqBtYkR), [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb) | [sunshine](https://open.spotify.com/album/2IwVdi0kbIlmkf16UpP71I) | 2:17 | 2022-04-15 | 2022-07-27 |
 | [Rio Roadtrippin'](https://open.spotify.com/track/76RXCXdZaVZ9LHbmBypZnM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Rio Roadtrippin'](https://open.spotify.com/album/2fmsUtw5U7ACNF4NtQ371Z) | 2:33 | 2022-04-15 | 2022-07-29 |
 | [Ritmo Coco](https://open.spotify.com/track/1ZS1jIvAsmlx09ltztNur1) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fufu & Grits](https://open.spotify.com/album/7fzbaKPv54lFU6kqXCOUKd) | 4:21 | 2022-04-15 | 2022-07-28 |
@@ -156,7 +157,7 @@
 | [SPACE19 \(Instrumental\)](https://open.spotify.com/track/3ZonfsnZxyluRHLB8igb3F) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg), [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv), [Ceronimo](https://open.spotify.com/artist/4UutNZ2KEd1b17rxzUpud6) | [SPACE19](https://open.spotify.com/album/4imIay9f3Xw3Z4lwh46VwG) | 3:33 | 2022-04-15 | 2022-07-28 |
 | [Springtime](https://open.spotify.com/track/2tw0XH9LfAmDf0H5IY8O4I) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Mercy](https://open.spotify.com/album/5cnP1FKGwGUfGIQqimOye9) | 2:00 | 2022-04-15 | 2022-07-03 |
 | [Springtime](https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4) | [j^p^n](https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4) | [Mercy](https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD) | 2:00 | 2022-04-15 |  |
-| [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 | 2022-04-15 |  |
+| [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 | 2022-04-15 | 2022-11-18 |
 | [Stars](https://open.spotify.com/track/6ASdOVZkbVNoHzJSj0Cxll) | [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Stars](https://open.spotify.com/album/5RtPbAOnjGOgwhxA5jVfdO) | 2:03 | 2022-04-15 | 2022-07-29 |
 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 | 2022-04-15 |  |
 | [Summer Love](https://open.spotify.com/track/4t9khFSydC1VwzVxjsgt63) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Summer Jazz](https://open.spotify.com/album/1TVi6bHOSXFHOIkCD8I3tM) | 3:22 | 2022-04-15 | 2022-07-29 |

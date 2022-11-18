@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,297 likes - 50 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,348 likes - 50 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Come and Behold \(feat\. Chandler Moore & Elyssa Smith\)](https://open.spotify.com/track/2S86PB6hncEjoMLGBYGDbd) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 7:40 |
 | 50 | [Real Thing \(feat\. Dante Bowe\)](https://open.spotify.com/track/3g4WBq2CluHrcmGSk9RFDn) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Maverick City, Vol\. 1](https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt) | 10:41 |
 
-Snapshot ID: `Mjc4MTA1NzIsMDAwMDAwMDA5MDU4YmM0NDBkOWIxOTIwNjU1ZTQ1ZjgwNjU5MDA4Mw==`
+Snapshot ID: `Mjc4MTE1NjgsMDAwMDAwMDAwNDY1NjQyZjVmYzZhMmUzNDhmYTRiZmYzOGJmOTUxNg==`

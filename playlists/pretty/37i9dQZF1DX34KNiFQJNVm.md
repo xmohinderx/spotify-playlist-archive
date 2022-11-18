@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Santana, Cristiano Araújo, Pedro Sampaio com Pabllo Vittar e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,793,666 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,652 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 53 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 | 54 | [Ela Joga na Cara de Pau](https://open.spotify.com/track/5A3XhZV5uGBXWWUuMuuuMD) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Ela Joga na Cara de Pau](https://open.spotify.com/album/34XCZqEqiWskBe1mzETtRp) | 2:16 |
 | 55 | [Rave Água Rosa](https://open.spotify.com/track/4YmgBSaykeO9UTsnO4GaXr) | [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI), [DJ Jonatas Felipe](https://open.spotify.com/artist/22NFWM3F5kyI8KsRZVCSRr), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [Rave Água Rosa](https://open.spotify.com/album/37TeY7D6K1Bg14E6Noky87) | 2:43 |
-| 56 | [Faixa Preta na Linguada](https://open.spotify.com/track/38VnEGTOrxg2q4oMhzTTTe) | [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [HG RealTrem](https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Faixa Preta na Linguada](https://open.spotify.com/album/03Zbgecn1WO0wYdQmKeUie) | 2:51 |
+| 56 | [Faixa Preta na Linguada](https://open.spotify.com/track/38VnEGTOrxg2q4oMhzTTTe) | [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [HG RealTrem](https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Faixa Preta na Linguada](https://open.spotify.com/album/03Zbgecn1WO0wYdQmKeUie) | 2:49 |
 | 57 | [Não Dá Mais Pra Namorar](https://open.spotify.com/track/2WAOp96VjCNPeobkuDJjbq) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r), [Mc Vittin PV](https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB), [DJ Stay](https://open.spotify.com/artist/7HHRhlQb888TBc3k1uAQ6u) | [Não da Mais Pra Namorar](https://open.spotify.com/album/1fPGgLLkRstCZbKI7ImWKG) | 2:05 |
 | 58 | [Toque no Radinho](https://open.spotify.com/track/4KCz6JYsOCIJ90O7Zw19Ul) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Toque no Radinho](https://open.spotify.com/album/0jUF2y324k3JkjotbjyM8Z) | 1:54 |
 | 59 | [Emocionou](https://open.spotify.com/track/4WtWrOHAEAFL7aOWJKQnGN) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Emocionou](https://open.spotify.com/album/4N0X1m2Z1J43YLlStQD4wA) | 2:12 |

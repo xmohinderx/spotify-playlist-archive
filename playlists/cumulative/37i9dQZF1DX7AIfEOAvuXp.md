@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-176 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
+177 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/1giw7CrUS9tqrBMopkrkJg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Winona](https://open.spotify.com/track/50CrMqvVH178XRNNhhXfTy) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Winona](https://open.spotify.com/album/29HNHTBfCETetrohUBXJxY) | 2:25 | 2020-12-07 | 2022-10-13 |
 | [Work](https://open.spotify.com/track/4jfFpcebCvWihjJc1ykkMJ) | [Peter $un](https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG) | [Scumbaby \(Deluxe\)](https://open.spotify.com/album/2NtKBdqX78Xh6Bw3N03iur) | 3:17 | 2020-12-07 |  |
 | [Work](https://open.spotify.com/track/6Uyvt0kCp52WEelHP7Amj2) | [Peter $un](https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG) | [Scumbaby](https://open.spotify.com/album/6UnMfGsqgHSRFyS194OUr4) | 3:17 | 2020-12-07 | 2022-07-29 |
-| [Yesterday](https://open.spotify.com/track/1l0cPiIm4i7AX7wukAP1GE) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Yesterday](https://open.spotify.com/album/63qcqWhODFOmMA3in1WN0z) | 3:38 | 2020-12-07 |  |
+| [Yesterday](https://open.spotify.com/track/1l0cPiIm4i7AX7wukAP1GE) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Yesterday](https://open.spotify.com/album/63qcqWhODFOmMA3in1WN0z) | 3:38 | 2020-12-07 | 2022-11-18 |
+| [Yesterday](https://open.spotify.com/track/7cajJ4GyXX8nfiWgxyHPIX) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Yesterday](https://open.spotify.com/album/52PWKHv0TTjr3cnP0kIl1Q) | 3:38 | 2020-12-07 |  |
 
 \*This playlist was first scraped on 2022-04-11. Prior content cannot be recovered.

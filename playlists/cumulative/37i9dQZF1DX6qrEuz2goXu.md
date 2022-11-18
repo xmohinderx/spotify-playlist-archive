@@ -4,7 +4,7 @@
 
 > Listen to family\-favorite tunes from the hit series.
 
-75 songs - 1 hr 26 min - [published](https://open.spotify.com/playlist/3rfLTOog4mxFplSiKbQolM)
+76 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/3rfLTOog4mxFplSiKbQolM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Long E, Short E](https://open.spotify.com/track/3ZDqCU5lg8avzLeqyFTXUy) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:10 | 2022-08-02 | 2022-11-17 |
 | [Long I, Short I](https://open.spotify.com/track/0SfSjP3rUgtO9lyBNZ2KR3) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:02 | 2022-08-02 | 2022-11-17 |
 | [Long I, Short I](https://open.spotify.com/track/63WSiYW49jMMP2vkvsVTyz) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:02 | 2022-08-02 |  |
-| [Long O, Short O](https://open.spotify.com/track/4l7eJHscg5dXFHkcvv4Kn0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:05 | 2022-08-02 |  |
+| [Long O, Short O](https://open.spotify.com/track/4l7eJHscg5dXFHkcvv4Kn0) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:05 | 2022-08-02 | 2022-11-18 |
+| [Long O, Short O](https://open.spotify.com/track/6l9Yj8fuDsNgjmLWX4uHSj) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:05 | 2022-08-02 |  |
 | [Long U, Short U](https://open.spotify.com/track/2Kz0bx1MZAwMQdTxBgOCMj) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/1NtKcKE3YS9InnDy5zBBmG) | 1:06 | 2022-08-02 |  |
 | [Long U, Short U](https://open.spotify.com/track/508v2rlhoEKX3DuYtmrIDp) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [Laugh, Learn, Sing: Learn To Read \(Soundtrack From The Netflix Series\)](https://open.spotify.com/album/4x3njfVC3kHQKwY4h7qBbs) | 1:06 | 2022-08-02 | 2022-11-17 |
 | [Look For Purple](https://open.spotify.com/track/0B87MO9qlSwJhQxbp6fOgj) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Color Songs](https://open.spotify.com/album/15W6dyNox3oZIf82HhkIXG) | 1:02 | 2022-08-02 |  |

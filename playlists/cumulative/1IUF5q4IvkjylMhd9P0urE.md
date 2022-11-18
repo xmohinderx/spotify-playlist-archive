@@ -4,11 +4,12 @@
 
 > Our favourite new music, updated monthly by the XL team.
 
-122 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/7vO4O5wNNjqWMnmzz1WRbr)
+125 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7vO4O5wNNjqWMnmzz1WRbr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100222](https://open.spotify.com/track/411sjSTTaT4ygaqY9Z4ild) | [Pudding Club](https://open.spotify.com/artist/6nJum0gye4urtfo5q7mLNA) | [100222](https://open.spotify.com/album/1DA50TYrkLJMRfTfQrduPt) | 1:43 | 2022-11-08 |  |
+| [2M3 2U](https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [2M3 2U](https://open.spotify.com/album/7FbsgChFR0S7Ju8MwMXkCs) | 4:07 | 2022-11-17 |  |
 | [a hospitable memory](https://open.spotify.com/track/6Wl5jzqlLiQPicJif0xgUK) | [felix taylor](https://open.spotify.com/artist/0Dm79ebX5JWnuVN0Nbt30L) | [the ghost is alive, so to speak](https://open.spotify.com/album/0t1uRmbweHls5H9FxCa4Ie) | 3:47 | 2022-11-08 |  |
 | [Alarming](https://open.spotify.com/track/2UoJrCdK3wjkRO5eI2Nq6E) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Alarming](https://open.spotify.com/album/5kXCZPGdySsOUx6xhpVKFG) | 2:55 | 2022-09-16 | 2022-11-09 |
 | [Así Así](https://open.spotify.com/track/7dDDhrLElUZQXS9CTFmg2O) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Así Así](https://open.spotify.com/album/1gqfXnULAXghgKH8o5Js6e) | 4:26 | 2022-10-10 |  |
@@ -117,6 +118,7 @@
 | [Stop Playin \(feat\. Jeremih\)](https://open.spotify.com/track/6kSPwMUYpnBDIWViA3MKMT) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:37 | 2022-11-08 |  |
 | [Straight Talker](https://open.spotify.com/track/6Gq99VdfbBlsw9qlAZp6x4) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Sky Without Stars](https://open.spotify.com/album/3QIrrLWq2wnMdScMx1YXeS) | 3:21 | 2022-10-10 |  |
 | [Strawberry \- Singin' Club Mix](https://open.spotify.com/track/3LX4XPiW8lkbg0Gocr8Gsz) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy \(Feel The Beat Mix\)](https://open.spotify.com/album/4zhm1wulT9LUeC4NnSJu0N) | 4:14 | 2022-11-08 |  |
+| [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-11-17 |  |
 | [Sugar \(Vigro Deep Remix\)](https://open.spotify.com/track/5GQmLwDVVmDBffTbFrjThT) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Sugar \(Remixes\)](https://open.spotify.com/album/3bXOxIRX32OGzTxoBuvAA8) | 5:34 | 2022-09-16 | 2022-11-09 |
 | [Super Ocean Man](https://open.spotify.com/track/4MXhozRvLn7DKoXexaHUOC) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [t\-mix](https://open.spotify.com/album/4IHM3NRzz1b6g9qsO5M583) | 3:13 | 2022-09-16 | 2022-11-09 |
 | [Tenía Razón](https://open.spotify.com/track/5Dwdelr2SGf89wiZrAuC7Z) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [No Para](https://open.spotify.com/album/7aDPvmko4vfdePbLSaJ7WT) | 2:53 | 2022-09-16 | 2022-11-09 |
@@ -125,6 +127,7 @@
 | [Time](https://open.spotify.com/track/4Afv06s7yEEG5LuznVh8aN) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl) | 3:02 | 2022-09-16 |  |
 | [Time Waster](https://open.spotify.com/track/46sN6Wj7ec9bqMqTPycYXr) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Time Waster](https://open.spotify.com/album/2GyeWj8LWVtvRMsQdlHe8l) | 3:31 | 2022-10-10 |  |
 | [Traction Control](https://open.spotify.com/track/5mU4EO4zlZxG5KpZzOUNOY) | [CASISDEAD](https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs) | [Traction Control](https://open.spotify.com/album/5EBEl5i1bxnwhf3r6gDiJF) | 3:34 | 2022-09-16 | 2022-11-09 |
+| [Walk Thru Water](https://open.spotify.com/track/0yclRzOGTnUoXAnK4RjWzr) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Walk Thru Water](https://open.spotify.com/album/7HhlfGjoYS3L4oQm0hPXBL) | 3:14 | 2022-11-17 |  |
 | [Washed Away](https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Washed Away](https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG) | 3:36 | 2022-09-16 | 2022-11-09 |
 | [WDYM](https://open.spotify.com/track/0MreAL2qbqIQfw5HqOjFvj) | [Wax](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Hunger or Greed](https://open.spotify.com/album/4Qi79Rj1PWS09nmO2X5Dl4) | 3:04 | 2022-09-16 | 2022-11-09 |
 | [When You Look At Me](https://open.spotify.com/track/2zNHQEO4JIhnqdbOJmbdUy) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [When You Look At Me](https://open.spotify.com/album/4k91SjR92GNXohghq4f2kc) | 5:40 | 2022-11-08 |  |

@@ -214,6 +214,24 @@
     },
     {
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/7itZ0Ps9FuYl3nG1jCmDK0"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chiarini",
+          "url": "https://open.spotify.com/artist/5khp8mlK2hyeY1ZijSIBu3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125583,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/23WyiE0ihlkTTkPZm0wndZ"
+    },
+    {
+      "album": {
         "name": "Back In Vienna",
         "url": "https://open.spotify.com/album/0BiRWf0kePadH7rrZNX6Lu"
       },
@@ -2025,6 +2043,24 @@
       "duration_ms": 221026,
       "name": "Recuerdos de la Alhambra",
       "url": "https://open.spotify.com/track/0txa5FMG04o9M0dxnX4HcT"
+    },
+    {
+      "album": {
+        "name": "Reflejos",
+        "url": "https://open.spotify.com/album/7ccrSzeUWfeNjIqkYXhIBE"
+      },
+      "artists": [
+        {
+          "name": "Pablo Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "Reflejos",
+      "url": "https://open.spotify.com/track/1nxLbKEbdPi2ZkdRjWQ02J"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 9535,
+  "num_followers": 9536,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDc5Y2JkM2U0NzhjMDA3YzhkZTI4MWZmNjEyNGMwZGVk",
+  "snapshot_id": "MTY1OTQ4MjkwMiwwMDAwMDAwMDFkMTUyYmMxMDBmN2Y3YWNmNjg1ODU2ODUyMzcxODQx",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Danzones Con Marimba, Vol. 1",
+        "url": "https://open.spotify.com/album/7gJ1UlYDnHKPSEqrsdW2wV"
+      },
+      "artists": [
+        {
+          "name": "Marimba Diosa del Sur",
+          "url": "https://open.spotify.com/artist/33acB0ZZj42gHp6jiY0AiW"
+        }
+      ],
+      "duration_ms": 136228,
+      "name": "Almendra",
+      "url": "https://open.spotify.com/track/09ijF559zM8MW5QNkyo7sO"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "El Embrujo del Danz\u00f3n",
         "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 212093,
       "name": "Quiz\u00e1, Quiz\u00e1",
       "url": "https://open.spotify.com/track/2qW3ziZmifNqVS8N9ieiwA"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Danzones Con Marimba, Vol. 1",
-        "url": "https://open.spotify.com/album/7gJ1UlYDnHKPSEqrsdW2wV"
-      },
-      "artists": [
-        {
-          "name": "Marimba Diosa del Sur",
-          "url": "https://open.spotify.com/artist/33acB0ZZj42gHp6jiY0AiW"
-        }
-      ],
-      "duration_ms": 136228,
-      "name": "Almendra",
-      "url": "https://open.spotify.com/track/09ijF559zM8MW5QNkyo7sO"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Photograph",
-        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
+        "name": "That Cuban Cha Cha",
+        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
       },
       "artists": [
         {
-          "name": "Acerina Danzones Clasicos",
-          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
         }
       ],
-      "duration_ms": 115919,
-      "name": "Ju\u00e1rez No Debio Morir",
-      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
+      "duration_ms": 188160,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "That Cuban Cha Cha",
-        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+        "name": "Photograph",
+        "url": "https://open.spotify.com/album/0U3vkKfqKfL2qwIeIDuhAu"
       },
       "artists": [
         {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+          "name": "Acerina Danzones Clasicos",
+          "url": "https://open.spotify.com/artist/2LoK59Px8zPQ22MdDbvZ6m"
         }
       ],
-      "duration_ms": 188160,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
+      "duration_ms": 115919,
+      "name": "Ju\u00e1rez No Debio Morir",
+      "url": "https://open.spotify.com/track/1vGFJE6X3Gcm0JSlofUqM6"
     },
     {
       "added_at": "2022-08-02 23:28:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=OUWYxk0ySGe5m\_n13WKeQA"> Dami Oniru</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,058 likes - 83 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,065 likes - 83 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

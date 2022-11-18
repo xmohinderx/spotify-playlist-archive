@@ -4,7 +4,7 @@
 
 > Amsterdam Dance Event takes over Amsterdam with an incredible line\-up of dance & electronic artists this month!
 
-406 songs - 1 day 6 hr 46 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
+407 songs - 1 day 6 hr 50 min - [published](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Rai](https://open.spotify.com/track/3kQKmyR72imok1PapkpjjE) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX), [Bruce](https://open.spotify.com/artist/538TUK3KiHnDNHkHLF2yrK) | [Final Conference](https://open.spotify.com/album/60NNHQNq1nGCLZkJ6cSOGc) | 5:03 | 2022-10-14 |  |
 | [Rave Alert](https://open.spotify.com/track/6lYvXGenh0QSJWuHRUHMi6) | [LOOPERS](https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Rave Alert](https://open.spotify.com/album/3V9nRhbyUI5PWRgv5d5mdP) | 3:25 | 2022-07-25 | 2022-08-06 |
 | [Rayhana](https://open.spotify.com/track/43QVVdaC3R2dYK1HFWtLkc) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Rayhana](https://open.spotify.com/album/4HsY3R8H0jbKd2PdwXI2cH) | 5:17 | 2022-10-14 |  |
-| [Really Want That](https://open.spotify.com/track/14d8jfNLB5I9Lcxb205VAe) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Really Want That](https://open.spotify.com/album/3N3hljU2Y0zEF2vjt7udkQ) | 4:21 | 2022-10-14 |  |
+| [Really Want That](https://open.spotify.com/track/3KCEDUB2fYBJ4jGS4Nh7SU) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Really Want That](https://open.spotify.com/album/1Gf8CmcMlxIdwAX1OWiXGl) | 4:21 | 2022-10-17 |  |
+| [Really Want That](https://open.spotify.com/track/14d8jfNLB5I9Lcxb205VAe) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [Really Want That](https://open.spotify.com/album/3N3hljU2Y0zEF2vjt7udkQ) | 4:21 | 2022-10-14 | 2022-11-18 |
 | [Really Want That](https://open.spotify.com/track/7aBhTto2U9sncGzR42zOFA) | [Jace XL](https://open.spotify.com/artist/3rZ0D1eTJ7qUfu5LqxXpSM) | [First Light \(Volume 1\)](https://open.spotify.com/album/6cKAIdUZob2xbczyccf8Zj) | 4:21 | 2022-10-17 | 2022-11-14 |
 | [Reason For Fighting](https://open.spotify.com/track/5b2asMklnhZCS27vezhozk) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [ERV ELLO](https://open.spotify.com/artist/6uCQQAHmh8iINfwg98z6zn) | [EDC Las Vegas 2022](https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau) | 3:58 | 2022-05-16 | 2022-06-10 |
 | [REDLINE](https://open.spotify.com/track/1RF5o6GuRusEzMNiiaO2z2) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [EDC Las Vegas 2022](https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau) | 2:54 | 2022-05-16 | 2022-06-10 |

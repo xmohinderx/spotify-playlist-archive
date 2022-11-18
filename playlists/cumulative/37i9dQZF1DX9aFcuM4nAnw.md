@@ -4,7 +4,7 @@
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-112 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
+113 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/35JGd7xkZ4aXiacB1Wn3xh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [dlp 2.1](https://open.spotify.com/track/6rGCDGnhg2ztHpV7bT2dG2) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [The Disintegration Loops \(Remastered\)](https://open.spotify.com/album/05k7MPh6UZ71omu4O8Kq6A) | 10:50 | 2022-07-06 |  |
 | [Do Matter](https://open.spotify.com/track/6ZQ3XvLBrmwnoNFtU0c2X5) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [The Digging Remedy](https://open.spotify.com/album/0UoUjQNjDBpBGsuTpIEIz4) | 3:40 | 2022-07-06 |  |
 | [Dollhouse](https://open.spotify.com/track/6M5gOnMgByhTfwv5KDIPm6) | [Dedast](https://open.spotify.com/artist/52dXp8ELhMXTXq85jv2UBH) | [Soft Landing](https://open.spotify.com/album/0aNv8rrm5TU8ofggXhfs9a) | 4:46 | 2022-07-06 | 2022-07-27 |
+| [Don't Forget](https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Die of The Waters](https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf) | 3:06 | 2022-11-18 |  |
 | [Earthwork](https://open.spotify.com/track/32CmxM499clUIIuUrUDcwl) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Entangled Routes](https://open.spotify.com/album/5t1HCShqcGw9z5oWMP0EyB) | 4:11 | 2022-07-06 | 2022-07-29 |
 | [ecol4](https://open.spotify.com/track/0Yjw3B7Tbml7Dtj7PQIv2i) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [PLUS](https://open.spotify.com/album/5V9HrJ2u1noLUk0V4HF8uM) | 14:51 | 2022-07-06 | 2022-09-04 |
 | [Elegia \- 2015 Remaster](https://open.spotify.com/track/2Xs7CP4Gw8wJ8qX8fkrCAB) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life](https://open.spotify.com/album/6ls958BLJbeFT3OqAYTvQB) | 4:56 | 2022-07-06 |  |
@@ -92,7 +93,7 @@
 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 | 2022-07-06 |  |
 | [Slipping Away \(In a Dream\)](https://open.spotify.com/track/7puJT8Dq180XAnVWs0wLAA) | [Don](https://open.spotify.com/artist/2ldH4h3nkIuOio5BW1KWUs) | [Distanced](https://open.spotify.com/album/19EnpeDNAmXtZrSnMBPcc8) | 1:31 | 2022-07-06 | 2022-11-13 |
 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 | 2022-07-06 |  |
-| [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 | 2022-07-06 |  |
+| [Sticks and Stones](https://open.spotify.com/track/2B0IVAINVS2tD7m1P2dZPx) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 4:02 | 2022-07-06 | 2022-11-18 |
 | [Stranger Things](https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 1:07 | 2022-07-06 |  |
 | [Teresa, Lark of Ascension](https://open.spotify.com/track/05d3d97A54UUffKia3WKpJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Berberian Sound Studio](https://open.spotify.com/album/7ov3GoQhZr9Ii6PXOqAVv9) | 3:37 | 2022-07-06 |  |
 | [That Which Lies Beyond](https://open.spotify.com/track/25Dy49um1MbZVN96c1dS6m) | [Sinke Dûs](https://open.spotify.com/artist/7G1jLG6TOGiYhRsdiUdm1k) | [Akrasia](https://open.spotify.com/album/2mpTyxf7rUWZh18pQw0rNo) | 7:11 | 2022-07-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 121041,
+  "num_followers": 121040,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMGEzNjc2OThhNGVkODBkYzBlNTE4NDUxMTIzNzVmMDIx",
+  "snapshot_id": "MTY2MjM1MTU1NSwwMDAwMDAwMDFlOGNkZTYwNjM2NGI2ZGI2MTI5MGQ1MTdhZTIxYzI0",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -403,18 +403,26 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mexico Trance",
-        "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
+        "name": "Illusions of Shameless Abundance",
+        "url": "https://open.spotify.com/album/5P1yIYyaRLTcdo3TPRzT5H"
       },
       "artists": [
         {
-          "name": "I\u00f1igo Vontier",
-          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
+          "name": "Against All Logic",
+          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
+        },
+        {
+          "name": "Estado Unido",
+          "url": "https://open.spotify.com/artist/7LQMfqw2JZQhybBOrH1KtS"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 415000,
-      "name": "Mexico Trance",
-      "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
+      "duration_ms": 546693,
+      "name": "Alucinao",
+      "url": "https://open.spotify.com/track/37cNWcjPG6hXI94CsZOHje"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -439,26 +447,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Illusions of Shameless Abundance",
-        "url": "https://open.spotify.com/album/5P1yIYyaRLTcdo3TPRzT5H"
+        "name": "Mexico Trance",
+        "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
       },
       "artists": [
         {
-          "name": "Against All Logic",
-          "url": "https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1"
-        },
-        {
-          "name": "Estado Unido",
-          "url": "https://open.spotify.com/artist/7LQMfqw2JZQhybBOrH1KtS"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "I\u00f1igo Vontier",
+          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
         }
       ],
-      "duration_ms": 546693,
-      "name": "Alucinao",
-      "url": "https://open.spotify.com/track/37cNWcjPG6hXI94CsZOHje"
+      "duration_ms": 415000,
+      "name": "Mexico Trance",
+      "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Night in Tijuana",
+        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Dancehall, Audubon Ballroom",
+      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Atl\u00e1ntida",
         "url": "https://open.spotify.com/album/5WHYmcgeLzkJVlnyAYA3pj"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Night in Tijuana",
-        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
       },
       "artists": [
         {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+          "name": "Dr Honey",
+          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
         }
       ],
-      "duration_ms": 170909,
-      "name": "Dancehall, Audubon Ballroom",
-      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
+      "duration_ms": 271878,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -635,22 +651,6 @@
       "duration_ms": 311693,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
-      },
-      "artists": [
-        {
-          "name": "Dr Honey",
-          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
-        }
-      ],
-      "duration_ms": 271878,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -739,26 +739,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Ananda",
-        "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
-      },
-      "artists": [
-        {
-          "name": "Akkan",
-          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 252936,
-      "name": "Ananda",
-      "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Nz\u00fambi",
         "url": "https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0"
       },
@@ -787,6 +767,42 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb"
+      },
+      "artists": [
+        {
+          "name": "Akkan",
+          "url": "https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 252936,
+      "name": "Ananda",
+      "url": "https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Shika Shika / Botanas",
+        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 206815,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Pebbles Mind Horrors",
         "url": "https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 370886,
       "name": "Pebbles Mind Horrors",
       "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Shika Shika / Botanas",
-        "url": "https://open.spotify.com/album/0lxqfF1bXMwwH2zHxHErbO"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 206815,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/4FdJjt9xr1C8uuo8i4IxWN"
     },
     {
       "added_at": "2022-08-18 23:29:09",

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Flume.",
-  "num_followers": 409779,
+  "num_followers": 409791,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGVhOTVhMDFhZDc2OGM1ZDhhNTVlNmZiN2JhZGVlMGYx",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDI2OTNjYTY4ZTdjYzE3NWQ3NTUyYzJhYTg1YjI4ZTA2",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Anti-Hero (Remixes)",
-        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 215696,
-      "name": "Anti-Hero - Jayda G Remix",
-      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "I Won\u2019t Need You",
         "url": "https://open.spotify.com/album/3e1DQ5tYkCUgCNe7b5mXTo"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 214687,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/4XpLpyBFPYzwfIHDGqsKiM"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Kepko",
-        "url": "https://open.spotify.com/album/6FY063UrUu9kj8ixxjSByb"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "Kepko",
-      "url": "https://open.spotify.com/track/5VChaeq6hagzFFwDsWETyz"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/3dEgnqIAPwT1YsChpnzWV3"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Kepko",
+        "url": "https://open.spotify.com/album/6FY063UrUu9kj8ixxjSByb"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "Kepko",
+      "url": "https://open.spotify.com/track/5VChaeq6hagzFFwDsWETyz"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
       },
@@ -795,6 +795,26 @@
       "duration_ms": 193064,
       "name": "So Good",
       "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Jack The House 3",
+        "url": "https://open.spotify.com/album/2JLEygazGNxcACvaFLNRmC"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        }
+      ],
+      "duration_ms": 184923,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/1UyYIqE4bTokxEK0DUpzTM"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -819,26 +839,6 @@
       "duration_ms": 180483,
       "name": "Got Me Hypnotized",
       "url": "https://open.spotify.com/track/2U5ltDvaXprPejJ3X0MgAj"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Jack The House 3",
-        "url": "https://open.spotify.com/album/2JLEygazGNxcACvaFLNRmC"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        }
-      ],
-      "duration_ms": 184923,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/1UyYIqE4bTokxEK0DUpzTM"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Down to Love",
-        "url": "https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH"
-      },
-      "artists": [
-        {
-          "name": "ALPHA 9",
-          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 230551,
-      "name": "Down to Love",
-      "url": "https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/6RJqnygAEoIW9vF3zp8Imn"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 169846,
       "name": "Solace",
       "url": "https://open.spotify.com/track/3y6JNuWNpIYoreESetl4xj"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Down to Love",
+        "url": "https://open.spotify.com/album/2bq9mWHuy7sZtZ0WZGCuXH"
+      },
+      "artists": [
+        {
+          "name": "ALPHA 9",
+          "url": "https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 230551,
+      "name": "Down to Love",
+      "url": "https://open.spotify.com/track/7nfiLZ7uRsvG8pVH8q3ori"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Further Adventures of a Bass Fanatic, Pt. 3",
-        "url": "https://open.spotify.com/album/0As2RXbUTVcjWF7a0kkkdr"
-      },
-      "artists": [
-        {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
-        }
-      ],
-      "duration_ms": 152578,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/21PidoebHF2K7iyDyDlYIA"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Mr Big Flexa",
         "url": "https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 250671,
       "name": "Goat",
       "url": "https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Further Adventures of a Bass Fanatic, Pt. 3",
+        "url": "https://open.spotify.com/album/0As2RXbUTVcjWF7a0kkkdr"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        }
+      ],
+      "duration_ms": 152578,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/21PidoebHF2K7iyDyDlYIA"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "The Way You Say (Remixes)",
-        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "The Way You Say - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Talk To Me (with BRUX)",
         "url": "https://open.spotify.com/album/2shARbzXHKV7DDbTRmUDc4"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 238065,
       "name": "You - Edit",
       "url": "https://open.spotify.com/track/1jH7hiI0cpqofP2yI0dihS"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "The Way You Say (Remixes)",
+        "url": "https://open.spotify.com/album/75joaaxl6qB1zk55F298SJ"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "The Way You Say - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/5X3pRJnPw56cEVedjBj81m"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Feelin'",
         "url": "https://open.spotify.com/album/6g67MU2G9JmsIvuXf0yY9x"
       },
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5yuJO1AlY5ed1xAGfU06O5"
+        "name": "Real Good",
+        "url": "https://open.spotify.com/album/0tUSAE8xfXNgXgs0TBXdp0"
       },
       "artists": [
         {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        },
-        {
-          "name": "Ava Silver",
-          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
         }
       ],
-      "duration_ms": 238874,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3CTnDyzVL7L08EufEy8zcj"
+      "duration_ms": 148500,
+      "name": "Real Good",
+      "url": "https://open.spotify.com/track/2MdhLAHFmcMNcnjpNAbuEX"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1467,6 +1483,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Muzik",
+        "url": "https://open.spotify.com/album/5keWp7LxxbvDKdsR6k1lwK"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/1si6WHnb1ywwJ2lpFRUHcc"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Muzik",
+      "url": "https://open.spotify.com/track/7sxNIBN7lyjt2p6a9a9AwH"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "close to the ground",
         "url": "https://open.spotify.com/album/0HE3Jrsok3ALc5XRPrpVxN"
       },
@@ -1479,6 +1511,22 @@
       "duration_ms": 165290,
       "name": "close to the ground",
       "url": "https://open.spotify.com/track/4c9I1KjgMjT5d5kTqr4kVs"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Benjam\u00edn Carri\u00f3n",
+        "url": "https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1503,38 +1551,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Real Good",
-        "url": "https://open.spotify.com/album/0tUSAE8xfXNgXgs0TBXdp0"
-      },
-      "artists": [
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Real Good",
-      "url": "https://open.spotify.com/track/2MdhLAHFmcMNcnjpNAbuEX"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Muzik",
-        "url": "https://open.spotify.com/album/5keWp7LxxbvDKdsR6k1lwK"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/1si6WHnb1ywwJ2lpFRUHcc"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Muzik",
-      "url": "https://open.spotify.com/track/7sxNIBN7lyjt2p6a9a9AwH"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "MC Tip",
         "url": "https://open.spotify.com/album/2C7Kyc7qBemwdB7WL31nIc"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 307419,
       "name": "MC Tip",
       "url": "https://open.spotify.com/track/7vY3fkvCfJpisPjGpHnl1t"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Benjam\u00edn Carri\u00f3n",
-        "url": "https://open.spotify.com/album/0UacT2HwlzcN9bnbtqI98k"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Benjam\u00edn Carri\u00f3n",
-      "url": "https://open.spotify.com/track/2wJvLzX1W7VQSx0wuTgxCp"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Invisible Hand",
-        "url": "https://open.spotify.com/album/5g1eAoNsknjYKbUMF48zsK"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
-        }
-      ],
-      "duration_ms": 401392,
-      "name": "Invisible Hand",
-      "url": "https://open.spotify.com/track/6eJILKY8DDXdtMk6ZNcB9b"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Yoruba",
         "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 427627,
       "name": "Yoruba",
       "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Invisible Hand",
+        "url": "https://open.spotify.com/album/5g1eAoNsknjYKbUMF48zsK"
+      },
+      "artists": [
+        {
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
+        }
+      ],
+      "duration_ms": 401392,
+      "name": "Invisible Hand",
+      "url": "https://open.spotify.com/track/6eJILKY8DDXdtMk6ZNcB9b"
     },
     {
       "added_at": "2022-11-11 05:00:00",

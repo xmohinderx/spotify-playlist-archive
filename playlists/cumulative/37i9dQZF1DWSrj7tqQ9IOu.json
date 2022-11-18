@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Oscar Anton",
+  "description": "The best French indie tracks right now. Cover: La Femme",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -239,6 +239,24 @@
       "duration_ms": 241938,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/2zgdLtgbKNKbCxu9XNY02C"
+    },
+    {
+      "album": {
+        "name": "Aux larmes",
+        "url": "https://open.spotify.com/album/0aBMvGMa1RpW4CuSI0lD9E"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276740,
+      "name": "Aux larmes",
+      "url": "https://open.spotify.com/track/3zOw6BCIkalIfA8pS9bYTX"
     },
     {
       "album": {
@@ -948,6 +966,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9samour",
+        "url": "https://open.spotify.com/album/4dIh0BBJ9ODCLY2Sy3pK7x"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave Blanc",
+          "url": "https://open.spotify.com/artist/6bQE7tlwfDdiBAAdo4EKyL"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "D\u00e9samour",
+      "url": "https://open.spotify.com/track/0O3R6dT3geP0UutTeo0KTy"
+    },
+    {
+      "album": {
         "name": "En ce moment",
         "url": "https://open.spotify.com/album/15tJJkXFNyovjtZ9nTVu3D"
       },
@@ -1592,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "Je ne t'appartiens pas",
+        "url": "https://open.spotify.com/album/4GN8F1jaywulz1Y88JkdEc"
+      },
+      "artists": [
+        {
+          "name": "Toboggan",
+          "url": "https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157895,
+      "name": "Je ne t'appartiens pas",
+      "url": "https://open.spotify.com/track/4BHHWZKuwXCD4ipP8WhFhD"
+    },
+    {
+      "album": {
         "name": "Je reste cool",
         "url": "https://open.spotify.com/album/5vRvczFRaV4KYk0e3fwJr4"
       },
@@ -1715,7 +1769,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 198500,
       "name": "Kirk",
       "url": "https://open.spotify.com/track/2MLIOj1RXlVYWbSlG7FODB"
@@ -2406,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "PHANTASIA",
+        "url": "https://open.spotify.com/album/2EVQB27DWqa2tnMhM16zPg"
+      },
+      "artists": [
+        {
+          "name": "Nova\u00e9 Lita",
+          "url": "https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167124,
+      "name": "Morphine",
+      "url": "https://open.spotify.com/track/0g8woFgSUJHgJ3tuKxMezr"
+    },
+    {
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/196KcyXjX9vkmXOhGw5YBu"
       },
@@ -2705,7 +2777,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 202893,
       "name": "Pacific Ave",
       "url": "https://open.spotify.com/track/4sUznhMUu1NCVZYuO5mVkF"
@@ -2777,7 +2849,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 217077,
       "name": "Pas d'ici",
       "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
@@ -3009,7 +3081,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 182000,
       "name": "rien dire",
       "url": "https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD"
@@ -3383,6 +3455,28 @@
       "duration_ms": 228601,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu"
+    },
+    {
+      "album": {
+        "name": "Tactile",
+        "url": "https://open.spotify.com/album/5QJW7EAwmX2dNIttVMPkt6"
+      },
+      "artists": [
+        {
+          "name": "Fhin",
+          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
+        },
+        {
+          "name": "Alo\u00efse Sauvage",
+          "url": "https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "Tactile",
+      "url": "https://open.spotify.com/track/4mhQB2RbdTafiNaw6mIYnX"
     },
     {
       "album": {
@@ -3893,7 +3987,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 236240,
       "name": "Winter Solstice",
       "url": "https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8"

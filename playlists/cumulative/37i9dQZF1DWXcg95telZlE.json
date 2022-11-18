@@ -1660,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "The Patti Page Collection: The Mercury Years, Volume 1",
+        "url": "https://open.spotify.com/album/6UoTP4eval115JObrelnEr"
+      },
+      "artists": [
+        {
+          "name": "Patti Page",
+          "url": "https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/0CtbDuvvGLTLSFQ3GcQgEk"
+    },
+    {
+      "album": {
         "name": "Rockin' Gals Of The 1950's",
         "url": "https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4"
       },
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 185000,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/0BHroBUvBAp561BYqC9LRK"

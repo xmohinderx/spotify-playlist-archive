@@ -1202,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Croydon House",
+        "url": "https://open.spotify.com/album/4LIIXzv0jOygIHKLbQ8IoV"
+      },
+      "artists": [
+        {
+          "name": "Pinch",
+          "url": "https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368250,
+      "name": "Croydon House",
+      "url": "https://open.spotify.com/track/6Yo78tKJzSXFveeyvjjY2E"
+    },
+    {
+      "album": {
         "name": "Congi Selection",
         "url": "https://open.spotify.com/album/0S3IJ7jEufwjkMYfFuuu0n"
       },
@@ -6519,7 +6537,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 189295,
       "name": "Submit",
       "url": "https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc"

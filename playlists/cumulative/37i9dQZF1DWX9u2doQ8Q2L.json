@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 206933,
       "name": "Amber - DJ Mitsu the Beats Remix",
       "url": "https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B"
@@ -734,6 +734,32 @@
     },
     {
       "album": {
+        "name": "Strides Remixes",
+        "url": "https://open.spotify.com/album/41gXeGhbitx4bPs69Epqof"
+      },
+      "artists": [
+        {
+          "name": "Nariaki Obukuro",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        },
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        },
+        {
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Butter - Hidden Spheres Remix",
+      "url": "https://open.spotify.com/track/30WL8qJoF0RUOOwmkALa7T"
+    },
+    {
+      "album": {
         "name": "BYE BYE",
         "url": "https://open.spotify.com/album/5QqEam7ebMRqT4Mf0xO0h0"
       },
@@ -1145,7 +1171,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 144011,
       "name": "Day N Night",
       "url": "https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt"
@@ -2970,6 +2996,24 @@
     },
     {
       "album": {
+        "name": "Lucky Police Day",
+        "url": "https://open.spotify.com/album/5Wvqz82UIUPwBjW9O7mVKF"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Lucky Police Day",
+      "url": "https://open.spotify.com/track/1AWqAFMimxtdidUreAHgBh"
+    },
+    {
+      "album": {
         "name": "MAD DOCTOR",
         "url": "https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv"
       },
@@ -3214,7 +3258,7 @@
     },
     {
       "album": {
-        "name": "Mirage",
+        "name": "Mirage Op.1",
         "url": "https://open.spotify.com/album/2u6IqayyTuhTHxT3elTrCT"
       },
       "artists": [
@@ -3231,7 +3275,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 247787,
-      "name": "Mirage",
+      "name": "Mirage Op.1",
       "url": "https://open.spotify.com/track/3oJOpUiLV5btPhLXTKiT6U"
     },
     {
@@ -3291,6 +3335,24 @@
       "duration_ms": 164120,
       "name": "Mocktails",
       "url": "https://open.spotify.com/track/2cUhZvGJpb3gUfH61am2OL"
+    },
+    {
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "album": {
@@ -6246,6 +6308,32 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 (\u306a\u3093\u306b\u3082)",
+        "url": "https://open.spotify.com/album/452kf0oED6IcdUW6bD7yF9"
+      },
+      "artists": [
+        {
+          "name": "FORD TRIO",
+          "url": "https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN"
+        },
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        },
+        {
+          "name": "Kaoru Hashimoto",
+          "url": "https://open.spotify.com/artist/62B3QsAlRGtUsbV8gFuVPe"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e40\u0e25\u0e22 - \u306a\u3093\u306b\u3082",
+      "url": "https://open.spotify.com/track/5Scr8dCYJNBoAWSB5StfDV"
+    },
+    {
+      "album": {
         "name": "SLOW DOWN THEORY / \u3048\u3048\u3058\u3083\u306a\u3044\u304b '22",
         "url": "https://open.spotify.com/album/1KBo7Om7i1VqDmXGmAor3Z"
       },
@@ -6483,7 +6571,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 231895,
       "name": "\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3057\u3087 (feat. Awich)",
       "url": "https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI"
@@ -6613,7 +6701,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 232232,
       "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
       "url": "https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5"
@@ -6649,7 +6737,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 284531,
       "name": "\u30d4\u30f3\u30c8",
       "url": "https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe"
@@ -7617,7 +7705,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 372800,
       "name": "\u6c38\u4e45\u5f57\u661f\u77ed\u6b4c\u6c34",
       "url": "https://open.spotify.com/track/71YRYbFlbyYXLHhZN2zpDJ"

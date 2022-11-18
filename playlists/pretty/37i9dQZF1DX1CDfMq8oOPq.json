@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: ABRONCA",
-  "num_followers": 24267,
+  "num_followers": 24302,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMGQ4Mzk2Nzg2YjQyMmMzOGU4YzBlMDUwYjcyMzM2YTdm",
+  "snapshot_id": "MTY2ODEzNTY2MCwwMDAwMDAwMDY5YzU5ZGZkZTIwNDQ5NjQ5MTQ1MzEyOTMzOTQ4MjY2",
   "tracks": [
     {
       "added_at": "2022-11-11 03:01:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Melhor do Ano",
-      "url": "https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl"
-    },
-    {
-      "added_at": "2022-11-11 03:01:00",
-      "album": {
         "name": "De F\u00e9",
         "url": "https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 144000,
       "name": "De F\u00e9",
       "url": "https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72"
+    },
+    {
+      "added_at": "2022-11-11 03:01:00",
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Melhor do Ano",
+      "url": "https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -795,8 +795,8 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h"
+        "name": "Girlgang",
+        "url": "https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 219685,
-      "name": "Mob",
-      "url": "https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN"
+      "duration_ms": 235350,
+      "name": "Girlgang",
+      "url": "https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I"
     },
     {
       "added_at": "2022-11-11 03:01:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-11-11 03:01:00",
       "album": {
-        "name": "Girlgang",
-        "url": "https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ"
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 235350,
-      "name": "Girlgang",
-      "url": "https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I"
+      "duration_ms": 219685,
+      "name": "Mob",
+      "url": "https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN"
     },
     {
       "added_at": "2022-11-11 03:01:00",

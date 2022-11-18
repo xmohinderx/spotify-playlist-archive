@@ -2,9 +2,9 @@
 
 ### [Road Trip To Tokyo](https://open.spotify.com/playlist/37i9dQZF1DWV8IND7NkP2W)
 
-> The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
+> The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-518 songs - 23 hr 9 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+520 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [AIRPLANE](https://open.spotify.com/track/4sbyEn8z6ZInVFHG9dMX2H) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [AIRPLANE](https://open.spotify.com/album/4xXPSCOmahxADTYOhb3b1l) | 3:42 | 2021-12-23 | 2022-07-28 |
 | [ame](https://open.spotify.com/track/3Aof4M4zDeX2KPORAHfKFH) | [babaroa](https://open.spotify.com/artist/7AIZziu2N7IegfZyEPoQp7) | [ame](https://open.spotify.com/album/1KLCgbxZkoBFsoTEnLi7XV) | 4:51 | 2021-12-23 | 2022-07-26 |
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2021-12-23 |  |
-| [Andromeda](https://open.spotify.com/track/5OGIq5No42hYcjWsVub19j) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Andromeda](https://open.spotify.com/album/0njXoQ7vLXMJIjx1b6Jlid) | 1:53 | 2021-12-23 |  |
+| [Andromeda](https://open.spotify.com/track/5OGIq5No42hYcjWsVub19j) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Andromeda](https://open.spotify.com/album/0njXoQ7vLXMJIjx1b6Jlid) | 1:53 | 2021-12-23 | 2022-11-18 |
 | [Another Dream](https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Another Dream](https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8) | 2:51 | 2021-12-23 | 2022-11-11 |
 | [Another Moment](https://open.spotify.com/track/7iKRSD3veF495sEM174M97) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy) | [Another Moment](https://open.spotify.com/album/4G5Va0UINm6wkRsUJgLLxL) | 4:08 | 2021-12-23 | 2022-07-23 |
 | [Aquamarine](https://open.spotify.com/track/6lzL8uBR5CMV25mC8mOgPA) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Aquamarine](https://open.spotify.com/album/52z4GzIPY0zJyf6NtEVUbD) | 3:37 | 2022-01-06 | 2022-07-28 |
@@ -100,7 +100,7 @@
 | [Cumulonimbus](https://open.spotify.com/track/0TWfmcz5fsrRvaD01Yf5eM) | [Takayuki Hashiguchi](https://open.spotify.com/artist/18eJdTU5Sepx9LX7KHZv1k), [Michiaki Shirata](https://open.spotify.com/artist/3B6nen9hs1iq9MGAy4aCBL) | [The Sun Rises Everywhere \#1](https://open.spotify.com/album/411a5hlbXHUm6r1ipYABjd) | 2:12 | 2021-12-23 | 2022-07-10 |
 | [Curiosity](https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [coyolate](https://open.spotify.com/artist/0EvzMWIv5MlTboNHIVDtmJ) | [Curiosity](https://open.spotify.com/album/6eeJBJnn3HPMSrAJToQLoZ) | 2:43 | 2021-12-23 | 2022-07-29 |
 | [Curtain Call](https://open.spotify.com/track/38XfPiYuoayjbUX9Q9qOzK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Curtain Call](https://open.spotify.com/album/59TQxHntLy3yBkzajpmqdp) | 1:44 | 2021-12-23 | 2022-07-17 |
-| [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 |  |
+| [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-11-18 |
 | [dawn of diego martin](https://open.spotify.com/track/0yedPe6bSN6TU4lvxApeqb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [dawn of diego martin](https://open.spotify.com/album/3mfY09Oj9fEjPV4ckbZcSM) | 3:21 | 2021-12-23 | 2022-07-27 |
 | [DAY OFF](https://open.spotify.com/track/50O8IO9mY1fhlgB9iOnsxG) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [DAY OFF](https://open.spotify.com/album/5lWmKhQToRBkp4GXpPufKG) | 3:46 | 2021-12-23 | 2022-07-17 |
 | [daydream](https://open.spotify.com/track/0O7d31gAMyhY9QhxmR2OEK) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [daydream](https://open.spotify.com/album/4KfAM2THqC8b3Wjb0HTx6R) | 2:39 | 2021-12-23 | 2022-07-29 |
@@ -143,6 +143,7 @@
 | [evening](https://open.spotify.com/track/5DEhdsysvAgKaEse1YMDYa) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [evening](https://open.spotify.com/album/3iBvFy0IMlwBQXzxL07oCC) | 3:22 | 2021-12-23 | 2022-07-27 |
 | [Evening Stroll in Shibuya](https://open.spotify.com/track/1GVhKeYitcGUCarDWKve7S) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Evening Stroll in Shibuya](https://open.spotify.com/album/7D8sp1luG3dkCGOkzSpLFz) | 2:50 | 2021-12-23 | 2022-07-26 |
 | [eyes talk](https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [eyes talk](https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS) | 3:28 | 2022-03-17 |  |
+| [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 |  |
 | [Feynman](https://open.spotify.com/track/34DPkGBdvuvCdNt0YaOsby) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Resynthesis \(Green\)](https://open.spotify.com/album/0bpJi2ZRRx8PNiD5qGEfO2) | 2:23 | 2022-03-24 | 2022-04-20 |
 | [find a way](https://open.spotify.com/track/4gdNaZ3GUe9mDGy5OZQAe4) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir) | [find a way](https://open.spotify.com/album/1h4KtvcjaJ7kVcs0M47ETp) | 3:14 | 2021-12-23 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/2HPAE9dtpbx385HdUySePp) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Seven Winds](https://open.spotify.com/album/6oePpBmzhdATyTLTAmPAjS) | 2:35 | 2021-12-23 | 2022-07-28 |
@@ -425,6 +426,7 @@
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 |  |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 |  |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |
+| [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 |  |
 | [Starting point](https://open.spotify.com/track/0j1JcVzUyAUSJjuzzriAnv) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Starting point](https://open.spotify.com/album/18tf8ePtBy0DbHh771cSms) | 2:18 | 2021-12-23 | 2022-04-17 |
 | [Stay Around](https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Stay Around](https://open.spotify.com/album/6QYCTUgRSDhqOYqYVRKoA5) | 2:01 | 2022-04-07 |  |
 | [Stay Vision](https://open.spotify.com/track/3Gfh3KyQG1CXIUWkjHBSdh) | [Doubutsu System](https://open.spotify.com/artist/1rZhGbtNcaBkLQ9eRNcyd1) | [Stay Vision](https://open.spotify.com/album/4fFov7GjS6C2JBVWNcqKCZ) | 2:04 | 2021-12-23 | 2022-07-21 |

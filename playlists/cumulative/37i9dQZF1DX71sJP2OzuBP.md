@@ -4,7 +4,7 @@
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-409 songs - 1 day 2 hr 51 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
+410 songs - 1 day 2 hr 55 min - [published](https://open.spotify.com/playlist/4yEvFX7VUvJuAPsPMp0BtX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Hidden Pain \- "The Post\-Truth World"Theme Song](https://open.spotify.com/track/712hyUlf98lUI5ajbx5tO3) | [Edward Chen](https://open.spotify.com/artist/0dfSUAJNqVKUe9Zqs2gQoY) | [Hidden Pain \("The Post\-Truth World"Theme Song\)](https://open.spotify.com/album/4W4AVddVY0UFubgOKrmv0A) | 4:21 | 2022-10-31 | 2022-11-15 |
 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 | 2022-06-06 | 2022-09-06 |
 | [Honey Honey](https://open.spotify.com/track/4cq105n8KcagpXoxvihMBo) | [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [Honey Honey](https://open.spotify.com/album/0qpZEg7VBqYfjZJE5BnMVE) | 3:27 | 2022-06-13 | 2022-06-28 |
-| [I Heard You](https://open.spotify.com/track/0AZk9y3RghBK7bCbW3jXkY) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [I Heard You](https://open.spotify.com/album/6DahZHcpYZYMghQwRWSiG2) | 4:05 | 2022-09-05 |  |
+| [I Heard You](https://open.spotify.com/track/0AZk9y3RghBK7bCbW3jXkY) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [I Heard You](https://open.spotify.com/album/6DahZHcpYZYMghQwRWSiG2) | 4:05 | 2022-09-05 | 2022-11-18 |
+| [I Heard You](https://open.spotify.com/track/5WqScUHIGmu58YSI4Zw9h9) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [He Says, She Says](https://open.spotify.com/album/4J10tX4X1ygODR1tZraVeS) | 4:05 | 2022-11-14 |  |
 | [Ignite The Fire](https://open.spotify.com/track/4fTcTSITbNHIbzcJ7cvaik) | [Tingzhi.Hz](https://open.spotify.com/artist/5bRgm42udQG0UHbfIA83bW) | [Ignite The Fire](https://open.spotify.com/album/6TN1CPzCKEiP2yx1yQ5hMN) | 3:21 | 2022-10-10 | 2022-10-25 |
 | [It's U](https://open.spotify.com/track/3q9Zq1DP34zZWCDGBzc9WJ) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [It's U](https://open.spotify.com/album/1LWDaEfJPiSZxNcakyNfGI) | 3:24 | 2022-09-26 | 2022-10-11 |
 | [I’m Sorry](https://open.spotify.com/track/1rrCBeupUHvQjcjFWIUJU5) | [徐靖玟](https://open.spotify.com/artist/5xnz0Uwx90USsDrdTkskup) | [I'm Sorry](https://open.spotify.com/album/1U0MN5bZuFrH2bvCak6Bfx) | 5:10 | 2022-10-17 | 2022-11-15 |

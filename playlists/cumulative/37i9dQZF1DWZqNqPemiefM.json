@@ -2193,7 +2193,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 264000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7f69rFN3ec1Qd6bqqgF2qo"
@@ -2247,7 +2247,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 177600,
       "name": "Forgetful Angel",
       "url": "https://open.spotify.com/track/3fjXCW8waY8YFu66jnT4BP"
@@ -2409,7 +2409,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 196402,
       "name": "Gazing",
       "url": "https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u"
@@ -2569,7 +2569,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 264500,
       "name": "Green Forest",
       "url": "https://open.spotify.com/track/7keZ9iOh6oLPOjUmIrRSgO"
@@ -3283,7 +3283,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-18",
       "duration_ms": 244000,
       "name": "Invisible Contact",
       "url": "https://open.spotify.com/track/0GYisiW8aXpv9fGTwIDafM"
@@ -3435,7 +3435,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 473106,
       "name": "kokyu",
       "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
@@ -7089,7 +7089,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 520039,
       "name": "twilight",
       "url": "https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd"
@@ -7475,6 +7475,24 @@
       "duration_ms": 223170,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/3fTc03pUwNmwPrLxMaAPvF"
+    },
+    {
+      "album": {
+        "name": "Weightless Moonlit Night",
+        "url": "https://open.spotify.com/album/0lX3Rz7vq5BEQgDOgroatN"
+      },
+      "artists": [
+        {
+          "name": "coconoe",
+          "url": "https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Weightless Moonlit Night",
+      "url": "https://open.spotify.com/track/2MwfsAh3apy4cCU8O0oqwo"
     },
     {
       "album": {

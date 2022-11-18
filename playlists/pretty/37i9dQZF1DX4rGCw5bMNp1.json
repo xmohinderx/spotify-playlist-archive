@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "num_followers": 117540,
+  "num_followers": 117563,
   "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMGI4YzgyMDQ1Yjg4ZGNjYWIxNWQ1YjZjZjNjYjIyZmJl",
+  "snapshot_id": "MTY0ODQ5OTcyOCwwMDAwMDAwMDI5ZmZiM2NkOTc1M2M1Njc3ZjZhOGNiNTcyYjlmYjVm",
   "tracks": [
     {
       "added_at": "2016-03-21 20:31:35",
@@ -283,22 +283,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "They call me the snake",
-        "url": "https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU"
-      },
-      "artists": [
-        {
-          "name": "Luther \"Snake Boy\" Johnson",
-          "url": "https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM"
-        }
-      ],
-      "duration_ms": 337600,
-      "name": "They call me the snake",
-      "url": "https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 219559,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "They call me the snake",
+        "url": "https://open.spotify.com/album/6iWOfKBUyJjqc0kAx20DuU"
+      },
+      "artists": [
+        {
+          "name": "Luther \"Snake Boy\" Johnson",
+          "url": "https://open.spotify.com/artist/0K2EuGHCPWyC0UK91mapEM"
+        }
+      ],
+      "duration_ms": 337600,
+      "name": "They call me the snake",
+      "url": "https://open.spotify.com/track/7lbC5pd1ahrDiIf9gLUhxx"
     },
     {
       "added_at": "2016-03-21 20:31:35",
@@ -459,22 +459,6 @@
     {
       "added_at": "2018-02-27 18:08:29",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Lovesick Soul",
-      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
-    },
-    {
-      "added_at": "2018-02-27 18:08:29",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 185773,
       "name": "Somebody Have Mercy",
       "url": "https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt"
+    },
+    {
+      "added_at": "2018-02-27 18:08:29",
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Lovesick Soul",
+      "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
     },
     {
       "added_at": "2016-03-21 20:31:35",

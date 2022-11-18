@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 57920,
+  "num_followers": 58084,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYzOTYwMCwwMDAwMDAwMGQwNDEyY2E0ZjlkZmMzMjQyZmI2NmFjY2ZkYzc1MzJh",
+  "snapshot_id": "MTY2ODYzOTYwMCwwMDAwMDAwMDQyNWIyYjc5NmZlMGE3ZGVkZDgyMzZkMTFlMTA2Njkz",
   "tracks": [
     {
       "added_at": "2022-10-28 13:27:40",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
-      "added_at": "2022-11-17 01:24:38",
+      "added_at": "2022-11-18 01:28:17",
       "album": {
         "name": "Remixed 2022",
         "url": "https://open.spotify.com/album/6gUKd1vXmHzBnEaKefAtkd"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
-      "added_at": "2022-11-17 01:24:38",
+      "added_at": "2022-11-18 01:28:17",
       "album": {
         "name": "Can You Move To The Beat",
         "url": "https://open.spotify.com/album/08kYk1OYfMLxHFM9l2hrUi"
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "Silence EP",
-        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 509090,
-      "name": "Future Dust - Original Mix",
-      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
         "name": "Formula EP",
         "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 433971,
       "name": "Doppler",
       "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
+        "name": "Silence EP",
+        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 509090,
+      "name": "Future Dust - Original Mix",
+      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
-      "added_at": "2022-11-17 01:24:38",
+      "added_at": "2022-11-18 01:28:17",
       "album": {
         "name": "Something Unreal",
         "url": "https://open.spotify.com/album/16yV0fyBdH0wqT74rEKsPD"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK"
     },
     {
-      "added_at": "2022-11-17 01:24:38",
+      "added_at": "2022-11-18 01:28:17",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/12hjUaYiyK6xe4oz2lllu5"
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
-        "name": "In Trance",
-        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
-      },
-      "artists": [
-        {
-          "name": "Dominik Saltevski",
-          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
-        }
-      ],
-      "duration_ms": 357305,
-      "name": "In Trance",
-      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/1orZtgQNW26jOxSDSsZ9jK"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 175576,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5RJHpBHM1gBJYrB9YlFnNG"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
+        "name": "In Trance",
+        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 357305,
+      "name": "In Trance",
+      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
     },
     {
       "added_at": "2022-10-28 13:27:40",
@@ -731,6 +731,42 @@
     {
       "added_at": "2022-10-28 13:27:40",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 400172,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
+        "name": "Hypnos",
+        "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 289928,
+      "name": "Hypnos",
+      "url": "https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww"
+    },
+    {
+      "added_at": "2022-10-28 13:27:40",
+      "album": {
         "name": "Light + Shadow Remixes, Vol. 1",
         "url": "https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO"
       },
@@ -767,42 +803,6 @@
       "duration_ms": 405737,
       "name": "Hydro",
       "url": "https://open.spotify.com/track/0nmNR0KNc1in7qBGXmzEZY"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 400172,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
-    },
-    {
-      "added_at": "2022-10-28 13:27:40",
-      "album": {
-        "name": "Hypnos",
-        "url": "https://open.spotify.com/album/2cMqYqiJeFv7YfWwc1GF1P"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 289928,
-      "name": "Hypnos",
-      "url": "https://open.spotify.com/track/347YMNFo0pJ43u0joTb8ww"
     },
     {
       "added_at": "2022-10-28 13:27:40",

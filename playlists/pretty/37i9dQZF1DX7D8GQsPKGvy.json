@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 501483,
+  "num_followers": 501680,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMGFkNmIyZmY5MzU5MzQzYzRlNTVjNDM3OGFkYjk0MDNl",
+  "snapshot_id": "MTY2MjEyOTEwNSwwMDAwMDAwMDcyZjFjYzFhNWQyYTIwM2MwMGM2Zjc3ODQ0ZmMyZDRk",
   "tracks": [
     {
       "added_at": "2022-09-02 14:31:45",
@@ -503,26 +503,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Love Myself (Remixes)",
-        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Ian Spurrier",
-          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Love Myself - KREAM Remix",
-      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Delicate (Seeb Remix)",
         "url": "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 173265,
       "name": "Delicate - Seeb Remix",
       "url": "https://open.spotify.com/track/2Sy2oGjP5RYB4cLVoDU0Gz"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Love Myself (Remixes)",
+        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Ian Spurrier",
+          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Love Myself - KREAM Remix",
+      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -567,6 +567,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Sweet but Psycho (The Remixes)",
+        "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Sweet but Psycho - Morgan Page Dance Remix",
+      "url": "https://open.spotify.com/track/1gwwks3lIsvJq5pDJ82fKK"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Something Just Like This (Remixes)",
         "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 252933,
       "name": "Something Just Like This - Alesso Remix",
       "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Sweet but Psycho (The Remixes)",
-        "url": "https://open.spotify.com/album/5wYR3in9srVuVeDajc7KeL"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Sweet but Psycho - Morgan Page Dance Remix",
-      "url": "https://open.spotify.com/track/1gwwks3lIsvJq5pDJ82fKK"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -747,30 +747,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Body (Dzeko Remix)",
-        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        },
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Body - Dzeko Remix",
-      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Body (Dzeko Remix)",
+        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        },
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Body - Dzeko Remix",
+      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -987,26 +987,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 228300,
-      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
-      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Get Weird - Rarities & Remixes",
         "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 198909,
       "name": "Black Magic - Cahill Remix",
       "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 228300,
+      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Malibu (The Remixes)",
-        "url": "https://open.spotify.com/album/4kWPS9C0JwMh9bdeesSuAf"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Malibu - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1NvSQe0i4ApmQCnBI8Jwzq"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/7AviXsnkUYIeIJB0zSfV8y"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 231688,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",
       "url": "https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Malibu (The Remixes)",
+        "url": "https://open.spotify.com/album/4kWPS9C0JwMh9bdeesSuAf"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Malibu - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1NvSQe0i4ApmQCnBI8Jwzq"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Ruin My Life (Remixes)",
-        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Steve James",
-          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Ruin My Life - Steve James Remix",
-      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "High Hopes (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/1cBoBrARkIfC4wGhxlK2qB"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 185714,
       "name": "High Hopes - Don Diablo Remix",
       "url": "https://open.spotify.com/track/1FlIzyCvRFQUE4pc7PiaIo"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
+        "name": "Ruin My Life (Remixes)",
+        "url": "https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Steve James",
+          "url": "https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Ruin My Life - Steve James Remix",
+      "url": "https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -2059,30 +2059,6 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Carry On (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Carry On - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
         "name": "Lullaby (Remixes)",
         "url": "https://open.spotify.com/album/0NxQ3gYxmhnjg0NFwO45KT"
       },
@@ -2135,6 +2111,30 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Carry On (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "Carry On - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "24K Magic (R3hab Remix)",
         "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
       },
@@ -2151,26 +2151,6 @@
       "duration_ms": 158678,
       "name": "24K Magic - R3hab Remix",
       "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
-    },
-    {
-      "added_at": "2022-09-02 14:31:45",
-      "album": {
-        "name": "Still Falling For You (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Still Falling For You - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF"
     },
     {
       "added_at": "2022-09-02 14:31:45",
@@ -2195,6 +2175,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
+        "name": "Still Falling For You (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/2Kv7vGnrsyF0N2FLW6pioM"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Still Falling For You - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/1KqquoEp6nWY1s46lwFoTF"
+    },
+    {
+      "added_at": "2022-09-02 14:31:45",
+      "album": {
         "name": "Princess of China",
         "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
@@ -2215,26 +2215,26 @@
     {
       "added_at": "2022-09-02 14:31:45",
       "album": {
-        "name": "Giant (with Rag'n'Bone Man) [Remixes]",
-        "url": "https://open.spotify.com/album/1z9yyq4FAPSplsvP7hvwWw"
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 193297,
-      "name": "Giant (with Rag'n'Bone Man) - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/7kLWq3Z9XSs8cHTLB9nl0w"
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     }
   ],
   "unique_name": "Remix Hits",

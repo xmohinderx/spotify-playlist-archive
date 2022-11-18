@@ -190,6 +190,24 @@
     },
     {
       "album": {
+        "name": "NJDDAMC",
+        "url": "https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89"
+      },
+      "artists": [
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128580,
+      "name": "algu\u00e9m",
+      "url": "https://open.spotify.com/track/6UDPt5g8OZtUHIQDUGztQc"
+    },
+    {
+      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/5EeiFSXE4afZ0F5s06rRF8"
       },

@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3C2a8WD61N3Q6lCaYnXywp"
+      },
+      "artists": [
+        {
+          "name": "Ridi",
+          "url": "https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183214,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/5A0BU4G7Cj5HWfRMfgCKhe"
+    },
+    {
+      "album": {
         "name": "Beautiful Day",
         "url": "https://open.spotify.com/album/2Xp0U1Ug2UXkCZhlKEsh4I"
       },
@@ -721,7 +739,7 @@
           "url": "https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb"
         }
       ],
-      "date_added": "2022-11-10",
+      "date_added": "2022-11-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204210,

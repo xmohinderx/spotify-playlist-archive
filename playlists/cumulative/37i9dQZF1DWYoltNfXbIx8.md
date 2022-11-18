@@ -4,7 +4,7 @@
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-99 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
+100 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/17snTQx4nUc5vx1ksDMIHE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Fim de Semana no Parque](https://open.spotify.com/track/6NKchtT70MibwEZfK2ksjl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 7:47 | 2022-02-25 |  |
 | [Fúria de Titãs](https://open.spotify.com/track/6t1QyknKQsFnDPPdllGaAl) | [Sp Funk](https://open.spotify.com/artist/6gOXHHfszKFFvIaKUe2aTN) | [O Lado B do Hip Hop](https://open.spotify.com/album/1Dt0zURMcpStSTSsDFIOVP) | 3:56 | 2022-02-25 |  |
 | [Homem na Estrada](https://open.spotify.com/track/36fttUvKnvYuzB5ASzxhkD) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ) | 8:41 | 2022-02-25 |  |
-| [Isso Aqui É uma Guerra](https://open.spotify.com/track/0aaVL58r9tX4wUrJM9K0RZ) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/0NVLGw47LBem7p3rsQrrV8) | 4:26 | 2022-02-25 |  |
+| [Isso Aqui É uma Guerra](https://open.spotify.com/track/77XTtDeV1SljrkeM3TXUsr) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/6klzQ2I4ekdPh2jGSJ41PW) | 4:26 | 2022-02-25 |  |
+| [Isso Aqui É uma Guerra](https://open.spotify.com/track/0aaVL58r9tX4wUrJM9K0RZ) | [Facção Central](https://open.spotify.com/artist/3V3rRpp5sbiBNY34AdnplK) | [Versos Sangrentos](https://open.spotify.com/album/0NVLGw47LBem7p3rsQrrV8) | 4:26 | 2022-02-25 | 2022-11-18 |
 | [Jesus Chorou](https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 7:51 | 2022-02-25 |  |
 | [L\. Gelada \- 3 da Madrugada](https://open.spotify.com/track/32mcFZ8uedc5Wd5xoZsNXe) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Declaração de Guerra](https://open.spotify.com/album/0qMoXv72zaGupEdMRJmjNg) | 7:21 | 2022-02-25 |  |
 | [Lei da Periferia](https://open.spotify.com/track/0CoYJSj7z3XiUqyIyxY0hO) | [Consciência Humana](https://open.spotify.com/artist/1nwuifu5rxgVlrGwjjoJOt) | [Entre a Adolescência e o Crime](https://open.spotify.com/album/6ndOfkbN2BiLUzE4x5tprw) | 7:21 | 2022-02-25 |  |

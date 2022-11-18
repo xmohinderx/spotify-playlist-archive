@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 629783,
+  "num_followers": 629780,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2Nzk5NCwwMDAwMDAwMGNiNzdhZjc5MzNkNjhjZWY5ZGMyYTc4ZWZkN2U2MGUz",
+  "snapshot_id": "MTY2ODE2Nzk5NCwwMDAwMDAwMDJhODQ2NDJhY2Q3N2EyMzM4ZjE1ZTI2MjZhMGZiMzVl",
   "tracks": [
     {
       "added_at": "2022-10-21 19:16:24",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
     },
     {
+      "added_at": "2022-11-18 01:47:13",
+      "album": {
+        "name": "Quiet Motions",
+        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Quiet Motions",
+      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
+    },
+    {
       "added_at": "2022-10-21 19:16:24",
       "album": {
         "name": "Reflections",
@@ -375,22 +391,6 @@
       "duration_ms": 224000,
       "name": "Serum",
       "url": "https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM"
-    },
-    {
-      "added_at": "2022-11-17 01:44:55",
-      "album": {
-        "name": "Quiet Motions",
-        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
-      },
-      "artists": [
-        {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Quiet Motions",
-      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Deep Thoughts",
-        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
-      },
-      "artists": [
-        {
-          "name": "Danny Shamoun",
-          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Deep Thoughts",
-      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 188000,
       "name": "Takamatsu",
       "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
+      },
+      "artists": [
+        {
+          "name": "Danny Shamoun",
+          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Deep Thoughts",
+      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Neend",
-        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
-      },
-      "artists": [
-        {
-          "name": "Asanah",
-          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "Neend",
-      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 134210,
       "name": "We Are Forever",
       "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Neend",
+        "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
+      },
+      "artists": [
+        {
+          "name": "Asanah",
+          "url": "https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Neend",
+      "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Caleufu",
-        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
-      },
-      "artists": [
-        {
-          "name": "Caleufu",
-          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
-        }
-      ],
-      "duration_ms": 127693,
-      "name": "Ali",
-      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "The Land of the Sun",
         "url": "https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 238725,
       "name": "The Land of the Sun",
       "url": "https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Caleufu",
+        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
+      },
+      "artists": [
+        {
+          "name": "Caleufu",
+          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
+        }
+      ],
+      "duration_ms": 127693,
+      "name": "Ali",
+      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1279,6 +1279,22 @@
       "duration_ms": 194000,
       "name": "Ver Weg",
       "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
+    },
+    {
+      "added_at": "2022-11-18 01:47:13",
+      "album": {
+        "name": "You're Filled With Courage",
+        "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Corin",
+          "url": "https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "You're Filled With Courage",
+      "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1439,22 +1455,6 @@
       "duration_ms": 112660,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
-    },
-    {
-      "added_at": "2022-11-17 01:44:55",
-      "album": {
-        "name": "You're Filled With Courage",
-        "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Corin",
-          "url": "https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "You're Filled With Courage",
-      "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
     },
     {
       "added_at": "2022-10-21 19:16:24",

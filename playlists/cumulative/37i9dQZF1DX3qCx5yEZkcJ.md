@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-416 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+418 songs - 17 hr 2 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Faded Curtains](https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Hotel Melancholia](https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0) | 2:27 | 2019-05-26\* | 2022-07-21 |
 | [Fainting Of Rejection](https://open.spotify.com/track/5qymBHAVVGAxaDk5bYkrBB) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum), [Sixcube](https://open.spotify.com/artist/5HWrBwfAPQmLpIucF3OJZm) | [Fainting Of Rejection](https://open.spotify.com/album/38WnRhTdawosNXBvYRDp5m) | 1:56 | 2020-06-19 | 2021-09-09 |
 | [Fall In Love \- Instrumental](https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2019-05-26\* | 2021-12-21 |
+| [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 |  |
 | [Fallin' in Love](https://open.spotify.com/track/3UREhjLw6D1yJ4n83GbNkp) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Fallin' in Love](https://open.spotify.com/album/55AmgdUcDxjSQJWvGZqVbZ) | 3:19 | 2019-05-26\* | 2022-04-18 |
 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 | 2020-01-14 | 2022-10-15 |
 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 | 2019-05-26\* |  |
@@ -286,7 +287,7 @@
 | [poopoop](https://open.spotify.com/track/4XCFfPCt4kb3oBd1pQyEHj) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Traffic](https://open.spotify.com/album/7reas5sNVOnudBgBQLgWVq) | 1:44 | 2020-06-29 | 2022-07-27 |
 | [Pressure](https://open.spotify.com/track/4FFmAYhmgETV87UMVBgVcT) | [byJ.](https://open.spotify.com/artist/0tA6AExzlXn8NLMfKNxdws) | [Pressure](https://open.spotify.com/album/15BHb7ob8dJP8pR4MlLbb7) | 2:39 | 2020-08-30 | 2022-07-25 |
 | [Purple T Shirts](https://open.spotify.com/track/1IUh4pGnhEP2XLfgV9lIuu) | [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Energy Dreams](https://open.spotify.com/album/5NbcAITHDzXJmJ7BDovK7v) | 3:17 | 2019-05-26\* | 2021-05-28 |
-| [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2020-08-30 |  |
+| [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 | 2020-08-30 | 2022-11-18 |
 | [Rain season](https://open.spotify.com/track/6khEYI59dTyi3IMuzOKaoD) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [Rain season / The sun came out](https://open.spotify.com/album/0OvVyvIdtM8RJ1uC2O1yuB) | 2:04 | 2019-06-14 | 2019-08-13 |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |
 | [Rainy Day](https://open.spotify.com/track/5b2pZuGJVlnVBTMGDQVhmJ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [HighSáez](https://open.spotify.com/album/1PgPW5Eg8239FOnKPorn2n) | 1:19 | 2020-07-18 | 2022-07-24 |
@@ -313,7 +314,7 @@
 | [Sangria in Spain](https://open.spotify.com/track/6MLcmv9xFPlzsnLQ6xkWlo) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Sangria in Spain](https://open.spotify.com/album/0qK8hpdvwMVyTsi147Jyzp) | 2:21 | 2020-07-11 | 2020-11-06 |
 | [Saturnian Potion](https://open.spotify.com/track/1CBfTUq4k0OIL1eYhrM24o) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [Clap Cotton](https://open.spotify.com/artist/1ruRdyWeMcnliO3CPJ2gtA) | [Saturnian Potion](https://open.spotify.com/album/0a6GJOHAnJ4FKPyck0llk8) | 3:37 | 2020-06-19 | 2020-10-21 |
 | [Sea Ridge](https://open.spotify.com/track/6705o4eSuU5Thuwg7PpHOx) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [\~](https://open.spotify.com/album/5lKlKfB4DOqEPLtcJ5RUVH) | 2:21 | 2020-07-18 | 2022-07-29 |
-| [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-10 |  |
+| [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 | 2022-11-10 | 2022-11-18 |
 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 | 2019-05-26\* |  |
 | [Self Medication](https://open.spotify.com/track/0Woiq306viHioD5ZkVN9x5) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Self Medication](https://open.spotify.com/album/4QpqaTsvKKKa7sGspKE4Qx) | 2:11 | 2019-05-26\* | 2019-08-13 |
 | [SERENADE](https://open.spotify.com/track/4WKfoQZecT50AuTAArHxQz) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [SERENADE](https://open.spotify.com/album/2SkleYWCJITY6pvdmMRGH1) | 1:50 | 2019-05-26\* | 2021-10-11 |
@@ -343,6 +344,7 @@
 | [Spectrum](https://open.spotify.com/track/08MKPjHs36u2XVRJIBaveH) | [El Jazzy Chavo](https://open.spotify.com/artist/46Pwdl99hYWTIpSLrraBet) | [Echoes from Another Cosmogony](https://open.spotify.com/album/3CxsD8WVWvUVTpyChM89py) | 3:04 | 2019-05-26\* | 2019-06-15 |
 | [SPICA](https://open.spotify.com/track/2ZUpsJqiThhBkYCsXnKLP6) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [SPICA](https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt) | 2:16 | 2022-10-28 |  |
 | [Spring and Fall](https://open.spotify.com/track/2KDCFFEyox8PJpoidOyk2f) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [Spring and Fall](https://open.spotify.com/album/6pH0bbiw8SzL4HvQ8Z83p5) | 2:30 | 2019-05-26\* | 2019-06-15 |
+| [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 |  |
 | [Stargazer](https://open.spotify.com/track/3XTSVcS7PAcPRH3UezID60) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Stargazer](https://open.spotify.com/album/7dYatSw8Opfly87QzILAlK) | 4:29 | 2019-05-26\* | 2022-04-20 |
 | [Stay](https://open.spotify.com/track/2e9tMyioLH6yW0jp3EXtVs) | [brillion.](https://open.spotify.com/artist/77aATgrzmuoRjmqxPcEIHU) | [Stay](https://open.spotify.com/album/3q2ekURToVNnqatEF9283y) | 1:46 | 2020-06-29 | 2020-10-02 |
 | [Stonewashed](https://open.spotify.com/track/4oNl3gzuiaoccrFeaDukbK) | [Snaer.](https://open.spotify.com/artist/04piGA2IDgIevAiRL90Gt6) | [Stonewashed](https://open.spotify.com/album/2CkpGc9yBbpuMk3WcVyfty) | 1:59 | 2020-11-06 | 2022-07-29 |

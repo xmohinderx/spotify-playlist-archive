@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 55158,
+  "num_followers": 55165,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDAzMjA5Y2FjNWM3ODI3MmUwY2UyOTBkN2ZmM2FiMDY0",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMDIxNTNmYTMxODg3NGMyN2M1ZjEyZTQ2YmUxNDIxNDI4",
   "tracks": [
     {
       "added_at": "2022-11-11 05:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "KicK iii",
+        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "DREAMLAND (DELUXE)",
         "url": "https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 228586,
       "name": "Zhudio54",
       "url": "https://open.spotify.com/track/2mIHEm6ZbKQ6ieeUeAlag3"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "KicK iii",
-        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 141364,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "He",
-      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Starz",
         "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 216360,
       "name": "Boylife in EU",
       "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "ANIMA",
         "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 317986,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "Poiemusia La Nau Dels Argonautes",
+        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
+      },
+      "artists": [
+        {
+          "name": "Pep Llopis",
+          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
+        }
+      ],
+      "duration_ms": 358582,
+      "name": "Jardins Aquatics",
+      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Poiemusia La Nau Dels Argonautes",
-        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
-      },
-      "artists": [
-        {
-          "name": "Pep Llopis",
-          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
-        }
-      ],
-      "duration_ms": 358582,
-      "name": "Jardins Aquatics",
-      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "U Wanna?",
-        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
       "artists": [
         {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        },
-        {
-          "name": "Sir JoQ",
-          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
         }
       ],
-      "duration_ms": 250009,
-      "name": "U Wanna?",
-      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
+      "duration_ms": 210000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Birdie",
-        "url": "https://open.spotify.com/album/5QopGkCvcxWJRIKkblX89H"
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
       "artists": [
         {
-          "name": "Squire",
-          "url": "https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8"
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        },
+        {
+          "name": "Sir JoQ",
+          "url": "https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs"
         }
       ],
-      "duration_ms": 417547,
-      "name": "Birdie",
-      "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
+      "duration_ms": 250009,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
-      },
-      "artists": [
-        {
-          "name": "Cosmicat",
-          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Price of Highest Consciousness",
         "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 368404,
       "name": "Price of Highest Consciousness",
       "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Birdie",
+        "url": "https://open.spotify.com/album/5QopGkCvcxWJRIKkblX89H"
+      },
+      "artists": [
+        {
+          "name": "Squire",
+          "url": "https://open.spotify.com/artist/6cwjZ6yYU9sr6IeiYy3vv8"
+        }
+      ],
+      "duration_ms": 417547,
+      "name": "Birdie",
+      "url": "https://open.spotify.com/track/3VIBhgSoVZq31ypQK1x4VL"
     },
     {
       "added_at": "2022-11-11 05:01:00",

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-157 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+158 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Float](https://open.spotify.com/track/3hQBDDsRJvPQINJFdNR8fW) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Ataraxy](https://open.spotify.com/album/7xI71UxQsCovNwR8tcNcVy) | 3:02 | 2022-03-30 |  |
 | [Fog](https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Book of Life](https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR) | 4:24 | 2022-03-17 |  |
 | [For Our Ancestors](https://open.spotify.com/track/1t07mMBwMUfHSKhIwcTK3o) | [Dexter Story](https://open.spotify.com/artist/058MysjRT4fJ9XKLqXcizq), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Feel Recordings Volume 1](https://open.spotify.com/album/713ZvmWzCEOXvSjl44NPhd) | 5:02 | 2022-05-06 | 2022-07-29 |
-| [Forgotten Field](https://open.spotify.com/track/0hmCr0Xc8E0RrA5Mf5fJXp) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6) | [Forgotten Field](https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv) | 2:58 | 2022-10-14 |  |
+| [Forgotten Field](https://open.spotify.com/track/0hmCr0Xc8E0RrA5Mf5fJXp) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6) | [Forgotten Field](https://open.spotify.com/album/14NCgAUOAmREsUNIzaLOfv) | 2:58 | 2022-10-14 | 2022-11-18 |
 | [Fractural](https://open.spotify.com/track/0vIk5Z6dAqWeOQoE76NUTv) | [Ian Hawgood](https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC) | [朝](https://open.spotify.com/album/0Ky0C7LcSJ2HwsamzMuYKC) | 11:52 | 2022-03-17 |  |
 | [Fugative of a Narrative](https://open.spotify.com/track/321eSRbte3iwQNRQUzUTep) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2022-06-20 |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 |  |
@@ -75,6 +75,7 @@
 | [Knowledge](https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sphere](https://open.spotify.com/album/7LqeayMSLKMDHFkGkk5TTM) | 4:54 | 2022-05-18 |  |
 | [La tristeza de una ciudad](https://open.spotify.com/track/5RhexhsWN9cboUH9Qo1EuK) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Honne \(本 音\)](https://open.spotify.com/album/3UAS7VNUKdxLx6GB1Gabpw) | 4:15 | 2022-03-17 | 2022-07-29 |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-03-17 |  |
+| [Last Letter Home](https://open.spotify.com/track/1ycAQSRVLp3I0lnSmpAUDH) | [Bahrambient](https://open.spotify.com/artist/15y9zAEE8UaiSmdmbG6gja), [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Last Letter Home](https://open.spotify.com/album/0AMC9ASZwuoeH7CHc3XpAl) | 3:44 | 2022-11-11 |  |
 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 | 2022-03-17 | 2022-10-18 |
 | [Lil Bub's Story](https://open.spotify.com/track/6910PssSMId7YtYot1aI43) | [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Nothing Much Happens](https://open.spotify.com/album/67fSoRFG74IY2PfXeFkhGH) | 7:02 | 2022-03-17 | 2022-10-10 |
 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 | 2022-10-10 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMDlmMjUzZjZhMDI3ZTI0MmM5MzAxZDkwNmU2N2MwMzUy",
+  "snapshot_id": "MTY1ODg1MjIxNiwwMDAwMDAwMDY0MmM0ZmJhYzc3MzY1ZmNhYWM3NTIwYTE0MWNhNDI5",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS6",
-        "url": "https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u306a\u304a from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/75ALaxGClrqPrdEXeYuOfw"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Kira\u30fbpata\u30fbshining",
-      "url": "https://open.spotify.com/track/4U6WZhonhK9NUKjad9GDG3"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
         "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 247666,
       "name": "Chica\u00d7Chica",
       "url": "https://open.spotify.com/track/2RTZbsl5jQ03rchE32LRtT"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS6",
+        "url": "https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u306a\u304a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/75ALaxGClrqPrdEXeYuOfw"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Kira\u30fbpata\u30fbshining",
+      "url": "https://open.spotify.com/track/4U6WZhonhK9NUKjad9GDG3"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -764,13 +764,13 @@
       },
       "artists": [
         {
-          "name": "\u308b\u304b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/0dHXAbKDjNHYkHKqJgXapA"
+          "name": "\u306a\u306a\u305b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/6OeDzCFshleoTNw9hdNIeO"
         }
       ],
-      "duration_ms": 276666,
-      "name": "Blooming\u25bdBlooming",
-      "url": "https://open.spotify.com/track/141Pt7oFoPnfOFslHSbT0D"
+      "duration_ms": 239800,
+      "name": "MY SHOW TIME!",
+      "url": "https://open.spotify.com/track/7mK90pF2aJ0VQG8s1wjacm"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -780,13 +780,13 @@
       },
       "artists": [
         {
-          "name": "\u306a\u306a\u305b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/6OeDzCFshleoTNw9hdNIeO"
+          "name": "\u308b\u304b from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/0dHXAbKDjNHYkHKqJgXapA"
         }
       ],
-      "duration_ms": 239800,
-      "name": "MY SHOW TIME!",
-      "url": "https://open.spotify.com/track/7mK90pF2aJ0VQG8s1wjacm"
+      "duration_ms": 276666,
+      "name": "Blooming\u25bdBlooming",
+      "url": "https://open.spotify.com/track/141Pt7oFoPnfOFslHSbT0D"
     },
     {
       "added_at": "2022-07-26 16:16:56",

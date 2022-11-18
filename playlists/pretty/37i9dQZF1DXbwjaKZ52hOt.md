@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,235 likes - 180 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,240 likes - 182 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,5 +188,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 178 | [Star Light, Star Bright](https://open.spotify.com/track/479oXz75lANhpwBC6ctAhX) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 |
 | 179 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/097ftnCPnGHhn93lS0HHlO) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 3](https://open.spotify.com/album/7q0kx3gPtPS7sFmUjAFq4z) | 2:57 |
 | 180 | [You Are My Sunshine](https://open.spotify.com/track/6n7NNNzLqY3dxpixBjfKVV) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Top 50 Nursery Rhymes Playlist](https://open.spotify.com/album/21AWJ3rlCXg9Dwfpd65xRw) | 1:22 |
+| 181 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:10 |
+| 182 | [Twinkle Twinkle Little Star Baby Nursery Rhyme](https://open.spotify.com/track/6KDxkfDlboIT2UPa4MfR2r) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:42 |
 
 Snapshot ID: `MTY0NTgxNjczNywwMDAwMDAwMDFmOTc1NGZkZGZlZjhiMTIzMDZlNzAwMzhkNzAxNzkw`

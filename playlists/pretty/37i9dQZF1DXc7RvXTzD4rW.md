@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 宮野真守
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,444 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,442 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 21 | [Chaser Game](https://open.spotify.com/track/0EL4LKhJyuXNkZsBl7Qe53) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chaser Game](https://open.spotify.com/album/3ZLeRErx0q2jghKxXJHhUO) | 3:08 |
 | 22 | [Someday is Today](https://open.spotify.com/track/6EWkOjcPts0EqPXWKuEteW) | [髙橋 ミナミ](https://open.spotify.com/artist/4MkBd1szO83sKICDexbrRx) | [Someday is Today](https://open.spotify.com/album/7vQS8O03Zs6FhViFKG9rq1) | 3:18 |
 | 23 | [Youthful Graffiti](https://open.spotify.com/track/2m1LtT7aAmHs1MxzmQLStx) | [Shirai Yusuke](https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io) | [11\-Eleven\-](https://open.spotify.com/album/64UlPpsdOORwv3ta4AwBd8) | 4:34 |
-| 24 | [Congrats!!\(with Friends\)](https://open.spotify.com/track/7AauH6WocFaN2tvXEbHl40) | [内田雄馬 with 石川界人, 榎木淳弥, 斉藤壮馬, 畠中祐, 花江夏樹, 八代拓](https://open.spotify.com/artist/5OvhqL1GnYZavu83YiOkDo) | [Congrats!!](https://open.spotify.com/album/3U0KKN2FVOuGAYHDQf9Wwy) | 4:17 |
+| 24 | [Congrats!!\(with Friends\)](https://open.spotify.com/track/7AauH6WocFaN2tvXEbHl40) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF), [内田雄馬 with 石川界人, 榎木淳弥, 斉藤壮馬, 畠中祐, 花江夏樹, 八代拓](https://open.spotify.com/artist/5OvhqL1GnYZavu83YiOkDo) | [Congrats!!](https://open.spotify.com/album/3U0KKN2FVOuGAYHDQf9Wwy) | 4:17 |
 | 25 | [シンデレラストーリー](https://open.spotify.com/track/6xPeG3ShxpRou7Uqviw0lj) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [シンデレラストーリー](https://open.spotify.com/album/2BZdbHOGCthR1lmX4h6oTx) | 4:08 |
 | 26 | [adrenaline!!! \- TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/track/6O0yjUbqWb4SOjH8VDcab5) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TrySail Live Tour 2021 "Re Bon Voyage"](https://open.spotify.com/album/40AJJY1WOjKdjSf3P9fzgh) | 4:35 |
 | 27 | [Futari Pinocchio](https://open.spotify.com/track/7x7ca3HLIyu6kGyL6e64mA) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [Futari Pinocchio](https://open.spotify.com/album/6K1Gm6CcYyM2xfnur1gE58) | 3:42 |
