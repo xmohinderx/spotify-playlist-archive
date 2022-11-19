@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "500 DEGREES",
+        "url": "https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "500 DEGREES",
+      "url": "https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM"
+    },
+    {
+      "album": {
         "name": "Providence",
         "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
       },
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 225882,
       "name": "Bad Design",
       "url": "https://open.spotify.com/track/77d2unihXnydqo5vWeFGEo"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 209264,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/3vWfYFzMoHkioV6sx35n6L"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 135000,
       "name": "O Di Dan Dan",
       "url": "https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 165194,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/7vHlCu70F8GQyA9cBvCoNg"
@@ -2043,6 +2061,24 @@
       "duration_ms": 131500,
       "name": "Suliya",
       "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146527,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
     },
     {
       "album": {
@@ -2189,7 +2225,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
@@ -2461,7 +2497,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 53135,
       "name": "Wicked Bitch of the South",
       "url": "https://open.spotify.com/track/0J5QpTl2bQZz14hankIpzn"

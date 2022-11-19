@@ -4,7 +4,7 @@
 
 > Just chill.
 
-396 songs - 22 hr 56 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+399 songs - 23 hr 4 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2020-05-22 | 2022-01-22 |
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-07-26 | 2022-09-20 |
 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 | 2022-08-19 |  |
+| [Charlie](https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Courage](https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD) | 3:05 | 2022-08-19 |  |
 | [Charlie](https://open.spotify.com/track/43PsEYuMZRBFFA0udH9Y3K) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/34Yflaq5AUfcIl3f7kWji0) | 3:05 | 2022-08-19 | 2022-10-14 |
-| [Charlie](https://open.spotify.com/track/4rpQqMvt3APBHHONRjsVhP) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/5uU4vi2829KfY06HHjckw3) | 3:05 | 2022-08-19 |  |
+| [Charlie](https://open.spotify.com/track/4rpQqMvt3APBHHONRjsVhP) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/5uU4vi2829KfY06HHjckw3) | 3:05 | 2022-08-19 | 2022-11-19 |
 | [Charlie](https://open.spotify.com/track/60XFDDnbdo98aJ281UasVA) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:05 | 2022-08-19 | 2022-11-13 |
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2022-03-28 |  |
 | [Chicken Dinner](https://open.spotify.com/track/45sjaqJfny8FhsGHlqHdaK) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Chicken Dinner](https://open.spotify.com/album/297D0gyxTu7zRi4PluUj1R) | 2:48 | 2020-04-14 | 2022-01-22 |
@@ -111,7 +112,8 @@
 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2022-08-19 |  |
 | [Fairweather Friends](https://open.spotify.com/track/2sirBCpnHUKu87YIf9WwE7) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 3:10 | 2022-09-16 | 2022-11-14 |
 | [Fairweather Friends](https://open.spotify.com/track/3whPP50GNNpbGNkIWMMdeG) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/2Bt3szvXc9Ujmw5r7egQl2) | 3:10 | 2022-09-16 | 2022-10-15 |
-| [Fairweather Friends](https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv) | 3:10 | 2022-09-16 |  |
+| [Fairweather Friends](https://open.spotify.com/track/4ZiLg5gJOFEaamESx66ItW) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Courage](https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD) | 3:10 | 2022-09-16 |  |
+| [Fairweather Friends](https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Fairweather Friends](https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv) | 3:10 | 2022-09-16 | 2022-11-19 |
 | [Familiar](https://open.spotify.com/track/0cIW3VDH2FOnO3WGQYZ1MZ) | [Belot](https://open.spotify.com/artist/05saREsqgyy8WODHpOIrKK) | [Familiar](https://open.spotify.com/album/2uBZAPxV889fqgWZBjxcjx) | 3:33 | 2020-04-27 | 2022-01-22 |
 | [Fascination](https://open.spotify.com/track/6lzaSbHNtNNO7J9yOdYa9E) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Fascination](https://open.spotify.com/album/3FVd8ZTI5e8gvq0IDrk6GB) | 4:29 | 2022-09-02 |  |
 | [Feel These Heavy Times](https://open.spotify.com/track/28lNe4BlMf3vS0B5JQPuUu) | [King Charles](https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5) | [Out of My Mind](https://open.spotify.com/album/6Ksncrh5J2X2iJVGbZGf0A) | 3:49 | 2020-04-24 | 2022-07-29 |
@@ -175,7 +177,8 @@
 | [I Want You Back](https://open.spotify.com/track/45IhSIsQkvmCZ2V0yxEazY) | [wwoman](https://open.spotify.com/artist/3bvaVxy4LIPalRkLXBkYrX) | [I Want You Back](https://open.spotify.com/album/4kgjrn6CksCpzkEhweIR51) | 4:07 | 2020-11-20 |  |
 | [I'll Be Around](https://open.spotify.com/track/54PkkR2tqM1UhveOmTaDag) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3) | [I'll Be Around](https://open.spotify.com/album/2VvQzDQTF5gjA2bq12vZZt) | 2:40 | 2022-10-08 |  |
 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 | 2020-12-11 | 2022-01-22 |
-| [idc](https://open.spotify.com/track/0wJLHHZerP72pehv0g4RVq) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/21BTuOsSFi3Rrhl13jHuxA) | 2:23 | 2021-10-15 |  |
+| [idc](https://open.spotify.com/track/0wJLHHZerP72pehv0g4RVq) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/21BTuOsSFi3Rrhl13jHuxA) | 2:23 | 2021-10-15 | 2022-11-19 |
+| [idc](https://open.spotify.com/track/1wjoepBCP3UGg8iOVic3nn) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [idc](https://open.spotify.com/album/5blZ7qGfVOC8yglUn3A9Lg) | 2:23 | 2022-08-19 |  |
 | [IDK](https://open.spotify.com/track/6NrwVoFmjeNsEtrgZTMo4T) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [Pale Blue](https://open.spotify.com/album/5VTDwmPmnnDecdsd374oye) | 3:33 | 2019-10-25 |  |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2020-03-04 | 2022-11-12 |
 | [interested](https://open.spotify.com/track/1Ubu0Ux7X3QpsMUYIt3HFT) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/5KNHwv9svU4LlNBNBinxda) | 3:13 | 2021-06-07 | 2022-09-03 |

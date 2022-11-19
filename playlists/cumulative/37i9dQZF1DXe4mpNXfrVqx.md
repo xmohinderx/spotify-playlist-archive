@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: slipmami
 
-112 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+113 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Kerayda](https://open.spotify.com/track/4hsBOZKJ0EUbNq7PN5gmBH) | [Luanna](https://open.spotify.com/artist/3YvZfBhksh0gerGexPdl0O) | [Kerayda](https://open.spotify.com/album/3QDLDaX1EQ915el1w3iTUj) | 3:18 | 2022-09-02 | 2022-09-24 |
 | [Lealdade](https://open.spotify.com/track/02qzKn3hIHuPL7jf1gxZY6) | [Clara Dalua](https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Lealdade](https://open.spotify.com/album/3UVCBgMLJwuPuujCg6tm6G) | 2:21 | 2022-10-14 |  |
 | [Leonina](https://open.spotify.com/track/5ESbZaAPbjHCwWUM4iiHQu) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Leonina](https://open.spotify.com/album/4u2kqsIlaDICKs1SpSoa5Y) | 3:30 | 2022-07-29 | 2022-08-13 |
-| [Levado](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
+| [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2022-09-30 |  |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 |  |
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 |  |
 | [Magnetizar](https://open.spotify.com/track/5SjQLPj91Gx4ZivRRRZd4L) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnetizar](https://open.spotify.com/album/0nPC657aR6ctyejVjVmsBo) | 3:14 | 2022-08-26 | 2022-09-24 |
@@ -82,6 +82,7 @@
 | [No Hit](https://open.spotify.com/track/4jTrQuPAanb6BWxNNWq18K) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [JR ON](https://open.spotify.com/artist/6Z49It3vdzrqiSuu9dxeVA) | [No Hit](https://open.spotify.com/album/7tranZ7eNeYYWIfpJxEm4c) | 2:20 | 2022-05-27 | 2022-09-03 |
 | [Não Me Chama de B\*tch!](https://open.spotify.com/track/3zfQ7bpsPlD17nUXFsg5TY) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [Não Me Chama de B\*tch!](https://open.spotify.com/album/24OF1ZkPvnIHT1NqnwLBFr) | 2:48 | 2022-08-12 |  |
 | [Não Sei Falar de Amor](https://open.spotify.com/track/3S0W6s64EFFjz9sGwJYFBn) | [Sayra](https://open.spotify.com/artist/6CXYbaf5tOaE32kLF7Nf9X), [Beth mc](https://open.spotify.com/artist/7yfBMmSBwoZs7X8HpJn9Hv) | [Não Sei Falar de Amor](https://open.spotify.com/album/7lQFWzOaopwcGmDn1KhoXQ) | 3:13 | 2022-03-18 | 2022-09-03 |
+| [O Corre](https://open.spotify.com/track/7z0eBvO3NlS8u1zPraGWrI) | [Lili AM](https://open.spotify.com/artist/45IsqSgzBYXprOizrPgadw) | [O Corre](https://open.spotify.com/album/0VH0MFtMzmo4VtlhgOWl58) | 2:09 | 2022-11-18 |  |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-18 |  |
 | [Pago no Cash](https://open.spotify.com/track/6MVTR7ZeZGmNofygux7OcU) | [Ayah](https://open.spotify.com/artist/3AAXwZEJ5gGaRB63mbpSke), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Pago no Cash](https://open.spotify.com/album/633I4cppmO72JcF9P55dIv) | 1:52 | 2022-03-18 |  |
 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 | 2022-03-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2315443,
+  "num_followers": 2315250,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDYwMDE0MjQ2NWFlYmU0ZDExMmQ2M2U3ZTI2ZWQwMzM1",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDg2NzVlMGI1YmZkMWI3NTk3MzVjNWU0NDJiZmRkZjE2",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
-      },
-      "artists": [
-        {
-          "name": "Imago",
-          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
-        }
-      ],
-      "duration_ms": 243653,
-      "name": "Sundo",
-      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "G9",
         "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 244600,
       "name": "Simpleng Tao",
       "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Episode III",
-        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        }
-      ],
-      "duration_ms": 347120,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Umaga",
         "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 303937,
       "name": "Hindi Tayo Pwede",
       "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Episode III",
+        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        }
+      ],
+      "duration_ms": 347120,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Nang Dumating Ka",
-        "url": "https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9"
-      },
-      "artists": [
-        {
-          "name": "Bandang Lapis",
-          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
-        }
-      ],
-      "duration_ms": 379804,
-      "name": "Nang Dumating Ka",
-      "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Nina",
         "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 214773,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Nang Dumating Ka",
+        "url": "https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9"
+      },
+      "artists": [
+        {
+          "name": "Bandang Lapis",
+          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
+        }
+      ],
+      "duration_ms": 379804,
+      "name": "Nang Dumating Ka",
+      "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -831,38 +831,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Pauwi Nako",
-        "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
       },
       "artists": [
         {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Jnske",
-          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
-        },
-        {
-          "name": "Bullet D",
-          "url": "https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
         }
       ],
-      "duration_ms": 341573,
-      "name": "Pauwi Nako",
-      "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+      "duration_ms": 275906,
+      "name": "So Slow",
+      "url": "https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph"
     }
   ],
   "unique_name": "OPM Favorites",

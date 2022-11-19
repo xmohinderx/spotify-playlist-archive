@@ -4,7 +4,7 @@
 
 > It's Hits – bästa och största hitsen just nu.
 
-321 songs - 16 hr 8 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
+322 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/5FW2JUcG1GBhEhBYMh9n3a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Loyal](https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan](https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3) | 3:08 | 2022-09-01 | 2022-10-22 |
 | [Länge Leve Vi](https://open.spotify.com/track/6Pqrm55DFjQZQi8jC2yBVa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Länge Leve Vi](https://open.spotify.com/album/41ZBBb4dGrgz1mc3O4BegY) | 2:41 | 2022-02-03 | 2022-02-18 |
 | [Lättdistraherad](https://open.spotify.com/track/6CXc1Q9IBBxfOQVQCYBMhk) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Lättdistraherad](https://open.spotify.com/album/6JSgAWoN9pLS9Jn6O4NiXX) | 3:01 | 2022-11-10 |  |
-| [Låt mig gå](https://open.spotify.com/track/0NXqhf7bDVLz8fGUVyzajw) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:06 | 2022-05-19 |  |
+| [Låt mig gå](https://open.spotify.com/track/0NXqhf7bDVLz8fGUVyzajw) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:06 | 2022-05-19 | 2022-11-19 |
+| [Låt mig gå](https://open.spotify.com/track/4tlGcxLzdWUxrabEPpflvC) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Låt mig gå](https://open.spotify.com/album/4fU7tWWq6MAiOq5g7RDqAn) | 3:06 | 2022-11-17 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-03 |  |
 | [Mami](https://open.spotify.com/track/5y6IzqltRLzH0xYIQ3w87a) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [AMO](https://open.spotify.com/album/0rsdh7RmT619F6n5bwLsGn) | 2:19 | 2022-09-01 | 2022-09-27 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2021-12-16 | 2022-05-20 |

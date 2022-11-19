@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,635 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,632 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 3 | [mtv cribs](https://open.spotify.com/track/7xquksomVzxsHXvgCw6OYs) | [Kobe Banks](https://open.spotify.com/artist/5oNNblNaS9wcfoe7iYO4HI), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [mtv cribs](https://open.spotify.com/album/2tzSHLpARzLa3kXWbpBFFb) | 1:38 |
 | 4 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 |
 | 5 | [Written on Ya Kitten \- Q\-Funk Instrumetal](https://open.spotify.com/track/7zXJ38SjoWDhFdvHRmZbp7) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Written on Ya Kitten/Klickow\-Klickow](https://open.spotify.com/album/2UPDGynGf0EKp4So9hihN9) | 4:21 |
-| 6 | [93.](https://open.spotify.com/track/1qQgYfb28afmiq0G3ecxWj) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ouldies](https://open.spotify.com/album/5g48TWpACPOJSEMFTwceZZ) | 1:24 |
+| 6 | [93.](https://open.spotify.com/track/3wB5zknP24ao7UU7RcLxgB) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [ouldies](https://open.spotify.com/album/5PnTCOjdRXgtrrL3gCB2Yi) | 1:24 |
 | 7 | [Iced Down Medallions \[Instrumental\]](https://open.spotify.com/track/6agh6N2v8Elw1bWbTZFXP1) | [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [Iced Down Medallions \- EP](https://open.spotify.com/album/7pb5NZXRuupx0dyIu4OfIf) | 3:30 |
 | 8 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 |
 | 9 | [A Little Soul](https://open.spotify.com/track/00t78SKl7PHj3KfQ54fenL) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Petestrumentals](https://open.spotify.com/album/3BXHZmPR0u5TBVlxcp4Tjk) | 5:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 59 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
 | 60 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 
-Snapshot ID: `MTY2Njk2MDIyNywwMDAwMDAwMDEyYjkxNjhiZDZkOTAwY2QzYTAxMTc0NWU2YzY5ZmVk`
+Snapshot ID: `MTY2Njk2MDIyNywwMDAwMDAwMDc5ZjkxZmJjNzI3NzFkNDQ3NmU3NmMzZGQ4ZTg1YmRk`

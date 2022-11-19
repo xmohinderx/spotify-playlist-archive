@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: Ling tosite sigure\(凛として時雨\)
 
-392 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+393 songs - 1 day 1 hr 49 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,8 +135,9 @@
 | [Move on Fast](https://open.spotify.com/track/5W3EUo8Exi8WlAoSjuOeZ6) | [Yoko Ono & Plastic Ono Super Band](https://open.spotify.com/artist/2s7B7uO33VlnxIUk7OhQ6f), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Steve Khan](https://open.spotify.com/artist/59SNrXVA519VMDpAktiSk3), [Andy Muson](https://open.spotify.com/artist/0a3E0bgMlBDw0HppxrkFuG), [Rick Marotta](https://open.spotify.com/artist/24KsY9DrfNKXOVYH8MOMsK), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Don Grolnick](https://open.spotify.com/artist/0Ssqhquy8WFuqz7ZnZuBkR), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Move on Fast](https://open.spotify.com/album/7K2ZkG0HJFCwpSoozDJ8oV) | 3:57 | 2022-08-23 | 2022-09-07 |
 | [Ms\. Phenomenal](https://open.spotify.com/track/7C9g7mGIpiMgeWauQ5ueBL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Original Soundtrack of "The Last Ten Years"](https://open.spotify.com/album/3FyR41ewiOZHop9rFnOZ1m) | 5:18 | 2022-07-28 | 2022-08-31 |
 | [MUSIC](https://open.spotify.com/track/3Cm0TSw6dcZcH9WTTq48DB) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [MUSIC](https://open.spotify.com/album/3EpsYFxc6TnOcezaogO5qb) | 4:41 | 2022-05-19 | 2022-05-26 |
+| [Music, Dance & Love](https://open.spotify.com/track/2DAJbIQTf3xv8l12NJMwey) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 4:33 | 2022-11-17 |  |
 | [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 | 2022-11-03 |
-| [Music, Dance & Love](https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/53RSNtlBrBo908JZQcWo5q) | 4:33 | 2022-11-01 |  |
+| [Music, Dance & Love](https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/53RSNtlBrBo908JZQcWo5q) | 4:33 | 2022-11-01 | 2022-11-19 |
 | [My Generation](https://open.spotify.com/track/7MUZ9Co138juL29YOlWUHM) | [HAINO KEIJI & THE HARDY ROCKS](https://open.spotify.com/artist/1Jhy6KsTiZt5gzyeUBHWog), [Keiji Haino](https://open.spotify.com/artist/6BsNCY0qB2WLl5LlXqA79y), [THE HARDY ROCKS](https://open.spotify.com/artist/49tynFr7fbNdIuBPRM8daI) | [きみはぼくの めの「前」にいるのか すぐ「隣」にいるのか](https://open.spotify.com/album/5OoOnalfT1jTkq37pgE4Ti) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 |  |
 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 | 2022-05-12 | 2022-08-31 |

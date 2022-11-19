@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Margo Price",
-  "num_followers": 595127,
+  "num_followers": 595065,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDkyMWI0ZTI4NDBjM2YwNGZjYzA4YTUwYjkxNDgwMWVj",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGNjNDgyNjU0MTQ4ODVjNzQzZWY5YjliNWFiZTc5Mzk0",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/18boKjkBe0r4TLYdpVxHfo"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Rich Little Girls",
+        "url": "https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 179746,
+      "name": "Rich Little Girls",
+      "url": "https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Lines in the Levee",
@@ -287,6 +303,22 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Hometown Kid",
+        "url": "https://open.spotify.com/album/0BcZyoVBPOaZyjm8E4Kc4H"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "duration_ms": 266058,
+      "name": "Rusty",
+      "url": "https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -2091,22 +2123,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "The Horses and the Hounds",
-        "url": "https://open.spotify.com/album/6p7vIZAHU72G5C0F3quQaF"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 289791,
-      "name": "Canola Fields",
-      "url": "https://open.spotify.com/track/6qgbLRTPfUVyWMPHYgyHS6"
     },
     {
       "added_at": "2022-10-28 04:00:00",

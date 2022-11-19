@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-319 songs - 19 hr 45 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
+320 songs - 19 hr 49 min - [published](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Fascinating](https://open.spotify.com/track/31GSORtF0bA2zplgkwAQ6A) | [The Legends](https://open.spotify.com/artist/0GSCJJOY6dLofAwE68vMPd), [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [The Legends](https://open.spotify.com/album/2chWHFyGA5EqT8M8sFTuLz) | 1:22 | 2020-09-19 | 2022-04-21 |
 | [Find Home](https://open.spotify.com/track/2JeIlGQoHJslh4fzQPLQzM) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Find Home](https://open.spotify.com/album/0hAsKiGT8M3NmCgk1aiVdi) | 3:13 | 2021-04-30 | 2022-07-29 |
 | [Floating Free](https://open.spotify.com/track/6jKDR323PynjvTkoWTNbqx) | [Sleep Habits](https://open.spotify.com/artist/5LHhcikDiP8mvjarcsaz9O) | [Sleep Habits](https://open.spotify.com/album/487rgVFo2vmrtiG3bTMTYK) | 2:45 | 2019-11-19\* | 2020-12-22 |
+| [For You](https://open.spotify.com/track/0mNRaUObyWNDQmCkeKhivy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/7scLEhIuAJaCp6qUhQqLAy) | 3:47 | 2022-07-06 |  |
 | [For You](https://open.spotify.com/track/7FX5YbkSnFCOLASH7MLxjU) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 3:47 | 2020-08-09 | 2022-11-09 |
 | [Fortunes](https://open.spotify.com/track/0sKMqfLQfT5py9Rzo3w0ge) | [HANYA](https://open.spotify.com/artist/3Wx8eakM1zk8tWXy2HOGT9) | [Fortunes](https://open.spotify.com/album/2LJ33cu5e1lxnZVBdZbH2B) | 3:46 | 2021-10-13 | 2022-07-14 |
 | [Fuzz Captain](https://open.spotify.com/track/4QgIkSyVxv6FmsWO2dZz4J) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Fuzz Captain](https://open.spotify.com/album/5iuMY4LG0VhuRzDUep1uJm) | 4:04 | 2019-11-19\* | 2022-07-29 |
@@ -254,7 +255,7 @@
 | [Skin Game](https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:25 | 2022-07-06 |  |
 | [Skin Game](https://open.spotify.com/track/4qgNoDm7QIpbtt3qB96RzY) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/66aYL3AZPfk6leHxlJDYQ0) | 4:25 | 2020-12-22 | 2022-05-07 |
 | [Snow Globe](https://open.spotify.com/track/2XRT5pPoxTdudrcqfxHSvK) | [Long Beard](https://open.spotify.com/artist/3truyDimkGtu58fxQj9Xv9) | [Means To Me](https://open.spotify.com/album/2JPbwAK27FVJmNYHiCB0lS) | 5:23 | 2019-11-19\* | 2021-03-06 |
-| [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2020-11-06 |  |
+| [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2020-11-06 | 2022-11-19 |
 | [So You're Young](https://open.spotify.com/track/4Em5Dsf7FZheKNUuBvujzf) | [Mike Edge](https://open.spotify.com/artist/4Em1Ttxf3w2t0QtKYtYImx) | [So You're Young](https://open.spotify.com/album/0A0k4R7nJELE6lClsJBv4g) | 3:08 | 2019-11-19\* | 2020-08-09 |
 | [Somebody Else](https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/2vuKU9YQ69fZvS1LDX199X) | 5:31 | 2020-08-09 | 2022-07-29 |
 | [Somebody Else](https://open.spotify.com/track/2Kray2Kft9TnDb0Rhkfc5p) | [Pynch](https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9) | [Somebody Else](https://open.spotify.com/album/0rPRQrMxmMBq9Jii0IwqDF) | 5:31 | 2022-07-06 |  |

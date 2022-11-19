@@ -4,7 +4,7 @@
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-60 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/41QyXALy8jMYAlVYh7UXYG)
+61 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/41QyXALy8jMYAlVYh7UXYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 | 2021-04-23 |  |
 | [Nave Espacial \- Radio Edit](https://open.spotify.com/track/709F4UQ2uKplKvcD88xffa) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Nave Espacial](https://open.spotify.com/album/0BfPu5BTYxU4b81nh5TFLL) | 3:05 | 2021-04-23 |  |
 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 | 2021-04-23 |  |
-| [OOF \(Out of Office Forever\)](https://open.spotify.com/track/4tKiLOHkzrY43buY7hd7ic) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out of Office Forever\)](https://open.spotify.com/album/1k4sLAsm3CuGtAKeAtrzMt) | 2:53 | 2021-04-23 |  |
+| [OOF \(Out Of Office Forever\)](https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out Of Office Forever\)](https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm) | 2:53 | 2021-04-23 |  |
+| [OOF \(Out of Office Forever\)](https://open.spotify.com/track/4tKiLOHkzrY43buY7hd7ic) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out of Office Forever\)](https://open.spotify.com/album/1k4sLAsm3CuGtAKeAtrzMt) | 2:53 | 2021-04-23 | 2022-11-19 |
 | [Pink](https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Pink](https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR) | 2:40 | 2021-04-23 |  |
 | [Playa Grande](https://open.spotify.com/track/5TJ6emvXEa0KxL7We4QyJT) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/1CNYk7pMA94naeh4XyTrlf) | 3:21 | 2021-04-23 |  |
 | [Playa Grande](https://open.spotify.com/track/6IsMnhtDLKG0h4H8pmQVRw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Playa Grande](https://open.spotify.com/album/0P90stLNlBJtamGSsokK4g) | 3:21 | 2021-04-23 | 2022-07-29 |

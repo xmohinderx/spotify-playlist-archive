@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-471 songs - 1 day 3 hr 32 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+473 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,8 @@
 | [Send a Wish](https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [Send a Wish](https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS) | 2:46 | 2021-08-10 |  |
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Sangri](https://open.spotify.com/artist/4skJuoz124HZj4oIRJi8s1) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-03-16 | 2022-07-09 |
 | [Should Be](https://open.spotify.com/track/684HaX0m4BSBrZ1LAjE2qh) | [Halfspeed](https://open.spotify.com/artist/2R0QLg5yVU6Z5aGyhEjR0b), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Should Be](https://open.spotify.com/album/0x1No3PDtgWABsxonPU3Bj) | 1:10 | 2022-07-29 |  |
-| [Sk8teing in Central Park](https://open.spotify.com/track/6wUDIvG1swx9ecmBBvO0ZR) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:13 | 2022-07-29 |  |
+| [Sk8teing in Central Park](https://open.spotify.com/track/2P7BIdxkUoT4pBBUKEmgOu) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 1:13 | 2022-11-11 |  |
+| [Sk8teing in Central Park](https://open.spotify.com/track/6wUDIvG1swx9ecmBBvO0ZR) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:13 | 2022-07-29 | 2022-11-19 |
 | [Skoda](https://open.spotify.com/track/0OHeMdfS4QJ7fPttj3mZgD) | [Ken Nil](https://open.spotify.com/artist/3dqO7sdgWO3OdzjlWcrf9l) | [Skoda](https://open.spotify.com/album/05OHIkueOd6K2pS0IOav3e) | 1:58 | 2022-10-28 |  |
 | [Skydiving](https://open.spotify.com/track/61avTFNU8w8W6I358eMhUl) | [Siam Roof](https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8) | [VERTIGO](https://open.spotify.com/album/2uEL0rKaaX5X9G8qfQGL48) | 4:43 | 2021-08-10 | 2022-07-29 |
 | [Skydiving](https://open.spotify.com/track/6AbGuOXxma7x38ZXsecx0H) | [Siam Roof](https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8) | [VERTIGO](https://open.spotify.com/album/7dU18lCQCFdSWZ1wunxnwW) | 4:43 | 2022-07-29 | 2022-09-09 |
@@ -445,7 +446,8 @@
 | [Waterfront \- Focus Version](https://open.spotify.com/track/4ln3ZAr74imkhmEWzYFd6P) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Waterfront](https://open.spotify.com/album/6D23vKPt8tFY61gZehl5pw) | 4:30 | 2022-01-12 | 2022-07-10 |
 | [Waterfront \- Focus Version](https://open.spotify.com/track/5hjZLLuxbMa4p7VW36b2v8) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Waterfront \- The Album](https://open.spotify.com/album/3BuWOmXlmi06aL2v5dscvM) | 4:30 | 2022-07-29 |  |
 | [Waterproof](https://open.spotify.com/track/1AjbKtS8VoXnX0xM2dfo9L) | [Nightgleam](https://open.spotify.com/artist/1hHr1SdojYxE1BEqEF0lnm) | [Waterproof](https://open.spotify.com/album/1jSZcWfdxLDVQ6Wv8WgfOX) | 2:52 | 2022-03-16 | 2022-07-09 |
-| [Wavelude 1](https://open.spotify.com/track/57446HEMCZznJ4yrdhiY3h) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Waves](https://open.spotify.com/album/0aQS2UYvUXwUeQ7uyrpbPo) | 0:46 | 2022-07-29 |  |
+| [Wavelude 1](https://open.spotify.com/track/2pc2KKSACUm6amHIiFz8X9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Waves](https://open.spotify.com/album/3cxtHt4PQRgZp2hOQ4IUHP) | 0:46 | 2022-11-11 |  |
+| [Wavelude 1](https://open.spotify.com/track/57446HEMCZznJ4yrdhiY3h) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Waves](https://open.spotify.com/album/0aQS2UYvUXwUeQ7uyrpbPo) | 0:46 | 2022-07-29 | 2022-11-19 |
 | [Wayfarers Chapel](https://open.spotify.com/track/14WK20NXgssPAUqRtA4Wfk) | [L.A\. Atmosphere](https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0) | [L.A\. Atmosphere](https://open.spotify.com/album/2g8TsCyheFHrtpGeOxG3JV) | 3:27 | 2022-07-29 |  |
 | [Wayfarers Chapel](https://open.spotify.com/track/7mHTs36ERX5DHulVY03z8f) | [L.A\. Atmosphere](https://open.spotify.com/artist/3yMtbN4jtLkilLiilLT7h0) | [L.A\. Atmosphere](https://open.spotify.com/album/1qN74vtlw3ukUKEuZPWQhU) | 3:27 | 2021-08-10 | 2022-07-22 |
 | [We Will Never Be Older](https://open.spotify.com/track/03XffKgge1mtiRM8efv0X7) | [Justin Zimm](https://open.spotify.com/artist/5uwUqgwD6yB922XX2bwbTs) | [Bending Time](https://open.spotify.com/album/5fBVtzorLnUUibwcPdnE5b) | 4:06 | 2021-08-10 | 2022-07-10 |

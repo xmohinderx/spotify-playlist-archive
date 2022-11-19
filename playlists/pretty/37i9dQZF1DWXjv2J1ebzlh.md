@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,020 likes - 1,201 songs - 3 day 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,005 likes - 1,201 songs - 3 day 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -978,7 +978,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 968 | [Zum\-Zum](https://open.spotify.com/track/0K8xwzpW6hYmfDTMlsZOhp) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO) | [Morning Jazz](https://open.spotify.com/album/0JBpOJHie2i2KubS49lWme) | 2:50 |
 | 969 | [Egyptian Reggae](https://open.spotify.com/track/6luyViGYiEnCerudBySTcz) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm) | 2:37 |
 | 970 | [Esmerim](https://open.spotify.com/track/4ZaSO58hLAtXO87JxhhdHN) | [Beyaz Kelebekler](https://open.spotify.com/artist/0CdO8pNYr6JdJPTnf7D1Nw) | [Küskünüm Ben Hayata / Esmerim](https://open.spotify.com/album/6ILAFBVKkD0v8P0sQbP2fe) | 3:15 |
-| 971 | [Adventure](https://open.spotify.com/track/1YqR8Mag5emtRydaUuGUOU) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Adventures on the Floating Island](https://open.spotify.com/album/5zTvbrPrNsSGUXsYAAKf8E) | 2:20 |
+| 971 | [Adventure](https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Adventures on the Floating Island](https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW) | 2:20 |
 | 972 | [Pistachio](https://open.spotify.com/track/2o8WAUrsxzk0BotxCvMnA3) | [Alberto Bof](https://open.spotify.com/artist/1Co2g2ed1VfT3MFeaAEZDI) | [The Electric Acid Surboard Test](https://open.spotify.com/album/6OFIksGfrRBDH8aD4T3PbG) | 3:17 |
 | 973 | [Napule Canta E More](https://open.spotify.com/track/3qNtGvCC1tgeZFK9ClBz4k) | [Donatella Viggiano](https://open.spotify.com/artist/4FFwzgDJc7AaKVPYxQzwjk) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 2:54 |
 | 974 | [Ride on Baby](https://open.spotify.com/track/1dSFUmePLinKKFOmXaHDQu) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [Box Set](https://open.spotify.com/album/4PxvAyPKkslgDI1k2f1L1Y) | 6:30 |
@@ -1210,4 +1210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1200 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1201 | [Quem Não Faz Filho](https://open.spotify.com/track/4L23xuGPw1CCdQwrQ3x1ui) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Memórias](https://open.spotify.com/album/5YyS2wklqzjTvZXxntH6VT) | 4:05 |
 
-Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMDA5NGM5ZGZkMDJhYTgxMzcyYTNiMjE5ZGRhODQ1MTUz`
+Snapshot ID: `MTY2NzIwNjgwMCwwMDAwMDAwMDIyM2JjNDEwN2Q4MDMxYWZlZTM0NjBhZTQ0ZWNiNzk1`

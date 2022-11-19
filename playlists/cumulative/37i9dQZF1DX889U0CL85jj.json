@@ -1018,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185816,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn"
+    },
+    {
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/34Yflaq5AUfcIl3f7kWji0"
       },
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185816,
       "name": "Charlie",
       "url": "https://open.spotify.com/track/4rpQqMvt3APBHHONRjsVhP"
@@ -2010,6 +2028,24 @@
     },
     {
       "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD"
+      },
+      "artists": [
+        {
+          "name": "Alex Siegel",
+          "url": "https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Fairweather Friends",
+      "url": "https://open.spotify.com/track/4ZiLg5gJOFEaamESx66ItW"
+    },
+    {
+      "album": {
         "name": "Fairweather Friends",
         "url": "https://open.spotify.com/album/3fZRphJh8kV8HsWEUM3rnv"
       },
@@ -2021,7 +2057,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 190714,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/7uvKESxV5cjsCDfq74rMyQ"
@@ -3269,10 +3305,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 143681,
       "name": "idc",
       "url": "https://open.spotify.com/track/0wJLHHZerP72pehv0g4RVq"
+    },
+    {
+      "album": {
+        "name": "idc",
+        "url": "https://open.spotify.com/album/5blZ7qGfVOC8yglUn3A9Lg"
+      },
+      "artists": [
+        {
+          "name": "Kevitch",
+          "url": "https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143681,
+      "name": "idc",
+      "url": "https://open.spotify.com/track/1wjoepBCP3UGg8iOVic3nn"
     },
     {
       "album": {

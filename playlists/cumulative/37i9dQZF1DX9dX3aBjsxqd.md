@@ -4,10 +4,11 @@
 
 > Relax to these mellow cello melodies.
 
-126 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
+127 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4 Sketches, Op\. 15: III\. Dreaming](https://open.spotify.com/track/1xPWXdLYrz4bX2ad1g30fP) | [Amy Beach](https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Julian Riem](https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D) | [4 Sketches, Op\. 15: III\. Dreaming](https://open.spotify.com/album/6jI28NErHd2gxJNb0uzJW2) | 4:53 | 2022-11-18 |  |
 | [7 Canciones populares españolas \- Arranged by Mischa Maisky: No\. 5: Nana](https://open.spotify.com/track/0Wb0zd8VVsxcIs4U4QXIvu) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Pavel Gililov](https://open.spotify.com/artist/5D9mKDCGUc4MzgkPq2EikW) | [Falla: Autumn Landscapes](https://open.spotify.com/album/2a2dsgq3oWwPY0F8sDeqOg) | 3:04 | 2022-11-11 | 2022-11-13 |
 | [7 Canciones populares españolas \- Arranged by Mischa Maisky: No\. 5: Nana](https://open.spotify.com/track/5rLOPYvtTgH5QhespqLPaQ) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Pavel Gililov](https://open.spotify.com/artist/5D9mKDCGUc4MzgkPq2EikW) | [Manuel de Falla \- Great Recordings](https://open.spotify.com/album/4GNm4qemlk5sj8ZsFr7TsW) | 3:04 | 2022-06-16 |  |
 | [7 Canciones populares españolas \- Arranged by Mischa Maisky: No.5: Nana](https://open.spotify.com/track/3PYESV6mEsyR2M6uJ55g4R) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Pavel Gililov](https://open.spotify.com/artist/5D9mKDCGUc4MzgkPq2EikW) | [Maisky! \(Set\)](https://open.spotify.com/album/1CkW3ZpzYOrqcgMagKBOh7) | 3:00 | 2021-03-08 | 2022-07-29 |

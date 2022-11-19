@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-346 songs - 1 day 4 hr 59 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
+347 songs - 1 day 5 hr 4 min - [published](https://open.spotify.com/playlist/3Q3sahGulDQZJZy0Nf1cgl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blame It On The Sun](https://open.spotify.com/track/1PlFtAjJ0ZZIOPcIPNqkOh) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 6:46 | 2022-02-10 | 2022-11-12 |
 | [Blue In Green](https://open.spotify.com/track/0xze9SRrm4Ul5LA4N1MtcE) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/4RI8UIrsKK3pODBLuYJo9r) | 2:59 | 2022-09-29 | 2022-11-09 |
 | [Blue In Green](https://open.spotify.com/track/4B4B5pOvFvjYYNqulRp5rR) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Take This](https://open.spotify.com/album/2jZzBodrUR86EwaUNSBuqv) | 2:59 | 2022-02-10 | 2022-07-28 |
+| [Blue Light](https://open.spotify.com/track/1S1NTdOasN7FQBPS5FSDHa) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 4:54 | 2022-11-17 |  |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-12 |  |
 | [Blue song for Blues](https://open.spotify.com/track/4TiX00DX7md1QMcnn9DEnQ) | [Oller i Guerra](https://open.spotify.com/artist/0UNIEj4p9Gij0UJfUVDv1V), [Jaume Guerra](https://open.spotify.com/artist/2iEVyYVPjQbqh3GEPxk0vo), [Víctor Oller](https://open.spotify.com/artist/0yPN2LZ81iYVeMlk13c1TE), [Adrià Claramunt](https://open.spotify.com/artist/4McwBXVAOuOP6aF71PQG2l) | [Blue song for Blues](https://open.spotify.com/album/7hSOiFx7VmqIpyxMttX6C1) | 5:52 | 2022-02-18 |  |
 | [Brigas nunca mais](https://open.spotify.com/track/0BznBDSocQlKKja9oOer64) | [Stefano Bollani Trio](https://open.spotify.com/artist/15V5EYZA64Qd08o4tEZGli) | [Stone In The Water](https://open.spotify.com/album/5iF4YLfNRevhsh7WMFuWrU) | 6:24 | 2022-02-10 | 2022-11-12 |
@@ -188,7 +189,7 @@
 | [Midnight Waves](https://open.spotify.com/track/7xCbsQ2xX8fEGiAB1KVwNH) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 6:21 | 2022-05-19 | 2022-11-12 |
 | [Misty](https://open.spotify.com/track/6638Vx73iajSnMO9ZmQoHB) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Misty](https://open.spotify.com/album/5JQpMlF00cytK3RkoRwEtb) | 4:32 | 2022-02-10 | 2022-07-29 |
 | [Misty](https://open.spotify.com/track/24GGpPxMdDvCpy9vTmDc6U) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:32 | 2022-07-07 | 2022-11-12 |
-| [Moon River](https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:46 | 2022-07-07 |  |
+| [Moon River](https://open.spotify.com/track/46HQRG9kC2cX035gxnUy80) | [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moods](https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU) | 5:46 | 2022-07-07 | 2022-11-19 |
 | [Moon River](https://open.spotify.com/track/1Px7rF9pcSTnuZm18bQ78i) | [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu) | [Moon River](https://open.spotify.com/album/3jqg4L6cU3PPzRipAUa4sM) | 5:46 | 2022-02-10 | 2022-07-29 |
 | [More Than Ever](https://open.spotify.com/track/2v4qjnLzXPqxZiM635UZwt) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [More Than Ever](https://open.spotify.com/album/2fvT46J3wLSyRyCEvNCPFv) | 6:11 | 2022-10-13 | 2022-11-12 |
 | [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-11-12 |  |

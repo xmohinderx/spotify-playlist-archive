@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Ernia, Shiva e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,783 likes - 86 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,759 likes - 86 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 39 | [So' modelle](https://open.spotify.com/track/0LkhmgypJYiRMU6NC3lrAl) | [Awhon](https://open.spotify.com/artist/2dftGrrSw0rHzZOizviG0G) | [So' modelle](https://open.spotify.com/album/2UBHfDmK9TKkdeblSJFhYQ) | 2:14 |
 | 40 | [SOUTHSTYLE](https://open.spotify.com/track/2Fr87nBfxjeyqGV9uJEap4) | [Vandal 75](https://open.spotify.com/artist/4mVBoS4Op5TTp9AfFVvJK0), [Odershin](https://open.spotify.com/artist/02X6udDB2IZoQXvAKHr2eE) | [SOUTHSTYLE](https://open.spotify.com/album/09LcdW1nyr3i2PMG0rnLmb) | 2:12 |
 | 41 | [Cammino Solo](https://open.spotify.com/track/4SvrEprtW8G4SCiyoNMD29) | [PHANTOM](https://open.spotify.com/artist/4OAhoxAbtXjHlx2I02jxfA) | [Cammino Solo](https://open.spotify.com/album/2joQ0pKOldlOw9iqpu383f) | 2:29 |
-| 42 | [Autumn \- Radio Edit / From The Amazon Original Movie "Autumn Beat"](https://open.spotify.com/track/0PVa08UjRz559oTuGkwhmN) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Moris Ensemble Choir](https://open.spotify.com/artist/0F3QxS40C5XabYdv16GWYa) | [Autumn \(Radio Edit / From The Amazon Original Movie "Autumn Beat"\)](https://open.spotify.com/album/1EqvZud1cocjjQAANVRjoa) | 2:54 |
+| 42 | [Autumn](https://open.spotify.com/track/5ZbkfiVM1iAOowcr8N62XM) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Moris Ensemble Choir](https://open.spotify.com/artist/0F3QxS40C5XabYdv16GWYa) | [Autumn Beat \(from the Amazon Original Movie "Autumn Beat"\)](https://open.spotify.com/album/7GIe25Owi4l2aGJEdBLbIM) | 2:54 |
 | 43 | [Dry e vai \(feat\. J Lord\)](https://open.spotify.com/track/0szEVOq5vpdhWIsIW4hGt7) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Dark Days](https://open.spotify.com/album/36H4jXrI54WGWALMp7nyIa) | 3:06 |
 | 44 | [Se me la dai te la do](https://open.spotify.com/track/3vfaKMkM79YtE8iHA7LURH) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Se me la dai te la do](https://open.spotify.com/album/2INlDg0vYtyTn3xQM8qGK1) | 2:59 |
 | 45 | [Ci sei tu](https://open.spotify.com/track/3bYC1WMCPnq3IgsQCTy8fG) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Ci sei tu](https://open.spotify.com/album/39P2cUiTEoE0K8PVan71Ok) | 3:01 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 85 | [Come Mai](https://open.spotify.com/track/4KJCIFLJoAdl3SDLUEclIR) | [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5) | [Come Mai](https://open.spotify.com/album/7Gvadg1kPZmybKgSZVqhmd) | 3:26 |
 | 86 | [DTP](https://open.spotify.com/track/2U6Zs8FTfDxNyEowtg6sBT) | [GW Badman](https://open.spotify.com/artist/5UylpZwZKc12wY1kBQuC3p) | [DTP](https://open.spotify.com/album/6ag6YX5VBuIyPN9UhaPaOc) | 2:33 |
 
-Snapshot ID: `MTY2ODcyOTY2MCwwMDAwMDAwMDliZDZjZGEyZmQ2ZWM3YjI2MmE0NjJkYmY2OTk1NTZl`
+Snapshot ID: `MTY2ODcyOTY2MCwwMDAwMDAwMDYwNmE5YjQ0OTEwZDIyZmNkZDVkOWU3ODE2MjRiZDI5`

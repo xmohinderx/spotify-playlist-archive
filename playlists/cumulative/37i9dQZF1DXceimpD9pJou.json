@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones cristianas.  Foto:  Gabriel EMC",
+  "description": "Las mejores nuevas canciones cristianas.  Foto:  Jinys",
   "name": "Novedades Cristianas",
   "published_playlist_ids": [
     "1KUPUNIHlkycouwTjzbQCF"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 204545,
       "name": "Ayer & Hoy",
       "url": "https://open.spotify.com/track/62hD9IQldcecd13tWGFdPy"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 204374,
       "name": "Centro (Reimagined)",
       "url": "https://open.spotify.com/track/7dwT1LGucAEkglEYEyT8wP"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 204688,
       "name": "Come What May (Spanish/English Version)",
       "url": "https://open.spotify.com/track/5KxMKSeGHvTCL0cFRtUwPz"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 182769,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6VIw4fwvDXfKGiNmpjcuth"
@@ -2261,7 +2261,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 191657,
       "name": "De Adentro Hacia Afuera",
       "url": "https://open.spotify.com/track/06yVpJhPbFR5HMwYs5nhLw"
@@ -2665,7 +2665,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 418260,
       "name": "Dios Te Est\u00e1 Llamando",
       "url": "https://open.spotify.com/track/4i5Qw0HPLEU272PUgCv3NS"
@@ -3599,7 +3599,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 272281,
       "name": "Este Amor - Live Session From L.A.",
       "url": "https://open.spotify.com/track/4JLocWW0Q5yay3iH11GSX6"
@@ -3687,7 +3687,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 160258,
       "name": "Exam\u00edname",
       "url": "https://open.spotify.com/track/46Rm3baBa5nxFjWXa9Ps60"
@@ -4267,7 +4267,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "God Gift",
       "url": "https://open.spotify.com/track/0gjDLeXEcdyPAydw9jPPl4"
@@ -4700,6 +4700,24 @@
     },
     {
       "album": {
+        "name": "Historia",
+        "url": "https://open.spotify.com/album/0v1QVlyF7E8UVAGtbq2VaW"
+      },
+      "artists": [
+        {
+          "name": "Cindy Barrera",
+          "url": "https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209444,
+      "name": "Historia",
+      "url": "https://open.spotify.com/track/4k7NpRYjVytYF3i6nJeRW4"
+    },
+    {
+      "album": {
         "name": "Relevantes",
         "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
       },
@@ -4891,7 +4909,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 161311,
       "name": "Inesperado",
       "url": "https://open.spotify.com/track/71aSwq3GAyLTfWxAhmp3fD"
@@ -4985,7 +5003,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 196846,
       "name": "Job",
       "url": "https://open.spotify.com/track/04JueJsp0tbhmzYWW5IYr3"
@@ -5021,7 +5039,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 240960,
       "name": "J\u00fabilo",
       "url": "https://open.spotify.com/track/1qniiIoGWUDyAJouwsftK5"
@@ -5137,7 +5155,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 139603,
       "name": "La Bondad De Dios",
       "url": "https://open.spotify.com/track/3MB14Lq2XnFPw3eCqdml37"
@@ -5217,7 +5235,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 189375,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/1BC0BeYRVroR8MEK0NPeWD"
@@ -5399,7 +5417,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 251826,
       "name": "Lev\u00e1ntate Guate",
       "url": "https://open.spotify.com/track/44jaI2hbNmBHAQXpreResb"
@@ -6109,7 +6127,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "Luz en la Oscuridad",
       "url": "https://open.spotify.com/track/3nubqTXLbqjX2lrzbcqcjQ"
@@ -6911,7 +6929,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Mil Primaveras",
       "url": "https://open.spotify.com/track/4ibS6TU6ZDH4miK6i5KMYB"
@@ -6929,7 +6947,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 334008,
       "name": "Mil Veces (En vivo desde Buenos Aires, Argentina)",
       "url": "https://open.spotify.com/track/6qVUoKXaEBQVr89xakrUcD"
@@ -7031,7 +7049,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 221250,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/4Dz5qW8uri7AZXsnYTkDa6"
@@ -7543,7 +7561,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 343819,
       "name": "No Me Fallar\u00e1s (A\u00fan As\u00ed)",
       "url": "https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW"
@@ -7827,7 +7845,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Oro - Remix",
       "url": "https://open.spotify.com/track/69mSz7ADVkjQxFFjQXWSdo"
@@ -8651,7 +8669,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 261112,
       "name": "Quien Dir\u00eda - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2grpLKWPOjeaRHU58cMh5G"
@@ -10995,7 +11013,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 189247,
       "name": "Tu Voz",
       "url": "https://open.spotify.com/track/34vEGP6CmamLqT9uTQVivQ"
@@ -11619,7 +11637,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 245202,
       "name": "Vencer\u00e9",
       "url": "https://open.spotify.com/track/33SZuxILS1QvM6OrqyCauJ"
@@ -11945,7 +11963,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 229333,
       "name": "Y KELOKE",
       "url": "https://open.spotify.com/track/5h9vNzsCSTPQ3TwPBF7K1v"
@@ -12061,7 +12079,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 451452,
       "name": "Yo Declaro Jes\u00fas",
       "url": "https://open.spotify.com/track/5YxYWGbiHWBaPkXjdTtBwB"
@@ -12193,7 +12211,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Yo Te Cuidar\u00e9",
       "url": "https://open.spotify.com/track/0Astul4t9DwK8bj1Ri4Vax"

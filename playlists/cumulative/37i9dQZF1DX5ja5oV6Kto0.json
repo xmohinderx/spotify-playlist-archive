@@ -88,6 +88,32 @@
     },
     {
       "album": {
+        "name": "3 in the Morning",
+        "url": "https://open.spotify.com/album/6PMz0SlbVo8Hmizius3YTk"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        },
+        {
+          "name": "Kikelomo",
+          "url": "https://open.spotify.com/artist/4HLQ6ZHKvMKlD3VR1vVQkE"
+        },
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "3 in the Morning",
+      "url": "https://open.spotify.com/track/0YcAQqvxtRERBkCFyx7afs"
+    },
+    {
+      "album": {
         "name": "Triple Take, Vol. II",
         "url": "https://open.spotify.com/album/31ISMmTdreHPGIZd9ddM4M"
       },
@@ -303,6 +329,28 @@
       "duration_ms": 177203,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/72CSCjFfMXe0PRJBioy7d0"
+    },
+    {
+      "album": {
+        "name": "All My Days",
+        "url": "https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP"
+      },
+      "artists": [
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/052blcya1EJNErdYq2HHbA"
     },
     {
       "album": {
@@ -973,7 +1021,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 273240,
       "name": "BUNDLES",
       "url": "https://open.spotify.com/track/3x5JT3ZzLOk7p7PkDU9Ta2"
@@ -1133,7 +1181,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 126254,
       "name": "Chigal",
       "url": "https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL"
@@ -1341,6 +1389,24 @@
       "duration_ms": 185999,
       "name": "Confam",
       "url": "https://open.spotify.com/track/5DBDVCBlR9o20XdEj6RBv7"
+    },
+    {
+      "album": {
+        "name": "Confess",
+        "url": "https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "Confess",
+      "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
     },
     {
       "album": {
@@ -1867,7 +1933,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 187307,
       "name": "FINAL CHAMPION",
       "url": "https://open.spotify.com/track/3glpc7pE2ARlH1rnCxNohE"
@@ -1893,6 +1959,28 @@
       "duration_ms": 199331,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa"
+    },
+    {
+      "album": {
+        "name": "Follow Through",
+        "url": "https://open.spotify.com/album/4ZiEbVOlKfjzCNjaK7cN9t"
+      },
+      "artists": [
+        {
+          "name": "Bigfootinyourface",
+          "url": "https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy"
+        },
+        {
+          "name": "Lex Ash",
+          "url": "https://open.spotify.com/artist/5kOSDiIYPtPIZqDwBa0XKw"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "Follow Through",
+      "url": "https://open.spotify.com/track/6nY8vUsaVRwToBzRhPh2Fh"
     },
     {
       "album": {
@@ -2725,7 +2813,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 218571,
       "name": "JUDAH LION",
       "url": "https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh"
@@ -3115,7 +3203,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 240000,
       "name": "Love Essential",
       "url": "https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap"
@@ -3367,6 +3455,24 @@
       "duration_ms": 151167,
       "name": "Money & Laughter",
       "url": "https://open.spotify.com/track/0rcz74mV0d1ERhaQPQxJnx"
+    },
+    {
+      "album": {
+        "name": "Monsta Alta",
+        "url": "https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Monsta Alta",
+      "url": "https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6"
     },
     {
       "album": {
@@ -4071,6 +4177,24 @@
       "duration_ms": 168000,
       "name": "Present",
       "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
+    },
+    {
+      "album": {
+        "name": "Heart Parts & Nostalgia",
+        "url": "https://open.spotify.com/album/2cI0TeM0e9qoN9opbpeUtk"
+      },
+      "artists": [
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "preSSUre",
+      "url": "https://open.spotify.com/track/19N5psNQn5XtpM8ATXRWQ7"
     },
     {
       "album": {
@@ -4959,7 +5083,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 171013,
       "name": "Sun Down (From \"YE!\")",
       "url": "https://open.spotify.com/track/16FZuBTG6DRM8qEfCn7ULz"
@@ -5367,7 +5491,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 177591,
       "name": "Toe Touch",
       "url": "https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc"
@@ -5911,6 +6035,24 @@
       "duration_ms": 205714,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4"
+    },
+    {
+      "album": {
+        "name": "Your Turn",
+        "url": "https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234861,
+      "name": "Your Turn",
+      "url": "https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0"

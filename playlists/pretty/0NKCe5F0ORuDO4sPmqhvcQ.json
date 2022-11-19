@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21207,
+  "num_followers": 21204,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwNzYsNGQ2YThiMGU0Y2Q2NjBmNTlhN2EyMTlkMzU5MTQxNjgxZjdjMDIxOA==",
+  "snapshot_id": "MTAwNzgsMGU2NTQyYzg2ZTE3MTg5ZGUyY2NkYWFlODYzYzViOTVhZDE3Mzk2OQ==",
   "tracks": [
     {
       "added_at": "2022-11-11 16:41:32",
@@ -2471,6 +2471,50 @@
       "duration_ms": 178056,
       "name": "Action",
       "url": "https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK"
+    },
+    {
+      "added_at": "2022-11-18 16:32:12",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/5ARlGhUDTTIQSQEqmBz8HW"
+      },
+      "artists": [
+        {
+          "name": "Holiday87",
+          "url": "https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Syd Silvair",
+          "url": "https://open.spotify.com/artist/4f2LaSXjjsqEZxRNNZL7qw"
+        }
+      ],
+      "duration_ms": 290543,
+      "name": "Weatherman (feat. Syd Silvair)",
+      "url": "https://open.spotify.com/track/2tNdqugzaMCRpoLEM3SqF6"
+    },
+    {
+      "added_at": "2022-11-18 21:03:59",
+      "album": {
+        "name": "Night Spot (feat. B Che)",
+        "url": "https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ"
+      },
+      "artists": [
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        },
+        {
+          "name": "B Che",
+          "url": "https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN"
+        }
+      ],
+      "duration_ms": 180230,
+      "name": "Night Spot (feat. B Che)",
+      "url": "https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN"
     }
   ],
   "unique_name": "Moving Castle Monthly",

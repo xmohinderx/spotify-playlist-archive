@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Big Soto, Be\u00e9le",
-  "num_followers": 55177,
+  "num_followers": 55173,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMGEyMjdiNGNmOWI2MDAzOTFmMjM5MjUyN2VjOGFkNmVj",
+  "snapshot_id": "MTY2NDQ5NDI5NywwMDAwMDAwMDIyYWY0OWNmNmZiNDFmY2Y1MTA0YmJmZGRhM2FmYWZm",
   "tracks": [
     {
       "added_at": "2022-09-29 23:31:37",
@@ -939,18 +939,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "\u00daltima Cena",
-        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
+        "name": "Loquera",
+        "url": "https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev"
       },
       "artists": [
         {
-          "name": "Bernal\u00fa",
-          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        },
+        {
+          "name": "Yorkinson",
+          "url": "https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK"
+        },
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
         }
       ],
-      "duration_ms": 165386,
-      "name": "\u00daltima Cena",
-      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
+      "duration_ms": 194805,
+      "name": "Loquera",
+      "url": "https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -979,26 +987,18 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Loquera",
-        "url": "https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev"
+        "name": "\u00daltima Cena",
+        "url": "https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6"
       },
       "artists": [
         {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        },
-        {
-          "name": "Yorkinson",
-          "url": "https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK"
-        },
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+          "name": "Bernal\u00fa",
+          "url": "https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay"
         }
       ],
-      "duration_ms": 194805,
-      "name": "Loquera",
-      "url": "https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC"
+      "duration_ms": 165386,
+      "name": "\u00daltima Cena",
+      "url": "https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C"
     },
     {
       "added_at": "2022-09-29 23:31:37",

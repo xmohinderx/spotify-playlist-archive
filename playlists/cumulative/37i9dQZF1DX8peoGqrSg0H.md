@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: LAZ1
 
-261 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
+262 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/46jC5TDLIJijd5c6Z3EIRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [รู้ตัวเมื่อสาย \(Wasn't Right\)](https://open.spotify.com/track/55Kh7kfVOwfheYSHpxBFYl) | [KIN](https://open.spotify.com/artist/1gRcxKiJMYrZX0Zo8s6J2B) | [Adrenaline](https://open.spotify.com/album/2Dgu5NI0GOxT6X9kYio5yL) | 3:53 | 2022-06-16 | 2022-07-02 |
 | [ร้องไห้ดังๆ \(Not A Chance\)](https://open.spotify.com/track/5j7vOGEPZsnigRggWqYQJr) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ร้องไห้ดังๆ \(Not A Chance\)](https://open.spotify.com/album/6YN30I26NVC54hlerjD8k6) | 3:55 | 2022-10-12 | 2022-10-27 |
 | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/track/5AMYykC6sdveY7NfwHNUm4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(Erase\)](https://open.spotify.com/album/4eQhhdfCD27Z4Bqx3J8R23) | 3:44 | 2022-05-26 | 2022-07-24 |
+| [ลองคุย \(TRY\)](https://open.spotify.com/track/4Fengh8aD0M4QLZB21nloU) | [Baby Mic Candy](https://open.spotify.com/artist/77Z7s7XB4PIcoWQIoYK8ww) | [ลองคุย \(TRY\)](https://open.spotify.com/album/0AcOnm6igHeqUYQMtOShIQ) | 3:55 | 2022-11-18 |  |
 | [ลาก่อน](https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ลาก่อน](https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1) | 3:08 | 2022-07-14 |  |
 | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 | 2022-09-23 |  |
 | [ล้น \(Overload\)](https://open.spotify.com/track/50wPHjbH9CLpaaMGkVuMuY) | [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP) | [ล้น \(Overload\)](https://open.spotify.com/album/50GNBFiyYpDoPgjGvVihYp) | 3:54 | 2022-05-26 | 2022-06-01 |

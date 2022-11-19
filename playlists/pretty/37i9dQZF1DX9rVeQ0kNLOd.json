@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyNDQwMCwwMDAwMDAwMDhkYjIwZTE4ZjZjY2MyNTY5ZDA0MmQzMzcxNTQyN2Rl",
+  "snapshot_id": "MTY2ODUyNDQwMCwwMDAwMDAwMDg2MTA3NWQyYzQ2YmFmY2ExYTNmN2I1MTY4N2Q2Yjg5",
   "tracks": [
     {
       "added_at": "2022-11-15 15:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-11-15 15:00:00",
       "album": {
+        "name": "\u30b5\u30a4\u30c0\u30fc",
+        "url": "https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3055\u3092\u3002",
+          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
+        }
+      ],
+      "duration_ms": 219211,
+      "name": "\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7"
+    },
+    {
+      "added_at": "2022-11-15 15:00:00",
+      "album": {
         "name": "Voyage (feat. JJJ, BIM)",
         "url": "https://open.spotify.com/album/3QNugQ0SvwweeBsb7ih4gb"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 208800,
       "name": "Voyage (feat. JJJ, BIM)",
       "url": "https://open.spotify.com/track/3aTJkLLdzHMq0hbEHYABvG"
-    },
-    {
-      "added_at": "2022-11-15 15:00:00",
-      "album": {
-        "name": "\u30b5\u30a4\u30c0\u30fc",
-        "url": "https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3055\u3092\u3002",
-          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
-        }
-      ],
-      "duration_ms": 219211,
-      "name": "\u30b5\u30a4\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7"
     },
     {
       "added_at": "2022-11-15 15:00:00",

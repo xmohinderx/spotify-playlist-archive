@@ -982,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Diamond Wave",
+        "url": "https://open.spotify.com/album/2p7x8swIp8A1WCJIy29Hp9"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "Diamond Wave",
+      "url": "https://open.spotify.com/track/4SVCU3Ue6vcowvVrlPHzH5"
+    },
+    {
+      "album": {
         "name": "Strictly A One-Eyed Jack",
         "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
       },
@@ -2976,6 +2994,24 @@
     },
     {
       "album": {
+        "name": "Say What You Like",
+        "url": "https://open.spotify.com/album/6ondmI9JnDrxgTA3lIxkgD"
+      },
+      "artists": [
+        {
+          "name": "Doug Paisley",
+          "url": "https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167819,
+      "name": "Say What You Like",
+      "url": "https://open.spotify.com/track/25i56zqjCrbeSWqV5z0Gki"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef"
       },
@@ -3311,7 +3347,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 276087,
       "name": "Taking Me Back (Gently)",
       "url": "https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw"
@@ -3715,7 +3751,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 193459,
       "name": "What I Had in Mind",
       "url": "https://open.spotify.com/track/5saojvKcj1644C6Fi7BY3j"

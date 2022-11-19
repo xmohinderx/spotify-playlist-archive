@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 154315,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/7c5h3BeU2q9paJelFjtmTG"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185088,
       "name": "Esa Chica Super Onlyfans",
       "url": "https://open.spotify.com/track/6RMdasAsG1toLMbTBwBwi7"
@@ -2595,6 +2595,28 @@
       "duration_ms": 153652,
       "name": "La Colaless - Remix",
       "url": "https://open.spotify.com/track/4u8ir8tjh7AIiMqlYrkRDB"
+    },
+    {
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/7zQeYJNgusijQWXwYQD6mZ"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/69QDHp3lfuEWNcYIuprlAO"
     },
     {
       "album": {
@@ -3407,6 +3429,32 @@
       "duration_ms": 194246,
       "name": "Me Rehuso",
       "url": "https://open.spotify.com/track/40LwWoR8KL8tK4JLFiL53j"
+    },
+    {
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/1jObnkZ4IOCWlpuCD9LPVY"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        },
+        {
+          "name": "Ezio Oliva",
+          "url": "https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179081,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/53ZsIwmRCpuHcRg6qK3GPi"
     },
     {
       "album": {
@@ -4723,7 +4771,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 125239,
       "name": "Quiero Bailar Contigo",
       "url": "https://open.spotify.com/track/6iMdVc09zQpf02uoR6iV4Y"
@@ -4803,7 +4851,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 135728,
       "name": "Resaca",
       "url": "https://open.spotify.com/track/1yz9PtGQrEwvTCYvvFKq4g"
@@ -6089,7 +6137,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-08",
+      "date_removed": null,
       "duration_ms": 123361,
       "name": "Una Cumbia",
       "url": "https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO"
@@ -6165,7 +6213,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 129412,
       "name": "Vamo A Tomar Una",
       "url": "https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx"

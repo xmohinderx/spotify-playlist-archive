@@ -363,6 +363,22 @@
     {
       "added_at": "2022-11-17 12:22:22",
       "album": {
+        "name": "Pill to pop",
+        "url": "https://open.spotify.com/album/0fAxb2s1j7OK883DBuJiMy"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        }
+      ],
+      "duration_ms": 268881,
+      "name": "Pill to pop",
+      "url": "https://open.spotify.com/track/7roNHaPH6I1zvkRDtVias2"
+    },
+    {
+      "added_at": "2022-11-17 12:22:22",
+      "album": {
         "name": "Saraab",
         "url": "https://open.spotify.com/album/3MEuUAzCmIEMKK9j5xiQeW"
       },

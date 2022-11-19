@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 162117,
       "name": "Drunk Too",
       "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 221525,
       "name": "Every Other Memory - Acoustic",
       "url": "https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 167833,
       "name": "Hope It's Hot Out - Acoustic",
       "url": "https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj"
@@ -3373,6 +3373,24 @@
       "duration_ms": 237080,
       "name": "What A Song Can Do - Stripped Down",
       "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
+    },
+    {
+      "album": {
+        "name": "What He Didn't Do (Acoustic)",
+        "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189555,
+      "name": "What He Didn't Do - Acoustic",
+      "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
     },
     {
       "album": {

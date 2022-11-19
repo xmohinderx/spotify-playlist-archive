@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: 200 Stab Wounds
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Speed
 
-270 songs - 17 hr 16 min - not published yet
+276 songs - 17 hr 43 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 |  |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-18 |  |
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-02 |  |
+| [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-18 |  |
 | [Congregation](https://open.spotify.com/track/2LMKemBZtIqQFYwbOtWNYj) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6eCA5jhCBTqYYoOgemoAES) | 4:55 | 2022-05-20 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 |  |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 |  |
@@ -129,6 +130,7 @@
 | [It Never Began](https://open.spotify.com/track/7pLmXXwjM18XrFEmfIwXLZ) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [It Never Began](https://open.spotify.com/album/3CxeN9kycWWPzlsUAFFG9Z) | 3:25 | 2022-09-16 |  |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 |  |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 |  |
+| [Killing Floor](https://open.spotify.com/track/0fX96Ub0Y3u8ThVVF5Ot8J) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Killing Floor](https://open.spotify.com/album/6xj91HWUFxs1KHlNtFBapJ) | 2:53 | 2022-11-18 |  |
 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 | 2022-10-07 |  |
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 |  |
 | [Life Unknown](https://open.spotify.com/track/0trsDMSa16iKVLvGuwoee2) | [Praise](https://open.spotify.com/artist/5pBjhwqwoCpxGm4igqvgCi) | [Life Unknown](https://open.spotify.com/album/2OHDTjpGe1QosiQiy7UVwe) | 3:37 | 2022-04-22 |  |
@@ -163,6 +165,7 @@
 | [NUGE SNIGHT](https://open.spotify.com/track/2UCgCgrVNGPND618mlS9eo) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [NUGE SNIGHT](https://open.spotify.com/album/3gSv2igJIJ6V9UaWv927mb) | 1:31 | 2022-02-11 |  |
 | [Nympheas](https://open.spotify.com/track/6dlvIEP0oxOCs4XtA3JPfc) | [Birds in Row](https://open.spotify.com/artist/2H5x6tCSjQ4N5Lh7pRrTNo) | [Nympheas](https://open.spotify.com/album/0uHCBkvSUkndSSVKxKqPWm) | 3:24 | 2022-07-15 |  |
 | [Omens](https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO) | 3:47 | 2022-07-29 |  |
+| [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-18 |  |
 | [One by One](https://open.spotify.com/track/3UEeuZJjE4ftR7zkq7IVaK) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [One by One](https://open.spotify.com/album/3J7NZbEojkhk997nA5UhkD) | 3:05 | 2022-02-18 |  |
 | [One Twenty Two](https://open.spotify.com/track/1YcAT8wzQpk12OOJcBcOT5) | [Botch](https://open.spotify.com/artist/4kRYDoAbgDL7nqeqZhJlA3) | [One Twenty Two](https://open.spotify.com/album/2F2GdWHz62uzpsgNtF7mfd) | 2:16 | 2022-08-26 |  |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-10-14 |  |
@@ -178,6 +181,7 @@
 | [PIG](https://open.spotify.com/track/44QReqha5ZQ83U6NcG3xCo) | [The Machinist](https://open.spotify.com/artist/50WDTKRSrvgZrQMWMw0QWQ) | [PIG](https://open.spotify.com/album/6mwcmC4zE6BDyCukqsZyTS) | 3:05 | 2022-06-03 |  |
 | [Pig Pen](https://open.spotify.com/track/4VM9hWSTtGEEqtksVMf2w8) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Pig Pen](https://open.spotify.com/album/5EeOGbGvN3O0wjUuoXU5lE) | 1:52 | 2022-11-04 |  |
 | [Pigs, Shit & Trash](https://open.spotify.com/track/6cMLVHVMUgfzEI0Ic4uVOH) | [Weeping Icon](https://open.spotify.com/artist/7AQAl2GtBkKKtSYH9PoDX9) | [Pigs, Shit & Trash](https://open.spotify.com/album/2iCjmIHUYLIbZRQd9HenXo) | 3:37 | 2022-10-14 |  |
+| [Pissed](https://open.spotify.com/track/4XXNCayzo7OFJGztzLkZm0) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Pissed](https://open.spotify.com/album/7GrmcUajNVtMHWyiWcg9sW) | 3:18 | 2022-11-18 |  |
 | [Poison Flowers](https://open.spotify.com/track/11O2WpROGfGmVrvIjVWzjV) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Poison Flowers](https://open.spotify.com/album/52l1ZY3fbJ6SlIgDcyrnT6) | 5:32 | 2022-03-04 |  |
 | [Predatory Savior](https://open.spotify.com/track/7sXYOblxpZmMfWOji020Q5) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Predatory Savior](https://open.spotify.com/album/6nswezZB2rXRS1aGz5Phnh) | 2:58 | 2022-06-17 |  |
 | [Premium Offer](https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Premium Offer](https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS) | 2:54 | 2022-02-11 |  |
@@ -203,6 +207,7 @@
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 |  |
 | [Selfish Hearts](https://open.spotify.com/track/0smmYlU6Y8aYAxMxoF13gC) | [Billy Howerdel](https://open.spotify.com/artist/29T1xRveILTzNfQkuqlvDf) | [Selfish Hearts](https://open.spotify.com/album/3O1wud1esviXgsvwkzBK5p) | 2:50 | 2022-05-27 |  |
 | [Send the Pain Below](https://open.spotify.com/track/6OxubR1H6gRz3VzYt37Sex) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Send the Pain Below](https://open.spotify.com/album/6L0Z8t0A1iZhcAtJRfpXnh) | 4:42 | 2022-03-25 |  |
+| [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 | 2022-11-18 |  |
 | [Shaken \(not stirred\)](https://open.spotify.com/track/0xv7FSJPlVXBabtxOtMtHA) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Shaken \(not stirred\)](https://open.spotify.com/album/3pDXkhMOLNggMubMljdkRJ) | 5:19 | 2022-09-02 |  |
 | [Shifting Eyes](https://open.spotify.com/track/77rCSuHa7OZ4Dd06E0dkRx) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Shifting Eyes](https://open.spotify.com/album/6EDWJHxJjudI9xNRgwoeVV) | 2:33 | 2022-04-22 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 |  |
@@ -222,6 +227,7 @@
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 |  |
 | [tear gas](https://open.spotify.com/track/5dmmNOi4QVrB6TbYDy2GCg) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [tear gas](https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L) | 4:17 | 2022-07-15 |  |
 | [Tearing Down Your Reality](https://open.spotify.com/track/3n7o1RgdVLrvHs6JO0Z44N) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Lucid Noise](https://open.spotify.com/album/2Bp9hBPWjMgtY1uulgkqvP) | 3:31 | 2022-10-21 |  |
+| [Tenkiller](https://open.spotify.com/track/1VyU3Uf8oS99scpVqRYwWO) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Tenkiller / Lake Time \(Mr\. Rodan\)](https://open.spotify.com/album/4HGSELCBT0TY9mBEiedgjB) | 5:13 | 2022-11-18 |  |
 | [The Abysmal Eye](https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Abysmal Eye](https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa) | 4:55 | 2022-01-28 |  |
 | [The Acres/The Ache](https://open.spotify.com/track/22qntLdbNRmTxaMOeQUqlJ) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [The Acres/The Ache](https://open.spotify.com/album/7r9YsbBFxRAmXwxqa92B2B) | 8:36 | 2022-02-04 |  |
 | [The Bough](https://open.spotify.com/track/6gQ1LiHTZ42Luk9EG7MlNk) | [Black Math Horseman](https://open.spotify.com/artist/6Pqqs38vVtfObyyoUaD5E5) | [The Bough](https://open.spotify.com/album/6rHvNkGI7UyJ7oGNJ8fBpG) | 7:09 | 2022-08-26 |  |

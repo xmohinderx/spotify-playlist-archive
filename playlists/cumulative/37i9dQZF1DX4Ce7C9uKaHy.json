@@ -55,10 +55,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 143132,
       "name": "Again",
       "url": "https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN"
+    },
+    {
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143132,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
     },
     {
       "album": {
@@ -557,10 +575,28 @@
       ],
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 93635,
       "name": "Feblu",
       "url": "https://open.spotify.com/track/0BD9XqvXSSxlHsdBlLKhqA"
+    },
+    {
+      "album": {
+        "name": "Expedition, Vol. 7 (Moonloops)",
+        "url": "https://open.spotify.com/album/7HPxDRXmH8sR74ywHbuXjM"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93635,
+      "name": "Feblu",
+      "url": "https://open.spotify.com/track/6EHGGXkOd5APGB3bxEqekX"
     },
     {
       "album": {
@@ -2235,7 +2271,7 @@
     {
       "album": {
         "name": "Sunday Evening.",
-        "url": "https://open.spotify.com/album/24x6bbAwLxKmNNyWaLpF0i"
+        "url": "https://open.spotify.com/album/5Lox3JJVy1jpFscjs3mUFO"
       },
       "artists": [
         {
@@ -2246,6 +2282,24 @@
       "date_added": "2020-05-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 62619,
+      "name": "Sunday Evening.",
+      "url": "https://open.spotify.com/track/3hFJJ1ySbkjsJUftYaQk4a"
+    },
+    {
+      "album": {
+        "name": "Sunday Evening.",
+        "url": "https://open.spotify.com/album/24x6bbAwLxKmNNyWaLpF0i"
+      },
+      "artists": [
+        {
+          "name": "SPEECHLESS",
+          "url": "https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0"
+        }
+      ],
+      "date_added": "2020-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
       "duration_ms": 62619,
       "name": "Sunday Evening.",
       "url": "https://open.spotify.com/track/54EGtk5LxuWGkCc3pqTi59"

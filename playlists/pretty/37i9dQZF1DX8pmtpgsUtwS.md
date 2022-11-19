@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,860 likes - 67 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,864 likes - 67 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 12 | [Saathi Suno](https://open.spotify.com/track/1lFaXChk2zP7c07pI9Eq6L) | [Srabasti Acharya](https://open.spotify.com/artist/6NHoiPWSlDS9qUsjrQGmFz), [Roshan Sebastian](https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM) | [Saathi Suno](https://open.spotify.com/album/3X5OxWtugyB7Yt1tyyg9qI) | 2:16 |
 | 13 | [High](https://open.spotify.com/track/1ejKjr17tS1xJdfnUroTdK) | [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn) | [Up](https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S) | 2:46 |
 | 14 | [Badarwa](https://open.spotify.com/track/7FkI3zkAGGL7q09PxpmpY4) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Badarwa](https://open.spotify.com/album/2IogLl0Rn9jq8Ru17JPihQ) | 3:44 |
-| 15 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z), [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
+| 15 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
 | 16 | [Naina \(feat\. Isheeta Chakrvarty\)](https://open.spotify.com/track/3wfrzxr2n7RmtPakWCULys) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId) | [In Other Words](https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso) | 5:31 |
 | 17 | [Palkan Lagi](https://open.spotify.com/track/5n3WlH86m4OTnctsTv6JYM) | [Pragya Dasgupta](https://open.spotify.com/artist/4GYA4XRktJKOgy4ndFNcH9), [Jai Kothari](https://open.spotify.com/artist/7vZjmMk8cVIsJyeW5btZq4) | [Palkan Lagi](https://open.spotify.com/album/4oAiwIn4sXm8UTVtyPcpWg) | 2:49 |
 | 18 | [Mohan Bin Radha](https://open.spotify.com/track/5uSh9y1mJ3oIZJv0VitrOX) | [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Mohan Bin Radha](https://open.spotify.com/album/2UQkdO6LhoeUUu0ex60FX1) | 3:19 |

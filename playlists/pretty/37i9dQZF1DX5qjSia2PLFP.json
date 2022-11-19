@@ -1,13 +1,77 @@
 {
   "description": "New music breaking waves.  Cover: Ice Spice",
-  "num_followers": 20241,
+  "num_followers": 20235,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDVlYWViZWY4ZWRiYTY1ODE2MzM1OGMyOTAxZmI1MmJh",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDE1NzY5MmY2ZDVjNDM1YWNiMzIyMGY5ZTBlMzlhOTc3",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Pretty In Black",
+        "url": "https://open.spotify.com/album/5MfPSUlLg1wsGUyY2c10OG"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 113043,
+      "name": "PRETTY IN BLACK",
+      "url": "https://open.spotify.com/track/0CKjwy3zelVZgS49WlVIaV"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Compare - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0o2fniizJPNWTYr4ilWA46"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 136262,
+      "name": "Compare - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1jCk2UYGvtpxtkyhTRbKgF"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Creme Brulee",
+        "url": "https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 112207,
+      "name": "Creme Brulee",
+      "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Here I Come",
+        "url": "https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 108413,
+      "name": "Here I Come",
+      "url": "https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj"
+    },
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
@@ -597,22 +661,6 @@
       "url": "https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc"
     },
     {
-      "added_at": "2022-08-12 07:04:57",
-      "album": {
-        "name": "Pretty In Black (Deluxe)",
-        "url": "https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1"
-      },
-      "artists": [
-        {
-          "name": "Joony",
-          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
-        }
-      ],
-      "duration_ms": 123636,
-      "name": "AVENTADOR",
-      "url": "https://open.spotify.com/track/2NhVY8tOBvbQRCLvBXFrUJ"
-    },
-    {
       "added_at": "2022-08-26 04:00:00",
       "album": {
         "name": "ME FIRST - A COLORS SHOW",
@@ -843,22 +891,6 @@
       "duration_ms": 208880,
       "name": "Till The World's Awake",
       "url": "https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex"
-    },
-    {
-      "added_at": "2022-06-24 04:35:01",
-      "album": {
-        "name": "Ain't Going Back",
-        "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
-      },
-      "artists": [
-        {
-          "name": "Rican Da Menace",
-          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
-        }
-      ],
-      "duration_ms": 149231,
-      "name": "Ain't Going Back",
-      "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
     }
   ],
   "unique_name": "Ripple Effect",

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-455 songs - 1 day 3 hr 34 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
+457 songs - 1 day 3 hr 41 min - [published](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 | 2021-12-16 |  |
 | [Beatin’ tha Breaks \- Freddie Joachim Remix](https://open.spotify.com/track/4pL8MP37x4cMmXk6Tcn1dS) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Future Disco: Beach Life](https://open.spotify.com/album/7BQpUHRGyTvl6q5gOj0vAz) | 4:08 | 2021-12-16 | 2022-07-01 |
 | [Beige 70 \- Domenique Dumont Bilingual Remix](https://open.spotify.com/track/1mslMFJL31XTXZG92ip11I) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Beige 70 \(Domenique Dumont Bilingual Remix\)](https://open.spotify.com/album/2cQynjKHiS66OzKPm7zUox) | 4:22 | 2021-12-16 | 2022-04-21 |
-| [Believe in Me](https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Bright Moments](https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w) | 4:05 | 2021-12-16 |  |
+| [Believe in Me](https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Bright Moments](https://open.spotify.com/album/79A60jmAsN0A0vmbqosE6w) | 4:05 | 2021-12-16 | 2022-11-19 |
 | [Best Worst Year](https://open.spotify.com/track/1vPaaWXnB5pXneMmHSMnRF) | [STRABE](https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu) | [Best Worst Year](https://open.spotify.com/album/2bOC8Kmndkb29jbZppo9La) | 4:38 | 2021-12-16 | 2022-07-29 |
 | [Best Worst Year](https://open.spotify.com/track/4mrMneeP6gYjDezM4tyxMD) | [STRABE](https://open.spotify.com/artist/0FMEK1QJjgPFczDNQk8AJu) | [Best Worst Year](https://open.spotify.com/album/5nG24I5GTbqSHlChRBI6jb) | 4:38 | 2022-07-26 |  |
 | [Betcha Wouldn't Hurt Me](https://open.spotify.com/track/5UCaHq0Qlm42mbmVp4V4rk) | [Full](https://open.spotify.com/artist/3Js4yADMefFaRhcph3hzI1), [Donna Gardier](https://open.spotify.com/artist/6KJqxb49RobIlpjjqQpdIH) | [Chinese Whispers](https://open.spotify.com/album/73505dh2ferYxsV5VCs2em) | 3:14 | 2021-12-16 | 2022-04-20 |
@@ -199,6 +199,7 @@
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2022-03-30 |  |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-09-26 | 2022-11-17 |
 | [It Runs Through Me](https://open.spotify.com/track/0p92TJPcRHCbcSk3wCwWBz) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [It Runs Through Me](https://open.spotify.com/album/5xwjUoVyZTxDN0P9D2GXFd) | 4:21 | 2021-12-16 | 2022-10-14 |
+| [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-11-11 |  |
 | [It Takes a Lot](https://open.spotify.com/track/13AYQK0HEtYCMGo0yKebeD) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [It Takes a Lot](https://open.spotify.com/album/4lGwQlZzNfkdP1A3JUbENH) | 3:58 | 2021-12-16 | 2022-04-21 |
 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 | 2022-11-13 |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
@@ -292,6 +293,7 @@
 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 | 2022-09-26 |  |
 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 | 2022-03-30 | 2022-04-18 |
 | [One Step Ahead \- Mono Mix](https://open.spotify.com/track/4lH451AAXQD0s8r4mIOsRw) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:26 | 2022-03-30 | 2022-04-04 |
+| [Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 2:55 | 2022-11-11 |  |
 | [Only A Fool Would Say That](https://open.spotify.com/track/6eT2fNwiVD04D3R4uP5qOv) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 2:56 | 2022-03-30 | 2022-11-09 |
 | [Only the Wild Ones](https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/2GkDG2SbBX4lewmepYLAYV) | 4:13 | 2021-12-30 | 2022-10-13 |
 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2022-10-14 |  |
@@ -370,7 +372,7 @@
 | [Sunrise](https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Sunrise](https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw) | 3:31 | 2022-04-19 | 2022-07-28 |
 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 | 2022-03-30 |  |
 | [Sure Don't Miss You](https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/650kATa4wiGNPX25qf6ddb) | 2:54 | 2021-12-16 | 2022-07-29 |
-| [Swept Away](https://open.spotify.com/track/2tuk3PezhFMV8fBB433tV0) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/6J7xW1IJiJ82bSVsEWVCCY) | 3:59 | 2022-02-04 |  |
+| [Swept Away](https://open.spotify.com/track/2tuk3PezhFMV8fBB433tV0) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/6J7xW1IJiJ82bSVsEWVCCY) | 3:59 | 2022-02-04 | 2022-11-19 |
 | [Switch](https://open.spotify.com/track/42VpxSdGQgnV1UJkWeGYkA) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 | 2022-03-30 | 2022-04-21 |
 | [Take It Easy](https://open.spotify.com/track/2GcMJZuPiou4qvPlxE2CIr) | [Archie James Cavanaugh](https://open.spotify.com/artist/4iKkIkbDSAiPibQW4PxQFE) | [Black And White Raven](https://open.spotify.com/album/6drlBqAE7vyuPnAPOMEZml) | 3:26 | 2022-03-30 | 2022-04-17 |
 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 | 2022-03-30 | 2022-04-20 |

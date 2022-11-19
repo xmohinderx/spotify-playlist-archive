@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 142759,
       "name": "Before",
       "url": "https://open.spotify.com/track/29v3pHTKuYzcCvW1Y6Dgp3"
@@ -10683,7 +10683,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 480253,
       "name": "Scythe Master",
       "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
@@ -13107,7 +13107,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 190528,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL"
@@ -13947,6 +13947,24 @@
       "duration_ms": 216000,
       "name": "Warming Up",
       "url": "https://open.spotify.com/track/1PpS40SKQ4u9KTTAv1KXSE"
+    },
+    {
+      "album": {
+        "name": "Information (Redacted)",
+        "url": "https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Warming Up",
+      "url": "https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K"
     },
     {
       "album": {

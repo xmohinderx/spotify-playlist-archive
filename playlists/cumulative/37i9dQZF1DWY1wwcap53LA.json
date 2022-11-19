@@ -1882,6 +1882,28 @@
     },
     {
       "album": {
+        "name": "Trap Still Bumpin",
+        "url": "https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g"
+      },
+      "artists": [
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164448,
+      "name": "Trap Still Bumpin",
+      "url": "https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },

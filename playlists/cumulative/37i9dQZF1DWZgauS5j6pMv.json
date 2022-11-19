@@ -2990,6 +2990,28 @@
     },
     {
       "album": {
+        "name": "Maybe You\u00b4re The One",
+        "url": "https://open.spotify.com/album/6E8LtIJ6vpnMlNKWxucLew"
+      },
+      "artists": [
+        {
+          "name": "Cool Million",
+          "url": "https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG"
+        },
+        {
+          "name": "Susanne \u00d8rum",
+          "url": "https://open.spotify.com/artist/2pA0uUUengpSBIefFLlwag"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220437,
+      "name": "Maybe You\u00b4re the One",
+      "url": "https://open.spotify.com/track/3mDWp7MEpIouGgskiiqITA"
+    },
+    {
+      "album": {
         "name": "Misbehavin",
         "url": "https://open.spotify.com/album/3E6enR1PQzg6wQjFEioHKS"
       },

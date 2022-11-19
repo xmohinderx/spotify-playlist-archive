@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Lost
+> Le meilleur du hip\-hop québécois\. Photo: Rymz
 
-304 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+306 songs - 15 hr 42 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Haine & Peine](https://open.spotify.com/track/4z6LzCA9czBUaLsYtzuZwA) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:43 | 2022-02-18 | 2022-04-23 |
 | [Highway](https://open.spotify.com/track/6sBWExHE8o9EPgl5qtouGf) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [D4vid Lee](https://open.spotify.com/artist/7LzOVgKtZZlKE2AjJ8qDwy) | [Génération VDR](https://open.spotify.com/album/6TrliXQxDiWmkAuJftqKmN) | 3:36 | 2022-06-10 | 2022-09-03 |
 | [HIT](https://open.spotify.com/track/1z4jzgRu3aPr5W1EL3fLNu) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [HIT](https://open.spotify.com/album/5fzL567zhWlmeslIgX9tQR) | 3:36 | 2022-05-20 | 2022-10-22 |
+| [Hit Me Up](https://open.spotify.com/track/4HN6EqlbPwlAJWAUIWnYsC) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Hit Me Up](https://open.spotify.com/album/18UDNQmWIoRzpgp3GROLcr) | 3:13 | 2022-11-18 |  |
 | [Hold Up](https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:33 | 2022-05-20 |  |
 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 | 2022-11-11 |  |
 | [Homme de pluie](https://open.spotify.com/track/0sUtLK6x9rryNtWy1bwnSb) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Homme de pluie](https://open.spotify.com/album/6viPgfyEaKsVu3QoGiJkiC) | 3:04 | 2022-07-29 | 2022-08-27 |
@@ -155,6 +156,7 @@
 | [Ice](https://open.spotify.com/track/5tGZXgLK1nPDF6U8Velfl3) | [Seven Binks](https://open.spotify.com/artist/12SPMb4VM4PyBD9no01jbH), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Ice](https://open.spotify.com/album/3hEqMe7QYkSZlUPrk5LrUs) | 3:23 | 2022-07-15 |  |
 | [IDGAF](https://open.spotify.com/track/5uy3QzTHO9TRh97CDhQ9Jm) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES), [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [IDGAF](https://open.spotify.com/album/38m4T8X8yQJJ788BM2yJVx) | 2:21 | 2022-06-10 |  |
 | [Il était une fois](https://open.spotify.com/track/3uLZL8cZl2Hr1lal1Cet3D) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Il était une fois](https://open.spotify.com/album/2viKHkCMddUIbdI4EWbbTd) | 4:05 | 2022-08-26 |  |
+| [IMPRÉVU](https://open.spotify.com/track/1VzTSPhN4Rxxr0Snb6DeZp) | [Fetti419](https://open.spotify.com/artist/11RdC1fF40W2kSszBDZdYi), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [IMPRÉVU](https://open.spotify.com/album/29JLXPCwEw7zU8cmSW06Fz) | 3:13 | 2022-11-18 |  |
 | [Intemporel](https://open.spotify.com/track/14OiYmRva1c3B3mISSC7Qq) | [Le Snake](https://open.spotify.com/artist/3TRNKLRrNrZlb4HGNwgOUL) | [Intemporel](https://open.spotify.com/album/4ZA0qt6TJpYKgEJ5lxVgsi) | 2:24 | 2022-01-07 | 2022-03-05 |
 | [Intro](https://open.spotify.com/track/6uqkrRopGG4wmbOG8ZTxos) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb) | [OUVERT 24H](https://open.spotify.com/album/7EqcDXSFsZso51h1g7cBAM) | 1:45 | 2022-10-28 | 2022-11-12 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 | 2022-07-23 |
@@ -197,7 +199,7 @@
 | [Moitié plein](https://open.spotify.com/track/15tb8Of2C5NujvAYSWyXao) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:15 | 2022-09-16 | 2022-11-12 |
 | [Mon Canon](https://open.spotify.com/track/5SKHYFOQXcLfuh2z1mc2Ck) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Mon Canon](https://open.spotify.com/album/04H677dyIFAcFLyTogZnmo) | 2:46 | 2022-07-08 | 2022-10-01 |
 | [Mon Chaw](https://open.spotify.com/track/5TOn3TDdaQhx9MAFJsw2dx) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Mon Chaw](https://open.spotify.com/album/6LH15PDdq6yI8Mbfr2KlCl) | 2:29 | 2022-08-26 |  |
-| [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 | 2022-10-07 |  |
+| [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 | 2022-10-07 | 2022-11-19 |
 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 | 2022-09-09 | 2022-09-24 |
 | [Monochrome](https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Monochrome](https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6) | 2:39 | 2022-04-29 | 2022-05-28 |
 | [Mouiller Le Maillot](https://open.spotify.com/track/3Lhy7t0J2UCHXTk1WhNRp3) | [Loussa](https://open.spotify.com/artist/66JV0RT5jJXASMORQJCuEv) | [Mouiller Le Maillot](https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm) | 2:58 | 2022-01-14 | 2022-07-30 |
@@ -236,7 +238,7 @@
 | [Pretty](https://open.spotify.com/track/3T0j18B548ErQk12YqVeaM) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Pretty](https://open.spotify.com/album/09PbP0qQhjMCyga59aKQUI) | 2:40 | 2022-07-08 | 2022-11-12 |
 | [Problèmes](https://open.spotify.com/track/2fCUQBbTUwTIEXW2zdHi9M) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Problèmes](https://open.spotify.com/album/5UelzUQ0qDzakxA0jKT3aZ) | 2:59 | 2022-01-07 | 2022-01-22 |
 | [PROHIBITION](https://open.spotify.com/track/0RW5IgPSaevPbZzIYOHYo0) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [PROHIBITION](https://open.spotify.com/album/6KWu3KBIbaewiWvT88bTIP) | 2:58 | 2022-04-22 | 2022-05-20 |
-| [Prolifère](https://open.spotify.com/track/3Ej0N0tBYVaVeVJy4sD7pn) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Prolifère](https://open.spotify.com/album/2VGYIR1CyIys08QznWWJcy) | 3:35 | 2022-08-26 |  |
+| [Prolifère](https://open.spotify.com/track/3Ej0N0tBYVaVeVJy4sD7pn) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Prolifère](https://open.spotify.com/album/2VGYIR1CyIys08QznWWJcy) | 3:35 | 2022-08-26 | 2022-11-19 |
 | [PROTAGONISTE \(Main Theme\)](https://open.spotify.com/track/09N0R11DpvtXWCk4YFLSnJ) | [Jam Khalil](https://open.spotify.com/artist/0pQTmAZD71vfB70Jn3Yzh8) | [PROTAGONISTE \(Main Theme\)](https://open.spotify.com/album/0xwQCELClDF0riMaYp8aiy) | 3:23 | 2022-01-07 | 2022-01-29 |
 | [Prêtre](https://open.spotify.com/track/1XEyDyOdkDvXdBmW2r7mxj) | [Moto](https://open.spotify.com/artist/1YXS0KPxEeYQpVmvSA9FuV), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Prêtre](https://open.spotify.com/album/6QRaeSXaeYbn79dqjni4WQ) | 2:27 | 2022-09-02 |  |
 | [Pyrogue](https://open.spotify.com/track/7eTHUYu1P5c6AmBmSHuBI5) | [Josad](https://open.spotify.com/artist/5YR9Y6LjJ5zrE4HefvkcvL) | [Keita, Vol.1](https://open.spotify.com/album/3CY2Av6Jbfov3k0G33Jxsf) | 2:36 | 2022-06-17 | 2022-07-02 |

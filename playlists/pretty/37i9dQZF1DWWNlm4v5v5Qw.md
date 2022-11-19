@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: DEETRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,505 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,502 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 53 | [6feet!](https://open.spotify.com/track/5tRwoJRpaIoHlLNVZUJulC) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [6feet!](https://open.spotify.com/album/27VqqtbPZKvvVhDogGm9fA) | 1:37 |
 | 54 | [Soda Pop](https://open.spotify.com/track/4rljlKPi0fkI6Lu0ySlIe9) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Soda Pop](https://open.spotify.com/album/3sFt6KykqwyiO2NDPq4owN) | 2:44 |
 | 55 | [SHROOM TRIP](https://open.spotify.com/track/54B9JQXq1Q3oTE9DIp1mHg) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [SHROOM TRIP](https://open.spotify.com/album/10t8VXwMKS8cDq2Pc6rQB7) | 2:23 |
-| 56 | [Much More](https://open.spotify.com/track/0TQN1eNAZUJ8dRtcGvASXV) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj) | [Much More](https://open.spotify.com/album/4CUpubYVFGsLJQPTNUJfp5) | 4:42 |
+| 56 | [Much More](https://open.spotify.com/track/4wYTTvOrC56pRkqjGIDq5b) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj) | [Sound Is Like Water](https://open.spotify.com/album/5qAluQa0RZyGiHObyOvA6i) | 4:42 |
 | 57 | [QuikkSkope \(feat\. DC The Don\)](https://open.spotify.com/track/5Kvs2iitHuGu1PCaJESZJS) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 2:41 |
 | 58 | [Tinted Lens](https://open.spotify.com/track/6DLBRXR5tL21nvAaVp29Lv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Tinted Lens](https://open.spotify.com/album/2HY51P5tthMRdSxs3FMT0K) | 2:41 |
 | 59 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 60 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMDgxYWZkYTM5OGYxNzU3Y2QxODM0OTA4YTUwZTg5OWY4`
+Snapshot ID: `MTY2NTExNTIwMCwwMDAwMDAwMGZkYmEwZDg5MGU3NDM3MWRiNzlhOGRhMDU4NWMxYTQx`

@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 44195,
+  "num_followers": 44188,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk5OCwxNGUyMTBhMjZkNDE3M2JmYmIxN2VkODJjOTIxY2E1MjA3YTc3NjA1",
+  "snapshot_id": "MzAwMCwwODIwMTBiMzcwMDg0YTgwMmU2ZGUxMTA1ZDc2MzhlYjI3MmM0MWQ5",
   "tracks": [
+    {
+      "added_at": "2022-11-18 08:15:03",
+      "album": {
+        "name": "Lava In The Sky",
+        "url": "https://open.spotify.com/album/5xhJnDqJLk1CJtdvuSOXBu"
+      },
+      "artists": [
+        {
+          "name": "Selbor",
+          "url": "https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t"
+        }
+      ],
+      "duration_ms": 253167,
+      "name": "Lava In The Sky - Club Edit",
+      "url": "https://open.spotify.com/track/2LHBPXrnwl2A1uwWkR9eZF"
+    },
     {
       "added_at": "2022-11-16 08:46:53",
       "album": {
@@ -399,22 +415,6 @@
       "duration_ms": 196162,
       "name": "IPANEMA - slow",
       "url": "https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei"
-    },
-    {
-      "added_at": "2022-08-22 08:12:07",
-      "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc"
-      },
-      "artists": [
-        {
-          "name": "Roy Ford",
-          "url": "https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob"
     },
     {
       "added_at": "2021-11-05 15:47:43",

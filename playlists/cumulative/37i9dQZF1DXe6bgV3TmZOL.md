@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-353 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
+354 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All I Need](https://open.spotify.com/track/4HhgKphDUbhvRGZp0bNuuQ) | [Ovtlier](https://open.spotify.com/artist/33EsLV9XuU86eBafBHYL0G) | [All I Need](https://open.spotify.com/album/2mdMVMeRpVTrAaVJ8bflPh) | 3:30 | 2021-11-12 | 2022-07-29 |
 | [All or Nothing](https://open.spotify.com/track/4dMkVSiMt14svAqUlwMVuQ) | [Sylar](https://open.spotify.com/artist/78vP5COn64VXULgkIQovEA) | [All or Nothing](https://open.spotify.com/album/15wYtBlGoDxPUL283TyHgu) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 | 2022-04-04 | 2022-11-03 |
-| [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 | 2021-11-12 |  |
+| [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 | 2021-11-12 | 2022-11-19 |
 | [Alone In A Room](https://open.spotify.com/track/0hAIs32U2SmJcXymlcyF8h) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d) | 4:05 | 2021-11-12 | 2022-11-05 |
 | [Alone In A Room](https://open.spotify.com/track/5Gw8owErJLfkNxWCSwPQKJ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Asking Alexandria](https://open.spotify.com/album/6NVy2LKa43nSPUOMrL4NW6) | 4:05 | 2022-11-02 |  |
 | [Always Southern California](https://open.spotify.com/track/1QUF9KoHtU4ZzFp13XalSR) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/5EC01kwscPKGa659Jqsrae) | 3:10 | 2021-11-12 | 2022-07-29 |
@@ -318,6 +318,7 @@
 | [The Shift](https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Violent Allies](https://open.spotify.com/album/34nWFoHeBOhMZG7iC4AAtW) | 3:00 | 2022-06-17 |  |
 | [The Shift](https://open.spotify.com/track/6kHDKPCxgANtgHbZ84Lc0B) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Shift](https://open.spotify.com/album/2qIdZyANJmQeSTTxyuwF1R) | 3:00 | 2021-11-12 | 2022-07-29 |
 | [The Violence](https://open.spotify.com/track/0C5X8RJXZNuGO2CfQJumb5) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Violence](https://open.spotify.com/album/1Uj57vCDZBtTZZegrNwDdp) | 3:28 | 2022-07-13 | 2022-11-05 |
+| [The Violence](https://open.spotify.com/track/2xLnCpQUbDL1Vsmfaoj089) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Like A House On Fire](https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA) | 3:28 | 2022-11-02 |  |
 | [The Void](https://open.spotify.com/track/2BZ973nCW5OT1k1psRBsyU) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [The Void](https://open.spotify.com/album/2Qn8xk5ULBmZdiZnj5zqLd) | 3:53 | 2021-11-12 | 2022-07-28 |
 | [The Void](https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:53 | 2022-06-17 |  |
 | [They Don't Want What We Want \(And They Don't Care\)](https://open.spotify.com/track/4mRjkI6oIwbSCACGICcZKr) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [They Don't Want What We Want \(And They Don't Care\)](https://open.spotify.com/album/1N0zHaJXe7t5hmGcCSiz38) | 3:15 | 2021-11-12 | 2022-07-29 |

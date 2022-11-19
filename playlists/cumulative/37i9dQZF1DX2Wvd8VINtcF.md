@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-165 songs - 9 hr 26 min - not published yet
+167 songs - 9 hr 30 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2022-10-28 | 2022-11-04 |
 | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/track/2HGSNTGF7iHWe3jDVJFRtN) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [blessing me \(feat\. Kali Uchis\) \(remix\)](https://open.spotify.com/album/645zTMEqAie03KrgBvhJxa) | 2:36 | 2022-10-28 | 2022-11-11 |
 | [Borderland](https://open.spotify.com/track/5dMIzFU7P78VF8iSxVsXpL) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Time On My Hands](https://open.spotify.com/album/0t8kLm7w7kw5k97T8iUge9) | 3:22 | 2022-10-28 | 2022-11-04 |
-| [Bounds](https://open.spotify.com/track/3BFSoUJ4t8uKpTDzSjGRbT) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds](https://open.spotify.com/album/7oXGE56jdEzWAbbqEF3MnM) | 2:45 | 2022-11-17 |  |
+| [Bounds](https://open.spotify.com/track/3BFSoUJ4t8uKpTDzSjGRbT) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds](https://open.spotify.com/album/7oXGE56jdEzWAbbqEF3MnM) | 2:45 | 2022-11-17 | 2022-11-19 |
+| [Bounds \(Mhmm\)](https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Bounds \(Mhmm\)](https://open.spotify.com/album/6V96CPuNmhLCWiqsVLjqbN) | 2:45 | 2022-11-17 |  |
 | [Break Me Down/ Here with You](https://open.spotify.com/track/7pGmOd8k6HtdhMOiYew8UG) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 4:25 | 2022-10-28 |  |
 | [Can't Get Over You](https://open.spotify.com/track/178ZvO20GAGgrxSDitOaYG) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y5](https://open.spotify.com/album/6aiVwr7RR4aWp4Fs0x7ZiB) | 3:36 | 2022-11-10 | 2022-11-18 |
 | [Carbon Dioxide](https://open.spotify.com/track/5JTDPZDDetda3wazmZA3D0) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Carbon Dioxide](https://open.spotify.com/album/6anWFtYOzbbEs8It4Lpi4V) | 4:51 | 2022-11-10 |  |
@@ -147,6 +148,7 @@
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-11-17 |  |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-10-28 | 2022-11-11 |
 | [supernova](https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [supernova](https://open.spotify.com/album/0VOYkE46BuoAn8EMfeMqxq) | 1:30 | 2022-10-28 | 2022-11-18 |
+| [supernova](https://open.spotify.com/track/270BRCqU0rVqTrh72GuoNu) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 1:30 | 2022-11-17 |  |
 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 | 2022-10-28 |  |
 | [Szörp](https://open.spotify.com/track/0cQ4nnOvj9E07oCMVDFQJ3) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Hotel Koko](https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW) | 3:51 | 2022-10-28 | 2022-11-11 |
 | [Takata](https://open.spotify.com/track/5zafxU9A9zsDIzJ2IDxMSt) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [IOTA](https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn) | 2:29 | 2022-11-10 |  |

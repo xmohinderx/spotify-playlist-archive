@@ -4,7 +4,7 @@
 
 > Epic and melodic metal, for the dragonslayer in you! Cover: Beyond The Black
 
-501 songs - 1 day 14 hr 40 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
+502 songs - 1 day 14 hr 44 min - [published](https://open.spotify.com/playlist/7kEcasUjgrsWeDSNxMBt56)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Black Venom](https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S) | [Without Warning](https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe) | [Black Venom](https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq) | 3:17 | 2022-06-11 |  |
 | [Blank Infinity \- Live At Paradiso](https://open.spotify.com/track/0GmZSnIUgQRJfGKR0NSaUl) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Live At Paradiso](https://open.spotify.com/album/0cSFIq70TNkZvsqSfAQrXe) | 4:02 | 2022-09-01 |  |
 | [Blood of Heaven](https://open.spotify.com/track/47cPM0m5L7l06hAprdV0NX) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Blood of Heaven](https://open.spotify.com/album/5uvgEF7Cpbdf4eokVESORA) | 3:17 | 2022-01-14 | 2022-01-22 |
-| [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 |  |
+| [Blood Of The Elves](https://open.spotify.com/track/5yxBjLv4Zh3VLp4kSvoZyG) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Blood Of The Elves](https://open.spotify.com/album/76PsSP8KP5hfMj6Lv4baRS) | 4:37 | 2022-05-27 | 2022-11-19 |
 | [Bloodline](https://open.spotify.com/track/3p8mNusemqp0ejZaJVLiqi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Noora Louhimo](https://open.spotify.com/artist/1sohI3zY96pI2KJICKOYBA) | [Bloodline](https://open.spotify.com/album/4tt6KdVt97D0xhbIPUeB4l) | 4:36 | 2020-11-29\* | 2021-02-12 |
 | [Bound for Glory](https://open.spotify.com/track/6iaE692yddzSZCtas13O3G) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Bound for Glory](https://open.spotify.com/album/67ivunRzZPCKSFkJ0RLkUa) | 5:27 | 2021-10-29 | 2022-06-12 |
 | [Bound to You](https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Bound to You](https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg) | 5:20 | 2021-10-01 | 2022-05-14 |
@@ -474,6 +474,7 @@
 | [Voices](https://open.spotify.com/track/0n8FH9ZymLlSJyY6bvd0xE) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Voices](https://open.spotify.com/album/4GryeT2FdvAcyWjui8nlOW) | 4:09 | 2021-03-19 | 2021-12-11 |
 | [Voyage of the Future](https://open.spotify.com/track/7xzIQnrHsepPd3xdLBiR2b) | [Gyze](https://open.spotify.com/artist/0E40KPKfyyqTXyPHbPf2ou) | [Voyage of the Future](https://open.spotify.com/album/3yQCBYJOJl3ifpB8aHwa9y) | 5:13 | 2021-02-26 | 2021-10-23 |
 | [Voyage Voyage](https://open.spotify.com/track/75YX0XH3dLamMxfut44LOo) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Voyage Voyage](https://open.spotify.com/album/3zjOOho4Y5Rcc6LUK8yAhl) | 4:18 | 2021-02-12 | 2021-10-29 |
+| [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 | 2022-11-18 |  |
 | [Watcher Of The Skies](https://open.spotify.com/track/1FEeLSIo2Modp8lVNMlAOa) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [New World Shadows](https://open.spotify.com/album/0F5TuEUMHpMMXIYTbr6tvZ) | 4:17 | 2022-07-13 | 2022-07-29 |
 | [Waterslide](https://open.spotify.com/track/2D9MxsIudcEZWTCgJyLcnc) | [Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0) | [Homey](https://open.spotify.com/album/6KC06etxRkjUDzvfxU5sgA) | 3:26 | 2022-07-13 | 2022-07-30 |
 | [Waves](https://open.spotify.com/track/5WwADTNIfs6sjjJmoveTYc) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Waves](https://open.spotify.com/album/4O81GDO4G95TgkATRw569Q) | 7:40 | 2021-05-28 | 2022-01-22 |

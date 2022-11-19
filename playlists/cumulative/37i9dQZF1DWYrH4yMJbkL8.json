@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "A free space for Indigenous creators in Canada. Currently curated by Aysanabee.",
+  "description": "A free space for Indigenous creators in Canada. Currently curated by Laura Niquay.",
   "name": "Indigenous",
   "published_playlist_ids": [
     "3SSsubeAfIHbsO9Jxcto5j"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 221813,
       "name": "100 Years - Remastered 2021",
       "url": "https://open.spotify.com/track/0dOPhH828C4TwABjiFGHEx"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 239510,
       "name": "25",
       "url": "https://open.spotify.com/track/74W8hlQqCm4PRjMSBvVlTE"
@@ -66,6 +66,42 @@
     },
     {
       "album": {
+        "name": "SHIFTING",
+        "url": "https://open.spotify.com/album/10v5r1u4kwiIpdbakONaps"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Deer",
+          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "AANNGIQ",
+      "url": "https://open.spotify.com/track/1YLx7QBLLEy8e8c8eqszSX"
+    },
+    {
+      "album": {
+        "name": "Ain't No Man",
+        "url": "https://open.spotify.com/album/1IWsKfS8aa6hWxocC59SNS"
+      },
+      "artists": [
+        {
+          "name": "Chelsie Young",
+          "url": "https://open.spotify.com/artist/0gkihtfmb0Fjsu65gTe9L1"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206016,
+      "name": "Ain't No Man",
+      "url": "https://open.spotify.com/track/0zOKmbOkPP7z4G5O9UKOQr"
+    },
+    {
+      "album": {
         "name": "Air in the Night",
         "url": "https://open.spotify.com/album/135ItejRM89nNawoldd3le"
       },
@@ -81,6 +117,24 @@
       "duration_ms": 334106,
       "name": "Air in the Night",
       "url": "https://open.spotify.com/track/1epCKn8HvwRCUiTnynW54b"
+    },
+    {
+      "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Aishinetau",
+      "url": "https://open.spotify.com/track/2LuxBDc4v3GJRdJyTaOUqF"
     },
     {
       "album": {
@@ -138,6 +192,28 @@
     },
     {
       "album": {
+        "name": "Dreamweaver",
+        "url": "https://open.spotify.com/album/39gvn7LqSbcAVjl3nbvVWZ"
+      },
+      "artists": [
+        {
+          "name": "Anachnid",
+          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
+        },
+        {
+          "name": "Oji le Cree",
+          "url": "https://open.spotify.com/artist/0Z8yzmYHVpQOMPSI0aKB3P"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166464,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5pEY83hLMUMEVAD73Q5P8a"
+    },
+    {
+      "album": {
         "name": "Fish Out Of Water",
         "url": "https://open.spotify.com/album/19p44DReGTs1Q8TvWZF8Iy"
       },
@@ -192,6 +268,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of the Runaway Girl",
+        "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205636,
+      "name": "Arnaq",
+      "url": "https://open.spotify.com/track/7eMFZDDVezqN2tOEBOU29v"
+    },
+    {
+      "album": {
         "name": "ataataga",
         "url": "https://open.spotify.com/album/2waHPkgaJ2R2ID8scH4FUP"
       },
@@ -207,6 +301,46 @@
       "duration_ms": 91000,
       "name": "ataataga - Acoustic",
       "url": "https://open.spotify.com/track/3mlOA4couGn2K1XqBQsYMr"
+    },
+    {
+      "album": {
+        "name": "Nitehi aimihewin",
+        "url": "https://open.spotify.com/album/0m78A0vSqw5gGGVXQM3aGk"
+      },
+      "artists": [
+        {
+          "name": "Wass",
+          "url": "https://open.spotify.com/artist/1tgCvKsg8lLJT6WidKCdnO"
+        },
+        {
+          "name": "Sakay Ottawa",
+          "url": "https://open.spotify.com/artist/45rLtgfU0dwPrajv8YJpWK"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Atcokoc",
+      "url": "https://open.spotify.com/track/55aFNqTLicUfe1eKMIdKaC"
+    },
+    {
+      "album": {
+        "name": "ATIKAFRENCH",
+        "url": "https://open.spotify.com/album/2ieN5BxBw7KS20f5W7P0fS"
+      },
+      "artists": [
+        {
+          "name": "K\u0153urNoir",
+          "url": "https://open.spotify.com/artist/02xPdjOjc3z3RtlQTLUwcL"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208004,
+      "name": "Atikamekw",
+      "url": "https://open.spotify.com/track/0cYiLnWDgNEG7ymP0DAyHT"
     },
     {
       "album": {
@@ -385,7 +519,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 273440,
       "name": "Burnin Love",
       "url": "https://open.spotify.com/track/30uuYocMBzdEtcJTqFxC6U"
@@ -439,7 +573,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 293066,
       "name": "Caribou",
       "url": "https://open.spotify.com/track/4PpwCpBbYKT09HbMQNsxJt"
@@ -473,6 +607,24 @@
       "duration_ms": 176687,
       "name": "Certainmans",
       "url": "https://open.spotify.com/track/4y89AiTlCijJD78EfY5afp"
+    },
+    {
+      "album": {
+        "name": "D.M.$",
+        "url": "https://open.spotify.com/album/4qoIOnAL6dC9uuRNDhkjbC"
+      },
+      "artists": [
+        {
+          "name": "K\u0153urNoir",
+          "url": "https://open.spotify.com/artist/02xPdjOjc3z3RtlQTLUwcL"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Chacun",
+      "url": "https://open.spotify.com/track/4lUiHOtH96BP251jgBqQA3"
     },
     {
       "album": {
@@ -842,6 +994,24 @@
     },
     {
       "album": {
+        "name": "Kosak",
+        "url": "https://open.spotify.com/album/1JApUB1roNXyxHiRdKm4Qh"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Niquay",
+          "url": "https://open.spotify.com/artist/4i1IJBUyz5vJDg2XlBY75X"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242156,
+      "name": "E Cakwerimoian",
+      "url": "https://open.spotify.com/track/09jcvuk4FBbTLz8fGk7a46"
+    },
+    {
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/3orHRyo2D6kMEhUIAfMQAF"
       },
@@ -853,10 +1023,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 245453,
       "name": "Ego Death",
       "url": "https://open.spotify.com/track/4gERexyGdA7S0QcTqYajZt"
+    },
+    {
+      "album": {
+        "name": "Uitamui",
+        "url": "https://open.spotify.com/album/25JmfuV91FiHtzCE5phcp9"
+      },
+      "artists": [
+        {
+          "name": "Dan-Georges Mckenzie",
+          "url": "https://open.spotify.com/artist/68mL5zdhhEli5uyDe0tlWm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218265,
+      "name": "Eka Patshitenimu",
+      "url": "https://open.spotify.com/track/3MlZfcV2aXIEwii8aYJ6eK"
     },
     {
       "album": {
@@ -1021,7 +1209,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 294834,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1HAt3Mt1yKBcaPUYvdADTA"
@@ -1176,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Fuck That Shit",
+        "url": "https://open.spotify.com/album/0FyserIzEzqmbJvPH1T0Ak"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164871,
+      "name": "Fuck That Shit",
+      "url": "https://open.spotify.com/track/6sjCx2zQtuYRxlh1IGlJqz"
+    },
+    {
+      "album": {
         "name": "Returning Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7sWKJP7QMK6KHlevNSb7B2"
       },
@@ -1191,6 +1397,24 @@
       "duration_ms": 84100,
       "name": "Getting To The Bottom Of Why",
       "url": "https://open.spotify.com/track/36NXgHFGhffyHr45o5SGeS"
+    },
+    {
+      "album": {
+        "name": "Four Sacred Colours",
+        "url": "https://open.spotify.com/album/5K3coH8BagPfr6hzoXu2hE"
+      },
+      "artists": [
+        {
+          "name": "Tee Cloud",
+          "url": "https://open.spotify.com/artist/7hJPw9JVF44dTnpjgB9DOg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133721,
+      "name": "Gojua Kwandudaye",
+      "url": "https://open.spotify.com/track/7GOkYsEe0kOqGHV6hN5GYm"
     },
     {
       "album": {
@@ -1241,7 +1465,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 151867,
       "name": "Good Recipe",
       "url": "https://open.spotify.com/track/5EwTVKsO2vCw81taf6awPq"
@@ -1335,10 +1559,50 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 122823,
       "name": "Gucci Store",
       "url": "https://open.spotify.com/track/1tQ6N1dQiXepKnjetWVsAc"
+    },
+    {
+      "album": {
+        "name": "Four Sacred Colours",
+        "url": "https://open.spotify.com/album/5K3coH8BagPfr6hzoXu2hE"
+      },
+      "artists": [
+        {
+          "name": "Tee Cloud",
+          "url": "https://open.spotify.com/artist/7hJPw9JVF44dTnpjgB9DOg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171368,
+      "name": "Heading to New Mexico",
+      "url": "https://open.spotify.com/track/32wsFSnk4UlZpHDRQwpQkx"
+    },
+    {
+      "album": {
+        "name": "ImagiNation",
+        "url": "https://open.spotify.com/album/2Bi01Xd77DXxV9FUGOZFYr"
+      },
+      "artists": [
+        {
+          "name": "Q052",
+          "url": "https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE"
+        },
+        {
+          "name": "SENSEI H",
+          "url": "https://open.spotify.com/artist/4rSSnUNsjRSMr0TbcjVgkN"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157621,
+      "name": "Headlines",
+      "url": "https://open.spotify.com/track/1UALvSWIb1mfo1AwKVLhmI"
     },
     {
       "album": {
@@ -1389,7 +1653,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 211240,
       "name": "HISTORY",
       "url": "https://open.spotify.com/track/1LB3YY2dl2Txr0GBcDJz2D"
@@ -1443,7 +1707,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 221378,
       "name": "Humans",
       "url": "https://open.spotify.com/track/7IY64pLDXEr4V3VtpERE7Y"
@@ -1523,7 +1787,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 226080,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/1OgjcbZVt3DEe21xMHHunD"
@@ -1737,7 +2001,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 175412,
       "name": "It's You Babe",
       "url": "https://open.spotify.com/track/5u13NgTVTHVezINP6VNdML"
@@ -1759,6 +2023,42 @@
       "duration_ms": 141363,
       "name": "It\u2019s OK",
       "url": "https://open.spotify.com/track/4W1KwDbKmpyssINjfl8uDy"
+    },
+    {
+      "album": {
+        "name": "PEKUAIAPU",
+        "url": "https://open.spotify.com/album/0nST396yMeFu8mECv5zzzA"
+      },
+      "artists": [
+        {
+          "name": "Scott-Pien Picard",
+          "url": "https://open.spotify.com/artist/0J1gu80owc4vKFGUr78k7E"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300249,
+      "name": "Ka minuatituiaku",
+      "url": "https://open.spotify.com/track/058D8oMxiBBxVQDckw9t88"
+    },
+    {
+      "album": {
+        "name": "Ni wi witen",
+        "url": "https://open.spotify.com/album/1xJ1GOsXs4xsMqhGTA3iOS"
+      },
+      "artists": [
+        {
+          "name": "Sakay Ottawa",
+          "url": "https://open.spotify.com/artist/6DeyGQrhOYQVX2UaZURDlI"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "Kecpin Kiskeritaman",
+      "url": "https://open.spotify.com/track/3UNFnnWDZtkpSK43y8ln20"
     },
     {
       "album": {
@@ -1795,7 +2095,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 220322,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/09P4P7813Fhu8ESkBWAsXs"
@@ -1813,7 +2113,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 212499,
       "name": "Le dernier train",
       "url": "https://open.spotify.com/track/320efFXSFhVt2Oph9Ll6yY"
@@ -1874,6 +2174,24 @@
     },
     {
       "album": {
+        "name": "Live Alone",
+        "url": "https://open.spotify.com/album/6tn2vbBv4aERyjaVgJMqSZ"
+      },
+      "artists": [
+        {
+          "name": "Anachnid",
+          "url": "https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287203,
+      "name": "Live Alone",
+      "url": "https://open.spotify.com/track/7J4g3pkfo1jGEVdfZYfG3v"
+    },
+    {
+      "album": {
         "name": "TRAPLINE",
         "url": "https://open.spotify.com/album/6Wm9fe1INlXLzlbnXDFPA3"
       },
@@ -1911,7 +2229,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 201000,
       "name": "Lost With You",
       "url": "https://open.spotify.com/track/6TqpVC4vqsZsFT0AH5doGJ"
@@ -2003,7 +2321,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 150356,
       "name": "MEEKU",
       "url": "https://open.spotify.com/track/2hAybMBoJz5oXw4fKa2CGX"
@@ -2046,6 +2364,24 @@
     },
     {
       "album": {
+        "name": "Ni wi witen",
+        "url": "https://open.spotify.com/album/1xJ1GOsXs4xsMqhGTA3iOS"
+      },
+      "artists": [
+        {
+          "name": "Sakay Ottawa",
+          "url": "https://open.spotify.com/artist/6DeyGQrhOYQVX2UaZURDlI"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Mikwetc",
+      "url": "https://open.spotify.com/track/2tKrw6MfcXTlol3HOMcjoe"
+    },
+    {
+      "album": {
         "name": "Iskwewak - Songs of Indigenous Womanhood",
         "url": "https://open.spotify.com/album/4kxpjT2AC25hLcLisNWRHj"
       },
@@ -2057,7 +2393,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 197973,
       "name": "Mommy's Little Guy",
       "url": "https://open.spotify.com/track/2AC1GkkUrcpGZeSPhcDA3S"
@@ -2079,6 +2415,68 @@
       "duration_ms": 117233,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/0R7GBxCjrQiKdrrRSDPFCn"
+    },
+    {
+      "album": {
+        "name": "Mote Mote",
+        "url": "https://open.spotify.com/album/7wc1kV6sz0Mluzp106GzoY"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        },
+        {
+          "name": "Moe Clark",
+          "url": "https://open.spotify.com/artist/0C54jyc7FgNGsrR335k9JM"
+        },
+        {
+          "name": "Quinn Bonnell",
+          "url": "https://open.spotify.com/artist/3BwhUVHm3xd8yhGH31DGLW"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146401,
+      "name": "Mote Mote",
+      "url": "https://open.spotify.com/track/78bxKwsNCkrneywQut3Jrv"
+    },
+    {
+      "album": {
+        "name": "Waska Matisiwin",
+        "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
+      },
+      "artists": [
+        {
+          "name": "Laura Niquay",
+          "url": "https://open.spotify.com/artist/0pl54zLEvzbyIPj7ork06z"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250469,
+      "name": "Moteskano - Les sentiers de nos anc\u00eatres",
+      "url": "https://open.spotify.com/track/5mevy3xuFjvc6KsYwc6ajp"
+    },
+    {
+      "album": {
+        "name": "MOTHER",
+        "url": "https://open.spotify.com/album/7w11aSCmWBjqrYx8vLeY2k"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Deer",
+          "url": "https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249133,
+      "name": "MOTHER",
+      "url": "https://open.spotify.com/track/4yDRnjjqlD0X7vUpVSKa43"
     },
     {
       "album": {
@@ -2154,6 +2552,50 @@
     },
     {
       "album": {
+        "name": "Transcestral",
+        "url": "https://open.spotify.com/album/6WPCrZb5RTPq6nxEoGf5Zh"
+      },
+      "artists": [
+        {
+          "name": "Moe Clark",
+          "url": "https://open.spotify.com/artist/0C54jyc7FgNGsrR335k9JM"
+        },
+        {
+          "name": "Oktoecho",
+          "url": "https://open.spotify.com/artist/7vMSIZwVfNNGRRaNgkpvhP"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331498,
+      "name": "niki paw\u00e2tin",
+      "url": "https://open.spotify.com/track/59sG3YftVzhlc9kKyETZAB"
+    },
+    {
+      "album": {
+        "name": "Nimueshtaten nete",
+        "url": "https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO"
+      },
+      "artists": [
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        },
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240010,
+      "name": "Nimueshtaten nete",
+      "url": "https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza"
+    },
+    {
+      "album": {
         "name": "Wolastoqiyik Lintuwakonawa",
         "url": "https://open.spotify.com/album/568Hw1PX6K12BdqyFSBj1E"
       },
@@ -2169,6 +2611,24 @@
       "duration_ms": 129873,
       "name": "Nipuwoltin",
       "url": "https://open.spotify.com/track/6A4Gcb1sc1r2FTgnOljhUF"
+    },
+    {
+      "album": {
+        "name": "Nitehi aimihewin",
+        "url": "https://open.spotify.com/album/0m78A0vSqw5gGGVXQM3aGk"
+      },
+      "artists": [
+        {
+          "name": "Mikon Niquay Ottawa",
+          "url": "https://open.spotify.com/artist/2POf2tzqUZhL93tiRiK1pL"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141597,
+      "name": "Nitehi aimihewin",
+      "url": "https://open.spotify.com/track/5QyJZwanyTYGojYtM8QKjG"
     },
     {
       "album": {
@@ -2303,6 +2763,24 @@
       "duration_ms": 112535,
       "name": "Orange Shirt Day",
       "url": "https://open.spotify.com/track/0oLulZFCfVH30uCMYYPeMI"
+    },
+    {
+      "album": {
+        "name": "Kosak",
+        "url": "https://open.spotify.com/album/1JApUB1roNXyxHiRdKm4Qh"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Niquay",
+          "url": "https://open.spotify.com/artist/4i1IJBUyz5vJDg2XlBY75X"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247694,
+      "name": "Ota",
+      "url": "https://open.spotify.com/track/5d8Rw7RD8Gh3zXTscXZU9r"
     },
     {
       "album": {
@@ -2519,7 +2997,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 202226,
       "name": "Qimuksiq: Dogsled Ride",
       "url": "https://open.spotify.com/track/2TYVZ7LmhfnQWrBqv8yy5D"
@@ -2869,10 +3347,32 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185600,
       "name": "Sail",
       "url": "https://open.spotify.com/track/1VItsp2XMurqhXTKDn6mZD"
+    },
+    {
+      "album": {
+        "name": "Sailors",
+        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        },
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241462,
+      "name": "Sailors",
+      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
     },
     {
       "album": {
@@ -3133,7 +3633,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 316800,
       "name": "Snakehold - Boogey the Beat Remix",
       "url": "https://open.spotify.com/track/2sl8aplQ2yJR3aRrCUx4S5"
@@ -3169,7 +3669,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 251653,
       "name": "Soldier",
       "url": "https://open.spotify.com/track/44MCNvFoH1nBlJrP7p0fVU"
@@ -3187,7 +3687,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 201000,
       "name": "Soldier Blue",
       "url": "https://open.spotify.com/track/3vx7dqQCjTLPOgySOarWpe"
@@ -3241,7 +3741,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 149053,
       "name": "Son of a Gun",
       "url": "https://open.spotify.com/track/5zsVYoquMgMSZYXzTwLbB7"
@@ -3349,7 +3849,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 172785,
       "name": "Summer Hunting",
       "url": "https://open.spotify.com/track/0LuoQSfQix19Ej8xf4vNLQ"
@@ -3421,7 +3921,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 340333,
       "name": "Sweetwater",
       "url": "https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1"
@@ -3680,6 +4180,28 @@
     },
     {
       "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        },
+        {
+          "name": "Allan Nabinacaboo",
+          "url": "https://open.spotify.com/artist/18oZ6SjjkZ57N1kZZ6u2hT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "Tipatshimushtunan",
+      "url": "https://open.spotify.com/track/1poqRsLSZT2hfghRkmFb2O"
+    },
+    {
+      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -3691,7 +4213,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 281131,
       "name": "Ton vieux nom",
       "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
@@ -3727,7 +4249,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 189548,
       "name": "Tropical Sour Candy",
       "url": "https://open.spotify.com/track/0zwKGD9KXvdIfZXlCb0WzI"
@@ -3752,6 +4274,24 @@
     },
     {
       "album": {
+        "name": "Mukuuin",
+        "url": "https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn"
+      },
+      "artists": [
+        {
+          "name": "Claude McKenzie",
+          "url": "https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226572,
+      "name": "Upime",
+      "url": "https://open.spotify.com/track/4roek8AJnlSRgkvJxLQJjE"
+    },
+    {
+      "album": {
         "name": "Waska Matisiwin",
         "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
       },
@@ -3763,7 +4303,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 118609,
       "name": "Wactenamaci - Illumine-moi",
       "url": "https://open.spotify.com/track/3gyVI0iEcLv4DPMHq1VXfX"
@@ -3821,7 +4361,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 175531,
       "name": "War Club (feat. Snotty Nose Rez Kids)",
       "url": "https://open.spotify.com/track/6TL5wswOlpK0Xgzgxpp1PN"
@@ -3937,7 +4477,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 139214,
       "name": "Would You Die? - Stripped Down",
       "url": "https://open.spotify.com/track/6Tw3l5g2HVrwSLXqQSoZat"
@@ -3959,7 +4499,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 158053,
       "name": "YSB",
       "url": "https://open.spotify.com/track/02sIaWNAlLivWuwuJms5z9"

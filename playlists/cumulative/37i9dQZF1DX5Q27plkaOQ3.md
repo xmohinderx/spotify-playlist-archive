@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: GHENGAR
 
-270 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+271 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Encrypted](https://open.spotify.com/track/0AP5MX9obbI3ExcNqK13t8) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Encrypted](https://open.spotify.com/album/5kRnZ2iYR9hMmDrhrXpx4j) | 3:58 | 2022-07-01 | 2022-09-02 |
 | [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 | 2022-11-11 |  |
 | [Escape \(feat\. Hayla\) \- Subtronics Remix](https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Subtronics Remix\]](https://open.spotify.com/album/7ep1MESRYdgAghNhHDiLhc) | 3:45 | 2022-06-24 | 2022-11-17 |
+| [Escape \- Subtronics Remix](https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Escape \(Subtronics Remix\)](https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c) | 3:45 | 2022-11-11 |  |
 | [Everybody Move](https://open.spotify.com/track/4XNTYpRC1LxSbR53VklBEG) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Everybody Move](https://open.spotify.com/album/444TIRJsZxH1sCg9OLjXI8) | 3:16 | 2022-02-11 | 2022-08-14 |
 | [Everyday](https://open.spotify.com/track/7GgDbcLEkhNhCX2UIq3vWo) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [RAVVA](https://open.spotify.com/artist/2ZppcH5NCmZmzoHzAepLcD) | [Everyday](https://open.spotify.com/album/3UB9STjiD6hbR0ZUQJloPW) | 2:59 | 2022-03-25 | 2022-08-16 |
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 |  |
@@ -244,7 +245,7 @@
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 | 2022-09-19 |
 | [Take A Trip](https://open.spotify.com/track/5CZo2k6Ru1wJYbcvQVaoub) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Take A Trip](https://open.spotify.com/album/5HMJ6OOT8Z6WjNbdK61P2u) | 4:22 | 2022-04-15 |  |
 | [Teardrop](https://open.spotify.com/track/7ztFTiaEtc1TF5AV9909Bb) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Teardrop](https://open.spotify.com/album/3CNLbkYxHTAHaryZmy8oCo) | 4:25 | 2022-09-09 |  |
-| [Tekno](https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 3](https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr) | 2:58 | 2022-04-15 |  |
+| [Tekno](https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [Slime Time, Pt\. 3](https://open.spotify.com/album/1K92iuS1dqPS23ZxFITJsr) | 2:58 | 2022-04-15 | 2022-11-19 |
 | [The Depths](https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [The Depths](https://open.spotify.com/album/20uXQqHoLGJzOKvFNoDYPU) | 4:07 | 2022-10-28 |  |
 | [The Machines](https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [The Machines](https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ) | 3:22 | 2022-09-09 |  |
 | [THE OG](https://open.spotify.com/track/0pUp5f9v9g8X4JpOw1QCzb) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [THE OG](https://open.spotify.com/album/1U2Y3roDpmjy4UqDmrFThN) | 4:20 | 2021-12-17 | 2022-03-05 |

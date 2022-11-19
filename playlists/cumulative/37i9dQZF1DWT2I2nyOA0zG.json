@@ -102,6 +102,28 @@
     },
     {
       "album": {
+        "name": "All My Days",
+        "url": "https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP"
+      },
+      "artists": [
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "All My Days",
+      "url": "https://open.spotify.com/track/052blcya1EJNErdYq2HHbA"
+    },
+    {
+      "album": {
         "name": "Amanda Pressure",
         "url": "https://open.spotify.com/album/79nzFswc8DosSGcWkYxb4J"
       },
@@ -570,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Confess",
+        "url": "https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160879,
+      "name": "Confess",
+      "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
+    },
+    {
+      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
       },
@@ -805,7 +845,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 208896,
       "name": "Fight For You",
       "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
@@ -1445,6 +1485,28 @@
       "duration_ms": 196210,
       "name": "Juju pt. 2 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
+    },
+    {
+      "album": {
+        "name": "Laleyi (feat. Joeboy)",
+        "url": "https://open.spotify.com/album/2EtCpEgCgiqIgfWT10FwZb"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217748,
+      "name": "Laleyi (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/3rLZaEyASUsJzxHMa2uL8B"
     },
     {
       "album": {

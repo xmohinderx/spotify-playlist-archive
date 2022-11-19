@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Daniel Levak
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,302 likes - 78 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,276 likes - 78 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 35 | [Chopstick](https://open.spotify.com/track/6SWbOvTTUMacNsS7lmW3o6) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Chopstick](https://open.spotify.com/album/1K3psJybyjwWb1Vc5312NO) | 7:52 |
 | 36 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 |
 | 37 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 |
-| 38 | [Simulacrum](https://open.spotify.com/track/2TcoUEsQN4EIMUAHghPfxe) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/08NA6Z43B2Mte6Zu6rxOlt) | 6:06 |
+| 38 | [Simulacrum](https://open.spotify.com/track/1W1uFNsvlGIpC2WFNCVNIr) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/3QLiQ0hFrcrlNoUjc8KGAb) | 6:06 |
 | 39 | [Freefall \(feat\. Moxie Knox\) \- Edit](https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Freefall \(feat\. Moxie Knox\)](https://open.spotify.com/album/1yiyLSoz0FdiTDCUCwhd69) | 3:07 |
 | 40 | [Reflections](https://open.spotify.com/track/5oo1HNNzaCiEn8IF57Ysbe) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [Reflections](https://open.spotify.com/album/4vHMhqhM0wqzaxNACySpec) | 4:58 |
 | 41 | [Inochi](https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Inochi](https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp) | 5:54 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [Phanta](https://open.spotify.com/track/1EqMDEEotYXA74qiFCieQr) | [Dejago](https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C) | [Phanta](https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1) | 6:56 |
 | 78 | [Plastic Future](https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [The Work](https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV) | 5:37 |
 
-Snapshot ID: `MTY2ODcyOTgxNCwwMDAwMDAwMDYzMDc0OWIwMTYzMWVmYzYwYzVlMjlhOTUyYzFhODc3`
+Snapshot ID: `MTY2ODcyOTgxNCwwMDAwMDAwMGRiMDUzMjBlN2JjMThkMzZmYjc5NGE1MGQ1Y2ZlYTJm`

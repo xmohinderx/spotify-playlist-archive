@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Louis Walker
 
-239 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+240 songs - 16 hr 14 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Out Of My Head](https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Out Of My Head](https://open.spotify.com/album/3hK0Qi59tuXjInHFnEIC0r) | 3:58 | 2021-08-20 | 2022-04-23 |
 | [Outside \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:58 | 2022-01-28 |  |
 | [Pay Day](https://open.spotify.com/track/1iT4ldPXWLtm6L80p0V7Yh) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom), [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Pay Day](https://open.spotify.com/album/2EcHCbjLJ5uPgDwkHPMoVa) | 3:17 | 2021-12-03 |  |
+| [Pay the Price](https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 3:52 | 2022-11-18 |  |
 | [Pick a Bale of Cotton](https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Pick a Bale of Cotton](https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC) | 3:02 | 2022-03-25 | 2022-04-23 |
 | [Pink Turns To Red](https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:28 | 2022-08-19 |  |
 | [Poor Black Children](https://open.spotify.com/track/7zLqqKktW17B2S5CRlrBY7) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Poor Black Children](https://open.spotify.com/album/05tULZEoDObegbsFSLgXAw) | 3:47 | 2021-07-16 |  |

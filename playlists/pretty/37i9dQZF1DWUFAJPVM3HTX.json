@@ -1,13 +1,177 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Secily",
-  "num_followers": 171754,
+  "num_followers": 171714,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIxMzgxNywwMDAwMDAwMDdkNzc4ODc3MTY4YTVkMGE3ZDQzOTRjNjliYjU4ZGQ0",
+  "snapshot_id": "MTY2ODc5NjQ5MSwwMDAwMDAwMDg1ZDdkMjJhYzFhNjYzZjM2MTIwZTIyNGNhZDgyMGQx",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Rodeo Clown",
+        "url": "https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 210910,
+      "name": "Rodeo Clown",
+      "url": "https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/2kuVd6ndzF4AmBwhk6wbqO"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/1V24cd8U157jM3w0vQLyt6"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Priority",
+        "url": "https://open.spotify.com/album/1F5XWAg5dAADljeQx12mNR"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "duration_ms": 198832,
+      "name": "Priority",
+      "url": "https://open.spotify.com/track/7hsDWEJKdukL99RzQjcr6L"
+    },
+    {
+      "added_at": "2022-11-18 18:34:51",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5oJWaFM2rrzijPY8BIF1s7"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Red",
+          "url": "https://open.spotify.com/artist/2ASFRAjwnkJphBc1UeG9zz"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/29VJAOSbL8KakfoAwsMEDW"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "MAYBE NEXT YEAR",
+        "url": "https://open.spotify.com/album/7amgAJxjDw9AFYsca2UJgX"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        },
+        {
+          "name": "Jack Redsecker",
+          "url": "https://open.spotify.com/artist/7JXa9OYsd4dVwVgTtDxwYK"
+        }
+      ],
+      "duration_ms": 120923,
+      "name": "MAYBE NEXT YEAR",
+      "url": "https://open.spotify.com/track/7fzpNVuHBsMuZ9u5lc4TGT"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5FcMLT0ymalm6Of4WLE3FO"
+      },
+      "artists": [
+        {
+          "name": "Buto",
+          "url": "https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal"
+        }
+      ],
+      "duration_ms": 157754,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/7EHLIqlpZLlYQJ4AuzhwK6"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Hard to Please",
+        "url": "https://open.spotify.com/album/0qXRf8yRP99wwVkRNeetdJ"
+      },
+      "artists": [
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 196604,
+      "name": "Hard to Please",
+      "url": "https://open.spotify.com/track/0pZ04XcNV5T8cLiUqtY9w8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "lowkey HIGHKEY",
+        "url": "https://open.spotify.com/album/75jH5xKdxdvWuZQu11WHCU"
+      },
+      "artists": [
+        {
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "lowkey HIGHKEY",
+      "url": "https://open.spotify.com/track/1AUGPNdOb8UqsmpFkPVBZN"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/1Z4zIl8MuJLEa7QhxlRDJB"
+      },
+      "artists": [
+        {
+          "name": "E L E Y",
+          "url": "https://open.spotify.com/artist/2xtexwlkW6eNYjOM5BGeSk"
+        }
+      ],
+      "duration_ms": 195992,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/6A9ylRgGfcynjLFcuDoSZK"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "SOFIA (Live)",
+        "url": "https://open.spotify.com/album/3bMQPEjUAKhbl4UEWhsZjS"
+      },
+      "artists": [
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "duration_ms": 244794,
+      "name": "Body (Live)",
+      "url": "https://open.spotify.com/track/0kjhKOiJUCtGHxiREP0rPS"
+    },
     {
       "added_at": "2022-11-12 00:43:37",
       "album": {
@@ -367,8 +531,8 @@
     {
       "added_at": "2022-11-02 16:00:00",
       "album": {
-        "name": "Love Songz",
-        "url": "https://open.spotify.com/album/5FkfJeD1DvqKXXJFTvEjoH"
+        "name": "Sound Is Like Water",
+        "url": "https://open.spotify.com/album/5qAluQa0RZyGiHObyOvA6i"
       },
       "artists": [
         {
@@ -382,7 +546,7 @@
       ],
       "duration_ms": 200632,
       "name": "Love Songz",
-      "url": "https://open.spotify.com/track/0Ypj1zPzSDiy80kjRSFZf3"
+      "url": "https://open.spotify.com/track/1Xe5Nm9bAIgqxoX6927ofe"
     },
     {
       "added_at": "2022-10-28 07:42:56",

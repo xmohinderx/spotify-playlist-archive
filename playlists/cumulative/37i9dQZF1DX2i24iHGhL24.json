@@ -3847,6 +3847,24 @@
     {
       "album": {
         "name": "Meet Me At Our Spot",
+        "url": "https://open.spotify.com/album/2lzM23zuz2RO62VyMFzG8c"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137508,
+      "name": "Meet Me At Our Spot",
+      "url": "https://open.spotify.com/track/2ochlNu8xd3kD6ac1Ek4iO"
+    },
+    {
+      "album": {
+        "name": "Meet Me At Our Spot",
         "url": "https://open.spotify.com/album/3THXn3TUoFfSSinL7c8NKu"
       },
       "artists": [

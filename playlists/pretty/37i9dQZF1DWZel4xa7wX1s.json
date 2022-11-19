@@ -1,12 +1,12 @@
 {
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
-  "num_followers": 89392,
+  "num_followers": 89386,
   "original_name": "The New Waltz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGMyNWRjZjNhMTAxZjJkYTg4MTNmNWM2NzgzMDYyZGVl",
+  "snapshot_id": "MTU3NTAyMDI3NSwwMDAwMDAwMGQyMjIwMzhhZWNlOWYwYTI0MDQwNTQ1OGMzZmM4MDEw",
   "tracks": [
     {
       "added_at": "2019-11-29 09:37:55",
@@ -639,26 +639,18 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 221054,
-      "name": "Prove You Wrong",
-      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
+      "duration_ms": 211853,
+      "name": "Pretty Bitchin'",
+      "url": "https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -679,18 +671,26 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 211853,
-      "name": "Pretty Bitchin'",
-      "url": "https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO"
+      "duration_ms": 221054,
+      "name": "Prove You Wrong",
+      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
     },
     {
       "added_at": "2019-11-29 09:37:55",
@@ -767,6 +767,22 @@
     {
       "added_at": "2019-11-29 09:37:55",
       "album": {
+        "name": "We Need Love (from Songland)",
+        "url": "https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "We Need Love - from Songland",
+      "url": "https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI"
+    },
+    {
+      "added_at": "2019-11-29 09:37:55",
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/1ixsXzGu3qPdWhSP6uVe8o"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 225120,
       "name": "Everybody's Someone (with Olivia Newton-John)",
       "url": "https://open.spotify.com/track/2DjVZhFqVCRcIw1qo002co"
-    },
-    {
-      "added_at": "2019-11-29 09:37:55",
-      "album": {
-        "name": "We Need Love (from Songland)",
-        "url": "https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "We Need Love - from Songland",
-      "url": "https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI"
     },
     {
       "added_at": "2019-11-29 09:37:55",

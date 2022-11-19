@@ -4,10 +4,11 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-177 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+179 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [\(Don't Fear\) The Reaper](https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r) | 4:41 | 2022-11-18 |  |
 | [...Baby One More Time](https://open.spotify.com/track/3E4miyUPbCkdMoPGnJaPmv) | [Jamie Kent](https://open.spotify.com/artist/0sNCC6sO8DrdckHySzepEo) | [Will You Go Out With Me?](https://open.spotify.com/album/3QstQjFBKp1o0yatzXu5Tb) | 3:25 | 2021-08-20 | 2022-10-01 |
 | [1979](https://open.spotify.com/track/2xq0fx3i99PG6VRc4EDc7B) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:05 | 2021-08-20 |  |
 | [22](https://open.spotify.com/track/5J0Fpi2pyDBsRmEYTpxAHD) | [Mountain Faith](https://open.spotify.com/artist/0AOY0FBz2frjClgCdTWOlD) | [Mountain Faith Pop Series](https://open.spotify.com/album/74f1fnKDMj0JGuD1eliXQ9) | 1:27 | 2021-08-20 | 2022-07-29 |
@@ -139,6 +140,7 @@
 | [She's A Rainbow](https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:49 | 2021-08-20 |  |
 | [Single Ladies \(Put a Ring On It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 | 2021-08-20 |  |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/5YafubHfFZDXSZUtCLGRVX) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:15 | 2022-04-29 |  |
+| [Some Might Say](https://open.spotify.com/track/5n7jdlBdFRB8Qey6hVNJQu) | [Danny Burns](https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU), [Dennis Parker](https://open.spotify.com/artist/06YZcS2aoIREKT55qy4KhN), [Scott Vestal](https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC), [Ethan Burkhardt](https://open.spotify.com/artist/66ONZHHb6U6lrRBCI1ZMO0), [Billy Contreras](https://open.spotify.com/artist/4WQUxsTG9b6WSXsZCyDPxu), [Matt Menefee](https://open.spotify.com/artist/2A8KLJp5U4zoPrewOpJYbu), [Tony Wray](https://open.spotify.com/artist/130ShDSmz0I3kDPg37lqlW), [Josh Methany](https://open.spotify.com/artist/5W3GMYyA1nWOQrqKe4PlPg) | [Some Might Say](https://open.spotify.com/album/3CUsbiuld57ptitcrvaNYn) | 3:39 | 2022-11-18 |  |
 | [Somebody to Love](https://open.spotify.com/track/0L9fWUcLnPIf5Z7rljJ8Mm) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm) | 3:42 | 2022-05-27 | 2022-10-14 |
 | [Somebody to Love](https://open.spotify.com/track/2tJesD4R8yf7G5JRzgE05y) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/3gWZlMKDGLdB36OQjOo4fZ) | 3:42 | 2022-10-07 |  |
 | [Somebody to Love](https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:42 | 2021-08-20 | 2022-07-29 |
@@ -173,7 +175,7 @@
 | [White Bird](https://open.spotify.com/track/2PtX9ivW736enJeAIY5G0h) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Laps In Seven](https://open.spotify.com/album/10iKg9kGMqfPquNwsXzcdm) | 6:00 | 2021-08-20 | 2022-04-02 |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-08-20 |  |
 | [Wild Horses](https://open.spotify.com/track/4xMmjrefx4NlEOHfGu3EQf) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7) | 4:38 | 2021-08-20 | 2022-07-29 |
-| [Wild Horses](https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1Loo5VCZwcTyNmnHfMuTf8) | 4:38 | 2022-05-27 | 2022-08-10 |
+| [Wild Horses](https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1Loo5VCZwcTyNmnHfMuTf8) | 4:38 | 2022-05-27 |  |
 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 | 2021-08-20 |  |
 | [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 | 2022-05-27 |  |
 | [Will The Circle Be Unbroken](https://open.spotify.com/track/0UiDKWjgZNmO4XAqUq4YwR) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Will The Circle Be Unbroken](https://open.spotify.com/album/5Vp7FdPMarEESivkc6xaSD) | 3:55 | 2022-03-04 | 2022-07-29 |

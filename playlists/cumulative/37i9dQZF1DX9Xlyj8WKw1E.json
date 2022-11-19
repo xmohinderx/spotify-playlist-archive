@@ -1947,10 +1947,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 191673,
       "name": "Gimme Space",
       "url": "https://open.spotify.com/track/2MSEJtE3R2SaM7jAooknT5"
+    },
+    {
+      "album": {
+        "name": "Gimme Space",
+        "url": "https://open.spotify.com/album/0NTScbT2lUiaUb5DVrCZ40"
+      },
+      "artists": [
+        {
+          "name": "donSMITH",
+          "url": "https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191673,
+      "name": "Gimme Space",
+      "url": "https://open.spotify.com/track/3dSEBaTuzmzMxt8FWLVZ9J"
     },
     {
       "album": {

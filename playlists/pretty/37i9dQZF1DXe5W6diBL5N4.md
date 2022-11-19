@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:VERIVERY\(베리베리\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,933 likes - 333 songs - 19 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,914 likes - 333 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 21 | [The One](https://open.spotify.com/track/1Kb2RNTXZ3PaL2xMDuJgQ6) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Villain : The End](https://open.spotify.com/album/1Qm9lf5OrCzl3x9trdVMhD) | 3:31 |
 | 22 | [Childhood Dreams](https://open.spotify.com/track/35bkvjqWuHTg8w09yDKPy2) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Behind Every Star \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7C2ACjJmvMsOddvB37vYaw) | 3:45 |
 | 23 | [Pieces of You](https://open.spotify.com/track/2JAK4EVBo5hkj7u9Ed1JuX) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [\[Pieces of \_\]](https://open.spotify.com/album/1Q7d6j21ErInY0s4guwJUx) | 3:42 |
-| 24 | [fade away \(Feat.Layone,Kim Seungmin\)](https://open.spotify.com/track/2IyYUIc9A2GF7zcuSahOhx) | [dnss](https://open.spotify.com/artist/5ZW2UKvYiMUTn9R3IzaQac), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PERSONA : 3AM](https://open.spotify.com/album/1epveEBQZMBLu5Ko6DiCQf) | 3:02 |
+| 24 | [fade away \(Feat.Layone, Kim Seungmin\)](https://open.spotify.com/track/2IyYUIc9A2GF7zcuSahOhx) | [dnss](https://open.spotify.com/artist/5ZW2UKvYiMUTn9R3IzaQac), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [PERSONA : 3AM](https://open.spotify.com/album/1epveEBQZMBLu5Ko6DiCQf) | 3:02 |
 | 25 | [Parting Sketch](https://open.spotify.com/track/3JUaHGXy2Y4vwgTX0DTriR) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Parting Sketch](https://open.spotify.com/album/3bcMx4OkWf3veFzVOjV89G) | 3:29 |
 | 26 | [About everything](https://open.spotify.com/track/7osbWHOyFW1UgDmzteoq8C) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [About everything](https://open.spotify.com/album/7nAP8gp4ERTqo4iuPd0NfF) | 3:37 |
 | 27 | [Who Are You](https://open.spotify.com/track/4GBuLcJUQvCv2lDehdmQG6) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Who Are You](https://open.spotify.com/album/42UUSbk6H0emBorceMnoEv) | 2:52 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 50 | [Fire](https://open.spotify.com/track/6j8w6uHSRrD8h59KBYQnQ0) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [Police Station Next To Fire Station \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/0gjEWePtjDnoFfrz3wiaVa) | 3:16 |
 | 51 | [사막](https://open.spotify.com/track/4rblmyTPugV99I22XygkDo) | [규리](https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu) | [제33회 유재하 음악경연대회](https://open.spotify.com/album/1vunP8zBJ1WNSyPHk17AE2) | 3:23 |
 | 52 | [Heartbeat](https://open.spotify.com/track/0SzDtelgjoa7EMcWobPRDd) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL 2 JIJI](https://open.spotify.com/album/2B7TS3hLzfrsrwOO2ypOi8) | 3:06 |
-| 53 | [아지랑이 \(Art\. JFLAMINGO\)](https://open.spotify.com/track/7DaOiYUd5Umfw6fW1WiP7z) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. JFLAMINGO](https://open.spotify.com/album/4vYkQz96LqrVJoeQGjGj44) | 3:24 |
+| 53 | [아지랑이 \(Art\. JFLAMINGO\)](https://open.spotify.com/track/7DaOiYUd5Umfw6fW1WiP7z) | [Anonymous Artists \(어나니머스 아티스트\)](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. JFLAMINGO](https://open.spotify.com/album/4vYkQz96LqrVJoeQGjGj44) | 3:24 |
 | 54 | [Dawn](https://open.spotify.com/track/2iJMxVCeMCZJOzl9lDZDhV) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Dawn](https://open.spotify.com/album/2KGyh3UPXaeJGdiG2TQSYJ) | 4:14 |
 | 55 | [고백](https://open.spotify.com/track/08ZTC0hDq9pIyWhH0Isxym) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Dearest](https://open.spotify.com/album/3RAIYHfIVXVUqcEzl7mgpx) | 3:08 |
 | 56 | [내게 말해주세요](https://open.spotify.com/track/25Vaz7i7o9d0zq3m96rEt8) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [무례하고 곤란한](https://open.spotify.com/album/6ApVVFFV1pQd2fVq32FtgV) | 4:51 |

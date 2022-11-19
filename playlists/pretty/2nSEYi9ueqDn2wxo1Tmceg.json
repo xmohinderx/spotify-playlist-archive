@@ -6,8 +6,48 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzU5MSw4NjQ1YzEzZGQ4Y2JmN2M5Yjg4Y2NiZDI1NDlkMWE5N2M4NGNhNmJk",
+  "snapshot_id": "MzU5MiwzM2EwNGMyODFiNjI1OWMyY2NmMGNiMmViNjMzNjJkZTc0MzhiZjZl",
   "tracks": [
+    {
+      "added_at": "2022-11-18 13:47:43",
+      "album": {
+        "name": "Reset (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2NBfIDWmLkz0fZGl0993SK"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        },
+        {
+          "name": "David Holmes",
+          "url": "https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL"
+        }
+      ],
+      "duration_ms": 336760,
+      "name": "Gettin' to the Point - David Holmes Remix",
+      "url": "https://open.spotify.com/track/1IvXWS35GRqrgO592lf0uq"
+    },
+    {
+      "added_at": "2022-11-18 13:47:43",
+      "album": {
+        "name": "The Ruby Cord",
+        "url": "https://open.spotify.com/album/4QwVU6l2cdR646QdT6z66i"
+      },
+      "artists": [
+        {
+          "name": "Richard Dawson",
+          "url": "https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml"
+        }
+      ],
+      "duration_ms": 474333,
+      "name": "Horse and Rider",
+      "url": "https://open.spotify.com/track/3MTAL84biLO6aTXOuSPVvC"
+    },
     {
       "added_at": "2022-11-16 14:55:39",
       "album": {

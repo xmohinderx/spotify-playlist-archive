@@ -3141,10 +3141,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 126030,
       "name": "Wicked & Wild",
       "url": "https://open.spotify.com/track/0g2n5CuQtZ4toia3j2zNRt"
+    },
+    {
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/0lGLhUdrNZjxJnkmugpY4r"
+      },
+      "artists": [
+        {
+          "name": "Claye",
+          "url": "https://open.spotify.com/artist/5cxA5TNOxf4h9Y9btuxpCG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126030,
+      "name": "Wicked & Wild",
+      "url": "https://open.spotify.com/track/2myNRoPh3Nh8V07gEEchGt"
     },
     {
       "album": {

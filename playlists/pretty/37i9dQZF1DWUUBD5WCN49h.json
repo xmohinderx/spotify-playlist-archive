@@ -1,12 +1,12 @@
 {
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=OUWYxk0ySGe5m_n13WKeQA\"> Dami Oniru</a> ",
-  "num_followers": 7065,
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e?si=U-tX-QiYQkmrwftWnDnSZQ\"> Adomaa</a> ",
+  "num_followers": 7062,
   "original_name": "Sizzlers ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUwNjE1OSwwMDAwMDAwMDc4NDAyMjg3YWYwZTljZjYyNmY3OTM1NzcyMTI4OWFj",
+  "snapshot_id": "MTY2ODc3MTEwNiwwMDAwMDAwMDAxZjhlNTAwYmMxNjI5OTEwNzcwNzJmYjUzNjNhMWMx",
   "tracks": [
     {
       "added_at": "2022-09-01 23:00:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG"
     },
     {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "Becoming Adomaa",
+        "url": "https://open.spotify.com/album/5FDB8xeWw2e1Av5yiKOX4D"
+      },
+      "artists": [
+        {
+          "name": "Adomaa",
+          "url": "https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Things I Know",
@@ -39,6 +55,42 @@
       "duration_ms": 170457,
       "name": "Things I Know",
       "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"
+    },
+    {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "Love Station",
+        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 153569,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla"
+    },
+    {
+      "added_at": "2022-10-28 12:50:25",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/37U6koHcGoQIQT64ykPt1u"
+      },
+      "artists": [
+        {
+          "name": "Twelve XII",
+          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
+        }
+      ],
+      "duration_ms": 202962,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1nvmbch5gbBGCcgyv1T7Yx"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -61,24 +113,20 @@
       "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
     },
     {
-      "added_at": "2022-10-28 12:50:25",
+      "added_at": "2022-11-18 11:31:46",
       "album": {
-        "name": "Video Games",
-        "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
+        "name": "Confess",
+        "url": "https://open.spotify.com/album/55zccrU90VUl932ZTq1O9e"
       },
       "artists": [
         {
-          "name": "Ricky Tyler",
-          "url": "https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA"
-        },
-        {
-          "name": "Karun",
-          "url": "https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe"
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
         }
       ],
-      "duration_ms": 216214,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr"
+      "duration_ms": 160879,
+      "name": "Confess",
+      "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -117,22 +165,6 @@
       "url": "https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL"
     },
     {
-      "added_at": "2022-10-28 12:50:25",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/37U6koHcGoQIQT64ykPt1u"
-      },
-      "artists": [
-        {
-          "name": "Twelve XII",
-          "url": "https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi"
-        }
-      ],
-      "duration_ms": 202962,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1nvmbch5gbBGCcgyv1T7Yx"
-    },
-    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Matter of Time",
@@ -147,6 +179,26 @@
       "duration_ms": 227532,
       "name": "Just 4 U",
       "url": "https://open.spotify.com/track/1lKADLiBKK9ohCPBmOm6eG"
+    },
+    {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "Locked 4 Life",
+        "url": "https://open.spotify.com/album/4OlrRBsuFr2WVkIkYgbJ44"
+      },
+      "artists": [
+        {
+          "name": "Deji Abdul",
+          "url": "https://open.spotify.com/artist/1Twl2e41FcWPzfrTVqgTlI"
+        },
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Locked 4 Life",
+      "url": "https://open.spotify.com/track/6V5HscDAUed5pcjWOGvfIg"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -181,6 +233,30 @@
       "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
     },
     {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "3 in the Morning",
+        "url": "https://open.spotify.com/album/6PMz0SlbVo8Hmizius3YTk"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        },
+        {
+          "name": "Kikelomo",
+          "url": "https://open.spotify.com/artist/4HLQ6ZHKvMKlD3VR1vVQkE"
+        },
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "3 in the Morning",
+      "url": "https://open.spotify.com/track/0YcAQqvxtRERBkCFyx7afs"
+    },
+    {
       "added_at": "2022-10-21 06:00:49",
       "album": {
         "name": "Old Wineskins",
@@ -211,6 +287,22 @@
       "duration_ms": 136296,
       "name": "No More",
       "url": "https://open.spotify.com/track/2jfhUSkLNMYXew3tZIewYk"
+    },
+    {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "MOON WATER",
+        "url": "https://open.spotify.com/album/6V2GrecRdnOH26nUOTBnhI"
+      },
+      "artists": [
+        {
+          "name": "Athina's Moon",
+          "url": "https://open.spotify.com/artist/4801CZf8StFmvZahNckwhO"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "I Am Water",
+      "url": "https://open.spotify.com/track/3P0sc2aS6WK6mEdkef7O7D"
     },
     {
       "added_at": "2022-10-28 12:50:25",
@@ -245,6 +337,22 @@
       "url": "https://open.spotify.com/track/5f8X74uHDBh0eFOL7g4CWt"
     },
     {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "Million Dollar",
+        "url": "https://open.spotify.com/album/1QocPzrDKtqPqzOcudPcv8"
+      },
+      "artists": [
+        {
+          "name": "Greyc",
+          "url": "https://open.spotify.com/artist/724kZz65PRMWERekaICxnF"
+        }
+      ],
+      "duration_ms": 134765,
+      "name": "Million Dollar",
+      "url": "https://open.spotify.com/track/0qDTt6Zxh0w2jCjhSezAfw"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "To Last",
@@ -277,20 +385,20 @@
       "url": "https://open.spotify.com/track/3CBPgAhZ8XnRxzLfksRS5Q"
     },
     {
-      "added_at": "2022-11-15 09:55:58",
+      "added_at": "2022-11-18 11:31:46",
       "album": {
-        "name": "Two Weeks",
-        "url": "https://open.spotify.com/album/5YHA2bxiQfLfKWbmFiWTZN"
+        "name": "FeeL Too MucH",
+        "url": "https://open.spotify.com/album/1Gmynh7p48CZJyTaD28tpQ"
       },
       "artists": [
         {
-          "name": "Yinka",
-          "url": "https://open.spotify.com/artist/35eH57prThKuUM0PXgQ8zE"
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
         }
       ],
-      "duration_ms": 165913,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/5QxGoE7pn8Ghbl0N1leBop"
+      "duration_ms": 208000,
+      "name": "FeeL Too MucH",
+      "url": "https://open.spotify.com/track/4oD80Qp1vqULUHhTyy4ycr"
     },
     {
       "added_at": "2022-07-25 09:20:17",
@@ -335,22 +443,6 @@
       "duration_ms": 130666,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Contour (Acoustic)",
-        "url": "https://open.spotify.com/album/472q1Xw1TjH1tTZUOMzkTF"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Contour (Acoustic)",
-      "url": "https://open.spotify.com/track/26jU3i6046awcW6NAtqnqz"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -497,6 +589,26 @@
       "url": "https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc"
     },
     {
+      "added_at": "2022-11-18 11:31:46",
+      "album": {
+        "name": "Follow Through",
+        "url": "https://open.spotify.com/album/4ZiEbVOlKfjzCNjaK7cN9t"
+      },
+      "artists": [
+        {
+          "name": "Bigfootinyourface",
+          "url": "https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy"
+        },
+        {
+          "name": "Lex Ash",
+          "url": "https://open.spotify.com/artist/5kOSDiIYPtPIZqDwBa0XKw"
+        }
+      ],
+      "duration_ms": 136216,
+      "name": "Follow Through",
+      "url": "https://open.spotify.com/track/6nY8vUsaVRwToBzRhPh2Fh"
+    },
+    {
       "added_at": "2022-11-15 09:55:58",
       "album": {
         "name": "Love Sick",
@@ -551,30 +663,6 @@
       "duration_ms": 188937,
       "name": "Hard to Find",
       "url": "https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq"
-    },
-    {
-      "added_at": "2022-10-28 12:50:25",
-      "album": {
-        "name": "Scary",
-        "url": "https://open.spotify.com/album/5LLwIc70eeUjHynOpd1CH9"
-      },
-      "artists": [
-        {
-          "name": "DJ Semtex",
-          "url": "https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt"
-        },
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        },
-        {
-          "name": "Twitch 4EVA",
-          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Scary",
-      "url": "https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -733,22 +821,6 @@
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
-      "added_at": "2022-08-19 04:37:42",
-      "album": {
-        "name": "Santi",
-        "url": "https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ"
-      },
-      "artists": [
-        {
-          "name": "Oiza x Meyi",
-          "url": "https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ"
-        }
-      ],
-      "duration_ms": 230498,
-      "name": "Santi",
-      "url": "https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "In The Rough",
@@ -763,106 +835,6 @@
       "duration_ms": 165283,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2022-09-29 23:00:00",
-      "album": {
-        "name": "Abeg U",
-        "url": "https://open.spotify.com/album/672qLgUzgkxADMTp0ZWlaP"
-      },
-      "artists": [
-        {
-          "name": "Twitch 4EVA",
-          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
-        }
-      ],
-      "duration_ms": 174588,
-      "name": "Abeg U",
-      "url": "https://open.spotify.com/track/4WFFWMFIsEqX3SeIkftUp2"
-    },
-    {
-      "added_at": "2022-09-16 04:46:22",
-      "album": {
-        "name": "Truth, Love & Confessions (TLC)",
-        "url": "https://open.spotify.com/album/2nOd8tXJrNXIFw96EqwLb5"
-      },
-      "artists": [
-        {
-          "name": "Idahams",
-          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Hate That I Love",
-      "url": "https://open.spotify.com/track/2mYrLsa22EXcfhGzhB4Wvu"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "The Brother's Keeper",
-        "url": "https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 161403,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/07NtuuBsiXyeUjMGceBKao"
-    },
-    {
-      "added_at": "2022-09-01 23:00:00",
-      "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
-    },
-    {
-      "added_at": "2022-09-23 06:35:46",
-      "album": {
-        "name": "4Play",
-        "url": "https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/7eCBkV136O7Fw0ZUo3k1FH"
     },
     {
       "added_at": "2022-08-25 23:00:00",

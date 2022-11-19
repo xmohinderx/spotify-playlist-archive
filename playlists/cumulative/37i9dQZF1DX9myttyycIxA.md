@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Alex Siegel
 
-720 songs - 1 day 17 hr 15 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+721 songs - 1 day 17 hr 18 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,8 @@
 | [RAPID & COMPLETE RECOVERY](https://open.spotify.com/track/434j2XfgpKRzKFbE9tnxUH) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [ENTERTAINMENT, DEATH](https://open.spotify.com/album/7fQtF6nueGmgPXajwcATgJ) | 4:01 | 2021-04-13 | 2022-04-29 |
 | [Real Pain](https://open.spotify.com/track/0vqpshPaEpF3BKnUuvrVEf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Real Pain](https://open.spotify.com/album/18FnwNR5eZ5RF1jRFnM7IB) | 4:50 | 2021-08-13 | 2022-03-22 |
 | [reasons](https://open.spotify.com/track/0Zkgu2BputAbvd1HhoXMQC) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [reasons](https://open.spotify.com/album/3Zy4PSc2ucpzhO8YzQLYJC) | 5:00 | 2022-09-23 | 2022-10-15 |
-| [rest](https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rest](https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV) | 2:26 | 2022-09-28 |  |
+| [rest](https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rainbow music](https://open.spotify.com/album/3ACtkvoyzz321xgMxlYt7J) | 2:26 | 2022-10-21 |  |
+| [rest](https://open.spotify.com/track/7jVIHU3PXfJOmMltbH6lGM) | [ghost orchard](https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG) | [rest](https://open.spotify.com/album/4FjESddwuVDtpbQGYVwxOV) | 2:26 | 2022-09-28 | 2022-11-19 |
 | [Rifter](https://open.spotify.com/track/6yRVHH0zp9ESjgwI8IWvxc) | [Sadie](https://open.spotify.com/artist/79zEA2Ow6q9ianFKBru7lQ) | [Rifter](https://open.spotify.com/album/5ddhc36Yp6vD2EcwnOqq6h) | 3:40 | 2022-08-05 |  |
 | [Righter](https://open.spotify.com/track/7aX7tlZXkjTfR2fTPtk5uN) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [Righter](https://open.spotify.com/album/7p0eKTOpxUkB2SxWDJJ2Nu) | 3:56 | 2022-07-08 | 2022-08-27 |
 | [Rip Curl Sweatshirt](https://open.spotify.com/track/0OAGQp7hptybZ6vfjAshRL) | [Trestles](https://open.spotify.com/artist/7hmPErlX3ndzdXcrg8WblE) | [Rip Curl Sweatshirt](https://open.spotify.com/album/18RLd7dXVIW73t3LW7L3AK) | 3:20 | 2022-05-09 | 2022-07-09 |

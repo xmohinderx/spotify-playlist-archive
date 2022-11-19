@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Daniel Levak
 
-1,048 songs - 3 day 23 hr 57 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+1,049 songs - 4 day 0 hr 3 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,7 +806,8 @@
 | [Silence](https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Silence](https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT) | 3:41 | 2022-05-26 | 2022-06-17 |
 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 | 2022-04-14 | 2022-04-29 |
 | [Silius \- Alfa Romero Remix](https://open.spotify.com/track/0wj0giVxSGWzlnWhdC8EUh) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Silius EP](https://open.spotify.com/album/1kvDBa5nOhlshFg5rwaItu) | 6:35 | 2022-11-11 |  |
-| [Simulacrum](https://open.spotify.com/track/2TcoUEsQN4EIMUAHghPfxe) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/08NA6Z43B2Mte6Zu6rxOlt) | 6:06 | 2022-11-03 |  |
+| [Simulacrum](https://open.spotify.com/track/1W1uFNsvlGIpC2WFNCVNIr) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/3QLiQ0hFrcrlNoUjc8KGAb) | 6:06 | 2022-11-18 |  |
+| [Simulacrum](https://open.spotify.com/track/2TcoUEsQN4EIMUAHghPfxe) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Simulacrum](https://open.spotify.com/album/08NA6Z43B2Mte6Zu6rxOlt) | 6:06 | 2022-11-03 | 2022-11-19 |
 | [Simulacrum \- Betical Remix](https://open.spotify.com/track/46f5Kg2BjymfLk2uiDA937) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk), [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z) | [Simulacrum \(Betical Remix\)](https://open.spotify.com/album/1ba85Roxjumbza5Ru1sioe) | 5:07 | 2022-11-18 |  |
 | [Sing Another Song](https://open.spotify.com/track/7trroykaG1YZDvM20Jwh5O) | [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr), [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Sing Another Song](https://open.spotify.com/album/23Su94sdXCV5QVIW2Bud1n) | 4:46 | 2022-10-20 | 2022-11-04 |
 | [Sinners](https://open.spotify.com/track/4Wjo63daUsx4g77m20oOu1) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Sinners](https://open.spotify.com/album/3eulpPB3ZupNOvujQ84rvM) | 7:02 | 2022-08-18 | 2022-09-09 |

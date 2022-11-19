@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-295 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
+296 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/2SfGU6Jvcp2B2brAOygqpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Places](https://open.spotify.com/track/02heicX2suyGhOC7ppejvX) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [!K7 Kollections 02: Classics](https://open.spotify.com/album/1hD3Hu8pLuTb7ShwaSkNKb) | 5:03 | 2022-09-09 | 2022-11-13 |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2022-04-12 |  |
 | [Please Leave a Message](https://open.spotify.com/track/1nMCZCddaoDPaecUuNRNHz) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Aperitif](https://open.spotify.com/album/4NQoplFeaDmUBDAAzQH15T) | 3:10 | 2022-04-12 |  |
-| [Plätscher](https://open.spotify.com/track/2VrOoFaMXJMMPMuQD5OJdB) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Plätscher](https://open.spotify.com/album/7GOYKHSRNM9IHRqUyh2i9L) | 4:13 | 2022-04-12 |  |
+| [Plätscher](https://open.spotify.com/track/2VrOoFaMXJMMPMuQD5OJdB) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Plätscher](https://open.spotify.com/album/7GOYKHSRNM9IHRqUyh2i9L) | 4:13 | 2022-04-12 | 2022-11-19 |
+| [Plätscher](https://open.spotify.com/track/4fBHiFOlhyuQ5yFcUIAKmP) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Plätscher](https://open.spotify.com/album/4EvaziSKIjq0LNifgfnjld) | 4:13 | 2022-11-11 |  |
 | [Pomelo](https://open.spotify.com/track/5ltlP91dDK8QED7epzFE6R) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Dust Blaster](https://open.spotify.com/album/7hvG3T5kmb0jIzWPnFn76l) | 2:09 | 2022-04-12 |  |
 | [Portimao](https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [Portimao](https://open.spotify.com/album/4xERM1hwtquFCNTuw4e1zE) | 3:26 | 2022-04-12 |  |
 | [Prelude](https://open.spotify.com/track/1q1p0bsfEgqXDEWo1kx363) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [TERRITORY](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:52 | 2022-04-12 |  |

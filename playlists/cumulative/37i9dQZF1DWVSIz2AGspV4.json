@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Batalt Aetebhom",
+        "url": "https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242301,
+      "name": "Batalt Aetebhom",
+      "url": "https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO"
+    },
+    {
+      "album": {
         "name": "Bi Kobor Heznak Farhty",
         "url": "https://open.spotify.com/album/6kiJlPgbF5wnLQ2gAzxoyt"
       },

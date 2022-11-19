@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 123610,
+  "num_followers": 123582,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDJhYTcwZTQ2MjYzNjRmYzA2YjU1M2M5ODI0NTJmOTRk",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDYxMmQxODg0MzIxMjM0MmFiNzJhMGMwMmZmOTVhZDVi",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Caught It from the Rye",
+        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Real You",
+      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "& I'm Fine Today",
         "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 140164,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/1suoH2qGw6E4wzG3T0JIIA"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Caught It from the Rye",
-        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Real You",
-      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Panther in the Dollhouse",
         "url": "https://open.spotify.com/album/4KgEdCY2anj26R16gSbqwn"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
       },
       "artists": [
         {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+      "duration_ms": 234346,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -971,22 +987,6 @@
       "duration_ms": 162653,
       "name": "Game Show",
       "url": "https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
     },
     {
       "added_at": "2022-07-22 04:00:00",

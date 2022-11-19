@@ -1090,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "Little Bit Longer",
+        "url": "https://open.spotify.com/album/4f1ASCJc3Nc4epEhMkAxX7"
+      },
+      "artists": [
+        {
+          "name": "Blake O'Connor",
+          "url": "https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235144,
+      "name": "Little Bit Longer",
+      "url": "https://open.spotify.com/track/0Qug6Nrrlw5JDVTbuisYpA"
+    },
+    {
+      "album": {
         "name": "Two's Company",
         "url": "https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG"
       },

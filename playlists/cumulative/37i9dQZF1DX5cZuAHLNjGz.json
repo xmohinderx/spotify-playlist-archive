@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 223107,
       "name": "Heer Ranjha",
       "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
@@ -1864,6 +1864,28 @@
     },
     {
       "album": {
+        "name": "Disturbing the Peace",
+        "url": "https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN"
+      },
+      "artists": [
+        {
+          "name": "Tegi Pannu",
+          "url": "https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144447,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/30m1Wyp7zzpOYsBqvM7gYM"
+    },
+    {
+      "album": {
         "name": "Man Of The Moon",
         "url": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
       },
@@ -2100,6 +2122,28 @@
     },
     {
       "album": {
+        "name": "Disturbing the Peace",
+        "url": "https://open.spotify.com/album/2G8KnZQKOEaxVhK9GQsOmN"
+      },
+      "artists": [
+        {
+          "name": "Tegi Pannu",
+          "url": "https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169551,
+      "name": "One Question",
+      "url": "https://open.spotify.com/track/7FzOhj7WiLKN9UejUNILOW"
+    },
+    {
+      "album": {
         "name": "Way Ahead",
         "url": "https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF"
       },
@@ -2253,7 +2297,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 195933,
       "name": "Raule",
       "url": "https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn"

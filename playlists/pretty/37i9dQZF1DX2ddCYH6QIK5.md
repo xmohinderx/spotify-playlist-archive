@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: FILLY, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,027 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,016 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 8 | [Verdammt \- Radio Edit](https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Verdammt](https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT) | 3:37 |
 | 9 | [COLORS](https://open.spotify.com/track/1TtwDlSTYBh9N5GOITGOig) | [TEZA](https://open.spotify.com/artist/58HVoTyHEFyXXPHeaNGUy7) | [COLORS](https://open.spotify.com/album/0J3iOyB986bTUJsUSZOyxi) | 3:48 |
 | 10 | [Angst](https://open.spotify.com/track/03Pl0rEvXTzriTn07lykLd) | [SPUK](https://open.spotify.com/artist/7KiwsnLFaUGLga5bmIu3kd) | [Angst](https://open.spotify.com/album/29F5AbwqtV1XnEd9ELoCnX) | 3:15 |
-| 11 | [Rave22](https://open.spotify.com/track/2IboXvKtEiYAasekXmUbsw) | [Nhoah](https://open.spotify.com/artist/3gkxx7m2pCxR3i3oH2wn99) | [Tune](https://open.spotify.com/album/4N9kmusWvdY2cnaicoQnh4) | 6:56 |
+| 11 | [Rave22](https://open.spotify.com/track/2IboXvKtEiYAasekXmUbsw) | [NHOAH](https://open.spotify.com/artist/3gkxx7m2pCxR3i3oH2wn99) | [Tune](https://open.spotify.com/album/4N9kmusWvdY2cnaicoQnh4) | 6:56 |
 | 12 | [Supermarkt](https://open.spotify.com/track/18AM2pDpat41hGkqNdoR7O) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Supermarkt](https://open.spotify.com/album/5R96YOF9ZBS1ROBPwrSGN7) | 5:34 |
 | 13 | [Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq) | [Traumatin](https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV) | [Nur zu weit](https://open.spotify.com/album/1kRSNpQb8JDBBH5g4scIg1) | 3:46 |
 | 14 | [Out of my head, Out of my league](https://open.spotify.com/track/3BSLhsX7WjAa3034hL85FK) | [Homeless Local](https://open.spotify.com/artist/5TJL63UImAbfnwS8nTd9Sn) | [Out of my head, Out of my league](https://open.spotify.com/album/3SKgkTDHzhsesTJoBuUHsc) | 2:48 |

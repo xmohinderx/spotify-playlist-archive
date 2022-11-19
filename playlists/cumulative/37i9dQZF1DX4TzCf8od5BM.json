@@ -958,6 +958,28 @@
     },
     {
       "album": {
+        "name": "Happy Happy Birthday (From \"Disney Junior Music: Mickey Mornings\")",
+        "url": "https://open.spotify.com/album/0flmw15oo87UMkmi6zsbJS"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mornings - Cast",
+          "url": "https://open.spotify.com/artist/7bTQeYvGGS6gUfJT3AlAJZ"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134785,
+      "name": "Happy Happy Birthday - From \"Disney Junior Music: Mickey Mornings\"",
+      "url": "https://open.spotify.com/track/65uEqaaEeUZz884Xd2yGEq"
+    },
+    {
+      "album": {
         "name": "Mickey and The Roadster Racers: Disney Junior Music",
         "url": "https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH"
       },

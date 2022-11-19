@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 17 | [Freaky Friday \- Tera Nitric Remix EDM Version](https://open.spotify.com/track/6pA2AGT6p7kniOdoZYZGJs) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB), [Curtis Laiger](https://open.spotify.com/artist/3Ns5ODCkNWXn01U7cbDg5o), [Tera Nitric](https://open.spotify.com/artist/2MWRCiYFXzeuFwWAmASsyi) | [Freaky Friday](https://open.spotify.com/album/1fGpp3LgGnzvavjg6pb1zm) | 2:56 |
 | 18 | [Extra Mile](https://open.spotify.com/track/7CM7FycQQWAzem52QgJllq) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:55 |
 | 19 | [Dotted Lines & Commas](https://open.spotify.com/track/0hw8BvO4OQ2f6GaF7NQI7p) | [Blixxack](https://open.spotify.com/artist/7tzeAMvtPF9coHEEwLZhRJ), [Tucker HD](https://open.spotify.com/artist/3RDapQeJyAsiuFyZxFualp) | [Dotted Lines & Commas](https://open.spotify.com/album/0PKfULSEkUoaXXxUoI0fgP) | 4:37 |
-| 20 | [Independent](https://open.spotify.com/track/424DjMFtS0JGIVM8aBFntp) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Independent](https://open.spotify.com/album/59gYjH3D1JdjTvoQdcIat5) | 3:51 |
+| 20 | [Independent](https://open.spotify.com/track/424DjMFtS0JGIVM8aBFntp) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX), [Ogezi](https://open.spotify.com/artist/64qdnBh641xfeuHEevY9l2) | [Independent](https://open.spotify.com/album/59gYjH3D1JdjTvoQdcIat5) | 3:51 |
 | 21 | [UG Yaffe \- Allstar Remix](https://open.spotify.com/track/5aVwVbXFiwwkk9u629WTMe) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [St\. Maxi Mayne](https://open.spotify.com/artist/1Zyxe8LgqlD5vqlMhvZbFd), [Fresh Kid Ug](https://open.spotify.com/artist/0wvkMEzBET0t77C5FqpMKO), [Kadabrah](https://open.spotify.com/artist/0gqRgX0oh889UAIK1ZbZ4v), [Joyie 7 Star](https://open.spotify.com/artist/67HCLPYSrDkA1wwJVxYhnw), [Taurus Mcee](https://open.spotify.com/artist/1xjl5vIGPMtLD5I32Cer3y), [prolific](https://open.spotify.com/artist/7JMyxAnabjblWtHu6NG4yE), [JUDAS RAPKNOWLEDGE DA AKBAR](https://open.spotify.com/artist/3iTi5ruCf9iObKTmoALmhC) | [Uganda Yaffe \(Allstar Remix\)](https://open.spotify.com/album/3yn54C2joXIRWPoSZsdejZ) | 4:09 |
 | 22 | [Naomi birthday song](https://open.spotify.com/track/2lQrFQNl5kmZoNCs1KkAL8) | [ml godi](https://open.spotify.com/artist/6xa4Dk2GZqhLboPS1eXDqg) | [Collection](https://open.spotify.com/album/1YogiBfwL9qhYX1bENFWgZ) | 2:38 |
 | 23 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |

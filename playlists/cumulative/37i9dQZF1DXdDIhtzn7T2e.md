@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-78 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+79 songs - 4 hr 47 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [High Feeling](https://open.spotify.com/track/3ieuCF9ixhvNkT8noRbYYg) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5cA7YeIhSv4f82ACPN35uJ) | 2:57 | 2022-04-20 |  |
 | [High Feeling](https://open.spotify.com/track/4LQDhX6UiJpTVxY0gdrBsW) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [High Feeling](https://open.spotify.com/album/5wLA13oULyZXO8MS56sCKg) | 2:57 | 2021-04-20 | 2022-07-29 |
 | [High Feeling](https://open.spotify.com/track/4wqi04nuwUIzG5zXxrUdmD) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [High Feeling](https://open.spotify.com/album/5sS58KZBYfNxFHQVeRUH41) | 2:57 | 2022-09-23 | 2022-11-14 |
+| [High Note](https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [High Note](https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy) | 5:33 | 2022-11-18 |  |
 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 | 2021-04-20 |  |
 | [High Time](https://open.spotify.com/track/2k3XVSB5S7teKwdOCZ6E99) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 5:48 | 2021-04-20 |  |
 | [High, Drunk, and Heartbroke](https://open.spotify.com/track/4p9D4xmZekyDDQdj7E7t1W) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA) | [High, Drunk, and Heartbroke](https://open.spotify.com/album/4LABJGkJKQVOP1zR6MnZRE) | 6:17 | 2021-04-20 |  |

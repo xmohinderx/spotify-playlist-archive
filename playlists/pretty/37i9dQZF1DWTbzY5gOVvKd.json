@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1138756,
+  "num_followers": 1138661,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyMDQzMCwwMDAwMDAwMDVmYmZkMTZhODdkOTVjMTYyODc4ZGIwY2ZiMDVmNmQ1",
+  "snapshot_id": "MTY2ODUyMDQzMCwwMDAwMDAwMDgyNDM1YjA0ODQ3N2QwYWE0NzdmMzUyM2QzZjRkMTc1",
   "tracks": [
     {
       "added_at": "2022-11-08 13:20:48",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
+        "name": "Signature",
+        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "A Kiss To Build A Dream On",
+      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 200586,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "Signature",
-        "url": "https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "A Kiss To Build A Dream On",
-      "url": "https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "From New York To Paris",
         "url": "https://open.spotify.com/album/0ew4bQVWNluLXdaODGW1C0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 330746,
       "name": "I Will Wait For You",
       "url": "https://open.spotify.com/track/7C7KLdwjjIvCWcxPwmgvaV"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+      },
+      "artists": [
+        {
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
         "name": "Best Love Ballads",
         "url": "https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
       "artists": [
         {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+          "name": "Erin Boheme",
+          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
         }
       ],
-      "duration_ms": 284133,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
+      "duration_ms": 279853,
+      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
+      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -899,22 +915,6 @@
       "duration_ms": 176495,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/0DHyfTHCTvbeVJyXIzVhlq"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
-      },
-      "artists": [
-        {
-          "name": "Erin Boheme",
-          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
-        }
-      ],
-      "duration_ms": 279853,
-      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
-      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 318980,
-      "name": "I Can't Give You Anything",
-      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "Partners",
         "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 262106,
       "name": "It Had to Be You (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/3tRdPcBfIQrJnadxPuVoMJ"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
+      },
+      "artists": [
+        {
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
+        }
+      ],
+      "duration_ms": 318980,
+      "name": "I Can't Give You Anything",
+      "url": "https://open.spotify.com/track/3lxhuJetgOct3FN47LvZmO"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
-        "name": "Dear Blossom,",
-        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
-      },
-      "artists": [
-        {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
+        "name": "Dear Blossom,",
+        "url": "https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC"
     },
     {
       "added_at": "2022-11-08 13:20:48",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-11-08 13:20:48",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
+    },
+    {
+      "added_at": "2022-11-08 13:20:48",
+      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 343055,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
-    },
-    {
-      "added_at": "2022-11-08 13:20:48",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "added_at": "2022-11-08 13:20:48",

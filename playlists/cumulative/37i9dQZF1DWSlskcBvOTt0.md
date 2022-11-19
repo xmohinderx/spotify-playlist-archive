@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-332 songs - 1 day 10 hr 41 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+333 songs - 1 day 10 hr 46 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Give Back](https://open.spotify.com/track/4KNpbJUv1KQPODbcm5iy51) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Ways of Walking EP](https://open.spotify.com/album/4vdGHJExAj5bTrvbTNz6CD) | 6:33 | 2021-08-27 | 2022-07-28 |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2021-04-21 |  |
 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 | 2021-05-18 | 2022-07-29 |
-| [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 |  |
+| [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 | 2022-07-01 | 2022-11-19 |
 | [Harmony \- Yuksek Remix](https://open.spotify.com/track/41xzd23xVfhaaakS8sXgoR) | [Maestro](https://open.spotify.com/artist/0mmos1mLPBw28HzvFqBBTW), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Harmony \(Yuksek Remix\)](https://open.spotify.com/album/4zuq7xnN11skfeBMUDLvjR) | 6:11 | 2021-04-21 | 2022-04-21 |
 | [Haze \(Yamil Remix\)](https://open.spotify.com/track/77zuNmj82EubbK235evjeH) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Haze \(Yamil Remix\)](https://open.spotify.com/album/3RBmmfY2z3rIgh1igDj6at) | 4:08 | 2022-01-07 | 2022-07-29 |
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2021-04-21 | 2022-04-23 |
@@ -169,6 +169,7 @@
 | [Life Is...](https://open.spotify.com/track/0DSxtNjXsZk06n3Fqdjl26) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Life Is...](https://open.spotify.com/album/2kVQXgXsVuu41T86tXb4vo) | 4:13 | 2022-10-24 | 2022-11-18 |
 | [Lion Rock](https://open.spotify.com/track/7AFmB72s93HsxKbq32KVJO) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz) | [Lion Rock](https://open.spotify.com/album/5zwAJDzfCHfPFtM5EH8zyk) | 4:36 | 2021-04-21 | 2022-04-21 |
 | [Little Darling](https://open.spotify.com/track/7nA4uczx7vIhEDoBCUBnT0) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Little Darling](https://open.spotify.com/album/5BgYwykiqPeG8bHdl5WFlA) | 3:40 | 2021-05-26 |  |
+| [Looking at Your Pager \- Solomun Remix](https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Looking At Your Pager \(Solomun Remix\)](https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u) | 4:28 | 2022-11-19 |  |
 | [Los Dos](https://open.spotify.com/track/4jbCJmt7MblzdjqafFKMIz) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Kreative Nativez](https://open.spotify.com/artist/4s2DjPiXzoh6KErcgfMl6G), [XAS](https://open.spotify.com/artist/469qIiJtQqL9aRUZtuBBmx) | [Los Dos](https://open.spotify.com/album/1Ldq4SBeOmEGt9UxcR4Sij) | 4:52 | 2022-07-01 | 2022-07-23 |
 | [Losing Game](https://open.spotify.com/track/4eSPKciUMc2ZzzCqwBuWNA) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Losing Game](https://open.spotify.com/album/5QP8mNwbdpxuz9cLG49igL) | 5:31 | 2022-09-30 |  |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-04-19 |  |

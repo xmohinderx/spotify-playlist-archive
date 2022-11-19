@@ -552,6 +552,28 @@
     },
     {
       "album": {
+        "name": "The Fuse Is Lit",
+        "url": "https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214368,
+      "name": "Bulletproof Skin",
+      "url": "https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3"
+    },
+    {
+      "album": {
         "name": "Buss Out",
         "url": "https://open.spotify.com/album/5EDfw383RolFVbzUXCAVSm"
       },

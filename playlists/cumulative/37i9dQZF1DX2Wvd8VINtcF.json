@@ -417,10 +417,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 165685,
       "name": "Bounds",
       "url": "https://open.spotify.com/track/3BFSoUJ4t8uKpTDzSjGRbT"
+    },
+    {
+      "album": {
+        "name": "Bounds (Mhmm)",
+        "url": "https://open.spotify.com/album/6V96CPuNmhLCWiqsVLjqbN"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165685,
+      "name": "Bounds (Mhmm)",
+      "url": "https://open.spotify.com/track/0FluRpeiZg41lLclRtWQwc"
     },
     {
       "album": {
@@ -2717,6 +2735,24 @@
       "duration_ms": 90650,
       "name": "supernova",
       "url": "https://open.spotify.com/track/3Tb7Mkjq5WpA7FqSBNUUQC"
+    },
+    {
+      "album": {
+        "name": "softCORE",
+        "url": "https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90653,
+      "name": "supernova",
+      "url": "https://open.spotify.com/track/270BRCqU0rVqTrh72GuoNu"
     },
     {
       "album": {

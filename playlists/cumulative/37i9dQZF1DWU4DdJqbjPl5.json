@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/4xFICOtw9q9WFUqXwouoLG"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157736,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/3wIkraTZGQtljsayKCj1oS"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX"
       },
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 195555,
       "name": "FAR AWAY",
       "url": "https://open.spotify.com/track/0TTzrBufRSH2B0xGzpvVbT"
@@ -1141,6 +1159,24 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+    },
+    {
+      "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
     },
     {
       "album": {
@@ -2231,7 +2267,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 159600,
       "name": "Only",
       "url": "https://open.spotify.com/track/0BWXrf3aW3ZLgComAYwCR2"
@@ -2253,7 +2289,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
@@ -2631,6 +2667,24 @@
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
+    },
+    {
+      "album": {
+        "name": "Becoming Adomaa",
+        "url": "https://open.spotify.com/album/5FDB8xeWw2e1Av5yiKOX4D"
+      },
+      "artists": [
+        {
+          "name": "Adomaa",
+          "url": "https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207529,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/4XTMzpqNfLTdo4Jt7jQ1t0"
     },
     {
       "album": {

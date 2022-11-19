@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Al coraz\u00f3n! Foto: L-Gante & Wanda.",
+  "description": "Al coraz\u00f3n! Foto: Rei.",
   "name": "Cumbia y Romance",
   "published_playlist_ids": [
     "3iEESm2gcAYi2LsQmpsC4I"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 181542,
       "name": "B\u00fascate Un Hombre Que Te Quiera",
       "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
@@ -3137,7 +3137,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 172806,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj"
@@ -3209,7 +3209,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 158378,
       "name": "Olvida Tus Penas",
       "url": "https://open.spotify.com/track/7KkXWc0zcmCy92YoeVW0dp"
@@ -3925,6 +3925,24 @@
       "duration_ms": 224522,
       "name": "Solo Parecia Amor",
       "url": "https://open.spotify.com/track/5tNMJdmknM2S0lOpknjNVM"
+    },
+    {
+      "album": {
+        "name": "SOMOS NOSOTROS",
+        "url": "https://open.spotify.com/album/7mxxb19XlmY9nhFhumFmSD"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "SOMOS NOSOTROS",
+      "url": "https://open.spotify.com/track/2u3Hwa2fckCMGb5vo8DBbJ"
     },
     {
       "album": {
@@ -4805,7 +4823,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 175887,
       "name": "Yo No Fui",
       "url": "https://open.spotify.com/track/3YcmYycKWslwStc05Ayn2B"

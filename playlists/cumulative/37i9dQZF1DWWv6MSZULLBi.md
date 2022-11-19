@@ -4,10 +4,11 @@
 
 > A laid\-back trip in the folk scene\. Cover: Leith Ross
 
-244 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
+247 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/5U0EeaLNxWf1VoBuo6txNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1 of 2](https://open.spotify.com/track/6tllMLFbEIDWJ4LxWgudOn) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [1 of 2](https://open.spotify.com/album/3jX9FXY6rmjwKi5NtIMxpD) | 3:50 | 2022-11-18 |  |
 | [A Different Kind of Light](https://open.spotify.com/track/3u6wgdJSBtdusakLXnlFlE) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Different Kind of Light](https://open.spotify.com/album/3qX9FYZfQZNRr01F8P6AES) | 4:23 | 2022-09-09 |  |
 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 | 2022-05-13 | 2022-10-01 |
 | [All Dressed Up](https://open.spotify.com/track/16h6xRMuKHYA2cisxfhKSg) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time](https://open.spotify.com/album/5j3jNzAU44DXD91QpIFF8u) | 3:25 | 2022-05-13 | 2022-06-04 |
@@ -17,7 +18,7 @@
 | [Anchored](https://open.spotify.com/track/2kNsGj6pRhA6MfHsk9WDp8) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Anchored](https://open.spotify.com/album/1JFzFl3R3za0aJ4YJKZf77) | 3:59 | 2022-10-07 |  |
 | [And \(Sam Sarty's Version\)](https://open.spotify.com/track/4NAYWrsA9caIZOXxb6hvIY) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv), [Sam Sarty](https://open.spotify.com/artist/3GhrR3d8MxwPRiGjJUOLDb) | [And \(Sam Sarty's Version\)](https://open.spotify.com/album/28DI3Mg5t9QXqIopQrvrHO) | 3:45 | 2022-06-17 |  |
 | [Animals](https://open.spotify.com/track/6lcfBmZ4McYR0s2lTKKMKO) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Animals](https://open.spotify.com/album/51gMj5yc7pBiLdKosMzfBd) | 4:25 | 2022-07-29 | 2022-09-10 |
-| [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 |  |
+| [Annie](https://open.spotify.com/track/4cbwJEhIBM7WSn73X63Vgj) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:07 | 2022-05-13 | 2022-11-19 |
 | [Another Night](https://open.spotify.com/track/5zvo5IHhdyHXTBSdO8H4ZI) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 2:51 | 2022-09-23 |  |
 | [Answers](https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Answers](https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a) | 2:47 | 2022-05-13 | 2022-07-30 |
 | [Armour](https://open.spotify.com/track/4Oo5MkhMfWTSjh58tZB898) | [Royal Wood](https://open.spotify.com/artist/0gpd8R84x5pZaGi5tgZdKc) | [Armour](https://open.spotify.com/album/6FSGKvGRDmBSGmhfSmVEh8) | 3:13 | 2022-06-29 |  |
@@ -105,6 +106,7 @@
 | [iknowiknow](https://open.spotify.com/track/2eawTHlYcv1LilpGnV3VOe) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [iknowiknow](https://open.spotify.com/album/1YvMLexPYivqu5NqAffK4n) | 2:10 | 2022-07-01 | 2022-07-29 |
 | [iknowiknow](https://open.spotify.com/track/7ig0m6wR3xUP0ECJR1iJkL) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [WOAH](https://open.spotify.com/album/0ucs6jX7iFtv1e1SS8HTO5) | 2:10 | 2022-07-22 |  |
 | [In 40 Years](https://open.spotify.com/track/0emj2UaC4T1mOGs7duFy01) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [In 40 Years](https://open.spotify.com/album/5WOd2d1WlsHFywLl927fRz) | 3:03 | 2022-06-24 | 2022-08-27 |
+| [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 | 2022-11-18 |  |
 | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/track/7bWoSTEWfg97lxGoByeyYH) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In Your Corner \(For Scott Hutchison\)](https://open.spotify.com/album/481cy5V3RYhcCCLaaB2mav) | 3:16 | 2022-05-13 | 2022-09-17 |
 | [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 | 2022-09-30 | 2022-10-29 |
 | [It Ain't Me](https://open.spotify.com/track/1ngOAftE7NfyGtfy5Fv3el) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3) | [It Ain't Me](https://open.spotify.com/album/1jYLdSozplK2eI9fHLi2Gf) | 3:37 | 2022-05-13 | 2022-08-20 |
@@ -148,7 +150,7 @@
 | [No Body](https://open.spotify.com/track/3sii6IckVtDEZrMiEeVdFG) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [No Body](https://open.spotify.com/album/62zBV884X3VSsrxqlcYsoY) | 4:33 | 2022-07-22 | 2022-09-06 |
 | [North of the Border](https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [North of the Border](https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi) | 4:24 | 2022-07-22 | 2022-09-10 |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2022-09-16 | 2022-10-15 |
-| [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 |  |
+| [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 | 2022-05-13 | 2022-11-19 |
 | [On the Edge](https://open.spotify.com/track/4ghxG39Um1SQ8OHdDgUH1p) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/3Ifz0AOMdu8Rs2lhtjuDcJ) | 2:40 | 2022-10-07 |  |
 | [On the Edge](https://open.spotify.com/track/7G5kS3Z1uzgUZlVv6kGhDw) | [Zackery](https://open.spotify.com/artist/5GQHNdYVBppXNGb7RHJHIc) | [On the Edge](https://open.spotify.com/album/2LEAHem1o9t6AzAxVbMRja) | 2:40 | 2022-05-13 | 2022-10-13 |
 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 | 2022-09-09 |  |
@@ -165,7 +167,7 @@
 | [Phantom](https://open.spotify.com/track/2fq4SiCvhv8NrLnxeNa8l9) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal \(10th Anniversary Edition\)](https://open.spotify.com/album/3BNRyWlVJZWjakfP0ybfhB) | 4:42 | 2022-05-13 | 2022-08-27 |
 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2022-07-01 |  |
 | [Pools](https://open.spotify.com/track/10InixTBQl9PbBSpcWw3bL) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/5CfxWwzHgJCjGhxweCDeNn) | 3:49 | 2022-09-09 | 2022-10-14 |
-| [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 | 2022-10-07 |  |
+| [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 | 2022-10-07 | 2022-11-19 |
 | [Problem Child](https://open.spotify.com/track/6EFCZDhBYd12DBzvrJZXMl) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Problem Child](https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC) | 3:42 | 2022-10-07 |  |
 | [Provincetown](https://open.spotify.com/track/5i9Ir9R83xVrIh5PNYmDl8) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 4:10 | 2022-05-13 | 2022-09-10 |
 | [Rabbit Hole](https://open.spotify.com/track/36MNQV3Kw7wL3VKZIPsaVl) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Rabbit Hole](https://open.spotify.com/album/0vki8QdI8o4MSUN0arMXfV) | 2:22 | 2022-07-29 | 2022-09-24 |
@@ -235,6 +237,7 @@
 | [Until You \- Acoustic](https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You \(Acoustic\)](https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1) | 3:17 | 2022-06-17 | 2022-09-10 |
 | [Valhalla Dancer](https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Valhalla Dancer](https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da) | 3:43 | 2022-05-13 | 2022-09-17 |
 | [Violet](https://open.spotify.com/track/5CG8CTkZMnwGhJs1zHITOq) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Violet](https://open.spotify.com/album/2ogDDAPSPKeOpH2OcLEdoN) | 3:04 | 2022-05-13 | 2022-09-24 |
+| [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 |  |
 | [Waterfall](https://open.spotify.com/track/7nxSKNyLHaGcBgvVJw3Nhk) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [La cascade](https://open.spotify.com/album/51yDdsc2zYGUr0r4cVGGjo) | 3:07 | 2022-06-03 |  |
 | [Waves](https://open.spotify.com/track/3jAYnFmQS0H5O4ShG14Ac7) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Waves](https://open.spotify.com/album/5q0GJoKde3ndLUxfTKNrFP) | 3:22 | 2022-10-21 |  |
 | [Westward](https://open.spotify.com/track/1P0IOG572jMDIXR4K0EGwX) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Westward](https://open.spotify.com/album/262WDpIo6R8eiVSAzD5ztb) | 3:22 | 2022-05-13 |  |

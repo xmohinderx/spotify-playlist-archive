@@ -4,11 +4,12 @@
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
 
-119 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/0wz6julsTeg1QhgoYDFPGm)
+120 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/0wz6julsTeg1QhgoYDFPGm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18 Morceaux pour piano seul, Op\. 72: II\. Berceuse\. Andante mosso](https://open.spotify.com/track/0HKMiBxYee7wul5QcKcdlf) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Nuron Mukumi](https://open.spotify.com/artist/3MmQ9i4bHeVJPklqoMLwhA) | [18 Morceaux pour piano seul, Op\. 72: II\. Berceuse\. Andante mosso](https://open.spotify.com/album/6QAzHXucmcn4IchgqEjJw0) | 6:48 | 2022-09-30 |  |
+| [Act I: Evergreen Forest in Winter](https://open.spotify.com/track/7cdKuRwUayG5qE4lWIsyuP) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Baltic Sea Philharmonic](https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt) | [The Nutcracker, Op\. 71/TH14/Act I/Evergreen Forest in Winter](https://open.spotify.com/album/7GQP9dMgiHx4FJ6xN7ebdr) | 3:31 | 2022-11-18 |  |
 | [Act II: Coffee: Arabian Dance](https://open.spotify.com/track/0cLnASPx5KUGdJh6QPSS6M) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Kristjan Järvi](https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7), [Baltic Sea Philharmonic](https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt) | [The Nutcracker, Op\. 71/TH14/Act II/Coffee: Arabian Dance](https://open.spotify.com/album/0hJSFAC68f5ZYDjo3EaIsF) | 3:41 | 2022-11-04 |  |
 | [Capriccio Italien, Op\. 45](https://open.spotify.com/track/4LZw2J3lhYrcuu18DdLeFp) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Adrian Leaper](https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y) | [Tchaikovsky For Inspiration](https://open.spotify.com/album/0xoFmfg4hCeofN5PiatepU) | 14:53 | 2022-11-04 | 2022-11-13 |
 | [Eugene Onegin \(continued\) \(Act 3\): Polonaise](https://open.spotify.com/track/0A7pQ1JF9ptuPWcQQfh8ql) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Sofia Festival Orchestra](https://open.spotify.com/artist/6ABbnVBXuFZ6Yn2LBZzC6O), [Emil Tchakarov](https://open.spotify.com/artist/2RNqh4BiqEfr33OzVilDXC) | [Tchaikovsky: Eugene Onegin](https://open.spotify.com/album/2AJXUmeyc5FV6LeAlnAUD9) | 4:29 | 2021-06-18 |  |

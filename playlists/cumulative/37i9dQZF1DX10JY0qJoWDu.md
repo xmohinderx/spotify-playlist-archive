@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-93 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
+94 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/3IDYKnsQlFyTJMC7VBMRHz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Deck The Halls](https://open.spotify.com/track/7bACqpSGu8DLSXsg2T85Ym) | [Mickey & His Friends](https://open.spotify.com/artist/5t7Q9iwSyvZDJqLJYoqEX9) | [Disney's Family Christmas Collection](https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg) | 2:38 | 2021-12-03 |  |
 | [Do You Want To Build A Snowman?](https://open.spotify.com/track/3okmTyVQzbCvy35O0qw8IS) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Do You Want To Build A Snowman?](https://open.spotify.com/album/2odWGcUlNzLX6SbpefywbM) | 3:10 | 2021-12-03 |  |
 | [Do You Want to Build a Snowman? \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Agatha Lee Monn](https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp), [Katie Lopez](https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:26 | 2021-12-03 |  |
+| [Elves Just Wanna Have Fun \- From "The Santa Clauses"](https://open.spotify.com/track/3VtNPlYZPNALshmbvb31He) | [The Santa Clauses \- Cast](https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU) | [Elves Just Wanna Have Fun \(From "The Santa Clauses"\)](https://open.spotify.com/album/1s0YL7lVhIeAP7912Ly0XU) | 1:25 | 2022-11-18 |  |
 | [Eventually](https://open.spotify.com/track/69cTqxNCHIr1afPVDbgi06) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Noelle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) | 3:19 | 2021-12-03 |  |
 | [Feliz Navidad](https://open.spotify.com/track/69dpFbPJyNg3ljZ72KpktM) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 2:25 | 2021-12-03 |  |
 | [Finale – When Love Is Found/It Feels Like Christmas](https://open.spotify.com/track/0yi2TZfGAffVmfnQD1sm8j) | [Ghost of Christmas Present](https://open.spotify.com/artist/2RmGe4wEgHudP9BBRfR8Ez), [Tiny Tim](https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC), [Scrooge](https://open.spotify.com/artist/2kXLMOzLGIsJunZCUFwKh7), [The Muppet Cast](https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 4:01 | 2021-12-03 |  |

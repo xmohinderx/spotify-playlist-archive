@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Chris Lake",
-  "num_followers": 566925,
+  "num_followers": 566845,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQ1NDExNywwMDAwMDAwMDI1YmEzZDNhZDQ3MDVhZTJlNzkyZWM2NmJmMWQ5Nzk4",
+  "snapshot_id": "MTY2ODc4NzEzNywwMDAwMDAwMDM2YmIzNDQ5MDlmOTkzYjFlNmJjOGYzY2ZlYTRmZGEw",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -27,6 +27,54 @@
       "duration_ms": 156215,
       "name": "In The Yuma (feat. Aatig)",
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
+    },
+    {
+      "added_at": "2022-11-18 15:58:57",
+      "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2022-10-21 10:46:36",
+      "album": {
+        "name": "Sidewindah (feat. Flirta D)",
+        "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        }
+      ],
+      "duration_ms": 213562,
+      "name": "Sidewindah (feat. Flirta D)",
+      "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
     },
     {
       "added_at": "2022-11-14 19:28:37",
@@ -141,6 +189,38 @@
       "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
     },
     {
+      "added_at": "2022-11-18 15:58:57",
+      "album": {
+        "name": "Zigazigahhhh",
+        "url": "https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 203487,
+      "name": "Zigazigahhhh",
+      "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
+    },
+    {
+      "added_at": "2022-11-18 15:58:57",
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/3BunJsirdTWTv6PShlywv3"
+      },
+      "artists": [
+        {
+          "name": "Mason Maynard",
+          "url": "https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/3UZ3rSxknfT7We3lWc97Sf"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Muzik",
@@ -177,6 +257,26 @@
       "url": "https://open.spotify.com/track/5wbxaVhha6KUXecFt6vwga"
     },
     {
+      "added_at": "2022-11-18 15:58:57",
+      "album": {
+        "name": "Cameras, Flash, Action",
+        "url": "https://open.spotify.com/album/27OGxSKtIDnr0D9PC4R5Tu"
+      },
+      "artists": [
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        }
+      ],
+      "duration_ms": 146701,
+      "name": "Cameras, Flash, Action",
+      "url": "https://open.spotify.com/track/1J7FfcSQAp3K2OJk8LaNEI"
+    },
+    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Smack Yo'",
@@ -191,6 +291,26 @@
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
+    },
+    {
+      "added_at": "2022-11-18 15:58:57",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/2gvZvCqYpEEhFJ22SlBFTo"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 157972,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7pWLqM4gqXzUfxdk87TuX4"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -249,44 +369,36 @@
       "url": "https://open.spotify.com/track/0vg9mOFPVNixrHRu3bDopO"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2022-11-18 15:58:57",
       "album": {
-        "name": "Move My Feet",
-        "url": "https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6"
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/76ukokCNrlDbYvqn2QRbGa"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Move My Feet",
-      "url": "https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU"
+      "duration_ms": 198897,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/31DRIA15xwlDz2Lwz6PJOx"
     },
     {
-      "added_at": "2022-10-21 10:46:36",
+      "added_at": "2022-11-18 15:58:57",
       "album": {
-        "name": "Sidewindah (feat. Flirta D)",
-        "url": "https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm"
+        "name": "Drummers Mind EP",
+        "url": "https://open.spotify.com/album/6PMoVDzdggQqGjxUVv60ii"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Flirta D",
-          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
         }
       ],
-      "duration_ms": 213562,
-      "name": "Sidewindah (feat. Flirta D)",
-      "url": "https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl"
+      "duration_ms": 256614,
+      "name": "Drummers Mind - Original Edit",
+      "url": "https://open.spotify.com/track/0iq6bJBeZYstW81rYEY5yT"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -357,6 +469,22 @@
       "url": "https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN"
     },
     {
+      "added_at": "2022-11-18 15:58:57",
+      "album": {
+        "name": "NY to LA",
+        "url": "https://open.spotify.com/album/2dEumeqVokgmhe1yvJCkvl"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 173953,
+      "name": "NY to LA",
+      "url": "https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Magic",
@@ -395,6 +523,22 @@
       "duration_ms": 177081,
       "name": "Not About You",
       "url": "https://open.spotify.com/track/4rRmrn7Z5qySuAjD4Ep9bR"
+    },
+    {
+      "added_at": "2022-11-18 15:58:57",
+      "album": {
+        "name": "Caliento",
+        "url": "https://open.spotify.com/album/0dgh0dBzYh3CBWUiz47aw7"
+      },
+      "artists": [
+        {
+          "name": "GW Harrison",
+          "url": "https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4"
+        }
+      ],
+      "duration_ms": 213875,
+      "name": "Caliento",
+      "url": "https://open.spotify.com/track/5c5bFCO1suc6DpCmZ6jbRG"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1085,26 +1229,6 @@
       "url": "https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35"
     },
     {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "SHiNE",
-        "url": "https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh"
-      },
-      "artists": [
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        },
-        {
-          "name": "Broken Future",
-          "url": "https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "SHiNE",
-      "url": "https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3"
-    },
-    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "MOFO",
@@ -1135,30 +1259,6 @@
       "duration_ms": 205342,
       "name": "Sand Dunes",
       "url": "https://open.spotify.com/track/2Oh4jKif9YIlxbg8aX6Km0"
-    },
-    {
-      "added_at": "2022-09-05 07:48:42",
-      "album": {
-        "name": "Que Te Toca",
-        "url": "https://open.spotify.com/album/7ua6PisPhTsPnWFZcGKdSd"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Maceo El Perro Blanco",
-          "url": "https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6"
-        },
-        {
-          "name": "DJ Buddha",
-          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Que Te Toca",
-      "url": "https://open.spotify.com/track/7a0nmRHMV5OvH9P52LhMaJ"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1313,34 +1413,6 @@
       "url": "https://open.spotify.com/track/4dDpTrqAAddlGRpgBCsuaS"
     },
     {
-      "added_at": "2022-09-05 07:48:42",
-      "album": {
-        "name": "Remember (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "Danny Howard",
-          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 199967,
-      "name": "Remember (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
-    },
-    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Moderation (At Night)",
@@ -1381,26 +1453,6 @@
       "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Spooky",
-        "url": "https://open.spotify.com/album/6UfKa4tiMxXCrc84faB64N"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Grace Galu",
-          "url": "https://open.spotify.com/artist/4ZDvMIGKnQwEJl0hIwLynN"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Spooky",
-      "url": "https://open.spotify.com/track/2strBUa5wqXflJ1P5OHPUr"
-    },
-    {
       "added_at": "2022-09-09 13:30:35",
       "album": {
         "name": "Find A Way",
@@ -1415,26 +1467,6 @@
       "duration_ms": 113251,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/5THxirvtOzQQoUL9wLldgP"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/2PEGe50ISufnP6UVzochdC"
-      },
-      "artists": [
-        {
-          "name": "Black Caviar",
-          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
-        },
-        {
-          "name": "Empher",
-          "url": "https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0"
-        }
-      ],
-      "duration_ms": 162380,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/2j05Uy6yQ9bjE5AZVK5VCe"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1523,22 +1555,6 @@
       "duration_ms": 213046,
       "name": "Moon Groove - AC Slater Remix",
       "url": "https://open.spotify.com/track/1S2iRa3oSjGHvs462CtNht"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "MOVE LIKE THIS",
-        "url": "https://open.spotify.com/album/63wc7x1Z9eROgXnpE8Q2yC"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 154139,
-      "name": "MOVE LIKE THIS",
-      "url": "https://open.spotify.com/track/0Hot8NQqkCgWmeQjJv3817"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1661,22 +1677,6 @@
       "url": "https://open.spotify.com/track/1ZvhgcnGpISg32eK7JadSe"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Echo In The Dark",
-        "url": "https://open.spotify.com/album/46QDC0lHBrJbkMQHvv8hHL"
-      },
-      "artists": [
-        {
-          "name": "LO'99",
-          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "Echo In The Dark",
-      "url": "https://open.spotify.com/track/1pjJO7KXcaIl3zGloQVi6Q"
-    },
-    {
       "added_at": "2022-07-15 18:14:48",
       "album": {
         "name": "Que Lo Que",
@@ -1711,30 +1711,6 @@
       "duration_ms": 136004,
       "name": "We Make It Pop",
       "url": "https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "B\u20acNZ",
-        "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Syaqish",
-          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
-        }
-      ],
-      "duration_ms": 245039,
-      "name": "B\u20acNZ",
-      "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1791,34 +1767,6 @@
       "duration_ms": 173333,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/2SxJOFdhIco2uHQ0Bh5TXs"
-    },
-    {
-      "added_at": "2022-09-09 13:30:35",
-      "album": {
-        "name": "Darkness Into Light (Deeper Purpose Remix)",
-        "url": "https://open.spotify.com/album/3AFcQUsyFuyWn5CITs8BuI"
-      },
-      "artists": [
-        {
-          "name": "Tommy Trash",
-          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
-        },
-        {
-          "name": "Go Freek",
-          "url": "https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6"
-        },
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        },
-        {
-          "name": "Lucy Lucy",
-          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Darkness Into Light (Deeper Purpose Remix)",
-      "url": "https://open.spotify.com/track/6Hq2DcaM4JI2eHfrFcdrFX"
     },
     {
       "added_at": "2022-09-09 13:30:35",

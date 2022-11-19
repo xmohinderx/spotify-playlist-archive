@@ -3305,7 +3305,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 227158,
       "name": "F\u00f6rbjudet land",
       "url": "https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD"
@@ -5995,10 +5995,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 186818,
       "name": "L\u00e5t mig g\u00e5",
       "url": "https://open.spotify.com/track/0NXqhf7bDVLz8fGUVyzajw"
+    },
+    {
+      "album": {
+        "name": "L\u00e5t mig g\u00e5",
+        "url": "https://open.spotify.com/album/4fU7tWWq6MAiOq5g7RDqAn"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "L\u00e5t mig g\u00e5",
+      "url": "https://open.spotify.com/track/4tlGcxLzdWUxrabEPpflvC"
     },
     {
       "album": {
@@ -8897,7 +8915,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 168437,
       "name": "space",
       "url": "https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI"

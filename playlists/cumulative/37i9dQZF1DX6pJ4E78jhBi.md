@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-55 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
+58 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/2eUZZpj5a46keLF8ml7reF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,14 @@
 | [I Wonder as I Wander](https://open.spotify.com/track/4MgmjwYiDDj7h0MZF8Km5m) | [Barron Ryan](https://open.spotify.com/artist/4gj7WndN1VykJMR3z4j9to) | [I Wonder as I Wander](https://open.spotify.com/album/5djuC60i0uFWvVhYbGLvOe) | 4:46 | 2021-12-16 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/2AlhKcEFRYnlvtt5FyYmR5) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [I'll Be Home for Christmas](https://open.spotify.com/album/0z3OrHSOvYlME9tNVajV8n) | 4:21 | 2021-12-16 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/5npbKR3fjmyfnYY1RtjxGc) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [I'll Be Home for Christmas](https://open.spotify.com/album/6ABJT39u4YaKGD33L3080f) | 4:21 | 2021-12-16 | 2022-07-29 |
+| [In Dulci Jubilo](https://open.spotify.com/track/5Al7jcNFVr6sPXmO2jZpjX) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [In Dulci Jubilo](https://open.spotify.com/album/6g98k09O6i2x5RDn4hOPWQ) | 3:39 | 2022-11-18 |  |
 | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/track/6dAWKg1egU4uBjLGj2EUL3) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [In the Bleak Midwinter \(Arr\. for Piano by Martin Stadtfeld\)](https://open.spotify.com/album/6ud4LYbVUC9gd8EvKGOrWT) | 2:06 | 2021-12-16 |  |
 | [In the Bleak Midwinter, H\. 73, No\. 1](https://open.spotify.com/track/1wrHwFpnwV4snllIwRMa1y) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [London Chamber Orchestra](https://open.spotify.com/artist/1ucDa7qmi9SfqfSqES9iXZ), [Christopher Warren\-Green](https://open.spotify.com/artist/6exISmHxzPKtfKOWwkVHwK) | [Midwinter's Eve \- Music for Christmas](https://open.spotify.com/album/7DOdHPkADua4PT6yyP60GE) | 3:17 | 2021-12-16 |  |
 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/6MAC5m83LjGzldqDBvKJ5q) | [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Cliff Masterson](https://open.spotify.com/artist/0cUh2BRVeZhzTX9dfQBx3e) | [Carols Without Words](https://open.spotify.com/album/2vsG13X4JWVDyx7kXua8HJ) | 4:11 | 2022-11-11 |  |
+| [Largo From Winter](https://open.spotify.com/track/6qNxvuKuLORieVbQeKauYe) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Largo From Winter](https://open.spotify.com/album/060kov0LwToXCEdgQsYbac) | 3:48 | 2022-11-18 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-12-16 |  |
 | [Lo How a Rose](https://open.spotify.com/track/6iezLIgYm0LAQdLlRQzXC3) | [Winter Harp Ensemble](https://open.spotify.com/artist/4WX6y7CG68HnwLAwC2IkQw), [Lori Pappajohn](https://open.spotify.com/artist/61RcUdOwqcuSYE2rMLy0YL) | [A Night in Winter](https://open.spotify.com/album/5I28ceSFOIzyyEF3jGBVkf) | 4:11 | 2021-12-16 |  |
+| [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 | 2022-11-18 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/0wwQHm22k4V0eoqLXLdd8E) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/7EoYR3CpzVLDng5B6hbIbP) | 2:20 | 2022-10-14 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/4WehDMVkpIxLPCltba3JFs) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [O Come All Ye Faithful](https://open.spotify.com/album/6pM5sjp8nekGKbMS6KDJ9i) | 2:20 | 2021-12-16 | 2022-10-17 |
 | [O Come All Ye Faithful](https://open.spotify.com/track/6lNQuXMNa4qdkny0gzgbeV) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [A Cello Christmas](https://open.spotify.com/album/0pciEObXXUDRudyHwJrgj7) | 2:32 | 2021-12-16 |  |

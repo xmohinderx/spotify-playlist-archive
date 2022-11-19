@@ -1790,6 +1790,40 @@
     },
     {
       "album": {
+        "name": "Escape (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Kx5",
+          "url": "https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY"
+        },
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225103,
+      "name": "Escape - Subtronics Remix",
+      "url": "https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM"
+    },
+    {
+      "album": {
         "name": "Everybody Move",
         "url": "https://open.spotify.com/album/444TIRJsZxH1sCg9OLjXI8"
       },
@@ -5019,7 +5053,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 178993,
       "name": "Tekno",
       "url": "https://open.spotify.com/track/6hYN3gHSUms5zLX8LuYSBQ"

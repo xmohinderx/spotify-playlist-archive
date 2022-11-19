@@ -2,9 +2,9 @@
 
 ### [声優、歌う \-Sing Like Talking\-](https://open.spotify.com/playlist/37i9dQZF1DXc7RvXTzD4rW)
 
-> A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 宮野真守
+> A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 夏川椎菜
 
-143 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
+147 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/5RQGiwmI9wGlhuVRQit3UC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [ALRIGHT!](https://open.spotify.com/track/0V4AQZP769SHFH513BNqsZ) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/6tfuzGK6gBxZlZgM0PUmWV) | 4:27 | 2022-08-05 | 2022-08-31 |
 | [Anohino Kotoba](https://open.spotify.com/track/4moDgpmTBcPRgnjlIsl06x) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Anohino Kotoba / Growing](https://open.spotify.com/album/4wQkizefy1kn55yYWgZOkQ) | 4:26 | 2022-07-13 | 2022-10-01 |
 | [Anohino Kotoba](https://open.spotify.com/track/2LmURPmnlTJCHIMBRMCqON) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Welcome to MY WONDERLAND](https://open.spotify.com/album/0yReU2G889wJ9bJmNnGhHb) | 4:27 | 2022-09-22 | 2022-11-03 |
+| [Atarimae](https://open.spotify.com/track/59RdrGoDM2L9eWjI2PcCpw) | [入野自由](https://open.spotify.com/artist/5CPe7cGY1bB20e6Tbv4XVQ) | [NO CONCEPT](https://open.spotify.com/album/0lijekjn4uTYjgA86q7z8p) | 3:23 | 2022-11-18 |  |
 | [Balancing Journey](https://open.spotify.com/track/107RMsLmjx9FnzjqASJMW3) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [Balancing Journey](https://open.spotify.com/album/4SutUtj3aibooPa7eTVPrA) | 4:38 | 2022-05-31 | 2022-06-24 |
 | [Believe like Singing.](https://open.spotify.com/track/4ZEM3UVwAeCwgUnSvHbSE6) | [ヒーラーガールズ](https://open.spotify.com/artist/1HuPt90wb4ycLPW6YijtWC) | [Feel You, Heal You / Believe like Singing.](https://open.spotify.com/album/4TOTSqfdXDVgTdGjbUGY03) | 4:21 | 2022-05-31 | 2022-11-03 |
 | [BRAVE MAKER](https://open.spotify.com/track/3lAS7UmRdhO1WWQ5JeTf7e) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [BRAVE MAKER](https://open.spotify.com/album/0q6OWDdl3GH2dJKhPfWG20) | 3:38 | 2022-05-31 | 2022-06-24 |
@@ -25,10 +26,10 @@
 | [Chasing the dream](https://open.spotify.com/track/2Q2jRvS2oH51628ehkAy7G) | [鈴木杏奈](https://open.spotify.com/artist/1rurXiTSARlQc9Q3ybRuwX) | [Chasing the dream](https://open.spotify.com/album/09G1k7U5XlLLtSfSBWUjFr) | 4:23 | 2022-05-31 | 2022-11-03 |
 | [Cherish](https://open.spotify.com/track/75JrIwCm1B9TZKEApI7efu) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Cherish](https://open.spotify.com/album/4Zl4uHNwNEnNXbLDjdO6Ub) | 3:30 | 2022-05-31 | 2022-07-14 |
 | [Congrats!!\(with Friends\)](https://open.spotify.com/track/7AauH6WocFaN2tvXEbHl40) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF), [内田雄馬 with 石川界人, 榎木淳弥, 斉藤壮馬, 畠中祐, 花江夏樹, 八代拓](https://open.spotify.com/artist/5OvhqL1GnYZavu83YiOkDo) | [Congrats!!](https://open.spotify.com/album/3U0KKN2FVOuGAYHDQf9Wwy) | 4:17 | 2022-09-22 |  |
-| [CROSS A LINE](https://open.spotify.com/track/4XavZrAn9OxuRDz0mbOidg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 5:20 | 2022-06-23 |  |
+| [CROSS A LINE](https://open.spotify.com/track/4XavZrAn9OxuRDz0mbOidg) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 5:20 | 2022-06-23 | 2022-11-19 |
 | [Cry for the Moon](https://open.spotify.com/track/4H16CvnP6NOExQYO1DY2of) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [流星列車](https://open.spotify.com/album/43fD05oNZfTmSg6UZWo6UG) | 4:02 | 2022-05-31 | 2022-08-31 |
 | [Deneb and Spica](https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Deneb and Spica](https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g) | 4:27 | 2022-07-13 |  |
-| [Dgaf \- S\-quad](https://open.spotify.com/track/1Pf3nj0VJyU5Inx71BicLw) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [Dgaf \(S\-quad\)](https://open.spotify.com/album/25GeWfdU4YzEVh9IiedLSt) | 3:07 | 2022-07-13 |  |
+| [Dgaf \- S\-quad](https://open.spotify.com/track/1Pf3nj0VJyU5Inx71BicLw) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [Dgaf \(S\-quad\)](https://open.spotify.com/album/25GeWfdU4YzEVh9IiedLSt) | 3:07 | 2022-07-13 | 2022-11-19 |
 | [DGAF \- S\-quad](https://open.spotify.com/track/23KRMrBfqmPLnXVGlLTTYH) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [DGAF\(S\-quad\)](https://open.spotify.com/album/2aufQhE2LsciY5jIdYI364) | 3:07 | 2022-07-13 | 2022-07-29 |
 | [eclatante](https://open.spotify.com/track/112WDXECopsAdtn7SsMP0x) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [eclatante](https://open.spotify.com/album/5hKIOSEGI4lWBtgh8by38x) | 4:21 | 2022-07-13 | 2022-08-06 |
 | [Esquisse](https://open.spotify.com/track/3ntiFciUGTZcTzheQz56h9) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/4pVpioTvYdQ01Dt9u4INXw) | 5:08 | 2022-09-22 | 2022-11-13 |
@@ -47,7 +48,7 @@
 | [Good mood](https://open.spotify.com/track/2nB5UUWUMqHLRrsOR42KA8) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Good mood](https://open.spotify.com/album/6zvFWzaDQzIr7cQVOOBhTW) | 4:18 | 2022-05-31 | 2022-07-14 |
 | [Gotoubun no Kiseki](https://open.spotify.com/track/2AwBIdLN9ctHkCLSAMh27c) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Kiseki](https://open.spotify.com/album/5Q8K6uKltxF0H7qR6CTnoI) | 4:09 | 2022-07-13 | 2022-09-23 |
 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-08-05 | 2022-11-03 |
-| [HOLY TALE](https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:58 | 2022-07-13 |  |
+| [HOLY TALE](https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:58 | 2022-07-13 | 2022-11-19 |
 | [I wanted to do](https://open.spotify.com/track/2en209WYMA55IB61O0x2sL) | [Aki Toyosaki](https://open.spotify.com/artist/6aieZOzFuKqDoq1QWdZEEP) | [シャッフル \-Precious 4 Stars\-](https://open.spotify.com/album/1Tok6e8q3GraJP63lgmTSe) | 3:21 | 2022-05-31 | 2022-08-06 |
 | [I'm a HERO \- High Five](https://open.spotify.com/track/2ptfW47ScGIjqV6xR5NciI) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [I'm a HERO\(High Five\)](https://open.spotify.com/album/1IwIOH2jQXpod1U2ZzOGd1) | 3:56 | 2022-06-23 | 2022-07-14 |
 | [ICHIBANBOSHI SONORITY](https://open.spotify.com/track/4ogyl3j9wSTM0YLiXrkC5t) | [Yuka Iguchi](https://open.spotify.com/artist/2pEoqcvCSXliNrd8peAUiP) | [ENDING THEME FROM TV SERIES ”UNCLE FROM ANOTHER WORLD”](https://open.spotify.com/album/2ur6B0p344bM6CHn7PNJu0) | 4:14 | 2022-08-30 | 2022-11-03 |
@@ -63,6 +64,7 @@
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-22 |  |
 | [Michikusa](https://open.spotify.com/track/1sMsGkaKnv4x1F0ssDJcQp) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Michikusa](https://open.spotify.com/album/4lHjeSfvndzpJcpUQBPYRS) | 4:04 | 2022-07-13 | 2022-08-31 |
 | [Midnight Dancer](https://open.spotify.com/track/13uO9ybQF9TpUoXznKDKGy) | [Toshiki Masuda](https://open.spotify.com/artist/1Qz3LZxddVIJwD19VdTkE2) | [Midnight Dancer](https://open.spotify.com/album/7bbT7SAXzE3cOm4Sia53Jy) | 3:37 | 2022-05-31 | 2022-08-31 |
+| [more<STRONGLY](https://open.spotify.com/track/3i1AGed6mcym5gbF02oPDm) | [黒崎真音](https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E) | [more<STRONGLY](https://open.spotify.com/album/2b53se6W2pO6rMbQ0OkSao) | 5:01 | 2022-11-18 |  |
 | [Only My Story](https://open.spotify.com/track/0w3THtjQhu09ujdulaP4WZ) | [Shirai Yusuke](https://open.spotify.com/artist/1ccP8i48kDMJVsHt2GM6io) | [11\-Eleven\-](https://open.spotify.com/album/3FwWnmYRq6bdES3Zszblgx) | 3:21 | 2022-08-30 | 2022-09-23 |
 | [OveR](https://open.spotify.com/track/4zkoAH6gFmFXkGI4oIbUDf) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/1tDtjs2Ys6xIdc9UQywigo) | 4:06 | 2022-05-31 | 2022-09-23 |
 | [Page](https://open.spotify.com/track/7o840hKh2apRUScyJLpdvh) | [青山吉能](https://open.spotify.com/artist/41AMM7nACzTXN8OCVTsFvP) | [Page](https://open.spotify.com/album/20529PQLvWrojRnsO7MlAG) | 3:55 | 2022-05-31 | 2022-08-06 |
@@ -79,6 +81,7 @@
 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 | 2022-07-13 |  |
 | [ta・ta・tarte♪](https://open.spotify.com/track/4C0WeaBiOXUzp9x4I3KbTO) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Tarte](https://open.spotify.com/album/5iXDEg9K3ne75qQG7EzVxR) | 4:01 | 2022-05-31 | 2022-08-06 |
 | [Tear of Will](https://open.spotify.com/track/5V8qhD9u4XLGxaXWZBfZXR) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Tear of Will](https://open.spotify.com/album/05jXEfMQhjc1Q9U9H4jndu) | 4:29 | 2022-11-02 |  |
+| [Tears Jewel](https://open.spotify.com/track/5g5EmGmq6cYSuJan0gIlXE) | [永塚拓馬](https://open.spotify.com/artist/1gJ26DK199hFjpLAv8UvPg) | [Jewel](https://open.spotify.com/album/28gvT9yWbfSljtWqXzf469) | 3:55 | 2022-11-18 |  |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9) | 3:26 | 2022-11-02 |  |
 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 | 2022-08-30 |  |
 | [Tokimeki Rendez\-vous](https://open.spotify.com/track/2nSw47CKuDzoChZC5KbpCW) | [shami momo](https://open.spotify.com/artist/1ZUD2c0oZ3X1LbKquXsi5x) | [Yoikagen Tetragon/Tokimeki Rendez\-vous](https://open.spotify.com/album/7DeKG9rQN4KlYR1lAg4zvI) | 3:53 | 2022-07-13 | 2022-09-23 |
@@ -105,7 +108,7 @@
 | [みちくさ](https://open.spotify.com/track/3gH7Af4Y7FTuPAclJQdma8) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [みちくさ](https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS) | 4:04 | 2022-05-31 | 2022-07-29 |
 | [もうひとくち](https://open.spotify.com/track/0OI5ER4W0AQr5YAdMKSIur) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [もうひとくち](https://open.spotify.com/album/5iGHRerQh0pBeI6JHOTUVM) | 3:56 | 2022-05-31 | 2022-06-24 |
 | [ゆびさきから](https://open.spotify.com/track/2Msl16KlaFbK3GwDxHw1qe) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ちょっとそこまで昨日を迎えに](https://open.spotify.com/album/6isd33tinRAlYHU5Nq0znS) | 4:15 | 2022-05-31 | 2022-09-23 |
-| [イッパイアッテナ](https://open.spotify.com/track/1Dk02TAykLIuwesDG2G2jx) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [イッパイアッテナ](https://open.spotify.com/album/4BLiWKbbYPgtSBN7gMioP2) | 3:56 | 2022-07-13 |  |
+| [イッパイアッテナ](https://open.spotify.com/track/1Dk02TAykLIuwesDG2G2jx) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [イッパイアッテナ](https://open.spotify.com/album/4BLiWKbbYPgtSBN7gMioP2) | 3:56 | 2022-07-13 | 2022-11-19 |
 | [インフィニット](https://open.spotify.com/track/6b4f78XcnPlxOJpNjmD2j8) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [インフィニット](https://open.spotify.com/album/32PkEDbpR6T1uLpt5r43r7) | 4:12 | 2022-07-13 | 2022-08-06 |
 | [インフィニット](https://open.spotify.com/track/0atXJP0z2gQb5ugEeUbard) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [BLOOMING](https://open.spotify.com/album/3VKwasBzLGIlOWoBVAhtQD) | 4:13 | 2022-08-30 |  |
 | [エクリプス](https://open.spotify.com/track/2JeLniD4bXVqmsDHFrccBx) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [エクリプス](https://open.spotify.com/album/6rGaUpBPHfsQlvLYSpwpYG) | 3:23 | 2022-11-02 |  |
@@ -148,6 +151,7 @@
 | [聴こえる?](https://open.spotify.com/track/7GcvnBOg6XvRLSiZkbMxMf) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [聴こえる?](https://open.spotify.com/album/4EHOHkOBpbMRs8JCjzt4T8) | 4:05 | 2022-05-31 | 2022-07-29 |
 | [色違いの糸束](https://open.spotify.com/track/5xPI7VtyFnqbGYmfpcYstH) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [色違いの糸束](https://open.spotify.com/album/6BvvtGIXs0hVyBWq758vUo) | 4:28 | 2022-08-05 | 2022-08-31 |
 | [荊棘輪舞曲](https://open.spotify.com/track/2IN8nMFDFzZUTIMijQf4VS) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [荊棘輪舞曲 \(アニメ盤\)](https://open.spotify.com/album/79XFLkM5vF2HdkpsaQoaND) | 4:20 | 2022-06-23 | 2022-11-03 |
+| [輪廻のパラドクス](https://open.spotify.com/track/4pse20eO6UxqETzbOQd86V) | [Kleissis](https://open.spotify.com/artist/7yQ3JBUyIQV1tOusKvRTXM) | [輪廻のパラドクス](https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq) | 4:22 | 2022-11-18 |  |
 | [遣らずの雨](https://open.spotify.com/track/6vQ8WVHugsqwRYxU68mdu8) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [遣らずの雨](https://open.spotify.com/album/4y7XFPKaws67aaYusg0md8) | 4:10 | 2022-06-23 | 2022-08-06 |
 | [青100色](https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [青100色 \(TVアニメ「古見さんは、コミュ症です。」オープニング・テーマ\)](https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy) | 3:56 | 2022-05-31 | 2022-08-31 |
 | [駆け引きはポーカーフェイス](https://open.spotify.com/track/2rndtIOj7hxQ5Mhv2s5CqP) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [駆け引きはポーカーフェイス](https://open.spotify.com/album/1yy1XesRCfw0BGJRM4Gky6) | 3:55 | 2022-07-13 | 2022-07-29 |

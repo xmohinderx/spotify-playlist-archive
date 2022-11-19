@@ -4,7 +4,7 @@
 
 > A fresh spin on your favourite tunes \- Instrumental lofi covers for chill, work and play.
 
-131 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
+132 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/0iwVMDx4NSRh0sfP026H4E)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dance Monkey \- lofi version](https://open.spotify.com/track/17DdnBLc7zGBiPeS6mT6PR) | [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8), [lofi.remixes](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX) | [LoFi Covers of 2020 by Golden Era \- An Epic LoFi Edit Collection](https://open.spotify.com/album/6fmm45uHKdFF6wgeAyXa4d) | 3:11 | 2022-09-02 |  |
 | [DEAR APRIL](https://open.spotify.com/track/5R2ZqLZeKRzAEH1eehC4LM) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [Cover Art](https://open.spotify.com/album/494oa37Z1PTRpKolGp5JO8) | 2:15 | 2022-09-02 |  |
 | [Do It To It](https://open.spotify.com/track/5JzL1hreVuaZO4Ukl2NemJ) | [OnD\-tox](https://open.spotify.com/artist/2P1XPAaJbnw7MjbV2g9Vxz) | [Do It To It](https://open.spotify.com/album/5tFPmOK4QrhiMtoqratw9g) | 2:41 | 2022-11-11 |  |
+| [Dog Days Are Over \- Lofi Version](https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl) | [Dog Days Are Over \(Lofi Version\)](https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve) | 2:15 | 2022-11-18 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5NptWVOhMkCcbeiHFVcEU3) | [<3BEAT](https://open.spotify.com/artist/1GXEDNbnO4Zq5DSNfayzN5) | [Feelin' Cute](https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12) | 4:15 | 2022-09-02 |  |
 | [don't speak](https://open.spotify.com/track/1UPLRT8BIUOn6K08YlnCAQ) | [Mushhi](https://open.spotify.com/artist/1NtM12STZroHO6boHGnnAk) | [don't speak](https://open.spotify.com/album/1lCpNYABTYW8fDKWBbkRLK) | 2:17 | 2022-11-11 |  |
 | [Don´t Stop me Now](https://open.spotify.com/track/4rnAbHyfJWhKraJs01UUCx) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Don´t Stop me Now](https://open.spotify.com/album/1fNxqpgalp51oWvmB0j6bG) | 2:39 | 2022-11-11 |  |

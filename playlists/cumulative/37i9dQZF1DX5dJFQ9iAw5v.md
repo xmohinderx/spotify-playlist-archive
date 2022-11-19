@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-88 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
+89 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/34pOQEeViNfqKIxC13NqiC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [El Reino del Revés](https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie), [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [El Reino del Revés](https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx) | 3:36 | 2022-08-12 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Jazz Bazar II \(feat\. Patán Vidal\)](https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv) | 3:18 | 2022-08-12 |  |
 | [En Busca de la Tierra Sin Mal](https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 3:52 | 2022-08-12 |  |
+| [En el fondo del mar](https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [En el fondo del mar](https://open.spotify.com/album/2le5rS0useInfiwUH6D0en) | 6:07 | 2022-11-18 |  |
 | [Entrada al Jardín de Ordóñez](https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 1:54 | 2022-08-12 |  |
 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 | 2022-08-12 |  |
 | [Estambul](https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:55 | 2022-08-12 |  |
@@ -57,7 +58,7 @@
 | [Juventud](https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [Manto de Carne](https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH) | 5:14 | 2022-09-09 | 2022-09-11 |
 | [Kua Nalu](https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 7:16 | 2022-08-12 |  |
 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 | 2022-08-12 |  |
-| [Lago de Forma Mía \- En Vivo](https://open.spotify.com/track/6X93eJyebGn9Ij6QWqNeT9) | [Hernán Jacinto Trío](https://open.spotify.com/artist/3rEYWsUIZi9p21uqEwrOyq) | [Live At CCK \(En Vivo\)](https://open.spotify.com/album/0moewfR5pB4Z35cdT8MExB) | 8:02 | 2022-09-23 |  |
+| [Lago de Forma Mía \- En Vivo](https://open.spotify.com/track/6X93eJyebGn9Ij6QWqNeT9) | [Hernán Jacinto Trío](https://open.spotify.com/artist/3rEYWsUIZi9p21uqEwrOyq) | [Live At CCK \(En Vivo\)](https://open.spotify.com/album/0moewfR5pB4Z35cdT8MExB) | 8:02 | 2022-09-23 | 2022-11-19 |
 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 | 2022-08-12 |  |
 | [Latin Bebop](https://open.spotify.com/track/72uwqT49RJQLP8FaQFrV8Z) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 2:55 | 2022-08-12 |  |
 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 | 2022-08-12 |  |

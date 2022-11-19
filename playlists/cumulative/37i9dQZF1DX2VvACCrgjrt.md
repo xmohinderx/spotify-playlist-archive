@@ -2,9 +2,9 @@
 
 ### [Nasty Bits](https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt)
 
-> Real nasty house\. Cover: DJ Snake
+> Real nasty house\. Cover: Nostalgix
 
-361 songs - 19 hr 22 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+362 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Gang](https://open.spotify.com/track/5qgVNZ0HnvTu7EK2ycD4vU) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Nogun](https://open.spotify.com/artist/5pRtinjGliVYMsnN5M8smL) | [Gang](https://open.spotify.com/album/4PPoiXbpD281VlZw9qvowK) | 2:21 | 2022-03-18 | 2022-04-21 |
 | [Gang Gang](https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [Gang Gang](https://open.spotify.com/album/2UoDlleSyih3WgzHZYBElH) | 3:33 | 2022-10-28 |  |
 | [Get Back](https://open.spotify.com/track/1wb3vmzdosCuTwmbe5MYyC) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt) | [Get Back](https://open.spotify.com/album/2SvCL6QsVaFiRiEKwwLAas) | 2:24 | 2022-03-04 | 2022-11-14 |
-| [Get Crunk](https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX) | [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Get Crunk](https://open.spotify.com/album/0VLd7OnvNoJOdYPOPFzfC1) | 3:08 | 2022-03-18 |  |
+| [Get Crunk](https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX) | [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Get Crunk](https://open.spotify.com/album/0VLd7OnvNoJOdYPOPFzfC1) | 3:08 | 2022-03-18 | 2022-11-19 |
 | [Get Down](https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Night Bass](https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw) | [Night Bass Freshmen Vol 7](https://open.spotify.com/album/7yWb9vlqKtOF1Mbdc3tIS9) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [Get In](https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Get In](https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu) | 3:56 | 2021-10-29 | 2022-04-21 |
 | [Get It](https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Get It](https://open.spotify.com/album/3R0jtfmlb4Xd8zQOusrqNT) | 3:38 | 2022-03-25 | 2022-11-14 |
@@ -248,6 +248,7 @@
 | [Outer Space](https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Outer Space](https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY) | 3:12 | 2022-11-11 |  |
 | [Over You](https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Over You](https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr) | 3:07 | 2022-04-22 |  |
 | [Overthinkin'](https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg) | [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Overthinkin'](https://open.spotify.com/album/5uTmgjfsvn20jTcVrInbyH) | 4:59 | 2022-05-27 | 2022-09-03 |
+| [Party All Night](https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Chi City](https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF) | [Supah Fly](https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0) | 2:25 | 2022-11-18 |  |
 | [Pass](https://open.spotify.com/track/1RrTBlXTL0S4ny1KaqGZIe) | [Bassani](https://open.spotify.com/artist/47g7XpOmuBClZV47fdNvux) | [Awake](https://open.spotify.com/album/1rKAlRLrD5XX1Zy9OrKbJD) | 3:10 | 2021-10-29 | 2022-05-07 |
 | [Pick Your Battles \- Malaa Remix](https://open.spotify.com/track/4v4kiKe8FM3WTQkZQ2Nqu7) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Pick Your Battles \(Malaa Remix\)](https://open.spotify.com/album/4qs4lxuG4zMkCQv1HL90Pb) | 4:12 | 2021-10-29 | 2022-05-28 |
 | [Pina Colada](https://open.spotify.com/track/1uPwBcCxY6Hi7hzugbgwZ0) | [Barlas & Mert](https://open.spotify.com/artist/7EUoayuA45Swh5j4TYxrYd) | [Pina Colada](https://open.spotify.com/album/7gblMjdlmXvmI5SZWBP7wh) | 2:53 | 2021-10-29 | 2022-04-23 |

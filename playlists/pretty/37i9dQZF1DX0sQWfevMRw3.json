@@ -1,12 +1,12 @@
 {
   "description": "Ahh ingen g\u00f6r det som oss!!!",
-  "num_followers": 114015,
+  "num_followers": 113889,
   "original_name": "30 km/h",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyNjA2MCwwMDAwMDAwMDNiOWZiYjZmZDgxNzFhMjg2NzY1MWU4NzU2MzNjNjNk",
+  "snapshot_id": "MTY2ODc2MzE4MiwwMDAwMDAwMDk3NTRmYzg4Mjk3NDQxYzI4ZDI5MjEyNTJlYjA3YTZh",
   "tracks": [
     {
       "added_at": "2022-11-17 23:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 137942,
       "name": "Hjertel\u00f8s",
       "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
+    },
+    {
+      "added_at": "2022-11-17 23:01:00",
+      "album": {
+        "name": "Skavlan",
+        "url": "https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        },
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        }
+      ],
+      "duration_ms": 115906,
+      "name": "Skavlan",
+      "url": "https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU"
     },
     {
       "added_at": "2022-11-17 23:01:00",
@@ -111,26 +131,6 @@
       "duration_ms": 167760,
       "name": "F*CKED UP!",
       "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
-    },
-    {
-      "added_at": "2022-11-17 23:01:00",
-      "album": {
-        "name": "Skavlan",
-        "url": "https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        },
-        {
-          "name": "Hjorterud All\u00e9",
-          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
-        }
-      ],
-      "duration_ms": 115906,
-      "name": "Skavlan",
-      "url": "https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU"
     },
     {
       "added_at": "2022-11-17 23:01:00",

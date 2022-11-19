@@ -4,7 +4,7 @@
 
 > Lo\-Fi, Beats, for Study and Focus..\. but around the Holidays.
 
-130 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/0oHyJtp2nujyesfCs8zAlr)
+132 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/0oHyJtp2nujyesfCs8zAlr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Loving](https://open.spotify.com/track/18S4giQbwxjSQq1fmfP3zF) | [Clef Hart](https://open.spotify.com/artist/237yNBnvy4Z2KYKuc1gXxI) | [Loving](https://open.spotify.com/album/4m9t5zgwMIGSxh3smHpLJ9) | 2:16 | 2021-09-09 | 2022-10-29 |
 | [Meadow](https://open.spotify.com/track/3HI517soZ95tHLimEH1I05) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [Dayle](https://open.spotify.com/artist/6hfizRMps5TUhm6Khvx58X) | [Meadow](https://open.spotify.com/album/0iysstOhIlUBKzrFPEszKj) | 2:02 | 2021-09-09 | 2022-10-29 |
 | [Meaning](https://open.spotify.com/track/5XaQSZH4hpjqllg4igLa9W) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Meaning](https://open.spotify.com/album/3J7804I4aIBPlab3HMIDR1) | 2:30 | 2021-09-09 | 2022-10-29 |
+| [merry christmas](https://open.spotify.com/track/0b68v7CtjEcjTCHUjOnhmD) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [orange blue](https://open.spotify.com/album/3ThHnxWZkHeOUmGNOzPxEW) | 1:36 | 2022-11-18 |  |
 | [Mün](https://open.spotify.com/track/2WgYWIv7F7DaZVdZyxm84l) | [brillion.](https://open.spotify.com/artist/77aATgrzmuoRjmqxPcEIHU), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Mün](https://open.spotify.com/album/2mkGqOYGIwtx2QWET2hubO) | 2:35 | 2021-09-09 | 2022-10-29 |
 | [Noches IntimaXx](https://open.spotify.com/track/5ECbVbqSsshnGw6wPPNAQS) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Noches IntimaXx](https://open.spotify.com/album/7eXs9Nt1zd979rPgQCBY8n) | 2:47 | 2021-09-09 | 2022-10-29 |
 | [Nujabes Christmas Party](https://open.spotify.com/track/5y11yVtii5tzfBRbgcc8fs) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [The Engelwood Christmas Special Rewrapped](https://open.spotify.com/album/0bfOqXk3H5wqzpBizvUhRG) | 1:37 | 2022-10-28 |  |
@@ -122,6 +123,7 @@
 | [The Abstract](https://open.spotify.com/track/57hVuCyHtjstClsPmEaTx0) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms) | [The Abstract](https://open.spotify.com/album/4XoLIAKywxKY3rMqSo12OS) | 1:13 | 2021-09-09 | 2022-10-29 |
 | [The Little Drummer Boy \- LOUALLDAY Lofi Flip](https://open.spotify.com/track/6sufXyokCJgkXKeySyfolN) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [LOUALLDAY](https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm), [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce) | [Christmas In Lofi](https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ) | 1:43 | 2022-10-28 |  |
 | [The Nutcracker, Op\. 71, TH 14 / Act 2: No\. 14c Pas de deux: Variation II \(Dance of the Sugar\-Plum Fairy\) \- Slowed + Reverb](https://open.spotify.com/track/3nMJnAXyc6KfD29RHaDft6) | [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce), [Royal Concertgebouw Orchestra](https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ), [Antal Doráti](https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL) | [Snowed + Reverb](https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT) | 3:31 | 2022-10-28 |  |
+| [The Polar Express](https://open.spotify.com/track/25bA87CGHB5I8zv0a8OZPB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9) | [j a z z y c h r i s t m a s](https://open.spotify.com/album/0JIrhVD0jRVx4yxoneaIms) | 2:02 | 2022-11-18 |  |
 | [Tica](https://open.spotify.com/track/0TbP8PMzDHZjf5ocW37yto) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Tica](https://open.spotify.com/album/5jqy8FPbh0CqaprCgCUcMD) | 2:03 | 2021-09-09 | 2022-10-29 |
 | [Touching](https://open.spotify.com/track/1GTtDmAzs7Is9P9IoH8WLq) | [Clef Hart](https://open.spotify.com/artist/237yNBnvy4Z2KYKuc1gXxI) | [Touching](https://open.spotify.com/album/40NmUEL3zuBHq8CcjW5TX1) | 2:15 | 2021-09-09 | 2022-10-29 |
 | [Vast Session](https://open.spotify.com/track/4zTaijkWPXBfsS4nX0XI2k) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u) | [Study With Me](https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I) | 2:04 | 2021-09-09 | 2022-10-29 |

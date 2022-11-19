@@ -4,12 +4,13 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-136 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
+138 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/3RXQhU6kWbIikRAH2XKGj0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/track/1iz6iEzu6SLEkqXNuUtcsg) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [kahadirbartal](https://open.spotify.com/artist/7GuyqpKIBE1p4krHb0DrzK), [Laruen](https://open.spotify.com/artist/5ZEzzqHOZ2EzYJdhg4tBx3) | [Afyon Dinarı \(Remix\) \[Radio Edit\]](https://open.spotify.com/album/4tGdIZKYYE3NQqQZxwCWgx) | 3:31 | 2022-05-09 | 2022-06-01 |
 | [Agatha \- Calavera & Manya Remix](https://open.spotify.com/track/5i3iYBOnshfvs9v0gwjwzW) | [Nsc](https://open.spotify.com/artist/634YtRDQnLxKrKJUBurK6B), [Ciprian Iordache](https://open.spotify.com/artist/4HgsCYrFaSez39qwd75leN), [Adrian Eftimie](https://open.spotify.com/artist/6wEntiBaR8mQEjbuFHAOWW) | [Agatha](https://open.spotify.com/album/1Nq7QBJAcE1wq0BS79YRs5) | 6:56 | 2022-10-11 | 2022-10-14 |
+| [Ajarif](https://open.spotify.com/track/5uDvwQ9dTcGVucH5q8ngsw) | [Stranger Souma](https://open.spotify.com/artist/7FkbbDfyJiSCenRToRKbBp), [Nukad](https://open.spotify.com/artist/2UWbjvhLv8mZjANlA2ACs9) | [Ajarif](https://open.spotify.com/album/2J2obyZsyURopJhdmWT253) | 6:05 | 2022-11-18 |  |
 | [Alesta](https://open.spotify.com/track/70MDy7d6MUnf4EUqpMxzW7) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Alesta](https://open.spotify.com/album/53Hqt6SONfBWTGzwQi11xI) | 5:56 | 2022-04-13 |  |
 | [Amal](https://open.spotify.com/track/30ChfPsn6LEcXGZPnWG5yh) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens Of Eden](https://open.spotify.com/album/61068yXj9KdR7pzL36kBia) | 8:45 | 2022-07-21 |  |
 | [Amal](https://open.spotify.com/track/6mbaDJR50wBfd2LuXTKSd2) | [Arrab](https://open.spotify.com/artist/1L0yRmW7xOjMFqed4wtcp3) | [Gardens of Eden](https://open.spotify.com/album/0ht36Zhz7lluBt8vBWJRVZ) | 8:45 | 2022-04-13 | 2022-07-29 |
@@ -43,6 +44,7 @@
 | [Devran](https://open.spotify.com/track/1Br0AatwWHo8JojDNAVMWq) | [KHAIKHAN](https://open.spotify.com/artist/0EhNqmWsXRucbAgAKfac75), [Mtu](https://open.spotify.com/artist/6Ex7C22f4WX3VqVRNriiXf) | [Anadolu](https://open.spotify.com/album/5Sj7kUvO8nrmWbQDFv71MV) | 6:47 | 2022-06-27 |  |
 | [Dodoma](https://open.spotify.com/track/1eult54nuGwQsIfPL2rZOh) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/0P4IX6KeVNUXFNz4uNgCWC) | 6:35 | 2022-07-21 | 2022-09-30 |
 | [Dodoma](https://open.spotify.com/track/4d7iVgX5u3NxBM1pa72xh3) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Kemet Deep Sessions, Vol\. 1](https://open.spotify.com/album/7Djcq0KMBZlfMbva2PBla2) | 6:35 | 2022-04-13 | 2022-07-29 |
+| [Duduk](https://open.spotify.com/track/5hkEwaKH0APo8nyWO2BT6n) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Roxteel](https://open.spotify.com/artist/0xCictaICMnerRvsyLeisS) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:30 | 2022-11-18 |  |
 | [DüN](https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6) | [KeuS](https://open.spotify.com/artist/1DWdkfnG0twxn7hIrGb4YC) | [DüN](https://open.spotify.com/album/0hQnHGP8TLX88RnLDTx9SB) | 6:55 | 2022-04-13 |  |
 | [Elya](https://open.spotify.com/track/3BMyGkAvosGkqTquzNAiEr) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [Elya](https://open.spotify.com/album/4eggQ1mmUdI3o0QYdx7eVv) | 6:32 | 2022-10-13 |  |
 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 | 2022-04-13 |  |

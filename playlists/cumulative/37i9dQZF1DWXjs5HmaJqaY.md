@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-87 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
+88 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/4zXlNISwGhCKz7Rl5RQDhn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Silence](https://open.spotify.com/track/0Zir3bjDg1G2GYI0ODkE6C) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Silence](https://open.spotify.com/album/0btwONgCRI9Hu05O2vXsrE) | 8:11 | 2022-09-16 |  |
 | [Since we met \- Club Mix](https://open.spotify.com/track/37XgAvXPSzS8lKQkmYyI6b) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [Since we met](https://open.spotify.com/album/0VoNfJMeiTcWO6AwHQgbrG) | 6:19 | 2022-09-16 | 2022-11-12 |
 | [Sinner \- Edit](https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/4AG9M2nwdpNWi365BGaGu8) | 4:15 | 2022-09-16 |  |
-| [Six For Gold](https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Six For Gold](https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd) | 5:01 | 2022-09-23 |  |
+| [Six For Gold](https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Six For Gold](https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd) | 5:01 | 2022-09-23 | 2022-11-19 |
 | [So Cold](https://open.spotify.com/track/3wxiYRkslAAy8XtjvZTIxy) | [Emmanuel Top](https://open.spotify.com/artist/5y8522WHbYqJVt1jSwNSfA) | [So Cold](https://open.spotify.com/album/2OG9njNHJha0rvltAhAX4N) | 7:21 | 2022-09-16 |  |
 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/1ALwn074NZpQ7LbEknYgJh) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/album/6ArJtCbmaktBNpkHsIeAw5) | 5:15 | 2022-11-11 | 2022-11-13 |
 | [Something Half Way \(feat\. Ralf Hildenbeutel\)](https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf) | [Another Day](https://open.spotify.com/album/0vrJ2GjVQ9lavv0u74PHJn) | 5:15 | 2022-09-16 |  |
@@ -88,6 +88,7 @@
 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 | 2022-09-16 |  |
 | [To The Disco](https://open.spotify.com/track/2EsImRV5hldowTEVn7ll7h) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [Gai Barone](https://open.spotify.com/artist/6ITKskiAcS4w9egVKClT7e) | [Katermukke Playground XI](https://open.spotify.com/album/3AEn2yhRRCVW3CqzBrke8k) | 7:12 | 2022-09-16 |  |
 | [Trauma \- Worakls Remix](https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Hungry 5 \(The Best of 5 Years\)](https://open.spotify.com/album/6cjXNVPvBuQdrCbllisAbD) | 10:00 | 2022-09-16 |  |
+| [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-18 |  |
 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 | 2022-09-16 |  |
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-09-16 |  |
 | [Victoria](https://open.spotify.com/track/2ayJnyzml6TAtXRBIYwG2B) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Victoria](https://open.spotify.com/album/77xt4VI6PKWacDLscctnhk) | 4:28 | 2022-09-16 | 2022-10-28 |

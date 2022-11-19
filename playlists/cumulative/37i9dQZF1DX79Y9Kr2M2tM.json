@@ -1020,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "God Turn Me Into A Flower",
+        "url": "https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385653,
+      "name": "God Turn Me Into a Flower",
+      "url": "https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z"
       },
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 239711,
       "name": "Laugh Again",
       "url": "https://open.spotify.com/track/5ZgbBziuSI2t9D35PNEKU4"

@@ -4,7 +4,7 @@
 
 > The ultimate playlist to water your plants to.
 
-35 songs - 2 hr 6 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
+36 songs - 2 hr 8 min - [published](https://open.spotify.com/playlist/4qsoHkbHK7hopVKy8mBsRR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Plants](https://open.spotify.com/track/2FW8BM9oEft91tRVGr6gI8) | [Fruut](https://open.spotify.com/artist/5swE2ci4vj5X2DDnHlYrYw) | [Plants](https://open.spotify.com/album/35KTooHPTNp3GdfeDNnsSi) | 3:18 | 2021-05-17 |  |
 | [Sao Paulo Sunset](https://open.spotify.com/track/0vTJP35J4M1PY9iAA8UmbV) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Summer Days](https://open.spotify.com/album/4uqJIUuSpvidPfFLDkAmHP) | 3:27 | 2021-05-17 |  |
 | [Sea Creatures](https://open.spotify.com/track/6SrYiWztd4rAfYoIIYz7FL) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Before We Forgot How To Dream](https://open.spotify.com/album/0Z8DuysabM6vo3y7HSlTbA) | 3:12 | 2021-05-17 |  |
-| [september rain](https://open.spotify.com/track/1XREfGfPZGBoGP6KIKy8QR) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0f4ZcRoYPzppioLoB70vYc) | 2:15 | 2021-05-17 |  |
+| [september rain](https://open.spotify.com/track/1XREfGfPZGBoGP6KIKy8QR) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0f4ZcRoYPzppioLoB70vYc) | 2:15 | 2021-05-17 | 2022-11-19 |
+| [september rain](https://open.spotify.com/track/59dBnabeKp9oMKpl4K194C) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0ObtoFpjzJwwDeUeb8Ejyt) | 2:15 | 2021-05-17 |  |
 | [Staring Out the Window](https://open.spotify.com/track/0a9J9ZIWu6nTRR0LjdBrUm) | [Fulton Lights](https://open.spotify.com/artist/3co8dAneVL9vedCNOD5Lkb) | [3 Songs](https://open.spotify.com/album/5cDJTr4S1cldzVHEOqkMLi) | 3:01 | 2021-05-17 |  |
 | [The Fall](https://open.spotify.com/track/4aoUYp6DBRT2JjDw9qOFO5) | [Blake Leyh](https://open.spotify.com/artist/2gKgSA1quoNlsq2RnNIQu8) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 1:50 | 2021-05-17 |  |
 | [Violent \- slowed + reverb](https://open.spotify.com/track/04qNn4YcbE0O0UJXZosaQe) | [Leverutlo](https://open.spotify.com/artist/0yVpvGeAKY4QMkYUopBu7a) | [Violent \(slowed + reverb\)](https://open.spotify.com/album/6XAdZ91yspefbJXDEzgFZW) | 2:32 | 2021-05-17 |  |

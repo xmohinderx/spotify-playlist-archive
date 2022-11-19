@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 206696,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/72NT5RRg8eGfulRgc101uc"
@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 285106,
       "name": "Jesus (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/53VAehhacBAR20sZ7jXLQZ"
@@ -4345,6 +4345,24 @@
       "duration_ms": 416381,
       "name": "Walking In Freedom",
       "url": "https://open.spotify.com/track/2CpzE4aSwIZZ6hLgbwTdEd"
+    },
+    {
+      "album": {
+        "name": "Way Home",
+        "url": "https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm"
+      },
+      "artists": [
+        {
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284800,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6"
     },
     {
       "album": {

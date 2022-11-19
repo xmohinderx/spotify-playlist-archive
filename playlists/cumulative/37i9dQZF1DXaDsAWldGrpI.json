@@ -1080,6 +1080,24 @@
     },
     {
       "album": {
+        "name": "Me and My Kind (Live)",
+        "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Me and My Kind - Live",
+      "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
+    },
+    {
+      "album": {
         "name": "Speak Now World Tour Live",
         "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
       },

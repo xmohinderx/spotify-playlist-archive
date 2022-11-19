@@ -1,13 +1,121 @@
 {
   "description": "Up and down I-95. Cover: Lil Uzi Vert",
-  "num_followers": 423578,
+  "num_followers": 423507,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGRmYmFlZDU2MDdkMTE4MTYwMGJmYjEzYWQzZDlhMjI5",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDVlN2U3NDNiZDdlZjA2MzZlYmUwYTgzNGM5M2U2YTQ5",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Fuse Is Lit",
+        "url": "https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 214368,
+      "name": "Bulletproof Skin",
+      "url": "https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Take Shots (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 281985,
+      "name": "Take Shots (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Letter 2 Notti",
+        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 127397,
+      "name": "Letter 2 Notti",
+      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -25,6 +133,42 @@
       "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Why Would I Lack? (feat. SPMB Bills)",
+        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        },
+        {
+          "name": "SPMB BILLS",
+          "url": "https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS"
+        }
+      ],
+      "duration_ms": 176681,
+      "name": "Why Would I Lack? (feat. SPMB Bills)",
+      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Nobody Bigger",
+        "url": "https://open.spotify.com/album/5KqaAhpU2mJQf1DlRJfN6G"
+      },
+      "artists": [
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        }
+      ],
+      "duration_ms": 119074,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/023xjgk2PLyIhF8g112Wfp"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "King's Disease III",
@@ -39,22 +183,6 @@
       "duration_ms": 167724,
       "name": "Michael & Quincy",
       "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -93,42 +221,6 @@
       "url": "https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Why Would I Lack? (feat. SPMB Bills)",
-        "url": "https://open.spotify.com/album/0UhRHMR9Zg9kLm46BdvG9T"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        },
-        {
-          "name": "SPMB BILLS",
-          "url": "https://open.spotify.com/artist/50DbCckCwUGuAvBlktc1VS"
-        }
-      ],
-      "duration_ms": 176681,
-      "name": "Why Would I Lack? (feat. SPMB Bills)",
-      "url": "https://open.spotify.com/track/5NWnpj6yQXyBHRIJnCFELd"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Marie",
-        "url": "https://open.spotify.com/album/08Yk45EknvoQPDm5CKihVA"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/1pnwc4c5qjgxr2tVdSU4C5"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Spinnin",
@@ -151,22 +243,6 @@
       "duration_ms": 138947,
       "name": "Spinnin (with B-Lovee & Cordae)",
       "url": "https://open.spotify.com/track/1C41orKYTaul2aYazWzQ0E"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Letter 2 Notti",
-        "url": "https://open.spotify.com/album/26LCzQxgr9L97slkouEn80"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 127397,
-      "name": "Letter 2 Notti",
-      "url": "https://open.spotify.com/track/0MkrMfegYa5anzniOrK0D0"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -259,26 +335,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Take Shots (feat. Tory Lanez)",
-        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 281985,
-      "name": "Take Shots (feat. Tory Lanez)",
-      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Medula",
         "url": "https://open.spotify.com/album/4Ln0OJyMQ86d03tGXdDTGa"
       },
@@ -321,6 +377,22 @@
       "url": "https://open.spotify.com/track/2PhzrOqMV0j6oNbvSNJXKo"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Steppin On Sh!t",
+        "url": "https://open.spotify.com/album/2Tz7Ey4fXxXRJssjLOWfcS"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "duration_ms": 160446,
+      "name": "Steppin On Sh!t",
+      "url": "https://open.spotify.com/track/3bQptfCFF8jbspDdlMyDQU"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "WELLOK",
@@ -339,6 +411,22 @@
       "duration_ms": 148421,
       "name": "WELLOK",
       "url": "https://open.spotify.com/track/5O26yXtY86BpT4ZCGjS4jO"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "156 Hudson",
+        "url": "https://open.spotify.com/album/4M0kQqQhLtNtOmBQ2XhTi5"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "156 Hudson",
+      "url": "https://open.spotify.com/track/0RI9xDjzqBCpnA6kKxqyGB"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -391,6 +479,22 @@
       "duration_ms": 151578,
       "name": "Krash Out",
       "url": "https://open.spotify.com/track/0feZz6FZLnuBACiRNIVvWL"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "No Passes",
+        "url": "https://open.spotify.com/album/7vjMD8VhqQU7Yy6hS1Fm22"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 160993,
+      "name": "No Passes",
+      "url": "https://open.spotify.com/track/0BQ2Rl5wkrg9fLVDHexi1K"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -447,6 +551,22 @@
       "duration_ms": 178417,
       "name": "WRAP EM UP",
       "url": "https://open.spotify.com/track/2XZqsIRtWvPjWxGg8ag6mp"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Sweet Yamz",
+        "url": "https://open.spotify.com/album/3bPtRLwtH0jyiXzPtGGQUd"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 105194,
+      "name": "Sweet Yamz",
+      "url": "https://open.spotify.com/track/62oqxoJQYPCyjZ2ChH7foI"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -597,6 +717,26 @@
       "url": "https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "150",
+        "url": "https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr"
+      },
+      "artists": [
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        },
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "150",
+      "url": "https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Fenty",
@@ -707,26 +847,6 @@
       "duration_ms": 135384,
       "name": "Mask Up",
       "url": "https://open.spotify.com/track/11tJmNYTvo3DSZdk1Q7mAI"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Mad Max",
-        "url": "https://open.spotify.com/album/64emJGEv8oYM0DmYsOBaQ3"
-      },
-      "artists": [
-        {
-          "name": "Dougie B",
-          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
-        },
-        {
-          "name": "TG Crippy",
-          "url": "https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/4G25g9tJMVBuJt3eHkkvBZ"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -975,22 +1095,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "From The Can",
-        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "No Remorse",
-      "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "For U I Wait",
         "url": "https://open.spotify.com/album/4EWKUi80vCkFRIP2kAAG6H"
       },
@@ -1079,6 +1183,22 @@
       "duration_ms": 123480,
       "name": "WHATCHUEXPECT",
       "url": "https://open.spotify.com/track/06DkMPykiPT6roBlEi0oHY"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "40s N 9s",
+        "url": "https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 145606,
+      "name": "40s N 9s",
+      "url": "https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -1411,22 +1531,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Drill Night",
-        "url": "https://open.spotify.com/album/2qk328Q3DaR2P4iG5Pg2LR"
-      },
-      "artists": [
-        {
-          "name": "CamilosGarden",
-          "url": "https://open.spotify.com/artist/25T9vzTYeKpNjizrh4YY7B"
-        }
-      ],
-      "duration_ms": 87272,
-      "name": "Drill Foot",
-      "url": "https://open.spotify.com/track/2Iz7wAaXmO35sgKqMiLeWG"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/6XdDkPjojt5FHlGBhZcjr5"
       },
@@ -1635,22 +1739,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "40s N 9s",
-        "url": "https://open.spotify.com/album/5vGhbSeR8O9f0i0zOiZd6j"
-      },
-      "artists": [
-        {
-          "name": "DD Osama",
-          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
-        }
-      ],
-      "duration_ms": 145606,
-      "name": "40s N 9s",
-      "url": "https://open.spotify.com/track/6tApynt36Q9U9Tl7ulJyL2"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "Luv Me Again",
         "url": "https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s"
       },
@@ -1775,58 +1863,6 @@
       "duration_ms": 162236,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/7B2jL3UDbYPXO4zE1WBXw7"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Fly Sh!t",
-        "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Fly Sh!t",
-      "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "We All We Got",
-        "url": "https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 135572,
-      "name": "Falsetto (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6nrPRHGdz1ytpX2ZBZ4RGU"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Close To Me / Active",
-        "url": "https://open.spotify.com/album/0LLTJSobm3YdnJVzcfIz1q"
-      },
-      "artists": [
-        {
-          "name": "Jay Critch",
-          "url": "https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4"
-        }
-      ],
-      "duration_ms": 217895,
-      "name": "Close To Me / Active",
-      "url": "https://open.spotify.com/track/2jud9pEXGNIedccObMnMTu"
     }
   ],
   "unique_name": "State of Mind",

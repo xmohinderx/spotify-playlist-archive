@@ -1,13 +1,49 @@
 {
   "description": "BROCKHAMPTON makes anti pop.",
-  "num_followers": 674348,
+  "num_followers": 674199,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODYxNjM2MiwwMDAwMDAwMGFmM2FiMzNjYTU3MTRlNTI0NzVlZmYwMzEyMTAyZDIz",
+  "snapshot_id": "MTY2ODc4ODQ4OCwwMDAwMDAwMDAxOGMyNjhiODA0YjYxMWZkZjBmOWU3NTM2ZmE1NjEy",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "TM",
+        "url": "https://open.spotify.com/album/0EICXG4UBIAUOKVlfBGipA"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "NEW SHOES",
+      "url": "https://open.spotify.com/track/4Cy0RmJ3wVnlfdDlzqoZ1H"
+    },
+    {
+      "added_at": "2022-10-28 04:05:00",
+      "album": {
+        "name": "DIRT (feat. JPEGMAFIA)",
+        "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
+      },
+      "artists": [
+        {
+          "name": "Y2K",
+          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 238324,
+      "name": "DIRT (feat. JPEGMAFIA)",
+      "url": "https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO"
+    },
     {
       "added_at": "2022-11-16 16:32:21",
       "album": {
@@ -39,6 +75,42 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/2jkyPVk1nbpsZD0KAS98Zw"
+    },
+    {
+      "added_at": "2022-11-16 02:24:10",
+      "album": {
+        "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
+        "url": "https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne"
+      },
+      "artists": [
+        {
+          "name": "Rahul",
+          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
+      "url": "https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The Family",
+        "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 132746,
+      "name": "RZA",
+      "url": "https://open.spotify.com/track/3UNRWUp42N4Oaj1M1mcDRE"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -73,6 +145,38 @@
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Me n My Girl",
+        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 130242,
+      "name": "Me n My Girl",
+      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
+    },
+    {
+      "added_at": "2022-11-18 16:21:28",
+      "album": {
+        "name": "HOGWASH",
+        "url": "https://open.spotify.com/album/5obM1R5JkJfcnHFiXzEEsI"
+      },
+      "artists": [
+        {
+          "name": "Shy High",
+          "url": "https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "MONKEYBALL",
+      "url": "https://open.spotify.com/track/01cE88yfT1liEsHfYrSaRo"
+    },
+    {
       "added_at": "2022-11-04 06:20:00",
       "album": {
         "name": "SMITHEREENS",
@@ -87,42 +191,6 @@
       "duration_ms": 127986,
       "name": "NIGHT RIDER",
       "url": "https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I"
-    },
-    {
-      "added_at": "2022-11-04 06:20:00",
-      "album": {
-        "name": "Big Pussy",
-        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 140600,
-      "name": "Big Pussy",
-      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
-    },
-    {
-      "added_at": "2022-11-16 02:24:10",
-      "album": {
-        "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
-        "url": "https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne"
-      },
-      "artists": [
-        {
-          "name": "Rahul",
-          "url": "https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "ANECDOTE (REMIX) [feat. Teezo Touchdown]",
-      "url": "https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2"
     },
     {
       "added_at": "2022-11-11 16:34:13",
@@ -155,6 +223,26 @@
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "VIVID",
+        "url": "https://open.spotify.com/album/1fMZHcgHZ91B4vykMkhTg5"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "VIVID",
+      "url": "https://open.spotify.com/track/5XB4g7ZqHcn84DFJXwBS1i"
     },
     {
       "added_at": "2022-11-04 06:20:00",
@@ -213,24 +301,24 @@
       "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
     },
     {
-      "added_at": "2022-10-28 04:05:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "DIRT (feat. JPEGMAFIA)",
-        "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
+        "name": "Electro Devil",
+        "url": "https://open.spotify.com/album/5uQpxhjzsCMpCnbpf9awTp"
       },
       "artists": [
         {
-          "name": "Y2K",
-          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
         },
         {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
         }
       ],
-      "duration_ms": 238324,
-      "name": "DIRT (feat. JPEGMAFIA)",
-      "url": "https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO"
+      "duration_ms": 241500,
+      "name": "Electro Devil",
+      "url": "https://open.spotify.com/track/4xnQeMktACQalLtoHL0CEC"
     },
     {
       "added_at": "2022-10-28 04:05:00",
@@ -267,6 +355,22 @@
       "duration_ms": 143181,
       "name": "Sad Nebula",
       "url": "https://open.spotify.com/track/1Y8wquy34DFMRpjbOiGtxa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "endlessly",
+        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 125793,
+      "name": "endlessly",
+      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -321,6 +425,26 @@
       "url": "https://open.spotify.com/track/2LVeGtvlH8VwDJTP8EHeek"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "spend the money (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/0OANvKAXccPsVkFxyv6WJY"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 199669,
+      "name": "spend the money (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/41YVTpCekLuRWZn4YpqCAW"
+    },
+    {
       "added_at": "2022-10-25 15:42:27",
       "album": {
         "name": "I Did Drugs For You",
@@ -371,6 +495,22 @@
       "duration_ms": 179819,
       "name": "Oh God",
       "url": "https://open.spotify.com/track/3jQRh7laQ983q2bFGWpWuD"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Say What You Mean",
+        "url": "https://open.spotify.com/album/4yVGNNKjS0sx8TjgmIOua3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Chahayed",
+          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
+        }
+      ],
+      "duration_ms": 201940,
+      "name": "Say What You Mean",
+      "url": "https://open.spotify.com/track/6A1BbPDPInXWXEegx7sFg4"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -491,22 +631,6 @@
       "duration_ms": 175853,
       "name": "BBC",
       "url": "https://open.spotify.com/track/7zgsDaX02rdtq3zpdVqrpK"
-    },
-    {
-      "added_at": "2022-11-11 14:59:46",
-      "album": {
-        "name": "The Ending",
-        "url": "https://open.spotify.com/album/6U97jLY4aY4LCM3WQ17fIv"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 108226,
-      "name": "The Ending",
-      "url": "https://open.spotify.com/track/40Q1XFqWsI7JxaPLeaMpnT"
     },
     {
       "added_at": "2022-11-11 16:34:13",
@@ -1023,22 +1147,6 @@
     {
       "added_at": "2022-10-25 15:42:27",
       "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
         "name": "DANDELION",
         "url": "https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc"
       },
@@ -1147,26 +1255,6 @@
       "duration_ms": 160397,
       "name": "Doja Cat",
       "url": "https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
-        "name": "CAFFEINE",
-        "url": "https://open.spotify.com/album/7oGkeqb7ao7AWrnM03fzmB"
-      },
-      "artists": [
-        {
-          "name": "The Kount",
-          "url": "https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY"
-        },
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        }
-      ],
-      "duration_ms": 60896,
-      "name": "CAFFEINE",
-      "url": "https://open.spotify.com/track/0VCSR5J9btyZD3iklbqDRf"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -1303,22 +1391,6 @@
     {
       "added_at": "2022-10-25 15:42:27",
       "album": {
-        "name": "5 minutes til dawn",
-        "url": "https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI"
-      },
-      "artists": [
-        {
-          "name": "SAIAH",
-          "url": "https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX"
-        }
-      ],
-      "duration_ms": 156144,
-      "name": "5 minutes til dawn",
-      "url": "https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
         "name": "USERx",
         "url": "https://open.spotify.com/album/4UNgRAi66sdKKz9kNqNVWO"
       },
@@ -1343,22 +1415,6 @@
       "duration_ms": 260706,
       "name": "My Body Left My Soul (feat. Pusha T)",
       "url": "https://open.spotify.com/track/6Arc3cFHtzrT3M2l4cxJPd"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "YUKON (INTERLUDE)",
-      "url": "https://open.spotify.com/track/5IPl8JpkbtSH1mdyq5ctSx"
     },
     {
       "added_at": "2022-10-25 15:42:27",
@@ -1419,22 +1475,6 @@
     {
       "added_at": "2022-10-25 15:42:27",
       "album": {
-        "name": "cool kids",
-        "url": "https://open.spotify.com/album/57zgwmZISU2Ihn9aF1ZFiK"
-      },
-      "artists": [
-        {
-          "name": "CHRIS YONGE",
-          "url": "https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT"
-        }
-      ],
-      "duration_ms": 149341,
-      "name": "cool kids",
-      "url": "https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
         "name": "Cold Blood",
         "url": "https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk"
       },
@@ -1447,22 +1487,6 @@
       "duration_ms": 164610,
       "name": "Cold Blood",
       "url": "https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44"
-    },
-    {
-      "added_at": "2022-10-25 15:42:27",
-      "album": {
-        "name": "What Does That Make Me?",
-        "url": "https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        }
-      ],
-      "duration_ms": 173641,
-      "name": "What Does That Make Me?",
-      "url": "https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz"
     },
     {
       "added_at": "2022-10-25 15:42:27",

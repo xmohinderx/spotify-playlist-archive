@@ -3277,10 +3277,28 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 457377,
       "name": "Talom",
       "url": "https://open.spotify.com/track/3mMukwl5iDMi518Uf9usgg"
+    },
+    {
+      "album": {
+        "name": "Talom",
+        "url": "https://open.spotify.com/album/3xBNwMOvLuvVRRWCNkScZe"
+      },
+      "artists": [
+        {
+          "name": "I\u00f1igo Vontier",
+          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457377,
+      "name": "Talom",
+      "url": "https://open.spotify.com/track/6AAThdK0BAhyvQJycTfxtG"
     },
     {
       "album": {

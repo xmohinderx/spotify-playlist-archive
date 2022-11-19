@@ -1722,6 +1722,32 @@
     },
     {
       "album": {
+        "name": "Autumn Beat (from the Amazon Original Movie \"Autumn Beat\")",
+        "url": "https://open.spotify.com/album/7GIe25Owi4l2aGJEdBLbIM"
+      },
+      "artists": [
+        {
+          "name": "Abby 6ix",
+          "url": "https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Moris Ensemble Choir",
+          "url": "https://open.spotify.com/artist/0F3QxS40C5XabYdv16GWYa"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174889,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/5ZbkfiVM1iAOowcr8N62XM"
+    },
+    {
+      "album": {
         "name": "Autumn (Radio Edit / From The Amazon Original Movie \"Autumn Beat\")",
         "url": "https://open.spotify.com/album/1EqvZud1cocjjQAANVRjoa"
       },
@@ -1741,7 +1767,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 174889,
       "name": "Autumn - Radio Edit / From The Amazon Original Movie \"Autumn Beat\"",
       "url": "https://open.spotify.com/track/0PVa08UjRz559oTuGkwhmN"

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-547 songs - 1 day 7 hr 22 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
+548 songs - 1 day 7 hr 25 min - [published](https://open.spotify.com/playlist/5QuqpfHvCVk049tCrncQUc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Did You See the Sunrise?](https://open.spotify.com/track/2cB1MH2DJ5G9LivP0GTSDz) | [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Did You See the Sunrise?](https://open.spotify.com/album/5o5efTNvsUAtn0UUrmigwp) | 3:43 | 2022-10-27 |  |
 | [Did you see the sunrise?](https://open.spotify.com/track/0EU7CcoQReLDXH3gxQ2nWS) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Did you see the sunrise?](https://open.spotify.com/album/0KrSzLWONtvMW31gvcKDxa) | 3:43 | 2022-10-27 | 2022-10-29 |
 | [Distance](https://open.spotify.com/track/0SzgRifXiBPqnz4tVN8D2N) | [SpendyMily](https://open.spotify.com/artist/5yJWbZhLyZZa6u3yi0mcY0) | [Distance](https://open.spotify.com/album/7hIUhvdx5zQJcg9ppXjSdj) | 4:26 | 2022-06-16 | 2022-06-20 |
+| [Dohdatte.](https://open.spotify.com/track/2OTfuTcICjCrI2xtc4sdf3) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Tatsuya Kitani](https://open.spotify.com/artist/3YxLZDzRbeskxCOlubACis) | [Dohdatte.](https://open.spotify.com/album/0srCp2sHV9KTw80Sd22l91) | 3:18 | 2022-11-17 |  |
 | [Don't Stop the DOKKYUN!!](https://open.spotify.com/track/04SaykXEj1ZWwjqJAiTdbe) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Don't Stop the DOKKYUN!!](https://open.spotify.com/album/7mkuJn3G6P87OcuLcoKYuE) | 4:08 | 2022-07-14 | 2022-07-16 |
 | [Dorothy](https://open.spotify.com/track/3ZmHr5x6Ta89QaAIjGvmTN) | [KANKAN](https://open.spotify.com/artist/6ZnELeGt16sNYfx3CcTh9d), [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Dorothy](https://open.spotify.com/album/15HbjaFyq0GZQxpbggYPzl) | 3:02 | 2022-08-05 | 2022-08-17 |
 | [DOSOKAI](https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [DOSOKAI](https://open.spotify.com/album/1adNWaG3EwYZU1QE8kCWAf) | 2:49 | 2022-10-18 |  |
@@ -198,7 +199,7 @@
 | [ちはる \- From THE FIRST TAKE](https://open.spotify.com/track/3zxmaC0wPYQx4yN6F3YPBw) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [n\-buna from ヨルシカ](https://open.spotify.com/artist/04t2v5rbMcCuLcaczJY6mM) | [ちはる \- From THE FIRST TAKE](https://open.spotify.com/album/5mJZRkYVxNQ27r7RXdsscf) | 4:14 | 2022-06-09 | 2022-07-28 |
 | [ときめきちゅるぴかきゅるるらった](https://open.spotify.com/track/5uSxT6i3vKlZYnLKQsHTmm) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ラブホリック](https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc) | 2:38 | 2022-09-27 | 2022-10-05 |
 | [どうなったっていいぜ](https://open.spotify.com/track/4lSkF7QtNGPRgq0ks7zjDZ) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [どうなったっていいぜ](https://open.spotify.com/album/1tREilqOY6l9p7kVaZafEt) | 4:18 | 2022-07-14 | 2022-07-19 |
-| [どーだって。](https://open.spotify.com/track/3p2iw36q2W6FtdWrbOjheu) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [どーだって。](https://open.spotify.com/album/2eefrcNBMLZ8lkATggruBG) | 3:18 | 2022-11-17 |  |
+| [どーだって。](https://open.spotify.com/track/3p2iw36q2W6FtdWrbOjheu) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [どーだって。](https://open.spotify.com/album/2eefrcNBMLZ8lkATggruBG) | 3:18 | 2022-11-17 | 2022-11-19 |
 | [なしのつぶて](https://open.spotify.com/track/1O2hcDSkikd89nlbW5hmdV) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [なしのつぶて](https://open.spotify.com/album/3ey0iJJMcD5q8tDA5r54MQ) | 2:46 | 2022-07-24 | 2022-07-27 |
 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 | 2022-07-14 |  |
 | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/track/6QLMizE79f7VfKKnuMYxez) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/album/0spGhgCjnIuHwohs1QVuDO) | 2:28 | 2022-06-14 | 2022-07-11 |

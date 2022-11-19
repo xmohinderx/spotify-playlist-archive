@@ -1,12 +1,12 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1212127,
+  "num_followers": 1212033,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU5ODM2NCwwMDAwMDAwMGVmMDFlZjcwOTcwMjlkMTNmMWJlNjJhNDcwZmRhNmMx",
+  "snapshot_id": "MTY2ODU5ODM2NCwwMDAwMDAwMGM0NjY3M2NjMDI4ODdmYjFjZjkxZjRjOWY0OWMyZGI2",
   "tracks": [
     {
       "added_at": "2022-10-28 09:00:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-11-18 01:39:54",
+      "added_at": "2022-11-19 01:39:12",
       "album": {
         "name": "CHASE THE SUN",
         "url": "https://open.spotify.com/album/2NXvuNPaaHreCI5ZXCbvRv"
@@ -147,42 +147,6 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
-        "name": "Nachts wach (Remix EP)",
-        "url": "https://open.spotify.com/album/3iHDtutprAk1q5Fe55till"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Nachts wach (Lila Wolken Bootleg)",
-      "url": "https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -207,6 +171,42 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
+        "name": "Nachts wach (Remix EP)",
+        "url": "https://open.spotify.com/album/3iHDtutprAk1q5Fe55till"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Nachts wach (Lila Wolken Bootleg)",
+      "url": "https://open.spotify.com/track/6ZjuBJah2xFEl4z3X20di3"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2022-10-28 09:00:00",
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
-      "added_at": "2022-11-18 01:39:54",
+      "added_at": "2022-11-19 01:39:12",
       "album": {
         "name": "Pump It Up",
         "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
-      "added_at": "2022-11-18 01:39:54",
+      "added_at": "2022-11-19 01:39:12",
       "album": {
         "name": "NON STOP",
         "url": "https://open.spotify.com/album/6A4gV8vKVwOTOVSLNUDhu6"

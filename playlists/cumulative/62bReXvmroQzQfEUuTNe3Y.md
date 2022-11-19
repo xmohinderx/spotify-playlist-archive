@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-317 songs - 18 hr 5 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+318 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Sex On Fire](https://open.spotify.com/track/6997Kt5D5ydzgFhwrVcz1D) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Sex On Fire](https://open.spotify.com/album/0YTK5ZjBChRULCyZE8FDkp) | 2:44 | 2021-06-19 | 2021-09-25 |
 | [Señorita](https://open.spotify.com/track/3oBiuFkxWNw7iTkNlHaanw) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Señorita](https://open.spotify.com/album/6gFnHs5lfoXbU9rjfPAxYr) | 2:21 | 2021-05-15 | 2021-07-17 |
 | [Shadows \- yuma\. Remix](https://open.spotify.com/track/5oBDL51usxMSTaHhoZKvBP) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Shadows \(yuma\. Remix\)](https://open.spotify.com/album/1pYL0hLGCEyVI1WByNW0q8) | 3:30 | 2021-07-24 | 2021-08-21 |
+| [Shallow Water \- Edit](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Shallow Water](https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl) | 2:56 | 2022-11-18 |  |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2021-03-06 | 2021-11-27 |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-03-26 | 2021-04-03 |
 | [Sleepless](https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Sleepless](https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9) | 2:45 | 2022-05-26 |  |

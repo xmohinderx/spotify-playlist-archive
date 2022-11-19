@@ -4,7 +4,7 @@
 
 > We hear you.
 
-514 songs - 1 day 1 hr 25 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+516 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Moonlight Shawty](https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87) | [Fatboibari](https://open.spotify.com/artist/13iQ9ZfyvF0fJPpT9uVzfi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Moonlight Shawty](https://open.spotify.com/album/40Clsjg6Obb6Bg3wb17anY) | 2:47 | 2022-11-08 |  |
 | [more](https://open.spotify.com/track/0D2bQ8QLRSLeyuvEhSuaDD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [more](https://open.spotify.com/album/3WRv5yZu3FmnQ0JR6eZ482) | 3:03 | 2021-04-02 | 2022-04-21 |
 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 | 2022-07-15 |  |
+| [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 | 2022-11-18 |  |
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-23 | 2022-04-17 |
 | [MY HEAD :\(](https://open.spotify.com/track/13Qe9Ad3zLm58cIb9n4YtG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MY HEAD :\(](https://open.spotify.com/album/46Fu5oHyF6cVkhfu8QA9AY) | 1:32 | 2021-04-02 | 2022-07-14 |
 | [needle & thread](https://open.spotify.com/track/6wWflNzMVvWKvzgpgM6Oeb) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [needle & thread](https://open.spotify.com/album/0rrmT3DkwMLWW8CBK4uWfL) | 3:24 | 2021-04-02 | 2022-04-20 |
@@ -351,8 +352,9 @@
 | [perfume](https://open.spotify.com/track/0t52rXOiyAKx1ZoacxuB4B) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [perfume](https://open.spotify.com/album/5aYV9gD4D5E28B1YzuA6Al) | 2:33 | 2021-04-02 | 2022-07-22 |
 | [phone call](https://open.spotify.com/track/3pROjkqzFjsbiyMYOA1hFb) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [dhan](https://open.spotify.com/artist/5ZFGR5cnp0klB7NVzj6oCS) | [phone call](https://open.spotify.com/album/7hIML2J9zYAo3E1lNpIfrA) | 2:01 | 2021-04-02 | 2022-04-21 |
 | [Phony](https://open.spotify.com/track/5aicPq72ndCjwycEmP4EHW) | [Andrea Chahayed](https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN) | [Later, Now](https://open.spotify.com/album/54ZyCWHz0T13jnSyHRVFd0) | 3:37 | 2022-11-11 |  |
-| [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 | 2022-07-19 |  |
+| [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 | 2022-07-19 | 2022-11-19 |
 | [Pieces of Me](https://open.spotify.com/track/0kqFFlVf2fKq0lFanP3fgr) | [beaurial](https://open.spotify.com/artist/3yjsgZ8ouyisGzXyJH4QlL) | [Pieces of Me](https://open.spotify.com/album/0WMacSnf5LyJs4H7S9sLn6) | 1:57 | 2021-04-02 | 2022-04-14 |
+| [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-18 |  |
 | [Plastered](https://open.spotify.com/track/2f4zAnj43xheWJqwUs88n9) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Plastered](https://open.spotify.com/album/6n2IkCkMutHCF8CPkeYCVf) | 2:07 | 2022-01-21 | 2022-04-15 |
 | [play this at my funeral](https://open.spotify.com/track/5gi9n31BVk5OJLu3RZq3F6) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [us/faces](https://open.spotify.com/album/0NygY9X1KPjqhKUvPYyRGD) | 2:21 | 2021-04-02 | 2022-05-25 |
 | [Please Come Back](https://open.spotify.com/track/7zlGyAsvNMOdhTU068f79f) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Ondi Vil](https://open.spotify.com/artist/4ZguwlmrdElUZaO36dRTbn), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo), [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [Please Come Back](https://open.spotify.com/album/0NZUawtwwZtXvYLaKoQhWZ) | 2:01 | 2021-04-02 | 2022-04-20 |
@@ -369,7 +371,7 @@
 | [Pyjama Pants](https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:58 | 2021-04-02 | 2022-04-21 |
 | [Quarantined from My Love](https://open.spotify.com/track/0jltLZz2X5uuBNY4ujWafX) | [ohsobrkn](https://open.spotify.com/artist/15wE1qOqrPevLWIdBcJCce), [Emily Blair](https://open.spotify.com/artist/5KL9hyiHa9MfHAcNilcxIG) | [Quarantined from My Love](https://open.spotify.com/album/4xMh9HxSM6EDDtR0dCFaIX) | 2:03 | 2021-04-02 | 2022-04-20 |
 | [regrets](https://open.spotify.com/track/0qxcxet7ALr8LEB04dCila) | [TruePilot](https://open.spotify.com/artist/4JpIqUnQzJYoA34LWoj3ll) | [regrets](https://open.spotify.com/album/4i9QRMfbCwO76ed4hm6n63) | 3:36 | 2021-04-02 | 2022-04-03 |
-| [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-11-18 |  |
+| [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 | 2022-11-17 |  |
 | [Revolution](https://open.spotify.com/track/1sxDU5SNvAVTgAGQE5AlEF) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f), [TAESAN](https://open.spotify.com/artist/2Zz9U4J4t6H3G0HdYVX0uY) | [Revolution](https://open.spotify.com/album/6GWLc3CMoq85iAqc4Yurtv) | 2:14 | 2022-03-23 | 2022-04-21 |
 | [Right Before My Eyes \- Unpeeled](https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:40 | 2022-10-14 | 2022-11-09 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2022-11-08 |  |
@@ -394,7 +396,7 @@
 | [SHOOT ME DOWN](https://open.spotify.com/track/5jLjUQIa8fV6erihJb1App) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 4:52 | 2022-03-23 | 2022-04-20 |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2021-04-02 | 2022-04-16 |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-27 | 2022-07-29 |
-| [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 | 2021-04-02 |  |
+| [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 | 2021-04-02 | 2022-11-19 |
 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 | 2021-04-02 | 2022-04-14 |
 | [Silhouette](https://open.spotify.com/track/0xIxUesRUXMlX1zYitECjs) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Silhouette](https://open.spotify.com/album/7EWk2u29tK8b6EMv5fVbhl) | 2:59 | 2021-04-02 | 2022-04-21 |
 | [Silly Girl](https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:18 | 2022-07-15 |  |

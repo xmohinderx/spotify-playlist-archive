@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-130 songs - 8 hr 7 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
+131 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blues Before Sunrise](https://open.spotify.com/track/27gKtPpGT849HU3g2J6omx) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/5lc2xbWv8d8jLBUnjuwfH5) | 3:49 | 2022-05-27 | 2022-07-28 |
 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 | 2022-09-20 |  |
 | [Blues Up The River](https://open.spotify.com/track/6OBefKGEDbQJndfnNXuu9T) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 2:34 | 2022-07-08 |  |
+| [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 | 2022-10-14 |  |
 | [Bonnie](https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:37 | 2022-09-20 | 2022-11-16 |
 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 | 2022-07-08 |  |
 | [Born Of A Woman \(feat\. Shaneeka Simon\)](https://open.spotify.com/track/45I9HtSVeOQeVN49QgEFel) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Born Of A Woman \(feat\. Shaneeka Simon\)](https://open.spotify.com/album/7wn9mneNNdYCmqQHKDkMds) | 3:47 | 2022-05-25 | 2022-07-29 |
@@ -109,7 +110,7 @@
 | [Rock Me Baby](https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Kingpins](https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p) | 2:59 | 2022-09-20 |  |
 | [Rock Me Baby](https://open.spotify.com/track/68joAgewDdtHYPwIyOFhIX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Best of the Blues Guitar King 1951\-1966](https://open.spotify.com/album/1vI1KwsnWokzvNeXoNtlYZ) | 2:59 | 2022-05-25 | 2022-07-29 |
 | [Rollin' On \(Acoustic\)](https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 4:18 | 2022-10-10 |  |
-| [See See Rider](https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 3:14 | 2022-10-14 |  |
+| [See See Rider](https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Country Blues](https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2) | 3:14 | 2022-10-14 | 2022-11-19 |
 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2022-05-25 |  |
 | [Shine on Moon \(feat\. Keb' Mo'\)](https://open.spotify.com/track/7JqE3pDK2ZMUhk5BE5vTT9) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:22 | 2022-07-08 |  |
 | [Sittin On Top Of The World](https://open.spotify.com/track/3GgvAt2Cyp7GRhYy9Luus1) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Doc Watson](https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r) | 2:39 | 2022-05-25 |  |

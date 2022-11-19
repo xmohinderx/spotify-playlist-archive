@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-347 songs - 19 hr 17 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+349 songs - 19 hr 25 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Never Easy](https://open.spotify.com/track/22exPrZW0fcBOwlcA2HOhY) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 3:44 | 2022-07-21 | 2022-07-23 |
 | [Never Easy](https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Never Easy](https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo) | 3:44 | 2022-07-19 |  |
 | [New Beginnings](https://open.spotify.com/track/2npBw5KVoE0yvwauKcr5SP) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [New Beginnings](https://open.spotify.com/album/2yfsioyNrh9gQ2rYKM6cza) | 3:28 | 2022-11-07 |  |
+| [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 | 2022-11-18 |  |
 | [Nightmare](https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Nightmare](https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz) | 2:27 | 2022-10-26 |  |
 | [Nightmares In NYC](https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Nightmares In NYC](https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph) | 2:57 | 2022-06-28 | 2022-09-19 |
 | [No Good Without U](https://open.spotify.com/track/5o4E8YFHl3ggOu1Sv6Y46M) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:07 | 2022-11-04 |  |
@@ -340,6 +341,7 @@
 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 | 2022-07-23 |  |
 | [We Like To Wuki](https://open.spotify.com/track/61EyDcgpYujFLrvd60da0l) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [Yo Majesty](https://open.spotify.com/artist/02QcKlcRiv2tXgI669XopZ) | [We Like To Wuki](https://open.spotify.com/album/5gVIZpWenjQfrJXV7XZi5B) | 2:41 | 2022-08-12 | 2022-09-17 |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-24 |  |
+| [Weatherman \(feat\. Syd Silvair\)](https://open.spotify.com/track/2tNdqugzaMCRpoLEM3SqF6) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Syd Silvair](https://open.spotify.com/artist/4f2LaSXjjsqEZxRNNZL7qw) | [Weatherman](https://open.spotify.com/album/5ARlGhUDTTIQSQEqmBz8HW) | 4:50 | 2022-11-18 |  |
 | [Weekdays](https://open.spotify.com/track/1fmLw7Ai93hZI7b34NPhyn) | [George Gretton](https://open.spotify.com/artist/2NG92AgykZYQwwuQ479zMo) | [Ordinary Life](https://open.spotify.com/album/4n7CoMmbjWPyMDikoNNFg0) | 3:27 | 2022-09-06 | 2022-10-06 |
 | [Whatever You Want](https://open.spotify.com/track/7hlml5x7bmGCjNz408WIrh) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Whatever You Want](https://open.spotify.com/album/40gxf5OtiUy2XMOUPUiG0m) | 2:38 | 2022-03-17 | 2022-04-19 |
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-15 | 2022-03-10 |

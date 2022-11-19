@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 143933,
       "name": "Maria Maria - Spotify Singles",
       "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
@@ -2980,6 +2980,28 @@
     },
     {
       "album": {
+        "name": "Quando",
+        "url": "https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194620,
+      "name": "Quando",
+      "url": "https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120"
+    },
+    {
+      "album": {
         "name": "Que Fase",
         "url": "https://open.spotify.com/album/2IIbtH3HSK9ZySaSApVyZR"
       },
@@ -3237,6 +3259,24 @@
       "duration_ms": 225877,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4aPNR8jCTJ4NqEktwxOGn2"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Pra Te Falar",
+        "url": "https://open.spotify.com/album/10GC95W7Q0IoU6E7tG59uK"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "S\u00f3 Pra Te Falar",
+      "url": "https://open.spotify.com/track/0Bp8enfrYMsD63VNXHj2uN"
     },
     {
       "album": {
@@ -3741,7 +3781,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 192857,
       "name": "Voltar Pra Mim",
       "url": "https://open.spotify.com/track/2WNQken5d0Po7nHkv2xTKR"

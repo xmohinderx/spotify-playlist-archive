@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-246 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
+251 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/1iD0LJ237Mwsk85XtyHKDf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Do You Hear What I Hear](https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [Do You Hear What I Hear](https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15) | 2:58 | 2022-11-11 |  |
 | [Feliz Navidad](https://open.spotify.com/track/1hjd4JDtHN18xXKKevrxB6) | [Anatomy Park](https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN) | [The Lofi Xmas Tape](https://open.spotify.com/album/68blApWYmZVuExE0JxSgpH) | 1:44 | 2021-12-20 |  |
 | [First Nöel](https://open.spotify.com/track/2jhZSpJB0dtrw3LeOE9NWt) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Christmas\-hop](https://open.spotify.com/album/30BnyFUc8Q4L9S9RqAunHe) | 2:09 | 2022-11-11 |  |
-| [Frio](https://open.spotify.com/track/5djxWufx6q2DfDS6OzaJ5J) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:26 | 2021-12-20 |  |
+| [Frio](https://open.spotify.com/track/5djxWufx6q2DfDS6OzaJ5J) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:26 | 2021-12-20 | 2022-11-19 |
+| [Frio](https://open.spotify.com/track/6GhGYl1M68LMA39skNCgVe) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 1:26 | 2022-11-11 |  |
 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 | 2022-11-11 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/5aplSXqxGAsfsplGBaxk0w) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [A Very Lofi Christmas](https://open.spotify.com/album/5VcaJd6u7O07L728tIMtbn) | 1:32 | 2022-11-11 |  |
 | [Frosty Walk](https://open.spotify.com/track/30AcPsoeGZZZFMLaei6U2R) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:09 | 2021-12-20 |  |
@@ -153,7 +154,8 @@
 | [Merry Christmas Everyone](https://open.spotify.com/track/2LseCWmzYc9mNZY7AGZ6Qc) | [Moose & Finley](https://open.spotify.com/artist/1GHeBVCBIXcN9YTtQJjblV) | [Merry Christmas Everyone](https://open.spotify.com/album/7sDIQNhqLJG9CpP5Jc8pkd) | 2:14 | 2022-11-11 |  |
 | [merry lofi](https://open.spotify.com/track/0sYMwcydVgZk8aYESIG2gM) | [maja andino](https://open.spotify.com/artist/4zGvgGIRSFQmOjfLG5qQuh) | [merry lofi](https://open.spotify.com/album/62W803hCRq4i2aq3WINogd) | 2:10 | 2022-11-11 |  |
 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 | 2021-12-20 |  |
-| [Mistletoe](https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 2:15 | 2021-12-20 |  |
+| [Mistletoe](https://open.spotify.com/track/0hgcqoAcfZGC1P15XQc5FZ) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 2:15 | 2022-11-11 |  |
+| [Mistletoe](https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 2:15 | 2021-12-20 | 2022-11-19 |
 | [Mistletoe And Holly](https://open.spotify.com/track/6z0xdPPk9yxzTxUyLr65mC) | [Bops Galores](https://open.spotify.com/artist/0IP9JN9LCiK6ni3DDeEb2E) | [Mistletoe And Holly](https://open.spotify.com/album/3ZVINz77EguCAXlPf9xiDz) | 2:01 | 2022-11-11 |  |
 | [miztle](https://open.spotify.com/track/5ImHG3884XuiC3zNQ0iL0c) | [Adrianeck](https://open.spotify.com/artist/1cMDy15rx7PXkheWsdXqUo) | [miztle](https://open.spotify.com/album/25DbPAfVXxVYeTN4o2yg8f) | 1:54 | 2022-11-11 |  |
 | [My Christmas in Brooklyn](https://open.spotify.com/track/2TafYvQY6ABtnDeWVBkHNd) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [My Christmas in Brooklyn](https://open.spotify.com/album/00C32wsRQi76yAIBVOnL4j) | 1:41 | 2021-12-20 |  |
@@ -173,10 +175,12 @@
 | [office christmas party](https://open.spotify.com/track/3SzhquDlNLS0LMj7ghULb1) | [Baby Bwoy](https://open.spotify.com/artist/7iEOzm5FQi6hdSe460hENE) | [office christmas party](https://open.spotify.com/album/0lbgCm7v5uEofQTDC3oXmW) | 2:24 | 2022-11-11 |  |
 | [oh! christmas! tree!](https://open.spotify.com/track/3zaGxvoz9D6tQAfrdhdicV) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 3:10 | 2022-11-11 |  |
 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 | 2022-11-11 |  |
-| [pure imagination](https://open.spotify.com/track/2OulDXvmqVYVS1mUrIM1vb) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:13 | 2021-12-20 |  |
+| [pure imagination](https://open.spotify.com/track/2Hdm6UGkZyY0wilfOCo6w5) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter](https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI) | 1:13 | 2022-11-11 |  |
+| [pure imagination](https://open.spotify.com/track/2OulDXvmqVYVS1mUrIM1vb) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:13 | 2021-12-20 | 2022-11-19 |
 | [Reindeer](https://open.spotify.com/track/6rhv0IzO0oK4RKEHvgdGCR) | [iluvu](https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j), [Lazy Tree Records](https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf) | [A Lofi Christmas](https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ) | 0:51 | 2021-12-20 | 2022-11-12 |
 | [Reindeer](https://open.spotify.com/track/6z4LtsWhk0C4dtqAExQirM) | [iluvu, Lazy Tree Records](https://open.spotify.com/artist/2K3jQRQLEyB3AzhBAOyvYe) | [A Lofi Christmas](https://open.spotify.com/album/6TRZqtG48tlSbwat2dzg3J) | 0:51 | 2021-12-20 | 2022-07-29 |
-| [Reindeer](https://open.spotify.com/track/206Z0pNfp4kO5izDZoJ76g) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Winter Weibs](https://open.spotify.com/album/5Tj1uZwXrmtqhJpihaIS8A) | 1:42 | 2021-12-20 |  |
+| [Reindeer](https://open.spotify.com/track/206Z0pNfp4kO5izDZoJ76g) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Winter Weibs](https://open.spotify.com/album/5Tj1uZwXrmtqhJpihaIS8A) | 1:42 | 2021-12-20 | 2022-11-19 |
+| [Reindeer](https://open.spotify.com/track/4x9o0t2cfWXPw0KoWtvEX0) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Winter Weibs](https://open.spotify.com/album/3JZzY4oJ9onEuAC8K4nnKa) | 1:42 | 2022-11-11 |  |
 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 | 2021-12-20 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/23E5XFraifxkUJglRpBm9m) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/6pnsjGMTpc5iSc3cEP3fFd) | 2:08 | 2022-11-11 |  |
 | [Rodolfo el reno](https://open.spotify.com/track/4cO791Mb6k2Oml1sskXP2C) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:32 | 2021-12-20 |  |
@@ -193,7 +197,8 @@
 | [Santa's jam](https://open.spotify.com/track/0IOdHQ8ewOQlStX9UJEqGK) | [Statistix](https://open.spotify.com/artist/3FDY67kyoGgLMWGVywQ6OZ) | [Santa's jam](https://open.spotify.com/album/3aeJZMAh18XVC75Gtx3hcE) | 2:25 | 2022-11-11 |  |
 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 | 2021-12-20 |  |
 | [Shopping Spree](https://open.spotify.com/track/3QH5nm30Qb6NtAGtufIuNv) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 2:16 | 2021-12-20 | 2022-11-12 |
-| [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 | 2021-12-20 |  |
+| [should go christmas shopping](https://open.spotify.com/track/0MblCypMHWJCr5zR23JmbZ) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter](https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI) | 1:30 | 2022-11-11 |  |
+| [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 | 2021-12-20 | 2022-11-19 |
 | [SILENT NIGHT](https://open.spotify.com/track/06kYtG3AjxoOiSfw1yUOgj) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Christmas\-hop](https://open.spotify.com/album/30BnyFUc8Q4L9S9RqAunHe) | 3:21 | 2022-11-11 |  |
 | [Silent night](https://open.spotify.com/track/0JvSuva1K3GR4TbeyjFpvq) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:02 | 2021-12-20 | 2022-11-12 |
 | [Silent Night \(Lofi Version\)](https://open.spotify.com/track/27CqLCdqdlojEiLLdnYcih) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Silent Night](https://open.spotify.com/album/4G3haHlhnPXN1jDZ1XfEua) | 2:10 | 2021-12-20 | 2022-11-12 |

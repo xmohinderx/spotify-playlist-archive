@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,725 songs - 4 day 19 hr 56 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,726 songs - 4 day 19 hr 58 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Adome Nyueto](https://open.spotify.com/track/0U3EbpYDTSF2PrnkAi5y7e) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Afrobeat Experience, Vol.1](https://open.spotify.com/album/4wlCSu49JOHgOT4xAPlLto) | 5:25 | 2022-09-15 |  |
 | [Adome Nyueto](https://open.spotify.com/track/3rhmgA3BCtT1DjlLKAuMnT) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70 \(Selected Rare Togolese Recordings from 1971 to 1981\)](https://open.spotify.com/album/69Dgy2WFztYNSlXHIShCr7) | 5:26 | 2022-06-09 | 2022-07-29 |
 | [Adome Nyueto](https://open.spotify.com/track/4JxUuQvXNpSWOZloyLpqVU) | [Yta Jourias](https://open.spotify.com/artist/2SGAAoINRpH9UQf7Gq9WcK) | [Togo Soul 70](https://open.spotify.com/album/5geXl28rgMnrOjqvEgBBdi) | 5:26 | 2022-07-27 | 2022-11-13 |
-| [Adventure](https://open.spotify.com/track/1YqR8Mag5emtRydaUuGUOU) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Adventures on the Floating Island](https://open.spotify.com/album/5zTvbrPrNsSGUXsYAAKf8E) | 2:20 | 2022-06-09 |  |
+| [Adventure](https://open.spotify.com/track/1YqR8Mag5emtRydaUuGUOU) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Adventures on the Floating Island](https://open.spotify.com/album/5zTvbrPrNsSGUXsYAAKf8E) | 2:20 | 2022-06-09 | 2022-11-19 |
+| [Adventure](https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Adventures on the Floating Island](https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW) | 2:20 | 2022-10-31 |  |
 | [Advice from Father](https://open.spotify.com/track/3Neyj2zB4zylFq6MhatEMg) | [Buari](https://open.spotify.com/artist/7AI9wDJVuvSmYH1SfRsRgX) | [Buari](https://open.spotify.com/album/2fs9DAwzczfaXU1K8yc5iA) | 4:50 | 2022-06-09 |  |
 | [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2022-06-09 |  |
 | [Affection](https://open.spotify.com/track/1QtqwOv4MCQm6Sq7421swz) | [Les Vikings d'Haïti](https://open.spotify.com/artist/1CpADqtHzLsknA2yQ0I7uT) | [Cé pas magie](https://open.spotify.com/album/0uO8VUsgxIr7Si0jCJiXJt) | 3:41 | 2022-06-09 |  |

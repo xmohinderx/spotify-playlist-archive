@@ -5489,7 +5489,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 142165,
       "name": "Fata cu paharul",
       "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
@@ -6229,6 +6229,28 @@
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "album": {
+        "name": "Gata de zbor (cu Irina Rimes)",
+        "url": "https://open.spotify.com/album/7FsjnDV6wvcM9BYGg1mDfn"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Gata de zbor (cu Irina Rimes)",
+      "url": "https://open.spotify.com/track/0SyV55JYeMF8C4oSHX6xTv"
     },
     {
       "album": {
@@ -11455,7 +11477,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 210000,
       "name": "Niciodata inapoi (from \"TEAMBUILDING The Movie\")",
       "url": "https://open.spotify.com/track/3uCnYdw2AG9HfWgwNdqmPv"
@@ -15307,7 +15329,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 170285,
       "name": "Stai",
       "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"

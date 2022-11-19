@@ -863,10 +863,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 140162,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/1YqR8Mag5emtRydaUuGUOU"
+    },
+    {
+      "album": {
+        "name": "Adventures on the Floating Island",
+        "url": "https://open.spotify.com/album/3QTpSmAq5j7udfy080khsW"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140162,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/2eV4hGQIQyQMOZwuCzhCpb"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 62287,
+  "num_followers": 62251,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDZlZDk4ODI1ZTMxMjNhY2UyMDliOTY1MTU2ZWM0YmQy",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDMyNDI5YTg1MjQ3NTIwYTM0ZmI2YWI1MjQ0MWY0Y2Zi",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Phazerdelique",
-        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
-      },
-      "artists": [
-        {
-          "name": "Kim And Buran",
-          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Phazerdelique - Extended Mix",
-      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Hildegard",
         "url": "https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 281840,
       "name": "Hildegard",
       "url": "https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Phazerdelique",
+        "url": "https://open.spotify.com/album/7xQWj1vHChxRS6j1IjzfUO"
+      },
+      "artists": [
+        {
+          "name": "Kim And Buran",
+          "url": "https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Phazerdelique - Extended Mix",
+      "url": "https://open.spotify.com/track/3fivmNylnmo2imkmqq5XZZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Automatic Dub 2",
+        "url": "https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG"
+      },
+      "artists": [
+        {
+          "name": "Wolfram",
+          "url": "https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24"
+        }
+      ],
+      "duration_ms": 396511,
+      "name": "Automatic Dub",
+      "url": "https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 432404,
       "name": "Under the Ice - Original 12 Inch Version",
       "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Automatic Dub 2",
-        "url": "https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG"
-      },
-      "artists": [
-        {
-          "name": "Wolfram",
-          "url": "https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24"
-        }
-      ],
-      "duration_ms": 396511,
-      "name": "Automatic Dub",
-      "url": "https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV"
     },
     {
       "added_at": "2022-10-07 08:10:31",

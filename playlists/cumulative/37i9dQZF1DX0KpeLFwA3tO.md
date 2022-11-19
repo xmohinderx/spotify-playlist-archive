@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Fucked Up
 
-744 songs - 1 day 13 hr 23 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+746 songs - 1 day 13 hr 30 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Bury Me In My Shoes \- Single Version](https://open.spotify.com/track/42b00K4oaVZQYbY57KxWfw) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [Bury Me In My Shoes](https://open.spotify.com/album/3haQiqJNTOonhEZ3L3HNPs) | 3:24 | 2022-03-31 | 2022-05-06 |
 | [Butterflies](https://open.spotify.com/track/6vgen2mRieJZ8MOvZzPgBW) | [Danny Goo](https://open.spotify.com/artist/0pNhUCv5DGQvX8x8DI5XKB) | [Butterflies](https://open.spotify.com/album/7tDAI40H1oySPElKptmFaX) | 3:07 | 2022-07-21 | 2022-09-09 |
 | [Bye Bye Baby](https://open.spotify.com/track/2NjwdiM3Bv0AfWT7JDM6UO) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Bye Bye Baby](https://open.spotify.com/album/2PBHqIKDVODI3qiNgOhBBZ) | 2:32 | 2022-01-28 | 2022-03-25 |
-| [Bye Bye Big Bear](https://open.spotify.com/track/1DTYn4c2rbro8FmkcKMsxp) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/6I0NSPeUj9RNqHMnvBxHXT) | 2:56 | 2022-11-18 |  |
+| [Bye Bye Big Bear](https://open.spotify.com/track/1DTYn4c2rbro8FmkcKMsxp) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/6I0NSPeUj9RNqHMnvBxHXT) | 2:56 | 2022-11-18 | 2022-11-19 |
+| [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 | 2022-11-18 |  |
 | [Cactus Tree](https://open.spotify.com/track/1RVRJDNvEuGI6S1jCUTVP0) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Back Home](https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m) | 2:59 | 2022-11-04 |  |
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-15 | 2022-11-11 |
 | [CALI SUN](https://open.spotify.com/track/3dDzS6AdckbmFyBsGXYgXe) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [CALI SUN](https://open.spotify.com/album/3y7kjUerw9j2oJ2DBPRHRs) | 3:47 | 2021-12-17 | 2022-02-25 |
@@ -690,6 +691,7 @@
 | [Toxic Love](https://open.spotify.com/track/3M0J5hXymCJCdQEZAhE3G4) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Toxic Love](https://open.spotify.com/album/07KrQlLZk6ysQYVAURaAw1) | 2:21 | 2022-05-12 | 2022-06-24 |
 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 | 2022-10-06 | 2022-11-18 |
 | [Trembling World](https://open.spotify.com/track/2hVq8XGNalMQ40yJa7rmQD) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [Trembling World](https://open.spotify.com/album/3x3uux3mZkMcNGaRjlkkFr) | 2:32 | 2022-03-25 | 2022-04-22 |
+| [Trickery](https://open.spotify.com/track/3lM0Wu9V9XRrWpVEfgDEmo) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [Trickery](https://open.spotify.com/album/2JQgahfERV5p0qJJ7J14ev) | 3:18 | 2022-11-18 |  |
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-05-12 | 2022-07-01 |
 | [Truth Or Dare](https://open.spotify.com/track/025gicHQKtkMIFNpnZBak2) | [Carry The Crown](https://open.spotify.com/artist/6d45ZKjCEhvAXmnIAzKkQ8) | [Truth Or Dare](https://open.spotify.com/album/3sRZXTXvblTx6UrnijgTbl) | 2:52 | 2022-08-18 | 2022-09-30 |
 | [Two 6's Upside Down](https://open.spotify.com/track/33OFWa8o5rf99TIDEIslQG) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Two 6's Upside Down](https://open.spotify.com/album/1dhXWQIfmP8VH74NPsr4g5) | 3:29 | 2022-07-07 | 2022-08-19 |

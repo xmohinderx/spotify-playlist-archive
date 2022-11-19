@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Five Finger Death Punch",
+  "description": "For the Hard Rock and full volume lovers. Cover: Bad Omens",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -1158,6 +1158,24 @@
     },
     {
       "album": {
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227821,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/2KG6O4Ca7PE3aOVBXuVziI"
       },
@@ -1509,6 +1527,24 @@
       "duration_ms": 213000,
       "name": "Everybody's Nobody",
       "url": "https://open.spotify.com/track/3vTGGtow46dxxgg5iWbkXK"
+    },
+    {
+      "album": {
+        "name": "Evil World Machine (Extended)",
+        "url": "https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370607,
+      "name": "Evil World Machine - Extended",
+      "url": "https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l"
     },
     {
       "album": {
@@ -4193,7 +4229,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 250011,
       "name": "Skeletons on Mars",
       "url": "https://open.spotify.com/track/70mqWI6J3BseJrWA81EVkk"
@@ -5099,7 +5135,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 298000,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"

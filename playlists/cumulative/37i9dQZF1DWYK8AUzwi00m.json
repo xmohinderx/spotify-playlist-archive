@@ -1211,10 +1211,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 86040,
       "name": "Frio",
       "url": "https://open.spotify.com/track/5djxWufx6q2DfDS6OzaJ5J"
+    },
+    {
+      "album": {
+        "name": "Snow, Vol. 2",
+        "url": "https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86040,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/6GhGYl1M68LMA39skNCgVe"
     },
     {
       "album": {
@@ -2643,6 +2661,24 @@
     {
       "album": {
         "name": "Snow, Vol. 2",
+        "url": "https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135482,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/0hgcqoAcfZGC1P15XQc5FZ"
+    },
+    {
+      "album": {
+        "name": "Snow, Vol. 2",
         "url": "https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9"
       },
       "artists": [
@@ -2653,7 +2689,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 135482,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS"
@@ -3006,6 +3042,24 @@
     },
     {
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI"
+      },
+      "artists": [
+        {
+          "name": "Bassti",
+          "url": "https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73653,
+      "name": "pure imagination",
+      "url": "https://open.spotify.com/track/2Hdm6UGkZyY0wilfOCo6w5"
+    },
+    {
+      "album": {
         "name": "Winter - EP",
         "url": "https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL"
       },
@@ -3017,7 +3071,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 73653,
       "name": "pure imagination",
       "url": "https://open.spotify.com/track/2OulDXvmqVYVS1mUrIM1vb"
@@ -3075,10 +3129,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 102000,
       "name": "Reindeer",
       "url": "https://open.spotify.com/track/206Z0pNfp4kO5izDZoJ76g"
+    },
+    {
+      "album": {
+        "name": "Winter Weibs",
+        "url": "https://open.spotify.com/album/3JZzY4oJ9onEuAC8K4nnKa"
+      },
+      "artists": [
+        {
+          "name": "mt. fujitive",
+          "url": "https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Reindeer",
+      "url": "https://open.spotify.com/track/4x9o0t2cfWXPw0KoWtvEX0"
     },
     {
       "album": {
@@ -3370,6 +3442,24 @@
     },
     {
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI"
+      },
+      "artists": [
+        {
+          "name": "Bassti",
+          "url": "https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90908,
+      "name": "should go christmas shopping",
+      "url": "https://open.spotify.com/track/0MblCypMHWJCr5zR23JmbZ"
+    },
+    {
+      "album": {
         "name": "Winter - EP",
         "url": "https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL"
       },
@@ -3381,7 +3471,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 90908,
       "name": "should go christmas shopping",
       "url": "https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj"

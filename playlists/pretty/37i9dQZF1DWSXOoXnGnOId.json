@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14630,
+  "num_followers": 14627,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDIzMWMwNWMyNTliN2U0NzQ0M2RhM2EzMzlmYWZjMGU3",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDM2OTBjY2UxNGViMDYyMjMxZjVjYzRmNjlhYjgxZjA3",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -609,6 +609,26 @@
       "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
+      "added_at": "2022-02-25 05:01:00",
+      "album": {
+        "name": "Talamanca (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/35w6yEBEB6zabCzMmrI1Hi"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 175119,
+      "name": "Talamanca - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5"
+    },
+    {
       "added_at": "2021-07-30 04:00:00",
       "album": {
         "name": "Stay (Blinkie Remix)",
@@ -631,26 +651,6 @@
       "duration_ms": 151820,
       "name": "Stay (Blinkie Remix)",
       "url": "https://open.spotify.com/track/0HQlgAyTXnZ9TJU7SA4xj6"
-    },
-    {
-      "added_at": "2022-02-25 05:01:00",
-      "album": {
-        "name": "Talamanca (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/35w6yEBEB6zabCzMmrI1Hi"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 175119,
-      "name": "Talamanca - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/6kZnMNLj1MnIJTM98yHsz5"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Strut (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 189965,
-      "name": "Strut - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "I Want Love (Cat Dealers Remix)",
         "url": "https://open.spotify.com/album/5gTxOtz0Kmo1aD3jLfm7XS"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 221904,
       "name": "I Want Love - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Strut (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 189965,
+      "name": "Strut - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "tell me what you\u2019re thinking (Remixes)",
-        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
-      },
-      "artists": [
-        {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
-        },
-        {
-          "name": "Disco Fries",
-          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
-      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Impact (Soulwax Remix)",
         "url": "https://open.spotify.com/album/57KnQqHMB2x5OFcvnm6G8U"
       },
@@ -2007,6 +1987,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "tell me what you\u2019re thinking (Remixes)",
+        "url": "https://open.spotify.com/album/1r9rQcfPM8fatgA50Jzv1B"
+      },
+      "artists": [
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        },
+        {
+          "name": "Disco Fries",
+          "url": "https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "tell me what you\u2019re thinking - Disco Fries Remix",
+      "url": "https://open.spotify.com/track/1EsVTKU0XQNqaZpazFWJpH"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Views of a Room",
         "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
       },
@@ -2023,6 +2023,54 @@
       "duration_ms": 373890,
       "name": "Babel - Maceo Plex Remix",
       "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Lifetime Remixes",
+        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "Lifetime - Jayda G Baleen Mix",
+      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Desire (Vintage Culture & Kiko Franco Remix)",
+        "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
+      "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2071,30 +2119,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Desire (Vintage Culture & Kiko Franco Remix)",
-        "url": "https://open.spotify.com/album/0UJZSHs32q35cILjLEJi3Y"
+        "name": "Nobody (Devault Remix)",
+        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          "name": "Catello",
+          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
         },
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 225967,
-      "name": "Desire - Vintage Culture & Kiko Franco Remix (Edit)",
-      "url": "https://open.spotify.com/track/0aSG0K0gRv69dRro1kKtfx"
+      "duration_ms": 259286,
+      "name": "Nobody - Devault Remix",
+      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2139,50 +2183,6 @@
       "duration_ms": 231840,
       "name": "Rise - twocolors Remix",
       "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Nobody (Devault Remix)",
-        "url": "https://open.spotify.com/album/01OOT3N1D5E07vEapwcwDN"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Catello",
-          "url": "https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 259286,
-      "name": "Nobody - Devault Remix",
-      "url": "https://open.spotify.com/track/0WF8FilL1k9ABgfNEumVUB"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Lifetime Remixes",
-        "url": "https://open.spotify.com/album/4cfOKU0ncsVL4PYaZ1kkiy"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "Lifetime - Jayda G Baleen Mix",
-      "url": "https://open.spotify.com/track/2w3dLUIDO4WqPxTbYEU5B0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2347,30 +2347,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Cry (with John Martin) [Remixes]",
-        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        }
-      ],
-      "duration_ms": 233959,
-      "name": "Cry (with John Martin) - Trivecta Remix",
-      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Happy Where We Are (ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/512NZa7ZFYp6d3aAjYzP4M"
       },
@@ -2395,6 +2371,30 @@
       "duration_ms": 233974,
       "name": "Happy Where We Are - ilan Bluestone Remix",
       "url": "https://open.spotify.com/track/4StZuE3DEKcRZYMgdDxJuX"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Cry (with John Martin) [Remixes]",
+        "url": "https://open.spotify.com/album/0N8RbnT9FS11c7DDtSjSvk"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        }
+      ],
+      "duration_ms": 233959,
+      "name": "Cry (with John Martin) - Trivecta Remix",
+      "url": "https://open.spotify.com/track/3pZTaAHCdNqPcrexRcKaZ6"
     }
   ],
   "unique_name": "mint Remix",

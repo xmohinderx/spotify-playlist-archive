@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Darius Rucker
 
-168 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+169 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Sunday Drive](https://open.spotify.com/track/2tAfE0lE4RbGYjdQmnGmbl) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Slow Country](https://open.spotify.com/album/5Wu9dklTjWBMXAKDeos9gH) | 4:53 | 2022-11-04 | 2022-11-13 |
 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 | 2022-02-25 |  |
 | [Talking To God](https://open.spotify.com/track/1lNiLFaSGw8AFdp4zfMvuf) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Talking To God](https://open.spotify.com/album/7JgroVcKnQavSOJ0xzu2CA) | 3:07 | 2021-12-10 |  |
+| [Tell Somebody 'Bout You](https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Tell Somebody 'Bout You](https://open.spotify.com/album/3nYkJBH8aukTHcj3AacU22) | 3:56 | 2022-11-18 |  |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-09 |  |
 | [That Old King James](https://open.spotify.com/track/5NacrWDvEXJzqO2FyT3Wpe) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 3:28 | 2021-12-10 |  |
 | [That's What I Love About Sunday](https://open.spotify.com/track/7vxRD4BOqSU2Lh7QAoE5ru) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [The Journey \(Livin' Hits\)](https://open.spotify.com/album/3q3vQKnkRSqCjjTAc6I5ai) | 3:17 | 2021-12-10 |  |

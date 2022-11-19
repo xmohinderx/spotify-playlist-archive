@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house. Cover: DJ Snake",
+  "description": "Real nasty house. Cover: Nostalgix",
   "name": "Nasty Bits",
   "published_playlist_ids": [
     "2H083FLJ5ZhYNqx83NgdpT"
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 188085,
       "name": "Get Crunk",
       "url": "https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX"
@@ -4933,6 +4933,28 @@
       "duration_ms": 299527,
       "name": "Overthinkin'",
       "url": "https://open.spotify.com/track/2cmM9VWTXlE08tPNqTHpSg"
+    },
+    {
+      "album": {
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Chi City",
+          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     },
     {
       "album": {

@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 289791,
       "name": "Canola Fields",
       "url": "https://open.spotify.com/track/6qgbLRTPfUVyWMPHYgyHS6"
@@ -3691,7 +3691,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 172885,
       "name": "Love Is Selfish",
       "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
@@ -4822,6 +4822,24 @@
     },
     {
       "album": {
+        "name": "Rich Little Girls",
+        "url": "https://open.spotify.com/album/4TQGtYIgVUC53l3cvyaOeg"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179746,
+      "name": "Rich Little Girls",
+      "url": "https://open.spotify.com/track/6iZwFG2RPqHpPFd4FP9M3A"
+    },
+    {
+      "album": {
         "name": "Rock and Roll Doctor",
         "url": "https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930"
       },
@@ -4899,6 +4917,24 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
+    },
+    {
+      "album": {
+        "name": "The Hometown Kid",
+        "url": "https://open.spotify.com/album/0BcZyoVBPOaZyjm8E4Kc4H"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266058,
+      "name": "Rusty",
+      "url": "https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd"
     },
     {
       "album": {

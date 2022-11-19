@@ -2,9 +2,9 @@
 
 ### [Kids Music](https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1)
 
-> Kids music the whole family can enjoy\. Enjoy new tunes and old favorites on this kids playlist, and make sure to check back for more!
+> Kids music the whole family can enjoy\. Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-78 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
+79 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Nobody Like U \- From "Turning Red"](https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Nobody Like U \(From "Turning Red"\)](https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2) | 2:40 | 2022-10-25 |  |
 | [Nosetalgia](https://open.spotify.com/track/0gR0P5aRB6jF4OXSg1WMc5) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/0LgwP5HQ7psvJAY2KSGPMH) | 3:36 | 2022-05-27 | 2022-10-26 |
 | [On Our Way \- Original Music from the Motion Picture](https://open.spotify.com/track/12qRidH5o2uePPmrdnRXOY) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [On Our Way \(Original Music from the Motion Picture\)](https://open.spotify.com/album/0rQNAkDPlWT9TfRJxMra91) | 3:07 | 2022-10-25 |  |
+| [On Our Way Skidoo](https://open.spotify.com/track/2gIRtz9l2ZP51jmldw6pN1) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Big City Adventure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ImvierEtcok4Ml5uYUjvR) | 0:36 | 2022-11-18 |  |
 | [On the Move](https://open.spotify.com/track/2Gdr98slaL73rUB7AC4IWC) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 0:47 | 2022-10-25 |  |
 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 | 2022-05-27 | 2022-10-26 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-05-27 | 2022-10-26 |

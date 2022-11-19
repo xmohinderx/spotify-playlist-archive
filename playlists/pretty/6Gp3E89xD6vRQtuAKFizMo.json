@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44322,
+  "num_followers": 44321,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTk4OSwyZjJkYjY0MTlhZjBjZDMzYWNlZWE0NDk2NjY5YjNmMGZkMzJmYTgy",
+  "snapshot_id": "NTk5NCxiMjAzMGE1ODM2ZGVjZGMxNzNjNDBjZjE5N2Y2YTdhMGE3YTNhOGQz",
   "tracks": [
     {
       "added_at": "2022-11-11 22:11:10",
@@ -35,6 +35,42 @@
       "duration_ms": 167460,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
+    },
+    {
+      "added_at": "2022-11-18 16:53:08",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/5HyWO2J3EnJsWS9RHIJtM9"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4enqcEaN9zRqZXlKltzyNC"
+    },
+    {
+      "added_at": "2022-11-18 16:53:08",
+      "album": {
+        "name": "Night Spot (feat. B Che)",
+        "url": "https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ"
+      },
+      "artists": [
+        {
+          "name": "R3LL",
+          "url": "https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5"
+        },
+        {
+          "name": "B Che",
+          "url": "https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN"
+        }
+      ],
+      "duration_ms": 180230,
+      "name": "Night Spot (feat. B Che)",
+      "url": "https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN"
     },
     {
       "added_at": "2022-11-11 22:11:10",
@@ -947,26 +983,6 @@
     {
       "added_at": "2022-11-11 22:11:10",
       "album": {
-        "name": "heavy metals",
-        "url": "https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo"
-      },
-      "artists": [
-        {
-          "name": "plumpy",
-          "url": "https://open.spotify.com/artist/50OV9n9Rnrf8BqUdzEVZMI"
-        },
-        {
-          "name": "daisy maize",
-          "url": "https://open.spotify.com/artist/6SAsm9v5Z1fJpbrXGvuQu4"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "heavy metals",
-      "url": "https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/32INDtZDynyEP0PqpLiOog"
       },
@@ -1043,26 +1059,18 @@
     {
       "added_at": "2022-11-11 22:11:10",
       "album": {
-        "name": "Under Pressure (feat. Dani King)",
-        "url": "https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD"
+        "name": "Such A Fool",
+        "url": "https://open.spotify.com/album/6hx1sl6hIlnIpRizDhTId2"
       },
       "artists": [
         {
-          "name": "Kamas",
-          "url": "https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2"
-        },
-        {
-          "name": "RENN",
-          "url": "https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA"
-        },
-        {
-          "name": "Dani King",
-          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Under Pressure (feat. Dani King)",
-      "url": "https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9"
+      "duration_ms": 182903,
+      "name": "Such A Fool",
+      "url": "https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS"
     },
     {
       "added_at": "2022-11-11 22:11:10",
@@ -1079,22 +1087,6 @@
       "duration_ms": 216500,
       "name": "Kanos",
       "url": "https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr"
-    },
-    {
-      "added_at": "2022-11-11 22:11:10",
-      "album": {
-        "name": "Such A Fool",
-        "url": "https://open.spotify.com/album/6hx1sl6hIlnIpRizDhTId2"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Such A Fool",
-      "url": "https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS"
     },
     {
       "added_at": "2022-11-11 22:11:10",

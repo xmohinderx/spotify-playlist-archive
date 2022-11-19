@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,566 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,548 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 3 | [Over & Done \(feat\. Pip Millett\)](https://open.spotify.com/track/27e5hiyHSRTs7E6SMqSRCn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:47 |
 | 4 | [Not Alone](https://open.spotify.com/track/2460FCYtdrrcTChzU7G7aT) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Not Alone](https://open.spotify.com/album/3uAGplw7cRRx927H35iokm) | 4:58 |
 | 5 | [Something Good](https://open.spotify.com/track/6baWEskdN5ZKy6TyA2fm5Z) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Something Good](https://open.spotify.com/album/2xRGteG3RlpT2IGXTHZF0h) | 3:32 |
-| 6 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
+| 6 | [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 |
 | 7 | [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 |
-| 8 | [Radiate](https://open.spotify.com/track/7ml9LpCXsH88Ez1mJnFzTg) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx) | [Radiate](https://open.spotify.com/album/15wCdrCX8iVt1KwM9uta2J) | 4:17 |
+| 8 | [Before You](https://open.spotify.com/track/4SY259DM3lcZjPSdcfeqTM) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Before You](https://open.spotify.com/album/6YKavj8qVTzxsG8aU8xJwV) | 2:59 |
 | 9 | [Are You](https://open.spotify.com/track/2FWmAFaVahfD7CLonK1zxS) | [Noppo](https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4) | [Are You](https://open.spotify.com/album/4eguxtM6kcT3gUh9n4novr) | 4:34 |
 | 10 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 |
 | 11 | [Still Messed Up](https://open.spotify.com/track/27CN4S6obRUhNOMsUWrx3u) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [Still Messed Up](https://open.spotify.com/album/7KxVndqxoSIAdGhrfwVXz6) | 2:59 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 42 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
 | 43 | [Believe](https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r) | [Malaky](https://open.spotify.com/artist/43DHa7Q1IhECAE5YtN3jHQ) | [Serenity EP](https://open.spotify.com/album/1F5ChgvE0QsH7Pb3ScmYTz) | 4:47 |
 | 44 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
-| 45 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
+| 45 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
 | 46 | [Sleepless](https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Sleepless](https://open.spotify.com/album/39fPiGhZ4O69w2BOlDrxJb) | 4:37 |
-| 47 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 |
+| 47 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
 | 48 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
-| 49 | [Day Ones \(feat\. Swing Ting\) \- Lenzman Remix](https://open.spotify.com/track/4JHo0uZazcovyg7KRr5Pjm) | [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS), [Swing Ting](https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX), [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Juice Flow Remixes](https://open.spotify.com/album/0OWid2St5V5EgnIRjSwYtF) | 4:26 |
-| 50 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
+| 49 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
+| 50 | [Be Free](https://open.spotify.com/track/56lz6rWxzgLWYDmGXxkeJB) | [Paper Dragon](https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai) | [Be Free](https://open.spotify.com/album/3UcwpRzAtmNpWWW5gfJ58s) | 3:51 |
 
-Snapshot ID: `MTY2Njk3NTU5NCwwMDAwMDAwMDk5NzM3MDVmOGMwNWMyNzg2MDE3YjJlZGI2Y2E3MTFi`
+Snapshot ID: `MTY2Njk3NTU5NCwwMDAwMDAwMDFkNDdkNjhmMzNhNjcxNDU0MDQzNTI5MGY4YTcyOTZj`

@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/2uR5kkAFtzj1PdDihBf0jG"
+      },
+      "artists": [
+        {
+          "name": "Ben Murphy",
+          "url": "https://open.spotify.com/artist/3I5XPVXJ2zdVP5X1wTnWs3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/6xzQYj4Xdt8GDvfE8bHTIK"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/1fmLDpX9M3qrvbz6e9LS3g"
       },
@@ -434,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+    },
+    {
+      "album": {
         "name": "Bullet",
         "url": "https://open.spotify.com/album/7bUTtLWrkKLsntpZTcacGR"
       },
@@ -571,7 +607,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 182653,
       "name": "Company Car",
       "url": "https://open.spotify.com/track/3lrVIxiQWnc1cLWsmlfe6F"
@@ -679,7 +715,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 207000,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/7dzzw8NQttXdPpEFrwrHKG"
@@ -935,7 +971,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185767,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/0vd9oVF2YwYMm6uD4VoKcm"
@@ -1400,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe"
+      },
+      "artists": [
+        {
+          "name": "Lily Lyons",
+          "url": "https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160280,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP"
+    },
+    {
+      "album": {
         "name": "Before The Dawn",
         "url": "https://open.spotify.com/album/1EcxPip4KAIlQBjkBLtNdX"
       },
@@ -1645,7 +1699,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 215478,
       "name": "Mother In The Sky",
       "url": "https://open.spotify.com/track/7fyX5m7szAoc3xwgA8EbsL"
@@ -2016,6 +2070,24 @@
     },
     {
       "album": {
+        "name": "So I've Been Told",
+        "url": "https://open.spotify.com/album/1p2ZmvbGwG4u3bKQfbvfpN"
+      },
+      "artists": [
+        {
+          "name": "Rosie H Sullivan",
+          "url": "https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216684,
+      "name": "So I've Been Told",
+      "url": "https://open.spotify.com/track/1tAFpWt9kNI3b17so9ZfxN"
+    },
+    {
+      "album": {
         "name": "So It Is",
         "url": "https://open.spotify.com/album/10ngV2CcheV7HQSrhmVLNa"
       },
@@ -2088,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Songs in the Kitchen",
+        "url": "https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ"
+      },
+      "artists": [
+        {
+          "name": "Se\u00e1nie Bermingham",
+          "url": "https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190319,
+      "name": "Songs in the Kitchen",
+      "url": "https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob"
+    },
+    {
+      "album": {
         "name": "Spill",
         "url": "https://open.spotify.com/album/6MgF6PkDOI2rGW5t882Nk8"
       },
@@ -2099,7 +2189,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 261493,
       "name": "Spill",
       "url": "https://open.spotify.com/track/6dQ1kKbYJJU27LvYdaGe9G"
@@ -2196,6 +2286,24 @@
     },
     {
       "album": {
+        "name": "SUNSHINE",
+        "url": "https://open.spotify.com/album/7emMS696pJ7NpvjuOsH4pE"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Sullivan",
+          "url": "https://open.spotify.com/artist/34ms1bLvHRmNOtYku3RkIo"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "SUNSHINE",
+      "url": "https://open.spotify.com/track/4m9X1rLMhmD0cNQ42vthAz"
+    },
+    {
+      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -2243,7 +2351,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"

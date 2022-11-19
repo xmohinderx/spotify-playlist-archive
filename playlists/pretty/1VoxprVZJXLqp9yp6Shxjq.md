@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 
 > Grab your neon socks &amp; Members Only jackets &amp; strap with the biggest hits from the decade of excess!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 55,060 likes - 81 songs - 5 hr 55 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 55,057 likes - 81 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/1VoxprVZJXLqp9yp6Shxjq.md) - [plain]
 | 80 | [Cars](https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 3:58 |
 | 81 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 
-Snapshot ID: `MTE3OSw0YzY2Yjc3ODEyYjZlODVlOThlOGY1NzllODQyYWFhMTMyNWM0ZTNk`
+Snapshot ID: `MTE4MSwyNjRhMGM5ZDVhNmYxMTk3YmM2MDA3ZmE2ZDk2NmZmMDFlZWVmNDFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Tóc Tiên
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,909 likes - 58 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,878 likes - 58 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

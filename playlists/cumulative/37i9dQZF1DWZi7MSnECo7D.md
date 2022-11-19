@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Mariana Volker
+> Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-290 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+292 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [a gente não tem nada a ver](https://open.spotify.com/track/10URqxiR7QvJnj7Fud1l5D) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5bX7qS1cdNJYjQfjCohXt1) | 4:02 | 2022-01-14 | 2022-07-29 |
 | [a gente não tem nada a ver](https://open.spotify.com/track/5nb12r6ybXzM0rtBuqjwq3) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5AQ9zGD6JEYYyY0lMzBNK8) | 4:02 | 2022-07-22 | 2022-09-24 |
 | [A Morte Do Amor](https://open.spotify.com/track/2vQjFQUozq8AiZV4xPEAMO) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [A Morte Do Amor](https://open.spotify.com/album/2m5jb2RptwBY3ooWTRmTCd) | 2:09 | 2022-02-11 | 2022-03-05 |
+| [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/track/4YCJNxlr9rUdgXrGEkCLlx) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [A Sociedade dos Nerds Psicóticos](https://open.spotify.com/album/6mJ4cn0DAOhRbv6FiE1qfr) | 3:08 | 2022-11-18 |  |
 | [A Vida É Uma Aventura](https://open.spotify.com/track/5hLBfsgyN2FJvO9r0GZBgR) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [A Vida É Uma Aventura](https://open.spotify.com/album/727SCH0aOEgXR2UR72D3At) | 3:47 | 2022-04-01 | 2022-08-13 |
 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-03-25 | 2022-07-16 |
 | [Acordei](https://open.spotify.com/track/7omGS2EKCcWM6oNBkN4ryV) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordei](https://open.spotify.com/album/7Awks75QKXipZmTWMjTeeP) | 3:02 | 2022-06-03 | 2022-08-20 |
@@ -77,7 +78,7 @@
 | [Dançando Assim](https://open.spotify.com/track/5Z05YrmWq85lEae2WUraSH) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [Dançando Assim](https://open.spotify.com/album/5UqBuGZLeKv2Q1yXqFyv73) | 2:43 | 2022-08-05 | 2022-09-17 |
 | [Das coisas que se perdem](https://open.spotify.com/track/6Hpque3mLD1UQFOkJPDYMx) | [Bomfim](https://open.spotify.com/artist/2e8cQfFufvGVSoEATHH8Cx) | [Todos os conselhos que não segui](https://open.spotify.com/album/2zVPyiDlZdTj5lyyMXVClN) | 4:20 | 2022-07-22 |  |
 | [Decidez](https://open.spotify.com/track/42fbMR2dkMat25LlLFRJ20) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Canicule Sauvage](https://open.spotify.com/album/3mJT2eEgCOvLYpilkrR2Bl) | 3:47 | 2022-04-29 | 2022-05-20 |
-| [Dela](https://open.spotify.com/track/6rPPrrFv2nbwF6WglwGUDo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo](https://open.spotify.com/album/0XvbAjrSMinlkhxx0LJdQh) | 3:33 | 2022-11-04 |  |
+| [Dela](https://open.spotify.com/track/6rPPrrFv2nbwF6WglwGUDo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo](https://open.spotify.com/album/0XvbAjrSMinlkhxx0LJdQh) | 3:33 | 2022-11-04 | 2022-11-19 |
 | [Desagradar](https://open.spotify.com/track/7qhbm7QvRktr6ZwDZzWmG1) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Desagradar](https://open.spotify.com/album/49PztzwJqsj3Ini8umF67R) | 3:24 | 2022-01-14 | 2022-01-22 |
 | [Desapego](https://open.spotify.com/track/2qbNEZGcFnauvoOLHwoURB) | [Vice\-Herói](https://open.spotify.com/artist/6cIlz91P4JYOAmdpZTYXnB) | [Vice\-Herói](https://open.spotify.com/album/11RcseLlq4wApBhyLZPRxh) | 2:58 | 2022-02-11 |  |
 | [Desejos de um Leão](https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U) | [Uiu Lopes](https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ), [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Desejos de um Leão](https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2) | 3:13 | 2022-07-22 |  |
@@ -214,6 +215,7 @@
 | [Quando](https://open.spotify.com/track/1wCWq966JTPrEilK0uqqht) | [Ombu](https://open.spotify.com/artist/5Md89pcwawc564wNKNNG0b) | [Quando](https://open.spotify.com/album/4b1wNEf2S1mFCfsLFaQTWG) | 2:50 | 2022-08-05 | 2022-09-17 |
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 | 2022-05-14 |
 | [Quarto Sem Janela](https://open.spotify.com/track/2CNpYIScasnONCyhsxV1KJ) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Quarto Sem Janela](https://open.spotify.com/album/00oztNjsDIsSItMlifZWrK) | 3:04 | 2022-01-14 | 2022-02-26 |
+| [Quem Me Dera](https://open.spotify.com/track/4Wbupcobm9ryFXY5M3Hwoa) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Quem Me Dera](https://open.spotify.com/album/6xyftajgJC0tmzaKgyLINz) | 2:26 | 2022-11-18 |  |
 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 | 2022-01-14 | 2022-08-06 |
 | [Querer Nunca Fez Planos](https://open.spotify.com/track/2XEuJHY9Ak80QwI1BVhmMa) | [PLUMA](https://open.spotify.com/artist/0eRkKHD8YCd9tkSiabTMqb), [Boogarins](https://open.spotify.com/artist/0ohvsn0lgt51qZUbu9ct4s) | [Querer Nunca Fez Planos](https://open.spotify.com/album/6JrS5ydirAAPoXipEYqD6I) | 3:37 | 2022-05-27 | 2022-07-02 |
 | [Raio](https://open.spotify.com/track/2PcjavAsBsTlpX3TuLndpK) | [Nathan Dies](https://open.spotify.com/artist/1JcsUiXXY016XtwaKpIAuh) | [Instinto](https://open.spotify.com/album/2LbTR9Dz0YpMrrBAoGJEIl) | 3:28 | 2022-01-14 | 2022-02-26 |

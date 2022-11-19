@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> Heavy new bands you need to have an eye on\. Cover: VCTMS
+> Heavy new bands you need to have an eye on\. Cover: Witch Fever
 
-110 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
+115 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/0gTCJ5PNCODVC0yVCIKhB7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,11 +34,13 @@
 | [Ded to Me](https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Ded to Me](https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL) | 3:44 | 2022-08-19 |  |
 | [Diabolic](https://open.spotify.com/track/35nX8jOmfuUEofO4r20zJN) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [Diabolic](https://open.spotify.com/album/5JXXDea10HLfGk9zMoK90j) | 3:25 | 2022-09-02 |  |
 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 | 2022-07-29 | 2022-08-20 |
-| [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 | 2022-07-29 |  |
-| [Egomania](https://open.spotify.com/track/32Awf6Cs0vi7Tx9ROc202z) | [Black Dog](https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP) | [Slow Death Society](https://open.spotify.com/album/3p1RCA4yNRNSmMbrjTZH9Z) | 2:27 | 2022-09-23 |  |
+| [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 | 2022-07-29 | 2022-11-19 |
+| [Egomania](https://open.spotify.com/track/32Awf6Cs0vi7Tx9ROc202z) | [Black Dog](https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP) | [Slow Death Society](https://open.spotify.com/album/3p1RCA4yNRNSmMbrjTZH9Z) | 2:27 | 2022-09-23 | 2022-11-19 |
 | [Empty Vessels](https://open.spotify.com/track/0uAFXFjrVi3Bd1LDDMl4vI) | [Graupel](https://open.spotify.com/artist/7vIC7DWLeeIk5kHTZosmg6) | [Empty Vessels](https://open.spotify.com/album/1Lz5DqGT3XU3Zlyp80T4pJ) | 2:40 | 2022-07-29 | 2022-08-27 |
+| [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 | 2022-11-18 |  |
 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 | 2022-07-29 |  |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-07-29 | 2022-09-03 |
+| [Feed The Dream](https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [Feed The Dream](https://open.spotify.com/album/3h0iF9lbfKCalG5KclDWPA) | 4:31 | 2022-11-18 |  |
 | [Felt Like Home](https://open.spotify.com/track/1Tvq5AWaYmN598So4r6p2h) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Felt Like Home](https://open.spotify.com/album/7BCIRnGqWxt9w9JsbsjYIE) | 3:30 | 2022-10-28 |  |
 | [FIX THIS](https://open.spotify.com/track/1qoQclrr4nysaJXt9NMQGA) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO) | [FIX THIS](https://open.spotify.com/album/2ABQMw2umOizavA4yPSRZQ) | 2:27 | 2022-10-14 |  |
 | [Flock](https://open.spotify.com/track/3kOCCO9FS1u4fGn7Khcmmt) | [Haunted By Silhouettes](https://open.spotify.com/artist/7cXEMDxakHoQn4QmGMUmGe) | [Flock](https://open.spotify.com/album/5mb26sOcVrRDb0cQOxT4Mf) | 3:01 | 2022-07-29 | 2022-08-20 |
@@ -85,15 +87,16 @@
 | [Servant](https://open.spotify.com/track/3FG2lpxvJulguHUn7G5f2V) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Servant](https://open.spotify.com/album/6DgCalvMdxS4cGDMLxXRAt) | 3:00 | 2022-07-29 | 2022-10-01 |
 | [Shallow \(feat\. Mike Perez\) \- Single Edit](https://open.spotify.com/track/1yH6xfN3nET67Ryux09k5s) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Mike Perez](https://open.spotify.com/artist/5PCYLbDOlfd0EyAWOp7umQ) | [Shallow](https://open.spotify.com/album/61WbhTzQSPw5CruJreLXQQ) | 3:25 | 2022-07-29 | 2022-09-10 |
 | [Siren's Calling](https://open.spotify.com/track/2Rid5rm3i8pAMWbMFTqFRT) | [Ginevra](https://open.spotify.com/artist/70jOf411lOeFa5k14DufSh) | [Siren's Calling](https://open.spotify.com/album/7BNlbfyuIkCpszLCo1exvi) | 3:40 | 2022-07-29 | 2022-09-03 |
-| [Slaughterhouse](https://open.spotify.com/track/6TbRUyqguhyHq4ZuM4Azf1) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Slaughterhouse](https://open.spotify.com/album/2hjoCyFS7hbm8DhUPuFBeL) | 4:12 | 2022-07-29 |  |
+| [Slaughterhouse](https://open.spotify.com/track/6TbRUyqguhyHq4ZuM4Azf1) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Slaughterhouse](https://open.spotify.com/album/2hjoCyFS7hbm8DhUPuFBeL) | 4:12 | 2022-07-29 | 2022-11-19 |
 | [Smokes, Let's Go](https://open.spotify.com/track/0nCjt3hXKjGFbsqUDtMPOR) | [Don't Get Comfy](https://open.spotify.com/artist/5EE1DDFDPJTVYnJdLUXtfE) | [Smokes, Let's Go](https://open.spotify.com/album/6kv22qz0FjQJTRpbo0vADA) | 3:25 | 2022-07-29 |  |
 | [Smoking Mirror](https://open.spotify.com/track/1w2Fs2kq0BY96Ql2jrGumv) | [Kurokuma](https://open.spotify.com/artist/6XtVoVBGIKGHCyfA95QoUQ) | [Born of Obsidian](https://open.spotify.com/album/1SC6DXzW8fov9cVYfPrVhx) | 8:24 | 2022-08-19 | 2022-11-05 |
+| [Soul Burn](https://open.spotify.com/track/72STRbMtY5ypgxtEJ5v6OU) | [Neon Graves](https://open.spotify.com/artist/0p3c6u5PBPVsrl2UhZexDx) | [Soul Burn](https://open.spotify.com/album/7rtcZw6pUN8wv227KWwlNe) | 3:47 | 2022-11-18 |  |
 | [Static Abyss](https://open.spotify.com/track/7uovzMDpYCrhVd9EtXWDHQ) | [Nicolas Cage Fighter](https://open.spotify.com/artist/4JkTiXry8oQXwcOmEdqAPl) | [The Bones That Grew from Pain](https://open.spotify.com/album/7GzN1P1QFtMNIp3p6ZQEFe) | 3:47 | 2022-07-29 |  |
 | [Still Sinking](https://open.spotify.com/track/2HwEi11MYPuQY1rXBrUb7n) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Inside My Head](https://open.spotify.com/album/5WItXKjIqfNPLL6yZEgxEk) | 3:44 | 2022-09-09 |  |
 | [Still Waiting](https://open.spotify.com/track/5L6GZ6mFm4q0ZM4hhE8JJt) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Still Waiting](https://open.spotify.com/album/7MnKb71wfwCK6QNVQdefI9) | 2:40 | 2022-08-19 |  |
 | [Super Fiend](https://open.spotify.com/track/2JOYAjpbutUFqxHYncleLf) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [EXPLICIT: The MiXXXtape](https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2) | 3:28 | 2022-09-09 |  |
 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 | 2022-07-29 | 2022-08-27 |
-| [Thanatos](https://open.spotify.com/track/1nckYgkJGeJFvcEwKrSCe7) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Thanatos](https://open.spotify.com/album/1SwglEKNRXgmlGP3csWSJV) | 2:56 | 2022-08-26 |  |
+| [Thanatos](https://open.spotify.com/track/1nckYgkJGeJFvcEwKrSCe7) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Thanatos](https://open.spotify.com/album/1SwglEKNRXgmlGP3csWSJV) | 2:56 | 2022-08-26 | 2022-11-19 |
 | [The Dearly Beloved](https://open.spotify.com/track/65ISG3z0biln1mB8wakFEi) | [VCTMS](https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT) | [The Dearly Beloved](https://open.spotify.com/album/3985j1Z12r21NCWCbGHTY2) | 3:56 | 2022-10-07 |  |
 | [The End](https://open.spotify.com/track/09STcjQLFcCE7TzjBmIXML) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Stoned Statues](https://open.spotify.com/album/0NpgStIxQiQV5TmEmu7UJK) | 3:45 | 2022-07-29 | 2022-10-01 |
 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 | 2022-07-29 |  |
@@ -102,7 +105,7 @@
 | [The Other Side](https://open.spotify.com/track/3o9soRptwDhjVZ5IW0c2OG) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [The Other Side](https://open.spotify.com/album/6pzWHJIhb1m0bynoFZzx7Q) | 3:34 | 2022-07-29 | 2022-08-20 |
 | [The River](https://open.spotify.com/track/2jHCuaT5m1iXLnugNCERSh) | [Prison](https://open.spotify.com/artist/4UVyBJPlg3bV69JZk1trYq) | [The River](https://open.spotify.com/album/2nLucUgoU2DW05o2FUEULd) | 3:38 | 2022-11-04 |  |
 | [The Third Pillar](https://open.spotify.com/track/0hLMMjNkhEPUTelmWDtqLg) | [Ghosts Of Atlantis](https://open.spotify.com/artist/7vQmrGUUZlbNkjecfGuo61) | [3.6.2.4](https://open.spotify.com/album/5O6RXs6VeaXphvvrRi7hHH) | 5:05 | 2022-08-19 | 2022-10-15 |
-| [There's a Glitch in Human Consciousness](https://open.spotify.com/track/11dR6vXFCoZsTXD2uH6YlG) | [Netherlands](https://open.spotify.com/artist/1WUAsFAAm9aQttDw4M7seC) | [There's a Glitch in Human Consciousness](https://open.spotify.com/album/1I0Z5NYHR4AYENHiQPJATM) | 3:44 | 2022-08-19 |  |
+| [There's a Glitch in Human Consciousness](https://open.spotify.com/track/11dR6vXFCoZsTXD2uH6YlG) | [Netherlands](https://open.spotify.com/artist/1WUAsFAAm9aQttDw4M7seC) | [There's a Glitch in Human Consciousness](https://open.spotify.com/album/1I0Z5NYHR4AYENHiQPJATM) | 3:44 | 2022-08-19 | 2022-11-19 |
 | [Tiny Disappointments](https://open.spotify.com/track/1pfAi5l2hIvVoBN13s1Gbj) | [The Offering](https://open.spotify.com/artist/69gpxGPOo7OguSCeHSlO9C) | [Tiny Disappointments](https://open.spotify.com/album/4itHsRrDzMue3SKuVcIoCw) | 6:36 | 2022-09-02 |  |
 | [Toxic](https://open.spotify.com/track/5yPoXFHbffwThUvx0ssfFZ) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Toxic](https://open.spotify.com/album/1o7TaQ4EMPhF8wHpUFv08z) | 3:10 | 2022-09-02 |  |
 | [Trench](https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [No Good At Goodbyes](https://open.spotify.com/album/5XfEUtLHyx1mcHQ9bwWLZN) | 2:36 | 2022-07-29 | 2022-09-17 |
@@ -112,10 +115,12 @@
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 | 2022-10-15 |
 | [Water](https://open.spotify.com/track/48QXTuezcfADYjiAfSWtod) | [Cold Night For Alligators](https://open.spotify.com/artist/2iFIkdC4XNYlTdFSnaYPo4) | [Water](https://open.spotify.com/album/4roX7KGXRQUOs1klLorqqq) | 6:16 | 2022-07-29 | 2022-08-20 |
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-07-29 | 2022-08-20 |
-| [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 |  |
+| [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 | 2022-11-19 |
 | [We Can Never Go Back to Arizona](https://open.spotify.com/track/5dr7QhlY2wPGYvVCcKN58K) | [To Bloom](https://open.spotify.com/artist/2rNqQ0mRpXnJGqwRHh12DL) | [We Can Never Go Back to Arizona](https://open.spotify.com/album/0ES4Wdnw4p3ceYFDDCYpBE) | 5:20 | 2022-08-19 | 2022-09-03 |
+| [Why](https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [God's Country](https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx) | 3:31 | 2022-11-18 |  |
 | [WITNESS](https://open.spotify.com/track/143IjpY2zxe3Gkgd1LqyG2) | [THE UNCROWNED](https://open.spotify.com/artist/7C4ZP77B8ST0JQeBB0loHI) | [WITNESS](https://open.spotify.com/album/6htGFQwkKjiVA7CEhFs6BG) | 4:20 | 2022-09-23 |  |
 | [Worn Out](https://open.spotify.com/track/1dErvWB1kTwYQuSvYn8zrs) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Worn Out](https://open.spotify.com/album/51RgDcqScUNM0tnJyYPU0D) | 3:35 | 2022-08-05 |  |
+| [WRAITH](https://open.spotify.com/track/1tqaIehcDC5IcnRVGEGXXx) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [WRAITH](https://open.spotify.com/album/3ORFs3dvqLlEPZspzXkiHw) | 3:19 | 2022-11-18 |  |
 | [Wraith](https://open.spotify.com/track/3l01YBmdkodOql6KenzqHr) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Wraith](https://open.spotify.com/album/59wlkyqNZcSr6XwOZFQYqq) | 3:00 | 2022-09-02 |  |
 | [Yenta](https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl) | 3:09 | 2022-10-14 |  |
 

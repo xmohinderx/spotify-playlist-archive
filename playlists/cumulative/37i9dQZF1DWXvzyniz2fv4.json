@@ -774,6 +774,28 @@
     },
     {
       "album": {
+        "name": "Jogador Caro",
+        "url": "https://open.spotify.com/album/2ZSkGBOi0tmMYaFRczuON0"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202989,
+      "name": "Jogador Caro",
+      "url": "https://open.spotify.com/track/0bnoK8bzj5qUEZEFut5gud"
+    },
+    {
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
       },
@@ -1819,6 +1841,32 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea \u00c9 Meu Love",
+        "url": "https://open.spotify.com/album/6iS7icor7jV49DRk1bfbQQ"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Cabrera",
+          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144624,
+      "name": "Voc\u00ea \u00c9 Meu Love",
+      "url": "https://open.spotify.com/track/5Rnjrn6iOQlQHowaohN1Xh"
     },
     {
       "album": {

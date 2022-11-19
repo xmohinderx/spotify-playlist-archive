@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1000 Rosas",
+        "url": "https://open.spotify.com/album/5rLW6XwLgtoA2isL3mKYDE"
+      },
+      "artists": [
+        {
+          "name": "Will Kevin",
+          "url": "https://open.spotify.com/artist/29Aluk4XkIrlZzUi15cqoG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198997,
+      "name": "1000 Rosas",
+      "url": "https://open.spotify.com/track/4GaOnNm5S193W7lkghjBhf"
+    },
+    {
+      "album": {
         "name": "10Min",
         "url": "https://open.spotify.com/album/3kqgJR1MqCuziuY65f5XaK"
       },
@@ -53,7 +71,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 201818,
       "name": "111",
       "url": "https://open.spotify.com/track/1KSl3fjYahx3NizZXO8jwE"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 150020,
       "name": "A.P",
       "url": "https://open.spotify.com/track/1BRrmSdjTjHgCMSGtIT0Za"
@@ -2245,6 +2263,28 @@
       "duration_ms": 152009,
       "name": "Tira Roupa",
       "url": "https://open.spotify.com/track/0woJpVZkFHMhJNdJ0OupYP"
+    },
+    {
+      "album": {
+        "name": "T\u00f4 Querendo Voc\u00ea",
+        "url": "https://open.spotify.com/album/25ew32UgKSh25FIvtNqERZ"
+      },
+      "artists": [
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        },
+        {
+          "name": "TheBosh",
+          "url": "https://open.spotify.com/artist/7bJoIB2yzey1U3xx3j7tYG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "T\u00f4 Querendo Voc\u00ea",
+      "url": "https://open.spotify.com/track/0GyrFrplaA63u4Elo1yBdE"
     },
     {
       "album": {

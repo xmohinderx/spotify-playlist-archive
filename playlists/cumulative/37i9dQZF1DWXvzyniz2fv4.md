@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-80 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+82 songs - 4 hr 22 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Ir Embora](https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO) | [Taz Mureb](https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW), [Scarlet Ohana](https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3) | [Ir Embora](https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj) | 2:05 | 2021-11-12 |  |
 | [Jatin](https://open.spotify.com/track/03WJFSKfoeWsAzKtcy9j4Y) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Jatin](https://open.spotify.com/album/5SElpACjwKeRzWaQaRaUuC) | 2:52 | 2021-11-12 | 2022-05-07 |
 | [Jeito Bom \#2](https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs) | [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t), [Caio Big](https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN), [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Jeito Bom \#2](https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z) | 3:29 | 2022-09-23 |  |
+| [Jogador Caro](https://open.spotify.com/track/0bnoK8bzj5qUEZEFut5gud) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Jogador Caro](https://open.spotify.com/album/2ZSkGBOi0tmMYaFRczuON0) | 3:22 | 2022-11-18 |  |
 | [Lua](https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Lua](https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd) | 2:44 | 2021-11-12 |  |
 | [Mais Além](https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3), [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j), [Gabriel Lobo](https://open.spotify.com/artist/777IV0HZlue1kMindCH8ce), [Ricca](https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc) | [Mais Além](https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN) | 3:13 | 2021-11-12 |  |
 | [Mais um Som de Amor](https://open.spotify.com/track/1LUXuBHT3gaB6KiPxCdN8h) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [Mais um Som de Amor](https://open.spotify.com/album/4PPjHHz5ISLG7lhLiF4Orn) | 3:34 | 2021-11-12 |  |
@@ -87,6 +88,7 @@
 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 | 2021-11-12 |  |
 | [Vai Gostosa](https://open.spotify.com/track/0a1a1u80SpD9heQ2ZbZ3vb) | [Muzi](https://open.spotify.com/artist/7kkXeEaUHfVkdUM7JUMtMk), [Rafa Martins](https://open.spotify.com/artist/5R7eRcOsRZhnTkkCJ69wet), [Dolla](https://open.spotify.com/artist/1lzCig630ASEZm9vI4COE3) | [Vai Gostosa](https://open.spotify.com/album/1Vuo97td00zwKJQpuDpwzn) | 4:58 | 2021-11-12 | 2022-06-04 |
 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 | 2021-11-12 |  |
+| [Você É Meu Love](https://open.spotify.com/track/5Rnjrn6iOQlQHowaohN1Xh) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Você É Meu Love](https://open.spotify.com/album/6iS7icor7jV49DRk1bfbQQ) | 2:24 | 2022-11-18 |  |
 | [É Você](https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Mc Chagas](https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj), [Mc Rei Delas](https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i) | [É Você](https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa) | 3:17 | 2021-11-12 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

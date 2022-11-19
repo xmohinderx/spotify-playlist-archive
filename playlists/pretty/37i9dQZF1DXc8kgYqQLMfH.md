@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,110 likes - 430 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,063 likes - 430 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 117 | [7 o'clock](https://open.spotify.com/track/6KPm7sTpDFaFGKn8nIJe1y) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [7 o'clock](https://open.spotify.com/album/4fof8WgryM4FgYnAXg3OSB) | 2:02 |
 | 118 | [Blue Whale](https://open.spotify.com/track/2euzWZlQ7DG1CnzKDFUvzh) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Blue Whale](https://open.spotify.com/album/4p37WfqSzQdk86J9Py2vrZ) | 2:47 |
 | 119 | [To The Wind](https://open.spotify.com/track/7taHveMP7mwK40qDQhMwzC) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [To The Wind](https://open.spotify.com/album/31JdcI3X2p0mLcponFQWE8) | 2:42 |
-| 120 | [Churches](https://open.spotify.com/track/0kl29DEUHvkEUgQ2ICZNKg) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Churches](https://open.spotify.com/album/24lYsA8QnTNiGJe32ROCY1) | 1:48 |
+| 120 | [Chuches](https://open.spotify.com/track/0kl29DEUHvkEUgQ2ICZNKg) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Chuches](https://open.spotify.com/album/24lYsA8QnTNiGJe32ROCY1) | 1:48 |
 | 121 | [Writing On The Wall](https://open.spotify.com/track/6zwn1cdZtB10QfDc21ZM7I) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Writing On The Wall](https://open.spotify.com/album/6uwKTvXEH4LxPmnBnEr4z1) | 1:19 |
 | 122 | [BLANKETS & TEA](https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [BLANKETS & TEA](https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u) | 2:30 |
 | 123 | [i'm sorry](https://open.spotify.com/track/5axCWfV76SnK8XZzuMrAYr) | [Miyuki Kuzuoka](https://open.spotify.com/artist/4QP6hpplFH8kQZ0AKo0c1Z) | [i'm sorry](https://open.spotify.com/album/3YYrHBFzq2SEJ0at3JUHtT) | 1:43 |

@@ -30,6 +30,32 @@
     },
     {
       "album": {
+        "name": "The Nutcracker, Op. 71/TH14/Act I/Evergreen Forest in Winter",
+        "url": "https://open.spotify.com/album/7GQP9dMgiHx4FJ6xN7ebdr"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Kristjan J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+        },
+        {
+          "name": "Baltic Sea Philharmonic",
+          "url": "https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211146,
+      "name": "Act I: Evergreen Forest in Winter",
+      "url": "https://open.spotify.com/track/7cdKuRwUayG5qE4lWIsyuP"
+    },
+    {
+      "album": {
         "name": "The Nutcracker, Op. 71/TH14/Act II/Coffee: Arabian Dance",
         "url": "https://open.spotify.com/album/0hJSFAC68f5ZYDjo3EaIsF"
       },

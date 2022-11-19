@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Sofia Portanet
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,683 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,667 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,21 +15,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 5 | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/4jJva9WWChpuSpKMdfKxQ6) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/4dFcys5abpY2AUJ1ZOMTps) | 2:11 |
 | 6 | [Männer](https://open.spotify.com/track/6dQPQikamiuTl8WoUWJ7vi) | [Blond](https://open.spotify.com/artist/4WnfD0e5J91W7zyHBK6svA), [addeN](https://open.spotify.com/artist/37SgaZuWj0yxWXetbYOe7C) | [Männer](https://open.spotify.com/album/0MOVco79zILYTrD4cDaU8f) | 3:18 |
 | 7 | [Das muss Liebe sein](https://open.spotify.com/track/3hLU79BvIP0uJAQBj8TO7n) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Das muss Liebe sein](https://open.spotify.com/album/5r1BOuqrbsi0IOrZ3coCgn) | 2:39 |
-| 8 | [Augenringe](https://open.spotify.com/track/0LB4OdGHBeS62dFmTp3hO1) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Augenringe](https://open.spotify.com/album/0Hb2tK4JSsyfaB7h7mKP4y) | 2:53 |
-| 9 | [Wenn du's eh nicht tust](https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Wenn du's eh nicht tust](https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ) | 2:46 |
+| 8 | [Wenn du's eh nicht tust](https://open.spotify.com/track/4KwLkmnOQPpoVpD7dIyvUS) | [JUNA](https://open.spotify.com/artist/7BAvtoWO84xzAOwaSKDYlj) | [Wenn du's eh nicht tust](https://open.spotify.com/album/2JCd96fTDAgCtHF9F7GCLZ) | 2:46 |
+| 9 | [Augenringe](https://open.spotify.com/track/0LB4OdGHBeS62dFmTp3hO1) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Augenringe](https://open.spotify.com/album/0Hb2tK4JSsyfaB7h7mKP4y) | 2:53 |
 | 10 | [DRIVE](https://open.spotify.com/track/4UtoBuaydSltO29GqrraBi) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [SPLIT](https://open.spotify.com/album/7ylHNg7g5WHZMemPSsHcuN) | 3:17 |
 | 11 | [Kater](https://open.spotify.com/track/7y9Kp4Tjka2B52vtuY4Jse) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Kater](https://open.spotify.com/album/0XZTfLHBEDDCyxfL7vMYF1) | 2:47 |
-| 12 | [GASOLINA](https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [GASOLINA](https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9) | 2:14 |
+| 12 | [Sektfrühstück](https://open.spotify.com/track/164s1h9u0O4gWAGseDIBKR) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Sektfrühstück](https://open.spotify.com/album/6EtXewGaltDSG8CmlNMYgT) | 2:27 |
 | 13 | [badmómz.](https://open.spotify.com/track/4ZTK3Zsw7cawBxEWgO0GTr) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:03 |
-| 14 | [Sektfrühstück](https://open.spotify.com/track/164s1h9u0O4gWAGseDIBKR) | [futurebae](https://open.spotify.com/artist/0UYSigAjotRo84aypVTw0Q), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Sektfrühstück](https://open.spotify.com/album/6EtXewGaltDSG8CmlNMYgT) | 2:27 |
+| 14 | [GASOLINA](https://open.spotify.com/track/7zC2vyrgGRvQeFho4sEfyL) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [GASOLINA](https://open.spotify.com/album/7BtG8m2SYkXs8UicDQQCo9) | 2:14 |
 | 15 | [Grey's Anatomy](https://open.spotify.com/track/5CheTDfGjLq2j9Uk2gvsOf) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Grey's Anatomy](https://open.spotify.com/album/179HmxvzZVeFyFpJMeA7zg) | 2:07 |
 | 16 | [DEJA VU](https://open.spotify.com/track/54uPYRaxuV9AyLYrhyQW49) | [MEL](https://open.spotify.com/artist/6FlJleUXbFb19c0U2BocbM) | [DEJA VU](https://open.spotify.com/album/01NWWpfD8KdMXIJeKqonLE) | 2:44 |
 | 17 | [Monolith](https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Monolith](https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD) | 6:31 |
 | 18 | [Nie Mehr](https://open.spotify.com/track/6CYKqDbvVwi6qlUtcenEDM) | [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [Nie Mehr](https://open.spotify.com/album/5o8bPr5KDwwyM8R7VhWr4Z) | 2:00 |
 | 19 | [White Noise](https://open.spotify.com/track/1iAUVQfVxE2BLBVj94HoBy) | [PIA MARIA](https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ) | [White Noise](https://open.spotify.com/album/1uBFqmbLOwGHaLXvZhkr8g) | 2:54 |
 | 20 | [Let the Games Begin](https://open.spotify.com/track/7lKOrMhonHXZEEImIMqfn3) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Let the Games Begin](https://open.spotify.com/album/1hBil9bmdI7hDDF2T5xo4w) | 5:48 |
-| 21 | [GO BACK](https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SANT JORDI 02](https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh) | 5:40 |
-| 22 | [DMs](https://open.spotify.com/track/3SWHOSTh2cyledTEtOyzAk) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [DMs](https://open.spotify.com/album/1GrSsPWvJlutbq9tWGgx9n) | 2:23 |
+| 21 | [DMs](https://open.spotify.com/track/3SWHOSTh2cyledTEtOyzAk) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [DMs](https://open.spotify.com/album/1GrSsPWvJlutbq9tWGgx9n) | 2:23 |
+| 22 | [GO BACK](https://open.spotify.com/track/66Ofs7OCzCTBVyq6J0oef0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SANT JORDI 02](https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh) | 5:40 |
 | 23 | [Vroom Vroom](https://open.spotify.com/track/5eGdLgiWcTWCL0n3saJCrW) | [Aysar](https://open.spotify.com/artist/1NwgjGe4PKnpX1lSV2d2Vo) | [Vroom Vroom](https://open.spotify.com/album/3ROumfvwZCJVwOnrI70i4O) | 2:12 |
 | 24 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 |
 | 25 | [sex ist](https://open.spotify.com/track/6B11od1TPTbJMEDLWoilyw) | [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [sex ist](https://open.spotify.com/album/0DP1Y6HAdM1d3u7Ml8V9iG) | 3:12 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [Was soll ich im Himmel](https://open.spotify.com/track/1ixdRkSOviY8DaV2PFYAI4) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG), [Skofi](https://open.spotify.com/artist/6Fip3yMOPnSLEhRRj99Olt) | [Was soll ich im Himmel](https://open.spotify.com/album/5ChOXcw4aSCVTStIv3xl8f) | 2:38 |
 | 35 | [Uncertain Cold](https://open.spotify.com/track/3XuQbegDSf5To2qCM4sZav) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1) | [Uncertain Cold](https://open.spotify.com/album/59LEVXmzZqjibAAbYiacpm) | 2:48 |
 | 36 | [Lorbeeren](https://open.spotify.com/track/1gnstVrTLGzFjCrW1PAUr7) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK), [Melik](https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz) | [Lorbeeren](https://open.spotify.com/album/7yzyRoGpGbKdeTHVDG9BDu) | 3:14 |
-| 37 | [X\-Faktor](https://open.spotify.com/track/2jSEuZ5b2B3C9C1JprPJLh) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp), [TEKA](https://open.spotify.com/artist/2F0Rs5ZuW4NHX4iGPWaL2c), [So Vital](https://open.spotify.com/artist/6vU3KUDQGWbkupZn1iu6W0) | [X\-Faktor](https://open.spotify.com/album/6bjGsSQcIQbAUHu60G3OCA) | 2:39 |
-| 38 | [Does She Know You?](https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt) | [metty](https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW) | [Does She Know You?](https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95) | 2:31 |
+| 37 | [Does She Know You?](https://open.spotify.com/track/4SjnaadFrPkAoM1bXLUyLt) | [metty](https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW) | [Does She Know You?](https://open.spotify.com/album/60CmEaPmp0suS6zhK79l95) | 2:31 |
+| 38 | [X\-Faktor](https://open.spotify.com/track/2jSEuZ5b2B3C9C1JprPJLh) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp), [TEKA](https://open.spotify.com/artist/2F0Rs5ZuW4NHX4iGPWaL2c), [So Vital](https://open.spotify.com/artist/6vU3KUDQGWbkupZn1iu6W0) | [X\-Faktor](https://open.spotify.com/album/6bjGsSQcIQbAUHu60G3OCA) | 2:39 |
 | 39 | [Calling Your Name](https://open.spotify.com/track/2L4TchQ54d2rHkhhCbiMGT) | [MISSINCAT](https://open.spotify.com/artist/5P9sPzKeZ0A6OEe3hQAR0v) | [Calling Your Name](https://open.spotify.com/album/0dvHTrkKxj3YrYVO4xQKOW) | 3:19 |
 | 40 | [TRADE](https://open.spotify.com/track/5uu5sFyGia3nZjC6WClmtn) | [HAWA](https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG) | [TRADE](https://open.spotify.com/album/4q3zUHMIWeMqRq4Wwrbym4) | 3:07 |
 | 41 | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/track/4PqGQYsfvkO53Ip2CiUBZk) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [Bis wir uns verlieren \(Regret\)](https://open.spotify.com/album/7H2pk16x19qA06QbJQEPDq) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Sidewalk](https://open.spotify.com/track/23jcLRQeXNcZWZrBIKeuY8) | [Bae.con](https://open.spotify.com/artist/13Vka7xGjRHhIOGzvomJZd) | [Sidewalk](https://open.spotify.com/album/7bvIFa8V7Oj9yZbv9H69x0) | 2:20 |
 | 50 | [Devotion](https://open.spotify.com/track/2Pjw8w7KSQkPLPp8RjOvCZ) | [EVÎN](https://open.spotify.com/artist/0lWgtltnu46nD7fJxTjarO) | [Devotion](https://open.spotify.com/album/7ucUAUJPPqoDdmOW69I7vP) | 2:17 |
 
-Snapshot ID: `MTY2Nzg2MjAwMCwwMDAwMDAwMDNhZDc1NDhiNDYzNzZlNTMyOTJlMGZhMDc3YjIxOGZi`
+Snapshot ID: `MTY2Nzg2MjAwMCwwMDAwMDAwMGU4NTM0NGU2ZTBhZTdhZDViMDljODgyZjIxMzU2NmM3`

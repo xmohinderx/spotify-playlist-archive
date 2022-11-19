@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Geolier, Ernia, Shiva e tanti altri.
 
-939 songs - 1 day 19 hr 11 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+940 songs - 1 day 19 hr 14 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [AURORA](https://open.spotify.com/track/5IUQU6NEdfAy2wpPvDeIdm) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [PAIN PARTY](https://open.spotify.com/album/62lhmg0YnpPe7yXY7F4JNA) | 3:12 | 2022-05-19 | 2022-06-03 |
 | [AUTOMATIC](https://open.spotify.com/track/2TZ4jSGbgVx5Yo7Su5sl77) | [Geno](https://open.spotify.com/artist/6FOJR0D9TwMl37EmWCPUTl) | [AUTOMATIC](https://open.spotify.com/album/22ZMiHNQRqdoG7RvYYVHxw) | 2:20 | 2022-07-07 | 2022-07-22 |
 | [AUTOSTOP](https://open.spotify.com/track/5VHCKZj4U8B2uxgV1ep0pI) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [AUTOSTOP](https://open.spotify.com/album/08axqrdrj5kYIBJt3nLQ3Y) | 3:09 | 2022-10-27 |  |
-| [Autumn \- Radio Edit / From The Amazon Original Movie "Autumn Beat"](https://open.spotify.com/track/0PVa08UjRz559oTuGkwhmN) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Moris Ensemble Choir](https://open.spotify.com/artist/0F3QxS40C5XabYdv16GWYa) | [Autumn \(Radio Edit / From The Amazon Original Movie "Autumn Beat"\)](https://open.spotify.com/album/1EqvZud1cocjjQAANVRjoa) | 2:54 | 2022-11-10 |  |
+| [Autumn](https://open.spotify.com/track/5ZbkfiVM1iAOowcr8N62XM) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Moris Ensemble Choir](https://open.spotify.com/artist/0F3QxS40C5XabYdv16GWYa) | [Autumn Beat \(from the Amazon Original Movie "Autumn Beat"\)](https://open.spotify.com/album/7GIe25Owi4l2aGJEdBLbIM) | 2:54 | 2022-11-18 |  |
+| [Autumn \- Radio Edit / From The Amazon Original Movie "Autumn Beat"](https://open.spotify.com/track/0PVa08UjRz559oTuGkwhmN) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Moris Ensemble Choir](https://open.spotify.com/artist/0F3QxS40C5XabYdv16GWYa) | [Autumn \(Radio Edit / From The Amazon Original Movie "Autumn Beat"\)](https://open.spotify.com/album/1EqvZud1cocjjQAANVRjoa) | 2:54 | 2022-11-10 | 2022-11-19 |
 | [AWE](https://open.spotify.com/track/4TLyvOHhzatoBhpvZocUBB) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [AWE](https://open.spotify.com/album/1bYzrn7FHLLh20WTatmTzm) | 2:18 | 2022-06-23 | 2022-07-22 |
 | [Awe Awe](https://open.spotify.com/track/6XOy8T8tnLMPCEORc0TfMl) | [8mike](https://open.spotify.com/artist/4g82Dq6YOjema0kQwuhB9N), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [Awe Awe](https://open.spotify.com/album/5kVO7Tun6K1fkG0bZW0LTe) | 2:50 | 2022-05-26 | 2022-06-10 |
 | [B.U.F.](https://open.spotify.com/track/4wdow0OrNHyFJyAVG0knt3) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Verano](https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK) | [B.U.F.](https://open.spotify.com/album/3IuWUPJzVr63tXvAeyWRHp) | 2:56 | 2022-06-30 | 2022-07-15 |

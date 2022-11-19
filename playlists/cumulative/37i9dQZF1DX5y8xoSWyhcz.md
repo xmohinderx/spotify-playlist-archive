@@ -2,9 +2,9 @@
 
 ### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
 
-> it's a vibe \(◡ ‿ ◡ ✿\)\.  girl in red on the cover
+> it's a vibe \(◡ ‿ ◡ ✿\)\. hemlocke springs on the cover.
 
-992 songs - 2 day 2 hr 55 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
+993 songs - 2 day 2 hr 58 min - [published](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 | 2022-07-29 |  |
 | [Ghost](https://open.spotify.com/track/2t7JR00zCp35xLqsxjRnyo) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Ghost](https://open.spotify.com/album/6fAMMhsoOgYNO5ktqLhJ9U) | 2:45 | 2022-04-29 | 2022-10-15 |
 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 | 2021-04-03 | 2021-06-19 |
+| [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 | 2022-11-18 |  |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2020-11-03 | 2020-11-04 |
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-14 | 2021-01-30 |
 | [girlfriend](https://open.spotify.com/track/1VvHMWM4x5KNNIkeDfepKg) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [girlfriend](https://open.spotify.com/album/20QM71c1VvCaBb8uO2IWUo) | 2:14 | 2021-02-27 | 2021-05-08 |
@@ -808,7 +809,7 @@
 | [Stoned at the Nail Salon](https://open.spotify.com/track/0WLVSnKqQBK4UPom1TESHK) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Stoned at the Nail Salon](https://open.spotify.com/album/1LPqrRp0TeRO7hO1SYF08y) | 4:26 | 2021-07-24 | 2021-08-21 |
 | [Stoned Nights](https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Stoned Nights](https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2) | 3:25 | 2021-12-11 | 2022-04-29 |
 | [Stormy](https://open.spotify.com/track/1s0aL4BY3G10EErdkYQJ9b) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Stormy](https://open.spotify.com/album/4hmWk2YrCRkx1euv2mv42I) | 2:16 | 2020-10-29\* | 2020-11-07 |
-| [Strange](https://open.spotify.com/track/2OYlUNbq7xpgEI3qVC2j3W) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Strange](https://open.spotify.com/album/1yzvGSDCzaFQ2GOOlfXKDO) | 2:33 | 2022-06-17 |  |
+| [Strange](https://open.spotify.com/track/2OYlUNbq7xpgEI3qVC2j3W) | [Harrison Brome](https://open.spotify.com/artist/7oJtghmTMHdQ49zN8uLSob) | [Strange](https://open.spotify.com/album/1yzvGSDCzaFQ2GOOlfXKDO) | 2:33 | 2022-06-17 | 2022-11-19 |
 | [Strawberries & Cigarettes](https://open.spotify.com/track/7nvGBUAF4m89IIF3hU89Aa) | [Tyler Budd](https://open.spotify.com/artist/0Am0VMEdgyxdeTnh6HX8ns) | [Strawberries & Cigarettes](https://open.spotify.com/album/5s6KuX3jQKyHxq3kRMq0J0) | 3:00 | 2021-02-20 | 2021-05-03 |
 | [Strawberry Milkshake](https://open.spotify.com/track/4g5mBZlc1cvT7eeruIYQ3W) | [Rosemary Fairweather](https://open.spotify.com/artist/4I4taY0pRzBIGmIgsBqcrE) | [Strawberry Milkshake](https://open.spotify.com/album/5GXmmcPfoJeFsIsXRpGN2o) | 3:32 | 2021-07-31 | 2021-08-28 |
 | [Strawberry Sunscreen \- Rework](https://open.spotify.com/track/5LSev9AjbhsyKGUzKeJQzd) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2), [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Strawberry Sunscreen \(Rework\)](https://open.spotify.com/album/5P1LSFAUdYU1osK8IPBC1t) | 2:08 | 2022-08-05 |  |

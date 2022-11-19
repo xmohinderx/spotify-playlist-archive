@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sFBvPsTs0j.md) - [plain]
 
 > Easy and soft piano Jazz when you need to relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,324 likes - 135 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,341 likes - 135 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sFBvPsTs0j.md) - [plain]
 | 134 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 |
 | 135 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 |
 
-Snapshot ID: `MTY2ODcyNjAwMCwwMDAwMDAwMGQ3NzNmMzJiOTdkNGZhNzA5ZTllZTc5MTYzMjgwYTJk`
+Snapshot ID: `MTY2ODc1ODE0MCwwMDAwMDAwMDM2MWIwZjRiMDA2MWY5YjRmMzliZjg2MjcwOTVkZmJj`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 192292,
+  "num_followers": 192259,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMDliMDYxNjZlYmM1ZGFlYjY3ZDU1ZTY4MTg4ZDIwMzJl",
+  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMDY1OTdiNzk1ZmQ5MDE5ZDRlMjBlODFkZmM2ZjFiYWZm",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
+        "name": "Historia entre tus dedos",
+        "url": "https://open.spotify.com/album/4TUpMF55WZeLsu6nmucfzS"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 307336,
+      "name": "Historia entre tus dedos",
+      "url": "https://open.spotify.com/track/1azNmWAecfKNw0efhKkzNM"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
         "name": "Suma y Resta",
         "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 221538,
       "name": "Guachineo",
       "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
-        "name": "Historia entre tus dedos",
-        "url": "https://open.spotify.com/album/4TUpMF55WZeLsu6nmucfzS"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 307336,
-      "name": "Historia entre tus dedos",
-      "url": "https://open.spotify.com/track/1azNmWAecfKNw0efhKkzNM"
     },
     {
       "added_at": "2020-08-25 16:57:45",

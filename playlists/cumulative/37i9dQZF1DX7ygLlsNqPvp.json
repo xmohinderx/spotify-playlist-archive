@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 171106,
       "name": "Fre Me",
       "url": "https://open.spotify.com/track/5jOjRAFGcCLd0gMUyviyM4"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 193028,
       "name": "No Time",
       "url": "https://open.spotify.com/track/6tM66AR9ivNL1CaiznuE8I"
@@ -1425,6 +1425,24 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4ZY2w3IQ4dMwXDg0C0SdlB"
+    },
+    {
+      "album": {
+        "name": "Wtf",
+        "url": "https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ"
+      },
+      "artists": [
+        {
+          "name": "Omar Sterling",
+          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203939,
+      "name": "Wtf",
+      "url": "https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD"
     },
     {
       "album": {

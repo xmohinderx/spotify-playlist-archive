@@ -4,7 +4,7 @@
 
 > Acá hay letra\. Foto: Anuel AA.
 
-185 songs - 10 hr 27 min - [published](https://open.spotify.com/playlist/23mcGFZmewEpHERZOtSvTD)
+186 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/23mcGFZmewEpHERZOtSvTD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Pégate](https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Pégate](https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g) | 3:06 | 2022-03-02 |  |
 | [QUE PRETENDES](https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:42 | 2021-12-24 |  |
 | [Que Tire Pa Lante](https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Que Tire Pa Lante](https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t) | 3:30 | 2021-12-24 |  |
+| [QUIEN SI NO](https://open.spotify.com/track/1ozzc5mFL2UMOAcM14GBXp) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [QUIEN SI NO](https://open.spotify.com/album/4ezvxWVA1DiKXSKROoN93a) | 2:01 | 2022-11-18 |  |
 | [R Sport](https://open.spotify.com/track/1V9PlSZEO5tJWxpDJT5KAG) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [R Sport](https://open.spotify.com/album/2bhwoywFrxHlUiS3zPhge4) | 3:01 | 2021-12-24 | 2022-07-29 |
 | [Rata Tan Tan](https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Rata Tan Tan](https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1) | 2:32 | 2021-12-24 |  |
 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 | 2021-12-24 |  |
@@ -149,7 +150,7 @@
 | [Reggaetonera](https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:32 | 2021-12-24 |  |
 | [Reloj](https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Reloj](https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk) | 3:51 | 2021-12-24 |  |
 | [Rompe Rodillas](https://open.spotify.com/track/3DlM7Wmirw96FVBMPLeaSD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rompe Rodillas](https://open.spotify.com/album/4c2CcCaHwWtZePbqfDUI9u) | 2:29 | 2021-12-24 |  |
-| [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 | 2021-12-24 |  |
+| [Royal Medellin](https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Amaro](https://open.spotify.com/artist/029uS2pMvwk0TsIUTHkyyw), [Dani y Magneto](https://open.spotify.com/artist/7im3qrPSEoYCVWVThJnzgj) | [Royal Medellin](https://open.spotify.com/album/1BFSWOnfll1HP2s5Ot1pYU) | 3:18 | 2021-12-24 | 2022-11-19 |
 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 | 2021-12-24 |  |
 | [Santo](https://open.spotify.com/track/6QPOXrZQDq2XuSTruAttFo) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Santo](https://open.spotify.com/album/3FrRDie9eFculxFnHCrF9f) | 2:49 | 2021-12-24 | 2022-07-20 |
 | [Se Le Ve](https://open.spotify.com/track/1ntqvhJlheHh2uFEcK9fqY) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [ENR](https://open.spotify.com/album/7c3cZS4ScoPCEmtZFIPqLF) | 3:04 | 2022-06-10 | 2022-10-01 |

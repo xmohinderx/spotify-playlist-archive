@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: TOKIODK",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Sena Mc",
   "name": "Rima Avan\u00e7ada",
   "published_playlist_ids": [
     "1fuxTN1KVeY4FHPmGcQzOK"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 347083,
       "name": "Aquelas",
       "url": "https://open.spotify.com/track/3F9czW1F6VhdE3yCOV5T5c"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 193600,
       "name": "Aulas e Palestras",
       "url": "https://open.spotify.com/track/00j6HYx9cIzZcgwpB72buK"
@@ -724,6 +724,28 @@
     },
     {
       "album": {
+        "name": "Cidade Aquariana",
+        "url": "https://open.spotify.com/album/2iu9sKDNZ1Lnt9Q2H8NqwP"
+      },
+      "artists": [
+        {
+          "name": "Sena Mc",
+          "url": "https://open.spotify.com/artist/0KmUWyp6jHACYG8KaXiCyV"
+        },
+        {
+          "name": "Delli Beatz",
+          "url": "https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Cidade Aquariana",
+      "url": "https://open.spotify.com/track/74ZuudbP14a6Cet0FJssPe"
+    },
+    {
+      "album": {
         "name": "Brasa No Mapa EP",
         "url": "https://open.spotify.com/album/0R3yzbHTG0bjeLBISLvYF3"
       },
@@ -947,6 +969,28 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "album": {
+        "name": "Antiher\u00f3i",
+        "url": "https://open.spotify.com/album/1wI62kfrg6KQCK79ukw2Es"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Xizoh",
+          "url": "https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118285,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/4PfqsdrU6sLm9o5mQyL3Ab"
     },
     {
       "album": {
@@ -2015,7 +2059,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 116806,
       "name": "Muito Querido",
       "url": "https://open.spotify.com/track/0qDA0XgVhM1fp14h5CpH0A"
@@ -2607,6 +2651,40 @@
       "duration_ms": 154211,
       "name": "Shake",
       "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
+    },
+    {
+      "album": {
+        "name": "Sigo Frio",
+        "url": "https://open.spotify.com/album/5oUDoKblGrcr5STXUGkJB1"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "KIB7",
+          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218496,
+      "name": "Sigo Frio",
+      "url": "https://open.spotify.com/track/58rixyMbSeAoOqdYXu19Fw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party.
 
-206 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/4J0AmxAoPjBsvkBleG9MtI)
+207 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4J0AmxAoPjBsvkBleG9MtI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [24K Magic](https://open.spotify.com/track/2gFvRmQiWg9fN9i74Q0aiw) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/5EA4kogB3cZr2qykFlZDYV) | 3:45 | 2022-04-19 | 2022-10-05 |
 | [24K Magic](https://open.spotify.com/track/6qwkEez1yvpIS1K2Al2tuF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:45 | 2022-10-04 |  |
 | [A Groovy Kind of Love \- 2016 Remaster](https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:30 | 2022-04-19 |  |
-| [A Thousand Years](https://open.spotify.com/track/42eYNVml9kXmjqOy0pI73O) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:45 | 2022-10-04 |  |
+| [A Thousand Years](https://open.spotify.com/track/42eYNVml9kXmjqOy0pI73O) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:45 | 2022-10-04 | 2022-11-19 |
+| [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2022-11-18 |  |
 | [A Thousand Years](https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc) | 4:45 | 2022-04-19 | 2022-10-05 |
 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 | 2022-04-19 | 2022-10-05 |
 | [Ain't Nobody](https://open.spotify.com/track/5v4dJnJh5HC6mUUNQTl3PF) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:40 | 2022-10-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 61125,
+  "num_followers": 61080,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGU3OGQ4YmFkZmVmM2RiNmQ4MjFmYjk0MjhiNTExYWFl",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGIyOThlNjc4NzJjNmViZDEwMDU5ZTllM2YxZDgxZjZm",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Garden of Eden",
         "url": "https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "The Big Cover-Up",
         "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Thank You for Letting Me Be Myself",
-        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
+        "name": "stuff i used to do",
+        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
       },
       "artists": [
         {
-          "name": "Omar S",
-          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         }
       ],
-      "duration_ms": 324668,
-      "name": "Ready My Black Asz",
-      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
+      "duration_ms": 141304,
+      "name": "Charlie can't dance",
+      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -719,18 +719,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "stuff i used to do",
-        "url": "https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA"
+        "name": "Thank You for Letting Me Be Myself",
+        "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Omar S",
+          "url": "https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI"
         }
       ],
-      "duration_ms": 141304,
-      "name": "Charlie can't dance",
-      "url": "https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY"
+      "duration_ms": 324668,
+      "name": "Ready My Black Asz",
+      "url": "https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c"
     },
     {
       "added_at": "2021-10-22 11:07:27",

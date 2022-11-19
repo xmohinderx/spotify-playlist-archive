@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(Don't Fear) The Reaper",
+        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281600,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
+    },
+    {
+      "album": {
         "name": "Will You Go Out With Me?",
         "url": "https://open.spotify.com/album/3QstQjFBKp1o0yatzXu5Tb"
       },
@@ -2442,6 +2460,52 @@
     },
     {
       "album": {
+        "name": "Some Might Say",
+        "url": "https://open.spotify.com/album/3CUsbiuld57ptitcrvaNYn"
+      },
+      "artists": [
+        {
+          "name": "Danny Burns",
+          "url": "https://open.spotify.com/artist/7vjM9siqHKUjRrgopSgNLU"
+        },
+        {
+          "name": "Dennis Parker",
+          "url": "https://open.spotify.com/artist/06YZcS2aoIREKT55qy4KhN"
+        },
+        {
+          "name": "Scott Vestal",
+          "url": "https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC"
+        },
+        {
+          "name": "Ethan Burkhardt",
+          "url": "https://open.spotify.com/artist/66ONZHHb6U6lrRBCI1ZMO0"
+        },
+        {
+          "name": "Billy Contreras",
+          "url": "https://open.spotify.com/artist/4WQUxsTG9b6WSXsZCyDPxu"
+        },
+        {
+          "name": "Matt Menefee",
+          "url": "https://open.spotify.com/artist/2A8KLJp5U4zoPrewOpJYbu"
+        },
+        {
+          "name": "Tony Wray",
+          "url": "https://open.spotify.com/artist/130ShDSmz0I3kDPg37lqlW"
+        },
+        {
+          "name": "Josh Methany",
+          "url": "https://open.spotify.com/artist/5W3GMYyA1nWOQrqKe4PlPg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219546,
+      "name": "Some Might Say",
+      "url": "https://open.spotify.com/track/5n7jdlBdFRB8Qey6hVNJQu"
+    },
+    {
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/1eGhBN5TotmkJFhtVm9Kvm"
       },
@@ -3097,7 +3161,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 278533,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ"

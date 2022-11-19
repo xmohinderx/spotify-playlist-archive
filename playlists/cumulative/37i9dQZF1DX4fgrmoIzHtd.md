@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-51 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2vho8ddDMHol79OpvJocZN)
+52 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/2vho8ddDMHol79OpvJocZN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Mutante \- Gui Boratto Rework](https://open.spotify.com/track/6pfGxlp0yBwaydQft6qvCr) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Rita Lee & Roberto – Classix Remix Vol\. l](https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm) | 8:19 | 2021-05-11 |  |
 | [Naboo \- Dorothys Fortress Remix](https://open.spotify.com/track/3bmWxCjl9dTRLyW9mRwLvB) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Naboo](https://open.spotify.com/album/5eCYzeSNQwpMNo8F1jlWhd) | 4:53 | 2021-05-11 |  |
 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 | 2021-05-11 |  |
-| [Philipp Dolphia](https://open.spotify.com/track/4Ie6qz0XnJm8OSIGTxUKXy) | [Jacob Korn](https://open.spotify.com/artist/3P86wrM6fNUokU6JLbjOYx), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Filburt](https://open.spotify.com/artist/1vGLThg91o4DzDa04sENLa) | [Philipp Dolphia](https://open.spotify.com/album/3ubpIPB6R643gOTaVp0ogL) | 7:14 | 2021-05-11 |  |
+| [Philipp Dolphia](https://open.spotify.com/track/4Ie6qz0XnJm8OSIGTxUKXy) | [Jacob Korn](https://open.spotify.com/artist/3P86wrM6fNUokU6JLbjOYx), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Filburt](https://open.spotify.com/artist/1vGLThg91o4DzDa04sENLa) | [Philipp Dolphia](https://open.spotify.com/album/3ubpIPB6R643gOTaVp0ogL) | 7:14 | 2021-05-11 | 2022-11-19 |
+| [Philipp Dolphia](https://open.spotify.com/track/4yrmNn7vsXtMkssVedBais) | [Jacob Korn](https://open.spotify.com/artist/3P86wrM6fNUokU6JLbjOYx), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Filburt](https://open.spotify.com/artist/1vGLThg91o4DzDa04sENLa) | [Philipp Dolphia](https://open.spotify.com/album/33JfpvpDtIRux9Hood8XZr) | 7:14 | 2021-05-11 |  |
 | [Remember Me \- Sure Is Pure 7 Inch Edit](https://open.spotify.com/track/3dipSm7lWInMbL3hRuMNBg) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Remember Me](https://open.spotify.com/album/12VFylHDX01Xw4joC9wH6Z) | 3:49 | 2021-05-11 |  |
 | [Robinson Crusoe](https://open.spotify.com/track/0JgU7cgt7M4SQUBchENA9C) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [Below the Waste](https://open.spotify.com/album/2gtUqMGKwcQIWjxDo2S0qw) | 3:48 | 2021-05-11 |  |
 | [Robots](https://open.spotify.com/track/4JLHvLj1cHJpopm40v32lY) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt), [Raddantze](https://open.spotify.com/artist/1GHfdjpfUhB42zcMKm2EOL) | [Robots In Lilac Spaceships](https://open.spotify.com/album/1pRQnDjYshduiknpZpWrPc) | 8:04 | 2021-05-11 |  |

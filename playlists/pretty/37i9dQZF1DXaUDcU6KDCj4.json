@@ -1,13 +1,125 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Leith Ross",
-  "num_followers": 758318,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Andy Shauf",
+  "num_followers": 758349,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDQyZjI1Mzg1NDM0YTI2NjAwYWQ1NTQzNmI1NDRhY2Yx",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDFjNmIxODE4NGIyMTc3OWUxMmVmMDUyOTA2NzgwYzhl",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Wasted On You",
+        "url": "https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Palomino",
+      "url": "https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Theatre",
+        "url": "https://open.spotify.com/album/0EoYsG4MursZcQp8DGp5pH"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 378514,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/70IlJ5NuQa9NnYW6uIQTmj"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "27 / Hologram",
+        "url": "https://open.spotify.com/album/4jsoh2EPJ5Jyo1xJSzepCu"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "27",
+      "url": "https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Orlando",
+        "url": "https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "Orlando",
+      "url": "https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Fall in Love Forever",
+        "url": "https://open.spotify.com/album/2tLbu7wArwTxFC0aomOHk6"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "Fall in Love Forever",
+      "url": "https://open.spotify.com/track/2EXLqFr6iaGXrQKeUJ1zvn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/4ZYK6hRqISjMnrZafKUuBO"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/2URlvXHgKzdk6xFPedeuKI"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -49,88 +161,24 @@
       "url": "https://open.spotify.com/track/0KTXcuyKvMkRQSOy1M4OcI"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Orlando",
-        "url": "https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl"
+        "name": "Getting It Right",
+        "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Orlando",
-      "url": "https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Palomino",
-        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Palomino",
-      "url": "https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Willows",
-        "url": "https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 221571,
-      "name": "Willows",
-      "url": "https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Caitlin Rose",
+          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
         },
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 271696,
-      "name": "Blood Upon the Snow",
-      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+      "duration_ms": 170280,
+      "name": "Getting It Right",
+      "url": "https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -153,20 +201,52 @@
       "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Photographs",
-        "url": "https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J"
+        "name": "To The Forager",
+        "url": "https://open.spotify.com/album/5qAB8sFKt5CrCjCRBqRcgg"
       },
       "artists": [
         {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
         }
       ],
-      "duration_ms": 198530,
-      "name": "Photographs",
-      "url": "https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp"
+      "duration_ms": 157017,
+      "name": "To The Forager",
+      "url": "https://open.spotify.com/track/0KyybjLDZOQ0OTZQDiHIC7"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/37OWM40EuYKeBHWCBHJyq9"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1ALH9oRd8FqjfsSH0d8Ft4"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -183,6 +263,110 @@
       "duration_ms": 195544,
       "name": "If You\u2019re Falling Asleep",
       "url": "https://open.spotify.com/track/2ZEtuhomZIuim95sQ3E2Uz"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Willows",
+        "url": "https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 221571,
+      "name": "Willows",
+      "url": "https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/1G6QHRWGHUWqG1yoOKjYQ7"
+      },
+      "artists": [
+        {
+          "name": "Olive Klug",
+          "url": "https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU"
+        }
+      ],
+      "duration_ms": 227792,
+      "name": "Out of Line",
+      "url": "https://open.spotify.com/track/5qtWtxi3eBtxof0bbnbHvl"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/3Msct0F5Oz8uEZHbNXabEQ"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 209125,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/0cw5QKXO67Prwm2Szwl1Yx"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Photographs",
+        "url": "https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 198530,
+      "name": "Photographs",
+      "url": "https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 191993,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1635,22 +1819,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/3nGr1XT7lFIZfrV2hzkkYk"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/5iJ0BQYiFqmLaSUEZi1da1"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2AJzAKKaLiqT9D0epMDw8e"
       },
@@ -1699,22 +1867,6 @@
       "duration_ms": 269346,
       "name": "Real Low Down Lonesome",
       "url": "https://open.spotify.com/track/3lTz2FIBPO41MvQSAMBEWq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Heartmind",
-        "url": "https://open.spotify.com/album/2HutgntzLdadMPeSLrwmT1"
-      },
-      "artists": [
-        {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "New Earth",
-      "url": "https://open.spotify.com/track/3uT9svp7O7rAzrFgvCq8cW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1899,22 +2051,6 @@
       "duration_ms": 220853,
       "name": "Pitseleh",
       "url": "https://open.spotify.com/track/2hPZQVCP6sXwo2XMyWh6hT"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Brady Street",
-        "url": "https://open.spotify.com/album/62u5zdEyDpVSSek06q2mab"
-      },
-      "artists": [
-        {
-          "name": "Dead Horses",
-          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
-        }
-      ],
-      "duration_ms": 239337,
-      "name": "Ok Kid",
-      "url": "https://open.spotify.com/track/7xVcXKogTcaS2jr93N3zFS"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2167,22 +2303,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4LGfwNskwBGfE6Ca3ekioV"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2U8SVTHjyYK4nPofvO2Ncw"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Florist",
         "url": "https://open.spotify.com/album/7EvfFPMMvMJ20olfdEkPBR"
       },
@@ -2311,22 +2431,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/08lVhGcNnx8ewWYeZdfaWM"
-      },
-      "artists": [
-        {
-          "name": "Peter Matthew Bauer",
-          "url": "https://open.spotify.com/artist/4ZMQlzOFrvOftjt1rjl8YR"
-        }
-      ],
-      "duration_ms": 297913,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/2gZ6nr4rWkXfvSrjXQPqVw"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/00hzdJCM7mCbwkDRgN7r5n"
       },
@@ -2403,22 +2507,6 @@
       "duration_ms": 178080,
       "name": "The Otter",
       "url": "https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "The Priestess",
-        "url": "https://open.spotify.com/album/5EnraKpsN9T4cGlfiPmHA8"
-      },
-      "artists": [
-        {
-          "name": "Twain",
-          "url": "https://open.spotify.com/artist/2tMcnRGaCtfz1ZyTBgHjmW"
-        }
-      ],
-      "duration_ms": 236598,
-      "name": "The Priestess",
-      "url": "https://open.spotify.com/track/7FBDgXdWBLH7aVXUtNJaPl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -2607,38 +2695,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 210402,
-      "name": "Don't Look Now",
-      "url": "https://open.spotify.com/track/3VdWvnywTfCZtOindViUHx"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Hitchin' a Ride",
-        "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 270820,
-      "name": "Hitchin' a Ride",
-      "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Carolina (From The Motion Picture \u201cWhere The Crawdads Sing\u201d)",
         "url": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
       },
@@ -2655,22 +2711,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Twin",
-        "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
-      },
-      "artists": [
-        {
-          "name": "Anna Mieke",
-          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
-        }
-      ],
-      "duration_ms": 317838,
-      "name": "Twin",
-      "url": "https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Blood Moon",
         "url": "https://open.spotify.com/album/1KG0u5ZqDPcJJSP6BFY1au"
       },
@@ -2683,38 +2723,6 @@
       "duration_ms": 168065,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/5MO0UtyOvEgRWSIZCuPIP9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Monoflora",
-        "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 223400,
-      "name": "Michigan Cherry",
-      "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Pictures",
-        "url": "https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 196499,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o"
     }
   ],
   "unique_name": "Fresh Folk",

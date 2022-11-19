@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Manal",
-  "num_followers": 846688,
+  "num_followers": 846606,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMGRkZWMwOWYwZTI4ZWJmMDFmYjAzZDgyYzAzMGU5ZTQw",
+  "snapshot_id": "MTY2ODAzMjA0NywwMDAwMDAwMDlhZTY5ZWYyZDUyOGQ2NGU2ZTlhZjUxMWY1NWFjM2Vk",
   "tracks": [
     {
       "added_at": "2022-11-02 04:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "Dalawa",
+        "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
+      },
+      "artists": [
+        {
+          "name": "KAIA",
+          "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Dalawa",
+      "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Dalawa",
-        "url": "https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF"
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
       "artists": [
         {
-          "name": "KAIA",
-          "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Dalawa",
-      "url": "https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq"
+      "duration_ms": 284970,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -343,22 +359,6 @@
       "duration_ms": 208767,
       "name": "906090",
       "url": "https://open.spotify.com/track/0HH3DAz5feqJmDA50yQ52M"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
-      },
-      "artists": [
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 284970,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -445,6 +445,22 @@
       "url": "https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx"
     },
     {
+      "added_at": "2022-11-08 23:00:00",
+      "album": {
+        "name": "3:30",
+        "url": "https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "3:30",
+      "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
+    },
+    {
       "added_at": "2022-11-02 04:01:00",
       "album": {
         "name": "EGO",
@@ -475,22 +491,6 @@
       "duration_ms": 194906,
       "name": "Motinha",
       "url": "https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR"
-    },
-    {
-      "added_at": "2022-11-08 23:00:00",
-      "album": {
-        "name": "3:30",
-        "url": "https://open.spotify.com/album/5vo8DvHawHGp7FM40oHOmK"
-      },
-      "artists": [
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "3:30",
-      "url": "https://open.spotify.com/track/3vt2uTPMsJtAABxhyxmU9u"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa"
-      },
-      "artists": [
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
-        }
-      ],
-      "duration_ms": 191382,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "No lo voy a lamentar",
         "url": "https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "What's Around The Corner (Side A)",
-        "url": "https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/4OEhImZK3QYFBxeayvDULa"
       },
       "artists": [
         {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
         }
       ],
-      "duration_ms": 182222,
-      "name": "So Stunning",
-      "url": "https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l"
+      "duration_ms": 191382,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/22CKOOivvI8mP30GlYS8WK"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -735,6 +719,22 @@
       "duration_ms": 193750,
       "name": "Romper Platos",
       "url": "https://open.spotify.com/track/4IoAq4fmYYeYfgzapg5rcu"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "What's Around The Corner (Side A)",
+        "url": "https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "So Stunning",
+      "url": "https://open.spotify.com/track/7yDLec0kIWD2xra7is4q7l"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
-      },
-      "artists": [
-        {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
-        }
-      ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "\u72e0\u611b\u72e0\u611b\u4f60 (\u96fb\u5f71\u300a\u98ef\u6232\u653b\u5fc3\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5RcB9sLZnn2RP9JTPQ29Lv"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz"
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
       },
       "artists": [
         {
-          "name": "Nka",
-          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
         }
       ],
-      "duration_ms": 267771,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ"
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2022-11-09 22:14:07",
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/6xFa7nj9xqU5YUL5ivUGPz"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "duration_ms": 267771,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/5r3i5CyyUnqz4wejDxgxNJ"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
         "name": "My! Cyndi!",
         "url": "https://open.spotify.com/album/37a8fX3JtjXiMRvuTMhVOa"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 210750,
       "name": "\u611b\u4f60",
       "url": "https://open.spotify.com/track/3nVm63feCNkGcXmuGUjKA3"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -895,38 +911,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/7M0ZgZyJUYIG6RCHud7Xa6"
-      },
-      "artists": [
-        {
-          "name": "Nikita Kering'",
-          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/1OdFpOfUPRTz5r09CKUTXM"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
-        "name": "Spell Me Free",
-        "url": "https://open.spotify.com/album/1sxmGb4ycn0jhoHCLNPm0h"
-      },
-      "artists": [
-        {
-          "name": "CATT",
-          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
-        }
-      ],
-      "duration_ms": 375937,
-      "name": "Spell Me Free",
-      "url": "https://open.spotify.com/track/5HqwIMsJYJclEzCuiVMjEh"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Udhero Na",
         "url": "https://open.spotify.com/album/5KqGG9d6f7cdvmgGEnqNBe"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 303361,
       "name": "Udhero Na feat. Anoushka Shankar",
       "url": "https://open.spotify.com/track/2yjJsfgodykCBLRGskqb5m"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Spell Me Free",
+        "url": "https://open.spotify.com/album/1sxmGb4ycn0jhoHCLNPm0h"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "duration_ms": 375937,
+      "name": "Spell Me Free",
+      "url": "https://open.spotify.com/track/5HqwIMsJYJclEzCuiVMjEh"
     },
     {
       "added_at": "2022-11-02 04:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-11-02 04:01:00",
       "album": {
-        "name": "Majaneen",
-        "url": "https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S"
-      },
-      "artists": [
-        {
-          "name": "Banah",
-          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Majaneen",
-      "url": "https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp"
-    },
-    {
-      "added_at": "2022-11-02 04:01:00",
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/789Zq50xXSDEYuLDmo56Gj"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 206646,
       "name": "Jui$y",
       "url": "https://open.spotify.com/track/0J6ZsFfF2vUw1lf0EbZgrQ"
+    },
+    {
+      "added_at": "2022-11-02 04:01:00",
+      "album": {
+        "name": "Majaneen",
+        "url": "https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S"
+      },
+      "artists": [
+        {
+          "name": "Banah",
+          "url": "https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Majaneen",
+      "url": "https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp"
     },
     {
       "added_at": "2022-11-02 04:01:00",

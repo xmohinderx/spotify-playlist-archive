@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 279703,
+  "num_followers": 279644,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGJiOWZlNDY2OTUwM2Q0YjEwZjJhYjY0MmE1MWQyNzQx",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGEwODkxNmEwYTRkYjViYjg5MGZlZTFkZTE4ZWMwNWIy",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -83,6 +83,26 @@
       "duration_ms": 243808,
       "name": "AA Side Single",
       "url": "https://open.spotify.com/track/3UmA9fMJcr6H8gJSKneZ1U"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Maybe You\u00b4re The One",
+        "url": "https://open.spotify.com/album/6E8LtIJ6vpnMlNKWxucLew"
+      },
+      "artists": [
+        {
+          "name": "Cool Million",
+          "url": "https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG"
+        },
+        {
+          "name": "Susanne \u00d8rum",
+          "url": "https://open.spotify.com/artist/2pA0uUUengpSBIefFLlwag"
+        }
+      ],
+      "duration_ms": 220437,
+      "name": "Maybe You\u00b4re the One",
+      "url": "https://open.spotify.com/track/3mDWp7MEpIouGgskiiqITA"
     },
     {
       "added_at": "2022-11-04 04:00:00",

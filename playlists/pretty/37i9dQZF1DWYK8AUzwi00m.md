@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,755 likes - 181 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,704 likes - 181 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 18 | [night bells](https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [night bells](https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI) | 1:58 |
 | 19 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 |
 | 20 | [Xmas Treez](https://open.spotify.com/track/6Ouj0h3zO7dHV9Ok5yU8gv) | [Ghost Beatz](https://open.spotify.com/artist/5KdCsUhbJtRff3kRxUl51q) | [Sounds of the Season, Vol\. III](https://open.spotify.com/album/6pNBMJoKqAD3odcjncp75k) | 3:23 |
-| 21 | [Frio](https://open.spotify.com/track/5djxWufx6q2DfDS6OzaJ5J) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:26 |
+| 21 | [Frio](https://open.spotify.com/track/6GhGYl1M68LMA39skNCgVe) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 1:26 |
 | 22 | [Sleepy Christmas](https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:29 |
 | 23 | [When You Wish Upon a Star](https://open.spotify.com/track/2NG0HrvHdH5xs5s9V3U2m2) | [Jason Jx](https://open.spotify.com/artist/6lMDF5oPSyrMEPrmBb6zLM) | [When You Wish Upon a Star](https://open.spotify.com/album/4CrquHUPgAGkal3NcjufrB) | 2:19 |
 | 24 | [Hoy es Navidad](https://open.spotify.com/track/49DbI00xJF9moLOaJR6r5I) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 3:10 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 74 | [Bells R Ringin](https://open.spotify.com/track/6BQlF26EIaqZqvOvo0YOtX) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:08 |
 | 75 | [ho ho lofi](https://open.spotify.com/track/4OePyhZfv4HQc25rXbhxHl) | [Cam & Job](https://open.spotify.com/artist/3TWRKibRVvm9omhaXBxlzn) | [A Very Cam & Job Christmas](https://open.spotify.com/album/6u7YkGV5kvfwIq8zBanTkX) | 1:28 |
 | 76 | [Christmas Chill Lofi](https://open.spotify.com/track/79J50Wj05x0zvPCdePAaeb) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [A Merry Lofi Christmas](https://open.spotify.com/album/1qp0o8LrCSzr07zaLXqb7B) | 2:27 |
-| 77 | [Mistletoe](https://open.spotify.com/track/1bYOSfl3K0csaEpZTUJ0ZS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 2:15 |
+| 77 | [Mistletoe](https://open.spotify.com/track/0hgcqoAcfZGC1P15XQc5FZ) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 2:15 |
 | 78 | [Hot Chocolate by the Fireplace](https://open.spotify.com/track/6oeDVbf56LkSeqFgNwgqEu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [A Lofi Christmas](https://open.spotify.com/album/2rKDNlNJ3jYuWY8Sl1yYqx) | 2:01 |
 | 79 | [Jingle Jawn](https://open.spotify.com/track/17ydJLhjI4Vp2XXj2TkdwH) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas With Me](https://open.spotify.com/album/4VKGf40gN7OI3lrkXFQpCz) | 2:13 |
 | 80 | [Santa Vibe](https://open.spotify.com/track/6naWvP6zAPpNam8GhQrYf1) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [A Christmas Tale](https://open.spotify.com/album/28akD7EJeH8H29YcvS9fRd) | 2:17 |
@@ -175,14 +175,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 165 | [Merry 'Lil Christmas](https://open.spotify.com/track/2vNjURpX7uHPUXJYqZbEXD) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:23 |
 | 166 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
 | 167 | [Do You Believe in Santa Claus?](https://open.spotify.com/track/5P6mq1N9lbSdfbTdUAGpS2) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [Do You Believe in Santa Claus?](https://open.spotify.com/album/4JvFuRb3CLnrH9u4965AAt) | 2:40 |
-| 168 | [Reindeer](https://open.spotify.com/track/206Z0pNfp4kO5izDZoJ76g) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Winter Weibs](https://open.spotify.com/album/5Tj1uZwXrmtqhJpihaIS8A) | 1:42 |
+| 168 | [Reindeer](https://open.spotify.com/track/4x9o0t2cfWXPw0KoWtvEX0) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Winter Weibs](https://open.spotify.com/album/3JZzY4oJ9onEuAC8K4nnKa) | 1:42 |
 | 169 | [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 |
-| 170 | [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 |
+| 170 | [should go christmas shopping](https://open.spotify.com/track/0MblCypMHWJCr5zR23JmbZ) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter](https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI) | 1:30 |
 | 171 | [Christmas Carol \- Lofi Beats](https://open.spotify.com/track/64nQEHzSQ9O2dBq1zbqn6w) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [A Christmas with Mask \(Lo\-fi beats\)](https://open.spotify.com/album/2gbclE5it5AW1psl1HWk9v) | 3:09 |
 | 172 | [Aesthetic Christmas](https://open.spotify.com/track/2IwjwcZbQbkAPgwtGu8G0s) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Merry Christmas \(Lofi beats\)](https://open.spotify.com/album/3nFx4sv8We0GyLBq1tk7pa) | 2:57 |
 | 173 | [Yule Tide](https://open.spotify.com/track/4wFco5b2VsRaPD0XbqYsv9) | [iluvu](https://open.spotify.com/artist/0A5IvugTETbHDLHsM5Ro3j), [Lazy Tree Records](https://open.spotify.com/artist/5Qvy6aHj0WZS8fwt7Z5WUf) | [A Lofi Christmas](https://open.spotify.com/album/06HI45dJEHqNVyTkJMB7OJ) | 2:11 |
 | 174 | [Holiday Mood Lofi](https://open.spotify.com/track/2IMrqdfQVS2aDiz6L7vFVb) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [A Merry Lofi Christmas](https://open.spotify.com/album/1qp0o8LrCSzr07zaLXqb7B) | 2:30 |
-| 175 | [pure imagination](https://open.spotify.com/track/2OulDXvmqVYVS1mUrIM1vb) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:13 |
+| 175 | [pure imagination](https://open.spotify.com/track/2Hdm6UGkZyY0wilfOCo6w5) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter](https://open.spotify.com/album/667XsaoWLaNtMdRPhBAkAI) | 1:13 |
 | 176 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
 | 177 | [Log Cabin](https://open.spotify.com/track/44jlG98OigYNLq8mkEWc2f) | [Abe M Beats](https://open.spotify.com/artist/5Vf0wwHCWJ59WopZTR520e) | [Oddwinter](https://open.spotify.com/album/01mtyasGQsiGQw2DpvOf0k) | 1:38 |
 | 178 | [latenite](https://open.spotify.com/track/4eaNEchs8ADEH5XfhJlk8K) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 1:58 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 180 | [in A Mangè](https://open.spotify.com/track/5lBz5nknYlW3d2yVRSfMR3) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:59 |
 | 181 | [Cozy Fireplace](https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Snowbound](https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R) | 1:52 |
 
-Snapshot ID: `MTY2ODE2OTIyMywwMDAwMDAwMDU2OWY3NmMxYzgzN2MxMjQ1Yjg3MWM4NDNjOTI1MDRi`
+Snapshot ID: `MTY2ODE2OTIyMywwMDAwMDAwMDYyYWQwY2I4OGIxZjE5MTAxYjVjZDgxY2MzYWE1NjQ5`

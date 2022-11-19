@@ -3422,6 +3422,24 @@
     },
     {
       "album": {
+        "name": "Pill to pop",
+        "url": "https://open.spotify.com/album/0fAxb2s1j7OK883DBuJiMy"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268881,
+      "name": "Pill to pop",
+      "url": "https://open.spotify.com/track/7roNHaPH6I1zvkRDtVias2"
+    },
+    {
+      "album": {
         "name": "Falling Into Place",
         "url": "https://open.spotify.com/album/6DPpPM97ENwbWiXk9Ns5Jp"
       },

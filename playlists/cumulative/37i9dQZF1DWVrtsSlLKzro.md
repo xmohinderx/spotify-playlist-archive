@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-240 songs - 14 hr 32 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+241 songs - 14 hr 36 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 | 2021-12-03 | 2022-02-12 |
 | [Don't Wait For Me](https://open.spotify.com/track/1C6qilcpgci5bJSBB6qSK4) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Don't Wait For Me](https://open.spotify.com/album/6o1B9rcKo0eWEQ6yg2OSj2) | 2:50 | 2022-03-18 |  |
 | [Down The Line](https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Down The Line](https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs) | 3:28 | 2022-10-28 |  |
+| [Drifting Away](https://open.spotify.com/track/6nbXYLeP21ksEQNFrHl2a2) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Drifting Away](https://open.spotify.com/album/3WgmH7tOlVlAmGtRRlQpl7) | 3:18 | 2022-11-19 |  |
 | [Drown \(feat\. Au/Ra\)](https://open.spotify.com/track/3wDhRYT95uMrYId5wkrDbA) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [A World Away](https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ) | 3:01 | 2021-12-03 |  |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2021-12-03 |  |
 | [Electric](https://open.spotify.com/track/5H3cgV4jCdqXPxDtI78dCI) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [Electric](https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt) | 2:37 | 2022-07-15 |  |

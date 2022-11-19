@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,879 likes - 80 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,918 likes - 80 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 3 | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 |
 | 4 | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/track/5tc8bdNrYN8GzcVJbYIlp4) | [Cheb Lotfi](https://open.spotify.com/artist/0FGxUTcyQRfL287iqNCJ6h) | [Hiya Tzawjat Wana Nghbnet](https://open.spotify.com/album/63sI8qiT2XPZMdplp9U7B6) | 4:29 |
 | 5 | [Wahda Bwahda](https://open.spotify.com/track/4Ws6cRdfazsptOVi6lS25W) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Wahda Bwahda](https://open.spotify.com/album/4uxtyscFwFbNrck3U4lvjQ) | 4:41 |
-| 6 | [M3aya Makmltiche](https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [M3aya Makmltiche](https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI) | 5:09 |
+| 6 | [M3aya Makmltiche](https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [M3aya Makmltiche](https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI) | 5:09 |
 | 7 | [Galbek Hnin](https://open.spotify.com/track/4KDcEc96txreeEubzdDPbD) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Galbek Hnin](https://open.spotify.com/album/1MOev2y0PJadIp52sXjwW2) | 4:00 |
 | 8 | [Haki Swalhek Haki](https://open.spotify.com/track/16ggzT3QSUDvyU2ZIC7W9z) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs), [DJ ILyas](https://open.spotify.com/artist/0I1NTt5GRa9pE7jT3q1KmP) | [Haki Swalhek Haki](https://open.spotify.com/album/7BsoFUPCQRWcLKOtZ63XND) | 3:24 |
 | 9 | [ديرولو الحنة](https://open.spotify.com/track/7ylB5uC2u03oOIdt7ssFhy) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE), [DJ Ismail Bba](https://open.spotify.com/artist/6CSGZBcKW5hL7rkJzMuFge) | [ديرولو الحنة](https://open.spotify.com/album/0ubTeMJ7J02UwlDY51oT4C) | 6:26 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 25 | [Homa Dayrine Haka](https://open.spotify.com/track/3I3ZjOzrVyyF3OS4MvOyy7) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Homa Dayrine Haka](https://open.spotify.com/album/17AqvRrbZYASiJnCT78qX0) | 4:26 |
 | 26 | [Jabetli Ljah](https://open.spotify.com/track/7sIr0SWz4zeZRt8NuV112j) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Jabetli Ljah](https://open.spotify.com/album/5rHwMQTSEBYs2s2HRE7rcH) | 8:00 |
 | 27 | [Harb Ahlia](https://open.spotify.com/track/51ma99eBjCpUuDJeIquhgX) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Harb Ahlia](https://open.spotify.com/album/0rwO5csrugYNREOZya0waC) | 3:32 |
-| 28 | [Maniche Ghaya](https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Maniche Ghaya](https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o) | 4:42 |
+| 28 | [Maniche Ghaya](https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Maniche Ghaya](https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o) | 4:42 |
 | 29 | [3adyani Bel Gros \- Remix Master T](https://open.spotify.com/track/1Z3UznHCGkclMLMOBRxeHN) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Master T](https://open.spotify.com/artist/6zNY7V2iBFiUfOXTSNwA15) | [3adyani Bel Gros \(Remix Master T\)](https://open.spotify.com/album/0RdUojL9QBTuDHECRDrGFt) | 3:46 |
 | 30 | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/track/3gQvsHiyuanFa7dJ3TDfOv) | [Cheb Oussama](https://open.spotify.com/artist/6eJDRiiR2xdwAgdiRjZ525) | [مابقات صحبة فهاد الدنيا](https://open.spotify.com/album/5Uvwkx0w6oUTM59ep9pH5B) | 4:39 |
 | 31 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 72 | [Nensak Dra3](https://open.spotify.com/track/4M4sHSOBAIlqtPkFikUcMo) | [Abdelkader Belabbes](https://open.spotify.com/artist/5TwUxKiLvqL7Ux6dTqVdhu) | [Nensak Dra3](https://open.spotify.com/album/1rpCdaXwkDNYvwu2dwFtPh) | 4:05 |
 | 73 | [kima dir ndir](https://open.spotify.com/track/15bx2Uh9lxEIysIk5SDlV6) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [kima dir ndir](https://open.spotify.com/album/5W9y9LYQ7LTLaSW6TYiDns) | 5:30 |
 | 74 | [خسرت العلاقة](https://open.spotify.com/track/1PbIQ0JtakidqCGcMFI4dn) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [خسرت العلاقة](https://open.spotify.com/album/6ydZDwBkPrTt7yqtfquocl) | 4:18 |
-| 75 | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/track/7oVMXlkx5zpbOg6rTCK6bj) | [Bilal Sghir](https://open.spotify.com/artist/4iCrZzxACYPYcoS71DgjWW) | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/album/06TGOankIkEjT8ofhGjf8A) | 3:54 |
+| 75 | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/track/7oVMXlkx5zpbOg6rTCK6bj) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/album/06TGOankIkEjT8ofhGjf8A) | 3:54 |
 | 76 | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/track/4o9jA37PQmofMORu7TIlbm) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou La nta Khalat Ana Ktar](https://open.spotify.com/album/0wrUX9IkbsTbyoCZOvA4Q7) | 4:14 |
 | 77 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 |
 | 78 | [Fi Hawmtek Tayah](https://open.spotify.com/track/49EW3aFH5ORawt7n24NYKm) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Fi Hawmtek Tayah](https://open.spotify.com/album/1cmcB8p4CvvbbDJR8rrpfY) | 5:25 |

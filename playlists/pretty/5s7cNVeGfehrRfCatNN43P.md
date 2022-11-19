@@ -4,25 +4,22 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,438 likes - 16 songs - 56 min 43 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,436 likes - 13 songs - 38 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 |
-| 2 | [Born Again](https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 |
-| 3 | [Something Like This](https://open.spotify.com/track/6hLUtAJPRXEFirS4TlDEa7) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Something Like This](https://open.spotify.com/album/0P9erItxskV82Dxgxh7vZv) | 3:14 |
-| 4 | [ALLIGATOR](https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ALLIGATOR](https://open.spotify.com/album/09p1I6ZNxIvf7ZrYbbGsrb) | 2:29 |
-| 5 | [Replay](https://open.spotify.com/track/65PBk5Sinl37TnGFCHhZ5W) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Replay](https://open.spotify.com/album/5B7YUe51m5YSss72USkQoE) | 3:23 |
-| 6 | [unlock it](https://open.spotify.com/track/2QftMbZmNtjmZIJtpzdTAe) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [unlock it](https://open.spotify.com/album/2wNMY96gtVfhl5cvtq9VCi) | 3:13 |
-| 7 | [Enter the Day](https://open.spotify.com/track/5RXhBTtC5zRxN8purI55kL) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Enter the Day](https://open.spotify.com/album/3YRiNEZNa2NFdZlknRKFwX) | 4:36 |
-| 8 | [Lättdistraherad](https://open.spotify.com/track/6CXc1Q9IBBxfOQVQCYBMhk) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Lättdistraherad](https://open.spotify.com/album/6JSgAWoN9pLS9Jn6O4NiXX) | 3:01 |
-| 9 | [Fai Fighter](https://open.spotify.com/track/3dfMqkZsvmoBFgyEe8878r) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fai Fighter](https://open.spotify.com/album/7hkFfZ5m3KUoVPp7yvXxSg) | 4:00 |
-| 10 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 |
-| 11 | [Temptation](https://open.spotify.com/track/1qRSmPYphBuAZR7RjbfaCa) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Temptation](https://open.spotify.com/album/5dG49c8MhEyWmZ7ukcrQmu) | 4:53 |
-| 12 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 |
-| 13 | [Oh No You Didn't](https://open.spotify.com/track/6mx1EV7gL2xMUngYeUWYkO) | [Hix](https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Oh No You Didn't](https://open.spotify.com/album/2nTdPLztEQ8yWd80IhpWsL) | 2:56 |
-| 14 | [Same Sunrise](https://open.spotify.com/track/4pJY4C94npAvpBbRqEh3zA) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Same Sunrise](https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem) | 3:31 |
-| 15 | [People \(We Can Transform\)](https://open.spotify.com/track/4u3YC2MriY7AvpLNFJD8T7) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [People \(We Can Transform\)](https://open.spotify.com/album/7MybIYJUNaqQnbhzVWlEKn) | 5:35 |
-| 16 | [Limits](https://open.spotify.com/track/1B0iOpkr5IojCDJZt5GAp4) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Limits](https://open.spotify.com/album/5IX9e7jYLTUbqubgkxJ11B) | 4:12 |
+| 1 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
+| 2 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
+| 3 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 |
+| 4 | [Fool Again](https://open.spotify.com/track/5ejNnWN2s5skuYYNfthVHT) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Fool Again](https://open.spotify.com/album/15l7FFHuKlgQuvYCzsGf4e) | 2:51 |
+| 5 | [Nights of Thunder](https://open.spotify.com/track/5gosXiL0WrOKWiM2j63457) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [Nights of Thunder](https://open.spotify.com/album/064929hvU924M3rkJxvYBO) | 2:56 |
+| 6 | [Don't Say](https://open.spotify.com/track/4ToAo8arnYHl1RvGCYSORf) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Don't Say](https://open.spotify.com/album/1ztOpwCUC7lw8nmuo1CRyY) | 3:24 |
+| 7 | [Honestly](https://open.spotify.com/track/2e8d2VJ1V2seFa0b0h8KqY) | [Sophie DeMasi](https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS) | [Honestly](https://open.spotify.com/album/0Lli6HDLUhSP67vL0oJJB5) | 2:36 |
+| 8 | [Gone Girl](https://open.spotify.com/track/7DVExWnUrXWfG2BoPSVuIV) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [A Means To An End](https://open.spotify.com/album/4PNJUaEtXtEDNgg7a7YOko) | 2:18 |
+| 9 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 |
+| 10 | [Kommer du 2\. juledag](https://open.spotify.com/track/35u6OJQxQ49t9AQjHTwssH) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Kommer du 2\. juledag](https://open.spotify.com/album/3EcfBYV0VXpnG5f8K0fAUJ) | 2:26 |
+| 11 | [Marching Powder](https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Marching Powder](https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g) | 2:05 |
+| 12 | [POLAROID](https://open.spotify.com/track/5efY5nBfAxXcsOiEyzgPNp) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [SOCIALIZING](https://open.spotify.com/album/4hvslpDjljmiAv15NQ00k2) | 3:41 |
+| 13 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 |
 
-Snapshot ID: `MjQ1NCw0MDZlN2FjZmJjYWU3NWUwMmE1Zjg3NmJlOGI0YTZmZjc5MGUzNzVm`
+Snapshot ID: `MjQ1NixjMWM4YzZkYjc4MjgwMWFiM2Q0YTdjZjhiY2RlNGM0MjgyOWIwMWVk`

@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 373381,
+  "num_followers": 373395,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGRkZTZjZDU2NjA1NWFmMTczYTRkMWJhM2Y2ZTU2YTFi",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGE3NTI3NDk4OGQ2Y2FmMzg5YzRmMGNlODk3MmNjNDRk",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Blues On Parade",
-        "url": "https://open.spotify.com/album/28V0dxj4vb8blEfyvx5Bvp"
-      },
-      "artists": [
-        {
-          "name": "Woody Herman & His Orchestra",
-          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Woodchopper's Ball",
-      "url": "https://open.spotify.com/track/4rHjZlNFyBhY6CgjlR5y5W"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Hi De Ho Man",
         "url": "https://open.spotify.com/album/3zO9pFMwLxJXH2Z7GSezXT"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 167266,
       "name": "Everybody Eats When They Come To My House",
       "url": "https://open.spotify.com/track/5Bw7Nf4mJAOQMtb2Ir9uJX"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Blues On Parade",
+        "url": "https://open.spotify.com/album/28V0dxj4vb8blEfyvx5Bvp"
+      },
+      "artists": [
+        {
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Woodchopper's Ball",
+      "url": "https://open.spotify.com/track/4rHjZlNFyBhY6CgjlR5y5W"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/0VyvxWyE0bYQxLu98XXJFk"
     },
     {
-      "added_at": "2022-11-18 01:34:16",
+      "added_at": "2022-11-19 01:33:50",
       "album": {
         "name": "Rumble Jam - Big Band and Jazz Themes",
         "url": "https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM"
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Luck Be a Lady",
-      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
-    },
-    {
       "added_at": "2020-03-06 16:28:56",
       "album": {
         "name": "Presenting Thad Jones-Mel Lewis & The Jazz Orchestra",
@@ -887,6 +871,22 @@
       "duration_ms": 348733,
       "name": "Three In One",
       "url": "https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Luck Be a Lady",
+      "url": "https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq"
     }
   ],
   "unique_name": "Big Band",

@@ -4,7 +4,7 @@
 
 > All your favorite Disney classics, new and old\. Stream Pinocchio on Disney+.
 
-107 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/75RgRxjyvtcVyabSi8Zq71)
+108 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/75RgRxjyvtcVyabSi8Zq71)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:43 | 2021-11-19 | 2022-07-29 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-11-05 |  |
 | [Lost in the Woods \- Weezer Version](https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:05 | 2021-11-19 |  |
+| [Love Power \(End Credit Version\) \- From "Disenchanted"/Soundtrack Version](https://open.spotify.com/track/1Kbf3jLMs9QiDVBZXSpsJl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Love Power \(End Credit Version\) \[From "Disenchanted"\]](https://open.spotify.com/album/70ina5inmc1SIXtUUKIQJi) | 2:57 | 2022-11-18 |  |
 | [Loyal Brave True \- From "Mulan"](https://open.spotify.com/track/3gy8PSkBSyvPyWZazgQn0F) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Loyal Brave True \(From "Mulan"\)](https://open.spotify.com/album/4NWqx0yIq00Q7CosV0HUmU) | 2:46 | 2021-11-19 |  |
 | [Magic](https://open.spotify.com/track/3hE9T8H1jzSS0SxLNtUtKl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 3:29 | 2021-11-19 |  |
 | [Nobody Like U \- From "Turning Red"](https://open.spotify.com/track/6WdfqDzpz3XkvMSlPVc0U8) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [Nobody Like U \(From "Turning Red"\)](https://open.spotify.com/album/7uk4poI15EMWdMrMLnCIL2) | 2:40 | 2022-02-25 |  |

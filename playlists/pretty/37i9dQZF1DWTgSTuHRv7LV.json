@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Flyboiz",
-  "num_followers": 455436,
+  "num_followers": 455392,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGFhM2QxMDgwNGUyYWJlZDFhNjA2Y2QwMGU5ZmFjNzNm",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGNlZDQ3MjEwMjU5N2FkZTY4MDExNTg0MjBhMTAwNTIw",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Mujer\u00f3n",
-        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Mujer\u00f3n",
-      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "POCHOCLOS",
         "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 140130,
       "name": "PUFF",
       "url": "https://open.spotify.com/track/0A6nNAq5m3IqEAgTss3SM8"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Mujer\u00f3n",
+        "url": "https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Mujer\u00f3n",
+      "url": "https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Llegue Pa Hacer Billetes",
-        "url": "https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Oregel",
-          "url": "https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Llegue Pa Hacer Billetes",
-      "url": "https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "ANTI JUDAS RELOADED",
         "url": "https://open.spotify.com/album/0a16Ut2wrHbCt85bg9uqsc"
       },
@@ -1347,18 +1323,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+        "name": "Llegue Pa Hacer Billetes",
+        "url": "https://open.spotify.com/album/2Vlc5x84Iz78eJlVkH5nkt"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Oregel",
+          "url": "https://open.spotify.com/artist/10hdlFmyDcKDOEzgqIb8jO"
         }
       ],
-      "duration_ms": 150140,
-      "name": "23 FEB MADRID FREESTYLE",
-      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
+      "duration_ms": 211500,
+      "name": "Llegue Pa Hacer Billetes",
+      "url": "https://open.spotify.com/track/13U5kHiHh7K4UDQ2P30oIT"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 109830,
       "name": "Michael Jackson",
       "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 150140,
+      "name": "23 FEB MADRID FREESTYLE",
+      "url": "https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1467,22 +1467,6 @@
       "duration_ms": 217228,
       "name": "G-500",
       "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 164092,
-      "name": "100 TRACKS",
-      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 164092,
+      "name": "100 TRACKS",
+      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "La Movie",
         "url": "https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss"
       },
@@ -1655,6 +1655,26 @@
       "duration_ms": 152796,
       "name": "Ojos Chiquitos",
       "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Fuma Fuma",
+        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Fuma Fuma",
+      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1751,26 +1771,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Fuma Fuma",
-        "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Fuma Fuma",
-      "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "No Creyeron",
         "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Socios II",
-        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Problem\u00e1tico",
-      "url": "https://open.spotify.com/track/6mDxG6lF6qQNxl0sv4UnZh"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Vocales",
         "url": "https://open.spotify.com/album/6a1zIS0OherGFOxGYbIldZ"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 95798,
       "name": "ALI",
       "url": "https://open.spotify.com/track/1Cxtb1K5YI4ssTTmT7TDx5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Socios II",
+        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/6mDxG6lF6qQNxl0sv4UnZh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1995,22 +1995,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Corta y Palo",
-        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
+        "name": "DIOS Y LA MUERTE",
+        "url": "https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe"
       },
       "artists": [
         {
-          "name": "Joniel",
-          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
         },
         {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 220689,
-      "name": "Corta y Palo",
-      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
+      "duration_ms": 172126,
+      "name": "DIOS Y LA MUERTE",
+      "url": "https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2039,22 +2039,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "DIOS Y LA MUERTE",
-        "url": "https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe"
+        "name": "Corta y Palo",
+        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
       },
       "artists": [
         {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
         }
       ],
-      "duration_ms": 172126,
-      "name": "DIOS Y LA MUERTE",
-      "url": "https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B"
+      "duration_ms": 220689,
+      "name": "Corta y Palo",
+      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "DISCORDIA",
         "url": "https://open.spotify.com/album/2YZYDm5dakQuKD9RPe7mYx"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 184185,
       "name": "THREE",
       "url": "https://open.spotify.com/track/7bAXhOVSGEcUtpg8zza9Kw"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2471,6 +2471,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE"
+      },
+      "artists": [
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "SYNERGIA",
         "url": "https://open.spotify.com/album/2gEHI7O3QWPETocWVqQZMt"
       },
@@ -2487,22 +2503,6 @@
       "duration_ms": 150000,
       "name": "EL TRAP",
       "url": "https://open.spotify.com/track/23vHbqHE9MVJTUTA9pJbhf"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/3CEjATheM3YuuXKG0sU8XE"
-      },
-      "artists": [
-        {
-          "name": "Sr Pablo",
-          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/7IpyBfP2eVGHGiGgkJqGxS"
     },
     {
       "added_at": "2022-10-07 04:01:00",

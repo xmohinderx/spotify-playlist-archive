@@ -4,13 +4,14 @@
 
 > Relaxing Jazz beats from the best Lo\-Fi producers.
 
-127 songs - 4 hr 36 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
+130 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0rMU8BH9rqYRaI5zkSzif1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5:00 Pm](https://open.spotify.com/track/7iZv82iUrrRCbkFWbrtd3l) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Perspectiva Del Tiempo](https://open.spotify.com/album/3QwpMVWo9v5Z0CnLNBoaPm) | 2:09 | 2020-05-06 |  |
 | [a lifetime](https://open.spotify.com/track/5mcZF1kLzh4i182pDvp2RJ) | [anybodyy](https://open.spotify.com/artist/1aub8GgJikwSG4wUMWZrzl) | [a lifetime / in my head](https://open.spotify.com/album/63wBnahx47YdNGVY39pjDX) | 2:16 | 2020-05-06 |  |
-| [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2020-05-06 |  |
+| [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2020-05-06 | 2022-11-19 |
+| [Again](https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2) | 2:23 | 2020-05-06 |  |
 | [Alone without your embrace](https://open.spotify.com/track/1oSJNJPZdoeFf4zrbF7OIZ) | [d\-p](https://open.spotify.com/artist/5RdWE3BZ6xrseaVatOeUWc) | [Alone without your embrace](https://open.spotify.com/album/0Oa1ZmpCSJJChayiAZXMXI) | 2:29 | 2020-05-06 |  |
 | [Amber](https://open.spotify.com/track/4AuBJYL1aL4TWgLZFHWthJ) | [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t) | [Contrasts](https://open.spotify.com/album/6AgopOGUUtCQgSKdVdYSyO) | 2:06 | 2020-05-06 | 2022-07-29 |
 | [Amber](https://open.spotify.com/track/4OdNQ6NpG14f2sbGm3Y8WT) | [dryhope](https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t) | [Contrasts](https://open.spotify.com/album/7wDFM8dEj8csU071gXJmkH) | 2:06 | 2020-05-06 |  |
@@ -35,7 +36,8 @@
 | [Edamame](https://open.spotify.com/track/6ZhmsXbTueMqhhsgUfXBYo) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Jiro Dreams](https://open.spotify.com/album/1sP83JA4XZhzLhHiV8CKXQ) | 1:29 | 2020-05-06 | 2022-07-29 |
 | [Effervescent](https://open.spotify.com/track/4pPL6ISxDI4k40xj2vN9Zh) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Effervescent](https://open.spotify.com/album/0CsShqHvizLnWq7Y0OoocG) | 2:17 | 2020-05-06 | 2022-07-29 |
 | [Effervescent](https://open.spotify.com/track/6IR6lNKONhV6tPn1dbq5lD) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Ambedo](https://open.spotify.com/album/0ZMuOWAgInjSRfHKfbntet) | 2:17 | 2020-05-06 |  |
-| [Feblu](https://open.spotify.com/track/0BD9XqvXSSxlHsdBlLKhqA) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [EXPEDITion Vol\. 7: Moonloops](https://open.spotify.com/album/6Ads7rAZhNDWrcZqaCwJg6) | 1:33 | 2020-05-06 |  |
+| [Feblu](https://open.spotify.com/track/0BD9XqvXSSxlHsdBlLKhqA) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [EXPEDITion Vol\. 7: Moonloops](https://open.spotify.com/album/6Ads7rAZhNDWrcZqaCwJg6) | 1:33 | 2020-05-06 | 2022-11-19 |
+| [Feblu](https://open.spotify.com/track/6EHGGXkOd5APGB3bxEqekX) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Expedition, Vol\. 7 \(Moonloops\)](https://open.spotify.com/album/7HPxDRXmH8sR74ywHbuXjM) | 1:33 | 2020-05-06 |  |
 | [Feeling Good](https://open.spotify.com/track/633vDzDBuj4VRSnLqUMCg0) | [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD), [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM) | [Feeling Good](https://open.spotify.com/album/6AHYXmBI1K9JIJlWGHCRR3) | 1:53 | 2020-05-06 |  |
 | [Feeling Good](https://open.spotify.com/track/2Ti1MmzmBcLfRcl64kDFon) | [Weegie](https://open.spotify.com/artist/05TqxuOClqbhjAba2V5aXa), [Sea Flap Flap](https://open.spotify.com/artist/4aPzws5w5zMmiRvcF4j9ZL), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD) | [Feeling Good](https://open.spotify.com/album/1blIdmOg0ayvEf84SFZBWc) | 1:53 | 2020-05-06 | 2022-07-29 |
 | [Gloaming](https://open.spotify.com/track/09O1DNX6iLiAmi3b64aOhy) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Gloaming](https://open.spotify.com/album/0mCpADfeZDh2APKiBQjzVL) | 2:51 | 2020-05-06 |  |
@@ -117,7 +119,8 @@
 | [Stay the Same](https://open.spotify.com/track/3TACMcYZKWofQbtoek5X8t) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC), [Ambulo](https://open.spotify.com/artist/6sPQwc6lix6K1Gv64v91Ml) | [Afloat Again](https://open.spotify.com/album/3yjLYYs4lfeO8VSWpC8rmi) | 2:04 | 2020-05-06 | 2022-07-29 |
 | [Sugar Coat](https://open.spotify.com/track/3FtNyYi6ejoytUZdT3WfNN) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sweet Dreams](https://open.spotify.com/album/3M6FcKuF7yoYWp9hJF32eB) | 2:59 | 2020-05-06 | 2022-07-29 |
 | [Sugar Coat](https://open.spotify.com/track/4Q5SnRGF0wAluw3zY9NbYo) | [Purrple Cat](https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE) | [Sweet Dreams](https://open.spotify.com/album/35Zg4Ksfyo1PmlztBn3UH6) | 2:59 | 2020-05-06 |  |
-| [Sunday Evening.](https://open.spotify.com/track/54EGtk5LxuWGkCc3pqTi59) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunday Evening.](https://open.spotify.com/album/24x6bbAwLxKmNNyWaLpF0i) | 1:02 | 2020-05-06 |  |
+| [Sunday Evening.](https://open.spotify.com/track/3hFJJ1ySbkjsJUftYaQk4a) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunday Evening.](https://open.spotify.com/album/5Lox3JJVy1jpFscjs3mUFO) | 1:02 | 2020-05-06 |  |
+| [Sunday Evening.](https://open.spotify.com/track/54EGtk5LxuWGkCc3pqTi59) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunday Evening.](https://open.spotify.com/album/24x6bbAwLxKmNNyWaLpF0i) | 1:02 | 2020-05-06 | 2022-11-19 |
 | [Sundown](https://open.spotify.com/track/1ZNBBIqH0beHORllNd3Uud) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/3Q7VU1KXqFwgvVqcf2RmTf) | 2:48 | 2020-05-06 |  |
 | [Sundown](https://open.spotify.com/track/3xNZP70uRdHJK3lZJ8OfJr) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Sundown](https://open.spotify.com/album/2ao0Uc2jDxXl8YPfuYMy6f) | 2:48 | 2020-05-06 | 2022-07-29 |
 | [Sundown](https://open.spotify.com/track/6Q9QZRk3FjWWrbz1szGh2M) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2), [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86) | [Chillhop Yearmix 2020](https://open.spotify.com/album/2g9frEs9937i2AxcwM0PWS) | 2:48 | 2020-05-06 | 2022-11-13 |

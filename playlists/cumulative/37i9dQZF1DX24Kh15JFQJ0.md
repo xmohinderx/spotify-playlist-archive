@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-164 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+166 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Carryin' Fire \- From The Vault](https://open.spotify.com/track/2oLa6cIjW7JPMtYx4KKLtz) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life \(35th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U) | 3:37 | 2021-10-15 |  |
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2021-10-15 |  |
 | [Country Pie](https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 2:49 | 2022-05-20 |  |
+| [Country Star](https://open.spotify.com/track/0ZesYm9KhuCthYX8No6eMs) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Country Star](https://open.spotify.com/album/3y792nYJ1zF9mjLEGDfUDc) | 3:05 | 2022-11-18 |  |
 | [Cut Through Me](https://open.spotify.com/track/2NEGAeWfyGuxJIsV5xxqDp) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Barroom Mirrors EP](https://open.spotify.com/album/5fPloWNi1Mk2LAahhDwe88) | 3:59 | 2021-11-19 |  |
 | [Dear Miss Loretta](https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Dear Miss Loretta](https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn) | 3:40 | 2021-10-15 |  |
 | [Dents On A Chevy](https://open.spotify.com/track/7sA9nuB1TGbZ4iHzLL80FH) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Jacob](https://open.spotify.com/album/4YbkRO4bAGaiOr1qiex8mi) | 3:17 | 2022-08-05 |  |
@@ -127,6 +128,7 @@
 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-10-15 |  |
 | [Sent From Above](https://open.spotify.com/track/51jVJF72pOhKxMTuZsi0p4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Sent From Above](https://open.spotify.com/album/2seNA62osJS4t03QBjdkW3) | 2:25 | 2021-10-15 | 2022-09-21 |
 | [Set In Stone](https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Set In Stone](https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8) | 3:04 | 2021-10-15 |  |
+| [She Had Me At Heads Carolina \(with Jo Dee Messina\) \- Remix](https://open.spotify.com/track/557rfmFFNH4YwsE2OYZfhF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \[Remix\]](https://open.spotify.com/album/19PdywBe6KaiBhaws1cUPC) | 3:43 | 2022-11-18 |  |
 | [She's Everything to Me](https://open.spotify.com/track/0bHVsXJYoL1vFnIKoW5VCK) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [She's Everything to Me](https://open.spotify.com/album/67BuFJwLDQ3j7nutc1cBQt) | 3:43 | 2021-10-15 |  |
 | [Slowing Down](https://open.spotify.com/track/380s4cpzc1XIUMwjRN8yNw) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Forever My Girl \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1UCTuNC4E5Q7mFhIdNo71V) | 3:35 | 2021-10-15 |  |
 | [Smoke In A Bar](https://open.spotify.com/track/3LP1WoisvGEGM68Qp37q7h) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Smoke In A Bar](https://open.spotify.com/album/2QwX4bWQZQsjHm9cyksvS7) | 4:22 | 2021-10-15 |  |

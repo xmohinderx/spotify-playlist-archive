@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Ozzy Osbourne
 
-676 songs - 2 day 2 hr 24 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+677 songs - 2 day 2 hr 28 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Fear of the Fallen](https://open.spotify.com/track/6sKD7OL6nPhkY8VcQuYdai) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Fear of the Fallen](https://open.spotify.com/album/4FOtnQvfbsMo5kEaXQ59Kg) | 5:38 | 2021-12-17 | 2022-07-29 |
 | [Fear of the Living Dead](https://open.spotify.com/track/3HkSXurIHBYyj49T7e9BdW) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Fear of the Living Dead](https://open.spotify.com/album/0LMkqvZviArY5KbCwzNitV) | 5:31 | 2021-12-29 | 2022-05-07 |
 | [Feast Of Fire](https://open.spotify.com/track/1c7kZbuNixEsCMbU3MZFpy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 4:18 | 2022-07-13 | 2022-08-06 |
-| [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2021-12-17 |  |
+| [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2021-12-17 | 2022-11-19 |
 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 | 2022-01-21 | 2022-08-20 |
 | [Fever Dreams](https://open.spotify.com/track/2Ei1eAAU4ME4ld72p9wCbW) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Magica](https://open.spotify.com/album/2E457EiUG9l2rD1EaWcRM4) | 4:37 | 2021-12-17 | 2022-08-20 |
 | [Fight](https://open.spotify.com/track/0eQLg5pGbPIxV04WgAgmma) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Fight](https://open.spotify.com/album/7cIOcTijBJW1ubfDCfMDLm) | 3:59 | 2021-12-17 | 2022-07-25 |
@@ -410,6 +410,7 @@
 | [One with the Gun](https://open.spotify.com/track/3aaWmV0z0oQqibw4xEViXW) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [One with the Gun](https://open.spotify.com/album/2NVNMjbOnObqLYkjIB0uao) | 3:10 | 2021-12-29 | 2022-07-29 |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/2y7VOZpPlP8kZHG764vrzQ) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/0T3R63wtZ2N4OjkcohYeqO) | 3:02 | 2022-03-25 | 2022-04-17 |
 | [Our Time Has Come](https://open.spotify.com/track/1LBu31Q9mqGmDHQVzaiAlJ) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Our Time Has Come](https://open.spotify.com/album/25L8Dsoq5ZFF508MPk18qF) | 4:48 | 2021-12-17 | 2022-07-23 |
+| [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-11-18 |  |
 | [Out of My Life](https://open.spotify.com/track/0meKbAXQpVUTzoTXzT2TT9) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [No Halos in Hell](https://open.spotify.com/album/5EgCiMda1FhZGCplaNustM) | 3:17 | 2022-07-08 |  |
 | [Out of My Life](https://open.spotify.com/track/4Zcl7dDFtMU5bLlzDDxkZ8) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Out of My Life](https://open.spotify.com/album/5O0tzLNKPr2Zw79VPf49Ep) | 3:17 | 2021-12-17 | 2022-07-29 |
 | [Over the Horizon Radar](https://open.spotify.com/track/5GMCA2bj9tyiRzMfqpsMzy) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [Over the Horizon Radar](https://open.spotify.com/album/5UOB2GpihCJHEQ30DSnkss) | 5:23 | 2022-07-08 | 2022-07-22 |
@@ -420,7 +421,7 @@
 | [Paranormalium](https://open.spotify.com/track/1qnJF3sdfkV2HLHwZRMPEP) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/2JZN65DjGzT65ondXiQDHI) | 5:34 | 2022-03-22 | 2022-04-02 |
 | [Parasite Eve](https://open.spotify.com/track/36xBFaVGjqm7le8CTHytUj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 4:51 | 2022-07-13 |  |
 | [Party in My Head](https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Party in My Head](https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp) | 3:08 | 2021-12-17 |  |
-| [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 | 2022-09-10 |
+| [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 |  |
 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 | 2022-07-13 | 2022-11-13 |
 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-11-11 |  |
 | [Plenty](https://open.spotify.com/track/6sBYUZjVuI9fOqoafHUfoN) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Plenty](https://open.spotify.com/album/6mwLefl2rByFbuVkV7kDwQ) | 3:40 | 2022-03-22 | 2022-04-19 |
@@ -489,7 +490,7 @@
 | [Shadowminds](https://open.spotify.com/track/47qV9FAvLMUi5Ui6aTtyNT) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Shadowminds](https://open.spotify.com/album/2hfJXHar2eq0er33i9jAnc) | 3:53 | 2021-12-17 | 2022-01-22 |
 | [Shadowminds \- Ihsahn Remix](https://open.spotify.com/track/2119jVEL7SOHyXxvBjaZrc) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Shadowminds \(Ihsahn Remix\)](https://open.spotify.com/album/6II3pspzSsH0VeqqVIm0tv) | 3:54 | 2022-10-07 |  |
 | [Shed My Skin \(feat\. Annisokay\)](https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Shed My Skin](https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA) | 4:30 | 2022-07-13 |  |
-| [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 | 2022-10-07 |  |
+| [Shot in the Dark](https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Ultimate Sin](https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j) | 4:16 | 2022-10-07 | 2022-11-19 |
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2022-10-14 |  |
 | [Shout At The Devil](https://open.spotify.com/track/6VZivrPxu9MJ5rIPIERg56) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY) | 3:14 | 2022-08-19 |  |
 | [Sickening](https://open.spotify.com/track/3wzwYEXoNOgVRhE7mrSHzz) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Kingmaker](https://open.spotify.com/album/1fNDbschhYTY8apSceslxh) | 3:45 | 2021-12-29 | 2022-04-21 |

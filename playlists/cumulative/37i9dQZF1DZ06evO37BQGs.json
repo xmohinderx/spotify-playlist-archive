@@ -330,6 +330,24 @@
     },
     {
       "album": {
+        "name": "Live at the Lemon Grove",
+        "url": "https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177066,
+      "name": "Introduction to Pop (Live)",
+      "url": "https://open.spotify.com/track/6nH9suYXFEaXE8sFyCW6Yy"
+    },
+    {
+      "album": {
         "name": "Kill Your Own",
         "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
       },

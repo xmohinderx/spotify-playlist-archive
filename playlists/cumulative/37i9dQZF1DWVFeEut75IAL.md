@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-98 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
+99 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/4qTfIMAROPU0maC8UIPwXd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [The Carnival of the Animals, R\. 125: XIII\. The Swan \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/0jOnZhF75V68VsBObWx2XO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Songs from the Arc of Life](https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD) | 2:54 | 2021-11-15 |  |
 | [The Hours: An Unwelcome Friend \(From "The Hours"\)](https://open.spotify.com/track/2GnYCy70I8cR4oEA2wsSDx) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Nicolas Horvath](https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB) | [Philip Glass: Glassworlds, Vol\. 4 – On Love](https://open.spotify.com/album/2HItrNjxkcndzejvNPdE6v) | 4:16 | 2022-07-22 |  |
 | [The Lily \- Piano Version](https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The Lily](https://open.spotify.com/album/7MB4jFZ02hbMpYaBdLOpGq) | 1:56 | 2022-05-20 |  |
+| [Traditional: Danny Boy](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 | 2022-11-18 |  |
 | [Violin Concerto No\. 10 in G Major: Largo](https://open.spotify.com/track/3Rw0Rg4LjlYnuxIyioW3vg) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zhou Qian](https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n), [Toronto Chamber Orchestra](https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC), [Kevin Mallon](https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s) | [Saint\-Georges: Violin Concertos No\. 1, Op\. 3 and Nos\. 2 and 10](https://open.spotify.com/album/2xPu5U9CZiHN87Gyh9YA5Z) | 6:37 | 2021-11-15 | 2022-03-18 |
 | [Walk With Us \- For Black Lives Matter](https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Walk With Us \(For Black Lives Matter\)](https://open.spotify.com/album/4SjtGpWBAs4PysnpKEg4xu) | 2:00 | 2021-11-15 |  |
 | [Wasserklavier](https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY) | [David Arden](https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc) | [Luciano Berio \- The Complete Works For Solo Piano](https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb) | 2:02 | 2022-01-19 |  |

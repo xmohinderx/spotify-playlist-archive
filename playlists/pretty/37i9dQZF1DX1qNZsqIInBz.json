@@ -1,12 +1,12 @@
 {
   "description": "smooth drifting only",
-  "num_followers": 11283,
+  "num_followers": 11199,
   "original_name": "cosmic phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE1MDExOSwwMDAwMDAwMDNiOTE0YjM5NTQwNDY0MjA4OTQzODU2OTI5MmRiNjEz",
+  "snapshot_id": "MTY2ODc0NDA2MCwwMDAwMDAwMDM0MzhkYzE0YzhjYTY3YTEzOTZiYTkxOTI3NTJhMTJh",
   "tracks": [
     {
       "added_at": "2022-10-10 09:32:17",
@@ -23,6 +23,26 @@
       "duration_ms": 170887,
       "name": "See U",
       "url": "https://open.spotify.com/track/54vyxEzMvLexzEgEBzIUNQ"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "UNIVERSE OF THE PAST",
+        "url": "https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz"
+      },
+      "artists": [
+        {
+          "name": "LXST CXNTURY",
+          "url": "https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp"
+        },
+        {
+          "name": "Kingpin Skinny Pimp",
+          "url": "https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj"
+        }
+      ],
+      "duration_ms": 166579,
+      "name": "ODIUM",
+      "url": "https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -93,6 +113,26 @@
       "url": "https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1"
     },
     {
+      "added_at": "2022-11-18 04:01:00",
+      "album": {
+        "name": "Cold Blood",
+        "url": "https://open.spotify.com/album/4i4J6PY1upuY48jsSITgGi"
+      },
+      "artists": [
+        {
+          "name": "Wilee",
+          "url": "https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r"
+        },
+        {
+          "name": "HOSPICEMANE",
+          "url": "https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm"
+        }
+      ],
+      "duration_ms": 186682,
+      "name": "Cold Blood",
+      "url": "https://open.spotify.com/track/6BGI62bC9ZBOvTqWCd6Nd5"
+    },
+    {
       "added_at": "2022-10-10 09:32:17",
       "album": {
         "name": "End of the World",
@@ -123,6 +163,22 @@
       "duration_ms": 139285,
       "name": "I'M SORRY",
       "url": "https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "Blow With The Hoe",
+        "url": "https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk"
+      },
+      "artists": [
+        {
+          "name": "Falxce",
+          "url": "https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk"
+        }
+      ],
+      "duration_ms": 91976,
+      "name": "Blow With The Hoe",
+      "url": "https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -167,42 +223,6 @@
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "Desolation 2",
-        "url": "https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1"
-      },
-      "artists": [
-        {
-          "name": "CREEPYMANE",
-          "url": "https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz"
-        }
-      ],
-      "duration_ms": 92762,
-      "name": "Desolation 2",
-      "url": "https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "UNIVERSE OF THE PAST",
-        "url": "https://open.spotify.com/album/4HlAmB7VZFZW5iPYapiqiz"
-      },
-      "artists": [
-        {
-          "name": "LXST CXNTURY",
-          "url": "https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp"
-        },
-        {
-          "name": "Kingpin Skinny Pimp",
-          "url": "https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj"
-        }
-      ],
-      "duration_ms": 166579,
-      "name": "ODIUM",
-      "url": "https://open.spotify.com/track/4yyX0nJqMpqaubcGdGsxx9"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
         "name": "\u041f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043c\u0435\u0447\u0442\u0430\u0442\u044c",
         "url": "https://open.spotify.com/album/2qBHvwmiX5p9Od7D1QFadg"
       },
@@ -215,6 +235,42 @@
       "duration_ms": 168669,
       "name": "\u041f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043c\u0435\u0447\u0442\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/7LmeYVqtNa5FUxLK2Iyam8"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "nightexpress",
+        "url": "https://open.spotify.com/album/0306P7Fec99VYmoSguS97S"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0"
+        },
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        }
+      ],
+      "duration_ms": 160870,
+      "name": "nightexpress",
+      "url": "https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK"
+    },
+    {
+      "added_at": "2022-11-18 04:01:00",
+      "album": {
+        "name": "The Creeps",
+        "url": "https://open.spotify.com/album/23TDQRMfrMD0W4nTiB1EuD"
+      },
+      "artists": [
+        {
+          "name": "GWRZTRMNR",
+          "url": "https://open.spotify.com/artist/5mqGv6vgs3ZMJbbBOvWtQi"
+        }
+      ],
+      "duration_ms": 145481,
+      "name": "The Creeps",
+      "url": "https://open.spotify.com/track/4ZeHPxe1QYjYWWGC06gZ2P"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -239,8 +295,8 @@
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "My Toy",
-        "url": "https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8"
+        "name": "Dream Space",
+        "url": "https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X"
       },
       "artists": [
         {
@@ -248,29 +304,61 @@
           "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
         }
       ],
-      "duration_ms": 198750,
-      "name": "My Toy",
-      "url": "https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK"
+      "duration_ms": 171466,
+      "name": "Dream Space",
+      "url": "https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18"
     },
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "nightexpress",
-        "url": "https://open.spotify.com/album/0306P7Fec99VYmoSguS97S"
+        "name": "Desolation 2",
+        "url": "https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1"
       },
       "artists": [
         {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0"
-        },
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+          "name": "CREEPYMANE",
+          "url": "https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz"
         }
       ],
-      "duration_ms": 160870,
-      "name": "nightexpress",
-      "url": "https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK"
+      "duration_ms": 92762,
+      "name": "Desolation 2",
+      "url": "https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ"
+    },
+    {
+      "added_at": "2022-10-14 04:01:00",
+      "album": {
+        "name": "TEARDROP",
+        "url": "https://open.spotify.com/album/6dYneATOS4dlt88gyQWvMv"
+      },
+      "artists": [
+        {
+          "name": "L19U1D",
+          "url": "https://open.spotify.com/artist/6eIJYF4G64wbLdUXpxCKd2"
+        },
+        {
+          "name": "attashe",
+          "url": "https://open.spotify.com/artist/2D8oenshYhpgfJSaJ8o8on"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "TEARDROP",
+      "url": "https://open.spotify.com/track/0HPsP6pwUJHKHySEXLST0u"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
+        "name": "HYPERPHONK",
+        "url": "https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD"
+      },
+      "artists": [
+        {
+          "name": "LXVIATHXN",
+          "url": "https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "HYPERPHONK",
+      "url": "https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -325,6 +413,26 @@
       "url": "https://open.spotify.com/track/3QS2MR6CbGUliVnbRi8k1f"
     },
     {
+      "added_at": "2022-11-18 04:01:00",
+      "album": {
+        "name": "Godlike",
+        "url": "https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6"
+      },
+      "artists": [
+        {
+          "name": "SPVRROW",
+          "url": "https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF"
+        },
+        {
+          "name": "YUSHEE",
+          "url": "https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi"
+        }
+      ],
+      "duration_ms": 143292,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T"
+    },
+    {
       "added_at": "2022-10-10 09:32:17",
       "album": {
         "name": "Ascension",
@@ -343,26 +451,6 @@
       "duration_ms": 120000,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/655HUrteca32fCVbWCHe0b"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "TEARDROP",
-        "url": "https://open.spotify.com/album/6dYneATOS4dlt88gyQWvMv"
-      },
-      "artists": [
-        {
-          "name": "L19U1D",
-          "url": "https://open.spotify.com/artist/6eIJYF4G64wbLdUXpxCKd2"
-        },
-        {
-          "name": "attashe",
-          "url": "https://open.spotify.com/artist/2D8oenshYhpgfJSaJ8o8on"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "TEARDROP",
-      "url": "https://open.spotify.com/track/0HPsP6pwUJHKHySEXLST0u"
     },
     {
       "added_at": "2022-11-03 20:01:00",
@@ -399,22 +487,6 @@
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "HYPERPHONK",
-        "url": "https://open.spotify.com/album/5unAHopAAQmbF079dpLPmD"
-      },
-      "artists": [
-        {
-          "name": "LXVIATHXN",
-          "url": "https://open.spotify.com/artist/2SJRVFLT1rSs5oKiqsZ04T"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "HYPERPHONK",
-      "url": "https://open.spotify.com/track/1F14gm4JQcW7SAWRMGD4nT"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
         "name": "FORGOTTEN",
         "url": "https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM"
       },
@@ -427,6 +499,30 @@
       "duration_ms": 91173,
       "name": "NO HOPE",
       "url": "https://open.spotify.com/track/6lpqmnhoM6fxVg52c7azTp"
+    },
+    {
+      "added_at": "2022-11-18 04:01:00",
+      "album": {
+        "name": "Dream Road",
+        "url": "https://open.spotify.com/album/0tpavY1s1hchFwtCC93tHN"
+      },
+      "artists": [
+        {
+          "name": "81an",
+          "url": "https://open.spotify.com/artist/2jQ3SyqsblMmflFJCRr5dn"
+        },
+        {
+          "name": "ALan",
+          "url": "https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma"
+        },
+        {
+          "name": "ISHNLV",
+          "url": "https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "Dream Road",
+      "url": "https://open.spotify.com/track/006xxgBdSswgtgXOks59u4"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -443,22 +539,6 @@
       "duration_ms": 225230,
       "name": "Tell me what - Alternative",
       "url": "https://open.spotify.com/track/3ZAVDqWDatGhJEbgTJrSpE"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "Blow With The Hoe",
-        "url": "https://open.spotify.com/album/6te7TxptWjXLBRk6cjAiZk"
-      },
-      "artists": [
-        {
-          "name": "Falxce",
-          "url": "https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk"
-        }
-      ],
-      "duration_ms": 91976,
-      "name": "Blow With The Hoe",
-      "url": "https://open.spotify.com/track/0coSp8V3oTqsQa9QQoNsXl"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -623,6 +703,22 @@
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
+        "name": "My Toy",
+        "url": "https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "My Toy",
+      "url": "https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK"
+    },
+    {
+      "added_at": "2022-10-10 09:32:17",
+      "album": {
         "name": "Next Day Was Yesterday",
         "url": "https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ"
       },
@@ -723,42 +819,6 @@
       "duration_ms": 145522,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/3fZfQWOg4xv8YUPAvnPaty"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "NOVA",
-        "url": "https://open.spotify.com/album/4YK3evtfb0ECUIP4PYPXJM"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "SwuM",
-          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "NOVA",
-      "url": "https://open.spotify.com/track/5Rnv7W5R1eh6VIvBGbgIqd"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "Dream Space",
-        "url": "https://open.spotify.com/album/0jGdCBBF1Khors1eyML58X"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "Dream Space",
-      "url": "https://open.spotify.com/track/4wHkfOTO5XpTrVn1bHxR18"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -931,22 +991,6 @@
       "duration_ms": 150036,
       "name": "UNREQUITED LOVE",
       "url": "https://open.spotify.com/track/6ggG03IXJujvzWX7SShGtG"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "VOODOO",
-        "url": "https://open.spotify.com/album/3T3mxTfHJm504OXFmgO5Jw"
-      },
-      "artists": [
-        {
-          "name": "Send 1",
-          "url": "https://open.spotify.com/artist/1f4j1E8XNo0m6EsMbGDjRV"
-        }
-      ],
-      "duration_ms": 133234,
-      "name": "VOODOO",
-      "url": "https://open.spotify.com/track/18D25d3voTo9ZaUh5Ij46I"
     },
     {
       "added_at": "2022-10-10 09:32:17",
@@ -1367,22 +1411,6 @@
     {
       "added_at": "2022-10-10 09:32:17",
       "album": {
-        "name": "Ghost of the Night",
-        "url": "https://open.spotify.com/album/5CXl9Cy4HeliJs461GoBGp"
-      },
-      "artists": [
-        {
-          "name": "OXWAVE",
-          "url": "https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9"
-        }
-      ],
-      "duration_ms": 192141,
-      "name": "Ghost of the Night",
-      "url": "https://open.spotify.com/track/5kdJUmz4AmmSbHdFyIo4e8"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
         "name": "Night Finding",
         "url": "https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME"
       },
@@ -1583,22 +1611,6 @@
       "duration_ms": 192080,
       "name": "BEAT EM DOWN",
       "url": "https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs"
-    },
-    {
-      "added_at": "2022-10-10 09:32:17",
-      "album": {
-        "name": "HEAD-ON COLLISION",
-        "url": "https://open.spotify.com/album/0KoWo621xx4T4cesytZCh5"
-      },
-      "artists": [
-        {
-          "name": "Hikki Gaya",
-          "url": "https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC"
-        }
-      ],
-      "duration_ms": 120700,
-      "name": "HEAD-ON COLLISION",
-      "url": "https://open.spotify.com/track/53bSmruH18GwdeQw40v8CS"
     },
     {
       "added_at": "2022-10-10 09:32:17",

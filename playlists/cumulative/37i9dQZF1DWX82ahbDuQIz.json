@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Into The Woods",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: Funny Girl",
   "name": "Best of Broadway",
   "published_playlist_ids": [
     "3qlaQmgNCu3UM5Zlcrjz8A"
@@ -529,6 +529,28 @@
       "duration_ms": 245303,
       "name": "Don't Lose Ur Head",
       "url": "https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3"
+    },
+    {
+      "album": {
+        "name": "Funny Girl (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/44jNMYeyAJstThz75DDsFW"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "New Broadway Cast of Funny Girl",
+          "url": "https://open.spotify.com/artist/46lhCwPnvFpOdmVBfDFdB9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158440,
+      "name": "Don't Rain on My Parade",
+      "url": "https://open.spotify.com/track/3qaMDTwoBvdrxYvwgr9bgs"
     },
     {
       "album": {
@@ -1100,6 +1122,28 @@
     },
     {
       "album": {
+        "name": "Funny Girl (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/44jNMYeyAJstThz75DDsFW"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "New Broadway Cast of Funny Girl",
+          "url": "https://open.spotify.com/artist/46lhCwPnvFpOdmVBfDFdB9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "I'm the Greatest Star",
+      "url": "https://open.spotify.com/track/1qN1krRzAiZWTzTnIgAIXG"
+    },
+    {
+      "album": {
         "name": "In the Heights (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg"
       },
@@ -1259,6 +1303,28 @@
       "duration_ms": 270171,
       "name": "It's Quiet Uptown",
       "url": "https://open.spotify.com/track/40LYL1Z6xgCn5cBybo5K0D"
+    },
+    {
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Justin David Sullivan",
+          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204787,
+      "name": "I\u2019m Not a Girl, Not Yet a Woman",
+      "url": "https://open.spotify.com/track/3CL9onFqjkQ8nL6BJ0w5wb"
     },
     {
       "album": {
@@ -1813,7 +1879,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 130893,
       "name": "Not for the Life of Me",
       "url": "https://open.spotify.com/track/2CBlRiZjGJZ10y5FRyn2Vb"
@@ -2602,6 +2668,28 @@
     },
     {
       "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209394,
+      "name": "That\u2019s the Way It Is",
+      "url": "https://open.spotify.com/track/4gpbXdxDIRmRnJccrjsXsh"
+    },
+    {
+      "album": {
         "name": "Miss Saigon",
         "url": "https://open.spotify.com/album/1k8Tj7gO931OlzYe5EQzjO"
       },
@@ -3223,7 +3311,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 259313,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/34fvDhHl6AdB7fv5znVEVx"

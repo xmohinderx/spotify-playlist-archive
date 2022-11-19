@@ -4,7 +4,7 @@
 
 > Music from and inspired by "Glass Onion: A Knives Out Mystery," coming soon to Netflix.
 
-21 songs - 1 hr 12 min - not published yet
+24 songs - 1 hr 24 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,11 @@
 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2022-11-14 |  |
 | [Fugue in G Minor, BWV 578](https://open.spotify.com/track/5nC9blLxTTMkUIgBjOHI5A) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tatiana Nikolayeva](https://open.spotify.com/artist/6DLkqUf81qiaGPUYEep6Gb) | [Tatiana Nikolayeva plays Bach](https://open.spotify.com/album/2bNvavvuP5BlkSHa6lrfxJ) | 5:38 | 2022-11-14 |  |
 | [Glass Onion \- Remastered 2009](https://open.spotify.com/track/2jAojvUaPoHPFSPpF0UNRo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:17 | 2022-11-14 |  |
+| [Glass Onion String Quartet in Bb Minor](https://open.spotify.com/track/4yNzkxzvTaEknvjqXYYyKL) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Glass Onion String Quartet in Bb Minor \(from the Netflix Film "Glass Onion"\)](https://open.spotify.com/album/4w0X1Fak64BztXtd7CRnYl) | 2:15 | 2022-11-18 |  |
+| [I Will Survive](https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Love Tracks](https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX) | 4:56 | 2022-11-18 |  |
 | [Knives Out! \(String Quartet in G Minor\)](https://open.spotify.com/track/6MVKZqfRYWkeFNRiIRjJub) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:50 | 2022-11-14 |  |
 | [Knives Out!, Pt\. II \(The Will\)](https://open.spotify.com/track/5j7V7I0CBkCpsmwVSV3rBa) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 3:03 | 2022-11-14 |  |
+| [Last Dance](https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 4:56 | 2022-11-18 |  |
 | [Mona Lisa](https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:14 | 2022-11-14 |  |
 | [Mothership Connection \(Star Child\)](https://open.spotify.com/track/7rLAPi81R7qlVqgXfykdEL) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 6:13 | 2022-11-14 |  |
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2022-11-14 |  |

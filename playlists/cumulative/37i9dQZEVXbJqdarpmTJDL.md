@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-941 songs - 2 day 2 hr 59 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+942 songs - 2 day 3 hr 4 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Criminal](https://open.spotify.com/track/5ULjMFUY8wZUj3LZAsy8rD) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [SALVA](https://open.spotify.com/artist/4uxKjHpF1AVuoZoDqp4whz) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:59 | 2022-01-14 | 2022-02-24 |
 | [Criminale](https://open.spotify.com/track/06Rn9dPc1lxouC62whG3l6) | [Leaderbrain](https://open.spotify.com/artist/5q2IdmHx3SBYq1l5IixqTZ), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [ObieDaz Beats](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [Criminale](https://open.spotify.com/album/3JfZ9cHDkk1db60W6A6Aob) | 2:18 | 2021-03-27\* | 2021-04-04 |
 | [Crystal](https://open.spotify.com/track/6XK6R1ir3k0iPkwGbmVIEV) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Crystal](https://open.spotify.com/album/2VZw5kZYY6ssrAlRyHGpcY) | 2:38 | 2022-09-08 |  |
+| [CYPHER33](https://open.spotify.com/track/59h4w2mbmlzuPBHonH0xKx) | [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [sohood](https://open.spotify.com/artist/6K1o13D1djcM0GDzgfhXGw), [Livar](https://open.spotify.com/artist/4TBL1lQeOwRq0UMvwo7d65), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [CYPHER33](https://open.spotify.com/album/2Nr3DHN74ugbeZwFbQZU1R) | 4:27 | 2022-11-18 |  |
 | [Daewoo 3](https://open.spotify.com/track/2pwEJ9aw8gHFgONzbxQ04u) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Daewoo 3](https://open.spotify.com/album/1Rnn2oSijRtrhY0MwCQoUP) | 3:29 | 2021-11-07 | 2021-11-21 |
 | [Daewoo 3](https://open.spotify.com/track/6pwZ0KpNZ4CKwXcTiGRiOq) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Timima](https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU) | 3:29 | 2021-11-21 | 2022-01-15 |
 | [Daimones](https://open.spotify.com/track/0E7Y1ZxWaEH3FvHiIsIjTW) | [Trouf](https://open.spotify.com/artist/6tL1w9Zf5V0l3VBiYjxtZl), [Spave](https://open.spotify.com/artist/2rDf12GPPndtQlKnxfKj3m), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [My Life \(Vol\. 1\)](https://open.spotify.com/album/10wEGkuy9mJXVt5byNbbW1) | 4:22 | 2022-02-12 | 2022-02-15 |
@@ -638,7 +639,7 @@
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-15 |
 | [Out of Your Mind](https://open.spotify.com/track/1wRKwSa4fLSA0SHGqcfSL4) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [Out of Your Mind](https://open.spotify.com/album/1P08dG0PG5dGrPWccuL9cz) | 2:39 | 2022-04-22 | 2022-05-31 |
 | [Outro](https://open.spotify.com/track/4vAbdNssb6B6OK4rcnO3AD) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [DonBeatz](https://open.spotify.com/artist/17qlQfDPyFAHsWvqblqdFa) | [Tesla](https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m) | 2:57 | 2021-03-27\* | 2021-03-27 |
-| [OUTRO \(FOR MY FAMILY\)](https://open.spotify.com/track/6j0zBbsKzi9GAMxiUcHmzn) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 1:57 | 2022-11-12 |  |
+| [OUTRO \(FOR MY FAMILY\)](https://open.spotify.com/track/6j0zBbsKzi9GAMxiUcHmzn) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [IPIZME](https://open.spotify.com/album/1AEEQgh3p3IXXVvGiD3rdR) | 1:57 | 2022-11-12 | 2022-11-19 |
 | [Overdose](https://open.spotify.com/track/3N0dH5dZKj4momer7WIhRB) | [Lil PoP](https://open.spotify.com/artist/6Z53MNjWyTH16xE6hXwttS), [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [Overdose](https://open.spotify.com/album/39RKr5qcAvAdRSRgD7AJo6) | 3:59 | 2021-03-27\* | 2021-03-27 |
 | [Oxytocin](https://open.spotify.com/track/4t2OeILB07eMGTXSUbMPEu) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:30 | 2021-08-01 | 2021-08-02 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-21 |

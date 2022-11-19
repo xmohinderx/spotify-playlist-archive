@@ -1294,6 +1294,24 @@
     },
     {
       "album": {
+        "name": "What Does It Matter Now?",
+        "url": "https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR"
+      },
+      "artists": [
+        {
+          "name": "Micah P. Hinson",
+          "url": "https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275720,
+      "name": "What Does It Matter Now?",
+      "url": "https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M"
+    },
+    {
+      "album": {
         "name": "The Assassination of Jesse James By the Coward Robert Ford",
         "url": "https://open.spotify.com/album/6RzRjlvdLSDwkx8bMHyPLs"
       },

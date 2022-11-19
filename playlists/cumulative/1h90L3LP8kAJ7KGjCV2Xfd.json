@@ -1004,6 +1004,24 @@
     },
     {
       "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -2533,6 +2551,24 @@
       "duration_ms": 220648,
       "name": "Remind Me - Luca Schreiner Remix",
       "url": "https://open.spotify.com/track/072KYf7DhC2wXSqJY3kdJE"
+    },
+    {
+      "album": {
+        "name": "ROLLIN DICE",
+        "url": "https://open.spotify.com/album/3nRxmVSbUJuvpZ0vQEeoXT"
+      },
+      "artists": [
+        {
+          "name": "Gabe James",
+          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185628,
+      "name": "ROLLIN DICE",
+      "url": "https://open.spotify.com/track/2CQU7ZryOFVcFUVFMXCL3C"
     },
     {
       "album": {

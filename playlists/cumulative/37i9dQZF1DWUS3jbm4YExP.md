@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-465 songs - 1 day 10 hr 36 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+466 songs - 1 day 10 hr 39 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Celebration](https://open.spotify.com/track/3arnc4CVmChiT1DdIS8ouh) | [Nídia](https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G) | [Celebration](https://open.spotify.com/album/7uHdkPNSlZe5I4SRdpWats) | 3:34 | 2021-10-06 | 2022-04-20 |
 | [Chan Chan](https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Chan Chan](https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp) | 4:20 | 2022-02-11 |  |
 | [Chasin](https://open.spotify.com/track/7c0hcOEQSi62Jdd98q59aI) | [Olumo Soundz](https://open.spotify.com/artist/1poZ5uHaXqaGiPV70IWi0l) | [U.N\. \(United Nonsense\)](https://open.spotify.com/album/1fhkaWXCAmwhEVlSbTXIKF) | 7:58 | 2021-12-10 | 2022-07-27 |
+| [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 | 2022-11-19 |  |
 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-06 |  |
 | [Circular Movimento](https://open.spotify.com/track/0JQM8wWBFFjgy2iLCA0llY) | [Marsa](https://open.spotify.com/artist/4E5ZAqaEK4WnZJ9gZmXO50) | [Circular Movimento](https://open.spotify.com/album/52EVAjzv30WIEr9J3utCas) | 4:27 | 2021-12-10 | 2022-04-17 |
 | [Coffee](https://open.spotify.com/track/6LqOYg4N0usYg21XdkaJeE) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Coffee](https://open.spotify.com/album/5KlvWHbWKpmUHI8YiF5fZV) | 3:35 | 2021-10-06 | 2022-07-15 |
@@ -388,7 +389,7 @@
 | [Space](https://open.spotify.com/track/7sCA8BB1r8PnXvlCOWRJG2) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Space](https://open.spotify.com/album/49szLSzJDXUf8k2TIJVPun) | 2:31 | 2021-10-06 | 2022-07-27 |
 | [Spies Are Watching Me](https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 7:12 | 2021-10-06 |  |
 | [Spiritual Ideation](https://open.spotify.com/track/6rsGTJ70GhGINYsscc8nJy) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Spiritual Ideation](https://open.spotify.com/album/3LE82F0VE2gOX0IBweuq7H) | 3:57 | 2021-10-06 | 2022-04-29 |
-| [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 | 2022-11-18 |  |
+| [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 | 2022-11-17 |  |
 | [Strange Heat](https://open.spotify.com/track/2lO10mx8zbxhneyaVtzP52) | [Wanubalé](https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2) | [Strange Heat](https://open.spotify.com/album/4uHsKnz3QbwjMU7HHXdyW0) | 5:18 | 2021-10-06 | 2022-04-21 |
 | [Suburban Breeze](https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Suburban Breeze](https://open.spotify.com/album/3fmEXZmMuAdvDGXqfRPeq9) | 2:07 | 2022-08-31 | 2022-11-04 |
 | [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2021-10-06 | 2022-11-12 |
@@ -447,7 +448,7 @@
 | [Vision 9](https://open.spotify.com/track/5UEvuAF0uXVHZ2hIY0uzhH) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Vision 9](https://open.spotify.com/album/3BpxJkpmH9yNYqLLcshcU9) | 7:19 | 2021-10-06 | 2022-07-28 |
 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 | 2022-03-11 | 2022-04-15 |
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-10-06 | 2022-07-28 |
-| [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 |  |
+| [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 | 2022-11-19 |
 | [Watch me Dance](https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl) | [The Architect](https://open.spotify.com/artist/6HzVTgf7SWVWNo93bT5TEv) | [Watch me Dance](https://open.spotify.com/album/3kIrTLMiV5lbcZ6Dne5AvZ) | 3:22 | 2021-10-06 | 2022-04-21 |
 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 | 2022-04-07 | 2022-07-29 |
 | [We Give Thanks](https://open.spotify.com/track/4eYtBs2OYlnKbGRsHnAwWN) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/5R7v0oLGY2reMD4GkKpdqq) | 3:40 | 2022-08-08 | 2022-08-10 |

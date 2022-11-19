@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 14237,
+  "num_followers": 14248,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMDI5YTg2NGE4YmRkZjlhNWY1ZjZmNjVlMTI4Y2NkYjM0",
+  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMGRjZDBhZjFiY2ZjZmQzMGRlNGNmOWRmMmNlMGEwMDRi",
   "tracks": [
     {
       "added_at": "2022-08-01 21:43:45",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
-        "name": "Bonde da Madrugada pt. 2",
-        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 251050,
-      "name": "Rap, Cerva, Erva e Muita Larica",
-      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
         "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
+        "name": "Bonde da Madrugada pt. 2",
+        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Rap, Cerva, Erva e Muita Larica",
+      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
     },
     {
       "added_at": "2022-08-01 21:43:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,605 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,557 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 12 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 |
 | 13 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavillion](https://open.spotify.com/artist/0z9vD9DKvwTGRPEQ4JZID7) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 14 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
-| 15 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
+| 15 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 |
 | 16 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
 | 17 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 |
-| 18 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 |
+| 18 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
 | 19 | [Centipede](https://open.spotify.com/track/0u2AIKDVafHwCFQ9LDnqxH) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Rage Valley](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X) | 4:06 |
 | 20 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 |
 | 21 | [Everyday \- Netsky Remix](https://open.spotify.com/track/7vYutw14Ch1Ee1ZmU7gLQ7) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Everyday/Lick The Lizard](https://open.spotify.com/album/3JhkJ5yR4Oh6xljqo58qMY) | 4:11 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 37 | [Organ Donor](https://open.spotify.com/track/6s5ka9t96DN6StuzMk5U0l) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Game Time EP](https://open.spotify.com/album/07aAyO7CyO7b4QqDQzroiY) | 3:58 |
 | 38 | [Japan \- Original Mix](https://open.spotify.com/track/7b4n7QwjEo69szisxNK4By) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Beg To Differ](https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT) | 4:08 |
 | 39 | [Bonkers \- Doorly Remix](https://open.spotify.com/track/6gc3zzDOxV4SKDuwQAjnWK) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Doorly](https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 4:32 |
-| 40 | [Hold Me](https://open.spotify.com/track/1tdDgdYqi3v9kCesCLb9GA) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Overkill / Hold Me](https://open.spotify.com/album/6EKQ1n9SIQnyi6VKZXU7Tl) | 5:36 |
+| 40 | [Purple City](https://open.spotify.com/track/07OgaXz5dFCeLIVvPpZs7M) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV) | 4:24 |
 
-Snapshot ID: `MTYxMzA1Nzc3NCwwMDAwMDAwMGQwM2YzMzUyMjQzMjA5MTVhMzRmMmQwOTg5ZTRlNmY4`
+Snapshot ID: `MTYxMzA1Nzc3NCwwMDAwMDAwMGMwZjYzMTVjYTFkYWM1ODIwNGMxNzBjNTlmZjk2ZmVi`

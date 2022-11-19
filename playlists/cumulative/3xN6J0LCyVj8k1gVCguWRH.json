@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "\"U\"",
+        "url": "https://open.spotify.com/album/3tL7RqOOnoE1jy8yRduMCA"
+      },
+      "artists": [
+        {
+          "name": "Carli Longoni",
+          "url": "https://open.spotify.com/artist/0zqpOV3mwWdyqNoqQgT2aq"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193464,
+      "name": "\"U\"",
+      "url": "https://open.spotify.com/track/1K8H4NSedThelD0gYtJzHZ"
+    },
+    {
+      "album": {
         "name": "$1",
         "url": "https://open.spotify.com/album/0FOjeAgCYszGkzaEPzetUg"
       },
@@ -3899,7 +3917,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 178500,
       "name": "Blue Ocean Eyes",
       "url": "https://open.spotify.com/track/5h3GrS5zl3b9pZTzPMQ10J"
@@ -4633,6 +4651,24 @@
       "duration_ms": 184401,
       "name": "BURN YOU OUT",
       "url": "https://open.spotify.com/track/32tZEZEFCyKbtyBa9Rb4Ih"
+    },
+    {
+      "album": {
+        "name": "Burnin Up",
+        "url": "https://open.spotify.com/album/4blpIGyhGXAh7AJXJHLvLF"
+      },
+      "artists": [
+        {
+          "name": "VYLEM",
+          "url": "https://open.spotify.com/artist/4bhKuRZCxmN4nvwjI8vLFh"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250625,
+      "name": "Burnin Up",
+      "url": "https://open.spotify.com/track/3C0N6Qk8bd4slmfjWptt0y"
     },
     {
       "album": {
@@ -6171,7 +6207,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 129071,
       "name": "Come Thrill Me",
       "url": "https://open.spotify.com/track/0iVcaaYltolb2y58szVPN1"
@@ -6331,6 +6367,24 @@
       "duration_ms": 210520,
       "name": "Communication",
       "url": "https://open.spotify.com/track/4v5idbCKVg5yDMV3Rq6juY"
+    },
+    {
+      "album": {
+        "name": "Como",
+        "url": "https://open.spotify.com/album/7o3ROVrdJcifHOFlKUyvMb"
+      },
+      "artists": [
+        {
+          "name": "Barang",
+          "url": "https://open.spotify.com/artist/7mZm5qBtyQLd3ykBSvB8Pe"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194126,
+      "name": "Como",
+      "url": "https://open.spotify.com/track/21XoZTD5XE9qx0aQ62mbpn"
     },
     {
       "album": {
@@ -7123,7 +7177,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 178109,
       "name": "Dahlia",
       "url": "https://open.spotify.com/track/1gH88KlDgvg1bo0rrJNjH8"
@@ -7719,6 +7773,28 @@
       "duration_ms": 186466,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V"
+    },
+    {
+      "album": {
+        "name": "Destiempo",
+        "url": "https://open.spotify.com/album/311H9YAdrJ5XI3E5fcVSYp"
+      },
+      "artists": [
+        {
+          "name": "TROPA",
+          "url": "https://open.spotify.com/artist/4GefdYGQyGpnhmmjL3TnP2"
+        },
+        {
+          "name": "Aneudy Sr. Guitarra",
+          "url": "https://open.spotify.com/artist/1DysQeIUbsYBxeuu4IGGfE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199350,
+      "name": "Destiempo",
+      "url": "https://open.spotify.com/track/1lHt8VfiF4cYhlqgwz8hub"
     },
     {
       "album": {
@@ -8938,6 +9014,24 @@
     },
     {
       "album": {
+        "name": "GOSHEN",
+        "url": "https://open.spotify.com/album/28frUdb3qDYzp4EzMLnOaZ"
+      },
+      "artists": [
+        {
+          "name": "Jairo",
+          "url": "https://open.spotify.com/artist/5Ph1Nqcdxfjg1Mm6JmQquF"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "El Amor",
+      "url": "https://open.spotify.com/track/3LMaJmM5V3WXulHzHKQKu2"
+    },
+    {
+      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -9059,6 +9153,28 @@
       "duration_ms": 298750,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1bj5ZFpxGFP5ooQcctNVB4"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1GKcfWls9hUQ3612yzcbLh"
+      },
+      "artists": [
+        {
+          "name": "Blazar",
+          "url": "https://open.spotify.com/artist/5p1lEJoft7wgJYbg3PYvK2"
+        },
+        {
+          "name": "Chophead",
+          "url": "https://open.spotify.com/artist/5S8XVEmEt6i2PWpDe0BC6t"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232261,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/6ysSg5A4qRa90z7iZKjN92"
     },
     {
       "album": {
@@ -9577,6 +9693,24 @@
       "duration_ms": 178961,
       "name": "Fall For You",
       "url": "https://open.spotify.com/track/3koa4RpZbZetFdZZW7WAVl"
+    },
+    {
+      "album": {
+        "name": "Fall In Lust",
+        "url": "https://open.spotify.com/album/7FUGotEsF6T8YvHbnMSJHe"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Fall In Lust",
+      "url": "https://open.spotify.com/track/77Z5652NjZ8magT7y6lVt1"
     },
     {
       "album": {
@@ -12423,7 +12557,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 186406,
       "name": "Gotta Say",
       "url": "https://open.spotify.com/track/5eg0t5hHXzBWew6q8rkncK"
@@ -13921,7 +14055,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 159296,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/5GgahQKKYPNkGUG6WiqFtv"
@@ -19360,6 +19494,28 @@
     },
     {
       "album": {
+        "name": "Contra Todos Los Tiempos",
+        "url": "https://open.spotify.com/album/4MABxCcjl7ffNxbslEWLKt"
+      },
+      "artists": [
+        {
+          "name": "TROPA",
+          "url": "https://open.spotify.com/artist/4GefdYGQyGpnhmmjL3TnP2"
+        },
+        {
+          "name": "Gustavo Laureano",
+          "url": "https://open.spotify.com/artist/10AKjVY68dYFGz7pvy7zLx"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Me Caso Con Nadie",
+      "url": "https://open.spotify.com/track/2zm68sT88BPA9gTZ68akyq"
+    },
+    {
+      "album": {
         "name": "Shaded",
         "url": "https://open.spotify.com/album/62qeSvvKUiyPTEF4MqIt0D"
       },
@@ -19851,6 +20007,24 @@
       "duration_ms": 185000,
       "name": "Millennium",
       "url": "https://open.spotify.com/track/6nW3UvSHCY0OxbQsloPMGp"
+    },
+    {
+      "album": {
+        "name": "Mind Your Ps and Qs",
+        "url": "https://open.spotify.com/album/7m1kLXQyf8zJIOEQgkyCui"
+      },
+      "artists": [
+        {
+          "name": "Tim Churchill",
+          "url": "https://open.spotify.com/artist/2jnzUEh4K3BFgWyfj66WcX"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218570,
+      "name": "Mind Your Ps and Qs",
+      "url": "https://open.spotify.com/track/4aIPCiMgbLvU82l71YDnA9"
     },
     {
       "album": {
@@ -20459,7 +20633,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 223899,
       "name": "MULTIVERSO",
       "url": "https://open.spotify.com/track/3hOYzuMBAg3yPxglI5wEyA"
@@ -20771,7 +20945,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 234946,
       "name": "My Love (Borth Remix)",
       "url": "https://open.spotify.com/track/3QA979rq5SWdIH2Rsm2TPg"
@@ -21561,7 +21735,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 177307,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/2IwSszozJ6xQtCCXlPYHVj"
@@ -23089,7 +23263,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 168125,
       "name": "Pacing",
       "url": "https://open.spotify.com/track/3PeY22D78M7faY391ML4hu"
@@ -23841,7 +24015,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 211203,
       "name": "Positive",
       "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
@@ -33799,7 +33973,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 184568,
       "name": "Winners",
       "url": "https://open.spotify.com/track/2oVCMhfabwxQE3QOqJ4zAb"
@@ -34255,6 +34429,24 @@
       "duration_ms": 238039,
       "name": "WYLTK",
       "url": "https://open.spotify.com/track/4F3fFuQp42Fx6SPbo0zqKu"
+    },
+    {
+      "album": {
+        "name": "Ya Hayati",
+        "url": "https://open.spotify.com/album/4OVlWSss3EbzlEtxB2sBLu"
+      },
+      "artists": [
+        {
+          "name": "Sandra Sahi",
+          "url": "https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Ya Hayati",
+      "url": "https://open.spotify.com/track/5JzM88Nu26X5Vcieux6AMW"
     },
     {
       "album": {

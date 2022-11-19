@@ -4,7 +4,7 @@
 
 > FMG check je in La Vida Loca! Hier alleen maar good vibes en motion.
 
-287 songs - 12 hr 56 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+289 songs - 13 hr 1 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Commando](https://open.spotify.com/track/1k4VnMH8KMeaz653dOsRFv) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Commando](https://open.spotify.com/album/31sUe2fAR76RTCiz9emu0J) | 2:41 | 2022-11-10 |  |
 | [Consciousness](https://open.spotify.com/track/3fDQa06TlrJoC4zDH1iuaB) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Consciousness](https://open.spotify.com/album/0D3M7NwWQe4iL0rMNfPWQk) | 1:51 | 2022-07-21 | 2022-08-26 |
 | [CONTEST](https://open.spotify.com/track/6yWzuF0sb6cX2gyNFl5mYJ) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [CONTEST](https://open.spotify.com/album/3iJqniJbShK8X9G0TMazur) | 2:17 | 2022-11-17 |  |
+| [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-11-18 |  |
 | [Criminal](https://open.spotify.com/track/4VQrJat2MItnL0LFV4nPLh) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT) | [Criminal](https://open.spotify.com/album/1bVBtbblyGjF4FbJWqDU3d) | 2:37 | 2022-07-21 | 2022-10-14 |
 | [Criminal](https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI) | [Stevy](https://open.spotify.com/artist/5zjk9uB67qJbv36gEYPLB5), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC), [¥ami](https://open.spotify.com/artist/2x55x6rUM7CSSslAjOgqUT), [Berra PK](https://open.spotify.com/artist/72PJTrRxOqJZxptd4OpR3B) | [Criminal](https://open.spotify.com/album/3xOLShtc9JC735vtyQRlyl) | 2:37 | 2022-07-14 | 2022-07-29 |
 | [Curvy Waistline](https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Ghana Must Go](https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi) | 3:00 | 2022-07-28 | 2022-08-26 |
@@ -211,6 +212,7 @@
 | [PANORAMA](https://open.spotify.com/track/0sjB8JBUqX8Scr5Jns31FK) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:42 | 2022-07-14 | 2022-07-29 |
 | [Panterprint](https://open.spotify.com/track/2ERJbIroPn0whwY7twFrcF) | [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q), [Guydo](https://open.spotify.com/artist/0FxNyLAP2TbgtZWATbTBLe), [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg) | [Panterprint](https://open.spotify.com/album/32q8iyasYLCwy9nuCF5k2T) | 2:12 | 2022-09-01 | 2022-09-16 |
 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-11-03 |  |
+| [Passa Passa](https://open.spotify.com/track/4CuiTKxzI5IYB4C9DteyRW) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Passa Passa](https://open.spotify.com/album/559Ym4G6Nd0rQdLRnM1PR4) | 2:39 | 2022-11-18 |  |
 | [Plat](https://open.spotify.com/track/4znoxaYS782I5sJdGIjF4x) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VIER](https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy) | 2:50 | 2022-07-14 | 2022-08-26 |
 | [Poison](https://open.spotify.com/track/6zhLjblsWutMYiqosATQVS) | [Bollebof](https://open.spotify.com/artist/6efCQuDQBuyuv2Mx3OExdV) | [Poison](https://open.spotify.com/album/1WsnJyGDEzgvHoT7ggzOnP) | 2:12 | 2022-07-28 | 2022-08-26 |
 | [Por De Tra](https://open.spotify.com/track/1mTnMaj9PPE9t0t5rlcYlY) | [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX), [Godwonder](https://open.spotify.com/artist/6BleBBYjao1MPvOoJ5yYSv) | [Por De Tra](https://open.spotify.com/album/0yPlrQTMB1EOhTkV5R6fhI) | 2:22 | 2022-07-28 | 2022-09-02 |

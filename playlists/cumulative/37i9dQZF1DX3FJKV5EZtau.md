@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-307 songs - 17 hr 49 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+308 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Electric Soul](https://open.spotify.com/track/4P2thFDOvuO497xWkyPUG0) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Electric Soul](https://open.spotify.com/album/1KkZWI3TFLJL6BfWis40JF) | 3:27 | 2022-01-07 | 2022-11-14 |
 | [Endgame \(feat\. Aeria\)](https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. Aeria\)](https://open.spotify.com/album/3uYebFzzsF9ECABrBPSQYx) | 2:36 | 2022-01-07 | 2022-07-29 |
 | [Enter REM](https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM](https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7) | 2:41 | 2022-01-07 |  |
-| [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 | 2022-10-07 |  |
+| [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 | 2022-10-07 | 2022-11-19 |
 | [escape](https://open.spotify.com/track/5RIQAscyytbIzWpkB1G7mt) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [escape](https://open.spotify.com/album/6Socr2o1jPF3u5sDkoSdsY) | 3:44 | 2022-01-07 | 2022-09-13 |
 | [escape](https://open.spotify.com/track/7BN0NHDHYkfACPK4OTwqv6) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [escape](https://open.spotify.com/album/2l4Obrxe2uaLuCXb5WzHbg) | 3:44 | 2022-09-02 |  |
 | [Eternal](https://open.spotify.com/track/5IPNnqPAvdVEcYanVKihca) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Eternal](https://open.spotify.com/album/5LB31xPvUGvNI4EqqjXvtA) | 3:33 | 2022-01-07 |  |
@@ -187,6 +187,7 @@
 | [Moon](https://open.spotify.com/track/1LMQs29W9GOBtpR7sNRBNz) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Moon](https://open.spotify.com/album/4VaqHXTwEFOJozjCIoAeuK) | 2:25 | 2022-01-07 | 2022-07-18 |
 | [Musician](https://open.spotify.com/track/6AIMGwDREa86WOdxIQj2S7) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Musician](https://open.spotify.com/album/2nOnXqBdSuTabFKQXKEDIh) | 3:58 | 2022-01-07 | 2022-07-25 |
 | [Musician](https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:58 | 2022-07-14 | 2022-08-06 |
+| [myyyy medssss](https://open.spotify.com/track/2oJZnCoVRQfiutXmSxVXh6) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 4:19 | 2022-11-18 |  |
 | [myyyy medssss](https://open.spotify.com/track/6eLn8mebeYCnCoFOaSPXhg) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [myyyy medssss](https://open.spotify.com/album/33e0eMQ3sTYJBIMHszQr8A) | 4:19 | 2022-01-07 | 2022-11-05 |
 | [NARROWORLDのテーマ](https://open.spotify.com/track/25iUaVy1hBjXHZWNCWJqI0) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [NARROWORLDのテーマ](https://open.spotify.com/album/4hjoraBTzdVDTeI1JHc8AI) | 1:53 | 2022-03-25 | 2022-07-23 |
 | [Need You](https://open.spotify.com/track/5STieahH7NJnbrZ41SFKQ8) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Need You](https://open.spotify.com/album/0894oIi99ls2qui3lXsbkz) | 4:37 | 2022-01-07 | 2022-07-04 |

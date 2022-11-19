@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمد التركي
 
-172 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+173 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 | 2022-06-09 |  |
 | [Bakeni](https://open.spotify.com/track/5b0xHD3oaK3CfnMuiZzSAi) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [Bakeni](https://open.spotify.com/album/6pev4hGsRKRL86rTf4UTDx) | 2:58 | 2021-12-23 | 2022-01-21 |
 | [Baqy](https://open.spotify.com/track/1Z0uOrpc5n6YfiJMEYryFz) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Baqy](https://open.spotify.com/album/5kWR9AVsfRWJxenTGSTYqm) | 3:42 | 2022-05-20 |  |
+| [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-11-18 |  |
 | [Bi Kobor Heznak Farhty](https://open.spotify.com/track/55snHuyVXL1X8j714WvR9d) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Bi Kobor Heznak Farhty](https://open.spotify.com/album/6kiJlPgbF5wnLQ2gAzxoyt) | 2:48 | 2022-02-25 | 2022-07-20 |
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2021-12-23 | 2022-01-14 |
 | [Bs](https://open.spotify.com/track/0QgWg0PqHSZrXtbROjFKWZ) | [Oras Sattar](https://open.spotify.com/artist/7CZtgfwlF64ys2ilQfhrkT) | [Bs](https://open.spotify.com/album/0QqSaxWfGnlf1cEVhlv3QD) | 3:16 | 2021-12-23 | 2022-04-06 |

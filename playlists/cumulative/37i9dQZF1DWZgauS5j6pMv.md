@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Louis Cole
 
-247 songs - 14 hr 41 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
+248 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Make A Move](https://open.spotify.com/track/3dvmN38CZBO3kbH1HG3CbP) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/0bAXdCQ4f1n3Rd3p6b3hH7) | 3:35 | 2020-11-20 | 2022-04-09 |
 | [Make It Out](https://open.spotify.com/track/2tA2ISa4vfuVYPX1Gacbwl) | [Reliably Bad](https://open.spotify.com/artist/0O1ym9Pe8SUDDyTchHGO79) | [Make It Out](https://open.spotify.com/album/6dwS2R4gZAK3Jih8sdOoW7) | 3:00 | 2020-11-20 | 2022-04-09 |
 | [Mass Appeal](https://open.spotify.com/track/1o8M06Dkv4z2n2AOG1jMLM) | [Daron.](https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i) | [Mass Appeal](https://open.spotify.com/album/4qFW7nJYWxpSjgcipscqv7) | 2:57 | 2021-06-18 | 2022-01-29 |
+| [Maybe You´re the One](https://open.spotify.com/track/3mDWp7MEpIouGgskiiqITA) | [Cool Million](https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG), [Susanne Ørum](https://open.spotify.com/artist/2pA0uUUengpSBIefFLlwag) | [Maybe You´re The One](https://open.spotify.com/album/6E8LtIJ6vpnMlNKWxucLew) | 3:40 | 2022-11-18 |  |
 | [Misbehavin](https://open.spotify.com/track/5UUri9iMQ2azakPfszxSmI) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [C.J\. Robertson](https://open.spotify.com/artist/34uwNRMPQrWJwdgZdRYYO2) | [Misbehavin](https://open.spotify.com/album/3E6enR1PQzg6wQjFEioHKS) | 3:02 | 2021-04-23 | 2022-06-18 |
 | [Mixer](https://open.spotify.com/track/0fZaiLx3nhwBKWMNXgbM15) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer \(Acoustic\)](https://open.spotify.com/album/5KP3FrGCzQUttYU3A8IIWV) | 3:12 | 2020-11-20 | 2022-04-09 |
 | [Moments We Share](https://open.spotify.com/track/052gcgPQL6p1XXenRhDl4b) | [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [Moments We Share](https://open.spotify.com/album/1etOlL757UIGiYb3kFKlFN) | 3:20 | 2021-06-18 | 2022-01-29 |

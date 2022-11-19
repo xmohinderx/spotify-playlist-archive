@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,373 songs - 2 day 23 hr 59 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,374 songs - 3 day 0 hr 2 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,7 +695,7 @@
 | [Leuchtreklame](https://open.spotify.com/track/3bgUuchTZfrM1kXHafJYHk) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Leuchtreklame](https://open.spotify.com/album/0UEdsxO1eKaJwbgA9yjTmc) | 3:34 | 2021-04-18 | 2021-04-19 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-09 | 2022-01-04 |
 | [Lieben wir](https://open.spotify.com/track/49gzU1IS1B6P3GATSZ5eCE) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Lieben wir](https://open.spotify.com/album/6NkCPaJkMC25FyhmAg2yc6) | 2:35 | 2021-07-04 | 2021-07-24 |
-| [Liebst du mich](https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Liebst du mich](https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd) | 2:57 | 2022-11-12 |  |
+| [Liebst du mich](https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Liebst du mich](https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd) | 2:57 | 2022-11-12 | 2022-11-19 |
 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 | 2021-04-26 | 2021-05-03 |
 | [Liege wieder wach](https://open.spotify.com/track/2knDuFWczh1Wv92eBAdPTa) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [SOLD](https://open.spotify.com/album/5C9ik99hd5YlbyZNpU3Du7) | 2:56 | 2021-05-03 | 2021-06-05 |
 | [LIF](https://open.spotify.com/track/5L6inxcqOemJI2utN8lvBs) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [LIF](https://open.spotify.com/album/5G40PCwbFMnEL1CyW0e5Rw) | 3:15 | 2022-10-29 | 2022-11-03 |
@@ -897,6 +897,7 @@
 | [Nie mehr gehen](https://open.spotify.com/track/3iBU3w9MbrqFdB9mOa2JeK) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Nie mehr gehen](https://open.spotify.com/album/5TPcUrhPDARHdOV3cuzH7B) | 3:15 | 2022-10-25 | 2022-10-31 |
 | [Nie mehr zurück \(feat\. Kool Savas & Sido\)](https://open.spotify.com/track/52c2AgZdJgB34tYvo9uL20) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Nie mehr zurück \(feat\. Kool Savas & Sido\)](https://open.spotify.com/album/4qhOuqSS89AhVwFNYWW05N) | 2:44 | 2022-05-21 | 2022-05-23 |
 | [Nie Verstehen \(feat\. O.G.\)](https://open.spotify.com/track/5oOOF7tC6HUaiXhAlCONTd) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [O.G.](https://open.spotify.com/artist/5QZJttrSLq4WJL9Vb1MgFq) | [Seelenfrieden](https://open.spotify.com/album/1dOBqaiv9U4dS2pp2K2wXw) | 3:06 | 2022-02-19 | 2022-02-21 |
+| [Niobe](https://open.spotify.com/track/3A5rn4qHxt0Iva2K5NT2f5) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Niobe](https://open.spotify.com/album/6nhTo9WNdubuoAgMz8zwLn) | 2:28 | 2022-11-18 |  |
 | [No Child Left Behind](https://open.spotify.com/track/3onYsG7nB3FwEVHYYWCrIM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:58 | 2021-08-31 | 2021-09-05 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-10 |
 | [No Life](https://open.spotify.com/track/0iPf1xVxV7rlbG4wn3ANFa) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:57 | 2021-12-05 | 2021-12-10 |

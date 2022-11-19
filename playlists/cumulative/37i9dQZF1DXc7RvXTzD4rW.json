@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u5bae\u91ce\u771f\u5b88",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u590f\u5ddd\u690e\u83dc",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "published_playlist_ids": [
     "5RQGiwmI9wGlhuVRQit3UC"
@@ -131,6 +131,24 @@
       "duration_ms": 267133,
       "name": "Anohino Kotoba",
       "url": "https://open.spotify.com/track/2LmURPmnlTJCHIMBRMCqON"
+    },
+    {
+      "album": {
+        "name": "NO CONCEPT",
+        "url": "https://open.spotify.com/album/0lijekjn4uTYjgA86q7z8p"
+      },
+      "artists": [
+        {
+          "name": "\u5165\u91ce\u81ea\u7531",
+          "url": "https://open.spotify.com/artist/5CPe7cGY1bB20e6Tbv4XVQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "Atarimae",
+      "url": "https://open.spotify.com/track/59RdrGoDM2L9eWjI2PcCpw"
     },
     {
       "album": {
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 320106,
       "name": "CROSS A LINE",
       "url": "https://open.spotify.com/track/4XavZrAn9OxuRDz0mbOidg"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 187013,
       "name": "Dgaf - S-quad",
       "url": "https://open.spotify.com/track/1Pf3nj0VJyU5Inx71BicLw"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 238328,
       "name": "HOLY TALE",
       "url": "https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND"
@@ -1007,6 +1025,24 @@
       "duration_ms": 217708,
       "name": "Midnight Dancer",
       "url": "https://open.spotify.com/track/13uO9ybQF9TpUoXznKDKGy"
+    },
+    {
+      "album": {
+        "name": "more<STRONGLY",
+        "url": "https://open.spotify.com/album/2b53se6W2pO6rMbQ0OkSao"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u5d0e\u771f\u97f3",
+          "url": "https://open.spotify.com/artist/4SLTgwsFXbomwbNjsAvs3E"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301800,
+      "name": "more<STRONGLY",
+      "url": "https://open.spotify.com/track/3i1AGed6mcym5gbF02oPDm"
     },
     {
       "album": {
@@ -1295,6 +1331,24 @@
       "duration_ms": 269040,
       "name": "Tear of Will",
       "url": "https://open.spotify.com/track/5V8qhD9u4XLGxaXWZBfZXR"
+    },
+    {
+      "album": {
+        "name": "Jewel",
+        "url": "https://open.spotify.com/album/28gvT9yWbfSljtWqXzf469"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u585a\u62d3\u99ac",
+          "url": "https://open.spotify.com/artist/1gJ26DK199hFjpLAv8UvPg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "Tears Jewel",
+      "url": "https://open.spotify.com/track/5g5EmGmq6cYSuJan0gIlXE"
     },
     {
       "album": {
@@ -1781,7 +1835,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 236227,
       "name": "\u30a4\u30c3\u30d1\u30a4\u30a2\u30c3\u30c6\u30ca",
       "url": "https://open.spotify.com/track/1Dk02TAykLIuwesDG2G2jx"
@@ -2545,6 +2599,24 @@
       "duration_ms": 260239,
       "name": "\u834a\u68d8\u8f2a\u821e\u66f2",
       "url": "https://open.spotify.com/track/2IN8nMFDFzZUTIMijQf4VS"
+    },
+    {
+      "album": {
+        "name": "\u8f2a\u5efb\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
+        "url": "https://open.spotify.com/album/7IGD6aHHkgSOTrTlze8uoq"
+      },
+      "artists": [
+        {
+          "name": "Kleissis",
+          "url": "https://open.spotify.com/artist/7yQ3JBUyIQV1tOusKvRTXM"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262884,
+      "name": "\u8f2a\u5efb\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
+      "url": "https://open.spotify.com/track/4pse20eO6UxqETzbOQd86V"
     },
     {
       "album": {

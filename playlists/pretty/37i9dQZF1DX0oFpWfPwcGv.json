@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 32182,
+  "num_followers": 32166,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGY4ODBiZjVjNzIwNmUwMDY3MGQ5NmE0YTA1Y2QxYmYz",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDQ1ZGUxM2FlMWJhYjM2MmRiNmY2MmJhYjU2ZjJmZDJj",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Miss Gladys Knight",
-        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 351453,
-      "name": "It's a Better Than Good Time",
-      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
         "name": "Slippin' and Dippin' (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 460880,
       "name": "I Wanna Be With You",
       "url": "https://open.spotify.com/track/6CkJTGW06HbJqXRrlRJaG7"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
+        "name": "Miss Gladys Knight",
+        "url": "https://open.spotify.com/album/2mY1RyBSnE7tkjh7EVJNNc"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 351453,
+      "name": "It's a Better Than Good Time",
+      "url": "https://open.spotify.com/track/07HoKinMluYrInnQoMj4zu"
     },
     {
       "added_at": "2022-09-12 22:27:59",

@@ -398,6 +398,28 @@
     },
     {
       "album": {
+        "name": "High Note",
+        "url": "https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333746,
+      "name": "High Note",
+      "url": "https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7"
+    },
+    {
+      "album": {
         "name": "Pageant Material",
         "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
       },

@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-155 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
+156 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/00KxmXWSXPzcN3QrlgmEa1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
 | [Anthem](https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:16 | 2022-04-28 |  |
+| [Arise](https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L) | [John Helliwell](https://open.spotify.com/artist/6mE9On5hMGVW1j369RtRYZ), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb), [Marcel Serierse](https://open.spotify.com/artist/6MUwndQ1ENPiNY2I5XfAmX) | [Don't Ever Leave Me](https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb) | 7:17 | 2022-11-17 |  |
 | [As if We Were Just Friends](https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Reflections](https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF) | 6:54 | 2022-02-10 |  |
 | [Aw Shucks](https://open.spotify.com/track/7dKeB695EtXaaAuvX3yQqm) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Alligator Bogaloo](https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX) | 7:23 | 2021-12-21 | 2022-09-28 |
 | [Awakening](https://open.spotify.com/track/6bK3YND4NEVYhjnLWo7YQ0) | [Benjamin Sanz](https://open.spotify.com/artist/4GMCgqFCMeJa6e0y0M4w3u) | [The Escape](https://open.spotify.com/album/1TDxIEzLsBUNHpWFtCWNwn) | 4:30 | 2021-12-21 |  |
@@ -22,7 +23,7 @@
 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 | 2021-12-21 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2021-12-21 | 2022-04-21 |
 | [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 | 2021-12-21 |  |
-| [Bolo Blues](https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:09 | 2022-09-27 |  |
+| [Bolo Blues](https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:09 | 2022-09-27 | 2022-11-19 |
 | [Bolo Blues](https://open.spotify.com/track/1vBY6A7DpKaA8YSDvvlUUG) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Holiday in the Sun \- Summer Dreaming](https://open.spotify.com/album/7HFeWGNvrCE6iKR3J3YUVX) | 4:09 | 2021-12-21 | 2022-07-26 |
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
 | [Bubbles](https://open.spotify.com/track/3GGslX17J2F3IzVE5yIiRJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm) | 5:06 | 2022-06-30 |  |

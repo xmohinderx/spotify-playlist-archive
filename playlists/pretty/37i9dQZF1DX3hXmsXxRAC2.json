@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 306392,
+  "num_followers": 306360,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMGM5NDhmM2Y2YTE0NGIyZTAxNWU4YjhlYzdjOTBiMjBi",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMDc4ZGI5YzQ5OTU2NjI3OWE0YjhjNjA1NTMzYjYzMjk3",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 188480,
-      "name": "Fue Un Placer Conocerte",
-      "url": "https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Me Gustas Mucho",
         "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 169200,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Fue Un Placer Conocerte",
+      "url": "https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
+      },
+      "artists": [
+        {
+          "name": "Donata Antoni",
+          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+        }
+      ],
+      "duration_ms": 193670,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "El Noa Noa",
         "url": "https://open.spotify.com/album/5s0gfLof0X7EZcRGCmKOVp"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 219426,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/6zK5tOGHpOmkYwf28ur9oU"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Querida",
-        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
-      },
-      "artists": [
-        {
-          "name": "Donata Antoni",
-          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
-        }
-      ],
-      "duration_ms": 193670,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
     },
     {
       "added_at": "2021-12-29 23:38:25",

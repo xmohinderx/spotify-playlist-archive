@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMDFlNGIxM2FmM2NkZWI5OGU4ZGMxOTI5OTVlMzQwYmI4",
+  "snapshot_id": "MTU4NDEwNTY4OCwwMDAwMDAwMGE3NDVhODMyNDE5ZWNjZTY1N2Y0MGU1ODU3NThlNzBm",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -75,18 +75,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+        "name": "Fin De Semana Salvaje",
+        "url": "https://open.spotify.com/album/2IUqHJOcTUpX8xXdjnpcdo"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Los Brujos",
+          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
         }
       ],
-      "duration_ms": 140960,
-      "name": "Trece",
-      "url": "https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E"
+      "duration_ms": 158946,
+      "name": "Kanishka",
+      "url": "https://open.spotify.com/track/54hZ4XVJ0xdp6teJVyHgn8"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -107,18 +107,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Fin De Semana Salvaje",
-        "url": "https://open.spotify.com/album/2IUqHJOcTUpX8xXdjnpcdo"
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
       },
       "artists": [
         {
-          "name": "Los Brujos",
-          "url": "https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 158946,
-      "name": "Kanishka",
-      "url": "https://open.spotify.com/track/54hZ4XVJ0xdp6teJVyHgn8"
+      "duration_ms": 140960,
+      "name": "Trece",
+      "url": "https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -207,22 +207,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Mate",
-      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -255,22 +239,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Peligrosos Gorriones",
-        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
-      },
-      "artists": [
-        {
-          "name": "Peligrosos Gorriones",
-          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Escafandra",
-      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "San Cipriano",
         "url": "https://open.spotify.com/album/12iVcnNuzN4LQNu8G5Tbv9"
       },
@@ -283,6 +251,38 @@
       "duration_ms": 163626,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/0IjJ1dAp6J9uPo2lKfYyyk"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Mate",
+      "url": "https://open.spotify.com/track/2E0qictodRb0Y5ChkZ7e4w"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Peligrosos Gorriones",
+        "url": "https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S"
+      },
+      "artists": [
+        {
+          "name": "Peligrosos Gorriones",
+          "url": "https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Escafandra",
+      "url": "https://open.spotify.com/track/09XkPoMOoWRiwMkwMMcCN1"
     },
     {
       "added_at": "2020-03-13 13:21:28",

@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-267 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+268 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\)](https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:27 | 2022-09-09 | 2022-11-08 |
 | [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 | 2022-09-09 |  |
 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 | 2022-09-09 | 2022-10-01 |
+| [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-18 |  |
 | [Alone In Kenzo](https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 3:19 | 2022-02-21 |  |
 | [Alright](https://open.spotify.com/track/1ip5UdRnR06OUcDapKQBx7) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/0sfW72nWa4oqoqbKhdtrE3) | 5:13 | 2021-11-10 | 2022-07-29 |
 | [Alright](https://open.spotify.com/track/6aoDP6J8OfYlCPasrZqjeS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:13 | 2022-06-03 | 2022-11-14 |
@@ -65,7 +66,7 @@
 | [Deja vu](https://open.spotify.com/track/4A5X60HdwE5AqCyqq8ojQZ) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo](https://open.spotify.com/album/4rV5pw3EpFF3Lyepg5UQKF) | 3:29 | 2021-11-10 | 2022-05-12 |
 | [Diggin' On You](https://open.spotify.com/track/2W2vmNmTLERMWT9XBxm35E) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:14 | 2021-11-10 | 2022-11-08 |
 | [Doing Better](https://open.spotify.com/track/3H6M6wJCSKGHtMqiAWl6QL) | [Jamie Isaac](https://open.spotify.com/artist/3s2jqlVaDwlRKk3mF7WT2b) | [\(04:30\) Idler](https://open.spotify.com/album/78BAQZAVl8r5sZ5taRKsQZ) | 3:34 | 2021-11-10 | 2022-07-29 |
-| [Doing Better](https://open.spotify.com/track/3hWZPR9nw9trqZOTOZM8x6) | [Jamie Isaac](https://open.spotify.com/artist/3s2jqlVaDwlRKk3mF7WT2b) | [\(04:30\) Idler](https://open.spotify.com/album/25a6Z1lDoKJc3ifMCt3QW7) | 3:36 | 2022-06-03 |  |
+| [Doing Better](https://open.spotify.com/track/3hWZPR9nw9trqZOTOZM8x6) | [Jamie Isaac](https://open.spotify.com/artist/3s2jqlVaDwlRKk3mF7WT2b) | [\(04:30\) Idler](https://open.spotify.com/album/25a6Z1lDoKJc3ifMCt3QW7) | 3:36 | 2022-06-03 | 2022-11-19 |
 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 | 2021-11-10 |  |
 | [Don’t Lose Your Steam](https://open.spotify.com/track/4jI3sxuP0AbvW1Hcdf2hA8) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Don't Lose Your Steam](https://open.spotify.com/album/1o8JUMN28rCDY15R4o2lcZ) | 3:17 | 2021-11-10 | 2022-07-29 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2022-06-03 |  |
@@ -227,7 +228,7 @@
 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 | 2021-11-10 |  |
 | [The Way You Make Me Feel \- 2012 Remaster](https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:58 | 2022-11-07 |  |
 | [Them Changes](https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 3:08 | 2021-11-10 | 2022-01-21 |
-| [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2022-11-18 |  |
+| [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2022-11-17 |  |
 | [There It Is](https://open.spotify.com/track/7hIXnKU8VkOGFftj3DAiUL) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night To Remember](https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY) | 4:25 | 2021-11-10 | 2022-11-13 |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-03-30 | 2022-07-08 |
 | [Tints \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/1gnwGVoG7V08vMX3hyr90x) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Tints \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2MdTsQBOs71AZuqETMyLY2) | 4:28 | 2021-11-10 |  |

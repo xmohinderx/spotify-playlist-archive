@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Marilyne Léonard
 
-234 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
+235 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/4x7dCsK0Zzpdb88Niig3QN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,8 +144,9 @@
 | [Maybe](https://open.spotify.com/track/0uBFY8hJyxPCH1xA69UTJE) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/73pwo4Qtcrilz9cJM3uCL5) | 3:13 | 2022-10-14 |  |
 | [Maybe](https://open.spotify.com/track/7B2BcS96XE8i0x9wiXrTij) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Maybe](https://open.spotify.com/album/6Tb0V8pptNIf83kJcSXMpY) | 3:13 | 2022-03-25 | 2022-10-15 |
 | [Memory Leaves](https://open.spotify.com/track/4LprWT4OjEawpeh8WeDE8W) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Memory Leaves](https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA) | 3:16 | 2022-03-25 | 2022-04-29 |
+| [Merry Go Round](https://open.spotify.com/track/1iyu4sqRAln0vHlPiOfrTs) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [KARNEVAL](https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL) | 3:31 | 2022-11-11 |  |
 | [Merry Go Round](https://open.spotify.com/track/1sySMZ2LJzvBqZBmauhge7) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/3gWV141PUDjaZigwAFF1jQ) | 3:31 | 2022-03-25 | 2022-07-29 |
-| [Merry Go Round](https://open.spotify.com/track/5wOqZLk70L0gr0KyPBOk4c) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/5QVpM1n4eqLmdQYtwWh96Q) | 3:31 | 2022-07-22 |  |
+| [Merry Go Round](https://open.spotify.com/track/5wOqZLk70L0gr0KyPBOk4c) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB) | [Merry Go Round](https://open.spotify.com/album/5QVpM1n4eqLmdQYtwWh96Q) | 3:31 | 2022-07-22 | 2022-11-19 |
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 |  |
 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 | 2022-04-29 | 2022-08-27 |
 | [Moment Feed](https://open.spotify.com/track/2hDnhl2MV9zsAdCzw6hCjL) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Moment Feed](https://open.spotify.com/album/5boINdoDwX7uxL0izaDxrX) | 4:27 | 2022-03-25 | 2022-04-16 |

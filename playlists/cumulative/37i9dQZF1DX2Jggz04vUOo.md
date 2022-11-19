@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-110 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
+111 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/6Uulv9qmgDZFuVKOsRe47Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Duat](https://open.spotify.com/track/4osLYKjGajPZP2GQlhjpCj) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0), [Raffaello Visconti](https://open.spotify.com/artist/1JaqbmYIACQImzNpyefYnp) | [Arecibo](https://open.spotify.com/album/2jWvQ1RNftD3KN9do59XON) | 7:18 | 2022-07-23 | 2022-10-15 |
 | [Duat](https://open.spotify.com/track/7MqyoCR3gABY7R5ibLRjpR) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0), [Raffaello Visconti](https://open.spotify.com/artist/1JaqbmYIACQImzNpyefYnp) | [Arecibo](https://open.spotify.com/album/1Q8Lwbmwvfded4H34gHTj6) | 7:18 | 2022-07-23 | 2022-07-29 |
 | [Easy Days](https://open.spotify.com/track/1qKOZtqBV8W0je2pPSpOzA) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74), [Kleintierschaukel](https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn) | [Easy Days](https://open.spotify.com/album/69vUFvbVj2b7oabEiP6h4d) | 5:39 | 2022-07-23 |  |
-| [El Pelo De Oro](https://open.spotify.com/track/6bk6vUU810kuRJAYYkSEtf) | [J G B](https://open.spotify.com/artist/27FeHe23RpMUBcll7ABPD1) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 4:55 | 2022-07-23 |  |
+| [El Pelo De Oro](https://open.spotify.com/track/6QCXyaMzQNMdS8W7CFEsW7) | [J G B](https://open.spotify.com/artist/27FeHe23RpMUBcll7ABPD1) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/5j6v7TGXqQnxAo5njwHXUd) | 4:55 | 2022-10-14 |  |
+| [El Pelo De Oro](https://open.spotify.com/track/6bk6vUU810kuRJAYYkSEtf) | [J G B](https://open.spotify.com/artist/27FeHe23RpMUBcll7ABPD1) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/6xU0Z4LispiUofKEXrCQiJ) | 4:55 | 2022-07-23 | 2022-11-19 |
 | [Elefante](https://open.spotify.com/track/02yNOCdIFQ227lXa15JcoC) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo), [Murmusica](https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY), [Tolga Bilgin](https://open.spotify.com/artist/2n0mROXhyTtUEk8cb8Fyck) | [Elefante](https://open.spotify.com/album/7Gpe9w3QcW4f8mPGFvtXWt) | 5:48 | 2022-07-23 |  |
 | [Etèreo](https://open.spotify.com/track/2zvaBjNVbQg6AK2aAIRhrN) | [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv), [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b) | [Etèreo](https://open.spotify.com/album/1smB9aYNSh87eIwHnWZjdo) | 7:36 | 2022-10-14 |  |
 | [Euclidean Street \- Original](https://open.spotify.com/track/3IeXLigXtq8Jbnd4javTeK) | [Niju](https://open.spotify.com/artist/52gcfKJpAGFdUkSVS6jSV4) | [Time Is A Slice Of Forever!](https://open.spotify.com/album/3BUhB5WbgjXMFJgKwdgf0M) | 8:19 | 2022-07-23 |  |

@@ -1,48 +1,56 @@
 {
   "description": "The Midwest is always on time. Cover: SleazyWorld Go",
-  "num_followers": 95628,
+  "num_followers": 95640,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODIwNTQ3NywwMDAwMDAwMGUwMTMyMjgwOTA2ZTkwYTFiOGVlOGQzNzM0M2NmYzBh",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGYzNDI2OGY3MTFkOTI4NTVhMDM0ZDhlMjMzM2ZjYThh",
   "tracks": [
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Where The Shooters Be",
-        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
+        "name": "2 Million Up (feat. Rob49)",
+        "url": "https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci"
       },
       "artists": [
         {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 117481,
-      "name": "Vanish Mode",
-      "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "FLAWLESS LIKE ME",
-        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
         }
       ],
-      "duration_ms": 117000,
-      "name": "KAPITOL DENIM",
-      "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
+      "duration_ms": 197338,
+      "name": "2 Million Up (feat. Rob49)",
+      "url": "https://open.spotify.com/track/5iY0Mx5x4XMUL8PKIFns4n"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Richer",
+        "url": "https://open.spotify.com/album/48z2k3V6BZm4fsJSp6LjKg"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 187854,
+      "name": "Richer",
+      "url": "https://open.spotify.com/track/7t165yCy9QZoB50CxVLQ8A"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -65,40 +73,20 @@
       "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+        "name": "Where The Shooters Be",
+        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
         }
       ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Richer",
-        "url": "https://open.spotify.com/album/48z2k3V6BZm4fsJSp6LjKg"
-      },
-      "artists": [
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        }
-      ],
-      "duration_ms": 187854,
-      "name": "Richer",
-      "url": "https://open.spotify.com/track/7t165yCy9QZoB50CxVLQ8A"
+      "duration_ms": 117481,
+      "name": "Vanish Mode",
+      "url": "https://open.spotify.com/track/4xBooY8kGQA098b2vXCBXl"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -123,6 +111,70 @@
       "duration_ms": 228000,
       "name": "9 Lives (feat. Polo G & NLE Choppa)",
       "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "FLAWLESS LIKE ME",
+        "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 117000,
+      "name": "KAPITOL DENIM",
+      "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -177,22 +229,6 @@
       "url": "https://open.spotify.com/track/7lgvHYbCxOle5HJJcfJzrS"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "ONLY BUILT 4 DIAMOND LINKS",
-        "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
-      },
-      "artists": [
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        }
-      ],
-      "duration_ms": 159973,
-      "name": "2 Million Up",
-      "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Ain\u2019t Safe (feat. Don Toliver)",
@@ -211,6 +247,26 @@
       "duration_ms": 166514,
       "name": "Ain\u2019t Safe (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "YAH Know",
+        "url": "https://open.spotify.com/album/2hco0gyL8UJN4olim98vEy"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "YAH Know",
+      "url": "https://open.spotify.com/track/1LzovYtOvkODueiluGyRzF"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -253,20 +309,24 @@
       "url": "https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f"
     },
     {
-      "added_at": "2022-11-11 22:24:37",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1Fm7HCVEImfZYYQ64v9F3o"
+        "name": "Money Counter Music Vol. 2: Born In It",
+        "url": "https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0"
       },
       "artists": [
         {
-          "name": "Bfb Da Packman",
-          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+          "name": "G.T.",
+          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
       ],
-      "duration_ms": 180594,
-      "name": "Trick",
-      "url": "https://open.spotify.com/track/3eL5twPFRGZ9AHsFA4vHAk"
+      "duration_ms": 140040,
+      "name": "Motion Gang / Wavy Gang (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/5ZQHLsSkSAQbw75IhtdEMi"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -325,6 +385,22 @@
       "url": "https://open.spotify.com/track/4cuX6FQzeLkQUazvZDnEph"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/0jymX6haimbAXiwUw7iB0Q"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 153718,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/4uwJy79MZi0a9kDnZsIpbP"
+    },
+    {
       "added_at": "2022-10-07 04:00:00",
       "album": {
         "name": "It's Not Me It's You (Deluxe)",
@@ -377,20 +453,20 @@
       "url": "https://open.spotify.com/track/6CoB0S7aB6xc1PfQKqGqEG"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
+      "added_at": "2022-11-11 22:24:37",
       "album": {
-        "name": "Wicked Inna RaQ",
-        "url": "https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7"
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1Fm7HCVEImfZYYQ64v9F3o"
       },
       "artists": [
         {
-          "name": "Lil Nuu",
-          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
         }
       ],
-      "duration_ms": 151275,
-      "name": "Wicked Inna RaQ",
-      "url": "https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s"
+      "duration_ms": 180594,
+      "name": "Trick",
+      "url": "https://open.spotify.com/track/3eL5twPFRGZ9AHsFA4vHAk"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -587,26 +663,6 @@
       "duration_ms": 144479,
       "name": "Reel Em In",
       "url": "https://open.spotify.com/track/50yCs2ldgkd0OJji21ZAAa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Money Counter Music Vol. 2: Born In It",
-        "url": "https://open.spotify.com/album/2S2xBS9OFTqMQS1b2Ydjl0"
-      },
-      "artists": [
-        {
-          "name": "G.T.",
-          "url": "https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "Motion Gang / Wavy Gang (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/5ZQHLsSkSAQbw75IhtdEMi"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -851,26 +907,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "BACK IN ACTION 3.0",
-        "url": "https://open.spotify.com/album/2nE7I42NgdU4IlyLv6xtVM"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        }
-      ],
-      "duration_ms": 133136,
-      "name": "223's (feat. BabyTron)",
-      "url": "https://open.spotify.com/track/2Gn3xsO0hacXJy1Z2EHrgm"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "New Money",
         "url": "https://open.spotify.com/album/3S35vId70s4N2OxkwZP67N"
       },
@@ -907,26 +943,6 @@
       "duration_ms": 182941,
       "name": "How TF (with SleazyWorld Go)",
       "url": "https://open.spotify.com/track/3iBv2gYJk2SJJbuEGnvlLm"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Real Bitch (feat. Gloss Up)",
-        "url": "https://open.spotify.com/album/6MUUM532DEcR697rck5n90"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        }
-      ],
-      "duration_ms": 124904,
-      "name": "Real Bitch (feat. Gloss Up)",
-      "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
     }
   ],
   "unique_name": "CST",

@@ -1,29 +1,13 @@
 {
-  "description": "A new shade of Country. Cover: Sturgill Simpson\n",
-  "num_followers": 404622,
+  "description": "A new shade of Country. Cover: Billy Strings",
+  "num_followers": 404541,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE4MTU0MywwMDAwMDAwMDY1OGYyMDQ5YmYzNjY2OGZhYjcxNDYyODY2ZTYzY2U4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDhhNTI1OTk0M2U0YmU5YmFkY2IyNjkyZTNkMjE1N2Qz",
   "tracks": [
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Can I Take My Hounds to Heaven?",
-        "url": "https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Way of the Triune God - Jubilee Version",
-      "url": "https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS"
-    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -57,6 +41,54 @@
       "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Me / And / Dad",
+        "url": "https://open.spotify.com/album/3sEnM8BV4F3dQno5rFzdW1"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Dig A Little Deeper (In The Well)",
+      "url": "https://open.spotify.com/track/2LVc94jQD0PMgUcmcV2CkH"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Ain't a Day Goes By",
+        "url": "https://open.spotify.com/album/1JTRsrFrlm39gUqQMvhJNJ"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Ain't a Day Goes By",
+      "url": "https://open.spotify.com/track/5QvCKK52a348z920a2fH3X"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
+    },
+    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Songs To Keep You Warm",
@@ -77,6 +109,46 @@
       "url": "https://open.spotify.com/track/0s0ExKwCRYPLZVw8qkGvbv"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Can I Take My Hounds to Heaven?",
+        "url": "https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Way of the Triune God - Jubilee Version",
+      "url": "https://open.spotify.com/track/3mXMXwi6zJ7XVaG4PbpcjS"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 221302,
+      "name": "Dooley's Farm (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Live Forever: A Tribute To Billy Joe Shaver",
@@ -91,6 +163,22 @@
       "duration_ms": 171480,
       "name": "You Asked Me To",
       "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "If your tired heart is aching...",
+        "url": "https://open.spotify.com/album/78ijTLvmc9f653NePvU8nH"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Stranger In My Bed",
+      "url": "https://open.spotify.com/track/2It86UDD44KhZ3Anq7mCFG"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -161,20 +249,36 @@
       "url": "https://open.spotify.com/track/62NCBgd9im9741RNTVNahK"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "John Deere Tractor",
-        "url": "https://open.spotify.com/album/5iAM5W8hSgOY92x4MfsSsw"
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 271373,
-      "name": "John Deere Tractor",
-      "url": "https://open.spotify.com/track/0NJylzU3Z26jhexTWrd9E3"
+      "duration_ms": 190520,
+      "name": "Cypress Hills and the Big Country",
+      "url": "https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Fire in the Ocean",
+        "url": "https://open.spotify.com/album/7oxHI9icBzcPOsAYA0a7g4"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 238542,
+      "name": "Fire in the Ocean",
+      "url": "https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -191,6 +295,22 @@
       "duration_ms": 191919,
       "name": "Boots Mine Gold",
       "url": "https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "John Deere Tractor",
+        "url": "https://open.spotify.com/album/5iAM5W8hSgOY92x4MfsSsw"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "John Deere Tractor",
+      "url": "https://open.spotify.com/track/0NJylzU3Z26jhexTWrd9E3"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -243,22 +363,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "Cypress Hills and the Big Country",
-      "url": "https://open.spotify.com/track/0VMoMJY1x5R3NGwBPL9ojE"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Useless",
         "url": "https://open.spotify.com/album/29Cep4HZMEuokBgwiNSV6p"
       },
@@ -275,6 +379,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -287,22 +407,6 @@
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Fire in the Ocean",
-        "url": "https://open.spotify.com/album/7oxHI9icBzcPOsAYA0a7g4"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 238542,
-      "name": "Fire in the Ocean",
-      "url": "https://open.spotify.com/track/7EYcaTSpXviHo3VVOPxbT4"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -343,22 +447,6 @@
       "duration_ms": 183560,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/7eBJf9kAJn06HKp2lBEWi2"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Fortune Favors the Bold",
-        "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -843,38 +931,6 @@
       "duration_ms": 231132,
       "name": "Born Tough",
       "url": "https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Ain't a Day Goes By",
-        "url": "https://open.spotify.com/album/1JTRsrFrlm39gUqQMvhJNJ"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Ain't a Day Goes By",
-      "url": "https://open.spotify.com/track/5QvCKK52a348z920a2fH3X"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1687,30 +1743,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 221302,
-      "name": "Dooley's Farm (feat. Billy Strings)",
-      "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Other Than That",
         "url": "https://open.spotify.com/album/7jEbVyXKzcWE4rJXnES8JO"
       },
@@ -2175,54 +2207,6 @@
       "duration_ms": 179013,
       "name": "Years",
       "url": "https://open.spotify.com/track/72ha7F3FCjTFXFkUHt4fMe"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Songs My Friends Wrote",
-        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
-      },
-      "artists": [
-        {
-          "name": "Corb Lund",
-          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "Highway 87",
-      "url": "https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Junky Star",
-        "url": "https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 300453,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "The Wilder Blue",
-        "url": "https://open.spotify.com/album/3JjqwFaU3kZhVXA3ABuSvg"
-      },
-      "artists": [
-        {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        }
-      ],
-      "duration_ms": 260320,
-      "name": "Wave Dancer",
-      "url": "https://open.spotify.com/track/4hWtttxOCrlMZY954i4Kr9"
     },
     {
       "added_at": "2022-10-28 04:00:00",

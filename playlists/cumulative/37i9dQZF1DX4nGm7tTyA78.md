@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-72 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
+73 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Me Liberé \(feat\. Jay Kalyl\)](https://open.spotify.com/track/6oy9obwuFxcCFlbDF4lQ0A) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Trapstornadores](https://open.spotify.com/album/6USTDDk6DVZ8DYtyGnl6iG) | 3:38 | 2020-08-28 |  |
 | [Menciono Tu Nombre \(feat\. Omy Alka\)](https://open.spotify.com/track/4kfUztREwDlVaHLR2m7j9y) | [Josue Escogido](https://open.spotify.com/artist/75Gl0anAafMmfj2gSUP2VK), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Menciono Tu Nombre \(feat\. Omy Alka\)](https://open.spotify.com/album/4Dn3ieVfG6lj8TQuZsYaF1) | 3:33 | 2020-08-28 |  |
 | [Mi Fe](https://open.spotify.com/track/4QtkVr6LwhkB91LhyB2O3e) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Mi Fe](https://open.spotify.com/album/2U7t67tqrgQHexFBMPiu62) | 3:55 | 2020-08-28 | 2022-10-19 |
-| [Mi Fe](https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/2Tctk4AH3KtYpgHFpB6n0A) | 3:55 | 2020-08-28 |  |
+| [Mi Fe](https://open.spotify.com/track/3ByHOVprxjQwTrUGBnc1QT) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/2Tctk4AH3KtYpgHFpB6n0A) | 3:55 | 2020-08-28 | 2022-11-19 |
+| [Mi Fe](https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Oveja Entre Lobos](https://open.spotify.com/album/1jyexk1kGftS90IlYCTmat) | 3:56 | 2020-08-28 |  |
 | [Mira Mis Ojos](https://open.spotify.com/track/2irxXUAsqfg7atkXFnnBQu) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:11 | 2020-08-28 |  |
 | [No Existe](https://open.spotify.com/track/10SMHUNB1vFqprgSPgpkVG) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/10gj19OpC25r3uCx0lB2hZ) | 4:10 | 2020-08-28 | 2022-07-29 |
 | [No Existe](https://open.spotify.com/track/5ohKZEW3iWauevBwCBLq4R) | [Abdi](https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6) | [No Existe](https://open.spotify.com/album/7sEzZRAMzM53HiEfsqtG4J) | 4:10 | 2020-08-28 |  |

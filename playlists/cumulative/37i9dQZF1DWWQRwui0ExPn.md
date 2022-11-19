@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,373 songs - 6 day 22 hr 41 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,374 songs - 6 day 22 hr 44 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [A Little Salsa](https://open.spotify.com/track/4Gt9NPLjaWeId7Kop5NoVt) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Jacuzzi Jams](https://open.spotify.com/album/4KhsoqHVNo2sgFRQisKisV) | 2:25 | 2021-08-31 | 2022-03-21 |
 | [A Long Ride](https://open.spotify.com/track/2mAAGI1pnNhindrgpZiLLQ) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [A Long Ride](https://open.spotify.com/album/6zEjDHfsgtpVfb8bcKw3fU) | 2:18 | 2022-04-08 | 2022-07-29 |
 | [A Man Who Believed in Dreams](https://open.spotify.com/track/62iYwsZOs7j0aqjZgx9BIB) | [Moonspatz](https://open.spotify.com/artist/63Cv3MetKEN8bhsAo4n6nK) | [A Man Who Believed in Dreams](https://open.spotify.com/album/1Q5lHV7drseDRk48GSfkz6) | 1:52 | 2022-09-16 |  |
-| [a moment in time](https://open.spotify.com/track/0eDayKNNv3dnirZg9ep5Ct) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [a moment in time](https://open.spotify.com/album/6ANdIxNfEcgvOJP22YSu4A) | 2:39 | 2022-11-18 |  |
+| [a moment in time](https://open.spotify.com/track/0eDayKNNv3dnirZg9ep5Ct) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [a moment in time](https://open.spotify.com/album/6ANdIxNfEcgvOJP22YSu4A) | 2:39 | 2022-11-18 | 2022-11-19 |
 | [a moment in time](https://open.spotify.com/track/6ThGj2HOQxNohoiY5vIKux) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [a moment in time](https://open.spotify.com/album/5VRbxEhWrzGjv2Rsb1qAAh) | 2:39 | 2022-11-18 |  |
 | [A New Hope](https://open.spotify.com/track/3Q1PuSwSbcQb6zWZlDgCMs) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Novvel](https://open.spotify.com/artist/52v4QBbB8pFtxZzu6PW22Q) | [A New Hope](https://open.spotify.com/album/5zG4EoAim4boWyb21vCqvO) | 2:32 | 2022-07-08 | 2022-10-21 |
 | [A New Moanin'](https://open.spotify.com/track/1OIVG8buHZ1S4bdoPQxb9V) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3) | [A New Moanin'](https://open.spotify.com/album/1ihdetmAT5j1429jbweTJs) | 3:13 | 2022-10-07 |  |
@@ -2162,6 +2162,7 @@
 | [Life in stories](https://open.spotify.com/track/5yK9dZNBOruaeH6TlwbOFC) | [MujjO](https://open.spotify.com/artist/24EBk1z8Q7zppOqXGctcnr), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Life in stories](https://open.spotify.com/album/0G47KicRHPl208yt8fvmxw) | 2:40 | 2021-09-11 | 2022-04-08 |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2020-05-15 | 2021-10-02 |
 | [Life's Better Outside](https://open.spotify.com/track/4orKNoL7TmtF75XBGZ5wAJ) | [Mimu](https://open.spotify.com/artist/14vNWnyjy3GInINdHYgDwA) | [Life's Better Outside](https://open.spotify.com/album/3DbQc4d0Ingn4ar4n3eMS8) | 3:12 | 2022-08-05 | 2022-11-18 |
+| [Lifelike Figures](https://open.spotify.com/track/2NmdoCM6MIkKTKWYQaiZGc) | [Multicolor Vowels](https://open.spotify.com/artist/7Ll3x4zA90V5UkSUf3EtDX) | [Looking Up](https://open.spotify.com/album/0Ke4WK296drZDOwSZeBUA9) | 2:38 | 2022-11-18 |  |
 | [Lifted](https://open.spotify.com/track/4aeAc0cATEwpQYbEJ4ZfnH) | [Lofi Annan](https://open.spotify.com/artist/01DExcmhaRaOI3YNSntQK8) | [Coffee Shop](https://open.spotify.com/album/56AWPzB7XIM3d5IrKJhKgW) | 1:55 | 2021-12-17 | 2022-07-08 |
 | [Light Beams](https://open.spotify.com/track/6TPyiwzayKHCRJP2JL53oS) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vin](https://open.spotify.com/album/0OWKd8AB4v7itVOTRPJfgM) | 2:32 | 2019-05-26\* | 2020-10-21 |
 | [Light Blue](https://open.spotify.com/track/1MR84S2jOKu98U48pUIFQA) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Light Blue](https://open.spotify.com/album/46cEmEYX7yPfkwyFVAEBCh) | 2:37 | 2022-09-02 |  |

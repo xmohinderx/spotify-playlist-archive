@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 459974,
+  "num_followers": 460021,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMDU2Nzc1MTk3MGU1NGJkMjhhODkyNmQ1MjA3ODUyOWFm",
+  "snapshot_id": "MTY2NTczMDgwMCwwMDAwMDAwMDExMTE1Y2JkOGFlNWIwODY2NWJiZTA2M2Y1NjQ2YmU0",
   "tracks": [
     {
       "added_at": "2022-10-14 07:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Tame Impala",
-        "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266920,
-      "name": "Half Full Glass Of Wine",
-      "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "The Action Is Go",
         "url": "https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 210866,
       "name": "Evil Eye",
       "url": "https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Tame Impala",
+        "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266920,
+      "name": "Half Full Glass Of Wine",
+      "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ"
-      },
-      "artists": [
-        {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
-        }
-      ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5y2SajUtaw9VZjkuKlMsJQ"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/4tjrhez9Jz2euetdgNqS7W"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Woodland Rites",
+        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Let the Devil In",
+      "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Repeater",
         "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 526293,
       "name": "Aquamaria",
       "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Woodland Rites",
-        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
-      },
-      "artists": [
-        {
-          "name": "Green Lung",
-          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Let the Devil In",
-      "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 636226,
-      "name": "Dopethrone",
-      "url": "https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 636226,
+      "name": "Dopethrone",
+      "url": "https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "The Devil and the Almighty Blues",
-        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
-      },
-      "artists": [
-        {
-          "name": "The Devil and the Almighty Blues",
-          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
-        }
-      ],
-      "duration_ms": 387668,
-      "name": "Tired Old Dog",
-      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "From the Ages",
         "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 848346,
       "name": "Uluru Rock",
       "url": "https://open.spotify.com/track/6NitnfUkmFWyCvvi9zUZmu"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "The Devil and the Almighty Blues",
+        "url": "https://open.spotify.com/album/4TETRxT7Vg3UlW0OZpztsw"
+      },
+      "artists": [
+        {
+          "name": "The Devil and the Almighty Blues",
+          "url": "https://open.spotify.com/artist/4T5R55g1hbK1uneOZ0L2XJ"
+        }
+      ],
+      "duration_ms": 387668,
+      "name": "Tired Old Dog",
+      "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Mobile Babylon",
-        "url": "https://open.spotify.com/album/26RaBDkrbF2tZkn3eojKmO"
-      },
-      "artists": [
-        {
-          "name": "Jolly Jumpers",
-          "url": "https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Palomino",
-      "url": "https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Head Smashed In",
         "url": "https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 290965,
       "name": "Heavy Low",
       "url": "https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Mobile Babylon",
+        "url": "https://open.spotify.com/album/26RaBDkrbF2tZkn3eojKmO"
+      },
+      "artists": [
+        {
+          "name": "Jolly Jumpers",
+          "url": "https://open.spotify.com/artist/1DO8GW8gQTBXlbn78y1veW"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Palomino",
+      "url": "https://open.spotify.com/track/7r3zhNSPD15XEYiHyEp4po"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
-        }
-      ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Acid Roulette",
         "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 349466,
       "name": "Acid Roulette",
       "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Feberdr\u00f6m",
-        "url": "https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w"
-      },
-      "artists": [
-        {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
-        }
-      ],
-      "duration_ms": 302416,
-      "name": "Vakuum",
-      "url": "https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Trails & Passes",
         "url": "https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 194866,
       "name": "Our Mother Ash",
       "url": "https://open.spotify.com/track/06X9h0zkeEncfohssytDp8"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Feberdr\u00f6m",
+        "url": "https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w"
+      },
+      "artists": [
+        {
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
+        }
+      ],
+      "duration_ms": 302416,
+      "name": "Vakuum",
+      "url": "https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF"
     },
     {
       "added_at": "2022-10-14 07:00:00",

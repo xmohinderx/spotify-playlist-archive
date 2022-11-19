@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 629780,
+  "num_followers": 629763,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE2Nzk5NCwwMDAwMDAwMDJhODQ2NDJhY2Q3N2EyMzM4ZjE1ZTI2MjZhMGZiMzVl",
+  "snapshot_id": "MTY2ODE2Nzk5NCwwMDAwMDAwMGVlNWFiNzZhNjRlYzRhZWJkMzFjZjZlM2VjZTFiYTk0",
   "tracks": [
     {
       "added_at": "2022-10-21 19:16:24",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Silk Under Rain",
         "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 192000,
       "name": "Lively Bluebottle",
       "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
+      },
+      "artists": [
+        {
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/70zZuuFtxFTS5MAGP6DPs1"
     },
     {
+      "added_at": "2022-11-19 01:47:07",
+      "album": {
+        "name": "Quiet Motions",
+        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Quiet Motions",
+      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
+    },
+    {
       "added_at": "2022-10-21 19:16:24",
       "album": {
         "name": "Axiom",
@@ -327,22 +343,6 @@
       "duration_ms": 156795,
       "name": "Our Powers",
       "url": "https://open.spotify.com/track/1CbxWhH2cl3PXf0Re0TkZD"
-    },
-    {
-      "added_at": "2022-11-18 01:47:13",
-      "album": {
-        "name": "Quiet Motions",
-        "url": "https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr"
-      },
-      "artists": [
-        {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Quiet Motions",
-      "url": "https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Porto Fino",
-        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 247963,
-      "name": "Porto Fino",
-      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Rancul",
         "url": "https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 105626,
       "name": "Piano Ele\u0301ctrico",
       "url": "https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Porto Fino",
+        "url": "https://open.spotify.com/album/1pIPERe0MKxBq2ndbvmozM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 247963,
+      "name": "Porto Fino",
+      "url": "https://open.spotify.com/track/0fdPCpFOZeOUiW5qaBSrbr"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
-      },
-      "artists": [
-        {
-          "name": "Miguel Serugetti",
-          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
-        }
-      ],
-      "duration_ms": 145768,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/58LZpp4XabjGyR8Dc7NVtI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 134210,
       "name": "We Are Forever",
       "url": "https://open.spotify.com/track/1cywl9rjzChQpwqbYi26Pp"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
+      },
+      "artists": [
+        {
+          "name": "Miguel Serugetti",
+          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
+        }
+      ],
+      "duration_ms": 145768,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Myriads",
-        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
-      },
-      "artists": [
-        {
-          "name": "12dust",
-          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Myriads",
-      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Affinity",
         "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 172000,
       "name": "Affinity",
       "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Myriads",
+        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Myriads",
+      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/09aXsDzTB0HxnZw6zvKwqf"
     },
     {
+      "added_at": "2022-11-19 01:47:07",
+      "album": {
+        "name": "You're Filled With Courage",
+        "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Corin",
+          "url": "https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "You're Filled With Courage",
+      "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
+    },
+    {
       "added_at": "2022-10-21 19:16:24",
       "album": {
         "name": "The Land of the Sun",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Caleufu",
-        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
-      },
-      "artists": [
-        {
-          "name": "Caleufu",
-          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
-        }
-      ],
-      "duration_ms": 127693,
-      "name": "Ali",
-      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
       },
@@ -1199,6 +1199,22 @@
       "duration_ms": 165333,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Caleufu",
+        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
+      },
+      "artists": [
+        {
+          "name": "Caleufu",
+          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
+        }
+      ],
+      "duration_ms": 127693,
+      "name": "Ali",
+      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Lumineux",
-        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
-      },
-      "artists": [
-        {
-          "name": "Alice Rolande",
-          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
-        }
-      ],
-      "duration_ms": 217893,
-      "name": "Lumineux",
-      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Ver Weg",
         "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
       },
@@ -1281,20 +1281,20 @@
       "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
     },
     {
-      "added_at": "2022-11-18 01:47:13",
+      "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "You're Filled With Courage",
-        "url": "https://open.spotify.com/album/3lkh1bioKa9l6mBFgqm2Y2"
+        "name": "Lumineux",
+        "url": "https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt"
       },
       "artists": [
         {
-          "name": "Genevi\u00e8ve Corin",
-          "url": "https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38"
+          "name": "Alice Rolande",
+          "url": "https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC"
         }
       ],
-      "duration_ms": 157200,
-      "name": "You're Filled With Courage",
-      "url": "https://open.spotify.com/track/1yXCViJlRh40uDDaA3xOl0"
+      "duration_ms": 217893,
+      "name": "Lumineux",
+      "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "The Seasons",
-        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
-      },
-      "artists": [
-        {
-          "name": "Hans Wolfgang Ziegler",
-          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
-        }
-      ],
-      "duration_ms": 137796,
-      "name": "Sunny & Cloudy",
-      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "The Seasons",
+        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
+      },
+      "artists": [
+        {
+          "name": "Hans Wolfgang Ziegler",
+          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
+        }
+      ],
+      "duration_ms": 137796,
+      "name": "Sunny & Cloudy",
+      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Earth Child",
-        "url": "https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p"
-      },
-      "artists": [
-        {
-          "name": "Harlan Silverman",
-          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
-        }
-      ],
-      "duration_ms": 165755,
-      "name": "Kalapas",
-      "url": "https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Open Eyes",
         "url": "https://open.spotify.com/album/7p8eObCrVEaGjXAuf8zZW8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 212028,
       "name": "Open Eyes",
       "url": "https://open.spotify.com/track/7qOSXapFeF6dMXYZn6r7Jm"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Earth Child",
+        "url": "https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p"
+      },
+      "artists": [
+        {
+          "name": "Harlan Silverman",
+          "url": "https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU"
+        }
+      ],
+      "duration_ms": 165755,
+      "name": "Kalapas",
+      "url": "https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119"
     },
     {
       "added_at": "2022-10-21 19:16:24",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-21 19:16:24",
       "album": {
-        "name": "Trust and Ritual",
-        "url": "https://open.spotify.com/album/7kYBaUfFo6CCBsEgdacAJj"
-      },
-      "artists": [
-        {
-          "name": "Witch Soup",
-          "url": "https://open.spotify.com/artist/1jNOARYSWbl7xffJBcKxR5"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Elder From Sabha",
-      "url": "https://open.spotify.com/track/71pxVmA8KLRan0jiy8wQOM"
-    },
-    {
-      "added_at": "2022-10-21 19:16:24",
-      "album": {
         "name": "Selah",
         "url": "https://open.spotify.com/album/3ucN43N5AB3IhIAOiX3MWI"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 225110,
       "name": "Notes On Leave Taking",
       "url": "https://open.spotify.com/track/7t7nxvsTW4bUSkLifauz2i"
+    },
+    {
+      "added_at": "2022-10-21 19:16:24",
+      "album": {
+        "name": "Trust and Ritual",
+        "url": "https://open.spotify.com/album/7kYBaUfFo6CCBsEgdacAJj"
+      },
+      "artists": [
+        {
+          "name": "Witch Soup",
+          "url": "https://open.spotify.com/artist/1jNOARYSWbl7xffJBcKxR5"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Elder From Sabha",
+      "url": "https://open.spotify.com/track/71pxVmA8KLRan0jiy8wQOM"
     }
   ],
   "unique_name": "DayDreamer",

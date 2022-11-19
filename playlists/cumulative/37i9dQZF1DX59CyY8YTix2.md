@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: SPOOL
 
-681 songs - 1 day 19 hr 46 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+682 songs - 1 day 19 hr 50 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [L.L.M.S.D.](https://open.spotify.com/track/0b8KeAFrw5nkA7MHMnqTv7) | [AJICO](https://open.spotify.com/artist/1F6WT6I5BMsRTWTS4r92wY) | [L.L.M.S.D.](https://open.spotify.com/album/1aFaexvwFRREZ3BD0WIxtD) | 3:57 | 2022-06-02 | 2022-06-08 |
 | [Laid back \(feat\. Kazma Kobayashi\)](https://open.spotify.com/track/5EwJvQdjjvBbKrZQzShYIR) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s), [Kazuma Kobayashi](https://open.spotify.com/artist/2Alp7bBEvBhzmxDaiHtSXZ) | [Bearwear/The tiva](https://open.spotify.com/album/5XAIEWhmdFMVt6Cagjd8BN) | 3:54 | 2022-05-26 | 2022-07-16 |
 | [Landscape](https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Landscape](https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl) | 3:51 | 2022-05-26 |  |
+| [Language of flowers](https://open.spotify.com/track/5npVUGJB7vF2Q4PHriYVJR) | [Suichu Spica](https://open.spotify.com/artist/1amlHJJSHHZ7fo8FM1vlmM) | [Osm](https://open.spotify.com/album/6p4MTKjElaPhKVxZvAI6TJ) | 4:54 | 2022-11-17 |  |
 | [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-28 | 2022-06-30 |
 | [lemonade](https://open.spotify.com/track/0GndrRspootOgtpvqcZDpp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [d a n c i n g a l o n e](https://open.spotify.com/album/0mNqcoC2Tj16oiP4PL7xeN) | 3:06 | 2022-06-02 | 2022-10-19 |
 | [Leon](https://open.spotify.com/track/0ctWWj9EtgPRx61Z6nw06r) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Reveal](https://open.spotify.com/album/0hK64US1J7Tt2F07xNsxsS) | 3:33 | 2022-06-16 | 2022-07-29 |
@@ -646,7 +647,7 @@
 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 | 2022-06-23 | 2022-07-09 |
 | [花々](https://open.spotify.com/track/7DBUFvfmZY7D1ZYJUEWaq7) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [花々](https://open.spotify.com/album/6LM4knFXG12tbLqyfE6seU) | 3:09 | 2022-10-13 | 2022-10-19 |
 | [花咲く君の滑走路](https://open.spotify.com/track/4yEyxgbDM0S3J55ECcUXEz) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [花咲く君の滑走路](https://open.spotify.com/album/2Welq5m1RXmGjJNe6w47Lo) | 3:11 | 2022-05-31 | 2022-07-29 |
-| [花言葉](https://open.spotify.com/track/3RpmK5KfoRlbw2KkMUTHUx) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Osm](https://open.spotify.com/album/73exMw87vtPTO22xplpK31) | 4:54 | 2022-11-17 |  |
+| [花言葉](https://open.spotify.com/track/3RpmK5KfoRlbw2KkMUTHUx) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Osm](https://open.spotify.com/album/73exMw87vtPTO22xplpK31) | 4:54 | 2022-11-17 | 2022-11-19 |
 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 | 2022-06-16 | 2022-11-18 |
 | [蜃気楼](https://open.spotify.com/track/6CLXb5vecXnX64ZjXVFFgC) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:38 | 2022-06-23 | 2022-06-27 |
 | [蜃気楼](https://open.spotify.com/track/64mQXhe60mj1CtlLv5gJZU) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [蜃気楼](https://open.spotify.com/album/4LuWkiqBLxnCIFupdgJ7lZ) | 4:38 | 2022-06-02 | 2022-06-08 |

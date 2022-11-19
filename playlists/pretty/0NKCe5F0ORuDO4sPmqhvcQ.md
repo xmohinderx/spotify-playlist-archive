@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,207 likes - 130 songs - 7 hr 22 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,204 likes - 132 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 128 | [New Beginnings](https://open.spotify.com/track/2npBw5KVoE0yvwauKcr5SP) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [New Beginnings](https://open.spotify.com/album/2yfsioyNrh9gQ2rYKM6cza) | 3:28 |
 | 129 | [All The Time](https://open.spotify.com/track/0cWqIiQczIXVORSfVxbg1X) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [All The Time](https://open.spotify.com/album/04Er7EWQFPjGPTthhPLh7n) | 2:59 |
 | 130 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 |
+| 131 | [Weatherman \(feat\. Syd Silvair\)](https://open.spotify.com/track/2tNdqugzaMCRpoLEM3SqF6) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Syd Silvair](https://open.spotify.com/artist/4f2LaSXjjsqEZxRNNZL7qw) | [Weatherman](https://open.spotify.com/album/5ARlGhUDTTIQSQEqmBz8HW) | 4:50 |
+| 132 | [Night Spot \(feat\. B Che\)](https://open.spotify.com/track/5n6ETg2Eeov0az6DLDPYfN) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [B Che](https://open.spotify.com/artist/0vnNVC4zb0oOJotPEU7gFN) | [Night Spot \(feat\. B Che\)](https://open.spotify.com/album/0piJif1CsqBq86iQiCxsFJ) | 3:00 |
 
-Snapshot ID: `MTAwNzYsNGQ2YThiMGU0Y2Q2NjBmNTlhN2EyMTlkMzU5MTQxNjgxZjdjMDIxOA==`
+Snapshot ID: `MTAwNzgsMGU2NTQyYzg2ZTE3MTg5ZGUyY2NkYWFlODYzYzViOTVhZDE3Mzk2OQ==`

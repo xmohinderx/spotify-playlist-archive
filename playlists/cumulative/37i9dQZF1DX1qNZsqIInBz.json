@@ -324,6 +324,28 @@
     },
     {
       "album": {
+        "name": "Cold Blood",
+        "url": "https://open.spotify.com/album/4i4J6PY1upuY48jsSITgGi"
+      },
+      "artists": [
+        {
+          "name": "Wilee",
+          "url": "https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r"
+        },
+        {
+          "name": "HOSPICEMANE",
+          "url": "https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186682,
+      "name": "Cold Blood",
+      "url": "https://open.spotify.com/track/6BGI62bC9ZBOvTqWCd6Nd5"
+    },
+    {
+      "album": {
         "name": "Cyanide",
         "url": "https://open.spotify.com/album/1AlwyKku3ObMAl0jkz8Qwf"
       },
@@ -397,6 +419,32 @@
       "duration_ms": 168205,
       "name": "DREAM ABOUT YOU",
       "url": "https://open.spotify.com/track/69Jde9lxc16qGyG5iYncuW"
+    },
+    {
+      "album": {
+        "name": "Dream Road",
+        "url": "https://open.spotify.com/album/0tpavY1s1hchFwtCC93tHN"
+      },
+      "artists": [
+        {
+          "name": "81an",
+          "url": "https://open.spotify.com/artist/2jQ3SyqsblMmflFJCRr5dn"
+        },
+        {
+          "name": "ALan",
+          "url": "https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma"
+        },
+        {
+          "name": "ISHNLV",
+          "url": "https://open.spotify.com/artist/5qZzS4qbriUwGeqoj8U1p3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Dream Road",
+      "url": "https://open.spotify.com/track/006xxgBdSswgtgXOks59u4"
     },
     {
       "album": {
@@ -683,10 +731,32 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 192141,
       "name": "Ghost of the Night",
       "url": "https://open.spotify.com/track/5kdJUmz4AmmSbHdFyIo4e8"
+    },
+    {
+      "album": {
+        "name": "Godlike",
+        "url": "https://open.spotify.com/album/62Tjmg675DC2B0Bphvh1x6"
+      },
+      "artists": [
+        {
+          "name": "SPVRROW",
+          "url": "https://open.spotify.com/artist/1LP8kdjz6NUjAiA4lGMgJF"
+        },
+        {
+          "name": "YUSHEE",
+          "url": "https://open.spotify.com/artist/79YDNnhemgMLv7ho55aLhi"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143292,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/5GGg5AYqHzwQqAEiCYdD9T"
     },
     {
       "album": {
@@ -741,7 +811,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 120700,
       "name": "HEAD-ON COLLISION",
       "url": "https://open.spotify.com/track/53bSmruH18GwdeQw40v8CS"
@@ -1383,7 +1453,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 140952,
       "name": "NOVA",
       "url": "https://open.spotify.com/track/5Rnv7W5R1eh6VIvBGbgIqd"
@@ -1764,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "The Creeps",
+        "url": "https://open.spotify.com/album/23TDQRMfrMD0W4nTiB1EuD"
+      },
+      "artists": [
+        {
+          "name": "GWRZTRMNR",
+          "url": "https://open.spotify.com/artist/5mqGv6vgs3ZMJbbBOvWtQi"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145481,
+      "name": "The Creeps",
+      "url": "https://open.spotify.com/track/4ZeHPxe1QYjYWWGC06gZ2P"
+    },
+    {
+      "album": {
         "name": "Sakura's Shadows",
         "url": "https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH"
       },
@@ -1869,7 +1957,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 133234,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/18D25d3voTo9ZaUh5Ij46I"

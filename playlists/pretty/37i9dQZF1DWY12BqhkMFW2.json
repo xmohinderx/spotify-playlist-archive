@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 314907,
+  "num_followers": 314887,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMGZkMTJkYTk4ZjJjNzcwYzhjZjZlODcwNDJkMjVjMGI4",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDQ0YWUwMDM4MWQyYzEyNzYyMzRlOTNhMzAxZWIwZGU2",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
-      },
-      "artists": [
-        {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
-        }
-      ],
-      "duration_ms": 335866,
-      "name": "The Love We Had (Stays On My Mind)",
-      "url": "https://open.spotify.com/track/1c5933EOm7iYCsbVLHNxq7"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 283093,
       "name": "Slow Jam (feat. Monica)",
       "url": "https://open.spotify.com/track/0VdSyCb1n7F5G0XkePzAlf"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Enter The Dru",
+        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "duration_ms": 335866,
+      "name": "The Love We Had (Stays On My Mind)",
+      "url": "https://open.spotify.com/track/1c5933EOm7iYCsbVLHNxq7"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "The Best Of O'Bryan",
-        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
-      },
-      "artists": [
-        {
-          "name": "O'Bryan",
-          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Love's In Need Of Love Today",
         "url": "https://open.spotify.com/album/067timXrQdiROAy7dHLpIP"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 252697,
       "name": "Love's In Need Of Love Today",
       "url": "https://open.spotify.com/track/6eCeCP4MhQGPNAKPi6YD9p"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Best Of O'Bryan",
+        "url": "https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1"
+      },
+      "artists": [
+        {
+          "name": "O'Bryan",
+          "url": "https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap"
     },
     {
       "added_at": "2021-01-15 05:01:00",

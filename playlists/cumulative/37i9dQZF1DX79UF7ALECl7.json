@@ -244,6 +244,28 @@
     },
     {
       "album": {
+        "name": "Blckdrss (Wann Remix)",
+        "url": "https://open.spotify.com/album/00paMSsFcxDvWGYJeABk0g"
+      },
+      "artists": [
+        {
+          "name": "Ruben Anthony",
+          "url": "https://open.spotify.com/artist/3k3iJjCQ4pq301YFvPS3iF"
+        },
+        {
+          "name": "DJ WANN",
+          "url": "https://open.spotify.com/artist/01J0W3sPVmigljRyr31obN"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213391,
+      "name": "Blckdrss (Wann Remix)",
+      "url": "https://open.spotify.com/track/6GaMRFAqCQ9aRBbpuJEEKU"
+    },
+    {
+      "album": {
         "name": "Blue Essay",
         "url": "https://open.spotify.com/album/5CeAYLrZSYs57HRvNYhkxk"
       },
@@ -887,7 +909,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 466398,
       "name": "Keep Me Satisfied",
       "url": "https://open.spotify.com/track/4YNHbvr4RfxsAWXIwSxyYs"
@@ -1019,7 +1041,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 224400,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/46qdT0wtTVMsPvpQnqdzPN"

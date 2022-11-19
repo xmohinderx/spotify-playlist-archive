@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 
 > Find your flow with these trap and lofi beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,171 likes - 146 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,152 likes - 146 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 | 22 | [You Came Back](https://open.spotify.com/track/5lqRURIS1rrL8KoyZQZWH4) | [Blurred Figures](https://open.spotify.com/artist/3vVw6m3rihy77VuqxApdLA), [fourwalls](https://open.spotify.com/artist/5eVIYwZMAOuB0QQB7dEWAx) | [Morning Coffee](https://open.spotify.com/album/6SyfRVMVetoCiUXBEzCJ0J) | 2:45 |
 | 23 | [Passenger](https://open.spotify.com/track/1M5Ib1CKTDV8OGEW02y9xS) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [After Life](https://open.spotify.com/album/6tAnYBib3ol7bjjqwI4d2u) | 2:36 |
 | 24 | [Mad Zach](https://open.spotify.com/track/3woe4qDqwttRfw1fSd5ZBk) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym), [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Push It](https://open.spotify.com/album/6pT0TyUeh21jmMHKuEzfCA) | 2:26 |
-| 25 | [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 |
+| 25 | [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 |
 | 26 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 |
 | 27 | [Summer Stained](https://open.spotify.com/track/3HiLkwp0J0uDr2aiEfRHcW) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Summer Stained](https://open.spotify.com/album/3E4UO3JT5jSozGAwiFLpJF) | 2:40 |
 | 28 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 | 145 | [Escape](https://open.spotify.com/track/6PWv11SoxcweLVpUetusTO) | [RudeLies](https://open.spotify.com/artist/6u2hgxrLYevPlPhOfcgVW8) | [Escape](https://open.spotify.com/album/3YluATDG7yRXXm5VlYPnF0) | 3:12 |
 | 146 | [Dirt Rhode](https://open.spotify.com/track/0OjrqFG58yjrB01lDkVjJL) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Dirt Rhode](https://open.spotify.com/album/61uS0CiEDftWmp0hjdXwgm) | 3:05 |
 
-Snapshot ID: `MTY2ODE4OTk4MSwwMDAwMDAwMGM2ZmU3YTJlZDAwOWNjZGM2NzZjNTg1MThhMGFhY2Fm`
+Snapshot ID: `MTY2ODE4OTk4MSwwMDAwMDAwMDU3ODQxOTdlYmRjOGYyMTEwNTNkNzE0MjhjOTFiYWEy`

@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "Love Gloom",
+        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
+      },
+      "artists": [
+        {
+          "name": "Night Riots",
+          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235334,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5iRNyVceIz0DTdpSafiBM8"
+    },
+    {
+      "album": {
+        "name": "Love Gloom",
         "url": "https://open.spotify.com/album/12TKPek1DiFYRS8m1Y5Utt"
       },
       "artists": [
@@ -4639,7 +4657,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 210943,
       "name": "The Youth",
       "url": "https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb"

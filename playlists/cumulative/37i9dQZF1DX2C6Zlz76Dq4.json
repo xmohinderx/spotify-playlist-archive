@@ -2538,6 +2538,24 @@
     },
     {
       "album": {
+        "name": "There's A New Kid In Town",
+        "url": "https://open.spotify.com/album/7LdLdYeSwwfVup5BiOC2Cz"
+      },
+      "artists": [
+        {
+          "name": "Buddy Jewell",
+          "url": "https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247007,
+      "name": "There's A New Kid In Town",
+      "url": "https://open.spotify.com/track/2ne8u5exMLNVd35NCSszEU"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/7FTOK16cl28fhMAY0oLbqf"
       },

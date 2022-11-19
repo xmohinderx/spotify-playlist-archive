@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 
 > Soak up the atmosphere of a Greek taverna on a warm summer’s evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,003 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,959 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 18 | [Sinefiasmeni Kiriaki \- Zeibekikos Dance](https://open.spotify.com/track/54Oya6YlHI9E1A0C2eY2ax) | [Paraskevas Grekis](https://open.spotify.com/artist/465N3DpknRAAfD6Xwa6Yne) | [Greece \- Grèce : Collection Paraskevas Grekis, Vol.1](https://open.spotify.com/album/1LgYLitSkEKCMmEtJC56dh) | 3:39 |
 | 19 | [Mas Horissan oi Thalasses \- Instrumental](https://open.spotify.com/track/3POQveelN8PBi7NVc2UW3G) | [DROMOS bouzouki band](https://open.spotify.com/artist/5YbTrYrYKit0wyxYdcUQJ2) | [Rempetika & Bouzouki Instrumentals](https://open.spotify.com/album/47KFXtI5AMf270ydN5SvqA) | 2:36 |
 | 20 | [Anemos eisai](https://open.spotify.com/track/66beesQRvXONR3HTw5ofim) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Glykeria](https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f) | [The Art of the Greek Bouzouki](https://open.spotify.com/album/17QhFoIxLEwfZeOpWDAZ9p) | 3:24 |
-| 21 | [I Hantres \- The Beads](https://open.spotify.com/track/1jqaiJk82MfUgTty69C3UB) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Hilies Vradies Me Ton Mimi Plessa](https://open.spotify.com/album/7FOw9LHgjX1bNzHgMio8Ko) | 2:34 |
+| 21 | [Oi Handres \(Oi Thalassies Sou Oi Handres\) \- Instrumental](https://open.spotify.com/track/1jqaiJk82MfUgTty69C3UB) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Hilies Vradies Me Ton Mimi Plessa](https://open.spotify.com/album/7FOw9LHgjX1bNzHgMio8Ko) | 2:34 |
 | 22 | [Prosopa Byzantina](https://open.spotify.com/track/3Bx2MZ5n7TsrRKVK0HkLnc) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Best Greek Songs](https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud) | 4:05 |
 | 23 | [Geia Sas Triantafilla](https://open.spotify.com/track/0zmLoraof2pdilDFhrmRQP) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl), [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj) | [Best Greek Songs](https://open.spotify.com/album/1MttZ0N5RZSycoc017Frud) | 2:51 |
 | 24 | [Ta teichi](https://open.spotify.com/track/19wGZ8XA8SRPBBhfHyHJBD) | [Michalis Terzis](https://open.spotify.com/artist/5v8x1R1CLsuQN1U2H1IMZj), [Glykeria](https://open.spotify.com/artist/0GBKwLQdkZ6tml0ssOSQ4f) | [The Art of the Greek Bouzouki](https://open.spotify.com/album/17QhFoIxLEwfZeOpWDAZ9p) | 3:26 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3CjvCIWRfv0.md) - [plain]
 | 49 | [Sta chronia tou othona](https://open.spotify.com/track/3oZsIec6Yiuct4ekuz0J0a) | [Athenians, The](https://open.spotify.com/artist/0p2otK85GEjMMtOhqyZFsg) | [The Athenians: 20 Best Syrtakis From Greece](https://open.spotify.com/album/0mFWAvF8RpbrvM5NbXVwqB) | 4:21 |
 | 50 | [Epanastassi](https://open.spotify.com/track/1q79mgEalHhTlxNzKdMb4Q) | [Paraskevas Grekis](https://open.spotify.com/artist/465N3DpknRAAfD6Xwa6Yne) | [Honeymoon In Greece](https://open.spotify.com/album/0CAGEPh8Bm2KWovWfWT6wu) | 3:00 |
 | 51 | [Bahar](https://open.spotify.com/track/0jl26eUSL4h3j5twC1rc1a) | [Makis Ablianitis](https://open.spotify.com/artist/441XgNwIQLvm8YUVGThtfY) | [Bahar](https://open.spotify.com/album/13eSdUdJjhQqymlS21R0jp) | 3:19 |
-| 52 | [To Agalma \- The Statue](https://open.spotify.com/track/0Dj0CpO4FGxhkSttZbQTP4) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Hilies Vradies Me Ton Mimi Plessa](https://open.spotify.com/album/7FOw9LHgjX1bNzHgMio8Ko) | 2:31 |
+| 52 | [To Agalma \- Instrumental](https://open.spotify.com/track/0Dj0CpO4FGxhkSttZbQTP4) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I), [Bouzouki Kings](https://open.spotify.com/artist/4iVvG04w9XBch3kxXWMuxb) | [Hilies Vradies Me Ton Mimi Plessa](https://open.spotify.com/album/7FOw9LHgjX1bNzHgMio8Ko) | 2:31 |
 | 53 | [Zakinthos](https://open.spotify.com/track/7ibrET4jt5rwdfxYLToGnM) | [Evangelos Pitsiladis](https://open.spotify.com/artist/4jhXBUr0bnqcS8ZEHZmGyQ) | [Flash Light, Vol\. 3](https://open.spotify.com/album/0GKbffLWyyKXDpj2owMytS) | 1:36 |
 | 54 | [Diadromi \- Διαδρομη](https://open.spotify.com/track/6UOpzQwA41tGAIlO7L5EPN) | [Giorgos Dramalis](https://open.spotify.com/artist/6ROEvbtPzjbMnMtnvG5uVo) | [Eight Strings \- 8 Χορδές \- Bouzouki instrumentals](https://open.spotify.com/album/1Veqlc0QYawzklbM7D6edj) | 5:02 |
 | 55 | [Hassapiko \- Instrumental](https://open.spotify.com/track/3KjYYrdw7sVzNOUfoFVapa) | [DROMOS bouzouki band](https://open.spotify.com/artist/5YbTrYrYKit0wyxYdcUQJ2) | [Rempetika & Bouzouki Instrumentals](https://open.spotify.com/album/47KFXtI5AMf270ydN5SvqA) | 3:24 |

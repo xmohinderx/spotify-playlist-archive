@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-256 songs - 16 hr 45 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+258 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Gary Ashby](https://open.spotify.com/track/30erf27MriGIsvb4rzria6) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Gary Ashby](https://open.spotify.com/album/5dxQzy2zP6VnJ8jTKYufRZ) | 2:10 | 2022-09-14 | 2022-10-13 |
 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 | 2022-07-13 | 2022-08-25 |
 | [Get Unjaded](https://open.spotify.com/track/1m0nXuiaV7upWw9cKpFdke) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Get Unjaded](https://open.spotify.com/album/1HngNkeiOBfm3lGb0bdKBo) | 3:16 | 2022-10-20 |  |
+| [Gettin' to the Point \- David Holmes Remix](https://open.spotify.com/track/1IvXWS35GRqrgO592lf0uq) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI), [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Reset \(Expanded Edition\)](https://open.spotify.com/album/2NBfIDWmLkz0fZGl0993SK) | 5:36 | 2022-11-18 |  |
 | [Gettin’ to the Point](https://open.spotify.com/track/6pZOH8IcAfdSTXNMBs3pg6) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Reset](https://open.spotify.com/album/20NAtKWWeyYn9QIzOejT0Y) | 2:30 | 2022-08-17 | 2022-10-07 |
 | [Ghost On](https://open.spotify.com/track/512vqW0xDLcWjWD2tc46xd) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:20 | 2022-06-08 | 2022-07-21 |
 | [Ghosts](https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:53 | 2022-07-06 | 2022-08-11 |
@@ -126,6 +127,7 @@
 | [Hips \- Loraine James Remix](https://open.spotify.com/track/26VIhDNSWMxf2FBaTLQEeI) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Highgrade](https://open.spotify.com/album/265QPtbwG6htcTXh3GBk9z) | 3:17 | 2022-06-17 | 2022-08-11 |
 | [History Lesson Part 2](https://open.spotify.com/track/4DGbJMzedFZAuT40Uq4NDC) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [History Lesson Part 2](https://open.spotify.com/album/7AURzANDD0wbB1oJvUNXUG) | 2:10 | 2022-11-02 |  |
 | [Hold Out For Love](https://open.spotify.com/track/3IY93jU8blpXFloxgWSj5s) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [Hold Out For Love](https://open.spotify.com/album/6Q0WIu35um29zR11UKxBIc) | 3:09 | 2022-10-17 |  |
+| [Horse and Rider](https://open.spotify.com/track/3MTAL84biLO6aTXOuSPVvC) | [Richard Dawson](https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml) | [The Ruby Cord](https://open.spotify.com/album/4QwVU6l2cdR646QdT6z66i) | 7:54 | 2022-11-18 |  |
 | [Hysteria](https://open.spotify.com/track/0tCgJnSBX2A6vB8KMP7p1A) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 4:03 | 2022-10-12 | 2022-11-10 |
 | [Höstens Färger](https://open.spotify.com/track/3OGOiGoPT72xrse02X6Btw) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Är För Mycket Och Tusen Aldrig Nog](https://open.spotify.com/album/7DmBpVv1p9SemMSn7bqGyj) | 3:30 | 2022-10-12 |  |
 | [I Ain’t Quite Where I Think I Am](https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:11 | 2022-10-26 |  |

@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-166 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+167 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Breaking News](https://open.spotify.com/track/7b4PA6QeHODOBZ3uOamuHG) | [Daly](https://open.spotify.com/artist/3f9kMCz94xuAamS24WbmGL), [Railfé](https://open.spotify.com/artist/3TA0DO95SXcr3GDsQCHuNU), [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [Breaking News](https://open.spotify.com/album/0zKHxF5htpYQMhExjG8UW5) | 3:48 | 2022-10-13 |  |
 | [Bubble It](https://open.spotify.com/track/175UQjCdeBnpQe5O0LeWGG) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Bubble It](https://open.spotify.com/album/6Fz02VzDbrRtfDpyTwKq45) | 2:52 | 2022-09-15 |  |
 | [Buddy](https://open.spotify.com/track/4T8NIH0KF7vKiNUtOhqJ2d) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Buddy](https://open.spotify.com/album/1Z9QBNnfFvtRIJZqwRBd6R) | 2:37 | 2021-12-22 | 2022-01-07 |
+| [Bulletproof Skin](https://open.spotify.com/track/7CyszM5ZobMrQx1Obcv4K3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [The Fuse Is Lit](https://open.spotify.com/album/5wGsdUOBWY4hiJJ2c2Vpu6) | 3:34 | 2022-11-17 |  |
 | [Buss Out](https://open.spotify.com/track/2zr3g8dwrsRc30SXAYJjnv) | [CRAAZY](https://open.spotify.com/artist/7zBL53SPAeG7OObxZH6Lxd), [WAH WAAH](https://open.spotify.com/artist/6Xv9wB1rxazucdkzKMcHMG) | [Buss Out](https://open.spotify.com/album/5EDfw383RolFVbzUXCAVSm) | 2:44 | 2022-06-02 | 2022-10-07 |
 | [Buzz](https://open.spotify.com/track/7dNKk2V4bD0MXdBhh1PLmR) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buzz](https://open.spotify.com/album/2ByFERdFOCwLIyxXfz1an5) | 2:02 | 2022-05-20 |  |
 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 | 2022-03-10 | 2022-09-09 |

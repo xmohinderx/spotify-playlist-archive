@@ -2,9 +2,9 @@
 
 ### [Housewerk](https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W)
 
-> <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Mau P
+> <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Honey Dijon
 
-426 songs - 1 day 1 hr 51 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+427 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [It Is What It Is \(feat\. Elise LeGrow\)](https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq) | 2:44 | 2021-03-27\* | 2021-05-03 |
 | [It's A Killa](https://open.spotify.com/track/0bsdfTgzxOPN4RcZcGJJ3t) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/49AE9IzLRAdoUU1ZGfYl7G) | 3:20 | 2022-03-11 | 2022-07-29 |
 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 | 2022-05-27 |  |
+| [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2022-11-18 |  |
 | [Its Time to Move](https://open.spotify.com/track/4qK9g7RGoHCUpfbGu3Mlf4) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/0oj8l35AnHn2buWFdhFHJy) | 4:00 | 2021-10-01 | 2022-08-26 |
 | [I’ve Been Missing You](https://open.spotify.com/track/7tRNDdDcUQqrOPHfIIbzGd) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [I’ve Been Missing You](https://open.spotify.com/album/3Y614SkU3oFcKgfQmnzYCV) | 2:47 | 2021-07-25 | 2022-07-25 |
 | [Jack Machine](https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Jack Machine](https://open.spotify.com/album/3kVnyuakYWhlGwZHrmIBn3) | 3:07 | 2022-01-12 | 2022-07-27 |
@@ -330,7 +331,7 @@
 | [Saving Grace](https://open.spotify.com/track/2E7BbDuEdhPuOvomfdjuqt) | [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [HAUS Psychology](https://open.spotify.com/album/2Z5zloAArJs9EwzExaSysu) | 4:40 | 2021-03-27\* | 2021-05-15 |
 | [Set U Free](https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Set U Free](https://open.spotify.com/album/79A3D20E7zPX5MmXPYBuDb) | 2:34 | 2021-04-10 | 2022-04-21 |
 | [Sete](https://open.spotify.com/track/5B4gUqNKYgU38ULSWP5Bzj) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete](https://open.spotify.com/album/2dUSIzfLEgYB3QJB2Vt8j3) | 3:29 | 2022-03-28 |  |
-| [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-01-14 |  |
+| [Sextacy](https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Sextacy](https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6) | 2:33 | 2022-01-14 | 2022-11-19 |
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-07-01 | 2022-10-29 |
 | [Shaolin Dreams](https://open.spotify.com/track/2sGFufjNzWIVBp5vRR7Sgm) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Shaolin Dreams](https://open.spotify.com/album/43xx4WgDHH1gCUVdDZoiq5) | 4:28 | 2021-07-31 | 2022-04-18 |
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 | 2022-09-30 |  |

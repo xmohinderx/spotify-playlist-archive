@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain](/playlists/plain/37i9dQZF1DWTAtTdFMiJYK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTAtTdFMiJYK)
 
-### [Radar India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
+### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
 > Most exciting artists from the Indian Indie scene\. Cover : Twin Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,228 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,196 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
 | 75 | [Safar](https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0) | [Usman Shaikh](https://open.spotify.com/artist/2YyTy4oKKkjKlRg0MKQsOl) | [Safar](https://open.spotify.com/album/7sTEKrKGCXyMFcfvZj4gFC) | 3:54 |
 
-Snapshot ID: `MTY2ODY3MDU4OCwwMDAwMDAwMGQyZTA4M2NmMDIwNzk1NmYyZTY2ZGQwYzNlZDIzYzgz`
+Snapshot ID: `MTY2ODc1NzEzMiwwMDAwMDAwMGJkNGZjZDI5ZDYwZjdiNWIyNWNlMDgyYWU1NDA1MTQ0`

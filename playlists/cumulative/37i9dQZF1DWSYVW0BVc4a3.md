@@ -2,7 +2,7 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> Rave season is upon us\. Cover: ARTBAT
+> The home of rave worthy melodic techno and house\. Cover: ARTBAT
 
 233 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 

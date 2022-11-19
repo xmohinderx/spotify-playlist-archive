@@ -4,7 +4,7 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-99 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+100 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Fire](https://open.spotify.com/track/7ey8VyqgIjVqXQWM2kWkZM) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 4:02 | 2021-11-05 |  |
 | [for the rest of my life](https://open.spotify.com/track/3PU3Ya7940NxSbEeYj8S7I) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [for the rest of my life](https://open.spotify.com/album/5we2bXIhFBbDo6RIp6dgCZ) | 3:29 | 2022-05-25 | 2022-07-28 |
 | [Freak Talk](https://open.spotify.com/track/5QJjQ76bsrkgMvnNZcBJ4W) | [Pair](https://open.spotify.com/artist/7HvSiU7x2XWTNJem7Cb36b) | [Freak Talk](https://open.spotify.com/album/1ZYGkhnvvgNNMAsoK6lxu0) | 3:42 | 2022-04-11 | 2022-06-21 |
-| [Friday](https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob) | [Roy Ford](https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA) | [Friday](https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc) | 3:02 | 2022-08-22 |  |
+| [Friday](https://open.spotify.com/track/3ez3Ey6MYOrwdhamXfwjob) | [Roy Ford](https://open.spotify.com/artist/5gpHAaJzkaLSv0iT2YumRA) | [Friday](https://open.spotify.com/album/3tN72V1QkX2fR2EfoJjTmc) | 3:02 | 2022-08-22 | 2022-11-19 |
 | [Galangal](https://open.spotify.com/track/5OLRXDqHZqY00WcgwqnLYa) | [UOKAYE](https://open.spotify.com/artist/3XDN1ATIMXPVRmK6DmdjNx), [Sei](https://open.spotify.com/artist/2yVmMS1J22h49MU2yHQGJb) | [Galangal](https://open.spotify.com/album/3zpKgBawn2BAxkDnF6setV) | 2:48 | 2022-07-13 | 2022-09-29 |
 | [girl](https://open.spotify.com/track/68aPLEBwJmpYMuurXihCct) | [Fennec](https://open.spotify.com/artist/2qtBblNCKBjfVZpIyhyyRN) | [girl](https://open.spotify.com/album/3Y9TCovTQDugO12HmXeW0S) | 2:55 | 2022-09-19 |  |
 | [grandson](https://open.spotify.com/track/1Ztzzizm7xvOtbOWgPnMT0) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [mynameisleonidas](https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h) | 3:07 | 2022-09-28 |  |
@@ -57,6 +57,7 @@
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 |  |
 | [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 |  |
 | [Lava In The Sky](https://open.spotify.com/track/6DcENaDftcPkVz3fJlnCPD) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/2sQox30QKJooM9auXi0z8v) | 3:11 | 2022-09-23 |  |
+| [Lava In The Sky \- Club Edit](https://open.spotify.com/track/2LHBPXrnwl2A1uwWkR9eZF) | [Selbor](https://open.spotify.com/artist/2Fwpx3BZ4GdGQwd1cXVy4t) | [Lava In The Sky](https://open.spotify.com/album/5xhJnDqJLk1CJtdvuSOXBu) | 4:13 | 2022-11-18 |  |
 | [Leather Free Seats](https://open.spotify.com/track/3j0BVE17Uq6nW9XYJRfXAf) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [Leather Free Seats](https://open.spotify.com/album/3GZvFemzsIFVRjayknmOEl) | 3:33 | 2022-06-15 | 2022-09-03 |
 | [Lifeboat](https://open.spotify.com/track/5bRuN9292QEQbwPXvbAWEf) | [Gallago](https://open.spotify.com/artist/1fhwDatVdLS9Y7IpP0jfK6) | [Lifeboat](https://open.spotify.com/album/1qsHZAJBNUvYZ1GcWGf96Y) | 4:46 | 2021-11-05 |  |
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 |  |

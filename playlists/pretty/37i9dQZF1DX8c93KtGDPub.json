@@ -1,12 +1,12 @@
 {
   "description": "Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now. Cover: She & Him\n",
-  "num_followers": 77938,
+  "num_followers": 78040,
   "original_name": "Folksy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyOTAyMiwwMDAwMDAwMDNjODQ4NmU2NGEzZTFhNmY5ZWEyMThhODliYTI3ZGJi",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDZmM2YwZGFhZWYwYWZhMTBmNzU4M2JjM2UyYWU5Nzli",
   "tracks": [
     {
       "added_at": "2022-11-15 16:17:02",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/0NtG3wF1OMkitdXQsJ3cgm"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 212634,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5lCpu4mVtJtqTAvuyTCfvm"
+    },
+    {
       "added_at": "2022-11-15 16:17:02",
       "album": {
         "name": "Fairytale of New York",
@@ -723,6 +739,22 @@
       "duration_ms": 182334,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/6XYlGIZ5FJVPcsMEvapuO8"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Trim This Tree",
+        "url": "https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 235720,
+      "name": "Trim This Tree",
+      "url": "https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y"
     },
     {
       "added_at": "2022-11-15 16:17:02",

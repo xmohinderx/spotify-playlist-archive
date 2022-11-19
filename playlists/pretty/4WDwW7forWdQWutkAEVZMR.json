@@ -6,8 +6,244 @@
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTc0Niw4MjUzMzBkNDVlNTc0YjQyY2E2OTQzZGQ0MWYyMTQwMDJjN2U5OTU0",
+  "snapshot_id": "NTc3Nyw1ZTBlZTdiMDJjYzdiYWNhNjVmZGVlMGIxMjI2ZTc2Zjg4MTVhOTFl",
   "tracks": [
+    {
+      "added_at": "2022-11-18 15:09:20",
+      "album": {
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
+    },
+    {
+      "added_at": "2022-11-18 15:11:25",
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+    },
+    {
+      "added_at": "2022-11-18 15:12:33",
+      "album": {
+        "name": "thank you wisdom angel i love you",
+        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "silver second",
+      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
+    },
+    {
+      "added_at": "2022-11-18 15:10:09",
+      "album": {
+        "name": "bugging!",
+        "url": "https://open.spotify.com/album/4T2jVpTQ1a0sX09kQmMfOM"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "bugging!",
+      "url": "https://open.spotify.com/track/6OckTB2amWc3Jfa47Zg01U"
+    },
+    {
+      "added_at": "2022-11-18 15:09:47",
+      "album": {
+        "name": "Ciao Papa - Guillermo del Toro's Pinocchio (Soundtrack From The Netflix Film)",
+        "url": "https://open.spotify.com/album/1WlQT5lgA67KU832HWPAcE"
+      },
+      "artists": [
+        {
+          "name": "Gregory Mann",
+          "url": "https://open.spotify.com/artist/75HkCZEX8TSyFqh0PkXaa7"
+        }
+      ],
+      "duration_ms": 171229,
+      "name": "Ciao Papa",
+      "url": "https://open.spotify.com/track/4fqeUI4rGCjzrUwyTlOoeQ"
+    },
+    {
+      "added_at": "2022-11-18 15:10:49",
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
+      },
+      "artists": [
+        {
+          "name": "Kim Dracula",
+          "url": "https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu"
+    },
+    {
+      "added_at": "2022-11-18 15:10:26",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/6UzslWL3AfRn8ztwhoi3A0"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 199197,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4oq3tX84ORLSyoL5PgRXPE"
+    },
+    {
+      "added_at": "2022-11-18 15:11:04",
+      "album": {
+        "name": "nevermind (feat. MASN)",
+        "url": "https://open.spotify.com/album/3Y7KO4xUoRgTjPbKhxCrtl"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "MASN",
+          "url": "https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "nevermind (feat. MASN)",
+      "url": "https://open.spotify.com/track/2QaVQ2iZLJJY4JkYO71duN"
+    },
+    {
+      "added_at": "2022-11-18 15:11:53",
+      "album": {
+        "name": "Snow in LA",
+        "url": "https://open.spotify.com/album/6hIOoYqKSj7mkiKrGmjOZ5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Snow in LA",
+      "url": "https://open.spotify.com/track/45U9s9fNLj4hCShYaHmr98"
+    },
+    {
+      "added_at": "2022-11-18 15:15:14",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/2kX23j2gb8cqi1SZa8uV7G"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "duration_ms": 154219,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/55jvLkScZD8JFAUbW5CH3L"
+    },
+    {
+      "added_at": "2022-11-18 15:12:11",
+      "album": {
+        "name": "Text Back",
+        "url": "https://open.spotify.com/album/4qhYtmPkDsuO30jNquP0FD"
+      },
+      "artists": [
+        {
+          "name": "Onlybino!",
+          "url": "https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Text Back",
+      "url": "https://open.spotify.com/track/2xmU8ii53tgYxuy0dxvtf0"
+    },
+    {
+      "added_at": "2022-11-18 15:13:11",
+      "album": {
+        "name": "might be this",
+        "url": "https://open.spotify.com/album/3FD2pSWRasKAO0wb31low4"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "might be this",
+      "url": "https://open.spotify.com/track/4iOCUx2BEvgLpEPv4uxrDY"
+    },
+    {
+      "added_at": "2022-11-18 15:13:32",
+      "album": {
+        "name": "156 Hudson",
+        "url": "https://open.spotify.com/album/4M0kQqQhLtNtOmBQ2XhTi5"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "156 Hudson",
+      "url": "https://open.spotify.com/track/0RI9xDjzqBCpnA6kKxqyGB"
+    },
+    {
+      "added_at": "2022-11-18 15:12:54",
+      "album": {
+        "name": "Not Mine",
+        "url": "https://open.spotify.com/album/2UOCKgxyChxxG7Xfm4RkjE"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "Not Mine",
+      "url": "https://open.spotify.com/track/3nTJgNAH9A2oRA9IprpTl1"
+    },
     {
       "added_at": "2022-11-11 15:24:06",
       "album": {
@@ -23,138 +259,6 @@
       "duration_ms": 187400,
       "name": "Turn Back the Hands of Time",
       "url": "https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa"
-    },
-    {
-      "added_at": "2022-11-11 15:38:17",
-      "album": {
-        "name": "Give You What You Want",
-        "url": "https://open.spotify.com/album/49OQ6tF3eo3Fdgp3GMhHep"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 159330,
-      "name": "Give You What You Want",
-      "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
-    },
-    {
-      "added_at": "2022-11-11 15:24:47",
-      "album": {
-        "name": "1 On 3 (feat. Rvssian)",
-        "url": "https://open.spotify.com/album/3F6GpeUViLprCorwucXYmQ"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "1 On 3 (feat. Rvssian)",
-      "url": "https://open.spotify.com/track/5APTC8XAiHLn89cpgWqrWl"
-    },
-    {
-      "added_at": "2022-11-11 15:41:06",
-      "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
-    },
-    {
-      "added_at": "2022-11-11 15:25:16",
-      "album": {
-        "name": "CESSATION",
-        "url": "https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "28",
-      "url": "https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN"
-    },
-    {
-      "added_at": "2022-11-11 15:24:25",
-      "album": {
-        "name": "Creme Brulee",
-        "url": "https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 112207,
-      "name": "Creme Brulee",
-      "url": "https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI"
-    },
-    {
-      "added_at": "2022-11-11 15:38:44",
-      "album": {
-        "name": "IOTA",
-        "url": "https://open.spotify.com/album/3bHBzNSc5wHgedsW4m9Ykn"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "La money",
-      "url": "https://open.spotify.com/track/3C0NbYg52qoQtUovS9lC3b"
-    },
-    {
-      "added_at": "2022-11-11 15:39:00",
-      "album": {
-        "name": "perfect",
-        "url": "https://open.spotify.com/album/0ua5B7cz95gaRzhasuBurK"
-      },
-      "artists": [
-        {
-          "name": "Zevia",
-          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "perfect",
-      "url": "https://open.spotify.com/track/1O2P4wYlTnQ44osWR5KABJ"
-    },
-    {
-      "added_at": "2022-11-11 15:37:30",
-      "album": {
-        "name": "Viene Amaneciendo (En Vivo)",
-        "url": "https://open.spotify.com/album/1fBCMDo3JzXSoDlsMGhclL"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 238909,
-      "name": "Viene Amaneciendo - En Vivo",
-      "url": "https://open.spotify.com/track/71JTHs6WC8dCgFMA6nfugt"
     },
     {
       "added_at": "2022-10-28 14:39:42",

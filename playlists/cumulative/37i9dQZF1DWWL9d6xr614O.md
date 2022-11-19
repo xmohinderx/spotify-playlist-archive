@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/1AWPIzLVFnRvUKsNdG97PL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/7qXTIRbsNuTB1Jlnx3WfMn) | 2:58 | 2022-04-15 |  |
-| [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/6DbXxaqDbuh6WXTWnPQh47) | 2:58 | 2022-11-03 | 2022-11-13 |
+| [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/1AWPIzLVFnRvUKsNdG97PL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/7qXTIRbsNuTB1Jlnx3WfMn) | 2:58 | 2022-04-15 | 2022-11-19 |
+| [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/6DbXxaqDbuh6WXTWnPQh47) | 2:58 | 2022-11-03 |  |
 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/34r6cLVbeT4UoPgTRSBIE0) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/album/00rMWiOm3uX2yNcvsvLns4) | 2:58 | 2022-04-15 | 2022-07-29 |
 | [Age to Age](https://open.spotify.com/track/1bhqpLlmbpvOVcFNx0CQ8Y) | [Living Word Christian Music](https://open.spotify.com/artist/38OYSwcUYA1udLHszdRFAn), [Ferdinand Aragon](https://open.spotify.com/artist/199ECS30J1oOc3Ftz93dsk), [Delight Grace](https://open.spotify.com/artist/2H1kZsKy72sPXPNTIhsB3T) | [Age to Age](https://open.spotify.com/album/6RiosIiIQrqNjPnSAZINqd) | 5:29 | 2022-04-15 |  |
 | [AIK](https://open.spotify.com/track/00ByIMCGwbb50bOaZNwjQQ) | [JC Ronato](https://open.spotify.com/artist/4cgXg3h3kODZFxAnCW11vq) | [AIK](https://open.spotify.com/album/1w1vPLFbFyaSOh2dyzdzS0) | 4:39 | 2022-04-15 |  |

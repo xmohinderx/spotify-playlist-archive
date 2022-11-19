@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 200746,
       "name": "Another December",
       "url": "https://open.spotify.com/track/0vGvie247As4QVcq7z3o64"
@@ -327,6 +327,24 @@
       "duration_ms": 157733,
       "name": "Baby It's Cold Outside",
       "url": "https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F"
+    },
+    {
+      "album": {
+        "name": "Back Home Christmas",
+        "url": "https://open.spotify.com/album/14nKYXwTDf1eZoEdnWD501"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Back Home Christmas",
+      "url": "https://open.spotify.com/track/2rEVJTkweG9QW6HPXyDJI4"
     },
     {
       "album": {
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217746,
       "name": "Don't You Know It's Christmas",
       "url": "https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 181080,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/4z1pZgbzHeNjkVi2U4wyIL"
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 226000,
       "name": "Last Xmas",
       "url": "https://open.spotify.com/track/5Iylu9FEarJW7j3VXJO7UN"
@@ -2893,7 +2911,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 218461,
       "name": "Our Christmas",
       "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
@@ -3250,6 +3268,24 @@
     },
     {
       "album": {
+        "name": "Single On The 25th",
+        "url": "https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161184,
+      "name": "Single On The 25th",
+      "url": "https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16"
+    },
+    {
+      "album": {
         "name": "Sleigh My Name",
         "url": "https://open.spotify.com/album/40XkCmo1r0p2GVtCMYNpdQ"
       },
@@ -3511,7 +3547,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 249708,
       "name": "The Banister Bough",
       "url": "https://open.spotify.com/track/6AlGiqQMmOKEhUAopzUwFm"

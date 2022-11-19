@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 52788,
+  "num_followers": 52781,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDVmOWUzOWY0NzBlMWExMTFhMzIyNWM2ZmMxMmM0NDlh",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGNiMjQwNDNhN2Q3Mzg3OTIxOWFiYjc1YTA0MWU4ZWMx",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -71,6 +71,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Groove Society",
         "url": "https://open.spotify.com/album/2Wo73jPoFsRo6LNldU3GnP"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 183372,
       "name": "Groove Society",
       "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Dixon Presents Transmoderna Part 2/4",
-        "url": "https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g"
-      },
-      "artists": [
-        {
-          "name": "Ivory (IT)",
-          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
-        }
-      ],
-      "duration_ms": 399447,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 444514,
       "name": "Sununguka (feat. Zeke Manyika) - Alan Dixon Italo Mix",
       "url": "https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Dixon Presents Transmoderna Part 2/4",
+        "url": "https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g"
+      },
+      "artists": [
+        {
+          "name": "Ivory (IT)",
+          "url": "https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr"
+        }
+      ],
+      "duration_ms": 399447,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -723,6 +723,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Italo Disco",
+        "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
+      },
+      "artists": [
+        {
+          "name": "Lifelike",
+          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 409961,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Italo Disco",
-        "url": "https://open.spotify.com/album/0vZrlHYbxOtIMjQUmPGshi"
-      },
-      "artists": [
-        {
-          "name": "Lifelike",
-          "url": "https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/5TiwTIba6lYkRtv1IFxxIU"
     },
     {
       "added_at": "2021-08-27 15:45:01",

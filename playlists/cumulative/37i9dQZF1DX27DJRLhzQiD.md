@@ -4,7 +4,7 @@
 
 > Irepelusa y más mujeres, a todo volumen.
 
-124 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
+125 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Imposible Olvidarte](https://open.spotify.com/track/0yPN0chyb4wxdGdlHKBDqm) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Agua Bella y Sus Grandes Éxitos](https://open.spotify.com/album/2SumbKIZjNFcn3EcxcF2iG) | 4:11 | 2022-01-05 | 2022-08-27 |
 | [La Despedida](https://open.spotify.com/track/6nvSAlJjsVEwQnKgQcZSPC) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [La Despedida](https://open.spotify.com/album/3cAKi4HdARpyiDK949XOmH) | 3:14 | 2022-03-25 | 2022-04-29 |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2022-02-02 |  |
-| [La Flor de Canela](https://open.spotify.com/track/3WhQJVHA1ilGCE6x2HYdS4) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [The Platinum Collection](https://open.spotify.com/album/2LmwGG63vYukETIXU71Sc0) | 3:20 | 2022-07-06 |  |
+| [La Flor de Canela](https://open.spotify.com/track/3WhQJVHA1ilGCE6x2HYdS4) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [The Platinum Collection](https://open.spotify.com/album/2LmwGG63vYukETIXU71Sc0) | 3:20 | 2022-07-06 | 2022-11-19 |
 | [La Flor De La Canela](https://open.spotify.com/track/3ciDewwDbazjc7UnDtY4nA) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [Cada Cancion Con Su Razon](https://open.spotify.com/album/4Ofme8jRzdsKyDs8P6LQKa) | 3:21 | 2022-01-05 | 2022-07-29 |
 | [La Fuga](https://open.spotify.com/track/4ZtCVLrKsOqgLnAH5LDwSR) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [La Fuga](https://open.spotify.com/album/1oIV9BF8iGRioQOHkBrgjP) | 2:47 | 2022-02-02 | 2022-03-09 |
 | [La Luna](https://open.spotify.com/track/5xqKWqpuBAOyvfe75s5wXw) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [La Luna](https://open.spotify.com/album/4Sedu7CpoMOkORqFThFdto) | 3:22 | 2022-01-05 | 2022-02-03 |
@@ -113,6 +113,7 @@
 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 | 2022-07-06 |  |
 | [Si Quieres Tenerme](https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/4b9k435jzvtWVZ9OSM3QGA) | 3:27 | 2022-04-22 |  |
 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 | 2022-10-05 |  |
+| [Solterona](https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Solterona](https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4) | 2:59 | 2022-11-18 |  |
 | [Soñé Que Te Perdía](https://open.spotify.com/track/1lRdfGNjaSbz1ZobwU5Gig) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu) | [Soñé Que Te Perdía](https://open.spotify.com/album/45zhh8r9YUGApMnt6c6Yco) | 2:47 | 2022-02-02 | 2022-04-23 |
 | [Sé Como Duele](https://open.spotify.com/track/7a8ShNCakt6bJj1GhNEdYF) | [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX) | [Sé Como Duele](https://open.spotify.com/album/2GfGn4V16KyYJFtkKL4OHY) | 3:13 | 2022-02-02 | 2022-02-19 |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/3EEH5ZZ74BJ5TV3rQAPbLi) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Vas a Arrepentir](https://open.spotify.com/album/3Mn6khCVmpcSk7g5991JmR) | 4:12 | 2022-01-05 |  |

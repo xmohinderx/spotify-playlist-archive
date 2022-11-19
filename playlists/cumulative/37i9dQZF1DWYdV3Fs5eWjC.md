@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-107 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/0Yxcvo3ladWEVkD3pIGKnm)
+108 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/0Yxcvo3ladWEVkD3pIGKnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Culture](https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:08 | 2020-06-01 |  |
 | [dance in the mirror](https://open.spotify.com/track/3m2e3LEMygUgU2JbJ420Iu) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [dance in the mirror](https://open.spotify.com/album/2ZlTbvjRaw4Oc5DtwhtEo9) | 3:54 | 2021-06-01 | 2022-07-29 |
 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:09 | 2022-05-31 | 2022-11-17 |
+| [Dancing Queen](https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:09 | 2022-05-31 |  |
 | [Dangerous](https://open.spotify.com/track/00EKCASItEc0lfZwzWF34N) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu), [Kingsley Ibeneche](https://open.spotify.com/artist/1sCEBYdJIHnx6VNv7RN4Je) | [Dangerous](https://open.spotify.com/album/7G39CE2qnxYcW5H2rPlP1K) | 4:22 | 2021-06-01 | 2022-07-29 |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-06-25 | 2022-07-29 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-05-31 |  |
@@ -51,7 +52,7 @@
 | [Girl Blunt](https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Acrylic](https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl) | 3:25 | 2020-06-01 |  |
 | [Gold Digger \(feat\. Dess Dior\)](https://open.spotify.com/track/18BZfOTpruzkVJhDN7pair) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Gold Digger \(feat\. Dess Dior\)](https://open.spotify.com/album/6e6xXk3MF8Vysng5CYfKVB) | 3:37 | 2020-10-23 | 2022-07-25 |
 | [Got Her Own](https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:05 | 2020-06-01 | 2022-10-08 |
-| [Greed](https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Greed](https://open.spotify.com/album/4IljiFpC1WkmcFkQUbuL8L) | 3:45 | 2021-08-06 |  |
+| [Greed](https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Greed](https://open.spotify.com/album/4IljiFpC1WkmcFkQUbuL8L) | 3:45 | 2021-08-06 | 2022-11-19 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-23 |  |
 | [Green Line](https://open.spotify.com/track/3M6sO0Bsnb8qkrLvnMFuQn) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/6MZjMmvBQvPrxRrwN8qS7o) | 3:26 | 2022-05-31 |  |
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-05-31 | 2022-10-13 |

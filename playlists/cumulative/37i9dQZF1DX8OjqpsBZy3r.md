@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-135 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+136 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Salt, Lime & Tequila](https://open.spotify.com/track/4xpTjwZPnpB4FO8EJh0trf) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/630WEiYZ1baGeXgXSpuRCl) | 2:55 | 2021-12-03 | 2022-07-29 |
 | [Salt, Lime & Tequila](https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN) | 2:55 | 2022-07-25 | 2022-08-18 |
 | [Salt, Lime & Tequila](https://open.spotify.com/track/4BGvTMV2DIwIa4ixT37fnG) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Slow Down Sunrise](https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg) | 2:55 | 2022-07-25 |  |
+| [Sand in My Boots \(Female POV\)](https://open.spotify.com/track/3NoY2XJyHcfwYcg5bQc1Xu) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Sand in My Boots \(Female POV\)](https://open.spotify.com/album/4HDBdRqh0NpSR4KG3dsp8V) | 3:14 | 2022-11-18 |  |
 | [Sawin' Logs](https://open.spotify.com/track/1dkQGcf85MVCZE75TycROr) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Sawin' Logs](https://open.spotify.com/album/6FjQdtGDHRKcnghgPmj0bi) | 2:51 | 2021-12-03 | 2022-07-16 |
 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 | 2022-04-01 |  |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-28 |  |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-534 songs - 1 day 3 hr 52 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+535 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Love That We Need](https://open.spotify.com/track/58U52B6rDjT30RIquT51dE) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI), [Loyal](https://open.spotify.com/artist/46hRjZWANVDZXOV2WVODGI) | [Love That We Need](https://open.spotify.com/album/2zGvqQVpjRZRF7H08V5en5) | 2:57 | 2022-01-14 |  |
 | [Lovers Friends](https://open.spotify.com/track/23GHwhFGMi2mNTD4CtyOCA) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Daniel Nitt](https://open.spotify.com/artist/09PsKVFiuvklTBRCVAlSY2) | [Lovers Friends](https://open.spotify.com/album/5ToTpFY6Tex4ywkXSCx21P) | 3:45 | 2022-02-18 | 2022-04-20 |
 | [Lovers Friends \- Boy Kiss Girl Remix](https://open.spotify.com/track/3qGD5ja8Cr7C61MDYVBwDX) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Daniel Nitt](https://open.spotify.com/artist/09PsKVFiuvklTBRCVAlSY2), [Boy Kiss Girl](https://open.spotify.com/artist/1RblunviNfn4MvwPcAq96i) | [Lovers Friends \(Remixes\)](https://open.spotify.com/album/2eqszZBn0gcPXPdFUUGI21) | 3:47 | 2022-01-14 | 2022-04-16 |
-| [Loving You Forever](https://open.spotify.com/track/14WOYReC2KGZKGsjY7qiNk) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Loving You Forever](https://open.spotify.com/album/1wAN1IuFfQLiKKeXN4RH3R) | 2:21 | 2022-09-30 |  |
+| [Loving You Forever](https://open.spotify.com/track/14WOYReC2KGZKGsjY7qiNk) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Loving You Forever](https://open.spotify.com/album/1wAN1IuFfQLiKKeXN4RH3R) | 2:21 | 2022-09-30 | 2022-11-19 |
 | [Lucky Star](https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4) | [Sol Novaro](https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Lucky Star](https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN) | 3:12 | 2022-06-17 |  |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 |  |
 | [Maaya](https://open.spotify.com/track/6p8uFTidsF68EHK5p753gU) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Maaya](https://open.spotify.com/album/6eW0O5Pw4fGnyVBS3avc79) | 3:13 | 2022-01-14 | 2022-04-22 |
@@ -467,6 +467,7 @@
 | [Talk \(feat\. Askar and the Ghosts\)](https://open.spotify.com/track/1BIeWq1iSksVIhPcTU8kEx) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb), [Askar and the Ghosts](https://open.spotify.com/artist/0SfWul3n5Wk0sKSQUJSEz5) | [Talk \(feat\. Askar and the Ghosts\)](https://open.spotify.com/album/50e4v4nOVaI1kVEP1gB1ZU) | 2:57 | 2022-04-01 | 2022-11-12 |
 | [Talk About It](https://open.spotify.com/track/1XRTXNP8eLpWXfso8Q4dC5) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Talk About It](https://open.spotify.com/album/75VgBnyHLvSKfmWO3PRT11) | 2:44 | 2022-02-04 | 2022-04-21 |
 | [Talking About Love](https://open.spotify.com/track/1RU2RF3jSyU8o3QbOpTroT) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Trm](https://open.spotify.com/artist/0xgxHFPtkdFiW3QbexFoyW) | [Talking About Love](https://open.spotify.com/album/12kO1n6l5Vz1ihmgcG1NlE) | 3:27 | 2022-01-14 | 2022-04-21 |
+| [Talking To Myself](https://open.spotify.com/track/7h3qMzTqcJdM4Y6uqK9aoZ) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy), [Meynberg](https://open.spotify.com/artist/59a0J35YbYHfojR8iIpzuX) | [Talking To Myself](https://open.spotify.com/album/3UHI7iU3NHuheeFdbkvspv) | 2:11 | 2022-11-19 |  |
 | [Tear Me Down \(feat\. Philip Rustad\)](https://open.spotify.com/track/71UYuIZf0TeXAjyy72COVr) | [Davai](https://open.spotify.com/artist/0xZvYTiM5QT94j1abOm0nC), [Philip Rustad](https://open.spotify.com/artist/5U5Wgc7sVVNuUlLckaYMGr) | [Tear Me Down \(feat\. Philip Rustad\)](https://open.spotify.com/album/0RUNbRdWfIcWw8cawHYi1K) | 3:04 | 2022-01-14 |  |
 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 | 2022-01-14 |  |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-01-14 |  |

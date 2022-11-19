@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-520 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+522 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [evening](https://open.spotify.com/track/5DEhdsysvAgKaEse1YMDYa) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [evening](https://open.spotify.com/album/3iBvFy0IMlwBQXzxL07oCC) | 3:22 | 2021-12-23 | 2022-07-27 |
 | [Evening Stroll in Shibuya](https://open.spotify.com/track/1GVhKeYitcGUCarDWKve7S) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Evening Stroll in Shibuya](https://open.spotify.com/album/7D8sp1luG3dkCGOkzSpLFz) | 2:50 | 2021-12-23 | 2022-07-26 |
 | [eyes talk](https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [eyes talk](https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS) | 3:28 | 2022-03-17 |  |
-| [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 |  |
+| [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 |  |
+| [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |
 | [Feynman](https://open.spotify.com/track/34DPkGBdvuvCdNt0YaOsby) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Resynthesis \(Green\)](https://open.spotify.com/album/0bpJi2ZRRx8PNiD5qGEfO2) | 2:23 | 2022-03-24 | 2022-04-20 |
 | [find a way](https://open.spotify.com/track/4gdNaZ3GUe9mDGy5OZQAe4) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir) | [find a way](https://open.spotify.com/album/1h4KtvcjaJ7kVcs0M47ETp) | 3:14 | 2021-12-23 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/2HPAE9dtpbx385HdUySePp) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Seven Winds](https://open.spotify.com/album/6oePpBmzhdATyTLTAmPAjS) | 2:35 | 2021-12-23 | 2022-07-28 |
@@ -413,7 +414,7 @@
 | [SMOKY BANANA](https://open.spotify.com/track/2CKC1hxTqsasAycaaHFptf) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Fruit Panaché Tape](https://open.spotify.com/album/7kmQIiVm8pO92iiUiuUKlo) | 3:22 | 2022-01-13 | 2022-05-30 |
 | [snow in the park](https://open.spotify.com/track/3rbAMJkgzrVUv0s9oihOAU) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [snow in the park](https://open.spotify.com/album/6X1WlzgKrWhuBH2g8PqTi3) | 3:18 | 2021-12-23 |  |
 | [So Long \- Instrumental](https://open.spotify.com/track/4UvQOOyT1gGuTqxIw9tteA) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI) | [So Long \(Instrumental\)](https://open.spotify.com/album/2MCywuCm8XdhjuDIzFY4S5) | 3:10 | 2021-12-23 | 2022-07-19 |
-| [Something Holy](https://open.spotify.com/track/2nkg8R5laGOkrt5bzGo9pK) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Something Holy](https://open.spotify.com/album/3zYErvP9VfJ4I1wL42uPve) | 2:25 | 2022-08-11 |  |
+| [Something Holy](https://open.spotify.com/track/2nkg8R5laGOkrt5bzGo9pK) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Something Holy](https://open.spotify.com/album/3zYErvP9VfJ4I1wL42uPve) | 2:25 | 2022-08-11 | 2022-11-19 |
 | [sora no kanata](https://open.spotify.com/track/10g1elNvLdmdDgCzoJfwJY) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/1ueh8S99rxAHLIbMyTSOnK) | 3:18 | 2022-07-28 | 2022-08-01 |
 | [sora no kanata](https://open.spotify.com/track/220qwCrb8vPdRPQqzzG24l) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 3:18 | 2022-10-06 | 2022-10-15 |
 | [sora no kanata](https://open.spotify.com/track/5WTQJ99h1iioTt4RPhOX8g) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [sora no kanata](https://open.spotify.com/album/35qhWebItQ3GV3QS7o56Cw) | 3:18 | 2022-04-21 | 2022-07-29 |
@@ -426,7 +427,8 @@
 | [Spiritual State](https://open.spotify.com/track/1Q1onoQM04M590VO7aLOyt) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [The Champloo](https://open.spotify.com/artist/2qhjN0fdlNPZtCiP3MALRH) | [Spiritual State](https://open.spotify.com/album/3vJyN20ZkQ2x5YMjniVrwY) | 6:57 | 2022-04-21 |  |
 | [Spring Fever](https://open.spotify.com/track/0l5FtOj6LGeDykv7WM7gkR) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/5GSSACeC1W7lg7aN8d1qnk) | 4:03 | 2022-07-28 |  |
 | [Spring Fever](https://open.spotify.com/track/2k21QRkejIDUk5b7K9YA27) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [Spring Fever](https://open.spotify.com/album/7wFqHdaHXqzKDepQNoh5EZ) | 4:03 | 2021-12-23 | 2022-07-26 |
-| [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 |  |
+| [Star Lights](https://open.spotify.com/track/0ZvsCTEVn63usqC4Btqrvl) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/4hbeKG9EsVjY1Gbq8nyQVL) | 1:41 | 2022-11-17 | 2022-11-19 |
+| [Star Lights](https://open.spotify.com/track/42JJrR4kPouaRq8as9BrTI) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA) | [Star Lights](https://open.spotify.com/album/7oHXU8KZZGtIBTj5HspiwL) | 1:41 | 2022-11-17 |  |
 | [Starting point](https://open.spotify.com/track/0j1JcVzUyAUSJjuzzriAnv) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Starting point](https://open.spotify.com/album/18tf8ePtBy0DbHh771cSms) | 2:18 | 2021-12-23 | 2022-04-17 |
 | [Stay Around](https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Stay Around](https://open.spotify.com/album/6QYCTUgRSDhqOYqYVRKoA5) | 2:01 | 2022-04-07 |  |
 | [Stay Vision](https://open.spotify.com/track/3Gfh3KyQG1CXIUWkjHBSdh) | [Doubutsu System](https://open.spotify.com/artist/1rZhGbtNcaBkLQ9eRNcyd1) | [Stay Vision](https://open.spotify.com/album/4fFov7GjS6C2JBVWNcqKCZ) | 2:04 | 2021-12-23 | 2022-07-21 |
@@ -519,7 +521,7 @@
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2021-12-23 | 2022-07-28 |
 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 |  |
 | [you](https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [you](https://open.spotify.com/album/6BXt7Zi0lQpeG2MIrpVK7w) | 3:04 | 2021-12-23 | 2022-07-28 |
-| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 | 2022-11-11 |
+| [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 |  |
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |
 | [Yuzu](https://open.spotify.com/track/1IzeP9IJRMTu5edmoaHScF) | [H¥NOK¥](https://open.spotify.com/artist/4hCf7jwZpqSCKNqr8ZjR7k) | [Yuzu](https://open.spotify.com/album/0LqbxgFY5W58ebN81ocOyE) | 2:09 | 2021-12-23 | 2022-07-25 |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |

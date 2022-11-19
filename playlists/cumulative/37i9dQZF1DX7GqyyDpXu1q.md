@@ -2,9 +2,9 @@
 
 ### [Southern Comfort](https://open.spotify.com/playlist/37i9dQZF1DX7GqyyDpXu1q)
 
-> Rock swagger served neat\. Cover: Margo Price
+> Rock swagger served neat\. Cover: Nickelback
 
-173 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
+175 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alabama](https://open.spotify.com/track/4cudpEOpvt73zMfJSBoNut) | [Bishop Gunn](https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm) | [Natchez](https://open.spotify.com/album/5HK2nH0jtNPhdKaLAgaJMG) | 3:34 | 2022-06-14 |  |
 | [All I Need](https://open.spotify.com/track/0KHRg7jmV3xsoXGIymWtCY) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [All I Need](https://open.spotify.com/album/27qUt9dftUV8GpHGInKY21) | 3:02 | 2022-06-03 |  |
 | [Any Way The Wind Blows](https://open.spotify.com/track/06v3DtMzR1u8XwNkEy8OEp) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Any Way The Wind Blows](https://open.spotify.com/album/1uPRDVR48w703zWvbd0Jt5) | 3:01 | 2020-08-21 |  |
-| [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 |  |
+| [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 | 2022-04-08 | 2022-11-19 |
 | [As Cool As You Try](https://open.spotify.com/track/6a3nBvlRcPSc9Sv05jX7kE) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [As Cool As You Try](https://open.spotify.com/album/3yJPJxyBaXk2zNTCEkWLxu) | 3:36 | 2021-08-20 |  |
 | [BAD AT LOVE \- 2021 Mix](https://open.spotify.com/track/4acnzhPESUEQJBuLg3giSb) | [Smith & Myers](https://open.spotify.com/artist/3L7yYf09MZWuZhZl5e92Xe) | [BAD AT LOVE \(2021 Mix\)](https://open.spotify.com/album/5zrL2ksIQGzkwNmgW3GOHv) | 3:26 | 2021-06-11 | 2022-08-17 |
 | [Bad Guy](https://open.spotify.com/track/4X1hvTh0fBleqUlVkuoS5I) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [Bad Guy](https://open.spotify.com/album/1ARK8ZV5u7JcZcEpUG0Ux8) | 5:13 | 2022-01-04 |  |
@@ -66,6 +66,7 @@
 | [Everything You're Breathing For](https://open.spotify.com/track/5LzHQ5aVYK828HIWcnralK) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [And You Were A Crow](https://open.spotify.com/album/5cKSit160Ht2Iododg6sUQ) | 3:46 | 2020-08-21 |  |
 | [Fearless](https://open.spotify.com/track/7mvfSh2FqzHBv2uoLgoHME) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Fearless](https://open.spotify.com/album/07JymTZmXvEZnX1eknGIOq) | 3:08 | 2021-07-30 |  |
 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 | 2022-06-14 |  |
+| [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-18 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-06-03 |  |
 | [Gasoline](https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Gasoline](https://open.spotify.com/album/4DtfJUBNYhBvh9ahqIsKsd) | 3:59 | 2020-08-21 |  |
 | [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 | 2021-07-30 |  |
@@ -88,8 +89,9 @@
 | [Heavy Shoes](https://open.spotify.com/track/5CkCBRgNV3CgpyRa3CVsrX) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/0KlUUvWNagvZn3hLexfpFb) | 3:10 | 2021-06-11 | 2022-07-29 |
 | [Heavy Soul](https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Heavy Soul](https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162) | 3:02 | 2021-02-26 |  |
 | [High Road](https://open.spotify.com/track/3a8JgRmYWnREuCLkar4jMT) | [Black Heart Saints](https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE) | [High Road](https://open.spotify.com/album/687EnxJy2uBKIZj8RQdcv1) | 4:34 | 2022-03-21 |  |
+| [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 | 2022-11-18 |  |
 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 | 2021-06-25 |  |
-| [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2020-08-21 |  |
+| [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2020-08-21 | 2022-11-19 |
 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 | 2021-08-03 |  |
 | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Jon Harvey](https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN), [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye) | 3:40 | 2021-06-11 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-08-21 | 2022-06-15 |

@@ -1,13 +1,29 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 214081,
+  "num_followers": 213749,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU1NzY0NywwMDAwMDAwMDM4Yzk2ODUwMWQ3NmNhMzVmZGQ3Y2IzMWI4ZDY2MmQw",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMGYyNjQxMzUyNjc3MjRjN2U0MDE3YjIxMGJmMjNiNWE4",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The DJ Is Crying For Help",
+        "url": "https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "The DJ Is Crying For Help",
+      "url": "https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD"
+    },
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
@@ -281,6 +297,22 @@
       "url": "https://open.spotify.com/track/2BRdwCOzgzF0S1edWdCRUd"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Bless This Mess",
+        "url": "https://open.spotify.com/album/0DShhASR18vMDEA27fVa8o"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "duration_ms": 242789,
+      "name": "Bless This Mess",
+      "url": "https://open.spotify.com/track/07c1JDEzG7AQNci3xFFAAA"
+    },
+    {
       "added_at": "2022-10-21 23:40:01",
       "album": {
         "name": "Let You Break My Heart Again",
@@ -543,6 +575,22 @@
       "duration_ms": 205826,
       "name": "Meant to Be Yours",
       "url": "https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Queen of Ears",
+        "url": "https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA"
+      },
+      "artists": [
+        {
+          "name": "Quasi",
+          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
+        }
+      ],
+      "duration_ms": 186128,
+      "name": "Queen of Ears",
+      "url": "https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -1515,22 +1563,6 @@
     {
       "added_at": "2022-10-21 23:40:01",
       "album": {
-        "name": "D>E>A>T>H>M>E>T>A>L",
-        "url": "https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "duration_ms": 163544,
-      "name": "Laputa",
-      "url": "https://open.spotify.com/track/2zYBRyHAy6dv1wb53JXFD7"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
         "name": "Ants From Up There",
         "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
       },
@@ -1543,22 +1575,6 @@
       "duration_ms": 216680,
       "name": "Chaos Space Marine",
       "url": "https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "mold",
-        "url": "https://open.spotify.com/album/6WwFcQVjSQQE4QUFttiB8P"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 243312,
-      "name": "mold",
-      "url": "https://open.spotify.com/track/5qH0wXpyaWpXl0bn9gUK81"
     },
     {
       "added_at": "2022-10-21 23:40:01",
@@ -1659,22 +1675,6 @@
       "duration_ms": 197248,
       "name": "I Don't Want to Die Tonight",
       "url": "https://open.spotify.com/track/55uo07VOaxz3idi6p34Wsa"
-    },
-    {
-      "added_at": "2022-10-21 23:40:01",
-      "album": {
-        "name": "In The Kitchen",
-        "url": "https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 227749,
-      "name": "In The Kitchen",
-      "url": "https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV"
     }
   ],
   "unique_name": "Limelight",

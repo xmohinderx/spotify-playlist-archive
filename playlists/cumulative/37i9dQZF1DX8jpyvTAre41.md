@@ -2,7 +2,7 @@
 
 ### [Rock Your Block](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The hottest tunes in rock\. Crank it up! Cover: Bad Omens
+> The hottest tunes in rock\. Crank it up! Cover: Nickelback
 
 494 songs - 1 day 3 hr 48 min - [published](https://open.spotify.com/playlist/2emTlJtpLiylc2HgRRdEnO)
 

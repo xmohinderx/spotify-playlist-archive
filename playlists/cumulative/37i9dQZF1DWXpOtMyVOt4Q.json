@@ -156,6 +156,32 @@
     },
     {
       "album": {
+        "name": "Accepted",
+        "url": "https://open.spotify.com/album/674aHZ6bdGvgLplZLNTymO"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/2IpiQY2gj3pWpoWoWWg12C"
+        },
+        {
+          "name": "Supine",
+          "url": "https://open.spotify.com/artist/1DA2Vxz6LkO6e0yWkAtZlM"
+        },
+        {
+          "name": "Wist",
+          "url": "https://open.spotify.com/artist/1azet3ehiJaZdolI28HyN8"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Accepted",
+      "url": "https://open.spotify.com/track/5mqJzfZk1S0VoxDugE4vk5"
+    },
+    {
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA"
       },
@@ -449,6 +475,24 @@
     {
       "album": {
         "name": "Collection",
+        "url": "https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9"
+      },
+      "artists": [
+        {
+          "name": "90sFlav",
+          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126250,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z"
+    },
+    {
+      "album": {
+        "name": "Collection",
         "url": "https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW"
       },
       "artists": [
@@ -459,7 +503,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 126250,
       "name": "Call me",
       "url": "https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY"
@@ -2611,7 +2655,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 225480,
       "name": "Truth - Helios Remix",
       "url": "https://open.spotify.com/track/70yAekvZ6xZcC9PKrEHS4S"

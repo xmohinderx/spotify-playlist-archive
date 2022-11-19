@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Artist: Walker Hayes
+> Country gone wild! You never know what you're gonna get\. Artist: Blanco Brown and T.I.
 
-303 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+305 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Hawaii](https://open.spotify.com/track/0ht0H5ArfHnsXfMFQ37pNS) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Hawaii](https://open.spotify.com/album/0PD5fuEHBYunYbKxttn1yr) | 2:56 | 2021-12-10 | 2022-02-26 |
 | [Headlights](https://open.spotify.com/track/6999hCnJloghAoFgdnSbOZ) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Headlights](https://open.spotify.com/album/4ktGyJCvZrEDcDMMR9tWnh) | 2:54 | 2021-12-10 | 2022-02-26 |
 | [HEARTFIRST](https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [HEARTFIRST](https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s) | 3:07 | 2022-04-08 | 2022-09-17 |
+| [Heartland](https://open.spotify.com/track/634zF9K8obrdbKddcf5eK8) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [HUSH](https://open.spotify.com/artist/7iV99HXQMpTCGrtcVn6jAi) | [Heartland](https://open.spotify.com/album/3nNAaz73wIfNSdyAjlcWCD) | 3:15 | 2022-11-18 |  |
 | [Hearts Don't Break the Same](https://open.spotify.com/track/4V5Nf1gaGTFlXafg89nXR9) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Hearts Don't Break the Same](https://open.spotify.com/album/0Iqz6GYWJmqnThN0S59H6j) | 3:15 | 2021-12-10 | 2022-06-04 |
 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 | 2021-12-10 | 2022-02-26 |
 | [Here For It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 | 2022-09-09 |  |
@@ -273,6 +274,7 @@
 | [The Rest Of Us](https://open.spotify.com/track/7xnO1Ezt3GfymnaIaHij72) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [The Rest Of Us](https://open.spotify.com/album/2oRCvl75NjPMUuXAjhFRGG) | 3:25 | 2021-12-17 | 2022-02-26 |
 | [This Is It](https://open.spotify.com/track/0AZjGAFciL2GpwoBqDxgg9) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [This Is It](https://open.spotify.com/album/5TiNIgclQD0tKUAGpgkvOT) | 3:15 | 2021-12-10 | 2022-06-04 |
 | [Tomorrow Night](https://open.spotify.com/track/0TwIDNrEyL8VZLRHhiGuHz) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Tomorrow Night](https://open.spotify.com/album/5kX5ndVvGLENyzn5zKFJCr) | 2:51 | 2021-12-10 | 2022-02-26 |
+| [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2022-11-18 |  |
 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 | 2022-02-25 |  |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2021-12-10 | 2022-06-11 |
 | [Turnt](https://open.spotify.com/track/6bwRDyna9lHRw5NOBWlsXh) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Turnt](https://open.spotify.com/album/10S4Tsq1IkFSHkYvSOSloH) | 3:39 | 2021-12-10 |  |

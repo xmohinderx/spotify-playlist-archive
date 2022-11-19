@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-310 songs - 16 hr 51 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
+311 songs - 16 hr 55 min - [published](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/track/4rEmPwDqff0iLL0cEXD1GU) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/album/5ReyWZwqRMiEc21kMeoW7w) | 3:11 | 2021-12-17 |  |
 | [Je ne veux que toi](https://open.spotify.com/track/4sfH4oxRuHyW872VznZOsz) | [Kingdom Street](https://open.spotify.com/artist/1lnUL64UOur97nIDHKEbNI) | [Je ne veux que toi](https://open.spotify.com/album/7fXUaEzf9dfiUtJyYMBTFP) | 3:13 | 2021-12-17 | 2022-07-25 |
 | [Je t'offre mon cœur](https://open.spotify.com/track/68CPOCS5H1BJc4DTiwuOGY) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Le Rythme de Noël](https://open.spotify.com/album/4sQqmvczfwEgV1fCirUCYT) | 3:16 | 2021-12-17 | 2022-07-26 |
-| [Je t'offre mon cœur](https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:16 | 2022-11-04 |  |
+| [Je t'offre mon cœur](https://open.spotify.com/track/5e9Rr0cC3a6zs04w7a4RFs) | [Marie Eve Janvier](https://open.spotify.com/artist/3jfG98eZ52LwCzKNfa9Nch), [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu) | [Noël à deux](https://open.spotify.com/album/0r6b4y7D20hyhozvOci7nv) | 3:16 | 2022-11-04 | 2022-11-19 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-12-17 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/2wCPMWR3y4xclijuCcLJv7) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Four Christmases](https://open.spotify.com/album/7mBYONx7aIDvzevYOfsXJT) | 2:11 | 2021-12-17 | 2022-07-28 |
 | [Jingle Bell Rock \- Single Version](https://open.spotify.com/track/0t97lL3ZMyuxbABB0dgYhf) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Natale 2020](https://open.spotify.com/album/000t7Ge3vazfHDgDwYV8dZ) | 2:10 | 2022-11-12 | 2022-11-14 |
@@ -246,6 +246,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/5IYTUm06pUdo1DHjtijVRW) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Classic Christmas Hits 2022](https://open.spotify.com/album/7ILcxLRAchjzznQVoD0ESK) | 5:09 | 2022-11-12 | 2022-11-13 |
 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 | 2021-12-17 | 2022-07-27 |
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2021-12-17 |  |
+| [Parfait Noël](https://open.spotify.com/track/3MLbNzADggPivatXQneiHw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Parfait Noël](https://open.spotify.com/album/75s3hI6IoIHTYEwY2v6P3y) | 4:02 | 2022-11-18 |  |
 | [Petit garçon](https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod) | [Les Plus Beaux Noels Du Monde](https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW) | 2:49 | 2021-12-17 | 2022-07-28 |
 | [Petit Papa Noël](https://open.spotify.com/track/2x64JCqocawfHsE8u3gsT8) | [Anne Dorval](https://open.spotify.com/artist/4ZRQixH63QoGjJr99a5s0g) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 3:12 | 2021-12-17 | 2022-07-28 |
 | [Petit Papa Noël](https://open.spotify.com/track/0w2OW2wHawQ08AYBaHlxgL) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Noël](https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt) | 4:04 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1730766,
+  "num_followers": 1730647,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDMwMTdjMjhhY2QxMWQ4MDAzZWIxNTFmNzA2MzdmNjcz",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGZiZTAyMGU3N2U4MDIwZTllMTFhMTAwYTk2NDg1ZTcw",
   "tracks": [
     {
       "added_at": "2022-02-14 19:06:03",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Tee Shirt",
-        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Tee Shirt - Soundtrack Version",
-      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Be Slow",
         "url": "https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 216596,
       "name": "With You",
       "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "Tee Shirt",
+        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Tee Shirt - Soundtrack Version",
+      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 251960,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Isbells",
-        "url": "https://open.spotify.com/album/6S4G8R2BGAFHzoKo4ngsfh"
-      },
-      "artists": [
-        {
-          "name": "Isbells",
-          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
-        }
-      ],
-      "duration_ms": 234335,
-      "name": "Reunite",
-      "url": "https://open.spotify.com/track/6zAwfCIoQIzw2iWXFHUSiN"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Beulah",
         "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 243012,
       "name": "Hate The Way You Love Me",
       "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "Isbells",
+        "url": "https://open.spotify.com/album/6S4G8R2BGAFHzoKo4ngsfh"
+      },
+      "artists": [
+        {
+          "name": "Isbells",
+          "url": "https://open.spotify.com/artist/14dULnNGmLKnS59BzNrHi4"
+        }
+      ],
+      "duration_ms": 234335,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6zAwfCIoQIzw2iWXFHUSiN"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "The Colder Months",
-        "url": "https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "1,000 Years",
-      "url": "https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Rise & Fall (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 244520,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "The Colder Months",
+        "url": "https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "1,000 Years",
+      "url": "https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Dead Leaves",
         "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 187036,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     },
     {
       "added_at": "2022-02-14 19:06:03",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-02-14 19:06:03",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/47sjvyYGXQAxXs1cObRdyJ"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 213013,
-      "name": "She",
-      "url": "https://open.spotify.com/track/0VDVW6ui7ar03NepUExkgu"
-    },
-    {
-      "added_at": "2022-02-14 19:06:03",
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 321120,
       "name": "Lovers' Eyes",
       "url": "https://open.spotify.com/track/60XAcN6U4FyH10movaioLz"
+    },
+    {
+      "added_at": "2022-02-14 19:06:03",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/47sjvyYGXQAxXs1cObRdyJ"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 213013,
+      "name": "She",
+      "url": "https://open.spotify.com/track/0VDVW6ui7ar03NepUExkgu"
     },
     {
       "added_at": "2022-02-14 19:06:03",

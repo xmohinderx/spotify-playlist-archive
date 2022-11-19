@@ -4,7 +4,7 @@
 
 > Find your flow with these trap and lofi beats.
 
-267 songs - 11 hr 45 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+268 songs - 11 hr 47 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Brutal Wishes](https://open.spotify.com/track/7yM1bz379moGe4Plh82580) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Brutal Wishes](https://open.spotify.com/album/2u7BOJPweym8fbSgqOGw9k) | 2:40 | 2022-04-08 |  |
 | [bussdown bossa](https://open.spotify.com/track/3FGdR8SdahNnDJ3nUFG5Eg) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Real Ones](https://open.spotify.com/album/6ANMl8JtgJtVBbEoIuO1Fi) | 3:20 | 2022-09-30 |  |
 | [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 | 2022-05-20 |  |
-| [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-08-05 |  |
+| [Call me](https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9) | 2:06 | 2022-11-11 |  |
+| [Call me](https://open.spotify.com/track/34A2accnIDPOhkRltN8KJY) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection](https://open.spotify.com/album/4r5Uvinx2W572g2goXL0zW) | 2:06 | 2022-08-05 | 2022-11-19 |
 | [Canterbury](https://open.spotify.com/track/6sMi7wVHKaFYIvZPZegu2s) | [SLAACEE](https://open.spotify.com/artist/32guYZQtWnj7Lx3kjqdxuT) | [Canterbury](https://open.spotify.com/album/4FQ63HSplUhltdkkqBsDFe) | 2:41 | 2022-04-08 |  |
 | [Carter](https://open.spotify.com/track/7DZXwGZwAZ0pMzyxPvLNin) | [Tatchy](https://open.spotify.com/artist/4kqLVasdVgw0NXBpR8yhug), [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Carter](https://open.spotify.com/album/4Z4y1Fh6VHMo3Lwnaapdke) | 3:09 | 2022-04-08 |  |
 | [Casual](https://open.spotify.com/track/04vbqTabvnBVNS529gCjr7) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Casual](https://open.spotify.com/album/34WYto1C7tTFFiyolKmtDW) | 2:58 | 2022-09-02 |  |

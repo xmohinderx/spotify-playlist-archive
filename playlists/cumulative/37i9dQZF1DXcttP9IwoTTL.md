@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-201 songs - 19 hr 58 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
+202 songs - 20 hr 6 min - [published](https://open.spotify.com/playlist/2Ef1pT9lprEUZ0GG1CMnv6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Supernova](https://open.spotify.com/track/2HtTNkqYB8vvJEf6e4uUG0) | [Alen Skanner](https://open.spotify.com/artist/34DjyfohleZ08Z2W0jB0yC) | [Supernova](https://open.spotify.com/album/4zeBxtJGmssW8KCqtV74Sg) | 6:41 | 2022-09-16 |  |
 | [Swerve \- Original](https://open.spotify.com/track/0pHHkGebNzudbTDi8iNn1N) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Swerve](https://open.spotify.com/album/3YS53BlC7sLJLh4cRC0GYV) | 5:58 | 2022-07-15 |  |
 | [Take My Body](https://open.spotify.com/track/4JQj2KLmIn7tGH36NGIq2c) | [Michael Cignarale](https://open.spotify.com/artist/7CgEx3HP2QJP3R9QMaRTip) | [Operatic Orgasm](https://open.spotify.com/album/6UYgV8z0sn8jh9PFZXHskq) | 7:32 | 2022-05-13 | 2022-07-16 |
-| [Talom](https://open.spotify.com/track/3mMukwl5iDMi518Uf9usgg) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/5KFDMwb90MGxvAnK8ndolH) | 7:37 | 2022-11-07 |  |
+| [Talom](https://open.spotify.com/track/3mMukwl5iDMi518Uf9usgg) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/5KFDMwb90MGxvAnK8ndolH) | 7:37 | 2022-11-07 | 2022-11-19 |
+| [Talom](https://open.spotify.com/track/6AAThdK0BAhyvQJycTfxtG) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/3xBNwMOvLuvVRRWCNkScZe) | 7:37 | 2022-11-07 |  |
 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/68cpQ6mpnMiE96PbUwJs7q) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/4LAeJVXkFuJmcIpZ5XMW6Q) | 4:43 | 2022-05-13 | 2022-07-29 |
 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 | 2022-07-15 |  |
 | [Tell Me Why \- M&M Full Vocal Mix](https://open.spotify.com/track/64uUwYABwplNS7wgsVkiOS) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 4:43 | 2022-11-07 | 2022-11-13 |

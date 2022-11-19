@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Kristian Stanfill",
+  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Blessing Offor",
   "name": "Top Christian & Gospel",
   "published_playlist_ids": [
     "3IGSOKftgGE885pvp0BADM"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 255586,
       "name": "A Thousand Shores",
       "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
@@ -1359,6 +1359,24 @@
       "duration_ms": 242768,
       "name": "Fear is Not My Future - Radio Version",
       "url": "https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219590,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2qDJNEzQvyuXPblfZcXPqM"
     },
     {
       "album": {
@@ -2748,6 +2766,28 @@
     },
     {
       "album": {
+        "name": "SEVEN (Deluxe / Live)",
+        "url": "https://open.spotify.com/album/6WUXadeySiyARbTNj7GOvY"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274154,
+      "name": "How Sweet - Spontaneous / Live",
+      "url": "https://open.spotify.com/track/6ThfWlq6kXFpUfLShY99xd"
+    },
+    {
+      "album": {
         "name": "Holy Spirit Come",
         "url": "https://open.spotify.com/album/1J2AR6hhW7PM7rbJk4O3Xq"
       },
@@ -3822,6 +3862,32 @@
     },
     {
       "album": {
+        "name": "Lean On The Lord",
+        "url": "https://open.spotify.com/album/55CizL1IoHzTok1dG3Oo2I"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346200,
+      "name": "Lean on the Lord",
+      "url": "https://open.spotify.com/track/1zbaqLQ3LEuteLOWobr61c"
+    },
+    {
+      "album": {
         "name": "Leaning",
         "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
       },
@@ -3889,6 +3955,28 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "album": {
+        "name": "Let Your Light Shine",
+        "url": "https://open.spotify.com/album/34sda18nBBQ2RUNR0R4Pft"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        },
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Let Your Light Shine",
+      "url": "https://open.spotify.com/track/0OA6kCtDGoCaJnNPOzRDqq"
     },
     {
       "album": {
@@ -5031,7 +5119,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
@@ -5143,7 +5231,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 247068,
       "name": "Provider",
       "url": "https://open.spotify.com/track/5XmBjBjVxyhZGK7tR4u7GH"
@@ -5849,7 +5937,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 189099,
       "name": "Son of David (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1jvX9QdqLLwQUguKzR0Ad6"
@@ -6123,7 +6211,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 223653,
       "name": "Take Heart",
       "url": "https://open.spotify.com/track/5G2Zcq1ut2Frfzjhw8M4vI"
@@ -6943,7 +7031,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 279440,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur"
@@ -7725,7 +7813,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 176099,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6B28CeAkAkTx0suQMRDBNT"

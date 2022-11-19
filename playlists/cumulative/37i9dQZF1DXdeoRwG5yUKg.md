@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-135 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+136 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Last Surrender](https://open.spotify.com/track/1eOt3lInNLAvkf7xE7RFWi) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60) | 3:17 | 2020-11-05 | 2022-07-29 |
 | [Last Surrender](https://open.spotify.com/track/2qQC0jWfRaUUhGWkPdb7g2) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/2ZR9S2HND7WD0zh630IyR1) | 3:17 | 2020-11-05 |  |
 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 | 2020-11-05 |  |
+| [Little Bit Longer](https://open.spotify.com/track/0Qug6Nrrlw5JDVTbuisYpA) | [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Little Bit Longer](https://open.spotify.com/album/4f1ASCJc3Nc4epEhMkAxX7) | 3:55 | 2022-11-18 |  |
 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 | 2022-07-29 |
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2020-11-05 |  |
 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 | 2022-10-01 |

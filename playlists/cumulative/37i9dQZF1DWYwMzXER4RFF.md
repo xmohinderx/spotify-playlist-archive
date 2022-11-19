@@ -2,9 +2,9 @@
 
 ### [Post Punk](https://open.spotify.com/playlist/37i9dQZF1DWYwMzXER4RFF)
 
-> New no wave, post\-punk, and anything else\. Cover: Viagra Boys
+> New no wave, post\-punk, and anything else\. Cover: The Cool Greenhouse
 
-295 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
+297 songs - 18 hr 30 min - [published](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Another Night](https://open.spotify.com/track/3x2kMMjAMfZvgV9PacT3Mw) | [The Men](https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM) | [Tomorrow's Hits](https://open.spotify.com/album/2TY5pohPtUqu1c5fy7pW0F) | 5:28 | 2021-12-06 | 2022-07-26 |
 | [Avoidarama](https://open.spotify.com/track/1bFz0eOflEU0WOksVBDPA2) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Avoidarama](https://open.spotify.com/album/27NMHPWp3yDUSsrrHQoVRM) | 2:58 | 2021-12-06 | 2022-07-24 |
 | [Avoidarama](https://open.spotify.com/track/1nS6ebZc8rmr9l5d9NpLqJ) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Cheer](https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2) | 2:58 | 2022-08-25 |  |
-| [B Boys Anthem](https://open.spotify.com/track/3vMZ1zERSM8QbPW8aA0t49) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/2dC0CxwPb1YjjB9Ergw2fG) | 1:23 | 2022-08-25 |  |
+| [B Boys Anthem](https://open.spotify.com/track/3vMZ1zERSM8QbPW8aA0t49) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/2dC0CxwPb1YjjB9Ergw2fG) | 1:23 | 2022-08-25 | 2022-11-19 |
 | [B Boys Anthem](https://open.spotify.com/track/6RCJa37P65U7uCm6oyxY3J) | [B Boys](https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa) | [Dada](https://open.spotify.com/album/1YLqgmVidQ5seIyuBgaI50) | 1:23 | 2021-12-06 | 2022-07-21 |
 | [Back to The 70s](https://open.spotify.com/track/5nBofBYgz2bipNxjE9uTX0) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [In A Middle English Town](https://open.spotify.com/album/0P7Exnbir6GAPvbnyGnuJ5) | 3:34 | 2022-03-11 | 2022-07-22 |
 | [Back To The Radio](https://open.spotify.com/track/0hHOIVyywNzkoh1v6RWFb3) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Waterslide, Diving Board, Ladder To The Sky](https://open.spotify.com/album/6wdThJ2V58nkaWfv1jA4B5) | 3:07 | 2022-08-25 |  |
@@ -70,7 +70,7 @@
 | [Cruising](https://open.spotify.com/track/42FoHPbDOZM1qCCCKmEvf2) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cruising](https://open.spotify.com/album/55fNVmdLsjVNTEE7TQcbGF) | 6:27 | 2021-12-06 | 2022-07-29 |
 | [Daily Routine](https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Daily Routine](https://open.spotify.com/album/7uzRTehZfg7fKNguCFrsZN) | 4:24 | 2021-12-06 | 2022-07-24 |
 | [Danny Nedelko](https://open.spotify.com/track/731BpBsbqtNLC5RREuOJrv) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Danny Nedelko](https://open.spotify.com/album/3M6u7iw0PxYsDGZM3LvOyG) | 3:24 | 2021-12-06 | 2022-07-29 |
-| [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2021-12-06 |  |
+| [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2021-12-06 | 2022-11-19 |
 | [Delusion Spree](https://open.spotify.com/track/0d4YnSZpQZQszNHz3hfx3a) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Delusion Spree](https://open.spotify.com/album/2sqyfzGM5IQvupbRe7hr3X) | 3:49 | 2022-03-11 | 2022-05-06 |
 | [Delusions Of Grandeur](https://open.spotify.com/track/52jHGLECyJck03wSgSktQv) | [Bad Waitress](https://open.spotify.com/artist/5h5YgUkm7vI0bdbQTyBGmb) | [Delusions Of Grandeur](https://open.spotify.com/album/677N0k17KVgKOVLfjIlM9o) | 3:24 | 2022-02-11 | 2022-06-29 |
 | [Design \- Beck Remix](https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Design \(Beck Remix\)](https://open.spotify.com/album/1ovmPec98kYvfAG2KyNU5G) | 2:36 | 2021-12-06 | 2022-07-28 |
@@ -91,6 +91,7 @@
 | [Everything Is Great](https://open.spotify.com/track/12l74YlyXFIMB4Th2j7u8Y) | [SERF](https://open.spotify.com/artist/3AHSGaERoeo0QGCb7QxmQW) | [Everything Is Great](https://open.spotify.com/album/6lwo9ZWMrK0rsLNrpXh4ut) | 4:20 | 2021-12-06 | 2022-07-25 |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-06 |  |
 | [Fine Dining](https://open.spotify.com/track/31MASht0doFNCs2ev9tMqV) | [Clinic](https://open.spotify.com/artist/7icDkrFloDss50hoqQ3Kkj) | [Fantasy Island](https://open.spotify.com/album/1nJK1gMPEJHS1L3TYWDfQI) | 2:35 | 2021-12-06 | 2022-07-28 |
+| [Fingers of Steel](https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Fingers of Steel](https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y) | 4:21 | 2022-11-18 |  |
 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2021-12-06 |  |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-12-06 |  |
 | [Formica](https://open.spotify.com/track/2nD9Bgx006XoSVL0S449wA) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Formica](https://open.spotify.com/album/6sr9kAcwG13aipAcCINnWO) | 2:43 | 2021-12-06 | 2022-07-22 |
@@ -103,6 +104,7 @@
 | [Future Monuments](https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL) | [Iguana Death Cult](https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8) | [Future Monuments](https://open.spotify.com/album/7AoJhm8JXyO3Qrd7vtG3Pe) | 4:26 | 2022-03-11 | 2022-07-29 |
 | [Garden of England](https://open.spotify.com/track/2MK4t1CYvNpguCnHgqeYOx) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Garden of England](https://open.spotify.com/album/0mtGJwV52ytiFEV7nxwVbu) | 2:08 | 2022-03-11 | 2022-07-29 |
 | [Get Along](https://open.spotify.com/track/6n7XdLB1hlARYlf6ziccPz) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/5FNhiWRRklskqgooaVJ7Wn) | 2:59 | 2022-01-20 | 2022-06-18 |
+| [Get Unjaded](https://open.spotify.com/track/2SG9JJ08AAhwS993F6srEj) | [The Cool Greenhouse](https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW) | [Sod's Toastie](https://open.spotify.com/album/25WIUYxIhGxeXSipIvxYFd) | 3:16 | 2022-11-18 |  |
 | [Get Yourself A Friend](https://open.spotify.com/track/6kwpiJvZLscW06vXl42jjr) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [Get Yourself A Friend](https://open.spotify.com/album/3gww43ZrPNH04JYZ5Gkg7E) | 3:50 | 2021-12-06 | 2022-07-24 |
 | [Girls & Boys](https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 4:39 | 2022-08-25 |  |
 | [Girls & Boys](https://open.spotify.com/track/4Xt5Zpuk3AGXfojsWJP23l) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Girls & Boys](https://open.spotify.com/album/5pNrH7vOP95JA6oxRGTEiU) | 4:39 | 2021-12-06 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: El Mató a un Policía Motorizado.
 
-140 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+141 songs - 8 hr 58 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-06-24 |  |
 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 | 2022-06-24 |  |
 | [Corazón de Neón](https://open.spotify.com/track/5u8h1l8Qz9MX7tvjVV2FRz) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [El Último Que Apague la Luz](https://open.spotify.com/album/22iLqw9H1hoozfw6CmLrTX) | 4:32 | 2022-06-24 |  |
+| [Corazón Delator](https://open.spotify.com/track/2UFU9i1cz7F5i1NI5T2Lr3) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Corazón Delator](https://open.spotify.com/album/19jOSTuQpLGlSQ3CphTtU6) | 4:21 | 2022-11-18 |  |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-06-24 |  |
 | [CULPA](https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:35 | 2022-06-24 |  |
 | [De las Ventajas de Caminar Dormida](https://open.spotify.com/track/4j4zS5Kk3gMLv83QegL9DU) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [De las Ventajas de Caminar Dormida](https://open.spotify.com/album/2xXNK36mEbfYTVdUO5G1Vz) | 3:48 | 2022-09-30 |  |
@@ -47,7 +48,7 @@
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-06-24 |  |
 | [Escapar](https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Escapar](https://open.spotify.com/album/1RIilWLhdLU2dhUvhxx0EQ) | 2:56 | 2022-09-02 |  |
 | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/track/0BF8OUoMz4w4EHzqKV5TpY) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/album/4kUrH3Fb6Fx7Ps0AkgzQMS) | 3:45 | 2022-09-02 |  |
-| [Esperando Nacer](https://open.spotify.com/track/2Ymx1N04hDeyi0c9V7ckPT) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Esperando Nacer](https://open.spotify.com/album/6nMSnZqmI52qTP0scuf6Kh) | 5:45 | 2022-06-24 |  |
+| [Esperando Nacer](https://open.spotify.com/track/2Ymx1N04hDeyi0c9V7ckPT) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Esperando Nacer](https://open.spotify.com/album/6nMSnZqmI52qTP0scuf6Kh) | 5:45 | 2022-06-24 | 2022-11-19 |
 | [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-06-24 |  |
 | [Ex](https://open.spotify.com/track/6gsUGjcizYAKy2LBflu1Pw) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Ex](https://open.spotify.com/album/2qM8b51qb8jpolJ4AVRCGt) | 3:59 | 2022-06-24 |  |
 | [Fango](https://open.spotify.com/track/1GFQig8E1kpHcJVAVg5IOH) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Fango](https://open.spotify.com/album/3Y5uIFvMnozIUvF0soxaM5) | 4:22 | 2022-06-24 |  |

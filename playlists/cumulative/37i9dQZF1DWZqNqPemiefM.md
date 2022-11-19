@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-442 songs - 1 day 11 hr 28 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+443 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,8 @@
 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 | 2022-04-07 | 2022-07-29 |
 | [wave I](https://open.spotify.com/track/7aP9EJpFFiYwjx3XsrgFNT) | [Tomonari Nozaki](https://open.spotify.com/artist/5WxxeVvoygjM4uUnLbvU0S) | [waves](https://open.spotify.com/album/30GuU6iDTogw0vWYeziTSN) | 11:20 | 2022-04-07 | 2022-07-21 |
 | [We Can't Stop](https://open.spotify.com/track/3fTc03pUwNmwPrLxMaAPvF) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5) | [Night Lines](https://open.spotify.com/album/4hoB2QdskyiOtt3VCeNdOL) | 3:43 | 2022-03-31 | 2022-04-16 |
-| [Weightless Moonlit Night](https://open.spotify.com/track/2MwfsAh3apy4cCU8O0oqwo) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Weightless Moonlit Night](https://open.spotify.com/album/0lX3Rz7vq5BEQgDOgroatN) | 3:40 | 2022-11-17 |  |
+| [Weightless Moonlit Night](https://open.spotify.com/track/2MwfsAh3apy4cCU8O0oqwo) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Weightless Moonlit Night](https://open.spotify.com/album/0lX3Rz7vq5BEQgDOgroatN) | 3:40 | 2022-11-17 | 2022-11-19 |
+| [Weightless Moonlit Night](https://open.spotify.com/track/4MgDI6XeKfKuinjmKc0o8D) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Weightless Moonlit Night](https://open.spotify.com/album/2oszBYBz8X6dDOfTo75TKG) | 3:40 | 2022-11-17 |  |
 | [White Tape](https://open.spotify.com/track/6306HPSCNNFPDISly6VQFq) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/56PwTEBmFR9GRCSCP8KMWg) | 4:08 | 2022-04-07 | 2022-05-30 |
 | [Wine glass assembly waltz \(Wine glass\)](https://open.spotify.com/track/3BkwqiqMdALDZMYf9jYM92) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Pan De Sonic \- Iso](https://open.spotify.com/album/2OvQuWIyhtHfPHS3vschY1) | 1:10 | 2022-03-31 | 2022-07-18 |
 | [Winter Sky](https://open.spotify.com/track/3z2VJIU3KVCak8kS99lmkF) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Winter Sky](https://open.spotify.com/album/1jz9wwLGQ0H2CJommv1tmS) | 3:30 | 2022-03-31 | 2022-04-17 |

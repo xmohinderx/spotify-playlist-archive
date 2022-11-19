@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-217 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+218 songs - 20 hr 39 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All That Remains](https://open.spotify.com/track/4qMalQqJpfFQOd9aEYYAea) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/7gPki4Zq97kfLngBBGuzzO) | 5:08 | 2022-02-17 | 2022-06-10 |
 | [Alpha Omega \- Live](https://open.spotify.com/track/0f8tSFxXxTtDead0x8Lhhr) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [I've Got Good News \(Live\)](https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd) | 5:54 | 2022-05-20 |  |
 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 | 2022-03-30 |  |
-| [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/4nethjIvc2RFvmhvssVdAD) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 | 2022-02-17 |  |
+| [Another In The Fire \- Live](https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Chris Davenport](https://open.spotify.com/artist/6Lu7A9Om0rGL9dgzDLR1ed) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 6:33 | 2022-02-17 |  |
 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 | 2022-05-13 |  |
 | [As You Can \- Live](https://open.spotify.com/track/4vguRbzcA2Ewj7tai8jerX) | [Jesus People](https://open.spotify.com/artist/35UBfTl4RQiyBsrZTbIBmp), [Adam Smucker](https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr) | [As You Can \(Live\)](https://open.spotify.com/album/4CM3QMzL3U0zhxTflYL0dF) | 10:19 | 2022-05-27 |  |
 | [Ask Seek Pray](https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Faith in Our Time \(Deluxe LP\)](https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh) | 6:54 | 2022-10-13 |  |
@@ -123,6 +123,7 @@
 | [Know You Will](https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin Hastings](https://open.spotify.com/artist/4Pd7dTx8E1vKJL5TT7RVyX) | [Know You Will](https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H) | 3:37 | 2022-02-17 | 2022-04-02 |
 | [Lay It All Down](https://open.spotify.com/track/0d5Qst55vayJAUCs6Sx02i) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/56wIBe9Y5eD0u5szbFFHP1) | 7:04 | 2022-09-23 |  |
 | [Lay It All Down](https://open.spotify.com/track/6pk4msiL2Igg3KlRqMYwjo) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Lay It All Down](https://open.spotify.com/album/0NrENMCYUG5l6wAgYiGQxB) | 7:04 | 2022-09-09 |  |
+| [Lean on the Lord](https://open.spotify.com/track/1zbaqLQ3LEuteLOWobr61c) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Lean On The Lord](https://open.spotify.com/album/55CizL1IoHzTok1dG3Oo2I) | 5:46 | 2022-11-18 |  |
 | [Let The Light In \- Live](https://open.spotify.com/track/7uEho9WLsvWHQyd3jwqI2Q) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [The Blessing \(Live\)](https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b) | 7:29 | 2022-02-17 | 2022-04-05 |
 | [Living Hope](https://open.spotify.com/track/7o24sKRAGXOfX2BWhO7oqU) | [Worship Solutions](https://open.spotify.com/artist/7FokEHZS5ocJsuAT7gmDJI), [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Top 25 Praise Songs – The Blessing](https://open.spotify.com/album/3Ip0l3AjSDjpv6hn2THc3Z) | 5:18 | 2022-02-17 | 2022-07-14 |
 | [Living Testimony \- Live](https://open.spotify.com/track/6vPwxeqTKT8n2qikFTgoyR) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Jaden Moody](https://open.spotify.com/artist/25e3ch9pW8wgAIvuzhQY6t) | [Living Testimony \(Live\)](https://open.spotify.com/album/30TIWXHZeHq1PILquB1CKh) | 6:26 | 2022-08-19 |  |

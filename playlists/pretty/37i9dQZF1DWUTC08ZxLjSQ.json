@@ -1,15 +1,15 @@
 {
   "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Kali-B, Artwork: Isu Kim",
-  "num_followers": 1287,
+  "num_followers": 1291,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU0MjY3MSwwMDAwMDAwMDFmMGE2Zjg2OTRhNzU5YjAzZDE4NmIyNWY2MjVkMTlj",
+  "snapshot_id": "MTY2ODgxMTk1NywwMDAwMDAwMGQwNmE4NDk1M2QwMGI0NTc1YjVmODIxMWEwZGNmY2E3",
   "tracks": [
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Loom",
         "url": "https://open.spotify.com/album/0uNojfPWQ6REBGYSjWtBcp"
@@ -25,7 +25,163 @@
       "url": "https://open.spotify.com/track/1Q1PWZvKU0kvXZSc6B1LJW"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Midnight Blooms",
+        "url": "https://open.spotify.com/album/7vDLOjrrS0JH2YQYmcUCw8"
+      },
+      "artists": [
+        {
+          "name": "Hotboxgroove",
+          "url": "https://open.spotify.com/artist/2iOmWTulb3nP3FQ9DYtLLV"
+        }
+      ],
+      "duration_ms": 492100,
+      "name": "Midnight Blooms",
+      "url": "https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Nocturnal. 271022",
+        "url": "https://open.spotify.com/album/5CcimGJp9JYkgnLYHMJIKS"
+      },
+      "artists": [
+        {
+          "name": "CaveMannn",
+          "url": "https://open.spotify.com/artist/6B0Uagp1PErbaZ8mpky7yY"
+        },
+        {
+          "name": "CaveMann",
+          "url": "https://open.spotify.com/artist/6LEuTJkGGhJ1xBbJkNESJs"
+        }
+      ],
+      "duration_ms": 682458,
+      "name": "Nocturnal. 271022",
+      "url": "https://open.spotify.com/track/4YvUEU1RrTQesua69Yhpds"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Strange Goodbyes",
+        "url": "https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq"
+      },
+      "artists": [
+        {
+          "name": "Anou",
+          "url": "https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc"
+        }
+      ],
+      "duration_ms": 272575,
+      "name": "Strange Goodbyes",
+      "url": "https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Summer Falls",
+        "url": "https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0"
+      },
+      "artists": [
+        {
+          "name": "TheKiddEast",
+          "url": "https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Summer Falls",
+      "url": "https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Lost Garden",
+        "url": "https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOY",
+          "url": "https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV"
+        },
+        {
+          "name": "Offkaktus",
+          "url": "https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh"
+        }
+      ],
+      "duration_ms": 204545,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Khayal",
+        "url": "https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 313375,
+      "name": "Khayal",
+      "url": "https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Sparsed Stars",
+        "url": "https://open.spotify.com/album/6Uph9BQBTY0Cgdq4c2HuMU"
+      },
+      "artists": [
+        {
+          "name": "Julien Vertigo",
+          "url": "https://open.spotify.com/artist/4srhk1sob6zPaBltwpDicF"
+        },
+        {
+          "name": "Delrady",
+          "url": "https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP"
+        }
+      ],
+      "duration_ms": 391680,
+      "name": "Sparsed Stars",
+      "url": "https://open.spotify.com/track/7d0jZWy6GBohytx96WgQB6"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Breaze",
+        "url": "https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe"
+      },
+      "artists": [
+        {
+          "name": "Tamer ElDerini",
+          "url": "https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Breaze",
+      "url": "https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC"
+      },
+      "artists": [
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0"
+        }
+      ],
+      "duration_ms": 474319,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8"
+    },
+    {
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv"
@@ -49,7 +205,7 @@
       "url": "https://open.spotify.com/track/7m3rPFw7n8NsY8Ik5M2KZ4"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "M\u00e9diterran\u00e9e",
         "url": "https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt"
@@ -65,7 +221,7 @@
       "url": "https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Cabana",
         "url": "https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl"
@@ -89,7 +245,7 @@
       "url": "https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Sabba7 Sabba7 (\u0635\u0628\u062d \u0635\u0628\u062d)",
         "url": "https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp"
@@ -109,7 +265,7 @@
       "url": "https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "ARMANI",
         "url": "https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1"
@@ -125,7 +281,7 @@
       "url": "https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Kalam Kteer",
         "url": "https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a"
@@ -141,7 +297,7 @@
       "url": "https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Taqa",
         "url": "https://open.spotify.com/album/4uKTZ5zdxhhkIQTIjrQr6x"
@@ -157,7 +313,7 @@
       "url": "https://open.spotify.com/track/6m6vWsgO06r0MvxIbs1rhN"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Think Twice",
         "url": "https://open.spotify.com/album/2zHKIVOACJGhAflSCqU1UD"
@@ -177,7 +333,7 @@
       "url": "https://open.spotify.com/track/1uj9pZGxrh39WcgPdsx7DU"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Lili Twil",
         "url": "https://open.spotify.com/album/3ck71v60wN64HTn3FDBHO4"
@@ -193,7 +349,7 @@
       "url": "https://open.spotify.com/track/19ppkSHBDgKow8UxPPds3h"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "\u062f\u0643\u062a\u0648\u0631 \u0646\u0641\u0633\u0627\u0646\u064a",
         "url": "https://open.spotify.com/album/1P4Qp6t6v3m7AotVxh5g3E"
@@ -209,7 +365,7 @@
       "url": "https://open.spotify.com/track/0xqXbsKJs9dRyIJBZRRNhJ"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O"
@@ -225,7 +381,7 @@
       "url": "https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "MESAMA3EEN",
         "url": "https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo"
@@ -241,7 +397,7 @@
       "url": "https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "What I Mean",
         "url": "https://open.spotify.com/album/61LjVnSbmGrXoZJz8RRaQY"
@@ -257,7 +413,7 @@
       "url": "https://open.spotify.com/track/1mCI8PLlOgAIIJ9gSPj84v"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Flight of Time",
         "url": "https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB"
@@ -273,7 +429,7 @@
       "url": "https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "GBOF EP",
         "url": "https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP"
@@ -289,7 +445,7 @@
       "url": "https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Grounding Place",
         "url": "https://open.spotify.com/album/0mHtsfh7zOubxpNTDVzXKP"
@@ -305,7 +461,7 @@
       "url": "https://open.spotify.com/track/5k42ev7lFesuG1UAlrKT3l"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Not Sure",
         "url": "https://open.spotify.com/album/3zQnmCch1nC6WElnzHNPpp"
@@ -321,7 +477,7 @@
       "url": "https://open.spotify.com/track/1nEu8odxpQOSoGhI3xOlbs"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF"
@@ -337,7 +493,7 @@
       "url": "https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Faqat Ala Bali",
         "url": "https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P"
@@ -353,7 +509,7 @@
       "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Subliminal Reality EP",
         "url": "https://open.spotify.com/album/6zzP88NtgWx46fn02EW4xU"
@@ -369,7 +525,7 @@
       "url": "https://open.spotify.com/track/68V26HNk7ey1NE3VkHvO0N"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Mr.Fancy pants",
         "url": "https://open.spotify.com/album/5S2wmqGNIEn1rYiZWUXkLh"
@@ -385,7 +541,7 @@
       "url": "https://open.spotify.com/track/1aPgmpANFrfl3NIViRhuif"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Nar w Rosas",
         "url": "https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677"
@@ -401,163 +557,7 @@
       "url": "https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Midnight Blooms",
-        "url": "https://open.spotify.com/album/7vDLOjrrS0JH2YQYmcUCw8"
-      },
-      "artists": [
-        {
-          "name": "Hotboxgroove",
-          "url": "https://open.spotify.com/artist/2iOmWTulb3nP3FQ9DYtLLV"
-        }
-      ],
-      "duration_ms": 492100,
-      "name": "Midnight Blooms",
-      "url": "https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Nocturnal. 271022",
-        "url": "https://open.spotify.com/album/5CcimGJp9JYkgnLYHMJIKS"
-      },
-      "artists": [
-        {
-          "name": "CaveMannn",
-          "url": "https://open.spotify.com/artist/6B0Uagp1PErbaZ8mpky7yY"
-        },
-        {
-          "name": "CaveMann",
-          "url": "https://open.spotify.com/artist/6LEuTJkGGhJ1xBbJkNESJs"
-        }
-      ],
-      "duration_ms": 682458,
-      "name": "Nocturnal. 271022",
-      "url": "https://open.spotify.com/track/4YvUEU1RrTQesua69Yhpds"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Strange Goodbyes",
-        "url": "https://open.spotify.com/album/7LgTA1VhcRQ0xP6jvM5bAq"
-      },
-      "artists": [
-        {
-          "name": "Anou",
-          "url": "https://open.spotify.com/artist/0aQne1tbiKJM4qGKWW8Ykc"
-        }
-      ],
-      "duration_ms": 272575,
-      "name": "Strange Goodbyes",
-      "url": "https://open.spotify.com/track/6KwdMYj4nfbixzgSVM0uFB"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Summer Falls",
-        "url": "https://open.spotify.com/album/6lwBaJtr0PeYJNuSNoBAn0"
-      },
-      "artists": [
-        {
-          "name": "TheKiddEast",
-          "url": "https://open.spotify.com/artist/6QBV3lqWQWduZNIdi4yrhG"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Summer Falls",
-      "url": "https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Lost Garden",
-        "url": "https://open.spotify.com/album/0i4vvfosTiRqEpaiBrSMq1"
-      },
-      "artists": [
-        {
-          "name": "LOSTBOY",
-          "url": "https://open.spotify.com/artist/26USkQ8B5oOMnis7a29yNV"
-        },
-        {
-          "name": "Offkaktus",
-          "url": "https://open.spotify.com/artist/27sdwOFwx0GPw3sdTuEpqh"
-        }
-      ],
-      "duration_ms": 204545,
-      "name": "i love you",
-      "url": "https://open.spotify.com/track/1QLQFaLF0zpqwg4wRfjBkq"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Khayal",
-        "url": "https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 313375,
-      "name": "Khayal",
-      "url": "https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Sparsed Stars",
-        "url": "https://open.spotify.com/album/6Uph9BQBTY0Cgdq4c2HuMU"
-      },
-      "artists": [
-        {
-          "name": "Julien Vertigo",
-          "url": "https://open.spotify.com/artist/4srhk1sob6zPaBltwpDicF"
-        },
-        {
-          "name": "Delrady",
-          "url": "https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP"
-        }
-      ],
-      "duration_ms": 391680,
-      "name": "Sparsed Stars",
-      "url": "https://open.spotify.com/track/7d0jZWy6GBohytx96WgQB6"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Breaze",
-        "url": "https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe"
-      },
-      "artists": [
-        {
-          "name": "Tamer ElDerini",
-          "url": "https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Breaze",
-      "url": "https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
-      "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/2tHTsIjHACxiXGtN7Hi2aC"
-      },
-      "artists": [
-        {
-          "name": "Nour",
-          "url": "https://open.spotify.com/artist/5Sn6yiM4zeSnszRUMQxfo0"
-        }
-      ],
-      "duration_ms": 474319,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8"
-    },
-    {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Slow Dance",
         "url": "https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Novacane",
         "url": "https://open.spotify.com/album/20UY9yYwSUAt15SqbXeoAv"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/1yNlHjQG9oCwkRzMjlrXQ8"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Nobody Pass You",
         "url": "https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Back to you",
         "url": "https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/334zuvClv7JYENjupg71GT"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "A 249 Experience Vol.2",
         "url": "https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/3kEjGrGuSJUWjcE8tvm4rK"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/6RJ5fDIAfT6edvjVgp3Wbh"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Higher (Breathe Easy)",
         "url": "https://open.spotify.com/album/7b5DtLjl7shhLIkkq3Q1UN"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/3yilsAnbDMSTMRA5AR1Eg3"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "start again",
         "url": "https://open.spotify.com/album/7b2pfkpByTUXX0rGbKICpl"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/33XOL8guHAws71hVhQLYiC"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Balaleen",
         "url": "https://open.spotify.com/album/7MmRjxq4Nca5nBqSDMqNwS"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/081geJirqbAxZUJE0u7ca7"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Ouda",
         "url": "https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Bin Nass",
         "url": "https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Moya wa Zait",
         "url": "https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Hammouda",
         "url": "https://open.spotify.com/album/2n66xZ8ZBgZryfMv8GwBMH"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/2IgzQGOfEExzrkQclnt3JQ"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "MAYBE",
         "url": "https://open.spotify.com/album/6Pxc7DoXnVBuHvFBcBODPJ"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "\u062f\u0646\u06cc\u0627",
         "url": "https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Enti Wain",
         "url": "https://open.spotify.com/album/6my5pq16NfKv3xiY2QSbSD"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/6DnxbM3gMaRubNRtZPPEGe"
     },
     {
-      "added_at": "2022-11-15 20:04:31",
+      "added_at": "2022-11-18 22:52:37",
       "album": {
         "name": "Bako",
         "url": "https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc"

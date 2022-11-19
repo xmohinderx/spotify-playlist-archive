@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Dog Days Are Over (Lofi Version)",
+        "url": "https://open.spotify.com/album/7iqDk6pZdA7aPAZpoZzXve"
+      },
+      "artists": [
+        {
+          "name": "Covers Unplugged",
+          "url": "https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135200,
+      "name": "Dog Days Are Over - Lofi Version",
+      "url": "https://open.spotify.com/track/5G6D5WHf5weBJ7Z9WA6pyH"
+    },
+    {
+      "album": {
         "name": "Feelin' Cute",
         "url": "https://open.spotify.com/album/2Csit9Kx4c6p4lHSN16h12"
       },

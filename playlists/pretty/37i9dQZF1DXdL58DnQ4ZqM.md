@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,655 likes - 161 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,650 likes - 161 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 100 | [Bob's Blues](https://open.spotify.com/track/2eep97s2NVaQGFkrLkiD3e) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 5:24 |
 | 101 | [I Remember Clifford](https://open.spotify.com/track/0MZVl0CKUu3mV8TQDBxbCN) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 6:38 |
 | 102 | [another perspective](https://open.spotify.com/track/4jNUYBuUipHefrBzXLbUdJ) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [hiraeth](https://open.spotify.com/album/0IHdXaDGLisO2XhWoLrBBX) | 2:46 |
-| 103 | [Sk8teing in Central Park](https://open.spotify.com/track/6wUDIvG1swx9ecmBBvO0ZR) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/2CVbSAcKER5tALZbqTgGN9) | 1:13 |
-| 104 | [Wavelude 1](https://open.spotify.com/track/57446HEMCZznJ4yrdhiY3h) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Waves](https://open.spotify.com/album/0aQS2UYvUXwUeQ7uyrpbPo) | 0:46 |
+| 103 | [Sk8teing in Central Park](https://open.spotify.com/track/2P7BIdxkUoT4pBBUKEmgOu) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow, Vol\. 2](https://open.spotify.com/album/7cz8iPcPXUJp0ol0khYo71) | 1:13 |
+| 104 | [Wavelude 1](https://open.spotify.com/track/2pc2KKSACUm6amHIiFz8X9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [CoryaYo](https://open.spotify.com/artist/3xqrRhBSgCer7lokC0Lhk4) | [Waves](https://open.spotify.com/album/3cxtHt4PQRgZp2hOQ4IUHP) | 0:46 |
 | 105 | [Jazzy Juice](https://open.spotify.com/track/2NAHlqaVQ5V2KKMsCUTzZP) | [tape joe](https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Jazzy Juice](https://open.spotify.com/album/3aFGNO7maHngZyDfgg3J7c) | 2:03 |
 | 106 | [Treviso](https://open.spotify.com/track/6mowqJfIFIpI39Gj5MjkG8) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Treviso](https://open.spotify.com/album/1uhZtZXyyL8TtDfHTW2F1D) | 2:52 |
 | 107 | [Idyllic Coastline](https://open.spotify.com/track/2otdVYQsL2mGrYqwyNKngv) | [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Idyllic Coastline](https://open.spotify.com/album/1isIPoToLnMJPl907uMNFp) | 1:59 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 160 | [Blue But Free](https://open.spotify.com/track/4N2Q2YuaVjQH4qkNgaLmSj) | [Bobby Covent](https://open.spotify.com/artist/5E0X8g3XPY7zB17N5v3vqo) | [Morning](https://open.spotify.com/album/0oRYAbRJ0GxQrCV6Hysbh8) | 4:47 |
 | 161 | [In motion](https://open.spotify.com/track/1irdRdvQJyyQA7J4ZNxzm2) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:00 |
 
-Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDZjYjFmYmFlMzlmYTY2NjU1ODM1NDBjNzZjNTVlZjQ5`
+Snapshot ID: `MTY2ODE2ODA1NywwMDAwMDAwMDYxOTUyMWE4YmYyZmVjYjhhMDcwYjFhMGVhMWRhMjA4`

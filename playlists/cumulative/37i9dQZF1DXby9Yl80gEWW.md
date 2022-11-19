@@ -4,13 +4,13 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-187 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
+188 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/4YsfLsdnQQm3Z91YQleLNc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [30 Turkeys](https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [30 Turkeys](https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a) | 2:20 | 2022-02-25 |  |
 | [40 West](https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Fork In The Road](https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes) | 4:00 | 2021-12-03 |  |
-| [Aesop Mountain](https://open.spotify.com/track/46rDdtMN5rzMDp6UiIpg4Q) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Aesop Mountain](https://open.spotify.com/album/7DJIYczo0iFkxAuMmsBVDd) | 3:28 | 2022-07-29 |  |
+| [Aesop Mountain](https://open.spotify.com/track/46rDdtMN5rzMDp6UiIpg4Q) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Aesop Mountain](https://open.spotify.com/album/7DJIYczo0iFkxAuMmsBVDd) | 3:28 | 2022-07-29 | 2022-11-19 |
 | [Aesop Mountain](https://open.spotify.com/track/710oc7jGMREe9vWsYraOck) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Songs of the Sunrise Fox](https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n) | 3:28 | 2022-09-30 |  |
 | [Airish](https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [The Song of the Banjo](https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ) | 4:17 | 2021-12-03 |  |
 | [Annabelle June](https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9) | [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP), [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Appalachian Picking Society](https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg) | 3:33 | 2021-12-03 |  |
@@ -113,6 +113,7 @@
 | [Little Sadie](https://open.spotify.com/track/1VkBsbIRNgkpj0cLd6xz5k) | [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Instrumental Classic Country Hits](https://open.spotify.com/album/6ffjDIFQ2p0b9OLdGV1qgF) | 1:17 | 2021-12-03 |  |
 | [Mags' 21st](https://open.spotify.com/track/7gMhJ4Fpo1trxaMYxSglq0) | [Corner House](https://open.spotify.com/artist/3yZ8XLroYVSjMsmJEHstte) | [Mags' 21st](https://open.spotify.com/album/6BSXFnVzzxQY6WSApZPLpP) | 3:54 | 2022-04-15 | 2022-07-28 |
 | [Mansinneedof](https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Song Up In Her Head](https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP) | 2:51 | 2021-12-03 |  |
+| [Mashbluegrass D\-28](https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr), [Dan Crary](https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5) | [Mashbluegrass D\-28](https://open.spotify.com/album/58YWl56eUa43jptyZg79nO) | 8:15 | 2022-11-18 |  |
 | [Midnight on the Water](https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc) | [John Reischman](https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt), [Scott Nygaard](https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF), [Sharon Gilchrist](https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx) | [The Harmonic Tone Revealers](https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd) | 5:11 | 2021-12-03 |  |
 | [Missing Vassar](https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Kentucky Thunder](https://open.spotify.com/artist/7wYEs2F2dHz3VuIJdYqn7K) | [Instrumentals](https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ) | 4:25 | 2021-12-03 |  |
 | [Mississippi Sawyer](https://open.spotify.com/track/2dbYoWs0IsUVcz9OeaHJJW) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Mississippi Sawyer](https://open.spotify.com/album/2EjxC0BmdIoRkp4DbCCU1h) | 2:35 | 2021-12-03 | 2022-07-28 |

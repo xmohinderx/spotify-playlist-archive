@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-158 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
+159 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/5A1SI2B6RgO6SGlWTiXlLb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Baker's Dolphin](https://open.spotify.com/track/0pvSZn0ubo1g1j1f4bihI6) | [Jim Wallis](https://open.spotify.com/artist/2bvFPvB1oS49jPbQ68yKqL), [Nick Goss](https://open.spotify.com/artist/3H4QM9olbUCc7po6geVsfB) | [Baker's Dolphin](https://open.spotify.com/album/7DZeLHcd48XCwRUFGjKjGj) | 5:41 | 2022-03-17 | 2022-07-28 |
 | [Be Forgotten](https://open.spotify.com/track/0fDflCdnV8tMYMDmGqr28V) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2022-07-29 |
 | [Being \- Midori Hirano Rework](https://open.spotify.com/track/1chIXynfO7wfUcRARw76sz) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Being \(Midori Hirano Rework\)](https://open.spotify.com/album/3N9fNfWHwjqnt1oVpT3U3a) | 3:10 | 2022-08-05 | 2022-11-09 |
+| [Being \- Midori Hirano Rework](https://open.spotify.com/track/4u9hRGO7bNfOctFljtUpJj) | [Balladeste](https://open.spotify.com/artist/5Yhilpigcsjcfgryd62l50), [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Being \(Midori Hirano Rework\)](https://open.spotify.com/album/1FJ2B4lbxJmqIhgX4dpSKS) | 3:10 | 2022-11-11 |  |
 | [Bethlehem \(Glimpse\)](https://open.spotify.com/track/0yxe3iTUbWYrd6OkPdZvX5) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Bethlehem](https://open.spotify.com/album/0b46xV200KRIkBVcRaOqtS) | 5:46 | 2022-09-20 |  |
 | [Birds & Flutes](https://open.spotify.com/track/7usiMIQ4471lFXmVsUworT) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993\-1997](https://open.spotify.com/album/11GgRVmpjBJNVRPjNPQQTQ) | 5:21 | 2022-03-17 |  |
 | [breathe](https://open.spotify.com/track/0zA9f8XcPinLZXQTZ4frKG) | [Project AER](https://open.spotify.com/artist/0iMWUBpWAGKAenBVePrZFP), [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [after.](https://open.spotify.com/album/0lySn87GZkkmgPOInrnuC2) | 8:27 | 2022-03-30 | 2022-07-22 |
@@ -125,7 +126,7 @@
 | [Silken Pt\. 2.1](https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:52 | 2022-03-17 | 2022-09-13 |
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-07-29 |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 |  |
-| [Solar](https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Orchestral Tape Studies](https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP) | 6:07 | 2022-08-19 |  |
+| [Solar](https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Orchestral Tape Studies](https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP) | 6:07 | 2022-08-19 | 2022-11-19 |
 | [Space 5](https://open.spotify.com/track/3hj4aPlRreailkV20LbAYK) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:00 | 2022-03-17 | 2022-09-13 |
 | [Sparrow Arc Tall](https://open.spotify.com/track/3iaMYZGYYQNHQ8CzsbNV1O) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Sparrow Arc Tall](https://open.spotify.com/album/4Gsw06a8dhF4Ynw4AlKuBP) | 2:04 | 2022-09-12 |  |
 | [Spinnaker on a Southerly](https://open.spotify.com/track/6zrdZQiLJvaIMWzuCOyyIC) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:07 | 2022-03-17 | 2022-08-23 |

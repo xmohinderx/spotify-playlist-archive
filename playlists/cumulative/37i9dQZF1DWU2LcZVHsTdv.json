@@ -2374,6 +2374,24 @@
     },
     {
       "album": {
+        "name": "Tell Somebody 'Bout You",
+        "url": "https://open.spotify.com/album/3nYkJBH8aukTHcj3AacU22"
+      },
+      "artists": [
+        {
+          "name": "Adam Sanders",
+          "url": "https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "Tell Somebody 'Bout You",
+      "url": "https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T"
+    },
+    {
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },

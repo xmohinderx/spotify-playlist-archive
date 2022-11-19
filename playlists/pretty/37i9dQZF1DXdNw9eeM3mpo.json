@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Fabulosos Cadillacs en portada.",
-  "num_followers": 407421,
+  "num_followers": 407437,
   "original_name": "skad'ak\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDU1MTk3MiwwMDAwMDAwMDcyYzZlNmQ3NDk2M2Y3MDk2ZjBmMDg4ZmJhOTBkMjBj",
+  "snapshot_id": "MTY2NDU1MTk3MiwwMDAwMDAwMDg1ZTY2NjQ3YWZjYjE5YWI3OGM1ZWY2YzNhYTU2MWRk",
   "tracks": [
     {
       "added_at": "2021-12-21 17:00:46",
@@ -887,6 +887,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Serie Verde - El Gran Silencio",
+        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Terc3ra Llamada",
         "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 224669,
       "name": "Adi\u00f3s adi\u00f3s",
       "url": "https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Serie Verde - El Gran Silencio",
-        "url": "https://open.spotify.com/album/5bDB07KHKtzAS4BADukcjG"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Anakena (Deluxe)",
-        "url": "https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG"
-      },
-      "artists": [
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 219649,
-      "name": "Sanguchito",
-      "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Plomo Revienta",
         "url": "https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc"
       },
@@ -1375,22 +1359,6 @@
       "duration_ms": 252280,
       "name": "All\u00e1 Cay\u00f3",
       "url": "https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1411,6 +1379,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Super Riddim Internacional Volumen 1",
         "url": "https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 222306,
       "name": "Song Bomb",
       "url": "https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Anakena (Deluxe)",
+        "url": "https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 219649,
+      "name": "Sanguchito",
+      "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1573,6 +1573,42 @@
       "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Contra El Viento",
+        "url": "https://open.spotify.com/album/7s2OSu8SOC2BCvyzJ5pr5k"
+      },
+      "artists": [
+        {
+          "name": "Percance",
+          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
+        },
+        {
+          "name": "Jorge Serrano De Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/2URqV9qzDLQghUs8FcWPBY"
+        }
+      ],
+      "duration_ms": 213011,
+      "name": "Como Saber",
+      "url": "https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Flores para los Muertos",
+        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
+    },
+    {
       "added_at": "2022-07-15 04:41:04",
       "album": {
         "name": "M\u00fasica Guerrera",
@@ -1595,42 +1631,6 @@
       "duration_ms": 186000,
       "name": "M\u00fasica Guerrera",
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Flores para los Muertos",
-        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Contra El Viento",
-        "url": "https://open.spotify.com/album/7s2OSu8SOC2BCvyzJ5pr5k"
-      },
-      "artists": [
-        {
-          "name": "Percance",
-          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
-        },
-        {
-          "name": "Jorge Serrano De Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/2URqV9qzDLQghUs8FcWPBY"
-        }
-      ],
-      "duration_ms": 213011,
-      "name": "Como Saber",
-      "url": "https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 236930,
       "name": "Pachuco - En Vivo en el Foro Sol - 17.11.17",
       "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Jaula De Grillos",
-        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
     }
   ],
   "unique_name": "skad'ak\u00e1",

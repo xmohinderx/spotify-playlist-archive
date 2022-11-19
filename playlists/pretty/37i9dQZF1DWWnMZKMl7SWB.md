@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,488 likes - 216 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,454 likes - 216 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 171 | [Landed On Mars](https://open.spotify.com/track/0lLpBKoNZ9EbEoUkHqDyJO) | [Atlas Bound](https://open.spotify.com/artist/6107PIkQDuEUcdpZqSzQsu) | [Lullaby EP](https://open.spotify.com/album/7Af5m7w4dZrfAUwavhIFJB) | 3:44 |
 | 172 | [Stumble](https://open.spotify.com/track/3uvALUobqjZvTGAh6737Mb) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Juicy Fruit](https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq) | 4:30 |
 | 173 | [Again \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/114BzpOMtJscxWepVeoRmF) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 5:26 |
-| 174 | [Plätscher](https://open.spotify.com/track/2VrOoFaMXJMMPMuQD5OJdB) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Plätscher](https://open.spotify.com/album/7GOYKHSRNM9IHRqUyh2i9L) | 4:13 |
+| 174 | [Plätscher](https://open.spotify.com/track/4fBHiFOlhyuQ5yFcUIAKmP) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Plätscher](https://open.spotify.com/album/4EvaziSKIjq0LNifgfnjld) | 4:13 |
 | 175 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 |
 | 176 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
 | 177 | [1988 \- Original Mix](https://open.spotify.com/track/68YRdMv167zby0ceobW8em) | [Youandewan](https://open.spotify.com/artist/4z6FshDl8yeHQSpFWdgN32) | [Luca Ricci Presents: Aenaria Chill Wmc '09 @ Night](https://open.spotify.com/album/6bzOtmrMzoXqkPa2WKj6yC) | 10:32 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 215 | [Rose's Thorn](https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 4:24 |
 | 216 | [A Bird's Call](https://open.spotify.com/track/0zDeGbSeyIloTRHQhTXhys) | [Nebulae](https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v) | [A Bird's Call](https://open.spotify.com/album/3PD5R09YXs4zCo34UoDmP2) | 3:02 |
 
-Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMGU5ZTZiYTZiNjQ0NjBmNTAzMzAzNGQ3YWI5ZjM5ZTU4`
+Snapshot ID: `MTY2ODE4NTcwOSwwMDAwMDAwMGNkMWY1YzczMTcwMjE2MzcwN2YyOGIyNTc3YTUxZDcz`

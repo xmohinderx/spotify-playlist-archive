@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Jas
+> The very best of Punjabi romance featuring Jass Manak
 
-618 songs - 1 day 9 hr 33 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+619 songs - 1 day 9 hr 37 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Gabru Di Jaan](https://open.spotify.com/track/4apGS4ldFAEb4fDnkO1eWy) | [Mann Dhami](https://open.spotify.com/artist/56AGQhzutHSeoBy1kiWgET), [Kamal Khangura](https://open.spotify.com/artist/5pb4Hwfu5ykoQy94XHrOqT) | [Gabru Di Jaan](https://open.spotify.com/album/1JjswonXPB6XWFY4cS99Q5) | 2:57 | 2022-09-15 | 2022-09-23 |
 | [Gaddi Te Cash](https://open.spotify.com/track/0uRJ59HziWoXm7tRSKZVCd) | [Sunny Kahlon](https://open.spotify.com/artist/1H5i29nyKuLuvowaqkYDLF), [Rummi Dodher](https://open.spotify.com/artist/04lgbBBLaSklEQWkNPGHZd) | [Gaddi Te Cash](https://open.spotify.com/album/380vz7zqGCMEfdZsbXNPWo) | 3:11 | 2022-09-21 |  |
 | [Gaddi Vich](https://open.spotify.com/track/0KxuTHWJkecNAPKuXWIqZH) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Gaddi Vich](https://open.spotify.com/album/6bfbWtvi8eyz80nVUOOX7t) | 2:52 | 2022-09-13 |  |
+| [Gal Ban Jae](https://open.spotify.com/track/29d2haeSBT0E7ZIfj21JdF) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Gal Ban Jae](https://open.spotify.com/album/3kUDb1S9rTTuPauMvSDivX) | 3:31 | 2022-11-18 |  |
 | [Gal Ni Bani](https://open.spotify.com/track/14yIcx0HA4RTKkndUvHlda) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Gal Ni Bani](https://open.spotify.com/album/4pOsWsGiGZtzzUDoOvzqCl) | 3:07 | 2022-03-18 | 2022-05-20 |
 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 | 2022-05-20 |
 | [Gal Sun Ke](https://open.spotify.com/track/5B1lbZYUPga3sZgD87um0W) | [Dil Sandhu](https://open.spotify.com/artist/4v9zktlAwWhLLhm8vZazny), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Lovey Akhtar](https://open.spotify.com/artist/5baJF3Zd6EDt4njVMaqhoD) | [Gal Sun Ke](https://open.spotify.com/album/31lU2rJSfpFZjKWPUhMxM8) | 3:14 | 2022-02-28 | 2022-03-11 |

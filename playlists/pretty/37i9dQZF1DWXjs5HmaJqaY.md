@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,057 likes - 70 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,023 likes - 70 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kinematic Motion](https://open.spotify.com/track/4rUhhO3Ztf1Ij9gjumbz8W) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Porcupine EP](https://open.spotify.com/album/06OzwkhkR0MPA4mT2SUdBD) | 7:45 |
 | 2 | [Echodeltaalfaxray](https://open.spotify.com/track/4dDCPZhr8fCiCIMKEXZYnk) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 7:20 |
 | 3 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
-| 4 | [Six For Gold](https://open.spotify.com/track/5x7FKrpE3JBVbOSQ9O7cSn) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Six For Gold](https://open.spotify.com/album/3CbIAm371uRIjuo9pfeSYd) | 5:01 |
+| 4 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 5 | [Stardust and Glitter](https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Elektronenschwungdynamik](https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME) | 6:42 |
 | 6 | [OK](https://open.spotify.com/track/6FaOYioHDoL3Tt1c1Zn9EZ) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [OK, OK](https://open.spotify.com/album/0TERygqKJpDLNi8zwfyCzZ) | 5:46 |
 | 7 | [Zeitgeist \- Edit](https://open.spotify.com/track/7DAaK0FTmMhFHPdaxaNxew) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Zeitgeist](https://open.spotify.com/album/6opqQmqgQs8UNLeCQlSMPS) | 2:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 |
 | 70 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `MTY2ODE3MTUxOSwwMDAwMDAwMDQwYWQxZmQzYzg5YjRhYmU0ZTRjM2YxN2Y4M2Q3NDc1`
+Snapshot ID: `MTY2ODc4MDY1MSwwMDAwMDAwMDc1Zjg5YmYyZjYyYTNmMDYwOGI5MmY5MGVjOWI1YzM5`

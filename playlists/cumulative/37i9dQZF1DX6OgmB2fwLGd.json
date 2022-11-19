@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 121600,
       "name": "BABYBOY",
       "url": "https://open.spotify.com/track/0f4iY83d7HGIljumcbKb8H"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 158117,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J"
@@ -3435,7 +3435,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 97250,
       "name": "freddie",
       "url": "https://open.spotify.com/track/72qubW4aIepd7GDHKK9TP5"
@@ -5053,7 +5053,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 194546,
       "name": "less than me (with NoCap)",
       "url": "https://open.spotify.com/track/1giAAC2ehzhihRYA7sxYHO"
@@ -5122,6 +5122,28 @@
     },
     {
       "album": {
+        "name": "Lightyear pt2 (feat. Blueface)",
+        "url": "https://open.spotify.com/album/3MRbTwIzRgLZYLrhTqfFej"
+      },
+      "artists": [
+        {
+          "name": "Lil Seeto",
+          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127983,
+      "name": "Lightyear pt2 (feat. Blueface)",
+      "url": "https://open.spotify.com/track/3Vu0ImBVqPtxKxv0XxoU7G"
+    },
+    {
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/0TkTzn4WhXp5jv8kohZEQx"
       },
@@ -5137,6 +5159,24 @@
       "duration_ms": 128004,
       "name": "Like That",
       "url": "https://open.spotify.com/track/11GBUIsJrsSFr8OJVOekLq"
+    },
+    {
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "album": {
@@ -7406,6 +7446,24 @@
     },
     {
       "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/3fQgV59rik8qhrdYOeJS7l"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141508,
+      "name": "Shut It",
+      "url": "https://open.spotify.com/track/48h4R1aBUa6BitV6GeCjOM"
+    },
+    {
+      "album": {
         "name": "shut the fuck up talking to me",
         "url": "https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv"
       },
@@ -7439,6 +7497,24 @@
       "duration_ms": 154800,
       "name": "SIMPLE",
       "url": "https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3"
+    },
+    {
+      "album": {
+        "name": "sipping my tea",
+        "url": "https://open.spotify.com/album/1WxpvhzIDHLG5F9unXWM0C"
+      },
+      "artists": [
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102548,
+      "name": "sipping my tea",
+      "url": "https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL"
     },
     {
       "album": {

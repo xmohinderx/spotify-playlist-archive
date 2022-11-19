@@ -1,13 +1,77 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: DRAM",
-  "num_followers": 2283328,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Masego",
+  "num_followers": 2283144,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDMxMGRlMmY1NzIxNDA5NDdjODk0OGU5M2VjZDBlNDM3",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDEyNzVmYjMxODk4YjljMWNhZjAzMWU1MTczZTgwYzFi",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/0z2WCYayeU6t4gYMnaHcVZ"
+      },
+      "artists": [
+        {
+          "name": "Nakkia Gold",
+          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/6yAnK8YECaJVnFRydwcG5s"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Euphonyus",
+        "url": "https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "duration_ms": 250599,
+      "name": "been away.",
+      "url": "https://open.spotify.com/track/11iSQ6pus3eE5bzyU8491F"
+    },
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
@@ -20,37 +84,9 @@
           "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
-      "duration_ms": 275826,
-      "name": "3's Company",
-      "url": "https://open.spotify.com/track/4aZtYr0cAYmSJgtQUurlXS"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/4PFKs4k84A1sMcUPKEQ5kE"
-      },
-      "artists": [
-        {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
-        },
-        {
-          "name": "Adam Flowers",
-          "url": "https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq"
-        },
-        {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 179283,
-      "name": "Fall 4 U",
-      "url": "https://open.spotify.com/track/6ufxSxrhprDHC7GzBocSHl"
+      "duration_ms": 159218,
+      "name": "Can\u2019t Hold You Down",
+      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -111,22 +147,6 @@
       "duration_ms": 196494,
       "name": "Say You Want Me",
       "url": "https://open.spotify.com/track/1xTYy3K3hiTcoZfoD7culn"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2022-07-22 04:02:14",
@@ -233,6 +253,22 @@
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
       "added_at": "2022-07-08 20:50:37",
       "album": {
         "name": "Body (EP)",
@@ -247,38 +283,6 @@
       "duration_ms": 237037,
       "name": "Whateva U Need",
       "url": "https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "What Had Happened Was\u2026",
-        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
-      },
-      "artists": [
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 159218,
-      "name": "Can\u2019t Hold You Down",
-      "url": "https://open.spotify.com/track/61dlOsLjABToOe5RzZ5Dqf"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "ALL OF YOU / BEST I GO",
-        "url": "https://open.spotify.com/album/5pJ3X5ArCwqYj6ZTzfGx7I"
-      },
-      "artists": [
-        {
-          "name": "C.S. Armstrong",
-          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
-        }
-      ],
-      "duration_ms": 312005,
-      "name": "ALL OF YOU / BEST I GO",
-      "url": "https://open.spotify.com/track/4A19HDJFwEUC5kKXGR7HmA"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -299,6 +303,54 @@
       "duration_ms": 259040,
       "name": "90s",
       "url": "https://open.spotify.com/track/7oAKG9bqYZctRaNsMFQrmz"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "DENNIS RODMAN",
+        "url": "https://open.spotify.com/album/5JaOxdoLazsQ3vfMjGrAJo"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 170611,
+      "name": "DENNIS RODMAN",
+      "url": "https://open.spotify.com/track/0S18XXVdi7ZOjoe51STVcv"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "P.B.J.",
+        "url": "https://open.spotify.com/album/1dysgGdZKKCvtqyk9k455I"
+      },
+      "artists": [
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        }
+      ],
+      "duration_ms": 248928,
+      "name": "P.B.J.",
+      "url": "https://open.spotify.com/track/1KEXxYtfNyK08g2Pc4gcSh"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "What Had Happened Was\u2026",
+        "url": "https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 275826,
+      "name": "3's Company",
+      "url": "https://open.spotify.com/track/4aZtYr0cAYmSJgtQUurlXS"
     },
     {
       "added_at": "2022-07-08 20:50:37",
@@ -341,22 +393,6 @@
       "url": "https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Go b/w Fight Club",
-        "url": "https://open.spotify.com/album/2ZK0zIydKOHRev4XInpo8r"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 206396,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "The Seed",
@@ -379,6 +415,22 @@
       "duration_ms": 312341,
       "name": "Soul Caliber",
       "url": "https://open.spotify.com/track/5F6RAwXNcvQ8Y42YzP4ppU"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Go b/w Fight Club",
+        "url": "https://open.spotify.com/album/2ZK0zIydKOHRev4XInpo8r"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 206396,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -615,6 +667,22 @@
       "duration_ms": 176796,
       "name": "Proud Kid",
       "url": "https://open.spotify.com/track/6bv2d3OlKcRS9T4StknEEX"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "ALL OF YOU / BEST I GO",
+        "url": "https://open.spotify.com/album/5pJ3X5ArCwqYj6ZTzfGx7I"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 312005,
+      "name": "ALL OF YOU / BEST I GO",
+      "url": "https://open.spotify.com/track/4A19HDJFwEUC5kKXGR7HmA"
     },
     {
       "added_at": "2022-07-08 20:50:37",

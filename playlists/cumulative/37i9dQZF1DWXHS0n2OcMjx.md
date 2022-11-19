@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-181 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
+183 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/3GJGRd7vcx421WDwZ4kpeK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 | 2022-04-08 |  |
 | [Change Ain't Bad](https://open.spotify.com/track/1GLHd8HvaMTaul0CR0YlYo) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:06 | 2022-04-08 |  |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-08 |  |
-| [Chilled.](https://open.spotify.com/track/3fVo647lcGZ2lnWBxnCjnY) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/5ixF5wx5FwPceBSl7iv4ta) | 1:34 | 2022-04-08 |  |
+| [Chilled.](https://open.spotify.com/track/1EU15pwaX4T8xrHD3w5ove) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/1HYraiL1W5J9idv5RgidTr) | 1:34 | 2022-07-08 |  |
+| [Chilled.](https://open.spotify.com/track/3fVo647lcGZ2lnWBxnCjnY) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/5ixF5wx5FwPceBSl7iv4ta) | 1:34 | 2022-04-08 | 2022-11-19 |
 | [City Lights Spell Your Name](https://open.spotify.com/track/7dsWVHW3noaS5KtlMmBwqQ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [City Lights Spell Your Name](https://open.spotify.com/album/6FTZzaYfhOJV0sjLFBlv0R) | 3:30 | 2022-04-08 |  |
 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 | 2022-04-08 |  |
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2022-04-08 |  |
@@ -161,7 +162,8 @@
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-08 |  |
 | [Summer](https://open.spotify.com/track/2qTZ6o9q4vxxVlGbsJCFTA) | [Sweet Oscar](https://open.spotify.com/artist/7hwWfUVrKczeyLavJykzzL), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Summer](https://open.spotify.com/album/1KnSRTKOePuA8bk3J5rfZz) | 1:56 | 2022-04-08 |  |
 | [Summer Haze](https://open.spotify.com/track/7sTB4R9y1hyAxxA2mixs3L) | [Flimbo](https://open.spotify.com/artist/0kqL9mr7IkoVgzLpIvfUhp) | [Summer Haze](https://open.spotify.com/album/3MQOnybwcpMFWWpHfO8n7X) | 1:44 | 2022-04-08 |  |
-| [Sunny.](https://open.spotify.com/track/5oVsXNnT4i7oDrNtzPA5ky) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/2W1R8hIJVxRMOP5aCSgE8S) | 1:41 | 2022-04-08 |  |
+| [Sunny.](https://open.spotify.com/track/5oVsXNnT4i7oDrNtzPA5ky) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/2W1R8hIJVxRMOP5aCSgE8S) | 1:41 | 2022-04-08 | 2022-11-19 |
+| [Sunny.](https://open.spotify.com/track/7cKh8PHBwZJwY5JsmLGhSQ) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/384a8GfDuhJ7Tu91qjz10C) | 1:41 | 2022-07-08 |  |
 | [sunset chat](https://open.spotify.com/track/6bmTICS9eCs5o0uYEW0wrH) | [sonolon](https://open.spotify.com/artist/1y3NpCoVmVh5gLL0uGKv5t) | [city skyline](https://open.spotify.com/album/3R8pEXyYGpi1I28nNyj50r) | 2:04 | 2022-04-08 |  |
 | [Sunsets](https://open.spotify.com/track/1VCL1t2CmukUubF5gWVrw1) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Endless Sunday Vol\. 1](https://open.spotify.com/album/6VBlQ6xCwGJ5SXp5q3dpU2) | 2:57 | 2022-07-08 |  |
 | [Sunsets](https://open.spotify.com/track/3EB629GKclrdBBMJStxs6y) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0) | 2:57 | 2022-04-08 | 2022-07-29 |

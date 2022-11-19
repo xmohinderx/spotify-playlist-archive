@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 64932,
+  "num_followers": 64962,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGJjMDNhNjU4NzM1YmEyZTI2NzQ5ZDdjMzU0NzVjYjM4",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDhlMzFkMWE4ODNhMmQ1ZWNlNDcxODdjZjRhNWNhNTNh",
   "tracks": [
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "NIKKI",
+        "url": "https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU"
+      },
+      "artists": [
+        {
+          "name": "Joseph of Mercury",
+          "url": "https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO"
+        }
+      ],
+      "duration_ms": 198524,
+      "name": "NIKKI",
+      "url": "https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO"
+    },
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
@@ -73,6 +89,22 @@
       "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Like You Do",
+        "url": "https://open.spotify.com/album/0C6DTs2pX6d1DOV4OS6a9g"
+      },
+      "artists": [
+        {
+          "name": "Ken@Work",
+          "url": "https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj"
+        }
+      ],
+      "duration_ms": 323292,
+      "name": "Like You Do",
+      "url": "https://open.spotify.com/track/63QhzuRjv4CwRiS5S2jbnd"
+    },
+    {
       "added_at": "2022-08-26 04:02:00",
       "album": {
         "name": "Love And Appreciation (Radio Edit)",
@@ -87,6 +119,26 @@
       "duration_ms": 188216,
       "name": "Love And Appreciation - Radio Edit",
       "url": "https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Take Me To Your Body",
+        "url": "https://open.spotify.com/album/5zRr1T7JkfEJp6Kf1LmmPG"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Take Me To Your Body",
+      "url": "https://open.spotify.com/track/4Ct3Oh6BG30FJxerhB8vRT"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -105,6 +157,22 @@
       "url": "https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q"
     },
     {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/0LtZsZ2jYhBG7kV6W5jRbU"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        }
+      ],
+      "duration_ms": 356612,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/196FDQyfrv7Al62xocxKk5"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Bye Bye Blues",
@@ -119,6 +187,22 @@
       "duration_ms": 170526,
       "name": "Bye Bye Blues",
       "url": "https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2"
+    },
+    {
+      "added_at": "2022-11-18 05:01:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1FH0tgNLVXGIYwQO5o7YLc"
+      },
+      "artists": [
+        {
+          "name": "dazeychain",
+          "url": "https://open.spotify.com/artist/6nRyak5Bpqz95OwA9JUBVE"
+        }
+      ],
+      "duration_ms": 149039,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/79IUJvJMFv3rOvKTs0eIhr"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1665,42 +1749,6 @@
       "url": "https://open.spotify.com/track/3ipRosZucAVvarAmxKWH1A"
     },
     {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "DISCO (Extended Mixes)",
-        "url": "https://open.spotify.com/album/29SeXSOfJNZetqkzF7stl9"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 320386,
-      "name": "Say Something - Extended Mix",
-      "url": "https://open.spotify.com/track/6W2ECdBNRoqVfHLRAPo71h"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "The Way (feat. Norman Vladimir)",
-        "url": "https://open.spotify.com/album/3gVI5yKLE7ds74O2yZD03v"
-      },
-      "artists": [
-        {
-          "name": "JKriv",
-          "url": "https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K"
-        },
-        {
-          "name": "Norman Vladimir",
-          "url": "https://open.spotify.com/artist/0Z28GthKQS0BG8FvHMwYw1"
-        }
-      ],
-      "duration_ms": 205937,
-      "name": "The Way(feat. Norman Vladimir)",
-      "url": "https://open.spotify.com/track/4nmGmv2c6eryWwpCjkRS3N"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pretty Please (Supertaste Disco Mix)",
@@ -1839,58 +1887,6 @@
       "duration_ms": 188398,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4475NmYiujibxkv2O7sWED"
-    },
-    {
-      "added_at": "2021-09-24 04:02:00",
-      "album": {
-        "name": "Let Your Body Move",
-        "url": "https://open.spotify.com/album/3lqdJrVDVedT2dfnDWhxTG"
-      },
-      "artists": [
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        }
-      ],
-      "duration_ms": 242009,
-      "name": "Let Your Body Move",
-      "url": "https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Romantic Images",
-        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        },
-        {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
-        }
-      ],
-      "duration_ms": 247934,
-      "name": "Emotion feat. Wild Nothing",
-      "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa"
-      },
-      "artists": [
-        {
-          "name": "Zella Day",
-          "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     }
   ],
   "unique_name": "Nu-Disco",

@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 183209,
       "name": "Change of Mind - Acoustic",
       "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
@@ -4967,7 +4967,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 260519,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/6q8YtmvckE9yOtfQ9W6WUP"
@@ -10314,6 +10314,24 @@
     },
     {
       "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/6QU5K23dgQ6kOca5INWOVB"
+    },
+    {
+      "album": {
         "name": "Self Help",
         "url": "https://open.spotify.com/album/4TZ8HlWTrX9EbVbbPEyRM6"
       },
@@ -12669,6 +12687,24 @@
       "duration_ms": 202280,
       "name": "This Town (feat. Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/4aSfgWmRa9KsISD4Jmx7QB"
+    },
+    {
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2022-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
     },
     {
       "album": {

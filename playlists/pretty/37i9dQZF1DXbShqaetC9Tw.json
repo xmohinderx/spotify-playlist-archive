@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUwMzEwNSwwMDAwMDAwMDkyMTkzZmYyMzZhMmNlMDFmMWMxZWU1NDM2Mzg5YjBj",
+  "snapshot_id": "MTY2ODUwMzEwNSwwMDAwMDAwMDE2OWI1OGFkNmQyYzVmMjFhMzM5MjdhNTk1OTliY2Qw",
   "tracks": [
     {
       "added_at": "2022-11-09 08:02:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-11-09 08:02:43",
       "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "Eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
-    },
-    {
-      "added_at": "2022-11-09 08:02:43",
-      "album": {
         "name": "Don't Be Blue",
         "url": "https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 183296,
       "name": "Don't Be Blue",
       "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
+    },
+    {
+      "added_at": "2022-11-09 08:02:43",
+      "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "Eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     },
     {
       "added_at": "2022-11-09 08:02:43",

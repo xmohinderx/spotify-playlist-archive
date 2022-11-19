@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover, Freddie Gibbs
 
-285 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
+286 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/57t0qc1oksSiWQYs8DnYvL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [GENGAR](https://open.spotify.com/track/67aZ6BmM33bI7yEcleZOgg) | [Sad Frosty](https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GENGAR](https://open.spotify.com/album/52E64Z2VwodPp5HXWiAp12) | 3:24 | 2022-07-18 | 2022-08-27 |
 | [Get My Way](https://open.spotify.com/track/6AJT1CZjVSZV72Mu3I8uwv) | [Tay Outlaw](https://open.spotify.com/artist/63NScFEHlgit34dvvivwYi) | [Get My Way](https://open.spotify.com/album/4TGlSUKZEjmh4Sj1mtYFAW) | 2:11 | 2021-11-23 | 2022-02-26 |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-09 | 2022-10-26 |
-| [Gimme Space](https://open.spotify.com/track/2MSEJtE3R2SaM7jAooknT5) | [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Gimme Space](https://open.spotify.com/album/0RyYJfNhL4YifaGnvo9qQO) | 3:11 | 2022-09-02 |  |
+| [Gimme Space](https://open.spotify.com/track/2MSEJtE3R2SaM7jAooknT5) | [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Gimme Space](https://open.spotify.com/album/0RyYJfNhL4YifaGnvo9qQO) | 3:11 | 2022-09-02 | 2022-11-19 |
+| [Gimme Space](https://open.spotify.com/track/3dSEBaTuzmzMxt8FWLVZ9J) | [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Gimme Space](https://open.spotify.com/album/0NTScbT2lUiaUb5DVrCZ40) | 3:11 | 2022-09-02 |  |
 | [GO GO GO!](https://open.spotify.com/track/6WBOshy2g5d3HiFMCRmsoF) | [YSN Flow](https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF) | [GO GO GO!](https://open.spotify.com/album/0122L1z0RmowcHYZTg7tLo) | 2:15 | 2022-09-02 | 2022-09-17 |
 | [GO OFF \(Freestyle\)](https://open.spotify.com/track/2H3e5abGOZErX73Rt2WT3W) | [Roc Solid](https://open.spotify.com/artist/2aHFGHOtZbY4es0QHxoOw9) | [GO OFF \(Freestyle\)](https://open.spotify.com/album/5Wzfp92BAda4nwzsLbBs9t) | 1:55 | 2022-04-29 | 2022-05-14 |
 | [Golden Child](https://open.spotify.com/track/4UO8Ywh6dKZVJZ9iUofEhD) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 1:54 | 2022-03-18 | 2022-04-02 |

@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: 200 Stab Wounds",
-  "num_followers": 7421,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Speed",
+  "num_followers": 7419,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "MjQ3MiwyNmQ1ODQyZmI3YTEzZTk5ZWJjYTNkOGJhNWRhYzEyNjAwNDk0OTkw",
+  "snapshot_id": "MjQ4MCxkYjcxZjM2MTk2ZDcwNjFkZTRhOGZlOGVkNzhmYWU1ODFhMmQ3NTMw",
   "tracks": [
+    {
+      "added_at": "2022-11-18 20:30:46",
+      "album": {
+        "name": "One Blood We Bleed",
+        "url": "https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 145190,
+      "name": "One Blood We Bleed",
+      "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
+    },
+    {
+      "added_at": "2022-11-18 20:30:56",
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
+    },
+    {
+      "added_at": "2022-11-18 20:31:06",
+      "album": {
+        "name": "Congelia",
+        "url": "https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 481320,
+      "name": "Congelia",
+      "url": "https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld"
+    },
+    {
+      "added_at": "2022-11-18 20:31:11",
+      "album": {
+        "name": "Pissed",
+        "url": "https://open.spotify.com/album/7GrmcUajNVtMHWyiWcg9sW"
+      },
+      "artists": [
+        {
+          "name": "Sanguisugabogg",
+          "url": "https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN"
+        }
+      ],
+      "duration_ms": 198689,
+      "name": "Pissed",
+      "url": "https://open.spotify.com/track/4XXNCayzo7OFJGztzLkZm0"
+    },
+    {
+      "added_at": "2022-11-18 20:31:18",
+      "album": {
+        "name": "Tenkiller / Lake Time (Mr. Rodan)",
+        "url": "https://open.spotify.com/album/4HGSELCBT0TY9mBEiedgjB"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "duration_ms": 313032,
+      "name": "Tenkiller",
+      "url": "https://open.spotify.com/track/1VyU3Uf8oS99scpVqRYwWO"
+    },
+    {
+      "added_at": "2022-11-18 20:31:41",
+      "album": {
+        "name": "Killing Floor",
+        "url": "https://open.spotify.com/album/6xj91HWUFxs1KHlNtFBapJ"
+      },
+      "artists": [
+        {
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
+        }
+      ],
+      "duration_ms": 173791,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/0fX96Ub0Y3u8ThVVF5Ot8J"
+    },
     {
       "added_at": "2022-11-11 19:22:23",
       "album": {

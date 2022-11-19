@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 12632,
+  "num_followers": 12732,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc2OTYwMCwwMDAwMDAwMDk0MDMzY2NkMWYzN2EwNzIyMmQxYzZlN2EyMGU4YmNl",
+  "snapshot_id": "MTY2NDc2OTYwMCwwMDAwMDAwMDZmYjcwYjhiNTg5YmYzNzExN2FkODQ2NTMwZWNiNjM1",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 254453,
       "name": "Land Of The Snakes",
       "url": "https://open.spotify.com/track/0hW72l6tZgSY7Od2OUVDIC"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb"
     },
     {
       "added_at": "2022-10-03 04:00:00",

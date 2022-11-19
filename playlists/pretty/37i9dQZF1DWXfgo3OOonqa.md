@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > en unge från gbg
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,801 likes - 85 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,637 likes - 85 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 4 | [Dum](https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 2:13 |
 | 5 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 |
 | 6 | [Smooth](https://open.spotify.com/track/0yytFV5LM6FCKaeANeVvfv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [No Borders: European Compilation Project](https://open.spotify.com/album/3RE7S9ZwbNH3dPGY8rJdVP) | 2:51 |
-| 7 | [Nåt jag saknar](https://open.spotify.com/track/5UVBBWhlZ70q4sQknojSFL) | [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [Hjärnfonden \- Stress!](https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y) | 3:26 |
+| 7 | [Nåt jag saknar](https://open.spotify.com/track/5UVBBWhlZ70q4sQknojSFL) | [Modo Banja](https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [STRESS! \(Hjärnfonden\)](https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y) | 3:26 |
 | 8 | [ANTISOCIAL](https://open.spotify.com/track/1fdDWZpg2ywI873ZpywLt1) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [MEDAN VI FALLER](https://open.spotify.com/album/285NfeomqN2o31wYPnbI6I) | 2:59 |
 | 9 | [BORZ](https://open.spotify.com/track/7m5yy8LF2su0nvw9xrYzkz) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [BORZ](https://open.spotify.com/album/2TSw6JdtrxZRGKR9i4LHaQ) | 2:30 |
 | 10 | [Ooh](https://open.spotify.com/track/3E1y2Q6aRmaGT6LM8PxnSz) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Ooh](https://open.spotify.com/album/4mXzNKai3VRQ9HVVJW7T0i) | 2:16 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 45 | [ALLVARLIGT](https://open.spotify.com/track/6z74pgGsEewRC0WJ90staR) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [ALLVARLIGT + D KLART DOM HATAR OSS](https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb) | 3:18 |
 | 46 | [D KLART DOM HATAR OSS](https://open.spotify.com/track/2YKJ2m1l8GxKjzcCVVy7v2) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [ALLVARLIGT + D KLART DOM HATAR OSS](https://open.spotify.com/album/3O5mHDGkMkz3OaDpW2wCgb) | 2:14 |
 | 47 | [ENSAM](https://open.spotify.com/track/1oDpIq7M6EtxYdqJr5uTMD) | [Mazzo](https://open.spotify.com/artist/4cPM4H1MtqNzsuNdkRJ6Qx) | [ENSAM](https://open.spotify.com/album/1Eg9sKvnGFV6hD84W0hLML) | 2:26 |
-| 48 | [Timmar](https://open.spotify.com/track/5BXgS5z1VydcSorPfQdtCq) | [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4) | [Hjärnfonden \- Stress!](https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y) | 2:15 |
+| 48 | [Timmar](https://open.spotify.com/track/5BXgS5z1VydcSorPfQdtCq) | [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4) | [STRESS! \(Hjärnfonden\)](https://open.spotify.com/album/2aIri9IQ3Oa47td8w7dC1Y) | 2:15 |
 | 49 | [Vågorna](https://open.spotify.com/track/4UxcCFStKnPIyhOt70esUA) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Vågorna](https://open.spotify.com/album/0dqa53gaDVWLfbpM9BL6XZ) | 2:48 |
 | 50 | [SOLVALLA](https://open.spotify.com/track/3mhy4u6MBKCfAj18o67DHr) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [SOLVALLA](https://open.spotify.com/album/2j5ELaAQ6EmPiO79lnJIBn) | 2:28 |
 | 51 | [Devilish](https://open.spotify.com/track/21qmv5S238wxa9ZDiwbllJ) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Devilish](https://open.spotify.com/album/6gFdMohjEfbgysvBwTedKF) | 2:28 |

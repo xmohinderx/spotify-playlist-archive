@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 285692,
+  "num_followers": 285677,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Nzg4MDg0OCwwMDAwMDAwMGNiZjdiNjlhZWEyYzM4NjliMTNhYzc0ZDQ0ZWFiMDRk",
+  "snapshot_id": "MTY2Nzg4MDg0OCwwMDAwMDAwMDU1ZmY4M2YzMTQ3Y2FjZThlNGI2MDQ0ZTcxZGEyNWIz",
   "tracks": [
     {
       "added_at": "2022-11-08 04:14:08",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "Posada",
-        "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
       },
       "artists": [
         {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 187933,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -691,18 +691,18 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+        "name": "Posada",
+        "url": "https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
         }
       ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+      "duration_ms": 187933,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 149276,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
-    },
-    {
-      "added_at": "2022-11-08 04:14:08",
-      "album": {
         "name": "Amor Navide\u00f1o",
         "url": "https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 286320,
       "name": "Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/6nMPySUjYhQcGNGR51eGPj"
+    },
+    {
+      "added_at": "2022-11-08 04:14:08",
+      "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 149276,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
     },
     {
       "added_at": "2022-11-08 04:14:08",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-11-08 04:14:08",
       "album": {
-        "name": "Dios Me Se\u00f1al\u00f3",
-        "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
-      },
-      "artists": [
-        {
-          "name": "Lucha Villa",
-          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
-        }
-      ],
-      "duration_ms": 148259,
-      "name": "Tu Adi\u00f3s Es Mi Navidad",
-      "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
-    },
-    {
-      "added_at": "2022-11-08 04:14:08",
-      "album": {
         "name": "Navidad en America",
         "url": "https://open.spotify.com/album/1YFFQDQgGIqc6rhGa97FXH"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 478333,
       "name": "Navidad en Am\u00e9rica",
       "url": "https://open.spotify.com/track/2ccmP0Y9mO8VAsJ1tA8HUX"
+    },
+    {
+      "added_at": "2022-11-08 04:14:08",
+      "album": {
+        "name": "Dios Me Se\u00f1al\u00f3",
+        "url": "https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "duration_ms": 148259,
+      "name": "Tu Adi\u00f3s Es Mi Navidad",
+      "url": "https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1"
     },
     {
       "added_at": "2022-11-08 04:14:08",

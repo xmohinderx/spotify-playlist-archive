@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 327246,
+  "num_followers": 327220,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU3NjU2MSwwMDAwMDAwMDEzZjY3MmVmY2JjMTVkMmEzM2M2OWQ4MjYzODBiZjMz",
+  "snapshot_id": "MTY2ODU3NjU2MSwwMDAwMDAwMDc5OWZiNjA1YjVmZjMxZDZkNTY4MzM2OGJhMTczNmZj",
   "tracks": [
     {
       "added_at": "2022-11-16 05:29:21",
@@ -191,26 +191,6 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
-        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
-      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
+        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
+        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
+      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
+        "name": "Argumento - Spotify Singles",
+        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Argumento - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
         "name": "Evid\u00eancias",
         "url": "https://open.spotify.com/album/53TgszUvzimrVfwxBGDZ7h"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "Argumento - Spotify Singles",
-        "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Argumento - Spotify Singles",
-      "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
         "name": "Degrad\u00ea",
         "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
         "name": "O Caderno",
         "url": "https://open.spotify.com/album/4AsIrrva7npJe26M3wNPDH"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -943,6 +943,22 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
+        "name": "Esse Amor Chegou",
+        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        }
+      ],
+      "duration_ms": 152801,
+      "name": "Esse Amor Chegou",
+      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -963,18 +979,22 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "Esse Amor Chegou",
-        "url": "https://open.spotify.com/album/1rM9Zl5kCjZ8GwnwbetxJh"
+        "name": "Preciso Me Encontrar",
+        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
       "artists": [
         {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Pl\u00ednio Profeta",
+          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
         }
       ],
-      "duration_ms": 152801,
-      "name": "Esse Amor Chegou",
-      "url": "https://open.spotify.com/track/43qZK77WZUsK6c2HOvLXzj"
+      "duration_ms": 168681,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -999,26 +1019,6 @@
       "duration_ms": 243764,
       "name": "Tocando Em Frente",
       "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
-        "name": "Preciso Me Encontrar",
-        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Pl\u00ednio Profeta",
-          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
-        }
-      ],
-      "duration_ms": 168681,
-      "name": "Preciso Me Encontrar",
-      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 210030,
+      "name": "Rota\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
         "name": "Alceu Valen\u00e7a e Paulo Rafael",
         "url": "https://open.spotify.com/album/4HXr6RkfGfmm0rT6QQpuag"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 204873,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/4S0ifovuVyfVFJo0hnI3wK"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3CIOg9iBdor6DuwKGQVw0U"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Rota\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3OKyDGOG71Ct2BvfeILNla"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1247,6 +1247,58 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
+        "name": "Perguntas",
+        "url": "https://open.spotify.com/album/2S7tR53ClbpmiUVo7QylJL"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 198828,
+      "name": "Perguntas",
+      "url": "https://open.spotify.com/track/4GgR44xRO4v09zUpTSrAlN"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
+        "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
+        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        },
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        }
+      ],
+      "duration_ms": 261056,
+      "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
+      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
+        "name": "A Palo Seco (Radio Edit)",
+        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "A Palo Seco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1291,54 +1343,18 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "A Palo Seco (Radio Edit)",
-        "url": "https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm"
+        "name": "Unilateral",
+        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
       },
       "artists": [
         {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
         }
       ],
-      "duration_ms": 215660,
-      "name": "A Palo Seco - Radio Edit",
-      "url": "https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
-        "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
-        "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        },
-        {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
-        }
-      ],
-      "duration_ms": 261056,
-      "name": "Planeta V\u00eanus - Ao Vivo no Noites Cariocas",
-      "url": "https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
-        "name": "Perguntas",
-        "url": "https://open.spotify.com/album/2S7tR53ClbpmiUVo7QylJL"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 198828,
-      "name": "Perguntas",
-      "url": "https://open.spotify.com/track/4GgR44xRO4v09zUpTSrAlN"
+      "duration_ms": 157000,
+      "name": "Fica l\u00e1 Com Ela",
+      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1355,6 +1371,26 @@
       "duration_ms": 268868,
       "name": "Frequ\u00eancia Rara",
       "url": "https://open.spotify.com/track/1sfxVBu3mpDOAFteXZGdYn"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
+        "name": "Laiarai\u00e1",
+        "url": "https://open.spotify.com/album/4RdnMbpW6sXoIEvYaQcYl0"
+      },
+      "artists": [
+        {
+          "name": "Henrique Portugal",
+          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 210532,
+      "name": "Laiarai\u00e1",
+      "url": "https://open.spotify.com/track/5bHjeMbFmKNnXdf09cxEqQ"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1395,42 +1431,6 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "Unilateral",
-        "url": "https://open.spotify.com/album/2LzdiXVbmRVKg9oUV0xJKO"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Fica l\u00e1 Com Ela",
-      "url": "https://open.spotify.com/track/0D4oKyrvWNp7ONO0H7xlc5"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
-        "name": "Laiarai\u00e1",
-        "url": "https://open.spotify.com/album/4RdnMbpW6sXoIEvYaQcYl0"
-      },
-      "artists": [
-        {
-          "name": "Henrique Portugal",
-          "url": "https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 210532,
-      "name": "Laiarai\u00e1",
-      "url": "https://open.spotify.com/track/5bHjeMbFmKNnXdf09cxEqQ"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
         "name": "Universo Em Si",
         "url": "https://open.spotify.com/album/1MCzMAsPRNamqRW8fEYjSM"
       },
@@ -1447,26 +1447,6 @@
       "duration_ms": 206657,
       "name": "Devagar, Meu Bem",
       "url": "https://open.spotify.com/track/4usF77pzhFPT2Eefse5mzK"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1519,26 +1499,6 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
-        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        },
-        {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
-        }
-      ],
-      "duration_ms": 319000,
-      "name": "Papel Mach\u00ea",
-      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
         "name": "desculpe o au\u00ea",
         "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
       },
@@ -1559,18 +1519,22 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW"
+        "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
+        "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
       },
       "artists": [
         {
-          "name": "Pagui",
-          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
         }
       ],
-      "duration_ms": 154732,
-      "name": "Avenida da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
+      "duration_ms": 319000,
+      "name": "Papel Mach\u00ea",
+      "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1587,6 +1551,22 @@
       "duration_ms": 205360,
       "name": "Porto",
       "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW"
+      },
+      "artists": [
+        {
+          "name": "Pagui",
+          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "Avenida da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1619,6 +1599,26 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
         "name": "T\u00f4",
         "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
       },
@@ -1640,7 +1640,7 @@
       "added_at": "2022-11-16 05:29:21",
       "album": {
         "name": "Chico Chico Ao Vivo na Macaco Gordo",
-        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
+        "url": "https://open.spotify.com/album/1bus2kUGKliwotPBTiPUBo"
       },
       "artists": [
         {
@@ -1652,9 +1652,9 @@
           "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
         }
       ],
-      "duration_ms": 226949,
-      "name": "Ribanceira - Ao Vivo",
-      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
+      "duration_ms": 195506,
+      "name": "Templos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-11-16 05:29:21",
       "album": {
-        "name": "Retr\u00f3picos",
-        "url": "https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj"
-      },
-      "artists": [
-        {
-          "name": "Paulo Ohana",
-          "url": "https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712"
-        }
-      ],
-      "duration_ms": 271440,
-      "name": "Retr\u00f3picos",
-      "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
-    },
-    {
-      "added_at": "2022-11-16 05:29:21",
-      "album": {
         "name": "Caso Perdido",
         "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 204521,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
+    },
+    {
+      "added_at": "2022-11-16 05:29:21",
+      "album": {
+        "name": "Retr\u00f3picos",
+        "url": "https://open.spotify.com/album/76EbimmJ5cRGNUi4kWHsKj"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ohana",
+          "url": "https://open.spotify.com/artist/3f9cXdDfm0WiprbKUH6712"
+        }
+      ],
+      "duration_ms": 271440,
+      "name": "Retr\u00f3picos",
+      "url": "https://open.spotify.com/track/2PQeABnFDGAtJMMgtWxGtj"
     },
     {
       "added_at": "2022-11-16 05:29:21",
@@ -1828,7 +1828,7 @@
       "added_at": "2022-11-16 05:29:21",
       "album": {
         "name": "Chico Chico Ao Vivo na Macaco Gordo",
-        "url": "https://open.spotify.com/album/1bus2kUGKliwotPBTiPUBo"
+        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
       },
       "artists": [
         {
@@ -1840,9 +1840,9 @@
           "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
         }
       ],
-      "duration_ms": 195506,
-      "name": "Templos - Ao Vivo",
-      "url": "https://open.spotify.com/track/5gOXswoH6SMzvWy7lvCpQC"
+      "duration_ms": 226949,
+      "name": "Ribanceira - Ao Vivo",
+      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
     },
     {
       "added_at": "2022-11-16 05:29:21",

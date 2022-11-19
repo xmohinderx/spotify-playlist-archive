@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-169 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
+170 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [B2B](https://open.spotify.com/track/53pVSqKR9rgrr6iGs98JqO) | [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [B2B / Black Roses](https://open.spotify.com/album/7w1h2MpwzFTTGpa2pbJbK1) | 3:44 | 2022-09-30 |  |
 | [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 | 2022-07-08 |  |
 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2021-12-10 |  |
+| [Balinha da Alegria](https://open.spotify.com/track/4zHsjExrJLvh0jYU0kAH0r) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Balinha da Alegria](https://open.spotify.com/album/0z0NBoZejHXlZKQFSP5YMJ) | 2:40 | 2022-11-18 |  |
 | [Ball And Chain](https://open.spotify.com/track/0zD50HrXQAuuRlFyxIoCtx) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Svengali](https://open.spotify.com/album/2h8f7vS40iywANXRz0tiYL) | 2:34 | 2022-10-28 |  |
 | [Ballz](https://open.spotify.com/track/0E6sEHg7l8naQSdRvI5Uj2) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [DJ Buster G](https://open.spotify.com/artist/4of98cwLAIQy7WnSqlMmyX) | [BNGRZ001 \- Side B](https://open.spotify.com/album/41wgCm4bRRspnmqLEzqtVQ) | 2:50 | 2022-10-28 |  |
 | [BALTIMORE](https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ) | [THE BLVCK BUTTAFLY](https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb) | [INTO THE COCOON](https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw) | 4:00 | 2021-12-10 |  |
@@ -50,7 +51,7 @@
 | [Chance Right Now \- DJ Booman Remix](https://open.spotify.com/track/4JirtZKvAZ7Y7YJE2NPkjf) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Ernest Third](https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1), [Dj Booman](https://open.spotify.com/artist/7vYA1adA7T1pbr9HzgFuuS) | [Chance Right Now \(DJ Booman Remix\)](https://open.spotify.com/album/3F4zd7g9J4E85YxGnJTJYz) | 4:17 | 2022-05-27 | 2022-08-11 |
 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit](https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn) | 6:27 | 2021-12-10 |  |
 | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM) | [5Star](https://open.spotify.com/artist/493Nd7z7FKZXJOwQmuDng3), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Cmonnn \(Hit It One Time\)\(feat\. Lay Bankz\)](https://open.spotify.com/album/6yrKgdAGnLWgmaYP6pKUDw) | 2:44 | 2022-07-08 |  |
-| [COME THRU](https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Dapper Dan Midas](https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP) | [COME THRU](https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp) | 3:09 | 2021-12-10 |  |
+| [COME THRU](https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Dapper Dan Midas](https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP) | [COME THRU](https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp) | 3:09 | 2021-12-10 | 2022-11-19 |
 | [Concrete Jungle \(Remastered\)](https://open.spotify.com/track/1yuKvCO1nQp30mTqhNOBDY) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [TWC \(Remastered\)](https://open.spotify.com/album/2KzGOC58nFutaunks7kGvg) | 10:15 | 2021-12-10 | 2022-07-29 |
 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 | 2021-12-10 | 2022-07-02 |
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-07-08 |  |

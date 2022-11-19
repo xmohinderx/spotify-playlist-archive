@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈ cover: The Notorious B.I.G\. 🕊
+> it's scary hours...⛈ cover: TLC
 
 211 songs - 14 hr 8 min - [published](https://open.spotify.com/playlist/5JxuVXVwLcumgmoRyl2uUE)
 

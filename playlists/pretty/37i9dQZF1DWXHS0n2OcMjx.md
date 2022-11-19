@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,082 likes - 147 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,076 likes - 147 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 110 | [Carvings](https://open.spotify.com/track/6z4JNDNIHHrLz79QET2jrA) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Disque Magique](https://open.spotify.com/album/58LvwpDLLsRGNwJN160DWU) | 2:36 |
 | 111 | [Wonderfool](https://open.spotify.com/track/02M3N0e0a6srBlevdm62LZ) | [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Loungin'](https://open.spotify.com/album/7IvMUT6TmGUblqzpuRLA1S) | 3:00 |
 | 112 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 |
-| 113 | [Chilled.](https://open.spotify.com/track/3fVo647lcGZ2lnWBxnCjnY) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/5ixF5wx5FwPceBSl7iv4ta) | 1:34 |
+| 113 | [Chilled.](https://open.spotify.com/track/1EU15pwaX4T8xrHD3w5ove) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/1HYraiL1W5J9idv5RgidTr) | 1:34 |
 | 114 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 |
 | 115 | [Inside All Day](https://open.spotify.com/track/6SM9wXpzMbD0Sivei8dOUm) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Inside All Day](https://open.spotify.com/album/2lBQBS5DqOboX9CrD0rSjc) | 2:26 |
 | 116 | [Hollow Park](https://open.spotify.com/track/05ULKBGbXdbVpqqokRTkEp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Hollow Park](https://open.spotify.com/album/0O0bs1ShYyAYFuJaqIuNur) | 2:06 |
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 132 | [Do Some Real](https://open.spotify.com/track/4xx8doH9tVSvTd7i8s5tKi) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Monothrope](https://open.spotify.com/album/5EyUxvviTCMStig7V4pnvw) | 2:56 |
 | 133 | [Snake Plant](https://open.spotify.com/track/4c62KxdplU5lFoc90cieVl) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [English Breakfast](https://open.spotify.com/album/6bqFWuCzfQjP3pvL5LtsP1) | 2:11 |
 | 134 | [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 |
-| 135 | [Sunny.](https://open.spotify.com/track/5oVsXNnT4i7oDrNtzPA5ky) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/2W1R8hIJVxRMOP5aCSgE8S) | 1:41 |
+| 135 | [Sunny.](https://open.spotify.com/track/7cKh8PHBwZJwY5JsmLGhSQ) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/384a8GfDuhJ7Tu91qjz10C) | 1:41 |
 | 136 | [Morning Sweetness](https://open.spotify.com/track/5XaohMu79GaUzXEKVLJdrE) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Morning Sweetness](https://open.spotify.com/album/12GXoeM9z30czVZyWtkoag) | 2:54 |
 | 137 | [Marbles](https://open.spotify.com/track/5Gc0CM7a83XeqbrW5O5a6S) | [tusken.](https://open.spotify.com/artist/43P02sF00xAIa3d9mp1n24), [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Complex Channel Collective Tapes Vol\. 3](https://open.spotify.com/album/3I51mayU1aBAzUdTFQ3SrR) | 1:50 |
 | 138 | [Ekans](https://open.spotify.com/track/7etPnsz665GchBQlo9xoTs) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Beet Tape](https://open.spotify.com/album/4TSN6CGuxQKxsG8dFgBreC) | 2:21 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 146 | [Personal](https://open.spotify.com/track/1Jas2WQLIJM6GNaHm7d6pi) | [Densky9](https://open.spotify.com/artist/2FzImqc6MWD57A5yR5KXz0) | [Panda Talk](https://open.spotify.com/album/4F3Z82DPFRp0PHJCQkpiKt) | 3:42 |
 | 147 | [Hello Friend](https://open.spotify.com/track/2pEj9K2VWulm0nyTrDYond) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:01 |
 
-Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDUyNWU4NzA2YjUyNzMwN2Q2MzJhOTBhMzU4YjFlOTE3`
+Snapshot ID: `MTY1NzI5NDE3MCwwMDAwMDAwMDk4Y2I2ZjVlZGRmMWJiZjVjMTVhYmQ5OTQ5Y2NjYTNk`

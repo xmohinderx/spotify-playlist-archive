@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Fitz & The Tantrums",
-  "num_followers": 199734,
+  "num_followers": 199716,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDg1YjIwOTFjYWRjNDA0NmIyYWFhZDA2YjNjODQ3MTA5",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDAxYmMwMjFhODAyYjdhNGFkMGFhZGMxZDQzMTkwYmQy",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Ruin My Life",
@@ -41,52 +57,36 @@
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "The Ballet Girl",
-        "url": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R"
       },
       "artists": [
         {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
         }
       ],
-      "duration_ms": 201424,
-      "name": "The Ballet Girl",
-      "url": "https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd"
+      "duration_ms": 192380,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
+      "added_at": "2022-11-18 05:00:00",
       "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+        "name": "i wish you loved me",
+        "url": "https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi"
       },
       "artists": [
         {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "ugly",
-        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "ugly",
-      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
+      "duration_ms": 200409,
+      "name": "i wish you loved me",
+      "url": "https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -105,6 +105,86 @@
       "url": "https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2"
     },
     {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 201424,
+      "name": "The Ballet Girl",
+      "url": "https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "The DJ Is Crying For Help",
+        "url": "https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "The DJ Is Crying For Help",
+      "url": "https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "this is what i get",
+        "url": "https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 136045,
+      "name": "i can't do anything right",
+      "url": "https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "ugly",
+        "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "ugly",
+      "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Georgia",
@@ -119,6 +199,26 @@
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Help (feat. Pheelz)",
+        "url": "https://open.spotify.com/album/5xKdduUE9fNJW743rjCJib"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 163908,
+      "name": "Help (feat. Pheelz)",
+      "url": "https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -151,6 +251,22 @@
       "duration_ms": 212568,
       "name": "Oh Caroline",
       "url": "https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "ROLLIN DICE",
+        "url": "https://open.spotify.com/album/3nRxmVSbUJuvpZ0vQEeoXT"
+      },
+      "artists": [
+        {
+          "name": "Gabe James",
+          "url": "https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj"
+        }
+      ],
+      "duration_ms": 185628,
+      "name": "ROLLIN DICE",
+      "url": "https://open.spotify.com/track/2CQU7ZryOFVcFUVFMXCL3C"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -431,22 +547,6 @@
       "duration_ms": 168676,
       "name": "Sick of U (with Oliver Tree)",
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Good Grief!",
-        "url": "https://open.spotify.com/album/014sDuoL5qu3jviq8vBi63"
-      },
-      "artists": [
-        {
-          "name": "Haiden",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 180115,
-      "name": "Good Grief!",
-      "url": "https://open.spotify.com/track/2NM1xnjA3rV2vVlbRobkIH"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -951,22 +1051,6 @@
       "duration_ms": 167200,
       "name": "sun keeps on shining",
       "url": "https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf"
-    },
-    {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd"
-      },
-      "artists": [
-        {
-          "name": "Lone Waves",
-          "url": "https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS"
-        }
-      ],
-      "duration_ms": 244571,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL"
     },
     {
       "added_at": "2022-09-09 19:32:26",

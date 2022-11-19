@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,431 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,435 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 39 | [Venus in Crime](https://open.spotify.com/track/6GIfeazbwCigcsTdANLSY4) | [Budino](https://open.spotify.com/artist/7hIgvBjjOaeDERlGsp2kCb) | [Oddysee Vol.1](https://open.spotify.com/album/0pN59V8c0cQssusQaAuUqp) | 6:27 |
 | 40 | [El Cid](https://open.spotify.com/track/4zvhQJ1VCd5kw6mkDKq1Li) | [The Rhythm Odyssey](https://open.spotify.com/artist/39jtuB50Gl7Gl6mwC0oJzI), [Dr Dunks](https://open.spotify.com/artist/0paMqYjRRhYPEbFgRlgkky) | [El Cid](https://open.spotify.com/album/2tQMOeSoiykYb6SxTBQOzj) | 9:41 |
 | 41 | [UIUAWIO](https://open.spotify.com/track/13HsJcwBw5kP88hBrigSKJ) | [Man Power](https://open.spotify.com/artist/13k6pNRPmiKWrRQtg1xlf3) | [Use It Up](https://open.spotify.com/album/4M2qkhzszKnEE2fmBDmf7z) | 5:43 |
-| 42 | [Talom](https://open.spotify.com/track/3mMukwl5iDMi518Uf9usgg) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/5KFDMwb90MGxvAnK8ndolH) | 7:37 |
+| 42 | [Talom](https://open.spotify.com/track/6AAThdK0BAhyvQJycTfxtG) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/3xBNwMOvLuvVRRWCNkScZe) | 7:37 |
 | 43 | [Goliath](https://open.spotify.com/track/1gkKqxlT2a5nK1MKKclTyk) | [Hardt Antoine](https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA) | [Numéro 03](https://open.spotify.com/album/2DSZSzrwLhU9leOoALJllO) | 6:55 |
 | 44 | [Alpine Breaks \- Alex Kassian Remix](https://open.spotify.com/track/7lBaZd781ZgNmJudOibET1) | [Clint](https://open.spotify.com/artist/3SUXHChvS0yDwYxSOwKltb), [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Planet Dance Vol\. II](https://open.spotify.com/album/0kqslLuTBxBfQLYnnFAFcd) | 7:49 |
 | 45 | [Mortal Dance](https://open.spotify.com/track/2RUooO4tssU4KwF98Eoy44) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Mortal Dance](https://open.spotify.com/album/47OPF5Ar1hjoGD4WLzI4xH) | 5:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 70 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 |
 
-Snapshot ID: `MTY2NzgzNDAyMywwMDAwMDAwMDJlODdlMTEwYTRmZmExZjdhZGExMzY1MDA3ODVkNzM0`
+Snapshot ID: `MTY2NzgzNDAyMywwMDAwMDAwMDc2MmM0MWZiN2FkZTkwZTk4NjhlMTY3MjlmMDU4ZWQy`

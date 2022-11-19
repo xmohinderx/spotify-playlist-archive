@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-242 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+243 songs - 14 hr 20 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dixie Biscuit \- Radio Edit](https://open.spotify.com/track/34aycmeaxuuxipebrdkLUP) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Dixie Biscuit "The Shanghai Tapes"](https://open.spotify.com/album/1K8SDSlPA3NlSCI4dyuDny) | 3:19 | 2020-10-30 | 2022-07-29 |
 | [Dizzy \- Radio Edit](https://open.spotify.com/track/2PN0FcvL9PECkRvXFtandp) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy) | [Dizzy](https://open.spotify.com/album/0Ecc5qXRqwi4vmFcfH8pIb) | 2:53 | 2022-10-12 | 2022-11-08 |
 | [Dizzy Street](https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Dizzy Street](https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP) | 3:25 | 2022-09-09 |  |
-| [Don't Stop](https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Don't Stop](https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2) | 3:02 | 2021-04-16 |  |
+| [Don't Stop](https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Don't Stop](https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2) | 3:02 | 2021-04-16 | 2022-11-19 |
 | [Doo uap, doo uap, doo uap \- Radio edit](https://open.spotify.com/track/68j2rXimsXQYezvQn2Ot4c) | [Gabin](https://open.spotify.com/artist/1SYoQVIV4djFVGt0En7qsQ) | [Hôtel Costes 5](https://open.spotify.com/album/4yuBlJyKxO1AcBFQ9umCIS) | 3:35 | 2020-10-30 |  |
 | [Dracula \- Spooky Swing Mix](https://open.spotify.com/track/6H45oJazSsraQkbenDSqp8) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Roaring Halloween \(Electro Swing 1\)](https://open.spotify.com/album/3YMODnnzf1E98gGRxuB7tn) | 2:43 | 2022-10-12 | 2022-11-08 |
 | [Dracula Swing \- Swahn Remix](https://open.spotify.com/track/37i6PdvL2KGTgKojmNAFWM) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Swahn](https://open.spotify.com/artist/2pkSQjanu8QgmGBLFvqEri) | [Electro Speakeasy Club, Vol\. 1 \(Mixed by Dr Cat\)](https://open.spotify.com/album/3g3iI6wvPoaG0xZQNI4fs2) | 7:19 | 2022-10-12 | 2022-11-08 |
@@ -119,6 +119,7 @@
 | [Lullaby](https://open.spotify.com/track/4eQKQ5ZO4UlSUzskVqFU0d) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [Bubbles](https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405) | 4:40 | 2020-10-30 | 2022-05-14 |
 | [Ma Che Bella Compagnia](https://open.spotify.com/track/7MyWJygAJSDHHCuUYQjLij) | [Melania](https://open.spotify.com/artist/4BgqxhBc4xQYh4LtvsdY1j), [Christian Lisi](https://open.spotify.com/artist/2Y5F7YnM8WtYuFgedTtrXW) | [Ma Che Bella Compagnia](https://open.spotify.com/album/6mMymPze76dt6udn3DvpID) | 3:01 | 2021-10-01 | 2022-07-28 |
 | [Mad Swing](https://open.spotify.com/track/71GQcDwhFboLeiFccQM3x9) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Mad Swing](https://open.spotify.com/album/5HjXRmCThrSQsEdthLCIYk) | 4:00 | 2021-07-09 | 2022-07-28 |
+| [Magic Man](https://open.spotify.com/track/0hPLh77jQo9DFNVP2YPKUD) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [J Fitz](https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ) | [Magic Man](https://open.spotify.com/album/1ChLMfuAUS9ieJlUDix04t) | 3:22 | 2022-11-18 |  |
 | [Mais Non \- 1920 Version](https://open.spotify.com/track/5OeflTgTzyBrdLxJQtcn0c) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Mais Non \(1920 Version\)](https://open.spotify.com/album/1WnrAf1vekSKVzhUUiixzO) | 3:11 | 2020-10-30 |  |
 | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/album/1a3Ce15aKCM4me0RqMLIUZ) | 4:10 | 2020-10-30 | 2022-07-22 |
 | [Mambo Rap](https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Mambo Rap](https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF) | 3:23 | 2020-10-30 |  |

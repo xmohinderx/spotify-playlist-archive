@@ -2,9 +2,9 @@
 
 ### [Big Room Dance](https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM)
 
-> Big rooms with big sounds\. Cover: Quintino
+> Big rooms and big sounds\. Cover: Maddix
 
-213 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+214 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Heaven \(feat\. Sofia Quinn\) \- Club Mix](https://open.spotify.com/track/6uTCim4OGFZOauCqHWIpu9) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\) \[Club Mix\]](https://open.spotify.com/album/3Vw0qrLB2KLYTXEPRFVK9b) | 2:55 | 2022-04-14 |  |
 | [Here For You](https://open.spotify.com/track/6bKPbGoNajOURIcz6scBaO) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N) | [Here For You](https://open.spotify.com/album/5hTj9b6fi06IiQCtwpIUOi) | 3:04 | 2022-06-30 | 2022-08-07 |
 | [Hero \- Dubvision Remix](https://open.spotify.com/track/1zz4r1u9x46gVmY5qZthEC) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Hero \(Dubvision Remix\)](https://open.spotify.com/album/35sT9OK0TguT214N9u70rS) | 3:51 | 2022-04-14 | 2022-07-26 |
+| [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-11-18 |  |
 | [Huang](https://open.spotify.com/track/2LQNjxWyhEsFhVxnwLrmSB) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Drifter5](https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU) | [Huang](https://open.spotify.com/album/3TAPrHvvmIKCAkzZQrgmpC) | 2:34 | 2022-04-14 | 2022-07-29 |
 | [Hurricane \(feat\. SHIBUI\) \- Festival Mix](https://open.spotify.com/track/3oAioabSUIFV7nCLUD2oI4) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\) \[Festival Mix\]](https://open.spotify.com/album/00630cytMT6FPwlRSZTqE5) | 3:03 | 2022-07-28 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/77oD6k2q00vr5oJUcn7xbl) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [I Don't Wanna Know](https://open.spotify.com/album/5ZojN7FtyFSGuNhTamRzOw) | 2:38 | 2022-04-14 | 2022-06-03 |
@@ -194,7 +195,7 @@
 | [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2022-10-11 |  |
 | [The Launch](https://open.spotify.com/track/7peqYrbdxhtRCg8rDp3gok) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [The Launch](https://open.spotify.com/album/7cZbQpz7BIkXMAMUnGWl8P) | 4:27 | 2022-04-14 | 2022-07-29 |
 | [The Lone Ranger](https://open.spotify.com/track/12KMoAMzaeBFh91O5sxP2o) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [The Lone Ranger](https://open.spotify.com/album/3tkyV2SZsHRE8GZ9SkCIVP) | 2:36 | 2022-04-14 | 2022-07-29 |
-| [The Lone Ranger](https://open.spotify.com/track/2gfqlKUkAMyyxDaCuYF8Xf) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [The Lone Ranger](https://open.spotify.com/album/4dRU6vnG1rmVgBvXs8dIFd) | 2:36 | 2022-07-28 |  |
+| [The Lone Ranger](https://open.spotify.com/track/2gfqlKUkAMyyxDaCuYF8Xf) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [The Lone Ranger](https://open.spotify.com/album/4dRU6vnG1rmVgBvXs8dIFd) | 2:36 | 2022-07-28 | 2022-11-19 |
 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 | 2022-04-14 |  |
 | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \- Gabry Ponte Festival Mix](https://open.spotify.com/track/0LpWBNqyyn81WnoILV9mxV) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [MOKABY](https://open.spotify.com/artist/3AXI2Qfty5IVrmtQzi8weo) | [The Passenger \(LaLaLa\) \[feat\. MOKABY\] \[Gabry Ponte Festival Mix\]](https://open.spotify.com/album/4FzZTh4CGJ6WJhR84F2T2o) | 2:42 | 2022-04-14 | 2022-07-29 |
 | [The Phoenix](https://open.spotify.com/track/3FQ7o0hI7lM1j9DfLKl7RJ) | [REVLIN](https://open.spotify.com/artist/3pScnrwwm1UK3sczkyDq33) | [The Phoenix](https://open.spotify.com/album/13GDnb6X5qI16ZyNbuHPDr) | 3:52 | 2022-04-14 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 76445,
+  "num_followers": 76458,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDcxMzRhNzRhZWM1YjJkOGJhYmQ5NTE5M2RiYzcyZWZl",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGUzMzM3MmJjMWFkZTdiMThiYTY4NDQxYzYwODQ5MzY2",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -83,26 +83,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Alex Campos y Sus Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 251013,
       "name": "Si Estoy Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Diez Mil Razones",
+        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
+      },
+      "artists": [
+        {
+          "name": "Zander",
+          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
+        }
+      ],
+      "duration_ms": 180069,
+      "name": "Diez Mil Razones",
+      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Colaboraciones de Ayer y Hoy",
         "url": "https://open.spotify.com/album/5uu15dSyOKwEVPY9qRzT6t"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 241960,
       "name": "Soy Jose",
       "url": "https://open.spotify.com/track/5KNXGKonSOR13GtCdSluPS"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Diez Mil Razones",
-        "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
-      },
-      "artists": [
-        {
-          "name": "Zander",
-          "url": "https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN"
-        }
-      ],
-      "duration_ms": 180069,
-      "name": "Diez Mil Razones",
-      "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
     },
     {
       "added_at": "2020-11-24 13:23:55",

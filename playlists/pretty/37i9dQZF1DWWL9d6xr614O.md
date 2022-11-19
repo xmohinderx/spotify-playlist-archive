@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,900 likes - 81 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,896 likes - 81 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 13 | [Sigaw Ng Puso](https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5) | [Erik Santos](https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE) | [Sigaw Ng Puso](https://open.spotify.com/album/3houv6BmnMopjWysIRohVd) | 6:42 |
 | 14 | [Pagsintang Papuri](https://open.spotify.com/track/0tccKQmX8sjrqo3xe9eW0d) | [Jojo Ibañez](https://open.spotify.com/artist/05NCyKg98MYGeFobMmMd2x) | [Pagsintang Papuri](https://open.spotify.com/album/2HYoXU1zBTE8up9zx1fSDR) | 4:46 |
 | 15 | [FORTRESS](https://open.spotify.com/track/07PSmpoDsd7gKHov4mGcn1) | [nathan huang](https://open.spotify.com/artist/4dzy2MaxMOZwVTWXXq3JAL) | [FORTRESS](https://open.spotify.com/album/1ya0fmkQ86Yh1eCqAGpXCV) | 3:44 |
-| 16 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/1AWPIzLVFnRvUKsNdG97PL) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/7qXTIRbsNuTB1Jlnx3WfMn) | 2:58 |
+| 16 | [10,000 Reasons / What a Beautiful Name](https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Worship](https://open.spotify.com/album/6DbXxaqDbuh6WXTWnPQh47) | 2:58 |
 | 17 | [New Generation](https://open.spotify.com/track/2yFze3Tul0hCB0eBOkz324) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Jeng Belen](https://open.spotify.com/artist/0l1E52m5uF5Ah2wQr8HAlw) | [New Generation](https://open.spotify.com/album/7ehgv9ZB0HgxtcxBmCeQsG) | 3:29 |
 | 18 | [Ako Ay Iyo](https://open.spotify.com/track/6zWix26MsK7btzIAJtOsMW) | [Yeuseff](https://open.spotify.com/artist/3aQu9d2OvoHU04uehdimRn), [Deovincci Dasig](https://open.spotify.com/artist/19aD9C8Y8OYJO7NsRXictD) | [Ako Ay Iyo](https://open.spotify.com/album/0A7pZA6TRRvxO6tu2cwVPT) | 4:00 |
 | 19 | [Hallelujah Instead](https://open.spotify.com/track/2MjEaqylTvxnJpD4FpjiD6) | [Mary Ozaraga](https://open.spotify.com/artist/4GS8yp4W5CAsrm9nuGmOVB), [Ike Ozaraga](https://open.spotify.com/artist/6h4Pma9HCStherLHOMlNFO) | [Hallelujah Instead](https://open.spotify.com/album/7wPnD9GquCu0L6e8nMGqrt) | 4:39 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 80 | [Where Would I Be](https://open.spotify.com/track/1QN30TGAZWHiGInfeR5o2Q) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Where Would I Be](https://open.spotify.com/album/0n7GtDVbxR1GPJnDuxOQgv) | 4:04 |
 | 81 | [Remember Me My Lord](https://open.spotify.com/track/0TmWgjV5ipkl906KUPw1UL) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq), [Paul Tagle](https://open.spotify.com/artist/2mElsd377gxOFa8sDNYK93) | [Remember Me My Lord](https://open.spotify.com/album/6yvfzk36IpK6sujZy4OGY8) | 5:09 |
 
-Snapshot ID: `MTY2NzQ5MTIwMCwwMDAwMDAwMDY5OWYwOWZmZDJhOTY1N2QzYzdiYTk1YWE2MTlkNzky`
+Snapshot ID: `MTY2NzQ5MTIwMCwwMDAwMDAwMGViMjE4N2M1NzQ2ZTQwNTI3OWUyMzczNjcyZjUyMTMz`

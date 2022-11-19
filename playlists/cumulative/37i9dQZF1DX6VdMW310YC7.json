@@ -10805,7 +10805,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Honeydew",
       "url": "https://open.spotify.com/track/6sBhU1fiwW3LeGd9RiuCMz"
@@ -19743,6 +19743,28 @@
     {
       "album": {
         "name": "Riffs of the Night",
+        "url": "https://open.spotify.com/album/6MAywkF67xHfeeJuXrWMf6"
+      },
+      "artists": [
+        {
+          "name": "Jos & Eli",
+          "url": "https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248538,
+      "name": "Riffs of the Night",
+      "url": "https://open.spotify.com/track/0fcC6bE1mkCSJWRlWVwkbx"
+    },
+    {
+      "album": {
+        "name": "Riffs of the Night",
         "url": "https://open.spotify.com/album/6Abdri62FUkqPquCfsuKZY"
       },
       "artists": [
@@ -24615,7 +24637,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 224113,
       "name": "Together",
       "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
@@ -24835,7 +24857,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 240510,
       "name": "Too Weak",
       "url": "https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14"

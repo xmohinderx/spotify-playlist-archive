@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The pulse of new indie rock. Featuring new music by The Backseat Lovers.",
+  "description": "The pulse of new indie rock. Featuring new music by Yot Club.",
   "name": "Today's Indie Rock",
   "published_playlist_ids": [
     "6NQ4UrfxHZRCQftucSkbbm"
@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Double Superfine (Deluxe)",
+        "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "85 Down PCH",
+      "url": "https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY"
+    },
+    {
+      "album": {
         "name": "90s American Superstar",
         "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
       },
@@ -275,6 +293,24 @@
       "duration_ms": 262133,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2dlnnHHv1ntw2M4uM1ShK1"
+    },
+    {
+      "album": {
+        "name": "WTF is even going on?",
+        "url": "https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143550,
+      "name": "adrenaline",
+      "url": "https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo"
     },
     {
       "album": {
@@ -401,7 +437,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 183273,
       "name": "Air Guitar",
       "url": "https://open.spotify.com/track/3Ilb3Q1okDhJMGKs2gyudt"
@@ -495,7 +531,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 200988,
       "name": "All Day I Dream About",
       "url": "https://open.spotify.com/track/3RdDhtBteHxiehIooekE8Z"
@@ -765,7 +801,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 270784,
       "name": "Armchair",
       "url": "https://open.spotify.com/track/2bULAzCJpIOvDeyfzjriYf"
@@ -877,7 +913,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 184576,
       "name": "August",
       "url": "https://open.spotify.com/track/21Ys4ySXmSWzTWoVLTgNkF"
@@ -1331,7 +1367,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185109,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/14ZagAXGWz5Ycpm0AsZQYZ"
@@ -1807,7 +1843,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 220123,
       "name": "Buena Park",
       "url": "https://open.spotify.com/track/4ek4nixH3b9vzzSNIKnbLl"
@@ -1933,7 +1969,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 231573,
       "name": "California High",
       "url": "https://open.spotify.com/track/1wDBglPaH5ehDDNiNWCHp0"
@@ -2535,7 +2571,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 225000,
       "name": "Consequences",
       "url": "https://open.spotify.com/track/4ivH644trNJe9wyi0OmHuw"
@@ -2787,7 +2823,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 229960,
       "name": "Cry",
       "url": "https://open.spotify.com/track/6m4E54GfmxDReiIoPMPALO"
@@ -2899,7 +2935,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 149443,
       "name": "Daisy - Spotify Singles",
       "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
@@ -3133,7 +3169,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 192953,
       "name": "Dead Hotel",
       "url": "https://open.spotify.com/track/1qz7fAa2IVL0vtaswCE445"
@@ -3223,7 +3259,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 124532,
       "name": "Demons at the Dinner Table",
       "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
@@ -3475,7 +3511,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 169200,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
@@ -3511,7 +3547,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 220640,
       "name": "Don't Take It Personally",
       "url": "https://open.spotify.com/track/2KBCLxrGtUHGsbQTTabnft"
@@ -3529,7 +3565,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 157419,
       "name": "DONNIE DARKO",
       "url": "https://open.spotify.com/track/5a6Sd7VuMRuH6t2sYv3Gue"
@@ -3547,7 +3583,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 191640,
       "name": "down bad",
       "url": "https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl"
@@ -3619,7 +3655,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 173933,
       "name": "Drew",
       "url": "https://open.spotify.com/track/67PZp26Jwm9iEM8nG864hk"
@@ -4087,7 +4123,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 276320,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B"
@@ -4145,6 +4181,24 @@
       "duration_ms": 206820,
       "name": "Feel A Thing",
       "url": "https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N"
+    },
+    {
+      "album": {
+        "name": "rock candy",
+        "url": "https://open.spotify.com/album/16JCQMKg7SiMc2KMYRKEa9"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144642,
+      "name": "feel good",
+      "url": "https://open.spotify.com/track/5jWX61eqxkT7GnyqpUOcc4"
     },
     {
       "album": {
@@ -4383,7 +4437,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 317279,
       "name": "First Time Caller",
       "url": "https://open.spotify.com/track/3pJ1EjeERFlGkj93KWp2Fi"
@@ -5295,7 +5349,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 174496,
       "name": "hollllllllliday",
       "url": "https://open.spotify.com/track/5ZcPvn9grLZzppQ69iCAxr"
@@ -5331,7 +5385,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 231493,
       "name": "Home",
       "url": "https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh"
@@ -5493,7 +5547,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 191173,
       "name": "I Ain\u2019t Quite Where I Think I Am",
       "url": "https://open.spotify.com/track/1UwUhKmFxGKs59xiWO60Sx"
@@ -5749,7 +5803,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 202490,
       "name": "I Think I Left the Stove On",
       "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
@@ -6181,7 +6235,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 225278,
       "name": "ILY2",
       "url": "https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr"
@@ -6199,7 +6253,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 139146,
       "name": "im so happy",
       "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
@@ -6397,7 +6451,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 193896,
       "name": "it's your film, i'm just playing the part",
       "url": "https://open.spotify.com/track/6s9WMApmrO549X59MV0pr3"
@@ -6613,7 +6667,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 137840,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
@@ -6912,6 +6966,24 @@
     },
     {
       "album": {
+        "name": "Leash on My Neck",
+        "url": "https://open.spotify.com/album/7vcpF0T8XU5j0QtC7bz8pf"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158693,
+      "name": "Leash on My Neck",
+      "url": "https://open.spotify.com/track/35sQgCOe4QZ3TTnJw57zgL"
+    },
+    {
+      "album": {
         "name": "Leaving Today",
         "url": "https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4"
       },
@@ -7103,7 +7175,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 228354,
       "name": "lonely",
       "url": "https://open.spotify.com/track/3w2SbYo8eSKB7UNfEMCzOR"
@@ -7637,6 +7709,24 @@
       "duration_ms": 180028,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz"
+    },
+    {
+      "album": {
+        "name": "Maybe Love",
+        "url": "https://open.spotify.com/album/4YSQjDdAxbWbuZNwU36BUT"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/0Co1iSj5JPAHPnyPBynYpr"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158682,
+      "name": "Maybe Love",
+      "url": "https://open.spotify.com/track/4chYGJ4RxKLpW5DqrYu93f"
     },
     {
       "album": {
@@ -8701,7 +8791,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 264240,
       "name": "Over and over",
       "url": "https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6"
@@ -8849,7 +8939,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 164466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
@@ -8943,7 +9033,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 153337,
       "name": "Peach Fuzz (with Cybertrash)",
       "url": "https://open.spotify.com/track/29g7yGRGy3hPrK498O9flE"
@@ -9433,10 +9523,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 219400,
       "name": "Randall Flagg",
       "url": "https://open.spotify.com/track/4eRoGhykyQCIzhOaFf35zX"
+    },
+    {
+      "album": {
+        "name": "Rats",
+        "url": "https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145947,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF"
     },
     {
       "album": {
@@ -9595,7 +9703,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 217712,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa"
@@ -9837,7 +9945,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
@@ -9913,7 +10021,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 187453,
       "name": "Sell Out",
       "url": "https://open.spotify.com/track/5aWaPqgkheottumavM0tix"
@@ -10559,7 +10667,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095"
@@ -11060,6 +11168,24 @@
     },
     {
       "album": {
+        "name": "Into The Rift (Deluxe)",
+        "url": "https://open.spotify.com/album/19ozV4Q1V0zC1KYBlnwbHU"
+      },
+      "artists": [
+        {
+          "name": "Quarters of Change",
+          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359319,
+      "name": "T Love - Extended",
+      "url": "https://open.spotify.com/track/1qmBJijlYA148svgU0herL"
+    },
+    {
+      "album": {
         "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
         "url": "https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T"
       },
@@ -11364,6 +11490,24 @@
     },
     {
       "album": {
+        "name": "The Dominoes",
+        "url": "https://open.spotify.com/album/4G8DoAVoxRS29Sdqic53B2"
+      },
+      "artists": [
+        {
+          "name": "Mustard Service",
+          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132048,
+      "name": "The Dominoes",
+      "url": "https://open.spotify.com/track/1xagIgxxNQre8ZhWjMTOdz"
+    },
+    {
+      "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa"
       },
@@ -11433,7 +11577,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 190916,
       "name": "The Other Way",
       "url": "https://open.spotify.com/track/72tFZO4vGmXJvjG62rnpWI"
@@ -11613,7 +11757,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
@@ -11782,6 +11926,24 @@
     },
     {
       "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/5dOHA7hURlAbccdgpxmhP7"
+      },
+      "artists": [
+        {
+          "name": "Improvement Movement",
+          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200869,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/7aJxfa4BHhXR9mfexEbLEc"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd"
       },
@@ -11811,7 +11973,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
@@ -11865,7 +12027,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 199263,
       "name": "To Let Go",
       "url": "https://open.spotify.com/track/7ybxuSL3NzBDlshVO9Vhul"
@@ -12089,7 +12251,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 192903,
       "name": "tough love",
       "url": "https://open.spotify.com/track/2wFmtAhnsyiGkvqV229rfJ"
@@ -12201,7 +12363,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 270530,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5"
@@ -12637,7 +12799,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
@@ -12817,7 +12979,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 247893,
       "name": "What Do We Do Now?",
       "url": "https://open.spotify.com/track/06HgiR8nOgQaXuQQdGQbS9"
@@ -13153,7 +13315,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 185944,
       "name": "Wonderful Life - Edit",
       "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"

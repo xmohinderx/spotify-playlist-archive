@@ -4,7 +4,7 @@
 
 > Discover fresh new Pakistani indie tracks\. Cover \- Hassan & Roshaan
 
-250 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/194Tgkv1OO1EGm3LAXJi6q)
+251 songs - 13 hr 41 min - [published](https://open.spotify.com/playlist/194Tgkv1OO1EGm3LAXJi6q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [paraya](https://open.spotify.com/track/274zwziudqNmktxN4XidD8) | [Haider Omar](https://open.spotify.com/artist/3IMy2LO7SvsZRz9xwa309o) | [paraya](https://open.spotify.com/album/0QPe9vgRdwCUBUXkLqQwfg) | 3:25 | 2022-11-17 |  |
 | [Parinday](https://open.spotify.com/track/2SpdhtlIioMnIvtB5QHtoC) | [Asad Farooqui](https://open.spotify.com/artist/0OkmwgWURKfXosyChuo9Kj) | [Parinday](https://open.spotify.com/album/2pzGbUC9jJnTKusb2Xmws7) | 2:23 | 2022-10-26 | 2022-11-18 |
 | [Passion](https://open.spotify.com/track/6ZVmg0Nhfziqb5SDpbzlZo) | [Aash Rohan](https://open.spotify.com/artist/51KCTzPrYvC62BSQ8AZEvA) | [Passion](https://open.spotify.com/album/3kFNX5wRXckkjDpBqbHyIf) | 3:28 | 2022-10-26 | 2022-11-18 |
+| [Pill to pop](https://open.spotify.com/track/7roNHaPH6I1zvkRDtVias2) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx) | [Pill to pop](https://open.spotify.com/album/0fAxb2s1j7OK883DBuJiMy) | 4:28 | 2022-11-17 |  |
 | [Piya](https://open.spotify.com/track/3NMt80oryb67S2u2siw0Wm) | [Danish Faruqi](https://open.spotify.com/artist/4QhWLeCCm0gxHSs8iccOMe), [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [Falling Into Place](https://open.spotify.com/album/6DPpPM97ENwbWiXk9Ns5Jp) | 2:46 | 2022-11-17 |  |
 | [Priorities](https://open.spotify.com/track/2p5VQ34ibwZBvS4Cf3mbCX) | [Hashim Ishaq](https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot), [Kh44ki](https://open.spotify.com/artist/0kIqArPHBqFq0pf69pVd4x) | [Priorities](https://open.spotify.com/album/284LMQFFiWf59NpZ8AMFgC) | 2:45 | 2022-08-27 | 2022-09-24 |
 | [PSYCHO](https://open.spotify.com/track/2R7k8UIcHPTz4OmcSlwgiL) | [SHERRY](https://open.spotify.com/artist/2jBLgixVIe3718HCpO4kE0), [Asfand](https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX) | [PSYCHO](https://open.spotify.com/album/0RhHTJiFoQWyWIl03k8h3T) | 3:17 | 2022-10-26 | 2022-11-18 |

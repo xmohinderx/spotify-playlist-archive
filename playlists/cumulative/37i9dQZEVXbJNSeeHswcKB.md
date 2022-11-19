@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-805 songs - 1 day 20 hr 46 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+806 songs - 1 day 20 hr 48 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 Op Een Miljoen](https://open.spotify.com/track/1Ox6RIOerYvgRH9AxIl4DO) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [1 Op Een Miljoen](https://open.spotify.com/album/7vhYasDgXpdyjwVaFvt95z) | 3:18 | 2021-03-27\* | 2021-07-04 |
 | [1,2,3](https://open.spotify.com/track/7uCLrBdy5FH6T7vcJzqRd7) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [1,2,3](https://open.spotify.com/album/484D9KRWoTWTzghknHQd1Q) | 3:45 | 2021-04-18 | 2021-04-26 |
 | [10 Years](https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [10 Years](https://open.spotify.com/album/2Zegz0LaKZgwrLo5UbEa2x) | 2:46 | 2021-05-25 | 2021-05-31 |
+| [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-18 |  |
 | [1234](https://open.spotify.com/track/4abfmTMCQDA1VPamAm3c3j) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [1234](https://open.spotify.com/album/6BZsyoNy3jVxvFCT614Zrb) | 2:34 | 2022-03-12 | 2022-04-10 |
 | [140G](https://open.spotify.com/track/61t1k1kGqdDWz6Ln1ShdWO) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:02 | 2021-11-07 | 2021-11-08 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/13Irp51zj01BZu2XtDrnAg) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1KtDsGsSRGbnmH07v5hB1I) | 3:07 | 2022-11-10 |  |
@@ -730,7 +731,7 @@
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-23 | 2022-07-25 |
 | [UHUH](https://open.spotify.com/track/5feza64dOl5JSSiuFsqrZq) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [UHUH](https://open.spotify.com/album/5Ao4GADlAfFiblhJ7nBani) | 2:55 | 2021-08-25 | 2021-11-07 |
 | [UHUH](https://open.spotify.com/track/6tDA5289CCJ4S4wiZPMLuN) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Talou](https://open.spotify.com/album/5nTBO5C2cKIypuPSleM2IW) | 2:55 | 2021-11-07 | 2022-01-05 |
-| [Uit Mijn Hoofd](https://open.spotify.com/track/2RHbwWdj7mVUhJRxlTG6iq) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li) | [Uit Mijn Hoofd](https://open.spotify.com/album/6RPTKxEHOGAhXiZafLb3v8) | 2:48 | 2022-09-22 |  |
+| [Uit Mijn Hoofd](https://open.spotify.com/track/2RHbwWdj7mVUhJRxlTG6iq) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li) | [Uit Mijn Hoofd](https://open.spotify.com/album/6RPTKxEHOGAhXiZafLb3v8) | 2:48 | 2022-09-22 | 2022-11-19 |
 | [Un jour je marierai un ange](https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 2:45 | 2022-08-03 | 2022-08-08 |
 | [Un mot](https://open.spotify.com/track/2OtS79y1U6ZbuHkP4AzFs0) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 3:36 | 2022-02-05 | 2022-02-07 |
 | [UN RÊVE ÉTRANGE](https://open.spotify.com/track/0L1JUpc6bjrBvK9pqMTGcb) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:56 | 2021-07-18 | 2021-07-19 |

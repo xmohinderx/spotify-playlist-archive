@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Ronnie Dunn
 
-160 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
+161 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [The Man With The Bag](https://open.spotify.com/track/69na0xxAPt8fu1ULPF1ML9) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Season For Romance](https://open.spotify.com/album/0pu8HcgAXHkgPAiSUqu4NR) | 2:30 | 2021-12-16 |  |
 | [The Secret Of Giving](https://open.spotify.com/track/4OBRIQRdCSNYqftjhIOhj6) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [20th Century Masters: Christmas Collection: Reba McEntire](https://open.spotify.com/album/2B61H2y1GiWxdIjXv1O0KE) | 3:54 | 2021-12-16 |  |
 | [The Twelve Days of Christmas \(feat\. Olivia & Audrey\)](https://open.spotify.com/track/0GYSqKlbhb9vGF3GYtND27) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Olivia](https://open.spotify.com/artist/0YY6bnp0jhZNKxrjLgSO6i), [Audrey](https://open.spotify.com/artist/6GPOb4QCKjVYrM5GhB2In6) | [At Christmas](https://open.spotify.com/album/0d2rN27soyxNpL1c87aCKP) | 4:24 | 2021-12-16 |  |
+| [There's A New Kid In Town](https://open.spotify.com/track/2ne8u5exMLNVd35NCSszEU) | [Buddy Jewell](https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS) | [There's A New Kid In Town](https://open.spotify.com/album/7LdLdYeSwwfVup5BiOC2Cz) | 4:07 | 2022-11-18 |  |
 | [There's No Place Like Home](https://open.spotify.com/track/04ZBG6160XeIuM8DHi2U2P) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Christmas](https://open.spotify.com/album/7FTOK16cl28fhMAY0oLbqf) | 3:15 | 2021-12-16 |  |
 | [Thistlehair The Christmas Bear](https://open.spotify.com/track/0xs5fQ4jGuUZUk0n6tIFjX) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Alabama Christmas](https://open.spotify.com/album/79TXvxe8sSiIPCCFs6XVac) | 4:05 | 2021-12-16 | 2022-11-18 |
 | [Til The Season Comes Around Again](https://open.spotify.com/track/5R8axk9i5dN5ofIinsxYcn) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Let There Be Peace On Earth](https://open.spotify.com/album/6VYEg0G3aXwANUdI9knq1r) | 4:11 | 2021-12-16 | 2022-11-18 |

@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 202537,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/3ViVcddn0319dI9dw17y5n"
@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Somewhere in New York",
+        "url": "https://open.spotify.com/album/3vnZq5RfAud6eglpxcc035"
+      },
+      "artists": [
+        {
+          "name": "John Splithoff",
+          "url": "https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "Somewhere in New York",
+      "url": "https://open.spotify.com/track/7aDCH8TKuA5auDD5nmSexb"
+    },
+    {
+      "album": {
         "name": "Hot Dads in Tight Jeans",
         "url": "https://open.spotify.com/album/6UPvt5EJIuI3uCpnwgoOJ6"
       },
@@ -908,6 +926,24 @@
     },
     {
       "album": {
+        "name": "The World",
+        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
+    },
+    {
+      "album": {
         "name": "Ticket To Shangri-La",
         "url": "https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx"
       },
@@ -973,7 +1009,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 161803,
       "name": "Villa",
       "url": "https://open.spotify.com/track/42DzViBjJl5he25R02T5WH"

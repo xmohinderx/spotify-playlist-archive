@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-251 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
+253 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Auld Lang Syne](https://open.spotify.com/track/6Q90kBnnL27pCMjIhP4k2Y) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Silver & Gold](https://open.spotify.com/album/0AVvBrOZ4Hy3yCW8SguJLy) | 1:34 | 2021-12-24 | 2022-07-29 |
 | [Auld Lang Syne](https://open.spotify.com/track/7BrJnP8DsNAujoXPZAOylC) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Silver & Gold](https://open.spotify.com/album/44F2QKfMCpbLH8qvQLEVTw) | 1:34 | 2021-12-24 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Auld Lang Syne](https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y) | 4:22 | 2021-12-24 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/5lCpu4mVtJtqTAvuyTCfvm) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Auld Lang Syne](https://open.spotify.com/album/0NtG3wF1OMkitdXQsJ3cgm) | 3:32 | 2022-11-18 |  |
 | [Avalanche](https://open.spotify.com/track/0Kyxsaxjph9rfEru2uXIGu) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/16ZBD2rfhcmite2xZ4prJT) | 4:25 | 2021-12-24 |  |
 | [Avalanche](https://open.spotify.com/track/6jBGH36Ue2beiIFrjakDkX) | [Handsome and Gretyl](https://open.spotify.com/artist/0iq2gAVITbmXak4aIiNre3) | [Miles and Miles](https://open.spotify.com/album/2aGQYE2YiaM44GKTBTOFLc) | 4:25 | 2021-12-24 | 2022-07-29 |
 | [Away in a Manger](https://open.spotify.com/track/71QJmnikBUIwP97sk8KSg5) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Christmas Songs](https://open.spotify.com/album/5sTk7csBMRu9jPsxnJkev3) | 2:39 | 2021-12-24 |  |
@@ -230,6 +231,7 @@
 | [This Love Won't Break Your Heart](https://open.spotify.com/track/0rKjJB90TZ62o8npz8QEn3) | [Annalise Emerick](https://open.spotify.com/artist/4Kbdxhpo7iI1mEe69zxw3V) | [Starry\-Eyed](https://open.spotify.com/album/2FrFkBqF1fGQv4Rz84DcAK) | 4:48 | 2021-12-24 |  |
 | [Tracks in the Snow](https://open.spotify.com/track/4mxbwJfgB1Ba64OurGx4bT) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks in the Snow](https://open.spotify.com/album/2b2J83VmJmpvKX9TEPDKa9) | 3:50 | 2021-12-24 |  |
 | [Tracks In the Snow](https://open.spotify.com/track/5KsZSksgeYi3RxIoAAcy5l) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Tracks In the Snow](https://open.spotify.com/album/28Fqt02jcDyoi6EfOMy8kQ) | 3:50 | 2021-12-24 | 2022-07-29 |
+| [Trim This Tree](https://open.spotify.com/track/4zDOxq3WyPmTu9GNFP8g8Y) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Trim This Tree](https://open.spotify.com/album/1RtkLK0XliS3tzDHGCZoGm) | 3:55 | 2022-11-18 |  |
 | [Two Turtle Doves](https://open.spotify.com/track/6PpfkY5MeUG8bFHfWIBl1Q) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/2GoRc0TJhQKgrFYnvI8yja) | 4:10 | 2021-12-24 | 2022-07-29 |
 | [Two Turtle Doves](https://open.spotify.com/track/0otPi3y1f7sSWgHGo42ep0) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:10 | 2021-12-24 |  |
 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 | 2021-12-24 |  |

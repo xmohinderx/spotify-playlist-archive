@@ -4,7 +4,7 @@
 
 > Focus, study or let yourself daydream to these atmospheric, instrumental tracks.
 
-130 songs - 5 hr 38 min - not published yet
+131 songs - 5 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Take Your Time](https://open.spotify.com/track/2aS5EZDlaH4LlHOIp2G20j) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Take Your Time](https://open.spotify.com/album/6oYJbMWHqw6Vw2kEnvXv5x) | 2:18 | 2022-07-29 | 2022-11-08 |
 | [The Blue Pill](https://open.spotify.com/track/29oJ8O4YMku1QeG4r0NwyF) | [IOXOI](https://open.spotify.com/artist/07V7KDp54JyxHnr3vFoKI9) | [Earth Before We Landed](https://open.spotify.com/album/57bKb2sA1M3wZaM5OBuiFt) | 2:34 | 2022-07-29 | 2022-11-08 |
 | [The Dust Settles](https://open.spotify.com/track/6kwm8CLmGyyONSP4FKZGM5) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Emotional Landscapes](https://open.spotify.com/album/1cLr4O2FWKm3rDLYFcAsAP) | 3:20 | 2022-07-29 | 2022-11-08 |
+| [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-11-18 |  |
 | [The North Wind \- Daigo Hanada Re\-work](https://open.spotify.com/track/3oM82Zz63KrnYQ0ZaTTQ9l) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [The North Wind \(Daigo Hanada Re\-work\)](https://open.spotify.com/album/1LjC5SMuxGzphoo6e9KEG5) | 1:55 | 2022-07-29 |  |
 | [The Star in My Life](https://open.spotify.com/track/7aMBuqlqE1riUrjYw5sZHf) | [Erasmus Talbot](https://open.spotify.com/artist/2P5kUKkNT67xnSyi3bBOoB) | [Emotional Landscapes](https://open.spotify.com/album/1cLr4O2FWKm3rDLYFcAsAP) | 3:57 | 2022-07-29 | 2022-11-08 |
 | [The Streets of Belgrade](https://open.spotify.com/track/57zYO8q3f19ksGdHcCFpk9) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:21 | 2022-07-29 | 2022-11-08 |

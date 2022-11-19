@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Jordana Bryant
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,396 likes - 147 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,394 likes - 147 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 146 | [Couldn't Care Less](https://open.spotify.com/track/6Rk9YL0M14ofFwYKJKwUTc) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Thank God For All The Boys](https://open.spotify.com/album/6XEhHN6bknsDNn0Y8OCP0Z) | 3:08 |
 | 147 | [Broke It Down](https://open.spotify.com/track/6ZdihJGxUzaM8BHCpSWLxO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down](https://open.spotify.com/album/6qRYlTlWMwzlhGqiE9w7yR) | 3:21 |
 
-Snapshot ID: `MTY2NzQwMDY4NiwwMDAwMDAwMDRiNDJmNWI1NzI0MTdkNTYyYjFhNGQyMTJmMGFlYzFj`
+Snapshot ID: `MTY2ODc0NzYwMCwwMDAwMDAwMGRiMGE3NjQ0NGNhZTU1MjU3MzAxZTBkMTM4MDJhYWQ3`

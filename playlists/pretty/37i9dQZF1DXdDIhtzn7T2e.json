@@ -1,12 +1,12 @@
 {
   "description": "Let these country tunes light up your day",
-  "num_followers": 77140,
+  "num_followers": 77149,
   "original_name": "Greener Pastures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNjQ1OSwwMDAwMDAwMDE4ZTIwMGQ0OTg5Njc3MjYxYzRkZjBiNTJjNzNhNDM4",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDI5MzgxZjc0ZTNkZWU4OWQzZTE5MDRmNmE2NTc2N2Qy",
   "tracks": [
     {
       "added_at": "2022-09-23 04:14:19",
@@ -87,6 +87,26 @@
       "duration_ms": 280786,
       "name": "Whitehouse Road",
       "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "High Note",
+        "url": "https://open.spotify.com/album/1iwbuKHLtUyZj27h3LfOgy"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 333746,
+      "name": "High Note",
+      "url": "https://open.spotify.com/track/6kzRcQ73LtwfTMwHm1vJT7"
     },
     {
       "added_at": "2022-09-23 04:14:19",

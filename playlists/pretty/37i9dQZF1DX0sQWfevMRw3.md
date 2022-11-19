@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Ahh ingen gör det som oss!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,015 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,889 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hjerteløs](https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Hjerteløs](https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV) | 2:17 |
-| 2 | [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 |
-| 3 | [CHEVA PÅ FREDAG](https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [CHEVA PÅ FREDAG](https://open.spotify.com/album/3PPJzp8UYVzn3h1evPqtSV) | 2:24 |
-| 4 | [Dubbel D](https://open.spotify.com/track/2jAGW5r4OfOJ8gj8qGUWVL) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF), [Blondini](https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK) | [Dubbel D](https://open.spotify.com/album/2mOFC1Py1sxaE0kZrAS2pe) | 2:09 |
-| 5 | [NÄR RADION DÅNAR](https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [NÄR RADION DÅNAR](https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO) | 2:10 |
-| 6 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 |
-| 7 | [Skavlan](https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Skavlan](https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b) | 1:55 |
+| 2 | [Skavlan](https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Skavlan](https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b) | 1:55 |
+| 3 | [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 |
+| 4 | [CHEVA PÅ FREDAG](https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [CHEVA PÅ FREDAG](https://open.spotify.com/album/3PPJzp8UYVzn3h1evPqtSV) | 2:24 |
+| 5 | [Dubbel D](https://open.spotify.com/track/2jAGW5r4OfOJ8gj8qGUWVL) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF), [Blondini](https://open.spotify.com/artist/0l5Z38yckkLZE55rEUZtVK) | [Dubbel D](https://open.spotify.com/album/2mOFC1Py1sxaE0kZrAS2pe) | 2:09 |
+| 6 | [NÄR RADION DÅNAR](https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [NÄR RADION DÅNAR](https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO) | 2:10 |
+| 7 | [F\*CKED UP!](https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [F\*CKED UP!](https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji) | 2:47 |
 | 8 | [NU KOMMER RYSSARNA](https://open.spotify.com/track/1IHBwFLDN4XDFhNKDPCIn5) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [NU KOMMER RYSSARNA](https://open.spotify.com/album/5CPqkz8G22B6U0zLcNhdLX) | 3:04 |
 | 9 | [Skål & Tack](https://open.spotify.com/track/07JH4yIXnLNxh1Zy1E5Dj2) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC) | [Skål & Tack](https://open.spotify.com/album/6cT3Df9U57WnYIs5p48StR) | 3:14 |
 | 10 | [UTE PÅ TURNÈ](https://open.spotify.com/track/2ziRm30vDdywx9TENlCXfe) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [UTE PÅ TURNÈ](https://open.spotify.com/album/4hbe8VqyFa2AmvGyvPCNnZ) | 1:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Trombone](https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Trombone](https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT) | 2:46 |
 | 100 | [Uppe Hela Natten](https://open.spotify.com/track/6t1VM2Scy6n5911yELH3KT) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Uppe Hela Natten](https://open.spotify.com/album/6kwKhsvbUBtYLnoM4rio5t) | 2:30 |
 
-Snapshot ID: `MTY2ODcyNjA2MCwwMDAwMDAwMDNiOWZiYjZmZDgxNzFhMjg2NzY1MWU4NzU2MzNjNjNk`
+Snapshot ID: `MTY2ODc2MzE4MiwwMDAwMDAwMDk3NTRmYzg4Mjk3NDQxYzI4ZDI5MjEyNTJlYjA3YTZh`

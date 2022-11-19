@@ -132,6 +132,28 @@
     },
     {
       "album": {
+        "name": "Alaska (feat. Lil Noon)",
+        "url": "https://open.spotify.com/album/5yFe19c0ujPY5LbRS86qEW"
+      },
+      "artists": [
+        {
+          "name": "tripsyhell",
+          "url": "https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB"
+        },
+        {
+          "name": "Lil Noon",
+          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136294,
+      "name": "Alaska (feat. Lil Noon)",
+      "url": "https://open.spotify.com/track/1ipbuOPR6zoE5KS4r7OI1B"
+    },
+    {
+      "album": {
         "name": "Anan\u00e1s",
         "url": "https://open.spotify.com/album/5MjlR3MAEEhMzwkyWGBLIj"
       },
@@ -1081,7 +1103,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-19",
       "duration_ms": 216000,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub"
